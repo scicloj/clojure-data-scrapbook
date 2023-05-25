@@ -1,0 +1,11 @@
+project:
+  type: book
+
+format:
+  html:
+    theme: cosmo
+
+book:
+  title: "Clojure Data Scrapbook"
+  chapters:
+    - index.qmd

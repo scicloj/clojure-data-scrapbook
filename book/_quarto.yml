@@ -1,0 +1,14 @@
+project:
+  type: book
+
+format:
+  html:
+    theme: cosmo
+
+book:
+  title: "Clojure Data Scrapbook"
+  chapters:
+    - index.qmd
+    - copies_of_projects/hdf/docs/scrapbook/data/hdf_quarto.qmd
+    - copies_of_projects/main/docs/scrapbook/python_quarto.qmd
+    - copies_of_projects/main/docs/scrapbook/visualization_quarto.qmd
