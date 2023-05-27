@@ -7,7 +7,10 @@
             [scicloj.kindly.v3.api :as kindly]
             [scicloj.kindly.v3.kind :as kind]
             [hiccup.core :as hiccup]
-            hiccup.util))
+            hiccup.util
+            [scicloj.kind-clerk.api :as kind-clerk]))
+
+(kind-clerk/setup!)
 
 ;; # Data visualization
 
