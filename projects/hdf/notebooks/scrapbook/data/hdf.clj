@@ -2,7 +2,9 @@
   (:require [babashka.fs :as fs]
             [tech.v3.tensor :as tensor]
             [clojure.java.io :as io]
-            [clojure.string :as string])
+            [clojure.string :as string]
+            [scicloj.noj.v1.vis.image :as vis.image]
+            [tech.v3.datatype.functional :as fun])
   (:import io.jhdf.HdfFile
            java.io.File))
 
@@ -31,3 +33,13 @@
 (count tensors)
 
 (take 3 tensors)
+
+(->> tensors
+     (take 3)
+     (mapcat (fn [row]
+               [row
+                (-> row
+                    :data
+                    (fun/* 200)
+                    (vis.image/tensor->image
+                     :ushort-gray))])))
