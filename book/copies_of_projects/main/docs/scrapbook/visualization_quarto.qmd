@@ -49,6 +49,7 @@ tr:nth-child(even) {
 ```clojure
 (ns scrapbook.visualization
   (:require [tablecloth.api :as tc]
+            [aerial.hanami.common :as hc]
             [aerial.hanami.templates :as ht]
             [scicloj.noj.v1.vis :as vis]
             [tech.v3.datatype :as dtype]
@@ -56,32 +57,84 @@ tr:nth-child(even) {
             [scicloj.kindly.v3.api :as kindly]
             [scicloj.kindly.v3.kind :as kind]
             [hiccup.core :as hiccup]
-            hiccup.util))
+            hiccup.util
+            [scicloj.kind-clerk.api :as kind-clerk]))
 ```
 </div>
 
 
 <div id="widget1">...</div>
 
+<div class="originalCode">
+```clojure
+(kind-clerk/setup!)
+```
+</div>
+
+
+
+<div class="printedClojure">
+```clojure
+:ok
+
+```
+</div>
+
+
 # Data visualization
+
+<div class="originalCode">
+```clojure
+(def dataset1
+  (let [n 19]
+    (tc/dataset
+     {:x (range n)
+      :y (map +
+              (range n)
+              (repeatedly n rand))})))
+```
+</div>
+
+
+<div id="widget6">...</div>
+
+<div class="originalCode">
+```clojure
+dataset1
+```
+</div>
+
+
+<div id="widget8">...</div>
 
 ## Visualizing datases with Hanami
 
 <div class="originalCode">
 ```clojure
-(let [n 19]
-  (-> {:x (range n)
-       :y (map +
-               (range n)
-               (repeatedly n rand))}
-      tc/dataset
-      (vis/hanami-plot ht/point-chart
-                       :MSIZE 200)))
+(kind/vega-lite
+ (hc/xform ht/point-chart
+           :DATA (-> dataset1
+                     (tc/rows :as-maps)
+                     vec)
+           :MSIZE 200))
 ```
 </div>
 
 
-<div id="widget4">...</div>
+<div id="widget11">...</div>
+
+## Visualizing datases with Hanami using Noj
+
+<div class="originalCode">
+```clojure
+(-> dataset1
+    (vis/hanami-plot ht/point-chart
+                     :MSIZE 200))
+```
+</div>
+
+
+<div id="widget14">...</div>
 
 <div class="originalCode">
 ```clojure
@@ -5664,11 +5717,17 @@ function(e,t){var n={};for(var o in e)Object.prototype.hasOwnProperty.call(e,o)&
 (defn compute [form] (if-let [result ((clojure.core/deref *cache) form)] result (do (POST "/compute" {:headers {"Accept" "application/json"}, :params (pr-str {:form form}), :handler (fn [response] (swap! *cache assoc form (read-string response)) (.log js/console (pr-str (clojure.core/deref *cache)))), :error-handler (fn [e] (.log js/console (str "error on compute: " e)))}) [:div [:p "computing"] [:pre [:code (pr-str form)]] [:div.loader]])))
 (defn refresh-page [] (.reload js/location))
 (ns main (:require [reagent.core :as r] [reagent.dom :as dom] [ajax.core :refer [GET POST]] [clojure.string :as string] [scicloj.clay :as clay]))
-(GET "/counter" {:handler (fn [response] (when (not= response (clojure.core/str 6)) (clay/refresh-page))), :error-handler (fn [e] (.log js/console (str "error on counter: " e)))})
+(GET "/counter" {:handler (fn [response] (when (not= response (clojure.core/str 37)) (clay/refresh-page))), :error-handler (fn [e] (.log js/console (str "error on counter: " e)))})
 (def data (quote nil))
-(let [socket (js/WebSocket. (clojure.core/str "ws://localhost:" 1972))] (.addEventListener socket "open" (fn [event] (.send socket "Hello Server!"))) (.addEventListener socket "message" (fn [event] (case (.-data event) "refresh" (clay/refresh-page) (println [:unknown-ws-message (.-data event)])))))
+(let [socket (js/WebSocket. (clojure.core/str "ws://localhost:" 1971))] (.addEventListener socket "open" (fn [event] (.send socket "Hello Server!"))) (.addEventListener socket "message" (fn [event] (case (.-data event) "refresh" (clay/refresh-page) (println [:unknown-ws-message (.-data event)])))))
 (defn vega [spec] [:div {:ref (fn [el] (-> el (js/vegaEmbed (clj->js spec) (clj->js {:renderer :svg})) (.then (fn [res])) (.catch (fn [err] (println (str "vegaEmbed error: " err))))))}])
 (def widget1 nil)
 (dom/render (fn [] widget1) (.getElementById js/document "widget1"))
-(def widget4 [:div [:div [vega (quote {:encoding {:y {:field "y", :type "quantitative"}, :x {:field "x", :type "quantitative"}}, :mark {:type "circle", :size 200, :tooltip true}, :width 400, :background "floralwhite", :height 300, :data {:values "x,y\n0,0.5829013276152686\n1,1.2946206538787823\n2,2.457054374091241\n3,3.457674403916491\n4,4.219003278117636\n5,5.008062637107899\n6,6.454152674428556\n7,7.09648603101632\n8,8.145278973127589\n9,9.801993518287972\n10,10.422754575821692\n11,11.68068707284754\n12,12.985867491698256\n13,13.502221786900053\n14,14.467196621197152\n15,15.448825292270868\n16,16.380156114205086\n17,17.178289167383067\n18,18.020095875855\n", :format {:type "csv"}}})]]])
-(dom/render (fn [] widget4) (.getElementById js/document "widget4"))</script></div>
+(def widget6 nil)
+(dom/render (fn [] widget6) (.getElementById js/document "widget6"))
+(def widget8 [:div [:code [:div [:div [:p "_unnamed [19 2]:"] [:table [:thead [:tr [:th {:style {:text-align "right"}} ":x"] [:th {:style {:text-align "right"}} ":y"]]] [:tbody [:tr [:td {:style {:text-align "right"}} "0"] [:td {:style {:text-align "right"}} "0.05726313"]] [:tr [:td {:style {:text-align "right"}} "1"] [:td {:style {:text-align "right"}} "1.52186140"]] [:tr [:td {:style {:text-align "right"}} "2"] [:td {:style {:text-align "right"}} "2.94322134"]] [:tr [:td {:style {:text-align "right"}} "3"] [:td {:style {:text-align "right"}} "3.55477241"]] [:tr [:td {:style {:text-align "right"}} "4"] [:td {:style {:text-align "right"}} "4.33670826"]] [:tr [:td {:style {:text-align "right"}} "5"] [:td {:style {:text-align "right"}} "5.46555700"]] [:tr [:td {:style {:text-align "right"}} "6"] [:td {:style {:text-align "right"}} "6.84107602"]] [:tr [:td {:style {:text-align "right"}} "7"] [:td {:style {:text-align "right"}} "7.69633271"]] [:tr [:td {:style {:text-align "right"}} "8"] [:td {:style {:text-align "right"}} "8.03280450"]] [:tr [:td {:style {:text-align "right"}} "9"] [:td {:style {:text-align "right"}} "9.58067256"]] [:tr [:td {:style {:text-align "right"}} "10"] [:td {:style {:text-align "right"}} "10.30831610"]] [:tr [:td {:style {:text-align "right"}} "11"] [:td {:style {:text-align "right"}} "11.61117700"]] [:tr [:td {:style {:text-align "right"}} "12"] [:td {:style {:text-align "right"}} "12.07873332"]] [:tr [:td {:style {:text-align "right"}} "13"] [:td {:style {:text-align "right"}} "13.56784006"]] [:tr [:td {:style {:text-align "right"}} "14"] [:td {:style {:text-align "right"}} "14.32429778"]] [:tr [:td {:style {:text-align "right"}} "15"] [:td {:style {:text-align "right"}} "15.23831336"]] [:tr [:td {:style {:text-align "right"}} "16"] [:td {:style {:text-align "right"}} "16.40097218"]] [:tr [:td {:style {:text-align "right"}} "17"] [:td {:style {:text-align "right"}} "17.79891434"]] [:tr [:td {:style {:text-align "right"}} "18"] [:td {:style {:text-align "right"}} "18.07378101"]]]]]]]])
+(dom/render (fn [] widget8) (.getElementById js/document "widget8"))
+(def widget11 [:div [:div [vega (quote {:encoding {:y {:field "y", :type "quantitative"}, :x {:field "x", :type "quantitative"}}, :mark {:type "circle", :size 200, :tooltip true}, :width 400, :background "floralwhite", :height 300, :data {:values [{:x 0, :y 0.05726313151529272} {:x 1, :y 1.5218614017790486} {:x 2, :y 2.9432213404389382} {:x 3, :y 3.5547724068174102} {:x 4, :y 4.3367082577594385} {:x 5, :y 5.465557003713477} {:x 6, :y 6.841076021260484} {:x 7, :y 7.696332714659876} {:x 8, :y 8.032804504197852} {:x 9, :y 9.580672559903904} {:x 10, :y 10.308316104487607} {:x 11, :y 11.611177000628501} {:x 12, :y 12.078733321367698} {:x 13, :y 13.56784005742538} {:x 14, :y 14.32429777981164} {:x 15, :y 15.238313356755095} {:x 16, :y 16.400972182676476} {:x 17, :y 17.798914336250277} {:x 18, :y 18.07378100758757}]}})]]])
+(dom/render (fn [] widget11) (.getElementById js/document "widget11"))
+(def widget14 [:div [:div [vega (quote {:encoding {:y {:field "y", :type "quantitative"}, :x {:field "x", :type "quantitative"}}, :mark {:type "circle", :size 200, :tooltip true}, :width 400, :background "floralwhite", :height 300, :data {:values "x,y\n0,0.05726313151529272\n1,1.5218614017790486\n2,2.9432213404389382\n3,3.5547724068174102\n4,4.3367082577594385\n5,5.465557003713477\n6,6.841076021260484\n7,7.696332714659876\n8,8.032804504197852\n9,9.580672559903904\n10,10.308316104487607\n11,11.611177000628501\n12,12.078733321367698\n13,13.56784005742538\n14,14.32429777981164\n15,15.238313356755095\n16,16.400972182676476\n17,17.798914336250277\n18,18.07378100758757\n", :format {:type "csv"}}})]]])
+(dom/render (fn [] widget14) (.getElementById js/document "widget14"))</script></div>
