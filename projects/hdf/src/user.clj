@@ -7,3 +7,8 @@
 
 ;; Start Clay.
 (clay/start!)
+
+(clay/swap-options!
+ assoc
+ :remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
+               :branch "main"})
