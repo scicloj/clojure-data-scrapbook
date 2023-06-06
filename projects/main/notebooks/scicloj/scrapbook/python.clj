@@ -47,6 +47,3 @@
                  :hue "smoker"
                  :style "smoker"
                  :size "size")))
-
-
-:bye

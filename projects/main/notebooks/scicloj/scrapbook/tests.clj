@@ -1,13 +1,14 @@
 (ns scicloj.scrapbook.tests
   (:require [tablecloth.api :as tc]
             [scicloj.kindly.v3.kind :as kind]
-            [scicloj.clay.v2.api :as clay]))
+            [scicloj.clay.v2.api :as clay
+             :refer [is->]]))
 
 ;; ## Tests
 
 ;; ### clojure.test
 
-;; Clay offers a few features supporting the use of standard Clojure tests.
+;; Standard Clojure tests may be integrated into notebooks.
 
 (require '[clojure.test :refer [deftest is]])
 
@@ -33,17 +34,15 @@
       is)
   test-dataset)
 
-;; The `clay/is->` function allows performing a few checks in a pipeline
+;; The `is->` function allows performing a few checks in a pipeline
 ;; and returning a different value to be displayed:
 
 (deftest mytest3
   (-> 2
       (+ 3)
-      (clay/is-> > 4)
+      (is-> > 4)
       (* 10)
-      (clay/is-> = 50)
+      (is-> = 50)
       (* 10)))
 
 ;; These features open the way for literate testing / testable documentation solutions, such as those we have been using in the past (e.g., in [tutorials](https://scicloj.github.io/clojisr/doc/clojisr/v1/tutorial-test/) of ClojisR using Notespace v2).
-
-:bye

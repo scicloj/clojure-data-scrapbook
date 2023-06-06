@@ -34,6 +34,3 @@ dataset1
 (-> dataset1
     (vis/hanami-plot ht/point-chart
                      :MSIZE 200))
-
-
-:bye
