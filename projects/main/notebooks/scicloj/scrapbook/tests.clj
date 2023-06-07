@@ -49,7 +49,10 @@
 ;; ## Example
 
 ;; The following is an adaptation of a little part of the [Tablecloth documentation](https://scicloj.github.io/tablecloth/).
+;;
 ;; We started adding calls to `dettest` and `is->` to see how these things feel and how much they do or do not interfere with the reading experience.
+;;
+;; See the [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/testable.20docs.20.2F.20literate.20testing);
 
 (def DS (tc/dataset {:V1 (take 9 (cycle [1 2]))
                      :V2 (range 1 10)
