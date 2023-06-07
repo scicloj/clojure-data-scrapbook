@@ -1,3 +1,5 @@
+;; # Data visualization
+
 (ns scicloj.scrapbook.visualization
   (:require [tablecloth.api :as tc]
             [aerial.hanami.common :as hc]
@@ -10,7 +12,6 @@
             [hiccup.core :as hiccup]
             hiccup.util))
 
-;; # Data visualization
 
 (def dataset1
   (let [n 19]

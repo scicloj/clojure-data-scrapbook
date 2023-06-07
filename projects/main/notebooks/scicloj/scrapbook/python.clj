@@ -1,3 +1,5 @@
+;; # Python interop
+
 (ns scicloj.scrapbook.python
   (:require [tablecloth.api :as tc]
             [scicloj.noj.v1.vis.python :as vis.python]
@@ -10,7 +12,6 @@
             [hiccup.core :as hiccup]
             hiccup.util))
 
-;; # Python interop
 
 ;; ## Using Python visualizations
 

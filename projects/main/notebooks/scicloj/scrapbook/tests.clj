@@ -1,11 +1,11 @@
+;; # Tests
+
 (ns scicloj.scrapbook.tests
   (:require [tablecloth.api :as tc]
             [scicloj.kindly.v3.kind :as kind]
             [scicloj.kindly-default.v1.api :refer [is->]]))
 
-;; ## Tests
-
-;; ### clojure.test
+;; ## clojure.test
 
 ;; Standard Clojure tests may be integrated into notebooks.
 

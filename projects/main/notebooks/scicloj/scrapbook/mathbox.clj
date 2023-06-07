@@ -1,7 +1,7 @@
+;; # Mathbox.cljs
+
 (ns scicloj.scrapbook.mathbox
   (:require [scicloj.kindly.v3.kind :as kind]))
-
-;; ## Mathbox.cljs
 
 ;; inspired by [the official MathBox.cljs tutorial](https://mathbox.mentat.org/)
 (kind/hiccup
