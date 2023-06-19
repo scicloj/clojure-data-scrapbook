@@ -9,6 +9,7 @@
             [scicloj.kindly.v3.kind :as kind]
             [scicloj.clay.v2.api :as clay]))
 
+
 ^{:kindly/hide-code? true}
 (kind/void
  [(clay/swap-options!
@@ -26,7 +27,7 @@
 
 ;; # plan
 ;; * keep our knowledge in a vector database
-;; * inject that into open-ai chats
+;; * inject that into chats
 
 ;; # some Knowledge
 
@@ -206,3 +207,29 @@
   (-> vald-client
       (vald/search {:num 40}
                    (range embedding-dimension))))
+
+
+
+
+
+
+(create-chat-completion
+ {:model "gpt-3.5-turbo"
+  :messages [{:role "user"
+              :content "i am tired"}
+             {:role "assistant"
+              :content "negative"}
+             {:role "user"
+              :content "i am alive"}
+             {:role "assistant"
+              :content "positive"}
+             {:role "user"
+              :content "i am happy"}]})
+
+
+(create-chat-completion
+ {:model "gpt-3.5-turbo"
+  :messages [{:role "system"
+              :content "please answer in Spanish"}
+             {:role "user"
+              :content "what is clojure?"}]})

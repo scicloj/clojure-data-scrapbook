@@ -59,7 +59,7 @@ tr:nth-child(even) {
 
 # plan
 * keep our knowledge in a vector database
-* inject that into open-ai chats
+* inject that into chats
 
 # some Knowledge
 
@@ -10713,6 +10713,6 @@ JIb,$APP.Pr,dLb,$APP.fb,$APP.I],null),new $APP.l(null,3,[$APP.X,wIb,$APP.Pr,oKb,
 (defn compute [form] (if-let [result (-> (clojure.core/deref *cache) :map (get form))] result (do (POST "/compute" {:headers {"Accept" "application/json"}, :params (pr-str {:form form}), :handler (fn [response-edn] (let [response (read-string response-edn)] (swap! *cache (fn [cache] (-> cache (update :map assoc form response) (update :vec conj [form response])))))), :error-handler (fn [e] (.log js/console (str "error on compute: " e)))}) [:div [:p "computing"] [:pre [:code (pr-str form)]] [:div.loader]])))
 (defn refresh-page [] (.reload js/location))
 (ns main (:require [reagent.core :as r] [reagent.dom :as dom] [ajax.core :refer [GET POST]] [clojure.string :as string] [scicloj.clay :as clay]))
-(GET "/counter" {:handler (fn [response] (when (not= response (clojure.core/str 3)) (clay/refresh-page))), :error-handler (fn [e] (.log js/console (str "error on counter: " e)))})
+(GET "/counter" {:handler (fn [response] (when (not= response (clojure.core/str 9)) (clay/refresh-page))), :error-handler (fn [e] (.log js/console (str "error on counter: " e)))})
 (def data (quote nil))
 (let [socket (js/WebSocket. (clojure.core/str "ws://localhost:" 1971))] (.addEventListener socket "open" (fn [event] (.send socket "Hello Server!"))) (.addEventListener socket "message" (fn [event] (case (.-data event) "refresh" (clay/refresh-page) (println [:unknown-ws-message (.-data event)])))))</script></div>
