@@ -2,11 +2,12 @@
 
 <img src="//scicloj.github.io/sci-cloj-logo-transparent.png" alt="SciCloj logo" width="100" align="right"/>
 
+This project builds [The Clojure Data Scrapbook](https://scicloj.github.io/clojure-data-scrapbook/) that contains
 Community-contributed examples for the emerging Clojure data stack.
 
-This project builds [The Clojure Data Scrapbook](https://scicloj.github.io/clojure-data-scrapbook/).
-
 You can interact with the examples by cloning this project and starting a REPL.
+
+This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
 
 ## Status
 
@@ -21,48 +22,44 @@ You can read the book online [The Clojure Data Scrapbook](https://scicloj.github
 
 To run this project you will need to first [Install Clojure](https://clojure.org/guides/install_clojure).
 
-To run code examples, clone this repo and start a REPL.
+To run code examples, clone this repo and start a [REPL](https://clojure.org/guides/repl/introduction).
+A browser window will open with the HTML of the book.
 
-### Editor Setup
+### Editor setup
+
+[Clojure Editor Guide](https://clojure.org/guides/editors) covers general editor integration.
 
 This project uses Clay for interactive examples.
 Please see the [Clay Setup Guide](https://scicloj.github.io/clay/#setup)
-
-* Right click main/deps.edn and run REPL
-* Set my Java SDK is a pre-requisite
+for some additional configuration.
 
 ## Project overview
 
-[./projects/](./projects) contains code
+[./projects/](./projects) contains code, and will be of most interest to readers
 
-[./projects/main/notebooks](./projects/main/notebooks) contains most of the miscellaneous examples
+> :bulb: [./projects/main/notebooks](./projects/main/notebooks) contains most of the miscellaneous examples
 
-[./book/](./book) contains Markdown configuration and `prepare` script
+[./book/](./book) contains Markdown configuration and the `prepare.sh` script
 
-[./docs](./docs) is the published part
+> :bulb: [./book/_quarto.yml](./book/_quarto.yml) configures the ordering of the examples
 
-### Render and watch locally
+[./docs](./docs) is the published part (generated from the markdown)
 
-`./book/prepare.sh` will watch for changes
-
-This starts a process that will convert Clojure namespaces into Quarto Markdown files and then compile them to HTML views.
+The code in `projects` is compiled to `.qmd` Markdown files, and then [Quarto](https://quarto.org/) converts those into the book HTML.
 
 ```mermaid
 graph LR
 namespace --> qmd --> html
 ```
 
-Ordering of parts
-
 ## Troubleshooting
 
-If you encounter the following:
-Error building classpath. Could not acquire write lock for 'artifact:org.bytedeco:mkl'
+If you encounter:
+_Error building classpath. Could not acquire write lock for 'artifact:org.bytedeco:mkl'_
 
-```
-clj -P -Sthreads 1
-```
-[Reported here](https://clojurians-log.clojureverse.org/tools-deps/2021-09-16)
+Try: `clj -P -Sthreads 1`
+
+See [deps issue report](https://clojurians-log.clojureverse.org/tools-deps/2021-09-16).
 
 ## Contributing
 
