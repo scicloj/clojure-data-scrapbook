@@ -34,4 +34,4 @@ dataset1
 ;; ## Visualizing datases with Hanami using Noj
 (-> dataset1
     (vis/hanami-plot ht/point-chart
-                     :MSIZE 200))
+                     {:MSIZE 200}))
