@@ -12,7 +12,6 @@
 (defn get-page! [url]
   (client/get url {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")}))
 
-
 (defn generate-ds-loop []
   (loop [result []
          page   1]
