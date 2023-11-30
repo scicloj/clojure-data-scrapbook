@@ -1,6 +1,8 @@
 {:deps  {org.clojure/clojure {:mvn/version "1.12.0-alpha5"}
-         org.scicloj/clay {:mvn/version "2-alpha42-SNAPSHOT"}
+         org.scicloj/clay {:mvn/version "2-alpha42"}
          org.scicloj/noj {:mvn/version "1-alpha17"}
          com.cnuernber/charred {:mvn/version "1.033"}
-         clj-http/clj-http {:mvn/version "3.12.3"}}
+         clj-http/clj-http {:mvn/version "3.12.3"}
+         org.scicloj/tempfiles {:mvn/version "1-alpha2"}
+         listora/again {:mvn/version "1.0.0"}}
  :paths ["src"]}
