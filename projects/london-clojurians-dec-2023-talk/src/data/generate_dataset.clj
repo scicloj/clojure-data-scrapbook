@@ -33,7 +33,7 @@
          (iterate (partial * 4))
          (take 9)
          vec)
-    (client/get url {:oauth-token (System/getenv "GITHUB_AUTH_TOKEN")})))
+    (client/get url {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")})))
 
 (def cached-resource
   (memoize
@@ -104,23 +104,24 @@
       edn/read-string))
 
 
-(->> data
-     (mapcat (comp :items :items))
-     (map (fn [repo]
-            (-> repo
-                :contributors_url
-                slurp))))
+(comment
+  (->> data
+       (mapcat (comp :items :items))
+       (map (fn [repo]
+              (-> repo
+                  :contributors_url
+                  slurp)))))
 
 (defonce borkdude-repos
   (-> "https://api.github.com/users/borkdude/repos"
-      (client/get {:oauth-token (System/getenv "GITHUB_AUTH_TOKEN")})
+      (client/get {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")})
       :body
       (charred/read-json :key-fn keyword)
       (->> (map :html_url))))
 
 (defonce babashka-repos
   (-> "https://api.github.com/users/babashka/repos"
-      (client/get {:oauth-token (System/getenv "GITHUB_AUTH_TOKEN")})
+      (client/get {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")})
       :body
       (charred/read-json :key-fn keyword)
       (->> (map :html_url))))
