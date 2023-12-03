@@ -7,7 +7,13 @@
    [clojure.edn :as edn]
    [again.core :as again]
    [clojure.pprint :as pp]
-   [clojure.string :as string]))
+   [clojure.string :as string]
+   [clojure.java.io :as io]
+   [clojure.java.shell :as shell])
+  (:import java.time.format.DateTimeFormatter
+           java.time.LocalDate))
+
+(set! *warn-on-reflection* true)
 
 (comment
   (tempfiles/cleanup-all-tempdirs!))
@@ -125,3 +131,61 @@
       :body
       (charred/read-json :key-fn keyword)
       (->> (map :html_url))))
+
+(def urls
+  (->> data
+       (mapcat (comp :items :items))
+       (map :html_url)))
+
+(defn url->clone-path [url]
+  (-> url
+      (string/replace #"^https://github.com/" "")
+      (string/replace #"/" "__")
+      (->> (str "/workspace/clones-for-analysis/"))))
+
+(comment
+  (->> urls
+       (run! (fn [url]
+               (let [clone-path (url->clone-path url)]
+                 (prn [:handling url])
+                 (io/make-parents clone-path)
+                 (when-not (-> clone-path
+                               io/file
+                               (.exists))
+                   (prn [:cloning-to clone-path])
+                   (shell/sh "git"
+                             "clone"
+                             url
+                             clone-path)))))))
+
+
+(def commit-dates-collected
+  (delay
+    (->> urls
+         (map (fn [url]
+                (prn [:git-log url])
+                (-> url
+                    url->clone-path
+                    (->> (format "--git-dir=%s/.git"))
+                    (#(shell/sh "git" %
+                                "log"
+                                "--pretty=format:\"%ad\""
+                                "--date=short"))
+                    :out
+                    (string/replace #"\"" "")
+                    string/split-lines
+                    (->> (hash-map :url url
+                                   :date))
+                    tc/dataset)))
+         (apply tc/concat))))
+
+(comment
+  (-> @commit-dates-collected
+      (tc/write! (str "data/commit-dates-"
+                      (timestamp)
+                      ".csv.gz"))))
+
+(def commit-dates
+  (-> "data/commit-dates-2023-12-03T21:31:14.146-00:00.csv.gz"
+      (tc/dataset
+       {:key-fn keyword})))
