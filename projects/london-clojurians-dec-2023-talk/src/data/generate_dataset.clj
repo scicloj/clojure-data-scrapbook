@@ -72,14 +72,13 @@
         result))))
 
 (defn generate-ds-iteration [language]
-  (iteration get-cached-page!
-             :initk (format "https://api.github.com/search/repositories?q=language:%s&order=desc&page=1&per_page=50"
+  (sequence cat
+       (iteration get-cached-page!
+                  :initk (format "https://api.github.com/search/repositories?q=language:%s&order=desc&page=1&per_page=50"
                             (name language))
-             :vf (fn [response]
-                   (let [items (-> response :body (charred/read-json :key-fn keyword))]
-                     {:items items
-                      :count (count items)}))
-             :kf (fn [response] (-> response :links :next :href))))
+                  :vf (fn [response]
+                        (-> response :body (charred/read-json :key-fn keyword) :items))
+                  :kf (fn [response] (-> response :links :next :href)))))
 
 (defn fresh-data [language]
   (->> language
