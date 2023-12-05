@@ -12,171 +12,441 @@
             { text: '<link rel="shortcut icon" href="Cookbook.svg" />' } } } }
 ---
 
-## Why am I here?
+## Graphs
 
-In June 2023 I joined a SciCloj visual tools meetup.
-Kira and Daniel gave some updates on the Clojure Data Cookbook and Scrapbook.
-They requested some early feedback.
-I made some suggestions, and we had a followup session to discuss the books further.
-Beside the content, there was a troubling question of how to set up the project.
+::: {layout-ncol=2}
+![](https://hummi.app/img/sociogram.png)
 
-## How to code a book?
-
-We want to do literate coding, but there are obstacles.
-
-* Namespaces as notebooks
-* Collating
-* Large diffs
-
-## Claykind
-
-::: {.fragment style="background:white"}
-::: {.callout-tip appearance="simple"}
-
-Reimagining Clay as modular parts in a Kindly pipeline.
-
-:::
+![](https://hummi.app/img/factors.png)
 :::
 
-::: {.fragment}
+::: {style="display: flex; align-items: center; justify-content: center"}
 
-* a simpler thing might be more useful
-* manage resources instead of embedding everything
-* support Babashka
-* enable testable notebooks
-* continuous integration builds
+https://Hummi.app
+
+<img src="https://hummi.app/img/hummi.svg" width=100 alt="Hummi logo" style="float:left">
 
 :::
 
-## Kindly
-
-::: {.fragment style="background:white"}
-::: {.callout-tip appearance="simple"}
-A standard for requesting visualizations.
-:::
-:::
-
-::: {.fragment}
-Requests are metadata annotations
-
-```clojure
-^:kind/hiccup [:svg [:circle {:r 50}]]
-```
-:::
-
-::: {.fragment}
-Which can be made using the functional api
-
-```clojure
-(kind/hiccup [:svg [:circle {:r 50}]])
-```
-:::
-
-::: {.fragment}
-Supported by tools (Clay),
-
-or adapted to tools (kind-portal, kind-clerk)
-:::
-
-## Kindly goals
-
-* Just works with whatever tools you want to use
-* No breaking changes
-* Minimal user burden
-* Maybe inference
-
-## Discoveries
-
-::: {.fragment}
-kindly-advice
-:::
-
-::: {.fragment}
-kindly-notes
-:::
-
-::: {.fragment}
-options based api 
-:::
-
-::: {.fragment}
-need for rendering many files, single file, or single form
-:::
-
-::: {.fragment}
-decoupling of server
-:::
-
-## Philosophy
-
-::: {.fragment}
-Sort of...
-:::
-
-::: {.fragment}
-I think...
-:::
-
-## Knowledge {background-image="scicloj.ml.svg" background-size="contain"}
+## Books <img alt="books" width=400 src="books-stack-of-three.svg" align="right">
 
 ::: {.fragment}
 You can learn anything
 :::
 
 ::: {.fragment}
+Libraries rule
+:::
 
-* Recalling
-* Mixing
+::: {.fragment}
+SciCloj: Clojure Data Cookbook
+:::
+
+::: {.notes}
+In June 2023 I joined a SciCloj visual tools meetup.
+Kira and Daniel gave some updates on the Clojure Data Cookbook and Scrapbook.
+They requested some early feedback.
+I made some suggestions, and we had a followup session to discuss the books further.
+Beside the content, there was a troubling question of how to set up the project.
+:::
+
+## How to code a book? <img alt="books" width=400 src="books-stack-of-three.svg" align="right" >
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+keeping the code in sync with prose
+:::
+:::
+
+::: {.fragment}
+literate coding
+
+chapters are namespaces
+
+```clojure
+(ns cookbook.chapter1)
+
+;; Welcome to the Clojure Data Cookbook
+
+(defn example1 [] ...)
+```
 
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment}
+prose, code, and visualizations
+:::
+
+::: {.fragment}
+explorable, reproducible, testable
+:::
+
+## Obstacles <img alt="books" width=400 src="books-stack-of-three.svg" align="right">
+
+::: {.fragment}
+collating chapters
+:::
+
+::: {.fragment}
+tool specific code
+:::
+
+::: {.fragment}
+poor performance
+:::
+
+::: {.fragment}
+git churn
+:::
+
+::: {.fragment}
+::: {.callout-warning appearance="simple"}
+lots of tools, no complete path
+:::
+:::
+
+## Quarto <img src="https://avatars.githubusercontent.com/u/67437475?s=2048&v=4" align="right" width=400>
+
+::: {.fragment}
+markdown books, slides, and websites
+:::
+
+::: {.fragment}
+based on Pandoc
+:::
+
+::: {.fragment}
+R and Python
+:::
+
+::: {.fragment}
 ::: {.callout-tip appearance="simple"}
-New knowledge makes old problems solvable
+focus on creating markdown suitable for Quarto
+:::
+:::
+
+## Claykind <img src="claykind.svg" align="right" width=400>
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+reimagine `clay` as modular parts in a `kindly` pipeline
+
+a simpler thing might be more useful
+:::
+:::
+
+## Claykind experiments <img src="claykind.svg" align="right" width=400>
+
+::: {.fragment} 
+eval as data
+:::
+
+::: {.fragment}
+Babashka
+:::
+
+::: {.fragment}
+github flavored markdown (documentation)
+:::
+
+## Eval as data
+
+![](claykind-code.png)
+
+```clojure
+[{:code  "(+ 1 2)"
+  :form  (+ 1 2)
+  :value 3
+  :kind  nil}
+ ...]
+```
+
+## {background-image="babashka-book.png" background-size="contain"}
+
+## {background-image="babashka-markdown.png" background-size="contain"}
+
+## Kindly <img src="Kindly.svg" align="right" width=400>
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+a standard for requesting visualizations.
+:::
+:::
+
+::: {.fragment}
+requests are annotations
+
+```clojure
+^:kind/hiccup [:svg [:circle {:r 50}]]
+```
+
+:::
+
+::: {.fragment}
+with a functional api
+
+```clojure
+(kind/hiccup [:svg [:circle {:r 50}]])
+```
+
+:::
+
+::: {.fragment}
+supported by tools (`clay`),
+
+or adapted to tools (`kind-portal`, `kind-clerk`)
+:::
+
+## Kindly promise <img src="Kindly.svg" align="right" width=400>
+
+just works with whatever tools you want to use 
+
+no breaking changes
+
+non-intrusive
+
+easy for toolmakers to support
+
+## Kindly Discoveries
+
+::: {.fragment}
+`kindly` no behavior, only annotations
+:::
+
+::: {.fragment}
+`kindly-advice` for tool-makers
+
+multiple ways to annotate, nested annotations, kind inference (images, datasets, user extensible)
+
+notebook projects should pin a **tool** version
+:::
+
+::: {.fragment}
+`read-kinds` eval as data (unreleased)
+
+enable other tools, Babashka notebooks, testing
+
+(see also `note-to-test`)
+:::
+
+## Clay v2 <img src="Clay.svg" align="right" width=400>
+
+::: {.fragment}
+lightweight (may include JavaScript)
+:::
+
+::: {.fragment}
+images and data as files
+:::
+
+::: {.fragment}
+**loads fast**
+:::
+
+::: {.fragment}
+separation of source from target
+:::
+
+::: {.fragment}
+render a project, file, or form
+:::
+
+::: {.fragment}
+serve the file (or not)
+:::
+
+::: {.fragment}
+::: {.callout-note appearance="simple"}
+**books**, slides, and websites!
 :::
 :::
 
 ::: {.notes}
-Speaker notes go here.
+
+* way faster!
+* no ClojureScript
+* no embedded images/data
+* less git churn
+
 :::
 
-## Critical Thinking {background-image="clj-djl.svg" background-size="contain"}
+## Configuration <img src="Clay.svg" align="right" width=400>
 
-::: {.fragment}
-is a creative process
-:::
+options file: `clay.edn`
 
-::: {.fragment}
-what else is possible?
-:::
+```clojure
+{:format      [:html]
+ :source-path "notebooks/index.clj"}
+```
 
-::: {.fragment style="background:white"}
+to render files
+
+```clojure
+(clay/make! options)
+```
+
+extra options are merged
+
+::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-It is not enough to be critical, you have to create
+bind a key to
+
+```clojure
+(make! {:source-path ~current-file
+        :format      [:html]})
+```
+
+to view progress
 :::
 :::
 
-## Data-driven {background-image="TMD.svg" background-size="contain"}
+## Write, don't show  <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:show false}
+```
+
+## Multiple namespaces <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:source-path ["notebooks/slides.clj"
+               "notebooks/index.clj"]}
+```
+
+## Single form <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:source-path "notebooks/index.clj"
+ :single-form '(kind/cytoscape
+                 [{:style {:width  "300px"
+                           :height "300px"}}
+                  cytoscape-example])}
+```
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+bind a key to
+
+```clojure
+(make! {:source-path ~current-file
+        :single-form ~form-before-caret
+        :show        true})
+```
+
+for interactive development
+:::
+:::
+
+## Use Quarto <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:format [:quarto :html]}
+```
+
+## Only Markdown <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:format     [:quarto :html]
+ :run-quarto false}
+```
+
+## Slides <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:format      [:quarto :revealjs]
+ :source-path "notebooks/slides.clj"}
+```
+
+## Books <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:format           [:quarto :html]
+ :base-source-path "notebooks"
+ :source-path      ["index.clj"
+                    "chapter.clj"
+                    "another_chapter.md"]
+ :base-target-path "book"
+ :show             false
+ :run-quarto       false
+ :book             {:title "Book Example"}}
+```
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+so flexible
+
+everything is decoupled
+
+adaptable to your workflow
+
+```sh
+clojure -M:dev -m scicloj.clay.main
+```
+
+:::
+:::
+
+## How to literate <img src="path.svg" align="right" width=400>
 
 ::: {.fragment}
-We have questions
+start a namespace
 :::
 
 ::: {.fragment}
-We make observations
+explore some question, idea, data
+:::
+
+::: {.fragment}
+interleave prose, code, tables, images, charts
+:::
+
+::: {.fragment}
+visualize from your editor
+:::
+
+::: {.fragment}
+publish it
+:::
+
+::: {.fragment}
+read as document or explore code
+:::
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+please try `kindly`, `clay`, `kind-portal`, `kind-clerk`
+:::
+:::
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+tool-makers, please try `kind-advice`, `read-kinds`, `kindly-render`
+:::
+:::
+
+## What I learnt
+
+## About Data {background-image="TMD.svg" background-size="contain"}
+
+::: {.fragment}
+We all have questions
+:::
+
+::: {.fragment}
+We observe
 :::
 
 ::: {.fragment}
 We write
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment }
 ::: {.callout-tip appearance="simple"}
 Everyone is a data scientist
 :::
 :::
 
-## Writing {background-image="Cookbook.svg" background-size="contain"}
+## About Writing {background-image="Cookbook.svg" background-size="contain"}
 
 ::: {.fragment}
 crystallizes thinking
@@ -186,40 +456,49 @@ crystallizes thinking
 creates knowledge
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment}
+in code
+:::
 
-* Interleaving prose, tables, charts, diagrams
-* Concise, clear, focused
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+notebooks are namespaces
+:::
+:::
 
+## Critical Thinking {background-image="scicloj.ml.svg" background-size="contain"}
+
+::: {.fragment}
+is a creative process
 :::
 
 ::: {.fragment}
-In code
+what else is possible?
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-Namespaces as notebooks
+it is not enough to be critical, you have to create
 :::
 :::
 
 ## Standardization {background-image="Kindly.svg" background-size="contain"}
 
 ::: {.fragment}
-enables individuality
+enables adaption
 :::
 
 ::: {.fragment}
-
-* notebooks, blogs, books
-* library code, application code
-* keybindings, workflows
-
+notebooks, blogs, books, library code, application code
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment}
+keybindings, workflows
+:::
+
+::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-Tool agnostic interactive development and static publishing
+interactive development and static publishing
 :::
 :::
 
@@ -237,7 +516,7 @@ Library code
 Application code
 :::
 
-## Composition {background-image="Clay.svg" background-size="contain"}
+## About Composition {background-image="Clay.svg" background-size="contain"}
 
 ::: {.fragment}
 enables interactivity
@@ -251,9 +530,9 @@ enables publishing
 enables reproducibility
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-Lightweight, adaptable tools
+lightweight, adaptable tools
 :::
 :::
 
@@ -263,13 +542,13 @@ Interactively developing
 Publishing
 :::
 
-## Simplicity {background-image="Metamorph.svg" background-size="contain"}
+## About Simplicity {background-image="Metamorph.svg" background-size="contain"}
 
 ::: {.fragment}
 begets universality
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment }
 ::: {.callout-tip appearance="simple"}
 we make our own workflows out of libraries and tools
 :::
@@ -279,7 +558,7 @@ we make our own workflows out of libraries and tools
 Universality is being true in all situations
 :::
 
-## Connecting
+## About Connecting {background-image="clj-djl.svg" background-size="contain"}
 
 ::: {.fragment}
 provides purpose
@@ -293,9 +572,17 @@ provides fulfillment
 builds community
 :::
 
-## Community {background-image="all.svg" background-size="contain"}
+## Communities {background-image="all.svg" background-size="contain"}
 
-::: {.fragment style="background:white"}
+::: {.fragment}
+learn together
+:::
+
+::: {.fragment}
+solve problems together
+:::
+
+::: {.fragment}
 ::: {.callout-tip appearance="simple"}
 SciCloj was born of a simple vision:
 Small groups working on problems together.
@@ -303,10 +590,16 @@ Coordinating, collaborating, solving, and writing.
 :::
 :::
 
-::: {.fragment style="background:white"}
+::: {.fragment}
+::: {.callout-note appearance="simple"}
 We'd love you to join us in search of answers.
+
+https://scicloj.github.io/
+
+Consider joining a study group, working group, or suggest a new group.
 
 Your community needs you!
 :::
+:::
 
-## Salute
+## EOF {background-image="all.svg" background-size="contain"}
