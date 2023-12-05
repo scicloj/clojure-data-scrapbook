@@ -203,7 +203,7 @@ just works with whatever tools you want to use
 
 no breaking changes
 
-non-intrusive
+notebooks, blogs, books, library code, application code
 
 easy for toolmakers to support
 
@@ -224,9 +224,7 @@ notebook projects should pin a **tool** version
 ::: {.fragment}
 `read-kinds` eval as data (unreleased)
 
-enable other tools, Babashka notebooks, testing
-
-(see also `note-to-test`)
+enable other tools (see also `note-to-test`)
 :::
 
 ## Clay v2 <img src="Clay.svg" align="right" width=400>
@@ -379,6 +377,10 @@ everything is decoupled
 
 adaptable to your workflow
 
+interactive development
+
+static publishing
+
 ```sh
 clojure -M:dev -m scicloj.clay.main
 ```
@@ -397,7 +399,7 @@ explore some question, idea, data
 :::
 
 ::: {.fragment}
-interleave prose, code, tables, images, charts
+prose, code, tables, images, charts
 :::
 
 ::: {.fragment}
@@ -429,20 +431,20 @@ tool-makers, please try `kind-advice`, `read-kinds`, `kindly-render`
 ## About Data {background-image="TMD.svg" background-size="contain"}
 
 ::: {.fragment}
-We all have questions
+we all have questions
 :::
 
 ::: {.fragment}
-We observe
+we observe
 :::
 
 ::: {.fragment}
-We write
+we write
 :::
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-Everyone is a data scientist
+everyone is a data scientist
 :::
 :::
 
@@ -469,11 +471,15 @@ notebooks are namespaces
 ## Critical Thinking {background-image="scicloj.ml.svg" background-size="contain"}
 
 ::: {.fragment}
-is a creative process
+reaches beyond the known
 :::
 
 ::: {.fragment}
 what else is possible?
+:::
+
+::: {.fragment}
+a creative process
 :::
 
 ::: {.fragment }
@@ -482,23 +488,35 @@ it is not enough to be critical, you have to create
 :::
 :::
 
-## Standardization {background-image="Kindly.svg" background-size="contain"}
+## About Simplicity {background-image="Metamorph.svg" background-size="contain"}
 
 ::: {.fragment}
-enables adaption
-:::
-
-::: {.fragment}
-notebooks, blogs, books, library code, application code
-:::
-
-::: {.fragment}
-keybindings, workflows
+universality
 :::
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-interactive development and static publishing
+we make workflows out of simple libraries and tools
+:::
+:::
+
+::: {.notes}
+Universality is being true in all situations
+:::
+
+## Standardization {background-image="Kindly.svg" background-size="contain"}
+
+::: {.fragment}
+establishes an interface
+:::
+
+::: {.fragment}
+selectable parts
+:::
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+fosters composition
 :::
 :::
 
@@ -519,20 +537,22 @@ Application code
 ## About Composition {background-image="Clay.svg" background-size="contain"}
 
 ::: {.fragment}
-enables interactivity
+unity and variety
 :::
 
 ::: {.fragment}
-enables publishing
+experimentation and creativity
 :::
 
 ::: {.fragment}
-enables reproducibility
+crystallization
 :::
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-lightweight, adaptable tools
+lightweight, adaptable parts
+
+complete path from ideas to publication
 :::
 :::
 
@@ -540,22 +560,6 @@ lightweight, adaptable tools
 Clay
 Interactively developing
 Publishing
-:::
-
-## About Simplicity {background-image="Metamorph.svg" background-size="contain"}
-
-::: {.fragment}
-begets universality
-:::
-
-::: {.fragment }
-::: {.callout-tip appearance="simple"}
-we make our own workflows out of libraries and tools
-:::
-:::
-
-::: {.notes}
-Universality is being true in all situations
 :::
 
 ## About Connecting {background-image="clj-djl.svg" background-size="contain"}
@@ -569,10 +573,12 @@ provides fulfillment
 :::
 
 ::: {.fragment}
+::: {.callout-tip appearance="simple"}
 builds community
 :::
+:::
 
-## Communities {background-image="all.svg" background-size="contain"}
+## Community {background-image="all.svg" background-size="contain"}
 
 ::: {.fragment}
 learn together
