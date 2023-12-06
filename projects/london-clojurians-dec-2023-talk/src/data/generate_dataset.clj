@@ -142,7 +142,9 @@
   (->> data
        vals
        (mapcat (partial mapcat (comp :items :items)))
-       (map #(select-keys % [:language :html_url :size]))))
+       (map #(-> %
+                 (select-keys [:language :html_url :size :owner])
+                 (update :owner :login)))))
 
 (defn url->clone-path [url]
   (-> url
@@ -171,7 +173,8 @@
 (def commit-dates-collected
   (delay
     (->> repos
-         (map (fn [{:keys [language html_url]}]
+         (map (fn [{:as repo
+                    :keys [language html_url]}]
                 (prn [:git-log html_url])
                 (-> html_url
                     url->clone-path
@@ -183,20 +186,20 @@
                     :out
                     (string/replace #"\"" "")
                     string/split-lines
-                    (->> (hash-map :language language
-                                   :url html_url
-                                   :date))
+                    (->> (assoc repo :date))
                     tc/dataset)))
          (apply tc/concat))))
 
 (comment
-  (-> @commit-dates-collected
-      (tc/write! (str "data/commit-dates-"
-                      (timestamp)
-                      ".csv.gz"))))
+  (let [path (str "data/commit-dates-"
+                  (timestamp)
+                  ".csv.gz")]
+    [path
+     (-> @commit-dates-collected
+         (tc/write! path))]))
 
 (def commit-dates
-  (-> "data/commit-dates-2023-12-05T19:48:16.843-00:00.csv.gz"
+  (-> "data/commit-dates-2023-12-06T15:09:51.065-00:00.csv.gz"
       (tc/dataset
        {:key-fn keyword})))
 
@@ -210,6 +213,6 @@
 
 ;; clone the repos
 ;; 1000 Clojure
-;; 342 Python
+;; 9?? Python
 
 ;; take the commit dates out of git-log
