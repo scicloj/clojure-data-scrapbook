@@ -16,7 +16,7 @@
       (tc/group-by [:language])
       (tc/aggregate {:n-repos (fn [ds]
                                 (-> ds
-                                    :url
+                                    :html_url
                                     distinct
                                     count))})))
 
@@ -27,12 +27,11 @@
                            :date
                            ((partial datetime/long-temporal-field :years))
                            (map #(<= 2011 % 2023))))
-      (tc/map-columns :sample [:url] (fn [url]
-                                       (str "S"
-                                            (if (-> url
-                                                    hash
-                                                    even?)
-                                              0 1))))
+      (tc/map-columns :sample [:owner] (fn [owner]
+                                         (str "S"
+                                              (-> owner
+                                                  hash
+                                                  (rem 5)))))
       (tc/group-by [:date :language :sample])
       (tc/aggregate {:n tc/row-count})
       (tc/order-by [:date :language :sample])))
@@ -91,19 +90,6 @@
       :day-of-year
       fun/reduce-max))
 
-(delay
-  (-> processed-date-counts
-      (tc/group-by [:language :sample] {:result-type :as-map})
-      (->> (mapv (fn [[language counts]]
-                   (-> counts
-                       (tc/select-rows (fn [row]
-                                         (-> row :years (#{2014 2018 2022}))))
-                       (vis/hanami-plot ht/line-chart
-                                        {:X "day-of-year"
-                                         :Y "n"
-                                         :COLOR "years"
-                                         :OPACITY 0.5})))))))
-
 
 (delay
   (-> processed-date-counts
@@ -123,7 +109,7 @@
 (delay
   (-> processed-date-counts
       (tc/select-rows (fn [row]
-                        (-> row :years (#{2020 2021}))))
+                        (-> row :years (#{2021}))))
       (tc/group-by [:language] {:result-type :as-map})
       (->> (mapv (fn [[group counts]]
                    (assoc group
