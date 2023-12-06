@@ -143,7 +143,7 @@
   (->> data
        vals
        (mapcat (partial mapcat (comp :items :items)))
-       (map #(select-keys % [:language :html_url]))))
+       (map #(select-keys % [:language :html_url :size]))))
 
 (defn url->clone-path [url]
   (-> url
@@ -153,6 +153,8 @@
 
 (comment
   (->> repos
+       (filter (fn [{:keys [url size]}]
+                 (< size 100000)))
        (run! (fn [{:keys [html_url]}]
                (let [clone-path (url->clone-path html_url)]
                  (prn [:handling html_url])
@@ -165,8 +167,6 @@
                              "clone"
                              html_url
                              clone-path)))))))
-
-
 
 
 (def commit-dates-collected
