@@ -1,0 +1,13 @@
+{:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
+               :branch "london-clojurians-talk"}
+ :quarto {:format {:html {:toc true
+                          :toc-depth 4
+                          :theme :spacelab}
+                   :revealjs {:theme [:default "src/notebooks/custom.scss"]
+                              :include-in-header [:text
+                                                  "<link rel=\"shortcut icon\" href=\"Cookbook.svg\" />"]
+                              :navigation-mode :vertical
+                              :transition :slide
+                              :background-transition :fade
+                              :incremental true}}
+          :highlight-style :solarized}}
