@@ -143,8 +143,11 @@
        vals
        (mapcat (partial mapcat (comp :items :items)))
        (map #(-> %
-                 (select-keys [:language :html_url :size :owner])
+                 (select-keys [:language :html_url :size :owner :stargazers_count])
                  (update :owner :login)))))
+
+(def repos-ds
+  (tc/dataset repos))
 
 (defn url->clone-path [url]
   (-> url
@@ -168,6 +171,7 @@
                              "clone"
                              html_url
                              clone-path)))))))
+
 
 
 (def commit-dates-collected
@@ -203,6 +207,50 @@
       (tc/dataset
        {:key-fn keyword})))
 
+
+
+
+(def commit-details-collected
+  (delay
+    (->> repos
+         (map (fn [{:as repo
+                    :keys [language html_url]}]
+               (prn [:git-log html_url])
+               (-> html_url
+                   url->clone-path
+                   (->> (format "--git-dir=%s/.git"))
+                   (#(shell/sh "git" %
+                               "log"
+                               "--pretty=format:\"%ad,%ae\""
+                               "--date=short"))
+                   :out
+                   (string/replace #"\"" "")
+                   string/split-lines
+                   (->> (map (fn [line]
+                               (-> line
+                                   (string/split #",")
+                                   ((fn [[date email]]
+                                      (merge repo
+                                             {:date date
+                                              :email email})))))))
+                   tc/dataset)))
+        (apply tc/concat))))
+
+
+(comment
+  (let [path (str "data/commit-details-"
+                  (timestamp)
+                  ".csv.gz")]
+    [path
+     (-> @commit-details-collected
+         (tc/write! path))]))
+
+
+
+(def commit-details
+  (-> "data/commit-details-2023-12-07T20:57:26.289-00:00.csv.gz"
+      (tc/dataset
+       {:key-fn keyword})))
 
 
 
