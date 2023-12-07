@@ -31,15 +31,15 @@ https://Hummi.app
 ## Books <img alt="books" width=400 src="books-stack-of-three.svg" align="right">
 
 ::: {.fragment}
-You can learn anything
+you can learn anything
 :::
 
 ::: {.fragment}
-Libraries rule
+libraries rule
 :::
 
 ::: {.fragment}
-SciCloj: Clojure Data Cookbook
+scicloj: clojure data cookbook
 :::
 
 ::: {.notes}
@@ -81,6 +81,54 @@ prose, code, and visualizations
 explorable, reproducible, testable
 :::
 
+## Kindly <img src="Kindly.svg" align="right" width=400>
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+a standard for requesting visualizations
+:::
+:::
+
+::: {.fragment}
+requests are annotations
+
+```clojure
+^:kind/hiccup [:svg [:circle {:r 50}]]
+```
+
+:::
+
+::: {.fragment}
+with a functional api
+
+```clojure
+(kind/hiccup [:svg [:circle {:r 50}]])
+```
+
+:::
+
+::: {.fragment}
+supported by tools (`clay`),
+
+or adapted to tools (`kind-portal`, `kind-clerk`)
+:::
+
+## Kindly promise <img src="Kindly.svg" align="right" width=400>
+
+just works with whatever tools you want to use
+
+no breaking changes
+
+notebooks, blogs, books, library code, application code
+
+easy for toolmakers to support
+
+## Clay <img src="Clay.svg" align="right" width=400>
+
+dynamic visualization
+
+static documents
+
 ## Obstacles <img alt="books" width=400 src="books-stack-of-three.svg" align="right">
 
 ::: {.fragment}
@@ -112,11 +160,11 @@ markdown books, slides, and websites
 :::
 
 ::: {.fragment}
-based on Pandoc
+based on pandoc
 :::
 
 ::: {.fragment}
-R and Python
+R and python
 :::
 
 ::: {.fragment}
@@ -125,106 +173,82 @@ focus on creating markdown suitable for Quarto
 :::
 :::
 
-## Claykind <img src="claykind.svg" align="right" width=400>
+## Claykind experiment <img src="claykind.svg" align="right" width=400>
 
 ::: {.fragment}
-::: {.callout-tip appearance="simple"}
-reimagine `clay` as modular parts in a `kindly` pipeline
-
-a simpler thing might be more useful
-:::
-:::
-
-## Claykind experiments <img src="claykind.svg" align="right" width=400>
-
-::: {.fragment} 
-eval as data
+can `clay` be simpler?
 :::
 
 ::: {.fragment}
-Babashka
+leave markdown to `quarto`
 :::
 
 ::: {.fragment}
 github flavored markdown (documentation)
 :::
 
-## Eval as data
+::: {.fragment}
+eval as data (babashka, testing)
+:::
 
-![](claykind-code.png)
+::: {.fragment}
+untangle into components
+:::
 
-```clojure
-[{:code  "(+ 1 2)"
-  :form  (+ 1 2)
-  :value 3
-  :kind  nil}
- ...]
-```
-
-## {background-image="babashka-book.png" background-size="contain"}
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+a simpler thing might be more useful
+:::
+:::
 
 ## {background-image="babashka-markdown.png" background-size="contain"}
 
-## Kindly <img src="Kindly.svg" align="right" width=400>
+## {background-image="babashka-book.png" background-size="contain"}
+
+## Eval as data
+
+```clojure
+(ns my.example)
+(+ 1 2)
+...
+```
+
+> ```clojure
+>[{:code  "(ns my.example)"
+>   :form  (ns my.example)
+>   :value nil
+>   :kind  nil}
+>  {:code  "(+ 1 2)"
+>   :form  (+ 1 2)
+>   :value 3
+>   :kind  nil}
+>   ...]
+>```
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-a standard for requesting visualizations.
+`read-kinds`
 :::
+:::
+
+## Discoveries
+
+::: {.fragment}
+`kindly` needs no behavior
 :::
 
 ::: {.fragment}
-requests are annotations
-
-```clojure
-^:kind/hiccup [:svg [:circle {:r 50}]]
-```
-
-:::
-
-::: {.fragment}
-with a functional api
-
-```clojure
-(kind/hiccup [:svg [:circle {:r 50}]])
-```
-
-:::
-
-::: {.fragment}
-supported by tools (`clay`),
-
-or adapted to tools (`kind-portal`, `kind-clerk`)
-:::
-
-## Kindly promise <img src="Kindly.svg" align="right" width=400>
-
-just works with whatever tools you want to use 
-
-no breaking changes
-
-notebooks, blogs, books, library code, application code
-
-easy for toolmakers to support
-
-## Kindly Discoveries
-
-::: {.fragment}
-`kindly` no behavior, only annotations
-:::
-
-::: {.fragment}
-`kindly-advice` for tool-makers
+tool-makers need `kindly-advice`
 
 multiple ways to annotate, nested annotations, kind inference (images, datasets, user extensible)
-
-notebook projects should pin a **tool** version
 :::
 
 ::: {.fragment}
-`read-kinds` eval as data (unreleased)
+users depend on a **tool** version (dev only)
+:::
 
-enable other tools (see also `note-to-test`)
+::: {.fragment}
+it's good to know when values change `note-to-test`
 :::
 
 ## Clay v2 <img src="Clay.svg" align="right" width=400>
@@ -277,7 +301,7 @@ options file: `clay.edn`
  :source-path "notebooks/index.clj"}
 ```
 
-to render files
+to render
 
 ```clojure
 (clay/make! options)
@@ -416,13 +440,12 @@ read as document or explore code
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-please try `kindly`, `clay`, `kind-portal`, `kind-clerk`
-:::
-:::
 
-::: {.fragment }
-::: {.callout-tip appearance="simple"}
-tool-makers, please try `kind-advice`, `read-kinds`, `kindly-render`
+```clojure
+{:deps    {org.scicloj/kindly ...}
+ :aliases {:dev {:deps {org.scicloj/clay ...}}}}
+```
+
 :::
 :::
 
@@ -444,7 +467,9 @@ we write
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-everyone is a data scientist
+everyone is a data scientist?
+
+everyone can benefit from a path to literate
 :::
 :::
 
@@ -471,7 +496,7 @@ notebooks are namespaces
 ## Critical Thinking {background-image="scicloj.ml.svg" background-size="contain"}
 
 ::: {.fragment}
-reaches beyond the known
+requires imagination
 :::
 
 ::: {.fragment}
@@ -491,7 +516,11 @@ it is not enough to be critical, you have to create
 ## About Simplicity {background-image="Metamorph.svg" background-size="contain"}
 
 ::: {.fragment}
-universality
+brings clarity and focus
+:::
+
+::: {.fragment}
+and sometimes universality
 :::
 
 ::: {.fragment }
@@ -590,21 +619,22 @@ solve problems together
 
 ::: {.fragment}
 ::: {.callout-tip appearance="simple"}
-SciCloj was born of a simple vision:
-Small groups working on problems together.
-Coordinating, collaborating, solving, and writing.
+scicloj was born of a simple vision:
+small groups working on problems together
+
+thinking, collaborating, solving, and writing
 :::
 :::
 
 ::: {.fragment}
 ::: {.callout-note appearance="simple"}
-We'd love you to join us in search of answers.
+we'd love you to join us in search of answers
 
 https://scicloj.github.io/
 
-Consider joining a study group, working group, or suggest a new group.
+consider joining a study group, working group, or suggest a new group
 
-Your community needs you!
+your community needs you!
 :::
 :::
 
