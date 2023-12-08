@@ -1,7 +1,7 @@
 (ns notebooks.explore
   (:require [data.generate-dataset]
             [scicloj.kindly.v4.kind :as kind]
-            [scicloj.noj.v1.vis :as vis]
+            [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [tablecloth.api :as tc]
             [clojure.string :as string]
@@ -31,13 +31,13 @@
 (-> processed-data
     (tc/select-rows #(and (-> % :forks_count (> 0))
                           (-> % :open_issues_count (> 0))))
-    (vis/hanami-plot ht/point-chart
-                     {:X "open_issues_count"
-                      :Y "forks_count"
-                      :XSCALE {:type "log"}
-                      :YSCALE {:type "log"}
-                      :COLOR "babashka-user"
-                      :SIZE "watchers"})
+    (hanami/plot ht/point-chart
+                 {:X "open_issues_count"
+                  :Y "forks_count"
+                  :XSCALE {:type "log"}
+                  :YSCALE {:type "log"}
+                  :COLOR "babashka-user"
+                  :SIZE "watchers"})
     (assoc-in [:encoding :size :type] "quantitative")
     (assoc-in [:encoding :size :scale :type] "log"))
 
@@ -47,10 +47,10 @@
      first)
 
 (-> processed-data
-    (vis/hanami-plot ht/bar-chart
-                     {:X "created_at"
-                      :XTYPE "temporal"
-                      :Y "watchers"}))
+    (hanami/plot ht/bar-chart
+                 {:X "created_at"
+                  :XTYPE "temporal"
+                  :Y "watchers"}))
 
 (-> processed-data
     (tc/map-columns :yearmonth
@@ -74,10 +74,10 @@
     (tc/group-by [:yearmonth])
     (tc/aggregate {:n tc/row-count})
     (tc/order-by [:yearmonth])
-    (vis/hanami-plot ht/bar-chart
-                     {:X "yearmonth"
-                      :XTYPE "temporal"
-                      :Y "n"}))
+    (hanami/plot ht/bar-chart
+                 {:X "yearmonth"
+                  :XTYPE "temporal"
+                  :Y "n"}))
 
 (-> processed-data
     (tc/head 100)
@@ -87,7 +87,7 @@
     (tc/group-by [:yearmonth])
     (tc/aggregate {:n tc/row-count})
     (tc/order-by [:yearmonth])
-    (vis/hanami-plot ht/bar-chart
-                     {:X "yearmonth"
-                      :XTYPE "temporal"
-                      :Y "n"}))
+    (hanami/plot ht/bar-chart
+                 {:X "yearmonth"
+                  :XTYPE "temporal"
+                  :Y "n"}))

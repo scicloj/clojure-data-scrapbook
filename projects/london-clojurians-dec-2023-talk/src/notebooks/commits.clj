@@ -1,6 +1,6 @@
 (ns notebooks.commits
   (:require [tablecloth.api :as tc]
-            [scicloj.noj.v1.vis :as vis]
+            [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [tech.v3.datatype.datetime :as datetime]
             [tech.v3.datatype.rolling :as rolling]
@@ -43,7 +43,7 @@
 (delay
   (-> date-counts
       (tc/select-rows #(-> % :language (= "Clojure")))
-      (vis/hanami-plot ht/line-chart
+      (hanami/plot ht/line-chart
                        {:X "date"
                         :XTYPE "temporal"
                         :Y "n"
@@ -55,12 +55,12 @@
       (tc/group-by :language {:result-type :as-map})
       (->> (mapv (fn [[language counts]]
                    (-> counts
-                       (vis/hanami-plot ht/line-chart
-                                        {:X "date"
-                                         :XTYPE "temporal"
-                                         :Y "n"
-                                         :COLOR "sample"
-                                         :OPACITY 0.4})))))))
+                       (hanami/plot ht/line-chart
+                                    {:X "date"
+                                     :XTYPE "temporal"
+                                     :Y "n"
+                                     :COLOR "sample"
+                                     :OPACITY 0.4})))))))
 
 (defn add-temporal-field [ds tf]
   (-> ds
@@ -102,11 +102,11 @@
       (tc/group-by [:language :sample] {:result-type :as-map})
       (->> (mapv (fn [[group counts]]
                    [group (-> counts
-                              (vis/hanami-plot ht/line-chart
-                                               {:X "day-of-year"
-                                                :Y "smoothed30"
-                                                :COLOR "years"
-                                                :OPACITY 0.5}))])))))
+                              (hanami/plot ht/line-chart
+                                           {:X "day-of-year"
+                                            :Y "smoothed30"
+                                            :COLOR "years"
+                                            :OPACITY 0.5}))])))))
 
 
 
@@ -118,14 +118,14 @@
       (->> (mapv (fn [[group counts]]
                    (assoc group
                           :time-series (-> counts
-                                           (vis/hanami-plot ht/line-chart
-                                                            {:X "date"
-                                                             :XTYPE "temporal"
-                                                             :Y "smoothed30"
-                                                             :COLOR "sample"
-                                                             :OPACITY 0.5
-                                                             :HEIGHT 200
-                                                             :WIDTH 3000}))))))
+                                           (hanami/plot ht/line-chart
+                                                        {:X "date"
+                                                         :XTYPE "temporal"
+                                                         :Y "smoothed30"
+                                                         :COLOR "sample"
+                                                         :OPACITY 0.5
+                                                         :HEIGHT 200
+                                                         :WIDTH 3000}))))))
       tc/dataset
       kind/table))
 
@@ -168,14 +168,14 @@
       (tc/group-by [:owner])
       (add-smoothed-counts 30)
       tc/ungroup
-      (vis/hanami-plot ht/line-chart
-                       {:X "date"
-                        :XTYPE "temporal"
-                        :Y "smoothed30"
-                        :COLOR "owner"
-                        :OPACITY 0.5
-                        :HEIGHT 500
-                        :WIDTH 3000})))
+      (hanami/plot ht/line-chart
+                   {:X "date"
+                    :XTYPE "temporal"
+                    :Y "smoothed30"
+                    :COLOR "owner"
+                    :OPACITY 0.5
+                    :HEIGHT 500
+                    :WIDTH 3000})))
 
 
 
@@ -202,14 +202,14 @@
       (add-smoothed-counts 30)
       tc/ungroup
       (tc/group-by [:owner])
-      (vis/hanami-plot ht/line-chart
-                       {:X "date"
-                        :XTYPE "temporal"
-                        :Y "smoothed30"
-                        :COLOR "sample"
-                        :OPACITY 0.5
-                        :HEIGHT 500
-                        :WIDTH 3000})))
+      (hanami/plot ht/line-chart
+                   {:X "date"
+                    :XTYPE "temporal"
+                    :Y "smoothed30"
+                    :COLOR "sample"
+                    :OPACITY 0.5
+                    :HEIGHT 500
+                    :WIDTH 3000})))
 
 
 
@@ -231,9 +231,9 @@
                               :n
                               fun/mean))})
       (tc/order-by [tf])
-      (vis/hanami-plot template
-                       {:X tf
-                        :Y "n"})))
+      (hanami/plot template
+                   {:X tf
+                    :Y "n"})))
 
 (plot-average-by-temporal-field :day-of-week
                                 ht/bar-chart)
@@ -243,30 +243,30 @@
 
 (delay
   (-> processed-date-counts
-      (vis/hanami-layers {}
-                         [(vis/hanami-plot nil
-                                           ht/line-chart
-                                           {:X "date"
-                                            :XTYPE "temporal"
-                                            :Y "n"})
-                          (vis/hanami-plot nil
-                                           ht/line-chart
-                                           {:X "date"
-                                            :XTYPE "temporal"
-                                            :Y "n-smoothed30"
-                                            :MCOLOR "brown"})])))
+      (hanami/layers {}
+                     [(hanami/plot nil
+                                   ht/line-chart
+                                   {:X "date"
+                                    :XTYPE "temporal"
+                                    :Y "n"})
+                      (hanami/plot nil
+                                   ht/line-chart
+                                   {:X "date"
+                                    :XTYPE "temporal"
+                                    :Y "n-smoothed30"
+                                    :MCOLOR "brown"})])))
 
 (delay
   (-> processed-date-counts
       (tc/select-rows (fn [row]
                         (and (-> row :years (> 2012))
                              (-> row :years (rem 3) (= 0)))))
-      (vis/hanami-plot ht/line-chart
-                       {:X "day-of-year"
-                        :Y "n-smoothed30"
-                        :YSCALE {:zero false}
-                        :COLOR "years"
-                        :OPACITY 0.5})))
+      (hanami/plot ht/line-chart
+                   {:X "day-of-year"
+                    :Y "n-smoothed30"
+                    :YSCALE {:zero false}
+                    :COLOR "years"
+                    :OPACITY 0.5})))
 
 
 (defn normalize [xs]
@@ -312,23 +312,23 @@
                                             #(-> %
                                                  :right.smoothed30
                                                  normalize)})
-                           (vis/hanami-layers
+                           (hanami/layers
                             {}
-                            [(vis/hanami-plot nil
-                                              ht/line-chart
-                                              {:X "date"
-                                               :XTYPE "temporal"
-                                               :Y "global-smoothed30-normalized"
-                                               :MCOLOR "brown"
-                                               :OPACITY 0.5
-                                               :MSIZE 2})
-                             (vis/hanami-plot nil
-                                              ht/line-chart
-                                              {:X "date"
-                                               :XTYPE "temporal"
-                                               :Y "smoothed30-normalized"
-                                               :OPACITY 0.5
-                                               :MSIZE 2})]))])))))))
+                            [(hanami/plot nil
+                                          ht/line-chart
+                                          {:X "date"
+                                           :XTYPE "temporal"
+                                           :Y "global-smoothed30-normalized"
+                                           :MCOLOR "brown"
+                                           :OPACITY 0.5
+                                           :MSIZE 2})
+                             (hanami/plot nil
+                                          ht/line-chart
+                                          {:X "date"
+                                           :XTYPE "temporal"
+                                           :Y "smoothed30-normalized"
+                                           :OPACITY 0.5
+                                           :MSIZE 2})]))])))))))
 
 
 

@@ -1,6 +1,6 @@
 (ns notebooks.commit-details
   (:require [tablecloth.api :as tc]
-            [scicloj.noj.v1.vis :as vis]
+            [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [tech.v3.datatype.datetime :as datetime]
             [tech.v3.datatype.rolling :as rolling]
@@ -41,12 +41,12 @@
     (tc/order-by [:n-contributors] :desc)
     (tc/left-join data.generate-dataset/repos-ds [:html_url])
     (tc/select-rows #(-> % :n-contributors (> 20)))
-    (vis/hanami-plot ht/point-chart
-                     {:X :n-contributors
-                      :XSCALE {:type "log"}
-                      :Y :stargazers_count
-                      :YSCALE {:type "log"}
-                      :COLOR "language"}))
+    (hanami/plot ht/point-chart
+                 {:X :n-contributors
+                  :XSCALE {:type "log"}
+                  :Y :stargazers_count
+                  :YSCALE {:type "log"}
+                  :COLOR "language"}))
 
 
 (-> data.generate-dataset/commit-details
@@ -60,11 +60,11 @@
     (tc/left-join data.generate-dataset/repos-ds [:html_url])
     (tc/select-rows #(-> % :n-contributors (> 20)))
     (tc/group-by [:language])
-    (vis/hanami-plot ht/point-chart
-                     {:X :n-contributors
-                      :XSCALE {:type "log"}
-                      :Y :stargazers_count
-                      :YSCALE {:type "log"}}))
+    (hanami/plot ht/point-chart
+                 {:X :n-contributors
+                  :XSCALE {:type "log"}
+                  :Y :stargazers_count
+                  :YSCALE {:type "log"}}))
 
 
 
@@ -78,32 +78,24 @@
     (tc/order-by [:n-contributors] :desc)
     (tc/left-join data.generate-dataset/repos-ds [:html_url])
     (tc/select-rows #(-> % :n-contributors (> 20)))
-    (tc/group-by [:language] {:result-type :as-map})
-    (update-vals
-     (fn [ds]
-       (-> ds
-           (tc/add-columns {:log-stargazers #(-> %
-                                                 :stargazers_count
-                                                 fun/log)
-                            :log-contributors #(-> %
-                                                   :n-contributors
-                                                   fun/log)})
-           (stats/add-predictions :log-stargazers
-                                  [:log-contributors]
-                                  {:model-type :smile.regression/ordinary-least-square})
-           (vis/hanami-layers {}
-                              [(vis/hanami-plot nil
-                                                ht/point-chart
-                                                {:X :log-contributors
-                                                 :Y :log-stargazers
-                                                 :XSCALE {:zero false}
-                                                 :YSCALE {:zero false
-                                                          :domain [5 12]}})
-                               (vis/hanami-plot nil
-                                                ht/line-chart
-                                                {:X :log-contributors
-                                                 :Y :log-stargazers-prediction
-                                                 :MCOLOR "#91DC47"
-                                                 :XSCALE {:zero false}
-                                                 :YSCALE {:zero false
-                                                          :domain [5 12]}})])))))
+    (tc/group-by [:language])
+    (tc/add-columns {:log-stargazers #(-> %
+                                          :stargazers_count
+                                          fun/log)
+                     :log-contributors #(-> %
+                                            :n-contributors
+                                            fun/log)})
+    (stats/add-predictions :log-stargazers
+                           [:log-contributors]
+                           {:model-type :smile.regression/ordinary-least-square})
+    (hanami/combined-plot
+     ht/layer-chart
+     {:X :log-contributors
+      :XSCALE {:zero false}
+      :YSCALE {:zero false
+               :domain [5 12]}}
+     :LAYER [[ht/point-chart
+              {:Y :log-stargazers}]
+             [ht/line-chart
+              {:Y :log-stargazers-prediction
+               :MCOLOR "brown"}]]))

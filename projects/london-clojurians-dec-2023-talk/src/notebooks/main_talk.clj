@@ -1,7 +1,7 @@
 (ns notebooks.main-talk
   (:require [tablecloth.api :as tc]
             [tablecloth.api.columns :as tcc]
-            [scicloj.noj.v1.vis :as vis]
+            [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [tech.v3.datatype.datetime :as datetime]
             [tech.v3.datatype.rolling :as rolling]
@@ -49,11 +49,11 @@
                           :created_at])
       ))
 
-(vis/hanami-plot clojure-repos
-                 ht/point-chart
-                 {:X :created_at
-                  :XTYPE "temporal"
-                  :Y :watchers_count})
+(hanami/plot clojure-repos
+             ht/point-chart
+             {:X :created_at
+              :XTYPE "temporal"
+              :Y :watchers_count})
 
 ;; Group repos by owner
 
