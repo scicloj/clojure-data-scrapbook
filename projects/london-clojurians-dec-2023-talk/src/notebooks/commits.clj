@@ -271,23 +271,17 @@
                                             #(-> %
                                                  :right.smoothed30
                                                  normalize)})
-                           (hanami/layers
-                            {}
-                            [(hanami/plot nil
-                                          ht/line-chart
-                                          {:X "date"
-                                           :XTYPE "temporal"
-                                           :Y "global-smoothed30-normalized"
-                                           :MCOLOR "brown"
-                                           :OPACITY 0.5
-                                           :MSIZE 2})
-                             (hanami/plot nil
-                                          ht/line-chart
-                                          {:X "date"
-                                           :XTYPE "temporal"
-                                           :Y "smoothed30-normalized"
-                                           :OPACITY 0.5
-                                           :MSIZE 2})]))])))))))
+                           (hanami/combined-plot
+                            ht/layer-chart
+                            {:X "date"
+                             :XTYPE "temporal"
+                             :OPACITY 0.5
+                             :MSIZE 2}
+                            :LAYER [[ht/line-chart
+                                     {:Y "global-smoothed30-normalized"
+                                      :MCOLOR "brown"}]
+                                    [ht/line-chart
+                                     {:Y "smoothed30-normalized"}]]))])))))))
 
 
 
