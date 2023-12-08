@@ -31,36 +31,13 @@
       (tc/map-columns :sample [:owner] (fn [owner]
                                          (str "S"
                                               (-> owner
-                                                  first
-                                                  str
-                                                  ;; hash
-                                                  ;; (rem 10)
-                                                  ))))
+                                                  hash
+                                                  (rem 2)))))
       (tc/group-by [:date :language :sample])
       (tc/aggregate {:n tc/row-count})
       (tc/order-by [:date :language :sample])))
 
-(delay
-  (-> date-counts
-      (tc/select-rows #(-> % :language (= "Clojure")))
-      (hanami/plot ht/line-chart
-                       {:X "date"
-                        :XTYPE "temporal"
-                        :Y "n"
-                        :COLOR "sample"
-                        :OPACITY 0.4})))
 
-(delay
-  (-> date-counts
-      (tc/group-by :language {:result-type :as-map})
-      (->> (mapv (fn [[language counts]]
-                   (-> counts
-                       (hanami/plot ht/line-chart
-                                    {:X "date"
-                                     :XTYPE "temporal"
-                                     :Y "n"
-                                     :COLOR "sample"
-                                     :OPACITY 0.4})))))))
 
 (defn add-temporal-field [ds tf]
   (-> ds
@@ -85,7 +62,7 @@
       (add-temporal-field :day-of-week)
       (add-temporal-field :day-of-year)
       (add-temporal-field :years)
-      (tc/group-by [:language])
+      (tc/group-by [:language :sample])
       (add-smoothed-counts 30)
       tc/ungroup))
 
@@ -99,38 +76,26 @@
   (-> processed-date-counts
       (tc/select-rows (fn [row]
                         (-> row :years (#{2014 2018 2022}))))
-      (tc/group-by [:language :sample] {:result-type :as-map})
-      (->> (mapv (fn [[group counts]]
-                   [group (-> counts
-                              (hanami/plot ht/line-chart
-                                           {:X "day-of-year"
-                                            :Y "smoothed30"
-                                            :COLOR "years"
-                                            :OPACITY 0.5}))])))))
-
-
+      (tc/group-by [:language :sample])
+      (hanami/plot ht/line-chart
+                   {:X "day-of-year"
+                    :Y "smoothed30"
+                    :COLOR "years"
+                    :OPACITY 0.5})))
 
 (delay
   (-> processed-date-counts
       (tc/select-rows (fn [row]
                         (-> row :years (#{2021}))))
-      (tc/group-by [:language] {:result-type :as-map})
-      (->> (mapv (fn [[group counts]]
-                   (assoc group
-                          :time-series (-> counts
-                                           (hanami/plot ht/line-chart
-                                                        {:X "date"
-                                                         :XTYPE "temporal"
-                                                         :Y "smoothed30"
-                                                         :COLOR "sample"
-                                                         :OPACITY 0.5
-                                                         :HEIGHT 200
-                                                         :WIDTH 3000}))))))
-      tc/dataset
-      kind/table))
-
-
-
+      (tc/group-by [:language])
+      (hanami/plot ht/line-chart
+                   {:X "date"
+                    :XTYPE "temporal"
+                    :Y "smoothed30"
+                    :COLOR "sample"
+                    :OPACITY 0.5
+                    :HEIGHT 200
+                    :WIDTH 3000})))
 
 
 (delay
@@ -213,12 +178,6 @@
 
 
 
-
-
-
-
-
-
 (defn plot-average-by-temporal-field [tf template]
   (-> date-counts
       (tc/add-column tf (fn [ds]
@@ -243,18 +202,18 @@
 
 (delay
   (-> processed-date-counts
-      (hanami/layers {}
-                     [(hanami/plot nil
-                                   ht/line-chart
-                                   {:X "date"
-                                    :XTYPE "temporal"
-                                    :Y "n"})
-                      (hanami/plot nil
-                                   ht/line-chart
-                                   {:X "date"
-                                    :XTYPE "temporal"
-                                    :Y "n-smoothed30"
-                                    :MCOLOR "brown"})])))
+      (tc/select-rows #(-> % :years (= 2019)))
+      (tc/group-by [:language :sample])
+      (hanami/combined-plot
+       ht/layer-chart
+       {:WIDTH 3000
+        :X "date"
+        :XTYPE "temporal"}
+       :LAYER [[ht/line-chart
+                {:Y "n"}]
+               [ht/line-chart
+                {:Y "smoothed30"
+                 :MCOLOR "brown"}]])))
 
 (delay
   (-> processed-date-counts
