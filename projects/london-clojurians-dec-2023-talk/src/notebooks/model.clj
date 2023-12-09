@@ -165,11 +165,10 @@
            (apply tc/concat))
       (tc/set-dataset-name "")))
 
-(-> test-with-predictions-active-owners
+(-> test-with-predictions
     (hanami/histogram :residual {:nbins 100}))
 
-
-(-> test-with-predictions-active-owners
+(-> test-with-predictions
     (time-series/add-temporal-field :years)
     (tc/select-rows #(and (-> % :residual (> 2))
                           (-> % :years (>= 2019))))
@@ -178,3 +177,14 @@
                   :XTYPE "temporal"
                   :Y :residual
                   :COLOR "language"}))
+
+
+(-> test-with-predictions
+    (time-series/add-temporal-field :years)
+    (time-series/add-temporal-field :day-of-year)
+    (tc/select-rows #(and (-> % :residual (> 0.5))
+                          (-> % :years (= 2023))))
+    (tc/group-by :language {:result-type :as-map})
+    (update-vals (fn [ds]
+                   (-> ds
+                       (hanami/histogram :day-of-year {:nbins 100 })))))
