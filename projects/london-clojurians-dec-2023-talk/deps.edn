@@ -4,5 +4,6 @@
          com.cnuernber/charred {:mvn/version "1.033"}
          clj-http/clj-http {:mvn/version "3.12.3"}
          org.scicloj/tempfiles {:mvn/version "1-alpha2"}
-         listora/again {:mvn/version "1.0.0"}}
+         listora/again {:mvn/version "1.0.0"}
+         techascent/tech.parallel {:mvn/version "2.11"}}
  :paths ["src"]}
