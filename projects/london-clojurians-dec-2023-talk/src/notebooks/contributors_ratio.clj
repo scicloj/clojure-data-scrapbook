@@ -110,7 +110,7 @@
                           ])
       (tc/pivot->longer (complement #{:language :html_url :date})
                         {:target-columns :committer
-                         :value-column-name :acc-commits})
+                         :value-column-name :acc-n-commits})
       (tc/group-by [:language :html_url])
       (hanami/plot
        ht/area-chart
