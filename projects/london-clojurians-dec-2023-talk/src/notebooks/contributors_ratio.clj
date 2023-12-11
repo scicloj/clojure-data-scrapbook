@@ -102,15 +102,9 @@
                        :value-column-name :acc-commits})
     (tc/group-by [:language :html_url])
     (hanami/combined-plot
-     ht/layer-chart
+     ht/area-chart
      {:X "date"
       :XTYPE "temporal"
-      :MSIZE 10}
-     :LAYER [[ht/area-chart
-              {:Y "acc-commits"
-               :YSCALE {:type "log"}
-               :COLOR "committer"}]]))
-
-
-(-> repos-growth
-    (tc/select-rows #(-> % :html_url (= "https://github.com/twosigma/Cook"))))
+      :MSIZE 10
+      :Y "acc-commits"
+      :COLOR "committer"}))
