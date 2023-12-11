@@ -6,7 +6,8 @@
             [tech.v3.datatype.datetime :as datetime]
             [tech.v3.datatype.rolling :as rolling]
             [tech.v3.datatype.functional :as fun]
-            [data.generate-dataset]))
+            [data.generate-dataset]
+            [charred.api :as charred]))
 
 ;; # London Clojurians Talk December 2023
 
@@ -46,14 +47,63 @@
                           :full_name
                           :owner_handle
                           :watchers_count
+                          :stargazers_count
                           :created_at])
       ))
+
+;; Do newer repos have fewer watchers?
 
 (hanami/plot clojure-repos
              ht/point-chart
              {:X :created_at
               :XTYPE "temporal"
               :Y :watchers_count})
+
+;; Outliers make this hard to interpret, so change the y-scale to make the graph easier to interpret
+
+;; One option is to remove them
+
+(-> clojure-repos
+    (tc/select-rows #(< (:watchers_count %) 10000))
+    (vis/hanami-plot ht/point-chart
+                     {:X      :created_at
+                      :XTYPE  "temporal"
+                      :Y      :watchers_count}))
+
+;; This isn't necessarily easier, another option is to change the y scale from a linear one to
+;; logarithmic one, which is useful when you have a really big range of values because
+;; logarithmic scales compensate for order of magnitude differences
+;; i.e. 1, 10, 100 are equally spaced on a logarithmic scale, compared to a linear scale where
+;; 1, 2, 3 are equally spaced
+
+(-> clojure-repos
+    (tc/select-rows #(< (:watchers_count %) 10000))
+    (vis/hanami-plot ht/point-chart
+                     {:X     :created_at
+                      :XTYPE "temporal"
+                      :Y     :watchers_count
+                      :YSCALE {:type "log"}}))
+
+;; What about stargazers?
+
+(vis/hanami-plot clojure-repos
+                 ht/point-chart
+                 {:X      :created_at
+                  :XTYPE  "temporal"
+                  :Y      :stargazers_count
+                  :YSCALE {:type "log"}})
+
+;; Is there a relationship between the number of contributors and stargazers?
+
+(-> clojure-repos
+    (tc/select-columns [:full_name :contributors_url])
+    (tc/head 15)
+    (tc/map-columns :contributors_count
+                   [:contributors_url]
+                   (fn [url] (->> url slurp charred/read-json
+                                  (filter #(> 10 (get % "contributions"))) count))))
+
+
 
 ;; Group repos by owner
 
