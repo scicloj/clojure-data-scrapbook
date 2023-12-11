@@ -19,13 +19,27 @@
   (prn [tag x])
   x)
 
+(defn add-freqs
+  ([]
+   {})
+  ([freqs]
+   freqs)
+  ([freqs1 freqs2]
+   (->> (concat freqs1 freqs2)
+        (group-by key)
+        (map (fn [[k freqs]]
+               [k (->> freqs
+                       (map val)
+                       (reduce +))]))
+        (into {}))))
+
 (def repos-growth
   (-> data.generate-dataset/commit-details
       (tc/group-by [:language :html_url :date])
       (tc/aggregate {:n-commits tc/row-count
-                     :n-emails #(-> % :email distinct count)
-                     :commit-emails #(-> % :email vector)})
-      (tc/rename-columns {:commit-emails-0 :commit-emails})
+                     :n-committers #(-> % :email distinct count)
+                     :committers #(-> % :email vector)})
+      (tc/rename-columns {:committers-0 :committers})
       (tc/group-by [:language :html_url] {:result-type :as-map})
       (->> (filter (fn [[_ group-data]]
                      (-> group-data tc/row-count (>= 100))))
@@ -40,40 +54,62 @@
                                                 :n-commits
                                                 fun/cumsum))
                                    ;;
-                                   :acc-n-commits-by-first
+                                   :acc-n-commits-by-frequent
                                    (fn [ds]
-                                     (let [most-frequent-email (->> ds
-                                                                    :commit-emails
-                                                                    (apply concat)
-                                                                    frequencies
-                                                                    (apply max-key val)
-                                                                    key)]
-                                       (prn [:most most-frequent-email])
+                                     (let [most-frequent-email-ranks (->> ds
+                                                                          :committers
+                                                                          (apply concat)
+                                                                          frequencies
+                                                                          (sort-by val)
+                                                                          reverse
+                                                                          (take 5)
+                                                                          (map-indexed (fn [i [email times]]
+                                                                                         [email i]))
+                                                                          (into {}))]
+                                       #_(prn [:most most-frequent-email-ranks])
                                        (-> (->> ds
-                                                :commit-emails
+                                                :committers
                                                 (map (fn [emails]
                                                        (->> emails
-                                                            (filter (partial = most-frequent-email))
-                                                            count)))
-                                                (reductions +)))))}))))
+                                                            (map #(-> %
+                                                                      most-frequent-email-ranks
+                                                                      (or "other")))
+                                                            frequencies)))
+                                                (reductions add-freqs)
+                                                (map vector)))))}))))
            (apply tc/concat))
       (tc/set-dataset-name "")
+      (tc/add-columns (->> (range 5)
+                           (cons "other")
+                           (map (fn [i]
+                                  [(keyword (str "rank-" i))
+                                   (fn [ds]
+                                     (->> ds
+                                          :acc-n-commits-by-frequent
+                                          (map #(-> % first (get i 0)))))]))
+                           (into {})))
       time))
 
 
+
+
 (-> repos-growth
+    (tc/select-columns [:language :html_url :date
+                        :rank-0 :rank-1 :rank-2 :rank-3 :rank-4 :rank-other
+                        ])
+    (tc/pivot->longer (complement #{:language :html_url :date})
+                      {:target-columns :committer
+                       :value-column-name :acc-commits})
     (tc/group-by [:language :html_url])
     (hanami/combined-plot
      ht/layer-chart
      {:X "date"
       :XTYPE "temporal"
-      :MSIZE 10
-      :OPACITY 0.5}
-     :LAYER [[ht/line-chart
-              {:Y "acc-n-commits"}]
-             [ht/line-chart
-              {:Y "acc-n-commits-by-first"
-               :MCOLOR "brown"}]]))
+      :MSIZE 10}
+     :LAYER [[ht/area-chart
+              {:Y "acc-commits"
+               :YSCALE {:type "log"}
+               :COLOR "committer"}]]))
 
 
 (-> repos-growth
