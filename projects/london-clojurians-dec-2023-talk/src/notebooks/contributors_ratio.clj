@@ -92,19 +92,30 @@
 
 
 
-
 (-> repos-growth
-    (tc/select-columns [:language :html_url :date
-                        :rank-0 :rank-1 :rank-2 :rank-3 :rank-4 :rank-other
-                        ])
-    (tc/pivot->longer (complement #{:language :html_url :date})
-                      {:target-columns :committer
-                       :value-column-name :acc-commits})
     (tc/group-by [:language :html_url])
-    (hanami/combined-plot
+    (hanami/plot
      ht/area-chart
      {:X "date"
       :XTYPE "temporal"
       :MSIZE 10
-      :Y "acc-commits"
-      :COLOR "committer"}))
+      :Y "acc-n-commits"}))
+
+
+
+(delay
+  (-> repos-growth
+      (tc/select-columns [:language :html_url :date
+                          :rank-0 :rank-1 :rank-2 :rank-3 :rank-4 :rank-other
+                          ])
+      (tc/pivot->longer (complement #{:language :html_url :date})
+                        {:target-columns :committer
+                         :value-column-name :acc-commits})
+      (tc/group-by [:language :html_url])
+      (hanami/plot
+       ht/area-chart
+       {:X "date"
+        :XTYPE "temporal"
+        :MSIZE 10
+        :Y "acc-n-commits"
+        :COLOR "committer"})))
