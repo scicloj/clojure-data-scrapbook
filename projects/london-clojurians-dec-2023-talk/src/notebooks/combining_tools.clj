@@ -10,13 +10,21 @@
 [scicloj.org](http://scicloj.org)
 ")
 
+(kind/md "##
+![](https://raw.githubusercontent.com/practicalli-john/london-clojurians-logo/master/london-clojurians-logo.svg)
+")
+
+(kind/md "##
+![](https://sessionize.com/image/68c6-1140o400o3-Boo2pA28xQfvKskyXqwcmd.jpg)")
+
+
 (kind/md "## Plan
 - Dynamic report making with slow processes
 - Data processing & visualization in harmony
 ")
 
 (kind/md "## Use case: analysing commit logs
-- Which projects are encouraging community conributions?")
+- Which projects are encouraging community contributions?")
 
 (kind/md "## Data pipeline
 - take the 1000 most popular Clojure repos (according to Github's API)
@@ -27,7 +35,8 @@
 
 (kind/md "## Limitations
 - a biased data sample
-- descriptive statistics, not statistical inference")
+- descriptive statistics, not statistical inference
+- interpretation is not obvious")
 
 (kind/md "# Dynamic report making with slow processes")
 
@@ -53,3 +62,5 @@
 (kind/md "## Noj
 - collecting the relevant dependencies
 - composing them for common use cases")
+
+(kind/md "# Thanks")
