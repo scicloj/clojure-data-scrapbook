@@ -1,6 +1,6 @@
 ---
 { title: "Cooking up a data workflow",
-  subtitle: "Your community needs you",
+  subtitle: "How to code a book",
   author:
     { name: "Timothy Pratley",
       url: "timothypratley.blogspot.com",
@@ -9,8 +9,14 @@
     { revealjs:
         { theme: [ "default", "custom.scss" ],
           include-in-header:
-            { text: '<link rel="shortcut icon" href="Cookbook.svg" />' } } } }
+            { text: '<link rel="shortcut icon" href="Cookbook.svg" />' },
+          code-line-numbers: false } } }
 ---
+
+##
+
+![](australia.svg)
+
 
 ## Graphs
 
@@ -39,6 +45,8 @@ libraries rule
 :::
 
 ::: {.fragment}
+![](https://sessionize.com/image/22fd-200o200o2-J2zFSVq1LwnRm5Dx9q18nF.jpg)
+
 scicloj: clojure data cookbook
 :::
 
@@ -81,6 +89,34 @@ prose, code, and visualizations
 explorable, reproducible, testable
 :::
 
+## Obstacles <img alt="books" width=400 src="books-stack-of-three.svg" align="right">
+
+::: {.fragment}
+choosing tools
+:::
+
+::: {.fragment}
+tool specific code
+:::
+
+::: {.fragment}
+collating chapters
+:::
+
+::: {.fragment}
+slow loading large documents
+:::
+
+::: {.fragment}
+situational - this or that
+:::
+
+::: {.fragment}
+::: {.callout-warning appearance="simple"}
+many tools, no complete path
+:::
+:::
+
 ## Kindly <img src="Kindly.svg" align="right" width=400>
 
 ::: {.fragment }
@@ -113,43 +149,17 @@ supported by tools (`clay`),
 or adapted to tools (`kind-portal`, `kind-clerk`)
 :::
 
-## Kindly promise <img src="Kindly.svg" align="right" width=400>
-
-just works with whatever tools you want to use
-
-no breaking changes
-
-notebooks, blogs, books, library code, application code
-
-easy for toolmakers to support
-
 ## Clay <img src="Clay.svg" align="right" width=400>
+
+![](https://sessionize.com/image/fb44-200o200o2-BtKo3zRJ3BuxFp9gzM2TDf.jpg)
 
 dynamic visualization
 
 static documents
 
-## Obstacles <img alt="books" width=400 src="books-stack-of-three.svg" align="right">
-
-::: {.fragment}
-collating chapters
-:::
-
-::: {.fragment}
-tool specific code
-:::
-
-::: {.fragment}
-poor performance
-:::
-
-::: {.fragment}
-git churn
-:::
-
 ::: {.fragment}
 ::: {.callout-warning appearance="simple"}
-lots of tools, no complete path
+books
 :::
 :::
 
@@ -169,30 +179,24 @@ R and python
 
 ::: {.fragment}
 ::: {.callout-tip appearance="simple"}
-focus on creating markdown suitable for Quarto
+clojure `->` markdown `->` quarto `->` book
 :::
 :::
 
-## Claykind experiment <img src="claykind.svg" align="right" width=400>
+## Experiment <img src="claykind.svg" align="right" width=400>
 
 ::: {.fragment}
 can `clay` be simpler?
 :::
 
 ::: {.fragment}
-leave markdown to `quarto`
+notebook eval as data
+
+(babashka, testing)
 :::
 
 ::: {.fragment}
-github flavored markdown (documentation)
-:::
-
-::: {.fragment}
-eval as data (babashka, testing)
-:::
-
-::: {.fragment}
-untangle into components
+let `quarto` cook
 :::
 
 ::: {.fragment}
@@ -201,15 +205,12 @@ a simpler thing might be more useful
 :::
 :::
 
-## {background-image="babashka-markdown.png" background-size="contain"}
-
-## {background-image="babashka-book.png" background-size="contain"}
-
-## Eval as data
+## Eval as data `read-kinds`
 
 ```clojure
 (ns my.example)
-(+ 1 2)
+(def r 10)
+^:kind/hiccup [:svg [:circle {:r r}]]
 ...
 ```
 
@@ -218,43 +219,85 @@ a simpler thing might be more useful
 >   :form  (ns my.example)
 >   :value nil
 >   :kind  nil}
->  {:code  "(+ 1 2)"
->   :form  (+ 1 2)
->   :value 3
+>  {:code  "(def r 10)"
+>   :form  (def r 10)
+>   :value nil
 >   :kind  nil}
+>  {:code  "^:kind/hiccup [:svg [:circle {:r r}]]"
+>   :form  [:svg [:circle {:r r}]]
+>   :value [:svg [:circle {:r 10}]]
+>   :kind  :kind/hiccup}
 >   ...]
 >```
 
-::: {.fragment }
-::: {.callout-tip appearance="simple"}
-`read-kinds`
-:::
-:::
-
-## Discoveries
+## Realizations
 
 ::: {.fragment}
-`kindly` needs no behavior
-:::
+we need `kindly-advice`
 
-::: {.fragment}
-tool-makers need `kindly-advice`
+standard for tool-makers
 
-multiple ways to annotate, nested annotations, kind inference (images, datasets, user extensible)
+multiple ways to annotate, nested annotations, kind inference
+
+(images, datasets, user extensible)
 :::
 
 ::: {.fragment}
-users depend on a **tool** version (dev only)
+users depend on a **tool** version
+
+(dev only)
 :::
 
 ::: {.fragment}
 it's good to know when values change `note-to-test`
 :::
 
-## Clay v2 <img src="Clay.svg" align="right" width=400>
+::: {.fragment}
+`kindly` should provide no behavior
+
+abstract interface
+:::
+
+## Composable parts
+
+![](literate.svg)
+
+## Crystalized path
+
+![](literate-d1.svg)
+
+## Kindly promise <img src="Kindly.svg" align="right" width=400>
+
+just works with whatever tools you want to use
+
+no breaking changes
+
+notebooks, blogs, books, library code, application code
+
+easy for toolmakers to support
+
+## Babashka
+
+![](babashka-book.png)
+
+## Markdown flavors
+
+![](babashka-markdown.png)
+
+## Static
+
+plain ol' html
+
+vega, cytoscape, etc as JavaScript
+
+only when you use them
+
+reagent/scittle only when requested
+
+## Clay v2 (alpha) <img src="Clay.svg" align="right" width=400>
 
 ::: {.fragment}
-lightweight (may include JavaScript)
+lightweight visualizations
 :::
 
 ::: {.fragment}
@@ -311,29 +354,14 @@ extra options are merged
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-bind a key to
+bind a key
 
 ```clojure
-(make! {:source-path ~current-file
-        :format      [:html]})
+(clay/make! {:source-path ~current-file})
 ```
 
-to view progress
 :::
 :::
-
-## Write, don't show  <img src="Clay.svg" align="right" width=400>
-
-```clojure
-{:show false}
-```
-
-## Multiple namespaces <img src="Clay.svg" align="right" width=400>
-
-```clojure
-{:source-path ["notebooks/slides.clj"
-               "notebooks/index.clj"]}
-```
 
 ## Single form <img src="Clay.svg" align="right" width=400>
 
@@ -347,49 +375,77 @@ to view progress
 
 ::: {.fragment }
 ::: {.callout-tip appearance="simple"}
-bind a key to
+bind a key
 
 ```clojure
-(make! {:source-path ~current-file
-        :single-form ~form-before-caret
-        :show        true})
+(clay/make! {:source-path ~current-file
+             :single-form ~form-before-caret})
 ```
 
-for interactive development
 :::
 :::
 
-## Use Quarto <img src="Clay.svg" align="right" width=400>
+## Multiple namespaces <img src="Clay.svg" align="right" width=400>
+
+```clojure
+{:source-path ["notebooks/slides.clj"
+               "notebooks/index.clj"]}
+```
+
+::: {.fragment }
+::: {.callout-tip appearance="simple"}
+
+bind a key
+
+```clojure
+(clay/make! {})
+```
+
+::: {.fragment }
+cli
+
+```sh
+clojure -M:dev -m scicloj.clay.v2.main
+```
+
+:::
+:::
+:::
+
+## Options <img src="Clay.svg" align="right" width=400>
+
+serverless
+
+```clojure
+{:show false}
+```
+
+quarto
 
 ```clojure
 {:format [:quarto :html]}
 ```
 
-## Only Markdown <img src="Clay.svg" align="right" width=400>
+markdown
 
 ```clojure
 {:format     [:quarto :html]
  :run-quarto false}
 ```
 
-## Slides <img src="Clay.svg" align="right" width=400>
+slides
 
 ```clojure
-{:format      [:quarto :revealjs]
- :source-path "notebooks/slides.clj"}
+{:format      [:quarto :revealjs]}
 ```
 
 ## Books <img src="Clay.svg" align="right" width=400>
 
 ```clojure
 {:format           [:quarto :html]
- :base-source-path "notebooks"
  :source-path      ["index.clj"
                     "chapter.clj"
                     "another_chapter.md"]
- :base-target-path "book"
- :show             false
- :run-quarto       false
  :book             {:title "Book Example"}}
 ```
 
@@ -405,14 +461,10 @@ interactive development
 
 static publishing
 
-```sh
-clojure -M:dev -m scicloj.clay.main
-```
-
 :::
 :::
 
-## How to literate <img src="path.svg" align="right" width=400>
+## How to literate <img src="literate-d2.svg" align="right" width=400>
 
 ::: {.fragment}
 start a namespace
@@ -607,7 +659,7 @@ builds community
 :::
 :::
 
-## Community {background-image="all.svg" background-size="contain"}
+## Communities {background-image="all.svg" background-size="contain"}
 
 ::: {.fragment}
 learn together
@@ -623,6 +675,8 @@ scicloj was born of a simple vision:
 small groups working on problems together
 
 thinking, collaborating, solving, and writing
+
+consider joining a study group, working group, or suggest a new group
 :::
 :::
 
@@ -630,9 +684,7 @@ thinking, collaborating, solving, and writing
 ::: {.callout-note appearance="simple"}
 we'd love you to join us in search of answers
 
-https://scicloj.github.io/
-
-consider joining a study group, working group, or suggest a new group
+https://scicloj.org/
 
 your community needs you!
 :::
