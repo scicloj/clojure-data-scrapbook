@@ -1,17 +1,26 @@
 (ns notebooks.main-talk
   (:require [tablecloth.api :as tc]
+            [scicloj.noj.v1.vis :as vis]
             [tablecloth.api.columns :as tcc]
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [tech.v3.datatype.datetime :as datetime]
-            [tech.v3.datatype.rolling :as rolling]
-            [tech.v3.datatype.functional :as fun]
             [data.generate-dataset]
-            [charred.api :as charred]))
+            [charred.api :as charred]
+            [clojure.edn :as edn]))
 
 ;; # London Clojurians Talk December 2023
 
-;; ## Clean up dataset
+;; ## How do you work with data in Clojure?
+
+;; What's in this dataset?
+
+(-> "data/1000-repos.edn"
+    slurp
+    clojure.edn/read-string
+    first)
+
+;; Load data as a dataset
 
 (def clojure-repos
   (-> "data/1000-repos.edn"
@@ -40,16 +49,13 @@
 
 (-> clojure-repos (tc/select-rows 0) :owner first :login)
 
-(def smaller-clojure-repos
-  (-> clojure-repos
-      (tc/map-columns :owner_handle [:owner] :login)
-      (tc/select-columns [:html_url
-                          :full_name
-                          :owner_handle
-                          :watchers_count
-                          :stargazers_count
-                          :created_at])
-      ))
+(-> clojure-repos
+    (tc/map-columns :owner_handle [:owner] :login)
+    (tc/select-columns [:full_name
+                        :owner_handle
+                        :watchers_count
+                        :stargazers_count
+                        :created_at]))
 
 ;; Do newer repos have fewer watchers?
 
@@ -76,8 +82,10 @@
 ;; i.e. 1, 10, 100 are equally spaced on a logarithmic scale, compared to a linear scale where
 ;; 1, 2, 3 are equally spaced
 
+;; TODO: add more things to hanami plot hover labels
+
 (-> clojure-repos
-    (tc/select-rows #(< (:watchers_count %) 10000))
+    ;; (tc/select-rows #(< (:watchers_count %) 10000))
     (vis/hanami-plot ht/point-chart
                      {:X     :created_at
                       :XTYPE "temporal"
