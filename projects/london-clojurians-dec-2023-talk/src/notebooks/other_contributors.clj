@@ -1,17 +1,11 @@
 (ns notebooks.other-contributors
-  (:require [tablecloth.api :as tc]
+  (:require [data.generate-dataset][tablecloth.api :as tc]
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [fastmath.stats]
-            [tech.v3.datatype :as dtype]
-            [tech.v3.datatype.datetime :as datetime]
-            [tech.v3.datatype.rolling :as rolling]
             [tech.v3.datatype.functional :as fun]
             [tech.v3.dataset.print :as print]
             [tech.parallel :as parallel]
-            [data.generate-dataset]
-            [util.time-series :as time-series]
-            [clojure.math :as math]
             [scicloj.kindly.v4.kind :as kind]
             [clojure.set :as set])
   (:import java.time.temporal.ChronoUnit
@@ -99,9 +93,11 @@
                                  (-> ds
                                      :date
                                      (#(.until ^LocalDate (first %)
-                                               ^LocalDate (last %)
-                                               ChronoUnit/DAYS))))})))
+                                               ^LocalDate (last %)))))})))
 
+(delay
+  (-> repos-growth
+      (tc/drop-columns [:committers :by-frequent])))
 
 (delay
   (-> repos-growth
@@ -112,9 +108,6 @@
         :XTYPE "temporal"
         :MSIZE 10
         :Y "all-commits"})))
-
-
-
 
 (def rank-columns
   [:rank-0 :rank-1 :rank-2 :rank-3 :rank-4 :rank-other])
@@ -243,9 +236,6 @@
                                      {:point-options {:MSIZE 100
                                                       :OPACITY 0.6
                                                       :XSCALE {:domain [4 12]}
-                                                      :YSCALE {:domain [0 11]}}
-                                      :line-options {:MCOLOR "brown"}})
-      (tc/map-columns :plot [:plot]
-                      #(assoc-in %
-                                 [:encoding :tooltip]
-                                 {:field "html_url"}))))
+                                                      :YSCALE {:domain [0 11]}
+                                                      :TOOLTIP [{:field "html_url"}]}
+                                      :line-options {:MCOLOR "brown"}})))
