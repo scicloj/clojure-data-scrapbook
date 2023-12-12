@@ -1,25 +1,15 @@
 (ns notebooks.commit-details-gradually
-  (:require [tablecloth.api :as tc]
+  (:require [data.generate-dataset]
+            [tablecloth.api :as tc]
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
-            [tech.v3.datatype.datetime :as datetime]
-            [tech.v3.datatype.rolling :as rolling]
             [tech.v3.datatype.functional :as fun]
-            [tech.v3.dataset.print :as print]
-            [data.generate-dataset]
-            [clojure.math :as math]
             [scicloj.kindly.v4.kind :as kind]
-            [scicloj.noj.v1.stats :as stats]
-            [scicloj.clay.v2.api :as clay]
-            [clojure.string :as string]
-            [clojure.java.shell :as shell]
             [scicloj.kind-portal.v1.api :as kind-portal]
             [portal.api :as portal]
-            [clojure.java.io :as io]
-            [scicloj.kind-portal.v1.api :as kind-portal]))
-
-
-
+            [clojure.string :as string]
+            [clojure.java.shell :as shell]
+            [clojure.java.io :as io]))
 
 (defn url->clone-path [url]
   (-> url
@@ -69,13 +59,9 @@
 (defonce *portal-commit-logs (atom []))
 
 (defn collect! [limit]
-  (prn [:DBG1])
   (reset! *stop false)
-  (prn [:DBG2])
   (reset! *raw-commit-logs [])
-  (prn [:DBG2])
   (reset! *portal-commit-logs [])
-  (prn [:DBG3])
   (-> data.generate-dataset/repos-ds
       (tc/map-columns :clone-path [:html_url]
                       url->clone-path)
@@ -98,7 +84,7 @@
   (prn [:stopped]))
 
 (comment
-  (future (collect! 220))
+  (future (collect! 300))
 
   (reset! *stop true)
 
@@ -138,12 +124,11 @@
             {:XSCALE {:zero false
                       :domain [5 12]}
              :YSCALE {:zero false}
+             :TOOLTIP [{:field "html_url"}]
              :point-options {:MSIZE 100}
              :line-options {:MCOLOR "brown"
                             :MSIZE 10
-                            :OPACITY 0.5}})
-           (assoc-in [:encoding :tooltip]
-                     {:field "html_url"})))]))
+                            :OPACITY 0.5}})))]))
 
 (def *report (atom nil))
 
