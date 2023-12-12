@@ -13,11 +13,14 @@
             [util.time-series :as time-series]
             [clojure.math :as math]
             [scicloj.kindly.v4.kind :as kind]
-            [clojure.set :as set]))
+            [clojure.set :as set])
+  (:import java.time.temporal.ChronoUnit
+           java.time.LocalDate))
 
 (defn spy [x tag]
   (prn [tag x])
   x)
+
 
 (defn add-freqs
   ([]
@@ -33,7 +36,7 @@
                        (reduce +))]))
         (into {}))))
 
-(def repos-growth
+(defonce repos-growth
   (-> data.generate-dataset/commit-details
       (tc/group-by [:language :html_url :date])
       (tc/aggregate {:n-commits tc/row-count
@@ -49,12 +52,12 @@
               (-> group-data
                   (tc/order-by [:date])
                   (tc/add-columns {;;
-                                   :acc-n-commits
+                                   :all-commits
                                    (fn [ds] (-> ds
                                                 :n-commits
                                                 fun/cumsum))
                                    ;;
-                                   :acc-n-commits-by-frequent
+                                   :by-frequent
                                    (fn [ds]
                                      (let [most-frequent-email-ranks (->> ds
                                                                           :committers
@@ -66,7 +69,6 @@
                                                                           (map-indexed (fn [i [email times]]
                                                                                          [email i]))
                                                                           (into {}))]
-                                       #_(prn [:most most-frequent-email-ranks])
                                        (-> (->> ds
                                                 :committers
                                                 (map (fn [emails]
@@ -85,37 +87,174 @@
                                   [(keyword (str "rank-" i))
                                    (fn [ds]
                                      (->> ds
-                                          :acc-n-commits-by-frequent
+                                          :by-frequent
                                           (map #(-> % first (get i 0)))))]))
                            (into {})))
       time))
 
-
-
-(-> repos-growth
-    (tc/group-by [:language :html_url])
-    (hanami/plot
-     ht/area-chart
-     {:X "date"
-      :XTYPE "temporal"
-      :MSIZE 10
-      :Y "acc-n-commits"}))
-
+(def lifespans
+  (-> repos-growth
+      (tc/group-by [:language :html_url])
+      (tc/aggregate {:lifespan (fn [ds]
+                                 (-> ds
+                                     :date
+                                     (#(.until ^LocalDate (first %)
+                                               ^LocalDate (last %)
+                                               ChronoUnit/DAYS))))})))
 
 
 (delay
   (-> repos-growth
-      (tc/select-columns [:language :html_url :date
-                          :rank-0 :rank-1 :rank-2 :rank-3 :rank-4 :rank-other
-                          ])
-      (tc/pivot->longer (complement #{:language :html_url :date})
+      (tc/group-by [:language :html_url])
+      (hanami/plot
+       ht/line-chart
+       {:X "date"
+        :XTYPE "temporal"
+        :MSIZE 10
+        :Y "all-commits"})))
+
+
+
+
+(def rank-columns
+  [:rank-0 :rank-1 :rank-2 :rank-3 :rank-4 :rank-other])
+
+(delay
+  (-> repos-growth
+      (tc/select-columns (concat [:language :html_url :date :all-commits]
+                                 rank-columns))
+      (tc/pivot->longer (complement #{:language :html_url :date :all-commits})
                         {:target-columns :committer
-                         :value-column-name :acc-n-commits})
+                         :value-column-name :commits})
       (tc/group-by [:language :html_url])
       (hanami/plot
        ht/area-chart
        {:X "date"
         :XTYPE "temporal"
         :MSIZE 10
-        :Y "acc-n-commits"
+        :Y "commits"
         :COLOR "committer"})))
+
+
+(delay
+  (-> repos-growth
+      (tc/select-columns (concat [:language :html_url :date :all-commits]
+                                 rank-columns))
+      (tc/pivot->longer (complement #{:language :html_url :date})
+                        {:target-columns :committer
+                         :value-column-name :commits})
+      (tc/group-by [:language :html_url])
+      (tc/aggregate {:total-commits (fn [ds]
+                                      (-> ds
+                                          (tc/select-rows #(-> % :committer (= :all-commits)))
+                                          :commits
+                                          last))
+                     :total-other-commits (fn [ds]
+                                            (-> ds
+                                                (tc/select-rows #(-> % :committer (= :rank-other)))
+                                                :commits
+                                                last))
+                     :plot (fn [ds]
+                             (-> ds
+                                 (tc/drop-rows #(-> % :committer (= :all-commits)))
+                                 (hanami/plot
+                                  ht/area-chart
+                                  {:X "date"
+                                   :XTYPE "temporal"
+                                   :MSIZE 10
+                                   :Y "commits"
+                                   :COLOR "committer"})
+                                 vector))})
+      (tc/add-column :other-ratio (fn [ds]
+                                    (fun// (:total-other-commits ds)
+                                           (:total-commits ds))))
+      (tc/order-by [:other-ratio] :desc)
+      kind/table))
+
+(delay
+  (-> repos-growth
+      (tc/select-columns (concat [:language :html_url :date :all-commits]
+                                 rank-columns))
+      (tc/pivot->longer (complement #{:language :html_url :date})
+                        {:target-columns :committer
+                         :value-column-name :commits})
+      (tc/group-by [:language :html_url])
+      (tc/aggregate {:total-commits (fn [ds]
+                                      (-> ds
+                                          (tc/select-rows #(-> % :committer (= :all-commits)))
+                                          :commits
+                                          last))
+                     :total-other-commits (fn [ds]
+                                            (-> ds
+                                                (tc/select-rows #(-> % :committer (= :rank-other)))
+                                                :commits
+                                                last))})
+      (tc/select-rows #(-> % :total-other-commits pos?))
+      (hanami/plot ht/point-chart
+                   {:X :total-commits
+                    :Y :total-other-commits
+                    :XSCALE {:type "log"}
+                    :YSCALE {:type "log"}
+                    :COLOR "language"
+                    :MSIZE 50})))
+
+
+
+(delay
+  (-> repos-growth
+      (tc/select-columns (concat [:language :html_url :date :all-commits]
+                                 rank-columns))
+      (tc/pivot->longer (complement #{:language :html_url :date})
+                        {:target-columns :committer
+                         :value-column-name :commits})
+      (tc/group-by [:language :html_url])
+      (tc/aggregate {:total-commits (fn [ds]
+                                      (-> ds
+                                          (tc/select-rows #(-> % :committer (= :all-commits)))
+                                          :commits
+                                          last))
+                     :total-other-commits (fn [ds]
+                                            (-> ds
+                                                (tc/select-rows #(-> % :committer (= :rank-other)))
+                                                :commits
+                                                last))})
+      (tc/select-rows #(-> % :total-other-commits pos?))
+      (tc/add-column :other-ratio (fn [ds]
+                                    (fun// (:total-other-commits ds)
+                                           (:total-commits ds))))
+      (tc/left-join lifespans [:language :html_url])
+      (tc/drop-columns [:right.language :right.html_url])
+      (tc/left-join data.generate-dataset/repos-ds [:language :html_url])
+      (tc/drop-columns [:right.language :right.html_url])
+      (tc/add-column :log-stargazers-count #(-> %
+                                                :stargazers_count
+                                                fun/log))
+      (tc/add-column :log-total-other-commits #(-> %
+                                                   :total-other-commits
+                                                   (fun/+ 1)
+                                                   fun/log))
+      (tc/group-by [:language])
+      (hanami/linear-regression-plot :log-total-other-commits
+                                     :log-stargazers-count
+                                     {:point-options {:MSIZE 100
+                                                      :OPACITY 0.6
+                                                      :XSCALE {:domain [4 12]}
+                                                      :YSCALE {:domain [0 11]}}
+                                      :line-options {:MCOLOR "brown"}})
+      (tc/map-columns :plot [:plot]
+                      #(assoc-in %
+                                 [:encoding :tooltip]
+                                 {:field "html_url"}))))
+
+
+
+
+
+
+
+Noj:
+Tablecloth
+dtype-next
+Hanami
+Fastmath
+scicloj.ml
