@@ -1,4 +1,4 @@
-(ns notebooks.contributors-ratio
+(ns notebooks.other-contributors
   (:require [tablecloth.api :as tc]
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
