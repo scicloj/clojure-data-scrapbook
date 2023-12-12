@@ -64,9 +64,9 @@
       (tc/set-dataset-name html_url)))
 
 
-(def *stop (atom false))
-(def *raw-commit-logs (atom []))
-(def *portal-commit-logs (atom []))
+(defonce *stop (atom false))
+(defonce *raw-commit-logs (atom []))
+(defonce *portal-commit-logs (atom []))
 
 (defn collect! [limit]
   (prn [:DBG1])
@@ -98,7 +98,7 @@
   (prn [:stopped]))
 
 (comment
-  (future (collect! 200))
+  (future (collect! 220))
 
   (reset! *stop true)
 
@@ -148,11 +148,14 @@
 (def *report (atom nil))
 
 (defn update-report! []
-  (prn :report-update)
+  (prn [:update-report])
   (reset! *report (kind-portal/prepare
                    {:value (report)})))
 
 (comment
+
+  (report)
+
   (update-report!)
 
   (add-watch *raw-commit-logs
@@ -161,3 +164,6 @@
                (update-report!)))
 
   (portal/submit *report))
+
+
+(report)
