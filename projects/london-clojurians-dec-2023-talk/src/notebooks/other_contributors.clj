@@ -229,6 +229,10 @@
       (tc/add-column :log-stargazers-count #(-> %
                                                 :stargazers_count
                                                 fun/log))
+      (tc/add-column :log-total-commits #(-> %
+                                             :total-commits
+                                             (fun/+ 1)
+                                             fun/log))
       (tc/add-column :log-total-other-commits #(-> %
                                                    :total-other-commits
                                                    (fun/+ 1)
