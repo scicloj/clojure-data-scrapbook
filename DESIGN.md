@@ -8,13 +8,15 @@ There is a need for documentation on the modern Clojure Data Science stack.
 
 [Real @toms with Clojure! - Thomas Clark and Daniel Slutsky](https://www.youtube.com/watch?v=SE5Ge4QP4oY)
 
+[Cooking up a workflow for data - Kira McLean, Daniel Slutsky, and Timothy Prately](https://www.youtube.com/watch?v=skMMvxWjmNM&t=3749s)
+
 ## Roles
 
 We anticipate that this project will be used by people in 3 roles:
 
 * users: Reading the book. Running code examples
 * contributors: Adding chapters, fixing bugs
-* editors: TBD
+* editors: Organizing, standardising, tidying up, helping the other roles.
 
 ## Working with Markdown
 
@@ -24,41 +26,26 @@ Babaska -> .qmd would be useful
 
 ## Multiple projects vs mono project
 
-* Dependency conflicts are possible
-* Might be dependency heavy
-* Less didactic to teach - would like a standalone example
-* main - easier?
+The scrapbook will contain multiple projects to support curated setups with specific dependencies. Small projects with precise dependencies can serve as standalone examples which are more didactic.
+There will be some big projects that contain multiple examples of the same setup (e.g., using [Noj](https://github.com/scicloj/noj)).
 
-## Hierarchy of namespace
+## Hierarchy
 
-Data Visualization
-book: Each namespace is a chapter
+Each project will have its own structure of book/notebook/slideshow. 
 
-Alternatives?
+One main index maintained by the editors will link to all projects.
 
-* Each project is a chapter?
-* Namespace is a heading?
-* Just a list of things?
+Projects which are book will have one namespace (or markdown file for each chapter of the book).
 
 ```
-SciCloj
-  DataScience
-    Scrapbook [Book]
-      Data Visualization [Section/volume]
-        "Chapter 1: Visualization" -- visualization.clj [Chapter]
-          Heading 1, Heading 2, etc all in this namespace
+    Scrapbook index
+        Noj documentation project
+            Data Visualization topic
+                "Chapter 1: Intro to Visualization" -- scrapbook.noj.visualization.intro namespace
+                    Heading 1, Heading 2, etc all in this namespace
 ```
 
-Many namespaces about visualization, adhoc.
-Order of chapters could be by convention for nesting and ordering of the chapters.
-Should there be a hierarchy? or a flat list, labels? tags?
-Maybe we should avoid hierarchy because it cannot be maintained.
-Rather rely on editor controlled config.
+## Curatind dependencies
 
-Turning namespaces into qmd files is currently manually; could be another automated step prior to prepare.
-
-Why main? Common tasks e.g. tidyverse
-
-* Opinionated, curated list of good starting libraries is useful
-    - where to begin? here's a default set of good stuff
-* Branded/opinionated defaults see [noj](https://github.com/scicloj/noj)
+* An opinionated, curated list of good starting libraries is useful. We encourage such projects.
+* This may be done using Branded/opinionated sets of defaults like [Noj](https://github.com/scicloj/noj).
