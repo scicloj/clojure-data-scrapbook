@@ -1,6 +1,6 @@
 # The Clojure Data Scrapbook project [DRAFT]
 
-<img src="//scicloj.github.io/sci-cloj-logo-transparent.png" alt="SciCloj logo" width="100" align="right"/>
+<img src="https://scicloj.github.io/sci-cloj-logo-transparent.png" alt="SciCloj logo" width="100" align="right"/>
 
 This project builds [The Clojure Data Scrapbook](https://scicloj.github.io/clojure-data-scrapbook/) that contains
 Community-contributed examples for the emerging Clojure data stack.
