@@ -11,46 +11,7 @@ This project is part of the [SciCloj community](https://scicloj.github.io/docs/c
 
 ## Status
 
-Work in progress.
-Change are likely after more thought and sharing.
-
-## Using this book
-
-You can read the book online [The Clojure Data Scrapbook](https://scicloj.github.io/clojure-data-scrapbook/).
-
-### Starting a REPL
-
-To run this project you will need to first [Install Clojure](https://clojure.org/guides/install_clojure).
-
-To run code examples, clone this repo and start a [REPL](https://clojure.org/guides/repl/introduction).
-A browser window will open with the HTML of the book.
-
-### Editor setup
-
-[Clojure Editor Guide](https://clojure.org/guides/editors) covers general editor integration.
-
-This project uses Clay for interactive examples.
-Please see the [Clay Setup Guide](https://scicloj.github.io/clay/#setup)
-for some additional configuration.
-
-## Project overview
-
-[./projects/](./projects) contains code, and will be of most interest to readers
-
-> :bulb: [./projects/main/notebooks](./projects/main/notebooks) contains most of the miscellaneous examples
-
-[./book/](./book) contains Markdown configuration and the `prepare.sh` script
-
-> :bulb: [./book/_quarto.yml](./book/_quarto.yml) configures the ordering of the examples
-
-[./docs](./docs) is the published part (generated from the markdown)
-
-The code in `projects` is compiled to `.qmd` Markdown files, and then [Quarto](https://quarto.org/) converts those into the book HTML.
-
-```mermaid
-graph LR
-namespace --> qmd --> html
-```
+Work in progress, should stabilize in Jan. 2024.
 
 ## Troubleshooting
 
