@@ -11,13 +11,12 @@
        :width "100"
        :align "right"}]
 
-;; This project builds [The Clojure Data Scrapbook](https://scicloj.github.io/clojure-data-scrapbook/) that contains
-;; Community-contributed examples for the emerging Clojure data stack.
+;; The Clojure Data Scrapbook is a collection of
+;; community-contributed examples for the emerging Clojure data stack.
 ;;
 ;; You can interact with the examples by cloning this project and starting a REPL.
 ;;
 ;; This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
-
 
 
 ^{:kindly/hide-code? true
