@@ -1,0 +1,370 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-06-30,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, cesar.bolanosportilla@gmail.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",8.0,"[{0 7, ""other"" 1}]",1,7,0,0,0,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-01,41,1,"#tech.v3.dataset.column<string>[41]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",49.0,"[{0 48, ""other"" 1}]",1,48,0,0,0,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ryan@rkn.io, ryan@rkn.io]",51.0,"[{0 48, ""other"" 3}]",3,48,0,0,0,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-03,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",60.0,"[{0 57, ""other"" 3}]",3,57,0,0,0,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-07,19,1,"#tech.v3.dataset.column<string>[19]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",79.0,"[{0 76, ""other"" 3}]",3,76,0,0,0,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-08,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",86.0,"[{0 83, ""other"" 3}]",3,83,0,0,0,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-09,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[timgilbert@gmail.com, timgilbert@gmail.com, timgilbert@gmail.com, me@arrdem.com, timgilbert@gmail.com, timgilbert@gmail.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, timgilbert@gmail.com, me@arrdem.com, timgilbert@gmail.com]",99.0,"[{0 89, ""other"" 3, 3 7}]",3,89,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",102.0,"[{0 92, ""other"" 3, 3 7}]",3,92,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-11,24,1,"#tech.v3.dataset.column<string>[24]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",126.0,"[{0 116, ""other"" 3, 3 7}]",3,116,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-12,26,3,"#tech.v3.dataset.column<string>[26]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, gabriel.horner@gmail.com, gabriel.horner@gmail.com, me@arrdem.com, me@arrdem.com, gabriel.horner@gmail.com, me@arrdem.com, gabriel.horner@gmail.com...]",152.0,"[{0 137, ""other"" 8, 3 7}]",8,137,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-13,29,3,"#tech.v3.dataset.column<string>[29]
+:email
+[colin@logaan.net, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, colin@logaan.net, simone@mweb.biz, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",181.0,"[{0 161, ""other"" 13, 3 7}]",13,161,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-15,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, brandon@brandonbloom.name, me@arrdem.com, me@arrdem.com, me@arrdem.com, brandon@brandonbloom.name]",187.0,"[{0 165, ""other"" 15, 3 7}]",15,165,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-20,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",193.0,"[{0 171, ""other"" 15, 3 7}]",15,171,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-24,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",206.0,"[{0 184, ""other"" 15, 3 7}]",15,184,0,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-29,15,2,"#tech.v3.dataset.column<string>[15]
+:email
+[robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",221.0,"[{0 189, ""other"" 15, 3 7, 1 10}]",15,189,10,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-30,19,2,"#tech.v3.dataset.column<string>[19]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, robert@cognician.com, robert@cognician.com, me@arrdem.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com]",240.0,"[{0 200, ""other"" 15, 3 7, 1 18}]",15,200,18,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-07-31,18,2,"#tech.v3.dataset.column<string>[18]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com, robert@cognician.com]",258.0,"[{0 209, ""other"" 15, 3 7, 1 27}]",15,209,27,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-01,41,2,"#tech.v3.dataset.column<string>[41]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, robert@cognician.com, robert@cognician.com, me@arrdem.com...]",299.0,"[{0 248, ""other"" 15, 3 7, 1 29}]",15,248,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-02,37,2,"#tech.v3.dataset.column<string>[37]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, glenjamin@gmail.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",336.0,"[{0 284, ""other"" 16, 3 7, 1 29}]",16,284,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, brunokim.mc@gmail.com]",338.0,"[{0 285, ""other"" 17, 3 7, 1 29}]",17,285,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",343.0,"[{0 290, ""other"" 17, 3 7, 1 29}]",17,290,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-08,19,1,"#tech.v3.dataset.column<string>[19]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",362.0,"[{0 309, ""other"" 17, 3 7, 1 29}]",17,309,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-09,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, hugo@hugoduncan.org]",366.0,"[{0 312, ""other"" 18, 3 7, 1 29}]",18,312,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[steveminer@gmail.com, steveminer@gmail.com]",368.0,"[{0 312, ""other"" 20, 3 7, 1 29}]",20,312,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",374.0,"[{0 318, ""other"" 20, 3 7, 1 29}]",20,318,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-08-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",376.0,"[{0 320, ""other"" 20, 3 7, 1 29}]",20,320,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-09-07,41,4,"#tech.v3.dataset.column<string>[41]
+:email
+[sford@geeky-boy.com, sford@geeky-boy.com, me@arrdem.com, git@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",417.0,"[{0 356, ""other"" 25, 3 7, 1 29}]",25,356,29,0,7,0
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-09-11,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, andy.dwelly@theassetworks.com, christian.egli@sbs.ch, christian.egli@sbs.ch, christian.egli@sbs.ch, christian.egli@sbs.ch]",425.0,"[{0 359, ""other"" 26, 3 7, 1 29, 4 4}]",26,359,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-09-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, dpathakjee@gmail.com, dpathakjee@gmail.com]",428.0,"[{0 360, ""other"" 28, 3 7, 1 29, 4 4}]",28,360,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-09-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",429.0,"[{0 361, ""other"" 28, 3 7, 1 29, 4 4}]",28,361,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-10-03,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",441.0,"[{0 373, ""other"" 28, 3 7, 1 29, 4 4}]",28,373,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",442.0,"[{0 374, ""other"" 28, 3 7, 1 29, 4 4}]",28,374,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-10-09,22,1,"#tech.v3.dataset.column<string>[22]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",464.0,"[{0 396, ""other"" 28, 3 7, 1 29, 4 4}]",28,396,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-10-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",468.0,"[{0 400, ""other"" 28, 3 7, 1 29, 4 4}]",28,400,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-10-16,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",474.0,"[{0 406, ""other"" 28, 3 7, 1 29, 4 4}]",28,406,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-10-17,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",489.0,"[{0 421, ""other"" 28, 3 7, 1 29, 4 4}]",28,421,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-10-18,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",502.0,"[{0 434, ""other"" 28, 3 7, 1 29, 4 4}]",28,434,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-11-03,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",512.0,"[{0 444, ""other"" 28, 3 7, 1 29, 4 4}]",28,444,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-11-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, Chastie@users.noreply.github.com]",514.0,"[{0 445, ""other"" 29, 3 7, 1 29, 4 4}]",29,445,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-11-17,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",520.0,"[{0 451, ""other"" 29, 3 7, 1 29, 4 4}]",29,451,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-11-18,25,1,"#tech.v3.dataset.column<string>[25]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",545.0,"[{0 476, ""other"" 29, 3 7, 1 29, 4 4}]",29,476,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-11-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",547.0,"[{0 478, ""other"" 29, 3 7, 1 29, 4 4}]",29,478,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-11-23,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",556.0,"[{0 487, ""other"" 29, 3 7, 1 29, 4 4}]",29,487,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-11-26,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",563.0,"[{0 494, ""other"" 29, 3 7, 1 29, 4 4}]",29,494,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",564.0,"[{0 495, ""other"" 29, 3 7, 1 29, 4 4}]",29,495,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",566.0,"[{0 497, ""other"" 29, 3 7, 1 29, 4 4}]",29,497,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-18,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",572.0,"[{0 503, ""other"" 29, 3 7, 1 29, 4 4}]",29,503,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-19,69,1,"#tech.v3.dataset.column<string>[69]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",641.0,"[{0 572, ""other"" 29, 3 7, 1 29, 4 4}]",29,572,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-20,41,1,"#tech.v3.dataset.column<string>[41]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",682.0,"[{0 613, ""other"" 29, 3 7, 1 29, 4 4}]",29,613,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-21,22,1,"#tech.v3.dataset.column<string>[22]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",704.0,"[{0 635, ""other"" 29, 3 7, 1 29, 4 4}]",29,635,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-22,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",721.0,"[{0 652, ""other"" 29, 3 7, 1 29, 4 4}]",29,652,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-23,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",727.0,"[{0 658, ""other"" 29, 3 7, 1 29, 4 4}]",29,658,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",728.0,"[{0 659, ""other"" 29, 3 7, 1 29, 4 4}]",29,659,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2014-12-27,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",737.0,"[{0 668, ""other"" 29, 3 7, 1 29, 4 4}]",29,668,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-01-03,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[me@arrdem.com, r.alex.stokes@gmail.com, r.alex.stokes@gmail.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",744.0,"[{0 673, ""other"" 31, 3 7, 1 29, 4 4}]",31,673,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",745.0,"[{0 674, ""other"" 31, 3 7, 1 29, 4 4}]",31,674,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-01-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",748.0,"[{0 677, ""other"" 31, 3 7, 1 29, 4 4}]",31,677,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-01-13,30,1,"#tech.v3.dataset.column<string>[30]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",778.0,"[{0 707, ""other"" 31, 3 7, 1 29, 4 4}]",31,707,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-01-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, dziltener@lyrion.ch]",782.0,"[{0 710, ""other"" 32, 3 7, 1 29, 4 4}]",32,710,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-01-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, dziltener@lyrion.ch]",784.0,"[{0 711, ""other"" 33, 3 7, 1 29, 4 4}]",33,711,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",786.0,"[{0 713, ""other"" 33, 3 7, 1 29, 4 4}]",33,713,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-02-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",791.0,"[{0 718, ""other"" 33, 3 7, 1 29, 4 4}]",33,718,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",792.0,"[{0 719, ""other"" 33, 3 7, 1 29, 4 4}]",33,719,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-02-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",794.0,"[{0 721, ""other"" 33, 3 7, 1 29, 4 4}]",33,721,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-03,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",799.0,"[{0 726, ""other"" 33, 3 7, 1 29, 4 4}]",33,726,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",802.0,"[{0 729, ""other"" 33, 3 7, 1 29, 4 4}]",33,729,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",804.0,"[{0 731, ""other"" 33, 3 7, 1 29, 4 4}]",33,731,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",808.0,"[{0 735, ""other"" 33, 3 7, 1 29, 4 4}]",33,735,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-16,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",815.0,"[{0 742, ""other"" 33, 3 7, 1 29, 4 4}]",33,742,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-17,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",832.0,"[{0 759, ""other"" 33, 3 7, 1 29, 4 4}]",33,759,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-19,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",845.0,"[{0 772, ""other"" 33, 3 7, 1 29, 4 4}]",33,772,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",847.0,"[{0 774, ""other"" 33, 3 7, 1 29, 4 4}]",33,774,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-03-30,29,1,"#tech.v3.dataset.column<string>[29]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",876.0,"[{0 803, ""other"" 33, 3 7, 1 29, 4 4}]",33,803,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-04-01,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",886.0,"[{0 813, ""other"" 33, 3 7, 1 29, 4 4}]",33,813,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",887.0,"[{0 814, ""other"" 33, 3 7, 1 29, 4 4}]",33,814,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",888.0,"[{0 815, ""other"" 33, 3 7, 1 29, 4 4}]",33,815,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-04-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",891.0,"[{0 818, ""other"" 33, 3 7, 1 29, 4 4}]",33,818,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-04-26,32,1,"#tech.v3.dataset.column<string>[32]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",923.0,"[{0 850, ""other"" 33, 3 7, 1 29, 4 4}]",33,850,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-04-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",928.0,"[{0 855, ""other"" 33, 3 7, 1 29, 4 4}]",33,855,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-05-01,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",937.0,"[{0 864, ""other"" 33, 3 7, 1 29, 4 4}]",33,864,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-05-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",940.0,"[{0 867, ""other"" 33, 3 7, 1 29, 4 4}]",33,867,29,0,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-05-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[reid@factual.com, reid@factual.com]",942.0,"[{0 867, ""other"" 33, 3 7, 1 29, 4 4, 2 2}]",33,867,29,2,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-06-15,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com]",954.0,"[{0 871, ""other"" 33, 3 7, 1 29, 4 4, 2 10}]",33,871,29,10,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-06-17,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com, reid@factual.com]",965.0,"[{0 875, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,875,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-06-24,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",976.0,"[{0 886, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,886,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-07-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",981.0,"[{0 891, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,891,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-07-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",982.0,"[{0 892, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,892,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",983.0,"[{0 893, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,893,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-07-30,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",990.0,"[{0 900, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,900,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",991.0,"[{0 901, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,901,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-09-19,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1005.0,"[{0 915, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,915,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1006.0,"[{0 916, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,916,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-09-25,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1017.0,"[{0 927, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,927,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-09-27,23,1,"#tech.v3.dataset.column<string>[23]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",1040.0,"[{0 950, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,950,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1041.0,"[{0 951, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,951,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-10-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",1044.0,"[{0 954, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,954,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-10-04,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1049.0,"[{0 959, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,959,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1050.0,"[{0 960, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,960,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-10-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",1052.0,"[{0 962, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,962,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-11-12,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1067.0,"[{0 977, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,977,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2015-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1068.0,"[{0 978, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,978,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-01-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1072.0,"[{0 982, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,982,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-02-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",1074.0,"[{0 984, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,984,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-02-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",1077.0,"[{0 987, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,987,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-02-28,32,1,"#tech.v3.dataset.column<string>[32]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",1109.0,"[{0 1019, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,1019,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-03-05,19,1,"#tech.v3.dataset.column<string>[19]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1128.0,"[{0 1038, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,1038,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-03-06,24,1,"#tech.v3.dataset.column<string>[24]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com...]",1152.0,"[{0 1062, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,1062,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1153.0,"[{0 1063, ""other"" 33, 3 7, 1 29, 4 4, 2 17}]",33,1063,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-06-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, rm_hull@yahoo.co.uk]",1155.0,"[{0 1064, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1064,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-11-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",1157.0,"[{0 1066, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1066,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-12-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",1160.0,"[{0 1069, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1069,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-12-06,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1170.0,"[{0 1079, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1079,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-12-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1174.0,"[{0 1083, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1083,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1175.0,"[{0 1084, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1084,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2016-12-11,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1181.0,"[{0 1090, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1090,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2017-05-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@arrdem.com, me@arrdem.com]",1183.0,"[{0 1092, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1092,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2017-05-28,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1195.0,"[{0 1104, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1104,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2017-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1196.0,"[{0 1105, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1105,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2017-06-15,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1208.0,"[{0 1117, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1117,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2017-12-13,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1214.0,"[{0 1123, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1123,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2017-12-14,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com, me@arrdem.com]",1222.0,"[{0 1131, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1131,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2018-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@arrdem.com]",1223.0,"[{0 1132, ""other"" 34, 3 7, 1 29, 4 4, 2 17}]",34,1132,29,17,7,4
+Clojure,https://github.com/clojure-grimoire/grimoire,2018-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[liquidz.uo@gmail.com]",1224.0,"[{0 1132, ""other"" 35, 3 7, 1 29, 4 4, 2 17}]",35,1132,29,17,7,4

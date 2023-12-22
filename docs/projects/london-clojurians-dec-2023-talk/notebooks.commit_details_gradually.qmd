@@ -1,0 +1,289 @@
+
+---
+format:
+  html: {toc: true, toc-depth: 4, theme: spacelab, output-file: notebooks.commit_details_gradually.html}
+highlight-style: solarized
+
+---
+<style>table {
+  border-style: thin;
+}
+th, td {
+  padding: 6px;
+}
+td {
+  text-align: left;
+}
+th {
+  text-align: center;
+  background-color: #ddd;
+}
+tr:nth-child(even) {
+  background-color: #f6f6f6;
+}
+</style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style>
+<script src="notebooks.commit_details_gradually_files/md-default1.js" type="text/javascript"></script><script src="notebooks.commit_details_gradually_files/md-default2.js" type="text/javascript"></script><script src="notebooks.commit_details_gradually_files/vega3.js" type="text/javascript"></script><script src="notebooks.commit_details_gradually_files/vega4.js" type="text/javascript"></script><script src="notebooks.commit_details_gradually_files/vega5.js" type="text/javascript"></script>
+
+<div class="sourceClojure">
+```clojure
+(ns notebooks.commit-details-gradually
+  (:require [tablecloth.api :as tc]
+            [scicloj.noj.v1.vis.hanami :as hanami]
+            [aerial.hanami.templates :as ht]
+            [tech.v3.datatype.datetime :as datetime]
+            [tech.v3.datatype.rolling :as rolling]
+            [tech.v3.datatype.functional :as fun]
+            [tech.v3.dataset.print :as print]
+            [data.generate-dataset]
+            [clojure.math :as math]
+            [scicloj.kindly.v4.kind :as kind]
+            [scicloj.noj.v1.stats :as stats]
+            [scicloj.clay.v2.api :as clay]
+            [clojure.string :as string]
+            [clojure.java.shell :as shell]
+            [scicloj.kind-portal.v1.api :as kind-portal]
+            [portal.api :as portal]
+            [clojure.java.io :as io]
+            [scicloj.kind-portal.v1.api :as kind-portal]))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defn url->clone-path [url]
+  (-> url
+      (string/replace #"^https://github.com/" "")
+      (string/replace #"/" "__")
+      (->> (str "/workspace/clones-for-gradual-analysis/"))))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defn clone! [{:keys [html_url clone-path]}]
+  (io/make-parents clone-path)
+  (when-not (-> clone-path
+                io/file
+                (.exists))
+    (prn [:git-clone html_url clone-path])
+    (shell/sh "git"
+              "clone"
+              html_url
+              clone-path)))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defn clone-all! [])
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defn git-log [{:as repo
+                :keys [html_url clone-path]}]
+  (prn [:git-log clone-path])
+  (-> clone-path
+      (->> (format "--git-dir=%s/.git"))
+      (#(shell/sh "git" %
+                  "log"
+                  "--pretty=format:\"%ad,%ae\""
+                  "--date=short"))
+      :out
+      (string/replace #"\"" "")
+      string/split-lines
+      (->> (map (fn [line]
+                  (-> line
+                      (string/split #",")
+                      ((fn [[date email]]
+                         (merge repo
+                                {:date date
+                                 :email email})))))))
+      tc/dataset
+      (tc/set-dataset-name html_url)))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defonce *stop (atom false))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defonce *raw-commit-logs (atom []))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defonce *portal-commit-logs (atom []))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defn collect! [limit]
+  (prn [:DBG1])
+  (reset! *stop false)
+  (prn [:DBG2])
+  (reset! *raw-commit-logs [])
+  (prn [:DBG2])
+  (reset! *portal-commit-logs [])
+  (prn [:DBG3])
+  (-> data.generate-dataset/repos-ds
+      (tc/map-columns :clone-path [:html_url]
+                      url->clone-path)
+      (tc/select-rows #(and (-> % :size (< 100000))
+                            (-> % :language (= "Clojure"))))
+      (tc/rows :as-maps)
+      (->> (take limit)
+           (mapv (fn [repo]
+                   (prn repo)
+                   (when-not @*stop
+                     (clone! repo)
+                     (let [log (git-log repo)]
+                       (swap! *raw-commit-logs
+                              conj log)
+                       (swap! *portal-commit-logs
+                              #(-> %
+                                   (conj (kind-portal/prepare
+                                          {:value log}))
+                                   reverse))))))))
+  (prn [:stopped]))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(comment
+  (future (collect! 220))
+
+  (reset! *stop true)
+
+  (portal/open)
+  (portal/submit *portal-commit-logs))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defn report []
+  (let [raw-commit-logs @*raw-commit-logs
+        n (count raw-commit-logs)]
+    [(kind/hiccup
+      [:h1 n " repos"])
+     (when (> n 10)
+       (-> raw-commit-logs
+           (->> (apply tc/concat))
+           (tc/group-by [:language :html_url])
+           (tc/aggregate {:n-contributors (fn [ds]
+                                            (-> ds
+                                                :email
+                                                distinct
+                                                count))})
+           (tc/order-by [:n-contributors] :desc)
+           (tc/left-join data.generate-dataset/repos-ds [:html_url])
+           (tc/select-rows #(-> % :n-contributors (> 20)))
+           (tc/add-columns {:log-stargazers #(-> %
+                                                 :stargazers_count
+                                                 fun/log)
+                            :log-contributors #(-> %
+                                                   :n-contributors
+                                                   fun/log)})
+           (stats/add-predictions :log-stargazers
+                                  [:log-contributors]
+                                  {:model-type :smile.regression/ordinary-least-square})
+           (hanami/linear-regression-plot
+            :log-contributors
+            :log-stargazers
+            {:XSCALE {:zero false
+                      :domain [5 12]}
+             :YSCALE {:zero false}
+             :point-options {:MSIZE 100}
+             :line-options {:MCOLOR "brown"
+                            :MSIZE 10
+                            :OPACITY 0.5}})
+           (assoc-in [:encoding :tooltip]
+                     {:field "html_url"})))]))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(def *report (atom nil))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(defn update-report! []
+  (prn [:update-report])
+  (reset! *report (kind-portal/prepare
+                   {:value (report)})))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(comment
+
+  (report)
+
+  (update-report!)
+
+  (add-watch *raw-commit-logs
+             :report
+             (fn [_ _ _ _]
+               (update-report!)))
+
+  (portal/submit *report))
+```
+</div>
+
+
+
+<div class="sourceClojure">
+```clojure
+(report)
+```
+</div>
+
+
+<div><p>\[</p><div style="margin-left:10%;width:110%;"><h1>194 repos</h1><div><script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"tooltip":{"field":"html_url"}},"width":400,"background":"floralwhite","title":{"text":"R^2 = 0.213"},"layer":[{"encoding":{"y":{"scale":{"zero":false},"field":"log-contributors","type":"quantitative"},"x":{"scale":{"zero":false,"domain":[5,12]},"field":"log-stargazers","type":"quantitative"}},"mark":{"type":"circle","size":100,"tooltip":true},"width":400,"background":"floralwhite","title":{"text":"R^2 = 0.213"},"height":300},{"encoding":{"y":{"scale":{"zero":false},"field":"log-contributors-prediction","type":"quantitative","axis":{"title":"log-contributors"}},"opacity":{"value":0.5},"x":{"scale":{"zero":false,"domain":[5,12]},"field":"log-stargazers","type":"quantitative"}},"mark":{"type":"line","size":10,"color":"brown","tooltip":true},"width":400,"background":"floralwhite","title":{"text":"R^2 = 0.213"},"height":300}],"height":300,"data":{"url":"notebooks.commit_details_gradually_files\/0.csv","format":{"type":"csv"}}});</script></div></div><p>\]</p></div>
+
+<div style="background-color:grey;height:2px;width:100%;"></div>
+
+<div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/london-clojurians-talk/projects/london-clojurians-dec-2023-talk/src/notebooks/commit_details_gradually.clj">projects/london-clojurians-dec-2023-talk/src/notebooks/commit_details_gradually.clj</a></small></small></pre></div>

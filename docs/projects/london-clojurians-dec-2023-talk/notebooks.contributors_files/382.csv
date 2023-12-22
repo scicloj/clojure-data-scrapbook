@@ -1,0 +1,710 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,clj-kondo,2019-03-20,1,1,"#{""michielborkent@gmail.com""}",1.0,1
+Clojure,clj-kondo,2019-03-21,12,1,"#{""michielborkent@gmail.com""}",13.0,1
+Clojure,clj-kondo,2019-03-25,10,1,"#{""michielborkent@gmail.com""}",23.0,1
+Clojure,clj-kondo,2019-03-26,16,1,"#{""michielborkent@gmail.com""}",39.0,1
+Clojure,clj-kondo,2019-03-27,2,1,"#{""michielborkent@gmail.com""}",41.0,1
+Clojure,clj-kondo,2019-03-28,3,1,"#{""michielborkent@gmail.com""}",44.0,1
+Clojure,clj-kondo,2019-03-29,8,1,"#{""michielborkent@gmail.com""}",52.0,1
+Clojure,clj-kondo,2019-03-31,1,1,"#{""michielborkent@gmail.com""}",53.0,1
+Clojure,clj-kondo,2019-04-01,1,1,"#{""michielborkent@gmail.com""}",54.0,1
+Clojure,clj-kondo,2019-04-04,5,1,"#{""michielborkent@gmail.com""}",59.0,1
+Clojure,clj-kondo,2019-04-05,1,1,"#{""michielborkent@gmail.com""}",60.0,1
+Clojure,clj-kondo,2019-04-06,1,1,"#{""michielborkent@gmail.com""}",61.0,1
+Clojure,clj-kondo,2019-04-07,5,1,"#{""michielborkent@gmail.com""}",66.0,1
+Clojure,clj-kondo,2019-04-08,2,1,"#{""michielborkent@gmail.com""}",68.0,1
+Clojure,clj-kondo,2019-04-09,2,1,"#{""michielborkent@gmail.com""}",70.0,1
+Clojure,clj-kondo,2019-04-10,8,1,"#{""michielborkent@gmail.com""}",78.0,1
+Clojure,clj-kondo,2019-04-12,3,1,"#{""michielborkent@gmail.com""}",81.0,1
+Clojure,clj-kondo,2019-04-14,1,1,"#{""michielborkent@gmail.com""}",82.0,1
+Clojure,clj-kondo,2019-04-15,4,1,"#{""michielborkent@gmail.com""}",86.0,1
+Clojure,clj-kondo,2019-04-18,1,1,"#{""michielborkent@gmail.com""}",87.0,1
+Clojure,clj-kondo,2019-04-20,2,1,"#{""michielborkent@gmail.com""}",89.0,1
+Clojure,clj-kondo,2019-04-21,5,1,"#{""michielborkent@gmail.com""}",94.0,1
+Clojure,clj-kondo,2019-04-22,2,1,"#{""michielborkent@gmail.com""}",96.0,1
+Clojure,clj-kondo,2019-04-24,1,1,"#{""michielborkent@gmail.com""}",97.0,1
+Clojure,clj-kondo,2019-04-25,7,1,"#{""michielborkent@gmail.com""}",104.0,1
+Clojure,clj-kondo,2019-04-26,6,1,"#{""michielborkent@gmail.com""}",110.0,1
+Clojure,clj-kondo,2019-04-27,3,1,"#{""michielborkent@gmail.com""}",113.0,1
+Clojure,clj-kondo,2019-04-30,1,1,"#{""michielborkent@gmail.com""}",114.0,1
+Clojure,clj-kondo,2019-05-01,7,1,"#{""michielborkent@gmail.com""}",121.0,1
+Clojure,clj-kondo,2019-05-02,1,1,"#{""michielborkent@gmail.com""}",122.0,1
+Clojure,clj-kondo,2019-05-04,2,1,"#{""michielborkent@gmail.com""}",124.0,1
+Clojure,clj-kondo,2019-05-05,1,1,"#{""michielborkent@gmail.com""}",125.0,1
+Clojure,clj-kondo,2019-05-06,6,1,"#{""michielborkent@gmail.com""}",131.0,1
+Clojure,clj-kondo,2019-05-11,2,1,"#{""michielborkent@gmail.com""}",133.0,1
+Clojure,clj-kondo,2019-05-12,8,1,"#{""michielborkent@gmail.com""}",141.0,1
+Clojure,clj-kondo,2019-05-13,1,1,"#{""michielborkent@gmail.com""}",142.0,1
+Clojure,clj-kondo,2019-05-15,6,1,"#{""michielborkent@gmail.com""}",148.0,1
+Clojure,clj-kondo,2019-05-16,3,1,"#{""michielborkent@gmail.com""}",151.0,1
+Clojure,clj-kondo,2019-05-17,2,1,"#{""michielborkent@gmail.com""}",153.0,1
+Clojure,clj-kondo,2019-05-18,2,1,"#{""michielborkent@gmail.com""}",155.0,1
+Clojure,clj-kondo,2019-05-19,2,1,"#{""michielborkent@gmail.com""}",157.0,1
+Clojure,clj-kondo,2019-05-21,5,2,"#{""michielborkent@gmail.com"" ""rahul080327@gmail.com""}",162.0,2
+Clojure,clj-kondo,2019-05-22,4,1,"#{""michielborkent@gmail.com""}",166.0,2
+Clojure,clj-kondo,2019-05-23,16,1,"#{""michielborkent@gmail.com""}",182.0,2
+Clojure,clj-kondo,2019-05-24,4,1,"#{""michielborkent@gmail.com""}",186.0,2
+Clojure,clj-kondo,2019-05-25,3,1,"#{""michielborkent@gmail.com""}",189.0,2
+Clojure,clj-kondo,2019-05-26,4,1,"#{""michielborkent@gmail.com""}",193.0,2
+Clojure,clj-kondo,2019-05-28,3,1,"#{""michielborkent@gmail.com""}",196.0,2
+Clojure,clj-kondo,2019-05-29,3,1,"#{""michielborkent@gmail.com""}",199.0,2
+Clojure,clj-kondo,2019-05-30,3,2,"#{""michielborkent@gmail.com"" ""SevereOverfl0w@users.noreply.github.com""}",202.0,3
+Clojure,clj-kondo,2019-05-31,4,1,"#{""michielborkent@gmail.com""}",206.0,3
+Clojure,clj-kondo,2019-06-01,3,1,"#{""michielborkent@gmail.com""}",209.0,3
+Clojure,clj-kondo,2019-06-02,1,1,"#{""michielborkent@gmail.com""}",210.0,3
+Clojure,clj-kondo,2019-06-03,2,1,"#{""michielborkent@gmail.com""}",212.0,3
+Clojure,clj-kondo,2019-06-06,3,1,"#{""michielborkent@gmail.com""}",215.0,3
+Clojure,clj-kondo,2019-06-07,2,1,"#{""michielborkent@gmail.com""}",217.0,3
+Clojure,clj-kondo,2019-06-08,1,1,"#{""michielborkent@gmail.com""}",218.0,3
+Clojure,clj-kondo,2019-06-09,1,1,"#{""michielborkent@gmail.com""}",219.0,3
+Clojure,clj-kondo,2019-06-14,1,1,"#{""michielborkent@gmail.com""}",220.0,3
+Clojure,clj-kondo,2019-06-15,1,1,"#{""michielborkent@gmail.com""}",221.0,3
+Clojure,clj-kondo,2019-06-16,9,1,"#{""michielborkent@gmail.com""}",230.0,3
+Clojure,clj-kondo,2019-06-17,2,1,"#{""michielborkent@gmail.com""}",232.0,3
+Clojure,clj-kondo,2019-06-18,2,2,"#{""michielborkent@gmail.com"" ""rahul080327@gmail.com""}",234.0,3
+Clojure,clj-kondo,2019-06-19,3,1,"#{""michielborkent@gmail.com""}",237.0,3
+Clojure,clj-kondo,2019-06-20,4,2,"#{""michielborkent@gmail.com"" ""lispyclouds@users.noreply.github.com""}",241.0,4
+Clojure,clj-kondo,2019-06-23,8,1,"#{""michielborkent@gmail.com""}",249.0,4
+Clojure,clj-kondo,2019-06-24,4,1,"#{""michielborkent@gmail.com""}",253.0,4
+Clojure,clj-kondo,2019-06-26,2,1,"#{""michielborkent@gmail.com""}",255.0,4
+Clojure,clj-kondo,2019-06-27,1,1,"#{""michielborkent@gmail.com""}",256.0,4
+Clojure,clj-kondo,2019-06-28,3,2,"#{""michielborkent@gmail.com"" ""dharrigan@users.noreply.github.com""}",259.0,5
+Clojure,clj-kondo,2019-06-29,6,1,"#{""michielborkent@gmail.com""}",265.0,5
+Clojure,clj-kondo,2019-07-01,2,1,"#{""michielborkent@gmail.com""}",267.0,5
+Clojure,clj-kondo,2019-07-03,2,1,"#{""michielborkent@gmail.com""}",269.0,5
+Clojure,clj-kondo,2019-07-05,4,1,"#{""michielborkent@gmail.com""}",273.0,5
+Clojure,clj-kondo,2019-07-07,1,1,"#{""michielborkent@gmail.com""}",274.0,5
+Clojure,clj-kondo,2019-07-08,2,2,"#{""desk@danielcompton.net"" ""michielborkent@gmail.com""}",276.0,6
+Clojure,clj-kondo,2019-07-09,5,1,"#{""michielborkent@gmail.com""}",281.0,6
+Clojure,clj-kondo,2019-07-10,2,1,"#{""michielborkent@gmail.com""}",283.0,6
+Clojure,clj-kondo,2019-07-11,2,1,"#{""michielborkent@gmail.com""}",285.0,6
+Clojure,clj-kondo,2019-07-15,2,1,"#{""michielborkent@gmail.com""}",287.0,6
+Clojure,clj-kondo,2019-07-16,1,1,"#{""michielborkent@gmail.com""}",288.0,6
+Clojure,clj-kondo,2019-07-17,8,1,"#{""michielborkent@gmail.com""}",296.0,6
+Clojure,clj-kondo,2019-07-18,1,1,"#{""33044872+sogaiu@users.noreply.github.com""}",297.0,7
+Clojure,clj-kondo,2019-07-19,1,1,"#{""michielborkent@gmail.com""}",298.0,7
+Clojure,clj-kondo,2019-07-20,1,1,"#{""michielborkent@gmail.com""}",299.0,7
+Clojure,clj-kondo,2019-07-21,3,1,"#{""michielborkent@gmail.com""}",302.0,7
+Clojure,clj-kondo,2019-07-22,1,1,"#{""michielborkent@gmail.com""}",303.0,7
+Clojure,clj-kondo,2019-07-24,5,1,"#{""michielborkent@gmail.com""}",308.0,7
+Clojure,clj-kondo,2019-07-27,2,1,"#{""michielborkent@gmail.com""}",310.0,7
+Clojure,clj-kondo,2019-07-31,8,1,"#{""michielborkent@gmail.com""}",318.0,7
+Clojure,clj-kondo,2019-08-01,2,1,"#{""michielborkent@gmail.com""}",320.0,7
+Clojure,clj-kondo,2019-08-02,1,1,"#{""michielborkent@gmail.com""}",321.0,7
+Clojure,clj-kondo,2019-08-03,2,2,"#{""michielborkent@gmail.com"" ""39625+volrath@users.noreply.github.com""}",323.0,8
+Clojure,clj-kondo,2019-08-04,3,2,"#{""michielborkent@gmail.com"" ""mk@katercalling.com""}",326.0,9
+Clojure,clj-kondo,2019-08-06,3,2,"#{""33044872+sogaiu@users.noreply.github.com"" ""39625+volrath@users.noreply.github.com""}",329.0,9
+Clojure,clj-kondo,2019-08-08,4,2,"#{""michielborkent@gmail.com"" ""lispyclouds@users.noreply.github.com""}",333.0,9
+Clojure,clj-kondo,2019-08-09,2,1,"#{""michielborkent@gmail.com""}",335.0,9
+Clojure,clj-kondo,2019-08-12,1,1,"#{""michielborkent@gmail.com""}",336.0,9
+Clojure,clj-kondo,2019-08-15,6,1,"#{""michielborkent@gmail.com""}",342.0,9
+Clojure,clj-kondo,2019-08-18,1,1,"#{""michielborkent@gmail.com""}",343.0,9
+Clojure,clj-kondo,2019-08-19,2,1,"#{""michielborkent@gmail.com""}",345.0,9
+Clojure,clj-kondo,2019-08-20,1,1,"#{""jl@lafuente.me""}",346.0,10
+Clojure,clj-kondo,2019-08-21,4,1,"#{""michielborkent@gmail.com""}",350.0,10
+Clojure,clj-kondo,2019-08-22,2,2,"#{""jwilk@jwilk.net"" ""lee@dlread.com""}",352.0,12
+Clojure,clj-kondo,2019-09-02,1,1,"#{""lispyclouds@users.noreply.github.com""}",353.0,12
+Clojure,clj-kondo,2019-09-04,1,1,"#{""michielborkent@gmail.com""}",354.0,12
+Clojure,clj-kondo,2019-09-09,1,1,"#{""michielborkent@gmail.com""}",355.0,12
+Clojure,clj-kondo,2019-09-10,1,1,"#{""SevereOverfl0w@users.noreply.github.com""}",356.0,12
+Clojure,clj-kondo,2019-09-11,2,1,"#{""michielborkent@gmail.com""}",358.0,12
+Clojure,clj-kondo,2019-09-12,1,1,"#{""michielborkent@gmail.com""}",359.0,12
+Clojure,clj-kondo,2019-09-13,1,1,"#{""gerred@users.noreply.github.com""}",360.0,13
+Clojure,clj-kondo,2019-09-14,3,2,"#{""juho.teperi@iki.fi"" ""michielborkent@gmail.com""}",363.0,14
+Clojure,clj-kondo,2019-09-15,2,1,"#{""michielborkent@gmail.com""}",365.0,14
+Clojure,clj-kondo,2019-09-18,1,1,"#{""michielborkent@gmail.com""}",366.0,14
+Clojure,clj-kondo,2019-09-21,7,1,"#{""michielborkent@gmail.com""}",373.0,14
+Clojure,clj-kondo,2019-09-22,13,1,"#{""michielborkent@gmail.com""}",386.0,14
+Clojure,clj-kondo,2019-09-23,4,3,"#{""michielborkent@gmail.com"" ""SevereOverfl0w@users.noreply.github.com"" ""maurits.rijk@gmail.com""}",390.0,15
+Clojure,clj-kondo,2019-09-26,1,1,"#{""michielborkent@gmail.com""}",391.0,15
+Clojure,clj-kondo,2019-09-30,2,1,"#{""michielborkent@gmail.com""}",393.0,15
+Clojure,clj-kondo,2019-10-01,6,3,"#{""michielborkent@gmail.com"" ""mynomoto@gmail.com"" ""33044872+sogaiu@users.noreply.github.com""}",399.0,16
+Clojure,clj-kondo,2019-10-02,3,3,"#{""hannu.hartikainen@gmail.com"" ""michielborkent@gmail.com"" ""chorin@gmail.com""}",402.0,18
+Clojure,clj-kondo,2019-10-03,7,2,"#{""hannu.hartikainen@gmail.com"" ""michielborkent@gmail.com""}",409.0,18
+Clojure,clj-kondo,2019-10-04,2,1,"#{""michielborkent@gmail.com""}",411.0,18
+Clojure,clj-kondo,2019-10-05,1,1,"#{""github@jahson.net""}",412.0,19
+Clojure,clj-kondo,2019-10-06,5,1,"#{""michielborkent@gmail.com""}",417.0,19
+Clojure,clj-kondo,2019-10-07,1,1,"#{""michielborkent@gmail.com""}",418.0,19
+Clojure,clj-kondo,2019-10-10,1,1,"#{""github.com@marcomorain.com""}",419.0,20
+Clojure,clj-kondo,2019-10-11,7,2,"#{""michielborkent@gmail.com"" ""marc@circleci.com""}",426.0,21
+Clojure,clj-kondo,2019-10-12,2,1,"#{""michielborkent@gmail.com""}",428.0,21
+Clojure,clj-kondo,2019-10-13,1,1,"#{""marc@circleci.com""}",429.0,21
+Clojure,clj-kondo,2019-10-14,5,1,"#{""michielborkent@gmail.com""}",434.0,21
+Clojure,clj-kondo,2019-10-15,2,2,"#{""michielborkent@gmail.com"" ""marc@circleci.com""}",436.0,21
+Clojure,clj-kondo,2019-10-16,1,1,"#{""hannu.hartikainen@gmail.com""}",437.0,21
+Clojure,clj-kondo,2019-10-21,1,1,"#{""michielborkent@gmail.com""}",438.0,21
+Clojure,clj-kondo,2019-10-22,1,1,"#{""michielborkent@gmail.com""}",439.0,21
+Clojure,clj-kondo,2019-10-24,1,1,"#{""lee@dlread.com""}",440.0,21
+Clojure,clj-kondo,2019-10-25,1,1,"#{""michielborkent@gmail.com""}",441.0,21
+Clojure,clj-kondo,2019-10-26,6,1,"#{""michielborkent@gmail.com""}",447.0,21
+Clojure,clj-kondo,2019-10-27,2,2,"#{""michielborkent@gmail.com"" ""imrekoszo@users.noreply.github.com""}",449.0,22
+Clojure,clj-kondo,2019-10-28,7,1,"#{""michielborkent@gmail.com""}",456.0,22
+Clojure,clj-kondo,2019-10-29,2,1,"#{""michielborkent@gmail.com""}",458.0,22
+Clojure,clj-kondo,2019-10-31,2,2,"#{""nenadalm@gmail.com"" ""33044872+sogaiu@users.noreply.github.com""}",460.0,23
+Clojure,clj-kondo,2019-11-01,1,1,"#{""michielborkent@gmail.com""}",461.0,23
+Clojure,clj-kondo,2019-11-02,3,1,"#{""michielborkent@gmail.com""}",464.0,23
+Clojure,clj-kondo,2019-11-03,8,3,"#{""39466548+turbo-cafe@users.noreply.github.com"" ""michielborkent@gmail.com"" ""33044872+sogaiu@users.noreply.github.com""}",472.0,24
+Clojure,clj-kondo,2019-11-04,4,1,"#{""michielborkent@gmail.com""}",476.0,24
+Clojure,clj-kondo,2019-11-05,6,2,"#{""michielborkent@gmail.com"" ""christian@topiq.es""}",482.0,25
+Clojure,clj-kondo,2019-11-06,4,3,"#{""michielborkent@gmail.com"" ""khalid.jebbari@gmail.com"" ""33044872+sogaiu@users.noreply.github.com""}",486.0,26
+Clojure,clj-kondo,2019-11-07,5,2,"#{""54628117+samhanrvu@users.noreply.github.com"" ""michielborkent@gmail.com""}",491.0,27
+Clojure,clj-kondo,2019-11-08,2,1,"#{""michielborkent@gmail.com""}",493.0,27
+Clojure,clj-kondo,2019-11-11,2,2,"#{""jason.m.felice@gmail.com"" ""michielborkent@gmail.com""}",495.0,28
+Clojure,clj-kondo,2019-11-20,1,1,"#{""michielborkent@gmail.com""}",496.0,28
+Clojure,clj-kondo,2019-11-21,3,2,"#{""jason.m.felice@gmail.com"" ""michielborkent@gmail.com""}",499.0,28
+Clojure,clj-kondo,2019-11-22,1,1,"#{""michielborkent@gmail.com""}",500.0,28
+Clojure,clj-kondo,2019-11-23,4,1,"#{""michielborkent@gmail.com""}",504.0,28
+Clojure,clj-kondo,2019-11-24,1,1,"#{""michielborkent@gmail.com""}",505.0,28
+Clojure,clj-kondo,2019-11-25,1,1,"#{""40712240+saitouena@users.noreply.github.com""}",506.0,29
+Clojure,clj-kondo,2019-11-26,2,1,"#{""michielborkent@gmail.com""}",508.0,29
+Clojure,clj-kondo,2019-12-01,2,1,"#{""michielborkent@gmail.com""}",510.0,29
+Clojure,clj-kondo,2019-12-02,1,1,"#{""michielborkent@gmail.com""}",511.0,29
+Clojure,clj-kondo,2019-12-09,1,1,"#{""michielborkent@gmail.com""}",512.0,29
+Clojure,clj-kondo,2019-12-10,1,1,"#{""michielborkent@gmail.com""}",513.0,29
+Clojure,clj-kondo,2019-12-13,1,1,"#{""helios89@gmail.com""}",514.0,30
+Clojure,clj-kondo,2019-12-14,16,3,"#{""dieter@komendera.com"" ""michielborkent@gmail.com"" ""qythium@gmail.com""}",530.0,32
+Clojure,clj-kondo,2019-12-16,3,2,"#{""lauri.oherd@gmail.com"" ""michielborkent@gmail.com""}",533.0,33
+Clojure,clj-kondo,2019-12-17,1,1,"#{""qythium@gmail.com""}",534.0,33
+Clojure,clj-kondo,2019-12-18,2,2,"#{""khalid.jebbari@gmail.com"" ""ercdll1337@gmail.com""}",536.0,34
+Clojure,clj-kondo,2019-12-19,4,2,"#{""michielborkent@gmail.com"" ""helios89@gmail.com""}",540.0,34
+Clojure,clj-kondo,2019-12-22,2,1,"#{""michielborkent@gmail.com""}",542.0,34
+Clojure,clj-kondo,2019-12-24,2,1,"#{""michielborkent@gmail.com""}",544.0,34
+Clojure,clj-kondo,2019-12-25,1,1,"#{""qythium@gmail.com""}",545.0,34
+Clojure,clj-kondo,2019-12-30,3,1,"#{""michielborkent@gmail.com""}",548.0,34
+Clojure,clj-kondo,2019-12-31,1,1,"#{""michielborkent@gmail.com""}",549.0,34
+Clojure,clj-kondo,2020-01-01,1,1,"#{""michielborkent@gmail.com""}",550.0,34
+Clojure,clj-kondo,2020-01-02,3,1,"#{""michielborkent@gmail.com""}",553.0,34
+Clojure,clj-kondo,2020-01-03,1,1,"#{""robert@cognician.com""}",554.0,35
+Clojure,clj-kondo,2020-01-06,2,2,"#{""thumbnail@users.noreply.github.com"" ""33044872+sogaiu@users.noreply.github.com""}",556.0,36
+Clojure,clj-kondo,2020-01-08,1,1,"#{""michielborkent@gmail.com""}",557.0,36
+Clojure,clj-kondo,2020-01-09,5,1,"#{""michielborkent@gmail.com""}",562.0,36
+Clojure,clj-kondo,2020-01-10,8,3,"#{""filipematossilva@gmail.com"" ""michielborkent@gmail.com"" ""technomancy@gmail.com""}",570.0,38
+Clojure,clj-kondo,2020-01-13,4,1,"#{""michielborkent@gmail.com""}",574.0,38
+Clojure,clj-kondo,2020-01-16,1,1,"#{""ben.knoble+github@gmail.com""}",575.0,39
+Clojure,clj-kondo,2020-01-21,1,1,"#{""michielborkent@gmail.com""}",576.0,39
+Clojure,clj-kondo,2020-01-23,2,1,"#{""michielborkent@gmail.com""}",578.0,39
+Clojure,clj-kondo,2020-01-26,5,1,"#{""michielborkent@gmail.com""}",583.0,39
+Clojure,clj-kondo,2020-01-27,5,1,"#{""michielborkent@gmail.com""}",588.0,39
+Clojure,clj-kondo,2020-01-28,1,1,"#{""helios89@gmail.com""}",589.0,39
+Clojure,clj-kondo,2020-01-29,1,1,"#{""epransky@gmail.com""}",590.0,40
+Clojure,clj-kondo,2020-01-30,4,1,"#{""michielborkent@gmail.com""}",594.0,40
+Clojure,clj-kondo,2020-01-31,2,2,"#{""michielborkent@gmail.com"" ""epransky@gmail.com""}",596.0,40
+Clojure,clj-kondo,2020-02-01,3,1,"#{""michielborkent@gmail.com""}",599.0,40
+Clojure,clj-kondo,2020-02-02,2,1,"#{""michielborkent@gmail.com""}",601.0,40
+Clojure,clj-kondo,2020-02-05,3,1,"#{""michielborkent@gmail.com""}",604.0,40
+Clojure,clj-kondo,2020-02-06,1,1,"#{""jstuartmilne@gmail.com""}",605.0,41
+Clojure,clj-kondo,2020-02-07,5,1,"#{""michielborkent@gmail.com""}",610.0,41
+Clojure,clj-kondo,2020-02-09,4,2,"#{""vemv@users.noreply.github.com"" ""michielborkent@gmail.com""}",614.0,42
+Clojure,clj-kondo,2020-02-10,3,2,"#{""abogoyavlensky@gmail.com"" ""michielborkent@gmail.com""}",617.0,43
+Clojure,clj-kondo,2020-02-13,4,1,"#{""michielborkent@gmail.com""}",621.0,43
+Clojure,clj-kondo,2020-02-15,7,1,"#{""michielborkent@gmail.com""}",628.0,43
+Clojure,clj-kondo,2020-02-16,2,1,"#{""michielborkent@gmail.com""}",630.0,43
+Clojure,clj-kondo,2020-02-17,3,2,"#{""michielborkent@gmail.com"" ""lauri.oherd@wunderdog.fi""}",633.0,44
+Clojure,clj-kondo,2020-02-20,1,1,"#{""michielborkent@gmail.com""}",634.0,44
+Clojure,clj-kondo,2020-02-21,2,1,"#{""michielborkent@gmail.com""}",636.0,44
+Clojure,clj-kondo,2020-02-22,3,1,"#{""michielborkent@gmail.com""}",639.0,44
+Clojure,clj-kondo,2020-02-23,2,2,"#{""michielborkent@gmail.com"" ""lispyclouds@users.noreply.github.com""}",641.0,44
+Clojure,clj-kondo,2020-02-27,1,1,"#{""timothypratley@gmail.com""}",642.0,45
+Clojure,clj-kondo,2020-02-28,7,1,"#{""michielborkent@gmail.com""}",649.0,45
+Clojure,clj-kondo,2020-03-04,4,1,"#{""michielborkent@gmail.com""}",653.0,45
+Clojure,clj-kondo,2020-03-05,3,1,"#{""michielborkent@gmail.com""}",656.0,45
+Clojure,clj-kondo,2020-03-08,5,1,"#{""michielborkent@gmail.com""}",661.0,45
+Clojure,clj-kondo,2020-03-09,1,1,"#{""timothypratley@gmail.com""}",662.0,45
+Clojure,clj-kondo,2020-03-10,3,1,"#{""michielborkent@gmail.com""}",665.0,45
+Clojure,clj-kondo,2020-03-14,2,2,"#{""michielborkent@gmail.com"" ""timothypratley@gmail.com""}",667.0,45
+Clojure,clj-kondo,2020-03-16,1,1,"#{""michielborkent@gmail.com""}",668.0,45
+Clojure,clj-kondo,2020-03-18,1,1,"#{""michielborkent@gmail.com""}",669.0,45
+Clojure,clj-kondo,2020-03-20,3,1,"#{""michielborkent@gmail.com""}",672.0,45
+Clojure,clj-kondo,2020-03-27,3,3,"#{""michielborkent@gmail.com"" ""sean@corfield.org"" ""jakob.durstberger@gmail.com""}",675.0,47
+Clojure,clj-kondo,2020-03-30,1,1,"#{""helios89@gmail.com""}",676.0,47
+Clojure,clj-kondo,2020-03-31,1,1,"#{""michielborkent@gmail.com""}",677.0,47
+Clojure,clj-kondo,2020-04-01,5,3,"#{""michielborkent@gmail.com"" ""jakob.durstberger@moonpig.com"" ""helios89@gmail.com""}",682.0,48
+Clojure,clj-kondo,2020-04-02,3,1,"#{""michielborkent@gmail.com""}",685.0,48
+Clojure,clj-kondo,2020-04-05,2,1,"#{""michielborkent@gmail.com""}",687.0,48
+Clojure,clj-kondo,2020-04-06,3,2,"#{""michielborkent@gmail.com"" ""pez@pezius.com""}",690.0,49
+Clojure,clj-kondo,2020-04-08,2,2,"#{""michielborkent@gmail.com"" ""oscar.lim.marshall@gmail.com""}",692.0,50
+Clojure,clj-kondo,2020-04-09,2,2,"#{""michielborkent@gmail.com"" ""rymndhng@gmail.com""}",694.0,51
+Clojure,clj-kondo,2020-04-13,1,1,"#{""john@jr0cket.co.uk""}",695.0,52
+Clojure,clj-kondo,2020-04-16,1,1,"#{""helios89@gmail.com""}",696.0,52
+Clojure,clj-kondo,2020-04-17,2,2,"#{""michielborkent@gmail.com"" ""jessachandler@gmail.com""}",698.0,53
+Clojure,clj-kondo,2020-04-20,1,1,"#{""martinklepsch@googlemail.com""}",699.0,54
+Clojure,clj-kondo,2020-04-21,1,1,"#{""michielborkent@gmail.com""}",700.0,54
+Clojure,clj-kondo,2020-04-22,3,2,"#{""michielborkent@gmail.com"" ""delaguardo@gmail.com""}",703.0,55
+Clojure,clj-kondo,2020-04-26,3,2,"#{""abogoyavlensky@gmail.com"" ""michielborkent@gmail.com""}",706.0,55
+Clojure,clj-kondo,2020-05-01,2,1,"#{""michielborkent@gmail.com""}",708.0,55
+Clojure,clj-kondo,2020-05-02,7,1,"#{""michielborkent@gmail.com""}",715.0,55
+Clojure,clj-kondo,2020-05-06,1,1,"#{""lee@dlread.com""}",716.0,55
+Clojure,clj-kondo,2020-05-08,2,1,"#{""michielborkent@gmail.com""}",718.0,55
+Clojure,clj-kondo,2020-05-09,13,1,"#{""michielborkent@gmail.com""}",731.0,55
+Clojure,clj-kondo,2020-05-11,1,1,"#{""lauri.oherd@gmail.com""}",732.0,55
+Clojure,clj-kondo,2020-05-15,2,1,"#{""mikkokos@gmail.com""}",734.0,56
+Clojure,clj-kondo,2020-05-24,1,1,"#{""michielborkent@gmail.com""}",735.0,56
+Clojure,clj-kondo,2020-05-26,1,1,"#{""michielborkent@gmail.com""}",736.0,56
+Clojure,clj-kondo,2020-05-28,1,1,"#{""michielborkent@gmail.com""}",737.0,56
+Clojure,clj-kondo,2020-05-30,1,1,"#{""aokitaiju0513@gmail.com""}",738.0,57
+Clojure,clj-kondo,2020-05-31,1,1,"#{""michielborkent@gmail.com""}",739.0,57
+Clojure,clj-kondo,2020-06-03,4,1,"#{""michielborkent@gmail.com""}",743.0,57
+Clojure,clj-kondo,2020-06-05,2,1,"#{""michielborkent@gmail.com""}",745.0,57
+Clojure,clj-kondo,2020-06-11,3,1,"#{""michielborkent@gmail.com""}",748.0,57
+Clojure,clj-kondo,2020-06-12,2,1,"#{""michielborkent@gmail.com""}",750.0,57
+Clojure,clj-kondo,2020-06-18,1,1,"#{""23798+walterl@users.noreply.github.com""}",751.0,58
+Clojure,clj-kondo,2020-06-20,4,1,"#{""michielborkent@gmail.com""}",755.0,58
+Clojure,clj-kondo,2020-06-21,18,1,"#{""michielborkent@gmail.com""}",773.0,58
+Clojure,clj-kondo,2020-06-22,5,1,"#{""michielborkent@gmail.com""}",778.0,58
+Clojure,clj-kondo,2020-06-24,3,3,"#{""michielborkent@gmail.com"" ""sean.poulter+gh@gmail.com"" ""lee@dlread.com""}",781.0,59
+Clojure,clj-kondo,2020-06-26,2,1,"#{""michielborkent@gmail.com""}",783.0,59
+Clojure,clj-kondo,2020-06-27,1,1,"#{""rschmukler@gmail.com""}",784.0,60
+Clojure,clj-kondo,2020-06-28,2,1,"#{""michielborkent@gmail.com""}",786.0,60
+Clojure,clj-kondo,2020-06-29,3,2,"#{""sittim@users.noreply.github.com"" ""michielborkent@gmail.com""}",789.0,61
+Clojure,clj-kondo,2020-07-02,1,1,"#{""michielborkent@gmail.com""}",790.0,61
+Clojure,clj-kondo,2020-07-03,1,1,"#{""michielborkent@gmail.com""}",791.0,61
+Clojure,clj-kondo,2020-07-11,2,1,"#{""michielborkent@gmail.com""}",793.0,61
+Clojure,clj-kondo,2020-07-25,2,1,"#{""michielborkent@gmail.com""}",795.0,61
+Clojure,clj-kondo,2020-07-26,4,1,"#{""michielborkent@gmail.com""}",799.0,61
+Clojure,clj-kondo,2020-07-29,6,2,"#{""michielborkent@gmail.com"" ""gabriel.horner@gmail.com""}",805.0,62
+Clojure,clj-kondo,2020-08-01,1,1,"#{""michielborkent@gmail.com""}",806.0,62
+Clojure,clj-kondo,2020-08-05,1,1,"#{""michielborkent@gmail.com""}",807.0,62
+Clojure,clj-kondo,2020-08-06,1,1,"#{""michielborkent@gmail.com""}",808.0,62
+Clojure,clj-kondo,2020-08-09,1,1,"#{""michielborkent@gmail.com""}",809.0,62
+Clojure,clj-kondo,2020-08-10,1,1,"#{""nickpell@users.noreply.github.com""}",810.0,63
+Clojure,clj-kondo,2020-08-20,1,1,"#{""michielborkent@gmail.com""}",811.0,63
+Clojure,clj-kondo,2020-08-21,1,1,"#{""b@ptistefontaine.fr""}",812.0,64
+Clojure,clj-kondo,2020-08-22,1,1,"#{""snoe@snoe.ca""}",813.0,65
+Clojure,clj-kondo,2020-08-26,1,1,"#{""andreyorst@gmail.com""}",814.0,66
+Clojure,clj-kondo,2020-08-27,1,1,"#{""michielborkent@gmail.com""}",815.0,66
+Clojure,clj-kondo,2020-08-28,1,1,"#{""michielborkent@gmail.com""}",816.0,66
+Clojure,clj-kondo,2020-08-29,3,2,"#{""jeroentjevandijk@gmail.com"" ""michielborkent@gmail.com""}",819.0,67
+Clojure,clj-kondo,2020-08-30,5,2,"#{""jaihindhreddy@gmail.com"" ""michielborkent@gmail.com""}",824.0,68
+Clojure,clj-kondo,2020-08-31,3,2,"#{""sittim@users.noreply.github.com"" ""michielborkent@gmail.com""}",827.0,68
+Clojure,clj-kondo,2020-09-01,1,1,"#{""michielborkent@gmail.com""}",828.0,68
+Clojure,clj-kondo,2020-09-02,1,1,"#{""caspary.eric@gmail.com""}",829.0,69
+Clojure,clj-kondo,2020-09-03,1,1,"#{""asotnikov.100@gmail.com""}",830.0,70
+Clojure,clj-kondo,2020-09-04,2,2,"#{""michielborkent@gmail.com"" ""33044872+sogaiu@users.noreply.github.com""}",832.0,70
+Clojure,clj-kondo,2020-09-05,1,1,"#{""michielborkent@gmail.com""}",833.0,70
+Clojure,clj-kondo,2020-09-07,3,1,"#{""michielborkent@gmail.com""}",836.0,70
+Clojure,clj-kondo,2020-09-08,5,1,"#{""michielborkent@gmail.com""}",841.0,70
+Clojure,clj-kondo,2020-09-09,14,2,"#{""michielborkent@gmail.com"" ""robert@cognician.com""}",855.0,70
+Clojure,clj-kondo,2020-09-10,1,1,"#{""33044872+sogaiu@users.noreply.github.com""}",856.0,70
+Clojure,clj-kondo,2020-09-11,2,2,"#{""BytesGuy@users.noreply.github.com"" ""michielborkent@gmail.com""}",858.0,71
+Clojure,clj-kondo,2020-09-21,1,1,"#{""michielborkent@gmail.com""}",859.0,71
+Clojure,clj-kondo,2020-09-26,3,1,"#{""michielborkent@gmail.com""}",862.0,71
+Clojure,clj-kondo,2020-09-27,1,1,"#{""michielborkent@gmail.com""}",863.0,71
+Clojure,clj-kondo,2020-10-01,2,1,"#{""michielborkent@gmail.com""}",865.0,71
+Clojure,clj-kondo,2020-10-02,1,1,"#{""michielborkent@gmail.com""}",866.0,71
+Clojure,clj-kondo,2020-10-04,9,2,"#{""michielborkent@gmail.com"" ""zilti@users.noreply.github.com""}",875.0,72
+Clojure,clj-kondo,2020-10-05,2,1,"#{""michielborkent@gmail.com""}",877.0,72
+Clojure,clj-kondo,2020-10-06,2,1,"#{""michielborkent@gmail.com""}",879.0,72
+Clojure,clj-kondo,2020-10-07,1,1,"#{""michielborkent@gmail.com""}",880.0,72
+Clojure,clj-kondo,2020-10-08,2,1,"#{""michielborkent@gmail.com""}",882.0,72
+Clojure,clj-kondo,2020-10-10,11,1,"#{""michielborkent@gmail.com""}",893.0,72
+Clojure,clj-kondo,2020-10-16,1,1,"#{""mikko@taiste.fi""}",894.0,73
+Clojure,clj-kondo,2020-10-19,1,1,"#{""jaihindhreddy@gmail.com""}",895.0,73
+Clojure,clj-kondo,2020-10-22,2,2,"#{""pepijn@users.noreply.github.com"" ""nicolas.vuillamy@gmail.com""}",897.0,75
+Clojure,clj-kondo,2020-10-26,1,1,"#{""russell.matney@gmail.com""}",898.0,76
+Clojure,clj-kondo,2020-10-27,1,1,"#{""michielborkent@gmail.com""}",899.0,76
+Clojure,clj-kondo,2020-10-28,1,1,"#{""erik@assum.net""}",900.0,77
+Clojure,clj-kondo,2020-11-01,2,1,"#{""michielborkent@gmail.com""}",902.0,77
+Clojure,clj-kondo,2020-11-02,1,1,"#{""michielborkent@gmail.com""}",903.0,77
+Clojure,clj-kondo,2020-11-05,4,2,"#{""michielborkent@gmail.com"" ""80325+bennyandresen@users.noreply.github.com""}",907.0,78
+Clojure,clj-kondo,2020-11-06,7,1,"#{""michielborkent@gmail.com""}",914.0,78
+Clojure,clj-kondo,2020-11-07,13,1,"#{""michielborkent@gmail.com""}",927.0,78
+Clojure,clj-kondo,2020-11-11,1,1,"#{""michielborkent@gmail.com""}",928.0,78
+Clojure,clj-kondo,2020-12-04,1,1,"#{""michielborkent@gmail.com""}",929.0,78
+Clojure,clj-kondo,2020-12-05,5,1,"#{""michielborkent@gmail.com""}",934.0,78
+Clojure,clj-kondo,2020-12-06,7,1,"#{""michielborkent@gmail.com""}",941.0,78
+Clojure,clj-kondo,2020-12-09,3,1,"#{""michielborkent@gmail.com""}",944.0,78
+Clojure,clj-kondo,2020-12-10,1,1,"#{""michielborkent@gmail.com""}",945.0,78
+Clojure,clj-kondo,2020-12-12,8,1,"#{""michielborkent@gmail.com""}",953.0,78
+Clojure,clj-kondo,2020-12-19,1,1,"#{""41568862+audriu@users.noreply.github.com""}",954.0,79
+Clojure,clj-kondo,2020-12-20,2,1,"#{""michielborkent@gmail.com""}",956.0,79
+Clojure,clj-kondo,2020-12-21,1,1,"#{""SevereOverfl0w@users.noreply.github.com""}",957.0,79
+Clojure,clj-kondo,2021-01-02,1,1,"#{""michielborkent@gmail.com""}",958.0,79
+Clojure,clj-kondo,2021-01-03,7,1,"#{""michielborkent@gmail.com""}",965.0,79
+Clojure,clj-kondo,2021-01-04,3,2,"#{""snoe@snoe.ca"" ""michielborkent@gmail.com""}",968.0,79
+Clojure,clj-kondo,2021-01-09,10,1,"#{""michielborkent@gmail.com""}",978.0,79
+Clojure,clj-kondo,2021-01-13,1,1,"#{""sandy@nilenso.com""}",979.0,80
+Clojure,clj-kondo,2021-01-14,6,3,"#{""snoe@snoe.ca"" ""33435574+tomdl89@users.noreply.github.com"" ""michielborkent@gmail.com""}",985.0,81
+Clojure,clj-kondo,2021-01-15,6,3,"#{""33435574+tomdl89@users.noreply.github.com"" ""michielborkent@gmail.com"" ""jysandilya@gmail.com""}",991.0,82
+Clojure,clj-kondo,2021-01-17,4,2,"#{""snoe@snoe.ca"" ""michielborkent@gmail.com""}",995.0,82
+Clojure,clj-kondo,2021-01-18,3,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",998.0,83
+Clojure,clj-kondo,2021-01-19,4,1,"#{""michielborkent@gmail.com""}",1002.0,83
+Clojure,clj-kondo,2021-01-20,10,1,"#{""michielborkent@gmail.com""}",1012.0,83
+Clojure,clj-kondo,2021-01-21,1,1,"#{""michielborkent@gmail.com""}",1013.0,83
+Clojure,clj-kondo,2021-01-22,1,1,"#{""snoe@snoe.ca""}",1014.0,83
+Clojure,clj-kondo,2021-01-23,2,2,"#{""hoxu@users.noreply.github.com"" ""michielborkent@gmail.com""}",1016.0,84
+Clojure,clj-kondo,2021-01-26,3,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1019.0,84
+Clojure,clj-kondo,2021-01-27,2,1,"#{""michielborkent@gmail.com""}",1021.0,84
+Clojure,clj-kondo,2021-01-29,2,1,"#{""michielborkent@gmail.com""}",1023.0,84
+Clojure,clj-kondo,2021-01-31,4,2,"#{""snoe@snoe.ca"" ""michielborkent@gmail.com""}",1027.0,84
+Clojure,clj-kondo,2021-02-01,1,1,"#{""snoe@snoe.ca""}",1028.0,84
+Clojure,clj-kondo,2021-02-03,2,1,"#{""michielborkent@gmail.com""}",1030.0,84
+Clojure,clj-kondo,2021-02-06,2,2,"#{""michielborkent@gmail.com"" ""75762517+rvlo@users.noreply.github.com""}",1032.0,85
+Clojure,clj-kondo,2021-02-07,1,1,"#{""ericdallo06@hotmail.com""}",1033.0,85
+Clojure,clj-kondo,2021-02-10,8,1,"#{""michielborkent@gmail.com""}",1041.0,85
+Clojure,clj-kondo,2021-02-12,9,1,"#{""michielborkent@gmail.com""}",1050.0,85
+Clojure,clj-kondo,2021-02-13,9,1,"#{""michielborkent@gmail.com""}",1059.0,85
+Clojure,clj-kondo,2021-02-15,1,1,"#{""michielborkent@gmail.com""}",1060.0,85
+Clojure,clj-kondo,2021-02-18,6,1,"#{""michielborkent@gmail.com""}",1066.0,85
+Clojure,clj-kondo,2021-02-20,2,2,"#{""michielborkent@gmail.com"" ""leoiacovini@gmail.com""}",1068.0,86
+Clojure,clj-kondo,2021-02-21,3,1,"#{""michielborkent@gmail.com""}",1071.0,86
+Clojure,clj-kondo,2021-02-23,1,1,"#{""michielborkent@gmail.com""}",1072.0,86
+Clojure,clj-kondo,2021-02-24,3,1,"#{""michielborkent@gmail.com""}",1075.0,86
+Clojure,clj-kondo,2021-02-26,1,1,"#{""michielborkent@gmail.com""}",1076.0,86
+Clojure,clj-kondo,2021-02-28,15,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1091.0,86
+Clojure,clj-kondo,2021-03-02,5,2,"#{""33435574+tomdl89@users.noreply.github.com"" ""michielborkent@gmail.com""}",1096.0,86
+Clojure,clj-kondo,2021-03-03,3,2,"#{""michielborkent@gmail.com"" ""imrekoszo@users.noreply.github.com""}",1099.0,86
+Clojure,clj-kondo,2021-03-05,1,1,"#{""jayzawrotny@gmail.com""}",1100.0,87
+Clojure,clj-kondo,2021-03-06,2,1,"#{""michielborkent@gmail.com""}",1102.0,87
+Clojure,clj-kondo,2021-03-09,3,1,"#{""michielborkent@gmail.com""}",1105.0,87
+Clojure,clj-kondo,2021-03-10,4,2,"#{""oran9e.red@gmail.com"" ""michielborkent@gmail.com""}",1109.0,88
+Clojure,clj-kondo,2021-03-18,4,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1113.0,88
+Clojure,clj-kondo,2021-03-20,1,1,"#{""lee@dlread.com""}",1114.0,88
+Clojure,clj-kondo,2021-03-21,17,1,"#{""michielborkent@gmail.com""}",1131.0,88
+Clojure,clj-kondo,2021-03-22,1,1,"#{""helios89@gmail.com""}",1132.0,88
+Clojure,clj-kondo,2021-03-24,2,1,"#{""michielborkent@gmail.com""}",1134.0,88
+Clojure,clj-kondo,2021-03-27,1,1,"#{""ericdallo06@hotmail.com""}",1135.0,88
+Clojure,clj-kondo,2021-03-28,4,1,"#{""michielborkent@gmail.com""}",1139.0,88
+Clojure,clj-kondo,2021-03-31,5,2,"#{""snoe@snoe.ca"" ""michielborkent@gmail.com""}",1144.0,88
+Clojure,clj-kondo,2021-04-01,1,1,"#{""ericdallo06@hotmail.com""}",1145.0,88
+Clojure,clj-kondo,2021-04-02,6,2,"#{""franklineapiyo@gmail.com"" ""michielborkent@gmail.com""}",1151.0,89
+Clojure,clj-kondo,2021-04-05,1,1,"#{""michielborkent@gmail.com""}",1152.0,89
+Clojure,clj-kondo,2021-04-12,1,1,"#{""dharmaturtle@users.noreply.github.com""}",1153.0,90
+Clojure,clj-kondo,2021-04-16,1,1,"#{""lee@dlread.com""}",1154.0,90
+Clojure,clj-kondo,2021-04-17,3,2,"#{""michielborkent@gmail.com"" ""qythium@gmail.com""}",1157.0,90
+Clojure,clj-kondo,2021-04-18,2,1,"#{""michielborkent@gmail.com""}",1159.0,90
+Clojure,clj-kondo,2021-04-21,7,1,"#{""michielborkent@gmail.com""}",1166.0,90
+Clojure,clj-kondo,2021-04-22,8,3,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com"" ""rick.m@swirrl.com""}",1174.0,91
+Clojure,clj-kondo,2021-04-23,10,3,"#{""michielborkent@gmail.com"" ""r6eve179f@gmail.com"" ""108105+jahson@users.noreply.github.com""}",1184.0,93
+Clojure,clj-kondo,2021-04-26,2,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1186.0,93
+Clojure,clj-kondo,2021-05-02,1,1,"#{""dave.a.duthie@gmail.com""}",1187.0,94
+Clojure,clj-kondo,2021-05-03,1,1,"#{""lee@dlread.com""}",1188.0,94
+Clojure,clj-kondo,2021-05-04,1,1,"#{""lee@dlread.com""}",1189.0,94
+Clojure,clj-kondo,2021-05-05,1,1,"#{""nickpell@users.noreply.github.com""}",1190.0,94
+Clojure,clj-kondo,2021-05-08,1,1,"#{""sjorup@hey.com""}",1191.0,95
+Clojure,clj-kondo,2021-05-13,5,1,"#{""michielborkent@gmail.com""}",1196.0,95
+Clojure,clj-kondo,2021-05-29,3,1,"#{""michielborkent@gmail.com""}",1199.0,95
+Clojure,clj-kondo,2021-05-30,4,1,"#{""michielborkent@gmail.com""}",1203.0,95
+Clojure,clj-kondo,2021-05-31,17,1,"#{""michielborkent@gmail.com""}",1220.0,95
+Clojure,clj-kondo,2021-06-01,5,1,"#{""michielborkent@gmail.com""}",1225.0,95
+Clojure,clj-kondo,2021-06-02,1,1,"#{""joshua@suskalo.org""}",1226.0,96
+Clojure,clj-kondo,2021-06-12,2,1,"#{""michielborkent@gmail.com""}",1228.0,96
+Clojure,clj-kondo,2021-06-14,3,1,"#{""michielborkent@gmail.com""}",1231.0,96
+Clojure,clj-kondo,2021-06-15,1,1,"#{""michielborkent@gmail.com""}",1232.0,96
+Clojure,clj-kondo,2021-06-16,5,1,"#{""michielborkent@gmail.com""}",1237.0,96
+Clojure,clj-kondo,2021-06-17,1,1,"#{""michielborkent@gmail.com""}",1238.0,96
+Clojure,clj-kondo,2021-06-18,6,2,"#{""1455846+camsaul@users.noreply.github.com"" ""michielborkent@gmail.com""}",1244.0,97
+Clojure,clj-kondo,2021-06-20,2,2,"#{""vemv@users.noreply.github.com"" ""michielborkent@gmail.com""}",1246.0,97
+Clojure,clj-kondo,2021-06-24,1,1,"#{""michielborkent@gmail.com""}",1247.0,97
+Clojure,clj-kondo,2021-06-29,1,1,"#{""tim.kleinschmidt@gmail.com""}",1248.0,98
+Clojure,clj-kondo,2021-06-30,1,1,"#{""michielborkent@gmail.com""}",1249.0,98
+Clojure,clj-kondo,2021-07-06,2,1,"#{""michielborkent@gmail.com""}",1251.0,98
+Clojure,clj-kondo,2021-07-07,1,1,"#{""michielborkent@gmail.com""}",1252.0,98
+Clojure,clj-kondo,2021-07-09,1,1,"#{""michielborkent@gmail.com""}",1253.0,98
+Clojure,clj-kondo,2021-07-11,2,1,"#{""michielborkent@gmail.com""}",1255.0,98
+Clojure,clj-kondo,2021-07-20,4,3,"#{""michielborkent@gmail.com"" ""rahul080327@gmail.com"" ""lispyclouds@users.noreply.github.com""}",1259.0,98
+Clojure,clj-kondo,2021-07-21,1,1,"#{""lispyclouds@users.noreply.github.com""}",1260.0,98
+Clojure,clj-kondo,2021-07-25,2,1,"#{""michielborkent@gmail.com""}",1262.0,98
+Clojure,clj-kondo,2021-07-28,17,1,"#{""michielborkent@gmail.com""}",1279.0,98
+Clojure,clj-kondo,2021-07-29,4,2,"#{""dpassen1@gmail.com"" ""michielborkent@gmail.com""}",1283.0,99
+Clojure,clj-kondo,2021-07-30,2,1,"#{""michielborkent@gmail.com""}",1285.0,99
+Clojure,clj-kondo,2021-08-01,3,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1288.0,99
+Clojure,clj-kondo,2021-08-03,8,1,"#{""michielborkent@gmail.com""}",1296.0,99
+Clojure,clj-kondo,2021-08-06,8,2,"#{""michielborkent@gmail.com"" ""hugo@hugoduncan.org""}",1304.0,100
+Clojure,clj-kondo,2021-08-11,6,2,"#{""michielborkent@gmail.com"" ""jimka2001@users.noreply.github.com""}",1310.0,101
+Clojure,clj-kondo,2021-08-13,1,1,"#{""michielborkent@gmail.com""}",1311.0,101
+Clojure,clj-kondo,2021-08-16,1,1,"#{""lee@dlread.com""}",1312.0,101
+Clojure,clj-kondo,2021-08-19,5,3,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com"" ""lee@dlread.com""}",1317.0,101
+Clojure,clj-kondo,2021-08-20,2,1,"#{""michielborkent@gmail.com""}",1319.0,101
+Clojure,clj-kondo,2021-08-22,4,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1323.0,101
+Clojure,clj-kondo,2021-08-23,1,1,"#{""michielborkent@gmail.com""}",1324.0,101
+Clojure,clj-kondo,2021-08-26,2,1,"#{""michielborkent@gmail.com""}",1326.0,101
+Clojure,clj-kondo,2021-08-30,5,1,"#{""michielborkent@gmail.com""}",1331.0,101
+Clojure,clj-kondo,2021-09-03,2,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1333.0,101
+Clojure,clj-kondo,2021-09-09,1,1,"#{""ericdallo06@hotmail.com""}",1334.0,101
+Clojure,clj-kondo,2021-09-14,6,1,"#{""michielborkent@gmail.com""}",1340.0,101
+Clojure,clj-kondo,2021-09-15,8,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1348.0,101
+Clojure,clj-kondo,2021-09-17,8,1,"#{""michielborkent@gmail.com""}",1356.0,101
+Clojure,clj-kondo,2021-09-18,2,1,"#{""michielborkent@gmail.com""}",1358.0,101
+Clojure,clj-kondo,2021-09-19,3,1,"#{""michielborkent@gmail.com""}",1361.0,101
+Clojure,clj-kondo,2021-09-20,4,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1365.0,101
+Clojure,clj-kondo,2021-09-21,1,1,"#{""michielborkent@gmail.com""}",1366.0,101
+Clojure,clj-kondo,2021-09-23,1,1,"#{""ericdallo06@hotmail.com""}",1367.0,101
+Clojure,clj-kondo,2021-09-25,8,1,"#{""michielborkent@gmail.com""}",1375.0,101
+Clojure,clj-kondo,2021-09-27,1,1,"#{""michielborkent@gmail.com""}",1376.0,101
+Clojure,clj-kondo,2021-10-05,4,1,"#{""michielborkent@gmail.com""}",1380.0,101
+Clojure,clj-kondo,2021-10-11,1,1,"#{""michielborkent@gmail.com""}",1381.0,101
+Clojure,clj-kondo,2021-10-12,3,1,"#{""michielborkent@gmail.com""}",1384.0,101
+Clojure,clj-kondo,2021-10-13,3,1,"#{""michielborkent@gmail.com""}",1387.0,101
+Clojure,clj-kondo,2021-10-15,1,1,"#{""michielborkent@gmail.com""}",1388.0,101
+Clojure,clj-kondo,2021-10-16,1,1,"#{""ericdallo06@hotmail.com""}",1389.0,101
+Clojure,clj-kondo,2021-10-18,4,2,"#{""michielborkent@gmail.com"" ""lee@dlread.com""}",1393.0,101
+Clojure,clj-kondo,2021-10-19,12,2,"#{""michielborkent@gmail.com"" ""lee@dlread.com""}",1405.0,101
+Clojure,clj-kondo,2021-10-20,9,2,"#{""michielborkent@gmail.com"" ""dharrigan@users.noreply.github.com""}",1414.0,101
+Clojure,clj-kondo,2021-10-25,2,1,"#{""michielborkent@gmail.com""}",1416.0,101
+Clojure,clj-kondo,2021-10-28,1,1,"#{""michielborkent@gmail.com""}",1417.0,101
+Clojure,clj-kondo,2021-11-02,1,1,"#{""michielborkent@gmail.com""}",1418.0,101
+Clojure,clj-kondo,2021-11-06,9,1,"#{""michielborkent@gmail.com""}",1427.0,101
+Clojure,clj-kondo,2021-11-08,1,1,"#{""michielborkent@gmail.com""}",1428.0,101
+Clojure,clj-kondo,2021-11-14,1,1,"#{""michielborkent@gmail.com""}",1429.0,101
+Clojure,clj-kondo,2021-11-16,1,1,"#{""michielborkent@gmail.com""}",1430.0,101
+Clojure,clj-kondo,2021-11-17,2,1,"#{""jakubholy@jakubholy.net""}",1432.0,102
+Clojure,clj-kondo,2021-11-25,13,1,"#{""michielborkent@gmail.com""}",1445.0,102
+Clojure,clj-kondo,2021-11-26,2,1,"#{""michielborkent@gmail.com""}",1447.0,102
+Clojure,clj-kondo,2021-12-01,11,2,"#{""michielborkent@gmail.com"" ""hsartoris@bard.edu""}",1458.0,103
+Clojure,clj-kondo,2021-12-02,3,1,"#{""michielborkent@gmail.com""}",1461.0,103
+Clojure,clj-kondo,2021-12-03,2,1,"#{""michielborkent@gmail.com""}",1463.0,103
+Clojure,clj-kondo,2021-12-05,4,1,"#{""michielborkent@gmail.com""}",1467.0,103
+Clojure,clj-kondo,2021-12-06,4,3,"#{""benedekfazekas@users.noreply.github.com"" ""vemv@users.noreply.github.com"" ""michielborkent@gmail.com""}",1471.0,104
+Clojure,clj-kondo,2021-12-08,1,1,"#{""michielborkent@gmail.com""}",1472.0,104
+Clojure,clj-kondo,2021-12-09,3,2,"#{""maximilian.karasz@googlemail.com"" ""michielborkent@gmail.com""}",1475.0,105
+Clojure,clj-kondo,2021-12-10,1,1,"#{""michielborkent@gmail.com""}",1476.0,105
+Clojure,clj-kondo,2021-12-11,1,1,"#{""michielborkent@gmail.com""}",1477.0,105
+Clojure,clj-kondo,2021-12-12,4,1,"#{""michielborkent@gmail.com""}",1481.0,105
+Clojure,clj-kondo,2021-12-13,6,2,"#{""mknoszlig@zeroton.in"" ""michielborkent@gmail.com""}",1487.0,106
+Clojure,clj-kondo,2021-12-15,9,3,"#{""michielborkent@gmail.com"" ""joost@zeekat.nl"" ""ericdallo06@hotmail.com""}",1496.0,107
+Clojure,clj-kondo,2021-12-16,9,1,"#{""michielborkent@gmail.com""}",1505.0,107
+Clojure,clj-kondo,2021-12-17,10,3,"#{""mknoszlig@zeroton.in"" ""michielborkent@gmail.com"" ""robert@cognician.com""}",1515.0,107
+Clojure,clj-kondo,2021-12-19,9,2,"#{""mknoszlig@zeroton.in"" ""michielborkent@gmail.com""}",1524.0,107
+Clojure,clj-kondo,2021-12-21,1,1,"#{""mknoszlig@zeroton.in""}",1525.0,107
+Clojure,clj-kondo,2021-12-23,1,1,"#{""michielborkent@gmail.com""}",1526.0,107
+Clojure,clj-kondo,2021-12-29,2,1,"#{""michielborkent@gmail.com""}",1528.0,107
+Clojure,clj-kondo,2021-12-31,1,1,"#{""ericdallo06@hotmail.com""}",1529.0,107
+Clojure,clj-kondo,2022-01-03,3,1,"#{""michielborkent@gmail.com""}",1532.0,107
+Clojure,clj-kondo,2022-01-04,2,2,"#{""michielborkent@gmail.com"" ""bruno@brcosta.com.br""}",1534.0,108
+Clojure,clj-kondo,2022-01-06,1,1,"#{""kyleerhabor@gmail.com""}",1535.0,109
+Clojure,clj-kondo,2022-01-07,2,1,"#{""michielborkent@gmail.com""}",1537.0,109
+Clojure,clj-kondo,2022-01-08,1,1,"#{""michielborkent@gmail.com""}",1538.0,109
+Clojure,clj-kondo,2022-01-12,2,2,"#{""alex@puredanger.com"" ""michielborkent@gmail.com""}",1540.0,110
+Clojure,clj-kondo,2022-01-13,6,1,"#{""michielborkent@gmail.com""}",1546.0,110
+Clojure,clj-kondo,2022-01-14,3,2,"#{""michielborkent@gmail.com"" ""97210743+logseq-cldwalker@users.noreply.github.com""}",1549.0,111
+Clojure,clj-kondo,2022-01-15,6,1,"#{""michielborkent@gmail.com""}",1555.0,111
+Clojure,clj-kondo,2022-01-20,2,1,"#{""mknoszlig@zeroton.in""}",1557.0,111
+Clojure,clj-kondo,2022-01-23,1,1,"#{""mknoszlig@zeroton.in""}",1558.0,111
+Clojure,clj-kondo,2022-01-24,1,1,"#{""mknoszlig@zeroton.in""}",1559.0,111
+Clojure,clj-kondo,2022-01-26,1,1,"#{""mknoszlig@zeroton.in""}",1560.0,111
+Clojure,clj-kondo,2022-01-27,1,1,"#{""michielborkent@gmail.com""}",1561.0,111
+Clojure,clj-kondo,2022-01-29,1,1,"#{""michielborkent@gmail.com""}",1562.0,111
+Clojure,clj-kondo,2022-02-01,1,1,"#{""michielborkent@gmail.com""}",1563.0,111
+Clojure,clj-kondo,2022-02-02,1,1,"#{""desk@danielcompton.net""}",1564.0,111
+Clojure,clj-kondo,2022-02-03,3,2,"#{""mknoszlig@zeroton.in"" ""michielborkent@gmail.com""}",1567.0,111
+Clojure,clj-kondo,2022-02-04,1,1,"#{""mknoszlig@zeroton.in""}",1568.0,111
+Clojure,clj-kondo,2022-02-06,1,1,"#{""ericdallo06@hotmail.com""}",1569.0,111
+Clojure,clj-kondo,2022-02-09,13,2,"#{""benedekfazekas@users.noreply.github.com"" ""michielborkent@gmail.com""}",1582.0,111
+Clojure,clj-kondo,2022-02-13,1,1,"#{""michielborkent@gmail.com""}",1583.0,111
+Clojure,clj-kondo,2022-02-14,1,1,"#{""mknoszlig@zeroton.in""}",1584.0,111
+Clojure,clj-kondo,2022-02-16,1,1,"#{""zharinov@users.noreply.github.com""}",1585.0,112
+Clojure,clj-kondo,2022-02-18,2,1,"#{""michielborkent@gmail.com""}",1587.0,112
+Clojure,clj-kondo,2022-02-25,1,1,"#{""soord@mac.com""}",1588.0,113
+Clojure,clj-kondo,2022-02-28,2,1,"#{""michielborkent@gmail.com""}",1590.0,113
+Clojure,clj-kondo,2022-03-01,1,1,"#{""thiru0130@gmail.com""}",1591.0,114
+Clojure,clj-kondo,2022-03-02,6,1,"#{""michielborkent@gmail.com""}",1597.0,114
+Clojure,clj-kondo,2022-03-03,4,1,"#{""michielborkent@gmail.com""}",1601.0,114
+Clojure,clj-kondo,2022-03-04,4,1,"#{""michielborkent@gmail.com""}",1605.0,114
+Clojure,clj-kondo,2022-03-07,2,2,"#{""michielborkent@gmail.com"" ""lee@dlread.com""}",1607.0,114
+Clojure,clj-kondo,2022-03-08,6,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1613.0,114
+Clojure,clj-kondo,2022-03-09,1,1,"#{""benedekfazekas@users.noreply.github.com""}",1614.0,114
+Clojure,clj-kondo,2022-03-11,4,2,"#{""michielborkent@gmail.com"" ""dundalek@gmail.com""}",1618.0,115
+Clojure,clj-kondo,2022-03-12,1,1,"#{""michielborkent@gmail.com""}",1619.0,115
+Clojure,clj-kondo,2022-03-16,2,1,"#{""michielborkent@gmail.com""}",1621.0,115
+Clojure,clj-kondo,2022-03-17,1,1,"#{""michielborkent@gmail.com""}",1622.0,115
+Clojure,clj-kondo,2022-03-20,1,1,"#{""egg@novonon.com""}",1623.0,116
+Clojure,clj-kondo,2022-03-23,1,1,"#{""ericdallo06@hotmail.com""}",1624.0,116
+Clojure,clj-kondo,2022-03-25,1,1,"#{""michielborkent@gmail.com""}",1625.0,116
+Clojure,clj-kondo,2022-03-26,3,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1628.0,116
+Clojure,clj-kondo,2022-03-28,8,2,"#{""michielborkent@gmail.com"" ""thiagokokada@gmail.com""}",1636.0,117
+Clojure,clj-kondo,2022-03-29,2,2,"#{""michielborkent@gmail.com"" ""james.r.croft@googlemail.com""}",1638.0,118
+Clojure,clj-kondo,2022-03-30,7,2,"#{""benedekfazekas@users.noreply.github.com"" ""michielborkent@gmail.com""}",1645.0,118
+Clojure,clj-kondo,2022-03-31,5,2,"#{""michielborkent@gmail.com"" ""lee@dlread.com""}",1650.0,118
+Clojure,clj-kondo,2022-04-01,1,1,"#{""michielborkent@gmail.com""}",1651.0,118
+Clojure,clj-kondo,2022-04-08,9,2,"#{""michielborkent@gmail.com"" ""inaki.arenaza@gmail.com""}",1660.0,119
+Clojure,clj-kondo,2022-04-11,1,1,"#{""noah.bogart@hey.com""}",1661.0,120
+Clojure,clj-kondo,2022-04-14,1,1,"#{""teemu.kaukoranta@gmail.com""}",1662.0,121
+Clojure,clj-kondo,2022-04-16,1,1,"#{""benedekfazekas@users.noreply.github.com""}",1663.0,121
+Clojure,clj-kondo,2022-04-18,1,1,"#{""michielborkent@gmail.com""}",1664.0,121
+Clojure,clj-kondo,2022-04-21,1,1,"#{""michielborkent@gmail.com""}",1665.0,121
+Clojure,clj-kondo,2022-04-23,13,1,"#{""michielborkent@gmail.com""}",1678.0,121
+Clojure,clj-kondo,2022-04-25,4,1,"#{""michielborkent@gmail.com""}",1682.0,121
+Clojure,clj-kondo,2022-04-29,1,1,"#{""jacob.maine@gmail.com""}",1683.0,122
+Clojure,clj-kondo,2022-05-02,3,1,"#{""ericdallo06@hotmail.com""}",1686.0,122
+Clojure,clj-kondo,2022-05-03,2,1,"#{""michielborkent@gmail.com""}",1688.0,122
+Clojure,clj-kondo,2022-05-06,1,1,"#{""michielborkent@gmail.com""}",1689.0,122
+Clojure,clj-kondo,2022-05-08,1,1,"#{""lispyclouds@users.noreply.github.com""}",1690.0,122
+Clojure,clj-kondo,2022-05-09,2,2,"#{""michielborkent@gmail.com"" ""imrekoszo@users.noreply.github.com""}",1692.0,122
+Clojure,clj-kondo,2022-05-11,1,1,"#{""jake@jakemccrary.com""}",1693.0,123
+Clojure,clj-kondo,2022-05-13,1,1,"#{""rayat.m.rahman@gmail.com""}",1694.0,124
+Clojure,clj-kondo,2022-05-17,5,3,"#{""noah.bogart@hey.com"" ""lee@dlread.com"" ""_@sebastien-fievet.net""}",1699.0,125
+Clojure,clj-kondo,2022-05-21,3,1,"#{""michielborkent@gmail.com""}",1702.0,125
+Clojure,clj-kondo,2022-05-25,1,1,"#{""benedekfazekas@users.noreply.github.com""}",1703.0,125
+Clojure,clj-kondo,2022-05-26,17,2,"#{""michielborkent@gmail.com"" ""joelhess@users.noreply.github.com""}",1720.0,126
+Clojure,clj-kondo,2022-05-27,13,1,"#{""michielborkent@gmail.com""}",1733.0,126
+Clojure,clj-kondo,2022-05-28,1,1,"#{""michielborkent@gmail.com""}",1734.0,126
+Clojure,clj-kondo,2022-05-29,2,1,"#{""michielborkent@gmail.com""}",1736.0,126
+Clojure,clj-kondo,2022-05-31,4,1,"#{""michielborkent@gmail.com""}",1740.0,126
+Clojure,clj-kondo,2022-06-02,2,1,"#{""michielborkent@gmail.com""}",1742.0,126
+Clojure,clj-kondo,2022-06-19,7,1,"#{""michielborkent@gmail.com""}",1749.0,126
+Clojure,clj-kondo,2022-06-20,2,2,"#{""kchernys@cisco.com"" ""michielborkent@gmail.com""}",1751.0,127
+Clojure,clj-kondo,2022-06-21,9,1,"#{""michielborkent@gmail.com""}",1760.0,127
+Clojure,clj-kondo,2022-06-22,4,2,"#{""michielborkent@gmail.com"" ""snurppa@gmail.com""}",1764.0,128
+Clojure,clj-kondo,2022-06-25,1,1,"#{""inge.solvoll@gmail.com""}",1765.0,129
+Clojure,clj-kondo,2022-07-04,1,1,"#{""jacob.maine@gmail.com""}",1766.0,129
+Clojure,clj-kondo,2022-07-05,1,1,"#{""prg@fastmail.com""}",1767.0,130
+Clojure,clj-kondo,2022-07-13,1,1,"#{""michielborkent@gmail.com""}",1768.0,130
+Clojure,clj-kondo,2022-07-20,1,1,"#{""chance@chancerussell.io""}",1769.0,131
+Clojure,clj-kondo,2022-07-21,1,1,"#{""jacob.maine@gmail.com""}",1770.0,131
+Clojure,clj-kondo,2022-08-02,1,1,"#{""alex@netquity.com""}",1771.0,132
+Clojure,clj-kondo,2022-08-03,7,1,"#{""michielborkent@gmail.com""}",1778.0,132
+Clojure,clj-kondo,2022-08-12,3,3,"#{""michielborkent@gmail.com"" ""joshua@suskalo.org"" ""arturdumchev@yandex.ru""}",1781.0,133
+Clojure,clj-kondo,2022-08-14,1,1,"#{""arturdumchev@yandex.ru""}",1782.0,133
+Clojure,clj-kondo,2022-08-21,1,1,"#{""dpassen1@gmail.com""}",1783.0,133
+Clojure,clj-kondo,2022-08-23,1,1,"#{""will@willacton.com""}",1784.0,134
+Clojure,clj-kondo,2022-08-31,1,1,"#{""34983288+ikappaki@users.noreply.github.com""}",1785.0,135
+Clojure,clj-kondo,2022-09-01,1,1,"#{""michielborkent@gmail.com""}",1786.0,135
+Clojure,clj-kondo,2022-09-02,1,1,"#{""gianfrancopen@gmail.com""}",1787.0,136
+Clojure,clj-kondo,2022-09-04,1,1,"#{""ericdallo06@hotmail.com""}",1788.0,136
+Clojure,clj-kondo,2022-09-07,4,1,"#{""michielborkent@gmail.com""}",1792.0,136
+Clojure,clj-kondo,2022-09-08,6,1,"#{""michielborkent@gmail.com""}",1798.0,136
+Clojure,clj-kondo,2022-09-09,2,2,"#{""rkwestmacott@gmail.com"" ""michielborkent@gmail.com""}",1800.0,137
+Clojure,clj-kondo,2022-09-14,6,2,"#{""noah.bogart@hey.com"" ""michielborkent@gmail.com""}",1806.0,137
+Clojure,clj-kondo,2022-09-15,3,2,"#{""alex.sheluchin@gmail.com"" ""michielborkent@gmail.com""}",1809.0,138
+Clojure,clj-kondo,2022-09-16,2,1,"#{""noah.bogart@hey.com""}",1811.0,138
+Clojure,clj-kondo,2022-09-17,2,2,"#{""alex.sheluchin@gmail.com"" ""michielborkent@gmail.com""}",1813.0,138
+Clojure,clj-kondo,2022-09-18,5,1,"#{""michielborkent@gmail.com""}",1818.0,138
+Clojure,clj-kondo,2022-09-20,1,1,"#{""michielborkent@gmail.com""}",1819.0,138
+Clojure,clj-kondo,2022-09-24,1,1,"#{""rsauex@mailbox.org""}",1820.0,139
+Clojure,clj-kondo,2022-09-30,6,2,"#{""noah.bogart@hey.com"" ""michielborkent@gmail.com""}",1826.0,139
+Clojure,clj-kondo,2022-10-05,9,1,"#{""michielborkent@gmail.com""}",1835.0,139
+Clojure,clj-kondo,2022-10-06,4,1,"#{""michielborkent@gmail.com""}",1839.0,139
+Clojure,clj-kondo,2022-10-07,3,2,"#{""noah.bogart@hey.com"" ""michielborkent@gmail.com""}",1842.0,139
+Clojure,clj-kondo,2022-10-11,1,1,"#{""github@wesmorgan.me""}",1843.0,140
+Clojure,clj-kondo,2022-10-14,8,2,"#{""michielborkent@gmail.com"" ""likid.geimfari@gmail.com""}",1851.0,141
+Clojure,clj-kondo,2022-10-21,5,3,"#{""noah.bogart@hey.com"" ""michielborkent@gmail.com"" ""strycek.frenk@gmail.com""}",1856.0,142
+Clojure,clj-kondo,2022-10-22,1,1,"#{""michielborkent@gmail.com""}",1857.0,142
+Clojure,clj-kondo,2022-10-25,1,1,"#{""rschmukler@gmail.com""}",1858.0,142
+Clojure,clj-kondo,2022-10-28,1,1,"#{""avif@latacora.com""}",1859.0,143
+Clojure,clj-kondo,2022-11-02,8,1,"#{""michielborkent@gmail.com""}",1867.0,143
+Clojure,clj-kondo,2022-11-03,1,1,"#{""patrick_de_glind@hotmail.com""}",1868.0,144
+Clojure,clj-kondo,2022-11-04,2,1,"#{""97764129+allie-jo@users.noreply.github.com""}",1870.0,145
+Clojure,clj-kondo,2022-11-05,2,1,"#{""michielborkent@gmail.com""}",1872.0,145
+Clojure,clj-kondo,2022-11-06,1,1,"#{""michielborkent@gmail.com""}",1873.0,145
+Clojure,clj-kondo,2022-11-09,1,1,"#{""lee@dlread.com""}",1874.0,145
+Clojure,clj-kondo,2022-11-14,4,2,"#{""kchernys@cisco.com"" ""michielborkent@gmail.com""}",1878.0,145
+Clojure,clj-kondo,2022-11-16,3,1,"#{""michielborkent@gmail.com""}",1881.0,145
+Clojure,clj-kondo,2022-11-28,2,1,"#{""michielborkent@gmail.com""}",1883.0,145
+Clojure,clj-kondo,2022-11-29,1,1,"#{""michielborkent@gmail.com""}",1884.0,145
+Clojure,clj-kondo,2022-12-05,3,1,"#{""michielborkent@gmail.com""}",1887.0,145
+Clojure,clj-kondo,2022-12-07,3,1,"#{""michielborkent@gmail.com""}",1890.0,145
+Clojure,clj-kondo,2022-12-08,9,1,"#{""michielborkent@gmail.com""}",1899.0,145
+Clojure,clj-kondo,2022-12-09,3,1,"#{""michielborkent@gmail.com""}",1902.0,145
+Clojure,clj-kondo,2022-12-10,4,1,"#{""michielborkent@gmail.com""}",1906.0,145
+Clojure,clj-kondo,2022-12-14,2,1,"#{""martin@nextjournal.com""}",1908.0,146
+Clojure,clj-kondo,2022-12-20,2,2,"#{""michielborkent@gmail.com"" ""martin@nextjournal.com""}",1910.0,146
+Clojure,clj-kondo,2022-12-21,1,1,"#{""helios89@gmail.com""}",1911.0,146
+Clojure,clj-kondo,2022-12-25,1,1,"#{""nicolas.vuillamy@gmail.com""}",1912.0,146
+Clojure,clj-kondo,2023-01-02,1,1,"#{""lispyclouds@users.noreply.github.com""}",1913.0,146
+Clojure,clj-kondo,2023-01-06,1,1,"#{""michielborkent@gmail.com""}",1914.0,146
+Clojure,clj-kondo,2023-01-08,3,1,"#{""michielborkent@gmail.com""}",1917.0,146
+Clojure,clj-kondo,2023-01-09,2,1,"#{""michielborkent@gmail.com""}",1919.0,146
+Clojure,clj-kondo,2023-01-11,6,1,"#{""michielborkent@gmail.com""}",1925.0,146
+Clojure,clj-kondo,2023-01-12,6,1,"#{""michielborkent@gmail.com""}",1931.0,146
+Clojure,clj-kondo,2023-01-15,5,1,"#{""michielborkent@gmail.com""}",1936.0,146
+Clojure,clj-kondo,2023-01-16,5,1,"#{""michielborkent@gmail.com""}",1941.0,146
+Clojure,clj-kondo,2023-01-18,2,1,"#{""michielborkent@gmail.com""}",1943.0,146
+Clojure,clj-kondo,2023-01-19,4,1,"#{""michielborkent@gmail.com""}",1947.0,146
+Clojure,clj-kondo,2023-01-20,7,1,"#{""michielborkent@gmail.com""}",1954.0,146
+Clojure,clj-kondo,2023-01-25,1,1,"#{""michielborkent@gmail.com""}",1955.0,146
+Clojure,clj-kondo,2023-01-26,1,1,"#{""michielborkent@gmail.com""}",1956.0,146
+Clojure,clj-kondo,2023-02-06,1,1,"#{""ericdallo06@hotmail.com""}",1957.0,146
+Clojure,clj-kondo,2023-02-08,3,1,"#{""michielborkent@gmail.com""}",1960.0,146
+Clojure,clj-kondo,2023-02-09,1,1,"#{""michielborkent@gmail.com""}",1961.0,146
+Clojure,clj-kondo,2023-02-15,4,1,"#{""michielborkent@gmail.com""}",1965.0,146
+Clojure,clj-kondo,2023-02-16,7,1,"#{""michielborkent@gmail.com""}",1972.0,146
+Clojure,clj-kondo,2023-02-17,9,1,"#{""michielborkent@gmail.com""}",1981.0,146
+Clojure,clj-kondo,2023-02-18,1,1,"#{""sam@mentat.org""}",1982.0,147
+Clojure,clj-kondo,2023-03-11,4,2,"#{""jake@jakemccrary.com"" ""michielborkent@gmail.com""}",1986.0,147
+Clojure,clj-kondo,2023-03-12,3,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1989.0,147
+Clojure,clj-kondo,2023-03-15,3,3,"#{""michielborkent@gmail.com"" ""lispyclouds@users.noreply.github.com"" ""emlyn.corrin@gmail.com""}",1992.0,148
+Clojure,clj-kondo,2023-03-17,9,1,"#{""michielborkent@gmail.com""}",2001.0,148
+Clojure,clj-kondo,2023-03-18,4,1,"#{""samumbach@gmail.com""}",2005.0,149
+Clojure,clj-kondo,2023-03-19,7,1,"#{""michielborkent@gmail.com""}",2012.0,149
+Clojure,clj-kondo,2023-03-22,2,2,"#{""michielborkent@gmail.com"" ""lee@dlread.com""}",2014.0,149
+Clojure,clj-kondo,2023-03-25,2,2,"#{""michielborkent@gmail.com"" ""samumbach@gmail.com""}",2016.0,149
+Clojure,clj-kondo,2023-03-26,8,1,"#{""michielborkent@gmail.com""}",2024.0,149
+Clojure,clj-kondo,2023-03-28,1,1,"#{""michielborkent@gmail.com""}",2025.0,149
+Clojure,clj-kondo,2023-03-29,1,1,"#{""GlassAndOneHalf@users.noreply.github.com""}",2026.0,150
+Clojure,clj-kondo,2023-03-31,1,1,"#{""andreribeirocamargo@gmail.com""}",2027.0,151
+Clojure,clj-kondo,2023-04-01,1,1,"#{""michielborkent@gmail.com""}",2028.0,151
+Clojure,clj-kondo,2023-04-03,2,1,"#{""michielborkent@gmail.com""}",2030.0,151
+Clojure,clj-kondo,2023-04-04,2,2,"#{""michielborkent@gmail.com"" ""samumbach@gmail.com""}",2032.0,151
+Clojure,clj-kondo,2023-04-05,1,1,"#{""michielborkent@gmail.com""}",2033.0,151
+Clojure,clj-kondo,2023-04-06,1,1,"#{""jim.amberger@gmail.com""}",2034.0,152
+Clojure,clj-kondo,2023-04-08,2,1,"#{""michielborkent@gmail.com""}",2036.0,152
+Clojure,clj-kondo,2023-04-11,2,1,"#{""michielborkent@gmail.com""}",2038.0,152
+Clojure,clj-kondo,2023-04-12,1,1,"#{""michielborkent@gmail.com""}",2039.0,152
+Clojure,clj-kondo,2023-04-13,1,1,"#{""michielborkent@gmail.com""}",2040.0,152
+Clojure,clj-kondo,2023-04-14,3,1,"#{""michielborkent@gmail.com""}",2043.0,152
+Clojure,clj-kondo,2023-04-16,1,1,"#{""michielborkent@gmail.com""}",2044.0,152
+Clojure,clj-kondo,2023-04-18,1,1,"#{""michielborkent@gmail.com""}",2045.0,152
+Clojure,clj-kondo,2023-04-27,1,1,"#{""michielborkent@gmail.com""}",2046.0,152
+Clojure,clj-kondo,2023-04-30,1,1,"#{""michielborkent@gmail.com""}",2047.0,152
+Clojure,clj-kondo,2023-05-01,1,1,"#{""michielborkent@gmail.com""}",2048.0,152
+Clojure,clj-kondo,2023-05-03,2,1,"#{""michielborkent@gmail.com""}",2050.0,152
+Clojure,clj-kondo,2023-05-05,1,1,"#{""luandy64@gmail.com""}",2051.0,153
+Clojure,clj-kondo,2023-05-07,3,1,"#{""michielborkent@gmail.com""}",2054.0,153
+Clojure,clj-kondo,2023-05-09,2,2,"#{""michielborkent@gmail.com"" ""stig@brautaset.org""}",2056.0,154
+Clojure,clj-kondo,2023-05-12,1,1,"#{""michielborkent@gmail.com""}",2057.0,154
+Clojure,clj-kondo,2023-05-17,5,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",2062.0,154
+Clojure,clj-kondo,2023-05-18,5,1,"#{""michielborkent@gmail.com""}",2067.0,154
+Clojure,clj-kondo,2023-05-21,1,1,"#{""michielborkent@gmail.com""}",2068.0,154
+Clojure,clj-kondo,2023-05-22,1,1,"#{""michielborkent@gmail.com""}",2069.0,154
+Clojure,clj-kondo,2023-05-23,1,1,"#{""michielborkent@gmail.com""}",2070.0,154
+Clojure,clj-kondo,2023-05-25,1,1,"#{""michielborkent@gmail.com""}",2071.0,154
+Clojure,clj-kondo,2023-05-26,3,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",2074.0,154
+Clojure,clj-kondo,2023-05-30,1,1,"#{""michielborkent@gmail.com""}",2075.0,154
+Clojure,clj-kondo,2023-06-01,1,1,"#{""michielborkent@gmail.com""}",2076.0,154
+Clojure,clj-kondo,2023-06-03,1,1,"#{""lee@dlread.com""}",2077.0,154
+Clojure,clj-kondo,2023-06-04,1,1,"#{""lee@dlread.com""}",2078.0,154
+Clojure,clj-kondo,2023-06-07,1,1,"#{""michielborkent@gmail.com""}",2079.0,154
+Clojure,clj-kondo,2023-06-12,1,1,"#{""ericdallo06@hotmail.com""}",2080.0,154
+Clojure,clj-kondo,2023-06-14,2,1,"#{""michielborkent@gmail.com""}",2082.0,154
+Clojure,clj-kondo,2023-06-16,1,1,"#{""lee@dlread.com""}",2083.0,154
+Clojure,clj-kondo,2023-06-18,1,1,"#{""michielborkent@gmail.com""}",2084.0,154
+Clojure,clj-kondo,2023-06-21,3,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",2087.0,154
+Clojure,clj-kondo,2023-06-22,1,1,"#{""michielborkent@gmail.com""}",2088.0,154
+Clojure,clj-kondo,2023-06-25,1,1,"#{""michielborkent@gmail.com""}",2089.0,154
+Clojure,clj-kondo,2023-06-26,1,1,"#{""michielborkent@gmail.com""}",2090.0,154
+Clojure,clj-kondo,2023-06-30,1,1,"#{""andre.camargo@nubank.com.br""}",2091.0,155
+Clojure,clj-kondo,2023-07-08,1,1,"#{""ericdallo06@hotmail.com""}",2092.0,155
+Clojure,clj-kondo,2023-07-11,1,1,"#{""ericdallo06@hotmail.com""}",2093.0,155
+Clojure,clj-kondo,2023-07-12,4,1,"#{""michielborkent@gmail.com""}",2097.0,155
+Clojure,clj-kondo,2023-07-13,8,1,"#{""michielborkent@gmail.com""}",2105.0,155
+Clojure,clj-kondo,2023-07-17,1,1,"#{""michielborkent@gmail.com""}",2106.0,155
+Clojure,clj-kondo,2023-07-23,1,1,"#{""michielborkent@gmail.com""}",2107.0,155
+Clojure,clj-kondo,2023-07-29,1,1,"#{""michielborkent@gmail.com""}",2108.0,155
+Clojure,clj-kondo,2023-08-04,1,1,"#{""michielborkent@gmail.com""}",2109.0,155
+Clojure,clj-kondo,2023-08-19,2,1,"#{""michielborkent@gmail.com""}",2111.0,155
+Clojure,clj-kondo,2023-08-22,2,2,"#{""5475129+lambdank@users.noreply.github.com"" ""michielborkent@gmail.com""}",2113.0,156
+Clojure,clj-kondo,2023-08-24,1,1,"#{""michielborkent@gmail.com""}",2114.0,156
+Clojure,clj-kondo,2023-08-26,1,1,"#{""michielborkent@gmail.com""}",2115.0,156
+Clojure,clj-kondo,2023-08-31,1,1,"#{""michielborkent@gmail.com""}",2116.0,156
+Clojure,clj-kondo,2023-09-01,3,1,"#{""michielborkent@gmail.com""}",2119.0,156
+Clojure,clj-kondo,2023-09-02,2,1,"#{""michielborkent@gmail.com""}",2121.0,156
+Clojure,clj-kondo,2023-09-04,1,1,"#{""michielborkent@gmail.com""}",2122.0,156
+Clojure,clj-kondo,2023-09-05,2,1,"#{""michielborkent@gmail.com""}",2124.0,156
+Clojure,clj-kondo,2023-09-06,7,1,"#{""michielborkent@gmail.com""}",2131.0,156
+Clojure,clj-kondo,2023-09-08,1,1,"#{""michielborkent@gmail.com""}",2132.0,156
+Clojure,clj-kondo,2023-09-15,1,1,"#{""wfleming77@gmail.com""}",2133.0,157
+Clojure,clj-kondo,2023-09-19,1,1,"#{""dmytro.bunin@hotmail.com""}",2134.0,158
+Clojure,clj-kondo,2023-09-29,1,1,"#{""michielborkent@gmail.com""}",2135.0,158
+Clojure,clj-kondo,2023-10-05,1,1,"#{""josh@ladderlife.com""}",2136.0,159
+Clojure,clj-kondo,2023-10-12,2,1,"#{""michielborkent@gmail.com""}",2138.0,159
+Clojure,clj-kondo,2023-10-13,3,1,"#{""michielborkent@gmail.com""}",2141.0,159
+Clojure,clj-kondo,2023-10-19,1,1,"#{""michielborkent@gmail.com""}",2142.0,159
+Clojure,clj-kondo,2023-10-20,8,2,"#{""stefan@medicinemen.eu"" ""michielborkent@gmail.com""}",2150.0,160
+Clojure,clj-kondo,2023-10-22,1,1,"#{""bahulneel@gmail.com""}",2151.0,161
+Clojure,clj-kondo,2023-10-25,1,1,"#{""jordan@biserkov.com""}",2152.0,162
+Clojure,clj-kondo,2023-10-26,1,1,"#{""renan.r.marcelino2@protonmail.com""}",2153.0,163
+Clojure,clj-kondo,2023-10-27,2,1,"#{""michielborkent@gmail.com""}",2155.0,163
+Clojure,clj-kondo,2023-11-11,1,1,"#{""55855728+cosineblast@users.noreply.github.com""}",2156.0,164
+Clojure,clj-kondo,2023-11-14,1,1,"#{""michielborkent@gmail.com""}",2157.0,164
+Clojure,clj-kondo,2023-11-21,1,1,"#{""alexander@liftoff.io""}",2158.0,165
+Clojure,clj-kondo,2023-11-28,1,1,"#{""michielborkent@gmail.com""}",2159.0,165

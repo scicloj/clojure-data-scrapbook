@@ -1,0 +1,226 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/metosin/jsonista,2017-05-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kalle.lehikoinen@metosin.fi]",1.0,[{3 1}],0,0,0,0,1,0
+Clojure,https://github.com/metosin/jsonista,2017-05-30,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[miikka@metosin.fi, kalle.lehikoinen@metosin.fi, kalle.lehikoinen@metosin.fi, kalle.lehikoinen@metosin.fi, miikka@metosin.fi, miikka@metosin.fi, miikka@metosin.fi, kalle.lehikoinen@metosin.fi, miikka@metosin.fi, miikka.koskinen@iki.fi, kalle.lehikoinen@metosin.fi]",12.0,"[{3 6, 1 5, 2 1}]",0,0,5,1,6,0
+Clojure,https://github.com/metosin/jsonista,2017-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka.koskinen@iki.fi]",13.0,"[{3 6, 1 5, 2 2}]",0,0,5,2,6,0
+Clojure,https://github.com/metosin/jsonista,2017-06-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",14.0,"[{3 6, 1 6, 2 2}]",0,0,6,2,6,0
+Clojure,https://github.com/metosin/jsonista,2017-06-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[miikka.koskinen@iki.fi, miikka.koskinen@iki.fi, miikka.koskinen@iki.fi]",17.0,"[{3 6, 1 6, 2 5}]",0,0,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-10-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",19.0,"[{3 6, 1 6, 2 5, 0 2}]",0,2,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-10-04,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",25.0,"[{3 6, 1 6, 2 5, 0 8}]",0,8,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-10-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",27.0,"[{3 6, 1 6, 2 5, 0 10}]",0,10,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",28.0,"[{3 6, 1 6, 2 5, 0 11}]",0,11,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-11-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",32.0,"[{3 6, 1 6, 2 5, 0 15}]",0,15,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",33.0,"[{3 6, 1 6, 2 5, 0 16}]",0,16,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-11-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",37.0,"[{3 6, 1 6, 2 5, 0 20}]",0,20,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-11-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",39.0,"[{3 6, 1 6, 2 5, 0 22}]",0,22,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-11-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",41.0,"[{3 6, 1 6, 2 5, 0 24}]",0,24,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-11-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",43.0,"[{3 6, 1 6, 2 5, 0 26}]",0,26,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",44.0,"[{3 6, 1 6, 2 5, 0 27}]",0,27,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2017-12-21,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[juho.teperi@iki.fi, tommi@iki.fi, tommi@iki.fi]",47.0,"[{3 6, 1 6, 2 5, 0 29, ""other"" 1}]",1,29,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-01-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",49.0,"[{3 6, 1 6, 2 5, 0 31, ""other"" 1}]",1,31,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",50.0,"[{3 6, 1 6, 2 5, 0 31, ""other"" 2}]",2,31,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",51.0,"[{3 6, 1 6, 2 5, 0 32, ""other"" 2}]",2,32,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",52.0,"[{3 6, 1 6, 2 5, 0 33, ""other"" 2}]",2,33,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-04-30,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",58.0,"[{3 6, 1 6, 2 5, 0 39, ""other"" 2}]",2,39,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-05-01,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[francisga@gmail.com, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",64.0,"[{3 6, 1 6, 2 5, 0 44, ""other"" 3}]",3,44,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",65.0,"[{3 6, 1 6, 2 5, 0 45, ""other"" 3}]",3,45,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-05-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",68.0,"[{3 6, 1 6, 2 5, 0 48, ""other"" 3}]",3,48,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",69.0,"[{3 6, 1 6, 2 5, 0 49, ""other"" 3}]",3,49,6,5,6,0
+Clojure,https://github.com/metosin/jsonista,2018-05-23,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[tommi@iki.fi, miikka.koskinen@iki.fi, tommi@iki.fi]",72.0,"[{3 6, 1 6, 2 6, 0 51, ""other"" 3}]",3,51,6,6,6,0
+Clojure,https://github.com/metosin/jsonista,2018-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",73.0,"[{3 6, 1 7, 2 6, 0 51, ""other"" 3}]",3,51,7,6,6,0
+Clojure,https://github.com/metosin/jsonista,2018-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",74.0,"[{3 6, 1 7, 2 6, 0 52, ""other"" 3}]",3,52,7,6,6,0
+Clojure,https://github.com/metosin/jsonista,2018-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",75.0,"[{3 6, 1 8, 2 6, 0 52, ""other"" 3}]",3,52,8,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",76.0,"[{3 6, 1 9, 2 6, 0 52, ""other"" 3}]",3,52,9,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",77.0,"[{3 6, 1 9, 2 6, 0 53, ""other"" 3}]",3,53,9,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-05-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[miikka@metosin.fi, miikka@metosin.fi]",79.0,"[{3 6, 1 11, 2 6, 0 53, ""other"" 3}]",3,53,11,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",80.0,"[{3 6, 1 12, 2 6, 0 53, ""other"" 3}]",3,53,12,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-06-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[miikka@metosin.fi, miikka@metosin.fi, miikka@metosin.fi, miikka@metosin.fi]",84.0,"[{3 6, 1 16, 2 6, 0 53, ""other"" 3}]",3,53,16,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-06-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",85.0,"[{3 6, 1 17, 2 6, 0 53, ""other"" 3}]",3,53,17,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-08-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[miikka@metosin.fi, miikka@metosin.fi, miikka@metosin.fi]",88.0,"[{3 6, 1 20, 2 6, 0 53, ""other"" 3}]",3,53,20,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-10-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",90.0,"[{3 6, 1 20, 2 6, 0 55, ""other"" 3}]",3,55,20,6,6,0
+Clojure,https://github.com/metosin/jsonista,2019-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",91.0,"[{3 6, 1 21, 2 6, 0 55, ""other"" 3}]",3,55,21,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-01-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[miikka@metosin.fi, miikka@metosin.fi]",93.0,"[{3 6, 1 23, 2 6, 0 55, ""other"" 3}]",3,55,23,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",94.0,"[{3 6, 1 23, 2 6, 0 56, ""other"" 3}]",3,56,23,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-08-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",95.0,"[{3 6, 1 23, 2 6, 0 57, ""other"" 3}]",3,57,23,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-08-25,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[miikka@metosin.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",101.0,"[{3 6, 1 24, 2 6, 0 62, ""other"" 3}]",3,62,24,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",102.0,"[{3 6, 1 24, 2 6, 0 63, ""other"" 3}]",3,63,24,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-08-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",105.0,"[{3 6, 1 24, 2 6, 0 66, ""other"" 3}]",3,66,24,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miikka@metosin.fi]",106.0,"[{3 6, 1 25, 2 6, 0 66, ""other"" 3}]",3,66,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[contact@jeaye.com]",107.0,"[{3 6, 1 25, 2 6, 0 66, ""other"" 4}]",4,66,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juho.teperi@iki.fi]",108.0,"[{3 6, 1 25, 2 6, 0 66, ""other"" 5}]",5,66,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-12-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juho.teperi@iki.fi]",109.0,"[{3 6, 1 25, 2 6, 0 66, ""other"" 6}]",6,66,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-12-26,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",116.0,"[{3 6, 1 25, 2 6, 0 73, ""other"" 6}]",6,73,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",118.0,"[{3 6, 1 25, 2 6, 0 75, ""other"" 6}]",6,75,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2020-12-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, ben.sless@appsflyer.com]",120.0,"[{3 6, 1 25, 2 6, 0 76, ""other"" 7}]",7,76,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul.degrandis@gmail.com]",121.0,"[{3 6, 1 25, 2 6, 0 76, ""other"" 8}]",8,76,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-01-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",123.0,"[{3 6, 1 25, 2 6, 0 78, ""other"" 8}]",8,78,25,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-02-05,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[miikka@metosin.fi, miikka@metosin.fi, miikka@metosin.fi, miikka@metosin.fi, miikka@metosin.fi]",128.0,"[{3 6, 1 30, 2 6, 0 78, ""other"" 8}]",8,78,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-02-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, dpassen1@gmail.com]",130.0,"[{3 6, 1 30, 2 6, 0 79, ""other"" 9}]",9,79,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",131.0,"[{3 6, 1 30, 2 6, 0 80, ""other"" 9}]",9,80,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kimmo.koskinen@metosin.fi]",132.0,"[{3 6, 1 30, 2 6, 0 80, ""other"" 10}]",10,80,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-04-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kimmo.koskinen@metosin.fi, kimmo.koskinen@metosin.fi]",134.0,"[{3 6, 1 30, 2 6, 0 80, ""other"" 12}]",12,80,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",135.0,"[{3 6, 1 30, 2 6, 0 81, ""other"" 12}]",12,81,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-05-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",137.0,"[{3 6, 1 30, 2 6, 0 83, ""other"" 12}]",12,83,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-06-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",140.0,"[{3 6, 1 30, 2 6, 0 86, ""other"" 12}]",12,86,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-09-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, karol.wojcik@tuta.io]",142.0,"[{3 6, 1 30, 2 6, 0 87, ""other"" 13}]",13,87,30,6,6,0
+Clojure,https://github.com/metosin/jsonista,2021-09-16,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[joel.kaasinen@metosin.fi, joel.kaasinen@metosin.fi, joel.kaasinen@metosin.fi, joel.kaasinen@metosin.fi, joel.kaasinen@metosin.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",150.0,"[{3 6, 1 30, 2 6, 0 90, ""other"" 13, 4 5}]",13,90,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2021-12-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",153.0,"[{3 6, 1 30, 2 6, 0 93, ""other"" 13, 4 5}]",13,93,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2021-12-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tommi@iki.fi, tommi@iki.fi]",155.0,"[{3 6, 1 30, 2 6, 0 95, ""other"" 13, 4 5}]",13,95,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2022-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",156.0,"[{3 6, 1 30, 2 6, 0 96, ""other"" 13, 4 5}]",13,96,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2022-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",157.0,"[{3 6, 1 30, 2 6, 0 97, ""other"" 13, 4 5}]",13,97,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2022-11-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dharrigan@gmail.com]",158.0,"[{3 6, 1 30, 2 6, 0 97, ""other"" 14, 4 5}]",14,97,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2022-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",159.0,"[{3 6, 1 30, 2 6, 0 98, ""other"" 14, 4 5}]",14,98,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2022-12-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",160.0,"[{3 6, 1 30, 2 6, 0 99, ""other"" 14, 4 5}]",14,99,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2023-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yenda1@gmail.com]",161.0,"[{3 6, 1 30, 2 6, 0 99, ""other"" 15, 4 5}]",15,99,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2023-09-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[tommi@iki.fi, jake.pearson@broadcom.com, jake.pearson@broadcom.com, jake.pearson@broadcom.com]",165.0,"[{3 6, 1 30, 2 6, 0 100, ""other"" 18, 4 5}]",18,100,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2023-09-28,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi, tommi@iki.fi]",174.0,"[{3 6, 1 30, 2 6, 0 109, ""other"" 18, 4 5}]",18,109,30,6,6,5
+Clojure,https://github.com/metosin/jsonista,2023-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",175.0,"[{3 6, 1 30, 2 6, 0 110, ""other"" 18, 4 5}]",18,110,30,6,6,5

@@ -1,0 +1,158 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,4clojure,2011-04-11,1,1,"#{""alan@malloys.org""}",1.0,1
+Clojure,4clojure,2011-04-12,10,3,"#{""alan@malloys.org"" ""dave@Dev-Box.(none)"" ""david.r.byrne@gmail.com""}",11.0,3
+Clojure,4clojure,2011-04-17,16,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",27.0,3
+Clojure,4clojure,2011-04-18,29,3,"#{""cmeier@Carin-Meiers-MacBook-Air.local"" ""alan@malloys.org"" ""david.r.byrne@gmail.com""}",56.0,4
+Clojure,4clojure,2011-04-19,35,4,"#{""cmeier@Carin-Meiers-MacBook-Air.local"" ""alan@malloys.org"" ""i@raynes.me"" ""david.r.byrne@gmail.com""}",91.0,5
+Clojure,4clojure,2011-04-20,28,3,"#{""cmeier@Carin-Meiers-MacBook-Air.local"" ""alan@malloys.org"" ""david.r.byrne@gmail.com""}",119.0,5
+Clojure,4clojure,2011-04-21,34,4,"#{""cmeier@Carin-Meiers-MacBook-Air.local"" ""alan@malloys.org"" ""i@raynes.me"" ""david.r.byrne@gmail.com""}",153.0,5
+Clojure,4clojure,2011-04-22,37,5,"#{""clint@staff.malloc.us"" ""cmeier@Carin-Meiers-MacBook-Air.local"" ""alan@malloys.org"" ""i@raynes.me"" ""david.r.byrne@gmail.com""}",190.0,6
+Clojure,4clojure,2011-04-23,30,4,"#{""clint@staff.malloc.us"" ""alan@malloys.org"" ""i@raynes.me"" ""david.r.byrne@gmail.com""}",220.0,6
+Clojure,4clojure,2011-04-24,37,5,"#{""devinw@gmail.com"" ""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com"" ""cmeier@gigasquidsoftware.com""}",257.0,9
+Clojure,4clojure,2011-04-25,23,4,"#{""alan@malloys.org"" ""citizen428@gmail.com"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",280.0,10
+Clojure,4clojure,2011-04-26,7,3,"#{""alan@malloys.org"" ""ddavis1@gmail.com"" ""david.r.byrne@gmail.com""}",287.0,11
+Clojure,4clojure,2011-04-27,19,4,"#{""alan@malloys.org"" ""citizen428@gmail.com"" ""david.r.byrne@gmail.com"" ""cmeier@gigasquidsoftware.com""}",306.0,11
+Clojure,4clojure,2011-04-28,16,5,"#{""alan@malloys.org"" ""citizen428@gmail.com"" ""peteris.erins@gmail.com"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",322.0,12
+Clojure,4clojure,2011-04-29,14,3,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""cmeier@gigasquidsoftware.com""}",336.0,12
+Clojure,4clojure,2011-04-30,9,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",345.0,12
+Clojure,4clojure,2011-05-01,20,3,"#{""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com"" ""cmeier@gigasquidsoftware.com""}",365.0,12
+Clojure,4clojure,2011-05-02,10,4,"#{""devinw@gmail.com"" ""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",375.0,12
+Clojure,4clojure,2011-05-03,10,3,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""cmeier@gigasquidsoftware.com""}",385.0,12
+Clojure,4clojure,2011-05-04,6,3,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",391.0,12
+Clojure,4clojure,2011-05-05,15,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",406.0,12
+Clojure,4clojure,2011-05-06,2,1,"#{""davidd@scimedsolutions.com""}",408.0,12
+Clojure,4clojure,2011-05-07,6,2,"#{""david.r.byrne@gmail.com"" ""cmeier@gigasquidsoftware.com""}",414.0,12
+Clojure,4clojure,2011-05-08,12,3,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",426.0,12
+Clojure,4clojure,2011-05-09,9,3,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",435.0,12
+Clojure,4clojure,2011-05-10,12,3,"#{""devinw@gmail.com"" ""david.r.byrne@gmail.com"" ""cmeier@gigasquidsoftware.com""}",447.0,12
+Clojure,4clojure,2011-05-11,1,1,"#{""david.r.byrne@gmail.com""}",448.0,12
+Clojure,4clojure,2011-05-12,2,1,"#{""david.r.byrne@gmail.com""}",450.0,12
+Clojure,4clojure,2011-05-13,5,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",455.0,12
+Clojure,4clojure,2011-05-14,6,3,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",461.0,12
+Clojure,4clojure,2011-05-15,14,3,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com"" ""davidd@scimedsolutions.com""}",475.0,12
+Clojure,4clojure,2011-05-16,9,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",484.0,12
+Clojure,4clojure,2011-05-17,2,1,"#{""alan@malloys.org""}",486.0,12
+Clojure,4clojure,2011-05-18,3,2,"#{""alan@malloys.org"" ""davidd@scimedsolutions.com""}",489.0,12
+Clojure,4clojure,2011-05-19,15,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",504.0,12
+Clojure,4clojure,2011-05-22,10,1,"#{""alan@malloys.org""}",514.0,12
+Clojure,4clojure,2011-05-23,5,1,"#{""alan@malloys.org""}",519.0,12
+Clojure,4clojure,2011-05-24,1,1,"#{""alan@malloys.org""}",520.0,12
+Clojure,4clojure,2011-05-25,8,1,"#{""alan@malloys.org""}",528.0,12
+Clojure,4clojure,2011-05-28,1,1,"#{""alan@malloys.org""}",529.0,12
+Clojure,4clojure,2011-05-31,3,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",532.0,12
+Clojure,4clojure,2011-06-04,2,1,"#{""cmeier@gigasquidsoftware.com""}",534.0,12
+Clojure,4clojure,2011-06-11,4,2,"#{""davidd@scimedsolutions.com"" ""cmeier@gigasquidsoftware.com""}",538.0,12
+Clojure,4clojure,2011-06-14,4,1,"#{""david.r.byrne@gmail.com""}",542.0,12
+Clojure,4clojure,2011-06-15,1,1,"#{""cmeier@gigasquidsoftware.com""}",543.0,12
+Clojure,4clojure,2011-06-18,3,1,"#{""cmeier@gigasquidsoftware.com""}",546.0,12
+Clojure,4clojure,2011-07-11,1,1,"#{""alan@malloys.org""}",547.0,12
+Clojure,4clojure,2011-07-13,1,1,"#{""forke@uni-bonn.de""}",548.0,13
+Clojure,4clojure,2011-07-16,7,2,"#{""alan@malloys.org"" ""alang@malloys.org""}",555.0,14
+Clojure,4clojure,2011-07-17,9,2,"#{""forke@uni-bonn.de"" ""alan@malloys.org""}",564.0,14
+Clojure,4clojure,2011-07-18,2,2,"#{""alan@malloys.org"" ""david.r.byrne@gmail.com""}",566.0,14
+Clojure,4clojure,2011-07-19,3,1,"#{""alan@malloys.org""}",569.0,14
+Clojure,4clojure,2011-07-20,2,1,"#{""alan@malloys.org""}",571.0,14
+Clojure,4clojure,2011-07-23,4,1,"#{""alan@malloys.org""}",575.0,14
+Clojure,4clojure,2011-07-26,1,1,"#{""alan@malloys.org""}",576.0,14
+Clojure,4clojure,2011-07-30,2,1,"#{""forke@uni-bonn.de""}",578.0,14
+Clojure,4clojure,2011-07-31,2,1,"#{""alan@malloys.org""}",580.0,14
+Clojure,4clojure,2011-08-02,1,1,"#{""david.r.byrne@gmail.com""}",581.0,14
+Clojure,4clojure,2011-08-07,3,1,"#{""alan@malloys.org""}",584.0,14
+Clojure,4clojure,2011-08-14,2,1,"#{""cmeier@gigasquidsoftware.com""}",586.0,14
+Clojure,4clojure,2011-08-31,10,2,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",596.0,15
+Clojure,4clojure,2011-09-01,6,3,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com"" ""david.r.byrne@gmail.com""}",602.0,15
+Clojure,4clojure,2011-09-02,9,4,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com"" ""alang@malloys.org"" ""cmeier@gigasquidsoftware.com""}",611.0,15
+Clojure,4clojure,2011-09-03,7,1,"#{""alex.mcnamara@gmail.com""}",618.0,15
+Clojure,4clojure,2011-09-04,2,1,"#{""alan@malloys.org""}",620.0,15
+Clojure,4clojure,2011-09-05,1,1,"#{""alex.mcnamara@gmail.com""}",621.0,15
+Clojure,4clojure,2011-09-06,1,1,"#{""alang@malloys.org""}",622.0,15
+Clojure,4clojure,2011-09-07,6,1,"#{""alan@malloys.org""}",628.0,15
+Clojure,4clojure,2011-09-08,5,2,"#{""alang@malloys.org"" ""cmeier@gigasquidsoftware.com""}",633.0,15
+Clojure,4clojure,2011-09-11,11,1,"#{""alan@malloys.org""}",644.0,15
+Clojure,4clojure,2011-09-12,5,2,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",649.0,15
+Clojure,4clojure,2011-09-13,5,1,"#{""alan@malloys.org""}",654.0,15
+Clojure,4clojure,2011-09-14,7,4,"#{""sridharr@activestate.com"" ""alan@malloys.org"" ""alex.mcnamara@gmail.com"" ""cmeier@gigasquidsoftware.com""}",661.0,16
+Clojure,4clojure,2011-09-15,8,3,"#{""alan@malloys.org"" ""alang@malloys.org"" ""cmeier@gigasquidsoftware.com""}",669.0,16
+Clojure,4clojure,2011-09-16,11,1,"#{""alan@malloys.org""}",680.0,16
+Clojure,4clojure,2011-09-18,2,1,"#{""alan@malloys.org""}",682.0,16
+Clojure,4clojure,2011-09-19,2,2,"#{""alan@malloys.org"" ""alang@malloys.org""}",684.0,16
+Clojure,4clojure,2011-09-20,18,2,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",702.0,16
+Clojure,4clojure,2011-09-21,1,1,"#{""alan@malloys.org""}",703.0,16
+Clojure,4clojure,2011-09-22,1,1,"#{""alex.mcnamara@gmail.com""}",704.0,16
+Clojure,4clojure,2011-09-23,2,1,"#{""alan@malloys.org""}",706.0,16
+Clojure,4clojure,2011-09-24,15,2,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",721.0,16
+Clojure,4clojure,2011-09-25,4,3,"#{""darren@darrenaustin.com"" ""alan@malloys.org"" ""alang@malloys.org""}",725.0,17
+Clojure,4clojure,2011-09-27,5,1,"#{""alex.mcnamara@gmail.com""}",730.0,17
+Clojure,4clojure,2011-09-28,4,3,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com"" ""alang@malloys.org""}",734.0,17
+Clojure,4clojure,2011-09-29,4,2,"#{""darren@darrenaustin.org"" ""alan@malloys.org""}",738.0,18
+Clojure,4clojure,2011-09-30,33,3,"#{""darren@darrenaustin.org"" ""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",771.0,18
+Clojure,4clojure,2011-10-01,21,3,"#{""darren@darrenaustin.org"" ""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",792.0,18
+Clojure,4clojure,2011-10-02,18,2,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",810.0,18
+Clojure,4clojure,2011-10-05,8,2,"#{""alan@malloys.org"" ""cmeier@gigasquidsoftware.com""}",818.0,18
+Clojure,4clojure,2011-10-07,1,1,"#{""alang@malloys.org""}",819.0,18
+Clojure,4clojure,2011-10-08,15,3,"#{""alan@malloys.org"" ""ddavis1@gmail.com"" ""alang@malloys.org""}",834.0,18
+Clojure,4clojure,2011-10-10,6,2,"#{""alang@malloys.org"" ""cmeier@gigasquidsoftware.com""}",840.0,18
+Clojure,4clojure,2011-10-15,2,2,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",842.0,18
+Clojure,4clojure,2011-10-19,5,1,"#{""alan@malloys.org""}",847.0,18
+Clojure,4clojure,2011-10-21,2,1,"#{""alex.mcnamara@gmail.com""}",849.0,18
+Clojure,4clojure,2011-10-22,4,1,"#{""alan@malloys.org""}",853.0,18
+Clojure,4clojure,2011-11-06,4,2,"#{""jeknaa@gmail.com"" ""david.r.byrne@gmail.com""}",857.0,19
+Clojure,4clojure,2011-11-07,7,1,"#{""alan@malloys.org""}",864.0,19
+Clojure,4clojure,2011-11-10,1,1,"#{""davidd@scimedsolutions.com""}",865.0,19
+Clojure,4clojure,2011-11-16,6,4,"#{""alan@malloys.org"" ""ddavis1@gmail.com"" ""ckirkendall@gmail.com"" ""alang@malloys.org""}",871.0,20
+Clojure,4clojure,2011-11-17,5,3,"#{""alan@malloys.org"" ""ddavis1@gmail.com"" ""davidd@scimedsolutions.com""}",876.0,20
+Clojure,4clojure,2011-11-19,1,1,"#{""ddavis1@gmail.com""}",877.0,20
+Clojure,4clojure,2011-11-20,5,2,"#{""alan@malloys.org"" ""ckirkendall@gmail.com""}",882.0,20
+Clojure,4clojure,2011-11-21,19,4,"#{""alan@malloys.org"" ""ckirkendall@gmail.com"" ""davidd@scimedsolutions.com"" ""cmeier@gigasquidsoftware.com""}",901.0,20
+Clojure,4clojure,2011-11-22,9,3,"#{""alan@malloys.org"" ""ckirkendall@gmail.com"" ""davidd@scimedsolutions.com""}",910.0,20
+Clojure,4clojure,2011-11-23,3,2,"#{""ckirkendall@gmail.com"" ""alang@malloys.org""}",913.0,20
+Clojure,4clojure,2011-11-24,4,1,"#{""alan@malloys.org""}",917.0,20
+Clojure,4clojure,2011-11-25,3,2,"#{""alan@malloys.org"" ""ckirkendall@gmail.com""}",920.0,20
+Clojure,4clojure,2011-11-30,1,1,"#{""ddavis1@gmail.com""}",921.0,20
+Clojure,4clojure,2011-12-01,2,2,"#{""alang@malloys.org"" ""davidd@scimedsolutions.com""}",923.0,20
+Clojure,4clojure,2011-12-02,1,1,"#{""cmeier@gigasquidsoftware.com""}",924.0,20
+Clojure,4clojure,2011-12-03,1,1,"#{""zephjc@gmail.com""}",925.0,21
+Clojure,4clojure,2011-12-06,2,1,"#{""alex.mcnamara@gmail.com""}",927.0,21
+Clojure,4clojure,2011-12-10,4,2,"#{""ddavis1@gmail.com"" ""alang@malloys.org""}",931.0,21
+Clojure,4clojure,2011-12-11,1,1,"#{""alang@malloys.org""}",932.0,21
+Clojure,4clojure,2011-12-13,4,2,"#{""alang@malloys.org"" ""cmeier@gigasquidsoftware.com""}",936.0,21
+Clojure,4clojure,2011-12-14,1,1,"#{""alang@malloys.org""}",937.0,21
+Clojure,4clojure,2011-12-30,11,2,"#{""alan@malloys.org"" ""alex.mcnamara@gmail.com""}",948.0,21
+Clojure,4clojure,2012-01-05,1,1,"#{""i@raynes.me""}",949.0,21
+Clojure,4clojure,2012-01-18,4,1,"#{""alan@malloys.org""}",953.0,21
+Clojure,4clojure,2012-04-18,7,3,"#{""nikelandjelo@gmail.com"" ""alan@malloys.org"" ""alang@malloys.org""}",960.0,22
+Clojure,4clojure,2012-06-28,3,1,"#{""i@raynes.me""}",963.0,22
+Clojure,4clojure,2012-06-29,6,3,"#{""alan@malloys.org"" ""i@raynes.me"" ""alang@malloys.org""}",969.0,22
+Clojure,4clojure,2012-07-03,1,1,"#{""i@raynes.me""}",970.0,22
+Clojure,4clojure,2012-08-04,2,1,"#{""alan@malloys.org""}",972.0,22
+Clojure,4clojure,2012-08-19,8,2,"#{""nikelandjelo@gmail.com"" ""alan@malloys.org""}",980.0,22
+Clojure,4clojure,2012-08-29,1,1,"#{""nikelandjelo@gmail.com""}",981.0,22
+Clojure,4clojure,2012-08-30,3,1,"#{""alan@malloys.org""}",984.0,22
+Clojure,4clojure,2012-09-01,5,1,"#{""nikelandjelo@gmail.com""}",989.0,22
+Clojure,4clojure,2012-09-02,1,1,"#{""nikelandjelo@gmail.com""}",990.0,22
+Clojure,4clojure,2012-09-04,3,3,"#{""nikelandjelo@gmail.com"" ""alan@malloys.org"" ""i@raynes.me""}",993.0,22
+Clojure,4clojure,2012-09-06,1,1,"#{""nikelandjelo@gmail.com""}",994.0,22
+Clojure,4clojure,2012-09-07,1,1,"#{""i@raynes.me""}",995.0,22
+Clojure,4clojure,2012-12-17,3,1,"#{""alan@malloys.org""}",998.0,22
+Clojure,4clojure,2013-03-12,4,2,"#{""sean@mcgivern.me.uk"" ""i@raynes.me""}",1002.0,23
+Clojure,4clojure,2013-03-19,2,1,"#{""alan@malloys.org""}",1004.0,23
+Clojure,4clojure,2013-03-26,1,1,"#{""alan@malloys.org""}",1005.0,23
+Clojure,4clojure,2013-03-27,2,1,"#{""engel@engel.uk.to""}",1007.0,24
+Clojure,4clojure,2013-04-11,1,1,"#{""alan@malloys.org""}",1008.0,24
+Clojure,4clojure,2013-04-17,2,2,"#{""alan@malloys.org"" ""htt5156@gmail.com""}",1010.0,25
+Clojure,4clojure,2013-05-25,1,1,"#{""alan@malloys.org""}",1011.0,25
+Clojure,4clojure,2014-05-17,1,1,"#{""invis87@gmail.com""}",1012.0,26
+Clojure,4clojure,2014-05-28,1,1,"#{""invis87@gmail.com""}",1013.0,26
+Clojure,4clojure,2014-09-03,2,1,"#{""curious.attempt.bunny@gmail.com""}",1015.0,27
+Clojure,4clojure,2015-02-02,1,1,"#{""tclamb@fla-inc.com""}",1016.0,28
+Clojure,4clojure,2015-08-13,1,1,"#{""alan@malloys.org""}",1017.0,28
+Clojure,4clojure,2015-10-08,2,2,"#{""fredericksgary@gmail.com"" ""alex.mcnamara@outreach.io""}",1019.0,30
+Clojure,4clojure,2015-10-09,1,1,"#{""alex.mcnamara@outreach.io""}",1020.0,30
+Clojure,4clojure,2015-10-10,1,1,"#{""alex.mcnamara@gmail.com""}",1021.0,30
+Clojure,4clojure,2015-10-11,1,1,"#{""alex.mcnamara@outreach.io""}",1022.0,30
+Clojure,4clojure,2015-10-17,1,1,"#{""alex.mcnamara@outreach.io""}",1023.0,30
+Clojure,4clojure,2015-10-18,3,3,"#{""b@ptistefontaine.fr"" ""alex.mcnamara@gmail.com"" ""alex.mcnamara@outreach.io""}",1026.0,31
+Clojure,4clojure,2015-10-24,1,1,"#{""alex.mcnamara@outreach.io""}",1027.0,31
+Clojure,4clojure,2015-10-25,1,1,"#{""alex.mcnamara@outreach.io""}",1028.0,31
+Clojure,4clojure,2015-11-01,1,1,"#{""alex.mcnamara@outreach.io""}",1029.0,31
+Clojure,4clojure,2021-08-08,1,1,"#{""alan@malloys.org""}",1030.0,31

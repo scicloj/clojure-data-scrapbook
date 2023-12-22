@@ -1,0 +1,745 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/mesosphere/marathon-lb,2014-12-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io]",4.0,[{4 4}],0,0,0,0,0,4
+Python,https://github.com/mesosphere/marathon-lb,2014-12-11,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[cody@mesosphere.io, cody@mesosphere.io, jeremy@mesosphere.io, jeremy@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, jeremy@mesosphere.io, jeremy@mesosphere.io]",12.0,"[{4 8, ""other"" 4}]",4,0,0,0,0,8
+Python,https://github.com/mesosphere/marathon-lb,2014-12-12,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[jeremy@mesosphere.io, cody@mesosphere.io, jeremy@mesosphere.io, jeremy@mesosphere.io, jeremy@mesosphere.io, cody@mesosphere.io, jeremy@mesosphere.io, jeremy@mesosphere.io]",20.0,"[{4 10, ""other"" 10}]",10,0,0,0,0,10
+Python,https://github.com/mesosphere/marathon-lb,2014-12-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cody@mesosphere.io, cody@mesosphere.io]",22.0,"[{4 12, ""other"" 10}]",10,0,0,0,0,12
+Python,https://github.com/mesosphere/marathon-lb,2014-12-23,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io]",34.0,"[{4 24, ""other"" 10}]",10,0,0,0,0,24
+Python,https://github.com/mesosphere/marathon-lb,2014-12-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cody@mesosphere.io, cody@mesosphere.io]",36.0,"[{4 26, ""other"" 10}]",10,0,0,0,0,26
+Python,https://github.com/mesosphere/marathon-lb,2015-01-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cmaloney@theoreticalchaos.com, cmaloney@theoreticalchaos.com]",38.0,"[{4 26, ""other"" 12}]",12,0,0,0,0,26
+Python,https://github.com/mesosphere/marathon-lb,2015-01-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io, cody@mesosphere.io]",44.0,"[{4 32, ""other"" 12}]",12,0,0,0,0,32
+Python,https://github.com/mesosphere/marathon-lb,2015-01-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lloesche@gmail.com, lloesche@gmail.com]",46.0,"[{4 32, ""other"" 14}]",14,0,0,0,0,32
+Python,https://github.com/mesosphere/marathon-lb,2015-01-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lloesche@gmail.com, lloesche@gmail.com]",48.0,"[{4 32, ""other"" 16}]",16,0,0,0,0,32
+Python,https://github.com/mesosphere/marathon-lb,2015-01-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[lloesche@gmail.com, lloesche@gmail.com, lloesche@gmail.com, lloesche@gmail.com]",52.0,"[{4 32, ""other"" 20}]",20,0,0,0,0,32
+Python,https://github.com/mesosphere/marathon-lb,2015-04-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io]",56.0,"[{4 32, ""other"" 20, 1 4}]",20,0,4,0,0,32
+Python,https://github.com/mesosphere/marathon-lb,2015-05-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cody@mesosphere.io, cody@mesosphere.io]",58.0,"[{4 34, ""other"" 20, 1 4}]",20,0,4,0,0,34
+Python,https://github.com/mesosphere/marathon-lb,2015-06-15,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[gaston@mesosphere.io, lukas@mesosphere.io, gaston@mesosphere.io, lukas@mesosphere.io]",62.0,"[{4 34, ""other"" 22, 1 6}]",22,0,6,0,0,34
+Python,https://github.com/mesosphere/marathon-lb,2015-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io]",64.0,"[{4 34, ""other"" 22, 1 8}]",22,0,8,0,0,34
+Python,https://github.com/mesosphere/marathon-lb,2015-06-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cody@mesosphere.io, cody@mesosphere.io]",66.0,"[{4 36, ""other"" 22, 1 8}]",22,0,8,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-07-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chris@ionata.com.au, chris@ionata.com.au, chris@ionata.com.au, chris@ionata.com.au]",70.0,"[{4 36, ""other"" 26, 1 8}]",26,0,8,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-07-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[lukas@mesosphere.io, chris@ionata.com.au, lukas@mesosphere.io, chris@ionata.com.au]",74.0,"[{4 36, ""other"" 28, 1 10}]",28,0,10,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-07-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io]",76.0,"[{4 36, ""other"" 28, 1 12}]",28,0,12,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-07-17,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io]",82.0,"[{4 36, ""other"" 28, 1 18}]",28,0,18,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-07-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io]",86.0,"[{4 36, ""other"" 28, 1 22}]",28,0,22,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-07-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io]",90.0,"[{4 36, ""other"" 28, 1 26}]",28,0,26,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-08-14,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[felix.bechstein@otto.de, felix.bechstein@otto.de, florian.sellmayr@gmail.com, felix.bechstein@otto.de, florian.sellmayr@gmail.com, felix.bechstein@otto.de, felix.bechstein@otto.de, florian.sellmayr@gmail.com, felix.bechstein@otto.de, florian.sellmayr@gmail.com]",100.0,"[{4 36, ""other"" 38, 1 26}]",38,0,26,0,0,36
+Python,https://github.com/mesosphere/marathon-lb,2015-08-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cody@mesosphere.io, cody@mesosphere.io]",102.0,"[{4 38, ""other"" 38, 1 26}]",38,0,26,0,0,38
+Python,https://github.com/mesosphere/marathon-lb,2015-08-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marvin.frick@sinnerschrader.com, marvin.frick@sinnerschrader.com]",104.0,"[{4 38, ""other"" 40, 1 26}]",40,0,26,0,0,38
+Python,https://github.com/mesosphere/marathon-lb,2015-08-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[florian.sellmayr@gmail.com, florian.sellmayr@gmail.com]",106.0,"[{4 38, ""other"" 42, 1 26}]",42,0,26,0,0,38
+Python,https://github.com/mesosphere/marathon-lb,2015-08-26,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[florian.sellmayr@gmail.com, florian.sellmayr@gmail.com, florian.sellmayr@gmail.com, cody@mesosphere.io, florian.sellmayr@gmail.com, florian.sellmayr@gmail.com, florian.sellmayr@gmail.com, cody@mesosphere.io]",114.0,"[{4 40, ""other"" 48, 1 26}]",48,0,26,0,0,40
+Python,https://github.com/mesosphere/marathon-lb,2015-08-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[florian.sellmayr@gmail.com, florian.sellmayr@gmail.com]",116.0,"[{4 40, ""other"" 50, 1 26}]",50,0,26,0,0,40
+Python,https://github.com/mesosphere/marathon-lb,2015-10-07,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org]",124.0,"[{4 40, ""other"" 50, 1 26, 3 8}]",50,0,26,0,8,40
+Python,https://github.com/mesosphere/marathon-lb,2015-10-08,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[lukas@mesosphere.io, github@freigeist.org, github@freigeist.org, github@freigeist.org, lukas@mesosphere.io, github@freigeist.org, github@freigeist.org, github@freigeist.org]",132.0,"[{4 40, ""other"" 50, 1 28, 3 14}]",50,0,28,0,14,40
+Python,https://github.com/mesosphere/marathon-lb,2015-10-09,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org]",144.0,"[{4 40, ""other"" 50, 1 28, 3 26}]",50,0,28,0,26,40
+Python,https://github.com/mesosphere/marathon-lb,2015-10-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@freigeist.org, github@freigeist.org]",146.0,"[{4 40, ""other"" 50, 1 28, 3 28}]",50,0,28,0,28,40
+Python,https://github.com/mesosphere/marathon-lb,2015-10-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[felix.bechstein@otto.de, felix.bechstein@otto.de]",148.0,"[{4 40, ""other"" 52, 1 28, 3 28}]",52,0,28,0,28,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-02,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[github@freigeist.org, github@freigeist.org, felix.bechstein@otto.de, github@freigeist.org, github@freigeist.org, felix.bechstein@otto.de]",154.0,"[{4 40, ""other"" 54, 1 28, 3 32}]",54,0,28,0,32,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@freigeist.org, github@freigeist.org, github@freigeist.org, github@freigeist.org]",158.0,"[{4 40, ""other"" 54, 1 28, 3 36}]",54,0,28,0,36,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@freigeist.org, github@freigeist.org]",160.0,"[{4 40, ""other"" 54, 1 28, 3 38}]",54,0,28,0,38,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-10,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, github@freigeist.org, fish@freigeist.org, brenden@diddyinc.com, github@freigeist.org, fish@freigeist.org]",166.0,"[{4 40, ""other"" 56, 1 28, 3 40, 0 2}]",56,2,28,0,40,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[fish@freigeist.org, fish@freigeist.org]",168.0,"[{4 40, ""other"" 58, 1 28, 3 40, 0 2}]",58,2,28,0,40,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-12,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, github@freigeist.org, fish@freigeist.org, brenden@diddyinc.com, github@freigeist.org, fish@freigeist.org]",174.0,"[{4 40, ""other"" 60, 1 28, 3 42, 0 4}]",60,4,28,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-17,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",180.0,"[{4 40, ""other"" 60, 1 28, 3 42, 0 10}]",60,10,28,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, aladagemre@gmail.com, brenden@diddyinc.com, aladagemre@gmail.com]",184.0,"[{4 40, ""other"" 62, 1 28, 3 42, 0 12}]",62,12,28,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-19,34,1,"#tech.v3.dataset.column<string>[34]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com...]",218.0,"[{4 40, ""other"" 62, 1 28, 3 42, 0 46}]",62,46,28,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-20,38,3,"#tech.v3.dataset.column<string>[38]
+:email
+[jonas.fonseca@gmail.com, jonas.fonseca@gmail.com, jonas.fonseca@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, emre@fikrimuhal.com, emre@fikrimuhal.com, emre@fikrimuhal.com, emre@fikrimuhal.com, emre@fikrimuhal.com, emre@fikrimuhal.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, jonas.fonseca@gmail.com...]",256.0,"[{4 40, ""other"" 80, 1 28, 3 42, 0 66}]",80,66,28,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-11-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io]",258.0,"[{4 40, ""other"" 80, 1 30, 3 42, 0 66}]",80,66,30,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-12-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",262.0,"[{4 40, ""other"" 80, 1 30, 3 42, 0 70}]",80,70,30,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-12-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",264.0,"[{4 40, ""other"" 80, 1 30, 3 42, 0 72}]",80,72,30,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-12-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io]",268.0,"[{4 40, ""other"" 80, 1 34, 3 42, 0 72}]",80,72,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-12-09,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, mail+github@graemer.org, brenden@diddyinc.com, mail+github@graemer.org]",272.0,"[{4 40, ""other"" 82, 1 34, 3 42, 0 74}]",82,74,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-12-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",274.0,"[{4 40, ""other"" 82, 1 34, 3 42, 0 76}]",82,76,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-12-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, dave.choi@daumkakao.com, brenden@diddyinc.com, dave.choi@daumkakao.com]",278.0,"[{4 40, ""other"" 84, 1 34, 3 42, 0 78}]",84,78,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2015-12-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[scalisi.a@gmail.com, scalisi.a@gmail.com]",280.0,"[{4 40, ""other"" 86, 1 34, 3 42, 0 78}]",86,78,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-04,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, suhasg@vadio.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, suhasg@vadio.com]",288.0,"[{4 40, ""other"" 88, 1 34, 3 42, 0 84}]",88,84,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[terrylhowe@gmail.com, terrylhowe@gmail.com]",290.0,"[{4 40, ""other"" 90, 1 34, 3 42, 0 84}]",90,84,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",292.0,"[{4 40, ""other"" 90, 1 34, 3 42, 0 86}]",90,86,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-13,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",298.0,"[{4 40, ""other"" 90, 1 34, 3 42, 0 92}]",90,92,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-15,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[aladagemre@gmail.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, aladagemre@gmail.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com]",304.0,"[{4 40, ""other"" 96, 1 34, 3 42, 0 92}]",96,92,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[aladagemre@gmail.com, aladagemre@gmail.com, aladagemre@gmail.com, aladagemre@gmail.com]",308.0,"[{4 40, ""other"" 100, 1 34, 3 42, 0 92}]",100,92,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",310.0,"[{4 40, ""other"" 100, 1 34, 3 42, 0 94}]",100,94,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-28,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[davidr@ressman.org, brenden@diddyinc.com, davidr@ressman.org, davidr@ressman.org, davidr@ressman.org, brenden@diddyinc.com, davidr@ressman.org, davidr@ressman.org]",318.0,"[{4 40, ""other"" 106, 1 34, 3 42, 0 96}]",106,96,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-29,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[barton.tomas@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, barton.tomas@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com]",324.0,"[{4 40, ""other"" 108, 1 34, 3 42, 0 100}]",108,100,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-01-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",326.0,"[{4 40, ""other"" 108, 1 34, 3 42, 0 102}]",108,102,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-01,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, brenden@diddyinc.com, brenden@diddyinc.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com]",338.0,"[{4 40, ""other"" 116, 1 34, 3 42, 0 106}]",116,106,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",340.0,"[{4 40, ""other"" 116, 1 34, 3 42, 0 108}]",116,108,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",342.0,"[{4 40, ""other"" 116, 1 34, 3 42, 0 110}]",116,110,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[felix.bechstein@otto.de, felix.bechstein@otto.de]",344.0,"[{4 40, ""other"" 118, 1 34, 3 42, 0 110}]",118,110,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-07,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[davidr@ressman.org, davidr@ressman.org, davidr@ressman.org, davidr@ressman.org, davidr@ressman.org, davidr@ressman.org]",350.0,"[{4 40, ""other"" 124, 1 34, 3 42, 0 110}]",124,110,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-09,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[brenden@diddyinc.com, onur.cakmak@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, onur.cakmak@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",360.0,"[{4 40, ""other"" 126, 1 34, 3 42, 0 118}]",126,118,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-10,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[davidr@ressman.org, davidr@ressman.org, brenden@diddyinc.com, brenden@diddyinc.com, davidr@ressman.org, davidr@ressman.org, brenden@diddyinc.com, brenden@diddyinc.com]",368.0,"[{4 40, ""other"" 130, 1 34, 3 42, 0 122}]",130,122,34,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-11,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, lukas@mesosphere.io, brenden@diddyinc.com, brenden@diddyinc.com, lukas@mesosphere.io]",374.0,"[{4 40, ""other"" 130, 1 36, 3 42, 0 126}]",130,126,36,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[maxverzier@gmail.com, lukas@mesosphere.io, maxverzier@gmail.com, lukas@mesosphere.io]",378.0,"[{4 40, ""other"" 132, 1 38, 3 42, 0 126}]",132,126,38,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dave.choi@daumkakao.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com]",382.0,"[{4 40, ""other"" 136, 1 38, 3 42, 0 126}]",136,126,38,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-17,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",394.0,"[{4 40, ""other"" 136, 1 38, 3 42, 0 138}]",136,138,38,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",398.0,"[{4 40, ""other"" 136, 1 38, 3 42, 0 142}]",136,142,38,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[florian.sellmayr@gmail.com, florian.sellmayr@gmail.com]",400.0,"[{4 40, ""other"" 138, 1 38, 3 42, 0 142}]",138,142,38,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-23,18,3,"#tech.v3.dataset.column<string>[18]
+:email
+[brenden@diddyinc.com, mail+github@graemer.org, lukas@mesosphere.io, lukas@mesosphere.io, brenden@diddyinc.com, lukas@mesosphere.io, brenden@diddyinc.com, brenden@diddyinc.com, lukas@mesosphere.io, brenden@diddyinc.com, mail+github@graemer.org, lukas@mesosphere.io, lukas@mesosphere.io, brenden@diddyinc.com, lukas@mesosphere.io, brenden@diddyinc.com, brenden@diddyinc.com, lukas@mesosphere.io]",418.0,"[{4 40, ""other"" 140, 1 46, 3 42, 0 150}]",140,150,46,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",422.0,"[{4 40, ""other"" 140, 1 46, 3 42, 0 154}]",140,154,46,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-26,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[dave.choi@daumkakao.com, dave.choi@daumkakao.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, dave.choi@daumkakao.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, dave.choi@daumkakao.com]",434.0,"[{4 40, ""other"" 146, 1 46, 3 42, 0 160}]",146,160,46,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-02-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",436.0,"[{4 40, ""other"" 146, 1 46, 3 42, 0 162}]",146,162,46,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-01,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[lukas@mesosphere.io, ajays20078@gmail.com, lukas@mesosphere.io, ajays20078@gmail.com]",440.0,"[{4 40, ""other"" 148, 1 48, 3 42, 0 162}]",148,162,48,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-02,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[knesenko@vmware.com, brenden@diddyinc.com, knesenko@vmware.com, brenden@diddyinc.com]",444.0,"[{4 40, ""other"" 150, 1 48, 3 42, 0 164}]",150,164,48,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-03,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[lukas@mesosphere.io, brenden@diddyinc.com, lukas@mesosphere.io, brenden@diddyinc.com]",448.0,"[{4 40, ""other"" 150, 1 50, 3 42, 0 166}]",150,166,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-04,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",454.0,"[{4 40, ""other"" 150, 1 50, 3 42, 0 172}]",150,172,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",458.0,"[{4 40, ""other"" 150, 1 50, 3 42, 0 176}]",150,176,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",460.0,"[{4 40, ""other"" 150, 1 50, 3 42, 0 178}]",150,178,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-10,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",472.0,"[{4 40, ""other"" 150, 1 50, 3 42, 0 190}]",150,190,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-11,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, puluto@gmail.com, brenden@diddyinc.com, puluto@gmail.com]",476.0,"[{4 40, ""other"" 152, 1 50, 3 42, 0 192}]",152,192,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, dave.choi@daumkakao.com, brenden@diddyinc.com, dave.choi@daumkakao.com]",480.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 194}]",154,194,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",482.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 196}]",154,196,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",486.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 200}]",154,200,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",488.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 202}]",154,202,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-23,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",498.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 212}]",154,212,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",500.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 214}]",154,214,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",504.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 218}]",154,218,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-28,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",514.0,"[{4 40, ""other"" 154, 1 50, 3 42, 0 228}]",154,228,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, mail+github@graemer.org, brenden@diddyinc.com, mail+github@graemer.org]",518.0,"[{4 40, ""other"" 156, 1 50, 3 42, 0 230}]",156,230,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-03-31,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[brenden@diddyinc.com, ryan.despain@vivint.com, ryan.despain@vivint.com, ryan.despain@vivint.com, brenden@diddyinc.com, brenden@diddyinc.com, ryan.despain@vivint.com, ryan.despain@vivint.com, ryan.despain@vivint.com, brenden@diddyinc.com]",528.0,"[{4 40, ""other"" 162, 1 50, 3 42, 0 234}]",162,234,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-01,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, mikestaub22@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, mikestaub22@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com]",538.0,"[{4 40, ""other"" 164, 1 50, 3 42, 0 242}]",164,242,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-04,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, ekesken@users.noreply.github.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, ekesken@users.noreply.github.com, brenden@diddyinc.com]",550.0,"[{4 40, ""other"" 166, 1 50, 3 42, 0 252}]",166,252,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-05,10,3,"#tech.v3.dataset.column<string>[10]
+:email
+[sunil@mesosphere.io, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, lee@leeporte.co.uk, sunil@mesosphere.io, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, lee@leeporte.co.uk]",560.0,"[{4 40, ""other"" 170, 1 50, 3 42, 0 258}]",170,258,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-06,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[stephan.stachurski@nytimes.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, stephan.stachurski@nytimes.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",570.0,"[{4 40, ""other"" 172, 1 50, 3 42, 0 266}]",172,266,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rob.brockbank@metaswitch.com, rob.brockbank@metaswitch.com]",572.0,"[{4 40, ""other"" 174, 1 50, 3 42, 0 266}]",174,266,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-08,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",582.0,"[{4 40, ""other"" 174, 1 50, 3 42, 0 276}]",174,276,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-10,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, stephane.cottin@vixns.com, brenden@diddyinc.com, brenden@diddyinc.com, stephane.cottin@vixns.com]",588.0,"[{4 40, ""other"" 176, 1 50, 3 42, 0 280}]",176,280,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",590.0,"[{4 40, ""other"" 176, 1 50, 3 42, 0 282}]",176,282,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-13,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, rob.brockbank@metaswitch.com, brenden@diddyinc.com, brenden@diddyinc.com, rob.brockbank@metaswitch.com, brenden@diddyinc.com]",596.0,"[{4 40, ""other"" 178, 1 50, 3 42, 0 286}]",178,286,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",598.0,"[{4 40, ""other"" 178, 1 50, 3 42, 0 288}]",178,288,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",602.0,"[{4 40, ""other"" 178, 1 50, 3 42, 0 292}]",178,292,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-19,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, sschneid@gmail.com, brenden@diddyinc.com, sschneid@gmail.com]",606.0,"[{4 40, ""other"" 180, 1 50, 3 42, 0 294}]",180,294,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-23,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",612.0,"[{4 40, ""other"" 180, 1 50, 3 42, 0 300}]",180,300,50,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-26,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, lukas@mesosphere.io, brenden@diddyinc.com, brenden@diddyinc.com, lukas@mesosphere.io, brenden@diddyinc.com]",618.0,"[{4 40, ""other"" 180, 1 52, 3 42, 0 304}]",180,304,52,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io]",620.0,"[{4 40, ""other"" 180, 1 54, 3 42, 0 304}]",180,304,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-28,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[stephane.cottin@vixns.com, JamesAwesome@users.noreply.github.com, stephane.cottin@vixns.com, JamesAwesome@users.noreply.github.com]",624.0,"[{4 40, ""other"" 184, 1 54, 3 42, 0 304}]",184,304,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[matt@mattkirman.com, matt@mattkirman.com]",626.0,"[{4 40, ""other"" 186, 1 54, 3 42, 0 304}]",186,304,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[JamesAwesome@users.noreply.github.com, JamesAwesome@users.noreply.github.com]",628.0,"[{4 40, ""other"" 188, 1 54, 3 42, 0 304}]",188,304,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[JamesAwesome@users.noreply.github.com, JamesAwesome@users.noreply.github.com]",630.0,"[{4 40, ""other"" 190, 1 54, 3 42, 0 304}]",190,304,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",632.0,"[{4 40, ""other"" 190, 1 54, 3 42, 0 306}]",190,306,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, JamesAwesome@users.noreply.github.com, brenden@diddyinc.com, JamesAwesome@users.noreply.github.com]",636.0,"[{4 40, ""other"" 192, 1 54, 3 42, 0 308}]",192,308,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",638.0,"[{4 40, ""other"" 192, 1 54, 3 42, 0 310}]",192,310,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-16,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, JamesAwesome@users.noreply.github.com, yanhanglyf@163.com, brenden@diddyinc.com, JamesAwesome@users.noreply.github.com, yanhanglyf@163.com]",644.0,"[{4 40, ""other"" 196, 1 54, 3 42, 0 312}]",196,312,54,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-20,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io, lukas@mesosphere.io]",652.0,"[{4 40, ""other"" 196, 1 62, 3 42, 0 312}]",196,312,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",656.0,"[{4 40, ""other"" 196, 1 62, 3 42, 0 316}]",196,316,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",660.0,"[{4 40, ""other"" 196, 1 62, 3 42, 0 320}]",196,320,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-05-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",662.0,"[{4 40, ""other"" 196, 1 62, 3 42, 0 322}]",196,322,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-02,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[timothee.germain@wanadoo.fr, JamesAwesome@users.noreply.github.com, timothee.germain@wanadoo.fr, JamesAwesome@users.noreply.github.com]",666.0,"[{4 40, ""other"" 200, 1 62, 3 42, 0 322}]",200,322,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[JamesAwesome@users.noreply.github.com, JamesAwesome@users.noreply.github.com]",668.0,"[{4 40, ""other"" 202, 1 62, 3 42, 0 322}]",202,322,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",670.0,"[{4 40, ""other"" 202, 1 62, 3 42, 0 324}]",202,324,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ajays20078@gmail.com, ajays20078@gmail.com]",672.0,"[{4 40, ""other"" 204, 1 62, 3 42, 0 324}]",204,324,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ajays20078@gmail.com, ajays20078@gmail.com]",674.0,"[{4 40, ""other"" 206, 1 62, 3 42, 0 324}]",206,324,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[liumengxinfly@gmail.com, liumengxinfly@gmail.com]",676.0,"[{4 40, ""other"" 208, 1 62, 3 42, 0 324}]",208,324,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",678.0,"[{4 40, ""other"" 208, 1 62, 3 42, 0 326}]",208,326,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ajays20078@gmail.com, ajays20078@gmail.com]",680.0,"[{4 40, ""other"" 210, 1 62, 3 42, 0 326}]",210,326,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[robsonpeixoto@gmail.com, robsonpeixoto@gmail.com]",682.0,"[{4 40, ""other"" 212, 1 62, 3 42, 0 326}]",212,326,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-29,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[brenden@diddyinc.com, robsonpeixoto@gmail.com, brenden@diddyinc.com, ajays20078@gmail.com, brenden@diddyinc.com, robsonpeixoto@gmail.com, brenden@diddyinc.com, ajays20078@gmail.com]",690.0,"[{4 40, ""other"" 216, 1 62, 3 42, 0 330}]",216,330,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-06-30,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, ajays20078@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, ajays20078@gmail.com]",698.0,"[{4 40, ""other"" 218, 1 62, 3 42, 0 336}]",218,336,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",700.0,"[{4 40, ""other"" 218, 1 62, 3 42, 0 338}]",218,338,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",706.0,"[{4 40, ""other"" 218, 1 62, 3 42, 0 344}]",218,344,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-07,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, ajays20078@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, ajays20078@gmail.com]",720.0,"[{4 40, ""other"" 220, 1 62, 3 42, 0 356}]",220,356,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",724.0,"[{4 40, ""other"" 220, 1 62, 3 42, 0 360}]",220,360,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ajays20078@gmail.com, ajays20078@gmail.com, ajays20078@gmail.com, ajays20078@gmail.com]",728.0,"[{4 40, ""other"" 224, 1 62, 3 42, 0 360}]",224,360,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-17,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, robsonpeixoto@gmail.com, brenden@diddyinc.com, robsonpeixoto@gmail.com]",732.0,"[{4 40, ""other"" 226, 1 62, 3 42, 0 362}]",226,362,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-20,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",740.0,"[{4 40, ""other"" 226, 1 62, 3 42, 0 370}]",226,370,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-07-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",742.0,"[{4 40, ""other"" 226, 1 62, 3 42, 0 372}]",226,372,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-08-04,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[fullung@gmail.com, jstpierre@mecheye.net, fullung@gmail.com, jstpierre@mecheye.net]",746.0,"[{4 40, ""other"" 230, 1 62, 3 42, 0 372}]",230,372,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-08-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[fullung@gmail.com, fullung@gmail.com]",748.0,"[{4 40, ""other"" 232, 1 62, 3 42, 0 372}]",232,372,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-08-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sschneid@gmail.com, sschneid@gmail.com]",750.0,"[{4 40, ""other"" 234, 1 62, 3 42, 0 372}]",234,372,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-08-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[fullung@gmail.com, fullung@gmail.com, fullung@gmail.com, fullung@gmail.com]",754.0,"[{4 40, ""other"" 238, 1 62, 3 42, 0 372}]",238,372,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jhewland@gmail.com, ole.bakstad@gmail.com, jhewland@gmail.com, ole.bakstad@gmail.com]",758.0,"[{4 40, ""other"" 242, 1 62, 3 42, 0 372}]",242,372,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-07,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, ajays20078@gmail.com, brenden@diddyinc.com, ajays20078@gmail.com]",762.0,"[{4 40, ""other"" 244, 1 62, 3 42, 0 374}]",244,374,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-08,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[stephane.cottin@vixns.com, jhewland@gmail.com, stephane.cottin@vixns.com, jhewland@gmail.com]",766.0,"[{4 40, ""other"" 248, 1 62, 3 42, 0 374}]",248,374,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-09,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[jhewland@gmail.com, brenden@diddyinc.com, roy.sindre@norangshol.no, jhewland@gmail.com, brenden@diddyinc.com, roy.sindre@norangshol.no]",772.0,"[{4 40, ""other"" 252, 1 62, 3 42, 0 376}]",252,376,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-21,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[stephane.cottin@vixns.com, brenden@diddyinc.com, brenden@diddyinc.com, stephane.cottin@vixns.com, brenden@diddyinc.com, brenden@diddyinc.com]",778.0,"[{4 40, ""other"" 254, 1 62, 3 42, 0 380}]",254,380,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jhewland@gmail.com, jhewland@gmail.com]",780.0,"[{4 40, ""other"" 256, 1 62, 3 42, 0 380}]",256,380,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",782.0,"[{4 40, ""other"" 256, 1 62, 3 42, 0 382}]",256,382,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",786.0,"[{4 40, ""other"" 256, 1 62, 3 42, 0 386}]",256,386,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-29,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, jhewland@gmail.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, jhewland@gmail.com]",794.0,"[{4 40, ""other"" 258, 1 62, 3 42, 0 392}]",258,392,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-09-30,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",800.0,"[{4 40, ""other"" 258, 1 62, 3 42, 0 398}]",258,398,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-04,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, ole.bakstad@gmail.com, brenden@diddyinc.com, ole.bakstad@gmail.com]",804.0,"[{4 40, ""other"" 260, 1 62, 3 42, 0 400}]",260,400,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-05,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",812.0,"[{4 40, ""other"" 260, 1 62, 3 42, 0 408}]",260,408,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",814.0,"[{4 40, ""other"" 260, 1 62, 3 42, 0 410}]",260,410,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",816.0,"[{4 40, ""other"" 260, 1 62, 3 42, 0 412}]",260,412,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-20,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",824.0,"[{4 40, ""other"" 260, 1 62, 3 42, 0 420}]",260,420,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-21,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[byxorna@users.noreply.github.com, brenden@diddyinc.com, brenden@diddyinc.com, byxorna@users.noreply.github.com, brenden@diddyinc.com, brenden@diddyinc.com]",830.0,"[{4 40, ""other"" 262, 1 62, 3 42, 0 424}]",262,424,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yennick.trevels@gmail.com, yennick.trevels@gmail.com]",832.0,"[{4 40, ""other"" 264, 1 62, 3 42, 0 424}]",264,424,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[robsonpeixoto@gmail.com, robsonpeixoto@gmail.com]",834.0,"[{4 40, ""other"" 266, 1 62, 3 42, 0 424}]",266,424,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",836.0,"[{4 40, ""other"" 266, 1 62, 3 42, 0 426}]",266,426,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",838.0,"[{4 40, ""other"" 266, 1 62, 3 42, 0 428}]",266,428,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",840.0,"[{4 40, ""other"" 266, 1 62, 3 42, 0 430}]",266,430,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-10-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",842.0,"[{4 40, ""other"" 266, 1 62, 3 42, 0 432}]",266,432,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-11-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",844.0,"[{4 40, ""other"" 266, 1 62, 3 42, 0 434}]",266,434,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-11-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[matt.deboer@gmail.com, matt.deboer@gmail.com, matt.deboer@gmail.com, matt.deboer@gmail.com]",848.0,"[{4 40, ""other"" 270, 1 62, 3 42, 0 434}]",270,434,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-11-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jhewland@gmail.com, jhewland@gmail.com, jhewland@gmail.com, jhewland@gmail.com]",852.0,"[{4 40, ""other"" 274, 1 62, 3 42, 0 434}]",274,434,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-11-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jhewland@gmail.com, jhewland@gmail.com]",854.0,"[{4 40, ""other"" 276, 1 62, 3 42, 0 434}]",276,434,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-11-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael.hausenblas@gmail.com, michael.hausenblas@gmail.com]",856.0,"[{4 40, ""other"" 278, 1 62, 3 42, 0 434}]",278,434,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-12-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",862.0,"[{4 40, ""other"" 278, 1 62, 3 42, 0 440}]",278,440,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-12-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",866.0,"[{4 40, ""other"" 278, 1 62, 3 42, 0 444}]",278,444,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-12-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dan.mcgee@rallyhealth.com, dan.mcgee@rallyhealth.com]",868.0,"[{4 40, ""other"" 280, 1 62, 3 42, 0 444}]",280,444,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-12-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[stephane.cottin@vixns.com, stephane.cottin@vixns.com, stephane.cottin@vixns.com, stephane.cottin@vixns.com]",872.0,"[{4 40, ""other"" 284, 1 62, 3 42, 0 444}]",284,444,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2016-12-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dan.mcgee@rallyhealth.com, dan.mcgee@rallyhealth.com, dan.mcgee@rallyhealth.com, dan.mcgee@rallyhealth.com]",876.0,"[{4 40, ""other"" 288, 1 62, 3 42, 0 444}]",288,444,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com, brenden@diddyinc.com]",880.0,"[{4 40, ""other"" 288, 1 62, 3 42, 0 448}]",288,448,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jhewland@gmail.com, jhewland@gmail.com]",882.0,"[{4 40, ""other"" 290, 1 62, 3 42, 0 448}]",290,448,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[skumaran@gatech.edu, skumaran@gatech.edu]",884.0,"[{4 40, ""other"" 292, 1 62, 3 42, 0 448}]",292,448,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jhewland@gmail.com, brenden@diddyinc.com, jhewland@gmail.com, brenden@diddyinc.com]",888.0,"[{4 40, ""other"" 294, 1 62, 3 42, 0 450}]",294,450,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",890.0,"[{4 40, ""other"" 294, 1 62, 3 42, 0 452}]",294,452,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",892.0,"[{4 40, ""other"" 294, 1 62, 3 42, 0 454}]",294,454,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",894.0,"[{4 40, ""other"" 294, 1 62, 3 42, 0 456}]",294,456,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-01-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brenden@diddyinc.com, brenden@diddyinc.com]",896.0,"[{4 40, ""other"" 294, 1 62, 3 42, 0 458}]",294,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jhewland@gmail.com, jhewland@gmail.com]",898.0,"[{4 40, ""other"" 296, 1 62, 3 42, 0 458}]",296,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-02-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bobby@ryterski.net, bobby@ryterski.net]",900.0,"[{4 40, ""other"" 298, 1 62, 3 42, 0 458}]",298,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-03-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[olassun2@gmail.com, olassun2@gmail.com]",902.0,"[{4 40, ""other"" 300, 1 62, 3 42, 0 458}]",300,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-03-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arodriguez@stratio.com, arodriguez@stratio.com]",904.0,"[{4 40, ""other"" 302, 1 62, 3 42, 0 458}]",302,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-04-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jlee@mesosphere.com, jlee@mesosphere.com]",906.0,"[{4 40, ""other"" 304, 1 62, 3 42, 0 458}]",304,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-06-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[olassun2@gmail.com, olassun2@gmail.com]",908.0,"[{4 40, ""other"" 306, 1 62, 3 42, 0 458}]",306,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-07-21,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[drew@kerrigan.io, olassun2@gmail.com, drew@kerrigan.io, olassun2@gmail.com]",912.0,"[{4 40, ""other"" 310, 1 62, 3 42, 0 458}]",310,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-07-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james.defelice@gmail.com, james.defelice@gmail.com]",914.0,"[{4 40, ""other"" 312, 1 62, 3 42, 0 458}]",312,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-08-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[olassun2@gmail.com, olassun2@gmail.com]",916.0,"[{4 40, ""other"" 314, 1 62, 3 42, 0 458}]",314,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-08-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[gpaul@mesosphere.io, gpaul@mesosphere.io]",918.0,"[{4 40, ""other"" 316, 1 62, 3 42, 0 458}]",316,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-09-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drew@kerrigan.io, drew@kerrigan.io]",920.0,"[{4 40, ""other"" 318, 1 62, 3 42, 0 458}]",318,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-09-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jlee@mesosphere.com, jlee@mesosphere.com]",922.0,"[{4 40, ""other"" 320, 1 62, 3 42, 0 458}]",320,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[edgarlanting@users.noreply.github.com, edgarlanting@users.noreply.github.com]",924.0,"[{4 40, ""other"" 322, 1 62, 3 42, 0 458}]",322,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-10-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drew@kerrigan.io, drew@kerrigan.io]",926.0,"[{4 40, ""other"" 324, 1 62, 3 42, 0 458}]",324,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-10-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[keith.mcclellan@gmail.com, keith.mcclellan@gmail.com]",928.0,"[{4 40, ""other"" 326, 1 62, 3 42, 0 458}]",326,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-11-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[philipnrmn@users.noreply.github.com, philipnrmn@users.noreply.github.com]",930.0,"[{4 40, ""other"" 328, 1 62, 3 42, 0 458}]",328,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-11-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[matt.deboer@gmail.com, matt.deboer@gmail.com]",932.0,"[{4 40, ""other"" 330, 1 62, 3 42, 0 458}]",330,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2017-12-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drew@kerrigan.io, drew@kerrigan.io]",934.0,"[{4 40, ""other"" 332, 1 62, 3 42, 0 458}]",332,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-01-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ichernetsky@mesosphere.io, ichernetsky@mesosphere.io]",936.0,"[{4 40, ""other"" 334, 1 62, 3 42, 0 458}]",334,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-02-07,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[tyler@tylerjmarshall.com, drew@kerrigan.io, drew@kerrigan.io, jlee@mesosphere.com, tyler@tylerjmarshall.com, drew@kerrigan.io, drew@kerrigan.io, jlee@mesosphere.com]",944.0,"[{4 40, ""other"" 342, 1 62, 3 42, 0 458}]",342,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-02-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jlee@mesosphere.com, jlee@mesosphere.com]",946.0,"[{4 40, ""other"" 344, 1 62, 3 42, 0 458}]",344,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-03-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drew@kerrigan.io, drew@kerrigan.io]",948.0,"[{4 40, ""other"" 346, 1 62, 3 42, 0 458}]",346,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-03-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jlee@mesosphere.com, jlee@mesosphere.com]",950.0,"[{4 40, ""other"" 348, 1 62, 3 42, 0 458}]",348,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joerg.schad@gmail.com, joerg.schad@gmail.com]",952.0,"[{4 40, ""other"" 350, 1 62, 3 42, 0 458}]",350,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-04-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[gurinderu@gmail.com, gurinderu@gmail.com]",954.0,"[{4 40, ""other"" 352, 1 62, 3 42, 0 458}]",352,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-04-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drew@kerrigan.io, drew@kerrigan.io]",956.0,"[{4 40, ""other"" 354, 1 62, 3 42, 0 458}]",354,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-04-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[drew@kerrigan.io, 30297870+gauripowale@users.noreply.github.com, drew@kerrigan.io, 30297870+gauripowale@users.noreply.github.com]",960.0,"[{4 40, ""other"" 358, 1 62, 3 42, 0 458}]",358,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-04-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drew@kerrigan.io, drew@kerrigan.io]",962.0,"[{4 40, ""other"" 360, 1 62, 3 42, 0 458}]",360,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-04-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vespian@users.noreply.github.com, vespian@users.noreply.github.com]",964.0,"[{4 40, ""other"" 362, 1 62, 3 42, 0 458}]",362,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-04-27,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com, justin.r.lee@gmail.com]",978.0,"[{4 40, ""other"" 376, 1 62, 3 42, 0 458}]",376,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-05-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vespian@users.noreply.github.com, vespian@users.noreply.github.com]",980.0,"[{4 40, ""other"" 378, 1 62, 3 42, 0 458}]",378,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-08-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[exchequer598@gmail.com, exchequer598@gmail.com]",982.0,"[{4 40, ""other"" 380, 1 62, 3 42, 0 458}]",380,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-09-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hans.gogia@gmail.com, hans.gogia@gmail.com]",984.0,"[{4 40, ""other"" 382, 1 62, 3 42, 0 458}]",382,458,62,0,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-12-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net]",988.0,"[{4 40, ""other"" 382, 1 62, 3 42, 0 458, 2 4}]",382,458,62,4,42,40
+Python,https://github.com/mesosphere/marathon-lb,2018-12-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",990.0,"[{4 40, ""other"" 382, 1 62, 3 42, 0 458, 2 6}]",382,458,62,6,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-02-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akangaziz@gmail.com, akangaziz@gmail.com]",992.0,"[{4 40, ""other"" 384, 1 62, 3 42, 0 458, 2 6}]",384,458,62,6,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[40616093+c-mcinerney@users.noreply.github.com, 40616093+c-mcinerney@users.noreply.github.com]",994.0,"[{4 40, ""other"" 386, 1 62, 3 42, 0 458, 2 6}]",386,458,62,6,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-02-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[exchequer598@gmail.com, exchequer598@gmail.com]",996.0,"[{4 40, ""other"" 388, 1 62, 3 42, 0 458, 2 6}]",388,458,62,6,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-08,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[jan-github@phobia.de, david@soff.nl, stephane.cottin@vixns.com, jan-github@phobia.de, david@soff.nl, stephane.cottin@vixns.com]",1002.0,"[{4 40, ""other"" 394, 1 62, 3 42, 0 458, 2 6}]",394,458,62,6,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[exchequer598@gmail.com, exchequer598@gmail.com]",1004.0,"[{4 40, ""other"" 396, 1 62, 3 42, 0 458, 2 6}]",396,458,62,6,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",1006.0,"[{4 40, ""other"" 396, 1 62, 3 42, 0 458, 2 8}]",396,458,62,8,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ruippeixotog@gmail.com, ruippeixotog@gmail.com]",1008.0,"[{4 40, ""other"" 398, 1 62, 3 42, 0 458, 2 8}]",398,458,62,8,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[ap@aventer.biz, 201180+elopezvalecky@users.noreply.github.com, ap@aventer.biz, 201180+elopezvalecky@users.noreply.github.com]",1012.0,"[{4 40, ""other"" 402, 1 62, 3 42, 0 458, 2 8}]",402,458,62,8,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arisu1000@gmail.com, arisu1000@gmail.com]",1014.0,"[{4 40, ""other"" 404, 1 62, 3 42, 0 458, 2 8}]",404,458,62,8,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",1016.0,"[{4 40, ""other"" 404, 1 62, 3 42, 0 458, 2 10}]",404,458,62,10,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-03-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",1018.0,"[{4 40, ""other"" 404, 1 62, 3 42, 0 458, 2 12}]",404,458,62,12,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-04-04,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net]",1030.0,"[{4 40, ""other"" 404, 1 62, 3 42, 0 458, 2 24}]",404,458,62,24,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-04-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mikejennings@gmail.com, mikejennings@gmail.com]",1032.0,"[{4 40, ""other"" 406, 1 62, 3 42, 0 458, 2 24}]",406,458,62,24,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-05-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",1034.0,"[{4 40, ""other"" 406, 1 62, 3 42, 0 458, 2 26}]",406,458,62,26,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-05-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[willstewart.decider@gmail.com, willstewart.decider@gmail.com]",1036.0,"[{4 40, ""other"" 408, 1 62, 3 42, 0 458, 2 26}]",408,458,62,26,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-07-24,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jason@koelker.net, xw_cht.y@live.cn, jason@koelker.net, xw_cht.y@live.cn]",1040.0,"[{4 40, ""other"" 410, 1 62, 3 42, 0 458, 2 28}]",410,458,62,28,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-07-25,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[ichernetsky@mesosphere.io, ichernetsky@mesosphere.io, ichernetsky@mesosphere.io, ichernetsky@mesosphere.io, ichernetsky@mesosphere.io, ichernetsky@mesosphere.io]",1046.0,"[{4 40, ""other"" 416, 1 62, 3 42, 0 458, 2 28}]",416,458,62,28,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-09-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",1048.0,"[{4 40, ""other"" 416, 1 62, 3 42, 0 458, 2 30}]",416,458,62,30,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-10-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[exchequer598@gmail.com, exchequer598@gmail.com, exchequer598@gmail.com, exchequer598@gmail.com]",1052.0,"[{4 40, ""other"" 420, 1 62, 3 42, 0 458, 2 30}]",420,458,62,30,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-11-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chozo99@users.noreply.github.com, chozo99@users.noreply.github.com]",1054.0,"[{4 40, ""other"" 422, 1 62, 3 42, 0 458, 2 30}]",422,458,62,30,42,40
+Python,https://github.com/mesosphere/marathon-lb,2019-12-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",1056.0,"[{4 40, ""other"" 422, 1 62, 3 42, 0 458, 2 32}]",422,458,62,32,42,40
+Python,https://github.com/mesosphere/marathon-lb,2020-01-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tharper@mesosphere.com, tharper@mesosphere.com]",1058.0,"[{4 40, ""other"" 424, 1 62, 3 42, 0 458, 2 32}]",424,458,62,32,42,40
+Python,https://github.com/mesosphere/marathon-lb,2020-03-24,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[jason@koelker.net, 46956420+rfvbkm@users.noreply.github.com, acecile@le-vert.net, jason@koelker.net, 46956420+rfvbkm@users.noreply.github.com, acecile@le-vert.net]",1064.0,"[{4 40, ""other"" 428, 1 62, 3 42, 0 458, 2 34}]",428,458,62,34,42,40
+Python,https://github.com/mesosphere/marathon-lb,2020-04-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stephane.cottin@vixns.com, stephane.cottin@vixns.com]",1066.0,"[{4 40, ""other"" 430, 1 62, 3 42, 0 458, 2 34}]",430,458,62,34,42,40
+Python,https://github.com/mesosphere/marathon-lb,2020-06-26,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net]",1072.0,"[{4 40, ""other"" 430, 1 62, 3 42, 0 458, 2 40}]",430,458,62,40,42,40
+Python,https://github.com/mesosphere/marathon-lb,2020-09-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@koelker.net, jason@koelker.net]",1074.0,"[{4 40, ""other"" 430, 1 62, 3 42, 0 458, 2 42}]",430,458,62,42,42,40
+Python,https://github.com/mesosphere/marathon-lb,2020-09-25,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net, jason@koelker.net]",1086.0,"[{4 40, ""other"" 430, 1 62, 3 42, 0 458, 2 54}]",430,458,62,54,42,40

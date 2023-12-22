@@ -1,0 +1,586 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-06-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com]",2.0,[{0 2}],0,2,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",3.0,[{0 3}],0,3,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qiming@dropbox.com]",4.0,"[{0 3, ""other"" 1}]",1,3,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",5.0,"[{0 4, ""other"" 1}]",1,4,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",6.0,"[{0 5, ""other"" 1}]",1,5,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",10.0,"[{0 9, ""other"" 1}]",1,9,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",13.0,"[{0 12, ""other"" 1}]",1,12,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",14.0,"[{0 13, ""other"" 1}]",1,13,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com]",16.0,"[{0 15, ""other"" 1}]",1,15,0,0,0,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-08-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[kelkabany@dropbox.com, ken@elkabany.com]",18.0,"[{0 16, ""other"" 1, 3 1}]",1,16,0,0,1,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-09-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",22.0,"[{0 20, ""other"" 1, 3 1}]",1,20,0,0,1,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",23.0,"[{0 21, ""other"" 1, 3 1}]",1,21,0,0,1,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-09-21,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[ken@elkabany.com, ken@elkabany.com, ken@elkabany.com, ken@elkabany.com, alexf@dropbox.com]",28.0,"[{0 21, ""other"" 2, 3 5}]",2,21,0,0,5,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ewjoachim@gmail.com]",29.0,"[{0 21, ""other"" 3, 3 5}]",3,21,0,0,5,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",30.0,"[{0 22, ""other"" 3, 3 5}]",3,22,0,0,5,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@elkabany.com]",31.0,"[{0 22, ""other"" 3, 3 6}]",3,22,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",32.0,"[{0 23, ""other"" 3, 3 6}]",3,23,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexf@dropbox.com]",33.0,"[{0 23, ""other"" 4, 3 6}]",4,23,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steko@iosa.it]",34.0,"[{0 23, ""other"" 5, 3 6}]",5,23,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[varenc@gmail.com]",35.0,"[{0 23, ""other"" 6, 3 6}]",6,23,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-11-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",40.0,"[{0 28, ""other"" 6, 3 6}]",6,28,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",41.0,"[{0 29, ""other"" 6, 3 6}]",6,29,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2015-12-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",42.0,"[{0 30, ""other"" 6, 3 6}]",6,30,0,0,6,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@elkabany.com]",43.0,"[{0 30, ""other"" 6, 3 7}]",6,30,0,0,7,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-01-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com]",45.0,"[{0 32, ""other"" 6, 3 7}]",6,32,0,0,7,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-01-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",48.0,"[{0 35, ""other"" 6, 3 7}]",6,35,0,0,7,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-02-17,4,4,"#tech.v3.dataset.column<string>[4]
+:email
+[angelo.scarna@codelinsoft.it, me@anishathalye.com, said@ozcan.co, kelkabany@dropbox.com]",52.0,"[{0 36, ""other"" 9, 3 7}]",9,36,0,0,7,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",53.0,"[{0 37, ""other"" 9, 3 7}]",9,37,0,0,7,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@elkabany.com]",54.0,"[{0 37, ""other"" 9, 3 8}]",9,37,0,0,8,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@elkabany.com]",55.0,"[{0 37, ""other"" 9, 3 9}]",9,37,0,0,9,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-05-24,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[ken@elkabany.com, ken@elkabany.com, ken@elkabany.com, ken@elkabany.com, ken@elkabany.com]",60.0,"[{0 37, ""other"" 9, 3 14}]",9,37,0,0,14,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-05-25,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[ken@elkabany.com, ken@elkabany.com, ken@elkabany.com, ken@elkabany.com, vinod.chandru@gmail.com, ken@elkabany.com]",66.0,"[{0 37, ""other"" 10, 3 19}]",10,37,0,0,19,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@elkabany.com]",67.0,"[{0 37, ""other"" 10, 3 20}]",10,37,0,0,20,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@elkabany.com]",68.0,"[{0 37, ""other"" 10, 3 21}]",10,37,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",69.0,"[{0 38, ""other"" 10, 3 21}]",10,38,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",70.0,"[{0 39, ""other"" 10, 3 21}]",10,39,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-07-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",71.0,"[{0 40, ""other"" 10, 3 21}]",10,40,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",72.0,"[{0 41, ""other"" 10, 3 21}]",10,41,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-08-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",75.0,"[{0 44, ""other"" 10, 3 21}]",10,44,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-08-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",78.0,"[{0 47, ""other"" 10, 3 21}]",10,47,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-08-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rian@alum.mit.edu]",79.0,"[{0 47, ""other"" 11, 3 21}]",11,47,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-09-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",83.0,"[{0 51, ""other"" 11, 3 21}]",11,51,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-09-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",87.0,"[{0 55, ""other"" 11, 3 21}]",11,55,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",88.0,"[{0 56, ""other"" 11, 3 21}]",11,56,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-10-26,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com, kelkabany@dropbox.com]",93.0,"[{0 61, ""other"" 11, 3 21}]",11,61,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2016-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ezhang@pinterest.com]",94.0,"[{0 61, ""other"" 12, 3 21}]",12,61,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kelkabany@dropbox.com]",95.0,"[{0 62, ""other"" 12, 3 21}]",12,62,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ciriello.daniele@gmail.com]",96.0,"[{0 62, ""other"" 13, 3 21}]",13,62,0,0,21,0
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",97.0,"[{0 62, ""other"" 13, 3 21, 4 1}]",13,62,0,0,21,1
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-02-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mbogosian@dropbox.com, mbogosian@dropbox.com]",99.0,"[{0 62, ""other"" 13, 3 21, 4 3}]",13,62,0,0,21,3
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-02-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mbogosian@dropbox.com, mbogosian@dropbox.com]",101.0,"[{0 62, ""other"" 13, 3 21, 4 5}]",13,62,0,0,21,5
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-03-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[fviard@lacie.com, mbogosian@dropbox.com]",103.0,"[{0 62, ""other"" 14, 3 21, 4 6}]",14,62,0,0,21,6
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-03-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mbogosian@dropbox.com, mbogosian@dropbox.com]",105.0,"[{0 62, ""other"" 14, 3 21, 4 8}]",14,62,0,0,21,8
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",106.0,"[{0 62, ""other"" 14, 3 21, 4 9}]",14,62,0,0,21,9
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",107.0,"[{0 62, ""other"" 14, 3 21, 4 10}]",14,62,0,0,21,10
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",108.0,"[{0 62, ""other"" 14, 3 21, 4 11}]",14,62,0,0,21,11
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-05-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mbogosian@dropbox.com, mbogosian@dropbox.com]",110.0,"[{0 62, ""other"" 14, 3 21, 4 13}]",14,62,0,0,21,13
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",111.0,"[{0 62, ""other"" 14, 3 21, 4 14}]",14,62,0,0,21,14
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-05-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mbogosian@dropbox.com, mbogosian@dropbox.com]",113.0,"[{0 62, ""other"" 14, 3 21, 4 16}]",14,62,0,0,21,16
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",114.0,"[{0 62, ""other"" 14, 3 21, 4 17}]",14,62,0,0,21,17
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",115.0,"[{0 62, ""other"" 14, 3 21, 4 18}]",14,62,0,0,21,18
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbogosian@dropbox.com]",116.0,"[{0 62, ""other"" 14, 3 21, 4 19}]",14,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-07-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[swehlaas@twitch.tv, swehlaas@twitch.tv]",118.0,"[{0 62, ""other"" 16, 3 21, 4 19}]",16,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",119.0,"[{0 62, ""other"" 17, 3 21, 4 19}]",17,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",120.0,"[{0 62, ""other"" 18, 3 21, 4 19}]",18,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",121.0,"[{0 62, ""other"" 19, 3 21, 4 19}]",19,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",122.0,"[{0 62, ""other"" 20, 3 21, 4 19}]",20,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-10-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",123.0,"[{0 62, ""other"" 21, 3 21, 4 19}]",21,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",124.0,"[{0 62, ""other"" 22, 3 21, 4 19}]",22,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rob@robarmstrong.co]",125.0,"[{0 62, ""other"" 23, 3 21, 4 19}]",23,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",126.0,"[{0 62, ""other"" 24, 3 21, 4 19}]",24,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vitaliy@kulanov.org.ua]",127.0,"[{0 62, ""other"" 25, 3 21, 4 19}]",25,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rob@robarmstrong.co]",128.0,"[{0 62, ""other"" 26, 3 21, 4 19}]",26,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",129.0,"[{0 62, ""other"" 27, 3 21, 4 19}]",27,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",130.0,"[{0 62, ""other"" 28, 3 21, 4 19}]",28,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2017-12-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[astaley@dropbox.com]",131.0,"[{0 62, ""other"" 29, 3 21, 4 19}]",29,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-01-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[astaley@dropbox.com, rob@robarmstrong.co]",133.0,"[{0 62, ""other"" 31, 3 21, 4 19}]",31,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",134.0,"[{0 62, ""other"" 32, 3 21, 4 19}]",32,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",135.0,"[{0 62, ""other"" 33, 3 21, 4 19}]",33,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rob@robarmstrong.co]",136.0,"[{0 62, ""other"" 34, 3 21, 4 19}]",34,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robarmstrong@dropbox.com]",137.0,"[{0 62, ""other"" 35, 3 21, 4 19}]",35,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rob@robarmstrong.co]",138.0,"[{0 62, ""other"" 36, 3 21, 4 19}]",36,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[peichao@dropbox.com]",139.0,"[{0 62, ""other"" 37, 3 21, 4 19}]",37,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-04-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[rob@robarmstrong.co, peichao@dropbox.com]",141.0,"[{0 62, ""other"" 39, 3 21, 4 19}]",39,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[peichao@dropbox.com]",142.0,"[{0 62, ""other"" 40, 3 21, 4 19}]",40,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-06-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[starforever00@gmail.com, starforever00@gmail.com]",144.0,"[{0 62, ""other"" 42, 3 21, 4 19}]",42,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-07-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[starforever00@gmail.com, starforever00@gmail.com]",146.0,"[{0 62, ""other"" 44, 3 21, 4 19}]",44,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-10-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mghatak@dropbox.com, starforever00@gmail.com]",148.0,"[{0 62, ""other"" 46, 3 21, 4 19}]",46,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[starforever00@gmail.com]",149.0,"[{0 62, ""other"" 47, 3 21, 4 19}]",47,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-12-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[starforever00@gmail.com]",150.0,"[{0 62, ""other"" 48, 3 21, 4 19}]",48,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2018-12-21,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[rob@robarmstrong.co, robarmstrong@dropbox.com, greg-db@users.noreply.github.com, greg-db@users.noreply.github.com]",154.0,"[{0 62, ""other"" 52, 3 21, 4 19}]",52,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2019-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[greg-db@users.noreply.github.com]",155.0,"[{0 62, ""other"" 53, 3 21, 4 19}]",53,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2019-06-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[starforever00@gmail.com, starforever00@gmail.com, starforever00@gmail.com, starforever00@gmail.com, starforever00@gmail.com]",160.0,"[{0 62, ""other"" 58, 3 21, 4 19}]",58,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2019-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rob@robarmstrong.co]",161.0,"[{0 62, ""other"" 59, 3 21, 4 19}]",59,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2019-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[greg-db@users.noreply.github.com]",162.0,"[{0 62, ""other"" 60, 3 21, 4 19}]",60,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brogers@dropbox.com]",163.0,"[{0 62, ""other"" 61, 3 21, 4 19}]",61,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-03-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ss2151@cam.ac.uk]",164.0,"[{0 62, ""other"" 62, 3 21, 4 19}]",62,62,0,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-03-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brad12rogers@gmail.com, brad12rogers@gmail.com]",166.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 2}]",62,62,2,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brad12rogers@gmail.com, brad12rogers@gmail.com]",168.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 4}]",62,62,4,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-04-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",169.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 5}]",62,62,5,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-04-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",170.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 6}]",62,62,6,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",171.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 7}]",62,62,7,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",172.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 8}]",62,62,8,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",173.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 9}]",62,62,9,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",174.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 10}]",62,62,10,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-05-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",175.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 11}]",62,62,11,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",176.0,"[{0 62, ""other"" 62, 3 21, 4 19, 1 12}]",62,62,12,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[connorbworley@gmail.com]",177.0,"[{0 62, ""other"" 63, 3 21, 4 19, 1 12}]",63,62,12,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-07-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[karandeepjohar@gmail.com, karandeepjohar@gmail.com, karandeepjohar@gmail.com]",180.0,"[{0 62, ""other"" 66, 3 21, 4 19, 1 12}]",66,62,12,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",181.0,"[{0 62, ""other"" 66, 3 21, 4 19, 1 13}]",66,62,13,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-08-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[greg-db@users.noreply.github.com, 10774221+Lucurus@users.noreply.github.com]",183.0,"[{0 62, ""other"" 68, 3 21, 4 19, 1 13}]",68,62,13,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",184.0,"[{0 62, ""other"" 68, 3 21, 4 19, 1 14}]",68,62,14,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-08-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",185.0,"[{0 62, ""other"" 68, 3 21, 4 19, 1 15}]",68,62,15,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-01,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[brad12rogers@gmail.com, brad12rogers@gmail.com, brad12rogers@gmail.com, brad12rogers@gmail.com, brad12rogers@gmail.com]",190.0,"[{0 62, ""other"" 68, 3 21, 4 19, 1 20}]",68,62,20,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[10774221+Lucurus@users.noreply.github.com]",191.0,"[{0 62, ""other"" 69, 3 21, 4 19, 1 20}]",69,62,20,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[10774221+Lucurus@users.noreply.github.com]",192.0,"[{0 62, ""other"" 70, 3 21, 4 19, 1 20}]",70,62,20,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",193.0,"[{0 62, ""other"" 70, 3 21, 4 19, 1 21}]",70,62,21,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[10774221+Lucurus@users.noreply.github.com, brad12rogers@gmail.com]",195.0,"[{0 62, ""other"" 71, 3 21, 4 19, 1 22}]",71,62,22,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com, brad12rogers@gmail.com]",198.0,"[{0 62, ""other"" 73, 3 21, 4 19, 1 23}]",73,62,23,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[connorbworley@gmail.com]",199.0,"[{0 62, ""other"" 74, 3 21, 4 19, 1 23}]",74,62,23,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[brad12rogers@gmail.com, 10774221+Lucurus@users.noreply.github.com]",201.0,"[{0 62, ""other"" 75, 3 21, 4 19, 1 24}]",75,62,24,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",202.0,"[{0 62, ""other"" 75, 3 21, 4 19, 1 25}]",75,62,25,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-10-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com]",203.0,"[{0 62, ""other"" 76, 3 21, 4 19, 1 25}]",76,62,25,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",204.0,"[{0 62, ""other"" 76, 3 21, 4 19, 1 26}]",76,62,26,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-10-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[brad12rogers@gmail.com, 49699333+dependabot[bot]@users.noreply.github.com]",206.0,"[{0 62, ""other"" 77, 3 21, 4 19, 1 27}]",77,62,27,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-10-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com]",208.0,"[{0 62, ""other"" 79, 3 21, 4 19, 1 27}]",79,62,27,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-10-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[brad12rogers@gmail.com, rogebrd@users.noreply.github.com]",210.0,"[{0 62, ""other"" 80, 3 21, 4 19, 1 28}]",80,62,28,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",211.0,"[{0 62, ""other"" 80, 3 21, 4 19, 1 29}]",80,62,29,0,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",212.0,"[{0 62, ""other"" 80, 3 21, 4 19, 1 29, 2 1}]",80,62,29,1,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-11-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brad12rogers@gmail.com, brad12rogers@gmail.com]",214.0,"[{0 62, ""other"" 80, 3 21, 4 19, 1 31, 2 1}]",80,62,31,1,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-11-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",215.0,"[{0 62, ""other"" 80, 3 21, 4 19, 1 31, 2 2}]",80,62,31,2,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-11-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",216.0,"[{0 62, ""other"" 80, 3 21, 4 19, 1 31, 2 3}]",80,62,31,3,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-11-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com, yuxiang-he@users.noreply.github.com]",218.0,"[{0 62, ""other"" 82, 3 21, 4 19, 1 31, 2 3}]",82,62,31,3,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yuxiang-he@users.noreply.github.com]",219.0,"[{0 62, ""other"" 83, 3 21, 4 19, 1 31, 2 3}]",83,62,31,3,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yuxiang-he@users.noreply.github.com]",220.0,"[{0 62, ""other"" 84, 3 21, 4 19, 1 31, 2 3}]",84,62,31,3,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-12-03,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[brad12rogers@gmail.com, 73138219+DropboxBot@users.noreply.github.com, brad12rogers@gmail.com, 49699333+dependabot[bot]@users.noreply.github.com]",224.0,"[{0 62, ""other"" 85, 3 21, 4 19, 1 33, 2 4}]",85,62,33,4,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yuxiang-he@users.noreply.github.com]",225.0,"[{0 62, ""other"" 86, 3 21, 4 19, 1 33, 2 4}]",86,62,33,4,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-12-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yuxiang-he@users.noreply.github.com]",226.0,"[{0 62, ""other"" 87, 3 21, 4 19, 1 33, 2 4}]",87,62,33,4,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2020-12-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yuxiang-he@users.noreply.github.com]",227.0,"[{0 62, ""other"" 88, 3 21, 4 19, 1 33, 2 4}]",88,62,33,4,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-01-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yuxiang-he@users.noreply.github.com]",228.0,"[{0 62, ""other"" 89, 3 21, 4 19, 1 33, 2 4}]",89,62,33,4,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-01-25,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[73138219+DropboxBot@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com]",231.0,"[{0 62, ""other"" 91, 3 21, 4 19, 1 33, 2 5}]",91,62,33,5,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com]",232.0,"[{0 62, ""other"" 92, 3 21, 4 19, 1 33, 2 5}]",92,62,33,5,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-02-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[73138219+DropboxBot@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com]",234.0,"[{0 62, ""other"" 93, 3 21, 4 19, 1 33, 2 6}]",93,62,33,6,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",235.0,"[{0 62, ""other"" 93, 3 21, 4 19, 1 33, 2 7}]",93,62,33,7,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-02-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[eugeneyche@gmail.com, 77769746+mtruong-dbx@users.noreply.github.com]",237.0,"[{0 62, ""other"" 95, 3 21, 4 19, 1 33, 2 7}]",95,62,33,7,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",238.0,"[{0 62, ""other"" 95, 3 21, 4 19, 1 34, 2 7}]",95,62,34,7,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",239.0,"[{0 62, ""other"" 95, 3 21, 4 19, 1 34, 2 8}]",95,62,34,8,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",240.0,"[{0 62, ""other"" 95, 3 21, 4 19, 1 35, 2 8}]",95,62,35,8,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-03-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brad12rogers@gmail.com, brad12rogers@gmail.com]",242.0,"[{0 62, ""other"" 95, 3 21, 4 19, 1 37, 2 8}]",95,62,37,8,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",243.0,"[{0 62, ""other"" 95, 3 21, 4 19, 1 37, 2 9}]",95,62,37,9,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-04-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[77769746+mtruong-dbx@users.noreply.github.com, 73138219+DropboxBot@users.noreply.github.com]",245.0,"[{0 62, ""other"" 96, 3 21, 4 19, 1 37, 2 10}]",96,62,37,10,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-04-14,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[73138219+DropboxBot@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com]",248.0,"[{0 62, ""other"" 98, 3 21, 4 19, 1 37, 2 11}]",98,62,37,11,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-05-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[brent.bumann@aol.com, 73138219+DropboxBot@users.noreply.github.com]",250.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 12}]",99,62,37,12,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",251.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 13}]",99,62,37,13,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-05-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",252.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 14}]",99,62,37,14,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",253.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 15}]",99,62,37,15,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",254.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 16}]",99,62,37,16,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",255.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 17}]",99,62,37,17,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",256.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 18}]",99,62,37,18,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-07-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",257.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 19}]",99,62,37,19,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",258.0,"[{0 62, ""other"" 99, 3 21, 4 19, 1 37, 2 20}]",99,62,37,20,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-07-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[77769746+mtruong-dbx@users.noreply.github.com]",259.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 37, 2 20}]",100,62,37,20,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-07-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",260.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 37, 2 21}]",100,62,37,21,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-08-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",261.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 38, 2 21}]",100,62,38,21,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",262.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 38, 2 22}]",100,62,38,22,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-08-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",263.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 38, 2 23}]",100,62,38,23,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",264.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 38, 2 24}]",100,62,38,24,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",265.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 38, 2 25}]",100,62,38,25,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",266.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 38, 2 26}]",100,62,38,26,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",267.0,"[{0 62, ""other"" 100, 3 21, 4 19, 1 38, 2 27}]",100,62,38,27,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-10-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brent.bumann@aol.com]",268.0,"[{0 62, ""other"" 101, 3 21, 4 19, 1 38, 2 27}]",101,62,38,27,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",269.0,"[{0 62, ""other"" 101, 3 21, 4 19, 1 38, 2 28}]",101,62,38,28,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",270.0,"[{0 62, ""other"" 101, 3 21, 4 19, 1 38, 2 29}]",101,62,38,29,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-11-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",271.0,"[{0 62, ""other"" 101, 3 21, 4 19, 1 38, 2 30}]",101,62,38,30,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-11-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",272.0,"[{0 62, ""other"" 101, 3 21, 4 19, 1 38, 2 31}]",101,62,38,31,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2021-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",273.0,"[{0 62, ""other"" 101, 3 21, 4 19, 1 39, 2 31}]",101,62,39,31,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brent.bumann@aol.com]",274.0,"[{0 62, ""other"" 102, 3 21, 4 19, 1 39, 2 31}]",102,62,39,31,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-01-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sderickson@gmail.com]",275.0,"[{0 62, ""other"" 103, 3 21, 4 19, 1 39, 2 31}]",103,62,39,31,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brad12rogers@gmail.com]",276.0,"[{0 62, ""other"" 103, 3 21, 4 19, 1 40, 2 31}]",103,62,40,31,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",277.0,"[{0 62, ""other"" 103, 3 21, 4 19, 1 40, 2 32}]",103,62,40,32,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sderickson@gmail.com]",278.0,"[{0 62, ""other"" 104, 3 21, 4 19, 1 40, 2 32}]",104,62,40,32,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",279.0,"[{0 62, ""other"" 104, 3 21, 4 19, 1 40, 2 33}]",104,62,40,33,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andriyorehov@gmail.com]",280.0,"[{0 62, ""other"" 105, 3 21, 4 19, 1 40, 2 33}]",105,62,40,33,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",281.0,"[{0 62, ""other"" 105, 3 21, 4 19, 1 40, 2 34}]",105,62,40,34,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",282.0,"[{0 62, ""other"" 105, 3 21, 4 19, 1 40, 2 35}]",105,62,40,35,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",283.0,"[{0 62, ""other"" 105, 3 21, 4 19, 1 40, 2 36}]",105,62,40,36,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-06-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",284.0,"[{0 62, ""other"" 105, 3 21, 4 19, 1 40, 2 37}]",105,62,40,37,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32813217+stanislau-arkhipenka@users.noreply.github.com]",285.0,"[{0 62, ""other"" 106, 3 21, 4 19, 1 40, 2 37}]",106,62,40,37,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-07-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",286.0,"[{0 62, ""other"" 106, 3 21, 4 19, 1 40, 2 38}]",106,62,40,38,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[16581744+dennissiemensma@users.noreply.github.com]",287.0,"[{0 62, ""other"" 107, 3 21, 4 19, 1 40, 2 38}]",107,62,40,38,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-10-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",288.0,"[{0 62, ""other"" 107, 3 21, 4 19, 1 40, 2 39}]",107,62,40,39,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2022-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[73138219+DropboxBot@users.noreply.github.com]",289.0,"[{0 62, ""other"" 107, 3 21, 4 19, 1 40, 2 40}]",107,62,40,40,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2023-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sagar@resilient.tech]",290.0,"[{0 62, ""other"" 108, 3 21, 4 19, 1 40, 2 40}]",108,62,40,40,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2023-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sderickson@gmail.com]",291.0,"[{0 62, ""other"" 109, 3 21, 4 19, 1 40, 2 40}]",109,62,40,40,21,19
+Python,https://github.com/dropbox/dropbox-sdk-python,2023-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[greg-db@users.noreply.github.com]",292.0,"[{0 62, ""other"" 110, 3 21, 4 19, 1 40, 2 40}]",110,62,40,40,21,19

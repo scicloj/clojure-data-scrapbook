@@ -1,0 +1,385 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/asappresearch/sru,2017-08-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",1.0,[{0 1}],0,1,0,0,0,0
+Python,https://github.com/asappresearch/sru,2017-08-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",2.0,"[{0 1, 1 1}]",0,1,1,0,0,0
+Python,https://github.com/asappresearch/sru,2017-08-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tao@asapp.com, tao@asapp.com]",4.0,"[{0 1, 1 3}]",0,1,3,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-06,14,4,"#tech.v3.dataset.column<string>[14]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@Taos-MBP.fios-router.home, taolei@Taos-MBP.fios-router.home, taolei@Taos-MBP.fios-router.home, taolei@csail.mit.edu, taolei@Taos-MacBook-Pro.local, taolei@csail.mit.edu, taolei@csail.mit.edu, tao@asapp.com, tao@asapp.com]",18.0,"[{0 9, 1 5, ""other"" 4}]",4,9,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-07,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",29.0,"[{0 20, 1 5, ""other"" 4}]",4,20,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@Taos-MacBook-Pro.local]",30.0,"[{0 20, 1 5, ""other"" 5}]",5,20,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-10,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[taolei@csail.mit.edu, sjtuzy@gmail.com, sjtuzy@gmail.com, yzhang87@mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",36.0,"[{0 23, 1 5, ""other"" 8}]",8,23,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-11,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, cclauss@bluewin.ch]",42.0,"[{0 28, 1 5, ""other"" 9}]",9,28,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[ajsyp@syptech.net, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",46.0,"[{0 31, 1 5, ""other"" 10}]",10,31,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",48.0,"[{0 33, 1 5, ""other"" 10}]",10,33,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[sjtuzy@gmail.com, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",52.0,"[{0 36, 1 5, ""other"" 11}]",11,36,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",53.0,"[{0 37, 1 5, ""other"" 11}]",11,37,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arjoonn.94@gmail.com]",54.0,"[{0 37, 1 5, ""other"" 12}]",12,37,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",55.0,"[{0 38, 1 5, ""other"" 12}]",12,38,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",56.0,"[{0 39, 1 5, ""other"" 12}]",12,39,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",57.0,"[{0 40, 1 5, ""other"" 12}]",12,40,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-10-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[taolei@csail.mit.edu, arjoonn.94@gmail.com, arjoonn.94@gmail.com]",60.0,"[{0 41, 1 5, ""other"" 14}]",14,41,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",61.0,"[{0 42, 1 5, ""other"" 14}]",14,42,5,0,0,0
+Python,https://github.com/asappresearch/sru,2017-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",62.0,"[{0 43, 1 5, ""other"" 14}]",14,43,5,0,0,0
+Python,https://github.com/asappresearch/sru,2018-01-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agbauer@gmail.com]",63.0,"[{0 43, 1 5, ""other"" 15}]",15,43,5,0,0,0
+Python,https://github.com/asappresearch/sru,2018-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agbauer@gmail.com]",64.0,"[{0 43, 1 5, ""other"" 16}]",16,43,5,0,0,0
+Python,https://github.com/asappresearch/sru,2018-01-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",66.0,"[{0 45, 1 5, ""other"" 16}]",16,45,5,0,0,0
+Python,https://github.com/asappresearch/sru,2018-01-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",69.0,"[{0 48, 1 5, ""other"" 16}]",16,48,5,0,0,0
+Python,https://github.com/asappresearch/sru,2018-01-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",71.0,"[{0 50, 1 5, ""other"" 16}]",16,50,5,0,0,0
+Python,https://github.com/asappresearch/sru,2018-02-27,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, tao@asapp.com, taolei@csail.mit.edu]",77.0,"[{0 55, 1 6, ""other"" 16}]",16,55,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kzjeef@gmail.com]",78.0,"[{0 55, 1 6, ""other"" 17}]",17,55,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-05-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",81.0,"[{0 58, 1 6, ""other"" 17}]",17,58,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-05-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",82.0,"[{0 59, 1 6, ""other"" 17}]",17,59,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",83.0,"[{0 60, 1 6, ""other"" 17}]",17,60,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-05-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, andfoy@gmail.com]",85.0,"[{0 61, 1 6, ""other"" 18}]",18,61,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",86.0,"[{0 62, 1 6, ""other"" 18}]",18,62,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-05-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",87.0,"[{0 63, 1 6, ""other"" 18}]",18,63,6,0,0,0
+Python,https://github.com/asappresearch/sru,2018-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hp@asapp.com]",88.0,"[{0 63, 1 6, ""other"" 18, 2 1}]",18,63,6,1,0,0
+Python,https://github.com/asappresearch/sru,2018-05-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jeremy.wohlwend@gmail.com, jeremy.wohlwend@gmail.com, jeremy.wohlwend@gmail.com]",91.0,"[{0 63, 1 6, ""other"" 21, 2 1}]",21,63,6,1,0,0
+Python,https://github.com/asappresearch/sru,2018-05-21,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[tao@asapp.com, taolei@csail.mit.edu, jeremy.wohlwend@gmail.com]",94.0,"[{0 64, 1 7, ""other"" 22, 2 1}]",22,64,7,1,0,0
+Python,https://github.com/asappresearch/sru,2018-06-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",96.0,"[{0 66, 1 7, ""other"" 22, 2 1}]",22,66,7,1,0,0
+Python,https://github.com/asappresearch/sru,2018-06-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",97.0,"[{0 67, 1 7, ""other"" 22, 2 1}]",22,67,7,1,0,0
+Python,https://github.com/asappresearch/sru,2018-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",98.0,"[{0 67, 1 8, ""other"" 22, 2 1}]",22,67,8,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andfoy@gmail.com]",99.0,"[{0 67, 1 8, ""other"" 23, 2 1}]",23,67,8,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",100.0,"[{0 68, 1 8, ""other"" 23, 2 1}]",23,68,8,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",101.0,"[{0 68, 1 9, ""other"" 23, 2 1}]",23,68,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",102.0,"[{0 69, 1 9, ""other"" 23, 2 1}]",23,69,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",106.0,"[{0 73, 1 9, ""other"" 23, 2 1}]",23,73,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",107.0,"[{0 74, 1 9, ""other"" 23, 2 1}]",23,74,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",110.0,"[{0 77, 1 9, ""other"" 23, 2 1}]",23,77,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",111.0,"[{0 78, 1 9, ""other"" 23, 2 1}]",23,78,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-08-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",114.0,"[{0 81, 1 9, ""other"" 23, 2 1}]",23,81,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",115.0,"[{0 82, 1 9, ""other"" 23, 2 1}]",23,82,9,1,0,0
+Python,https://github.com/asappresearch/sru,2018-08-28,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[taolei@csail.mit.edu, cdfox@asapp.com, taolei@csail.mit.edu, cdfox@asapp.com]",119.0,"[{0 84, 1 9, ""other"" 23, 2 1, 4 2}]",23,84,9,1,0,2
+Python,https://github.com/asappresearch/sru,2018-08-30,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[cdfox@asapp.com, cdfox@asapp.com, cdfox@asapp.com, cdfox@asapp.com, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",126.0,"[{0 87, 1 9, ""other"" 23, 2 1, 4 6}]",23,87,9,1,0,6
+Python,https://github.com/asappresearch/sru,2018-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",127.0,"[{0 87, 1 10, ""other"" 23, 2 1, 4 6}]",23,87,10,1,0,6
+Python,https://github.com/asappresearch/sru,2018-10-17,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, cdfox@asapp.com, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, tao@asapp.com]",138.0,"[{0 96, 1 11, ""other"" 23, 2 1, 4 7}]",23,96,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-10-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",140.0,"[{0 98, 1 11, ""other"" 23, 2 1, 4 7}]",23,98,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",141.0,"[{0 99, 1 11, ""other"" 23, 2 1, 4 7}]",23,99,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",142.0,"[{0 100, 1 11, ""other"" 23, 2 1, 4 7}]",23,100,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-11-07,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",147.0,"[{0 105, 1 11, ""other"" 23, 2 1, 4 7}]",23,105,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",149.0,"[{0 107, 1 11, ""other"" 23, 2 1, 4 7}]",23,107,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qjl@qjldeMacBook-Pro.local]",150.0,"[{0 107, 1 11, ""other"" 24, 2 1, 4 7}]",24,107,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-12-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, zheolong@126.com]",152.0,"[{0 108, 1 11, ""other"" 25, 2 1, 4 7}]",25,108,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zheolong@126.com]",153.0,"[{0 108, 1 11, ""other"" 26, 2 1, 4 7}]",26,108,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-12-20,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[zheolong@126.com, junlong.qjl@alipay.com, zheolong@126.com, junlong.qjl@alipay.com, zheolong@126.com]",158.0,"[{0 108, 1 11, ""other"" 31, 2 1, 4 7}]",31,108,11,1,0,7
+Python,https://github.com/asappresearch/sru,2018-12-21,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",162.0,"[{0 112, 1 11, ""other"" 31, 2 1, 4 7}]",31,112,11,1,0,7
+Python,https://github.com/asappresearch/sru,2019-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[light8lee@gmail.com]",163.0,"[{0 112, 1 11, ""other"" 32, 2 1, 4 7}]",32,112,11,1,0,7
+Python,https://github.com/asappresearch/sru,2019-06-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",165.0,"[{0 114, 1 11, ""other"" 32, 2 1, 4 7}]",32,114,11,1,0,7
+Python,https://github.com/asappresearch/sru,2019-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",166.0,"[{0 115, 1 11, ""other"" 32, 2 1, 4 7}]",32,115,11,1,0,7
+Python,https://github.com/asappresearch/sru,2019-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",167.0,"[{0 116, 1 11, ""other"" 32, 2 1, 4 7}]",32,116,11,1,0,7
+Python,https://github.com/asappresearch/sru,2019-07-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",168.0,"[{0 116, 1 12, ""other"" 32, 2 1, 4 7}]",32,116,12,1,0,7
+Python,https://github.com/asappresearch/sru,2019-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",169.0,"[{0 117, 1 12, ""other"" 32, 2 1, 4 7}]",32,117,12,1,0,7
+Python,https://github.com/asappresearch/sru,2019-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jweese@asapp.com]",170.0,"[{0 117, 1 12, ""other"" 33, 2 1, 4 7}]",33,117,12,1,0,7
+Python,https://github.com/asappresearch/sru,2019-08-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",174.0,"[{0 121, 1 12, ""other"" 33, 2 1, 4 7}]",33,121,12,1,0,7
+Python,https://github.com/asappresearch/sru,2019-08-25,21,1,"#tech.v3.dataset.column<string>[21]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu...]",195.0,"[{0 142, 1 12, ""other"" 33, 2 1, 4 7}]",33,142,12,1,0,7
+Python,https://github.com/asappresearch/sru,2019-08-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",197.0,"[{0 144, 1 12, ""other"" 33, 2 1, 4 7}]",33,144,12,1,0,7
+Python,https://github.com/asappresearch/sru,2019-08-27,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, jeremy@asapp.com]",205.0,"[{0 151, 1 12, ""other"" 33, 2 1, 4 7, 3 1}]",33,151,12,1,1,7
+Python,https://github.com/asappresearch/sru,2019-08-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",209.0,"[{0 155, 1 12, ""other"" 33, 2 1, 4 7, 3 1}]",33,155,12,1,1,7
+Python,https://github.com/asappresearch/sru,2019-08-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",213.0,"[{0 159, 1 12, ""other"" 33, 2 1, 4 7, 3 1}]",33,159,12,1,1,7
+Python,https://github.com/asappresearch/sru,2019-09-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",215.0,"[{0 161, 1 12, ""other"" 33, 2 1, 4 7, 3 1}]",33,161,12,1,1,7
+Python,https://github.com/asappresearch/sru,2019-09-18,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com]",223.0,"[{0 161, 1 12, ""other"" 33, 2 9, 4 7, 3 1}]",33,161,12,9,1,7
+Python,https://github.com/asappresearch/sru,2019-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hp@asapp.com]",224.0,"[{0 161, 1 12, ""other"" 33, 2 10, 4 7, 3 1}]",33,161,12,10,1,7
+Python,https://github.com/asappresearch/sru,2019-10-16,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[tao@asapp.com, tao@asapp.com, taolei@csail.mit.edu, taolei@csail.mit.edu]",228.0,"[{0 163, 1 14, ""other"" 33, 2 10, 4 7, 3 1}]",33,163,14,10,1,7
+Python,https://github.com/asappresearch/sru,2019-10-22,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com]",238.0,"[{0 163, 1 24, ""other"" 33, 2 10, 4 7, 3 1}]",33,163,24,10,1,7
+Python,https://github.com/asappresearch/sru,2019-10-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jeremy@asapp.com]",239.0,"[{0 163, 1 24, ""other"" 33, 2 10, 4 7, 3 2}]",33,163,24,10,2,7
+Python,https://github.com/asappresearch/sru,2019-10-24,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[jeremy@asapp.com, jeremy@asapp.com, jeremy@asapp.com, jeremy@asapp.com, jeremy@asapp.com, jeremy@asapp.com]",245.0,"[{0 163, 1 24, ""other"" 33, 2 10, 4 7, 3 8}]",33,163,24,10,8,7
+Python,https://github.com/asappresearch/sru,2019-12-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",246.0,"[{0 164, 1 24, ""other"" 33, 2 10, 4 7, 3 8}]",33,164,24,10,8,7
+Python,https://github.com/asappresearch/sru,2020-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",247.0,"[{0 165, 1 24, ""other"" 33, 2 10, 4 7, 3 8}]",33,165,24,10,8,7
+Python,https://github.com/asappresearch/sru,2020-01-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",249.0,"[{0 167, 1 24, ""other"" 33, 2 10, 4 7, 3 8}]",33,167,24,10,8,7
+Python,https://github.com/asappresearch/sru,2020-01-30,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[tao@asapp.com, taolei@csail.mit.edu, taolei@csail.mit.edu]",252.0,"[{0 169, 1 25, ""other"" 33, 2 10, 4 7, 3 8}]",33,169,25,10,8,7
+Python,https://github.com/asappresearch/sru,2020-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",253.0,"[{0 170, 1 25, ""other"" 33, 2 10, 4 7, 3 8}]",33,170,25,10,8,7
+Python,https://github.com/asappresearch/sru,2020-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",254.0,"[{0 171, 1 25, ""other"" 33, 2 10, 4 7, 3 8}]",33,171,25,10,8,7
+Python,https://github.com/asappresearch/sru,2020-02-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, tao@asapp.com]",256.0,"[{0 172, 1 26, ""other"" 33, 2 10, 4 7, 3 8}]",33,172,26,10,8,7
+Python,https://github.com/asappresearch/sru,2020-02-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[tao@asapp.com, taolei@csail.mit.edu]",258.0,"[{0 173, 1 27, ""other"" 33, 2 10, 4 7, 3 8}]",33,173,27,10,8,7
+Python,https://github.com/asappresearch/sru,2020-02-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[tao@asapp.com, taolei@csail.mit.edu, taolei@csail.mit.edu]",261.0,"[{0 175, 1 28, ""other"" 33, 2 10, 4 7, 3 8}]",33,175,28,10,8,7
+Python,https://github.com/asappresearch/sru,2020-03-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",263.0,"[{0 177, 1 28, ""other"" 33, 2 10, 4 7, 3 8}]",33,177,28,10,8,7
+Python,https://github.com/asappresearch/sru,2020-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",264.0,"[{0 178, 1 28, ""other"" 33, 2 10, 4 7, 3 8}]",33,178,28,10,8,7
+Python,https://github.com/asappresearch/sru,2020-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ryanferg@users.noreply.github.com]",265.0,"[{0 178, 1 28, ""other"" 34, 2 10, 4 7, 3 8}]",34,178,28,10,8,7
+Python,https://github.com/asappresearch/sru,2020-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hp@asapp.com]",266.0,"[{0 178, 1 28, ""other"" 34, 2 11, 4 7, 3 8}]",34,178,28,11,8,7
+Python,https://github.com/asappresearch/sru,2020-05-12,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[tao@asapp.com, hp@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, hp@asapp.com, hp@asapp.com]",273.0,"[{0 178, 1 32, ""other"" 34, 2 14, 4 7, 3 8}]",34,178,32,14,8,7
+Python,https://github.com/asappresearch/sru,2020-05-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tao@asapp.com, tao@asapp.com]",275.0,"[{0 178, 1 34, ""other"" 34, 2 14, 4 7, 3 8}]",34,178,34,14,8,7
+Python,https://github.com/asappresearch/sru,2020-08-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",277.0,"[{0 180, 1 34, ""other"" 34, 2 14, 4 7, 3 8}]",34,180,34,14,8,7
+Python,https://github.com/asappresearch/sru,2020-08-25,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com]",286.0,"[{0 185, 1 34, ""other"" 34, 2 18, 4 7, 3 8}]",34,185,34,18,8,7
+Python,https://github.com/asappresearch/sru,2020-08-27,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",296.0,"[{0 195, 1 34, ""other"" 34, 2 18, 4 7, 3 8}]",34,195,34,18,8,7
+Python,https://github.com/asappresearch/sru,2020-08-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",299.0,"[{0 198, 1 34, ""other"" 34, 2 18, 4 7, 3 8}]",34,198,34,18,8,7
+Python,https://github.com/asappresearch/sru,2020-08-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[taolei@csail.mit.edu, taolei@csail.mit.edu]",301.0,"[{0 200, 1 34, ""other"" 34, 2 18, 4 7, 3 8}]",34,200,34,18,8,7
+Python,https://github.com/asappresearch/sru,2020-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",302.0,"[{0 200, 1 35, ""other"" 34, 2 18, 4 7, 3 8}]",34,200,35,18,8,7
+Python,https://github.com/asappresearch/sru,2020-09-14,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[tao@asapp.com, tao@asapp.com, taolei@csail.mit.edu]",305.0,"[{0 201, 1 37, ""other"" 34, 2 18, 4 7, 3 8}]",34,201,37,18,8,7
+Python,https://github.com/asappresearch/sru,2020-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",306.0,"[{0 202, 1 37, ""other"" 34, 2 18, 4 7, 3 8}]",34,202,37,18,8,7
+Python,https://github.com/asappresearch/sru,2020-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",307.0,"[{0 202, 1 38, ""other"" 34, 2 18, 4 7, 3 8}]",34,202,38,18,8,7
+Python,https://github.com/asappresearch/sru,2020-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",308.0,"[{0 202, 1 39, ""other"" 34, 2 18, 4 7, 3 8}]",34,202,39,18,8,7
+Python,https://github.com/asappresearch/sru,2020-09-25,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[tao@asapp.com, tao@asapp.com, taolei@csail.mit.edu, taolei@csail.mit.edu]",312.0,"[{0 204, 1 41, ""other"" 34, 2 18, 4 7, 3 8}]",34,204,41,18,8,7
+Python,https://github.com/asappresearch/sru,2020-10-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hp@asapp.com]",313.0,"[{0 204, 1 41, ""other"" 34, 2 19, 4 7, 3 8}]",34,204,41,19,8,7
+Python,https://github.com/asappresearch/sru,2020-10-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hp@asapp.com]",314.0,"[{0 204, 1 41, ""other"" 34, 2 20, 4 7, 3 8}]",34,204,41,20,8,7
+Python,https://github.com/asappresearch/sru,2020-10-03,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[tao@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, tao@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com]",324.0,"[{0 204, 1 43, ""other"" 34, 2 28, 4 7, 3 8}]",34,204,43,28,8,7
+Python,https://github.com/asappresearch/sru,2020-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taolei@csail.mit.edu]",325.0,"[{0 205, 1 43, ""other"" 34, 2 28, 4 7, 3 8}]",34,205,43,28,8,7
+Python,https://github.com/asappresearch/sru,2020-10-07,20,1,"#tech.v3.dataset.column<string>[20]
+:email
+[hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com]",345.0,"[{0 205, 1 43, ""other"" 34, 2 48, 4 7, 3 8}]",34,205,43,48,8,7
+Python,https://github.com/asappresearch/sru,2020-10-08,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com]",353.0,"[{0 205, 1 43, ""other"" 34, 2 56, 4 7, 3 8}]",34,205,43,56,8,7
+Python,https://github.com/asappresearch/sru,2020-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",354.0,"[{0 205, 1 44, ""other"" 34, 2 56, 4 7, 3 8}]",34,205,44,56,8,7
+Python,https://github.com/asappresearch/sru,2020-10-11,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[tao@asapp.com, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu, taolei@csail.mit.edu]",360.0,"[{0 210, 1 45, ""other"" 34, 2 56, 4 7, 3 8}]",34,210,45,56,8,7
+Python,https://github.com/asappresearch/sru,2020-10-12,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[tao@asapp.com, hp@asapp.com, tao@asapp.com]",363.0,"[{0 210, 1 47, ""other"" 34, 2 57, 4 7, 3 8}]",34,210,47,57,8,7
+Python,https://github.com/asappresearch/sru,2020-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hp@asapp.com]",364.0,"[{0 210, 1 47, ""other"" 34, 2 58, 4 7, 3 8}]",34,210,47,58,8,7
+Python,https://github.com/asappresearch/sru,2020-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",365.0,"[{0 210, 1 48, ""other"" 34, 2 58, 4 7, 3 8}]",34,210,48,58,8,7
+Python,https://github.com/asappresearch/sru,2020-12-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hp@asapp.com, hp@asapp.com, hp@asapp.com]",368.0,"[{0 210, 1 48, ""other"" 34, 2 61, 4 7, 3 8}]",34,210,48,61,8,7
+Python,https://github.com/asappresearch/sru,2020-12-17,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[tao@asapp.com, hp@asapp.com, hp@asapp.com, tao@asapp.com, hp@asapp.com, tao@asapp.com, tao@asapp.com, hp@asapp.com, hp@asapp.com, hp@asapp.com]",378.0,"[{0 210, 1 52, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,52,67,8,7
+Python,https://github.com/asappresearch/sru,2021-02-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tao@asapp.com, tao@asapp.com, tao@asapp.com]",381.0,"[{0 210, 1 55, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,55,67,8,7
+Python,https://github.com/asappresearch/sru,2021-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",382.0,"[{0 210, 1 56, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,56,67,8,7
+Python,https://github.com/asappresearch/sru,2021-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",383.0,"[{0 210, 1 57, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,57,67,8,7
+Python,https://github.com/asappresearch/sru,2021-05-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com]",387.0,"[{0 210, 1 61, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,61,67,8,7
+Python,https://github.com/asappresearch/sru,2021-05-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com]",392.0,"[{0 210, 1 66, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,66,67,8,7
+Python,https://github.com/asappresearch/sru,2021-05-18,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com, tao@asapp.com]",399.0,"[{0 210, 1 73, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,73,67,8,7
+Python,https://github.com/asappresearch/sru,2021-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tao@asapp.com]",400.0,"[{0 210, 1 74, ""other"" 34, 2 67, 4 7, 3 8}]",34,210,74,67,8,7

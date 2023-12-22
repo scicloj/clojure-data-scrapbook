@@ -1,0 +1,844 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/tonsky/FiraCode,2014-11-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",3.0,[{1 3}],0,0,3,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2014-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",4.0,[{1 4}],0,0,4,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2014-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",5.0,[{1 5}],0,0,5,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-05-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",7.0,[{1 7}],0,0,7,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",8.0,[{1 8}],0,0,8,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-05-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, zachgibb@gmail.com]",10.0,"[{1 9, ""other"" 1}]",1,0,9,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[davidfitzgibbon@gmail.com]",11.0,"[{1 9, ""other"" 2}]",2,0,9,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-05-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",13.0,"[{1 11, ""other"" 2}]",2,0,11,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-05-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",16.0,"[{1 14, ""other"" 2}]",2,0,14,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",17.0,"[{1 15, ""other"" 2}]",2,0,15,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",18.0,"[{1 16, ""other"" 2}]",2,0,16,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-08-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",21.0,"[{1 19, ""other"" 2}]",2,0,19,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",22.0,"[{1 20, ""other"" 2}]",2,0,20,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-08-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luke@attaboy.ca]",23.0,"[{1 20, ""other"" 3}]",3,0,20,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",24.0,"[{1 21, ""other"" 3}]",3,0,21,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[PkerUNO@users.noreply.github.com]",25.0,"[{1 21, ""other"" 4}]",4,0,21,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-09-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",27.0,"[{1 23, ""other"" 4}]",4,0,23,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-09-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",28.0,"[{1 24, ""other"" 4}]",4,0,24,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-09-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, robert.jeppesen@durius.se]",30.0,"[{1 25, ""other"" 5}]",5,0,25,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rvoots@connectivity.com]",31.0,"[{1 25, ""other"" 6}]",6,0,25,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-09-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",32.0,"[{1 26, ""other"" 6}]",6,0,26,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",33.0,"[{1 27, ""other"" 6}]",6,0,27,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",34.0,"[{1 28, ""other"" 6}]",6,0,28,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-10-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[fastred@users.noreply.github.com, prokopov@gmail.com]",36.0,"[{1 29, ""other"" 7}]",7,0,29,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",37.0,"[{1 30, ""other"" 7}]",7,0,30,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[natesm@gmail.com]",38.0,"[{1 30, ""other"" 8}]",8,0,30,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-11-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",40.0,"[{1 32, ""other"" 8}]",8,0,32,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[patricioros.dev@gmail.com]",41.0,"[{1 32, ""other"" 9}]",9,0,32,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-12-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",45.0,"[{1 36, ""other"" 9}]",9,0,36,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-12-19,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[chergert@redhat.com, leifarne@storset.net, prokopov@gmail.com, prokopov@gmail.com]",49.0,"[{1 38, ""other"" 11}]",11,0,38,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-12-20,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, emilis.d@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",63.0,"[{1 51, ""other"" 12}]",12,0,51,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-12-21,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[dlh3@sfu.ca, pj.paito@gmail.com, prokopov@gmail.com]",66.0,"[{1 52, ""other"" 14}]",14,0,52,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-12-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",70.0,"[{1 56, ""other"" 14}]",14,0,56,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-12-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, hastebrot@gmail.com]",72.0,"[{1 57, ""other"" 15}]",15,0,57,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2015-12-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",74.0,"[{1 59, ""other"" 15}]",15,0,59,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[igorsantos07@gmail.com]",75.0,"[{1 59, ""other"" 16}]",16,0,59,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",76.0,"[{1 60, ""other"" 16}]",16,0,60,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@rosanbo.com]",77.0,"[{1 60, ""other"" 17}]",17,0,60,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-01-12,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, rivokl@gmail.com]",80.0,"[{1 62, ""other"" 18}]",18,0,62,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-01-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, arkadiy_s@inbox.ru]",82.0,"[{1 63, ""other"" 19}]",19,0,63,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",83.0,"[{1 64, ""other"" 19}]",19,0,64,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",84.0,"[{1 65, ""other"" 19}]",19,0,65,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[shockone@users.noreply.github.com]",85.0,"[{1 65, ""other"" 20}]",20,0,65,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",87.0,"[{1 67, ""other"" 20}]",20,0,67,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[Olson.dev@Gmail.com, cdias@microsoft.com]",89.0,"[{1 67, ""other"" 22}]",22,0,67,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",92.0,"[{1 70, ""other"" 22}]",22,0,70,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",93.0,"[{1 71, ""other"" 22}]",22,0,71,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",94.0,"[{1 72, ""other"" 22}]",22,0,72,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[elegantandrogyne@users.noreply.github.com, prokopov@gmail.com]",96.0,"[{1 73, ""other"" 23}]",23,0,73,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",97.0,"[{1 74, ""other"" 23}]",23,0,74,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-03-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dominique.begin.0@gmail.com, dominique.begin.0@gmail.com]",99.0,"[{1 74, ""other"" 25}]",25,0,74,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",100.0,"[{1 75, ""other"" 25}]",25,0,75,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",102.0,"[{1 77, ""other"" 25}]",25,0,77,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-04-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marco.bartoli.dev@gmail.com]",103.0,"[{1 77, ""other"" 26}]",26,0,77,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-04-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",107.0,"[{1 81, ""other"" 26}]",26,0,81,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github.com@philipp-soehnlein.de]",108.0,"[{1 81, ""other"" 27}]",27,0,81,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",109.0,"[{1 82, ""other"" 27}]",27,0,82,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",110.0,"[{1 83, ""other"" 27}]",27,0,83,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-05-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",111.0,"[{1 84, ""other"" 27}]",27,0,84,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",112.0,"[{1 85, ""other"" 27}]",27,0,85,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",113.0,"[{1 86, ""other"" 27}]",27,0,86,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-16,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, francisagyapong2@gmail.com, prokopov@gmail.com]",116.0,"[{1 88, ""other"" 28}]",28,0,88,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-17,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",123.0,"[{1 95, ""other"" 28}]",28,0,95,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-18,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",128.0,"[{1 100, ""other"" 28}]",28,0,100,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",129.0,"[{1 101, ""other"" 28}]",28,0,101,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[timmelzer@gmail.com]",130.0,"[{1 101, ""other"" 29}]",29,0,101,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",132.0,"[{1 103, ""other"" 29}]",29,0,103,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",133.0,"[{1 104, ""other"" 29}]",29,0,104,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[crummynz@gmail.com]",134.0,"[{1 104, ""other"" 30}]",30,0,104,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",135.0,"[{1 105, ""other"" 30}]",30,0,105,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ssn6@yandex.ru]",136.0,"[{1 105, ""other"" 31}]",31,0,105,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-08-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",137.0,"[{1 106, ""other"" 31}]",31,0,106,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-08-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",141.0,"[{1 110, ""other"" 31}]",31,0,110,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[federico.ceratto@gmail.com]",142.0,"[{1 110, ""other"" 32}]",32,0,110,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-09-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",144.0,"[{1 112, ""other"" 32}]",32,0,112,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lf-@users.noreply.github.com]",145.0,"[{1 112, ""other"" 33}]",33,0,112,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",146.0,"[{1 113, ""other"" 33}]",33,0,113,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-10-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",149.0,"[{1 116, ""other"" 33}]",33,0,116,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-11-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",155.0,"[{1 122, ""other"" 33}]",33,0,122,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-11-06,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[aconrad103@gmail.com, derrekbertrand@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",161.0,"[{1 126, ""other"" 35}]",35,0,126,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[in-in@users.noreply.github.com]",162.0,"[{1 126, ""other"" 36}]",36,0,126,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[boermans+github@gmail.com]",163.0,"[{1 126, ""other"" 37}]",37,0,126,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2016-11-30,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, viebel@gmail.com, mads.toustrup@gmail.com]",166.0,"[{1 127, ""other"" 39}]",39,0,127,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tan@jayjun.com]",167.0,"[{1 127, ""other"" 40}]",40,0,127,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-02-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, dave@taeguk.co.uk]",169.0,"[{1 128, ""other"" 41}]",41,0,128,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-02-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",171.0,"[{1 130, ""other"" 41}]",41,0,130,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",172.0,"[{1 131, ""other"" 41}]",41,0,131,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arkadiusz@benedykt.net]",173.0,"[{1 131, ""other"" 42}]",42,0,131,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sainaen@gmail.com]",174.0,"[{1 131, ""other"" 43}]",43,0,131,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-03-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alchzh@gmail.com, prokopov@gmail.com]",176.0,"[{1 132, ""other"" 44}]",44,0,132,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miguelarauj1o@gmail.com]",177.0,"[{1 132, ""other"" 45}]",45,0,132,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-05-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, git@twopointzero.us]",179.0,"[{1 133, ""other"" 46}]",46,0,133,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",180.0,"[{1 134, ""other"" 46}]",46,0,134,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-06-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",181.0,"[{1 135, ""other"" 46}]",46,0,135,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-06-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, git@twopointzero.us]",183.0,"[{1 136, ""other"" 47}]",47,0,136,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-06-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",185.0,"[{1 138, ""other"" 47}]",47,0,138,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-08-07,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, freak4pc@gmail.com, prokopov@gmail.com, chris@ccharles.ca, prokopov@gmail.com]",192.0,"[{1 143, ""other"" 49}]",49,0,143,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[3lnc.slam@gmail.com]",193.0,"[{1 143, ""other"" 50}]",50,0,143,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-09-28,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, git@twopointzero.us, mauroporrasp@gmail.com]",197.0,"[{1 145, ""other"" 52}]",52,0,145,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alfred.bez@googlemail.com]",198.0,"[{1 145, ""other"" 53}]",53,0,145,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",199.0,"[{1 146, ""other"" 53}]",53,0,146,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",200.0,"[{1 147, ""other"" 53}]",53,0,147,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-12-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dospunk@users.noreply.github.com]",201.0,"[{1 147, ""other"" 54}]",54,0,147,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",202.0,"[{1 148, ""other"" 54}]",54,0,148,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2017-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Sirs0ri@users.noreply.github.com]",203.0,"[{1 148, ""other"" 55}]",55,0,148,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[k.heidler@tum.de]",204.0,"[{1 148, ""other"" 56}]",56,0,148,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-02-27,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",218.0,"[{1 162, ""other"" 56}]",56,0,162,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-03-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33587268+herlev@users.noreply.github.com]",219.0,"[{1 162, ""other"" 57}]",57,0,162,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",220.0,"[{1 163, ""other"" 57}]",57,0,163,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[masgui@gmail.com]",221.0,"[{1 163, ""other"" 58}]",58,0,163,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kilian@kilianvalkhof.com]",222.0,"[{1 163, ""other"" 59}]",59,0,163,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[matth281@outlook.com]",223.0,"[{1 163, ""other"" 60}]",60,0,163,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-07-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",224.0,"[{1 164, ""other"" 60}]",60,0,164,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-09-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",226.0,"[{1 166, ""other"" 60}]",60,0,166,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",227.0,"[{1 167, ""other"" 60}]",60,0,167,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nik@nkantar.com]",228.0,"[{1 167, ""other"" 61}]",61,0,167,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-09-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",230.0,"[{1 169, ""other"" 61}]",61,0,169,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-09-30,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",247.0,"[{1 186, ""other"" 61}]",61,0,186,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-10-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",251.0,"[{1 190, ""other"" 61}]",61,0,190,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[karol.jastrzebowski@gmail.com]",252.0,"[{1 190, ""other"" 62}]",62,0,190,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",253.0,"[{1 191, ""other"" 62}]",62,0,191,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-11-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[220614+eugbaranov@users.noreply.github.com]",254.0,"[{1 191, ""other"" 63}]",63,0,191,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hmu332233@gmail.com]",255.0,"[{1 191, ""other"" 64}]",64,0,191,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",256.0,"[{1 192, ""other"" 64}]",64,0,192,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2018-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[45728505+TangibleToofa@users.noreply.github.com]",257.0,"[{1 192, ""other"" 65}]",65,0,192,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",258.0,"[{1 193, ""other"" 65}]",65,0,193,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",259.0,"[{1 194, ""other"" 65}]",65,0,194,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-03-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[snikobonyadrad@gmail.com]",260.0,"[{1 194, ""other"" 66}]",66,0,194,0,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-03-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[swr410@gmail.com, swr410@gmail.com, swr410@gmail.com]",263.0,"[{1 194, ""other"" 66, 2 3}]",66,0,194,3,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-03-26,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[dave@lab6.com, dave@lab6.com, swr410@gmail.com, swr410@gmail.com, swr410@gmail.com, swr410@gmail.com]",269.0,"[{1 194, ""other"" 68, 2 7}]",68,0,194,7,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-03-27,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[swr410@gmail.com, swr410@gmail.com, swr410@gmail.com, swr410@gmail.com, swr410@gmail.com]",274.0,"[{1 194, ""other"" 68, 2 12}]",68,0,194,12,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-03-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swr410@gmail.com]",275.0,"[{1 194, ""other"" 68, 2 13}]",68,0,194,13,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-04-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[swr410@gmail.com, swr410@gmail.com, swr410@gmail.com]",278.0,"[{1 194, ""other"" 68, 2 16}]",68,0,194,16,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-04-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",281.0,"[{1 197, ""other"" 68, 2 16}]",68,0,197,16,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-04-05,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[swr410@gmail.com, swr410@gmail.com, prokopov@gmail.com, prokopov@gmail.com, swr410@gmail.com, swr410@gmail.com, swr410@gmail.com]",288.0,"[{1 199, ""other"" 68, 2 21}]",68,0,199,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rossjrw@gmail.com]",289.0,"[{1 199, ""other"" 69, 2 21}]",69,0,199,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-04-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[37978984+johnridesabike@users.noreply.github.com]",290.0,"[{1 199, ""other"" 70, 2 21}]",70,0,199,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32040777+DynacorpIndustries@users.noreply.github.com]",291.0,"[{1 199, ""other"" 71, 2 21}]",71,0,199,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-05-21,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",296.0,"[{1 199, ""other"" 71, 2 21, 0 5}]",71,5,199,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",297.0,"[{1 199, ""other"" 71, 2 21, 0 6}]",71,6,199,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",298.0,"[{1 199, ""other"" 71, 2 21, 0 7}]",71,7,199,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",299.0,"[{1 200, ""other"" 71, 2 21, 0 7}]",71,7,200,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-06-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",300.0,"[{1 201, ""other"" 71, 2 21, 0 7}]",71,7,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[VdustR@gmail.com]",301.0,"[{1 201, ""other"" 72, 2 21, 0 7}]",72,7,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",302.0,"[{1 201, ""other"" 72, 2 21, 0 8}]",72,8,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",305.0,"[{1 201, ""other"" 72, 2 21, 0 11}]",72,11,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",308.0,"[{1 201, ""other"" 72, 2 21, 0 14}]",72,14,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",310.0,"[{1 201, ""other"" 72, 2 21, 0 16}]",72,16,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",312.0,"[{1 201, ""other"" 72, 2 21, 0 18}]",72,18,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",314.0,"[{1 201, ""other"" 72, 2 21, 0 20}]",72,20,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",317.0,"[{1 201, ""other"" 72, 2 21, 0 23}]",72,23,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",318.0,"[{1 201, ""other"" 72, 2 21, 0 24}]",72,24,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",319.0,"[{1 201, ""other"" 72, 2 21, 0 25}]",72,25,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",321.0,"[{1 201, ""other"" 72, 2 21, 0 27}]",72,27,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",326.0,"[{1 201, ""other"" 72, 2 21, 0 32}]",72,32,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-08-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",327.0,"[{1 201, ""other"" 72, 2 21, 0 33}]",72,33,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-09-02,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",339.0,"[{1 201, ""other"" 72, 2 21, 0 45}]",72,45,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-09-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",341.0,"[{1 201, ""other"" 72, 2 21, 0 47}]",72,47,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-09-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",344.0,"[{1 201, ""other"" 72, 2 21, 0 50}]",72,50,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",345.0,"[{1 201, ""other"" 72, 2 21, 0 51}]",72,51,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-09-09,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",352.0,"[{1 201, ""other"" 72, 2 21, 0 58}]",72,58,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-09-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",354.0,"[{1 201, ""other"" 72, 2 21, 0 60}]",72,60,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[3889017+ExE-Boss@users.noreply.github.com]",355.0,"[{1 201, ""other"" 73, 2 21, 0 60}]",73,60,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-10-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drift.current@foxmail.com, drift.current@foxmail.com]",357.0,"[{1 201, ""other"" 75, 2 21, 0 60}]",75,60,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",358.0,"[{1 201, ""other"" 75, 2 21, 0 61}]",75,61,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-10-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[m@mathieuhendey.com]",359.0,"[{1 201, ""other"" 76, 2 21, 0 61}]",76,61,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-11-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",360.0,"[{1 201, ""other"" 76, 2 21, 0 62}]",76,62,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hakan_github@canberger.se]",361.0,"[{1 201, ""other"" 77, 2 21, 0 62}]",77,62,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",362.0,"[{1 201, ""other"" 77, 2 21, 0 63}]",77,63,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2019-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",363.0,"[{1 201, ""other"" 77, 2 21, 0 64}]",77,64,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[drift.current@foxmail.com]",364.0,"[{1 201, ""other"" 78, 2 21, 0 64}]",78,64,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[druhinpro@gmail.com]",365.0,"[{1 201, ""other"" 79, 2 21, 0 64}]",79,64,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-03-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[11434205+dijonkitchen@users.noreply.github.com]",366.0,"[{1 201, ""other"" 80, 2 21, 0 64}]",80,64,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-03-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[57064186+zorro@users.noreply.github.com]",367.0,"[{1 201, ""other"" 81, 2 21, 0 64}]",81,64,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-03-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qrqiuren@users.noreply.github.com]",368.0,"[{1 201, ""other"" 82, 2 21, 0 64}]",82,64,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",369.0,"[{1 201, ""other"" 82, 2 21, 0 65}]",82,65,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",370.0,"[{1 201, ""other"" 82, 2 21, 0 66}]",82,66,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",371.0,"[{1 201, ""other"" 82, 2 21, 0 67}]",82,67,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-04-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",373.0,"[{1 201, ""other"" 82, 2 21, 0 69}]",82,69,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-04-06,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",382.0,"[{1 201, ""other"" 82, 2 21, 0 78}]",82,78,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-04-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",385.0,"[{1 201, ""other"" 82, 2 21, 0 81}]",82,81,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-04-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",391.0,"[{1 201, ""other"" 82, 2 21, 0 87}]",82,87,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[361689+smacintyre@users.noreply.github.com]",392.0,"[{1 201, ""other"" 83, 2 21, 0 87}]",83,87,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-04-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",397.0,"[{1 201, ""other"" 83, 2 21, 0 92}]",83,92,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[haokang.den@gmail.com]",398.0,"[{1 201, ""other"" 84, 2 21, 0 92}]",84,92,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[meased3@gmail.com, niki@tonsky.me]",400.0,"[{1 201, ""other"" 85, 2 21, 0 93}]",85,93,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",404.0,"[{1 201, ""other"" 85, 2 21, 0 97}]",85,97,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",406.0,"[{1 201, ""other"" 85, 2 21, 0 99}]",85,99,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, hugo.locurcio@hugo.pro, niki@tonsky.me]",409.0,"[{1 201, ""other"" 86, 2 21, 0 101}]",86,101,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",411.0,"[{1 201, ""other"" 86, 2 21, 0 103}]",86,103,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",414.0,"[{1 201, ""other"" 86, 2 21, 0 106}]",86,106,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",415.0,"[{1 201, ""other"" 86, 2 21, 0 107}]",86,107,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",417.0,"[{1 201, ""other"" 86, 2 21, 0 109}]",86,109,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",418.0,"[{1 201, ""other"" 86, 2 21, 0 110}]",86,110,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-05-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sheeit@users.noreply.github.com, niki@tonsky.me]",420.0,"[{1 201, ""other"" 87, 2 21, 0 111}]",87,111,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-06-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",426.0,"[{1 201, ""other"" 87, 2 21, 0 117}]",87,117,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",427.0,"[{1 201, ""other"" 87, 2 21, 0 118}]",87,118,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-06-08,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",434.0,"[{1 201, ""other"" 87, 2 21, 0 125}]",87,125,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",435.0,"[{1 201, ""other"" 87, 2 21, 0 126}]",87,126,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-06-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, farseerfc@gmail.com]",437.0,"[{1 201, ""other"" 88, 2 21, 0 127}]",88,127,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-06-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",439.0,"[{1 201, ""other"" 88, 2 21, 0 129}]",88,129,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-06-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[Tommy.Wang@ldalmack0jujgh8.int.dealer.com, niki@tonsky.me]",441.0,"[{1 201, ""other"" 89, 2 21, 0 130}]",89,130,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bharatpatodi@gmail.com]",442.0,"[{1 201, ""other"" 90, 2 21, 0 130}]",90,130,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[shen.huang@gmail.com]",443.0,"[{1 201, ""other"" 91, 2 21, 0 130}]",91,130,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-08-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",446.0,"[{1 201, ""other"" 91, 2 21, 0 133}]",91,133,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-08-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",447.0,"[{1 201, ""other"" 91, 2 21, 0 134}]",91,134,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",448.0,"[{1 201, ""other"" 91, 2 21, 0 135}]",91,135,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",449.0,"[{1 201, ""other"" 91, 2 21, 0 136}]",91,136,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-09-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",451.0,"[{1 201, ""other"" 91, 2 21, 0 138}]",91,138,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-09-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",452.0,"[{1 201, ""other"" 91, 2 21, 0 139}]",91,139,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-09-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",454.0,"[{1 201, ""other"" 91, 2 21, 0 141}]",91,141,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",455.0,"[{1 201, ""other"" 91, 2 21, 0 142}]",91,142,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-10-10,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",460.0,"[{1 201, ""other"" 91, 2 21, 0 147}]",91,147,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-10-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",464.0,"[{1 201, ""other"" 91, 2 21, 0 151}]",91,151,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-10-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",465.0,"[{1 201, ""other"" 91, 2 21, 0 152}]",91,152,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-10-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",466.0,"[{1 201, ""other"" 91, 2 21, 0 153}]",91,153,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cormullion@mac.com]",467.0,"[{1 201, ""other"" 92, 2 21, 0 153}]",92,153,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-12-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, mike@vorburger.ch, mike@vorburger.ch]",470.0,"[{1 201, ""other"" 94, 2 21, 0 154}]",94,154,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2020-12-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gabrieljvnq@gmail.com]",471.0,"[{1 201, ""other"" 95, 2 21, 0 154}]",95,154,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2021-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",472.0,"[{1 201, ""other"" 95, 2 21, 0 155}]",95,155,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2021-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",473.0,"[{1 201, ""other"" 95, 2 21, 0 156}]",95,156,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2021-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@mfocko.xyz]",474.0,"[{1 201, ""other"" 96, 2 21, 0 156}]",96,156,201,21,0,0
+Clojure,https://github.com/tonsky/FiraCode,2021-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[andrew@aarchibald.com, andrew@aarchibald.com]",476.0,"[{1 201, ""other"" 96, 2 21, 0 156, 4 2}]",96,156,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",477.0,"[{1 201, ""other"" 96, 2 21, 0 157, 4 2}]",96,157,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eltociear@gmail.com]",478.0,"[{1 201, ""other"" 97, 2 21, 0 157, 4 2}]",97,157,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-03-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[78411908+wiznillyp@users.noreply.github.com, 78411908+wiznillyp@users.noreply.github.com]",480.0,"[{1 201, ""other"" 99, 2 21, 0 157, 4 2}]",99,157,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joshuahamilton@users.noreply.github.com]",481.0,"[{1 201, ""other"" 100, 2 21, 0 157, 4 2}]",100,157,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",482.0,"[{1 201, ""other"" 100, 2 21, 0 158, 4 2}]",100,158,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",483.0,"[{1 201, ""other"" 100, 2 21, 0 159, 4 2}]",100,159,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",484.0,"[{1 201, ""other"" 100, 2 21, 0 160, 4 2}]",100,160,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-04-18,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",490.0,"[{1 201, ""other"" 100, 2 21, 0 166, 4 2}]",100,166,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juippis@gentoo.org]",491.0,"[{1 201, ""other"" 101, 2 21, 0 166, 4 2}]",101,166,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jeroendevries@runbox.eu]",492.0,"[{1 201, ""other"" 102, 2 21, 0 166, 4 2}]",102,166,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-06-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, wopian@wopian.me]",494.0,"[{1 201, ""other"" 103, 2 21, 0 167, 4 2}]",103,167,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",495.0,"[{1 201, ""other"" 103, 2 21, 0 168, 4 2}]",103,168,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[48018419+marcoXbresciani@users.noreply.github.com]",496.0,"[{1 201, ""other"" 104, 2 21, 0 168, 4 2}]",104,168,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-08-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",498.0,"[{1 201, ""other"" 104, 2 21, 0 170, 4 2}]",104,170,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-11-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",500.0,"[{1 201, ""other"" 104, 2 21, 0 172, 4 2}]",104,172,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-11-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",505.0,"[{1 201, ""other"" 104, 2 21, 0 177, 4 2}]",104,177,201,21,0,2
+Clojure,https://github.com/tonsky/FiraCode,2021-11-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andrew@aarchibald.com]",506.0,"[{1 201, ""other"" 104, 2 21, 0 177, 4 3}]",104,177,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2021-11-29,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",511.0,"[{1 201, ""other"" 104, 2 21, 0 182, 4 3}]",104,182,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2021-12-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[humza.siddiq.2017@uni.strath.ac.uk, niki@tonsky.me, niki@tonsky.me]",514.0,"[{1 201, ""other"" 105, 2 21, 0 184, 4 3}]",105,184,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2021-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",515.0,"[{1 201, ""other"" 105, 2 21, 0 185, 4 3}]",105,185,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2021-12-06,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, amon.sha@gmail.com]",520.0,"[{1 201, ""other"" 106, 2 21, 0 189, 4 3}]",106,189,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2021-12-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[37231523+moshuying@users.noreply.github.com, 37231523+moshuying@users.noreply.github.com]",522.0,"[{1 201, ""other"" 108, 2 21, 0 189, 4 3}]",108,189,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2022-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",523.0,"[{1 201, ""other"" 108, 2 21, 0 190, 4 3}]",108,190,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2022-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pabloab@users.noreply.github.com]",524.0,"[{1 201, ""other"" 109, 2 21, 0 190, 4 3}]",109,190,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2022-01-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dsejas.math@pm.me]",525.0,"[{1 201, ""other"" 110, 2 21, 0 190, 4 3}]",110,190,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2022-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kjh@harcombe.net]",526.0,"[{1 201, ""other"" 111, 2 21, 0 190, 4 3}]",111,190,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2022-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49211091+dsejas@users.noreply.github.com]",527.0,"[{1 201, ""other"" 112, 2 21, 0 190, 4 3}]",112,190,201,21,0,3
+Clojure,https://github.com/tonsky/FiraCode,2022-02-06,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com, jsoref@users.noreply.github.com]",541.0,"[{1 201, ""other"" 112, 2 21, 0 190, 4 3, 3 14}]",112,190,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",542.0,"[{1 201, ""other"" 112, 2 21, 0 191, 4 3, 3 14}]",112,191,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",544.0,"[{1 201, ""other"" 112, 2 21, 0 193, 4 3, 3 14}]",112,193,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-03-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yobabay23@gmail.com, yobabay23@gmail.com]",546.0,"[{1 201, ""other"" 114, 2 21, 0 193, 4 3, 3 14}]",114,193,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",547.0,"[{1 201, ""other"" 114, 2 21, 0 194, 4 3, 3 14}]",114,194,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[preuss_fabian@gmx.de]",548.0,"[{1 201, ""other"" 115, 2 21, 0 194, 4 3, 3 14}]",115,194,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-03-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",551.0,"[{1 201, ""other"" 115, 2 21, 0 197, 4 3, 3 14}]",115,197,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",552.0,"[{1 201, ""other"" 115, 2 21, 0 198, 4 3, 3 14}]",115,198,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-04-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, 2418184580@qq.com]",554.0,"[{1 201, ""other"" 116, 2 21, 0 199, 4 3, 3 14}]",116,199,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",555.0,"[{1 201, ""other"" 116, 2 21, 0 200, 4 3, 3 14}]",116,200,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github.eggs@neverbox.com]",556.0,"[{1 201, ""other"" 117, 2 21, 0 200, 4 3, 3 14}]",117,200,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",557.0,"[{1 201, ""other"" 117, 2 21, 0 201, 4 3, 3 14}]",117,201,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-07-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[shalokshalom@protonmail.ch, shalokshalom@protonmail.ch]",559.0,"[{1 201, ""other"" 119, 2 21, 0 201, 4 3, 3 14}]",119,201,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[xgdgsc@users.noreply.github.com]",560.0,"[{1 201, ""other"" 120, 2 21, 0 201, 4 3, 3 14}]",120,201,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-07-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",562.0,"[{1 201, ""other"" 120, 2 21, 0 203, 4 3, 3 14}]",120,203,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-07-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, 78584173+HyunseungLee-Travis@users.noreply.github.com]",564.0,"[{1 201, ""other"" 121, 2 21, 0 204, 4 3, 3 14}]",121,204,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-08-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[imlzhyt@163.com]",565.0,"[{1 201, ""other"" 122, 2 21, 0 204, 4 3, 3 14}]",122,204,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-08-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, imlzhyt@163.com]",567.0,"[{1 201, ""other"" 123, 2 21, 0 205, 4 3, 3 14}]",123,205,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",568.0,"[{1 201, ""other"" 123, 2 21, 0 206, 4 3, 3 14}]",123,206,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ollie@ollicle.com]",569.0,"[{1 201, ""other"" 124, 2 21, 0 206, 4 3, 3 14}]",124,206,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2022-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",570.0,"[{1 201, ""other"" 124, 2 21, 0 207, 4 3, 3 14}]",124,207,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",571.0,"[{1 201, ""other"" 124, 2 21, 0 208, 4 3, 3 14}]",124,208,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-01-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, wangzongler@gmail.com, wangzongler@gmail.com]",574.0,"[{1 201, ""other"" 126, 2 21, 0 209, 4 3, 3 14}]",126,209,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",575.0,"[{1 201, ""other"" 126, 2 21, 0 210, 4 3, 3 14}]",126,210,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-03-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, sandra.snan@idiomdrottning.org]",577.0,"[{1 201, ""other"" 127, 2 21, 0 211, 4 3, 3 14}]",127,211,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-03-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, ruben.laguna@gmail.com]",579.0,"[{1 201, ""other"" 128, 2 21, 0 212, 4 3, 3 14}]",128,212,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Bjoern@Kautler.net]",580.0,"[{1 201, ""other"" 129, 2 21, 0 212, 4 3, 3 14}]",129,212,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-05-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[56131718+matan-h@users.noreply.github.com, 56131718+matan-h@users.noreply.github.com]",582.0,"[{1 201, ""other"" 131, 2 21, 0 212, 4 3, 3 14}]",131,212,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimp@netgate.com]",583.0,"[{1 201, ""other"" 132, 2 21, 0 212, 4 3, 3 14}]",132,212,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-06-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[eltociear@gmail.com, eltociear@gmail.com]",585.0,"[{1 201, ""other"" 134, 2 21, 0 212, 4 3, 3 14}]",134,212,201,21,14,3
+Clojure,https://github.com/tonsky/FiraCode,2023-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",586.0,"[{1 201, ""other"" 134, 2 21, 0 213, 4 3, 3 14}]",134,213,201,21,14,3

@@ -1,0 +1,654 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,hyperfiddle,2020-07-06,1,1,"#{""g@compose.lv""}",1.0,1
+Clojure,hyperfiddle,2020-07-07,1,1,"#{""g@compose.lv""}",2.0,1
+Clojure,hyperfiddle,2020-07-15,2,1,"#{""g@compose.lv""}",4.0,1
+Clojure,hyperfiddle,2020-09-14,7,1,"#{""funtain@me.com""}",11.0,2
+Clojure,hyperfiddle,2020-09-19,1,1,"#{""funtain@me.com""}",12.0,2
+Clojure,hyperfiddle,2020-09-20,1,1,"#{""funtain@me.com""}",13.0,2
+Clojure,hyperfiddle,2020-09-21,4,1,"#{""funtain@me.com""}",17.0,2
+Clojure,hyperfiddle,2020-09-24,2,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",19.0,3
+Clojure,hyperfiddle,2020-09-26,2,1,"#{""funtain@me.com""}",21.0,3
+Clojure,hyperfiddle,2020-09-30,7,1,"#{""dustin.getz@gmail.com""}",28.0,3
+Clojure,hyperfiddle,2020-10-01,5,1,"#{""dustin.getz@gmail.com""}",33.0,3
+Clojure,hyperfiddle,2020-10-06,2,1,"#{""funtain@me.com""}",35.0,3
+Clojure,hyperfiddle,2020-10-08,1,1,"#{""funtain@me.com""}",36.0,3
+Clojure,hyperfiddle,2020-10-10,1,1,"#{""funtain@me.com""}",37.0,3
+Clojure,hyperfiddle,2020-10-12,1,1,"#{""funtain@me.com""}",38.0,3
+Clojure,hyperfiddle,2020-10-13,1,1,"#{""funtain@me.com""}",39.0,3
+Clojure,hyperfiddle,2020-10-14,1,1,"#{""geoffrey.gaillard@hey.com""}",40.0,4
+Clojure,hyperfiddle,2020-10-23,1,1,"#{""funtain@me.com""}",41.0,4
+Clojure,hyperfiddle,2020-10-25,3,1,"#{""funtain@me.com""}",44.0,4
+Clojure,hyperfiddle,2020-10-26,7,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",51.0,4
+Clojure,hyperfiddle,2020-10-29,5,2,"#{""geoffrey.gaillard@hey.com"" ""funtain@me.com""}",56.0,4
+Clojure,hyperfiddle,2020-10-30,2,1,"#{""geoffrey.gaillard@hey.com""}",58.0,4
+Clojure,hyperfiddle,2020-11-01,1,1,"#{""funtain@me.com""}",59.0,4
+Clojure,hyperfiddle,2020-11-03,1,1,"#{""funtain@me.com""}",60.0,4
+Clojure,hyperfiddle,2020-11-05,1,1,"#{""geoffrey.gaillard@hey.com""}",61.0,4
+Clojure,hyperfiddle,2020-11-06,5,1,"#{""geoffrey.gaillard@hey.com""}",66.0,4
+Clojure,hyperfiddle,2020-11-07,8,1,"#{""dustin.getz@gmail.com""}",74.0,4
+Clojure,hyperfiddle,2020-11-08,2,1,"#{""dustin.getz@gmail.com""}",76.0,4
+Clojure,hyperfiddle,2020-11-09,1,1,"#{""dustin.getz@gmail.com""}",77.0,4
+Clojure,hyperfiddle,2020-11-10,8,1,"#{""dustin.getz@gmail.com""}",85.0,4
+Clojure,hyperfiddle,2020-11-17,1,1,"#{""funtain@me.com""}",86.0,4
+Clojure,hyperfiddle,2020-11-19,1,1,"#{""geoffrey.gaillard@hey.com""}",87.0,4
+Clojure,hyperfiddle,2020-11-21,1,1,"#{""dustin.getz@gmail.com""}",88.0,4
+Clojure,hyperfiddle,2020-11-23,1,1,"#{""geoffrey.gaillard@hey.com""}",89.0,4
+Clojure,hyperfiddle,2020-11-24,3,1,"#{""geoffrey.gaillard@hey.com""}",92.0,4
+Clojure,hyperfiddle,2020-11-25,6,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",98.0,5
+Clojure,hyperfiddle,2020-11-26,5,2,"#{""geoffrey.gaillard@hey.com"" ""dustin.getz@gmail.com""}",103.0,5
+Clojure,hyperfiddle,2020-11-27,1,1,"#{""geoffrey.gaillard@hey.com""}",104.0,5
+Clojure,hyperfiddle,2020-11-28,2,1,"#{""dustin.getz@gmail.com""}",106.0,5
+Clojure,hyperfiddle,2020-11-29,3,1,"#{""dustin.getz@gmail.com""}",109.0,5
+Clojure,hyperfiddle,2020-11-30,1,1,"#{""geoffrey.gaillard@hey.com""}",110.0,5
+Clojure,hyperfiddle,2020-12-01,2,1,"#{""geoffrey.gaillard@hey.com""}",112.0,5
+Clojure,hyperfiddle,2020-12-03,2,1,"#{""dustin.getz@gmail.com""}",114.0,5
+Clojure,hyperfiddle,2020-12-04,2,2,"#{""geoffrey.gaillard@hey.com"" ""dustin.getz@gmail.com""}",116.0,5
+Clojure,hyperfiddle,2020-12-13,1,1,"#{""dustin.getz@gmail.com""}",117.0,5
+Clojure,hyperfiddle,2020-12-15,1,1,"#{""funtain@me.com""}",118.0,5
+Clojure,hyperfiddle,2020-12-16,1,1,"#{""funtain@me.com""}",119.0,5
+Clojure,hyperfiddle,2020-12-18,2,2,"#{""geoffrey.gaillard@hey.com"" ""funtain@me.com""}",121.0,5
+Clojure,hyperfiddle,2020-12-20,1,1,"#{""dustin.getz@gmail.com""}",122.0,5
+Clojure,hyperfiddle,2020-12-21,6,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",128.0,5
+Clojure,hyperfiddle,2020-12-22,5,3,"#{""geoffrey.gaillard@hey.com"" ""dustin.getz@gmail.com"" ""funtain@me.com""}",133.0,5
+Clojure,hyperfiddle,2020-12-23,3,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",136.0,5
+Clojure,hyperfiddle,2020-12-24,2,1,"#{""dustin.getz@gmail.com""}",138.0,5
+Clojure,hyperfiddle,2020-12-25,3,1,"#{""dustin.getz@gmail.com""}",141.0,5
+Clojure,hyperfiddle,2020-12-26,7,1,"#{""dustin.getz@gmail.com""}",148.0,5
+Clojure,hyperfiddle,2020-12-27,5,1,"#{""dustin.getz@gmail.com""}",153.0,5
+Clojure,hyperfiddle,2020-12-28,1,1,"#{""dustin.getz@gmail.com""}",154.0,5
+Clojure,hyperfiddle,2020-12-29,12,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",166.0,5
+Clojure,hyperfiddle,2020-12-30,3,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",169.0,5
+Clojure,hyperfiddle,2020-12-31,6,1,"#{""dustin.getz@gmail.com""}",175.0,5
+Clojure,hyperfiddle,2021-01-02,2,1,"#{""dustin.getz@gmail.com""}",177.0,5
+Clojure,hyperfiddle,2021-01-04,4,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",181.0,5
+Clojure,hyperfiddle,2021-01-05,6,1,"#{""funtain@me.com""}",187.0,5
+Clojure,hyperfiddle,2021-01-06,2,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",189.0,5
+Clojure,hyperfiddle,2021-01-07,8,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",197.0,5
+Clojure,hyperfiddle,2021-01-08,10,1,"#{""funtain@me.com""}",207.0,5
+Clojure,hyperfiddle,2021-01-09,3,1,"#{""contact@leonoel.fr""}",210.0,6
+Clojure,hyperfiddle,2021-01-10,3,1,"#{""dustin.getz@gmail.com""}",213.0,6
+Clojure,hyperfiddle,2021-01-13,2,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",215.0,6
+Clojure,hyperfiddle,2021-01-14,1,1,"#{""funtain@me.com""}",216.0,6
+Clojure,hyperfiddle,2021-01-15,4,2,"#{""geoffrey.gaillard@hey.com"" ""funtain@me.com""}",220.0,6
+Clojure,hyperfiddle,2021-01-16,11,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",231.0,6
+Clojure,hyperfiddle,2021-01-17,4,2,"#{""dustin.getz@gmail.com"" ""funtain@me.com""}",235.0,6
+Clojure,hyperfiddle,2021-01-18,1,1,"#{""contact@leonoel.fr""}",236.0,6
+Clojure,hyperfiddle,2021-01-19,1,1,"#{""funtain@me.com""}",237.0,6
+Clojure,hyperfiddle,2021-01-20,7,2,"#{""geoffrey.gaillard@hey.com"" ""funtain@me.com""}",244.0,6
+Clojure,hyperfiddle,2021-01-21,8,4,"#{""geoffrey.gaillard@hey.com"" ""dustin.getz@gmail.com"" ""funtain@me.com"" ""contact@leonoel.fr""}",252.0,6
+Clojure,hyperfiddle,2021-01-22,3,1,"#{""geoffrey.gaillard@hey.com""}",255.0,6
+Clojure,hyperfiddle,2021-01-23,5,2,"#{""geoffrey.gaillard@hey.com"" ""dustin.getz@gmail.com""}",260.0,6
+Clojure,hyperfiddle,2021-01-24,2,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",262.0,6
+Clojure,hyperfiddle,2021-01-27,4,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",266.0,6
+Clojure,hyperfiddle,2021-01-28,3,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",269.0,6
+Clojure,hyperfiddle,2021-01-29,1,1,"#{""contact@leonoel.fr""}",270.0,6
+Clojure,hyperfiddle,2021-01-30,9,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",279.0,6
+Clojure,hyperfiddle,2021-01-31,4,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",283.0,6
+Clojure,hyperfiddle,2021-02-04,5,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",288.0,6
+Clojure,hyperfiddle,2021-02-05,1,1,"#{""contact@leonoel.fr""}",289.0,6
+Clojure,hyperfiddle,2021-02-06,3,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",292.0,6
+Clojure,hyperfiddle,2021-02-07,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",296.0,6
+Clojure,hyperfiddle,2021-02-11,1,1,"#{""ggaillard.cvl@gmail.com""}",297.0,6
+Clojure,hyperfiddle,2021-02-12,1,1,"#{""ggaillard.cvl@gmail.com""}",298.0,6
+Clojure,hyperfiddle,2021-02-13,2,1,"#{""contact@leonoel.fr""}",300.0,6
+Clojure,hyperfiddle,2021-02-14,1,1,"#{""contact@leonoel.fr""}",301.0,6
+Clojure,hyperfiddle,2021-02-18,1,1,"#{""ggaillard.cvl@gmail.com""}",302.0,6
+Clojure,hyperfiddle,2021-02-19,1,1,"#{""ggaillard.cvl@gmail.com""}",303.0,6
+Clojure,hyperfiddle,2021-02-20,1,1,"#{""ggaillard.cvl@gmail.com""}",304.0,6
+Clojure,hyperfiddle,2021-03-06,4,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",308.0,6
+Clojure,hyperfiddle,2021-03-13,1,1,"#{""dustin.getz@gmail.com""}",309.0,6
+Clojure,hyperfiddle,2021-03-14,3,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",312.0,6
+Clojure,hyperfiddle,2021-03-15,1,1,"#{""dustin.getz@gmail.com""}",313.0,6
+Clojure,hyperfiddle,2021-03-17,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",317.0,6
+Clojure,hyperfiddle,2021-03-18,3,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",320.0,6
+Clojure,hyperfiddle,2021-03-19,1,1,"#{""ggaillard.cvl@gmail.com""}",321.0,6
+Clojure,hyperfiddle,2021-03-20,4,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",325.0,6
+Clojure,hyperfiddle,2021-03-21,5,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",330.0,6
+Clojure,hyperfiddle,2021-03-23,1,1,"#{""dustin.getz@gmail.com""}",331.0,6
+Clojure,hyperfiddle,2021-03-24,3,1,"#{""ggaillard.cvl@gmail.com""}",334.0,6
+Clojure,hyperfiddle,2021-03-25,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",337.0,6
+Clojure,hyperfiddle,2021-03-26,1,1,"#{""ggaillard.cvl@gmail.com""}",338.0,6
+Clojure,hyperfiddle,2021-03-27,6,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",344.0,6
+Clojure,hyperfiddle,2021-03-28,5,1,"#{""dustin.getz@gmail.com""}",349.0,6
+Clojure,hyperfiddle,2021-03-29,1,1,"#{""dustin.getz@gmail.com""}",350.0,6
+Clojure,hyperfiddle,2021-03-31,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",353.0,6
+Clojure,hyperfiddle,2021-04-01,5,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",358.0,6
+Clojure,hyperfiddle,2021-04-02,6,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",364.0,6
+Clojure,hyperfiddle,2021-04-03,1,1,"#{""dustin.getz@gmail.com""}",365.0,6
+Clojure,hyperfiddle,2021-04-04,4,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",369.0,6
+Clojure,hyperfiddle,2021-04-05,1,1,"#{""dustin.getz@gmail.com""}",370.0,6
+Clojure,hyperfiddle,2021-04-07,7,1,"#{""ggaillard.cvl@gmail.com""}",377.0,6
+Clojure,hyperfiddle,2021-04-08,2,1,"#{""ggaillard.cvl@gmail.com""}",379.0,6
+Clojure,hyperfiddle,2021-04-09,2,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",381.0,6
+Clojure,hyperfiddle,2021-04-10,3,1,"#{""ggaillard.cvl@gmail.com""}",384.0,6
+Clojure,hyperfiddle,2021-04-11,1,1,"#{""ggaillard.cvl@gmail.com""}",385.0,6
+Clojure,hyperfiddle,2021-04-14,3,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",388.0,6
+Clojure,hyperfiddle,2021-04-15,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",391.0,6
+Clojure,hyperfiddle,2021-04-16,2,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",393.0,6
+Clojure,hyperfiddle,2021-04-17,5,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",398.0,6
+Clojure,hyperfiddle,2021-04-18,1,1,"#{""contact@leonoel.fr""}",399.0,6
+Clojure,hyperfiddle,2021-04-19,1,1,"#{""ggaillard.cvl@gmail.com""}",400.0,6
+Clojure,hyperfiddle,2021-04-21,5,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",405.0,6
+Clojure,hyperfiddle,2021-04-22,4,1,"#{""ggaillard.cvl@gmail.com""}",409.0,6
+Clojure,hyperfiddle,2021-04-23,1,1,"#{""ggaillard.cvl@gmail.com""}",410.0,6
+Clojure,hyperfiddle,2021-04-24,1,1,"#{""dustin.getz@gmail.com""}",411.0,6
+Clojure,hyperfiddle,2021-04-25,6,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",417.0,6
+Clojure,hyperfiddle,2021-04-28,4,1,"#{""ggaillard.cvl@gmail.com""}",421.0,6
+Clojure,hyperfiddle,2021-04-29,1,1,"#{""ggaillard.cvl@gmail.com""}",422.0,6
+Clojure,hyperfiddle,2021-04-30,3,1,"#{""ggaillard.cvl@gmail.com""}",425.0,6
+Clojure,hyperfiddle,2021-05-01,3,1,"#{""ggaillard.cvl@gmail.com""}",428.0,6
+Clojure,hyperfiddle,2021-05-02,10,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",438.0,6
+Clojure,hyperfiddle,2021-05-03,1,1,"#{""ggaillard.cvl@gmail.com""}",439.0,6
+Clojure,hyperfiddle,2021-05-05,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",442.0,6
+Clojure,hyperfiddle,2021-05-06,8,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",450.0,6
+Clojure,hyperfiddle,2021-05-07,3,1,"#{""ggaillard.cvl@gmail.com""}",453.0,6
+Clojure,hyperfiddle,2021-05-08,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",457.0,6
+Clojure,hyperfiddle,2021-05-09,1,1,"#{""ggaillard.cvl@gmail.com""}",458.0,6
+Clojure,hyperfiddle,2021-05-11,1,1,"#{""ggaillard.cvl@gmail.com""}",459.0,6
+Clojure,hyperfiddle,2021-05-14,6,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",465.0,6
+Clojure,hyperfiddle,2021-05-15,14,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",479.0,6
+Clojure,hyperfiddle,2021-05-16,11,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",490.0,6
+Clojure,hyperfiddle,2021-05-17,3,1,"#{""ggaillard.cvl@gmail.com""}",493.0,6
+Clojure,hyperfiddle,2021-05-19,2,1,"#{""ggaillard.cvl@gmail.com""}",495.0,6
+Clojure,hyperfiddle,2021-05-20,3,1,"#{""ggaillard.cvl@gmail.com""}",498.0,6
+Clojure,hyperfiddle,2021-05-21,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",501.0,6
+Clojure,hyperfiddle,2021-05-22,5,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",506.0,6
+Clojure,hyperfiddle,2021-05-23,3,1,"#{""ggaillard.cvl@gmail.com""}",509.0,6
+Clojure,hyperfiddle,2021-05-25,2,1,"#{""dustin.getz@gmail.com""}",511.0,6
+Clojure,hyperfiddle,2021-05-26,4,1,"#{""ggaillard.cvl@gmail.com""}",515.0,6
+Clojure,hyperfiddle,2021-05-27,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",518.0,6
+Clojure,hyperfiddle,2021-05-28,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",522.0,6
+Clojure,hyperfiddle,2021-05-29,6,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",528.0,6
+Clojure,hyperfiddle,2021-06-02,2,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",530.0,6
+Clojure,hyperfiddle,2021-06-03,7,3,"#{""ggaillard.cvl@gmail.com"" ""ggeoffrey@users.noreply.github.com"" ""contact@leonoel.fr""}",537.0,7
+Clojure,hyperfiddle,2021-06-04,1,1,"#{""ggaillard.cvl@gmail.com""}",538.0,7
+Clojure,hyperfiddle,2021-06-05,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",541.0,7
+Clojure,hyperfiddle,2021-06-08,2,1,"#{""ggaillard.cvl@gmail.com""}",543.0,7
+Clojure,hyperfiddle,2021-06-09,1,1,"#{""dustin.getz@gmail.com""}",544.0,7
+Clojure,hyperfiddle,2021-06-11,1,1,"#{""ggaillard.cvl@gmail.com""}",545.0,7
+Clojure,hyperfiddle,2021-06-12,2,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",547.0,7
+Clojure,hyperfiddle,2021-06-16,1,1,"#{""contact@leonoel.fr""}",548.0,7
+Clojure,hyperfiddle,2021-06-18,6,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",554.0,7
+Clojure,hyperfiddle,2021-06-19,6,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",560.0,7
+Clojure,hyperfiddle,2021-06-22,7,1,"#{""dustin.getz@gmail.com""}",567.0,7
+Clojure,hyperfiddle,2021-06-23,2,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",569.0,7
+Clojure,hyperfiddle,2021-06-24,2,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",571.0,7
+Clojure,hyperfiddle,2021-06-26,3,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",574.0,7
+Clojure,hyperfiddle,2021-06-30,4,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",578.0,7
+Clojure,hyperfiddle,2021-07-01,1,1,"#{""dustin.getz@gmail.com""}",579.0,7
+Clojure,hyperfiddle,2021-07-02,1,1,"#{""dustin.getz@gmail.com""}",580.0,7
+Clojure,hyperfiddle,2021-07-03,2,1,"#{""dustin.getz@gmail.com""}",582.0,7
+Clojure,hyperfiddle,2021-07-06,1,1,"#{""ggaillard.cvl@gmail.com""}",583.0,7
+Clojure,hyperfiddle,2021-07-07,7,1,"#{""ggaillard.cvl@gmail.com""}",590.0,7
+Clojure,hyperfiddle,2021-07-09,2,1,"#{""dustin.getz@gmail.com""}",592.0,7
+Clojure,hyperfiddle,2021-07-10,7,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",599.0,7
+Clojure,hyperfiddle,2021-07-11,14,1,"#{""dustin.getz@gmail.com""}",613.0,7
+Clojure,hyperfiddle,2021-07-12,1,1,"#{""dustin.getz@gmail.com""}",614.0,7
+Clojure,hyperfiddle,2021-07-13,4,1,"#{""dustin.getz@gmail.com""}",618.0,7
+Clojure,hyperfiddle,2021-07-15,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin@hyperfiddle.net""}",621.0,8
+Clojure,hyperfiddle,2021-07-16,5,1,"#{""ggaillard.cvl@gmail.com""}",626.0,8
+Clojure,hyperfiddle,2021-07-17,2,1,"#{""ggaillard.cvl@gmail.com""}",628.0,8
+Clojure,hyperfiddle,2021-07-20,14,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",642.0,8
+Clojure,hyperfiddle,2021-07-21,1,1,"#{""dustin.getz@gmail.com""}",643.0,8
+Clojure,hyperfiddle,2021-07-22,5,1,"#{""dustin.getz@gmail.com""}",648.0,8
+Clojure,hyperfiddle,2021-07-23,1,1,"#{""ggaillard.cvl@gmail.com""}",649.0,8
+Clojure,hyperfiddle,2021-07-24,9,4,"#{""ggaillard.cvl@gmail.com"" ""dustin@hyperfiddle.net"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",658.0,8
+Clojure,hyperfiddle,2021-07-25,5,2,"#{""dustin@hyperfiddle.net"" ""dustin.getz@gmail.com""}",663.0,8
+Clojure,hyperfiddle,2021-07-27,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",666.0,8
+Clojure,hyperfiddle,2021-07-28,4,1,"#{""ggaillard.cvl@gmail.com""}",670.0,8
+Clojure,hyperfiddle,2021-07-29,7,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",677.0,8
+Clojure,hyperfiddle,2021-07-30,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",680.0,8
+Clojure,hyperfiddle,2021-07-31,9,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",689.0,8
+Clojure,hyperfiddle,2021-08-04,2,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",691.0,8
+Clojure,hyperfiddle,2021-08-05,1,1,"#{""ggaillard.cvl@gmail.com""}",692.0,8
+Clojure,hyperfiddle,2021-08-07,3,1,"#{""ggaillard.cvl@gmail.com""}",695.0,8
+Clojure,hyperfiddle,2021-08-10,2,1,"#{""contact@leonoel.fr""}",697.0,8
+Clojure,hyperfiddle,2021-08-14,7,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",704.0,8
+Clojure,hyperfiddle,2021-08-17,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",708.0,8
+Clojure,hyperfiddle,2021-08-18,5,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",713.0,8
+Clojure,hyperfiddle,2021-08-19,2,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",715.0,8
+Clojure,hyperfiddle,2021-08-21,6,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",721.0,8
+Clojure,hyperfiddle,2021-08-28,1,1,"#{""dustin.getz@gmail.com""}",722.0,8
+Clojure,hyperfiddle,2021-09-02,1,1,"#{""dustin.getz@gmail.com""}",723.0,8
+Clojure,hyperfiddle,2021-09-03,3,1,"#{""ggaillard.cvl@gmail.com""}",726.0,8
+Clojure,hyperfiddle,2021-09-10,1,1,"#{""contact@leonoel.fr""}",727.0,8
+Clojure,hyperfiddle,2021-09-11,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",731.0,8
+Clojure,hyperfiddle,2021-09-13,2,1,"#{""ggaillard.cvl@gmail.com""}",733.0,8
+Clojure,hyperfiddle,2021-09-15,1,1,"#{""contact@leonoel.fr""}",734.0,8
+Clojure,hyperfiddle,2021-09-18,6,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",740.0,8
+Clojure,hyperfiddle,2021-09-25,1,1,"#{""dustin.getz@gmail.com""}",741.0,8
+Clojure,hyperfiddle,2021-09-28,1,1,"#{""contact@leonoel.fr""}",742.0,8
+Clojure,hyperfiddle,2021-10-08,1,1,"#{""contact@leonoel.fr""}",743.0,8
+Clojure,hyperfiddle,2021-10-09,3,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",746.0,8
+Clojure,hyperfiddle,2021-10-12,1,1,"#{""contact@leonoel.fr""}",747.0,8
+Clojure,hyperfiddle,2021-10-16,3,1,"#{""dustin.getz@gmail.com""}",750.0,8
+Clojure,hyperfiddle,2021-10-19,1,1,"#{""ggeoffrey@users.noreply.github.com""}",751.0,8
+Clojure,hyperfiddle,2021-10-20,8,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",759.0,8
+Clojure,hyperfiddle,2021-10-21,3,1,"#{""dustin.getz@gmail.com""}",762.0,8
+Clojure,hyperfiddle,2021-10-22,1,1,"#{""ggaillard.cvl@gmail.com""}",763.0,8
+Clojure,hyperfiddle,2021-10-23,1,1,"#{""contact@leonoel.fr""}",764.0,8
+Clojure,hyperfiddle,2021-10-26,1,1,"#{""contact@leonoel.fr""}",765.0,8
+Clojure,hyperfiddle,2021-10-27,1,1,"#{""contact@leonoel.fr""}",766.0,8
+Clojure,hyperfiddle,2021-10-28,1,1,"#{""ggaillard.cvl@gmail.com""}",767.0,8
+Clojure,hyperfiddle,2021-10-29,1,1,"#{""ggaillard.cvl@gmail.com""}",768.0,8
+Clojure,hyperfiddle,2021-10-30,4,1,"#{""dustin.getz@gmail.com""}",772.0,8
+Clojure,hyperfiddle,2021-11-02,1,1,"#{""contact@leonoel.fr""}",773.0,8
+Clojure,hyperfiddle,2021-11-03,2,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",775.0,8
+Clojure,hyperfiddle,2021-11-04,3,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",778.0,8
+Clojure,hyperfiddle,2021-11-05,1,1,"#{""contact@leonoel.fr""}",779.0,8
+Clojure,hyperfiddle,2021-11-26,2,1,"#{""ggaillard.cvl@gmail.com""}",781.0,8
+Clojure,hyperfiddle,2021-12-07,1,1,"#{""ggaillard.cvl@gmail.com""}",782.0,8
+Clojure,hyperfiddle,2021-12-08,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",786.0,8
+Clojure,hyperfiddle,2021-12-10,2,1,"#{""contact@leonoel.fr""}",788.0,8
+Clojure,hyperfiddle,2021-12-16,7,1,"#{""ggaillard.cvl@gmail.com""}",795.0,8
+Clojure,hyperfiddle,2021-12-18,3,1,"#{""ggaillard.cvl@gmail.com""}",798.0,8
+Clojure,hyperfiddle,2022-01-05,3,1,"#{""contact@leonoel.fr""}",801.0,8
+Clojure,hyperfiddle,2022-01-12,2,1,"#{""ggaillard.cvl@gmail.com""}",803.0,8
+Clojure,hyperfiddle,2022-01-20,1,1,"#{""contact@leonoel.fr""}",804.0,8
+Clojure,hyperfiddle,2022-01-25,1,1,"#{""ggaillard.cvl@gmail.com""}",805.0,8
+Clojure,hyperfiddle,2022-02-01,1,1,"#{""ggaillard.cvl@gmail.com""}",806.0,8
+Clojure,hyperfiddle,2022-02-02,1,1,"#{""ggaillard.cvl@gmail.com""}",807.0,8
+Clojure,hyperfiddle,2022-02-03,2,1,"#{""dustin.getz@gmail.com""}",809.0,8
+Clojure,hyperfiddle,2022-02-16,1,1,"#{""ggaillard.cvl@gmail.com""}",810.0,8
+Clojure,hyperfiddle,2022-02-17,6,1,"#{""ggaillard.cvl@gmail.com""}",816.0,8
+Clojure,hyperfiddle,2022-02-19,1,1,"#{""ggaillard.cvl@gmail.com""}",817.0,8
+Clojure,hyperfiddle,2022-02-22,1,1,"#{""contact@leonoel.fr""}",818.0,8
+Clojure,hyperfiddle,2022-02-25,2,1,"#{""ggaillard.cvl@gmail.com""}",820.0,8
+Clojure,hyperfiddle,2022-03-01,3,1,"#{""ggaillard.cvl@gmail.com""}",823.0,8
+Clojure,hyperfiddle,2022-03-02,5,1,"#{""ggaillard.cvl@gmail.com""}",828.0,8
+Clojure,hyperfiddle,2022-03-08,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",832.0,8
+Clojure,hyperfiddle,2022-03-09,2,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",834.0,8
+Clojure,hyperfiddle,2022-03-10,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",837.0,8
+Clojure,hyperfiddle,2022-03-11,4,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",841.0,8
+Clojure,hyperfiddle,2022-03-12,3,1,"#{""ggaillard.cvl@gmail.com""}",844.0,8
+Clojure,hyperfiddle,2022-03-15,2,1,"#{""ggaillard.cvl@gmail.com""}",846.0,8
+Clojure,hyperfiddle,2022-03-16,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",849.0,8
+Clojure,hyperfiddle,2022-03-17,2,1,"#{""ggaillard.cvl@gmail.com""}",851.0,8
+Clojure,hyperfiddle,2022-03-18,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",854.0,8
+Clojure,hyperfiddle,2022-03-19,4,1,"#{""ggaillard.cvl@gmail.com""}",858.0,8
+Clojure,hyperfiddle,2022-03-22,1,1,"#{""ggaillard.cvl@gmail.com""}",859.0,8
+Clojure,hyperfiddle,2022-03-23,2,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",861.0,8
+Clojure,hyperfiddle,2022-03-24,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",865.0,8
+Clojure,hyperfiddle,2022-03-25,3,1,"#{""ggaillard.cvl@gmail.com""}",868.0,8
+Clojure,hyperfiddle,2022-03-26,6,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",874.0,8
+Clojure,hyperfiddle,2022-03-28,1,1,"#{""dustin.getz@gmail.com""}",875.0,8
+Clojure,hyperfiddle,2022-03-29,4,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",879.0,8
+Clojure,hyperfiddle,2022-03-31,3,1,"#{""contact@leonoel.fr""}",882.0,8
+Clojure,hyperfiddle,2022-04-01,1,1,"#{""ggaillard.cvl@gmail.com""}",883.0,8
+Clojure,hyperfiddle,2022-04-02,4,1,"#{""dustin.getz@gmail.com""}",887.0,8
+Clojure,hyperfiddle,2022-04-04,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",890.0,8
+Clojure,hyperfiddle,2022-04-05,12,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",902.0,8
+Clojure,hyperfiddle,2022-04-06,7,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",909.0,8
+Clojure,hyperfiddle,2022-04-07,7,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",916.0,8
+Clojure,hyperfiddle,2022-04-08,9,1,"#{""ggaillard.cvl@gmail.com""}",925.0,8
+Clojure,hyperfiddle,2022-04-11,1,1,"#{""contact@leonoel.fr""}",926.0,8
+Clojure,hyperfiddle,2022-04-12,6,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",932.0,8
+Clojure,hyperfiddle,2022-04-13,6,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",938.0,8
+Clojure,hyperfiddle,2022-04-14,9,1,"#{""ggaillard.cvl@gmail.com""}",947.0,8
+Clojure,hyperfiddle,2022-04-15,2,1,"#{""ggaillard.cvl@gmail.com""}",949.0,8
+Clojure,hyperfiddle,2022-04-18,8,1,"#{""ggaillard.cvl@gmail.com""}",957.0,8
+Clojure,hyperfiddle,2022-04-19,15,1,"#{""ggaillard.cvl@gmail.com""}",972.0,8
+Clojure,hyperfiddle,2022-04-20,11,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",983.0,8
+Clojure,hyperfiddle,2022-04-21,15,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",998.0,8
+Clojure,hyperfiddle,2022-04-22,3,1,"#{""ggaillard.cvl@gmail.com""}",1001.0,8
+Clojure,hyperfiddle,2022-04-28,5,1,"#{""ggaillard.cvl@gmail.com""}",1006.0,8
+Clojure,hyperfiddle,2022-05-04,4,1,"#{""ggaillard.cvl@gmail.com""}",1010.0,8
+Clojure,hyperfiddle,2022-05-05,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1013.0,8
+Clojure,hyperfiddle,2022-05-06,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1017.0,8
+Clojure,hyperfiddle,2022-05-08,6,1,"#{""dustin.getz@gmail.com""}",1023.0,8
+Clojure,hyperfiddle,2022-05-09,18,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1041.0,8
+Clojure,hyperfiddle,2022-05-10,12,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1053.0,8
+Clojure,hyperfiddle,2022-05-11,18,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""ggeoffrey@users.noreply.github.com""}",1071.0,8
+Clojure,hyperfiddle,2022-05-12,5,1,"#{""dustin.getz@gmail.com""}",1076.0,8
+Clojure,hyperfiddle,2022-05-13,10,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1086.0,8
+Clojure,hyperfiddle,2022-05-14,13,1,"#{""dustin.getz@gmail.com""}",1099.0,8
+Clojure,hyperfiddle,2022-05-15,6,1,"#{""dustin.getz@gmail.com""}",1105.0,8
+Clojure,hyperfiddle,2022-05-16,14,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1119.0,8
+Clojure,hyperfiddle,2022-05-17,9,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1128.0,8
+Clojure,hyperfiddle,2022-05-18,18,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1146.0,8
+Clojure,hyperfiddle,2022-05-19,23,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1169.0,8
+Clojure,hyperfiddle,2022-05-20,11,3,"#{""ggaillard.cvl@gmail.com"" ""will@willacton.com"" ""dustin.getz@gmail.com""}",1180.0,9
+Clojure,hyperfiddle,2022-05-21,12,1,"#{""dustin.getz@gmail.com""}",1192.0,9
+Clojure,hyperfiddle,2022-05-22,5,2,"#{""kalavox@gmail.com"" ""dustin.getz@gmail.com""}",1197.0,10
+Clojure,hyperfiddle,2022-05-23,5,1,"#{""dustin.getz@gmail.com""}",1202.0,10
+Clojure,hyperfiddle,2022-05-24,3,1,"#{""dustin.getz@gmail.com""}",1205.0,10
+Clojure,hyperfiddle,2022-05-25,4,1,"#{""dustin.getz@gmail.com""}",1209.0,10
+Clojure,hyperfiddle,2022-05-26,2,1,"#{""dustin.getz@gmail.com""}",1211.0,10
+Clojure,hyperfiddle,2022-05-27,4,1,"#{""dustin.getz@gmail.com""}",1215.0,10
+Clojure,hyperfiddle,2022-05-28,4,1,"#{""dustin.getz@gmail.com""}",1219.0,10
+Clojure,hyperfiddle,2022-05-29,1,1,"#{""dustin.getz@gmail.com""}",1220.0,10
+Clojure,hyperfiddle,2022-05-30,3,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1223.0,10
+Clojure,hyperfiddle,2022-05-31,8,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1231.0,10
+Clojure,hyperfiddle,2022-06-02,1,1,"#{""ggaillard.cvl@gmail.com""}",1232.0,10
+Clojure,hyperfiddle,2022-06-03,2,1,"#{""contact@leonoel.fr""}",1234.0,10
+Clojure,hyperfiddle,2022-06-05,2,1,"#{""dustin.getz@gmail.com""}",1236.0,10
+Clojure,hyperfiddle,2022-06-06,2,1,"#{""ggaillard.cvl@gmail.com""}",1238.0,10
+Clojure,hyperfiddle,2022-06-07,2,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1240.0,10
+Clojure,hyperfiddle,2022-06-08,13,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1253.0,10
+Clojure,hyperfiddle,2022-06-09,7,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1260.0,10
+Clojure,hyperfiddle,2022-06-10,3,1,"#{""ggaillard.cvl@gmail.com""}",1263.0,10
+Clojure,hyperfiddle,2022-06-13,4,1,"#{""ggaillard.cvl@gmail.com""}",1267.0,10
+Clojure,hyperfiddle,2022-06-15,16,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1283.0,10
+Clojure,hyperfiddle,2022-06-16,10,1,"#{""ggaillard.cvl@gmail.com""}",1293.0,10
+Clojure,hyperfiddle,2022-06-17,2,1,"#{""ggaillard.cvl@gmail.com""}",1295.0,10
+Clojure,hyperfiddle,2022-06-18,1,1,"#{""contact@leonoel.fr""}",1296.0,10
+Clojure,hyperfiddle,2022-06-20,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1300.0,10
+Clojure,hyperfiddle,2022-06-21,2,1,"#{""contact@leonoel.fr""}",1302.0,10
+Clojure,hyperfiddle,2022-06-22,1,1,"#{""ggaillard.cvl@gmail.com""}",1303.0,10
+Clojure,hyperfiddle,2022-06-23,6,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1309.0,10
+Clojure,hyperfiddle,2022-06-24,7,1,"#{""ggaillard.cvl@gmail.com""}",1316.0,10
+Clojure,hyperfiddle,2022-06-25,2,1,"#{""dustin.getz@gmail.com""}",1318.0,10
+Clojure,hyperfiddle,2022-06-27,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1322.0,10
+Clojure,hyperfiddle,2022-06-28,11,1,"#{""ggaillard.cvl@gmail.com""}",1333.0,10
+Clojure,hyperfiddle,2022-06-29,1,1,"#{""ggaillard.cvl@gmail.com""}",1334.0,10
+Clojure,hyperfiddle,2022-06-30,11,1,"#{""ggaillard.cvl@gmail.com""}",1345.0,10
+Clojure,hyperfiddle,2022-07-01,2,1,"#{""ggaillard.cvl@gmail.com""}",1347.0,10
+Clojure,hyperfiddle,2022-07-04,3,1,"#{""ggaillard.cvl@gmail.com""}",1350.0,10
+Clojure,hyperfiddle,2022-07-06,3,1,"#{""ggaillard.cvl@gmail.com""}",1353.0,10
+Clojure,hyperfiddle,2022-07-07,2,1,"#{""ggaillard.cvl@gmail.com""}",1355.0,10
+Clojure,hyperfiddle,2022-07-08,7,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1362.0,10
+Clojure,hyperfiddle,2022-07-11,3,1,"#{""ggaillard.cvl@gmail.com""}",1365.0,10
+Clojure,hyperfiddle,2022-07-12,3,1,"#{""ggaillard.cvl@gmail.com""}",1368.0,10
+Clojure,hyperfiddle,2022-07-13,2,1,"#{""ggaillard.cvl@gmail.com""}",1370.0,10
+Clojure,hyperfiddle,2022-07-14,6,1,"#{""dustin.getz@gmail.com""}",1376.0,10
+Clojure,hyperfiddle,2022-07-15,1,1,"#{""contact@leonoel.fr""}",1377.0,10
+Clojure,hyperfiddle,2022-07-18,2,1,"#{""ggaillard.cvl@gmail.com""}",1379.0,10
+Clojure,hyperfiddle,2022-07-19,15,4,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""ggeoffrey@users.noreply.github.com"" ""contact@leonoel.fr""}",1394.0,10
+Clojure,hyperfiddle,2022-07-20,3,1,"#{""ggaillard.cvl@gmail.com""}",1397.0,10
+Clojure,hyperfiddle,2022-07-21,5,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1402.0,10
+Clojure,hyperfiddle,2022-07-22,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1406.0,10
+Clojure,hyperfiddle,2022-07-25,7,1,"#{""ggaillard.cvl@gmail.com""}",1413.0,10
+Clojure,hyperfiddle,2022-07-26,5,1,"#{""ggaillard.cvl@gmail.com""}",1418.0,10
+Clojure,hyperfiddle,2022-07-27,8,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1426.0,10
+Clojure,hyperfiddle,2022-07-28,10,1,"#{""ggaillard.cvl@gmail.com""}",1436.0,10
+Clojure,hyperfiddle,2022-07-29,4,1,"#{""ggaillard.cvl@gmail.com""}",1440.0,10
+Clojure,hyperfiddle,2022-07-30,8,1,"#{""dustin.getz@gmail.com""}",1448.0,10
+Clojure,hyperfiddle,2022-07-31,3,1,"#{""dustin.getz@gmail.com""}",1451.0,10
+Clojure,hyperfiddle,2022-08-01,14,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1465.0,10
+Clojure,hyperfiddle,2022-08-02,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1469.0,10
+Clojure,hyperfiddle,2022-08-03,11,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1480.0,10
+Clojure,hyperfiddle,2022-08-04,17,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1497.0,10
+Clojure,hyperfiddle,2022-08-05,23,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1520.0,10
+Clojure,hyperfiddle,2022-08-06,14,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1534.0,10
+Clojure,hyperfiddle,2022-08-07,4,1,"#{""dustin.getz@gmail.com""}",1538.0,10
+Clojure,hyperfiddle,2022-08-08,7,1,"#{""dustin.getz@gmail.com""}",1545.0,10
+Clojure,hyperfiddle,2022-08-09,2,1,"#{""ggaillard.cvl@gmail.com""}",1547.0,10
+Clojure,hyperfiddle,2022-08-10,18,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1565.0,10
+Clojure,hyperfiddle,2022-08-11,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1569.0,10
+Clojure,hyperfiddle,2022-08-12,2,2,"#{""ggaillard.cvl@gmail.com"" ""eugen@ieugen.ro""}",1571.0,11
+Clojure,hyperfiddle,2022-08-13,1,1,"#{""dustin.getz@gmail.com""}",1572.0,11
+Clojure,hyperfiddle,2022-08-14,2,1,"#{""dustin.getz@gmail.com""}",1574.0,11
+Clojure,hyperfiddle,2022-08-15,5,1,"#{""ggaillard.cvl@gmail.com""}",1579.0,11
+Clojure,hyperfiddle,2022-08-16,9,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1588.0,11
+Clojure,hyperfiddle,2022-08-17,2,1,"#{""dustin.getz@gmail.com""}",1590.0,11
+Clojure,hyperfiddle,2022-08-18,2,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1592.0,11
+Clojure,hyperfiddle,2022-08-19,9,4,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1601.0,12
+Clojure,hyperfiddle,2022-08-20,10,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1611.0,12
+Clojure,hyperfiddle,2022-08-21,4,1,"#{""dustin.getz@gmail.com""}",1615.0,12
+Clojure,hyperfiddle,2022-08-24,8,2,"#{""sfyire@gmail.com"" ""dustin.getz@gmail.com""}",1623.0,13
+Clojure,hyperfiddle,2022-08-25,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1627.0,13
+Clojure,hyperfiddle,2022-08-27,6,1,"#{""dustin.getz@gmail.com""}",1633.0,13
+Clojure,hyperfiddle,2022-08-30,5,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1638.0,13
+Clojure,hyperfiddle,2022-08-31,6,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1644.0,13
+Clojure,hyperfiddle,2022-09-01,2,1,"#{""ggaillard.cvl@gmail.com""}",1646.0,13
+Clojure,hyperfiddle,2022-09-02,5,1,"#{""ggaillard.cvl@gmail.com""}",1651.0,13
+Clojure,hyperfiddle,2022-09-05,1,1,"#{""xificurC@gmail.com""}",1652.0,13
+Clojure,hyperfiddle,2022-09-06,2,1,"#{""dustin.getz@gmail.com""}",1654.0,13
+Clojure,hyperfiddle,2022-09-08,14,1,"#{""dustin.getz@gmail.com""}",1668.0,13
+Clojure,hyperfiddle,2022-09-09,6,1,"#{""dustin.getz@gmail.com""}",1674.0,13
+Clojure,hyperfiddle,2022-09-10,7,1,"#{""dustin.getz@gmail.com""}",1681.0,13
+Clojure,hyperfiddle,2022-09-12,1,1,"#{""dustin.getz@gmail.com""}",1682.0,13
+Clojure,hyperfiddle,2022-09-13,7,1,"#{""dustin.getz@gmail.com""}",1689.0,13
+Clojure,hyperfiddle,2022-09-14,7,1,"#{""dustin.getz@gmail.com""}",1696.0,13
+Clojure,hyperfiddle,2022-09-15,4,1,"#{""dustin.getz@gmail.com""}",1700.0,13
+Clojure,hyperfiddle,2022-09-16,1,1,"#{""dustin.getz@gmail.com""}",1701.0,13
+Clojure,hyperfiddle,2022-09-19,9,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1710.0,13
+Clojure,hyperfiddle,2022-09-20,10,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1720.0,13
+Clojure,hyperfiddle,2022-09-21,14,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1734.0,13
+Clojure,hyperfiddle,2022-09-22,10,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1744.0,13
+Clojure,hyperfiddle,2022-09-23,8,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1752.0,13
+Clojure,hyperfiddle,2022-09-24,7,1,"#{""dustin.getz@gmail.com""}",1759.0,13
+Clojure,hyperfiddle,2022-09-26,8,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1767.0,13
+Clojure,hyperfiddle,2022-09-27,1,1,"#{""contact@leonoel.fr""}",1768.0,13
+Clojure,hyperfiddle,2022-09-28,3,1,"#{""dustin.getz@gmail.com""}",1771.0,13
+Clojure,hyperfiddle,2022-09-29,2,1,"#{""dustin.getz@gmail.com""}",1773.0,13
+Clojure,hyperfiddle,2022-09-30,3,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1776.0,13
+Clojure,hyperfiddle,2022-10-01,4,1,"#{""dustin.getz@gmail.com""}",1780.0,13
+Clojure,hyperfiddle,2022-10-02,2,1,"#{""dustin.getz@gmail.com""}",1782.0,13
+Clojure,hyperfiddle,2022-10-03,6,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1788.0,13
+Clojure,hyperfiddle,2022-10-04,11,1,"#{""dustin.getz@gmail.com""}",1799.0,13
+Clojure,hyperfiddle,2022-10-05,8,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1807.0,13
+Clojure,hyperfiddle,2022-10-06,4,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""contact@leonoel.fr""}",1811.0,13
+Clojure,hyperfiddle,2022-10-07,4,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1815.0,13
+Clojure,hyperfiddle,2022-10-09,2,1,"#{""dustin.getz@gmail.com""}",1817.0,13
+Clojure,hyperfiddle,2022-10-10,3,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1820.0,13
+Clojure,hyperfiddle,2022-10-11,2,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1822.0,13
+Clojure,hyperfiddle,2022-10-12,2,1,"#{""ggaillard.cvl@gmail.com""}",1824.0,13
+Clojure,hyperfiddle,2022-10-13,4,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1828.0,13
+Clojure,hyperfiddle,2022-10-14,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1831.0,13
+Clojure,hyperfiddle,2022-10-15,9,1,"#{""dustin.getz@gmail.com""}",1840.0,13
+Clojure,hyperfiddle,2022-10-16,7,1,"#{""dustin.getz@gmail.com""}",1847.0,13
+Clojure,hyperfiddle,2022-10-17,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1850.0,13
+Clojure,hyperfiddle,2022-10-18,12,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1862.0,13
+Clojure,hyperfiddle,2022-10-19,7,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1869.0,13
+Clojure,hyperfiddle,2022-10-20,18,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1887.0,13
+Clojure,hyperfiddle,2022-10-21,4,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1891.0,13
+Clojure,hyperfiddle,2022-10-22,5,1,"#{""dustin.getz@gmail.com""}",1896.0,13
+Clojure,hyperfiddle,2022-10-23,2,1,"#{""dustin.getz@gmail.com""}",1898.0,13
+Clojure,hyperfiddle,2022-10-24,12,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1910.0,13
+Clojure,hyperfiddle,2022-10-25,7,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1917.0,13
+Clojure,hyperfiddle,2022-10-26,2,1,"#{""ggaillard.cvl@gmail.com""}",1919.0,13
+Clojure,hyperfiddle,2022-10-27,5,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",1924.0,13
+Clojure,hyperfiddle,2022-10-28,5,1,"#{""ggaillard.cvl@gmail.com""}",1929.0,13
+Clojure,hyperfiddle,2022-11-01,8,2,"#{""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1937.0,13
+Clojure,hyperfiddle,2022-11-02,13,4,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",1950.0,13
+Clojure,hyperfiddle,2022-11-03,4,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1954.0,13
+Clojure,hyperfiddle,2022-11-04,12,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1966.0,13
+Clojure,hyperfiddle,2022-11-05,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1969.0,13
+Clojure,hyperfiddle,2022-11-06,2,1,"#{""ggaillard.cvl@gmail.com""}",1971.0,13
+Clojure,hyperfiddle,2022-11-07,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1974.0,13
+Clojure,hyperfiddle,2022-11-09,4,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1978.0,13
+Clojure,hyperfiddle,2022-11-10,7,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1985.0,13
+Clojure,hyperfiddle,2022-11-11,4,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",1989.0,13
+Clojure,hyperfiddle,2022-11-12,2,1,"#{""dustin.getz@gmail.com""}",1991.0,13
+Clojure,hyperfiddle,2022-11-13,1,1,"#{""dustin.getz@gmail.com""}",1992.0,13
+Clojure,hyperfiddle,2022-11-14,7,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",1999.0,13
+Clojure,hyperfiddle,2022-11-15,12,4,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2011.0,13
+Clojure,hyperfiddle,2022-11-16,5,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2016.0,13
+Clojure,hyperfiddle,2022-11-17,4,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2020.0,13
+Clojure,hyperfiddle,2022-11-18,2,1,"#{""dustin.getz@gmail.com""}",2022.0,13
+Clojure,hyperfiddle,2022-11-20,6,1,"#{""dustin.getz@gmail.com""}",2028.0,13
+Clojure,hyperfiddle,2022-11-21,2,1,"#{""ggaillard.cvl@gmail.com""}",2030.0,13
+Clojure,hyperfiddle,2022-11-22,9,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2039.0,13
+Clojure,hyperfiddle,2022-11-23,20,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2059.0,13
+Clojure,hyperfiddle,2022-11-24,12,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2071.0,13
+Clojure,hyperfiddle,2022-11-25,19,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2090.0,13
+Clojure,hyperfiddle,2022-11-26,3,1,"#{""dustin.getz@gmail.com""}",2093.0,13
+Clojure,hyperfiddle,2022-11-28,3,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2096.0,13
+Clojure,hyperfiddle,2022-11-29,10,2,"#{""xificurC@gmail.com"" ""contact@leonoel.fr""}",2106.0,13
+Clojure,hyperfiddle,2022-11-30,1,1,"#{""xificurC@gmail.com""}",2107.0,13
+Clojure,hyperfiddle,2022-12-01,13,3,"#{""michielborkent@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2120.0,14
+Clojure,hyperfiddle,2022-12-02,18,5,"#{""ggaillard.cvl@gmail.com"" ""michielborkent@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2138.0,14
+Clojure,hyperfiddle,2022-12-03,1,1,"#{""dustin.getz@gmail.com""}",2139.0,14
+Clojure,hyperfiddle,2022-12-04,2,2,"#{""kalavox@gmail.com"" ""dustin.getz@gmail.com""}",2141.0,14
+Clojure,hyperfiddle,2022-12-05,1,1,"#{""xificurC@gmail.com""}",2142.0,14
+Clojure,hyperfiddle,2022-12-06,18,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2160.0,14
+Clojure,hyperfiddle,2022-12-07,11,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2171.0,14
+Clojure,hyperfiddle,2022-12-08,8,4,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2179.0,14
+Clojure,hyperfiddle,2022-12-09,15,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2194.0,14
+Clojure,hyperfiddle,2022-12-12,7,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2201.0,14
+Clojure,hyperfiddle,2022-12-13,1,1,"#{""xificurC@gmail.com""}",2202.0,14
+Clojure,hyperfiddle,2022-12-14,6,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2208.0,14
+Clojure,hyperfiddle,2022-12-15,15,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2223.0,14
+Clojure,hyperfiddle,2022-12-16,6,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2229.0,14
+Clojure,hyperfiddle,2022-12-19,6,1,"#{""ggaillard.cvl@gmail.com""}",2235.0,14
+Clojure,hyperfiddle,2022-12-20,7,1,"#{""ggaillard.cvl@gmail.com""}",2242.0,14
+Clojure,hyperfiddle,2022-12-22,2,1,"#{""ggaillard.cvl@gmail.com""}",2244.0,14
+Clojure,hyperfiddle,2022-12-23,11,1,"#{""dustin.getz@gmail.com""}",2255.0,14
+Clojure,hyperfiddle,2022-12-29,13,1,"#{""dustin.getz@gmail.com""}",2268.0,14
+Clojure,hyperfiddle,2022-12-30,8,1,"#{""dustin.getz@gmail.com""}",2276.0,14
+Clojure,hyperfiddle,2022-12-31,5,1,"#{""dustin.getz@gmail.com""}",2281.0,14
+Clojure,hyperfiddle,2023-01-02,3,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2284.0,14
+Clojure,hyperfiddle,2023-01-03,3,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2287.0,14
+Clojure,hyperfiddle,2023-01-04,10,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2297.0,14
+Clojure,hyperfiddle,2023-01-05,11,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2308.0,14
+Clojure,hyperfiddle,2023-01-06,2,1,"#{""ggaillard.cvl@gmail.com""}",2310.0,14
+Clojure,hyperfiddle,2023-01-07,1,1,"#{""dustin.getz@gmail.com""}",2311.0,14
+Clojure,hyperfiddle,2023-01-08,1,1,"#{""dustin.getz@gmail.com""}",2312.0,14
+Clojure,hyperfiddle,2023-01-09,6,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",2318.0,14
+Clojure,hyperfiddle,2023-01-10,9,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2327.0,14
+Clojure,hyperfiddle,2023-01-11,9,1,"#{""dustin.getz@gmail.com""}",2336.0,14
+Clojure,hyperfiddle,2023-01-12,1,1,"#{""xificurC@gmail.com""}",2337.0,14
+Clojure,hyperfiddle,2023-01-13,6,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""contact@leonoel.fr""}",2343.0,14
+Clojure,hyperfiddle,2023-01-16,8,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""contact@leonoel.fr""}",2351.0,14
+Clojure,hyperfiddle,2023-01-17,5,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2356.0,14
+Clojure,hyperfiddle,2023-01-18,18,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2374.0,14
+Clojure,hyperfiddle,2023-01-19,10,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2384.0,14
+Clojure,hyperfiddle,2023-01-20,10,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2394.0,14
+Clojure,hyperfiddle,2023-01-23,15,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2409.0,14
+Clojure,hyperfiddle,2023-01-24,6,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2415.0,14
+Clojure,hyperfiddle,2023-01-25,5,1,"#{""ggaillard.cvl@gmail.com""}",2420.0,14
+Clojure,hyperfiddle,2023-01-26,11,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2431.0,14
+Clojure,hyperfiddle,2023-01-27,7,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2438.0,14
+Clojure,hyperfiddle,2023-01-30,10,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2448.0,14
+Clojure,hyperfiddle,2023-01-31,20,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2468.0,14
+Clojure,hyperfiddle,2023-02-01,7,3,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2475.0,14
+Clojure,hyperfiddle,2023-02-02,28,4,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2503.0,14
+Clojure,hyperfiddle,2023-02-03,5,4,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2508.0,14
+Clojure,hyperfiddle,2023-02-04,14,1,"#{""dustin.getz@gmail.com""}",2522.0,14
+Clojure,hyperfiddle,2023-02-05,11,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2533.0,14
+Clojure,hyperfiddle,2023-02-06,13,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2546.0,14
+Clojure,hyperfiddle,2023-02-07,13,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2559.0,14
+Clojure,hyperfiddle,2023-02-08,13,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2572.0,14
+Clojure,hyperfiddle,2023-02-09,5,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2577.0,14
+Clojure,hyperfiddle,2023-02-10,9,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2586.0,14
+Clojure,hyperfiddle,2023-02-11,4,1,"#{""dustin.getz@gmail.com""}",2590.0,14
+Clojure,hyperfiddle,2023-02-12,5,1,"#{""dustin.getz@gmail.com""}",2595.0,14
+Clojure,hyperfiddle,2023-02-13,9,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2604.0,14
+Clojure,hyperfiddle,2023-02-14,5,1,"#{""ggaillard.cvl@gmail.com""}",2609.0,14
+Clojure,hyperfiddle,2023-02-15,10,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""pez@pezius.com""}",2619.0,15
+Clojure,hyperfiddle,2023-02-16,18,4,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""jeanboudet@ip-192-168-1-105.eu-west-1.compute.internal""}",2637.0,16
+Clojure,hyperfiddle,2023-02-17,4,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2641.0,16
+Clojure,hyperfiddle,2023-02-18,14,2,"#{""dustin.getz@gmail.com"" ""tatu.tarvainen@solita.fi""}",2655.0,17
+Clojure,hyperfiddle,2023-02-19,11,1,"#{""dustin.getz@gmail.com""}",2666.0,17
+Clojure,hyperfiddle,2023-02-20,3,2,"#{""ggaillard.cvl@gmail.com"" ""carsten.behring@gmail.com""}",2669.0,18
+Clojure,hyperfiddle,2023-02-21,4,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2673.0,18
+Clojure,hyperfiddle,2023-02-22,2,1,"#{""dustin.getz@gmail.com""}",2675.0,18
+Clojure,hyperfiddle,2023-02-23,8,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2683.0,18
+Clojure,hyperfiddle,2023-02-24,10,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2693.0,18
+Clojure,hyperfiddle,2023-02-25,1,1,"#{""dustin.getz@gmail.com""}",2694.0,18
+Clojure,hyperfiddle,2023-02-27,4,1,"#{""ggaillard.cvl@gmail.com""}",2698.0,18
+Clojure,hyperfiddle,2023-02-28,8,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2706.0,18
+Clojure,hyperfiddle,2023-03-01,12,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2718.0,18
+Clojure,hyperfiddle,2023-03-02,6,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2724.0,18
+Clojure,hyperfiddle,2023-03-03,7,3,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2731.0,18
+Clojure,hyperfiddle,2023-03-04,1,1,"#{""dustin.getz@gmail.com""}",2732.0,18
+Clojure,hyperfiddle,2023-03-05,1,1,"#{""dustin.getz@gmail.com""}",2733.0,18
+Clojure,hyperfiddle,2023-03-06,4,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2737.0,18
+Clojure,hyperfiddle,2023-03-07,7,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2744.0,18
+Clojure,hyperfiddle,2023-03-08,1,1,"#{""ggaillard.cvl@gmail.com""}",2745.0,18
+Clojure,hyperfiddle,2023-03-09,8,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2753.0,18
+Clojure,hyperfiddle,2023-03-10,16,3,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com"" ""contact@leonoel.fr""}",2769.0,18
+Clojure,hyperfiddle,2023-03-13,13,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2782.0,18
+Clojure,hyperfiddle,2023-03-14,10,2,"#{""ggaillard.cvl@gmail.com"" ""kalavox@gmail.com""}",2792.0,18
+Clojure,hyperfiddle,2023-03-15,9,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2801.0,18
+Clojure,hyperfiddle,2023-03-16,2,1,"#{""ggaillard.cvl@gmail.com""}",2803.0,18
+Clojure,hyperfiddle,2023-03-17,5,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2808.0,18
+Clojure,hyperfiddle,2023-03-19,1,1,"#{""dustin.getz@gmail.com""}",2809.0,18
+Clojure,hyperfiddle,2023-03-20,5,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2814.0,18
+Clojure,hyperfiddle,2023-03-23,1,1,"#{""xificurC@gmail.com""}",2815.0,18
+Clojure,hyperfiddle,2023-03-24,2,1,"#{""xificurC@gmail.com""}",2817.0,18
+Clojure,hyperfiddle,2023-03-28,2,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2819.0,18
+Clojure,hyperfiddle,2023-03-29,4,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2823.0,18
+Clojure,hyperfiddle,2023-03-31,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2826.0,18
+Clojure,hyperfiddle,2023-04-02,1,1,"#{""dustin.getz@gmail.com""}",2827.0,18
+Clojure,hyperfiddle,2023-04-03,1,1,"#{""ggaillard.cvl@gmail.com""}",2828.0,18
+Clojure,hyperfiddle,2023-04-04,5,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2833.0,18
+Clojure,hyperfiddle,2023-04-05,4,1,"#{""ggaillard.cvl@gmail.com""}",2837.0,18
+Clojure,hyperfiddle,2023-04-06,2,1,"#{""dustin.getz@gmail.com""}",2839.0,18
+Clojure,hyperfiddle,2023-04-07,1,1,"#{""ggaillard.cvl@gmail.com""}",2840.0,18
+Clojure,hyperfiddle,2023-04-08,10,1,"#{""dustin.getz@gmail.com""}",2850.0,18
+Clojure,hyperfiddle,2023-04-09,3,1,"#{""dustin.getz@gmail.com""}",2853.0,18
+Clojure,hyperfiddle,2023-04-10,1,1,"#{""dustin.getz@gmail.com""}",2854.0,18
+Clojure,hyperfiddle,2023-04-11,1,1,"#{""dustin.getz@gmail.com""}",2855.0,18
+Clojure,hyperfiddle,2023-04-12,3,1,"#{""dustin.getz@gmail.com""}",2858.0,18
+Clojure,hyperfiddle,2023-04-13,7,1,"#{""dustin.getz@gmail.com""}",2865.0,18
+Clojure,hyperfiddle,2023-04-24,2,1,"#{""ggaillard.cvl@gmail.com""}",2867.0,18
+Clojure,hyperfiddle,2023-04-26,1,1,"#{""ggaillard.cvl@gmail.com""}",2868.0,18
+Clojure,hyperfiddle,2023-04-27,1,1,"#{""ggaillard.cvl@gmail.com""}",2869.0,18
+Clojure,hyperfiddle,2023-05-04,4,1,"#{""ggaillard.cvl@gmail.com""}",2873.0,18
+Clojure,hyperfiddle,2023-05-05,1,1,"#{""dustin.getz@gmail.com""}",2874.0,18
+Clojure,hyperfiddle,2023-05-06,1,1,"#{""dustin.getz@gmail.com""}",2875.0,18
+Clojure,hyperfiddle,2023-05-09,6,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2881.0,18
+Clojure,hyperfiddle,2023-05-10,1,1,"#{""xificurC@gmail.com""}",2882.0,18
+Clojure,hyperfiddle,2023-05-12,2,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2884.0,18
+Clojure,hyperfiddle,2023-05-15,4,1,"#{""dustin.getz@gmail.com""}",2888.0,18
+Clojure,hyperfiddle,2023-05-16,10,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2898.0,18
+Clojure,hyperfiddle,2023-05-17,5,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2903.0,18
+Clojure,hyperfiddle,2023-05-18,1,1,"#{""xificurC@gmail.com""}",2904.0,18
+Clojure,hyperfiddle,2023-05-19,3,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2907.0,18
+Clojure,hyperfiddle,2023-05-22,3,1,"#{""ggaillard.cvl@gmail.com""}",2910.0,18
+Clojure,hyperfiddle,2023-05-23,3,3,"#{""xificurC@gmail.com"" ""ggeoffrey@users.noreply.github.com"" ""1815898+ribelo@users.noreply.github.com""}",2913.0,19
+Clojure,hyperfiddle,2023-05-31,1,1,"#{""xificurC@gmail.com""}",2914.0,19
+Clojure,hyperfiddle,2023-06-02,1,1,"#{""dustin.getz@gmail.com""}",2915.0,19
+Clojure,hyperfiddle,2023-06-05,6,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2921.0,19
+Clojure,hyperfiddle,2023-06-06,1,1,"#{""dustin.getz@gmail.com""}",2922.0,19
+Clojure,hyperfiddle,2023-06-07,1,1,"#{""xificurC@gmail.com""}",2923.0,19
+Clojure,hyperfiddle,2023-06-09,3,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2926.0,19
+Clojure,hyperfiddle,2023-06-12,1,1,"#{""xificurC@gmail.com""}",2927.0,19
+Clojure,hyperfiddle,2023-06-13,2,1,"#{""xificurC@gmail.com""}",2929.0,19
+Clojure,hyperfiddle,2023-06-14,2,1,"#{""xificurC@gmail.com""}",2931.0,19
+Clojure,hyperfiddle,2023-06-19,3,1,"#{""xificurC@gmail.com""}",2934.0,19
+Clojure,hyperfiddle,2023-06-21,2,2,"#{""jed.clinger@gmail.com"" ""dustin.getz@gmail.com""}",2936.0,20
+Clojure,hyperfiddle,2023-06-22,3,1,"#{""xificurC@gmail.com""}",2939.0,20
+Clojure,hyperfiddle,2023-06-23,1,1,"#{""xificurC@gmail.com""}",2940.0,20
+Clojure,hyperfiddle,2023-06-27,2,1,"#{""xificurC@gmail.com""}",2942.0,20
+Clojure,hyperfiddle,2023-06-28,2,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2944.0,20
+Clojure,hyperfiddle,2023-06-29,3,3,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",2947.0,20
+Clojure,hyperfiddle,2023-07-03,1,1,"#{""xificurC@gmail.com""}",2948.0,20
+Clojure,hyperfiddle,2023-07-06,8,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2956.0,20
+Clojure,hyperfiddle,2023-07-07,2,1,"#{""xificurC@gmail.com""}",2958.0,20
+Clojure,hyperfiddle,2023-07-12,1,1,"#{""ggaillard.cvl@gmail.com""}",2959.0,20
+Clojure,hyperfiddle,2023-07-14,3,1,"#{""dustin.getz@gmail.com""}",2962.0,20
+Clojure,hyperfiddle,2023-07-20,2,2,"#{""michielborkent@gmail.com"" ""dustin.getz@gmail.com""}",2964.0,20
+Clojure,hyperfiddle,2023-07-21,1,1,"#{""ggaillard.cvl@gmail.com""}",2965.0,20
+Clojure,hyperfiddle,2023-07-24,2,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2967.0,20
+Clojure,hyperfiddle,2023-07-26,3,2,"#{""ggaillard.cvl@gmail.com"" ""dustin.getz@gmail.com""}",2970.0,20
+Clojure,hyperfiddle,2023-07-27,1,1,"#{""ggaillard.cvl@gmail.com""}",2971.0,20
+Clojure,hyperfiddle,2023-07-28,2,2,"#{""mail@reilysiegel.com"" ""ggaillard.cvl@gmail.com""}",2973.0,21
+Clojure,hyperfiddle,2023-07-31,2,2,"#{""ggaillard.cvl@gmail.com"" ""garrett@garretthopper.com""}",2975.0,22
+Clojure,hyperfiddle,2023-08-01,3,1,"#{""ggaillard.cvl@gmail.com""}",2978.0,22
+Clojure,hyperfiddle,2023-08-04,1,1,"#{""xificurC@gmail.com""}",2979.0,22
+Clojure,hyperfiddle,2023-08-05,8,1,"#{""dustin.getz@gmail.com""}",2987.0,22
+Clojure,hyperfiddle,2023-08-06,2,1,"#{""dustin.getz@gmail.com""}",2989.0,22
+Clojure,hyperfiddle,2023-08-10,2,1,"#{""xificurC@gmail.com""}",2991.0,22
+Clojure,hyperfiddle,2023-08-14,4,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",2995.0,22
+Clojure,hyperfiddle,2023-08-15,1,1,"#{""xificurC@gmail.com""}",2996.0,22
+Clojure,hyperfiddle,2023-08-16,8,2,"#{""ggaillard.cvl@gmail.com"" ""xificurC@gmail.com""}",3004.0,22
+Clojure,hyperfiddle,2023-08-17,1,1,"#{""xificurC@gmail.com""}",3005.0,22
+Clojure,hyperfiddle,2023-08-18,7,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",3012.0,22
+Clojure,hyperfiddle,2023-08-19,1,1,"#{""dustin.getz@gmail.com""}",3013.0,22
+Clojure,hyperfiddle,2023-08-21,5,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",3018.0,22
+Clojure,hyperfiddle,2023-08-22,2,1,"#{""dustin.getz@gmail.com""}",3020.0,22
+Clojure,hyperfiddle,2023-08-24,3,2,"#{""xificurC@gmail.com"" ""dustin.getz@gmail.com""}",3023.0,22
+Clojure,hyperfiddle,2023-08-25,1,1,"#{""dustin.getz@gmail.com""}",3024.0,22
+Clojure,hyperfiddle,2023-08-26,1,1,"#{""dustin.getz@gmail.com""}",3025.0,22
+Clojure,hyperfiddle,2023-08-28,2,1,"#{""xificurC@gmail.com""}",3027.0,22
+Clojure,hyperfiddle,2023-08-30,3,1,"#{""ggaillard.cvl@gmail.com""}",3030.0,22
+Clojure,hyperfiddle,2023-08-31,1,1,"#{""ggaillard.cvl@gmail.com""}",3031.0,22
+Clojure,hyperfiddle,2023-09-04,1,1,"#{""ggaillard.cvl@gmail.com""}",3032.0,22
+Clojure,hyperfiddle,2023-09-08,1,1,"#{""xificurC@gmail.com""}",3033.0,22
+Clojure,hyperfiddle,2023-09-13,2,1,"#{""ggaillard.cvl@gmail.com""}",3035.0,22
+Clojure,hyperfiddle,2023-09-14,2,1,"#{""xificurC@gmail.com""}",3037.0,22
+Clojure,hyperfiddle,2023-09-20,3,1,"#{""contact@leonoel.fr""}",3040.0,22
+Clojure,hyperfiddle,2023-09-21,1,1,"#{""ggaillard.cvl@gmail.com""}",3041.0,22
+Clojure,hyperfiddle,2023-09-26,4,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",3045.0,22
+Clojure,hyperfiddle,2023-09-29,1,1,"#{""ggaillard.cvl@gmail.com""}",3046.0,22
+Clojure,hyperfiddle,2023-09-30,1,1,"#{""contact@leonoel.fr""}",3047.0,22
+Clojure,hyperfiddle,2023-10-05,6,2,"#{""ggaillard.cvl@gmail.com"" ""contact@leonoel.fr""}",3053.0,22
+Clojure,hyperfiddle,2023-10-06,1,1,"#{""ggaillard.cvl@gmail.com""}",3054.0,22
+Clojure,hyperfiddle,2023-10-18,1,1,"#{""ggaillard.cvl@gmail.com""}",3055.0,22
+Clojure,hyperfiddle,2023-10-27,2,1,"#{""ggaillard.cvl@gmail.com""}",3057.0,22
+Clojure,hyperfiddle,2023-11-07,4,1,"#{""dustin.getz@gmail.com""}",3061.0,22
+Clojure,hyperfiddle,2023-11-16,1,1,"#{""henrik@eneroth.com""}",3062.0,23
+Clojure,hyperfiddle,2023-11-22,1,1,"#{""xificurC@gmail.com""}",3063.0,23

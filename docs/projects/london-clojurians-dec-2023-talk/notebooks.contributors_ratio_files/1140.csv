@@ -1,0 +1,1831 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clojars/clojars-web,2009-11-12,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",8.0,[{1 8}],0,0,8,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-13,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",16.0,[{1 16}],0,0,16,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-14,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",21.0,[{1 21}],0,0,21,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",26.0,[{1 26}],0,0,26,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",27.0,[{1 27}],0,0,27,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",31.0,[{1 31}],0,0,31,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-18,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",40.0,[{1 40}],0,0,40,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-19,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",47.0,[{1 47}],0,0,47,0,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",50.0,"[{1 47, 2 3}]",0,0,47,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2009-11-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ato@meshy.org, ato@meshy.org]",52.0,"[{1 49, 2 3}]",0,0,49,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",53.0,"[{1 50, 2 3}]",0,0,50,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",54.0,"[{1 51, 2 3}]",0,0,51,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",55.0,"[{1 52, 2 3}]",0,0,52,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-10-08,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[jaderholm@gmail.com, jaderholm@gmail.com, jaderholm@gmail.com, jaderholm@gmail.com, ato@meshy.org, ato@meshy.org, ato@meshy.org]",62.0,"[{1 55, 2 3, ""other"" 4}]",4,0,55,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-10-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org]",65.0,"[{1 58, 2 3, ""other"" 4}]",4,0,58,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-10-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ato@meshy.org, ato@meshy.org]",67.0,"[{1 60, 2 3, ""other"" 4}]",4,0,60,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-11-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luke.renn@gmail.com]",68.0,"[{1 60, 2 3, ""other"" 5}]",5,0,60,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-11-14,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[luke.renn@gmail.com, ato@meshy.org, ato@meshy.org]",71.0,"[{1 62, 2 3, ""other"" 6}]",6,0,62,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[aosborne@nla.gov.au]",72.0,"[{1 62, 2 3, ""other"" 7}]",7,0,62,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-11-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[aosborne@nla.gov.au, islonscherer@gmail.com]",74.0,"[{1 62, 2 3, ""other"" 9}]",9,0,62,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-11-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[luke.renn@gmail.com, ato@meshy.org]",76.0,"[{1 63, 2 3, ""other"" 10}]",10,0,63,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-11-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",80.0,"[{1 67, 2 3, ""other"" 10}]",10,0,67,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2010-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",81.0,"[{1 68, 2 3, ""other"" 10}]",10,0,68,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[aosborne@nla.gov.au]",82.0,"[{1 68, 2 3, ""other"" 11}]",11,0,68,3,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",83.0,"[{1 68, 2 4, ""other"" 11}]",11,0,68,4,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-04-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mark@.(none), mark@.(none)]",85.0,"[{1 68, 2 4, ""other"" 13}]",13,0,68,4,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[aosborne@nla.gov.au]",86.0,"[{1 68, 2 4, ""other"" 14}]",14,0,68,4,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",87.0,"[{1 69, 2 4, ""other"" 14}]",14,0,69,4,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",88.0,"[{1 70, 2 4, ""other"" 14}]",14,0,70,4,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",89.0,"[{1 71, 2 4, ""other"" 14}]",14,0,71,4,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-08-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[pupeno@pupeno.com, pupeno@pupeno.com, pupeno@pupeno.com, pupeno@pupeno.com]",93.0,"[{1 71, 2 4, ""other"" 18}]",18,0,71,4,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-09-05,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",98.0,"[{1 71, 2 9, ""other"" 18}]",18,0,71,9,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato-github@meshy.org]",99.0,"[{1 71, 2 9, ""other"" 19}]",19,0,71,9,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",100.0,"[{1 72, 2 9, ""other"" 19}]",19,0,72,9,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",101.0,"[{1 72, 2 10, ""other"" 19}]",19,0,72,10,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-12-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",103.0,"[{1 72, 2 12, ""other"" 19}]",19,0,72,12,0,0
+Clojure,https://github.com/clojars/clojars-web,2011-12-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",108.0,"[{1 72, 2 17, ""other"" 19}]",19,0,72,17,0,0
+Clojure,https://github.com/clojars/clojars-web,2012-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",109.0,"[{1 72, 2 17, ""other"" 19, 3 1}]",19,0,72,17,1,0
+Clojure,https://github.com/clojars/clojars-web,2012-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",110.0,"[{1 72, 2 17, ""other"" 19, 3 2}]",19,0,72,17,2,0
+Clojure,https://github.com/clojars/clojars-web,2012-03-08,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[nmorris@nelsonmorris.net, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",116.0,"[{1 72, 2 22, ""other"" 19, 3 3}]",19,0,72,22,3,0
+Clojure,https://github.com/clojars/clojars-web,2012-03-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",121.0,"[{1 72, 2 27, ""other"" 19, 3 3}]",19,0,72,27,3,0
+Clojure,https://github.com/clojars/clojars-web,2012-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",122.0,"[{1 72, 2 28, ""other"" 19, 3 3}]",19,0,72,28,3,0
+Clojure,https://github.com/clojars/clojars-web,2012-03-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",124.0,"[{1 72, 2 28, ""other"" 19, 3 5}]",19,0,72,28,5,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",126.0,"[{1 72, 2 28, ""other"" 19, 3 7}]",19,0,72,28,7,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, ato-github@meshy.org]",128.0,"[{1 72, 2 28, ""other"" 20, 3 8}]",20,0,72,28,8,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",129.0,"[{1 72, 2 29, ""other"" 20, 3 8}]",20,0,72,29,8,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-08,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",132.0,"[{1 72, 2 30, ""other"" 20, 3 10}]",20,0,72,30,10,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-09,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, technomancy@gmail.com, technomancy@gmail.com, nmorris@nelsonmorris.net]",138.0,"[{1 72, 2 32, ""other"" 20, 3 14}]",20,0,72,32,14,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-10,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[ato-github@meshy.org, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, technomancy@gmail.com]",142.0,"[{1 72, 2 33, ""other"" 21, 3 16}]",21,0,72,33,16,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-11,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, aosborne@nla.gov.au, ato@meshy.org]",145.0,"[{1 73, 2 33, ""other"" 22, 3 17}]",22,0,73,33,17,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",147.0,"[{1 73, 2 33, ""other"" 22, 3 19}]",22,0,73,33,19,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-14,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",157.0,"[{1 81, 2 33, ""other"" 22, 3 21}]",22,0,81,33,21,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",158.0,"[{1 82, 2 33, ""other"" 22, 3 21}]",22,0,82,33,21,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",159.0,"[{1 82, 2 33, ""other"" 22, 3 22}]",22,0,82,33,22,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",160.0,"[{1 82, 2 34, ""other"" 22, 3 22}]",22,0,82,34,22,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",162.0,"[{1 82, 2 34, ""other"" 22, 3 24}]",22,0,82,34,24,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",163.0,"[{1 82, 2 34, ""other"" 22, 3 25}]",22,0,82,34,25,0
+Clojure,https://github.com/clojars/clojars-web,2012-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",165.0,"[{1 82, 2 34, ""other"" 22, 3 27}]",22,0,82,34,27,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",170.0,"[{1 82, 2 34, ""other"" 22, 3 32}]",22,0,82,34,32,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",171.0,"[{1 82, 2 34, ""other"" 22, 3 33}]",22,0,82,34,33,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",173.0,"[{1 82, 2 34, ""other"" 22, 3 35}]",22,0,82,34,35,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",175.0,"[{1 82, 2 34, ""other"" 22, 3 37}]",22,0,82,34,37,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",176.0,"[{1 82, 2 34, ""other"" 22, 3 38}]",22,0,82,34,38,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-14,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, technomancy@gmail.com, technomancy@gmail.com]",179.0,"[{1 82, 2 36, ""other"" 22, 3 39}]",22,0,82,36,39,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",182.0,"[{1 82, 2 36, ""other"" 22, 3 42}]",22,0,82,36,42,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",186.0,"[{1 82, 2 36, ""other"" 22, 3 46}]",22,0,82,36,46,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-26,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",191.0,"[{1 87, 2 36, ""other"" 22, 3 46}]",22,0,87,36,46,0
+Clojure,https://github.com/clojars/clojars-web,2012-05-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",193.0,"[{1 87, 2 36, ""other"" 22, 3 48}]",22,0,87,36,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-06-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",195.0,"[{1 87, 2 38, ""other"" 22, 3 48}]",22,0,87,38,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-06-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org]",198.0,"[{1 90, 2 38, ""other"" 22, 3 48}]",22,0,90,38,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-06-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[phil@hagelb.org, redchin@gmail.com]",200.0,"[{1 90, 2 38, ""other"" 24, 3 48}]",24,0,90,38,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ato@meshy.org, ato@meshy.org]",202.0,"[{1 92, 2 38, ""other"" 24, 3 48}]",24,0,92,38,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",205.0,"[{1 92, 2 41, ""other"" 24, 3 48}]",24,0,92,41,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",207.0,"[{1 92, 2 43, ""other"" 24, 3 48}]",24,0,92,43,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",210.0,"[{1 92, 2 46, ""other"" 24, 3 48}]",24,0,92,46,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[pair+gh+ld@thinkrelevance.com, pair+gh+ld@thinkrelevance.com, pair+gh+ld@thinkrelevance.com]",213.0,"[{1 92, 2 46, ""other"" 27, 3 48}]",27,0,92,46,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",218.0,"[{1 97, 2 46, ""other"" 27, 3 48}]",27,0,97,46,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-12,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",224.0,"[{1 97, 2 52, ""other"" 27, 3 48}]",27,0,97,52,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-13,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[ato@meshy.org, ato@meshy.org, gabriel.horner@gmail.com, gabriel.horner@gmail.com]",228.0,"[{1 99, 2 52, ""other"" 29, 3 48}]",29,0,99,52,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-27,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[pair+gh@thinkrelevance.com, pair+gh@thinkrelevance.com, pair+gh@thinkrelevance.com, pair+gh+rn@thinkrelevance.com, pair+gh+rn@thinkrelevance.com]",233.0,"[{1 99, 2 52, ""other"" 34, 3 48}]",34,0,99,52,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-28,12,3,"#tech.v3.dataset.column<string>[12]
+:email
+[gabriel.horner@gmail.com, gabriel.horner@gmail.com, gabriel.horner@gmail.com, gabriel.horner@gmail.com, technomancy@gmail.com, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",245.0,"[{1 106, 2 53, ""other"" 38, 3 48}]",38,0,106,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-29,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[ato@meshy.org, ato@meshy.org, gabriel.horner@gmail.com, gabriel.horner@gmail.com, ato@meshy.org, gabriel.horner@gmail.com, gabriel.horner@gmail.com, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",259.0,"[{1 116, 2 53, ""other"" 42, 3 48}]",42,0,116,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-07-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[aosborne@nla.gov.au, aosborne@nla.gov.au, aosborne@nla.gov.au, aosborne@nla.gov.au, aosborne@nla.gov.au]",264.0,"[{1 116, 2 53, ""other"" 47, 3 48}]",47,0,116,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ryan@thinkrelevance.com]",265.0,"[{1 116, 2 53, ""other"" 48, 3 48}]",48,0,116,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ryan@ryanneufeld.ca, ryan@ryanneufeld.ca]",267.0,"[{1 116, 2 53, ""other"" 50, 3 48}]",50,0,116,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-05,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ryan@ryanneufeld.ca, ryan@ryanneufeld.ca]",270.0,"[{1 117, 2 53, ""other"" 52, 3 48}]",52,0,117,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-06,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[ato@meshy.org, gabriel.horner@gmail.com, aosborne@nla.gov.au, aosborne@nla.gov.au]",274.0,"[{1 118, 2 53, ""other"" 55, 3 48}]",55,0,118,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ato@meshy.org, ato@meshy.org]",276.0,"[{1 120, 2 53, ""other"" 55, 3 48}]",55,0,120,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ato@meshy.org, jmg3000@gmail.com]",278.0,"[{1 121, 2 53, ""other"" 56, 3 48}]",56,0,121,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",284.0,"[{1 127, 2 53, ""other"" 56, 3 48}]",56,0,127,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-10,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[ato@meshy.org, gabriel.horner@gmail.com, ato@meshy.org, ato@meshy.org, ato@meshy.org, gabriel.horner@gmail.com, gabriel.horner@gmail.com]",291.0,"[{1 131, 2 53, ""other"" 59, 3 48}]",59,0,131,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org]",294.0,"[{1 134, 2 53, ""other"" 59, 3 48}]",59,0,134,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-12,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",304.0,"[{1 144, 2 53, ""other"" 59, 3 48}]",59,0,144,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gabriel.horner@gmail.com]",305.0,"[{1 144, 2 53, ""other"" 60, 3 48}]",60,0,144,53,48,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-17,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[gabriel.horner@gmail.com, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",310.0,"[{1 144, 2 53, ""other"" 61, 3 52}]",61,0,144,53,52,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[gabriel.horner@gmail.com, gabriel.horner@gmail.com, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",314.0,"[{1 144, 2 53, ""other"" 63, 3 54}]",63,0,144,53,54,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gabriel.horner@gmail.com]",315.0,"[{1 144, 2 53, ""other"" 64, 3 54}]",64,0,144,53,54,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",316.0,"[{1 144, 2 53, ""other"" 64, 3 55}]",64,0,144,53,55,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gabriel.horner@gmail.com]",317.0,"[{1 144, 2 53, ""other"" 65, 3 55}]",65,0,144,53,55,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gabriel.horner@gmail.com]",318.0,"[{1 144, 2 53, ""other"" 66, 3 55}]",66,0,144,53,55,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[gabriel.horner@gmail.com, gabriel.horner@gmail.com, gabriel.horner@gmail.com, gabriel.horner@gmail.com]",322.0,"[{1 144, 2 53, ""other"" 70, 3 55}]",70,0,144,53,55,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-24,17,2,"#tech.v3.dataset.column<string>[17]
+:email
+[ato@meshy.org, gabriel.horner@gmail.com, gabriel.horner@gmail.com, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, gabriel.horner@gmail.com, gabriel.horner@gmail.com]",339.0,"[{1 157, 2 53, ""other"" 74, 3 55}]",74,0,157,53,55,0
+Clojure,https://github.com/clojars/clojars-web,2012-08-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",343.0,"[{1 161, 2 53, ""other"" 74, 3 55}]",74,0,161,53,55,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",344.0,"[{1 161, 2 53, ""other"" 74, 3 56}]",74,0,161,53,56,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",345.0,"[{1 161, 2 53, ""other"" 74, 3 57}]",74,0,161,53,57,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",347.0,"[{1 161, 2 53, ""other"" 74, 3 59}]",74,0,161,53,59,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",348.0,"[{1 161, 2 53, ""other"" 74, 3 60}]",74,0,161,53,60,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[gabriel.horner@gmail.com, gabriel.horner@gmail.com]",350.0,"[{1 161, 2 53, ""other"" 76, 3 60}]",76,0,161,53,60,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",351.0,"[{1 161, 2 53, ""other"" 76, 3 61}]",76,0,161,53,61,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",352.0,"[{1 161, 2 54, ""other"" 76, 3 61}]",76,0,161,54,61,0
+Clojure,https://github.com/clojars/clojars-web,2012-09-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",354.0,"[{1 161, 2 56, ""other"" 76, 3 61}]",76,0,161,56,61,0
+Clojure,https://github.com/clojars/clojars-web,2012-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",355.0,"[{1 161, 2 57, ""other"" 76, 3 61}]",76,0,161,57,61,0
+Clojure,https://github.com/clojars/clojars-web,2012-10-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",360.0,"[{1 161, 2 62, ""other"" 76, 3 61}]",76,0,161,62,61,0
+Clojure,https://github.com/clojars/clojars-web,2012-10-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",363.0,"[{1 161, 2 65, ""other"" 76, 3 61}]",76,0,161,65,61,0
+Clojure,https://github.com/clojars/clojars-web,2012-10-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",365.0,"[{1 161, 2 67, ""other"" 76, 3 61}]",76,0,161,67,61,0
+Clojure,https://github.com/clojars/clojars-web,2012-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",366.0,"[{1 161, 2 67, ""other"" 76, 3 62}]",76,0,161,67,62,0
+Clojure,https://github.com/clojars/clojars-web,2012-11-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",370.0,"[{1 161, 2 71, ""other"" 76, 3 62}]",76,0,161,71,62,0
+Clojure,https://github.com/clojars/clojars-web,2012-11-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",372.0,"[{1 161, 2 73, ""other"" 76, 3 62}]",76,0,161,73,62,0
+Clojure,https://github.com/clojars/clojars-web,2012-11-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",374.0,"[{1 161, 2 75, ""other"" 76, 3 62}]",76,0,161,75,62,0
+Clojure,https://github.com/clojars/clojars-web,2012-11-17,10,3,"#tech.v3.dataset.column<string>[10]
+:email
+[lee@writequit.org, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",384.0,"[{1 161, 2 81, ""other"" 77, 3 65}]",77,0,161,81,65,0
+Clojure,https://github.com/clojars/clojars-web,2012-11-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, phil@hagelb.org]",386.0,"[{1 161, 2 81, ""other"" 78, 3 66}]",78,0,161,81,66,0
+Clojure,https://github.com/clojars/clojars-web,2012-11-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",388.0,"[{1 161, 2 83, ""other"" 78, 3 66}]",78,0,161,83,66,0
+Clojure,https://github.com/clojars/clojars-web,2012-11-21,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, technomancy@gmail.com, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",393.0,"[{1 161, 2 84, ""other"" 78, 3 70}]",78,0,161,84,70,0
+Clojure,https://github.com/clojars/clojars-web,2012-12-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",397.0,"[{1 161, 2 84, ""other"" 78, 3 74}]",78,0,161,84,74,0
+Clojure,https://github.com/clojars/clojars-web,2012-12-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",398.0,"[{1 161, 2 84, ""other"" 78, 3 75}]",78,0,161,84,75,0
+Clojure,https://github.com/clojars/clojars-web,2012-12-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",400.0,"[{1 161, 2 84, ""other"" 78, 3 77}]",78,0,161,84,77,0
+Clojure,https://github.com/clojars/clojars-web,2012-12-26,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, technomancy@gmail.com]",405.0,"[{1 161, 2 85, ""other"" 78, 3 81}]",78,0,161,85,81,0
+Clojure,https://github.com/clojars/clojars-web,2012-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",407.0,"[{1 161, 2 87, ""other"" 78, 3 81}]",78,0,161,87,81,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",408.0,"[{1 161, 2 88, ""other"" 78, 3 81}]",78,0,161,88,81,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, technomancy@gmail.com]",410.0,"[{1 161, 2 90, ""other"" 78, 3 81}]",78,0,161,90,81,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",413.0,"[{1 161, 2 93, ""other"" 78, 3 81}]",78,0,161,93,81,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",416.0,"[{1 161, 2 96, ""other"" 78, 3 81}]",78,0,161,96,81,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-07,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",426.0,"[{1 161, 2 106, ""other"" 78, 3 81}]",78,0,161,106,81,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-08,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",439.0,"[{1 161, 2 117, ""other"" 78, 3 83}]",78,0,161,117,83,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-13,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",445.0,"[{1 161, 2 117, ""other"" 78, 3 89}]",78,0,161,117,89,0
+Clojure,https://github.com/clojars/clojars-web,2013-01-31,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",454.0,"[{1 161, 2 122, ""other"" 78, 3 93}]",78,0,161,122,93,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",455.0,"[{1 161, 2 122, ""other"" 78, 3 93, 0 1}]",78,1,161,122,93,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",456.0,"[{1 161, 2 122, ""other"" 78, 3 93, 0 2}]",78,2,161,122,93,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, toby@tcrawley.org, toby@tcrawley.org]",459.0,"[{1 161, 2 123, ""other"" 78, 3 93, 0 4}]",78,4,161,123,93,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-05,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, phil@hagelb.org, phil@hagelb.org]",463.0,"[{1 161, 2 125, ""other"" 80, 3 93, 0 4}]",80,4,161,125,93,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[technomancy@gmail.com, toby@tcrawley.org, technomancy@gmail.com, technomancy@gmail.com]",467.0,"[{1 161, 2 128, ""other"" 80, 3 93, 0 5}]",80,5,161,128,93,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",468.0,"[{1 161, 2 128, ""other"" 80, 3 94, 0 5}]",80,5,161,128,94,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",470.0,"[{1 161, 2 128, ""other"" 80, 3 96, 0 5}]",80,5,161,128,96,0
+Clojure,https://github.com/clojars/clojars-web,2013-02-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",475.0,"[{1 161, 2 128, ""other"" 80, 3 101, 0 5}]",80,5,161,128,101,0
+Clojure,https://github.com/clojars/clojars-web,2013-04-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",477.0,"[{1 161, 2 128, ""other"" 80, 3 103, 0 5}]",80,5,161,128,103,0
+Clojure,https://github.com/clojars/clojars-web,2013-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",478.0,"[{1 161, 2 129, ""other"" 80, 3 103, 0 5}]",80,5,161,129,103,0
+Clojure,https://github.com/clojars/clojars-web,2013-05-09,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[technomancy@gmail.com, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",484.0,"[{1 161, 2 133, ""other"" 80, 3 105, 0 5}]",80,5,161,133,105,0
+Clojure,https://github.com/clojars/clojars-web,2013-05-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",486.0,"[{1 161, 2 133, ""other"" 80, 3 107, 0 5}]",80,5,161,133,107,0
+Clojure,https://github.com/clojars/clojars-web,2013-05-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",488.0,"[{1 161, 2 133, ""other"" 80, 3 109, 0 5}]",80,5,161,133,109,0
+Clojure,https://github.com/clojars/clojars-web,2013-05-13,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[nmorris@nelsonmorris.net, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",497.0,"[{1 161, 2 141, ""other"" 80, 3 110, 0 5}]",80,5,161,141,110,0
+Clojure,https://github.com/clojars/clojars-web,2013-05-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",500.0,"[{1 161, 2 144, ""other"" 80, 3 110, 0 5}]",80,5,161,144,110,0
+Clojure,https://github.com/clojars/clojars-web,2013-05-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul.a.bellamy@gmail.com]",501.0,"[{1 161, 2 144, ""other"" 81, 3 110, 0 5}]",81,5,161,144,110,0
+Clojure,https://github.com/clojars/clojars-web,2013-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",502.0,"[{1 161, 2 144, ""other"" 81, 3 111, 0 5}]",81,5,161,144,111,0
+Clojure,https://github.com/clojars/clojars-web,2013-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@bytopia.org]",503.0,"[{1 161, 2 144, ""other"" 82, 3 111, 0 5}]",82,5,161,144,111,0
+Clojure,https://github.com/clojars/clojars-web,2013-09-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",505.0,"[{1 161, 2 144, ""other"" 82, 3 113, 0 5}]",82,5,161,144,113,0
+Clojure,https://github.com/clojars/clojars-web,2013-10-07,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",510.0,"[{1 161, 2 144, ""other"" 82, 3 118, 0 5}]",82,5,161,144,118,0
+Clojure,https://github.com/clojars/clojars-web,2013-10-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com, technomancy@gmail.com]",514.0,"[{1 161, 2 148, ""other"" 82, 3 118, 0 5}]",82,5,161,148,118,0
+Clojure,https://github.com/clojars/clojars-web,2013-10-20,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[technomancy@gmail.com, technomancy@gmail.com, phil@hagelb.org, phil@hagelb.org]",518.0,"[{1 161, 2 150, ""other"" 84, 3 118, 0 5}]",84,5,161,150,118,0
+Clojure,https://github.com/clojars/clojars-web,2013-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",519.0,"[{1 161, 2 150, ""other"" 85, 3 118, 0 5}]",85,5,161,150,118,0
+Clojure,https://github.com/clojars/clojars-web,2013-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",520.0,"[{1 162, 2 150, ""other"" 85, 3 118, 0 5}]",85,5,162,150,118,0
+Clojure,https://github.com/clojars/clojars-web,2013-11-04,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",527.0,"[{1 169, 2 150, ""other"" 85, 3 118, 0 5}]",85,5,169,150,118,0
+Clojure,https://github.com/clojars/clojars-web,2013-11-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ato@meshy.org, ato@meshy.org]",529.0,"[{1 171, 2 150, ""other"" 85, 3 118, 0 5}]",85,5,171,150,118,0
+Clojure,https://github.com/clojars/clojars-web,2013-11-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",533.0,"[{1 175, 2 150, ""other"" 85, 3 118, 0 5}]",85,5,175,150,118,0
+Clojure,https://github.com/clojars/clojars-web,2014-01-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",535.0,"[{1 175, 2 150, ""other"" 85, 3 120, 0 5}]",85,5,175,150,120,0
+Clojure,https://github.com/clojars/clojars-web,2014-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",536.0,"[{1 175, 2 150, ""other"" 85, 3 121, 0 5}]",85,5,175,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-05-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tgaleckas@groupon.com]",537.0,"[{1 175, 2 150, ""other"" 86, 3 121, 0 5}]",86,5,175,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-05-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[aosborne@nla.gov.au, ato@meshy.org]",539.0,"[{1 176, 2 150, ""other"" 87, 3 121, 0 5}]",87,5,176,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-05-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jjwiseman@gmail.com]",540.0,"[{1 176, 2 150, ""other"" 88, 3 121, 0 5}]",88,5,176,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-05-17,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",545.0,"[{1 181, 2 150, ""other"" 88, 3 121, 0 5}]",88,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[devinw@gmail.com]",546.0,"[{1 181, 2 150, ""other"" 89, 3 121, 0 5}]",89,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-05,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com]",559.0,"[{1 181, 2 150, ""other"" 102, 3 121, 0 5}]",102,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-06,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[devinw@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com]",564.0,"[{1 181, 2 150, ""other"" 107, 3 121, 0 5}]",107,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randomenduser@gmail.com]",565.0,"[{1 181, 2 150, ""other"" 108, 3 121, 0 5}]",108,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-09,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[wstrinz@gmail.com, wstrinz@gmail.com, randomenduser@gmail.com, wstrinz@gmail.com, wstrinz@gmail.com]",570.0,"[{1 181, 2 150, ""other"" 113, 3 121, 0 5}]",113,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-10,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com]",582.0,"[{1 181, 2 150, ""other"" 125, 3 121, 0 5}]",125,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-11,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[wstrinz@gmail.com, wstrinz@gmail.com, devinw@gmail.com, devinw@gmail.com, devinw@gmail.com, wstrinz@gmail.com, wstrinz@gmail.com, randomenduser@gmail.com]",590.0,"[{1 181, 2 150, ""other"" 133, 3 121, 0 5}]",133,5,181,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-12,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[aosborne@nla.gov.au, aosborne@nla.gov.au, ato@meshy.org]",593.0,"[{1 182, 2 150, ""other"" 135, 3 121, 0 5}]",135,5,182,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[devinw@gmail.com, devinw@gmail.com, wstrinz@gmail.com]",596.0,"[{1 182, 2 150, ""other"" 138, 3 121, 0 5}]",138,5,182,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",600.0,"[{1 186, 2 150, ""other"" 138, 3 121, 0 5}]",138,5,186,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-15,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com]",606.0,"[{1 186, 2 150, ""other"" 144, 3 121, 0 5}]",144,5,186,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org]",609.0,"[{1 189, 2 150, ""other"" 144, 3 121, 0 5}]",144,5,189,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-17,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[ato@meshy.org, ato@meshy.org, randomenduser@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com]",614.0,"[{1 191, 2 150, ""other"" 147, 3 121, 0 5}]",147,5,191,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-06-22,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org, ato@meshy.org]",623.0,"[{1 200, 2 150, ""other"" 147, 3 121, 0 5}]",147,5,200,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.griffiths@nokia.com]",624.0,"[{1 200, 2 150, ""other"" 148, 3 121, 0 5}]",148,5,200,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-07-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ato@meshy.org]",625.0,"[{1 201, 2 150, ""other"" 148, 3 121, 0 5}]",148,5,201,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[devinw@gmail.com]",626.0,"[{1 201, 2 150, ""other"" 149, 3 121, 0 5}]",149,5,201,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-07-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org]",629.0,"[{1 204, 2 150, ""other"" 149, 3 121, 0 5}]",149,5,204,150,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-07-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[technomancy@gmail.com, randomenduser@gmail.com, randomenduser@gmail.com]",632.0,"[{1 204, 2 151, ""other"" 151, 3 121, 0 5}]",151,5,204,151,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randomenduser@gmail.com]",633.0,"[{1 204, 2 151, ""other"" 152, 3 121, 0 5}]",152,5,204,151,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-07-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org]",636.0,"[{1 207, 2 151, ""other"" 152, 3 121, 0 5}]",152,5,207,151,121,0
+Clojure,https://github.com/clojars/clojars-web,2014-08-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",639.0,"[{1 207, 2 151, ""other"" 152, 3 124, 0 5}]",152,5,207,151,124,0
+Clojure,https://github.com/clojars/clojars-web,2014-08-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",643.0,"[{1 207, 2 151, ""other"" 152, 3 128, 0 5}]",152,5,207,151,128,0
+Clojure,https://github.com/clojars/clojars-web,2014-10-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hugo.firth@gmail.com, hugo.firth@gmail.com]",645.0,"[{1 207, 2 151, ""other"" 154, 3 128, 0 5}]",154,5,207,151,128,0
+Clojure,https://github.com/clojars/clojars-web,2014-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",646.0,"[{1 207, 2 151, ""other"" 154, 3 129, 0 5}]",154,5,207,151,129,0
+Clojure,https://github.com/clojars/clojars-web,2014-10-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hugo.firth@gmail.com, hugo.firth@gmail.com]",648.0,"[{1 207, 2 151, ""other"" 156, 3 129, 0 5}]",156,5,207,151,129,0
+Clojure,https://github.com/clojars/clojars-web,2014-10-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hugo.firth@gmail.com, hugo.firth@gmail.com]",650.0,"[{1 207, 2 151, ""other"" 158, 3 129, 0 5}]",158,5,207,151,129,0
+Clojure,https://github.com/clojars/clojars-web,2014-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",651.0,"[{1 207, 2 151, ""other"" 158, 3 130, 0 5}]",158,5,207,151,130,0
+Clojure,https://github.com/clojars/clojars-web,2014-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[technomancy@gmail.com]",652.0,"[{1 207, 2 152, ""other"" 158, 3 130, 0 5}]",158,5,207,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2014-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bauer.vlad@gmail.com]",653.0,"[{1 207, 2 152, ""other"" 159, 3 130, 0 5}]",159,5,207,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-01-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",655.0,"[{1 207, 2 152, ""other"" 161, 3 130, 0 5}]",161,5,207,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-03-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ato@meshy.org, ato@meshy.org, ato@meshy.org]",658.0,"[{1 210, 2 152, ""other"" 161, 3 130, 0 5}]",161,5,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asimic@gmail.com]",659.0,"[{1 210, 2 152, ""other"" 162, 3 130, 0 5}]",162,5,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",660.0,"[{1 210, 2 152, ""other"" 162, 3 130, 0 6}]",162,6,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",661.0,"[{1 210, 2 152, ""other"" 162, 3 130, 0 7}]",162,7,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-13,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",667.0,"[{1 210, 2 152, ""other"" 162, 3 130, 0 13}]",162,13,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, asimic@gmail.com]",669.0,"[{1 210, 2 152, ""other"" 163, 3 130, 0 14}]",163,14,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",673.0,"[{1 210, 2 152, ""other"" 163, 3 130, 0 18}]",163,18,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",677.0,"[{1 210, 2 152, ""other"" 167, 3 130, 0 18}]",167,18,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",679.0,"[{1 210, 2 152, ""other"" 169, 3 130, 0 18}]",169,18,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[john.beppu@gmail.com]",680.0,"[{1 210, 2 152, ""other"" 170, 3 130, 0 18}]",170,18,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",683.0,"[{1 210, 2 152, ""other"" 170, 3 130, 0 21}]",170,21,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-04-30,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",691.0,"[{1 210, 2 152, ""other"" 170, 3 130, 0 29}]",170,29,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",692.0,"[{1 210, 2 152, ""other"" 170, 3 130, 0 30}]",170,30,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",696.0,"[{1 210, 2 152, ""other"" 170, 3 130, 0 34}]",170,34,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juho.teperi@iki.fi]",697.0,"[{1 210, 2 152, ""other"" 171, 3 130, 0 34}]",171,34,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",698.0,"[{1 210, 2 152, ""other"" 171, 3 130, 0 35}]",171,35,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",701.0,"[{1 210, 2 152, ""other"" 171, 3 130, 0 38}]",171,38,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-14,19,2,"#tech.v3.dataset.column<string>[19]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, juho.teperi@iki.fi, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, juho.teperi@iki.fi, juho.teperi@iki.fi, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, juho.teperi@iki.fi]",720.0,"[{1 210, 2 152, ""other"" 175, 3 130, 0 53}]",175,53,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-16,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, juho.teperi@iki.fi]",725.0,"[{1 210, 2 152, ""other"" 176, 3 130, 0 57}]",176,57,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-05-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",728.0,"[{1 210, 2 152, ""other"" 176, 3 130, 0 60}]",176,60,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-06-01,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",738.0,"[{1 210, 2 152, ""other"" 176, 3 130, 0 70}]",176,70,210,152,130,0
+Clojure,https://github.com/clojars/clojars-web,2015-07-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",739.0,"[{1 210, 2 152, ""other"" 176, 3 130, 0 70, 4 1}]",176,70,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-07-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",741.0,"[{1 210, 2 152, ""other"" 176, 3 130, 0 72, 4 1}]",176,72,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-07-14,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, tcrayford@googlemail.com]",747.0,"[{1 210, 2 152, ""other"" 177, 3 130, 0 77, 4 1}]",177,77,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",748.0,"[{1 210, 2 152, ""other"" 177, 3 130, 0 78, 4 1}]",177,78,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-07-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",751.0,"[{1 210, 2 152, ""other"" 177, 3 130, 0 81, 4 1}]",177,81,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-07-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[john.beppu@gmail.com, john.beppu@gmail.com]",753.0,"[{1 210, 2 152, ""other"" 179, 3 130, 0 81, 4 1}]",179,81,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-07-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",758.0,"[{1 210, 2 152, ""other"" 179, 3 130, 0 86, 4 1}]",179,86,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",759.0,"[{1 210, 2 152, ""other"" 179, 3 130, 0 87, 4 1}]",179,87,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-08-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",761.0,"[{1 210, 2 152, ""other"" 179, 3 130, 0 89, 4 1}]",179,89,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-08-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",763.0,"[{1 210, 2 152, ""other"" 179, 3 130, 0 91, 4 1}]",179,91,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-09-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",767.0,"[{1 210, 2 152, ""other"" 179, 3 130, 0 95, 4 1}]",179,95,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-09-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nicoberger@gmail.com, nicoberger@gmail.com, nicoberger@gmail.com]",770.0,"[{1 210, 2 152, ""other"" 182, 3 130, 0 95, 4 1}]",182,95,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-09-21,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",776.0,"[{1 210, 2 152, ""other"" 182, 3 130, 0 101, 4 1}]",182,101,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",777.0,"[{1 210, 2 152, ""other"" 182, 3 130, 0 102, 4 1}]",182,102,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",778.0,"[{1 210, 2 152, ""other"" 182, 3 130, 0 103, 4 1}]",182,103,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asimic@gmail.com]",779.0,"[{1 210, 2 152, ""other"" 183, 3 130, 0 103, 4 1}]",183,103,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",780.0,"[{1 210, 2 152, ""other"" 183, 3 130, 0 104, 4 1}]",183,104,210,152,130,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",783.0,"[{1 210, 2 152, ""other"" 183, 3 133, 0 104, 4 1}]",183,104,210,152,133,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",785.0,"[{1 210, 2 152, ""other"" 183, 3 135, 0 104, 4 1}]",183,104,210,152,135,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-17,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",790.0,"[{1 210, 2 152, ""other"" 183, 3 136, 0 108, 4 1}]",183,108,210,152,136,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-19,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, nmorris@nelsonmorris.net]",795.0,"[{1 210, 2 152, ""other"" 183, 3 138, 0 111, 4 1}]",183,111,210,152,138,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",796.0,"[{1 210, 2 152, ""other"" 183, 3 139, 0 111, 4 1}]",183,111,210,152,139,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",798.0,"[{1 210, 2 152, ""other"" 183, 3 141, 0 111, 4 1}]",183,111,210,152,141,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",799.0,"[{1 210, 2 152, ""other"" 183, 3 142, 0 111, 4 1}]",183,111,210,152,142,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",801.0,"[{1 210, 2 152, ""other"" 183, 3 144, 0 111, 4 1}]",183,111,210,152,144,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",802.0,"[{1 210, 2 152, ""other"" 183, 3 144, 0 112, 4 1}]",183,112,210,152,144,1
+Clojure,https://github.com/clojars/clojars-web,2015-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",803.0,"[{1 210, 2 152, ""other"" 183, 3 144, 0 113, 4 1}]",183,113,210,152,144,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",805.0,"[{1 210, 2 152, ""other"" 183, 3 146, 0 113, 4 1}]",183,113,210,152,146,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",807.0,"[{1 210, 2 152, ""other"" 183, 3 148, 0 113, 4 1}]",183,113,210,152,148,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",809.0,"[{1 210, 2 152, ""other"" 183, 3 148, 0 115, 4 1}]",183,115,210,152,148,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, nmorris@nelsonmorris.net]",811.0,"[{1 210, 2 152, ""other"" 183, 3 149, 0 116, 4 1}]",183,116,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-16,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",824.0,"[{1 210, 2 152, ""other"" 183, 3 149, 0 129, 4 1}]",183,129,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",825.0,"[{1 210, 2 152, ""other"" 183, 3 149, 0 130, 4 1}]",183,130,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",827.0,"[{1 210, 2 152, ""other"" 183, 3 149, 0 132, 4 1}]",183,132,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-22,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",833.0,"[{1 210, 2 152, ""other"" 183, 3 149, 0 138, 4 1}]",183,138,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-11-24,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, j.dharrie@gmail.com, toby@tcrawley.org]",838.0,"[{1 210, 2 152, ""other"" 184, 3 149, 0 142, 4 1}]",184,142,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",839.0,"[{1 210, 2 152, ""other"" 184, 3 149, 0 143, 4 1}]",184,143,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-12-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",844.0,"[{1 210, 2 152, ""other"" 184, 3 149, 0 148, 4 1}]",184,148,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-12-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",846.0,"[{1 210, 2 152, ""other"" 184, 3 149, 0 150, 4 1}]",184,150,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",847.0,"[{1 210, 2 152, ""other"" 184, 3 149, 0 151, 4 1}]",184,151,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-12-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",848.0,"[{1 210, 2 152, ""other"" 184, 3 149, 0 152, 4 1}]",184,152,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2015-12-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",850.0,"[{1 210, 2 152, ""other"" 184, 3 149, 0 154, 4 1}]",184,154,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, hey@vito.io]",852.0,"[{1 210, 2 152, ""other"" 185, 3 149, 0 155, 4 1}]",185,155,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andy.chambers@fundingcircle.com]",853.0,"[{1 210, 2 152, ""other"" 186, 3 149, 0 155, 4 1}]",186,155,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-04,9,3,"#tech.v3.dataset.column<string>[9]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, andy.chambers@fundingcircle.com, hey@vito.io, hey@vito.io, hey@vito.io, hey@vito.io, hey@vito.io, hey@vito.io]",862.0,"[{1 210, 2 152, ""other"" 193, 3 149, 0 157, 4 1}]",193,157,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",865.0,"[{1 210, 2 152, ""other"" 193, 3 149, 0 160, 4 1}]",193,160,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",866.0,"[{1 210, 2 152, ""other"" 193, 3 149, 0 161, 4 1}]",193,161,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-09,9,3,"#tech.v3.dataset.column<string>[9]
+:email
+[jjwiseman@gmail.com, jjwiseman@gmail.com, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, asimic@gmail.com, asimic@gmail.com]",875.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 166, 4 1}]",197,166,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",876.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 167, 4 1}]",197,167,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",877.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 168, 4 1}]",197,168,210,152,149,1
+Clojure,https://github.com/clojars/clojars-web,2016-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",878.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 168, 4 2}]",197,168,210,152,149,2
+Clojure,https://github.com/clojars/clojars-web,2016-01-14,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",892.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 179, 4 5}]",197,179,210,152,149,5
+Clojure,https://github.com/clojars/clojars-web,2016-01-15,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",898.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 179, 4 11}]",197,179,210,152,149,11
+Clojure,https://github.com/clojars/clojars-web,2016-01-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, desk@danielcompton.net]",900.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 180, 4 12}]",197,180,210,152,149,12
+Clojure,https://github.com/clojars/clojars-web,2016-01-17,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",905.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 185, 4 12}]",197,185,210,152,149,12
+Clojure,https://github.com/clojars/clojars-web,2016-01-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",907.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 187, 4 12}]",197,187,210,152,149,12
+Clojure,https://github.com/clojars/clojars-web,2016-01-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",909.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 189, 4 12}]",197,189,210,152,149,12
+Clojure,https://github.com/clojars/clojars-web,2016-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",910.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 190, 4 12}]",197,190,210,152,149,12
+Clojure,https://github.com/clojars/clojars-web,2016-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",911.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 190, 4 13}]",197,190,210,152,149,13
+Clojure,https://github.com/clojars/clojars-web,2016-02-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",914.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 190, 4 16}]",197,190,210,152,149,16
+Clojure,https://github.com/clojars/clojars-web,2016-02-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, desk@danielcompton.net]",916.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 190, 4 18}]",197,190,210,152,149,18
+Clojure,https://github.com/clojars/clojars-web,2016-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",917.0,"[{1 210, 2 152, ""other"" 197, 3 149, 0 190, 4 19}]",197,190,210,152,149,19
+Clojure,https://github.com/clojars/clojars-web,2016-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[karimair@gmail.com]",918.0,"[{1 210, 2 152, ""other"" 198, 3 149, 0 190, 4 19}]",198,190,210,152,149,19
+Clojure,https://github.com/clojars/clojars-web,2016-02-11,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",930.0,"[{1 210, 2 152, ""other"" 198, 3 149, 0 190, 4 31}]",198,190,210,152,149,31
+Clojure,https://github.com/clojars/clojars-web,2016-02-12,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",935.0,"[{1 210, 2 152, ""other"" 198, 3 149, 0 190, 4 36}]",198,190,210,152,149,36
+Clojure,https://github.com/clojars/clojars-web,2016-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",936.0,"[{1 210, 2 152, ""other"" 198, 3 149, 0 190, 4 37}]",198,190,210,152,149,37
+Clojure,https://github.com/clojars/clojars-web,2016-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",937.0,"[{1 210, 2 152, ""other"" 198, 3 149, 0 191, 4 37}]",198,191,210,152,149,37
+Clojure,https://github.com/clojars/clojars-web,2016-02-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[moredhel@aoeu.me, moredhel@aoeu.me, moredhel@aoeu.me]",940.0,"[{1 210, 2 152, ""other"" 201, 3 149, 0 191, 4 37}]",201,191,210,152,149,37
+Clojure,https://github.com/clojars/clojars-web,2016-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",941.0,"[{1 210, 2 152, ""other"" 201, 3 149, 0 191, 4 38}]",201,191,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-02-24,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[tomjkidd@gmail.com, tomjkidd@gmail.com, tomjkidd@gmail.com, tomjkidd@gmail.com, toby@tcrawley.org]",946.0,"[{1 210, 2 152, ""other"" 205, 3 149, 0 192, 4 38}]",205,192,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-02-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tomjkidd@gmail.com, tomjkidd@gmail.com, tomjkidd@gmail.com]",949.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 192, 4 38}]",208,192,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-03-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",952.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 195, 4 38}]",208,195,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-03-08,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",960.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 203, 4 38}]",208,203,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",961.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 204, 4 38}]",208,204,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-03-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",962.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 205, 4 38}]",208,205,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-03-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",964.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 207, 4 38}]",208,207,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-04-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",966.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 209, 4 38}]",208,209,210,152,149,38
+Clojure,https://github.com/clojars/clojars-web,2016-04-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, desk@danielcompton.net]",969.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 211, 4 39}]",208,211,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-04-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",972.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 214, 4 39}]",208,214,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",974.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 216, 4 39}]",208,216,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",975.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 217, 4 39}]",208,217,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-05-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",976.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 218, 4 39}]",208,218,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-05-05,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",981.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 223, 4 39}]",208,223,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",982.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 224, 4 39}]",208,224,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",983.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 225, 4 39}]",208,225,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",984.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 226, 4 39}]",208,226,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",987.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 229, 4 39}]",208,229,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",989.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 231, 4 39}]",208,231,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",990.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 232, 4 39}]",208,232,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",992.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 234, 4 39}]",208,234,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",995.0,"[{1 210, 2 152, ""other"" 208, 3 149, 0 237, 4 39}]",208,237,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-23,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, k@karlis.me, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1000.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 241, 4 39}]",209,241,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1004.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 245, 4 39}]",209,245,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-06-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1006.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 247, 4 39}]",209,247,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1007.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 248, 4 39}]",209,248,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-07-18,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1013.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 254, 4 39}]",209,254,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-07-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1014.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 255, 4 39}]",209,255,210,152,149,39
+Clojure,https://github.com/clojars/clojars-web,2016-07-26,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",1022.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 255, 4 47}]",209,255,210,152,149,47
+Clojure,https://github.com/clojars/clojars-web,2016-08-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1026.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 259, 4 47}]",209,259,210,152,149,47
+Clojure,https://github.com/clojars/clojars-web,2016-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1027.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 259, 4 48}]",209,259,210,152,149,48
+Clojure,https://github.com/clojars/clojars-web,2016-08-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1029.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 261, 4 48}]",209,261,210,152,149,48
+Clojure,https://github.com/clojars/clojars-web,2016-08-27,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1034.0,"[{1 210, 2 152, ""other"" 209, 3 149, 0 266, 4 48}]",209,266,210,152,149,48
+Clojure,https://github.com/clojars/clojars-web,2016-08-29,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, cortex@brainonfire.net]",1037.0,"[{1 210, 2 152, ""other"" 210, 3 149, 0 268, 4 48}]",210,268,210,152,149,48
+Clojure,https://github.com/clojars/clojars-web,2016-09-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1038.0,"[{1 210, 2 152, ""other"" 210, 3 149, 0 269, 4 48}]",210,269,210,152,149,48
+Clojure,https://github.com/clojars/clojars-web,2016-09-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",1043.0,"[{1 210, 2 152, ""other"" 210, 3 149, 0 269, 4 53}]",210,269,210,152,149,53
+Clojure,https://github.com/clojars/clojars-web,2016-09-20,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, desk@danielcompton.net]",1046.0,"[{1 210, 2 152, ""other"" 210, 3 149, 0 271, 4 54}]",210,271,210,152,149,54
+Clojure,https://github.com/clojars/clojars-web,2016-09-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1048.0,"[{1 210, 2 152, ""other"" 210, 3 149, 0 273, 4 54}]",210,273,210,152,149,54
+Clojure,https://github.com/clojars/clojars-web,2016-09-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1050.0,"[{1 210, 2 152, ""other"" 210, 3 149, 0 275, 4 54}]",210,275,210,152,149,54
+Clojure,https://github.com/clojars/clojars-web,2016-10-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1053.0,"[{1 210, 2 152, ""other"" 210, 3 149, 0 278, 4 54}]",210,278,210,152,149,54
+Clojure,https://github.com/clojars/clojars-web,2016-10-02,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[liam@lfn3.net, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, liam@lfn3.net, liam@lfn3.net]",1059.0,"[{1 210, 2 152, ""other"" 213, 3 149, 0 281, 4 54}]",213,281,210,152,149,54
+Clojure,https://github.com/clojars/clojars-web,2016-10-04,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[mynomoto@gmail.com, mynomoto@gmail.com, toby@tcrawley.org, toby@tcrawley.org]",1063.0,"[{1 210, 2 152, ""other"" 215, 3 149, 0 283, 4 54}]",215,283,210,152,149,54
+Clojure,https://github.com/clojars/clojars-web,2016-10-05,7,4,"#tech.v3.dataset.column<string>[7]
+:email
+[github.com-clojars-web@sgerrand.com, toby@tcrawley.org, arron@mabreys.com, arron@mabreys.com, toby@tcrawley.org, desk@danielcompton.net, desk@danielcompton.net]",1070.0,"[{1 210, 2 152, ""other"" 218, 3 149, 0 285, 4 56}]",218,285,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-10-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[spencercrissman@users.noreply.github.com, karimair@gmail.com]",1072.0,"[{1 210, 2 152, ""other"" 220, 3 149, 0 285, 4 56}]",220,285,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1073.0,"[{1 210, 2 152, ""other"" 220, 3 149, 0 286, 4 56}]",220,286,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-10-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, orendon@gmail.com, toby@tcrawley.org]",1077.0,"[{1 210, 2 152, ""other"" 221, 3 149, 0 289, 4 56}]",221,289,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[liam@lfn3.net]",1078.0,"[{1 210, 2 152, ""other"" 222, 3 149, 0 289, 4 56}]",222,289,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-10-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kahunamoore@gmail.com]",1079.0,"[{1 210, 2 152, ""other"" 223, 3 149, 0 289, 4 56}]",223,289,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[manifesto@manifesto.blog.br]",1080.0,"[{1 210, 2 152, ""other"" 224, 3 149, 0 289, 4 56}]",224,289,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-10-26,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, mynomoto@gmail.com]",1086.0,"[{1 210, 2 152, ""other"" 225, 3 149, 0 294, 4 56}]",225,294,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-11-06,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1093.0,"[{1 210, 2 152, ""other"" 225, 3 149, 0 301, 4 56}]",225,301,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-11-10,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1098.0,"[{1 210, 2 152, ""other"" 225, 3 149, 0 306, 4 56}]",225,306,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-11-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1104.0,"[{1 210, 2 152, ""other"" 225, 3 149, 0 312, 4 56}]",225,312,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1105.0,"[{1 210, 2 152, ""other"" 225, 3 149, 0 313, 4 56}]",225,313,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-11-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1107.0,"[{1 210, 2 152, ""other"" 225, 3 149, 0 315, 4 56}]",225,315,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1108.0,"[{1 210, 2 152, ""other"" 225, 3 149, 0 316, 4 56}]",225,316,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kimsnj@users.noreply.github.com]",1109.0,"[{1 210, 2 152, ""other"" 226, 3 149, 0 316, 4 56}]",226,316,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-12-27,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1118.0,"[{1 210, 2 152, ""other"" 226, 3 149, 0 325, 4 56}]",226,325,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-12-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1120.0,"[{1 210, 2 152, ""other"" 226, 3 149, 0 327, 4 56}]",226,327,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2016-12-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1124.0,"[{1 210, 2 152, ""other"" 226, 3 149, 0 331, 4 56}]",226,331,210,152,149,56
+Clojure,https://github.com/clojars/clojars-web,2017-01-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, desk@danielcompton.net]",1126.0,"[{1 210, 2 152, ""other"" 226, 3 149, 0 331, 4 58}]",226,331,210,152,149,58
+Clojure,https://github.com/clojars/clojars-web,2017-03-04,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, sean@corfield.org, randomenduser@gmail.com]",1129.0,"[{1 210, 2 152, ""other"" 228, 3 149, 0 332, 4 58}]",228,332,210,152,149,58
+Clojure,https://github.com/clojars/clojars-web,2017-03-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[technomancy@gmail.com, phil@hagelb.org]",1131.0,"[{1 210, 2 153, ""other"" 229, 3 149, 0 332, 4 58}]",229,332,210,153,149,58
+Clojure,https://github.com/clojars/clojars-web,2017-03-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",1134.0,"[{1 210, 2 153, ""other"" 229, 3 149, 0 332, 4 61}]",229,332,210,153,149,61
+Clojure,https://github.com/clojars/clojars-web,2017-03-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1137.0,"[{1 210, 2 153, ""other"" 229, 3 149, 0 335, 4 61}]",229,335,210,153,149,61
+Clojure,https://github.com/clojars/clojars-web,2017-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1138.0,"[{1 210, 2 153, ""other"" 229, 3 149, 0 336, 4 61}]",229,336,210,153,149,61
+Clojure,https://github.com/clojars/clojars-web,2017-03-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1140.0,"[{1 210, 2 153, ""other"" 229, 3 149, 0 338, 4 61}]",229,338,210,153,149,61
+Clojure,https://github.com/clojars/clojars-web,2017-04-25,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, phil@hagelb.org, phil@hagelb.org]",1144.0,"[{1 210, 2 153, ""other"" 231, 3 149, 0 340, 4 61}]",231,340,210,153,149,61
+Clojure,https://github.com/clojars/clojars-web,2017-05-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1147.0,"[{1 210, 2 153, ""other"" 231, 3 149, 0 343, 4 61}]",231,343,210,153,149,61
+Clojure,https://github.com/clojars/clojars-web,2017-05-16,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1153.0,"[{1 210, 2 153, ""other"" 231, 3 149, 0 349, 4 61}]",231,349,210,153,149,61
+Clojure,https://github.com/clojars/clojars-web,2017-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1154.0,"[{1 210, 2 153, ""other"" 231, 3 149, 0 349, 4 62}]",231,349,210,153,149,62
+Clojure,https://github.com/clojars/clojars-web,2017-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1155.0,"[{1 210, 2 153, ""other"" 231, 3 149, 0 349, 4 63}]",231,349,210,153,149,63
+Clojure,https://github.com/clojars/clojars-web,2017-06-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[martinklepsch@googlemail.com]",1156.0,"[{1 210, 2 153, ""other"" 232, 3 149, 0 349, 4 63}]",232,349,210,153,149,63
+Clojure,https://github.com/clojars/clojars-web,2017-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[martinklepsch@googlemail.com]",1157.0,"[{1 210, 2 153, ""other"" 233, 3 149, 0 349, 4 63}]",233,349,210,153,149,63
+Clojure,https://github.com/clojars/clojars-web,2017-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1158.0,"[{1 210, 2 153, ""other"" 233, 3 149, 0 349, 4 64}]",233,349,210,153,149,64
+Clojure,https://github.com/clojars/clojars-web,2017-07-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, desk@danielcompton.net, desk@danielcompton.net]",1161.0,"[{1 210, 2 153, ""other"" 233, 3 149, 0 350, 4 66}]",233,350,210,153,149,66
+Clojure,https://github.com/clojars/clojars-web,2017-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1162.0,"[{1 210, 2 153, ""other"" 233, 3 149, 0 351, 4 66}]",233,351,210,153,149,66
+Clojure,https://github.com/clojars/clojars-web,2017-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1163.0,"[{1 210, 2 153, ""other"" 233, 3 149, 0 351, 4 67}]",233,351,210,153,149,67
+Clojure,https://github.com/clojars/clojars-web,2017-07-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1164.0,"[{1 210, 2 153, ""other"" 233, 3 149, 0 352, 4 67}]",233,352,210,153,149,67
+Clojure,https://github.com/clojars/clojars-web,2017-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1165.0,"[{1 210, 2 153, ""other"" 233, 3 149, 0 352, 4 68}]",233,352,210,153,149,68
+Clojure,https://github.com/clojars/clojars-web,2017-11-27,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[phil@hagelb.org, phil@hagelb.org, phil@hagelb.org, toby@tcrawley.org]",1169.0,"[{1 210, 2 153, ""other"" 236, 3 149, 0 353, 4 68}]",236,353,210,153,149,68
+Clojure,https://github.com/clojars/clojars-web,2017-11-28,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[phil@hagelb.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1174.0,"[{1 210, 2 153, ""other"" 237, 3 149, 0 357, 4 68}]",237,357,210,153,149,68
+Clojure,https://github.com/clojars/clojars-web,2017-11-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1175.0,"[{1 210, 2 153, ""other"" 237, 3 149, 0 357, 4 69}]",237,357,210,153,149,69
+Clojure,https://github.com/clojars/clojars-web,2017-11-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, desk@danielcompton.net]",1177.0,"[{1 210, 2 153, ""other"" 237, 3 149, 0 357, 4 71}]",237,357,210,153,149,71
+Clojure,https://github.com/clojars/clojars-web,2017-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[shafeeq94@gmail.com]",1178.0,"[{1 210, 2 153, ""other"" 238, 3 149, 0 357, 4 71}]",238,357,210,153,149,71
+Clojure,https://github.com/clojars/clojars-web,2017-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[shafeeq94@gmail.com]",1179.0,"[{1 210, 2 153, ""other"" 239, 3 149, 0 357, 4 71}]",239,357,210,153,149,71
+Clojure,https://github.com/clojars/clojars-web,2017-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[shaaz.ahmed@hotmail.com]",1180.0,"[{1 210, 2 153, ""other"" 240, 3 149, 0 357, 4 71}]",240,357,210,153,149,71
+Clojure,https://github.com/clojars/clojars-web,2017-12-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dbuergin@gluet.ch, dbuergin@gluet.ch]",1182.0,"[{1 210, 2 153, ""other"" 242, 3 149, 0 357, 4 71}]",242,357,210,153,149,71
+Clojure,https://github.com/clojars/clojars-web,2017-12-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, desk@danielcompton.net]",1184.0,"[{1 210, 2 153, ""other"" 242, 3 149, 0 357, 4 73}]",242,357,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2017-12-28,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, phil@hagelb.org]",1189.0,"[{1 210, 2 153, ""other"" 243, 3 149, 0 361, 4 73}]",243,361,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2017-12-29,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[shaaz.ahmed@hotmail.com, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1195.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 366, 4 73}]",244,366,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2017-12-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1196.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 367, 4 73}]",244,367,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2017-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1197.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 368, 4 73}]",244,368,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2018-01-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1199.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 370, 4 73}]",244,370,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2018-01-06,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1205.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 376, 4 73}]",244,376,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2018-03-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1208.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 379, 4 73}]",244,379,210,153,149,73
+Clojure,https://github.com/clojars/clojars-web,2018-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1209.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 379, 4 74}]",244,379,210,153,149,74
+Clojure,https://github.com/clojars/clojars-web,2018-03-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",1212.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 379, 4 77}]",244,379,210,153,149,77
+Clojure,https://github.com/clojars/clojars-web,2018-04-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",1215.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 379, 4 80}]",244,379,210,153,149,80
+Clojure,https://github.com/clojars/clojars-web,2018-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1216.0,"[{1 210, 2 153, ""other"" 244, 3 149, 0 379, 4 81}]",244,379,210,153,149,81
+Clojure,https://github.com/clojars/clojars-web,2018-05-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[io@henrian.com, io@henrian.com]",1218.0,"[{1 210, 2 153, ""other"" 246, 3 149, 0 379, 4 81}]",246,379,210,153,149,81
+Clojure,https://github.com/clojars/clojars-web,2018-05-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1219.0,"[{1 210, 2 153, ""other"" 246, 3 149, 0 380, 4 81}]",246,380,210,153,149,81
+Clojure,https://github.com/clojars/clojars-web,2018-05-30,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[martinklepsch@googlemail.com, martinklepsch@googlemail.com, toby@tcrawley.org]",1222.0,"[{1 210, 2 153, ""other"" 248, 3 149, 0 381, 4 81}]",248,381,210,153,149,81
+Clojure,https://github.com/clojars/clojars-web,2019-01-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1223.0,"[{1 210, 2 153, ""other"" 248, 3 149, 0 381, 4 82}]",248,381,210,153,149,82
+Clojure,https://github.com/clojars/clojars-web,2019-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1224.0,"[{1 210, 2 153, ""other"" 248, 3 149, 0 381, 4 83}]",248,381,210,153,149,83
+Clojure,https://github.com/clojars/clojars-web,2019-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1225.0,"[{1 210, 2 153, ""other"" 248, 3 149, 0 381, 4 84}]",248,381,210,153,149,84
+Clojure,https://github.com/clojars/clojars-web,2019-05-24,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",1231.0,"[{1 210, 2 153, ""other"" 248, 3 149, 0 381, 4 90}]",248,381,210,153,149,90
+Clojure,https://github.com/clojars/clojars-web,2019-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lda@juxt.pro]",1232.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 381, 4 90}]",249,381,210,153,149,90
+Clojure,https://github.com/clojars/clojars-web,2019-12-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",1233.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 381, 4 91}]",249,381,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2019-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1234.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 382, 4 91}]",249,382,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2019-12-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1236.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 384, 4 91}]",249,384,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2019-12-24,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1243.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 391, 4 91}]",249,391,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2019-12-26,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1249.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 397, 4 91}]",249,397,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2019-12-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1252.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 400, 4 91}]",249,400,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2019-12-31,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1262.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 410, 4 91}]",249,410,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-01-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1264.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 412, 4 91}]",249,412,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1266.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 414, 4 91}]",249,414,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1267.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 415, 4 91}]",249,415,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-01-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1272.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 420, 4 91}]",249,420,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-01-26,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1277.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 425, 4 91}]",249,425,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-01-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1278.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 426, 4 91}]",249,426,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-01-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1280.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 428, 4 91}]",249,428,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-01,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1294.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 442, 4 91}]",249,442,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1296.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 444, 4 91}]",249,444,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-03,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1304.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 452, 4 91}]",249,452,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1310.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 458, 4 91}]",249,458,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-09,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1320.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 468, 4 91}]",249,468,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1325.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 473, 4 91}]",249,473,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1328.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 476, 4 91}]",249,476,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1329.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 477, 4 91}]",249,477,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1331.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 479, 4 91}]",249,479,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-20,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1339.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 487, 4 91}]",249,487,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-02-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1340.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 488, 4 91}]",249,488,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-03-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1343.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 491, 4 91}]",249,491,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-03-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1349.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 497, 4 91}]",249,497,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-03-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1352.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 500, 4 91}]",249,500,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-03-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1357.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 505, 4 91}]",249,505,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1358.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 506, 4 91}]",249,506,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1359.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 507, 4 91}]",249,507,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-04-26,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1364.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 512, 4 91}]",249,512,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1365.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 513, 4 91}]",249,513,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1367.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 515, 4 91}]",249,515,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1370.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 518, 4 91}]",249,518,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-03,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1379.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 527, 4 91}]",249,527,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1380.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 528, 4 91}]",249,528,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1382.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 530, 4 91}]",249,530,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1385.0,"[{1 210, 2 153, ""other"" 249, 3 149, 0 533, 4 91}]",249,533,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, aeriksson@users.noreply.github.com]",1388.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 535, 4 91}]",250,535,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1390.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 537, 4 91}]",250,537,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1392.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 539, 4 91}]",250,539,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-05-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1395.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 542, 4 91}]",250,542,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1396.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 543, 4 91}]",250,543,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-06-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1398.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 545, 4 91}]",250,545,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-06-13,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1408.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 555, 4 91}]",250,555,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-06-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1414.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 561, 4 91}]",250,561,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-06-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1417.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 564, 4 91}]",250,564,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-06-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1422.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 569, 4 91}]",250,569,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-06-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1425.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 572, 4 91}]",250,572,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-07-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1427.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 574, 4 91}]",250,574,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-07-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1431.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 578, 4 91}]",250,578,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-07-07,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1438.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 585, 4 91}]",250,585,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-07-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1441.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 588, 4 91}]",250,588,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1442.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 589, 4 91}]",250,589,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-07-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1445.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 592, 4 91}]",250,592,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-07-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1449.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 596, 4 91}]",250,596,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1450.0,"[{1 210, 2 153, ""other"" 250, 3 149, 0 597, 4 91}]",250,597,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[renatoalencar.73@gmail.com]",1451.0,"[{1 210, 2 153, ""other"" 251, 3 149, 0 597, 4 91}]",251,597,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-11-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[renatoalencar.73@gmail.com, renatoalencar.73@gmail.com, renatoalencar.73@gmail.com, renatoalencar.73@gmail.com]",1455.0,"[{1 210, 2 153, ""other"" 255, 3 149, 0 597, 4 91}]",255,597,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-11-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[renatoalencar.73@gmail.com, renatoalencar.73@gmail.com]",1457.0,"[{1 210, 2 153, ""other"" 257, 3 149, 0 597, 4 91}]",257,597,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-11-07,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1462.0,"[{1 210, 2 153, ""other"" 257, 3 149, 0 602, 4 91}]",257,602,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-11-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, monroef4+github@gmail.com]",1464.0,"[{1 210, 2 153, ""other"" 258, 3 149, 0 603, 4 91}]",258,603,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-11-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[renatoalencar.73@gmail.com]",1465.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 603, 4 91}]",259,603,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-11-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1468.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 606, 4 91}]",259,606,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-12-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1471.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 609, 4 91}]",259,609,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2020-12-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1474.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 612, 4 91}]",259,612,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-02-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1477.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 615, 4 91}]",259,615,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-02-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1479.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 617, 4 91}]",259,617,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-02-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1481.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 619, 4 91}]",259,619,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-02-27,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1488.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 626, 4 91}]",259,626,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-03-06,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1494.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 632, 4 91}]",259,632,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-03-07,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1501.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 639, 4 91}]",259,639,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-03-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1503.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 641, 4 91}]",259,641,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-03-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1508.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 646, 4 91}]",259,646,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-03-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1512.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 650, 4 91}]",259,650,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-03-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1515.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 653, 4 91}]",259,653,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-03-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1517.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 655, 4 91}]",259,655,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1518.0,"[{1 210, 2 153, ""other"" 259, 3 149, 0 656, 4 91}]",259,656,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, conao3@gmail.com]",1520.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 657, 4 91}]",260,657,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1521.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 658, 4 91}]",260,658,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1522.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 659, 4 91}]",260,659,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1523.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 660, 4 91}]",260,660,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1525.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 662, 4 91}]",260,662,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1527.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 664, 4 91}]",260,664,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-04-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1530.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 667, 4 91}]",260,667,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-05-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1533.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 670, 4 91}]",260,670,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1534.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 671, 4 91}]",260,671,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-06-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1540.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 677, 4 91}]",260,677,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-06-18,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1551.0,"[{1 210, 2 153, ""other"" 260, 3 149, 0 688, 4 91}]",260,688,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-06-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, johnnyjayjay02@gmail.com]",1553.0,"[{1 210, 2 153, ""other"" 261, 3 149, 0 689, 4 91}]",261,689,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-07-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1555.0,"[{1 210, 2 153, ""other"" 261, 3 149, 0 691, 4 91}]",261,691,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1556.0,"[{1 210, 2 153, ""other"" 261, 3 149, 0 692, 4 91}]",261,692,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-08-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1558.0,"[{1 210, 2 153, ""other"" 261, 3 149, 0 694, 4 91}]",261,694,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1559.0,"[{1 210, 2 153, ""other"" 261, 3 149, 0 695, 4 91}]",261,695,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-08-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1563.0,"[{1 210, 2 153, ""other"" 261, 3 149, 0 699, 4 91}]",261,699,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-09-02,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[timothypratley@gmail.com, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, timothypratley@gmail.com]",1568.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 702, 4 91}]",263,702,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1569.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 703, 4 91}]",263,703,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1570.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 704, 4 91}]",263,704,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-09-13,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1578.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 712, 4 91}]",263,712,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-09-25,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1584.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 718, 4 91}]",263,718,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-10-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1587.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 721, 4 91}]",263,721,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-10-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1588.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 722, 4 91}]",263,722,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-10-27,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1601.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 735, 4 91}]",263,735,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1602.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 736, 4 91}]",263,736,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-10-31,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1610.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 744, 4 91}]",263,744,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1611.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 745, 4 91}]",263,745,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-12-27,19,1,"#tech.v3.dataset.column<string>[19]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1630.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 764, 4 91}]",263,764,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-12-28,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1640.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 774, 4 91}]",263,774,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-12-29,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1645.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 779, 4 91}]",263,779,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2021-12-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1649.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 783, 4 91}]",263,783,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1650.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 784, 4 91}]",263,784,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1651.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 785, 4 91}]",263,785,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-01-17,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1658.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 792, 4 91}]",263,792,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-01-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1662.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 796, 4 91}]",263,796,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-02-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1665.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 799, 4 91}]",263,799,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1666.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 800, 4 91}]",263,800,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-02-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1668.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 802, 4 91}]",263,802,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1669.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 803, 4 91}]",263,803,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1670.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 804, 4 91}]",263,804,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-03-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1673.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 807, 4 91}]",263,807,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-03-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1677.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 811, 4 91}]",263,811,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-03-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1679.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 813, 4 91}]",263,813,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-03-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1681.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 815, 4 91}]",263,815,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-03-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1685.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 819, 4 91}]",263,819,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-03-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1687.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 821, 4 91}]",263,821,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1688.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 822, 4 91}]",263,822,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1689.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 823, 4 91}]",263,823,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-04-04,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1694.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 828, 4 91}]",263,828,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-04-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1697.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 831, 4 91}]",263,831,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-04-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1700.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 834, 4 91}]",263,834,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-04-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1703.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 837, 4 91}]",263,837,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-04-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1706.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 840, 4 91}]",263,840,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1707.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 841, 4 91}]",263,841,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-05-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1710.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 844, 4 91}]",263,844,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-05-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1713.0,"[{1 210, 2 153, ""other"" 263, 3 149, 0 847, 4 91}]",263,847,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-05-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, kamilwaheed0@gmail.com, kamilwaheed0@gmail.com]",1716.0,"[{1 210, 2 153, ""other"" 265, 3 149, 0 848, 4 91}]",265,848,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-05-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1718.0,"[{1 210, 2 153, ""other"" 265, 3 149, 0 850, 4 91}]",265,850,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1719.0,"[{1 210, 2 153, ""other"" 265, 3 149, 0 851, 4 91}]",265,851,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1723.0,"[{1 210, 2 153, ""other"" 265, 3 149, 0 855, 4 91}]",265,855,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@victor.earth]",1724.0,"[{1 210, 2 153, ""other"" 266, 3 149, 0 855, 4 91}]",266,855,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1727.0,"[{1 210, 2 153, ""other"" 266, 3 149, 0 858, 4 91}]",266,858,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1730.0,"[{1 210, 2 153, ""other"" 266, 3 149, 0 861, 4 91}]",266,861,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-17,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[kayulai2@gmail.com, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1738.0,"[{1 210, 2 153, ""other"" 267, 3 149, 0 868, 4 91}]",267,868,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-18,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, kayulai2@gmail.com, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1746.0,"[{1 210, 2 153, ""other"" 268, 3 149, 0 875, 4 91}]",268,875,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1747.0,"[{1 210, 2 153, ""other"" 268, 3 149, 0 876, 4 91}]",268,876,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1748.0,"[{1 210, 2 153, ""other"" 268, 3 149, 0 877, 4 91}]",268,877,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1749.0,"[{1 210, 2 153, ""other"" 268, 3 149, 0 878, 4 91}]",268,878,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1753.0,"[{1 210, 2 153, ""other"" 268, 3 149, 0 882, 4 91}]",268,882,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1754.0,"[{1 210, 2 153, ""other"" 268, 3 149, 0 883, 4 91}]",268,883,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-07-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1757.0,"[{1 210, 2 153, ""other"" 268, 3 149, 0 886, 4 91}]",268,886,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-08-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[andrew@ajoberstar.org, andrew@ajoberstar.org]",1759.0,"[{1 210, 2 153, ""other"" 270, 3 149, 0 886, 4 91}]",270,886,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-08-13,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, andrew@ajoberstar.org, toby@tcrawley.org]",1764.0,"[{1 210, 2 153, ""other"" 271, 3 149, 0 890, 4 91}]",271,890,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-08-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1768.0,"[{1 210, 2 153, ""other"" 271, 3 149, 0 894, 4 91}]",271,894,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-08-21,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1774.0,"[{1 210, 2 153, ""other"" 271, 3 149, 0 900, 4 91}]",271,900,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-08-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1776.0,"[{1 210, 2 153, ""other"" 271, 3 149, 0 902, 4 91}]",271,902,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-08-29,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, jaw@juxt.pro]",1779.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 904, 4 91}]",272,904,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-10-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1783.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 908, 4 91}]",272,908,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-10-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1786.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 911, 4 91}]",272,911,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-10-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1789.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 914, 4 91}]",272,914,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-10-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1792.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 917, 4 91}]",272,917,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-11-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1794.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 919, 4 91}]",272,919,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1796.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 921, 4 91}]",272,921,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1798.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 923, 4 91}]",272,923,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1799.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 924, 4 91}]",272,924,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1802.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 927, 4 91}]",272,927,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-23,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1809.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 934, 4 91}]",272,934,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1810.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 935, 4 91}]",272,935,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1814.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 939, 4 91}]",272,939,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2022-12-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1815.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 940, 4 91}]",272,940,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2023-01-01,23,1,"#tech.v3.dataset.column<string>[23]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org...]",1838.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 963, 4 91}]",272,963,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2023-01-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1844.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 969, 4 91}]",272,969,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2023-01-31,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1849.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 974, 4 91}]",272,974,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2023-02-01,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1854.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 979, 4 91}]",272,979,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2023-02-03,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1858.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 983, 4 91}]",272,983,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2023-02-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1862.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 987, 4 91}]",272,987,210,153,149,91
+Clojure,https://github.com/clojars/clojars-web,2023-03-09,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, desk@danielcompton.net]",1866.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 990, 4 92}]",272,990,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-04-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1870.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 994, 4 92}]",272,994,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-04-30,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1878.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1002, 4 92}]",272,1002,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-03,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1883.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1007, 4 92}]",272,1007,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1885.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1009, 4 92}]",272,1009,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1886.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1010, 4 92}]",272,1010,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1887.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1011, 4 92}]",272,1011,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1888.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1012, 4 92}]",272,1012,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-12,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1899.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1023, 4 92}]",272,1023,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1902.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1026, 4 92}]",272,1026,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-20,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1907.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1031, 4 92}]",272,1031,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1908.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1032, 4 92}]",272,1032,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1911.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1035, 4 92}]",272,1035,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-05-23,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1921.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1045, 4 92}]",272,1045,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-06-02,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1928.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1052, 4 92}]",272,1052,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-06-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1931.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1055, 4 92}]",272,1055,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-06-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",1932.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1056, 4 92}]",272,1056,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-06-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1936.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1060, 4 92}]",272,1060,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-06-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1941.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1065, 4 92}]",272,1065,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-07-02,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1951.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1075, 4 92}]",272,1075,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-07-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",1953.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1077, 4 92}]",272,1077,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-07-04,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1959.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1083, 4 92}]",272,1083,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-07-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1963.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1087, 4 92}]",272,1087,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-07-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1967.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1091, 4 92}]",272,1091,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-08-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1971.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1095, 4 92}]",272,1095,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-08-10,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1976.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1100, 4 92}]",272,1100,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-08-12,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1984.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1108, 4 92}]",272,1108,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-08-19,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",1992.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1116, 4 92}]",272,1116,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-08-20,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",2001.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1125, 4 92}]",272,1125,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",2002.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1126, 4 92}]",272,1126,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-09-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",2005.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1129, 4 92}]",272,1129,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-09-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",2007.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1131, 4 92}]",272,1131,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",2008.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1132, 4 92}]",272,1132,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-10-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[toby@tcrawley.org, toby@tcrawley.org]",2010.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1134, 4 92}]",272,1134,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-10-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org, toby@tcrawley.org]",2014.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1138, 4 92}]",272,1138,210,153,149,92
+Clojure,https://github.com/clojars/clojars-web,2023-11-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toby@tcrawley.org]",2015.0,"[{1 210, 2 153, ""other"" 272, 3 149, 0 1139, 4 92}]",272,1139,210,153,149,92

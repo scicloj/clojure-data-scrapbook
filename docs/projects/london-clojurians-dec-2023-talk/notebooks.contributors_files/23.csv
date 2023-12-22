@@ -1,0 +1,267 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,dropbox,2012-04-19,9,2,"#{""akhil@Akhil-Wable.local"" ""awable@gmail.com""}",9.0,2
+Python,dropbox,2012-04-20,2,1,"#{""awable@gmail.com""}",11.0,2
+Python,dropbox,2012-04-24,1,1,"#{""awable@gmail.com""}",12.0,2
+Python,dropbox,2012-05-02,2,1,"#{""awable@gmail.com""}",14.0,2
+Python,dropbox,2012-05-09,7,1,"#{""awable@gmail.com""}",21.0,2
+Python,dropbox,2012-05-10,2,2,"#{""tido@dropbox.com"" ""akhil@dropbox.com""}",23.0,4
+Python,dropbox,2012-05-11,2,1,"#{""tido@dropbox.com""}",25.0,4
+Python,dropbox,2012-05-14,1,1,"#{""tido@dropbox.com""}",26.0,4
+Python,dropbox,2012-05-16,1,1,"#{""rajeev@dropbox.com""}",27.0,5
+Python,dropbox,2012-05-23,1,1,"#{""akhil@dropbox.com""}",28.0,5
+Python,dropbox,2012-05-24,2,1,"#{""akhil@dropbox.com""}",30.0,5
+Python,dropbox,2012-05-29,1,1,"#{""ben@dropbox.com""}",31.0,6
+Python,dropbox,2012-06-04,3,1,"#{""akhil@dropbox.com""}",34.0,6
+Python,dropbox,2012-06-05,1,1,"#{""akhil@dropbox.com""}",35.0,6
+Python,dropbox,2012-06-06,1,1,"#{""akhil@dropbox.com""}",36.0,6
+Python,dropbox,2012-06-07,1,1,"#{""akhil@dropbox.com""}",37.0,6
+Python,dropbox,2012-06-12,2,1,"#{""akhil@dropbox.com""}",39.0,6
+Python,dropbox,2012-06-15,2,1,"#{""akhil@dropbox.com""}",41.0,6
+Python,dropbox,2012-06-16,2,2,"#{""chris@dropbox.com"" ""alexallain@dropbox.com""}",43.0,8
+Python,dropbox,2012-06-25,1,1,"#{""akhil@dropbox.com""}",44.0,8
+Python,dropbox,2012-06-27,4,2,"#{""akhil@dropbox.com"" ""victor@dropbox.com""}",48.0,9
+Python,dropbox,2012-07-06,3,2,"#{""akhil@dropbox.com"" ""alexallain@dropbox.com""}",51.0,9
+Python,dropbox,2012-07-30,1,1,"#{""akhilg@dropbox.com""}",52.0,10
+Python,dropbox,2012-08-07,1,1,"#{""ziga@dropbox.com""}",53.0,11
+Python,dropbox,2012-08-14,1,1,"#{""akhilg@dropbox.com""}",54.0,11
+Python,dropbox,2012-08-29,2,1,"#{""scott@dropbox.com""}",56.0,12
+Python,dropbox,2012-08-31,1,1,"#{""akhil@dropbox.com""}",57.0,12
+Python,dropbox,2012-09-05,1,1,"#{""akhil@dropbox.com""}",58.0,12
+Python,dropbox,2012-09-22,1,1,"#{""jboning@gmail.com""}",59.0,13
+Python,dropbox,2012-09-27,2,1,"#{""akhil@dropbox.com""}",61.0,13
+Python,dropbox,2012-10-05,2,1,"#{""chub@dropbox.com""}",63.0,14
+Python,dropbox,2012-10-24,1,1,"#{""trevor@dropbox.com""}",64.0,15
+Python,dropbox,2012-11-05,1,1,"#{""sujayakar@dropbox.com""}",65.0,16
+Python,dropbox,2012-11-07,1,1,"#{""nikrad@dropbox.com""}",66.0,17
+Python,dropbox,2012-11-08,1,1,"#{""prha@dropbox.com""}",67.0,18
+Python,dropbox,2012-11-12,1,1,"#{""sujayakar@dropbox.com""}",68.0,18
+Python,dropbox,2012-11-27,1,1,"#{""teisenberger@dropbox.com""}",69.0,19
+Python,dropbox,2012-12-13,1,1,"#{""rian@dropbox.com""}",70.0,20
+Python,dropbox,2012-12-17,1,1,"#{""rk@dropbox.com""}",71.0,21
+Python,dropbox,2013-01-17,1,1,"#{""fta@dropbox.com""}",72.0,22
+Python,dropbox,2013-02-07,1,1,"#{""guido@dropbox.com""}",73.0,23
+Python,dropbox,2013-02-09,2,1,"#{""awable@gmail.com""}",75.0,23
+Python,dropbox,2013-02-23,1,1,"#{""lowe@mit.edu""}",76.0,24
+Python,dropbox,2013-03-04,1,1,"#{""prha@dropbox.com""}",77.0,24
+Python,dropbox,2013-03-05,1,1,"#{""jonv@dropbox.com""}",78.0,25
+Python,dropbox,2013-03-28,1,1,"#{""josiah@dropbox.com""}",79.0,26
+Python,dropbox,2013-04-16,1,1,"#{""dima@dropbox.com""}",80.0,27
+Python,dropbox,2013-04-22,1,1,"#{""josiah@dropbox.com""}",81.0,27
+Python,dropbox,2013-04-27,3,1,"#{""frew@dropbox.com""}",84.0,28
+Python,dropbox,2013-04-29,2,2,"#{""frew@cs.stanford.edu"" ""haoyi.sg@gmail.com""}",86.0,30
+Python,dropbox,2013-05-29,2,1,"#{""frew@dropbox.com""}",88.0,30
+Python,dropbox,2013-09-28,1,1,"#{""pacaro@gmail.com""}",89.0,31
+Python,dropbox,2013-10-22,1,1,"#{""jboning@gmail.com""}",90.0,31
+Python,dropbox,2014-03-21,4,4,"#{""jing@dropbox.com"" ""chub@dropbox.com"" ""fta@dropbox.com"" ""prha@dropbox.com""}",94.0,32
+Python,dropbox,2014-03-22,12,8,"#{""chris@dropbox.com"" ""meyer@dropbox.com"" ""jonv@dropbox.com"" ""josiah@dropbox.com"" ""paul@dropbox.com"" ""adhiraj@dropbox.com"" ""jkromer@dropbox.com"" ""prha@dropbox.com""}",106.0,36
+Python,dropbox,2014-03-29,1,1,"#{""jacob@j4cbo.com""}",107.0,37
+Python,dropbox,2014-04-08,2,2,"#{""kenp@dropbox.com"" ""mgilbert@dropbox.com""}",109.0,39
+Python,dropbox,2014-04-11,1,1,"#{""bizauionica@yahoo.com""}",110.0,40
+Python,dropbox,2014-04-12,2,2,"#{""bizauionica@yahoo.com"" ""jboning@gmail.com""}",112.0,40
+Python,dropbox,2014-04-18,1,1,"#{""mattr@terrarium.io""}",113.0,41
+Python,dropbox,2014-04-20,1,1,"#{""FuegoFro@gmail.com""}",114.0,42
+Python,dropbox,2014-04-21,2,2,"#{""josiah@dropbox.com"" ""jboning@gmail.com""}",116.0,42
+Python,dropbox,2014-04-23,2,2,"#{""FuegoFro@gmail.com"" ""jboning@gmail.com""}",118.0,42
+Python,dropbox,2014-05-28,3,2,"#{""dgoldstein@dropbox.com"" ""paul@dropbox.com""}",121.0,43
+Python,dropbox,2014-06-06,1,1,"#{""naomi@dropbox.com""}",122.0,44
+Python,dropbox,2014-07-08,1,1,"#{""josiah@dropbox.com""}",123.0,44
+Python,dropbox,2014-07-22,1,1,"#{""josiah@dropbox.com""}",124.0,44
+Python,dropbox,2014-07-30,1,1,"#{""josiah@dropbox.com""}",125.0,44
+Python,dropbox,2014-08-15,1,1,"#{""eric@dropbox.com""}",126.0,45
+Python,dropbox,2015-06-15,2,1,"#{""kelkabany@dropbox.com""}",128.0,46
+Python,dropbox,2015-06-16,1,1,"#{""kelkabany@dropbox.com""}",129.0,46
+Python,dropbox,2015-08-04,1,1,"#{""qiming@dropbox.com""}",130.0,47
+Python,dropbox,2015-08-05,1,1,"#{""kelkabany@dropbox.com""}",131.0,47
+Python,dropbox,2015-08-11,1,1,"#{""kelkabany@dropbox.com""}",132.0,47
+Python,dropbox,2015-08-24,4,1,"#{""kelkabany@dropbox.com""}",136.0,47
+Python,dropbox,2015-08-25,3,1,"#{""kelkabany@dropbox.com""}",139.0,47
+Python,dropbox,2015-08-26,1,1,"#{""kelkabany@dropbox.com""}",140.0,47
+Python,dropbox,2015-08-27,2,1,"#{""kelkabany@dropbox.com""}",142.0,47
+Python,dropbox,2015-08-31,2,2,"#{""ken@elkabany.com"" ""kelkabany@dropbox.com""}",144.0,48
+Python,dropbox,2015-09-08,4,1,"#{""kelkabany@dropbox.com""}",148.0,48
+Python,dropbox,2015-09-18,1,1,"#{""kelkabany@dropbox.com""}",149.0,48
+Python,dropbox,2015-09-21,5,2,"#{""ken@elkabany.com"" ""alexf@dropbox.com""}",154.0,49
+Python,dropbox,2015-09-25,1,1,"#{""ewjoachim@gmail.com""}",155.0,50
+Python,dropbox,2015-09-28,1,1,"#{""kelkabany@dropbox.com""}",156.0,50
+Python,dropbox,2015-09-30,1,1,"#{""ken@elkabany.com""}",157.0,50
+Python,dropbox,2015-10-05,1,1,"#{""kelkabany@dropbox.com""}",158.0,50
+Python,dropbox,2015-10-28,1,1,"#{""alexf@dropbox.com""}",159.0,50
+Python,dropbox,2015-10-29,1,1,"#{""steko@iosa.it""}",160.0,51
+Python,dropbox,2015-10-30,1,1,"#{""varenc@gmail.com""}",161.0,52
+Python,dropbox,2015-11-11,5,1,"#{""kelkabany@dropbox.com""}",166.0,52
+Python,dropbox,2015-11-19,1,1,"#{""kelkabany@dropbox.com""}",167.0,52
+Python,dropbox,2015-12-10,1,1,"#{""kelkabany@dropbox.com""}",168.0,52
+Python,dropbox,2016-01-19,1,1,"#{""jboning@gmail.com""}",169.0,52
+Python,dropbox,2016-01-24,1,1,"#{""ken@elkabany.com""}",170.0,52
+Python,dropbox,2016-01-28,2,1,"#{""kelkabany@dropbox.com""}",172.0,52
+Python,dropbox,2016-01-29,3,1,"#{""kelkabany@dropbox.com""}",175.0,52
+Python,dropbox,2016-02-17,4,4,"#{""me@anishathalye.com"" ""angelo.scarna@codelinsoft.it"" ""kelkabany@dropbox.com"" ""said@ozcan.co""}",179.0,55
+Python,dropbox,2016-02-24,1,1,"#{""kelkabany@dropbox.com""}",180.0,55
+Python,dropbox,2016-03-20,1,1,"#{""ken@elkabany.com""}",181.0,55
+Python,dropbox,2016-04-27,1,1,"#{""ken@elkabany.com""}",182.0,55
+Python,dropbox,2016-05-24,5,1,"#{""ken@elkabany.com""}",187.0,55
+Python,dropbox,2016-05-25,6,2,"#{""vinod.chandru@gmail.com"" ""ken@elkabany.com""}",193.0,56
+Python,dropbox,2016-05-29,1,1,"#{""ken@elkabany.com""}",194.0,56
+Python,dropbox,2016-05-31,1,1,"#{""ken@elkabany.com""}",195.0,56
+Python,dropbox,2016-06-20,1,1,"#{""kelkabany@dropbox.com""}",196.0,56
+Python,dropbox,2016-07-18,1,1,"#{""kelkabany@dropbox.com""}",197.0,56
+Python,dropbox,2016-07-27,1,1,"#{""kelkabany@dropbox.com""}",198.0,56
+Python,dropbox,2016-07-28,1,1,"#{""kelkabany@dropbox.com""}",199.0,56
+Python,dropbox,2016-08-10,3,1,"#{""kelkabany@dropbox.com""}",202.0,56
+Python,dropbox,2016-08-11,3,1,"#{""kelkabany@dropbox.com""}",205.0,56
+Python,dropbox,2016-08-17,1,1,"#{""marc1n@users.noreply.github.com""}",206.0,57
+Python,dropbox,2016-08-18,1,1,"#{""rian@alum.mit.edu""}",207.0,58
+Python,dropbox,2016-09-05,4,1,"#{""kelkabany@dropbox.com""}",211.0,58
+Python,dropbox,2016-09-07,4,1,"#{""kelkabany@dropbox.com""}",215.0,58
+Python,dropbox,2016-09-29,1,1,"#{""kelkabany@dropbox.com""}",216.0,58
+Python,dropbox,2016-10-26,5,1,"#{""kelkabany@dropbox.com""}",221.0,58
+Python,dropbox,2016-10-28,1,1,"#{""ezhang@pinterest.com""}",222.0,59
+Python,dropbox,2017-02-04,1,1,"#{""kelkabany@dropbox.com""}",223.0,59
+Python,dropbox,2017-02-14,1,1,"#{""ciriello.daniele@gmail.com""}",224.0,60
+Python,dropbox,2017-02-22,1,1,"#{""mbogosian@dropbox.com""}",225.0,61
+Python,dropbox,2017-02-24,2,1,"#{""mbogosian@dropbox.com""}",227.0,61
+Python,dropbox,2017-02-28,2,1,"#{""mbogosian@dropbox.com""}",229.0,61
+Python,dropbox,2017-03-01,2,2,"#{""fviard@lacie.com"" ""mbogosian@dropbox.com""}",231.0,62
+Python,dropbox,2017-03-02,2,1,"#{""mbogosian@dropbox.com""}",233.0,62
+Python,dropbox,2017-03-05,1,1,"#{""mbogosian@dropbox.com""}",234.0,62
+Python,dropbox,2017-03-06,1,1,"#{""mbogosian@dropbox.com""}",235.0,62
+Python,dropbox,2017-03-22,1,1,"#{""mbogosian@dropbox.com""}",236.0,62
+Python,dropbox,2017-05-10,2,1,"#{""mbogosian@dropbox.com""}",238.0,62
+Python,dropbox,2017-05-11,1,1,"#{""mbogosian@dropbox.com""}",239.0,62
+Python,dropbox,2017-05-16,2,1,"#{""mbogosian@dropbox.com""}",241.0,62
+Python,dropbox,2017-06-08,1,1,"#{""mbogosian@dropbox.com""}",242.0,62
+Python,dropbox,2017-06-23,1,1,"#{""mbogosian@dropbox.com""}",243.0,62
+Python,dropbox,2017-06-29,1,1,"#{""mbogosian@dropbox.com""}",244.0,62
+Python,dropbox,2017-07-17,2,1,"#{""swehlaas@twitch.tv""}",246.0,63
+Python,dropbox,2017-09-07,1,1,"#{""robarmstrong@dropbox.com""}",247.0,64
+Python,dropbox,2017-09-18,1,1,"#{""robarmstrong@dropbox.com""}",248.0,64
+Python,dropbox,2017-10-05,1,1,"#{""robarmstrong@dropbox.com""}",249.0,64
+Python,dropbox,2017-10-10,1,1,"#{""robarmstrong@dropbox.com""}",250.0,64
+Python,dropbox,2017-10-11,1,1,"#{""robarmstrong@dropbox.com""}",251.0,64
+Python,dropbox,2017-10-22,1,1,"#{""robarmstrong@dropbox.com""}",252.0,64
+Python,dropbox,2017-11-01,1,1,"#{""rob@robarmstrong.co""}",253.0,65
+Python,dropbox,2017-11-13,1,1,"#{""robarmstrong@dropbox.com""}",254.0,65
+Python,dropbox,2017-11-20,1,1,"#{""vitaliy@kulanov.org.ua""}",255.0,66
+Python,dropbox,2017-11-21,1,1,"#{""rob@robarmstrong.co""}",256.0,66
+Python,dropbox,2017-11-30,1,1,"#{""robarmstrong@dropbox.com""}",257.0,66
+Python,dropbox,2017-12-21,1,1,"#{""robarmstrong@dropbox.com""}",258.0,66
+Python,dropbox,2017-12-29,1,1,"#{""astaley@dropbox.com""}",259.0,67
+Python,dropbox,2018-01-08,2,2,"#{""astaley@dropbox.com"" ""rob@robarmstrong.co""}",261.0,67
+Python,dropbox,2018-01-17,1,1,"#{""robarmstrong@dropbox.com""}",262.0,67
+Python,dropbox,2018-01-28,1,1,"#{""robarmstrong@dropbox.com""}",263.0,67
+Python,dropbox,2018-01-31,1,1,"#{""rob@robarmstrong.co""}",264.0,67
+Python,dropbox,2018-02-05,1,1,"#{""robarmstrong@dropbox.com""}",265.0,67
+Python,dropbox,2018-02-08,1,1,"#{""rob@robarmstrong.co""}",266.0,67
+Python,dropbox,2018-04-14,1,1,"#{""peichao@dropbox.com""}",267.0,68
+Python,dropbox,2018-04-17,2,2,"#{""peichao@dropbox.com"" ""rob@robarmstrong.co""}",269.0,68
+Python,dropbox,2018-05-18,1,1,"#{""peichao@dropbox.com""}",270.0,68
+Python,dropbox,2018-06-25,2,1,"#{""starforever00@gmail.com""}",272.0,69
+Python,dropbox,2018-07-10,2,1,"#{""starforever00@gmail.com""}",274.0,69
+Python,dropbox,2018-10-09,2,2,"#{""starforever00@gmail.com"" ""mghatak@dropbox.com""}",276.0,70
+Python,dropbox,2018-11-20,1,1,"#{""starforever00@gmail.com""}",277.0,70
+Python,dropbox,2018-12-11,1,1,"#{""starforever00@gmail.com""}",278.0,70
+Python,dropbox,2018-12-21,4,3,"#{""rob@robarmstrong.co"" ""robarmstrong@dropbox.com"" ""greg-db@users.noreply.github.com""}",282.0,71
+Python,dropbox,2019-01-10,1,1,"#{""greg-db@users.noreply.github.com""}",283.0,71
+Python,dropbox,2019-06-13,5,1,"#{""starforever00@gmail.com""}",288.0,71
+Python,dropbox,2019-07-14,1,1,"#{""rob@robarmstrong.co""}",289.0,71
+Python,dropbox,2019-08-14,1,1,"#{""greg-db@users.noreply.github.com""}",290.0,71
+Python,dropbox,2020-03-20,1,1,"#{""brogers@dropbox.com""}",291.0,72
+Python,dropbox,2020-03-29,1,1,"#{""ss2151@cam.ac.uk""}",292.0,73
+Python,dropbox,2020-03-30,2,1,"#{""brad12rogers@gmail.com""}",294.0,74
+Python,dropbox,2020-04-01,2,1,"#{""brad12rogers@gmail.com""}",296.0,74
+Python,dropbox,2020-04-02,1,1,"#{""brad12rogers@gmail.com""}",297.0,74
+Python,dropbox,2020-04-07,1,1,"#{""brad12rogers@gmail.com""}",298.0,74
+Python,dropbox,2020-04-15,1,1,"#{""brad12rogers@gmail.com""}",299.0,74
+Python,dropbox,2020-04-16,1,1,"#{""brad12rogers@gmail.com""}",300.0,74
+Python,dropbox,2020-04-21,1,1,"#{""brad12rogers@gmail.com""}",301.0,74
+Python,dropbox,2020-05-07,1,1,"#{""brad12rogers@gmail.com""}",302.0,74
+Python,dropbox,2020-05-27,1,1,"#{""brad12rogers@gmail.com""}",303.0,74
+Python,dropbox,2020-06-03,1,1,"#{""brad12rogers@gmail.com""}",304.0,74
+Python,dropbox,2020-06-30,1,1,"#{""connorbworley@gmail.com""}",305.0,75
+Python,dropbox,2020-07-07,3,1,"#{""karandeepjohar@gmail.com""}",308.0,76
+Python,dropbox,2020-08-10,1,1,"#{""brad12rogers@gmail.com""}",309.0,76
+Python,dropbox,2020-08-25,2,2,"#{""10774221+Lucurus@users.noreply.github.com"" ""greg-db@users.noreply.github.com""}",311.0,77
+Python,dropbox,2020-08-27,1,1,"#{""brad12rogers@gmail.com""}",312.0,77
+Python,dropbox,2020-08-28,1,1,"#{""brad12rogers@gmail.com""}",313.0,77
+Python,dropbox,2020-09-01,5,1,"#{""brad12rogers@gmail.com""}",318.0,77
+Python,dropbox,2020-09-09,1,1,"#{""10774221+Lucurus@users.noreply.github.com""}",319.0,77
+Python,dropbox,2020-09-10,1,1,"#{""10774221+Lucurus@users.noreply.github.com""}",320.0,77
+Python,dropbox,2020-09-14,1,1,"#{""brad12rogers@gmail.com""}",321.0,77
+Python,dropbox,2020-09-18,2,2,"#{""10774221+Lucurus@users.noreply.github.com"" ""brad12rogers@gmail.com""}",323.0,77
+Python,dropbox,2020-09-22,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""brad12rogers@gmail.com""}",326.0,78
+Python,dropbox,2020-09-24,1,1,"#{""connorbworley@gmail.com""}",327.0,78
+Python,dropbox,2020-09-25,2,2,"#{""10774221+Lucurus@users.noreply.github.com"" ""brad12rogers@gmail.com""}",329.0,78
+Python,dropbox,2020-09-30,1,1,"#{""brad12rogers@gmail.com""}",330.0,78
+Python,dropbox,2020-10-02,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",331.0,78
+Python,dropbox,2020-10-05,1,1,"#{""brad12rogers@gmail.com""}",332.0,78
+Python,dropbox,2020-10-12,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""brad12rogers@gmail.com""}",334.0,78
+Python,dropbox,2020-10-20,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",336.0,78
+Python,dropbox,2020-10-21,2,2,"#{""rogebrd@users.noreply.github.com"" ""brad12rogers@gmail.com""}",338.0,79
+Python,dropbox,2020-10-27,1,1,"#{""brad12rogers@gmail.com""}",339.0,79
+Python,dropbox,2020-10-28,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",340.0,80
+Python,dropbox,2020-11-03,2,1,"#{""brad12rogers@gmail.com""}",342.0,80
+Python,dropbox,2020-11-10,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",343.0,80
+Python,dropbox,2020-11-12,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",344.0,80
+Python,dropbox,2020-11-17,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""yuxiang-he@users.noreply.github.com""}",346.0,81
+Python,dropbox,2020-11-18,1,1,"#{""yuxiang-he@users.noreply.github.com""}",347.0,81
+Python,dropbox,2020-11-19,1,1,"#{""yuxiang-he@users.noreply.github.com""}",348.0,81
+Python,dropbox,2020-12-03,4,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""73138219+DropboxBot@users.noreply.github.com"" ""brad12rogers@gmail.com""}",352.0,81
+Python,dropbox,2020-12-23,1,1,"#{""yuxiang-he@users.noreply.github.com""}",353.0,81
+Python,dropbox,2020-12-28,1,1,"#{""yuxiang-he@users.noreply.github.com""}",354.0,81
+Python,dropbox,2020-12-30,1,1,"#{""yuxiang-he@users.noreply.github.com""}",355.0,81
+Python,dropbox,2021-01-06,1,1,"#{""yuxiang-he@users.noreply.github.com""}",356.0,81
+Python,dropbox,2021-01-25,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""73138219+DropboxBot@users.noreply.github.com""}",359.0,81
+Python,dropbox,2021-01-26,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",360.0,81
+Python,dropbox,2021-02-10,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""73138219+DropboxBot@users.noreply.github.com""}",362.0,81
+Python,dropbox,2021-02-19,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",363.0,81
+Python,dropbox,2021-02-23,2,2,"#{""eugeneyche@gmail.com"" ""77769746+mtruong-dbx@users.noreply.github.com""}",365.0,83
+Python,dropbox,2021-02-26,1,1,"#{""brad12rogers@gmail.com""}",366.0,83
+Python,dropbox,2021-03-03,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",367.0,83
+Python,dropbox,2021-03-05,1,1,"#{""brad12rogers@gmail.com""}",368.0,83
+Python,dropbox,2021-03-09,2,1,"#{""brad12rogers@gmail.com""}",370.0,83
+Python,dropbox,2021-03-24,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",371.0,83
+Python,dropbox,2021-04-08,2,2,"#{""73138219+DropboxBot@users.noreply.github.com"" ""77769746+mtruong-dbx@users.noreply.github.com""}",373.0,83
+Python,dropbox,2021-04-14,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""73138219+DropboxBot@users.noreply.github.com""}",376.0,83
+Python,dropbox,2021-05-07,2,2,"#{""73138219+DropboxBot@users.noreply.github.com"" ""brent.bumann@aol.com""}",378.0,84
+Python,dropbox,2021-05-11,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",379.0,84
+Python,dropbox,2021-05-26,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",380.0,84
+Python,dropbox,2021-06-16,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",381.0,84
+Python,dropbox,2021-06-23,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",382.0,84
+Python,dropbox,2021-07-01,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",383.0,84
+Python,dropbox,2021-07-02,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",384.0,84
+Python,dropbox,2021-07-08,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",385.0,84
+Python,dropbox,2021-07-14,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",386.0,84
+Python,dropbox,2021-07-21,1,1,"#{""77769746+mtruong-dbx@users.noreply.github.com""}",387.0,84
+Python,dropbox,2021-07-29,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",388.0,84
+Python,dropbox,2021-08-02,1,1,"#{""brad12rogers@gmail.com""}",389.0,84
+Python,dropbox,2021-08-11,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",390.0,84
+Python,dropbox,2021-08-18,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",391.0,84
+Python,dropbox,2021-08-26,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",392.0,84
+Python,dropbox,2021-09-08,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",393.0,84
+Python,dropbox,2021-09-22,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",394.0,84
+Python,dropbox,2021-09-29,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",395.0,84
+Python,dropbox,2021-10-15,1,1,"#{""brent.bumann@aol.com""}",396.0,84
+Python,dropbox,2021-10-21,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",397.0,84
+Python,dropbox,2021-11-03,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",398.0,84
+Python,dropbox,2021-11-17,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",399.0,84
+Python,dropbox,2021-11-24,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",400.0,84
+Python,dropbox,2021-12-08,1,1,"#{""brad12rogers@gmail.com""}",401.0,84
+Python,dropbox,2022-01-19,1,1,"#{""brent.bumann@aol.com""}",402.0,84
+Python,dropbox,2022-01-25,1,1,"#{""sderickson@gmail.com""}",403.0,85
+Python,dropbox,2022-01-31,1,1,"#{""brad12rogers@gmail.com""}",404.0,85
+Python,dropbox,2022-02-02,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",405.0,85
+Python,dropbox,2022-02-09,1,1,"#{""sderickson@gmail.com""}",406.0,85
+Python,dropbox,2022-03-02,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",407.0,85
+Python,dropbox,2022-03-03,1,1,"#{""andriyorehov@gmail.com""}",408.0,86
+Python,dropbox,2022-03-30,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",409.0,86
+Python,dropbox,2022-04-20,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",410.0,86
+Python,dropbox,2022-05-18,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",411.0,86
+Python,dropbox,2022-06-15,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",412.0,86
+Python,dropbox,2022-06-30,1,1,"#{""32813217+stanislau-arkhipenka@users.noreply.github.com""}",413.0,87
+Python,dropbox,2022-07-13,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",414.0,87
+Python,dropbox,2022-08-04,1,1,"#{""16581744+dennissiemensma@users.noreply.github.com""}",415.0,88
+Python,dropbox,2022-10-11,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",416.0,88
+Python,dropbox,2022-11-09,1,1,"#{""73138219+DropboxBot@users.noreply.github.com""}",417.0,88
+Python,dropbox,2023-04-05,1,1,"#{""sagar@resilient.tech""}",418.0,89
+Python,dropbox,2023-04-28,1,1,"#{""sderickson@gmail.com""}",419.0,89
+Python,dropbox,2023-05-25,1,1,"#{""greg-db@users.noreply.github.com""}",420.0,89

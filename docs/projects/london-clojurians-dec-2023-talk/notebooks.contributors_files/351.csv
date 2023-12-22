@@ -1,0 +1,262 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,lilactown,2018-12-16,6,1,"#{""will@willacton.com""}",6.0,1
+Clojure,lilactown,2018-12-17,6,1,"#{""will@willacton.com""}",12.0,1
+Clojure,lilactown,2018-12-18,11,1,"#{""will@willacton.com""}",23.0,1
+Clojure,lilactown,2018-12-19,6,1,"#{""will@willacton.com""}",29.0,1
+Clojure,lilactown,2018-12-21,5,1,"#{""will@willacton.com""}",34.0,1
+Clojure,lilactown,2018-12-22,3,1,"#{""will@willacton.com""}",37.0,1
+Clojure,lilactown,2018-12-23,2,1,"#{""will@willacton.com""}",39.0,1
+Clojure,lilactown,2018-12-24,2,1,"#{""will@willacton.com""}",41.0,1
+Clojure,lilactown,2018-12-25,6,1,"#{""will@willacton.com""}",47.0,1
+Clojure,lilactown,2018-12-29,1,1,"#{""will@willacton.com""}",48.0,1
+Clojure,lilactown,2019-01-02,1,1,"#{""will@willacton.com""}",49.0,1
+Clojure,lilactown,2019-01-04,15,1,"#{""will@willacton.com""}",64.0,1
+Clojure,lilactown,2019-01-05,4,1,"#{""will@willacton.com""}",68.0,1
+Clojure,lilactown,2019-01-06,4,1,"#{""will@willacton.com""}",72.0,1
+Clojure,lilactown,2019-01-07,4,1,"#{""will@willacton.com""}",76.0,1
+Clojure,lilactown,2019-01-10,3,1,"#{""will@willacton.com""}",79.0,1
+Clojure,lilactown,2019-01-12,3,1,"#{""will@willacton.com""}",82.0,1
+Clojure,lilactown,2019-01-17,11,1,"#{""will@willacton.com""}",93.0,1
+Clojure,lilactown,2019-01-18,3,1,"#{""will@willacton.com""}",96.0,1
+Clojure,lilactown,2019-01-19,2,1,"#{""will@willacton.com""}",98.0,1
+Clojure,lilactown,2019-01-23,3,1,"#{""will@willacton.com""}",101.0,1
+Clojure,lilactown,2019-01-31,8,1,"#{""will@willacton.com""}",109.0,1
+Clojure,lilactown,2019-02-01,26,1,"#{""will@willacton.com""}",135.0,1
+Clojure,lilactown,2019-02-02,21,1,"#{""will@willacton.com""}",156.0,1
+Clojure,lilactown,2019-02-03,1,1,"#{""will@willacton.com""}",157.0,1
+Clojure,lilactown,2019-02-06,1,1,"#{""will@willacton.com""}",158.0,1
+Clojure,lilactown,2019-02-10,14,1,"#{""will@willacton.com""}",172.0,1
+Clojure,lilactown,2019-02-11,3,1,"#{""will@willacton.com""}",175.0,1
+Clojure,lilactown,2019-02-12,4,1,"#{""will@willacton.com""}",179.0,1
+Clojure,lilactown,2019-02-13,5,1,"#{""will@willacton.com""}",184.0,1
+Clojure,lilactown,2019-02-18,2,1,"#{""983021772@users.noreply.github.com""}",186.0,2
+Clojure,lilactown,2019-02-19,4,1,"#{""will@willacton.com""}",190.0,2
+Clojure,lilactown,2019-02-20,2,2,"#{""will@willacton.com"" ""983021772@users.noreply.github.com""}",192.0,2
+Clojure,lilactown,2019-02-21,1,1,"#{""will@willacton.com""}",193.0,2
+Clojure,lilactown,2019-04-25,3,1,"#{""will@willacton.com""}",196.0,2
+Clojure,lilactown,2019-07-31,2,1,"#{""will@willacton.com""}",198.0,2
+Clojure,lilactown,2019-08-01,2,1,"#{""will@willacton.com""}",200.0,2
+Clojure,lilactown,2019-08-02,4,1,"#{""will@willacton.com""}",204.0,2
+Clojure,lilactown,2019-11-14,6,1,"#{""will@willacton.com""}",210.0,2
+Clojure,lilactown,2019-11-15,1,1,"#{""will@willacton.com""}",211.0,2
+Clojure,lilactown,2019-11-17,5,1,"#{""will@willacton.com""}",216.0,2
+Clojure,lilactown,2019-11-21,5,1,"#{""will@willacton.com""}",221.0,2
+Clojure,lilactown,2019-11-22,6,1,"#{""will@willacton.com""}",227.0,2
+Clojure,lilactown,2019-11-23,2,1,"#{""will@willacton.com""}",229.0,2
+Clojure,lilactown,2019-11-30,6,1,"#{""will@willacton.com""}",235.0,2
+Clojure,lilactown,2019-12-06,1,1,"#{""will@amperity.com""}",236.0,3
+Clojure,lilactown,2019-12-09,4,2,"#{""will@willacton.com"" ""will@amperity.com""}",240.0,3
+Clojure,lilactown,2019-12-10,5,1,"#{""will@amperity.com""}",245.0,3
+Clojure,lilactown,2019-12-12,1,1,"#{""will@willacton.com""}",246.0,3
+Clojure,lilactown,2019-12-13,9,3,"#{""will@willacton.com"" ""will@amperity.com"" ""alidcastano@gmail.com""}",255.0,4
+Clojure,lilactown,2019-12-14,4,1,"#{""will@willacton.com""}",259.0,4
+Clojure,lilactown,2019-12-16,2,1,"#{""will@willacton.com""}",261.0,4
+Clojure,lilactown,2019-12-19,4,1,"#{""will@amperity.com""}",265.0,4
+Clojure,lilactown,2019-12-20,5,1,"#{""will@amperity.com""}",270.0,4
+Clojure,lilactown,2020-01-06,8,2,"#{""will@willacton.com"" ""will@amperity.com""}",278.0,4
+Clojure,lilactown,2020-01-07,5,2,"#{""will@willacton.com"" ""will@amperity.com""}",283.0,4
+Clojure,lilactown,2020-01-08,2,1,"#{""will@amperity.com""}",285.0,4
+Clojure,lilactown,2020-01-09,9,2,"#{""will@willacton.com"" ""will@amperity.com""}",294.0,4
+Clojure,lilactown,2020-01-10,3,1,"#{""will@amperity.com""}",297.0,4
+Clojure,lilactown,2020-01-17,2,1,"#{""will@amperity.com""}",299.0,4
+Clojure,lilactown,2020-01-22,2,1,"#{""will@amperity.com""}",301.0,4
+Clojure,lilactown,2020-01-27,5,2,"#{""will@willacton.com"" ""antonin@hildebrand.cz""}",306.0,5
+Clojure,lilactown,2020-01-31,9,2,"#{""will@willacton.com"" ""will@amperity.com""}",315.0,5
+Clojure,lilactown,2020-02-03,13,1,"#{""will@amperity.com""}",328.0,5
+Clojure,lilactown,2020-02-04,2,1,"#{""will@amperity.com""}",330.0,5
+Clojure,lilactown,2020-02-07,3,1,"#{""will@willacton.com""}",333.0,5
+Clojure,lilactown,2020-02-08,10,1,"#{""will@willacton.com""}",343.0,5
+Clojure,lilactown,2020-02-09,3,1,"#{""will@willacton.com""}",346.0,5
+Clojure,lilactown,2020-02-13,11,2,"#{""will@willacton.com"" ""will@amperity.com""}",357.0,5
+Clojure,lilactown,2020-02-14,2,1,"#{""will@willacton.com""}",359.0,5
+Clojure,lilactown,2020-02-23,1,1,"#{""will@amperity.com""}",360.0,5
+Clojure,lilactown,2020-02-24,9,2,"#{""will@willacton.com"" ""will@amperity.com""}",369.0,5
+Clojure,lilactown,2020-02-25,7,2,"#{""will@willacton.com"" ""will@amperity.com""}",376.0,5
+Clojure,lilactown,2020-02-26,4,2,"#{""will@willacton.com"" ""ai@aaroniba.net""}",380.0,6
+Clojure,lilactown,2020-03-03,5,2,"#{""will@willacton.com"" ""will@amperity.com""}",385.0,6
+Clojure,lilactown,2020-03-05,2,2,"#{""will@willacton.com"" ""accounts@danieroux.com""}",387.0,7
+Clojure,lilactown,2020-03-06,2,1,"#{""will@amperity.com""}",389.0,7
+Clojure,lilactown,2020-03-19,2,1,"#{""will@amperity.com""}",391.0,7
+Clojure,lilactown,2020-03-24,3,1,"#{""will@amperity.com""}",394.0,7
+Clojure,lilactown,2020-04-05,2,1,"#{""will@willacton.com""}",396.0,7
+Clojure,lilactown,2020-04-10,1,1,"#{""will@willacton.com""}",397.0,7
+Clojure,lilactown,2020-04-17,2,2,"#{""will@willacton.com"" ""will@amperity.com""}",399.0,7
+Clojure,lilactown,2020-04-23,1,1,"#{""will@willacton.com""}",400.0,7
+Clojure,lilactown,2020-04-27,4,2,"#{""will@willacton.com"" ""wxitb2017@gmail.com""}",404.0,8
+Clojure,lilactown,2020-04-28,2,2,"#{""wxitb2017@gmail.com"" ""lucy@scrapinghub.com""}",406.0,9
+Clojure,lilactown,2020-04-29,14,2,"#{""will@willacton.com"" ""wxitb2017@gmail.com""}",420.0,9
+Clojure,lilactown,2020-04-30,2,1,"#{""wxitb2017@gmail.com""}",422.0,9
+Clojure,lilactown,2020-05-01,3,2,"#{""will@amperity.com"" ""wxitb2017@gmail.com""}",425.0,9
+Clojure,lilactown,2020-05-02,4,1,"#{""will@willacton.com""}",429.0,9
+Clojure,lilactown,2020-05-04,4,1,"#{""will@amperity.com""}",433.0,9
+Clojure,lilactown,2020-05-05,1,1,"#{""will@willacton.com""}",434.0,9
+Clojure,lilactown,2020-05-07,2,2,"#{""will@willacton.com"" ""ai@aaroniba.net""}",436.0,9
+Clojure,lilactown,2020-05-09,1,1,"#{""tvconnors@gmail.com""}",437.0,10
+Clojure,lilactown,2020-05-11,1,1,"#{""wxitb2017@gmail.com""}",438.0,10
+Clojure,lilactown,2020-05-14,3,1,"#{""will@amperity.com""}",441.0,10
+Clojure,lilactown,2020-05-15,1,1,"#{""will@willacton.com""}",442.0,10
+Clojure,lilactown,2020-05-16,7,1,"#{""will@amperity.com""}",449.0,10
+Clojure,lilactown,2020-05-17,7,2,"#{""will@willacton.com"" ""will@amperity.com""}",456.0,10
+Clojure,lilactown,2020-05-22,4,3,"#{""will@willacton.com"" ""tvconnors@gmail.com"" ""will@amperity.com""}",460.0,10
+Clojure,lilactown,2020-05-23,5,2,"#{""will@willacton.com"" ""will@amperity.com""}",465.0,10
+Clojure,lilactown,2020-05-26,2,2,"#{""will@willacton.com"" ""tomekw@users.noreply.github.com""}",467.0,11
+Clojure,lilactown,2020-06-01,2,2,"#{""will@willacton.com"" ""iam@dominic.io""}",469.0,12
+Clojure,lilactown,2020-06-05,3,2,"#{""will@willacton.com"" ""will@amperity.com""}",472.0,12
+Clojure,lilactown,2020-06-12,1,1,"#{""monroef4+github@gmail.com""}",473.0,13
+Clojure,lilactown,2020-06-13,1,1,"#{""will@willacton.com""}",474.0,13
+Clojure,lilactown,2020-06-30,1,1,"#{""will@willacton.com""}",475.0,13
+Clojure,lilactown,2020-07-04,5,2,"#{""will@willacton.com"" ""alidcastano@gmail.com""}",480.0,13
+Clojure,lilactown,2020-07-05,4,2,"#{""will@willacton.com"" ""alidcastano@gmail.com""}",484.0,13
+Clojure,lilactown,2020-07-08,2,1,"#{""will@willacton.com""}",486.0,13
+Clojure,lilactown,2020-07-17,2,2,"#{""will@willacton.com"" ""zackteo@gmail.com""}",488.0,14
+Clojure,lilactown,2020-07-26,1,1,"#{""ai@aaroniba.net""}",489.0,14
+Clojure,lilactown,2020-07-27,1,1,"#{""will@willacton.com""}",490.0,14
+Clojure,lilactown,2020-08-13,3,2,"#{""will@willacton.com"" ""240862+stanislas@users.noreply.github.com""}",493.0,15
+Clojure,lilactown,2020-10-15,4,3,"#{""will@willacton.com"" ""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",497.0,17
+Clojure,lilactown,2020-10-24,3,1,"#{""will@willacton.com""}",500.0,17
+Clojure,lilactown,2020-10-26,7,1,"#{""will@willacton.com""}",507.0,17
+Clojure,lilactown,2020-10-27,3,1,"#{""will@willacton.com""}",510.0,17
+Clojure,lilactown,2020-10-28,6,1,"#{""will@willacton.com""}",516.0,17
+Clojure,lilactown,2020-10-30,14,1,"#{""will@willacton.com""}",530.0,17
+Clojure,lilactown,2020-10-31,2,1,"#{""will@willacton.com""}",532.0,17
+Clojure,lilactown,2020-11-01,5,1,"#{""will@willacton.com""}",537.0,17
+Clojure,lilactown,2020-11-02,9,1,"#{""will@willacton.com""}",546.0,17
+Clojure,lilactown,2020-11-05,10,1,"#{""will@willacton.com""}",556.0,17
+Clojure,lilactown,2020-11-09,1,1,"#{""jimmyhmiller@adzerk.com""}",557.0,18
+Clojure,lilactown,2020-11-10,4,2,"#{""will@willacton.com"" ""jimmyhmiller@adzerk.com""}",561.0,18
+Clojure,lilactown,2020-11-14,2,1,"#{""will@willacton.com""}",563.0,18
+Clojure,lilactown,2020-11-16,3,1,"#{""will@willacton.com""}",566.0,18
+Clojure,lilactown,2020-11-20,1,1,"#{""will@willacton.com""}",567.0,18
+Clojure,lilactown,2020-11-21,9,1,"#{""will@willacton.com""}",576.0,18
+Clojure,lilactown,2020-12-12,2,1,"#{""will@willacton.com""}",578.0,18
+Clojure,lilactown,2020-12-18,3,1,"#{""will@willacton.com""}",581.0,18
+Clojure,lilactown,2021-02-20,7,1,"#{""will@willacton.com""}",588.0,18
+Clojure,lilactown,2021-02-21,1,1,"#{""will@willacton.com""}",589.0,18
+Clojure,lilactown,2021-02-26,1,1,"#{""will@amperity.com""}",590.0,18
+Clojure,lilactown,2021-02-28,1,1,"#{""will@willacton.com""}",591.0,18
+Clojure,lilactown,2021-03-01,3,1,"#{""will@willacton.com""}",594.0,18
+Clojure,lilactown,2021-03-02,2,2,"#{""smith.adriane@gmail.com"" ""will@willacton.com""}",596.0,19
+Clojure,lilactown,2021-03-03,1,1,"#{""will@willacton.com""}",597.0,19
+Clojure,lilactown,2021-03-11,3,2,"#{""will@willacton.com"" ""jimmyhmiller@gmail.com""}",600.0,20
+Clojure,lilactown,2021-03-12,3,1,"#{""will@willacton.com""}",603.0,20
+Clojure,lilactown,2021-03-14,3,2,"#{""will@willacton.com"" ""souenzzo@gmail.com""}",606.0,21
+Clojure,lilactown,2021-03-15,2,2,"#{""will@willacton.com"" ""souenzzo@gmail.com""}",608.0,21
+Clojure,lilactown,2021-03-28,1,1,"#{""will@willacton.com""}",609.0,21
+Clojure,lilactown,2021-03-30,4,2,"#{""will@willacton.com"" ""49699333+dependabot[bot]@users.noreply.github.com""}",613.0,22
+Clojure,lilactown,2021-04-11,1,1,"#{""will@willacton.com""}",614.0,22
+Clojure,lilactown,2021-04-17,5,1,"#{""will@willacton.com""}",619.0,22
+Clojure,lilactown,2021-04-22,1,1,"#{""will@amperity.com""}",620.0,22
+Clojure,lilactown,2021-05-12,5,2,"#{""will@willacton.com"" ""will@amperity.com""}",625.0,22
+Clojure,lilactown,2021-05-19,1,1,"#{""will@amperity.com""}",626.0,22
+Clojure,lilactown,2021-05-22,3,1,"#{""will@willacton.com""}",629.0,22
+Clojure,lilactown,2021-06-27,1,1,"#{""dominic@dominic.io""}",630.0,23
+Clojure,lilactown,2021-06-30,2,1,"#{""will@willacton.com""}",632.0,23
+Clojure,lilactown,2021-07-10,2,1,"#{""will@amperity.com""}",634.0,23
+Clojure,lilactown,2021-07-13,1,1,"#{""will@amperity.com""}",635.0,23
+Clojure,lilactown,2021-07-14,1,1,"#{""will@amperity.com""}",636.0,23
+Clojure,lilactown,2021-07-16,3,1,"#{""will@amperity.com""}",639.0,23
+Clojure,lilactown,2021-07-31,1,1,"#{""will@willacton.com""}",640.0,23
+Clojure,lilactown,2021-08-03,4,2,"#{""will@willacton.com"" ""will@amperity.com""}",644.0,23
+Clojure,lilactown,2021-08-05,4,2,"#{""will@willacton.com"" ""henrik@eneroth.com""}",648.0,24
+Clojure,lilactown,2021-08-06,4,1,"#{""will@willacton.com""}",652.0,24
+Clojure,lilactown,2021-08-09,4,1,"#{""will@willacton.com""}",656.0,24
+Clojure,lilactown,2021-08-11,9,1,"#{""will@willacton.com""}",665.0,24
+Clojure,lilactown,2021-08-12,2,1,"#{""will@willacton.com""}",667.0,24
+Clojure,lilactown,2021-08-13,5,1,"#{""will@willacton.com""}",672.0,24
+Clojure,lilactown,2021-08-14,8,1,"#{""will@willacton.com""}",680.0,24
+Clojure,lilactown,2021-08-15,1,1,"#{""will@willacton.com""}",681.0,24
+Clojure,lilactown,2021-08-16,7,1,"#{""will@willacton.com""}",688.0,24
+Clojure,lilactown,2021-08-18,5,1,"#{""will@willacton.com""}",693.0,24
+Clojure,lilactown,2021-09-03,2,1,"#{""will@amperity.com""}",695.0,24
+Clojure,lilactown,2021-09-11,1,1,"#{""will@willacton.com""}",696.0,24
+Clojure,lilactown,2021-09-18,5,1,"#{""will@willacton.com""}",701.0,24
+Clojure,lilactown,2021-10-15,1,1,"#{""will@amperity.com""}",702.0,24
+Clojure,lilactown,2021-10-27,6,1,"#{""will@willacton.com""}",708.0,24
+Clojure,lilactown,2021-10-28,3,1,"#{""will@willacton.com""}",711.0,24
+Clojure,lilactown,2021-10-29,14,1,"#{""will@willacton.com""}",725.0,24
+Clojure,lilactown,2021-11-06,3,1,"#{""will@willacton.com""}",728.0,24
+Clojure,lilactown,2021-11-17,1,1,"#{""will@amperity.com""}",729.0,24
+Clojure,lilactown,2021-12-13,1,1,"#{""will@amperity.com""}",730.0,24
+Clojure,lilactown,2021-12-14,1,1,"#{""will@willacton.com""}",731.0,24
+Clojure,lilactown,2021-12-15,2,1,"#{""will@willacton.com""}",733.0,24
+Clojure,lilactown,2021-12-16,1,1,"#{""will@willacton.com""}",734.0,24
+Clojure,lilactown,2021-12-17,6,1,"#{""will@willacton.com""}",740.0,24
+Clojure,lilactown,2021-12-21,1,1,"#{""will@willacton.com""}",741.0,24
+Clojure,lilactown,2021-12-22,1,1,"#{""will@willacton.com""}",742.0,24
+Clojure,lilactown,2021-12-27,1,1,"#{""will@willacton.com""}",743.0,24
+Clojure,lilactown,2021-12-29,2,1,"#{""will@willacton.com""}",745.0,24
+Clojure,lilactown,2021-12-30,1,1,"#{""will@willacton.com""}",746.0,24
+Clojure,lilactown,2021-12-31,1,1,"#{""will@willacton.com""}",747.0,24
+Clojure,lilactown,2022-01-04,2,1,"#{""will@willacton.com""}",749.0,24
+Clojure,lilactown,2022-01-05,5,1,"#{""will@willacton.com""}",754.0,24
+Clojure,lilactown,2022-01-09,4,1,"#{""will@willacton.com""}",758.0,24
+Clojure,lilactown,2022-01-24,8,2,"#{""will@willacton.com"" ""will@amperity.com""}",766.0,24
+Clojure,lilactown,2022-01-25,2,1,"#{""will@willacton.com""}",768.0,24
+Clojure,lilactown,2022-01-30,1,1,"#{""will@willacton.com""}",769.0,24
+Clojure,lilactown,2022-01-31,1,1,"#{""will@amperity.com""}",770.0,24
+Clojure,lilactown,2022-03-20,1,1,"#{""will@willacton.com""}",771.0,24
+Clojure,lilactown,2022-03-21,2,1,"#{""will@willacton.com""}",773.0,24
+Clojure,lilactown,2022-04-05,1,1,"#{""will@amperity.com""}",774.0,24
+Clojure,lilactown,2022-04-17,1,1,"#{""will@willacton.com""}",775.0,24
+Clojure,lilactown,2022-04-22,5,1,"#{""will@willacton.com""}",780.0,24
+Clojure,lilactown,2022-05-08,2,1,"#{""rayat@amperity.com""}",782.0,25
+Clojure,lilactown,2022-05-09,3,2,"#{""rayat.m.rahman@gmail.com"" ""rayat@amperity.com""}",785.0,26
+Clojure,lilactown,2022-05-12,6,3,"#{""will@willacton.com"" ""will@amperity.com"" ""rayat@amperity.com""}",791.0,26
+Clojure,lilactown,2022-05-17,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",793.0,26
+Clojure,lilactown,2022-06-04,12,1,"#{""will@willacton.com""}",805.0,26
+Clojure,lilactown,2022-06-10,1,1,"#{""will@amperity.com""}",806.0,26
+Clojure,lilactown,2022-06-11,1,1,"#{""will@willacton.com""}",807.0,26
+Clojure,lilactown,2022-06-12,3,1,"#{""will@willacton.com""}",810.0,26
+Clojure,lilactown,2022-06-14,1,1,"#{""will@willacton.com""}",811.0,26
+Clojure,lilactown,2022-06-15,4,1,"#{""will@willacton.com""}",815.0,26
+Clojure,lilactown,2022-06-20,1,1,"#{""will@willacton.com""}",816.0,26
+Clojure,lilactown,2022-07-03,1,1,"#{""spwolf18@gmail.com""}",817.0,27
+Clojure,lilactown,2022-07-05,2,1,"#{""will@amperity.com""}",819.0,27
+Clojure,lilactown,2022-07-11,2,1,"#{""will@amperity.com""}",821.0,27
+Clojure,lilactown,2022-07-12,2,1,"#{""will@amperity.com""}",823.0,27
+Clojure,lilactown,2022-07-29,2,1,"#{""will@willacton.com""}",825.0,27
+Clojure,lilactown,2022-07-31,5,1,"#{""will@willacton.com""}",830.0,27
+Clojure,lilactown,2022-08-11,2,1,"#{""will@amperity.com""}",832.0,27
+Clojure,lilactown,2022-08-13,3,2,"#{""will@willacton.com"" ""vincent@404.taipei""}",835.0,28
+Clojure,lilactown,2022-08-16,1,1,"#{""ai@aaroniba.net""}",836.0,28
+Clojure,lilactown,2022-08-17,2,2,"#{""will@willacton.com"" ""will@amperity.com""}",838.0,28
+Clojure,lilactown,2022-09-01,3,2,"#{""fb@fbeyer.com"" ""will@amperity.com""}",841.0,29
+Clojure,lilactown,2022-09-03,2,1,"#{""will@amperity.com""}",843.0,29
+Clojure,lilactown,2022-09-06,1,1,"#{""henrik@eneroth.com""}",844.0,29
+Clojure,lilactown,2022-09-19,5,1,"#{""will@willacton.com""}",849.0,29
+Clojure,lilactown,2022-09-23,4,1,"#{""will@willacton.com""}",853.0,29
+Clojure,lilactown,2022-09-30,1,1,"#{""shaunewilliams@gmail.com""}",854.0,30
+Clojure,lilactown,2022-10-02,4,1,"#{""will@willacton.com""}",858.0,30
+Clojure,lilactown,2022-10-03,4,2,"#{""will@willacton.com"" ""will@amperity.com""}",862.0,30
+Clojure,lilactown,2022-10-04,2,1,"#{""will@willacton.com""}",864.0,30
+Clojure,lilactown,2022-10-05,2,1,"#{""will@willacton.com""}",866.0,30
+Clojure,lilactown,2022-10-23,3,1,"#{""will@willacton.com""}",869.0,30
+Clojure,lilactown,2022-11-08,1,1,"#{""shaunewilliams@gmail.com""}",870.0,30
+Clojure,lilactown,2022-11-09,1,1,"#{""will@amperity.com""}",871.0,30
+Clojure,lilactown,2022-11-10,1,1,"#{""ai@aaroniba.net""}",872.0,30
+Clojure,lilactown,2022-11-12,2,1,"#{""shaunewilliams@gmail.com""}",874.0,30
+Clojure,lilactown,2022-11-13,9,2,"#{""will@willacton.com"" ""will@amperity.com""}",883.0,30
+Clojure,lilactown,2023-01-14,3,2,"#{""will@amperity.com"" ""dominic@dominic.io""}",886.0,30
+Clojure,lilactown,2023-01-16,1,1,"#{""will@amperity.com""}",887.0,30
+Clojure,lilactown,2023-01-28,4,2,"#{""rafadelboni@gmail.com"" ""will@amperity.com""}",891.0,31
+Clojure,lilactown,2023-02-12,2,1,"#{""will@willacton.com""}",893.0,31
+Clojure,lilactown,2023-03-19,1,1,"#{""114131048+rome-user@users.noreply.github.com""}",894.0,32
+Clojure,lilactown,2023-03-20,4,2,"#{""will@willacton.com"" ""will@amperity.com""}",898.0,32
+Clojure,lilactown,2023-03-25,1,1,"#{""114131048+rome-user@users.noreply.github.com""}",899.0,32
+Clojure,lilactown,2023-03-27,2,2,"#{""tvconnors@gmail.com"" ""jakubholy@jakubholy.net""}",901.0,33
+Clojure,lilactown,2023-04-10,1,1,"#{""114131048+rome-user@users.noreply.github.com""}",902.0,33
+Clojure,lilactown,2023-04-19,2,1,"#{""will@amperity.com""}",904.0,33
+Clojure,lilactown,2023-04-23,1,1,"#{""114131048+rome-user@users.noreply.github.com""}",905.0,33
+Clojure,lilactown,2023-04-29,2,1,"#{""114131048+rome-user@users.noreply.github.com""}",907.0,33
+Clojure,lilactown,2023-05-18,1,1,"#{""114131048+rome-user@users.noreply.github.com""}",908.0,33
+Clojure,lilactown,2023-05-20,1,1,"#{""will@willacton.com""}",909.0,33
+Clojure,lilactown,2023-05-23,1,1,"#{""114131048+rome-user@users.noreply.github.com""}",910.0,33
+Clojure,lilactown,2023-06-01,1,1,"#{""saguywalker@protonmail.com""}",911.0,34
+Clojure,lilactown,2023-07-28,1,1,"#{""dpassen1@gmail.com""}",912.0,35
+Clojure,lilactown,2023-08-28,1,1,"#{""will@amperity.com""}",913.0,35
+Clojure,lilactown,2023-09-01,1,1,"#{""will@amperity.com""}",914.0,35
+Clojure,lilactown,2023-09-18,1,1,"#{""ai@aaroniba.net""}",915.0,35
+Clojure,lilactown,2023-09-20,1,1,"#{""will@amperity.com""}",916.0,35
+Clojure,lilactown,2023-10-17,3,1,"#{""will@amperity.com""}",919.0,35
+Clojure,lilactown,2023-10-30,1,1,"#{""will@willacton.com""}",920.0,35
+Clojure,lilactown,2023-11-28,1,1,"#{""mark@wardle.org""}",921.0,36

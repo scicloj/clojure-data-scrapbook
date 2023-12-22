@@ -1,0 +1,451 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/polyfy/polylith,2019-06-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@furkanbayraktar.com]",1.0,[{1 1}],0,0,1,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",2.0,"[{1 1, 0 1}]",0,1,1,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",3.0,"[{1 1, 0 2}]",0,2,1,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",4.0,"[{1 1, 0 3}]",0,3,1,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",5.0,"[{1 1, 0 4}]",0,4,1,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@furkanbayraktar.com, joakimtengstrand@gmail.com]",7.0,"[{1 2, 0 5}]",0,5,2,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",8.0,"[{1 2, 0 6}]",0,6,2,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",10.0,"[{1 2, 0 8}]",0,8,2,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",11.0,"[{1 2, 0 9}]",0,9,2,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",14.0,"[{1 2, 0 12}]",0,12,2,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",15.0,"[{1 2, 0 13}]",0,13,2,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@furkanbayraktar.com, me@furkanbayraktar.com, joakimtengstrand@gmail.com]",18.0,"[{1 4, 0 14}]",0,14,4,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",21.0,"[{1 4, 0 17}]",0,17,4,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-27,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@furkanbayraktar.com, me@furkanbayraktar.com, joakimtengstrand@gmail.com]",24.0,"[{1 6, 0 18}]",0,18,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",25.0,"[{1 6, 0 19}]",0,19,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-09-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",27.0,"[{1 6, 0 21}]",0,21,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",30.0,"[{1 6, 0 24}]",0,24,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",31.0,"[{1 6, 0 25}]",0,25,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",32.0,"[{1 6, 0 26}]",0,26,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",33.0,"[{1 6, 0 27}]",0,27,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",34.0,"[{1 6, 0 28}]",0,28,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",36.0,"[{1 6, 0 30}]",0,30,6,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, me@furkanbayraktar.com]",38.0,"[{1 7, 0 31}]",0,31,7,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",39.0,"[{1 7, 0 32}]",0,32,7,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",40.0,"[{1 7, 0 33}]",0,33,7,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",41.0,"[{1 7, 0 34}]",0,34,7,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",43.0,"[{1 7, 0 36}]",0,36,7,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@furkanbayraktar.com, me@furkanbayraktar.com]",45.0,"[{1 9, 0 36}]",0,36,9,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",48.0,"[{1 9, 0 39}]",0,39,9,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",49.0,"[{1 9, 0 40}]",0,40,9,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-10-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",53.0,"[{1 9, 0 44}]",0,44,9,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",54.0,"[{1 9, 0 45}]",0,45,9,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-11-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@furkanbayraktar.com, joakimtengstrand@gmail.com]",56.0,"[{1 10, 0 46}]",0,46,10,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@furkanbayraktar.com]",57.0,"[{1 11, 0 46}]",0,46,11,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-11-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",58.0,"[{1 11, 0 47}]",0,47,11,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-11-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@furkanbayraktar.com]",59.0,"[{1 12, 0 47}]",0,47,12,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",60.0,"[{1 12, 0 48}]",0,48,12,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@furkanbayraktar.com]",61.0,"[{1 13, 0 48}]",0,48,13,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-12-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@furkanbayraktar.com, joakimtengstrand@gmail.com]",63.0,"[{1 14, 0 49}]",0,49,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2020-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",64.0,"[{1 14, 0 50}]",0,50,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alndvz@users.noreply.github.com]",65.0,"[{1 14, 0 50, ""other"" 1}]",1,50,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-02-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mandimby.raveloarinjaka@gmail.com, joakimtengstrand@gmail.com]",67.0,"[{1 14, 0 51, ""other"" 2}]",2,51,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-02-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",68.0,"[{1 14, 0 52, ""other"" 2}]",2,52,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lauri.oherd@gmail.com]",69.0,"[{1 14, 0 52, ""other"" 3}]",3,52,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-03-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[lauri.oherd@gmail.com, joakimtengstrand@gmail.com]",71.0,"[{1 14, 0 53, ""other"" 4}]",4,53,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-05-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[31179812+jacekschae@users.noreply.github.com, 31179812+jacekschae@users.noreply.github.com]",73.0,"[{1 14, 0 53, ""other"" 6}]",6,53,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-05-12,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, futuro@users.noreply.github.com, brandon.ringe@gmail.com, brandon.ringe@gmail.com]",78.0,"[{1 14, 0 55, ""other"" 9}]",9,55,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-05-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",80.0,"[{1 14, 0 57, ""other"" 9}]",9,57,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ercdll1337@gmail.com]",81.0,"[{1 14, 0 57, ""other"" 10}]",10,57,14,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@furkanbayraktar.com, joakimtengstrand@gmail.com]",83.0,"[{1 15, 0 58, ""other"" 10}]",10,58,15,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",85.0,"[{1 15, 0 60, ""other"" 10}]",10,60,15,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",87.0,"[{1 15, 0 62, ""other"" 10}]",10,62,15,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pez@pezius.com]",88.0,"[{1 15, 0 62, ""other"" 11}]",11,62,15,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",90.0,"[{1 15, 0 64, ""other"" 11}]",11,64,15,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@furkanbayraktar.com]",91.0,"[{1 16, 0 64, ""other"" 11}]",11,64,16,0,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",92.0,"[{1 16, 0 64, ""other"" 11, 2 1}]",11,64,16,1,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",93.0,"[{1 16, 0 64, ""other"" 11, 2 2}]",11,64,16,2,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",94.0,"[{1 16, 0 65, ""other"" 11, 2 2}]",11,65,16,2,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",96.0,"[{1 16, 0 67, ""other"" 11, 2 2}]",11,67,16,2,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",98.0,"[{1 16, 0 69, ""other"" 11, 2 2}]",11,69,16,2,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-29,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",103.0,"[{1 16, 0 74, ""other"" 11, 2 2}]",11,74,16,2,0,0
+Clojure,https://github.com/polyfy/polylith,2021-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",104.0,"[{1 16, 0 75, ""other"" 11, 2 2}]",11,75,16,2,0,0
+Clojure,https://github.com/polyfy/polylith,2021-09-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",105.0,"[{1 16, 0 76, ""other"" 11, 2 2}]",11,76,16,2,0,0
+Clojure,https://github.com/polyfy/polylith,2021-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",106.0,"[{1 16, 0 76, ""other"" 11, 2 3}]",11,76,16,3,0,0
+Clojure,https://github.com/polyfy/polylith,2021-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",107.0,"[{1 16, 0 77, ""other"" 11, 2 3}]",11,77,16,3,0,0
+Clojure,https://github.com/polyfy/polylith,2021-10-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ivan.galban.smith@gmail.com, sean@corfield.org]",109.0,"[{1 16, 0 77, ""other"" 12, 2 4}]",12,77,16,4,0,0
+Clojure,https://github.com/polyfy/polylith,2021-10-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",111.0,"[{1 16, 0 79, ""other"" 12, 2 4}]",12,79,16,4,0,0
+Clojure,https://github.com/polyfy/polylith,2021-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",112.0,"[{1 16, 0 80, ""other"" 12, 2 4}]",12,80,16,4,0,0
+Clojure,https://github.com/polyfy/polylith,2021-10-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",114.0,"[{1 16, 0 82, ""other"" 12, 2 4}]",12,82,16,4,0,0
+Clojure,https://github.com/polyfy/polylith,2021-10-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",116.0,"[{1 16, 0 82, ""other"" 12, 2 6}]",12,82,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",117.0,"[{1 16, 0 83, ""other"" 12, 2 6}]",12,83,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",118.0,"[{1 16, 0 84, ""other"" 12, 2 6}]",12,84,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",119.0,"[{1 16, 0 85, ""other"" 12, 2 6}]",12,85,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",120.0,"[{1 16, 0 86, ""other"" 12, 2 6}]",12,86,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-12-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",121.0,"[{1 16, 0 87, ""other"" 12, 2 6}]",12,87,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",122.0,"[{1 16, 0 88, ""other"" 12, 2 6}]",12,88,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",123.0,"[{1 16, 0 89, ""other"" 12, 2 6}]",12,89,16,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-12-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@furkanbayraktar.com]",124.0,"[{1 17, 0 89, ""other"" 12, 2 6}]",12,89,17,6,0,0
+Clojure,https://github.com/polyfy/polylith,2021-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",125.0,"[{1 17, 0 90, ""other"" 12, 2 6}]",12,90,17,6,0,0
+Clojure,https://github.com/polyfy/polylith,2022-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",126.0,"[{1 17, 0 91, ""other"" 12, 2 6}]",12,91,17,6,0,0
+Clojure,https://github.com/polyfy/polylith,2022-01-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",127.0,"[{1 17, 0 92, ""other"" 12, 2 6}]",12,92,17,6,0,0
+Clojure,https://github.com/polyfy/polylith,2022-02-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[4785848+TimoKramer@users.noreply.github.com]",128.0,"[{1 17, 0 92, ""other"" 13, 2 6}]",13,92,17,6,0,0
+Clojure,https://github.com/polyfy/polylith,2022-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jeroentjevandijk@gmail.com]",129.0,"[{1 17, 0 92, ""other"" 13, 2 6, 4 1}]",13,92,17,6,0,1
+Clojure,https://github.com/polyfy/polylith,2022-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",130.0,"[{1 17, 0 93, ""other"" 13, 2 6, 4 1}]",13,93,17,6,0,1
+Clojure,https://github.com/polyfy/polylith,2022-03-18,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, jeroentjevandijk@gmail.com, jeroentjevandijk@gmail.com]",135.0,"[{1 17, 0 96, ""other"" 13, 2 6, 4 3}]",13,96,17,6,0,3
+Clojure,https://github.com/polyfy/polylith,2022-03-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",137.0,"[{1 17, 0 98, ""other"" 13, 2 6, 4 3}]",13,98,17,6,0,3
+Clojure,https://github.com/polyfy/polylith,2022-03-28,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[joakimtengstrand@gmail.com, imrekoszo@users.noreply.github.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",143.0,"[{1 17, 0 103, ""other"" 13, 2 6, 4 3, 3 1}]",13,103,17,6,1,3
+Clojure,https://github.com/polyfy/polylith,2022-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",144.0,"[{1 17, 0 104, ""other"" 13, 2 6, 4 3, 3 1}]",13,104,17,6,1,3
+Clojure,https://github.com/polyfy/polylith,2022-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[imrekoszo@users.noreply.github.com]",145.0,"[{1 17, 0 104, ""other"" 13, 2 6, 4 3, 3 2}]",13,104,17,6,2,3
+Clojure,https://github.com/polyfy/polylith,2022-04-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[imrekoszo@users.noreply.github.com]",146.0,"[{1 17, 0 104, ""other"" 13, 2 6, 4 3, 3 3}]",13,104,17,6,3,3
+Clojure,https://github.com/polyfy/polylith,2022-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[imrekoszo@users.noreply.github.com]",147.0,"[{1 17, 0 104, ""other"" 13, 2 6, 4 3, 3 4}]",13,104,17,6,4,3
+Clojure,https://github.com/polyfy/polylith,2022-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dpetranek@flur.ee]",148.0,"[{1 17, 0 104, ""other"" 14, 2 6, 4 3, 3 4}]",14,104,17,6,4,3
+Clojure,https://github.com/polyfy/polylith,2022-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[4785848+TimoKramer@users.noreply.github.com]",149.0,"[{1 17, 0 104, ""other"" 15, 2 6, 4 3, 3 4}]",15,104,17,6,4,3
+Clojure,https://github.com/polyfy/polylith,2022-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",150.0,"[{1 17, 0 105, ""other"" 15, 2 6, 4 3, 3 4}]",15,105,17,6,4,3
+Clojure,https://github.com/polyfy/polylith,2022-05-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",151.0,"[{1 17, 0 106, ""other"" 15, 2 6, 4 3, 3 4}]",15,106,17,6,4,3
+Clojure,https://github.com/polyfy/polylith,2022-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",152.0,"[{1 17, 0 106, ""other"" 15, 2 7, 4 3, 3 4}]",15,106,17,7,4,3
+Clojure,https://github.com/polyfy/polylith,2022-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",153.0,"[{1 17, 0 107, ""other"" 15, 2 7, 4 3, 3 4}]",15,107,17,7,4,3
+Clojure,https://github.com/polyfy/polylith,2022-06-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",155.0,"[{1 17, 0 109, ""other"" 15, 2 7, 4 3, 3 4}]",15,109,17,7,4,3
+Clojure,https://github.com/polyfy/polylith,2022-06-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jihun.kim@greenlabs.co.kr, joakimtengstrand@gmail.com]",157.0,"[{1 17, 0 110, ""other"" 16, 2 7, 4 3, 3 4}]",16,110,17,7,4,3
+Clojure,https://github.com/polyfy/polylith,2022-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",158.0,"[{1 17, 0 111, ""other"" 16, 2 7, 4 3, 3 4}]",16,111,17,7,4,3
+Clojure,https://github.com/polyfy/polylith,2022-07-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",160.0,"[{1 17, 0 113, ""other"" 16, 2 7, 4 3, 3 4}]",16,113,17,7,4,3
+Clojure,https://github.com/polyfy/polylith,2022-08-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",162.0,"[{1 17, 0 115, ""other"" 16, 2 7, 4 3, 3 4}]",16,115,17,7,4,3
+Clojure,https://github.com/polyfy/polylith,2022-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",163.0,"[{1 17, 0 115, ""other"" 16, 2 8, 4 3, 3 4}]",16,115,17,8,4,3
+Clojure,https://github.com/polyfy/polylith,2022-09-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, eugen@ieugen.ro]",165.0,"[{1 17, 0 116, ""other"" 17, 2 8, 4 3, 3 4}]",17,116,17,8,4,3
+Clojure,https://github.com/polyfy/polylith,2022-11-01,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, joakimtengstrand@gmail.com]",168.0,"[{1 17, 0 117, ""other"" 17, 2 10, 4 3, 3 4}]",17,117,17,10,4,3
+Clojure,https://github.com/polyfy/polylith,2022-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@furkanbayraktar.com]",169.0,"[{1 18, 0 117, ""other"" 17, 2 10, 4 3, 3 4}]",17,117,18,10,4,3
+Clojure,https://github.com/polyfy/polylith,2022-12-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",171.0,"[{1 18, 0 119, ""other"" 17, 2 10, 4 3, 3 4}]",17,119,18,10,4,3
+Clojure,https://github.com/polyfy/polylith,2022-12-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@furkanbayraktar.com, me@furkanbayraktar.com]",173.0,"[{1 20, 0 119, ""other"" 17, 2 10, 4 3, 3 4}]",17,119,20,10,4,3
+Clojure,https://github.com/polyfy/polylith,2022-12-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",174.0,"[{1 20, 0 120, ""other"" 17, 2 10, 4 3, 3 4}]",17,120,20,10,4,3
+Clojure,https://github.com/polyfy/polylith,2022-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",175.0,"[{1 20, 0 121, ""other"" 17, 2 10, 4 3, 3 4}]",17,121,20,10,4,3
+Clojure,https://github.com/polyfy/polylith,2022-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",176.0,"[{1 20, 0 121, ""other"" 17, 2 11, 4 3, 3 4}]",17,121,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2022-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",177.0,"[{1 20, 0 122, ""other"" 17, 2 11, 4 3, 3 4}]",17,122,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ryan@arctype.co]",178.0,"[{1 20, 0 122, ""other"" 18, 2 11, 4 3, 3 4}]",18,122,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",179.0,"[{1 20, 0 123, ""other"" 18, 2 11, 4 3, 3 4}]",18,123,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",180.0,"[{1 20, 0 124, ""other"" 18, 2 11, 4 3, 3 4}]",18,124,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-02-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",181.0,"[{1 20, 0 125, ""other"" 18, 2 11, 4 3, 3 4}]",18,125,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",182.0,"[{1 20, 0 126, ""other"" 18, 2 11, 4 3, 3 4}]",18,126,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",183.0,"[{1 20, 0 127, ""other"" 18, 2 11, 4 3, 3 4}]",18,127,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-03-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",185.0,"[{1 20, 0 129, ""other"" 18, 2 11, 4 3, 3 4}]",18,129,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",186.0,"[{1 20, 0 130, ""other"" 18, 2 11, 4 3, 3 4}]",18,130,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-03-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",188.0,"[{1 20, 0 132, ""other"" 18, 2 11, 4 3, 3 4}]",18,132,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",190.0,"[{1 20, 0 134, ""other"" 18, 2 11, 4 3, 3 4}]",18,134,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",191.0,"[{1 20, 0 135, ""other"" 18, 2 11, 4 3, 3 4}]",18,135,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dean.chapman@kroo.com]",192.0,"[{1 20, 0 135, ""other"" 19, 2 11, 4 3, 3 4}]",19,135,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-04-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",194.0,"[{1 20, 0 137, ""other"" 19, 2 11, 4 3, 3 4}]",19,137,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",195.0,"[{1 20, 0 138, ""other"" 19, 2 11, 4 3, 3 4}]",19,138,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",196.0,"[{1 20, 0 139, ""other"" 19, 2 11, 4 3, 3 4}]",19,139,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-07-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",197.0,"[{1 20, 0 140, ""other"" 19, 2 11, 4 3, 3 4}]",19,140,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",198.0,"[{1 20, 0 141, ""other"" 19, 2 11, 4 3, 3 4}]",19,141,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-08-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jdsha@proton.me]",199.0,"[{1 20, 0 141, ""other"" 20, 2 11, 4 3, 3 4}]",20,141,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",200.0,"[{1 20, 0 142, ""other"" 20, 2 11, 4 3, 3 4}]",20,142,20,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@furkanbayraktar.com, joakimtengstrand@gmail.com]",202.0,"[{1 21, 0 143, ""other"" 20, 2 11, 4 3, 3 4}]",20,143,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",205.0,"[{1 21, 0 146, ""other"" 20, 2 11, 4 3, 3 4}]",20,146,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",206.0,"[{1 21, 0 147, ""other"" 20, 2 11, 4 3, 3 4}]",20,147,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",207.0,"[{1 21, 0 148, ""other"" 20, 2 11, 4 3, 3 4}]",20,148,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",208.0,"[{1 21, 0 149, ""other"" 20, 2 11, 4 3, 3 4}]",20,149,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, namenu@gmail.com]",210.0,"[{1 21, 0 150, ""other"" 21, 2 11, 4 3, 3 4}]",21,150,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",211.0,"[{1 21, 0 151, ""other"" 21, 2 11, 4 3, 3 4}]",21,151,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",212.0,"[{1 21, 0 152, ""other"" 21, 2 11, 4 3, 3 4}]",21,152,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",213.0,"[{1 21, 0 153, ""other"" 21, 2 11, 4 3, 3 4}]",21,153,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",214.0,"[{1 21, 0 154, ""other"" 21, 2 11, 4 3, 3 4}]",21,154,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",215.0,"[{1 21, 0 155, ""other"" 21, 2 11, 4 3, 3 4}]",21,155,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",217.0,"[{1 21, 0 157, ""other"" 21, 2 11, 4 3, 3 4}]",21,157,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",220.0,"[{1 21, 0 160, ""other"" 21, 2 11, 4 3, 3 4}]",21,160,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",221.0,"[{1 21, 0 161, ""other"" 21, 2 11, 4 3, 3 4}]",21,161,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",222.0,"[{1 21, 0 162, ""other"" 21, 2 11, 4 3, 3 4}]",21,162,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",225.0,"[{1 21, 0 165, ""other"" 21, 2 11, 4 3, 3 4}]",21,165,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",227.0,"[{1 21, 0 167, ""other"" 21, 2 11, 4 3, 3 4}]",21,167,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joakimtengstrand@gmail.com, joakimtengstrand@gmail.com]",229.0,"[{1 21, 0 169, ""other"" 21, 2 11, 4 3, 3 4}]",21,169,21,11,4,3
+Clojure,https://github.com/polyfy/polylith,2023-11-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joakimtengstrand@gmail.com]",230.0,"[{1 21, 0 170, ""other"" 21, 2 11, 4 3, 3 4}]",21,170,21,11,4,3

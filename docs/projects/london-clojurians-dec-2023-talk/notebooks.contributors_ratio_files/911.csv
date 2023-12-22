@@ -1,0 +1,268 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/cognitect/transit-cljs,2014-05-22,18,2,"#tech.v3.dataset.column<string>[18]
+:email
+[davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, david.nolen@gmail.com]",18.0,"[{2 17, 1 1}]",0,0,1,17,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-05-23,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, david.nolen@gmail.com]",26.0,"[{2 24, 1 2}]",0,0,2,24,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-05-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local]",31.0,"[{2 29, 1 2}]",0,0,2,29,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-05-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com]",34.0,"[{2 29, 1 5}]",0,0,5,29,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-06-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, david.nolen@gmail.com]",37.0,"[{2 31, 1 6}]",0,0,6,31,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-06-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[davidnolen@Davids-iMac.local]",38.0,"[{2 32, 1 6}]",0,0,6,32,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-06-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com]",40.0,"[{2 32, 1 8}]",0,0,8,32,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-06-11,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@davids-imac.westell.com, davidnolen@davids-imac.westell.com, davidnolen@davids-imac.westell.com, davidnolen@davids-imac.westell.com]",46.0,"[{2 34, 1 8, ""other"" 4}]",4,0,8,34,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-06-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, davidnolen@Davids-iMac.local]",48.0,"[{2 35, 1 8, ""other"" 4, 0 1}]",4,1,8,35,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-06-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",52.0,"[{2 35, 1 8, ""other"" 4, 0 5}]",4,5,8,35,0,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-06-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com]",54.0,"[{2 35, 1 8, ""other"" 4, 0 5, 3 2}]",4,5,8,35,2,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-01,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local]",60.0,"[{2 41, 1 8, ""other"" 4, 0 5, 3 2}]",4,5,8,41,2,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local, davidnolen@Davids-iMac.local]",63.0,"[{2 44, 1 8, ""other"" 4, 0 5, 3 2}]",4,5,8,44,2,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, alex.miller@cognitect.com]",66.0,"[{2 44, 1 8, ""other"" 4, 0 7, 3 3}]",4,7,8,44,3,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com]",70.0,"[{2 44, 1 12, ""other"" 4, 0 7, 3 3}]",4,7,12,44,3,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",72.0,"[{2 44, 1 12, ""other"" 4, 0 9, 3 3}]",4,9,12,44,3,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-07,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, alex.miller@cognitect.com]",75.0,"[{2 44, 1 12, ""other"" 4, 0 11, 3 4}]",4,11,12,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",77.0,"[{2 44, 1 12, ""other"" 4, 0 13, 3 4}]",4,13,12,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",78.0,"[{2 44, 1 12, ""other"" 4, 0 14, 3 4}]",4,14,12,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-10,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com, david.nolen@gmail.com]",83.0,"[{2 44, 1 14, ""other"" 4, 0 17, 3 4}]",4,17,14,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-11,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",90.0,"[{2 44, 1 14, ""other"" 4, 0 24, 3 4}]",4,24,14,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com]",93.0,"[{2 44, 1 17, ""other"" 4, 0 24, 3 4}]",4,24,17,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",99.0,"[{2 44, 1 17, ""other"" 4, 0 30, 3 4}]",4,30,17,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-15,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",112.0,"[{2 44, 1 17, ""other"" 4, 0 43, 3 4}]",4,43,17,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-16,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com]",117.0,"[{2 44, 1 18, ""other"" 4, 0 47, 3 4}]",4,47,18,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",120.0,"[{2 44, 1 18, ""other"" 4, 0 50, 3 4}]",4,50,18,44,4,0
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-18,15,4,"#tech.v3.dataset.column<string>[15]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, dnolen@cognitect.com, alex@puredanger.com, tim.ewald@gmail.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, alex@puredanger.com, dnolen@cognitect.com]",135.0,"[{2 44, 1 18, ""other"" 5, 0 58, 3 8, 4 2}]",5,58,18,44,8,2
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-21,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[dnolen@cognitect.com, alex@puredanger.com, dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com]",140.0,"[{2 44, 1 19, ""other"" 5, 0 61, 3 8, 4 3}]",5,61,19,44,8,3
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, alex@puredanger.com]",142.0,"[{2 44, 1 19, ""other"" 5, 0 62, 3 8, 4 4}]",5,62,19,44,8,4
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",144.0,"[{2 44, 1 19, ""other"" 5, 0 64, 3 8, 4 4}]",5,64,19,44,8,4
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-26,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com]",149.0,"[{2 44, 1 22, ""other"" 5, 0 66, 3 8, 4 4}]",5,66,22,44,8,4
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com]",151.0,"[{2 44, 1 24, ""other"" 5, 0 66, 3 8, 4 4}]",5,66,24,44,8,4
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-28,9,4,"#tech.v3.dataset.column<string>[9]
+:email
+[alex@puredanger.com, alex.miller@cognitect.com, alex.miller@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com, alex.miller@cognitect.com, alex.miller@cognitect.com]",160.0,"[{2 44, 1 25, ""other"" 5, 0 69, 3 12, 4 5}]",5,69,25,44,12,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",161.0,"[{2 44, 1 26, ""other"" 5, 0 69, 3 12, 4 5}]",5,69,26,44,12,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",162.0,"[{2 44, 1 26, ""other"" 5, 0 70, 3 12, 4 5}]",5,70,26,44,12,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-07-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com]",164.0,"[{2 44, 1 26, ""other"" 5, 0 70, 3 14, 4 5}]",5,70,26,44,14,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",170.0,"[{2 44, 1 26, ""other"" 5, 0 76, 3 14, 4 5}]",5,76,26,44,14,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",171.0,"[{2 44, 1 27, ""other"" 5, 0 76, 3 14, 4 5}]",5,76,27,44,14,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-10,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",176.0,"[{2 44, 1 27, ""other"" 5, 0 81, 3 14, 4 5}]",5,81,27,44,14,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-11,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com]",180.0,"[{2 44, 1 28, ""other"" 5, 0 84, 3 14, 4 5}]",5,84,28,44,14,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",181.0,"[{2 44, 1 29, ""other"" 5, 0 84, 3 14, 4 5}]",5,84,29,44,14,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-15,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[alex.miller@cognitect.com, david.nolen@gmail.com, david.nolen@gmail.com]",184.0,"[{2 44, 1 31, ""other"" 5, 0 84, 3 15, 4 5}]",5,84,31,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",186.0,"[{2 44, 1 31, ""other"" 5, 0 86, 3 15, 4 5}]",5,86,31,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-08-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",187.0,"[{2 44, 1 31, ""other"" 5, 0 87, 3 15, 4 5}]",5,87,31,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",188.0,"[{2 44, 1 31, ""other"" 5, 0 88, 3 15, 4 5}]",5,88,31,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-09-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",190.0,"[{2 44, 1 31, ""other"" 5, 0 90, 3 15, 4 5}]",5,90,31,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",191.0,"[{2 44, 1 32, ""other"" 5, 0 90, 3 15, 4 5}]",5,90,32,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",192.0,"[{2 44, 1 33, ""other"" 5, 0 90, 3 15, 4 5}]",5,90,33,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-11-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, david.nolen@gmail.com]",194.0,"[{2 44, 1 34, ""other"" 5, 0 91, 3 15, 4 5}]",5,91,34,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",195.0,"[{2 44, 1 35, ""other"" 5, 0 91, 3 15, 4 5}]",5,91,35,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",196.0,"[{2 44, 1 35, ""other"" 5, 0 92, 3 15, 4 5}]",5,92,35,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2014-12-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com]",198.0,"[{2 44, 1 37, ""other"" 5, 0 92, 3 15, 4 5}]",5,92,37,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-01-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com, david.nolen@gmail.com]",202.0,"[{2 44, 1 39, ""other"" 5, 0 94, 3 15, 4 5}]",5,94,39,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-01-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",204.0,"[{2 44, 1 39, ""other"" 5, 0 96, 3 15, 4 5}]",5,96,39,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",205.0,"[{2 44, 1 40, ""other"" 5, 0 96, 3 15, 4 5}]",5,96,40,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-02-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",207.0,"[{2 44, 1 40, ""other"" 5, 0 98, 3 15, 4 5}]",5,98,40,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-04-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dchelimsky@gmail.com, dchelimsky@gmail.com]",209.0,"[{2 44, 1 40, ""other"" 7, 0 98, 3 15, 4 5}]",7,98,40,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-05-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com]",212.0,"[{2 44, 1 43, ""other"" 7, 0 98, 3 15, 4 5}]",7,98,43,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-05-13,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com, david.nolen@gmail.com]",217.0,"[{2 44, 1 45, ""other"" 7, 0 101, 3 15, 4 5}]",7,101,45,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",218.0,"[{2 44, 1 46, ""other"" 7, 0 101, 3 15, 4 5}]",7,101,46,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-06-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",222.0,"[{2 44, 1 46, ""other"" 7, 0 105, 3 15, 4 5}]",7,105,46,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-08-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",223.0,"[{2 44, 1 47, ""other"" 7, 0 105, 3 15, 4 5}]",7,105,47,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",224.0,"[{2 44, 1 48, ""other"" 7, 0 105, 3 15, 4 5}]",7,105,48,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-08-28,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com]",228.0,"[{2 44, 1 49, ""other"" 7, 0 108, 3 15, 4 5}]",7,108,49,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",229.0,"[{2 44, 1 50, ""other"" 7, 0 108, 3 15, 4 5}]",7,108,50,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-09-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com]",231.0,"[{2 44, 1 52, ""other"" 7, 0 108, 3 15, 4 5}]",7,108,52,44,15,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",232.0,"[{2 44, 1 52, ""other"" 7, 0 108, 3 16, 4 5}]",7,108,52,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",233.0,"[{2 44, 1 52, ""other"" 7, 0 109, 3 16, 4 5}]",7,109,52,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-11-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",234.0,"[{2 44, 1 52, ""other"" 7, 0 110, 3 16, 4 5}]",7,110,52,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-12-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com]",236.0,"[{2 44, 1 54, ""other"" 7, 0 110, 3 16, 4 5}]",7,110,54,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-12-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",237.0,"[{2 44, 1 55, ""other"" 7, 0 110, 3 16, 4 5}]",7,110,55,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",238.0,"[{2 44, 1 55, ""other"" 7, 0 111, 3 16, 4 5}]",7,111,55,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2015-12-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",239.0,"[{2 44, 1 55, ""other"" 7, 0 112, 3 16, 4 5}]",7,112,55,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2016-06-20,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, david.nolen@gmail.com]",242.0,"[{2 44, 1 56, ""other"" 7, 0 114, 3 16, 4 5}]",7,114,56,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2017-10-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",246.0,"[{2 44, 1 56, ""other"" 7, 0 118, 3 16, 4 5}]",7,118,56,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",247.0,"[{2 44, 1 56, ""other"" 7, 0 119, 3 16, 4 5}]",7,119,56,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-03-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",250.0,"[{2 44, 1 56, ""other"" 7, 0 122, 3 16, 4 5}]",7,122,56,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-03-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com]",252.0,"[{2 44, 1 56, ""other"" 7, 0 124, 3 16, 4 5}]",7,124,56,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-03-30,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com, dnolen@cognitect.com]",258.0,"[{2 44, 1 56, ""other"" 7, 0 130, 3 16, 4 5}]",7,130,56,44,16,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-05-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",259.0,"[{2 44, 1 56, ""other"" 7, 0 130, 3 17, 4 5}]",7,130,56,44,17,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",260.0,"[{2 44, 1 57, ""other"" 7, 0 130, 3 17, 4 5}]",7,130,57,44,17,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",261.0,"[{2 44, 1 58, ""other"" 7, 0 130, 3 17, 4 5}]",7,130,58,44,17,5
+Clojure,https://github.com/cognitect/transit-cljs,2018-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dnolen@cognitect.com]",262.0,"[{2 44, 1 58, ""other"" 7, 0 131, 3 17, 4 5}]",7,131,58,44,17,5
+Clojure,https://github.com/cognitect/transit-cljs,2019-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",263.0,"[{2 44, 1 58, ""other"" 7, 0 131, 3 18, 4 5}]",7,131,58,44,18,5
+Clojure,https://github.com/cognitect/transit-cljs,2020-05-01,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com]",269.0,"[{2 44, 1 58, ""other"" 7, 0 131, 3 24, 4 5}]",7,131,58,44,24,5
+Clojure,https://github.com/cognitect/transit-cljs,2021-04-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com]",271.0,"[{2 44, 1 58, ""other"" 7, 0 131, 3 26, 4 5}]",7,131,58,44,26,5
+Clojure,https://github.com/cognitect/transit-cljs,2022-06-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com]",273.0,"[{2 44, 1 60, ""other"" 7, 0 131, 3 26, 4 5}]",7,131,60,44,26,5
+Clojure,https://github.com/cognitect/transit-cljs,2022-06-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com]",276.0,"[{2 44, 1 63, ""other"" 7, 0 131, 3 26, 4 5}]",7,131,63,44,26,5
+Clojure,https://github.com/cognitect/transit-cljs,2022-06-22,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[alex.miller@cognitect.com, david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com, david.nolen@gmail.com]",282.0,"[{2 44, 1 68, ""other"" 7, 0 131, 3 27, 4 5}]",7,131,68,44,27,5

@@ -1,0 +1,283 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/nathanborror/django-basic-apps,2009-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",1.0,[{1 1}],0,0,1,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",2.0,[{1 2}],0,0,2,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eric@ericholscher.com]",3.0,"[{1 2, ""other"" 1}]",1,0,2,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-03-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",7.0,"[{1 6, ""other"" 1}]",1,0,6,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@mylesbraithwaite.com]",8.0,"[{1 6, ""other"" 2}]",2,0,6,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",9.0,"[{1 7, ""other"" 2}]",2,0,7,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",10.0,"[{1 8, ""other"" 2}]",2,0,8,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",11.0,"[{1 9, ""other"" 2}]",2,0,9,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-04-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pete@lincolnloop.com]",12.0,"[{1 9, ""other"" 3}]",3,0,9,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",13.0,"[{1 10, ""other"" 3}]",3,0,10,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-06-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",16.0,"[{1 13, ""other"" 3}]",3,0,13,0,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-06-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com]",19.0,"[{1 13, ""other"" 3, 2 3}]",3,0,13,3,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kevin@howiworkdaily.com]",20.0,"[{1 13, ""other"" 3, 2 4}]",3,0,13,4,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-06-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com]",24.0,"[{1 13, ""other"" 3, 2 8}]",3,0,13,8,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-06-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kevin@howiworkdaily.com, kevin@howiworkdaily.com]",26.0,"[{1 13, ""other"" 3, 2 10}]",3,0,13,10,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-06-30,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com]",33.0,"[{1 13, ""other"" 3, 2 17}]",3,0,13,17,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-07-01,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com]",41.0,"[{1 13, ""other"" 3, 2 25}]",3,0,13,25,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kevin@howiworkdaily.com]",42.0,"[{1 13, ""other"" 3, 2 26}]",3,0,13,26,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kevin@howiworkdaily.com]",43.0,"[{1 13, ""other"" 3, 2 27}]",3,0,13,27,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kevin@howiworkdaily.com]",44.0,"[{1 13, ""other"" 3, 2 28}]",3,0,13,28,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kevin@howiworkdaily.com]",45.0,"[{1 13, ""other"" 3, 2 29}]",3,0,13,29,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com]",49.0,"[{1 13, ""other"" 3, 2 33}]",3,0,13,33,0,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-20,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[kevin@montylounge.com, kevin@montylounge.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com, kevin@howiworkdaily.com]",54.0,"[{1 13, ""other"" 3, 2 36, 3 2}]",3,0,13,36,2,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kevin@montylounge.com]",55.0,"[{1 13, ""other"" 3, 2 36, 3 3}]",3,0,13,36,3,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kevin@montylounge.com, kevin@montylounge.com]",57.0,"[{1 13, ""other"" 3, 2 36, 3 5}]",3,0,13,36,5,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-08-27,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[kevin@montylounge.com, kevin@montylounge.com, kevin@montylounge.com, kevin@montylounge.com, kevin@montylounge.com]",62.0,"[{1 13, ""other"" 3, 2 36, 3 10}]",3,0,13,36,10,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-09-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[kevin@montylounge.com, kevin@montylounge.com, kevin@montylounge.com, kevin@montylounge.com, kevin@montylounge.com]",67.0,"[{1 13, ""other"" 3, 2 36, 3 15}]",3,0,13,36,15,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-09-26,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, kevin@montylounge.com]",71.0,"[{1 16, ""other"" 3, 2 36, 3 16}]",3,0,16,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-09-27,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",78.0,"[{1 23, ""other"" 3, 2 36, 3 16}]",3,0,23,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",79.0,"[{1 24, ""other"" 3, 2 36, 3 16}]",3,0,24,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[josho@Nyarlathotep.local]",80.0,"[{1 24, ""other"" 4, 2 36, 3 16}]",4,0,24,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[justquick@gmail.com]",81.0,"[{1 24, ""other"" 5, 2 36, 3 16}]",5,0,24,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",82.0,"[{1 25, ""other"" 5, 2 36, 3 16}]",5,0,25,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com]",84.0,"[{1 27, ""other"" 5, 2 36, 3 16}]",5,0,27,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-11-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[matt@lawrence.com]",85.0,"[{1 27, ""other"" 6, 2 36, 3 16}]",6,0,27,36,16,0
+Python,https://github.com/nathanborror/django-basic-apps,2009-11-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dana@dana-woodmans-macbook-pro.local, dana@dana-woodmans-macbook-pro.local, dana@dana-woodmans-macbook-pro.local, dana@dana-woodmans-macbook-pro.local]",89.0,"[{1 27, ""other"" 6, 2 36, 3 16, 4 4}]",6,0,27,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2009-11-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com]",91.0,"[{1 29, ""other"" 6, 2 36, 3 16, 4 4}]",6,0,29,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2009-12-10,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, daniel@toastdriven.com]",95.0,"[{1 32, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,32,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2009-12-11,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",101.0,"[{1 38, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,38,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2009-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",102.0,"[{1 39, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,39,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2009-12-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",105.0,"[{1 42, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,42,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2009-12-27,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",112.0,"[{1 49, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,49,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2009-12-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com]",114.0,"[{1 51, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,51,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-01-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com]",116.0,"[{1 53, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,53,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-01-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",119.0,"[{1 56, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,56,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-01-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com]",121.0,"[{1 58, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,58,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",122.0,"[{1 59, ""other"" 7, 2 36, 3 16, 4 4}]",7,0,59,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[travis.cline@gmail.com]",123.0,"[{1 59, ""other"" 8, 2 36, 3 16, 4 4}]",8,0,59,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-02-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",124.0,"[{1 60, ""other"" 8, 2 36, 3 16, 4 4}]",8,0,60,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com]",126.0,"[{1 62, ""other"" 8, 2 36, 3 16, 4 4}]",8,0,62,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-02-21,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",131.0,"[{1 67, ""other"" 8, 2 36, 3 16, 4 4}]",8,0,67,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",132.0,"[{1 68, ""other"" 8, 2 36, 3 16, 4 4}]",8,0,68,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-03-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com, nathan@playgroundblues.com]",137.0,"[{1 73, ""other"" 8, 2 36, 3 16, 4 4}]",8,0,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jabapyth@gmail.com]",138.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4}]",9,0,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-05-19,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",147.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4, 0 9}]",9,9,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-05-28,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",153.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4, 0 15}]",9,15,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",154.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4, 0 16}]",9,16,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",155.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4, 0 17}]",9,17,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-06-07,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",160.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4, 0 22}]",9,22,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-06-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com]",162.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4, 0 24}]",9,24,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-06-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",165.0,"[{1 73, ""other"" 9, 2 36, 3 16, 4 4, 0 27}]",9,27,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-06-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jumo@gmx.de, jumo@gmx.de]",167.0,"[{1 73, ""other"" 11, 2 36, 3 16, 4 4, 0 27}]",11,27,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jumo@gmx.de]",168.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 27}]",12,27,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",169.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 28}]",12,28,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-04,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",175.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 34}]",12,34,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-05,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",184.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 43}]",12,43,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",185.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 44}]",12,44,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",186.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 45}]",12,45,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",190.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 49}]",12,49,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-10,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",195.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 54}]",12,54,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",199.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 58}]",12,58,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",200.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 59}]",12,59,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",201.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 60}]",12,60,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-08-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",204.0,"[{1 73, ""other"" 12, 2 36, 3 16, 4 4, 0 63}]",12,63,73,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-08-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@playgroundblues.com]",205.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 63}]",12,63,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-08-17,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",213.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 71}]",12,71,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-08-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com]",215.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 73}]",12,73,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",216.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 74}]",12,74,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",217.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 75}]",12,75,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",218.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 76}]",12,76,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",219.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 77}]",12,77,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2010-11-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com]",221.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 79}]",12,79,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2011-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",222.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 80}]",12,80,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2011-03-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com, nathan@nathanborror.com]",225.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 83}]",12,83,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2011-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",226.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 84}]",12,84,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2012-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",227.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 85}]",12,85,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2012-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",228.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 86}]",12,86,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2012-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",229.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 87}]",12,87,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2012-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",230.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 88}]",12,88,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2012-11-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com]",232.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 90}]",12,90,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2013-07-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",233.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 91}]",12,91,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2013-07-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com]",235.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 93}]",12,93,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2013-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@nathanborror.com]",236.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 94}]",12,94,74,36,16,4
+Python,https://github.com/nathanborror/django-basic-apps,2014-04-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@nathanborror.com, nathan@nathanborror.com]",238.0,"[{1 74, ""other"" 12, 2 36, 3 16, 4 4, 0 96}]",12,96,74,36,16,4

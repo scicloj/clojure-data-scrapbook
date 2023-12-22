@@ -1,0 +1,1413 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,penpot,2015-06-18,1,1,"#{""niwi@niwi.nz""}",1.0,1
+Clojure,penpot,2015-12-13,3,1,"#{""niwi@niwi.nz""}",4.0,1
+Clojure,penpot,2015-12-14,5,1,"#{""niwi@niwi.nz""}",9.0,1
+Clojure,penpot,2015-12-15,15,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",24.0,2
+Clojure,penpot,2015-12-16,12,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",36.0,2
+Clojure,penpot,2015-12-17,9,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",45.0,2
+Clojure,penpot,2015-12-18,7,1,"#{""niwi@niwi.nz""}",52.0,2
+Clojure,penpot,2015-12-20,4,1,"#{""niwi@niwi.nz""}",56.0,2
+Clojure,penpot,2015-12-21,2,1,"#{""niwi@niwi.nz""}",58.0,2
+Clojure,penpot,2015-12-22,7,1,"#{""niwi@niwi.nz""}",65.0,2
+Clojure,penpot,2015-12-23,4,1,"#{""niwi@niwi.nz""}",69.0,2
+Clojure,penpot,2015-12-24,13,1,"#{""niwi@niwi.nz""}",82.0,2
+Clojure,penpot,2015-12-25,9,1,"#{""niwi@niwi.nz""}",91.0,2
+Clojure,penpot,2015-12-26,4,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",95.0,2
+Clojure,penpot,2015-12-27,6,1,"#{""niwi@niwi.nz""}",101.0,2
+Clojure,penpot,2015-12-28,20,1,"#{""niwi@niwi.nz""}",121.0,2
+Clojure,penpot,2015-12-29,9,1,"#{""niwi@niwi.nz""}",130.0,2
+Clojure,penpot,2015-12-30,3,1,"#{""niwi@niwi.nz""}",133.0,2
+Clojure,penpot,2015-12-31,2,1,"#{""niwi@niwi.nz""}",135.0,2
+Clojure,penpot,2016-01-01,3,1,"#{""niwi@niwi.nz""}",138.0,2
+Clojure,penpot,2016-01-02,10,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",148.0,2
+Clojure,penpot,2016-01-03,5,1,"#{""niwi@niwi.nz""}",153.0,2
+Clojure,penpot,2016-01-06,9,1,"#{""niwi@niwi.nz""}",162.0,2
+Clojure,penpot,2016-01-07,14,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",176.0,2
+Clojure,penpot,2016-01-08,7,1,"#{""niwi@niwi.nz""}",183.0,2
+Clojure,penpot,2016-01-09,2,1,"#{""niwi@niwi.nz""}",185.0,2
+Clojure,penpot,2016-01-10,6,1,"#{""niwi@niwi.nz""}",191.0,2
+Clojure,penpot,2016-01-11,9,1,"#{""niwi@niwi.nz""}",200.0,2
+Clojure,penpot,2016-01-12,16,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",216.0,2
+Clojure,penpot,2016-01-13,6,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",222.0,2
+Clojure,penpot,2016-01-14,2,1,"#{""juan.delacruz@kaleidos.net""}",224.0,2
+Clojure,penpot,2016-01-16,1,1,"#{""niwi@niwi.nz""}",225.0,2
+Clojure,penpot,2016-01-17,19,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",244.0,2
+Clojure,penpot,2016-01-18,4,1,"#{""niwi@niwi.nz""}",248.0,2
+Clojure,penpot,2016-01-19,10,1,"#{""niwi@niwi.nz""}",258.0,2
+Clojure,penpot,2016-01-20,21,1,"#{""niwi@niwi.nz""}",279.0,2
+Clojure,penpot,2016-01-21,10,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",289.0,2
+Clojure,penpot,2016-01-22,13,1,"#{""niwi@niwi.nz""}",302.0,2
+Clojure,penpot,2016-01-23,13,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",315.0,3
+Clojure,penpot,2016-01-24,15,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",330.0,3
+Clojure,penpot,2016-01-25,7,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",337.0,3
+Clojure,penpot,2016-01-26,4,1,"#{""niwi@niwi.nz""}",341.0,3
+Clojure,penpot,2016-01-27,1,1,"#{""alejandro@dialelo.com""}",342.0,4
+Clojure,penpot,2016-01-28,13,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",355.0,4
+Clojure,penpot,2016-01-29,14,1,"#{""niwi@niwi.nz""}",369.0,4
+Clojure,penpot,2016-01-30,19,1,"#{""niwi@niwi.nz""}",388.0,4
+Clojure,penpot,2016-01-31,2,1,"#{""niwi@niwi.nz""}",390.0,4
+Clojure,penpot,2016-02-01,6,1,"#{""niwi@niwi.nz""}",396.0,4
+Clojure,penpot,2016-02-02,8,1,"#{""niwi@niwi.nz""}",404.0,4
+Clojure,penpot,2016-02-03,13,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",417.0,4
+Clojure,penpot,2016-02-04,8,1,"#{""niwi@niwi.nz""}",425.0,4
+Clojure,penpot,2016-02-05,2,1,"#{""niwi@niwi.nz""}",427.0,4
+Clojure,penpot,2016-02-06,8,1,"#{""niwi@niwi.nz""}",435.0,4
+Clojure,penpot,2016-02-07,1,1,"#{""juan.delacruz@kaleidos.net""}",436.0,4
+Clojure,penpot,2016-02-09,3,1,"#{""alejandro@dialelo.com""}",439.0,4
+Clojure,penpot,2016-02-10,1,1,"#{""juan.delacruz@kaleidos.net""}",440.0,4
+Clojure,penpot,2016-02-11,1,1,"#{""juan.delacruz@kaleidos.net""}",441.0,4
+Clojure,penpot,2016-02-12,12,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",453.0,4
+Clojure,penpot,2016-02-14,4,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",457.0,4
+Clojure,penpot,2016-02-15,10,1,"#{""niwi@niwi.nz""}",467.0,4
+Clojure,penpot,2016-02-16,9,1,"#{""niwi@niwi.nz""}",476.0,4
+Clojure,penpot,2016-02-17,7,4,"#{""delacruzgarciajuan@gmail.com"" ""alejandro@dialelo.com"" ""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",483.0,4
+Clojure,penpot,2016-02-18,23,3,"#{""alejandro@dialelo.com"" ""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",506.0,4
+Clojure,penpot,2016-02-19,9,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",515.0,4
+Clojure,penpot,2016-02-20,9,1,"#{""juan.delacruz@kaleidos.net""}",524.0,4
+Clojure,penpot,2016-02-21,25,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",549.0,4
+Clojure,penpot,2016-02-23,2,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",551.0,4
+Clojure,penpot,2016-02-24,28,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",579.0,4
+Clojure,penpot,2016-02-25,1,1,"#{""niwi@niwi.nz""}",580.0,4
+Clojure,penpot,2016-02-26,3,1,"#{""niwi@niwi.nz""}",583.0,4
+Clojure,penpot,2016-02-27,17,1,"#{""niwi@niwi.nz""}",600.0,4
+Clojure,penpot,2016-02-28,10,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",610.0,4
+Clojure,penpot,2016-02-29,8,1,"#{""niwi@niwi.nz""}",618.0,4
+Clojure,penpot,2016-03-01,9,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",627.0,4
+Clojure,penpot,2016-03-02,11,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",638.0,4
+Clojure,penpot,2016-03-03,7,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",645.0,4
+Clojure,penpot,2016-03-04,1,1,"#{""niwi@niwi.nz""}",646.0,4
+Clojure,penpot,2016-03-06,2,1,"#{""delacruzgarciajuan@gmail.com""}",648.0,4
+Clojure,penpot,2016-03-11,3,1,"#{""delacruzgarciajuan@gmail.com""}",651.0,4
+Clojure,penpot,2016-03-13,3,1,"#{""niwi@niwi.nz""}",654.0,4
+Clojure,penpot,2016-03-15,30,1,"#{""niwi@niwi.nz""}",684.0,4
+Clojure,penpot,2016-03-16,2,1,"#{""niwi@niwi.nz""}",686.0,4
+Clojure,penpot,2016-03-17,7,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",693.0,4
+Clojure,penpot,2016-03-18,1,1,"#{""niwi@niwi.nz""}",694.0,4
+Clojure,penpot,2016-03-19,21,1,"#{""niwi@niwi.nz""}",715.0,4
+Clojure,penpot,2016-03-24,1,1,"#{""niwi@niwi.nz""}",716.0,4
+Clojure,penpot,2016-03-27,13,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",729.0,4
+Clojure,penpot,2016-03-28,6,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",735.0,4
+Clojure,penpot,2016-03-29,9,1,"#{""niwi@niwi.nz""}",744.0,4
+Clojure,penpot,2016-03-30,4,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",748.0,4
+Clojure,penpot,2016-03-31,5,1,"#{""niwi@niwi.nz""}",753.0,4
+Clojure,penpot,2016-04-01,1,1,"#{""niwi@niwi.nz""}",754.0,4
+Clojure,penpot,2016-04-02,14,1,"#{""niwi@niwi.nz""}",768.0,4
+Clojure,penpot,2016-04-03,11,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",779.0,4
+Clojure,penpot,2016-04-04,7,1,"#{""niwi@niwi.nz""}",786.0,4
+Clojure,penpot,2016-04-05,15,1,"#{""niwi@niwi.nz""}",801.0,4
+Clojure,penpot,2016-04-06,14,1,"#{""niwi@niwi.nz""}",815.0,4
+Clojure,penpot,2016-04-07,2,1,"#{""niwi@niwi.nz""}",817.0,4
+Clojure,penpot,2016-04-08,2,1,"#{""delacruzgarciajuan@gmail.com""}",819.0,4
+Clojure,penpot,2016-04-09,22,3,"#{""jespinog@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",841.0,5
+Clojure,penpot,2016-04-10,19,3,"#{""jespinog@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",860.0,5
+Clojure,penpot,2016-04-11,17,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",877.0,5
+Clojure,penpot,2016-04-12,6,1,"#{""niwi@niwi.nz""}",883.0,5
+Clojure,penpot,2016-04-13,19,1,"#{""niwi@niwi.nz""}",902.0,5
+Clojure,penpot,2016-04-14,5,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",907.0,5
+Clojure,penpot,2016-04-15,14,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",921.0,5
+Clojure,penpot,2016-04-16,25,3,"#{""jespinog@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",946.0,5
+Clojure,penpot,2016-04-17,3,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",949.0,5
+Clojure,penpot,2016-04-18,2,1,"#{""niwi@niwi.nz""}",951.0,5
+Clojure,penpot,2016-04-20,10,1,"#{""niwi@niwi.nz""}",961.0,5
+Clojure,penpot,2016-04-22,7,1,"#{""niwi@niwi.nz""}",968.0,5
+Clojure,penpot,2016-04-23,6,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",974.0,5
+Clojure,penpot,2016-04-24,8,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",982.0,5
+Clojure,penpot,2016-04-25,1,1,"#{""delacruzgarciajuan@gmail.com""}",983.0,5
+Clojure,penpot,2016-04-26,3,1,"#{""niwi@niwi.nz""}",986.0,5
+Clojure,penpot,2016-04-27,3,1,"#{""jespinog@gmail.com""}",989.0,5
+Clojure,penpot,2016-05-06,12,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1001.0,5
+Clojure,penpot,2016-05-07,1,1,"#{""delacruzgarciajuan@gmail.com""}",1002.0,5
+Clojure,penpot,2016-05-08,1,1,"#{""niwi@niwi.nz""}",1003.0,5
+Clojure,penpot,2016-05-09,3,1,"#{""delacruzgarciajuan@gmail.com""}",1006.0,5
+Clojure,penpot,2016-05-10,1,1,"#{""jespinog@gmail.com""}",1007.0,5
+Clojure,penpot,2016-05-11,4,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",1011.0,5
+Clojure,penpot,2016-05-12,1,1,"#{""jespinog@gmail.com""}",1012.0,5
+Clojure,penpot,2016-05-13,2,1,"#{""niwi@niwi.nz""}",1014.0,5
+Clojure,penpot,2016-05-14,2,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",1016.0,5
+Clojure,penpot,2016-05-15,3,1,"#{""niwi@niwi.nz""}",1019.0,5
+Clojure,penpot,2016-05-16,10,1,"#{""niwi@niwi.nz""}",1029.0,5
+Clojure,penpot,2016-05-18,9,3,"#{""jespinog@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1038.0,5
+Clojure,penpot,2016-05-19,5,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1043.0,5
+Clojure,penpot,2016-05-20,6,3,"#{""jespinog@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1049.0,5
+Clojure,penpot,2016-05-22,3,1,"#{""niwi@niwi.nz""}",1052.0,5
+Clojure,penpot,2016-05-23,6,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",1058.0,5
+Clojure,penpot,2016-05-24,9,1,"#{""niwi@niwi.nz""}",1067.0,5
+Clojure,penpot,2016-05-25,1,1,"#{""delacruzgarciajuan@gmail.com""}",1068.0,5
+Clojure,penpot,2016-05-28,14,1,"#{""niwi@niwi.nz""}",1082.0,5
+Clojure,penpot,2016-05-29,2,1,"#{""niwi@niwi.nz""}",1084.0,5
+Clojure,penpot,2016-05-31,1,1,"#{""niwi@niwi.nz""}",1085.0,5
+Clojure,penpot,2016-06-04,1,1,"#{""niwi@niwi.nz""}",1086.0,5
+Clojure,penpot,2016-06-07,5,1,"#{""niwi@niwi.nz""}",1091.0,5
+Clojure,penpot,2016-06-08,2,1,"#{""niwi@niwi.nz""}",1093.0,5
+Clojure,penpot,2016-06-11,17,1,"#{""niwi@niwi.nz""}",1110.0,5
+Clojure,penpot,2016-06-12,8,1,"#{""niwi@niwi.nz""}",1118.0,5
+Clojure,penpot,2016-06-14,6,1,"#{""niwi@niwi.nz""}",1124.0,5
+Clojure,penpot,2016-06-15,9,1,"#{""niwi@niwi.nz""}",1133.0,5
+Clojure,penpot,2016-06-21,5,1,"#{""niwi@niwi.nz""}",1138.0,5
+Clojure,penpot,2016-06-22,8,1,"#{""niwi@niwi.nz""}",1146.0,5
+Clojure,penpot,2016-06-25,6,1,"#{""niwi@niwi.nz""}",1152.0,5
+Clojure,penpot,2016-06-26,5,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1157.0,5
+Clojure,penpot,2016-06-28,1,1,"#{""delacruzgarciajuan@gmail.com""}",1158.0,5
+Clojure,penpot,2016-06-30,8,1,"#{""niwi@niwi.nz""}",1166.0,5
+Clojure,penpot,2016-07-09,23,1,"#{""niwi@niwi.nz""}",1189.0,5
+Clojure,penpot,2016-07-10,5,1,"#{""niwi@niwi.nz""}",1194.0,5
+Clojure,penpot,2016-07-11,1,1,"#{""niwi@niwi.nz""}",1195.0,5
+Clojure,penpot,2016-07-29,9,1,"#{""niwi@niwi.nz""}",1204.0,5
+Clojure,penpot,2016-07-30,7,1,"#{""niwi@niwi.nz""}",1211.0,5
+Clojure,penpot,2016-07-31,6,1,"#{""niwi@niwi.nz""}",1217.0,5
+Clojure,penpot,2016-08-01,1,1,"#{""niwi@niwi.nz""}",1218.0,5
+Clojure,penpot,2016-08-03,1,1,"#{""niwi@niwi.nz""}",1219.0,5
+Clojure,penpot,2016-08-10,6,1,"#{""niwi@niwi.nz""}",1225.0,5
+Clojure,penpot,2016-08-11,3,1,"#{""niwi@niwi.nz""}",1228.0,5
+Clojure,penpot,2016-08-12,9,1,"#{""niwi@niwi.nz""}",1237.0,5
+Clojure,penpot,2016-08-13,2,1,"#{""niwi@niwi.nz""}",1239.0,5
+Clojure,penpot,2016-08-17,1,1,"#{""niwi@niwi.nz""}",1240.0,5
+Clojure,penpot,2016-08-19,2,1,"#{""niwi@niwi.nz""}",1242.0,5
+Clojure,penpot,2016-08-20,3,1,"#{""niwi@niwi.nz""}",1245.0,5
+Clojure,penpot,2016-08-21,2,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1247.0,5
+Clojure,penpot,2016-08-22,5,1,"#{""niwi@niwi.nz""}",1252.0,5
+Clojure,penpot,2016-08-23,6,1,"#{""niwi@niwi.nz""}",1258.0,5
+Clojure,penpot,2016-08-24,4,1,"#{""niwi@niwi.nz""}",1262.0,5
+Clojure,penpot,2016-08-25,1,1,"#{""delacruzgarciajuan@gmail.com""}",1263.0,5
+Clojure,penpot,2016-08-26,1,1,"#{""delacruzgarciajuan@gmail.com""}",1264.0,5
+Clojure,penpot,2016-08-27,6,1,"#{""niwi@niwi.nz""}",1270.0,5
+Clojure,penpot,2016-08-28,15,1,"#{""niwi@niwi.nz""}",1285.0,5
+Clojure,penpot,2016-08-30,9,1,"#{""niwi@niwi.nz""}",1294.0,5
+Clojure,penpot,2016-08-31,6,1,"#{""niwi@niwi.nz""}",1300.0,5
+Clojure,penpot,2016-09-22,15,1,"#{""niwi@niwi.nz""}",1315.0,5
+Clojure,penpot,2016-09-23,2,1,"#{""niwi@niwi.nz""}",1317.0,5
+Clojure,penpot,2016-09-24,2,1,"#{""niwi@niwi.nz""}",1319.0,5
+Clojure,penpot,2016-09-25,8,1,"#{""niwi@niwi.nz""}",1327.0,5
+Clojure,penpot,2016-09-26,4,1,"#{""niwi@niwi.nz""}",1331.0,5
+Clojure,penpot,2016-09-27,8,1,"#{""niwi@niwi.nz""}",1339.0,5
+Clojure,penpot,2016-09-28,5,1,"#{""niwi@niwi.nz""}",1344.0,5
+Clojure,penpot,2016-09-29,12,1,"#{""niwi@niwi.nz""}",1356.0,5
+Clojure,penpot,2016-09-30,9,1,"#{""niwi@niwi.nz""}",1365.0,5
+Clojure,penpot,2016-10-02,3,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1368.0,5
+Clojure,penpot,2016-10-03,4,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1372.0,5
+Clojure,penpot,2016-10-04,3,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1375.0,5
+Clojure,penpot,2016-10-05,1,1,"#{""niwi@niwi.nz""}",1376.0,5
+Clojure,penpot,2016-10-06,1,1,"#{""niwi@niwi.nz""}",1377.0,5
+Clojure,penpot,2016-10-08,1,1,"#{""niwi@niwi.nz""}",1378.0,5
+Clojure,penpot,2016-10-09,1,1,"#{""niwi@niwi.nz""}",1379.0,5
+Clojure,penpot,2016-10-11,6,1,"#{""niwi@niwi.nz""}",1385.0,5
+Clojure,penpot,2016-10-12,7,1,"#{""niwi@niwi.nz""}",1392.0,5
+Clojure,penpot,2016-10-18,1,1,"#{""niwi@niwi.nz""}",1393.0,5
+Clojure,penpot,2016-10-19,7,1,"#{""niwi@niwi.nz""}",1400.0,5
+Clojure,penpot,2016-10-20,2,1,"#{""delacruzgarciajuan@gmail.com""}",1402.0,5
+Clojure,penpot,2016-10-21,23,1,"#{""niwi@niwi.nz""}",1425.0,5
+Clojure,penpot,2016-10-23,5,1,"#{""niwi@niwi.nz""}",1430.0,5
+Clojure,penpot,2016-10-24,21,1,"#{""niwi@niwi.nz""}",1451.0,5
+Clojure,penpot,2016-10-25,2,1,"#{""niwi@niwi.nz""}",1453.0,5
+Clojure,penpot,2016-10-26,6,1,"#{""niwi@niwi.nz""}",1459.0,5
+Clojure,penpot,2016-10-31,3,1,"#{""delacruzgarciajuan@gmail.com""}",1462.0,5
+Clojure,penpot,2016-11-03,2,1,"#{""delacruzgarciajuan@gmail.com""}",1464.0,5
+Clojure,penpot,2016-11-04,1,1,"#{""delacruzgarciajuan@gmail.com""}",1465.0,5
+Clojure,penpot,2016-11-05,2,1,"#{""niwi@niwi.nz""}",1467.0,5
+Clojure,penpot,2016-11-06,8,1,"#{""niwi@niwi.nz""}",1475.0,5
+Clojure,penpot,2016-11-07,6,1,"#{""niwi@niwi.nz""}",1481.0,5
+Clojure,penpot,2016-11-08,4,1,"#{""niwi@niwi.nz""}",1485.0,5
+Clojure,penpot,2016-11-09,7,1,"#{""niwi@niwi.nz""}",1492.0,5
+Clojure,penpot,2016-11-10,14,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1506.0,5
+Clojure,penpot,2016-11-11,1,1,"#{""niwi@niwi.nz""}",1507.0,5
+Clojure,penpot,2016-11-12,4,1,"#{""niwi@niwi.nz""}",1511.0,5
+Clojure,penpot,2016-11-13,8,1,"#{""niwi@niwi.nz""}",1519.0,5
+Clojure,penpot,2016-11-15,3,1,"#{""delacruzgarciajuan@gmail.com""}",1522.0,5
+Clojure,penpot,2016-11-18,9,1,"#{""niwi@niwi.nz""}",1531.0,5
+Clojure,penpot,2016-11-20,16,1,"#{""niwi@niwi.nz""}",1547.0,5
+Clojure,penpot,2016-11-21,12,1,"#{""niwi@niwi.nz""}",1559.0,5
+Clojure,penpot,2016-11-22,10,1,"#{""niwi@niwi.nz""}",1569.0,5
+Clojure,penpot,2016-11-27,6,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1575.0,5
+Clojure,penpot,2016-11-28,4,1,"#{""niwi@niwi.nz""}",1579.0,5
+Clojure,penpot,2016-11-29,5,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",1584.0,5
+Clojure,penpot,2016-12-01,2,1,"#{""niwi@niwi.nz""}",1586.0,5
+Clojure,penpot,2016-12-02,1,1,"#{""delacruzgarciajuan@gmail.com""}",1587.0,5
+Clojure,penpot,2016-12-18,6,1,"#{""niwi@niwi.nz""}",1593.0,5
+Clojure,penpot,2016-12-19,20,3,"#{""jespinog@gmail.com"" ""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",1613.0,5
+Clojure,penpot,2016-12-20,14,2,"#{""jespinog@gmail.com"" ""niwi@niwi.nz""}",1627.0,5
+Clojure,penpot,2016-12-21,5,1,"#{""jespinog@gmail.com""}",1632.0,5
+Clojure,penpot,2016-12-22,16,2,"#{""jespinog@gmail.com"" ""juan.delacruz@kaleidos.net""}",1648.0,5
+Clojure,penpot,2016-12-23,4,1,"#{""jespinog@gmail.com""}",1652.0,5
+Clojure,penpot,2016-12-25,9,1,"#{""niwi@niwi.nz""}",1661.0,5
+Clojure,penpot,2016-12-26,3,1,"#{""niwi@niwi.nz""}",1664.0,5
+Clojure,penpot,2016-12-27,1,1,"#{""niwi@niwi.nz""}",1665.0,5
+Clojure,penpot,2016-12-28,3,1,"#{""niwi@niwi.nz""}",1668.0,5
+Clojure,penpot,2016-12-30,2,1,"#{""niwi@niwi.nz""}",1670.0,5
+Clojure,penpot,2017-01-04,1,1,"#{""niwi@niwi.nz""}",1671.0,5
+Clojure,penpot,2017-01-05,3,1,"#{""niwi@niwi.nz""}",1674.0,5
+Clojure,penpot,2017-01-06,4,1,"#{""niwi@niwi.nz""}",1678.0,5
+Clojure,penpot,2017-01-07,1,1,"#{""niwi@niwi.nz""}",1679.0,5
+Clojure,penpot,2017-01-08,1,1,"#{""niwi@niwi.nz""}",1680.0,5
+Clojure,penpot,2017-01-09,2,1,"#{""niwi@niwi.nz""}",1682.0,5
+Clojure,penpot,2017-01-10,1,1,"#{""niwi@niwi.nz""}",1683.0,5
+Clojure,penpot,2017-01-11,17,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1700.0,5
+Clojure,penpot,2017-01-12,1,1,"#{""niwi@niwi.nz""}",1701.0,5
+Clojure,penpot,2017-01-13,2,1,"#{""niwi@niwi.nz""}",1703.0,5
+Clojure,penpot,2017-01-14,1,1,"#{""niwi@niwi.nz""}",1704.0,5
+Clojure,penpot,2017-01-15,1,1,"#{""niwi@niwi.nz""}",1705.0,5
+Clojure,penpot,2017-01-16,2,1,"#{""niwi@niwi.nz""}",1707.0,5
+Clojure,penpot,2017-01-17,4,1,"#{""niwi@niwi.nz""}",1711.0,5
+Clojure,penpot,2017-01-21,6,1,"#{""niwi@niwi.nz""}",1717.0,5
+Clojure,penpot,2017-01-22,9,1,"#{""niwi@niwi.nz""}",1726.0,5
+Clojure,penpot,2017-01-29,5,1,"#{""niwi@niwi.nz""}",1731.0,5
+Clojure,penpot,2017-01-30,11,1,"#{""niwi@niwi.nz""}",1742.0,5
+Clojure,penpot,2017-01-31,6,1,"#{""niwi@niwi.nz""}",1748.0,5
+Clojure,penpot,2017-02-14,7,1,"#{""niwi@niwi.nz""}",1755.0,5
+Clojure,penpot,2017-02-20,1,1,"#{""niwi@niwi.nz""}",1756.0,5
+Clojure,penpot,2017-02-21,19,1,"#{""niwi@niwi.nz""}",1775.0,5
+Clojure,penpot,2017-02-22,10,1,"#{""niwi@niwi.nz""}",1785.0,5
+Clojure,penpot,2017-02-23,9,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1794.0,5
+Clojure,penpot,2017-02-24,2,1,"#{""niwi@niwi.nz""}",1796.0,5
+Clojure,penpot,2017-02-25,2,1,"#{""niwi@niwi.nz""}",1798.0,5
+Clojure,penpot,2017-02-26,10,1,"#{""niwi@niwi.nz""}",1808.0,5
+Clojure,penpot,2017-02-27,7,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",1815.0,5
+Clojure,penpot,2017-02-28,3,1,"#{""niwi@niwi.nz""}",1818.0,5
+Clojure,penpot,2017-03-01,10,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",1828.0,5
+Clojure,penpot,2017-03-02,14,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",1842.0,5
+Clojure,penpot,2017-03-03,5,1,"#{""niwi@niwi.nz""}",1847.0,5
+Clojure,penpot,2017-03-06,7,1,"#{""niwi@niwi.nz""}",1854.0,5
+Clojure,penpot,2017-03-07,1,1,"#{""niwi@niwi.nz""}",1855.0,5
+Clojure,penpot,2017-03-08,6,1,"#{""niwi@niwi.nz""}",1861.0,5
+Clojure,penpot,2017-03-10,6,2,"#{""niwi@niwi.nz"" ""sean@studiospring.com.au""}",1867.0,6
+Clojure,penpot,2017-03-14,5,1,"#{""niwi@niwi.nz""}",1872.0,6
+Clojure,penpot,2017-03-21,12,1,"#{""niwi@niwi.nz""}",1884.0,6
+Clojure,penpot,2017-03-22,1,1,"#{""delacruzgarciajuan@gmail.com""}",1885.0,6
+Clojure,penpot,2017-03-25,8,1,"#{""niwi@niwi.nz""}",1893.0,6
+Clojure,penpot,2017-03-27,2,1,"#{""juan.delacruz@kaleidos.net""}",1895.0,6
+Clojure,penpot,2017-04-08,4,1,"#{""niwi@niwi.nz""}",1899.0,6
+Clojure,penpot,2017-04-09,1,1,"#{""niwi@niwi.nz""}",1900.0,6
+Clojure,penpot,2017-04-24,1,1,"#{""juan.delacruz@kaleidos.net""}",1901.0,6
+Clojure,penpot,2018-10-23,1,1,"#{""mb.mathieu.brunot@gmail.com""}",1902.0,7
+Clojure,penpot,2018-10-24,1,1,"#{""mb.mathieu.brunot@gmail.com""}",1903.0,7
+Clojure,penpot,2018-11-03,4,2,"#{""mb.mathieu.brunot@gmail.com"" ""mathieu.brunot@monogramm.io""}",1907.0,8
+Clojure,penpot,2018-11-25,7,1,"#{""mathieu.brunot@monogramm.io""}",1914.0,8
+Clojure,penpot,2019-02-14,17,1,"#{""mb.mathieu.brunot@gmail.com""}",1931.0,8
+Clojure,penpot,2019-02-15,23,1,"#{""mb.mathieu.brunot@gmail.com""}",1954.0,8
+Clojure,penpot,2019-02-16,10,1,"#{""mb.mathieu.brunot@gmail.com""}",1964.0,8
+Clojure,penpot,2019-02-17,9,1,"#{""mb.mathieu.brunot@gmail.com""}",1973.0,8
+Clojure,penpot,2019-02-18,14,1,"#{""mb.mathieu.brunot@gmail.com""}",1987.0,8
+Clojure,penpot,2019-02-19,22,1,"#{""mb.mathieu.brunot@gmail.com""}",2009.0,8
+Clojure,penpot,2019-02-20,13,1,"#{""mb.mathieu.brunot@gmail.com""}",2022.0,8
+Clojure,penpot,2019-02-21,16,1,"#{""mb.mathieu.brunot@gmail.com""}",2038.0,8
+Clojure,penpot,2019-02-22,5,1,"#{""mb.mathieu.brunot@gmail.com""}",2043.0,8
+Clojure,penpot,2019-02-23,24,1,"#{""mb.mathieu.brunot@gmail.com""}",2067.0,8
+Clojure,penpot,2019-02-24,3,1,"#{""mb.mathieu.brunot@gmail.com""}",2070.0,8
+Clojure,penpot,2019-05-16,4,1,"#{""mb.mathieu.brunot@gmail.com""}",2074.0,8
+Clojure,penpot,2019-05-17,4,1,"#{""mb.mathieu.brunot@gmail.com""}",2078.0,8
+Clojure,penpot,2019-05-31,5,1,"#{""niwi@niwi.nz""}",2083.0,8
+Clojure,penpot,2019-06-03,3,1,"#{""niwi@niwi.nz""}",2086.0,8
+Clojure,penpot,2019-06-05,5,1,"#{""niwi@niwi.nz""}",2091.0,8
+Clojure,penpot,2019-06-06,1,1,"#{""niwi@niwi.nz""}",2092.0,8
+Clojure,penpot,2019-06-10,2,1,"#{""mb.mathieu.brunot@gmail.com""}",2094.0,8
+Clojure,penpot,2019-06-11,6,1,"#{""mb.mathieu.brunot@gmail.com""}",2100.0,8
+Clojure,penpot,2019-06-12,5,2,"#{""mb.mathieu.brunot@gmail.com"" ""mathieu.brunot@monogramm.io""}",2105.0,8
+Clojure,penpot,2019-06-13,4,1,"#{""niwi@niwi.nz""}",2109.0,8
+Clojure,penpot,2019-06-15,10,1,"#{""niwi@niwi.nz""}",2119.0,8
+Clojure,penpot,2019-06-16,3,1,"#{""niwi@niwi.nz""}",2122.0,8
+Clojure,penpot,2019-06-19,19,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2141.0,8
+Clojure,penpot,2019-06-20,4,1,"#{""niwi@niwi.nz""}",2145.0,8
+Clojure,penpot,2019-06-23,4,1,"#{""mathieu.brunot@monogramm.io""}",2149.0,8
+Clojure,penpot,2019-06-24,6,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2155.0,8
+Clojure,penpot,2019-07-01,3,1,"#{""niwi@niwi.nz""}",2158.0,8
+Clojure,penpot,2019-07-02,8,1,"#{""niwi@niwi.nz""}",2166.0,8
+Clojure,penpot,2019-07-03,12,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2178.0,8
+Clojure,penpot,2019-07-04,8,1,"#{""niwi@niwi.nz""}",2186.0,8
+Clojure,penpot,2019-07-05,5,1,"#{""niwi@niwi.nz""}",2191.0,8
+Clojure,penpot,2019-07-09,3,1,"#{""niwi@niwi.nz""}",2194.0,8
+Clojure,penpot,2019-07-13,3,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2197.0,8
+Clojure,penpot,2019-07-18,5,1,"#{""niwi@niwi.nz""}",2202.0,8
+Clojure,penpot,2019-07-19,9,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2211.0,8
+Clojure,penpot,2019-07-21,2,1,"#{""niwi@niwi.nz""}",2213.0,8
+Clojure,penpot,2019-07-22,3,1,"#{""niwi@niwi.nz""}",2216.0,8
+Clojure,penpot,2019-07-23,2,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2218.0,8
+Clojure,penpot,2019-07-24,7,1,"#{""niwi@niwi.nz""}",2225.0,8
+Clojure,penpot,2019-08-02,1,1,"#{""niwi@niwi.nz""}",2226.0,8
+Clojure,penpot,2019-08-03,1,1,"#{""niwi@niwi.nz""}",2227.0,8
+Clojure,penpot,2019-08-04,1,1,"#{""niwi@niwi.nz""}",2228.0,8
+Clojure,penpot,2019-08-06,2,1,"#{""niwi@niwi.nz""}",2230.0,8
+Clojure,penpot,2019-08-07,4,1,"#{""niwi@niwi.nz""}",2234.0,8
+Clojure,penpot,2019-08-08,9,1,"#{""niwi@niwi.nz""}",2243.0,8
+Clojure,penpot,2019-08-09,8,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2251.0,8
+Clojure,penpot,2019-08-10,4,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2255.0,8
+Clojure,penpot,2019-08-11,4,1,"#{""mathieu.brunot@monogramm.io""}",2259.0,8
+Clojure,penpot,2019-08-12,4,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2263.0,8
+Clojure,penpot,2019-08-13,2,1,"#{""niwi@niwi.nz""}",2265.0,8
+Clojure,penpot,2019-08-21,10,1,"#{""niwi@niwi.nz""}",2275.0,8
+Clojure,penpot,2019-08-22,10,1,"#{""niwi@niwi.nz""}",2285.0,8
+Clojure,penpot,2019-08-23,1,1,"#{""niwi@niwi.nz""}",2286.0,8
+Clojure,penpot,2019-08-24,12,1,"#{""niwi@niwi.nz""}",2298.0,8
+Clojure,penpot,2019-08-26,4,1,"#{""niwi@niwi.nz""}",2302.0,8
+Clojure,penpot,2019-08-28,4,1,"#{""niwi@niwi.nz""}",2306.0,8
+Clojure,penpot,2019-09-02,2,1,"#{""niwi@niwi.nz""}",2308.0,8
+Clojure,penpot,2019-09-09,2,1,"#{""niwi@niwi.nz""}",2310.0,8
+Clojure,penpot,2019-09-10,1,1,"#{""niwi@niwi.nz""}",2311.0,8
+Clojure,penpot,2019-09-12,2,1,"#{""mathieu.brunot@monogramm.io""}",2313.0,8
+Clojure,penpot,2019-09-13,9,1,"#{""mathieu.brunot@monogramm.io""}",2322.0,8
+Clojure,penpot,2019-09-14,7,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2329.0,8
+Clojure,penpot,2019-09-17,5,1,"#{""niwi@niwi.nz""}",2334.0,8
+Clojure,penpot,2019-09-18,2,1,"#{""niwi@niwi.nz""}",2336.0,8
+Clojure,penpot,2019-09-20,3,1,"#{""niwi@niwi.nz""}",2339.0,8
+Clojure,penpot,2019-09-21,10,1,"#{""niwi@niwi.nz""}",2349.0,8
+Clojure,penpot,2019-10-17,3,1,"#{""niwi@niwi.nz""}",2352.0,8
+Clojure,penpot,2019-10-18,3,1,"#{""niwi@niwi.nz""}",2355.0,8
+Clojure,penpot,2019-10-21,1,1,"#{""niwi@niwi.nz""}",2356.0,8
+Clojure,penpot,2019-10-22,4,1,"#{""niwi@niwi.nz""}",2360.0,8
+Clojure,penpot,2019-11-18,1,1,"#{""niwi@niwi.nz""}",2361.0,8
+Clojure,penpot,2019-11-22,8,1,"#{""niwi@niwi.nz""}",2369.0,8
+Clojure,penpot,2019-11-25,5,1,"#{""niwi@niwi.nz""}",2374.0,8
+Clojure,penpot,2019-11-26,4,1,"#{""niwi@niwi.nz""}",2378.0,8
+Clojure,penpot,2019-11-27,6,1,"#{""niwi@niwi.nz""}",2384.0,8
+Clojure,penpot,2019-11-29,5,1,"#{""niwi@niwi.nz""}",2389.0,8
+Clojure,penpot,2019-12-01,4,1,"#{""niwi@niwi.nz""}",2393.0,8
+Clojure,penpot,2019-12-04,2,1,"#{""niwi@niwi.nz""}",2395.0,8
+Clojure,penpot,2019-12-09,3,1,"#{""niwi@niwi.nz""}",2398.0,8
+Clojure,penpot,2019-12-10,3,1,"#{""niwi@niwi.nz""}",2401.0,8
+Clojure,penpot,2019-12-11,9,1,"#{""niwi@niwi.nz""}",2410.0,8
+Clojure,penpot,2019-12-12,2,1,"#{""niwi@niwi.nz""}",2412.0,8
+Clojure,penpot,2019-12-13,2,1,"#{""niwi@niwi.nz""}",2414.0,8
+Clojure,penpot,2019-12-14,7,1,"#{""niwi@niwi.nz""}",2421.0,8
+Clojure,penpot,2019-12-15,2,1,"#{""niwi@niwi.nz""}",2423.0,8
+Clojure,penpot,2019-12-16,2,1,"#{""juan.delacruz@kaleidos.net""}",2425.0,8
+Clojure,penpot,2019-12-17,10,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",2435.0,8
+Clojure,penpot,2019-12-18,15,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",2450.0,8
+Clojure,penpot,2019-12-19,10,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",2460.0,8
+Clojure,penpot,2019-12-20,10,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",2470.0,8
+Clojure,penpot,2019-12-27,3,1,"#{""mathieu.brunot@monogramm.io""}",2473.0,8
+Clojure,penpot,2020-01-07,11,1,"#{""niwi@niwi.nz""}",2484.0,8
+Clojure,penpot,2020-01-08,10,1,"#{""niwi@niwi.nz""}",2494.0,8
+Clojure,penpot,2020-01-09,8,1,"#{""niwi@niwi.nz""}",2502.0,8
+Clojure,penpot,2020-01-11,12,1,"#{""niwi@niwi.nz""}",2514.0,8
+Clojure,penpot,2020-01-12,3,1,"#{""niwi@niwi.nz""}",2517.0,8
+Clojure,penpot,2020-01-13,6,1,"#{""niwi@niwi.nz""}",2523.0,8
+Clojure,penpot,2020-01-14,11,1,"#{""niwi@niwi.nz""}",2534.0,8
+Clojure,penpot,2020-01-15,3,1,"#{""niwi@niwi.nz""}",2537.0,8
+Clojure,penpot,2020-01-16,11,1,"#{""niwi@niwi.nz""}",2548.0,8
+Clojure,penpot,2020-01-20,5,1,"#{""niwi@niwi.nz""}",2553.0,8
+Clojure,penpot,2020-01-21,7,1,"#{""niwi@niwi.nz""}",2560.0,8
+Clojure,penpot,2020-01-22,1,1,"#{""niwi@niwi.nz""}",2561.0,8
+Clojure,penpot,2020-01-23,11,1,"#{""niwi@niwi.nz""}",2572.0,8
+Clojure,penpot,2020-01-24,8,1,"#{""niwi@niwi.nz""}",2580.0,8
+Clojure,penpot,2020-01-25,5,1,"#{""niwi@niwi.nz""}",2585.0,8
+Clojure,penpot,2020-01-27,12,1,"#{""niwi@niwi.nz""}",2597.0,8
+Clojure,penpot,2020-01-28,5,1,"#{""niwi@niwi.nz""}",2602.0,8
+Clojure,penpot,2020-01-30,2,1,"#{""niwi@niwi.nz""}",2604.0,8
+Clojure,penpot,2020-01-31,4,1,"#{""niwi@niwi.nz""}",2608.0,8
+Clojure,penpot,2020-02-01,6,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",2614.0,8
+Clojure,penpot,2020-02-03,4,1,"#{""niwi@niwi.nz""}",2618.0,8
+Clojure,penpot,2020-02-04,5,1,"#{""niwi@niwi.nz""}",2623.0,8
+Clojure,penpot,2020-02-05,10,1,"#{""niwi@niwi.nz""}",2633.0,8
+Clojure,penpot,2020-02-06,4,1,"#{""niwi@niwi.nz""}",2637.0,8
+Clojure,penpot,2020-02-07,2,1,"#{""niwi@niwi.nz""}",2639.0,8
+Clojure,penpot,2020-02-08,3,1,"#{""niwi@niwi.nz""}",2642.0,8
+Clojure,penpot,2020-02-17,5,1,"#{""niwi@niwi.nz""}",2647.0,8
+Clojure,penpot,2020-02-18,1,1,"#{""niwi@niwi.nz""}",2648.0,8
+Clojure,penpot,2020-02-19,4,1,"#{""niwi@niwi.nz""}",2652.0,8
+Clojure,penpot,2020-02-20,5,1,"#{""niwi@niwi.nz""}",2657.0,8
+Clojure,penpot,2020-02-24,5,1,"#{""niwi@niwi.nz""}",2662.0,8
+Clojure,penpot,2020-02-25,7,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",2669.0,8
+Clojure,penpot,2020-03-02,2,1,"#{""niwi@niwi.nz""}",2671.0,8
+Clojure,penpot,2020-03-03,1,1,"#{""juan.delacruz@kaleidos.net""}",2672.0,8
+Clojure,penpot,2020-03-05,1,1,"#{""juan.delacruz@kaleidos.net""}",2673.0,8
+Clojure,penpot,2020-03-08,7,1,"#{""niwi@niwi.nz""}",2680.0,8
+Clojure,penpot,2020-03-09,4,2,"#{""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",2684.0,8
+Clojure,penpot,2020-03-10,10,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2694.0,9
+Clojure,penpot,2020-03-11,9,2,"#{""niwi@niwi.nz"" ""alonso.javier.torres@gmail.com""}",2703.0,10
+Clojure,penpot,2020-03-12,8,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2711.0,10
+Clojure,penpot,2020-03-13,4,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",2715.0,11
+Clojure,penpot,2020-03-16,3,3,"#{""niwi@niwi.nz"" ""amiskov@gmail.com"" ""alonso.torres@kaleidos.net""}",2718.0,12
+Clojure,penpot,2020-03-17,19,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2737.0,12
+Clojure,penpot,2020-03-18,7,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",2744.0,12
+Clojure,penpot,2020-03-19,12,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2756.0,12
+Clojure,penpot,2020-03-20,6,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",2762.0,12
+Clojure,penpot,2020-03-22,2,1,"#{""niwi@niwi.nz""}",2764.0,12
+Clojure,penpot,2020-03-23,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2779.0,12
+Clojure,penpot,2020-03-24,6,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",2785.0,12
+Clojure,penpot,2020-03-25,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",2794.0,12
+Clojure,penpot,2020-03-26,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2809.0,12
+Clojure,penpot,2020-03-27,8,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",2817.0,12
+Clojure,penpot,2020-03-29,1,1,"#{""niwi@niwi.nz""}",2818.0,12
+Clojure,penpot,2020-03-30,15,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",2833.0,12
+Clojure,penpot,2020-03-31,2,1,"#{""andres.moya@kaleidos.net""}",2835.0,12
+Clojure,penpot,2020-04-01,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",2840.0,12
+Clojure,penpot,2020-04-02,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2855.0,12
+Clojure,penpot,2020-04-03,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",2864.0,12
+Clojure,penpot,2020-04-06,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2879.0,12
+Clojure,penpot,2020-04-07,19,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2898.0,12
+Clojure,penpot,2020-04-08,21,3,"#{""wizzytod@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2919.0,13
+Clojure,penpot,2020-04-09,10,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",2929.0,13
+Clojure,penpot,2020-04-10,20,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2949.0,13
+Clojure,penpot,2020-04-11,4,1,"#{""niwi@niwi.nz""}",2953.0,13
+Clojure,penpot,2020-04-13,20,5,"#{""andres.moya@kaleidos.net"" ""wizzytod@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",2973.0,13
+Clojure,penpot,2020-04-14,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",2982.0,13
+Clojure,penpot,2020-04-15,17,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",2999.0,13
+Clojure,penpot,2020-04-16,14,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3013.0,13
+Clojure,penpot,2020-04-17,7,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3020.0,13
+Clojure,penpot,2020-04-18,1,1,"#{""niwi@niwi.nz""}",3021.0,13
+Clojure,penpot,2020-04-19,5,1,"#{""niwi@niwi.nz""}",3026.0,13
+Clojure,penpot,2020-04-20,2,1,"#{""niwi@niwi.nz""}",3028.0,13
+Clojure,penpot,2020-04-22,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3031.0,13
+Clojure,penpot,2020-04-23,8,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3039.0,13
+Clojure,penpot,2020-04-24,8,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3047.0,13
+Clojure,penpot,2020-04-25,1,1,"#{""juan.delacruz@kaleidos.net""}",3048.0,13
+Clojure,penpot,2020-04-27,14,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3062.0,13
+Clojure,penpot,2020-04-28,9,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3071.0,13
+Clojure,penpot,2020-04-29,6,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3077.0,13
+Clojure,penpot,2020-04-30,18,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3095.0,13
+Clojure,penpot,2020-05-01,9,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3104.0,13
+Clojure,penpot,2020-05-04,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3109.0,13
+Clojure,penpot,2020-05-05,22,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3131.0,13
+Clojure,penpot,2020-05-06,7,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3138.0,13
+Clojure,penpot,2020-05-07,7,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3145.0,13
+Clojure,penpot,2020-05-08,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3147.0,13
+Clojure,penpot,2020-05-09,1,1,"#{""niwi@niwi.nz""}",3148.0,13
+Clojure,penpot,2020-05-11,16,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3164.0,13
+Clojure,penpot,2020-05-12,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3173.0,13
+Clojure,penpot,2020-05-13,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3183.0,13
+Clojure,penpot,2020-05-14,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3193.0,13
+Clojure,penpot,2020-05-15,9,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3202.0,13
+Clojure,penpot,2020-05-16,3,1,"#{""niwi@niwi.nz""}",3205.0,13
+Clojure,penpot,2020-05-18,11,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3216.0,13
+Clojure,penpot,2020-05-19,14,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3230.0,13
+Clojure,penpot,2020-05-20,12,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3242.0,13
+Clojure,penpot,2020-05-21,5,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3247.0,13
+Clojure,penpot,2020-05-22,3,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3250.0,13
+Clojure,penpot,2020-05-25,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3257.0,13
+Clojure,penpot,2020-05-26,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""juan.delacruz@kaleidos.net""}",3264.0,13
+Clojure,penpot,2020-05-27,9,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""juan.delacruz@kaleidos.net""}",3273.0,13
+Clojure,penpot,2020-05-28,2,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3275.0,13
+Clojure,penpot,2020-05-29,5,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3280.0,13
+Clojure,penpot,2020-06-01,6,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3286.0,13
+Clojure,penpot,2020-06-02,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3293.0,13
+Clojure,penpot,2020-06-03,18,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3311.0,13
+Clojure,penpot,2020-06-04,23,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3334.0,13
+Clojure,penpot,2020-06-05,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3341.0,13
+Clojure,penpot,2020-06-08,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3346.0,13
+Clojure,penpot,2020-06-09,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3355.0,13
+Clojure,penpot,2020-06-10,8,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3363.0,13
+Clojure,penpot,2020-06-11,5,1,"#{""andres.moya@kaleidos.net""}",3368.0,13
+Clojure,penpot,2020-06-12,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3377.0,13
+Clojure,penpot,2020-06-15,10,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3387.0,13
+Clojure,penpot,2020-06-16,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3392.0,13
+Clojure,penpot,2020-06-17,3,1,"#{""andres.moya@kaleidos.net""}",3395.0,13
+Clojure,penpot,2020-06-18,2,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3397.0,13
+Clojure,penpot,2020-06-19,7,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",3404.0,13
+Clojure,penpot,2020-06-22,3,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3407.0,13
+Clojure,penpot,2020-06-23,3,1,"#{""niwi@niwi.nz""}",3410.0,13
+Clojure,penpot,2020-06-24,3,1,"#{""andres.moya@kaleidos.net""}",3413.0,13
+Clojure,penpot,2020-06-25,2,1,"#{""niwi@niwi.nz""}",3415.0,13
+Clojure,penpot,2020-06-26,2,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3417.0,13
+Clojure,penpot,2020-06-29,3,2,"#{""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",3420.0,13
+Clojure,penpot,2020-06-30,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3425.0,13
+Clojure,penpot,2020-07-01,7,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3432.0,13
+Clojure,penpot,2020-07-02,4,1,"#{""niwi@niwi.nz""}",3436.0,13
+Clojure,penpot,2020-07-03,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3445.0,13
+Clojure,penpot,2020-07-06,4,1,"#{""andres.moya@kaleidos.net""}",3449.0,13
+Clojure,penpot,2020-07-08,3,1,"#{""andres.moya@kaleidos.net""}",3452.0,13
+Clojure,penpot,2020-07-09,1,1,"#{""andres.moya@kaleidos.net""}",3453.0,13
+Clojure,penpot,2020-07-10,1,1,"#{""andres.moya@kaleidos.net""}",3454.0,13
+Clojure,penpot,2020-07-14,1,1,"#{""wizzytod@gmail.com""}",3455.0,13
+Clojure,penpot,2020-07-16,3,1,"#{""wizzytod@gmail.com""}",3458.0,13
+Clojure,penpot,2020-07-20,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3467.0,13
+Clojure,penpot,2020-07-21,7,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3474.0,13
+Clojure,penpot,2020-07-22,5,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",3479.0,13
+Clojure,penpot,2020-07-23,3,1,"#{""andres.moya@kaleidos.net""}",3482.0,13
+Clojure,penpot,2020-07-24,3,1,"#{""wizzytod@gmail.com""}",3485.0,13
+Clojure,penpot,2020-07-25,1,1,"#{""wizzytod@gmail.com""}",3486.0,13
+Clojure,penpot,2020-07-26,1,1,"#{""mathieu.brunot@monogramm.io""}",3487.0,13
+Clojure,penpot,2020-07-28,6,4,"#{""andres.moya@kaleidos.net"" ""wizzytod@gmail.com"" ""niwi@niwi.nz"" ""wizzytod@users.noreply.github.com""}",3493.0,14
+Clojure,penpot,2020-07-29,1,1,"#{""andres.moya@kaleidos.net""}",3494.0,14
+Clojure,penpot,2020-07-30,3,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",3497.0,14
+Clojure,penpot,2020-08-04,2,1,"#{""andres.moya@kaleidos.net""}",3499.0,14
+Clojure,penpot,2020-08-05,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3508.0,14
+Clojure,penpot,2020-08-06,1,1,"#{""niwi@niwi.nz""}",3509.0,14
+Clojure,penpot,2020-08-07,4,2,"#{""andres.moya@kaleidos.net"" ""mathieu.brunot@monogramm.io""}",3513.0,14
+Clojure,penpot,2020-08-10,6,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3519.0,14
+Clojure,penpot,2020-08-11,4,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3523.0,14
+Clojure,penpot,2020-08-12,1,1,"#{""mathieu.brunot@monogramm.io""}",3524.0,14
+Clojure,penpot,2020-08-14,2,1,"#{""andres.moya@kaleidos.net""}",3526.0,14
+Clojure,penpot,2020-08-17,2,1,"#{""niwi@niwi.nz""}",3528.0,14
+Clojure,penpot,2020-08-18,8,1,"#{""niwi@niwi.nz""}",3536.0,14
+Clojure,penpot,2020-08-19,12,1,"#{""niwi@niwi.nz""}",3548.0,14
+Clojure,penpot,2020-08-21,1,1,"#{""niwi@niwi.nz""}",3549.0,14
+Clojure,penpot,2020-08-24,7,4,"#{""wizzytod@gmail.com"" ""niwi@niwi.nz"" ""wizzytod@users.noreply.github.com"" ""mathieu.brunot@monogramm.io""}",3556.0,14
+Clojure,penpot,2020-08-26,1,1,"#{""delacruzgarciajuan@gmail.com""}",3557.0,14
+Clojure,penpot,2020-09-01,1,1,"#{""andres.moya@kaleidos.net""}",3558.0,14
+Clojure,penpot,2020-09-03,1,1,"#{""alonso.torres@kaleidos.net""}",3559.0,14
+Clojure,penpot,2020-09-04,2,1,"#{""alonso.torres@kaleidos.net""}",3561.0,14
+Clojure,penpot,2020-09-07,4,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3565.0,14
+Clojure,penpot,2020-09-08,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3567.0,14
+Clojure,penpot,2020-09-09,3,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3570.0,14
+Clojure,penpot,2020-09-10,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3577.0,14
+Clojure,penpot,2020-09-11,11,1,"#{""alonso.torres@kaleidos.net""}",3588.0,14
+Clojure,penpot,2020-09-14,13,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3601.0,14
+Clojure,penpot,2020-09-15,7,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3608.0,14
+Clojure,penpot,2020-09-16,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3623.0,14
+Clojure,penpot,2020-09-17,11,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3634.0,14
+Clojure,penpot,2020-09-18,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3637.0,14
+Clojure,penpot,2020-09-21,5,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3642.0,14
+Clojure,penpot,2020-09-22,8,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3650.0,14
+Clojure,penpot,2020-09-23,6,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3656.0,14
+Clojure,penpot,2020-09-24,8,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3664.0,14
+Clojure,penpot,2020-09-25,5,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3669.0,14
+Clojure,penpot,2020-09-28,3,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3672.0,14
+Clojure,penpot,2020-09-29,2,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3674.0,14
+Clojure,penpot,2020-09-30,8,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3682.0,14
+Clojure,penpot,2020-10-01,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3689.0,14
+Clojure,penpot,2020-10-02,13,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3702.0,14
+Clojure,penpot,2020-10-05,12,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3714.0,14
+Clojure,penpot,2020-10-06,3,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3717.0,14
+Clojure,penpot,2020-10-07,6,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3723.0,14
+Clojure,penpot,2020-10-08,3,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3726.0,14
+Clojure,penpot,2020-10-09,2,1,"#{""alonso.torres@kaleidos.net""}",3728.0,14
+Clojure,penpot,2020-10-13,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3731.0,14
+Clojure,penpot,2020-10-14,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3735.0,14
+Clojure,penpot,2020-10-15,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3744.0,14
+Clojure,penpot,2020-10-16,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3751.0,14
+Clojure,penpot,2020-10-19,7,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",3758.0,14
+Clojure,penpot,2020-10-20,17,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3775.0,14
+Clojure,penpot,2020-10-21,6,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3781.0,14
+Clojure,penpot,2020-10-22,10,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3791.0,14
+Clojure,penpot,2020-10-23,2,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3793.0,14
+Clojure,penpot,2020-10-26,5,1,"#{""alonso.torres@kaleidos.net""}",3798.0,14
+Clojure,penpot,2020-10-27,13,1,"#{""alonso.torres@kaleidos.net""}",3811.0,14
+Clojure,penpot,2020-10-28,10,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",3821.0,14
+Clojure,penpot,2020-10-29,5,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3826.0,14
+Clojure,penpot,2020-10-30,5,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3831.0,14
+Clojure,penpot,2020-11-03,10,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",3841.0,14
+Clojure,penpot,2020-11-04,6,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",3847.0,14
+Clojure,penpot,2020-11-05,6,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",3853.0,14
+Clojure,penpot,2020-11-06,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",3855.0,14
+Clojure,penpot,2020-11-10,4,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3859.0,14
+Clojure,penpot,2020-11-11,13,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",3872.0,14
+Clojure,penpot,2020-11-12,6,3,"#{""rwfowler@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3878.0,15
+Clojure,penpot,2020-11-13,18,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3896.0,15
+Clojure,penpot,2020-11-16,2,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3898.0,15
+Clojure,penpot,2020-11-18,6,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3904.0,15
+Clojure,penpot,2020-11-19,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3914.0,15
+Clojure,penpot,2020-11-20,1,1,"#{""alonso.torres@kaleidos.net""}",3915.0,15
+Clojure,penpot,2020-11-21,1,1,"#{""niwi@niwi.nz""}",3916.0,15
+Clojure,penpot,2020-11-23,15,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3931.0,15
+Clojure,penpot,2020-11-24,7,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3938.0,15
+Clojure,penpot,2020-11-25,18,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3956.0,15
+Clojure,penpot,2020-11-26,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3963.0,15
+Clojure,penpot,2020-11-27,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3973.0,15
+Clojure,penpot,2020-11-30,16,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3989.0,15
+Clojure,penpot,2020-12-01,6,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",3995.0,15
+Clojure,penpot,2020-12-02,18,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4013.0,15
+Clojure,penpot,2020-12-03,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4028.0,15
+Clojure,penpot,2020-12-04,16,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4044.0,15
+Clojure,penpot,2020-12-07,12,2,"#{""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",4056.0,15
+Clojure,penpot,2020-12-08,6,1,"#{""alonso.torres@kaleidos.net""}",4062.0,15
+Clojure,penpot,2020-12-09,8,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4070.0,15
+Clojure,penpot,2020-12-10,12,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4082.0,15
+Clojure,penpot,2020-12-11,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4091.0,15
+Clojure,penpot,2020-12-12,2,1,"#{""niwi@niwi.nz""}",4093.0,15
+Clojure,penpot,2020-12-15,1,1,"#{""alonso.torres@kaleidos.net""}",4094.0,15
+Clojure,penpot,2020-12-21,20,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4114.0,15
+Clojure,penpot,2020-12-22,7,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4121.0,15
+Clojure,penpot,2020-12-23,8,1,"#{""alonso.torres@kaleidos.net""}",4129.0,15
+Clojure,penpot,2020-12-24,1,1,"#{""niwi@niwi.nz""}",4130.0,15
+Clojure,penpot,2020-12-26,1,1,"#{""niwi@niwi.nz""}",4131.0,15
+Clojure,penpot,2020-12-27,3,1,"#{""niwi@niwi.nz""}",4134.0,15
+Clojure,penpot,2020-12-28,3,1,"#{""niwi@niwi.nz""}",4137.0,15
+Clojure,penpot,2020-12-30,2,1,"#{""niwi@niwi.nz""}",4139.0,15
+Clojure,penpot,2021-01-04,4,1,"#{""niwi@niwi.nz""}",4143.0,15
+Clojure,penpot,2021-01-05,7,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4150.0,15
+Clojure,penpot,2021-01-06,1,1,"#{""wizzytod@gmail.com""}",4151.0,15
+Clojure,penpot,2021-01-07,11,4,"#{""andres.moya@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4162.0,16
+Clojure,penpot,2021-01-08,16,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4178.0,16
+Clojure,penpot,2021-01-09,2,1,"#{""niwi@niwi.nz""}",4180.0,16
+Clojure,penpot,2021-01-10,3,1,"#{""niwi@niwi.nz""}",4183.0,16
+Clojure,penpot,2021-01-11,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4190.0,16
+Clojure,penpot,2021-01-12,2,1,"#{""alonso.torres@kaleidos.net""}",4192.0,16
+Clojure,penpot,2021-01-13,19,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4211.0,16
+Clojure,penpot,2021-01-14,13,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4224.0,16
+Clojure,penpot,2021-01-15,5,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4229.0,16
+Clojure,penpot,2021-01-16,1,1,"#{""niwi@niwi.nz""}",4230.0,16
+Clojure,penpot,2021-01-18,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4239.0,16
+Clojure,penpot,2021-01-19,18,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4257.0,16
+Clojure,penpot,2021-01-20,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4266.0,16
+Clojure,penpot,2021-01-21,3,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4269.0,16
+Clojure,penpot,2021-01-22,11,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4280.0,16
+Clojure,penpot,2021-01-24,5,1,"#{""niwi@niwi.nz""}",4285.0,16
+Clojure,penpot,2021-01-25,18,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4303.0,16
+Clojure,penpot,2021-01-26,22,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4325.0,16
+Clojure,penpot,2021-01-27,19,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4344.0,16
+Clojure,penpot,2021-01-28,14,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4358.0,16
+Clojure,penpot,2021-01-29,25,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4383.0,16
+Clojure,penpot,2021-01-30,3,1,"#{""niwi@niwi.nz""}",4386.0,16
+Clojure,penpot,2021-01-31,14,1,"#{""niwi@niwi.nz""}",4400.0,16
+Clojure,penpot,2021-02-01,31,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""mathieu.brunot@monogramm.io""}",4431.0,16
+Clojure,penpot,2021-02-02,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4441.0,16
+Clojure,penpot,2021-02-03,26,5,"#{""andres.moya@kaleidos.net"" ""jonas@violoncello.ch"" ""niwi@niwi.nz"" ""abtin@riseup.net"" ""alonso.torres@kaleidos.net""}",4467.0,18
+Clojure,penpot,2021-02-04,21,5,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""mathieu.brunot@monogramm.io""}",4488.0,18
+Clojure,penpot,2021-02-05,9,5,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""tomer@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""danny@kdrag0n.dev""}",4497.0,20
+Clojure,penpot,2021-02-06,1,1,"#{""nisrulz@users.noreply.github.com""}",4498.0,21
+Clojure,penpot,2021-02-07,2,2,"#{""contact@arkhi.org"" ""niwi@niwi.nz""}",4500.0,22
+Clojure,penpot,2021-02-08,6,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""mathieu.brunot@monogramm.io""}",4506.0,22
+Clojure,penpot,2021-02-09,22,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4528.0,22
+Clojure,penpot,2021-02-10,13,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4541.0,22
+Clojure,penpot,2021-02-11,20,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4561.0,22
+Clojure,penpot,2021-02-12,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4571.0,22
+Clojure,penpot,2021-02-14,1,1,"#{""niwi@niwi.nz""}",4572.0,22
+Clojure,penpot,2021-02-15,13,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4585.0,22
+Clojure,penpot,2021-02-16,6,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de""}",4591.0,23
+Clojure,penpot,2021-02-17,8,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4599.0,23
+Clojure,penpot,2021-02-18,7,4,"#{""andres.moya@kaleidos.net"" ""maemolee@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",4606.0,24
+Clojure,penpot,2021-02-19,3,3,"#{""niwi@niwi.nz"" ""natachamenjibar@gmail.com"" ""alonso.torres@kaleidos.net""}",4609.0,25
+Clojure,penpot,2021-02-21,1,1,"#{""niwi@niwi.nz""}",4610.0,25
+Clojure,penpot,2021-02-22,20,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4630.0,25
+Clojure,penpot,2021-02-23,12,4,"#{""andres.moya@kaleidos.net"" ""maemolee@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4642.0,25
+Clojure,penpot,2021-02-24,14,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4656.0,25
+Clojure,penpot,2021-02-25,8,4,"#{""andres.moya@kaleidos.net"" ""maemolee@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4664.0,25
+Clojure,penpot,2021-02-26,1,1,"#{""alonso.torres@kaleidos.net""}",4665.0,25
+Clojure,penpot,2021-02-28,4,1,"#{""niwi@niwi.nz""}",4669.0,25
+Clojure,penpot,2021-03-01,13,3,"#{""niwi@niwi.nz"" ""mb.mathieu.brunot@gmail.com"" ""alonso.torres@kaleidos.net""}",4682.0,25
+Clojure,penpot,2021-03-02,9,4,"#{""maemolee@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4691.0,25
+Clojure,penpot,2021-03-03,3,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",4694.0,25
+Clojure,penpot,2021-03-04,11,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""mathieu.brunot@monogramm.io""}",4705.0,25
+Clojure,penpot,2021-03-05,11,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4716.0,25
+Clojure,penpot,2021-03-06,1,1,"#{""niwi@niwi.nz""}",4717.0,25
+Clojure,penpot,2021-03-07,1,1,"#{""niwi@niwi.nz""}",4718.0,25
+Clojure,penpot,2021-03-08,24,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4742.0,25
+Clojure,penpot,2021-03-09,13,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4755.0,25
+Clojure,penpot,2021-03-10,6,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4761.0,25
+Clojure,penpot,2021-03-11,2,2,"#{""niwi@niwi.nz"" ""stas@girafic.de""}",4763.0,25
+Clojure,penpot,2021-03-12,2,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",4765.0,25
+Clojure,penpot,2021-03-15,18,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",4783.0,25
+Clojure,penpot,2021-03-16,16,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",4799.0,25
+Clojure,penpot,2021-03-17,9,3,"#{""andres.moya@kaleidos.net"" ""gizembln@gmail.com"" ""niwi@niwi.nz""}",4808.0,26
+Clojure,penpot,2021-03-18,5,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4813.0,26
+Clojure,penpot,2021-03-22,7,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",4820.0,26
+Clojure,penpot,2021-03-23,11,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4831.0,26
+Clojure,penpot,2021-03-24,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4840.0,26
+Clojure,penpot,2021-03-25,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4847.0,26
+Clojure,penpot,2021-03-26,21,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""32896514+mbrksntrk@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",4868.0,27
+Clojure,penpot,2021-03-29,21,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4889.0,27
+Clojure,penpot,2021-03-30,13,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4902.0,27
+Clojure,penpot,2021-03-31,13,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4915.0,27
+Clojure,penpot,2021-04-05,5,1,"#{""alonso.torres@kaleidos.net""}",4920.0,27
+Clojure,penpot,2021-04-06,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4935.0,27
+Clojure,penpot,2021-04-07,17,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4952.0,27
+Clojure,penpot,2021-04-08,2,1,"#{""alonso.torres@kaleidos.net""}",4954.0,27
+Clojure,penpot,2021-04-09,12,4,"#{""andres.moya@kaleidos.net"" ""41225+zzkt@users.noreply.github.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4966.0,28
+Clojure,penpot,2021-04-10,1,1,"#{""niwi@niwi.nz""}",4967.0,28
+Clojure,penpot,2021-04-12,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",4974.0,28
+Clojure,penpot,2021-04-13,15,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""mathieu.brunot@monogramm.io""}",4989.0,28
+Clojure,penpot,2021-04-14,20,4,"#{""andres.moya@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5009.0,28
+Clojure,penpot,2021-04-15,13,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5022.0,28
+Clojure,penpot,2021-04-16,6,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5028.0,28
+Clojure,penpot,2021-04-19,1,1,"#{""niwi@niwi.nz""}",5029.0,28
+Clojure,penpot,2021-04-20,6,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5035.0,28
+Clojure,penpot,2021-04-21,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5039.0,28
+Clojure,penpot,2021-04-22,5,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5044.0,28
+Clojure,penpot,2021-04-23,12,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5056.0,28
+Clojure,penpot,2021-04-24,4,1,"#{""niwi@niwi.nz""}",5060.0,28
+Clojure,penpot,2021-04-25,2,1,"#{""niwi@niwi.nz""}",5062.0,28
+Clojure,penpot,2021-04-26,19,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5081.0,28
+Clojure,penpot,2021-04-27,3,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5084.0,28
+Clojure,penpot,2021-04-28,8,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5092.0,28
+Clojure,penpot,2021-04-29,13,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5105.0,28
+Clojure,penpot,2021-04-30,2,1,"#{""delacruzgarciajuan@gmail.com""}",5107.0,28
+Clojure,penpot,2021-05-03,3,1,"#{""alonso.torres@kaleidos.net""}",5110.0,28
+Clojure,penpot,2021-05-04,25,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz""}",5135.0,28
+Clojure,penpot,2021-05-05,14,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5149.0,28
+Clojure,penpot,2021-05-06,21,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""hey@jancborchardt.net""}",5170.0,29
+Clojure,penpot,2021-05-07,14,6,"#{""andres.moya@kaleidos.net"" ""guilhermedimasrosa@gmail.com"" ""epost@anotheragency.no"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""renato.konflanz@unochapeco.edu.br""}",5184.0,32
+Clojure,penpot,2021-05-08,1,1,"#{""niwi@niwi.nz""}",5185.0,32
+Clojure,penpot,2021-05-09,6,1,"#{""niwi@niwi.nz""}",5191.0,32
+Clojure,penpot,2021-05-10,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5201.0,32
+Clojure,penpot,2021-05-11,4,3,"#{""andres.moya@kaleidos.net"" ""sbechmann@hotmail.com"" ""niwi@niwi.nz""}",5205.0,33
+Clojure,penpot,2021-05-12,14,5,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""renato.konflanz@unochapeco.edu.br""}",5219.0,33
+Clojure,penpot,2021-05-13,14,3,"#{""sbechmann@hotmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5233.0,33
+Clojure,penpot,2021-05-14,10,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""renato.konflanz@unochapeco.edu.br""}",5243.0,33
+Clojure,penpot,2021-05-15,1,1,"#{""gizembln@gmail.com""}",5244.0,33
+Clojure,penpot,2021-05-16,2,2,"#{""amine2gdoura@gmail.com"" ""george@getvasco.com""}",5246.0,35
+Clojure,penpot,2021-05-17,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5255.0,35
+Clojure,penpot,2021-05-19,7,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5262.0,35
+Clojure,penpot,2021-05-20,17,5,"#{""antonio@fesomia.cat"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""hey@jancborchardt.net""}",5279.0,36
+Clojure,penpot,2021-05-21,3,3,"#{""amine2gdoura@gmail.com"" ""alonso.torres@kaleidos.net"" ""fiazhari@gmail.com""}",5282.0,37
+Clojure,penpot,2021-05-22,1,1,"#{""gizembln@gmail.com""}",5283.0,37
+Clojure,penpot,2021-05-24,7,2,"#{""weblate@yannik.info"" ""alonso.torres@kaleidos.net""}",5290.0,38
+Clojure,penpot,2021-05-25,16,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5306.0,38
+Clojure,penpot,2021-05-26,18,4,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""renato.konflanz@unochapeco.edu.br""}",5324.0,38
+Clojure,penpot,2021-05-27,15,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5339.0,38
+Clojure,penpot,2021-05-28,8,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5347.0,38
+Clojure,penpot,2021-05-30,4,3,"#{""antonio@fesomia.cat"" ""draget@speciesm.net"" ""grch@mm.st""}",5351.0,40
+Clojure,penpot,2021-05-31,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5360.0,40
+Clojure,penpot,2021-06-01,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5365.0,40
+Clojure,penpot,2021-06-02,18,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5383.0,40
+Clojure,penpot,2021-06-03,13,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5396.0,40
+Clojure,penpot,2021-06-04,13,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5409.0,40
+Clojure,penpot,2021-06-07,13,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5422.0,40
+Clojure,penpot,2021-06-08,1,1,"#{""alonso.torres@kaleidos.net""}",5423.0,40
+Clojure,penpot,2021-06-09,10,4,"#{""andres.moya@kaleidos.net"" ""amine2gdoura@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5433.0,40
+Clojure,penpot,2021-06-10,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5443.0,40
+Clojure,penpot,2021-06-11,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5445.0,40
+Clojure,penpot,2021-06-13,1,1,"#{""renato.konflanz@unochapeco.edu.br""}",5446.0,40
+Clojure,penpot,2021-06-14,8,5,"#{""delacruzgarciajuan@gmail.com"" ""halossqwerty@gmail.com"" ""amine2gdoura@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5454.0,41
+Clojure,penpot,2021-06-15,10,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5464.0,41
+Clojure,penpot,2021-06-16,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5471.0,41
+Clojure,penpot,2021-06-17,27,5,"#{""andres.moya@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""amine2gdoura@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5498.0,41
+Clojure,penpot,2021-06-18,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5513.0,41
+Clojure,penpot,2021-06-20,1,1,"#{""renato.konflanz@unochapeco.edu.br""}",5514.0,41
+Clojure,penpot,2021-06-21,1,1,"#{""andres.moya@kaleidos.net""}",5515.0,41
+Clojure,penpot,2021-06-22,5,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5520.0,41
+Clojure,penpot,2021-06-23,3,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",5523.0,41
+Clojure,penpot,2021-06-24,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5525.0,41
+Clojure,penpot,2021-06-25,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5528.0,41
+Clojure,penpot,2021-06-26,1,1,"#{""translate@disroot.org""}",5529.0,42
+Clojure,penpot,2021-06-28,3,2,"#{""andres.moya@kaleidos.net"" ""renato.konflanz@unochapeco.edu.br""}",5532.0,42
+Clojure,penpot,2021-06-29,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5535.0,42
+Clojure,penpot,2021-06-30,3,2,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com""}",5538.0,42
+Clojure,penpot,2021-07-01,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5540.0,42
+Clojure,penpot,2021-07-02,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5543.0,42
+Clojure,penpot,2021-07-05,9,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""grch@mm.st""}",5552.0,42
+Clojure,penpot,2021-07-06,10,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5562.0,42
+Clojure,penpot,2021-07-07,16,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5578.0,42
+Clojure,penpot,2021-07-08,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5585.0,42
+Clojure,penpot,2021-07-09,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5589.0,42
+Clojure,penpot,2021-07-12,1,1,"#{""alonso.torres@kaleidos.net""}",5590.0,42
+Clojure,penpot,2021-07-13,7,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5597.0,42
+Clojure,penpot,2021-07-14,7,4,"#{""andres.moya@kaleidos.net"" ""guilhermedimasrosa@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5604.0,42
+Clojure,penpot,2021-07-15,14,4,"#{""andres.moya@kaleidos.net"" ""jasonisjasoon@outlook.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5618.0,43
+Clojure,penpot,2021-07-16,5,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5623.0,43
+Clojure,penpot,2021-07-20,4,3,"#{""andres.moya@kaleidos.net"" ""40300919+soultipsy@users.noreply.github.com"" ""niwi@niwi.nz""}",5627.0,44
+Clojure,penpot,2021-07-26,14,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5641.0,44
+Clojure,penpot,2021-07-27,8,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5649.0,44
+Clojure,penpot,2021-07-28,3,1,"#{""andres.moya@kaleidos.net""}",5652.0,44
+Clojure,penpot,2021-07-29,11,3,"#{""andres.moya@kaleidos.net"" ""maemolee@gmail.com"" ""niwi@niwi.nz""}",5663.0,44
+Clojure,penpot,2021-07-30,2,1,"#{""andres.moya@kaleidos.net""}",5665.0,44
+Clojure,penpot,2021-08-02,4,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""eduardaymerich@gmail.com""}",5669.0,45
+Clojure,penpot,2021-08-03,3,2,"#{""Mahmoud@s3geeks.com"" ""andres.moya@kaleidos.net""}",5672.0,46
+Clojure,penpot,2021-08-04,7,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5679.0,46
+Clojure,penpot,2021-08-05,2,1,"#{""andres.moya@kaleidos.net""}",5681.0,46
+Clojure,penpot,2021-08-06,2,1,"#{""andres.moya@kaleidos.net""}",5683.0,46
+Clojure,penpot,2021-08-07,1,1,"#{""renato.konflanz@unochapeco.edu.br""}",5684.0,46
+Clojure,penpot,2021-08-09,5,3,"#{""Mahmoud@s3geeks.com"" ""andres.moya@kaleidos.net"" ""fossati.val@gmail.com""}",5689.0,47
+Clojure,penpot,2021-08-10,2,1,"#{""andres.moya@kaleidos.net""}",5691.0,47
+Clojure,penpot,2021-08-11,1,1,"#{""andres.moya@kaleidos.net""}",5692.0,47
+Clojure,penpot,2021-08-12,4,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5696.0,47
+Clojure,penpot,2021-08-13,2,1,"#{""andres.moya@kaleidos.net""}",5698.0,47
+Clojure,penpot,2021-08-16,4,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5702.0,47
+Clojure,penpot,2021-08-18,4,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5706.0,47
+Clojure,penpot,2021-08-19,7,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5713.0,47
+Clojure,penpot,2021-08-20,2,2,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com""}",5715.0,47
+Clojure,penpot,2021-08-25,1,1,"#{""niwi@niwi.nz""}",5716.0,47
+Clojure,penpot,2021-08-27,3,1,"#{""niwi@niwi.nz""}",5719.0,47
+Clojure,penpot,2021-08-30,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5728.0,47
+Clojure,penpot,2021-08-31,12,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5740.0,47
+Clojure,penpot,2021-09-02,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5745.0,47
+Clojure,penpot,2021-09-03,4,3,"#{""andres.moya@kaleidos.net"" ""rubnx@protonmail.com"" ""alonso.torres@kaleidos.net""}",5749.0,48
+Clojure,penpot,2021-09-06,3,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5752.0,48
+Clojure,penpot,2021-09-07,6,2,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",5758.0,48
+Clojure,penpot,2021-09-08,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5763.0,48
+Clojure,penpot,2021-09-09,13,6,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""oguzersen@protonmail.com"" ""rubnx@protonmail.com"" ""alonso.torres@kaleidos.net""}",5776.0,49
+Clojure,penpot,2021-09-10,9,4,"#{""andres.moya@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5785.0,49
+Clojure,penpot,2021-09-13,9,4,"#{""andres.moya@kaleidos.net"" ""amine2gdoura@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5794.0,49
+Clojure,penpot,2021-09-14,1,1,"#{""niwi@niwi.nz""}",5795.0,49
+Clojure,penpot,2021-09-15,3,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5798.0,49
+Clojure,penpot,2021-09-16,11,1,"#{""niwi@niwi.nz""}",5809.0,49
+Clojure,penpot,2021-09-17,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5813.0,49
+Clojure,penpot,2021-09-20,11,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5824.0,49
+Clojure,penpot,2021-09-21,4,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5828.0,49
+Clojure,penpot,2021-09-22,6,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5834.0,49
+Clojure,penpot,2021-09-23,8,3,"#{""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5842.0,49
+Clojure,penpot,2021-09-24,4,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5846.0,49
+Clojure,penpot,2021-09-27,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5849.0,49
+Clojure,penpot,2021-09-28,8,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5857.0,49
+Clojure,penpot,2021-09-29,15,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5872.0,49
+Clojure,penpot,2021-09-30,6,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5878.0,49
+Clojure,penpot,2021-10-01,1,1,"#{""alonso.torres@kaleidos.net""}",5879.0,49
+Clojure,penpot,2021-10-04,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5883.0,49
+Clojure,penpot,2021-10-05,15,3,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5898.0,49
+Clojure,penpot,2021-10-06,10,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5908.0,49
+Clojure,penpot,2021-10-07,16,4,"#{""andres.moya@kaleidos.net"" ""hi@mariusscheel.de"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5924.0,50
+Clojure,penpot,2021-10-08,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",5928.0,50
+Clojure,penpot,2021-10-11,7,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5935.0,50
+Clojure,penpot,2021-10-13,6,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5941.0,50
+Clojure,penpot,2021-10-14,6,3,"#{""andres.moya@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz""}",5947.0,51
+Clojure,penpot,2021-10-15,4,3,"#{""andres.moya@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz""}",5951.0,51
+Clojure,penpot,2021-10-18,2,1,"#{""alonso.torres@kaleidos.net""}",5953.0,51
+Clojure,penpot,2021-10-19,2,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5955.0,51
+Clojure,penpot,2021-10-20,15,4,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5970.0,51
+Clojure,penpot,2021-10-21,1,1,"#{""delacruzgarciajuan@gmail.com""}",5971.0,51
+Clojure,penpot,2021-10-25,2,1,"#{""andres.moya@kaleidos.net""}",5973.0,51
+Clojure,penpot,2021-10-26,3,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",5976.0,51
+Clojure,penpot,2021-10-27,16,5,"#{""andres.moya@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""oguzersen@protonmail.com"" ""alonso.torres@kaleidos.net""}",5992.0,51
+Clojure,penpot,2021-10-28,4,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",5996.0,51
+Clojure,penpot,2021-10-29,5,3,"#{""andres.moya@kaleidos.net"" ""hi@mariusscheel.de"" ""niwi@niwi.nz""}",6001.0,51
+Clojure,penpot,2021-10-30,1,1,"#{""nelson22768384@gmail.com""}",6002.0,52
+Clojure,penpot,2021-11-02,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",6006.0,52
+Clojure,penpot,2021-11-03,12,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6018.0,52
+Clojure,penpot,2021-11-04,11,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6029.0,52
+Clojure,penpot,2021-11-05,6,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",6035.0,52
+Clojure,penpot,2021-11-08,7,2,"#{""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",6042.0,52
+Clojure,penpot,2021-11-10,5,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",6047.0,52
+Clojure,penpot,2021-11-11,13,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",6060.0,52
+Clojure,penpot,2021-11-12,9,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",6069.0,52
+Clojure,penpot,2021-11-13,1,1,"#{""thebezet@gmail.com""}",6070.0,53
+Clojure,penpot,2021-11-15,9,3,"#{""andres.moya@kaleidos.net"" ""jsoref@users.noreply.github.com"" ""niwi@niwi.nz""}",6079.0,54
+Clojure,penpot,2021-11-16,1,1,"#{""niwi@niwi.nz""}",6080.0,54
+Clojure,penpot,2021-11-17,7,3,"#{""andres.moya@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",6087.0,54
+Clojure,penpot,2021-11-18,4,1,"#{""niwi@niwi.nz""}",6091.0,54
+Clojure,penpot,2021-11-22,3,1,"#{""niwi@niwi.nz""}",6094.0,54
+Clojure,penpot,2021-11-23,13,6,"#{""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""oguzersen@protonmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""paul@mawsonlakes.org""}",6107.0,56
+Clojure,penpot,2021-11-24,11,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6118.0,56
+Clojure,penpot,2021-11-25,10,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6128.0,56
+Clojure,penpot,2021-11-26,3,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6131.0,56
+Clojure,penpot,2021-11-29,8,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6139.0,56
+Clojure,penpot,2021-11-30,5,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6144.0,56
+Clojure,penpot,2021-12-01,7,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6151.0,56
+Clojure,penpot,2021-12-02,7,4,"#{""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""andyli2456@gmail.com"" ""eva.marco@kaleidos.net""}",6158.0,57
+Clojure,penpot,2021-12-03,9,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6167.0,57
+Clojure,penpot,2021-12-06,3,3,"#{""rubnx@protonmail.com"" ""andyli2456@gmail.com"" ""rubenx@mail.com""}",6170.0,58
+Clojure,penpot,2021-12-07,1,1,"#{""andyli2456@gmail.com""}",6171.0,58
+Clojure,penpot,2021-12-08,1,1,"#{""maemolee@gmail.com""}",6172.0,58
+Clojure,penpot,2021-12-09,7,2,"#{""niwi@niwi.nz"" ""andyli2456@gmail.com""}",6179.0,58
+Clojure,penpot,2021-12-10,8,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",6187.0,58
+Clojure,penpot,2021-12-16,1,1,"#{""andyli2456@gmail.com""}",6188.0,58
+Clojure,penpot,2021-12-17,1,1,"#{""insan@mecha.id""}",6189.0,59
+Clojure,penpot,2021-12-19,1,1,"#{""andres.moya@kaleidos.net""}",6190.0,59
+Clojure,penpot,2021-12-20,6,2,"#{""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",6196.0,59
+Clojure,penpot,2021-12-21,3,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6199.0,59
+Clojure,penpot,2021-12-22,17,1,"#{""niwi@niwi.nz""}",6216.0,59
+Clojure,penpot,2021-12-23,4,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6220.0,59
+Clojure,penpot,2021-12-24,1,1,"#{""niwi@niwi.nz""}",6221.0,59
+Clojure,penpot,2021-12-27,10,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6231.0,59
+Clojure,penpot,2021-12-28,16,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6247.0,59
+Clojure,penpot,2021-12-29,12,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6259.0,59
+Clojure,penpot,2021-12-30,18,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6277.0,59
+Clojure,penpot,2021-12-31,7,1,"#{""niwi@niwi.nz""}",6284.0,59
+Clojure,penpot,2022-01-03,10,2,"#{""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6294.0,59
+Clojure,penpot,2022-01-04,10,3,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6304.0,60
+Clojure,penpot,2022-01-05,3,3,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6307.0,60
+Clojure,penpot,2022-01-07,2,2,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",6309.0,60
+Clojure,penpot,2022-01-10,9,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6318.0,60
+Clojure,penpot,2022-01-11,10,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6328.0,60
+Clojure,penpot,2022-01-12,22,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6350.0,60
+Clojure,penpot,2022-01-13,12,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6362.0,60
+Clojure,penpot,2022-01-14,12,5,"#{""alejandroalonsofernandez@gmail.com"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""oguzersen@protonmail.com"" ""alonso.torres@kaleidos.net""}",6374.0,60
+Clojure,penpot,2022-01-17,9,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",6383.0,61
+Clojure,penpot,2022-01-18,11,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6394.0,61
+Clojure,penpot,2022-01-19,11,7,"#{""andres.moya@kaleidos.net"" ""fossati.val@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""rubenx@mail.com""}",6405.0,61
+Clojure,penpot,2022-01-20,11,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6416.0,61
+Clojure,penpot,2022-01-21,14,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6430.0,61
+Clojure,penpot,2022-01-24,14,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6444.0,61
+Clojure,penpot,2022-01-25,11,6,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6455.0,61
+Clojure,penpot,2022-01-26,24,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6479.0,61
+Clojure,penpot,2022-01-27,5,2,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz""}",6484.0,61
+Clojure,penpot,2022-01-28,10,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",6494.0,61
+Clojure,penpot,2022-01-31,1,1,"#{""alonso.torres@kaleidos.net""}",6495.0,61
+Clojure,penpot,2022-02-01,13,5,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6508.0,61
+Clojure,penpot,2022-02-02,13,3,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6521.0,61
+Clojure,penpot,2022-02-03,11,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6532.0,61
+Clojure,penpot,2022-02-04,9,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6541.0,61
+Clojure,penpot,2022-02-06,1,1,"#{""niwi@niwi.nz""}",6542.0,61
+Clojure,penpot,2022-02-07,15,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6557.0,61
+Clojure,penpot,2022-02-08,11,6,"#{""alejandroalonsofernandez@gmail.com"" ""rhcarvalho@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6568.0,62
+Clojure,penpot,2022-02-09,14,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6582.0,62
+Clojure,penpot,2022-02-10,12,5,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6594.0,62
+Clojure,penpot,2022-02-11,4,3,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6598.0,62
+Clojure,penpot,2022-02-12,5,1,"#{""niwi@niwi.nz""}",6603.0,62
+Clojure,penpot,2022-02-13,1,1,"#{""11229646+keunes@users.noreply.github.com""}",6604.0,63
+Clojure,penpot,2022-02-14,7,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6611.0,63
+Clojure,penpot,2022-02-15,13,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6624.0,63
+Clojure,penpot,2022-02-16,19,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""oguzersen@protonmail.com"" ""alonso.torres@kaleidos.net""}",6643.0,63
+Clojure,penpot,2022-02-17,10,5,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6653.0,64
+Clojure,penpot,2022-02-18,5,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""rubenx@mail.com""}",6658.0,64
+Clojure,penpot,2022-02-21,14,7,"#{""andres.moya@kaleidos.net"" ""shibinjose991@gmail.com"" ""alejandro.alonso@kaleidos.net"" ""joaoterroa2@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6672.0,67
+Clojure,penpot,2022-02-22,8,4,"#{""evamarcod@gmail.com"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6680.0,67
+Clojure,penpot,2022-02-23,22,8,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""shibinjose991@gmail.com"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6702.0,67
+Clojure,penpot,2022-02-24,15,4,"#{""shibinjose991@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""maldonado@codelutin.com""}",6717.0,68
+Clojure,penpot,2022-02-25,14,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6731.0,68
+Clojure,penpot,2022-02-28,21,5,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6752.0,68
+Clojure,penpot,2022-03-01,15,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""translate@disroot.org"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6767.0,68
+Clojure,penpot,2022-03-02,5,3,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",6772.0,68
+Clojure,penpot,2022-03-03,6,2,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",6778.0,68
+Clojure,penpot,2022-03-04,9,6,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""shibinjose991@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",6787.0,68
+Clojure,penpot,2022-03-06,2,1,"#{""niwi@niwi.nz""}",6789.0,68
+Clojure,penpot,2022-03-07,17,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6806.0,68
+Clojure,penpot,2022-03-08,7,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6813.0,68
+Clojure,penpot,2022-03-09,9,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6822.0,68
+Clojure,penpot,2022-03-10,16,5,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6838.0,68
+Clojure,penpot,2022-03-11,15,4,"#{""vintprox@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""rubenx@mail.com""}",6853.0,69
+Clojure,penpot,2022-03-14,8,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6861.0,69
+Clojure,penpot,2022-03-15,11,5,"#{""evamarcod@gmail.com"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""alonso.torres@kaleidos.net""}",6872.0,69
+Clojure,penpot,2022-03-16,8,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net""}",6880.0,70
+Clojure,penpot,2022-03-17,6,2,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",6886.0,70
+Clojure,penpot,2022-03-18,10,5,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6896.0,70
+Clojure,penpot,2022-03-20,3,2,"#{""niwi@niwi.nz"" ""123hozeifeh@gmail.com""}",6899.0,70
+Clojure,penpot,2022-03-21,7,4,"#{""bingling_sama@qq.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6906.0,71
+Clojure,penpot,2022-03-22,31,7,"#{""evamarcod@gmail.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6937.0,71
+Clojure,penpot,2022-03-23,19,5,"#{""alejandroalonsofernandez@gmail.com"" ""bingling_sama@qq.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6956.0,71
+Clojure,penpot,2022-03-24,18,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6974.0,71
+Clojure,penpot,2022-03-25,11,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",6985.0,71
+Clojure,penpot,2022-03-26,1,1,"#{""sh.yaron@gmail.com""}",6986.0,71
+Clojure,penpot,2022-03-28,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",6994.0,71
+Clojure,penpot,2022-03-29,13,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""rhcarvalho@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7007.0,71
+Clojure,penpot,2022-03-30,20,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""oguz@ersen.moe"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7027.0,72
+Clojure,penpot,2022-03-31,12,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""bingling_sama@qq.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7039.0,72
+Clojure,penpot,2022-04-01,10,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7049.0,72
+Clojure,penpot,2022-04-03,1,1,"#{""oguz@ersen.moe""}",7050.0,72
+Clojure,penpot,2022-04-04,19,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7069.0,72
+Clojure,penpot,2022-04-05,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7077.0,72
+Clojure,penpot,2022-04-06,13,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7090.0,72
+Clojure,penpot,2022-04-07,6,4,"#{""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7096.0,72
+Clojure,penpot,2022-04-08,5,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7101.0,72
+Clojure,penpot,2022-04-11,8,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""oguz@ersen.moe""}",7109.0,72
+Clojure,penpot,2022-04-12,3,3,"#{""andres.moya@kaleidos.net"" ""translate@disroot.org"" ""alonso.torres@kaleidos.net""}",7112.0,72
+Clojure,penpot,2022-04-13,2,2,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com""}",7114.0,72
+Clojure,penpot,2022-04-18,8,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7122.0,72
+Clojure,penpot,2022-04-19,14,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7136.0,72
+Clojure,penpot,2022-04-20,11,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7147.0,72
+Clojure,penpot,2022-04-21,12,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7159.0,72
+Clojure,penpot,2022-04-22,16,6,"#{""alejandroalonsofernandez@gmail.com"" ""andres.gonzalez79@gmail.com"" ""radek@sqrc.pl"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""locness3@orange.fr""}",7175.0,74
+Clojure,penpot,2022-04-25,4,3,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7179.0,74
+Clojure,penpot,2022-04-26,12,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""locness3@orange.fr""}",7191.0,74
+Clojure,penpot,2022-04-27,10,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net""}",7201.0,74
+Clojure,penpot,2022-04-28,10,3,"#{""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net""}",7211.0,74
+Clojure,penpot,2022-04-29,4,3,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",7215.0,74
+Clojure,penpot,2022-05-02,2,1,"#{""123hozeifeh@gmail.com""}",7217.0,74
+Clojure,penpot,2022-05-03,3,2,"#{""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7220.0,74
+Clojure,penpot,2022-05-04,5,2,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net""}",7225.0,74
+Clojure,penpot,2022-05-05,17,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7242.0,74
+Clojure,penpot,2022-05-06,5,3,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7247.0,74
+Clojure,penpot,2022-05-07,1,1,"#{""radek@sqrc.pl""}",7248.0,74
+Clojure,penpot,2022-05-09,12,3,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7260.0,74
+Clojure,penpot,2022-05-10,12,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7272.0,74
+Clojure,penpot,2022-05-11,13,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7285.0,74
+Clojure,penpot,2022-05-12,14,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7299.0,74
+Clojure,penpot,2022-05-13,18,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7317.0,74
+Clojure,penpot,2022-05-15,1,1,"#{""shibinjose991@gmail.com""}",7318.0,74
+Clojure,penpot,2022-05-17,21,6,"#{""jamie@418sec.com"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7339.0,75
+Clojure,penpot,2022-05-18,9,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7348.0,75
+Clojure,penpot,2022-05-19,7,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",7355.0,75
+Clojure,penpot,2022-05-20,7,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",7362.0,75
+Clojure,penpot,2022-05-21,1,1,"#{""locness3@orange.fr""}",7363.0,75
+Clojure,penpot,2022-05-23,9,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7372.0,75
+Clojure,penpot,2022-05-24,18,8,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""andres.gonzalez79@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""dundzys.vincas@gmail.com""}",7390.0,76
+Clojure,penpot,2022-05-25,23,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""hosted@weblate.org"" ""eva.marco@kaleidos.net""}",7413.0,77
+Clojure,penpot,2022-05-26,11,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""sh.yaron@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""dundzys.vincas@gmail.com""}",7424.0,77
+Clojure,penpot,2022-05-27,5,3,"#{""andres.moya@kaleidos.net"" ""radek@sqrc.pl"" ""alonso.torres@kaleidos.net""}",7429.0,77
+Clojure,penpot,2022-05-30,8,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7437.0,77
+Clojure,penpot,2022-05-31,6,2,"#{""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",7443.0,77
+Clojure,penpot,2022-06-01,5,2,"#{""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",7448.0,77
+Clojure,penpot,2022-06-02,7,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net""}",7455.0,77
+Clojure,penpot,2022-06-03,5,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",7460.0,77
+Clojure,penpot,2022-06-04,1,1,"#{""oguz@ersen.moe""}",7461.0,77
+Clojure,penpot,2022-06-06,11,3,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",7472.0,77
+Clojure,penpot,2022-06-07,4,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",7476.0,77
+Clojure,penpot,2022-06-08,7,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""alonso.torres@kaleidos.net"" ""ascarida@proton.me"" ""locness3@orange.fr""}",7483.0,78
+Clojure,penpot,2022-06-09,12,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7495.0,78
+Clojure,penpot,2022-06-10,5,3,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""alexpawlak@gmail.com""}",7500.0,79
+Clojure,penpot,2022-06-13,12,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7512.0,79
+Clojure,penpot,2022-06-14,13,5,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""alexpawlak@gmail.com"" ""locness3@orange.fr""}",7525.0,79
+Clojure,penpot,2022-06-15,9,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7534.0,79
+Clojure,penpot,2022-06-16,7,3,"#{""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7541.0,79
+Clojure,penpot,2022-06-17,10,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""jasonisjasoon@outlook.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net""}",7551.0,79
+Clojure,penpot,2022-06-20,7,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7558.0,79
+Clojure,penpot,2022-06-21,7,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7565.0,79
+Clojure,penpot,2022-06-22,9,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7574.0,79
+Clojure,penpot,2022-06-23,11,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7585.0,79
+Clojure,penpot,2022-06-24,13,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net"" ""esiotrot@gmail.com""}",7598.0,80
+Clojure,penpot,2022-06-27,12,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net""}",7610.0,80
+Clojure,penpot,2022-06-28,7,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7617.0,80
+Clojure,penpot,2022-06-29,20,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7637.0,80
+Clojure,penpot,2022-06-30,7,5,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""renato.konflanz@unochapeco.edu.br""}",7644.0,80
+Clojure,penpot,2022-07-01,9,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""lucie@jeci.fr"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""locness3@orange.fr""}",7653.0,81
+Clojure,penpot,2022-07-04,7,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7660.0,81
+Clojure,penpot,2022-07-05,6,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7666.0,81
+Clojure,penpot,2022-07-06,9,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7675.0,81
+Clojure,penpot,2022-07-07,16,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7691.0,81
+Clojure,penpot,2022-07-08,8,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""jponsac@uoc.edu"" ""alonso.torres@kaleidos.net""}",7699.0,82
+Clojure,penpot,2022-07-11,2,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7701.0,82
+Clojure,penpot,2022-07-12,13,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7714.0,82
+Clojure,penpot,2022-07-13,17,5,"#{""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",7731.0,82
+Clojure,penpot,2022-07-14,11,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""oguz@ersen.moe"" ""alonso.torres@kaleidos.net""}",7742.0,82
+Clojure,penpot,2022-07-15,6,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",7748.0,82
+Clojure,penpot,2022-07-17,1,1,"#{""sh.yaron@gmail.com""}",7749.0,82
+Clojure,penpot,2022-07-25,2,1,"#{""zhurov.andrew@gmail.com""}",7751.0,83
+Clojure,penpot,2022-07-26,5,2,"#{""niwi@niwi.nz"" ""123hozeifeh@gmail.com""}",7756.0,83
+Clojure,penpot,2022-07-27,17,5,"#{""alejandroalonsofernandez@gmail.com"" ""zhurov.andrew@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7773.0,83
+Clojure,penpot,2022-07-28,23,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7796.0,83
+Clojure,penpot,2022-07-29,5,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",7801.0,83
+Clojure,penpot,2022-07-30,2,1,"#{""zhurov.andrew@gmail.com""}",7803.0,83
+Clojure,penpot,2022-07-31,2,1,"#{""zhurov.andrew@gmail.com""}",7805.0,83
+Clojure,penpot,2022-08-01,18,4,"#{""zhurov.andrew@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7823.0,83
+Clojure,penpot,2022-08-02,6,3,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7829.0,83
+Clojure,penpot,2022-08-03,22,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7851.0,83
+Clojure,penpot,2022-08-04,10,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7861.0,83
+Clojure,penpot,2022-08-05,4,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""eva.marco@kaleidos.net""}",7865.0,83
+Clojure,penpot,2022-08-08,8,1,"#{""niwi@niwi.nz""}",7873.0,83
+Clojure,penpot,2022-08-09,13,5,"#{""alejandroalonsofernandez@gmail.com"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net"" ""me@laminne33569.net""}",7886.0,84
+Clojure,penpot,2022-08-10,13,4,"#{""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7899.0,84
+Clojure,penpot,2022-08-11,19,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",7918.0,84
+Clojure,penpot,2022-08-12,11,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",7929.0,84
+Clojure,penpot,2022-08-16,1,1,"#{""andres.moya@kaleidos.net""}",7930.0,84
+Clojure,penpot,2022-08-17,12,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""andres.gonzalez79@gmail.com"" ""oguz@ersen.moe""}",7942.0,84
+Clojure,penpot,2022-08-18,1,1,"#{""andres.moya@kaleidos.net""}",7943.0,84
+Clojure,penpot,2022-08-19,6,1,"#{""alejandroalonsofernandez@gmail.com""}",7949.0,84
+Clojure,penpot,2022-08-22,2,2,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net""}",7951.0,84
+Clojure,penpot,2022-08-23,17,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",7968.0,84
+Clojure,penpot,2022-08-24,27,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com""}",7995.0,84
+Clojure,penpot,2022-08-25,13,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""mlarreategi@codesyntax.com""}",8008.0,85
+Clojure,penpot,2022-08-26,3,2,"#{""alejandroalonsofernandez@gmail.com"" ""stas@girafic.de""}",8011.0,85
+Clojure,penpot,2022-08-27,2,2,"#{""amine2gdoura@gmail.com"" ""rubenx@mail.com""}",8013.0,85
+Clojure,penpot,2022-08-29,9,6,"#{""andres.moya@kaleidos.net"" ""windfarer@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de""}",8022.0,86
+Clojure,penpot,2022-08-30,24,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8046.0,86
+Clojure,penpot,2022-08-31,16,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""valentina.chapellu@gmail.com"" ""alonso.torres@kaleidos.net""}",8062.0,87
+Clojure,penpot,2022-09-01,6,5,"#{""alejandroalonsofernandez@gmail.com"" ""alt3753.7@gmail.com"" ""niwi@niwi.nz"" ""aimeeritleng@outlook.com"" ""alonso.torres@kaleidos.net""}",8068.0,89
+Clojure,penpot,2022-09-04,1,1,"#{""rubenx@mail.com""}",8069.0,89
+Clojure,penpot,2022-09-05,16,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""valentina.chapellu@gmail.com"" ""stas@girafic.de"" ""eva.marco@kaleidos.net""}",8085.0,89
+Clojure,penpot,2022-09-06,22,7,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de"" ""eva.marco@kaleidos.net""}",8107.0,89
+Clojure,penpot,2022-09-07,12,6,"#{""alejandroalonsofernandez@gmail.com"" ""alt3753.7@gmail.com"" ""pablo.alba@kaleidos.net"" ""philippe.accorsi@algoo.fr"" ""alonso.torres@kaleidos.net"" ""mlarreategi@codesyntax.com""}",8119.0,90
+Clojure,penpot,2022-09-08,8,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com"" ""eva.marco@kaleidos.net""}",8127.0,90
+Clojure,penpot,2022-09-09,4,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""beeby@163.com""}",8131.0,91
+Clojure,penpot,2022-09-11,1,1,"#{""stas@girafic.de""}",8132.0,91
+Clojure,penpot,2022-09-12,4,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",8136.0,91
+Clojure,penpot,2022-09-13,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""beeby@163.com""}",8144.0,91
+Clojure,penpot,2022-09-14,13,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8157.0,91
+Clojure,penpot,2022-09-15,4,4,"#{""allytiagomail@gmail.com"" ""diacritica@gmail.com"" ""mlarreategi@codesyntax.com"" ""renato.konflanz@unochapeco.edu.br""}",8161.0,93
+Clojure,penpot,2022-09-16,2,2,"#{""lazalatin@tutanota.com"" ""kontakt@wojtekmaj.pl""}",8163.0,95
+Clojure,penpot,2022-09-17,3,2,"#{""niwi@niwi.nz"" ""123hozeifeh@gmail.com""}",8166.0,95
+Clojure,penpot,2022-09-18,2,2,"#{""waishnavdeore@gmail.com"" ""alt3753.7@gmail.com""}",8168.0,96
+Clojure,penpot,2022-09-19,11,9,"#{""alejandroalonsofernandez@gmail.com"" ""swapnilchitnis360@gmail.com"" ""martial.garchery@gmail.com"" ""filipeluizsilva@gmail.com"" ""xasertop@gmail.com"" ""niwi@niwi.nz"" ""valentina.chapellu@gmail.com"" ""jacopo.trabia@gmail.com"" ""semonxue@gmail.com""}",8179.0,102
+Clojure,penpot,2022-09-20,30,10,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""mateusmullerw@gmail.com"" ""ruanaragao2@gmail.com"" ""shuaib.zahda@gmail.com"" ""andres.gonzalez79@gmail.com"" ""translate@disroot.org"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net"" ""jacopo.trabia@gmail.com""}",8209.0,105
+Clojure,penpot,2022-09-21,20,5,"#{""alejandroalonsofernandez@gmail.com"" ""xasertop@gmail.com"" ""niwi@niwi.nz"" ""valentina.chapellu@gmail.com"" ""eva.marco@kaleidos.net""}",8229.0,105
+Clojure,penpot,2022-09-22,14,7,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""nelson22768384@gmail.com"" ""xasertop@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",8243.0,105
+Clojure,penpot,2022-09-23,19,8,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""dariogomes@gmail.com"" ""jazielsilvaaa@gmail.com"" ""hugo.figueira7@gmail.com"" ""filipeluizsilva@gmail.com"" ""stas@girafic.de"" ""eva.marco@kaleidos.net""}",8262.0,108
+Clojure,penpot,2022-09-24,5,3,"#{""dariogomes@gmail.com"" ""hugo.figueira7@gmail.com"" ""shuaib.zahda@gmail.com""}",8267.0,108
+Clojure,penpot,2022-09-25,2,2,"#{""niwi@niwi.nz"" ""oguz@ersen.moe""}",8269.0,108
+Clojure,penpot,2022-09-26,19,5,"#{""alejandroalonsofernandez@gmail.com"" ""youkho@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",8288.0,109
+Clojure,penpot,2022-09-27,24,6,"#{""alejandroalonsofernandez@gmail.com"" ""kbdharunkrishna@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",8312.0,110
+Clojure,penpot,2022-09-28,30,9,"#{""alejandroalonsofernandez@gmail.com"" ""youkho@gmail.com"" ""shuaib.zahda@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""lol768@users.noreply.github.com"" ""123hozeifeh@gmail.com"" ""eva.marco@kaleidos.net""}",8342.0,111
+Clojure,penpot,2022-09-29,13,5,"#{""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8355.0,111
+Clojure,penpot,2022-09-30,9,7,"#{""andres.moya@kaleidos.net"" ""alejandro.alonso@kaleidos.net"" ""zjuranko@gmail.com"" ""alonso.torres@kaleidos.net"" ""dector@dector.space"" ""eva.marco@kaleidos.net"" ""jacopo.trabia@gmail.com""}",8364.0,113
+Clojure,penpot,2022-10-01,2,2,"#{""youkho@gmail.com"" ""zjuranko@gmail.com""}",8366.0,113
+Clojure,penpot,2022-10-02,5,5,"#{""kevin@nowald.pl"" ""luzpaz@pm.me"" ""schalk.neethling@mechanical-ink.co.za"" ""niwi@niwi.nz"" ""dector@dector.space""}",8371.0,116
+Clojure,penpot,2022-10-03,6,5,"#{""kevin@nowald.pl"" ""antonio@fesomia.cat"" ""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""eva.marco@kaleidos.net""}",8377.0,116
+Clojure,penpot,2022-10-04,29,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""luzpaz@pm.me"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8406.0,116
+Clojure,penpot,2022-10-05,13,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""kbdharunkrishna@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8419.0,116
+Clojure,penpot,2022-10-06,14,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",8433.0,116
+Clojure,penpot,2022-10-07,2,2,"#{""delacruzgarciajuan@gmail.com"" ""valentina.chapellu@gmail.com""}",8435.0,116
+Clojure,penpot,2022-10-08,1,1,"#{""shuaib.zahda@gmail.com""}",8436.0,116
+Clojure,penpot,2022-10-09,1,1,"#{""ascarida@proton.me""}",8437.0,116
+Clojure,penpot,2022-10-10,19,8,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alejandro.alonso@kaleidos.net"" ""niwi@niwi.nz"" ""oguz@ersen.moe"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de"" ""eva.marco@kaleidos.net""}",8456.0,116
+Clojure,penpot,2022-10-11,21,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net"" ""ascarida@proton.me""}",8477.0,116
+Clojure,penpot,2022-10-12,2,2,"#{""tummas@tummas.me"" ""sh.yaron@gmail.com""}",8479.0,117
+Clojure,penpot,2022-10-13,7,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""eva.marco@kaleidos.net""}",8486.0,117
+Clojure,penpot,2022-10-14,14,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8500.0,117
+Clojure,penpot,2022-10-16,3,2,"#{""bogi.wennerstrom@gmail.com"" ""niwi@niwi.nz""}",8503.0,118
+Clojure,penpot,2022-10-17,11,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""stas@girafic.de"" ""eva.marco@kaleidos.net""}",8514.0,118
+Clojure,penpot,2022-10-18,22,11,"#{""tummas@tummas.me"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""translate@disroot.org"" ""niwi@niwi.nz"" ""oguz@ersen.moe"" ""stas@girafic.de"" ""hosted@weblate.org"" ""eva.marco@kaleidos.net""}",8536.0,118
+Clojure,penpot,2022-10-19,13,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8549.0,118
+Clojure,penpot,2022-10-20,10,4,"#{""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8559.0,118
+Clojure,penpot,2022-10-21,8,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""bogi.wennerstrom@gmail.com"" ""alonso.torres@kaleidos.net""}",8567.0,118
+Clojure,penpot,2022-10-24,7,6,"#{""tummas@tummas.me"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8574.0,118
+Clojure,penpot,2022-10-25,10,5,"#{""tummas@tummas.me"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""k3kelm4vw@mozmail.com""}",8584.0,119
+Clojure,penpot,2022-10-26,2,2,"#{""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8586.0,119
+Clojure,penpot,2022-10-27,10,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8596.0,119
+Clojure,penpot,2022-10-28,5,5,"#{""hi@mariusscheel.de"" ""accounts@th3ph4nt0m.de"" ""translate@disroot.org"" ""stas@girafic.de"" ""mlarreategi@codesyntax.com""}",8601.0,120
+Clojure,penpot,2022-10-31,10,4,"#{""tummas@tummas.me"" ""bogi.wennerstrom@gmail.com"" ""niwi@niwi.nz"" ""me@laminne33569.net""}",8611.0,120
+Clojure,penpot,2022-11-01,5,1,"#{""niwi@niwi.nz""}",8616.0,120
+Clojure,penpot,2022-11-02,6,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8622.0,120
+Clojure,penpot,2022-11-03,18,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8640.0,120
+Clojure,penpot,2022-11-04,4,2,"#{""alonso.torres@kaleidos.net"" ""stas@girafic.de""}",8644.0,120
+Clojure,penpot,2022-11-07,13,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8657.0,120
+Clojure,penpot,2022-11-08,6,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8663.0,120
+Clojure,penpot,2022-11-10,2,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8665.0,120
+Clojure,penpot,2022-11-11,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",8668.0,120
+Clojure,penpot,2022-11-14,7,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8675.0,120
+Clojure,penpot,2022-11-15,4,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",8679.0,120
+Clojure,penpot,2022-11-16,4,3,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""eva.marco@kaleidos.net""}",8683.0,120
+Clojure,penpot,2022-11-17,9,6,"#{""tummas@tummas.me"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""bogi.wennerstrom@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8692.0,120
+Clojure,penpot,2022-11-18,5,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",8697.0,120
+Clojure,penpot,2022-11-19,1,1,"#{""niwi@niwi.nz""}",8698.0,120
+Clojure,penpot,2022-11-20,4,1,"#{""niwi@niwi.nz""}",8702.0,120
+Clojure,penpot,2022-11-21,9,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net"" ""ptrithu8@gmail.com""}",8711.0,121
+Clojure,penpot,2022-11-22,18,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""ptrithu8@gmail.com""}",8729.0,121
+Clojure,penpot,2022-11-23,6,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8735.0,121
+Clojure,penpot,2022-11-24,11,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8746.0,121
+Clojure,penpot,2022-11-25,2,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",8748.0,121
+Clojure,penpot,2022-11-28,18,8,"#{""alejandroalonsofernandez@gmail.com"" ""smillence@hotmail.com"" ""maemolee@gmail.com"" ""dariogomes@gmail.com"" ""kbdharunkrishna@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8766.0,122
+Clojure,penpot,2022-11-29,2,2,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",8768.0,122
+Clojure,penpot,2022-11-30,16,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""marie.gradeler@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8784.0,123
+Clojure,penpot,2022-12-01,20,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8804.0,123
+Clojure,penpot,2022-12-02,7,6,"#{""penpot.weblate@inbx.anonaddy.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""ozamiz.m@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8811.0,125
+Clojure,penpot,2022-12-05,12,7,"#{""alejandroalonsofernandez@gmail.com"" ""allytiagomail@gmail.com"" ""pablo.alba@kaleidos.net"" ""ozamiz.m@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""business.2agames@gmail.com""}",8823.0,126
+Clojure,penpot,2022-12-07,14,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""marie.gradeler@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8837.0,126
+Clojure,penpot,2022-12-08,1,1,"#{""business.2agames@gmail.com""}",8838.0,126
+Clojure,penpot,2022-12-09,9,5,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net"" ""rbreen@zmags.com""}",8847.0,127
+Clojure,penpot,2022-12-10,3,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""rbreen@zmags.com""}",8850.0,127
+Clojure,penpot,2022-12-12,12,3,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",8862.0,127
+Clojure,penpot,2022-12-13,33,4,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",8895.0,127
+Clojure,penpot,2022-12-14,13,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",8908.0,127
+Clojure,penpot,2022-12-15,29,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""ptrithu8@gmail.com""}",8937.0,127
+Clojure,penpot,2022-12-16,19,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net""}",8956.0,127
+Clojure,penpot,2022-12-17,3,1,"#{""niwi@niwi.nz""}",8959.0,127
+Clojure,penpot,2022-12-19,2,2,"#{""andres.gonzalez79@gmail.com"" ""me@midka.dev""}",8961.0,128
+Clojure,penpot,2022-12-20,4,1,"#{""ptrithu8@gmail.com""}",8965.0,128
+Clojure,penpot,2022-12-21,4,2,"#{""niwi@niwi.nz"" ""lmlmlmlmlm71@gmail.com""}",8969.0,129
+Clojure,penpot,2022-12-22,7,1,"#{""niwi@niwi.nz""}",8976.0,129
+Clojure,penpot,2022-12-27,21,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""fernandokrik@hotmail.com""}",8997.0,130
+Clojure,penpot,2022-12-28,22,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9019.0,130
+Clojure,penpot,2022-12-29,15,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9034.0,130
+Clojure,penpot,2022-12-30,14,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9048.0,130
+Clojure,penpot,2022-12-31,4,1,"#{""niwi@niwi.nz""}",9052.0,130
+Clojure,penpot,2023-01-02,20,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9072.0,130
+Clojure,penpot,2023-01-03,4,2,"#{""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9076.0,130
+Clojure,penpot,2023-01-04,10,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9086.0,130
+Clojure,penpot,2023-01-05,20,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""kbdharunkrishna@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9106.0,130
+Clojure,penpot,2023-01-06,2,1,"#{""niwi@niwi.nz""}",9108.0,130
+Clojure,penpot,2023-01-09,17,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""aitor@rojo2.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9125.0,131
+Clojure,penpot,2023-01-10,12,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9137.0,131
+Clojure,penpot,2023-01-11,17,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""AzazelN28@users.noreply.github.com"" ""aitor@rojo2.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9154.0,132
+Clojure,penpot,2023-01-12,19,7,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""ptrithu8@gmail.com""}",9173.0,133
+Clojure,penpot,2023-01-13,19,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9192.0,133
+Clojure,penpot,2023-01-14,1,1,"#{""niwi@niwi.nz""}",9193.0,133
+Clojure,penpot,2023-01-15,1,1,"#{""rubenx@mail.com""}",9194.0,133
+Clojure,penpot,2023-01-16,18,7,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""ptrithu8@gmail.com""}",9212.0,133
+Clojure,penpot,2023-01-17,16,7,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""123hozeifeh@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9228.0,133
+Clojure,penpot,2023-01-18,20,7,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""mlarreategi@codesyntax.com"" ""eva.marco@kaleidos.net"" ""k3kelm4vw@mozmail.com"" ""ptrithu8@gmail.com""}",9248.0,133
+Clojure,penpot,2023-01-19,24,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""linerly@protonmail.com""}",9272.0,134
+Clojure,penpot,2023-01-20,26,8,"#{""ruben@users.noreply.hosted.weblate.org"" ""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""info@amerey.eu"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9298.0,136
+Clojure,penpot,2023-01-21,1,1,"#{""niwi@niwi.nz""}",9299.0,136
+Clojure,penpot,2023-01-22,1,1,"#{""123hozeifeh@gmail.com""}",9300.0,136
+Clojure,penpot,2023-01-23,13,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9313.0,136
+Clojure,penpot,2023-01-24,26,11,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""marie.gradeler@gmail.com"" ""AzazelN28@users.noreply.github.com"" ""oguz@ersen.moe"" ""alonso.torres@kaleidos.net"" ""hosted@weblate.org"" ""eva.marco@kaleidos.net""}",9339.0,136
+Clojure,penpot,2023-01-25,16,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de"" ""linerly@protonmail.com""}",9355.0,136
+Clojure,penpot,2023-01-26,16,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9371.0,136
+Clojure,penpot,2023-01-27,23,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""424@live.hk"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9394.0,137
+Clojure,penpot,2023-01-28,1,1,"#{""translate@disroot.org""}",9395.0,137
+Clojure,penpot,2023-01-29,1,1,"#{""424@live.hk""}",9396.0,137
+Clojure,penpot,2023-01-30,20,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""424@live.hk"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9416.0,137
+Clojure,penpot,2023-01-31,23,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de""}",9439.0,137
+Clojure,penpot,2023-02-01,26,9,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""424@live.hk"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""linerly@protonmail.com""}",9465.0,137
+Clojure,penpot,2023-02-02,32,8,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""gabriele@lippi.net"" ""eva.marco@kaleidos.net"" ""diasatreader@gmail.com""}",9497.0,139
+Clojure,penpot,2023-02-03,2,2,"#{""ondrej.konecny@gmail.com"" ""stas@girafic.de""}",9499.0,140
+Clojure,penpot,2023-02-04,7,3,"#{""cclauss@me.com"" ""mario@laravelista.hr"" ""alvaroaraoz_92@hotmail.com""}",9506.0,143
+Clojure,penpot,2023-02-05,4,3,"#{""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""fernandokrik@hotmail.com""}",9510.0,143
+Clojure,penpot,2023-02-06,13,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9523.0,143
+Clojure,penpot,2023-02-07,27,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""stas@girafic.de"" ""eva.marco@kaleidos.net""}",9550.0,143
+Clojure,penpot,2023-02-08,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""ondrej.konecny@gmail.com"" ""eva.marco@kaleidos.net""}",9558.0,143
+Clojure,penpot,2023-02-09,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""k3kelm4vw@mozmail.com""}",9566.0,143
+Clojure,penpot,2023-02-10,6,4,"#{""renandf@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9572.0,144
+Clojure,penpot,2023-02-11,2,1,"#{""niwi@niwi.nz""}",9574.0,144
+Clojure,penpot,2023-02-12,1,1,"#{""alextec70@outlook.com""}",9575.0,145
+Clojure,penpot,2023-02-13,5,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9580.0,145
+Clojure,penpot,2023-02-14,3,1,"#{""alonso.torres@kaleidos.net""}",9583.0,145
+Clojure,penpot,2023-02-15,11,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9594.0,145
+Clojure,penpot,2023-02-16,2,2,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",9596.0,145
+Clojure,penpot,2023-02-17,1,1,"#{""pablo.alba@kaleidos.net""}",9597.0,145
+Clojure,penpot,2023-02-19,1,1,"#{""locness3@orange.fr""}",9598.0,145
+Clojure,penpot,2023-02-20,14,4,"#{""asakon28@gmail.com"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",9612.0,145
+Clojure,penpot,2023-02-21,6,3,"#{""alextec70@outlook.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9618.0,145
+Clojure,penpot,2023-02-22,6,3,"#{""alejandroalonsofernandez@gmail.com"" ""ondrej.konecny@gmail.com"" ""alonso.torres@kaleidos.net""}",9624.0,145
+Clojure,penpot,2023-02-23,6,4,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net"" ""ptrithu8@gmail.com""}",9630.0,145
+Clojure,penpot,2023-02-24,17,5,"#{""alejandroalonsofernandez@gmail.com"" ""ondrej.konecny@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9647.0,145
+Clojure,penpot,2023-02-25,3,1,"#{""niwi@niwi.nz""}",9650.0,145
+Clojure,penpot,2023-02-27,3,2,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",9653.0,145
+Clojure,penpot,2023-02-28,9,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9662.0,145
+Clojure,penpot,2023-03-01,8,3,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""eva.marco@kaleidos.net""}",9670.0,145
+Clojure,penpot,2023-03-02,11,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9681.0,145
+Clojure,penpot,2023-03-03,9,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9690.0,145
+Clojure,penpot,2023-03-05,1,1,"#{""pablohn6@gmail.com""}",9691.0,146
+Clojure,penpot,2023-03-06,13,5,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""alvaroaraoz_92@hotmail.com"" ""eva.marco@kaleidos.net""}",9704.0,146
+Clojure,penpot,2023-03-07,11,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""alonso.torres@kaleidos.net""}",9715.0,146
+Clojure,penpot,2023-03-08,4,2,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",9719.0,146
+Clojure,penpot,2023-03-09,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9727.0,146
+Clojure,penpot,2023-03-10,5,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9732.0,146
+Clojure,penpot,2023-03-13,9,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9741.0,146
+Clojure,penpot,2023-03-14,10,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9751.0,146
+Clojure,penpot,2023-03-15,8,3,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",9759.0,146
+Clojure,penpot,2023-03-16,16,5,"#{""alejandroalonsofernandez@gmail.com"" ""allytiagomail@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9775.0,146
+Clojure,penpot,2023-03-17,6,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""renan.mtk@gmail.com"" ""niwi@niwi.nz""}",9781.0,147
+Clojure,penpot,2023-03-18,3,1,"#{""niwi@niwi.nz""}",9784.0,147
+Clojure,penpot,2023-03-19,8,1,"#{""niwi@niwi.nz""}",9792.0,147
+Clojure,penpot,2023-03-21,7,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9799.0,147
+Clojure,penpot,2023-03-22,13,3,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",9812.0,147
+Clojure,penpot,2023-03-23,9,3,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",9821.0,147
+Clojure,penpot,2023-03-24,16,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9837.0,147
+Clojure,penpot,2023-03-27,10,2,"#{""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9847.0,147
+Clojure,penpot,2023-03-28,15,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",9862.0,147
+Clojure,penpot,2023-03-29,12,3,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",9874.0,147
+Clojure,penpot,2023-03-30,7,4,"#{""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""aimeeritleng@outlook.com"" ""alonso.torres@kaleidos.net""}",9881.0,147
+Clojure,penpot,2023-03-31,11,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9892.0,147
+Clojure,penpot,2023-04-03,14,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""nikita.kozlovs@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9906.0,148
+Clojure,penpot,2023-04-04,9,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""me@leonekmi.fr"" ""niwi@niwi.nz""}",9915.0,149
+Clojure,penpot,2023-04-05,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""nikita.kozlovs@gmail.com"" ""jgk9282@gmail.com"" ""alonso.torres@kaleidos.net""}",9923.0,150
+Clojure,penpot,2023-04-07,2,1,"#{""niwi@niwi.nz""}",9925.0,150
+Clojure,penpot,2023-04-10,4,3,"#{""alejandroalonsofernandez@gmail.com"" ""andres.gonzalez79@gmail.com"" ""alonso.torres@kaleidos.net""}",9929.0,150
+Clojure,penpot,2023-04-11,9,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",9938.0,150
+Clojure,penpot,2023-04-12,5,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",9943.0,150
+Clojure,penpot,2023-04-13,22,7,"#{""alejandroalonsofernandez@gmail.com"" ""jgk9282@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""wangshiyangchina@gmail.com"" ""alonso.torres@kaleidos.net""}",9965.0,151
+Clojure,penpot,2023-04-14,7,5,"#{""alejandroalonsofernandez@gmail.com"" ""1355455+abstractalgo@users.noreply.github.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""wangshiyangchina@gmail.com""}",9972.0,152
+Clojure,penpot,2023-04-16,1,1,"#{""gravity.akshay@gmail.com""}",9973.0,153
+Clojure,penpot,2023-04-19,1,1,"#{""radek@sqrc.pl""}",9974.0,153
+Clojure,penpot,2023-04-20,1,1,"#{""radek@sqrc.pl""}",9975.0,153
+Clojure,penpot,2023-04-22,1,1,"#{""gravity.akshay@gmail.com""}",9976.0,153
+Clojure,penpot,2023-04-23,2,2,"#{""allytiagomail@gmail.com"" ""gravity.akshay@gmail.com""}",9978.0,153
+Clojure,penpot,2023-04-24,18,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""hosted@weblate.org""}",9996.0,153
+Clojure,penpot,2023-04-25,23,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",10019.0,153
+Clojure,penpot,2023-04-26,3,2,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net""}",10022.0,153
+Clojure,penpot,2023-04-27,4,3,"#{""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10026.0,153
+Clojure,penpot,2023-04-28,1,1,"#{""gravity.akshay@gmail.com""}",10027.0,153
+Clojure,penpot,2023-04-30,1,1,"#{""gravity.akshay@gmail.com""}",10028.0,153
+Clojure,penpot,2023-05-01,1,1,"#{""ryan@ryanbreen.com""}",10029.0,154
+Clojure,penpot,2023-05-03,3,3,"#{""alejandroalonsofernandez@gmail.com"" ""ondrej.konecny@gmail.com"" ""alonso.torres@kaleidos.net""}",10032.0,154
+Clojure,penpot,2023-05-04,9,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""gravity.akshay@gmail.com""}",10041.0,154
+Clojure,penpot,2023-05-05,11,4,"#{""alejandroalonsofernandez@gmail.com"" ""ondrej.konecny@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10052.0,154
+Clojure,penpot,2023-05-08,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""alonso.torres@kaleidos.net"" ""gravity.akshay@gmail.com""}",10060.0,154
+Clojure,penpot,2023-05-09,18,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10078.0,154
+Clojure,penpot,2023-05-10,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",10080.0,154
+Clojure,penpot,2023-05-11,4,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10084.0,154
+Clojure,penpot,2023-05-12,8,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""alonso.torres@kaleidos.net""}",10092.0,154
+Clojure,penpot,2023-05-14,2,1,"#{""niwi@niwi.nz""}",10094.0,154
+Clojure,penpot,2023-05-15,10,2,"#{""niwi@niwi.nz"" ""gravity.akshay@gmail.com""}",10104.0,154
+Clojure,penpot,2023-05-16,3,2,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com""}",10107.0,154
+Clojure,penpot,2023-05-17,9,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""gravity.akshay@gmail.com""}",10116.0,154
+Clojure,penpot,2023-05-18,10,5,"#{""andres.moya@kaleidos.net"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10126.0,154
+Clojure,penpot,2023-05-19,12,5,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10138.0,154
+Clojure,penpot,2023-05-22,14,6,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10152.0,154
+Clojure,penpot,2023-05-23,4,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10156.0,154
+Clojure,penpot,2023-05-24,21,8,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""gravity.akshay@gmail.com"" ""eva.marco@kaleidos.net""}",10177.0,154
+Clojure,penpot,2023-05-25,6,5,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10183.0,154
+Clojure,penpot,2023-05-26,14,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""diacritica@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10197.0,154
+Clojure,penpot,2023-05-29,5,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",10202.0,154
+Clojure,penpot,2023-05-30,9,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10211.0,154
+Clojure,penpot,2023-05-31,19,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""dfelinto@gmail.com""}",10230.0,155
+Clojure,penpot,2023-06-01,13,8,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""nikita.kozlovs@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""wangshiyangchina@gmail.com"" ""eva.marco@kaleidos.net""}",10243.0,155
+Clojure,penpot,2023-06-02,7,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""dalai@blender.org"" ""asakon28@gmail.com"" ""andres.gonzalez79@gmail.com"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",10250.0,156
+Clojure,penpot,2023-06-03,1,1,"#{""stas@girafic.de""}",10251.0,156
+Clojure,penpot,2023-06-05,12,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sebastiaan@enkodo.nl"" ""alonso.torres@kaleidos.net""}",10263.0,157
+Clojure,penpot,2023-06-06,9,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""AzazelN28@users.noreply.github.com""}",10272.0,157
+Clojure,penpot,2023-06-07,4,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""stas@girafic.de""}",10276.0,157
+Clojure,penpot,2023-06-08,3,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""wangshiyangchina@gmail.com""}",10279.0,157
+Clojure,penpot,2023-06-09,4,2,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net""}",10283.0,157
+Clojure,penpot,2023-06-11,1,1,"#{""andres.moya@kaleidos.net""}",10284.0,157
+Clojure,penpot,2023-06-12,3,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",10287.0,157
+Clojure,penpot,2023-06-13,4,3,"#{""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10291.0,157
+Clojure,penpot,2023-06-14,8,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""alonso.torres@kaleidos.net"" ""mlarreategi@codesyntax.com""}",10299.0,157
+Clojure,penpot,2023-06-15,13,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""kbdharunkrishna@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""eva.marco@kaleidos.net""}",10312.0,157
+Clojure,penpot,2023-06-16,11,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""stas@girafic.de""}",10323.0,157
+Clojure,penpot,2023-06-18,3,1,"#{""stas@girafic.de""}",10326.0,157
+Clojure,penpot,2023-06-19,19,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10345.0,157
+Clojure,penpot,2023-06-20,15,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10360.0,157
+Clojure,penpot,2023-06-21,30,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""burak.yn.dev@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10390.0,158
+Clojure,penpot,2023-06-22,17,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",10407.0,158
+Clojure,penpot,2023-06-23,22,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10429.0,158
+Clojure,penpot,2023-06-26,12,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10441.0,158
+Clojure,penpot,2023-06-27,12,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10453.0,158
+Clojure,penpot,2023-06-28,3,1,"#{""alejandroalonsofernandez@gmail.com""}",10456.0,158
+Clojure,penpot,2023-06-29,3,2,"#{""info@amerey.eu"" ""mlarreategi@codesyntax.com""}",10459.0,158
+Clojure,penpot,2023-06-30,3,1,"#{""niwi@niwi.nz""}",10462.0,158
+Clojure,penpot,2023-07-01,6,2,"#{""amine2gdoura@gmail.com"" ""linerly@protonmail.com""}",10468.0,158
+Clojure,penpot,2023-07-03,28,5,"#{""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10496.0,158
+Clojure,penpot,2023-07-04,20,5,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""kristijan.zic@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10516.0,159
+Clojure,penpot,2023-07-05,16,4,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10532.0,159
+Clojure,penpot,2023-07-06,22,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10554.0,159
+Clojure,penpot,2023-07-07,20,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",10574.0,159
+Clojure,penpot,2023-07-10,21,5,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10595.0,159
+Clojure,penpot,2023-07-11,27,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10622.0,159
+Clojure,penpot,2023-07-12,17,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10639.0,159
+Clojure,penpot,2023-07-13,23,8,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de"" ""eva.marco@kaleidos.net""}",10662.0,159
+Clojure,penpot,2023-07-14,18,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",10680.0,159
+Clojure,penpot,2023-07-17,2,1,"#{""alextec70@outlook.com""}",10682.0,159
+Clojure,penpot,2023-07-20,11,1,"#{""niwi@niwi.nz""}",10693.0,159
+Clojure,penpot,2023-07-23,2,1,"#{""sh.yaron@gmail.com""}",10695.0,159
+Clojure,penpot,2023-07-24,13,5,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",10708.0,159
+Clojure,penpot,2023-07-25,17,7,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""eva.marco@kaleidos.net""}",10725.0,159
+Clojure,penpot,2023-07-26,5,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""AzazelN28@users.noreply.github.com""}",10730.0,159
+Clojure,penpot,2023-07-27,3,3,"#{""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",10733.0,159
+Clojure,penpot,2023-07-28,16,4,"#{""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com""}",10749.0,159
+Clojure,penpot,2023-07-31,19,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",10768.0,159
+Clojure,penpot,2023-08-01,6,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",10774.0,159
+Clojure,penpot,2023-08-02,13,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com""}",10787.0,159
+Clojure,penpot,2023-08-03,11,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",10798.0,159
+Clojure,penpot,2023-08-04,7,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",10805.0,159
+Clojure,penpot,2023-08-07,12,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",10817.0,159
+Clojure,penpot,2023-08-08,12,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""dundzys.vincas@gmail.com""}",10829.0,159
+Clojure,penpot,2023-08-09,9,3,"#{""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",10838.0,159
+Clojure,penpot,2023-08-10,11,3,"#{""alejandroalonsofernandez@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz""}",10849.0,159
+Clojure,penpot,2023-08-11,1,1,"#{""sebastiaan@enkodo.nl""}",10850.0,159
+Clojure,penpot,2023-08-14,4,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""sebastiaan@enkodo.nl""}",10854.0,159
+Clojure,penpot,2023-08-16,2,2,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com""}",10856.0,159
+Clojure,penpot,2023-08-17,5,2,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net""}",10861.0,159
+Clojure,penpot,2023-08-18,5,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""stas@girafic.de""}",10866.0,159
+Clojure,penpot,2023-08-21,11,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""andres.gonzalez79@gmail.com"" ""niwi@niwi.nz""}",10877.0,159
+Clojure,penpot,2023-08-22,2,2,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net""}",10879.0,159
+Clojure,penpot,2023-08-23,12,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",10891.0,159
+Clojure,penpot,2023-08-24,15,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com""}",10906.0,159
+Clojure,penpot,2023-08-25,29,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""sebastiaan@enkodo.nl""}",10935.0,159
+Clojure,penpot,2023-08-27,1,1,"#{""sebastiaan@enkodo.nl""}",10936.0,159
+Clojure,penpot,2023-08-28,12,3,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",10948.0,159
+Clojure,penpot,2023-08-29,23,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",10971.0,159
+Clojure,penpot,2023-08-30,12,6,"#{""andres.moya@kaleidos.net"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""hosted@weblate.org"" ""eva.marco@kaleidos.net""}",10983.0,159
+Clojure,penpot,2023-08-31,23,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",11006.0,159
+Clojure,penpot,2023-09-01,20,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz""}",11026.0,159
+Clojure,penpot,2023-09-02,4,4,"#{""swapnilchitnis360@gmail.com"" ""contact@louischance.com"" ""philippe.accorsi@algoo.fr"" ""locness3@orange.fr""}",11030.0,160
+Clojure,penpot,2023-09-04,11,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",11041.0,160
+Clojure,penpot,2023-09-05,25,5,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""frederik.ring@gmail.com"" ""linerly@protonmail.com""}",11066.0,161
+Clojure,penpot,2023-09-06,12,2,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz""}",11078.0,161
+Clojure,penpot,2023-09-07,9,4,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""linerly@protonmail.com""}",11087.0,161
+Clojure,penpot,2023-09-08,3,2,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net""}",11090.0,161
+Clojure,penpot,2023-09-11,6,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de""}",11096.0,161
+Clojure,penpot,2023-09-12,19,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""delacruzgarciajuan@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11115.0,161
+Clojure,penpot,2023-09-13,12,3,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",11127.0,161
+Clojure,penpot,2023-09-14,22,6,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11149.0,161
+Clojure,penpot,2023-09-15,13,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11162.0,161
+Clojure,penpot,2023-09-18,8,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11170.0,161
+Clojure,penpot,2023-09-19,7,3,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de""}",11177.0,161
+Clojure,penpot,2023-09-20,4,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11181.0,161
+Clojure,penpot,2023-09-21,11,5,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""sh.yaron@gmail.com"" ""niwi@niwi.nz"" ""stas@girafic.de""}",11192.0,161
+Clojure,penpot,2023-09-22,7,4,"#{""andres.moya@kaleidos.net"" ""joao.ed.reis.gomes@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11199.0,162
+Clojure,penpot,2023-09-24,1,1,"#{""joao.ed.reis.gomes@gmail.com""}",11200.0,162
+Clojure,penpot,2023-09-25,6,3,"#{""andres.moya@kaleidos.net"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",11206.0,162
+Clojure,penpot,2023-09-26,1,1,"#{""andres.moya@kaleidos.net""}",11207.0,162
+Clojure,penpot,2023-09-27,5,4,"#{""andres.moya@kaleidos.net"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11212.0,162
+Clojure,penpot,2023-09-28,12,7,"#{""andres.moya@kaleidos.net"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""delacruzgarciajuan@gmail.com"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""stas@girafic.de""}",11224.0,162
+Clojure,penpot,2023-09-29,2,2,"#{""andres.moya@kaleidos.net"" ""alonso.torres@kaleidos.net""}",11226.0,162
+Clojure,penpot,2023-09-30,1,1,"#{""sebastiaan@enkodo.nl""}",11227.0,162
+Clojure,penpot,2023-10-02,5,4,"#{""alextec70@outlook.com"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11232.0,162
+Clojure,penpot,2023-10-03,3,3,"#{""joao.ed.reis.gomes@gmail.com"" ""nikita.kozlovs@gmail.com"" ""eva.marco@kaleidos.net""}",11235.0,162
+Clojure,penpot,2023-10-04,5,3,"#{""asakon28@gmail.com"" ""niwi@niwi.nz"" ""hosted@weblate.org""}",11240.0,162
+Clojure,penpot,2023-10-05,7,4,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",11247.0,162
+Clojure,penpot,2023-10-06,7,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11254.0,162
+Clojure,penpot,2023-10-09,7,4,"#{""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",11261.0,162
+Clojure,penpot,2023-10-10,2,2,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net""}",11263.0,162
+Clojure,penpot,2023-10-11,5,5,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",11268.0,162
+Clojure,penpot,2023-10-13,2,2,"#{""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11270.0,162
+Clojure,penpot,2023-10-16,2,2,"#{""AzazelN28@users.noreply.github.com"" ""eva.marco@kaleidos.net""}",11272.0,162
+Clojure,penpot,2023-10-17,5,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11277.0,162
+Clojure,penpot,2023-10-18,8,3,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11285.0,162
+Clojure,penpot,2023-10-19,3,2,"#{""asakon28@gmail.com"" ""AzazelN28@users.noreply.github.com""}",11288.0,162
+Clojure,penpot,2023-10-20,13,6,"#{""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11301.0,162
+Clojure,penpot,2023-10-23,3,3,"#{""andres.moya@kaleidos.net"" ""niwi@niwi.nz"" ""eva.marco@kaleidos.net""}",11304.0,162
+Clojure,penpot,2023-10-24,4,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",11308.0,162
+Clojure,penpot,2023-10-25,5,3,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",11313.0,162
+Clojure,penpot,2023-10-30,6,2,"#{""pablo.alba@kaleidos.net"" ""alonso.torres@kaleidos.net""}",11319.0,162
+Clojure,penpot,2023-10-31,10,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",11329.0,162
+Clojure,penpot,2023-11-02,10,8,"#{""belen-albeza@users.noreply.github.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""belen@hey.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11339.0,164
+Clojure,penpot,2023-11-03,9,5,"#{""andres.moya@kaleidos.net"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11348.0,164
+Clojure,penpot,2023-11-06,9,4,"#{""pablo.alba@kaleidos.net"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11357.0,164
+Clojure,penpot,2023-11-07,14,5,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11371.0,164
+Clojure,penpot,2023-11-08,17,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz""}",11388.0,164
+Clojure,penpot,2023-11-09,2,2,"#{""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",11390.0,164
+Clojure,penpot,2023-11-10,10,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11400.0,164
+Clojure,penpot,2023-11-11,11,1,"#{""niwi@niwi.nz""}",11411.0,164
+Clojure,penpot,2023-11-13,8,4,"#{""andres.moya@kaleidos.net"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""pez@pezius.com""}",11419.0,165
+Clojure,penpot,2023-11-14,13,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11432.0,165
+Clojure,penpot,2023-11-15,18,5,"#{""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11450.0,165
+Clojure,penpot,2023-11-16,12,3,"#{""alejandroalonsofernandez@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11462.0,165
+Clojure,penpot,2023-11-17,20,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11482.0,165
+Clojure,penpot,2023-11-20,31,5,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",11513.0,165
+Clojure,penpot,2023-11-21,35,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11548.0,165
+Clojure,penpot,2023-11-22,17,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11565.0,165
+Clojure,penpot,2023-11-23,14,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""vienas00@gmail.com"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz""}",11579.0,166
+Clojure,penpot,2023-11-24,21,7,"#{""andres.moya@kaleidos.net"" ""asakon28@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""belen@hey.com"" ""alonso.torres@kaleidos.net""}",11600.0,166
+Clojure,penpot,2023-11-27,12,2,"#{""niwi@niwi.nz"" ""alonso.torres@kaleidos.net""}",11612.0,166
+Clojure,penpot,2023-11-28,23,6,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""pablo.alba@kaleidos.net"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com"" ""eva.marco@kaleidos.net""}",11635.0,166
+Clojure,penpot,2023-11-29,11,4,"#{""alejandroalonsofernandez@gmail.com"" ""asakon28@gmail.com"" ""niwi@niwi.nz"" ""AzazelN28@users.noreply.github.com""}",11646.0,166
+Clojure,penpot,2023-11-30,8,4,"#{""andres.moya@kaleidos.net"" ""asakon28@gmail.com"" ""AzazelN28@users.noreply.github.com"" ""alonso.torres@kaleidos.net""}",11654.0,166
+Clojure,penpot,2023-12-01,5,4,"#{""andres.moya@kaleidos.net"" ""alejandroalonsofernandez@gmail.com"" ""alonso.torres@kaleidos.net"" ""eva.marco@kaleidos.net""}",11659.0,166

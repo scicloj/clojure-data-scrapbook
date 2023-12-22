@@ -1,0 +1,174 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,congomongo,2009-10-24,21,1,"#{""boekhoffa@gmail.com""}",21.0,1
+Clojure,congomongo,2009-10-26,2,1,"#{""boekhoffa@gmail.com""}",23.0,1
+Clojure,congomongo,2009-11-08,5,1,"#{""boekhoffa@gmail.com""}",28.0,1
+Clojure,congomongo,2009-11-09,5,1,"#{""boekhoffa@gmail.com""}",33.0,1
+Clojure,congomongo,2009-11-12,2,1,"#{""boekhoffa@gmail.com""}",35.0,1
+Clojure,congomongo,2010-01-03,7,1,"#{""boekhoffa@gmail.com""}",42.0,1
+Clojure,congomongo,2010-01-04,3,1,"#{""boekhoffa@gmail.com""}",45.0,1
+Clojure,congomongo,2010-02-17,8,1,"#{""boekhoffa@gmail.com""}",53.0,1
+Clojure,congomongo,2010-02-18,2,1,"#{""boekhoffa@gmail.com""}",55.0,1
+Clojure,congomongo,2010-06-01,1,1,"#{""arohner@gmail.com""}",56.0,2
+Clojure,congomongo,2010-07-15,5,1,"#{""steve@sanityinc.com""}",61.0,3
+Clojure,congomongo,2010-07-16,3,1,"#{""steve@sanityinc.com""}",64.0,3
+Clojure,congomongo,2010-07-18,1,1,"#{""you@expample.com""}",65.0,4
+Clojure,congomongo,2010-07-20,1,1,"#{""arohner@gmail.com""}",66.0,4
+Clojure,congomongo,2010-07-21,3,2,"#{""arohner@gmail.com"" ""you@expample.com""}",69.0,4
+Clojure,congomongo,2010-07-22,6,2,"#{""steve@sanityinc.com"" ""you@expample.com""}",75.0,4
+Clojure,congomongo,2010-07-26,1,1,"#{""arohner@gmail.com""}",76.0,4
+Clojure,congomongo,2010-07-28,1,1,"#{""you@expample.com""}",77.0,4
+Clojure,congomongo,2010-08-16,2,2,"#{""arohner@gmail.com"" ""christopher.maier@gmail.com""}",79.0,5
+Clojure,congomongo,2010-08-20,1,1,"#{""christopher.maier@gmail.com""}",80.0,5
+Clojure,congomongo,2010-08-23,1,1,"#{""steve@sanityinc.com""}",81.0,5
+Clojure,congomongo,2010-09-29,2,1,"#{""christopher.maier@gmail.com""}",83.0,5
+Clojure,congomongo,2010-11-01,2,2,"#{""steve@sanityinc.com"" ""gmwils@gmail.com""}",85.0,6
+Clojure,congomongo,2010-11-02,3,1,"#{""steve@sanityinc.com""}",88.0,6
+Clojure,congomongo,2010-11-03,1,1,"#{""steve@sanityinc.com""}",89.0,6
+Clojure,congomongo,2010-11-22,1,1,"#{""christopher.maier@gmail.com""}",90.0,6
+Clojure,congomongo,2011-01-24,1,1,"#{""heinz@licenser.net""}",91.0,7
+Clojure,congomongo,2011-03-17,2,2,"#{""christopher.maier@gmail.com"" ""weber.maximilian@googlemail.com""}",93.0,8
+Clojure,congomongo,2011-03-18,1,1,"#{""christopher.maier@gmail.com""}",94.0,8
+Clojure,congomongo,2011-03-29,2,1,"#{""christopher.maier@gmail.com""}",96.0,8
+Clojure,congomongo,2011-03-30,3,1,"#{""steve@sanityinc.com""}",99.0,8
+Clojure,congomongo,2011-04-09,1,1,"#{""christopher.maier@gmail.com""}",100.0,8
+Clojure,congomongo,2011-04-10,1,1,"#{""steve@sanityinc.com""}",101.0,8
+Clojure,congomongo,2011-04-11,1,1,"#{""christopher.maier@gmail.com""}",102.0,8
+Clojure,congomongo,2011-04-15,3,2,"#{""steve@sanityinc.com"" ""christopher.maier@gmail.com""}",105.0,8
+Clojure,congomongo,2011-04-16,1,1,"#{""christopher.maier@gmail.com""}",106.0,8
+Clojure,congomongo,2011-04-17,1,1,"#{""steve@sanityinc.com""}",107.0,8
+Clojure,congomongo,2011-05-07,1,1,"#{""weber.maximilian@googlemail.com""}",108.0,8
+Clojure,congomongo,2011-05-18,2,1,"#{""nate.d.jackson@gmail.com""}",110.0,9
+Clojure,congomongo,2011-05-19,1,1,"#{""steve@sanityinc.com""}",111.0,9
+Clojure,congomongo,2011-05-27,3,1,"#{""rrc@robert-campbell.com""}",114.0,10
+Clojure,congomongo,2011-05-28,1,1,"#{""steve@sanityinc.com""}",115.0,10
+Clojure,congomongo,2011-05-30,1,1,"#{""rrc@robert-campbell.com""}",116.0,10
+Clojure,congomongo,2011-05-31,2,2,"#{""steve@sanityinc.com"" ""rrc@robert-campbell.com""}",118.0,10
+Clojure,congomongo,2011-06-02,7,2,"#{""steve@sanityinc.com"" ""rrc@robert-campbell.com""}",125.0,10
+Clojure,congomongo,2011-06-03,1,1,"#{""steve@sanityinc.com""}",126.0,10
+Clojure,congomongo,2011-06-04,1,1,"#{""steve@sanityinc.com""}",127.0,10
+Clojure,congomongo,2011-06-06,2,1,"#{""steve@sanityinc.com""}",129.0,10
+Clojure,congomongo,2011-06-10,6,1,"#{""sean@corfield.org""}",135.0,11
+Clojure,congomongo,2011-06-11,1,1,"#{""steve@sanityinc.com""}",136.0,11
+Clojure,congomongo,2011-06-14,1,1,"#{""gmwils@gmail.com""}",137.0,11
+Clojure,congomongo,2011-06-16,3,1,"#{""steve@sanityinc.com""}",140.0,11
+Clojure,congomongo,2011-07-21,1,1,"#{""sean@corfield.org""}",141.0,11
+Clojure,congomongo,2011-08-04,3,1,"#{""sean@corfield.org""}",144.0,11
+Clojure,congomongo,2011-08-05,3,2,"#{""sean@worldsingles.com"" ""sean@corfield.org""}",147.0,12
+Clojure,congomongo,2011-08-11,2,1,"#{""sean@corfield.org""}",149.0,12
+Clojure,congomongo,2011-08-12,2,2,"#{""christopher.maier@gmail.com"" ""feng.shen@onycloud.com""}",151.0,13
+Clojure,congomongo,2011-08-25,3,2,"#{""steve@sanityinc.com"" ""jaderholm@gmail.com""}",154.0,14
+Clojure,congomongo,2011-09-07,1,1,"#{""sean@worldsingles.com""}",155.0,14
+Clojure,congomongo,2011-10-05,2,2,"#{""alan@malloys.org"" ""sean@corfield.org""}",157.0,15
+Clojure,congomongo,2011-10-11,2,1,"#{""sean@corfield.org""}",159.0,15
+Clojure,congomongo,2011-10-14,1,1,"#{""sean@corfield.org""}",160.0,15
+Clojure,congomongo,2011-10-22,2,2,"#{""paul.biggar@gmail.com"" ""sean@corfield.org""}",162.0,16
+Clojure,congomongo,2011-10-24,1,1,"#{""sean@corfield.org""}",163.0,16
+Clojure,congomongo,2011-10-30,2,1,"#{""steve@sanityinc.com""}",165.0,16
+Clojure,congomongo,2011-11-09,5,2,"#{""steve@sanityinc.com"" ""fatrow+hozumi@googlemail.com""}",170.0,17
+Clojure,congomongo,2011-12-08,2,1,"#{""steve@sanityinc.com""}",172.0,17
+Clojure,congomongo,2011-12-15,1,1,"#{""michael.gorsuch@gmail.com""}",173.0,18
+Clojure,congomongo,2011-12-17,6,1,"#{""sean@corfield.org""}",179.0,18
+Clojure,congomongo,2011-12-21,4,2,"#{""i@raynes.me"" ""sean@corfield.org""}",183.0,19
+Clojure,congomongo,2012-02-04,8,2,"#{""max.penet@gmail.com"" ""sean@corfield.org""}",191.0,20
+Clojure,congomongo,2012-02-05,3,3,"#{""max.penet@gmail.com"" ""simon@mintsource.org"" ""sean@corfield.org""}",194.0,21
+Clojure,congomongo,2012-02-20,1,1,"#{""krzys.magiera@gmail.com""}",195.0,22
+Clojure,congomongo,2012-02-22,1,1,"#{""sean@corfield.org""}",196.0,22
+Clojure,congomongo,2012-02-23,1,1,"#{""alex.walker@announcemedia.com""}",197.0,23
+Clojure,congomongo,2012-02-24,3,1,"#{""steve@sanityinc.com""}",200.0,23
+Clojure,congomongo,2012-02-26,1,1,"#{""krzys.magiera@gmail.com""}",201.0,23
+Clojure,congomongo,2012-02-27,2,2,"#{""steve@sanityinc.com"" ""jacek@laskowski.net.pl""}",203.0,24
+Clojure,congomongo,2012-03-02,2,2,"#{""paul.biggar@gmail.com"" ""sean@corfield.org""}",205.0,24
+Clojure,congomongo,2012-03-03,1,1,"#{""steve@sanityinc.com""}",206.0,24
+Clojure,congomongo,2012-03-10,7,2,"#{""paul.biggar@gmail.com"" ""sean@corfield.org""}",213.0,24
+Clojure,congomongo,2012-03-11,3,2,"#{""steve@sanityinc.com"" ""sean@corfield.org""}",216.0,24
+Clojure,congomongo,2012-03-15,1,1,"#{""steve@sanityinc.com""}",217.0,24
+Clojure,congomongo,2012-04-07,2,2,"#{""steve@sanityinc.com"" ""daniel.dyba@gmail.com""}",219.0,25
+Clojure,congomongo,2012-04-15,9,1,"#{""sean@corfield.org""}",228.0,25
+Clojure,congomongo,2012-04-18,2,1,"#{""arohner@gmail.com""}",230.0,25
+Clojure,congomongo,2012-04-20,7,3,"#{""jao@gnu.org"" ""arohner@gmail.com"" ""sean@corfield.org""}",237.0,26
+Clojure,congomongo,2012-04-21,3,1,"#{""sean@corfield.org""}",240.0,26
+Clojure,congomongo,2012-07-18,2,2,"#{""david@sosby.org"" ""sean@corfield.org""}",242.0,27
+Clojure,congomongo,2012-07-22,1,1,"#{""david@sosby.org""}",243.0,27
+Clojure,congomongo,2012-07-31,4,1,"#{""sean@corfield.org""}",247.0,27
+Clojure,congomongo,2012-08-05,5,2,"#{""frozenlock@gmail.com"" ""sean@corfield.org""}",252.0,28
+Clojure,congomongo,2012-08-07,1,1,"#{""xavi@purplegoolabs.com""}",253.0,29
+Clojure,congomongo,2012-08-08,2,2,"#{""steve@sanityinc.com"" ""sean@corfield.org""}",255.0,29
+Clojure,congomongo,2012-08-12,2,2,"#{""xavi@caballe"" ""sean@corfield.org""}",257.0,30
+Clojure,congomongo,2012-08-14,2,1,"#{""sean@corfield.org""}",259.0,30
+Clojure,congomongo,2012-09-12,17,1,"#{""sean@corfield.org""}",276.0,30
+Clojure,congomongo,2012-10-09,2,1,"#{""arohner@gmail.com""}",278.0,30
+Clojure,congomongo,2012-10-10,3,1,"#{""sean@corfield.org""}",281.0,30
+Clojure,congomongo,2012-10-17,1,1,"#{""wolfson@readyforzero.com""}",282.0,31
+Clojure,congomongo,2012-10-18,5,1,"#{""sean@corfield.org""}",287.0,31
+Clojure,congomongo,2012-10-23,9,1,"#{""sean@corfield.org""}",296.0,31
+Clojure,congomongo,2012-10-30,4,1,"#{""sean@corfield.org""}",300.0,31
+Clojure,congomongo,2012-11-02,4,2,"#{""sean@worldsingles.com"" ""sean@corfield.org""}",304.0,31
+Clojure,congomongo,2012-11-09,4,1,"#{""arohner@gmail.com""}",308.0,31
+Clojure,congomongo,2012-12-08,20,1,"#{""sean@corfield.org""}",328.0,31
+Clojure,congomongo,2013-01-05,5,1,"#{""sean@corfield.org""}",333.0,31
+Clojure,congomongo,2013-01-09,2,2,"#{""steve@sanityinc.com"" ""simon@skov-boisen.dk""}",335.0,32
+Clojure,congomongo,2013-01-20,1,1,"#{""dwwoelfel@gmail.com""}",336.0,33
+Clojure,congomongo,2013-02-22,2,2,"#{""adam.clements@gmail.com"" ""sean@corfield.org""}",338.0,34
+Clojure,congomongo,2013-03-05,4,2,"#{""dwwoelfel@gmail.com"" ""sean@corfield.org""}",342.0,34
+Clojure,congomongo,2013-03-14,6,2,"#{""mail@niclas-meier.de"" ""sean@corfield.org""}",348.0,35
+Clojure,congomongo,2013-03-18,1,1,"#{""mail@niclas-meier.de""}",349.0,35
+Clojure,congomongo,2013-03-25,1,1,"#{""sean@corfield.org""}",350.0,35
+Clojure,congomongo,2013-07-30,2,2,"#{""dwwoelfel@gmail.com"" ""sean@corfield.org""}",352.0,35
+Clojure,congomongo,2014-02-25,4,1,"#{""sean@corfield.org""}",356.0,35
+Clojure,congomongo,2014-03-01,2,1,"#{""sean@corfield.org""}",358.0,35
+Clojure,congomongo,2014-03-03,1,1,"#{""sean@corfield.org""}",359.0,35
+Clojure,congomongo,2014-04-08,6,1,"#{""sean@corfield.org""}",365.0,35
+Clojure,congomongo,2014-04-29,1,1,"#{""sean@corfield.org""}",366.0,35
+Clojure,congomongo,2014-08-25,1,1,"#{""brandon@brandonbloom.name""}",367.0,36
+Clojure,congomongo,2015-07-18,4,2,"#{""paul.biggar@gmail.com"" ""sean@corfield.org""}",371.0,36
+Clojure,congomongo,2015-07-29,5,2,"#{""paul.biggar@gmail.com"" ""sean@corfield.org""}",376.0,36
+Clojure,congomongo,2015-09-15,7,1,"#{""gordonsyme@gmail.com""}",383.0,37
+Clojure,congomongo,2015-09-16,1,1,"#{""gordonsyme@gmail.com""}",384.0,37
+Clojure,congomongo,2015-09-18,2,1,"#{""gordonsyme@gmail.com""}",386.0,37
+Clojure,congomongo,2015-09-22,4,1,"#{""gordonsyme@gmail.com""}",390.0,37
+Clojure,congomongo,2015-09-24,1,1,"#{""gordonsyme@gmail.com""}",391.0,37
+Clojure,congomongo,2015-09-25,1,1,"#{""gordonsyme@gmail.com""}",392.0,37
+Clojure,congomongo,2015-09-30,1,1,"#{""gordonsyme@gmail.com""}",393.0,37
+Clojure,congomongo,2015-10-18,2,2,"#{""anmonteiro@gmail.com"" ""sean@corfield.org""}",395.0,38
+Clojure,congomongo,2015-10-24,1,1,"#{""anmonteiro@gmail.com""}",396.0,38
+Clojure,congomongo,2015-10-26,1,1,"#{""sean@corfield.org""}",397.0,38
+Clojure,congomongo,2015-12-27,2,1,"#{""sean@corfield.org""}",399.0,38
+Clojure,congomongo,2016-02-25,4,1,"#{""sean@corfield.org""}",403.0,38
+Clojure,congomongo,2016-06-09,5,1,"#{""sean@corfield.org""}",408.0,38
+Clojure,congomongo,2018-01-18,3,2,"#{""johan@timezynk.com"" ""sean@corfield.org""}",411.0,39
+Clojure,congomongo,2018-01-19,5,2,"#{""johan@timezynk.com"" ""sean@corfield.org""}",416.0,39
+Clojure,congomongo,2018-04-26,4,2,"#{""johan@timezynk.com"" ""sean@corfield.org""}",420.0,39
+Clojure,congomongo,2018-05-02,12,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",432.0,40
+Clojure,congomongo,2018-08-29,2,1,"#{""smaant@gmail.com""}",434.0,41
+Clojure,congomongo,2018-08-30,3,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",437.0,41
+Clojure,congomongo,2018-09-04,1,1,"#{""smaant@gmail.com""}",438.0,41
+Clojure,congomongo,2018-09-07,3,1,"#{""gordonsyme@gmail.com""}",441.0,41
+Clojure,congomongo,2018-09-11,11,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",452.0,41
+Clojure,congomongo,2019-04-05,1,1,"#{""tanya@circleci.com""}",453.0,42
+Clojure,congomongo,2019-04-08,4,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",457.0,42
+Clojure,congomongo,2019-08-15,2,1,"#{""johan@timezynk.com""}",459.0,42
+Clojure,congomongo,2019-11-19,1,1,"#{""tanya@circleci.com""}",460.0,42
+Clojure,congomongo,2019-11-20,1,1,"#{""smaant@gmail.com""}",461.0,42
+Clojure,congomongo,2019-11-22,2,1,"#{""johan@timezynk.com""}",463.0,42
+Clojure,congomongo,2019-11-25,6,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",469.0,42
+Clojure,congomongo,2019-11-26,7,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",476.0,42
+Clojure,congomongo,2020-01-10,1,1,"#{""johan@timezynk.com""}",477.0,42
+Clojure,congomongo,2020-01-22,1,1,"#{""gordonsyme@gmail.com""}",478.0,42
+Clojure,congomongo,2020-01-23,2,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",480.0,42
+Clojure,congomongo,2021-07-22,1,1,"#{""marc@circleci.com""}",481.0,43
+Clojure,congomongo,2021-08-03,2,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",483.0,43
+Clojure,congomongo,2021-08-17,1,1,"#{""marc@circleci.com""}",484.0,43
+Clojure,congomongo,2021-08-19,1,1,"#{""marc@circleci.com""}",485.0,43
+Clojure,congomongo,2021-08-30,1,1,"#{""cayenne@circleci.com""}",486.0,44
+Clojure,congomongo,2021-08-31,7,1,"#{""johan.heander@timezynk.com""}",493.0,44
+Clojure,congomongo,2021-09-01,4,3,"#{""johan@timezynk.com"" ""cayenne@circleci.com"" ""johan.heander@timezynk.com""}",497.0,44
+Clojure,congomongo,2021-09-03,1,1,"#{""cayenne@circleci.com""}",498.0,44
+Clojure,congomongo,2021-11-01,2,2,"#{""johan@timezynk.com"" ""johan.heander@timezynk.com""}",500.0,44
+Clojure,congomongo,2021-12-15,2,1,"#{""mstoyukhin@gmail.com""}",502.0,45
+Clojure,congomongo,2021-12-16,2,1,"#{""mstoyukhin@gmail.com""}",504.0,45
+Clojure,congomongo,2022-01-26,6,2,"#{""johan@timezynk.com"" ""mstoyukhin@gmail.com""}",510.0,45
+Clojure,congomongo,2022-01-31,9,2,"#{""johan@timezynk.com"" ""mstoyukhin@gmail.com""}",519.0,45
+Clojure,congomongo,2022-02-01,3,1,"#{""johan@timezynk.com""}",522.0,45
+Clojure,congomongo,2023-02-06,1,1,"#{""mstoyukhin@gmail.com""}",523.0,45
+Clojure,congomongo,2023-02-16,3,2,"#{""johan.heander@cs.lth.se"" ""mstoyukhin@gmail.com""}",526.0,46
+Clojure,congomongo,2023-05-03,1,1,"#{""mstoyukhin@gmail.com""}",527.0,46

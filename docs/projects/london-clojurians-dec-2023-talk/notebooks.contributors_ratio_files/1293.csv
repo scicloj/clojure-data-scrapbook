@@ -1,0 +1,130 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2017-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2017-12-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",7.0,[{0 7}],0,7,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-01-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",8.0,[{0 8}],0,8,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-01-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marco.molteni@laposte.net, marco.molteni@laposte.net]",10.0,"[{0 8, ""other"" 2}]",2,8,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marco.molteni@laposte.net]",11.0,"[{0 8, ""other"" 3}]",3,8,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-04-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",15.0,"[{0 12, ""other"" 3}]",3,12,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-04-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",19.0,"[{0 16, ""other"" 3}]",3,16,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-04-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com]",21.0,"[{0 18, ""other"" 3}]",3,18,0,0,0,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-04-27,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, mike@fikesfarm.com, rick.m@swirrl.com]",27.0,"[{0 23, ""other"" 3, 3 1}]",3,23,0,0,1,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-04-28,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[mike@fikesfarm.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",37.0,"[{0 32, ""other"" 3, 3 2}]",3,32,0,0,2,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-04-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[mike@fikesfarm.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",41.0,"[{0 35, ""other"" 3, 3 3}]",3,35,0,0,3,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-04-30,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, roche.a@gmail.com, roche.a@gmail.com]",46.0,"[{0 38, ""other"" 5, 3 3}]",5,38,0,0,3,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mike@fikesfarm.com]",47.0,"[{0 38, ""other"" 5, 3 4}]",5,38,0,0,4,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mike@fikesfarm.com, mike@fikesfarm.com]",49.0,"[{0 38, ""other"" 5, 3 6}]",5,38,0,0,6,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[mike@fikesfarm.com, rick.m@swirrl.com, rick.m@swirrl.com]",52.0,"[{0 40, ""other"" 5, 3 7}]",5,40,0,0,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",55.0,"[{0 43, ""other"" 5, 3 7}]",5,43,0,0,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",59.0,"[{0 47, ""other"" 5, 3 7}]",5,47,0,0,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",63.0,"[{0 51, ""other"" 5, 3 7}]",5,51,0,0,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-28,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[hugh@hughpowell.co.uk, hugh@hughpowell.co.uk, rick.m@swirrl.com, rick.m@swirrl.com, hugh@hughpowell.co.uk, hugh@hughpowell.co.uk, rick.m@swirrl.com]",70.0,"[{0 54, ""other"" 5, 3 7, 2 4}]",5,54,0,4,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-29,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[hugh@hughpowell.co.uk, hugh@hughpowell.co.uk, rick.m@swirrl.com, hugh@hughpowell.co.uk, hugh@hughpowell.co.uk]",75.0,"[{0 55, ""other"" 5, 3 7, 2 8}]",5,55,0,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-30,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hugh@swirrl.com, rick.m@swirrl.com, hugh@swirrl.com, hugh@swirrl.com]",79.0,"[{0 56, ""other"" 5, 3 7, 2 8, 1 3}]",5,56,3,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-05-31,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, rick.m@swirrl.com, hugh@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",93.0,"[{0 63, ""other"" 5, 3 7, 2 8, 1 10}]",5,63,10,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-01,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, rick.m@swirrl.com]",101.0,"[{0 66, ""other"" 5, 3 7, 2 8, 1 15}]",5,66,15,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-04,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[hugh@swirrl.com, hugh@swirrl.com, rick.m@swirrl.com, hugh@swirrl.com, hugh@swirrl.com, hugh@swirrl.com]",107.0,"[{0 67, ""other"" 5, 3 7, 2 8, 1 20}]",5,67,20,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",108.0,"[{0 68, ""other"" 5, 3 7, 2 8, 1 20}]",5,68,20,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hugh@swirrl.com]",109.0,"[{0 68, ""other"" 5, 3 7, 2 8, 1 21}]",5,68,21,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-07,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, hugh@swirrl.com, hugh@swirrl.com]",119.0,"[{0 76, ""other"" 5, 3 7, 2 8, 1 23}]",5,76,23,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",120.0,"[{0 77, ""other"" 5, 3 7, 2 8, 1 23}]",5,77,23,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[rick.m@swirrl.com, hugh@swirrl.com]",122.0,"[{0 78, ""other"" 5, 3 7, 2 8, 1 24}]",5,78,24,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-06-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",123.0,"[{0 79, ""other"" 5, 3 7, 2 8, 1 24}]",5,79,24,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lschrock@roomkey.com]",124.0,"[{0 79, ""other"" 6, 3 7, 2 8, 1 24}]",6,79,24,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",125.0,"[{0 80, ""other"" 6, 3 7, 2 8, 1 24}]",6,80,24,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-10-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com]",127.0,"[{0 82, ""other"" 6, 3 7, 2 8, 1 24}]",6,82,24,8,7,0
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-11-27,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[rick.m@swirrl.com, lee@swirrl.com]",129.0,"[{0 83, ""other"" 6, 3 7, 2 8, 1 24, 4 1}]",6,83,24,8,7,1
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",130.0,"[{0 84, ""other"" 6, 3 7, 2 8, 1 24, 4 1}]",6,84,24,8,7,1
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2018-12-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@swirrl.com]",131.0,"[{0 84, ""other"" 6, 3 7, 2 8, 1 24, 4 2}]",6,84,24,8,7,2
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2019-01-03,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",137.0,"[{0 90, ""other"" 6, 3 7, 2 8, 1 24, 4 2}]",6,90,24,8,7,2
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2019-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rick.m@swirrl.com]",138.0,"[{0 91, ""other"" 6, 3 7, 2 8, 1 24, 4 2}]",6,91,24,8,7,2
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2019-01-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com]",140.0,"[{0 93, ""other"" 6, 3 7, 2 8, 1 24, 4 2}]",6,93,24,8,7,2
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2019-03-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",143.0,"[{0 96, ""other"" 6, 3 7, 2 8, 1 24, 4 2}]",6,96,24,8,7,2
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2019-04-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[rick.m@swirrl.com, lee@swirrl.com]",145.0,"[{0 97, ""other"" 6, 3 7, 2 8, 1 24, 4 3}]",6,97,24,8,7,3
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2019-04-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com, rick.m@swirrl.com]",148.0,"[{0 100, ""other"" 6, 3 7, 2 8, 1 24, 4 3}]",6,100,24,8,7,3
+Clojure,https://github.com/RickMoynihan/lein-tools-deps,2022-12-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rick.m@swirrl.com, rick.m@swirrl.com]",150.0,"[{0 102, ""other"" 6, 3 7, 2 8, 1 24, 4 3}]",6,102,24,8,7,3

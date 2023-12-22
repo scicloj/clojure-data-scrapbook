@@ -1,0 +1,533 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,neurokernel,2012-05-07,1,1,"#{""lev@columbia.edu""}",1.0,1
+Python,neurokernel,2012-05-08,3,1,"#{""lev@columbia.edu""}",4.0,1
+Python,neurokernel,2012-05-10,1,1,"#{""lev@columbia.edu""}",5.0,1
+Python,neurokernel,2012-05-14,4,1,"#{""dchevitarese@me.com""}",9.0,2
+Python,neurokernel,2012-05-15,3,1,"#{""dchevitarese@me.com""}",12.0,2
+Python,neurokernel,2012-05-16,2,1,"#{""dchevitarese@me.com""}",14.0,2
+Python,neurokernel,2012-05-17,3,2,"#{""none@none"" ""dchevitarese@me.com""}",17.0,3
+Python,neurokernel,2012-05-18,2,1,"#{""none@none""}",19.0,3
+Python,neurokernel,2012-05-21,4,1,"#{""none@none""}",23.0,3
+Python,neurokernel,2012-05-22,13,3,"#{""none@none"" ""dchevitarese@me.com"" ""lev@columbia.edu""}",36.0,3
+Python,neurokernel,2012-05-23,3,2,"#{""none@none"" ""lev@columbia.edu""}",39.0,3
+Python,neurokernel,2012-05-24,1,1,"#{""none@none""}",40.0,3
+Python,neurokernel,2012-05-25,1,1,"#{""lev@columbia.edu""}",41.0,3
+Python,neurokernel,2012-05-30,8,2,"#{""none@none"" ""dchevitarese@me.com""}",49.0,3
+Python,neurokernel,2012-05-31,2,1,"#{""dchevitarese@me.com""}",51.0,3
+Python,neurokernel,2012-06-01,6,1,"#{""lev@columbia.edu""}",57.0,3
+Python,neurokernel,2012-06-04,1,1,"#{""lev@columbia.edu""}",58.0,3
+Python,neurokernel,2012-06-05,4,3,"#{""none@none"" ""dchevitarese@me.com"" ""lev@columbia.edu""}",62.0,3
+Python,neurokernel,2012-06-11,3,1,"#{""lev@columbia.edu""}",65.0,3
+Python,neurokernel,2012-06-12,6,1,"#{""lev@columbia.edu""}",71.0,3
+Python,neurokernel,2012-06-13,3,1,"#{""lev@columbia.edu""}",74.0,3
+Python,neurokernel,2012-06-24,2,1,"#{""lev@columbia.edu""}",76.0,3
+Python,neurokernel,2012-06-25,1,1,"#{""none@none""}",77.0,3
+Python,neurokernel,2012-06-27,2,2,"#{""dchevitarese@me.com"" ""lev@columbia.edu""}",79.0,3
+Python,neurokernel,2012-06-28,6,1,"#{""dchevitarese@me.com""}",85.0,3
+Python,neurokernel,2012-07-02,3,1,"#{""lev@columbia.edu""}",88.0,3
+Python,neurokernel,2012-07-03,7,2,"#{""dchevitarese@me.com"" ""lev@columbia.edu""}",95.0,3
+Python,neurokernel,2012-07-04,6,2,"#{""dchevitarese@me.com"" ""lev@columbia.edu""}",101.0,3
+Python,neurokernel,2012-07-08,1,1,"#{""lev@columbia.edu""}",102.0,3
+Python,neurokernel,2012-07-09,2,1,"#{""dchevitarese@me.com""}",104.0,3
+Python,neurokernel,2012-07-10,14,1,"#{""lev@columbia.edu""}",118.0,3
+Python,neurokernel,2012-07-11,12,2,"#{""dchevitarese@me.com"" ""lev@columbia.edu""}",130.0,3
+Python,neurokernel,2012-07-12,5,1,"#{""lev@columbia.edu""}",135.0,3
+Python,neurokernel,2012-07-25,1,1,"#{""dchevitarese@me.com""}",136.0,3
+Python,neurokernel,2012-07-30,4,2,"#{""dchevitarese@me.com"" ""lev@columbia.edu""}",140.0,3
+Python,neurokernel,2012-07-31,4,1,"#{""dchevitarese@me.com""}",144.0,3
+Python,neurokernel,2012-08-01,2,1,"#{""dchevitarese@me.com""}",146.0,3
+Python,neurokernel,2012-08-14,2,1,"#{""lev@columbia.edu""}",148.0,3
+Python,neurokernel,2012-09-07,1,1,"#{""none@none""}",149.0,3
+Python,neurokernel,2012-10-23,2,1,"#{""lev@columbia.edu""}",151.0,3
+Python,neurokernel,2012-12-17,1,1,"#{""lev@columbia.edu""}",152.0,3
+Python,neurokernel,2012-12-31,1,1,"#{""lev@columbia.edu""}",153.0,3
+Python,neurokernel,2013-02-06,1,1,"#{""lev@columbia.edu""}",154.0,3
+Python,neurokernel,2013-02-11,1,1,"#{""lev@columbia.edu""}",155.0,3
+Python,neurokernel,2013-02-12,3,1,"#{""lev@columbia.edu""}",158.0,3
+Python,neurokernel,2013-02-13,3,1,"#{""lev@columbia.edu""}",161.0,3
+Python,neurokernel,2013-02-14,1,1,"#{""lev@columbia.edu""}",162.0,3
+Python,neurokernel,2013-02-26,1,1,"#{""lev@columbia.edu""}",163.0,3
+Python,neurokernel,2013-03-07,1,1,"#{""lev@columbia.edu""}",164.0,3
+Python,neurokernel,2013-03-10,1,1,"#{""lev@columbia.edu""}",165.0,3
+Python,neurokernel,2013-03-11,1,1,"#{""lev@columbia.edu""}",166.0,3
+Python,neurokernel,2013-03-12,3,1,"#{""lev@columbia.edu""}",169.0,3
+Python,neurokernel,2013-03-18,1,1,"#{""lev@columbia.edu""}",170.0,3
+Python,neurokernel,2013-03-24,1,1,"#{""lev@columbia.edu""}",171.0,3
+Python,neurokernel,2013-05-29,1,1,"#{""lev@columbia.edu""}",172.0,3
+Python,neurokernel,2013-05-30,1,1,"#{""lev@columbia.edu""}",173.0,3
+Python,neurokernel,2013-05-31,3,1,"#{""lev@columbia.edu""}",176.0,3
+Python,neurokernel,2013-06-03,1,1,"#{""lev@columbia.edu""}",177.0,3
+Python,neurokernel,2013-06-04,1,1,"#{""lev@columbia.edu""}",178.0,3
+Python,neurokernel,2013-06-05,3,1,"#{""lev@columbia.edu""}",181.0,3
+Python,neurokernel,2013-06-06,3,1,"#{""lev@columbia.edu""}",184.0,3
+Python,neurokernel,2013-06-10,11,1,"#{""lev@columbia.edu""}",195.0,3
+Python,neurokernel,2013-06-12,3,1,"#{""lev@columbia.edu""}",198.0,3
+Python,neurokernel,2013-06-17,1,1,"#{""lev@columbia.edu""}",199.0,3
+Python,neurokernel,2013-06-21,1,1,"#{""lev@columbia.edu""}",200.0,3
+Python,neurokernel,2013-06-24,3,1,"#{""lev@columbia.edu""}",203.0,3
+Python,neurokernel,2013-06-25,5,1,"#{""lev@columbia.edu""}",208.0,3
+Python,neurokernel,2013-06-26,14,1,"#{""lev@columbia.edu""}",222.0,3
+Python,neurokernel,2013-06-27,5,1,"#{""lev@columbia.edu""}",227.0,3
+Python,neurokernel,2013-06-28,1,1,"#{""lev@columbia.edu""}",228.0,3
+Python,neurokernel,2013-06-30,4,1,"#{""lev@columbia.edu""}",232.0,3
+Python,neurokernel,2013-07-01,6,1,"#{""lev@columbia.edu""}",238.0,3
+Python,neurokernel,2013-07-04,4,1,"#{""lev@columbia.edu""}",242.0,3
+Python,neurokernel,2013-07-05,1,1,"#{""lev@columbia.edu""}",243.0,3
+Python,neurokernel,2013-07-10,3,1,"#{""lev@columbia.edu""}",246.0,3
+Python,neurokernel,2013-07-15,1,1,"#{""lev@columbia.edu""}",247.0,3
+Python,neurokernel,2013-07-17,4,2,"#{""lev@columbia.edu"" ""nhu2001@columbia.edu""}",251.0,4
+Python,neurokernel,2013-07-22,2,2,"#{""lev@columbia.edu"" ""nhu2001@columbia.edu""}",253.0,4
+Python,neurokernel,2013-07-23,4,2,"#{""lev@columbia.edu"" ""nhu2001@columbia.edu""}",257.0,4
+Python,neurokernel,2013-07-25,1,1,"#{""lev@columbia.edu""}",258.0,4
+Python,neurokernel,2013-08-05,2,1,"#{""lev@columbia.edu""}",260.0,4
+Python,neurokernel,2013-08-12,1,1,"#{""lev@columbia.edu""}",261.0,4
+Python,neurokernel,2013-08-20,1,1,"#{""lev@columbia.edu""}",262.0,4
+Python,neurokernel,2013-08-21,1,1,"#{""lev@columbia.edu""}",263.0,4
+Python,neurokernel,2013-09-03,2,1,"#{""chyeh@ee.columbia.edu""}",265.0,5
+Python,neurokernel,2013-09-28,1,1,"#{""chyeh@ee.columbia.edu""}",266.0,5
+Python,neurokernel,2013-09-30,3,1,"#{""chyeh@ee.columbia.edu""}",269.0,5
+Python,neurokernel,2013-10-04,1,1,"#{""chyeh@ee.columbia.edu""}",270.0,5
+Python,neurokernel,2013-10-07,1,1,"#{""chyeh@ee.columbia.edu""}",271.0,5
+Python,neurokernel,2013-10-13,2,1,"#{""lev@columbia.edu""}",273.0,5
+Python,neurokernel,2013-10-15,2,2,"#{""nikul@ee.columbia.edu"" ""nhu2001@columbia.edu""}",275.0,6
+Python,neurokernel,2013-10-23,2,1,"#{""lev@columbia.edu""}",277.0,6
+Python,neurokernel,2013-10-24,1,1,"#{""lev@columbia.edu""}",278.0,6
+Python,neurokernel,2013-10-25,2,1,"#{""lev@columbia.edu""}",280.0,6
+Python,neurokernel,2013-10-28,1,1,"#{""lev@columbia.edu""}",281.0,6
+Python,neurokernel,2013-10-29,1,1,"#{""lev@columbia.edu""}",282.0,6
+Python,neurokernel,2013-10-30,5,2,"#{""nikul@ee.columbia.edu"" ""lev@columbia.edu""}",287.0,6
+Python,neurokernel,2013-10-31,16,3,"#{""lev@columbia.edu"" ""nhu2001@columbia.edu"" ""chyeh@ee.columbia.edu""}",303.0,6
+Python,neurokernel,2013-11-01,10,2,"#{""lev@columbia.edu"" ""nhu2001@columbia.edu""}",313.0,6
+Python,neurokernel,2013-11-02,4,1,"#{""nhu2001@columbia.edu""}",317.0,6
+Python,neurokernel,2013-11-03,1,1,"#{""nhu2001@columbia.edu""}",318.0,6
+Python,neurokernel,2013-11-06,1,1,"#{""lev@columbia.edu""}",319.0,6
+Python,neurokernel,2013-11-07,1,1,"#{""lev@columbia.edu""}",320.0,6
+Python,neurokernel,2013-11-08,5,1,"#{""lev@columbia.edu""}",325.0,6
+Python,neurokernel,2013-11-10,1,1,"#{""lev@columbia.edu""}",326.0,6
+Python,neurokernel,2013-11-11,1,1,"#{""lev@columbia.edu""}",327.0,6
+Python,neurokernel,2013-11-12,2,1,"#{""lev@columbia.edu""}",329.0,6
+Python,neurokernel,2013-11-13,1,1,"#{""lev@columbia.edu""}",330.0,6
+Python,neurokernel,2013-11-14,3,1,"#{""lev@columbia.edu""}",333.0,6
+Python,neurokernel,2013-11-19,2,1,"#{""lev@columbia.edu""}",335.0,6
+Python,neurokernel,2013-11-20,1,1,"#{""lev@columbia.edu""}",336.0,6
+Python,neurokernel,2013-11-24,1,1,"#{""lev@columbia.edu""}",337.0,6
+Python,neurokernel,2013-11-26,1,1,"#{""lev@columbia.edu""}",338.0,6
+Python,neurokernel,2013-12-09,4,1,"#{""lev@columbia.edu""}",342.0,6
+Python,neurokernel,2013-12-10,2,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",344.0,7
+Python,neurokernel,2013-12-11,14,3,"#{""yiyin@ee.columbia.edu"" ""nikul@huxley.ee.columbia.edu"" ""lev@columbia.edu""}",358.0,8
+Python,neurokernel,2013-12-12,6,2,"#{""yiyin@ee.columbia.edu"" ""nikul@e.columbia.edu""}",364.0,9
+Python,neurokernel,2013-12-13,2,1,"#{""nikul@e.columbia.edu""}",366.0,9
+Python,neurokernel,2013-12-16,1,1,"#{""lev@columbia.edu""}",367.0,9
+Python,neurokernel,2013-12-17,3,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",370.0,9
+Python,neurokernel,2013-12-18,1,1,"#{""yiyin@ee.columbia.edu""}",371.0,9
+Python,neurokernel,2013-12-19,1,1,"#{""lev@columbia.edu""}",372.0,9
+Python,neurokernel,2013-12-22,5,1,"#{""lev@columbia.edu""}",377.0,9
+Python,neurokernel,2013-12-24,8,2,"#{""chungheng@huxley.ee.columbia.edu"" ""chyeh@ee.columbia.edu""}",385.0,10
+Python,neurokernel,2013-12-25,5,1,"#{""lev@columbia.edu""}",390.0,10
+Python,neurokernel,2013-12-28,3,1,"#{""lev@columbia.edu""}",393.0,10
+Python,neurokernel,2013-12-30,1,1,"#{""lev@columbia.edu""}",394.0,10
+Python,neurokernel,2014-01-05,1,1,"#{""lev@columbia.edu""}",395.0,10
+Python,neurokernel,2014-01-07,1,1,"#{""chyeh@ee.columbia.edu""}",396.0,10
+Python,neurokernel,2014-01-10,1,1,"#{""lev@columbia.edu""}",397.0,10
+Python,neurokernel,2014-01-11,3,1,"#{""lev@columbia.edu""}",400.0,10
+Python,neurokernel,2014-01-12,4,1,"#{""lev@columbia.edu""}",404.0,10
+Python,neurokernel,2014-01-13,12,1,"#{""lev@columbia.edu""}",416.0,10
+Python,neurokernel,2014-01-14,1,1,"#{""lev@columbia.edu""}",417.0,10
+Python,neurokernel,2014-01-15,1,1,"#{""lev@columbia.edu""}",418.0,10
+Python,neurokernel,2014-01-16,8,1,"#{""lev@columbia.edu""}",426.0,10
+Python,neurokernel,2014-01-17,2,1,"#{""lev@columbia.edu""}",428.0,10
+Python,neurokernel,2014-01-20,3,1,"#{""lev@columbia.edu""}",431.0,10
+Python,neurokernel,2014-01-21,7,1,"#{""lev@columbia.edu""}",438.0,10
+Python,neurokernel,2014-01-23,4,1,"#{""lev@columbia.edu""}",442.0,10
+Python,neurokernel,2014-01-25,2,1,"#{""lev@columbia.edu""}",444.0,10
+Python,neurokernel,2014-01-28,2,1,"#{""lev@columbia.edu""}",446.0,10
+Python,neurokernel,2014-01-29,7,1,"#{""lev@columbia.edu""}",453.0,10
+Python,neurokernel,2014-01-30,1,1,"#{""lev@columbia.edu""}",454.0,10
+Python,neurokernel,2014-01-31,7,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",461.0,10
+Python,neurokernel,2014-02-02,3,1,"#{""lev@columbia.edu""}",464.0,10
+Python,neurokernel,2014-02-17,4,2,"#{""lev@columbia.edu"" ""chyeh@ee.columbia.edu""}",468.0,10
+Python,neurokernel,2014-02-18,1,1,"#{""nikul@e.columbia.edu""}",469.0,10
+Python,neurokernel,2014-02-19,1,1,"#{""lev@columbia.edu""}",470.0,10
+Python,neurokernel,2014-02-21,2,2,"#{""kpsychas@gmail.com"" ""lev@columbia.edu""}",472.0,11
+Python,neurokernel,2014-02-22,5,1,"#{""chyeh@ee.columbia.edu""}",477.0,11
+Python,neurokernel,2014-02-24,5,1,"#{""lev@columbia.edu""}",482.0,11
+Python,neurokernel,2014-02-26,4,2,"#{""lev@columbia.edu"" ""nikul@e.columbia.edu""}",486.0,11
+Python,neurokernel,2014-02-27,5,1,"#{""lev@columbia.edu""}",491.0,11
+Python,neurokernel,2014-02-28,1,1,"#{""lev@columbia.edu""}",492.0,11
+Python,neurokernel,2014-03-02,1,1,"#{""lev@columbia.edu""}",493.0,11
+Python,neurokernel,2014-03-04,2,1,"#{""lev@columbia.edu""}",495.0,11
+Python,neurokernel,2014-03-05,2,1,"#{""lev@columbia.edu""}",497.0,11
+Python,neurokernel,2014-03-23,2,2,"#{""chungheng@huxley.ee.columbia.edu"" ""lev@columbia.edu""}",499.0,11
+Python,neurokernel,2014-03-24,1,1,"#{""nikul@e.columbia.edu""}",500.0,11
+Python,neurokernel,2014-03-25,7,3,"#{""lev@columbia.edu"" ""nikul@e.columbia.edu"" ""chyeh@ee.columbia.edu""}",507.0,11
+Python,neurokernel,2014-03-26,2,2,"#{""nikul@e.columbia.edu"" ""chyeh@ee.columbia.edu""}",509.0,11
+Python,neurokernel,2014-03-27,1,1,"#{""nikul@e.columbia.edu""}",510.0,11
+Python,neurokernel,2014-03-30,2,1,"#{""lev@columbia.edu""}",512.0,11
+Python,neurokernel,2014-04-07,2,1,"#{""lev@columbia.edu""}",514.0,11
+Python,neurokernel,2014-04-08,1,1,"#{""lev@columbia.edu""}",515.0,11
+Python,neurokernel,2014-04-10,1,1,"#{""lev@columbia.edu""}",516.0,11
+Python,neurokernel,2014-04-15,1,1,"#{""chyeh@ee.columbia.edu""}",517.0,11
+Python,neurokernel,2014-04-20,3,1,"#{""lev@columbia.edu""}",520.0,11
+Python,neurokernel,2014-04-23,3,1,"#{""lev@columbia.edu""}",523.0,11
+Python,neurokernel,2014-04-24,2,1,"#{""lev@columbia.edu""}",525.0,11
+Python,neurokernel,2014-04-25,2,1,"#{""lev@columbia.edu""}",527.0,11
+Python,neurokernel,2014-04-28,4,1,"#{""lev@columbia.edu""}",531.0,11
+Python,neurokernel,2014-04-29,5,1,"#{""lev@columbia.edu""}",536.0,11
+Python,neurokernel,2014-05-02,5,3,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu"" ""chyeh@ee.columbia.edu""}",541.0,11
+Python,neurokernel,2014-05-05,5,1,"#{""lev@columbia.edu""}",546.0,11
+Python,neurokernel,2014-05-06,1,1,"#{""lev@columbia.edu""}",547.0,11
+Python,neurokernel,2014-05-07,5,1,"#{""lev@columbia.edu""}",552.0,11
+Python,neurokernel,2014-05-08,5,1,"#{""lev@columbia.edu""}",557.0,11
+Python,neurokernel,2014-05-11,6,1,"#{""lev@columbia.edu""}",563.0,11
+Python,neurokernel,2014-05-12,4,1,"#{""lev@columbia.edu""}",567.0,11
+Python,neurokernel,2014-05-13,1,1,"#{""lev@columbia.edu""}",568.0,11
+Python,neurokernel,2014-05-14,7,1,"#{""lev@columbia.edu""}",575.0,11
+Python,neurokernel,2014-05-15,3,1,"#{""lev@columbia.edu""}",578.0,11
+Python,neurokernel,2014-05-18,1,1,"#{""lev@columbia.edu""}",579.0,11
+Python,neurokernel,2014-05-19,4,1,"#{""lev@columbia.edu""}",583.0,11
+Python,neurokernel,2014-05-20,6,1,"#{""lev@columbia.edu""}",589.0,11
+Python,neurokernel,2014-05-21,11,2,"#{""kpsychas@gmail.com"" ""lev@columbia.edu""}",600.0,11
+Python,neurokernel,2014-05-22,5,2,"#{""kpsychas@gmail.com"" ""lev@columbia.edu""}",605.0,11
+Python,neurokernel,2014-05-23,7,3,"#{""yiyin@ee.columbia.edu"" ""kpsychas@gmail.com"" ""lev@columbia.edu""}",612.0,11
+Python,neurokernel,2014-05-24,1,1,"#{""lev@columbia.edu""}",613.0,11
+Python,neurokernel,2014-05-25,1,1,"#{""lev@columbia.edu""}",614.0,11
+Python,neurokernel,2014-05-26,4,1,"#{""lev@columbia.edu""}",618.0,11
+Python,neurokernel,2014-05-27,1,1,"#{""lev@columbia.edu""}",619.0,11
+Python,neurokernel,2014-05-29,3,1,"#{""lev@columbia.edu""}",622.0,11
+Python,neurokernel,2014-05-30,6,1,"#{""lev@columbia.edu""}",628.0,11
+Python,neurokernel,2014-06-01,6,1,"#{""lev@columbia.edu""}",634.0,11
+Python,neurokernel,2014-06-03,4,1,"#{""lev@columbia.edu""}",638.0,11
+Python,neurokernel,2014-06-06,1,1,"#{""lev@columbia.edu""}",639.0,11
+Python,neurokernel,2014-06-08,4,1,"#{""lev@columbia.edu""}",643.0,11
+Python,neurokernel,2014-06-09,2,1,"#{""lev@columbia.edu""}",645.0,11
+Python,neurokernel,2014-06-10,3,1,"#{""lev@columbia.edu""}",648.0,11
+Python,neurokernel,2014-06-11,5,1,"#{""lev@columbia.edu""}",653.0,11
+Python,neurokernel,2014-06-12,4,1,"#{""lev@columbia.edu""}",657.0,11
+Python,neurokernel,2014-06-13,3,2,"#{""kpsychas@gmail.com"" ""lev@columbia.edu""}",660.0,11
+Python,neurokernel,2014-06-14,1,1,"#{""lev@columbia.edu""}",661.0,11
+Python,neurokernel,2014-06-18,4,1,"#{""lev@columbia.edu""}",665.0,11
+Python,neurokernel,2014-06-19,5,1,"#{""lev@columbia.edu""}",670.0,11
+Python,neurokernel,2014-06-23,14,1,"#{""lev@columbia.edu""}",684.0,11
+Python,neurokernel,2014-06-24,1,1,"#{""lev@columbia.edu""}",685.0,11
+Python,neurokernel,2014-06-25,3,1,"#{""nikul@e.columbia.edu""}",688.0,11
+Python,neurokernel,2014-06-27,1,1,"#{""lev@columbia.edu""}",689.0,11
+Python,neurokernel,2014-06-29,1,1,"#{""nikul@e.columbia.edu""}",690.0,11
+Python,neurokernel,2014-06-30,2,2,"#{""kpsychas@gmail.com"" ""kpsychas@huxley.ee.columbia.edu""}",692.0,12
+Python,neurokernel,2014-07-01,3,1,"#{""lev@columbia.edu""}",695.0,12
+Python,neurokernel,2014-07-02,4,1,"#{""lev@columbia.edu""}",699.0,12
+Python,neurokernel,2014-07-03,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",700.0,12
+Python,neurokernel,2014-07-06,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",701.0,12
+Python,neurokernel,2014-07-07,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",702.0,12
+Python,neurokernel,2014-07-11,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",703.0,12
+Python,neurokernel,2014-07-13,5,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",708.0,12
+Python,neurokernel,2014-07-14,2,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",710.0,12
+Python,neurokernel,2014-07-15,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",711.0,12
+Python,neurokernel,2014-07-17,2,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",713.0,12
+Python,neurokernel,2014-07-18,5,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",718.0,12
+Python,neurokernel,2014-07-21,6,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",724.0,12
+Python,neurokernel,2014-07-22,8,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",732.0,12
+Python,neurokernel,2014-07-25,2,1,"#{""kpsychas@huxley.ee.columbia.edu""}",734.0,12
+Python,neurokernel,2014-07-27,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",735.0,12
+Python,neurokernel,2014-07-28,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",736.0,12
+Python,neurokernel,2014-07-30,1,1,"#{""lev@columbia.edu""}",737.0,12
+Python,neurokernel,2014-08-03,1,1,"#{""lev@columbia.edu""}",738.0,12
+Python,neurokernel,2014-08-04,2,1,"#{""lev@columbia.edu""}",740.0,12
+Python,neurokernel,2014-08-10,2,2,"#{""lev@columbia.edu"" ""nikul@e.columbia.edu""}",742.0,12
+Python,neurokernel,2014-08-11,1,1,"#{""lev@columbia.edu""}",743.0,12
+Python,neurokernel,2014-08-12,1,1,"#{""lev@columbia.edu""}",744.0,12
+Python,neurokernel,2014-08-13,2,2,"#{""lev@columbia.edu"" ""nikul@e.columbia.edu""}",746.0,12
+Python,neurokernel,2014-08-14,4,2,"#{""lev@columbia.edu"" ""nikul@e.columbia.edu""}",750.0,12
+Python,neurokernel,2014-08-15,2,1,"#{""nikul@e.columbia.edu""}",752.0,12
+Python,neurokernel,2014-08-18,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",753.0,12
+Python,neurokernel,2014-08-19,2,1,"#{""kpsychas@huxley.ee.columbia.edu""}",755.0,12
+Python,neurokernel,2014-08-20,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",756.0,12
+Python,neurokernel,2014-08-21,7,2,"#{""nikul@e.columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",763.0,12
+Python,neurokernel,2014-08-22,9,3,"#{""yiyin@ee.columbia.edu"" ""nikul@e.columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",772.0,12
+Python,neurokernel,2014-08-23,15,2,"#{""yiyin@ee.columbia.edu"" ""nikul@e.columbia.edu""}",787.0,12
+Python,neurokernel,2014-08-24,2,2,"#{""yiyin@ee.columbia.edu"" ""nikul@e.columbia.edu""}",789.0,12
+Python,neurokernel,2014-09-01,8,2,"#{""lev@columbia.edu"" ""nikul@e.columbia.edu""}",797.0,12
+Python,neurokernel,2014-09-09,2,1,"#{""kpsychas@huxley.ee.columbia.edu""}",799.0,12
+Python,neurokernel,2014-09-13,1,1,"#{""kpsychas@gmail.com""}",800.0,12
+Python,neurokernel,2014-09-14,1,1,"#{""lev@columbia.edu""}",801.0,12
+Python,neurokernel,2014-09-15,1,1,"#{""lev@columbia.edu""}",802.0,12
+Python,neurokernel,2014-09-16,2,1,"#{""lev@columbia.edu""}",804.0,12
+Python,neurokernel,2014-09-17,3,1,"#{""lev@columbia.edu""}",807.0,12
+Python,neurokernel,2014-09-21,1,1,"#{""kpsychas@gmail.com""}",808.0,12
+Python,neurokernel,2014-09-28,1,1,"#{""lev@columbia.edu""}",809.0,12
+Python,neurokernel,2014-09-29,8,1,"#{""lev@columbia.edu""}",817.0,12
+Python,neurokernel,2014-09-30,1,1,"#{""lev@columbia.edu""}",818.0,12
+Python,neurokernel,2014-10-01,6,1,"#{""lev@columbia.edu""}",824.0,12
+Python,neurokernel,2014-10-06,1,1,"#{""nikul@e.columbia.edu""}",825.0,12
+Python,neurokernel,2014-10-07,4,1,"#{""lev@columbia.edu""}",829.0,12
+Python,neurokernel,2014-10-08,2,1,"#{""lev@columbia.edu""}",831.0,12
+Python,neurokernel,2014-10-12,2,1,"#{""lev@columbia.edu""}",833.0,12
+Python,neurokernel,2014-10-13,1,1,"#{""lev@columbia.edu""}",834.0,12
+Python,neurokernel,2014-10-14,5,1,"#{""lev@columbia.edu""}",839.0,12
+Python,neurokernel,2014-10-20,4,1,"#{""lev@columbia.edu""}",843.0,12
+Python,neurokernel,2014-10-21,4,1,"#{""lev@columbia.edu""}",847.0,12
+Python,neurokernel,2014-10-22,5,1,"#{""lev@columbia.edu""}",852.0,12
+Python,neurokernel,2014-10-26,4,3,"#{""kpsychas@gmail.com"" ""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",856.0,12
+Python,neurokernel,2014-10-27,3,1,"#{""lev@columbia.edu""}",859.0,12
+Python,neurokernel,2014-10-28,6,1,"#{""lev@columbia.edu""}",865.0,12
+Python,neurokernel,2014-10-29,2,1,"#{""lev@columbia.edu""}",867.0,12
+Python,neurokernel,2014-11-01,1,1,"#{""lev@columbia.edu""}",868.0,12
+Python,neurokernel,2014-11-02,3,1,"#{""lev@columbia.edu""}",871.0,12
+Python,neurokernel,2014-11-03,1,1,"#{""lev@columbia.edu""}",872.0,12
+Python,neurokernel,2014-11-04,7,1,"#{""lev@columbia.edu""}",879.0,12
+Python,neurokernel,2014-11-05,1,1,"#{""lev@columbia.edu""}",880.0,12
+Python,neurokernel,2014-11-08,1,1,"#{""lev@columbia.edu""}",881.0,12
+Python,neurokernel,2014-11-11,5,4,"#{""kpsychas@gmail.com"" ""chungheng.yeh@gmail.com"" ""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",886.0,13
+Python,neurokernel,2014-11-12,4,1,"#{""yiyin@ee.columbia.edu""}",890.0,13
+Python,neurokernel,2014-11-16,1,1,"#{""lev@columbia.edu""}",891.0,13
+Python,neurokernel,2014-11-18,1,1,"#{""lev@columbia.edu""}",892.0,13
+Python,neurokernel,2014-11-19,4,1,"#{""lev@columbia.edu""}",896.0,13
+Python,neurokernel,2014-11-20,3,1,"#{""lev@columbia.edu""}",899.0,13
+Python,neurokernel,2014-11-21,10,1,"#{""lev@columbia.edu""}",909.0,13
+Python,neurokernel,2014-11-22,3,1,"#{""yiyin@ee.columbia.edu""}",912.0,13
+Python,neurokernel,2014-11-23,6,3,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu"" ""nikul@e.columbia.edu""}",918.0,13
+Python,neurokernel,2014-11-24,1,1,"#{""lev@columbia.edu""}",919.0,13
+Python,neurokernel,2014-11-25,2,1,"#{""lev@columbia.edu""}",921.0,13
+Python,neurokernel,2014-11-26,8,1,"#{""lev@columbia.edu""}",929.0,13
+Python,neurokernel,2014-11-27,1,1,"#{""lev@columbia.edu""}",930.0,13
+Python,neurokernel,2014-11-28,4,1,"#{""lev@columbia.edu""}",934.0,13
+Python,neurokernel,2014-11-30,1,1,"#{""lev@columbia.edu""}",935.0,13
+Python,neurokernel,2014-12-01,7,1,"#{""lev@columbia.edu""}",942.0,13
+Python,neurokernel,2014-12-03,1,1,"#{""lev@columbia.edu""}",943.0,13
+Python,neurokernel,2014-12-04,2,1,"#{""lev@columbia.edu""}",945.0,13
+Python,neurokernel,2014-12-06,1,1,"#{""lev@columbia.edu""}",946.0,13
+Python,neurokernel,2014-12-08,2,1,"#{""lev@columbia.edu""}",948.0,13
+Python,neurokernel,2014-12-09,3,1,"#{""lev@columbia.edu""}",951.0,13
+Python,neurokernel,2014-12-11,6,1,"#{""lev@columbia.edu""}",957.0,13
+Python,neurokernel,2014-12-12,4,1,"#{""lev@columbia.edu""}",961.0,13
+Python,neurokernel,2014-12-13,2,1,"#{""lev@columbia.edu""}",963.0,13
+Python,neurokernel,2014-12-15,1,1,"#{""lev@columbia.edu""}",964.0,13
+Python,neurokernel,2014-12-16,2,1,"#{""lev@columbia.edu""}",966.0,13
+Python,neurokernel,2014-12-17,8,1,"#{""lev@columbia.edu""}",974.0,13
+Python,neurokernel,2014-12-18,1,1,"#{""lev@columbia.edu""}",975.0,13
+Python,neurokernel,2014-12-19,1,1,"#{""lev@columbia.edu""}",976.0,13
+Python,neurokernel,2014-12-20,1,1,"#{""lev@columbia.edu""}",977.0,13
+Python,neurokernel,2014-12-21,6,1,"#{""lev@columbia.edu""}",983.0,13
+Python,neurokernel,2014-12-23,6,1,"#{""lev@columbia.edu""}",989.0,13
+Python,neurokernel,2014-12-24,5,1,"#{""lev@columbia.edu""}",994.0,13
+Python,neurokernel,2014-12-25,2,1,"#{""lev@columbia.edu""}",996.0,13
+Python,neurokernel,2014-12-30,2,1,"#{""lev@columbia.edu""}",998.0,13
+Python,neurokernel,2014-12-31,5,1,"#{""lev@columbia.edu""}",1003.0,13
+Python,neurokernel,2015-01-06,7,1,"#{""lev@columbia.edu""}",1010.0,13
+Python,neurokernel,2015-01-07,2,1,"#{""lev@columbia.edu""}",1012.0,13
+Python,neurokernel,2015-01-11,1,1,"#{""lev@columbia.edu""}",1013.0,13
+Python,neurokernel,2015-01-12,3,1,"#{""lev@columbia.edu""}",1016.0,13
+Python,neurokernel,2015-01-13,1,1,"#{""lev@columbia.edu""}",1017.0,13
+Python,neurokernel,2015-01-14,1,1,"#{""lev@columbia.edu""}",1018.0,13
+Python,neurokernel,2015-01-15,4,1,"#{""lev@columbia.edu""}",1022.0,13
+Python,neurokernel,2015-01-16,1,1,"#{""lev@columbia.edu""}",1023.0,13
+Python,neurokernel,2015-01-17,3,1,"#{""lev@columbia.edu""}",1026.0,13
+Python,neurokernel,2015-01-18,5,1,"#{""lev@columbia.edu""}",1031.0,13
+Python,neurokernel,2015-01-19,12,1,"#{""lev@columbia.edu""}",1043.0,13
+Python,neurokernel,2015-01-20,5,1,"#{""lev@columbia.edu""}",1048.0,13
+Python,neurokernel,2015-01-21,4,1,"#{""chungheng.yeh@gmail.com""}",1052.0,13
+Python,neurokernel,2015-01-22,8,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1060.0,13
+Python,neurokernel,2015-01-23,4,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1064.0,13
+Python,neurokernel,2015-01-25,3,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1067.0,13
+Python,neurokernel,2015-01-26,6,1,"#{""lev@columbia.edu""}",1073.0,13
+Python,neurokernel,2015-01-27,6,1,"#{""chungheng.yeh@gmail.com""}",1079.0,13
+Python,neurokernel,2015-01-28,5,3,"#{""kpsychas@gmail.com"" ""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1084.0,13
+Python,neurokernel,2015-01-29,1,1,"#{""lev@columbia.edu""}",1085.0,13
+Python,neurokernel,2015-01-30,2,1,"#{""chungheng.yeh@gmail.com""}",1087.0,13
+Python,neurokernel,2015-01-31,4,1,"#{""chungheng.yeh@gmail.com""}",1091.0,13
+Python,neurokernel,2015-02-01,3,1,"#{""lev@columbia.edu""}",1094.0,13
+Python,neurokernel,2015-02-02,3,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1097.0,13
+Python,neurokernel,2015-02-03,9,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1106.0,13
+Python,neurokernel,2015-02-04,1,1,"#{""chungheng.yeh@gmail.com""}",1107.0,13
+Python,neurokernel,2015-02-05,11,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1118.0,13
+Python,neurokernel,2015-02-08,5,1,"#{""lev@columbia.edu""}",1123.0,13
+Python,neurokernel,2015-02-09,4,1,"#{""lev@columbia.edu""}",1127.0,13
+Python,neurokernel,2015-02-10,5,1,"#{""lev@columbia.edu""}",1132.0,13
+Python,neurokernel,2015-02-11,3,1,"#{""lev@columbia.edu""}",1135.0,13
+Python,neurokernel,2015-02-12,5,1,"#{""lev@columbia.edu""}",1140.0,13
+Python,neurokernel,2015-02-13,5,1,"#{""lev@columbia.edu""}",1145.0,13
+Python,neurokernel,2015-02-17,6,1,"#{""lev@columbia.edu""}",1151.0,13
+Python,neurokernel,2015-02-18,5,1,"#{""lev@columbia.edu""}",1156.0,13
+Python,neurokernel,2015-02-19,4,1,"#{""lev@columbia.edu""}",1160.0,13
+Python,neurokernel,2015-02-23,6,1,"#{""lev@columbia.edu""}",1166.0,13
+Python,neurokernel,2015-02-24,1,1,"#{""lev@columbia.edu""}",1167.0,13
+Python,neurokernel,2015-02-25,1,1,"#{""lev@columbia.edu""}",1168.0,13
+Python,neurokernel,2015-02-27,2,1,"#{""lev@columbia.edu""}",1170.0,13
+Python,neurokernel,2015-02-28,1,1,"#{""lev@columbia.edu""}",1171.0,13
+Python,neurokernel,2015-03-01,10,1,"#{""lev@columbia.edu""}",1181.0,13
+Python,neurokernel,2015-03-02,1,1,"#{""lev@columbia.edu""}",1182.0,13
+Python,neurokernel,2015-03-03,1,1,"#{""lev@columbia.edu""}",1183.0,13
+Python,neurokernel,2015-03-04,2,1,"#{""lev@columbia.edu""}",1185.0,13
+Python,neurokernel,2015-03-05,9,1,"#{""lev@columbia.edu""}",1194.0,13
+Python,neurokernel,2015-03-06,2,1,"#{""lev@columbia.edu""}",1196.0,13
+Python,neurokernel,2015-03-09,4,1,"#{""lev@columbia.edu""}",1200.0,13
+Python,neurokernel,2015-03-10,10,1,"#{""lev@columbia.edu""}",1210.0,13
+Python,neurokernel,2015-03-11,8,1,"#{""lev@columbia.edu""}",1218.0,13
+Python,neurokernel,2015-03-12,6,1,"#{""lev@columbia.edu""}",1224.0,13
+Python,neurokernel,2015-03-13,6,1,"#{""lev@columbia.edu""}",1230.0,13
+Python,neurokernel,2015-03-15,8,1,"#{""lev@columbia.edu""}",1238.0,13
+Python,neurokernel,2015-03-16,3,1,"#{""lev@columbia.edu""}",1241.0,13
+Python,neurokernel,2015-03-18,8,1,"#{""lev@columbia.edu""}",1249.0,13
+Python,neurokernel,2015-03-19,1,1,"#{""lev@columbia.edu""}",1250.0,13
+Python,neurokernel,2015-03-24,1,1,"#{""lev@columbia.edu""}",1251.0,13
+Python,neurokernel,2015-03-25,8,1,"#{""lev@columbia.edu""}",1259.0,13
+Python,neurokernel,2015-03-27,1,1,"#{""lev@columbia.edu""}",1260.0,13
+Python,neurokernel,2015-03-29,1,1,"#{""lev@columbia.edu""}",1261.0,13
+Python,neurokernel,2015-03-31,2,1,"#{""lev@columbia.edu""}",1263.0,13
+Python,neurokernel,2015-04-02,1,1,"#{""kpsychas@gmail.com""}",1264.0,13
+Python,neurokernel,2015-04-07,8,1,"#{""lev@columbia.edu""}",1272.0,13
+Python,neurokernel,2015-04-08,3,1,"#{""lev@columbia.edu""}",1275.0,13
+Python,neurokernel,2015-04-09,1,1,"#{""kpsychas@gmail.com""}",1276.0,13
+Python,neurokernel,2015-04-12,1,1,"#{""lev@columbia.edu""}",1277.0,13
+Python,neurokernel,2015-04-14,4,1,"#{""lev@columbia.edu""}",1281.0,13
+Python,neurokernel,2015-04-16,2,1,"#{""lev@columbia.edu""}",1283.0,13
+Python,neurokernel,2015-04-17,5,1,"#{""lev@columbia.edu""}",1288.0,13
+Python,neurokernel,2015-04-20,2,1,"#{""lev@columbia.edu""}",1290.0,13
+Python,neurokernel,2015-04-22,15,3,"#{""kpsychas@gmail.com"" ""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",1305.0,13
+Python,neurokernel,2015-04-23,3,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",1308.0,13
+Python,neurokernel,2015-04-24,4,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",1312.0,13
+Python,neurokernel,2015-04-26,1,1,"#{""lev@columbia.edu""}",1313.0,13
+Python,neurokernel,2015-04-27,1,1,"#{""kpsychas@gmail.com""}",1314.0,13
+Python,neurokernel,2015-04-28,2,1,"#{""lev@columbia.edu""}",1316.0,13
+Python,neurokernel,2015-04-29,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",1317.0,13
+Python,neurokernel,2015-05-06,3,1,"#{""lev@columbia.edu""}",1320.0,13
+Python,neurokernel,2015-05-07,1,1,"#{""lev@columbia.edu""}",1321.0,13
+Python,neurokernel,2015-05-08,1,1,"#{""lev@columbia.edu""}",1322.0,13
+Python,neurokernel,2015-05-09,1,1,"#{""kpsychas@huxley.ee.columbia.edu""}",1323.0,13
+Python,neurokernel,2015-05-10,9,1,"#{""lev@columbia.edu""}",1332.0,13
+Python,neurokernel,2015-05-11,1,1,"#{""lev@columbia.edu""}",1333.0,13
+Python,neurokernel,2015-05-12,1,1,"#{""lev@columbia.edu""}",1334.0,13
+Python,neurokernel,2015-05-14,2,1,"#{""kpsychas@gmail.com""}",1336.0,13
+Python,neurokernel,2015-05-16,1,1,"#{""lev@columbia.edu""}",1337.0,13
+Python,neurokernel,2015-05-17,3,2,"#{""kpsychas@gmail.com"" ""lev@columbia.edu""}",1340.0,13
+Python,neurokernel,2015-05-18,1,1,"#{""lev@columbia.edu""}",1341.0,13
+Python,neurokernel,2015-05-22,3,1,"#{""lev@columbia.edu""}",1344.0,13
+Python,neurokernel,2015-05-27,2,1,"#{""lev@columbia.edu""}",1346.0,13
+Python,neurokernel,2015-05-28,5,1,"#{""lev@columbia.edu""}",1351.0,13
+Python,neurokernel,2015-05-29,2,1,"#{""lev@columbia.edu""}",1353.0,13
+Python,neurokernel,2015-05-31,1,1,"#{""lev@columbia.edu""}",1354.0,13
+Python,neurokernel,2015-06-01,10,1,"#{""lev@columbia.edu""}",1364.0,13
+Python,neurokernel,2015-06-02,3,1,"#{""lev@columbia.edu""}",1367.0,13
+Python,neurokernel,2015-06-03,3,1,"#{""lev@columbia.edu""}",1370.0,13
+Python,neurokernel,2015-06-04,2,1,"#{""lev@columbia.edu""}",1372.0,13
+Python,neurokernel,2015-06-05,10,1,"#{""lev@columbia.edu""}",1382.0,13
+Python,neurokernel,2015-06-07,1,1,"#{""lev@columbia.edu""}",1383.0,13
+Python,neurokernel,2015-06-08,1,1,"#{""lev@columbia.edu""}",1384.0,13
+Python,neurokernel,2015-06-10,4,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",1388.0,13
+Python,neurokernel,2015-06-14,1,1,"#{""lev@columbia.edu""}",1389.0,13
+Python,neurokernel,2015-06-15,1,1,"#{""lev@columbia.edu""}",1390.0,13
+Python,neurokernel,2015-06-16,1,1,"#{""lev@columbia.edu""}",1391.0,13
+Python,neurokernel,2015-06-18,1,1,"#{""kpsychas@gmail.com""}",1392.0,13
+Python,neurokernel,2015-06-22,1,1,"#{""lev@columbia.edu""}",1393.0,13
+Python,neurokernel,2015-06-23,2,1,"#{""chungheng.yeh@gmail.com""}",1395.0,13
+Python,neurokernel,2015-06-24,1,1,"#{""chungheng.yeh@gmail.com""}",1396.0,13
+Python,neurokernel,2015-06-25,2,1,"#{""chungheng.yeh@gmail.com""}",1398.0,13
+Python,neurokernel,2015-06-29,2,1,"#{""chungheng.yeh@gmail.com""}",1400.0,13
+Python,neurokernel,2015-06-30,6,1,"#{""chungheng.yeh@gmail.com""}",1406.0,13
+Python,neurokernel,2015-07-07,2,1,"#{""lev@columbia.edu""}",1408.0,13
+Python,neurokernel,2015-07-08,1,1,"#{""lev@columbia.edu""}",1409.0,13
+Python,neurokernel,2015-08-03,3,1,"#{""chungheng.yeh@gmail.com""}",1412.0,13
+Python,neurokernel,2015-08-04,1,1,"#{""chungheng.yeh@gmail.com""}",1413.0,13
+Python,neurokernel,2015-08-07,2,1,"#{""chungheng.yeh@gmail.com""}",1415.0,13
+Python,neurokernel,2015-08-10,1,1,"#{""chungheng.yeh@gmail.com""}",1416.0,13
+Python,neurokernel,2015-08-12,5,1,"#{""chungheng.yeh@gmail.com""}",1421.0,13
+Python,neurokernel,2015-08-13,4,1,"#{""chungheng.yeh@gmail.com""}",1425.0,13
+Python,neurokernel,2015-08-17,3,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1428.0,13
+Python,neurokernel,2015-08-18,17,3,"#{""kpsychas@gmail.com"" ""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1445.0,13
+Python,neurokernel,2015-08-19,1,1,"#{""lev@columbia.edu""}",1446.0,13
+Python,neurokernel,2015-08-23,1,1,"#{""lev@columbia.edu""}",1447.0,13
+Python,neurokernel,2015-08-30,6,1,"#{""lev@columbia.edu""}",1453.0,13
+Python,neurokernel,2015-08-31,14,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1467.0,13
+Python,neurokernel,2015-09-07,1,1,"#{""lev@columbia.edu""}",1468.0,13
+Python,neurokernel,2015-09-08,1,1,"#{""lev@columbia.edu""}",1469.0,13
+Python,neurokernel,2015-09-09,1,1,"#{""chungheng.yeh@gmail.com""}",1470.0,13
+Python,neurokernel,2015-09-24,2,1,"#{""lev@columbia.edu""}",1472.0,13
+Python,neurokernel,2015-09-27,1,1,"#{""lev@columbia.edu""}",1473.0,13
+Python,neurokernel,2015-10-02,1,1,"#{""lev@columbia.edu""}",1474.0,13
+Python,neurokernel,2015-10-08,1,1,"#{""lev@columbia.edu""}",1475.0,13
+Python,neurokernel,2015-10-09,4,1,"#{""lev@columbia.edu""}",1479.0,13
+Python,neurokernel,2015-10-12,2,1,"#{""lev@columbia.edu""}",1481.0,13
+Python,neurokernel,2015-10-14,1,1,"#{""lev@columbia.edu""}",1482.0,13
+Python,neurokernel,2015-10-19,2,1,"#{""lev@columbia.edu""}",1484.0,13
+Python,neurokernel,2015-10-20,2,1,"#{""lev@columbia.edu""}",1486.0,13
+Python,neurokernel,2015-11-04,1,1,"#{""yiyin@ee.columbia.edu""}",1487.0,13
+Python,neurokernel,2015-11-09,2,1,"#{""lev@columbia.edu""}",1489.0,13
+Python,neurokernel,2015-11-10,2,1,"#{""lev@columbia.edu""}",1491.0,13
+Python,neurokernel,2015-11-11,3,1,"#{""lev@columbia.edu""}",1494.0,13
+Python,neurokernel,2015-11-17,1,1,"#{""lev@columbia.edu""}",1495.0,13
+Python,neurokernel,2015-11-19,3,1,"#{""lev@columbia.edu""}",1498.0,13
+Python,neurokernel,2015-11-24,3,2,"#{""chungheng.yeh@gmail.com"" ""lev@columbia.edu""}",1501.0,13
+Python,neurokernel,2015-12-01,1,1,"#{""yiyin@ee.columbia.edu""}",1502.0,13
+Python,neurokernel,2015-12-03,1,1,"#{""yiyin@ee.columbia.edu""}",1503.0,13
+Python,neurokernel,2015-12-04,2,1,"#{""lev@columbia.edu""}",1505.0,13
+Python,neurokernel,2015-12-05,2,1,"#{""lev@columbia.edu""}",1507.0,13
+Python,neurokernel,2015-12-06,5,1,"#{""lev@columbia.edu""}",1512.0,13
+Python,neurokernel,2015-12-07,5,2,"#{""lev@columbia.edu"" ""kpsychas@huxley.ee.columbia.edu""}",1517.0,13
+Python,neurokernel,2015-12-09,5,2,"#{""kpsychas@gmail.com"" ""lev@columbia.edu""}",1522.0,13
+Python,neurokernel,2015-12-10,5,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",1527.0,13
+Python,neurokernel,2015-12-11,1,1,"#{""lev@columbia.edu""}",1528.0,13
+Python,neurokernel,2015-12-15,3,1,"#{""yiyin@ee.columbia.edu""}",1531.0,13
+Python,neurokernel,2015-12-17,1,1,"#{""yiyin@ee.columbia.edu""}",1532.0,13
+Python,neurokernel,2015-12-21,3,1,"#{""lev@columbia.edu""}",1535.0,13
+Python,neurokernel,2015-12-23,4,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",1539.0,13
+Python,neurokernel,2015-12-24,12,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",1551.0,13
+Python,neurokernel,2015-12-25,5,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",1556.0,13
+Python,neurokernel,2015-12-26,1,1,"#{""yiyin@ee.columbia.edu""}",1557.0,13
+Python,neurokernel,2016-01-16,2,1,"#{""lev@columbia.edu""}",1559.0,13
+Python,neurokernel,2016-01-20,1,1,"#{""nikul@ee.columbia.edu""}",1560.0,13
+Python,neurokernel,2016-02-08,5,1,"#{""lev@columbia.edu""}",1565.0,13
+Python,neurokernel,2016-02-09,1,1,"#{""lev@columbia.edu""}",1566.0,13
+Python,neurokernel,2016-03-01,1,1,"#{""lev@columbia.edu""}",1567.0,13
+Python,neurokernel,2016-03-08,5,2,"#{""yiyin@ee.columbia.edu"" ""lev@columbia.edu""}",1572.0,13
+Python,neurokernel,2016-03-09,1,1,"#{""yiyin@ee.columbia.edu""}",1573.0,13
+Python,neurokernel,2016-03-14,2,1,"#{""lev@columbia.edu""}",1575.0,13
+Python,neurokernel,2016-03-16,1,1,"#{""lev@columbia.edu""}",1576.0,13
+Python,neurokernel,2016-03-17,1,1,"#{""chungheng.yeh@gmail.com""}",1577.0,13
+Python,neurokernel,2016-03-18,3,1,"#{""lev@columbia.edu""}",1580.0,13
+Python,neurokernel,2016-03-19,2,1,"#{""lev@columbia.edu""}",1582.0,13
+Python,neurokernel,2016-03-20,14,1,"#{""lev@columbia.edu""}",1596.0,13
+Python,neurokernel,2016-03-22,5,1,"#{""lev@columbia.edu""}",1601.0,13
+Python,neurokernel,2016-04-27,1,1,"#{""lev@columbia.edu""}",1602.0,13
+Python,neurokernel,2016-10-25,1,1,"#{""yiyin@ee.columbia.edu""}",1603.0,13
+Python,neurokernel,2016-10-27,1,1,"#{""nikul@ee.columbia.edu""}",1604.0,13
+Python,neurokernel,2017-03-24,1,1,"#{""yiyin@ee.columbia.edu""}",1605.0,13
+Python,neurokernel,2017-08-17,3,1,"#{""yiyin@ee.columbia.edu""}",1608.0,13
+Python,neurokernel,2017-08-18,1,1,"#{""yiyin@ee.columbia.edu""}",1609.0,13
+Python,neurokernel,2017-08-28,2,1,"#{""yiyin@ee.columbia.edu""}",1611.0,13
+Python,neurokernel,2018-04-01,1,1,"#{""jonathan.n.marty@gmail.com""}",1612.0,14
+Python,neurokernel,2018-04-10,6,2,"#{""jonathan.n.marty@gmail.com"" ""yiyin@ee.columbia.edu""}",1618.0,14
+Python,neurokernel,2018-04-11,1,1,"#{""yiyin@ee.columbia.edu""}",1619.0,14
+Python,neurokernel,2018-05-29,1,1,"#{""yiyin@ee.columbia.edu""}",1620.0,14
+Python,neurokernel,2018-05-30,1,1,"#{""yiyin@ee.columbia.edu""}",1621.0,14
+Python,neurokernel,2018-06-01,2,1,"#{""yiyin@ee.columbia.edu""}",1623.0,14
+Python,neurokernel,2018-06-08,1,1,"#{""yiyin@ee.columbia.edu""}",1624.0,14
+Python,neurokernel,2018-06-21,1,1,"#{""yiyin@ee.columbia.edu""}",1625.0,14
+Python,neurokernel,2018-06-22,1,1,"#{""yiyin@ee.columbia.edu""}",1626.0,14
+Python,neurokernel,2018-07-24,3,1,"#{""yiyin@ee.columbia.edu""}",1629.0,14
+Python,neurokernel,2018-07-26,3,1,"#{""yiyin@ee.columbia.edu""}",1632.0,14
+Python,neurokernel,2018-08-15,1,1,"#{""yiyin@ee.columbia.edu""}",1633.0,14
+Python,neurokernel,2018-08-16,1,1,"#{""yiyin@ee.columbia.edu""}",1634.0,14
+Python,neurokernel,2018-10-24,1,1,"#{""mehmetkeremturkcan@gmail.com""}",1635.0,15
+Python,neurokernel,2019-03-20,1,1,"#{""yiyin@ee.columbia.edu""}",1636.0,15
+Python,neurokernel,2019-05-06,1,1,"#{""yiyin@ee.columbia.edu""}",1637.0,15
+Python,neurokernel,2019-08-11,1,1,"#{""mehmetkeremturkcan@gmail.com""}",1638.0,15
+Python,neurokernel,2019-08-12,1,1,"#{""yiyin@ee.columbia.edu""}",1639.0,15
+Python,neurokernel,2019-09-12,2,1,"#{""yiyin@ee.columbia.edu""}",1641.0,15
+Python,neurokernel,2019-09-24,1,1,"#{""yiyin@ee.columbia.edu""}",1642.0,15
+Python,neurokernel,2019-11-07,1,1,"#{""tl2747@columbia.edu""}",1643.0,16
+Python,neurokernel,2020-02-19,2,1,"#{""tl2747@columbia.edu""}",1645.0,16
+Python,neurokernel,2020-02-22,2,1,"#{""tl2747@columbia.edu""}",1647.0,16
+Python,neurokernel,2020-04-24,1,1,"#{""yiyin@ee.columbia.edu""}",1648.0,16
+Python,neurokernel,2020-05-16,1,1,"#{""yiyin@ee.columbia.edu""}",1649.0,16
+Python,neurokernel,2020-05-17,1,1,"#{""yiyin@ee.columbia.edu""}",1650.0,16
+Python,neurokernel,2020-05-18,2,1,"#{""yiyin@ee.columbia.edu""}",1652.0,16
+Python,neurokernel,2020-05-24,1,1,"#{""yiyin@ee.columbia.edu""}",1653.0,16
+Python,neurokernel,2020-05-25,1,1,"#{""yiyin@ee.columbia.edu""}",1654.0,16
+Python,neurokernel,2020-05-27,3,1,"#{""yiyin@ee.columbia.edu""}",1657.0,16
+Python,neurokernel,2020-05-29,7,1,"#{""yiyin@ee.columbia.edu""}",1664.0,16
+Python,neurokernel,2021-01-20,1,1,"#{""yiyin@ee.columbia.edu""}",1665.0,16
+Python,neurokernel,2021-02-05,2,1,"#{""yiyin@ee.columbia.edu""}",1667.0,16
+Python,neurokernel,2021-02-09,1,1,"#{""yiyin@ee.columbia.edu""}",1668.0,16
+Python,neurokernel,2021-10-08,1,1,"#{""yiyin@ee.columbia.edu""}",1669.0,16
+Python,neurokernel,2022-06-17,1,1,"#{""yiyin@ee.columbia.edu""}",1670.0,16
+Python,neurokernel,2022-08-02,1,1,"#{""yiyin@ee.columbia.edu""}",1671.0,16
+Python,neurokernel,2023-12-05,1,1,"#{""yiyin.zhou@fordham.edu""}",1672.0,17

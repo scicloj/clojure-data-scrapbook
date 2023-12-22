@@ -1,0 +1,163 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/jarohen/nomad,2013-03-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-04-01,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-04-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@pcr.me.uk]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-04-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",19.0,[{0 19}],0,19,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-04-20,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",34.0,[{0 34}],0,34,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-04-21,18,1,"#tech.v3.dataset.column<string>[18]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",52.0,[{0 52}],0,52,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-06-02,20,1,"#tech.v3.dataset.column<string>[20]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",72.0,[{0 72}],0,72,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[malcolm@congreve.com]",73.0,"[{0 72, ""other"" 1}]",1,72,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-07-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jakl.michael@gmail.com]",74.0,"[{0 72, ""other"" 2}]",2,72,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-07-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",80.0,"[{0 78, ""other"" 2}]",2,78,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-07-19,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",86.0,"[{0 84, ""other"" 2}]",2,84,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-08-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",89.0,"[{0 87, ""other"" 2}]",2,87,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-09-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",93.0,"[{0 91, ""other"" 2}]",2,91,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-12-08,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",102.0,"[{0 100, ""other"" 2}]",2,100,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2013-12-26,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk, james@pcr.me.uk]",109.0,"[{0 107, ""other"" 2}]",2,107,0,0,0,0
+Clojure,https://github.com/jarohen/nomad,2014-02-09,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",118.0,"[{0 107, ""other"" 2, 1 9}]",2,107,9,0,0,0
+Clojure,https://github.com/jarohen/nomad,2014-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk]",120.0,"[{0 107, ""other"" 2, 1 11}]",2,107,11,0,0,0
+Clojure,https://github.com/jarohen/nomad,2014-02-17,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",125.0,"[{0 107, ""other"" 2, 1 16}]",2,107,16,0,0,0
+Clojure,https://github.com/jarohen/nomad,2014-05-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",129.0,"[{0 107, ""other"" 2, 1 20}]",2,107,20,0,0,0
+Clojure,https://github.com/jarohen/nomad,2014-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dylan.paris+github@gmail.com]",130.0,"[{0 107, ""other"" 2, 1 20, 3 1}]",2,107,20,0,1,0
+Clojure,https://github.com/jarohen/nomad,2014-08-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk]",132.0,"[{0 107, ""other"" 2, 1 22, 3 1}]",2,107,22,0,1,0
+Clojure,https://github.com/jarohen/nomad,2014-08-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",135.0,"[{0 107, ""other"" 2, 1 25, 3 1}]",2,107,25,0,1,0
+Clojure,https://github.com/jarohen/nomad,2014-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dylan.paris+github@gmail.com]",136.0,"[{0 107, ""other"" 2, 1 25, 3 2}]",2,107,25,0,2,0
+Clojure,https://github.com/jarohen/nomad,2014-08-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",141.0,"[{0 107, ""other"" 2, 1 30, 3 2}]",2,107,30,0,2,0
+Clojure,https://github.com/jarohen/nomad,2014-08-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",144.0,"[{0 107, ""other"" 2, 1 33, 3 2}]",2,107,33,0,2,0
+Clojure,https://github.com/jarohen/nomad,2015-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[samumbach@gmail.com]",145.0,"[{0 107, ""other"" 2, 1 33, 3 2, 4 1}]",2,107,33,0,2,1
+Clojure,https://github.com/jarohen/nomad,2015-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",146.0,"[{0 107, ""other"" 2, 1 34, 3 2, 4 1}]",2,107,34,0,2,1
+Clojure,https://github.com/jarohen/nomad,2015-03-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",149.0,"[{0 107, ""other"" 2, 1 37, 3 2, 4 1}]",2,107,37,0,2,1
+Clojure,https://github.com/jarohen/nomad,2015-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",150.0,"[{0 107, ""other"" 2, 1 38, 3 2, 4 1}]",2,107,38,0,2,1
+Clojure,https://github.com/jarohen/nomad,2015-04-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",153.0,"[{0 107, ""other"" 2, 1 41, 3 2, 4 1}]",2,107,41,0,2,1
+Clojure,https://github.com/jarohen/nomad,2015-09-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[martin.trojer@gmail.com]",154.0,"[{0 107, ""other"" 3, 1 41, 3 2, 4 1}]",3,107,41,0,2,1
+Clojure,https://github.com/jarohen/nomad,2015-09-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",157.0,"[{0 107, ""other"" 3, 1 44, 3 2, 4 1}]",3,107,44,0,2,1
+Clojure,https://github.com/jarohen/nomad,2015-11-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ganmacs@gmail.com, ganmacs@gmail.com]",159.0,"[{0 107, ""other"" 3, 1 44, 3 2, 4 1, 2 2}]",3,107,44,2,2,1
+Clojure,https://github.com/jarohen/nomad,2015-11-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",160.0,"[{0 107, ""other"" 3, 1 45, 3 2, 4 1, 2 2}]",3,107,45,2,2,1
+Clojure,https://github.com/jarohen/nomad,2015-11-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, ganmacs@gmail.com]",162.0,"[{0 107, ""other"" 3, 1 46, 3 2, 4 1, 2 3}]",3,107,46,3,2,1
+Clojure,https://github.com/jarohen/nomad,2016-02-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, samumbach@gmail.com]",164.0,"[{0 107, ""other"" 3, 1 47, 3 2, 4 2, 2 3}]",3,107,47,3,2,2
+Clojure,https://github.com/jarohen/nomad,2016-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nha@users.noreply.github.com]",165.0,"[{0 107, ""other"" 4, 1 47, 3 2, 4 2, 2 3}]",4,107,47,3,2,2
+Clojure,https://github.com/jarohen/nomad,2016-12-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",166.0,"[{0 107, ""other"" 4, 1 48, 3 2, 4 2, 2 3}]",4,107,48,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",171.0,"[{0 107, ""other"" 4, 1 53, 3 2, 4 2, 2 3}]",4,107,53,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",174.0,"[{0 107, ""other"" 4, 1 56, 3 2, 4 2, 2 3}]",4,107,56,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",175.0,"[{0 107, ""other"" 4, 1 57, 3 2, 4 2, 2 3}]",4,107,57,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",178.0,"[{0 107, ""other"" 4, 1 60, 3 2, 4 2, 2 3}]",4,107,60,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",181.0,"[{0 107, ""other"" 4, 1 63, 3 2, 4 2, 2 3}]",4,107,63,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",182.0,"[{0 107, ""other"" 4, 1 64, 3 2, 4 2, 2 3}]",4,107,64,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",185.0,"[{0 107, ""other"" 4, 1 67, 3 2, 4 2, 2 3}]",4,107,67,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-02-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk]",187.0,"[{0 107, ""other"" 4, 1 69, 3 2, 4 2, 2 3}]",4,107,69,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-03-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk]",189.0,"[{0 107, ""other"" 4, 1 71, 3 2, 4 2, 2 3}]",4,107,71,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-03-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk]",191.0,"[{0 107, ""other"" 4, 1 73, 3 2, 4 2, 2 3}]",4,107,73,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-03-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",194.0,"[{0 107, ""other"" 4, 1 76, 3 2, 4 2, 2 3}]",4,107,76,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",195.0,"[{0 107, ""other"" 4, 1 77, 3 2, 4 2, 2 3}]",4,107,77,3,2,2
+Clojure,https://github.com/jarohen/nomad,2018-07-17,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",203.0,"[{0 107, ""other"" 4, 1 85, 3 2, 4 2, 2 3}]",4,107,85,3,2,2
+Clojure,https://github.com/jarohen/nomad,2019-01-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk, james@jarohen.me.uk]",206.0,"[{0 107, ""other"" 4, 1 88, 3 2, 4 2, 2 3}]",4,107,88,3,2,2
+Clojure,https://github.com/jarohen/nomad,2019-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james@jarohen.me.uk]",207.0,"[{0 107, ""other"" 4, 1 89, 3 2, 4 2, 2 3}]",4,107,89,3,2,2
+Clojure,https://github.com/jarohen/nomad,2019-12-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james@jarohen.me.uk, james@jarohen.me.uk]",209.0,"[{0 107, ""other"" 4, 1 91, 3 2, 4 2, 2 3}]",4,107,91,3,2,2

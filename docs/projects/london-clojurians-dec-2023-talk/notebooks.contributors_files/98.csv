@@ -1,0 +1,117 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,bensu,2015-05-05,2,1,"#{""sbensu@gmail.com""}",2.0,1
+Clojure,bensu,2015-05-06,1,1,"#{""sbensu@gmail.com""}",3.0,1
+Clojure,bensu,2015-05-10,22,1,"#{""sbensu@gmail.com""}",25.0,1
+Clojure,bensu,2015-05-11,7,1,"#{""sbensu@gmail.com""}",32.0,1
+Clojure,bensu,2015-05-12,1,1,"#{""sbensu@gmail.com""}",33.0,1
+Clojure,bensu,2015-05-26,1,1,"#{""sbensu@gmail.com""}",34.0,1
+Clojure,bensu,2015-06-18,4,1,"#{""sbensu@gmail.com""}",38.0,1
+Clojure,bensu,2015-06-29,1,1,"#{""sbensu@gmail.com""}",39.0,1
+Clojure,bensu,2015-07-03,3,2,"#{""viktor.eriksson2@gmail.com"" ""sbensu@gmail.com""}",42.0,2
+Clojure,bensu,2015-07-05,1,1,"#{""sbensu@gmail.com""}",43.0,2
+Clojure,bensu,2015-07-06,1,1,"#{""sbensu@gmail.com""}",44.0,2
+Clojure,bensu,2015-07-07,7,2,"#{""jeffpalentine@gmail.com"" ""sbensu@gmail.com""}",51.0,3
+Clojure,bensu,2015-07-08,3,1,"#{""sbensu@gmail.com""}",54.0,3
+Clojure,bensu,2015-07-09,1,1,"#{""jeffpalentine@gmail.com""}",55.0,3
+Clojure,bensu,2015-07-13,2,1,"#{""sbensu@gmail.com""}",57.0,3
+Clojure,bensu,2015-07-15,1,1,"#{""sbensu@gmail.com""}",58.0,3
+Clojure,bensu,2015-07-24,1,1,"#{""moe.aboulkheir@gmail.com""}",59.0,4
+Clojure,bensu,2015-07-26,3,1,"#{""sbensu@gmail.com""}",62.0,4
+Clojure,bensu,2015-07-27,1,1,"#{""sbensu@gmail.com""}",63.0,4
+Clojure,bensu,2015-07-28,2,1,"#{""sbensu@gmail.com""}",65.0,4
+Clojure,bensu,2015-07-29,1,1,"#{""sbensu@gmail.com""}",66.0,4
+Clojure,bensu,2015-08-01,1,1,"#{""sbensu@gmail.com""}",67.0,4
+Clojure,bensu,2015-08-02,2,1,"#{""jeffpalentine@gmail.com""}",69.0,4
+Clojure,bensu,2015-08-05,1,1,"#{""sbensu@gmail.com""}",70.0,4
+Clojure,bensu,2015-08-09,2,1,"#{""sbensu@gmail.com""}",72.0,4
+Clojure,bensu,2015-08-11,2,1,"#{""sbensu@gmail.com""}",74.0,4
+Clojure,bensu,2015-08-12,1,1,"#{""sbensu@gmail.com""}",75.0,4
+Clojure,bensu,2015-08-14,1,1,"#{""sbensu@gmail.com""}",76.0,4
+Clojure,bensu,2015-08-15,6,1,"#{""sbensu@gmail.com""}",82.0,4
+Clojure,bensu,2015-08-16,6,1,"#{""sbensu@gmail.com""}",88.0,4
+Clojure,bensu,2015-08-17,4,1,"#{""sbensu@gmail.com""}",92.0,4
+Clojure,bensu,2015-08-18,1,1,"#{""sbensu@gmail.com""}",93.0,4
+Clojure,bensu,2015-09-09,2,2,"#{""sbensu@gmail.com"" ""nicoberger@gmail.com""}",95.0,5
+Clojure,bensu,2015-09-16,2,2,"#{""sbensu@gmail.com"" ""nicoberger@gmail.com""}",97.0,5
+Clojure,bensu,2015-09-26,5,1,"#{""sbensu@gmail.com""}",102.0,5
+Clojure,bensu,2015-09-27,1,1,"#{""sbensu@gmail.com""}",103.0,5
+Clojure,bensu,2015-09-28,1,1,"#{""sbensu@gmail.com""}",104.0,5
+Clojure,bensu,2015-10-09,4,1,"#{""sbensu@gmail.com""}",108.0,5
+Clojure,bensu,2015-10-10,24,1,"#{""sbensu@gmail.com""}",132.0,5
+Clojure,bensu,2015-10-11,11,1,"#{""sbensu@gmail.com""}",143.0,5
+Clojure,bensu,2015-10-12,3,1,"#{""sbensu@gmail.com""}",146.0,5
+Clojure,bensu,2015-10-13,7,1,"#{""sbensu@gmail.com""}",153.0,5
+Clojure,bensu,2015-10-14,1,1,"#{""sbensu@gmail.com""}",154.0,5
+Clojure,bensu,2015-10-15,14,1,"#{""sbensu@gmail.com""}",168.0,5
+Clojure,bensu,2015-10-17,12,1,"#{""sbensu@gmail.com""}",180.0,5
+Clojure,bensu,2015-10-18,1,1,"#{""sbensu@gmail.com""}",181.0,5
+Clojure,bensu,2015-10-19,1,1,"#{""sbensu@gmail.com""}",182.0,5
+Clojure,bensu,2015-10-21,2,1,"#{""sbensu@gmail.com""}",184.0,5
+Clojure,bensu,2015-10-22,2,2,"#{""desk@danielcompton.net"" ""sbensu@gmail.com""}",186.0,6
+Clojure,bensu,2015-10-25,1,1,"#{""a.richiardi.work@gmail.com""}",187.0,7
+Clojure,bensu,2015-10-26,3,1,"#{""sbensu@gmail.com""}",190.0,7
+Clojure,bensu,2015-10-27,3,2,"#{""sperber@deinprogramm.de"" ""desk@danielcompton.net""}",193.0,8
+Clojure,bensu,2015-10-28,2,1,"#{""conan.cook@gmail.com""}",195.0,9
+Clojure,bensu,2015-11-13,2,1,"#{""sbensu@gmail.com""}",197.0,9
+Clojure,bensu,2015-11-16,6,1,"#{""sbensu@gmail.com""}",203.0,9
+Clojure,bensu,2015-11-17,2,2,"#{""desk@danielcompton.net"" ""sbensu@gmail.com""}",205.0,9
+Clojure,bensu,2015-11-22,1,1,"#{""sbensu@gmail.com""}",206.0,9
+Clojure,bensu,2015-11-23,14,2,"#{""desk@danielcompton.net"" ""sbensu@gmail.com""}",220.0,9
+Clojure,bensu,2015-11-24,1,1,"#{""sbensu@gmail.com""}",221.0,9
+Clojure,bensu,2015-11-25,2,2,"#{""sbensu@gmail.com"" ""chris.truter@yuppiechef.com""}",223.0,10
+Clojure,bensu,2015-12-02,2,1,"#{""desk@danielcompton.net""}",225.0,10
+Clojure,bensu,2015-12-05,14,1,"#{""sbensu@gmail.com""}",239.0,10
+Clojure,bensu,2015-12-06,6,2,"#{""sbensu@gmail.com"" ""chris.truter@yuppiechef.com""}",245.0,10
+Clojure,bensu,2015-12-07,1,1,"#{""sbensu@gmail.com""}",246.0,10
+Clojure,bensu,2015-12-15,1,1,"#{""sbensu@gmail.com""}",247.0,10
+Clojure,bensu,2015-12-28,2,2,"#{""moe.aboulkheir@gmail.com"" ""sbensu@gmail.com""}",249.0,10
+Clojure,bensu,2016-01-13,1,1,"#{""sbensu@gmail.com""}",250.0,10
+Clojure,bensu,2016-01-16,1,1,"#{""chernyshov.kirill@aviasales.ru""}",251.0,11
+Clojure,bensu,2016-01-19,1,1,"#{""sbensu@gmail.com""}",252.0,11
+Clojure,bensu,2016-03-05,2,1,"#{""niklas.collin@gmail.com""}",254.0,12
+Clojure,bensu,2016-03-06,2,1,"#{""sbensu@gmail.com""}",256.0,12
+Clojure,bensu,2016-03-27,1,1,"#{""smoke@alanmacdougall.com""}",257.0,13
+Clojure,bensu,2016-04-04,1,1,"#{""sbensu@gmail.com""}",258.0,13
+Clojure,bensu,2016-06-04,29,1,"#{""sbensu@gmail.com""}",287.0,13
+Clojure,bensu,2016-06-11,1,1,"#{""cnd@hagbard.dorrat.com""}",288.0,14
+Clojure,bensu,2016-06-13,1,1,"#{""cnd@hagbard.dorrat.com""}",289.0,14
+Clojure,bensu,2016-07-03,1,1,"#{""sbensu@gmail.com""}",290.0,14
+Clojure,bensu,2016-07-11,3,1,"#{""sbensu@gmail.com""}",293.0,14
+Clojure,bensu,2017-06-14,2,1,"#{""frank.wangtao@gmail.com""}",295.0,15
+Clojure,bensu,2017-06-15,1,1,"#{""nwjsmith@gmail.com""}",296.0,16
+Clojure,bensu,2017-07-31,1,1,"#{""cal@sixsq.com""}",297.0,17
+Clojure,bensu,2017-08-16,1,1,"#{""batesbrendan@gmail.com""}",298.0,18
+Clojure,bensu,2017-09-19,1,1,"#{""batesbrendan@gmail.com""}",299.0,18
+Clojure,bensu,2017-09-20,1,1,"#{""cal@sixsq.com""}",300.0,18
+Clojure,bensu,2017-09-21,5,2,"#{""miikka@metosin.fi"" ""miikka.koskinen@iki.fi""}",305.0,20
+Clojure,bensu,2017-09-22,4,2,"#{""miikka@metosin.fi"" ""miikka.koskinen@iki.fi""}",309.0,20
+Clojure,bensu,2017-09-23,3,1,"#{""miikka.koskinen@iki.fi""}",312.0,20
+Clojure,bensu,2017-09-25,7,1,"#{""miikka.koskinen@iki.fi""}",319.0,20
+Clojure,bensu,2017-09-26,5,1,"#{""matthew.darling@kirasystems.com""}",324.0,21
+Clojure,bensu,2017-09-27,5,3,"#{""matthew.darling@kirasystems.com"" ""miikka@metosin.fi"" ""miikka.koskinen@iki.fi""}",329.0,21
+Clojure,bensu,2017-09-28,1,1,"#{""miikka.koskinen@iki.fi""}",330.0,21
+Clojure,bensu,2017-10-02,3,1,"#{""miikka.koskinen@iki.fi""}",333.0,21
+Clojure,bensu,2017-10-10,2,2,"#{""miikka.koskinen@iki.fi"" ""sbensu@gmail.com""}",335.0,21
+Clojure,bensu,2018-01-02,1,1,"#{""markku.korkeala@iki.fi""}",336.0,22
+Clojure,bensu,2018-01-07,2,1,"#{""markku.korkeala@iki.fi""}",338.0,22
+Clojure,bensu,2018-03-02,7,1,"#{""miikka.koskinen@iki.fi""}",345.0,22
+Clojure,bensu,2018-03-03,4,1,"#{""miikka.koskinen@iki.fi""}",349.0,22
+Clojure,bensu,2018-03-05,3,1,"#{""miikka.koskinen@iki.fi""}",352.0,22
+Clojure,bensu,2018-03-06,1,1,"#{""miikka.koskinen@iki.fi""}",353.0,22
+Clojure,bensu,2018-03-07,2,1,"#{""miikka.koskinen@iki.fi""}",355.0,22
+Clojure,bensu,2018-03-09,7,1,"#{""miikka.koskinen@iki.fi""}",362.0,22
+Clojure,bensu,2018-03-10,7,1,"#{""miikka.koskinen@iki.fi""}",369.0,22
+Clojure,bensu,2018-03-11,1,1,"#{""daniel.barreto.n@gmail.com""}",370.0,23
+Clojure,bensu,2018-03-12,7,1,"#{""miikka.koskinen@iki.fi""}",377.0,23
+Clojure,bensu,2018-03-13,6,3,"#{""jeroen@9bitcat.com"" ""alun@katlex.com"" ""miikka.koskinen@iki.fi""}",383.0,25
+Clojure,bensu,2018-03-14,2,1,"#{""miikka.koskinen@iki.fi""}",385.0,25
+Clojure,bensu,2018-03-16,1,1,"#{""miikka.koskinen@iki.fi""}",386.0,25
+Clojure,bensu,2018-03-19,1,1,"#{""alun@katlex.com""}",387.0,25
+Clojure,bensu,2018-03-24,5,1,"#{""miikka.koskinen@iki.fi""}",392.0,25
+Clojure,bensu,2018-05-02,1,1,"#{""mike@fikesfarm.com""}",393.0,26
+Clojure,bensu,2018-05-04,1,1,"#{""sbensu@gmail.com""}",394.0,26
+Clojure,bensu,2018-05-29,1,1,"#{""sbensu@gmail.com""}",395.0,26
+Clojure,bensu,2018-07-11,6,1,"#{""miikka.koskinen@iki.fi""}",401.0,26
+Clojure,bensu,2018-08-02,2,1,"#{""miikka.koskinen@iki.fi""}",403.0,26
+Clojure,bensu,2018-11-20,5,2,"#{""immo.heikkinen@gmail.com"" ""miikka.koskinen@iki.fi""}",408.0,27
+Clojure,bensu,2021-01-27,1,1,"#{""miikka.koskinen@iki.fi""}",409.0,27

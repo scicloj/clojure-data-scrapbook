@@ -1,0 +1,280 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2018-12-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",3.0,[{2 3}],0,0,0,3,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2018-12-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[prokopov@gmail.com, prokopov@gmail.com]",5.0,[{2 5}],0,0,0,5,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2019-01-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",6.0,[{2 6}],0,0,0,6,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2019-01-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[prokopov@gmail.com, prokopov@gmail.com, prokopov@gmail.com]",9.0,[{2 9}],0,0,0,9,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2019-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",10.0,[{2 10}],0,0,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2019-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",11.0,"[{2 10, 0 1}]",0,1,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2019-09-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[igoradamenko@users.noreply.github.com, niki@tonsky.me]",13.0,"[{2 10, 0 2, ""other"" 1}]",1,2,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2020-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",14.0,"[{2 10, 0 3, ""other"" 1}]",1,3,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",15.0,"[{2 10, 0 4, ""other"" 1}]",1,4,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-10-23,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",22.0,"[{2 10, 0 11, ""other"" 1}]",1,11,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-10-24,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",34.0,"[{2 10, 0 23, ""other"" 1}]",1,23,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-10-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",37.0,"[{2 10, 0 26, ""other"" 1}]",1,26,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-11-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",40.0,"[{2 10, 0 29, ""other"" 1}]",1,29,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-11-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",41.0,"[{2 10, 0 30, ""other"" 1}]",1,30,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",42.0,"[{2 10, 0 31, ""other"" 1}]",1,31,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",43.0,"[{2 10, 0 32, ""other"" 1}]",1,32,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-11-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",46.0,"[{2 10, 0 35, ""other"" 1}]",1,35,0,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jaihindhreddy@gmail.com]",47.0,"[{2 10, 0 35, ""other"" 1, 1 1}]",1,35,1,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",48.0,"[{2 10, 0 36, ""other"" 1, 1 1}]",1,36,1,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-14,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, jaihindhreddy@gmail.com, jaihindhreddy@gmail.com]",53.0,"[{2 10, 0 39, ""other"" 1, 1 3}]",1,39,3,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",54.0,"[{2 10, 0 40, ""other"" 1, 1 3}]",1,40,3,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dosbol.zhantolin@gmail.com]",55.0,"[{2 10, 0 40, ""other"" 2, 1 3}]",2,40,3,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",56.0,"[{2 10, 0 41, ""other"" 2, 1 3}]",2,41,3,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jaihindhreddy@gmail.com, jaihindhreddy@gmail.com]",58.0,"[{2 10, 0 41, ""other"" 2, 1 5}]",2,41,5,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jaihindhreddy@gmail.com]",59.0,"[{2 10, 0 41, ""other"" 2, 1 6}]",2,41,6,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-27,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[jaihindhreddy@gmail.com, patriot.game@gmail.com, niki@tonsky.me]",62.0,"[{2 10, 0 42, ""other"" 3, 1 7}]",3,42,7,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-28,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, jaihindhreddy@gmail.com, jaihindhreddy@gmail.com]",65.0,"[{2 10, 0 43, ""other"" 3, 1 9}]",3,43,9,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-29,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, jaihindhreddy@gmail.com, niki@tonsky.me]",68.0,"[{2 10, 0 45, ""other"" 3, 1 10}]",3,45,10,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2021-12-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jaihindhreddy@gmail.com]",69.0,"[{2 10, 0 45, ""other"" 3, 1 11}]",3,45,11,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jaihindhreddy@gmail.com]",70.0,"[{2 10, 0 45, ""other"" 3, 1 12}]",3,45,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",72.0,"[{2 10, 0 47, ""other"" 3, 1 12}]",3,47,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",73.0,"[{2 10, 0 48, ""other"" 3, 1 12}]",3,48,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",74.0,"[{2 10, 0 49, ""other"" 3, 1 12}]",3,49,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",75.0,"[{2 10, 0 50, ""other"" 3, 1 12}]",3,50,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tamwahba@hotmail.com]",76.0,"[{2 10, 0 50, ""other"" 4, 1 12}]",4,50,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",78.0,"[{2 10, 0 52, ""other"" 4, 1 12}]",4,52,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",79.0,"[{2 10, 0 53, ""other"" 4, 1 12}]",4,53,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",80.0,"[{2 10, 0 54, ""other"" 4, 1 12}]",4,54,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-05-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, dosbol.zhantolin@gmail.com]",83.0,"[{2 10, 0 56, ""other"" 5, 1 12}]",5,56,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",84.0,"[{2 10, 0 57, ""other"" 5, 1 12}]",5,57,12,10,0,0
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-09-27,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, saidev@amazon.com]",86.0,"[{2 10, 0 58, ""other"" 5, 1 12, 4 1}]",5,58,12,10,0,1
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",87.0,"[{2 10, 0 59, ""other"" 5, 1 12, 4 1}]",5,59,12,10,0,1
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[saidev@amazon.com]",88.0,"[{2 10, 0 59, ""other"" 5, 1 12, 4 2}]",5,59,12,10,0,2
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-10-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[saidev@amazon.com]",89.0,"[{2 10, 0 59, ""other"" 5, 1 12, 4 3}]",5,59,12,10,0,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-10-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",91.0,"[{2 10, 0 61, ""other"" 5, 1 12, 4 3}]",5,61,12,10,0,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-11-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",93.0,"[{2 10, 0 63, ""other"" 5, 1 12, 4 3}]",5,63,12,10,0,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-11-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[anthony@example.com, anthony@example.com]",95.0,"[{2 10, 0 63, ""other"" 5, 1 12, 4 3, 3 2}]",5,63,12,10,2,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-11-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",97.0,"[{2 10, 0 65, ""other"" 5, 1 12, 4 3, 3 2}]",5,65,12,10,2,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-11-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[anthony@example.com]",98.0,"[{2 10, 0 65, ""other"" 5, 1 12, 4 3, 3 3}]",5,65,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-11-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",101.0,"[{2 10, 0 68, ""other"" 5, 1 12, 4 3, 3 3}]",5,68,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-12-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gorysko@gmail.com]",102.0,"[{2 10, 0 68, ""other"" 6, 1 12, 4 3, 3 3}]",6,68,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-12-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",104.0,"[{2 10, 0 70, ""other"" 6, 1 12, 4 3, 3 3}]",6,70,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2022-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[einars@spicausis.lv]",105.0,"[{2 10, 0 70, ""other"" 7, 1 12, 4 3, 3 3}]",7,70,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",106.0,"[{2 10, 0 71, ""other"" 7, 1 12, 4 3, 3 3}]",7,71,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-04,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",111.0,"[{2 10, 0 76, ""other"" 7, 1 12, 4 3, 3 3}]",7,76,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",112.0,"[{2 10, 0 77, ""other"" 7, 1 12, 4 3, 3 3}]",7,77,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",116.0,"[{2 10, 0 81, ""other"" 7, 1 12, 4 3, 3 3}]",7,81,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",119.0,"[{2 10, 0 84, ""other"" 7, 1 12, 4 3, 3 3}]",7,84,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",123.0,"[{2 10, 0 88, ""other"" 7, 1 12, 4 3, 3 3}]",7,88,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",124.0,"[{2 10, 0 89, ""other"" 7, 1 12, 4 3, 3 3}]",7,89,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",126.0,"[{2 10, 0 91, ""other"" 7, 1 12, 4 3, 3 3}]",7,91,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",128.0,"[{2 10, 0 93, ""other"" 7, 1 12, 4 3, 3 3}]",7,93,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",130.0,"[{2 10, 0 95, ""other"" 7, 1 12, 4 3, 3 3}]",7,95,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",131.0,"[{2 10, 0 96, ""other"" 7, 1 12, 4 3, 3 3}]",7,96,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",132.0,"[{2 10, 0 97, ""other"" 7, 1 12, 4 3, 3 3}]",7,97,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",134.0,"[{2 10, 0 99, ""other"" 7, 1 12, 4 3, 3 3}]",7,99,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-01-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",136.0,"[{2 10, 0 101, ""other"" 7, 1 12, 4 3, 3 3}]",7,101,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",138.0,"[{2 10, 0 103, ""other"" 7, 1 12, 4 3, 3 3}]",7,103,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",141.0,"[{2 10, 0 106, ""other"" 7, 1 12, 4 3, 3 3}]",7,106,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-08,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",146.0,"[{2 10, 0 111, ""other"" 7, 1 12, 4 3, 3 3}]",7,111,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",147.0,"[{2 10, 0 112, ""other"" 7, 1 12, 4 3, 3 3}]",7,112,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",148.0,"[{2 10, 0 113, ""other"" 7, 1 12, 4 3, 3 3}]",7,113,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",149.0,"[{2 10, 0 114, ""other"" 7, 1 12, 4 3, 3 3}]",7,114,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-23,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",157.0,"[{2 10, 0 122, ""other"" 7, 1 12, 4 3, 3 3}]",7,122,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",159.0,"[{2 10, 0 124, ""other"" 7, 1 12, 4 3, 3 3}]",7,124,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",160.0,"[{2 10, 0 125, ""other"" 7, 1 12, 4 3, 3 3}]",7,125,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",162.0,"[{2 10, 0 127, ""other"" 7, 1 12, 4 3, 3 3}]",7,127,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",163.0,"[{2 10, 0 128, ""other"" 7, 1 12, 4 3, 3 3}]",7,128,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",166.0,"[{2 10, 0 131, ""other"" 7, 1 12, 4 3, 3 3}]",7,131,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",168.0,"[{2 10, 0 133, ""other"" 7, 1 12, 4 3, 3 3}]",7,133,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",169.0,"[{2 10, 0 134, ""other"" 7, 1 12, 4 3, 3 3}]",7,134,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",172.0,"[{2 10, 0 137, ""other"" 7, 1 12, 4 3, 3 3}]",7,137,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",173.0,"[{2 10, 0 138, ""other"" 7, 1 12, 4 3, 3 3}]",7,138,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",175.0,"[{2 10, 0 140, ""other"" 7, 1 12, 4 3, 3 3}]",7,140,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[avif@latacora.com]",176.0,"[{2 10, 0 140, ""other"" 8, 1 12, 4 3, 3 3}]",8,140,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",177.0,"[{2 10, 0 141, ""other"" 8, 1 12, 4 3, 3 3}]",8,141,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-04-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niki@tonsky.me, niki@tonsky.me]",179.0,"[{2 10, 0 143, ""other"" 8, 1 12, 4 3, 3 3}]",8,143,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",180.0,"[{2 10, 0 144, ""other"" 8, 1 12, 4 3, 3 3}]",8,144,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",181.0,"[{2 10, 0 145, ""other"" 8, 1 12, 4 3, 3 3}]",8,145,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",182.0,"[{2 10, 0 146, ""other"" 8, 1 12, 4 3, 3 3}]",8,146,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-09-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niki@tonsky.me, niki@tonsky.me, niki@tonsky.me, niki@tonsky.me]",186.0,"[{2 10, 0 150, ""other"" 8, 1 12, 4 3, 3 3}]",8,150,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-10-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",187.0,"[{2 10, 0 151, ""other"" 8, 1 12, 4 3, 3 3}]",8,151,12,10,3,3
+Clojure,https://github.com/tonsky/Clojure-Sublimed,2023-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niki@tonsky.me]",188.0,"[{2 10, 0 152, ""other"" 8, 1 12, 4 3, 3 3}]",8,152,12,10,3,3

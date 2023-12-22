@@ -1,0 +1,181 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marek@palatinus.cz]",1.0,[{1 1}],0,0,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-09,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",18.0,"[{1 1, 0 17}]",0,17,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-10,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",24.0,"[{1 1, 0 23}]",0,23,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-12,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, root@ausus2.(none), info@bitcoin.cz]",32.0,"[{1 1, 0 30, ""other"" 1}]",1,30,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-17,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",40.0,"[{1 1, 0 38, ""other"" 1}]",1,38,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-18,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",51.0,"[{1 1, 0 49, ""other"" 1}]",1,49,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",53.0,"[{1 1, 0 51, ""other"" 1}]",1,51,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-20,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",58.0,"[{1 1, 0 56, ""other"" 1}]",1,56,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",60.0,"[{1 1, 0 58, ""other"" 1}]",1,58,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",62.0,"[{1 1, 0 60, ""other"" 1}]",1,60,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",63.0,"[{1 1, 0 61, ""other"" 1}]",1,61,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",65.0,"[{1 1, 0 63, ""other"" 1}]",1,63,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-03,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",72.0,"[{1 1, 0 70, ""other"" 1}]",1,70,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",77.0,"[{1 1, 0 75, ""other"" 1}]",1,75,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",79.0,"[{1 1, 0 77, ""other"" 1}]",1,77,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",83.0,"[{1 1, 0 81, ""other"" 1}]",1,81,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",88.0,"[{1 1, 0 86, ""other"" 1}]",1,86,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",92.0,"[{1 1, 0 90, ""other"" 1}]",1,90,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-10-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",94.0,"[{1 1, 0 92, ""other"" 1}]",1,92,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rob@mars.org]",95.0,"[{1 1, 0 92, ""other"" 2}]",2,92,1,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-12-02,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, marek@palatinus.cz]",99.0,"[{1 2, 0 95, ""other"" 2}]",2,95,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",100.0,"[{1 2, 0 96, ""other"" 2}]",2,96,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-12-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",103.0,"[{1 2, 0 99, ""other"" 2}]",2,99,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-12-11,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",110.0,"[{1 2, 0 106, ""other"" 2}]",2,106,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",111.0,"[{1 2, 0 107, ""other"" 2}]",2,107,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2012-12-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",112.0,"[{1 2, 0 108, ""other"" 2}]",2,108,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",113.0,"[{1 2, 0 109, ""other"" 2}]",2,109,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",114.0,"[{1 2, 0 110, ""other"" 2}]",2,110,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-02-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",116.0,"[{1 2, 0 112, ""other"" 2}]",2,112,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",117.0,"[{1 2, 0 113, ""other"" 2}]",2,113,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-03-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",121.0,"[{1 2, 0 117, ""other"" 2}]",2,117,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-03-03,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz, info@bitcoin.cz]",128.0,"[{1 2, 0 124, ""other"" 2}]",2,124,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-03-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",130.0,"[{1 2, 0 126, ""other"" 2}]",2,126,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-04-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[frederic.jacobs@mac.com]",131.0,"[{1 2, 0 126, ""other"" 3}]",3,126,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-04-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[skralg@gmail.com]",132.0,"[{1 2, 0 126, ""other"" 4}]",4,126,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[max.lapan@gmail.com]",133.0,"[{1 2, 0 126, ""other"" 5}]",5,126,2,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marek@palatinus.cz]",134.0,"[{1 3, 0 126, ""other"" 5}]",5,126,3,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-09-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@bitcoin.cz, info@bitcoin.cz]",136.0,"[{1 3, 0 128, ""other"" 5}]",5,128,3,0,0,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[corey@trellian.com]",137.0,"[{1 3, 0 128, ""other"" 5, 3 1}]",5,128,3,0,1,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-09-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[corey@trellian.com, corey@trellian.com]",139.0,"[{1 3, 0 128, ""other"" 5, 3 3}]",5,128,3,0,3,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[markusschulte83@gmail.com]",140.0,"[{1 3, 0 128, ""other"" 6, 3 3}]",6,128,3,0,3,0
+Python,https://github.com/slush0/stratum-mining-proxy,2013-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@bitcoin.cz]",141.0,"[{1 3, 0 129, ""other"" 6, 3 3}]",6,129,3,0,3,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-01-21,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[slush@satoshilabs.com, slush@satoshilabs.com, slush@satoshilabs.com, slush@satoshilabs.com, marek@palatinus.cz, marek@palatinus.cz, slush@satoshilabs.com]",148.0,"[{1 5, 0 129, ""other"" 6, 3 3, 2 5}]",6,129,5,5,3,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[corey@trellian.com]",149.0,"[{1 5, 0 129, ""other"" 6, 3 4, 2 5}]",6,129,5,5,4,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-01-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marek@palatinus.cz]",150.0,"[{1 6, 0 129, ""other"" 6, 3 4, 2 5}]",6,129,6,5,4,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-01-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[slush@satoshilabs.com, slush@satoshilabs.com, slush@satoshilabs.com]",153.0,"[{1 6, 0 129, ""other"" 6, 3 4, 2 8}]",6,129,6,8,4,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-01-29,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[corey@trellian.com, corey@trellian.com, corey@trellian.com, corey@trellian.com, corey@trellian.com, corey@trellian.com, corey@trellian.com]",160.0,"[{1 6, 0 129, ""other"" 6, 3 11, 2 8}]",6,129,6,8,11,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[corey@trellian.com]",161.0,"[{1 6, 0 129, ""other"" 6, 3 12, 2 8}]",6,129,6,8,12,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[slush@satoshilabs.com]",162.0,"[{1 6, 0 129, ""other"" 6, 3 12, 2 9}]",6,129,6,9,12,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gregc@olypensupport.com]",163.0,"[{1 6, 0 129, ""other"" 7, 3 12, 2 9}]",7,129,6,9,12,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-02-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[slush@satoshilabs.com, slush@satoshilabs.com]",165.0,"[{1 6, 0 129, ""other"" 7, 3 12, 2 11}]",7,129,6,11,12,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-02-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[slush@satoshilabs.com, marek@palatinus.cz, slush@satoshilabs.com]",168.0,"[{1 7, 0 129, ""other"" 7, 3 12, 2 13}]",7,129,7,13,12,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marek@palatinus.cz]",169.0,"[{1 8, 0 129, ""other"" 7, 3 12, 2 13}]",7,129,8,13,12,0
+Python,https://github.com/slush0/stratum-mining-proxy,2014-05-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jacek.krysztofik@gmail.com, jacek.krysztofik@gmail.com]",171.0,"[{1 8, 0 129, ""other"" 7, 3 12, 2 13, 4 2}]",7,129,8,13,12,2
+Python,https://github.com/slush0/stratum-mining-proxy,2015-05-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[marek@palatinus.cz, bandispam@gmail.com]",173.0,"[{1 9, 0 129, ""other"" 8, 3 12, 2 13, 4 2}]",8,129,9,13,12,2
+Python,https://github.com/slush0/stratum-mining-proxy,2015-05-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marek@palatinus.cz]",174.0,"[{1 10, 0 129, ""other"" 8, 3 12, 2 13, 4 2}]",8,129,10,13,12,2
+Python,https://github.com/slush0/stratum-mining-proxy,2016-11-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[marek@palatinus.cz, semenov@inetss.com]",176.0,"[{1 11, 0 129, ""other"" 9, 3 12, 2 13, 4 2}]",9,129,11,13,12,2
+Python,https://github.com/slush0/stratum-mining-proxy,2017-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[decherneyge@users.noreply.github.com]",177.0,"[{1 11, 0 129, ""other"" 10, 3 12, 2 13, 4 2}]",10,129,11,13,12,2
+Python,https://github.com/slush0/stratum-mining-proxy,2018-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marek@palatinus.cz]",178.0,"[{1 12, 0 129, ""other"" 10, 3 12, 2 13, 4 2}]",10,129,12,13,12,2
+Python,https://github.com/slush0/stratum-mining-proxy,2022-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marek@palatinus.cz]",179.0,"[{1 13, 0 129, ""other"" 10, 3 12, 2 13, 4 2}]",10,129,13,13,12,2

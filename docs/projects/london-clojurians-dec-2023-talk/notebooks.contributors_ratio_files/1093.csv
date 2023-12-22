@@ -1,0 +1,169 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[soren@dopeness.org]",1.0,[{2 1}],0,0,0,1,0,0
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[soren@dopeness.org, soren@dopeness.org]",3.0,[{2 3}],0,0,0,3,0,0
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-24,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[mbaig@yieldbot.com, mbaig@yieldbot.com, mbaig@yieldbot.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, mbaig@yieldbot.com]",10.0,"[{2 3, 4 4, 0 3}]",0,3,0,3,0,4
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-25,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, mbaig@yieldbot.com, mbaig@yieldbot.com]",19.0,"[{2 3, 4 6, 0 10}]",0,10,0,3,0,6
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[soren@dopeness.org]",20.0,"[{2 4, 4 6, 0 10}]",0,10,0,4,0,6
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-29,14,4,"#tech.v3.dataset.column<string>[14]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com, whoahbot@gmail.com, whoahbot@gmail.com, whoahbot@gmail.com, dan@simple.com, dan@simple.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, mbaig@yieldbot.com, homer.strong@gmail.com]",34.0,"[{2 4, 4 7, 0 16, 1 5, ""other"" 2}]",2,16,5,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com, whoahbot@gmail.com]",37.0,"[{2 4, 4 7, 0 16, 1 8, ""other"" 2}]",2,16,8,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-10-31,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com, whoahbot@gmail.com, homer.strong@gmail.com]",41.0,"[{2 4, 4 7, 0 17, 1 11, ""other"" 2}]",2,17,11,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-11-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com]",43.0,"[{2 4, 4 7, 0 17, 1 13, ""other"" 2}]",2,17,13,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ssurgnier@gmail.com]",44.0,"[{2 4, 4 7, 0 17, 1 13, ""other"" 3}]",3,17,13,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-11-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, ssurgnier@gmail.com]",46.0,"[{2 4, 4 7, 0 18, 1 13, ""other"" 4}]",4,18,13,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",47.0,"[{2 4, 4 7, 0 19, 1 13, ""other"" 4}]",4,19,13,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[whoahbot@gmail.com]",48.0,"[{2 4, 4 7, 0 19, 1 14, ""other"" 4}]",4,19,14,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-11-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com]",50.0,"[{2 4, 4 7, 0 21, 1 14, ""other"" 4}]",4,21,14,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2013-12-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com]",52.0,"[{2 4, 4 7, 0 23, 1 14, ""other"" 4}]",4,23,14,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-02-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com]",55.0,"[{2 4, 4 7, 0 26, 1 14, ""other"" 4}]",4,26,14,4,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-02-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[soren@dopeness.org, homer.strong@gmail.com]",57.0,"[{2 5, 4 7, 0 27, 1 14, ""other"" 4}]",4,27,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",58.0,"[{2 5, 4 7, 0 28, 1 14, ""other"" 4}]",4,28,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",59.0,"[{2 5, 4 7, 0 29, 1 14, ""other"" 4}]",4,29,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-05-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",60.0,"[{2 5, 4 7, 0 30, 1 14, ""other"" 4}]",4,30,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-06-02,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com]",70.0,"[{2 5, 4 7, 0 40, 1 14, ""other"" 4}]",4,40,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",71.0,"[{2 5, 4 7, 0 41, 1 14, ""other"" 4}]",4,41,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-06-10,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com]",77.0,"[{2 5, 4 7, 0 47, 1 14, ""other"" 4}]",4,47,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-06-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com]",81.0,"[{2 5, 4 7, 0 51, 1 14, ""other"" 4}]",4,51,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-06-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com]",83.0,"[{2 5, 4 7, 0 53, 1 14, ""other"" 4}]",4,53,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",84.0,"[{2 5, 4 7, 0 54, 1 14, ""other"" 4}]",4,54,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-06-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com]",87.0,"[{2 5, 4 7, 0 57, 1 14, ""other"" 4}]",4,57,14,5,0,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-03,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[mark.mandel@gmail.com, mark.mandel@gmail.com, mark.mandel@gmail.com, mark.mandel@gmail.com, mark.mandel@gmail.com]",92.0,"[{2 5, 4 7, 0 57, 1 14, ""other"" 4, 3 5}]",4,57,14,5,5,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[mark.mandel@gmail.com, mark.mandel@gmail.com, mark.mandel@gmail.com, mark.mandel@gmail.com]",96.0,"[{2 5, 4 7, 0 57, 1 14, ""other"" 4, 3 9}]",4,57,14,5,9,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, mark.mandel@gmail.com]",98.0,"[{2 5, 4 7, 0 58, 1 14, ""other"" 4, 3 10}]",4,58,14,5,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com]",100.0,"[{2 5, 4 7, 0 60, 1 14, ""other"" 4, 3 10}]",4,60,14,5,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, derek@troywest.com]",102.0,"[{2 5, 4 7, 0 61, 1 14, ""other"" 5, 3 10}]",5,61,14,5,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[homer.strong@gmail.com, bennetthiles@gmail.com, bennetthiles@gmail.com, bennetthiles@gmail.com]",106.0,"[{2 5, 4 7, 0 62, 1 14, ""other"" 8, 3 10}]",8,62,14,5,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com]",110.0,"[{2 5, 4 7, 0 66, 1 14, ""other"" 8, 3 10}]",8,66,14,5,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-07-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[soren@dopeness.org]",111.0,"[{2 6, 4 7, 0 66, 1 14, ""other"" 8, 3 10}]",8,66,14,6,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jscott@yieldbot.com]",112.0,"[{2 6, 4 7, 0 66, 1 14, ""other"" 9, 3 10}]",9,66,14,6,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",113.0,"[{2 6, 4 7, 0 67, 1 14, ""other"" 9, 3 10}]",9,67,14,6,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",114.0,"[{2 6, 4 7, 0 68, 1 14, ""other"" 9, 3 10}]",9,68,14,6,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-09-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, devinw@gmail.com]",116.0,"[{2 6, 4 7, 0 69, 1 14, ""other"" 10, 3 10}]",10,69,14,6,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2014-12-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com, homer.strong@gmail.com]",120.0,"[{2 6, 4 7, 0 73, 1 14, ""other"" 10, 3 10}]",10,73,14,6,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[soren@dopeness.org]",121.0,"[{2 7, 4 7, 0 73, 1 14, ""other"" 10, 3 10}]",10,73,14,7,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-01-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[derek@troywest.com, derek@troywest.com]",123.0,"[{2 7, 4 7, 0 73, 1 14, ""other"" 12, 3 10}]",12,73,14,7,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-01-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[soren@dopeness.org, soren@dopeness.org]",125.0,"[{2 9, 4 7, 0 73, 1 14, ""other"" 12, 3 10}]",12,73,14,9,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[emacspinky@gmail.com]",126.0,"[{2 9, 4 7, 0 73, 1 14, ""other"" 13, 3 10}]",13,73,14,9,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-03-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[soren@dopeness.org, soren@dopeness.org]",128.0,"[{2 11, 4 7, 0 73, 1 14, ""other"" 13, 3 10}]",13,73,14,11,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-03-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[soren@dopeness.org, soren@dopeness.org]",130.0,"[{2 13, 4 7, 0 73, 1 14, ""other"" 13, 3 10}]",13,73,14,13,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-03-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[soren@dopeness.org, soren@dopeness.org]",132.0,"[{2 15, 4 7, 0 73, 1 14, ""other"" 13, 3 10}]",13,73,14,15,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-04-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, derek@troywest.com]",134.0,"[{2 15, 4 7, 0 74, 1 14, ""other"" 14, 3 10}]",14,74,14,15,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-05-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com]",136.0,"[{2 15, 4 7, 0 74, 1 16, ""other"" 14, 3 10}]",14,74,16,15,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-05-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[knawale@yieldbot.com]",137.0,"[{2 15, 4 7, 0 74, 1 16, ""other"" 15, 3 10}]",15,74,16,15,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-06-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[homer.strong@gmail.com, derek@troywest.com]",139.0,"[{2 15, 4 7, 0 75, 1 16, ""other"" 16, 3 10}]",16,75,16,15,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2015-06-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[soren@dopeness.org, derek@troywest.com]",141.0,"[{2 16, 4 7, 0 75, 1 16, ""other"" 17, 3 10}]",17,75,16,16,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2016-04-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com]",143.0,"[{2 16, 4 7, 0 75, 1 18, ""other"" 17, 3 10}]",17,75,18,16,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2016-04-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com]",145.0,"[{2 16, 4 7, 0 75, 1 20, ""other"" 17, 3 10}]",17,75,20,16,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2016-05-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[whoahbot@gmail.com, whoahbot@gmail.com]",147.0,"[{2 16, 4 7, 0 75, 1 22, ""other"" 17, 3 10}]",17,75,22,16,10,7
+Clojure,https://github.com/sorenmacbeth/marceline,2017-04-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sorenmacbeth@users.noreply.github.com, leon@barrettnexus.com]",149.0,"[{2 16, 4 7, 0 75, 1 22, ""other"" 19, 3 10}]",19,75,22,16,10,7

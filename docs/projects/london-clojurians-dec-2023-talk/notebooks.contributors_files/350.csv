@@ -1,0 +1,583 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,adobe,2012-06-07,1,1,"#{""gruehle@gmail.com""}",1.0,1
+Python,adobe,2012-06-08,9,1,"#{""gruehle@gmail.com""}",10.0,1
+Python,adobe,2012-06-09,2,1,"#{""gruehle@gmail.com""}",12.0,1
+Python,adobe,2012-06-11,4,1,"#{""gruehle@gmail.com""}",16.0,1
+Python,adobe,2012-06-12,1,1,"#{""rayblim@gmail.com""}",17.0,2
+Python,adobe,2012-06-13,11,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",28.0,2
+Python,adobe,2012-06-14,6,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",34.0,2
+Python,adobe,2012-06-15,3,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",37.0,2
+Python,adobe,2012-06-17,2,1,"#{""gruehle@gmail.com""}",39.0,2
+Python,adobe,2012-06-18,2,1,"#{""gruehle@gmail.com""}",41.0,2
+Python,adobe,2012-06-20,5,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",46.0,2
+Python,adobe,2012-06-21,7,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",53.0,2
+Python,adobe,2012-07-09,6,1,"#{""gruehle@gmail.com""}",59.0,2
+Python,adobe,2012-07-12,1,1,"#{""rayblim@gmail.com""}",60.0,2
+Python,adobe,2012-07-13,7,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",67.0,2
+Python,adobe,2012-07-24,1,1,"#{""rayblim@gmail.com""}",68.0,2
+Python,adobe,2012-07-25,4,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",72.0,4
+Python,adobe,2012-07-26,5,3,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""jasonsj@adobe.com""}",77.0,4
+Python,adobe,2012-07-27,5,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",82.0,4
+Python,adobe,2012-07-28,1,1,"#{""redmunds@adobe.com""}",83.0,4
+Python,adobe,2012-07-30,8,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",91.0,4
+Python,adobe,2012-07-31,5,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",96.0,4
+Python,adobe,2012-08-01,6,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",102.0,4
+Python,adobe,2012-08-02,5,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",107.0,4
+Python,adobe,2012-08-03,6,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",113.0,4
+Python,adobe,2012-08-04,4,3,"#{""redmunds@adobe.com"" ""pthiess@adobe.com"" ""gruehle@gmail.com""}",117.0,5
+Python,adobe,2012-08-06,3,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",120.0,5
+Python,adobe,2012-08-07,4,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",124.0,5
+Python,adobe,2012-08-08,4,1,"#{""gruehle@gmail.com""}",128.0,5
+Python,adobe,2012-08-09,6,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",134.0,5
+Python,adobe,2012-08-13,2,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",136.0,5
+Python,adobe,2012-08-14,3,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",139.0,5
+Python,adobe,2012-08-15,11,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",150.0,5
+Python,adobe,2012-08-16,8,5,"#{""redmunds@adobe.com"" ""ryan@ryanstewart.net"" ""gruehle@gmail.com"" ""tvoliter@cs.stanford.edu"" ""jasonsj@adobe.com""}",158.0,7
+Python,adobe,2012-08-17,2,1,"#{""redmunds@adobe.com""}",160.0,7
+Python,adobe,2012-08-20,12,2,"#{""gruehle@gmail.com"" ""tvoliter@cs.stanford.edu""}",172.0,7
+Python,adobe,2012-08-21,8,2,"#{""gruehle@gmail.com"" ""tvoliter@cs.stanford.edu""}",180.0,7
+Python,adobe,2012-08-22,11,3,"#{""pflynn@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",191.0,8
+Python,adobe,2012-08-23,6,3,"#{""pflynn@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",197.0,8
+Python,adobe,2012-08-24,1,1,"#{""jasonsj@adobe.com""}",198.0,8
+Python,adobe,2012-08-27,7,3,"#{""redmunds@adobe.com"" ""joelrbrandt@gmail.com"" ""gruehle@gmail.com""}",205.0,9
+Python,adobe,2012-08-28,6,4,"#{""njaramil@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com"" ""tvoliter@cs.stanford.edu""}",211.0,10
+Python,adobe,2012-08-29,6,3,"#{""redmunds@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com""}",217.0,10
+Python,adobe,2012-08-30,4,2,"#{""njaramil@adobe.com"" ""gruehle@gmail.com""}",221.0,10
+Python,adobe,2012-08-31,11,4,"#{""njaramil@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",232.0,10
+Python,adobe,2012-09-01,1,1,"#{""jasonsj@adobe.com""}",233.0,10
+Python,adobe,2012-09-04,11,4,"#{""rayblim@gmail.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",244.0,10
+Python,adobe,2012-09-05,7,4,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com""}",251.0,10
+Python,adobe,2012-09-06,11,4,"#{""rayblim@gmail.com"" ""njaramil@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com""}",262.0,10
+Python,adobe,2012-09-07,4,4,"#{""redmunds@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",266.0,10
+Python,adobe,2012-09-10,8,3,"#{""njaramil@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",274.0,10
+Python,adobe,2012-09-11,2,2,"#{""rayblim@gmail.com"" ""pflynn@adobe.com""}",276.0,10
+Python,adobe,2012-09-13,5,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",281.0,10
+Python,adobe,2012-09-14,5,4,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",286.0,10
+Python,adobe,2012-09-17,2,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",288.0,10
+Python,adobe,2012-09-18,4,3,"#{""rayblim@gmail.com"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",292.0,11
+Python,adobe,2012-09-19,7,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",299.0,11
+Python,adobe,2012-09-25,1,1,"#{""gruehle@gmail.com""}",300.0,11
+Python,adobe,2012-09-26,2,1,"#{""pflynn@adobe.com""}",302.0,11
+Python,adobe,2012-09-27,1,1,"#{""gruehle@gmail.com""}",303.0,11
+Python,adobe,2012-10-01,4,2,"#{""njaramil@adobe.com"" ""gruehle@gmail.com""}",307.0,11
+Python,adobe,2012-10-02,2,1,"#{""redmunds@adobe.com""}",309.0,11
+Python,adobe,2012-10-03,3,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",312.0,11
+Python,adobe,2012-10-09,4,3,"#{""mailgithub@denniskehrig.de"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",316.0,12
+Python,adobe,2012-10-10,3,2,"#{""redmunds@adobe.com"" ""jasonsj@adobe.com""}",319.0,12
+Python,adobe,2012-10-11,3,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",322.0,12
+Python,adobe,2012-10-12,1,1,"#{""gruehle@gmail.com""}",323.0,12
+Python,adobe,2012-10-15,1,1,"#{""gruehle@gmail.com""}",324.0,12
+Python,adobe,2012-10-16,1,1,"#{""redmunds@adobe.com""}",325.0,12
+Python,adobe,2012-10-18,2,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",327.0,12
+Python,adobe,2012-10-19,2,1,"#{""gruehle@gmail.com""}",329.0,12
+Python,adobe,2012-10-22,9,3,"#{""pflynn@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",338.0,12
+Python,adobe,2012-10-23,4,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",342.0,12
+Python,adobe,2012-10-24,8,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",350.0,12
+Python,adobe,2012-10-25,2,2,"#{""pflynn@adobe.com"" ""gruehle@gmail.com""}",352.0,12
+Python,adobe,2012-10-26,2,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",354.0,12
+Python,adobe,2012-10-28,2,1,"#{""pritam@pritambaral.com""}",356.0,13
+Python,adobe,2012-10-29,3,3,"#{""mailgithub@denniskehrig.de"" ""pritam@pritambaral.com"" ""jasonsj@adobe.com""}",359.0,13
+Python,adobe,2012-10-30,1,1,"#{""pritam@pritambaral.com""}",360.0,13
+Python,adobe,2012-10-31,1,1,"#{""rayblim@gmail.com""}",361.0,13
+Python,adobe,2012-11-01,2,2,"#{""gruehle@gmail.com"" ""pritam@pritambaral.com""}",363.0,13
+Python,adobe,2012-11-02,2,2,"#{""gruehle@gmail.com"" ""zanqi.liang@gmail.com""}",365.0,14
+Python,adobe,2012-11-03,1,1,"#{""pritam@pritambaral.com""}",366.0,14
+Python,adobe,2012-11-08,1,1,"#{""pritam@pritambaral.com""}",367.0,14
+Python,adobe,2012-11-09,1,1,"#{""pritam@pritambaral.com""}",368.0,14
+Python,adobe,2012-11-10,2,1,"#{""pritam@pritambaral.com""}",370.0,14
+Python,adobe,2012-11-11,3,2,"#{""pritam@pritambaral.com"" ""radoslav.sm.bg@gmail.com""}",373.0,15
+Python,adobe,2012-11-12,10,4,"#{""redmunds@adobe.com"" ""pflynn@adobe.com"" ""pritam@pritambaral.com"" ""radoslav.sm.bg@gmail.com""}",383.0,15
+Python,adobe,2012-11-15,1,1,"#{""redmunds@adobe.com""}",384.0,15
+Python,adobe,2012-11-21,3,2,"#{""mailgithub@denniskehrig.de"" ""gruehle@gmail.com""}",387.0,15
+Python,adobe,2012-11-25,1,1,"#{""leonuh@gmail.com""}",388.0,16
+Python,adobe,2012-11-26,2,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",390.0,16
+Python,adobe,2012-11-28,2,2,"#{""cbank@adobe.com"" ""gruehle@gmail.com""}",392.0,17
+Python,adobe,2012-11-29,3,2,"#{""cbank@adobe.com"" ""jasonsj@adobe.com""}",395.0,17
+Python,adobe,2012-12-03,1,1,"#{""joelrbrandt@gmail.com""}",396.0,17
+Python,adobe,2012-12-04,3,1,"#{""gruehle@gmail.com""}",399.0,17
+Python,adobe,2012-12-05,4,3,"#{""njaramil@adobe.com"" ""pflynn@adobe.com"" ""pritam@pritambaral.com""}",403.0,17
+Python,adobe,2012-12-06,5,1,"#{""gruehle@gmail.com""}",408.0,17
+Python,adobe,2012-12-07,1,1,"#{""silas.baronda@gmail.com""}",409.0,18
+Python,adobe,2012-12-10,2,2,"#{""redmunds@adobe.com"" ""silas.baronda@gmail.com""}",411.0,18
+Python,adobe,2012-12-12,14,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",425.0,18
+Python,adobe,2012-12-13,14,3,"#{""njaramil@adobe.com"" ""gruehle@gmail.com"" ""pritam@pritambaral.com""}",439.0,18
+Python,adobe,2012-12-14,8,1,"#{""gruehle@gmail.com""}",447.0,18
+Python,adobe,2012-12-15,2,1,"#{""gruehle@gmail.com""}",449.0,18
+Python,adobe,2012-12-16,7,1,"#{""gruehle@gmail.com""}",456.0,18
+Python,adobe,2012-12-17,4,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",460.0,18
+Python,adobe,2012-12-18,2,2,"#{""joelrbrandt@gmail.com"" ""gruehle@gmail.com""}",462.0,18
+Python,adobe,2012-12-22,1,1,"#{""pflynn@adobe.com""}",463.0,18
+Python,adobe,2012-12-23,1,1,"#{""joelrbrandt@gmail.com""}",464.0,18
+Python,adobe,2012-12-24,2,1,"#{""joelrbrandt@gmail.com""}",466.0,18
+Python,adobe,2012-12-28,4,1,"#{""gruehle@gmail.com""}",470.0,18
+Python,adobe,2013-01-02,8,3,"#{""joelrbrandt@gmail.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",478.0,18
+Python,adobe,2013-01-03,3,2,"#{""joelrbrandt@gmail.com"" ""gruehle@gmail.com""}",481.0,18
+Python,adobe,2013-01-07,5,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",486.0,18
+Python,adobe,2013-01-08,5,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",491.0,18
+Python,adobe,2013-01-09,9,4,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",500.0,18
+Python,adobe,2013-01-10,4,3,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""gruehle@gmail.com""}",504.0,18
+Python,adobe,2013-01-11,7,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",511.0,18
+Python,adobe,2013-01-14,6,3,"#{""rayblim@gmail.com"" ""joelrbrandt@gmail.com"" ""gruehle@gmail.com""}",517.0,18
+Python,adobe,2013-01-15,8,4,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",525.0,18
+Python,adobe,2013-01-16,15,3,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""gruehle@gmail.com""}",540.0,18
+Python,adobe,2013-01-17,7,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",547.0,18
+Python,adobe,2013-01-18,10,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",557.0,18
+Python,adobe,2013-01-21,1,1,"#{""gruehle@gmail.com""}",558.0,18
+Python,adobe,2013-01-22,4,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",562.0,18
+Python,adobe,2013-01-24,10,4,"#{""rayblim@gmail.com"" ""joelrbrandt@gmail.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com""}",572.0,18
+Python,adobe,2013-01-25,4,2,"#{""njaramil@adobe.com"" ""gruehle@gmail.com""}",576.0,18
+Python,adobe,2013-01-28,3,1,"#{""gruehle@gmail.com""}",579.0,18
+Python,adobe,2013-01-29,3,3,"#{""rayblim@gmail.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",582.0,18
+Python,adobe,2013-01-30,3,1,"#{""gruehle@gmail.com""}",585.0,18
+Python,adobe,2013-01-31,1,1,"#{""redmunds@adobe.com""}",586.0,18
+Python,adobe,2013-02-01,3,3,"#{""redmunds@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com""}",589.0,18
+Python,adobe,2013-02-12,1,1,"#{""gruehle@gmail.com""}",590.0,18
+Python,adobe,2013-02-13,3,1,"#{""gruehle@gmail.com""}",593.0,18
+Python,adobe,2013-02-15,10,4,"#{""redmunds@adobe.com"" ""joelrbrandt@gmail.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",603.0,18
+Python,adobe,2013-02-19,5,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",608.0,18
+Python,adobe,2013-02-20,10,3,"#{""redmunds@adobe.com"" ""joelrbrandt@gmail.com"" ""gruehle@gmail.com""}",618.0,18
+Python,adobe,2013-02-21,9,4,"#{""redmunds@adobe.com"" ""pthiess@adobe.com"" ""pflynn@adobe.com"" ""jasonsj@adobe.com""}",627.0,18
+Python,adobe,2013-02-22,3,2,"#{""joelrbrandt@gmail.com"" ""jasonsj@adobe.com""}",630.0,18
+Python,adobe,2013-02-25,2,1,"#{""gruehle@gmail.com""}",632.0,18
+Python,adobe,2013-02-26,4,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",636.0,18
+Python,adobe,2013-02-27,3,3,"#{""redmunds@adobe.com"" ""njaramil@adobe.com"" ""gruehle@gmail.com""}",639.0,18
+Python,adobe,2013-03-04,2,2,"#{""pflynn@adobe.com"" ""jasonsj@adobe.com""}",641.0,18
+Python,adobe,2013-03-08,1,1,"#{""redmunds@adobe.com""}",642.0,18
+Python,adobe,2013-03-11,5,1,"#{""redmunds@adobe.com""}",647.0,18
+Python,adobe,2013-03-12,6,1,"#{""jasonsj@adobe.com""}",653.0,18
+Python,adobe,2013-03-13,4,3,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""jasonsj@adobe.com""}",657.0,18
+Python,adobe,2013-03-14,2,2,"#{""gruehle@gmail.com"" ""rlim@adobe.com""}",659.0,18
+Python,adobe,2013-03-15,14,4,"#{""rayblim@gmail.com"" ""ybayer@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",673.0,19
+Python,adobe,2013-03-16,2,1,"#{""jasonsj@adobe.com""}",675.0,19
+Python,adobe,2013-03-17,4,1,"#{""jasonsj@adobe.com""}",679.0,19
+Python,adobe,2013-03-18,10,2,"#{""rayblim@gmail.com"" ""jasonsj@adobe.com""}",689.0,19
+Python,adobe,2013-03-19,6,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",695.0,19
+Python,adobe,2013-03-20,4,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",699.0,19
+Python,adobe,2013-03-21,2,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",701.0,19
+Python,adobe,2013-03-25,1,1,"#{""jasonsj@adobe.com""}",702.0,19
+Python,adobe,2013-03-27,2,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",704.0,19
+Python,adobe,2013-03-28,1,1,"#{""gruehle@gmail.com""}",705.0,19
+Python,adobe,2013-03-31,1,1,"#{""alex@zielenski.net""}",706.0,20
+Python,adobe,2013-04-04,1,1,"#{""gruehle@gmail.com""}",707.0,20
+Python,adobe,2013-04-05,4,2,"#{""rayblim@gmail.com"" ""gruehle@gmail.com""}",711.0,20
+Python,adobe,2013-04-12,2,2,"#{""rlim@adobe.com"" ""jasonsj@adobe.com""}",713.0,20
+Python,adobe,2013-04-17,2,2,"#{""clint@system-11.com"" ""gruehle@gmail.com""}",715.0,21
+Python,adobe,2013-04-22,1,1,"#{""jasonsj@adobe.com""}",716.0,21
+Python,adobe,2013-04-23,2,2,"#{""jasonsj@adobe.com"" ""wehrman@adobe.com""}",718.0,22
+Python,adobe,2013-04-25,2,1,"#{""mshepher@adobe.com""}",720.0,23
+Python,adobe,2013-04-29,4,3,"#{""gruehle@gmail.com"" ""wehrman@adobe.com"" ""mshepher@adobe.com""}",724.0,23
+Python,adobe,2013-04-30,2,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",726.0,23
+Python,adobe,2013-05-02,3,1,"#{""gruehle@gmail.com""}",729.0,23
+Python,adobe,2013-05-06,6,3,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""jasonsj@adobe.com""}",735.0,23
+Python,adobe,2013-05-10,1,1,"#{""gruehle@gmail.com""}",736.0,23
+Python,adobe,2013-05-11,1,1,"#{""gruehle@gmail.com""}",737.0,23
+Python,adobe,2013-05-13,3,3,"#{""redmunds@adobe.com"" ""pflynn@adobe.com"" ""gruehle@gmail.com""}",740.0,23
+Python,adobe,2013-05-14,6,5,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""bchin@adobe.com"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",746.0,24
+Python,adobe,2013-05-15,1,1,"#{""redmunds@adobe.com""}",747.0,24
+Python,adobe,2013-05-16,2,1,"#{""bchin@adobe.com""}",749.0,24
+Python,adobe,2013-05-20,2,1,"#{""mshepher@adobe.com""}",751.0,24
+Python,adobe,2013-05-23,2,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",753.0,24
+Python,adobe,2013-05-24,2,1,"#{""mshepher@adobe.com""}",755.0,24
+Python,adobe,2013-05-26,1,1,"#{""redmunds@adobe.com""}",756.0,24
+Python,adobe,2013-05-28,3,3,"#{""rayblim@gmail.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",759.0,24
+Python,adobe,2013-05-30,1,1,"#{""rlim@adobe.com""}",760.0,24
+Python,adobe,2013-05-31,2,2,"#{""jsbooher@adobe.com"" ""ingo.richter@gmail.com""}",762.0,26
+Python,adobe,2013-06-03,2,2,"#{""bchin@adobe.com"" ""ingo.richter@gmail.com""}",764.0,26
+Python,adobe,2013-06-04,7,3,"#{""bchin@adobe.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",771.0,26
+Python,adobe,2013-06-05,1,1,"#{""ingo.richter@gmail.com""}",772.0,26
+Python,adobe,2013-06-06,5,3,"#{""redmunds@adobe.com"" ""bchin@adobe.com"" ""jsbooher@adobe.com""}",777.0,26
+Python,adobe,2013-06-07,4,1,"#{""gruehle@gmail.com""}",781.0,26
+Python,adobe,2013-06-10,2,1,"#{""redmunds@adobe.com""}",783.0,26
+Python,adobe,2013-06-11,6,3,"#{""redmunds@adobe.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",789.0,26
+Python,adobe,2013-06-12,9,7,"#{""rayblim@gmail.com"" ""bchin@adobe.com"" ""gruehle@gmail.com"" ""jhagenst@adobe.com"" ""kid@blazingthings.com"" ""jsuh@adobe.com"" ""jasonsj@adobe.com""}",798.0,29
+Python,adobe,2013-06-13,2,1,"#{""rayblim@gmail.com""}",800.0,29
+Python,adobe,2013-06-16,3,2,"#{""rlim@adobe.com"" ""jsbooher@adobe.com""}",803.0,29
+Python,adobe,2013-06-17,8,3,"#{""gruehle@gmail.com"" ""rlim@adobe.com"" ""jsbooher@adobe.com""}",811.0,29
+Python,adobe,2013-06-18,2,1,"#{""jsbooher@adobe.com""}",813.0,29
+Python,adobe,2013-06-19,2,2,"#{""redmunds@adobe.com"" ""gruehle@gmail.com""}",815.0,29
+Python,adobe,2013-06-20,2,2,"#{""jasonsj@ubuntu.(none)"" ""jasonsj@adobe.com""}",817.0,30
+Python,adobe,2013-06-21,14,3,"#{""gruehle@gmail.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",831.0,30
+Python,adobe,2013-06-22,1,1,"#{""rayblim@gmail.com""}",832.0,30
+Python,adobe,2013-06-24,1,1,"#{""pthiess@adobe.com""}",833.0,30
+Python,adobe,2013-06-26,4,3,"#{""rayblim@gmail.com"" ""gruehle@gmail.com"" ""jsbooher@adobe.com""}",837.0,30
+Python,adobe,2013-07-09,6,3,"#{""rayblim@gmail.com"" ""gruehle@gmail.com"" ""rlim@adobe.com""}",843.0,30
+Python,adobe,2013-07-10,3,3,"#{""rayblim@gmail.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",846.0,30
+Python,adobe,2013-07-11,3,3,"#{""timburgess@mac.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",849.0,31
+Python,adobe,2013-07-15,5,4,"#{""rayblim@gmail.com"" ""ingo.richter@adobe.com"" ""timburgess@mac.com"" ""rlim@adobe.com""}",854.0,32
+Python,adobe,2013-07-16,1,1,"#{""gruehle@gmail.com""}",855.0,32
+Python,adobe,2013-07-19,5,2,"#{""timburgess@mac.com"" ""jasonsj@adobe.com""}",860.0,32
+Python,adobe,2013-07-20,1,1,"#{""gruehle@gmail.com""}",861.0,32
+Python,adobe,2013-07-22,3,3,"#{""gruehle@gmail.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",864.0,32
+Python,adobe,2013-07-24,3,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",867.0,32
+Python,adobe,2013-07-26,1,1,"#{""jasonsj@adobe.com""}",868.0,32
+Python,adobe,2013-07-29,1,1,"#{""jsbooher@adobe.com""}",869.0,32
+Python,adobe,2013-07-30,4,2,"#{""njaramil@adobe.com"" ""jasonsj@adobe.com""}",873.0,32
+Python,adobe,2013-08-05,1,1,"#{""bchin@adobe.com""}",874.0,32
+Python,adobe,2013-08-07,1,1,"#{""ingo.richter@gmail.com""}",875.0,32
+Python,adobe,2013-08-08,2,2,"#{""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",877.0,32
+Python,adobe,2013-08-13,6,1,"#{""jasonsj@adobe.com""}",883.0,32
+Python,adobe,2013-08-14,14,3,"#{""bchin@adobe.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",897.0,32
+Python,adobe,2013-08-15,7,3,"#{""bchin@adobe.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",904.0,32
+Python,adobe,2013-08-16,3,1,"#{""jasonsj@adobe.com""}",907.0,32
+Python,adobe,2013-08-18,1,1,"#{""user142@hotmail.com""}",908.0,33
+Python,adobe,2013-08-19,4,2,"#{""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",912.0,33
+Python,adobe,2013-08-20,8,3,"#{""timburgess@mac.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",920.0,33
+Python,adobe,2013-08-21,6,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",926.0,33
+Python,adobe,2013-08-22,3,2,"#{""gruehle@gmail.com"" ""jasonsj@adobe.com""}",929.0,33
+Python,adobe,2013-08-23,1,1,"#{""jsbooher@adobe.com""}",930.0,33
+Python,adobe,2013-08-24,1,1,"#{""jsbooher@adobe.com""}",931.0,33
+Python,adobe,2013-08-26,5,3,"#{""gruehle@gmail.com"" ""ingo.richter@gmail.com"" ""jasonsj@adobe.com""}",936.0,33
+Python,adobe,2013-08-28,1,1,"#{""poczciwy@gmail.com""}",937.0,34
+Python,adobe,2013-08-30,3,2,"#{""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",940.0,34
+Python,adobe,2013-09-03,4,2,"#{""rayblim@gmail.com"" ""jasonsj@adobe.com""}",944.0,34
+Python,adobe,2013-09-05,1,1,"#{""jasonsj@adobe.com""}",945.0,34
+Python,adobe,2013-09-06,3,2,"#{""jsoverson@gmail.com"" ""jasonsj@adobe.com""}",948.0,35
+Python,adobe,2013-09-11,1,1,"#{""jsbooher@adobe.com""}",949.0,35
+Python,adobe,2013-09-16,1,1,"#{""ingo.richter@gmail.com""}",950.0,35
+Python,adobe,2013-09-17,5,4,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",955.0,35
+Python,adobe,2013-09-20,4,3,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""rlim@adobe.com""}",959.0,35
+Python,adobe,2013-09-22,1,1,"#{""rlim@adobe.com""}",960.0,35
+Python,adobe,2013-09-23,3,3,"#{""jsbooher@adobe.com"" ""kid@blazingthings.com"" ""ingo.richter@gmail.com""}",963.0,35
+Python,adobe,2013-09-24,3,3,"#{""rayblim@gmail.com"" ""bchin@adobe.com"" ""ingo.richter@gmail.com""}",966.0,35
+Python,adobe,2013-09-25,3,2,"#{""jsbooher@adobe.com"" ""ingo.richter@gmail.com""}",969.0,35
+Python,adobe,2013-09-26,2,2,"#{""iwehrman@gmail.com"" ""ingo.richter@gmail.com""}",971.0,36
+Python,adobe,2013-09-27,4,2,"#{""jsbooher@adobe.com"" ""ingo.richter@gmail.com""}",975.0,36
+Python,adobe,2013-10-01,1,1,"#{""rayblim@gmail.com""}",976.0,36
+Python,adobe,2013-10-02,2,2,"#{""bchin@adobe.com"" ""jsbooher@adobe.com""}",978.0,36
+Python,adobe,2013-10-03,6,4,"#{""rayblim@gmail.com"" ""redmunds@adobe.com"" ""jsbooher@adobe.com"" ""matt@sturgeon.me.uk""}",984.0,37
+Python,adobe,2013-10-04,1,1,"#{""jhagenst@adobe.com""}",985.0,37
+Python,adobe,2013-10-07,3,2,"#{""couzteau@bitfaeule.net"" ""jhagenst@adobe.com""}",988.0,38
+Python,adobe,2013-10-09,5,3,"#{""couzteau@bitfaeule.net"" ""redmunds@adobe.com"" ""jhagenst@adobe.com""}",993.0,38
+Python,adobe,2013-10-10,5,5,"#{""couzteau@bitfaeule.net"" ""bchin@adobe.com"" ""eostroukhov@gmail.com"" ""jhagenst@adobe.com"" ""jsbooher@adobe.com""}",998.0,39
+Python,adobe,2013-10-11,2,1,"#{""bchin@adobe.com""}",1000.0,39
+Python,adobe,2013-10-12,1,1,"#{""rlim@adobe.com""}",1001.0,39
+Python,adobe,2013-10-14,1,1,"#{""user142@hotmail.com""}",1002.0,39
+Python,adobe,2013-10-15,4,3,"#{""redmunds@adobe.com"" ""rlim@adobe.com"" ""jsbooher@adobe.com""}",1006.0,39
+Python,adobe,2013-10-16,2,2,"#{""njaramil@adobe.com"" ""jsbooher@adobe.com""}",1008.0,39
+Python,adobe,2013-10-20,1,1,"#{""rlim@adobe.com""}",1009.0,39
+Python,adobe,2013-10-21,3,2,"#{""rayblim@gmail.com"" ""jsbooher@adobe.com""}",1012.0,39
+Python,adobe,2013-10-22,5,3,"#{""rayblim@gmail.com"" ""bchin@adobe.com"" ""jasonsj@adobe.com""}",1017.0,39
+Python,adobe,2013-10-23,1,1,"#{""jsbooher@adobe.com""}",1018.0,39
+Python,adobe,2013-10-28,3,2,"#{""pthiess@adobe.com"" ""jsbooher@adobe.com""}",1021.0,39
+Python,adobe,2013-10-30,3,2,"#{""bchin@adobe.com"" ""jsbooher@adobe.com""}",1024.0,39
+Python,adobe,2013-10-31,2,2,"#{""bchin@adobe.com"" ""ingo.richter@gmail.com""}",1026.0,39
+Python,adobe,2013-11-01,9,3,"#{""bchin@adobe.com"" ""rlim@adobe.com"" ""ingo.richter@gmail.com""}",1035.0,39
+Python,adobe,2013-11-05,4,3,"#{""redmunds@adobe.com"" ""fungl164@hotmail.com"" ""bchin@adobe.com""}",1039.0,40
+Python,adobe,2013-11-06,3,3,"#{""bchin@adobe.com"" ""ingo.richter@gmail.com"" ""jasonsj@adobe.com""}",1042.0,40
+Python,adobe,2013-11-07,3,2,"#{""bchin@adobe.com"" ""jasonsj@adobe.com""}",1045.0,40
+Python,adobe,2013-11-08,5,4,"#{""redmunds@adobe.com"" ""fungl164@hotmail.com"" ""bchin@adobe.com"" ""bobeasterday@mac.com""}",1050.0,41
+Python,adobe,2013-11-09,1,1,"#{""couzteau@bitfaeule.net""}",1051.0,41
+Python,adobe,2013-11-11,3,3,"#{""fungl164@hotmail.com"" ""jsbooher@adobe.com"" ""ingo.richter@gmail.com""}",1054.0,41
+Python,adobe,2013-11-12,10,2,"#{""redmunds@adobe.com"" ""jsbooher@adobe.com""}",1064.0,41
+Python,adobe,2013-11-13,5,3,"#{""redmunds@adobe.com"" ""gruehle@gmail.com"" ""jsbooher@adobe.com""}",1069.0,41
+Python,adobe,2013-11-14,10,4,"#{""redmunds@adobe.com"" ""fungl164@hotmail.com"" ""gruehle@gmail.com"" ""jasonsj@adobe.com""}",1079.0,41
+Python,adobe,2013-11-15,3,1,"#{""gruehle@gmail.com""}",1082.0,41
+Python,adobe,2013-11-17,1,1,"#{""fungl164@hotmail.com""}",1083.0,41
+Python,adobe,2013-11-18,1,1,"#{""redmunds@adobe.com""}",1084.0,41
+Python,adobe,2013-11-21,1,1,"#{""jasonsj@adobe.com""}",1085.0,41
+Python,adobe,2013-11-22,5,5,"#{""rayblim@gmail.com"" ""bchin@adobe.com"" ""gruehle@gmail.com"" ""rlim@adobe.com"" ""jasonsj@adobe.com""}",1090.0,41
+Python,adobe,2013-11-26,1,1,"#{""gruehle@gmail.com""}",1091.0,41
+Python,adobe,2013-11-27,6,2,"#{""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",1097.0,41
+Python,adobe,2013-12-02,1,1,"#{""jasonsj@adobe.com""}",1098.0,41
+Python,adobe,2013-12-03,12,4,"#{""redmunds@adobe.com"" ""fungl164@hotmail.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",1110.0,41
+Python,adobe,2013-12-04,5,3,"#{""jsbooher@adobe.com"" ""jasonsj@adobe.com"" ""wehrman@adobe.com""}",1115.0,41
+Python,adobe,2013-12-05,10,5,"#{""bchin@adobe.com"" ""jsbooher@adobe.com"" ""kid@blazingthings.com"" ""ingo.richter@gmail.com"" ""jasonsj@adobe.com""}",1125.0,41
+Python,adobe,2013-12-06,6,4,"#{""redmunds@adobe.com"" ""bchin@adobe.com"" ""gruehle@gmail.com"" ""jsbooher@adobe.com""}",1131.0,41
+Python,adobe,2013-12-12,1,1,"#{""daveygm@gmail.com""}",1132.0,42
+Python,adobe,2013-12-18,1,1,"#{""kid@blazingthings.com""}",1133.0,42
+Python,adobe,2013-12-19,4,4,"#{""rayblim@gmail.com"" ""fungl164@hotmail.com"" ""ingo.richter@gmail.com"" ""jasonsj@adobe.com""}",1137.0,42
+Python,adobe,2013-12-20,1,1,"#{""redmunds@adobe.com""}",1138.0,42
+Python,adobe,2013-12-28,2,2,"#{""redmunds@adobe.com"" ""wehrman@adobe.com""}",1140.0,42
+Python,adobe,2013-12-29,1,1,"#{""lkcampbell@gmail.com""}",1141.0,43
+Python,adobe,2014-01-02,2,1,"#{""redmunds@adobe.com""}",1143.0,43
+Python,adobe,2014-01-04,2,2,"#{""redmunds@adobe.com"" ""lkcampbell@gmail.com""}",1145.0,43
+Python,adobe,2014-01-06,4,1,"#{""jsbooher@adobe.com""}",1149.0,43
+Python,adobe,2014-01-07,2,1,"#{""jsbooher@adobe.com""}",1151.0,43
+Python,adobe,2014-01-08,3,2,"#{""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",1154.0,43
+Python,adobe,2014-01-09,5,1,"#{""jsbooher@adobe.com""}",1159.0,43
+Python,adobe,2014-01-10,1,1,"#{""bchin@adobe.com""}",1160.0,43
+Python,adobe,2014-01-14,2,1,"#{""jsbooher@adobe.com""}",1162.0,43
+Python,adobe,2014-01-15,1,1,"#{""bchin@adobe.com""}",1163.0,43
+Python,adobe,2014-01-23,1,1,"#{""kid@blazingthings.com""}",1164.0,43
+Python,adobe,2014-01-24,1,1,"#{""jsbooher@adobe.com""}",1165.0,43
+Python,adobe,2014-01-25,1,1,"#{""newluxfero@gmail.com""}",1166.0,44
+Python,adobe,2014-01-27,2,1,"#{""ingo.richter@gmail.com""}",1168.0,44
+Python,adobe,2014-01-29,2,2,"#{""bchin@adobe.com"" ""btjones@gmail.com""}",1170.0,45
+Python,adobe,2014-01-30,4,3,"#{""bchin@adobe.com"" ""jsbooher@adobe.com"" ""btjones@gmail.com""}",1174.0,45
+Python,adobe,2014-01-31,2,2,"#{""bchin@adobe.com"" ""btjones@gmail.com""}",1176.0,45
+Python,adobe,2014-02-04,3,1,"#{""ingo.richter@gmail.com""}",1179.0,45
+Python,adobe,2014-02-05,2,2,"#{""njaramil@adobe.com"" ""gruehle@gmail.com""}",1181.0,45
+Python,adobe,2014-02-10,2,1,"#{""rayblim@gmail.com""}",1183.0,45
+Python,adobe,2014-02-11,1,1,"#{""jsbooher@adobe.com""}",1184.0,45
+Python,adobe,2014-02-12,3,3,"#{""rayblim@gmail.com"" ""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",1187.0,45
+Python,adobe,2014-02-13,1,1,"#{""ingo.richter@gmail.com""}",1188.0,45
+Python,adobe,2014-02-24,1,1,"#{""ingo.richter@gmail.com""}",1189.0,45
+Python,adobe,2014-03-10,1,1,"#{""rayblim@gmail.com""}",1190.0,45
+Python,adobe,2014-03-12,2,1,"#{""redmunds@adobe.com""}",1192.0,45
+Python,adobe,2014-03-14,1,1,"#{""ingo.richter@gmail.com""}",1193.0,45
+Python,adobe,2014-03-16,1,1,"#{""ingo.richter@gmail.com""}",1194.0,45
+Python,adobe,2014-03-17,1,1,"#{""jsbooher@adobe.com""}",1195.0,45
+Python,adobe,2014-03-18,1,1,"#{""bchin@adobe.com""}",1196.0,45
+Python,adobe,2014-03-31,1,1,"#{""zaggino@gmail.com""}",1197.0,46
+Python,adobe,2014-04-09,1,1,"#{""ingo.richter@gmail.com""}",1198.0,46
+Python,adobe,2014-04-17,5,2,"#{""arron@theradicaledwards.com"" ""ingo.richter@gmail.com""}",1203.0,47
+Python,adobe,2014-04-19,2,1,"#{""redmunds@adobe.com""}",1205.0,47
+Python,adobe,2014-04-21,4,1,"#{""jsbooher@adobe.com""}",1209.0,47
+Python,adobe,2014-04-22,4,1,"#{""jsbooher@adobe.com""}",1213.0,47
+Python,adobe,2014-04-23,7,2,"#{""arron@theradicaledwards.com"" ""jsbooher@adobe.com""}",1220.0,47
+Python,adobe,2014-04-24,7,1,"#{""jsbooher@adobe.com""}",1227.0,47
+Python,adobe,2014-04-25,8,2,"#{""rayblim@gmail.com"" ""jsbooher@adobe.com""}",1235.0,47
+Python,adobe,2014-04-26,3,1,"#{""jsbooher@adobe.com""}",1238.0,47
+Python,adobe,2014-04-29,1,1,"#{""redmunds@adobe.com""}",1239.0,47
+Python,adobe,2014-04-30,2,2,"#{""rayblim@gmail.com"" ""jsbooher@adobe.com""}",1241.0,47
+Python,adobe,2014-05-01,5,3,"#{""redmunds@adobe.com"" ""arron@theradicaledwards.com"" ""jsbooher@adobe.com""}",1246.0,47
+Python,adobe,2014-05-02,2,2,"#{""rayblim@gmail.com"" ""jsbooher@adobe.com""}",1248.0,47
+Python,adobe,2014-05-05,1,1,"#{""ingo.richter@gmail.com""}",1249.0,47
+Python,adobe,2014-05-07,2,1,"#{""redmunds@adobe.com""}",1251.0,47
+Python,adobe,2014-05-09,1,1,"#{""ingo.richter@gmail.com""}",1252.0,47
+Python,adobe,2014-05-13,1,1,"#{""jsbooher@adobe.com""}",1253.0,47
+Python,adobe,2014-05-20,1,1,"#{""bchin@adobe.com""}",1254.0,47
+Python,adobe,2014-05-21,1,1,"#{""rayblim@gmail.com""}",1255.0,47
+Python,adobe,2014-05-22,1,1,"#{""redmunds@adobe.com""}",1256.0,47
+Python,adobe,2014-05-25,1,1,"#{""rayblim@gmail.com""}",1257.0,47
+Python,adobe,2014-05-30,3,2,"#{""redmunds@adobe.com"" ""ingo.richter@gmail.com""}",1260.0,47
+Python,adobe,2014-06-09,1,1,"#{""ingo.richter@gmail.com""}",1261.0,47
+Python,adobe,2014-06-10,1,1,"#{""jsbooher@adobe.com""}",1262.0,47
+Python,adobe,2014-06-12,2,2,"#{""ingo.richter@adobe.com"" ""ingo.richter@gmail.com""}",1264.0,47
+Python,adobe,2014-06-13,2,2,"#{""ingo.richter@adobe.com"" ""ingo.richter@gmail.com""}",1266.0,47
+Python,adobe,2014-06-15,1,1,"#{""ingo.richter@gmail.com""}",1267.0,47
+Python,adobe,2014-06-16,3,2,"#{""bchin@adobe.com"" ""jsbooher@adobe.com""}",1270.0,47
+Python,adobe,2014-06-24,1,1,"#{""kid@blazingthings.com""}",1271.0,47
+Python,adobe,2014-06-27,1,1,"#{""bchin@adobe.com""}",1272.0,47
+Python,adobe,2014-07-24,1,1,"#{""jsbooher@adobe.com""}",1273.0,47
+Python,adobe,2014-07-28,2,1,"#{""redmunds@adobe.com""}",1275.0,47
+Python,adobe,2014-08-02,1,1,"#{""mark.simulacrum@gmail.com""}",1276.0,48
+Python,adobe,2014-08-12,1,1,"#{""mg.hain@gmx.de""}",1277.0,49
+Python,adobe,2014-08-14,1,1,"#{""ingo.richter@gmail.com""}",1278.0,49
+Python,adobe,2014-08-15,1,1,"#{""ingo.richter@gmail.com""}",1279.0,49
+Python,adobe,2014-08-19,1,1,"#{""ingo.richter@gmail.com""}",1280.0,49
+Python,adobe,2014-08-20,2,2,"#{""rayblim@gmail.com"" ""ingo.richter@gmail.com""}",1282.0,49
+Python,adobe,2014-08-27,3,2,"#{""redmunds@adobe.com"" ""mg.hain@gmx.de""}",1285.0,49
+Python,adobe,2014-09-08,1,1,"#{""irichter@adobe.com""}",1286.0,50
+Python,adobe,2014-09-10,2,2,"#{""irichter@adobe.com"" ""ingo.richter@gmail.com""}",1288.0,50
+Python,adobe,2014-09-11,2,2,"#{""mg.hain@gmx.de"" ""ingo.richter@gmail.com""}",1290.0,50
+Python,adobe,2014-09-16,1,1,"#{""mg.hain@gmx.de""}",1291.0,50
+Python,adobe,2014-09-18,1,1,"#{""irichter@adobe.com""}",1292.0,50
+Python,adobe,2014-09-19,1,1,"#{""jasonsj@adobe.com""}",1293.0,50
+Python,adobe,2014-09-22,4,2,"#{""pthiess@adobe.com"" ""jasonsj@adobe.com""}",1297.0,50
+Python,adobe,2014-09-24,1,1,"#{""jsbooher@adobe.com""}",1298.0,50
+Python,adobe,2014-10-01,2,2,"#{""irichter@adobe.com"" ""ingo.richter@gmail.com""}",1300.0,50
+Python,adobe,2014-10-14,2,2,"#{""redmunds@adobe.com"" ""jsbooher@adobe.com""}",1302.0,50
+Python,adobe,2014-10-16,5,2,"#{""redmunds@adobe.com"" ""jsbooher@adobe.com""}",1307.0,50
+Python,adobe,2014-10-19,1,1,"#{""jsbooher@adobe.com""}",1308.0,50
+Python,adobe,2014-10-20,3,3,"#{""redmunds@adobe.com"" ""jsbooher@adobe.com"" ""radoslav.sm.bg@gmail.com""}",1311.0,50
+Python,adobe,2014-10-21,6,3,"#{""irichter@adobe.com"" ""jsbooher@adobe.com"" ""radoslav.sm.bg@gmail.com""}",1317.0,50
+Python,adobe,2014-10-22,1,1,"#{""jsbooher@adobe.com""}",1318.0,50
+Python,adobe,2014-10-23,3,3,"#{""ingo.richter@gmail.com"" ""anirudhs@adobe.com"" ""radoslav.sm.bg@gmail.com""}",1321.0,51
+Python,adobe,2014-10-24,4,4,"#{""rayblim@gmail.com"" ""irichter@adobe.com"" ""jsbooher@adobe.com"" ""ingo.richter@gmail.com""}",1325.0,51
+Python,adobe,2014-10-27,1,1,"#{""jasonsj@adobe.com""}",1326.0,51
+Python,adobe,2014-10-28,6,3,"#{""redmunds@adobe.com"" ""ingo.richter@gmail.com"" ""jasonsj@adobe.com""}",1332.0,51
+Python,adobe,2014-10-29,3,2,"#{""jsbooher@adobe.com"" ""ingo.richter@gmail.com""}",1335.0,51
+Python,adobe,2014-10-30,1,1,"#{""ingo.richter@gmail.com""}",1336.0,51
+Python,adobe,2014-11-06,1,1,"#{""redmunds@adobe.com""}",1337.0,51
+Python,adobe,2014-11-10,4,2,"#{""rayblim@gmail.com"" ""anirudhs@adobe.com""}",1341.0,51
+Python,adobe,2014-12-02,1,1,"#{""ingo.richter@gmail.com""}",1342.0,51
+Python,adobe,2014-12-11,3,2,"#{""irichter@adobe.com"" ""jsbooher@adobe.com""}",1345.0,51
+Python,adobe,2014-12-15,2,2,"#{""irichter@adobe.com"" ""ingo.richter@gmail.com""}",1347.0,51
+Python,adobe,2014-12-16,1,1,"#{""ingo.richter@gmail.com""}",1348.0,51
+Python,adobe,2014-12-18,1,1,"#{""ingo.richter@gmail.com""}",1349.0,51
+Python,adobe,2014-12-19,2,1,"#{""bchin@adobe.com""}",1351.0,51
+Python,adobe,2014-12-20,1,1,"#{""rlim@adobe.com""}",1352.0,51
+Python,adobe,2015-01-02,1,1,"#{""mg.hain@gmx.de""}",1353.0,51
+Python,adobe,2015-01-08,2,2,"#{""mg.hain@gmx.de"" ""irichter@adobe.com""}",1355.0,51
+Python,adobe,2015-01-09,1,1,"#{""jsbooher@adobe.com""}",1356.0,51
+Python,adobe,2015-01-12,1,1,"#{""jsbooher@adobe.com""}",1357.0,51
+Python,adobe,2015-01-13,2,2,"#{""redmunds@adobe.com"" ""jsbooher@adobe.com""}",1359.0,51
+Python,adobe,2015-01-16,1,1,"#{""redmunds@adobe.com""}",1360.0,51
+Python,adobe,2015-01-20,3,2,"#{""jsbooher@adobe.com"" ""jasonsj@adobe.com""}",1363.0,51
+Python,adobe,2015-02-06,1,1,"#{""prkumars@adobe.com""}",1364.0,52
+Python,adobe,2015-02-09,1,1,"#{""prashant@adobe.com""}",1365.0,53
+Python,adobe,2015-02-10,3,1,"#{""abose@adobe.com""}",1368.0,54
+Python,adobe,2015-02-11,3,2,"#{""abose@adobe.com"" ""prashant@adobe.com""}",1371.0,54
+Python,adobe,2015-02-12,1,1,"#{""prkumars@adobe.com""}",1372.0,54
+Python,adobe,2015-02-15,1,1,"#{""edwin0cheng@gmail.com""}",1373.0,55
+Python,adobe,2015-02-25,2,2,"#{""pflynn@adobe.com"" ""vaishnav@adobe.com""}",1375.0,56
+Python,adobe,2015-03-10,2,1,"#{""abose@adobe.com""}",1377.0,56
+Python,adobe,2015-03-12,1,1,"#{""prashant@adobe.com""}",1378.0,56
+Python,adobe,2015-03-16,1,1,"#{""prashant@adobe.com""}",1379.0,56
+Python,adobe,2015-03-19,1,1,"#{""zaggino@gmail.com""}",1380.0,56
+Python,adobe,2015-03-31,1,1,"#{""prashant@adobe.com""}",1381.0,56
+Python,adobe,2015-04-01,1,1,"#{""prashant@adobe.com""}",1382.0,56
+Python,adobe,2015-04-02,1,1,"#{""prashant@adobe.com""}",1383.0,56
+Python,adobe,2015-04-06,1,1,"#{""prashant@adobe.com""}",1384.0,56
+Python,adobe,2015-04-07,2,2,"#{""prashant@adobe.com"" ""nethip@yahoo.com""}",1386.0,57
+Python,adobe,2015-04-08,3,2,"#{""abose@adobe.com"" ""prashant@adobe.com""}",1389.0,57
+Python,adobe,2015-04-09,2,1,"#{""prashant@adobe.com""}",1391.0,57
+Python,adobe,2015-04-10,1,1,"#{""prashant.iiit123@gmail.com""}",1392.0,58
+Python,adobe,2015-04-12,2,1,"#{""prashant@adobe.com""}",1394.0,58
+Python,adobe,2015-04-14,3,2,"#{""pflynn@adobe.com"" ""prashant@adobe.com""}",1397.0,58
+Python,adobe,2015-04-15,3,1,"#{""prashant@adobe.com""}",1400.0,58
+Python,adobe,2015-04-16,1,1,"#{""prashant@adobe.com""}",1401.0,58
+Python,adobe,2015-04-17,4,1,"#{""prashant@adobe.com""}",1405.0,58
+Python,adobe,2015-04-20,2,1,"#{""prashant@adobe.com""}",1407.0,58
+Python,adobe,2015-04-21,3,2,"#{""rajjain@adobe.com"" ""prashant@adobe.com""}",1410.0,59
+Python,adobe,2015-04-22,5,3,"#{""rajjain@adobe.com"" ""prashant@adobe.com"" ""roshan@adobe.com""}",1415.0,60
+Python,adobe,2015-04-23,1,1,"#{""prashant@adobe.com""}",1416.0,60
+Python,adobe,2015-04-24,4,2,"#{""prashant@adobe.com"" ""roshan@adobe.com""}",1420.0,60
+Python,adobe,2015-04-27,1,1,"#{""prashant@adobe.com""}",1421.0,60
+Python,adobe,2015-04-28,2,2,"#{""trompa@gmail.com"" ""prashant@adobe.com""}",1423.0,61
+Python,adobe,2015-05-25,1,1,"#{""prashant@adobe.com""}",1424.0,61
+Python,adobe,2015-05-26,1,1,"#{""abose@adobe.com""}",1425.0,61
+Python,adobe,2015-06-12,1,1,"#{""abose@adobe.com""}",1426.0,61
+Python,adobe,2015-06-29,2,1,"#{""prashant@adobe.com""}",1428.0,61
+Python,adobe,2015-07-06,1,1,"#{""prashant@adobe.com""}",1429.0,61
+Python,adobe,2015-07-08,1,1,"#{""prashant@adobe.com""}",1430.0,61
+Python,adobe,2015-07-10,2,2,"#{""prashant@adobe.com"" ""vaishnav@adobe.com""}",1432.0,61
+Python,adobe,2015-07-11,1,1,"#{""prashant@adobe.com""}",1433.0,61
+Python,adobe,2015-07-22,1,1,"#{""vaishnav@adobe.com""}",1434.0,61
+Python,adobe,2015-07-23,1,1,"#{""irichter@adobe.com""}",1435.0,61
+Python,adobe,2015-08-05,2,2,"#{""abose@adobe.com"" ""maochenyan@gmail.com""}",1437.0,62
+Python,adobe,2015-09-08,2,2,"#{""abose@adobe.com"" ""pete.a.nykanen@gmail.com""}",1439.0,63
+Python,adobe,2015-09-09,2,2,"#{""abose@adobe.com"" ""prashant@adobe.com""}",1441.0,63
+Python,adobe,2015-09-12,1,1,"#{""mg.hain@gmx.de""}",1442.0,63
+Python,adobe,2015-09-29,1,1,"#{""prashant@adobe.com""}",1443.0,63
+Python,adobe,2015-10-07,1,1,"#{""irichter@adobe.com""}",1444.0,63
+Python,adobe,2015-10-12,2,2,"#{""prashant@adobe.com"" ""mkumarb@adobe.com""}",1446.0,64
+Python,adobe,2015-10-14,1,1,"#{""abose@adobe.com""}",1447.0,64
+Python,adobe,2015-10-16,2,2,"#{""abose@adobe.com"" ""prashant@adobe.com""}",1449.0,64
+Python,adobe,2015-12-08,1,1,"#{""prashant@adobe.com""}",1450.0,64
+Python,adobe,2015-12-09,1,1,"#{""ficristo.work@gmail.com""}",1451.0,65
+Python,adobe,2015-12-22,1,1,"#{""prashant@adobe.com""}",1452.0,65
+Python,adobe,2016-01-27,2,2,"#{""abose@adobe.com"" ""prayag.verma@gmail.com""}",1454.0,66
+Python,adobe,2016-01-31,1,1,"#{""ficristo.work@gmail.com""}",1455.0,66
+Python,adobe,2016-02-01,1,1,"#{""le717.code@yahoo.com""}",1456.0,67
+Python,adobe,2016-02-02,2,1,"#{""abose@adobe.com""}",1458.0,67
+Python,adobe,2016-02-06,1,1,"#{""ficristo.work@gmail.com""}",1459.0,67
+Python,adobe,2016-04-02,1,1,"#{""ficristo.work@gmail.com""}",1460.0,67
+Python,adobe,2016-04-07,1,1,"#{""prashant@adobe.com""}",1461.0,67
+Python,adobe,2016-04-19,1,1,"#{""prashant@adobe.com""}",1462.0,67
+Python,adobe,2016-04-28,1,1,"#{""swamitra@adobe.com""}",1463.0,68
+Python,adobe,2016-05-04,1,1,"#{""prashant@adobe.com""}",1464.0,68
+Python,adobe,2016-05-06,2,2,"#{""prashant@adobe.com"" ""ficristo.work@gmail.com""}",1466.0,68
+Python,adobe,2016-05-11,2,1,"#{""prashant@adobe.com""}",1468.0,68
+Python,adobe,2016-05-12,1,1,"#{""prashant@adobe.com""}",1469.0,68
+Python,adobe,2016-05-13,3,2,"#{""swmitra@users.noreply.github.com"" ""prashant@adobe.com""}",1472.0,69
+Python,adobe,2016-05-15,1,1,"#{""prashant@adobe.com""}",1473.0,69
+Python,adobe,2016-05-17,5,1,"#{""prashant@adobe.com""}",1478.0,69
+Python,adobe,2016-05-18,2,2,"#{""swmitra@users.noreply.github.com"" ""prashant@adobe.com""}",1480.0,69
+Python,adobe,2016-05-23,2,2,"#{""swmitra@users.noreply.github.com"" ""prashant@adobe.com""}",1482.0,69
+Python,adobe,2016-05-27,2,2,"#{""swmitra@users.noreply.github.com"" ""prashant@adobe.com""}",1484.0,69
+Python,adobe,2016-05-30,2,1,"#{""ficristo.work@gmail.com""}",1486.0,69
+Python,adobe,2016-05-31,1,1,"#{""ficristo.work@gmail.com""}",1487.0,69
+Python,adobe,2016-06-02,1,1,"#{""ficristo.work@gmail.com""}",1488.0,69
+Python,adobe,2016-06-21,4,2,"#{""prashant@adobe.com"" ""ficristo.work@gmail.com""}",1492.0,69
+Python,adobe,2016-06-22,6,2,"#{""prashant@adobe.com"" ""ficristo.work@gmail.com""}",1498.0,69
+Python,adobe,2016-07-01,1,1,"#{""prashant@adobe.com""}",1499.0,69
+Python,adobe,2016-08-10,2,2,"#{""mg.hain@gmx.de"" ""ficristo.work@gmail.com""}",1501.0,69
+Python,adobe,2016-08-11,1,1,"#{""mg.hain@gmx.de""}",1502.0,69
+Python,adobe,2016-08-14,2,1,"#{""ficristo.work@gmail.com""}",1504.0,69
+Python,adobe,2016-08-15,1,1,"#{""mg.hain@gmx.de""}",1505.0,69
+Python,adobe,2016-08-16,2,1,"#{""ficristo.work@gmail.com""}",1507.0,69
+Python,adobe,2016-08-17,2,2,"#{""irichter@adobe.com"" ""ficristo.work@gmail.com""}",1509.0,69
+Python,adobe,2016-08-18,3,2,"#{""mg.hain@gmx.de"" ""ficristo.work@gmail.com""}",1512.0,69
+Python,adobe,2016-08-23,1,1,"#{""Filippo@MacBook-Pro-6.local""}",1513.0,70
+Python,adobe,2016-08-24,1,1,"#{""ficristo.work@gmail.com""}",1514.0,70
+Python,adobe,2016-08-25,1,1,"#{""ficristo.work@gmail.com""}",1515.0,70
+Python,adobe,2016-08-26,1,1,"#{""zaggino@gmail.com""}",1516.0,70
+Python,adobe,2016-08-28,1,1,"#{""ficristo.work@gmail.com""}",1517.0,70
+Python,adobe,2016-09-01,1,1,"#{""mg.hain@gmx.de""}",1518.0,70
+Python,adobe,2016-09-03,1,1,"#{""zaggino@gmail.com""}",1519.0,70
+Python,adobe,2016-09-13,1,1,"#{""Filippo@MacBook-Pro-6.local""}",1520.0,70
+Python,adobe,2016-09-14,6,2,"#{""Filippo@MacBook-Pro-6.local"" ""ficristo.work@gmail.com""}",1526.0,70
+Python,adobe,2016-09-15,4,1,"#{""ficristo.work@gmail.com""}",1530.0,70
+Python,adobe,2016-09-19,1,1,"#{""ficristo.work@gmail.com""}",1531.0,70
+Python,adobe,2016-09-25,1,1,"#{""ficristo.work@gmail.com""}",1532.0,70
+Python,adobe,2016-09-28,1,1,"#{""ficristo.work@gmail.com""}",1533.0,70
+Python,adobe,2016-10-01,4,1,"#{""ficristo.work@gmail.com""}",1537.0,70
+Python,adobe,2016-10-02,2,1,"#{""ficristo.work@gmail.com""}",1539.0,70
+Python,adobe,2016-10-04,1,1,"#{""ficristo.work@gmail.com""}",1540.0,70
+Python,adobe,2016-10-06,3,1,"#{""ficristo.work@gmail.com""}",1543.0,70
+Python,adobe,2016-10-07,1,1,"#{""ficristo.work@gmail.com""}",1544.0,70
+Python,adobe,2016-10-19,2,2,"#{""prashant@adobe.com"" ""mkumarb@adobe.com""}",1546.0,70
+Python,adobe,2016-10-23,1,1,"#{""ficristo.work@gmail.com""}",1547.0,70
+Python,adobe,2016-10-26,3,2,"#{""shubyada@adobe.com"" ""swmitra@users.noreply.github.com""}",1550.0,71
+Python,adobe,2016-10-28,1,1,"#{""ficristo.work@gmail.com""}",1551.0,71
+Python,adobe,2016-11-28,1,1,"#{""ficristo.work@gmail.com""}",1552.0,71
+Python,adobe,2017-02-15,2,2,"#{""zaggino@gmail.com"" ""kathpali@adobe.com""}",1554.0,72
+Python,adobe,2017-02-26,1,1,"#{""ficristo.work@gmail.com""}",1555.0,72
+Python,adobe,2017-02-27,1,1,"#{""zaggino@gmail.com""}",1556.0,72
+Python,adobe,2017-03-11,1,1,"#{""kathpali@adobe.com""}",1557.0,72
+Python,adobe,2017-03-13,1,1,"#{""swmitra@users.noreply.github.com""}",1558.0,72
+Python,adobe,2017-03-16,3,2,"#{""swmitra@users.noreply.github.com"" ""kathpali@adobe.com""}",1561.0,72
+Python,adobe,2017-05-03,1,1,"#{""swmitra@users.noreply.github.com""}",1562.0,72
+Python,adobe,2017-06-01,1,1,"#{""kathpali@adobe.com""}",1563.0,72
+Python,adobe,2017-06-02,1,1,"#{""prashant@adobe.com""}",1564.0,72
+Python,adobe,2017-06-05,2,1,"#{""prashant@adobe.com""}",1566.0,72
+Python,adobe,2017-06-13,1,1,"#{""prashant@adobe.com""}",1567.0,72
+Python,adobe,2017-06-15,2,1,"#{""kathpali@adobe.com""}",1569.0,72
+Python,adobe,2017-06-16,1,1,"#{""mg.hain@gmx.de""}",1570.0,72
+Python,adobe,2017-06-17,1,1,"#{""prashant@adobe.com""}",1571.0,72
+Python,adobe,2017-06-19,1,1,"#{""prashant@adobe.com""}",1572.0,72
+Python,adobe,2017-06-23,1,1,"#{""kathpali@adobe.com""}",1573.0,72
+Python,adobe,2017-06-27,1,1,"#{""kathpali@adobe.com""}",1574.0,72
+Python,adobe,2017-07-03,2,1,"#{""kathpali@adobe.com""}",1576.0,72
+Python,adobe,2017-07-07,1,1,"#{""swmitra@users.noreply.github.com""}",1577.0,72
+Python,adobe,2017-08-04,1,1,"#{""kathpali@adobe.com""}",1578.0,72
+Python,adobe,2017-08-18,1,1,"#{""hajain@adobe.com""}",1579.0,73
+Python,adobe,2017-08-21,1,1,"#{""kathpali@adobe.com""}",1580.0,73
+Python,adobe,2017-08-23,2,2,"#{""prashant@adobe.com"" ""kathpali@adobe.com""}",1582.0,73
+Python,adobe,2017-08-30,1,1,"#{""kathpali@adobe.com""}",1583.0,73
+Python,adobe,2017-09-11,1,1,"#{""boopeshmahendran@gmail.com""}",1584.0,74
+Python,adobe,2017-09-19,1,1,"#{""swmitra@users.noreply.github.com""}",1585.0,74
+Python,adobe,2017-09-22,1,1,"#{""bmahendr@adobe.com""}",1586.0,75
+Python,adobe,2017-09-25,1,1,"#{""swmitra@users.noreply.github.com""}",1587.0,75
+Python,adobe,2017-12-07,2,1,"#{""prashant@adobe.com""}",1589.0,75
+Python,adobe,2017-12-20,2,1,"#{""prashant@adobe.com""}",1591.0,75
+Python,adobe,2018-01-24,1,1,"#{""mkumarb@adobe.com""}",1592.0,75
+Python,adobe,2018-01-27,1,1,"#{""swamitra@adobe.com""}",1593.0,75
+Python,adobe,2018-01-30,1,1,"#{""shubyada@adobe.com""}",1594.0,75
+Python,adobe,2018-02-01,5,2,"#{""swmitra@users.noreply.github.com"" ""prashant@adobe.com""}",1599.0,75
+Python,adobe,2018-02-02,1,1,"#{""swmitra@users.noreply.github.com""}",1600.0,75
+Python,adobe,2018-02-19,2,1,"#{""pelatx@gmail.com""}",1602.0,76
+Python,adobe,2018-02-21,1,1,"#{""pelatx@gmail.com""}",1603.0,76
+Python,adobe,2018-02-23,1,1,"#{""pelatx@gmail.com""}",1604.0,76
+Python,adobe,2018-02-24,1,1,"#{""pelatx@gmail.com""}",1605.0,76
+Python,adobe,2018-02-25,1,1,"#{""pelatx@gmail.com""}",1606.0,76
+Python,adobe,2018-03-02,1,1,"#{""pelatx@gmail.com""}",1607.0,76
+Python,adobe,2018-03-03,1,1,"#{""pelatx@gmail.com""}",1608.0,76
+Python,adobe,2018-03-08,3,2,"#{""prashant@adobe.com"" ""pelatx@gmail.com""}",1611.0,76
+Python,adobe,2018-04-04,1,1,"#{""prashant@adobe.com""}",1612.0,76
+Python,adobe,2018-04-05,1,1,"#{""swmitra@users.noreply.github.com""}",1613.0,76
+Python,adobe,2018-04-06,1,1,"#{""pelatx@gmail.com""}",1614.0,76
+Python,adobe,2018-04-07,1,1,"#{""pelatx@gmail.com""}",1615.0,76
+Python,adobe,2018-04-13,1,1,"#{""sobisht@adobe.com""}",1616.0,77
+Python,adobe,2018-04-17,1,1,"#{""pelatx@gmail.com""}",1617.0,77
+Python,adobe,2018-04-18,1,1,"#{""miglani@adobe.com""}",1618.0,78
+Python,adobe,2018-04-19,1,1,"#{""prashant@adobe.com""}",1619.0,78
+Python,adobe,2018-04-23,1,1,"#{""38075523+niteskum@users.noreply.github.com""}",1620.0,79
+Python,adobe,2018-04-24,1,1,"#{""prashant@adobe.com""}",1621.0,79
+Python,adobe,2018-04-25,2,2,"#{""niteskum@adobe.com"" ""gavankar@users.noreply.github.com""}",1623.0,81
+Python,adobe,2018-04-27,2,2,"#{""boopeshmahendran@gmail.com"" ""miglani@adobe.com""}",1625.0,81
+Python,adobe,2018-05-02,3,2,"#{""pelatx@gmail.com"" ""gavankar@users.noreply.github.com""}",1628.0,81
+Python,adobe,2018-05-07,1,1,"#{""navch@users.noreply.github.com""}",1629.0,82
+Python,adobe,2018-05-14,3,2,"#{""gautam0217@gmail.com"" ""sobisht@SOBISHT-WX-3""}",1632.0,84
+Python,adobe,2018-05-15,1,1,"#{""sobisht@SOBISHT-WX-3""}",1633.0,84
+Python,adobe,2018-05-28,2,2,"#{""boopeshmahendran@gmail.com"" ""39121066+sabanaya@users.noreply.github.com""}",1635.0,85
+Python,adobe,2018-06-01,1,1,"#{""sujha@.adobe.com""}",1636.0,86
+Python,adobe,2018-06-04,2,2,"#{""sobisht@adobe.com"" ""vdhawal@adobe.com""}",1638.0,87
+Python,adobe,2018-06-14,1,1,"#{""sobisht@adobe.com""}",1639.0,87
+Python,adobe,2018-07-24,3,2,"#{""prashant@adobe.com"" ""38075523+niteskum@users.noreply.github.com""}",1642.0,87
+Python,adobe,2018-10-16,2,2,"#{""vdhawal@adobe.com"" ""prashant@adobe.com""}",1644.0,87
+Python,adobe,2019-05-02,2,1,"#{""shubyada@adobe.com""}",1646.0,87
+Python,adobe,2019-11-12,1,1,"#{""gjha@adobe.com""}",1647.0,88
+Python,adobe,2019-11-18,1,1,"#{""gjha@adobe.com""}",1648.0,88
+Python,adobe,2019-11-20,2,1,"#{""gjha@adobe.com""}",1650.0,88
+Python,adobe,2019-11-21,2,2,"#{""narayani@adobe.com"" ""gjha@adobe.com""}",1652.0,89
+Python,adobe,2020-03-12,1,1,"#{""niteskum@adobe.com""}",1653.0,89
+Python,adobe,2020-03-13,3,1,"#{""niteskum@adobe.com""}",1656.0,89
+Python,adobe,2020-03-17,4,1,"#{""niteskum@adobe.com""}",1660.0,89
+Python,adobe,2020-03-18,2,2,"#{""narayani@adobe.com"" ""niteskum@adobe.com""}",1662.0,89
+Python,adobe,2020-03-30,1,1,"#{""niteskum@adobe.com""}",1663.0,89
+Python,adobe,2020-03-31,1,1,"#{""narayani@adobe.com""}",1664.0,89
+Python,adobe,2021-03-01,1,1,"#{""swmitra@users.noreply.github.com""}",1665.0,89
+Python,adobe,2021-03-18,1,1,"#{""swmitra@users.noreply.github.com""}",1666.0,89

@@ -1,0 +1,136 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,cevoaustralia,2017-06-13,2,1,"#{""colin.panisset@cevo.com.au""}",2.0,1
+Python,cevoaustralia,2017-06-15,9,1,"#{""colin.panisset@cevo.com.au""}",11.0,1
+Python,cevoaustralia,2017-06-16,1,1,"#{""colin.panisset@cevo.com.au""}",12.0,1
+Python,cevoaustralia,2017-06-20,2,1,"#{""github@clabber.com""}",14.0,2
+Python,cevoaustralia,2017-06-23,1,1,"#{""steve@whitesquaresoft.com""}",15.0,3
+Python,cevoaustralia,2017-06-25,2,2,"#{""colin.panisset@cevo.com.au"" ""github@clabber.com""}",17.0,3
+Python,cevoaustralia,2017-07-10,2,1,"#{""colin.panisset@cevo.com.au""}",19.0,3
+Python,cevoaustralia,2017-07-11,2,1,"#{""steve@whitesquaresoft.com""}",21.0,3
+Python,cevoaustralia,2017-07-12,8,3,"#{""steve@whitesquaresoft.com"" ""github@clabber.com"" ""stan.yudin@cevo.com.au""}",29.0,4
+Python,cevoaustralia,2017-07-13,4,2,"#{""steve@whitesquaresoft.com"" ""github@clabber.com""}",33.0,4
+Python,cevoaustralia,2017-07-14,8,2,"#{""colin.panisset@cevo.com.au"" ""github@clabber.com""}",41.0,4
+Python,cevoaustralia,2017-07-21,3,1,"#{""pioneer@saharchuk.com""}",44.0,5
+Python,cevoaustralia,2017-07-24,15,2,"#{""colin.panisset@cevo.com.au"" ""github@clabber.com""}",59.0,5
+Python,cevoaustralia,2017-07-26,5,2,"#{""colin.panisset@cevo.com.au"" ""github@clabber.com""}",64.0,5
+Python,cevoaustralia,2017-07-31,2,2,"#{""pioneer@saharchuk.com"" ""oleksandr@juniqe.com""}",66.0,6
+Python,cevoaustralia,2017-08-01,2,2,"#{""colin.panisset@cevo.com.au"" ""github@clabber.com""}",68.0,6
+Python,cevoaustralia,2017-08-28,2,2,"#{""steve@whitesquaresoft.com"" ""kai.xia@shinesolutions.com""}",70.0,7
+Python,cevoaustralia,2017-10-16,1,1,"#{""colin.panisset@cevo.com.au""}",71.0,7
+Python,cevoaustralia,2017-11-29,1,1,"#{""oleksandr@juniqe.com""}",72.0,7
+Python,cevoaustralia,2017-12-01,3,2,"#{""mide+git@circle.com"" ""mide@circle.com""}",75.0,9
+Python,cevoaustralia,2017-12-03,1,1,"#{""steve@whitesquaresoft.com""}",76.0,9
+Python,cevoaustralia,2017-12-04,3,2,"#{""steve@whitesquaresoft.com"" ""mark@cranstonide.com""}",79.0,10
+Python,cevoaustralia,2017-12-05,5,2,"#{""colin.panisset@cevo.com.au"" ""mide@circle.com""}",84.0,10
+Python,cevoaustralia,2017-12-06,6,1,"#{""steve@whitesquaresoft.com""}",90.0,10
+Python,cevoaustralia,2017-12-07,4,4,"#{""steve@whitesquaresoft.com"" ""colin.panisset@cevo.com.au"" ""mide@circle.com"" ""github@clabber.com""}",94.0,10
+Python,cevoaustralia,2017-12-08,2,1,"#{""mide@circle.com""}",96.0,10
+Python,cevoaustralia,2017-12-12,2,2,"#{""steve@whitesquaresoft.com"" ""mide@circle.com""}",98.0,10
+Python,cevoaustralia,2017-12-22,9,1,"#{""steve@whitesquaresoft.com""}",107.0,10
+Python,cevoaustralia,2018-01-03,1,1,"#{""mide@circle.com""}",108.0,10
+Python,cevoaustralia,2018-01-09,1,1,"#{""mide@circle.com""}",109.0,10
+Python,cevoaustralia,2018-01-10,3,1,"#{""mide@circle.com""}",112.0,10
+Python,cevoaustralia,2018-01-12,4,1,"#{""mide@circle.com""}",116.0,10
+Python,cevoaustralia,2018-01-15,2,1,"#{""mide@circle.com""}",118.0,10
+Python,cevoaustralia,2018-01-16,2,1,"#{""mide@circle.com""}",120.0,10
+Python,cevoaustralia,2018-01-17,3,2,"#{""steve@whitesquaresoft.com"" ""mide@circle.com""}",123.0,10
+Python,cevoaustralia,2018-01-18,1,1,"#{""mide@circle.com""}",124.0,10
+Python,cevoaustralia,2018-01-19,5,2,"#{""mide@circle.com"" ""github@clabber.com""}",129.0,10
+Python,cevoaustralia,2018-01-22,1,1,"#{""mide@circle.com""}",130.0,10
+Python,cevoaustralia,2018-01-26,4,3,"#{""colin.panisset@cevo.com.au"" ""mide@circle.com"" ""github@clabber.com""}",134.0,10
+Python,cevoaustralia,2018-01-27,2,2,"#{""steve@whitesquaresoft.com"" ""sebastian@digitgaming.com""}",136.0,11
+Python,cevoaustralia,2018-01-28,2,1,"#{""sebastian@digitgaming.com""}",138.0,11
+Python,cevoaustralia,2018-01-29,1,1,"#{""sebastian@digitgaming.com""}",139.0,11
+Python,cevoaustralia,2018-01-30,2,2,"#{""colin.panisset@cevo.com.au"" ""github@clabber.com""}",141.0,11
+Python,cevoaustralia,2018-02-01,2,1,"#{""colin.panisset@cevo.com.au""}",143.0,11
+Python,cevoaustralia,2018-02-02,1,1,"#{""github@clabber.com""}",144.0,11
+Python,cevoaustralia,2018-02-06,2,1,"#{""jeremy.jr@gmail.com""}",146.0,12
+Python,cevoaustralia,2018-02-08,2,1,"#{""jeremy.jr@gmail.com""}",148.0,12
+Python,cevoaustralia,2018-02-11,1,1,"#{""erik.gustav.dalen@gmail.com""}",149.0,13
+Python,cevoaustralia,2018-02-12,10,2,"#{""steve@whitesquaresoft.com"" ""hachey.philippe@gmail.com""}",159.0,14
+Python,cevoaustralia,2018-02-14,2,1,"#{""steve@whitesquaresoft.com""}",161.0,14
+Python,cevoaustralia,2018-02-20,3,1,"#{""erik.gustav.dalen@gmail.com""}",164.0,14
+Python,cevoaustralia,2018-02-22,7,1,"#{""steve@whitesquaresoft.com""}",171.0,14
+Python,cevoaustralia,2018-03-09,1,1,"#{""sebastian@digitgaming.com""}",172.0,14
+Python,cevoaustralia,2018-03-15,1,1,"#{""steve@whitesquaresoft.com""}",173.0,14
+Python,cevoaustralia,2018-03-16,1,1,"#{""steve@whitesquaresoft.com""}",174.0,14
+Python,cevoaustralia,2018-03-20,7,1,"#{""steve@whitesquaresoft.com""}",181.0,14
+Python,cevoaustralia,2018-03-25,7,1,"#{""steve@whitesquaresoft.com""}",188.0,14
+Python,cevoaustralia,2018-03-30,5,2,"#{""dalen@github.com"" ""erik.gustav.dalen@gmail.com""}",193.0,15
+Python,cevoaustralia,2018-03-31,3,1,"#{""erik.gustav.dalen@gmail.com""}",196.0,15
+Python,cevoaustralia,2018-04-03,3,3,"#{""colin.panisset@cevo.com.au"" ""erik.gustav.dalen@gmail.com"" ""github@clabber.com""}",199.0,15
+Python,cevoaustralia,2018-04-04,6,1,"#{""steve@whitesquaresoft.com""}",205.0,15
+Python,cevoaustralia,2018-04-11,2,1,"#{""sebastian@digitgaming.com""}",207.0,15
+Python,cevoaustralia,2018-04-13,2,1,"#{""steve@whitesquaresoft.com""}",209.0,15
+Python,cevoaustralia,2018-05-03,3,1,"#{""steve@whitesquaresoft.com""}",212.0,15
+Python,cevoaustralia,2018-06-05,3,1,"#{""acarl005@g.ucla.edu""}",215.0,16
+Python,cevoaustralia,2018-06-27,1,1,"#{""kaspernissen@gmail.com""}",216.0,17
+Python,cevoaustralia,2018-07-10,5,1,"#{""tyler.port@gotinder.com""}",221.0,18
+Python,cevoaustralia,2018-07-23,3,1,"#{""edoardo.tenani@protonmail.com""}",224.0,19
+Python,cevoaustralia,2018-07-25,1,1,"#{""edoardo.tenani@protonmail.com""}",225.0,19
+Python,cevoaustralia,2018-07-26,1,1,"#{""tyler.port@gotinder.com""}",226.0,19
+Python,cevoaustralia,2018-07-30,2,1,"#{""edoardo.tenani@protonmail.com""}",228.0,19
+Python,cevoaustralia,2018-07-31,8,2,"#{""steve@whitesquaresoft.com"" ""edoardo.tenani@protonmail.com""}",236.0,19
+Python,cevoaustralia,2018-08-02,1,1,"#{""endorama@users.noreply.github.com""}",237.0,20
+Python,cevoaustralia,2018-08-03,7,5,"#{""steve@whitesquaresoft.com"" ""15847573+louahola@users.noreply.github.com"" ""dchan@galileo.io"" ""lou@hashchain.ca"" ""mide@circle.com""}",244.0,23
+Python,cevoaustralia,2018-08-06,3,2,"#{""15847573+louahola@users.noreply.github.com"" ""dchan@galileo.io""}",247.0,23
+Python,cevoaustralia,2018-08-07,2,2,"#{""15847573+louahola@users.noreply.github.com"" ""dchan@galileo.io""}",249.0,23
+Python,cevoaustralia,2018-08-08,9,1,"#{""steve@whitesquaresoft.com""}",258.0,23
+Python,cevoaustralia,2018-08-14,1,1,"#{""marco.baringer@deliveryhero.com""}",259.0,24
+Python,cevoaustralia,2018-08-19,10,1,"#{""steve@whitesquaresoft.com""}",269.0,24
+Python,cevoaustralia,2018-08-23,1,1,"#{""jeremy.jacquier-roux@bonitasoft.org""}",270.0,25
+Python,cevoaustralia,2018-10-13,2,1,"#{""github@mafro.net""}",272.0,26
+Python,cevoaustralia,2018-10-15,8,2,"#{""steve@whitesquaresoft.com"" ""felipe.nakandakari@jora.com""}",280.0,27
+Python,cevoaustralia,2018-10-16,2,2,"#{""steve@whitesquaresoft.com"" ""38637819+wcharaka@users.noreply.github.com""}",282.0,28
+Python,cevoaustralia,2018-10-17,2,1,"#{""charaka@Charakas-MBP.localdomain""}",284.0,29
+Python,cevoaustralia,2018-10-18,3,2,"#{""jason.eudy@inmar.com"" ""charaka@Charakas-MBP.localdomain""}",287.0,30
+Python,cevoaustralia,2018-10-19,1,1,"#{""charaka.wijesuriya@cevo.com.au""}",288.0,31
+Python,cevoaustralia,2018-11-06,2,2,"#{""charaka.wijesuriya@cevo.com.au"" ""38637819+wcharaka@users.noreply.github.com""}",290.0,31
+Python,cevoaustralia,2018-11-19,1,1,"#{""benny@noqcks.io""}",291.0,32
+Python,cevoaustralia,2018-12-17,1,1,"#{""johnspencer15@gmail.com""}",292.0,33
+Python,cevoaustralia,2019-01-09,4,1,"#{""steve@whitesquaresoft.com""}",296.0,33
+Python,cevoaustralia,2019-01-21,1,1,"#{""steve@whitesquaresoft.com""}",297.0,33
+Python,cevoaustralia,2019-02-14,1,1,"#{""jason.eudy@inmar.com""}",298.0,33
+Python,cevoaustralia,2019-02-18,1,1,"#{""steve@whitesquaresoft.com""}",299.0,33
+Python,cevoaustralia,2019-02-28,1,1,"#{""armen@kriation.com""}",300.0,34
+Python,cevoaustralia,2019-03-02,3,1,"#{""armen@kriation.com""}",303.0,34
+Python,cevoaustralia,2019-03-06,1,1,"#{""armen@kriation.com""}",304.0,34
+Python,cevoaustralia,2019-03-19,2,1,"#{""chris.tiffin@naimuri.com""}",306.0,35
+Python,cevoaustralia,2019-03-23,1,1,"#{""armen@kriation.com""}",307.0,35
+Python,cevoaustralia,2019-03-25,2,1,"#{""steve@whitesquaresoft.com""}",309.0,35
+Python,cevoaustralia,2019-03-26,1,1,"#{""steve@whitesquaresoft.com""}",310.0,35
+Python,cevoaustralia,2019-03-27,3,1,"#{""steve@whitesquaresoft.com""}",313.0,35
+Python,cevoaustralia,2019-06-14,2,1,"#{""caveman@commscentral.net""}",315.0,36
+Python,cevoaustralia,2019-06-15,3,1,"#{""caveman@commscentral.net""}",318.0,36
+Python,cevoaustralia,2019-06-21,1,1,"#{""caveman@commscentral.net""}",319.0,36
+Python,cevoaustralia,2019-06-28,1,1,"#{""caveman@commscentral.net""}",320.0,36
+Python,cevoaustralia,2019-07-23,3,1,"#{""steve@whitesquaresoft.com""}",323.0,36
+Python,cevoaustralia,2019-07-25,1,1,"#{""steve@whitesquaresoft.com""}",324.0,36
+Python,cevoaustralia,2019-07-27,1,1,"#{""steve@whitesquaresoft.com""}",325.0,36
+Python,cevoaustralia,2019-08-08,1,1,"#{""calvin@veeqo.com""}",326.0,37
+Python,cevoaustralia,2019-08-13,2,1,"#{""nigel.williams@yubico.com""}",328.0,38
+Python,cevoaustralia,2019-09-02,1,1,"#{""steve@whitesquaresoft.com""}",329.0,38
+Python,cevoaustralia,2019-09-11,2,1,"#{""ruipmarinho@gmail.com""}",331.0,39
+Python,cevoaustralia,2019-11-09,4,1,"#{""steve@whitesquaresoft.com""}",335.0,39
+Python,cevoaustralia,2019-11-17,2,2,"#{""ruipmarinho@gmail.com"" ""steve@whitesquaresoft.com""}",337.0,39
+Python,cevoaustralia,2019-11-27,2,1,"#{""avondersaar@happybits.co""}",339.0,40
+Python,cevoaustralia,2020-01-02,3,1,"#{""phillip@liveintent.com""}",342.0,41
+Python,cevoaustralia,2020-01-03,1,1,"#{""phillip@liveintent.com""}",343.0,41
+Python,cevoaustralia,2020-01-06,1,1,"#{""phillip@liveintent.com""}",344.0,41
+Python,cevoaustralia,2020-02-11,1,1,"#{""steve@whitesquaresoft.com""}",345.0,41
+Python,cevoaustralia,2020-02-27,1,1,"#{""robertcboll@gmail.com""}",346.0,42
+Python,cevoaustralia,2020-02-28,7,1,"#{""colin.panisset@cevo.com.au""}",353.0,42
+Python,cevoaustralia,2020-03-02,1,1,"#{""ventsislav.georgiev@live.com""}",354.0,43
+Python,cevoaustralia,2020-03-03,2,1,"#{""steve.foster@cevo.com.au""}",356.0,44
+Python,cevoaustralia,2020-03-26,1,1,"#{""edwin@beeswax.com""}",357.0,45
+Python,cevoaustralia,2020-03-30,2,1,"#{""edwin@beeswax.com""}",359.0,45
+Python,cevoaustralia,2020-04-13,13,1,"#{""steve@whitesquaresoft.com""}",372.0,45
+Python,cevoaustralia,2020-04-27,2,1,"#{""brunodasilvalenga@gmail.com""}",374.0,46
+Python,cevoaustralia,2020-06-12,4,1,"#{""steve@whitesquaresoft.com""}",378.0,46
+Python,cevoaustralia,2020-10-14,1,1,"#{""Nuru@users.noreply.github.com""}",379.0,47
+Python,cevoaustralia,2020-10-17,1,1,"#{""Nuru@users.noreply.github.com""}",380.0,47
+Python,cevoaustralia,2020-10-28,1,1,"#{""emtyge@gmail.com""}",381.0,48
+Python,cevoaustralia,2021-01-29,5,1,"#{""steve@whitesquaresoft.com""}",386.0,48
+Python,cevoaustralia,2021-02-01,11,1,"#{""steve@whitesquaresoft.com""}",397.0,48
+Python,cevoaustralia,2022-04-19,1,1,"#{""ezequielbarros@PPM-SPO-609854.local""}",398.0,49
+Python,cevoaustralia,2022-05-03,3,2,"#{""steve@whitesquaresoft.com"" ""steve.mactaggart@cevo.com.au""}",401.0,50

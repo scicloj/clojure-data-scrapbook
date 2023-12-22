@@ -1,0 +1,169 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/lambdaisland/regal,2020-02-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-12,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",11.0,"[{0 6, 2 5}]",0,6,0,5,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-13,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, moritz.heidkamp@bevuta.com, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",18.0,"[{0 12, 2 6}]",0,12,0,6,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com]",23.0,"[{0 12, 2 11}]",0,12,0,11,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-20,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, moritz.heidkamp@bevuta.com, moritz.heidkamp@bevuta.com]",30.0,"[{0 17, 2 13}]",0,17,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",31.0,"[{0 18, 2 13}]",0,18,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net]",33.0,"[{0 20, 2 13}]",0,20,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",34.0,"[{0 21, 2 13}]",0,21,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-02-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net]",36.0,"[{0 23, 2 13}]",0,23,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-03-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net]",38.0,"[{0 25, 2 13}]",0,25,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-03-07,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",43.0,"[{0 30, 2 13}]",0,30,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",44.0,"[{0 31, 2 13}]",0,31,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-03-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",45.0,"[{0 32, 2 13}]",0,32,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",46.0,"[{0 33, 2 13}]",0,33,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-04-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, jack@rusher.com]",48.0,"[{0 34, 2 13, ""other"" 1}]",1,34,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",49.0,"[{0 34, 2 13, ""other"" 2}]",2,34,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-04-29,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",54.0,"[{0 39, 2 13, ""other"" 2}]",2,39,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-05-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",57.0,"[{0 42, 2 13, ""other"" 2}]",2,42,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-05-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",60.0,"[{0 45, 2 13, ""other"" 2}]",2,45,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",61.0,"[{0 46, 2 13, ""other"" 2}]",2,46,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-05-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net]",63.0,"[{0 48, 2 13, ""other"" 2}]",2,48,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-05-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net]",65.0,"[{0 50, 2 13, ""other"" 2}]",2,50,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",66.0,"[{0 51, 2 13, ""other"" 2}]",2,51,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",67.0,"[{0 52, 2 13, ""other"" 2}]",2,52,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-06-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",71.0,"[{0 56, 2 13, ""other"" 2}]",2,56,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-07-17,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",84.0,"[{0 69, 2 13, ""other"" 2}]",2,69,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tommi@iki.fi]",85.0,"[{0 69, 2 13, ""other"" 3}]",3,69,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2020-07-20,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, tommi@iki.fi, arne@arnebrasseur.net]",93.0,"[{0 76, 2 13, ""other"" 4}]",4,76,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2021-04-20,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",99.0,"[{0 82, 2 13, ""other"" 4}]",4,82,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2021-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erich.oliphant@gmail.com]",100.0,"[{0 82, 2 13, ""other"" 5}]",5,82,0,13,0,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lumimies@gmail.com, lumimies@gmail.com]",102.0,"[{0 82, 2 13, ""other"" 5, 3 2}]",5,82,0,13,2,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lumimies@gmail.com]",103.0,"[{0 82, 2 13, ""other"" 5, 3 3}]",5,82,0,13,3,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-17,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co]",109.0,"[{0 82, 2 13, ""other"" 5, 3 3, 1 6}]",5,82,6,13,3,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lumimies@gmail.com, lumimies@gmail.com]",111.0,"[{0 82, 2 13, ""other"" 5, 3 5, 1 6}]",5,82,6,13,5,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-24,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co]",117.0,"[{0 82, 2 13, ""other"" 5, 3 5, 1 12}]",5,82,12,13,5,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[zab1000+github@gmail.com, alys@gaiwan.co]",119.0,"[{0 82, 2 13, ""other"" 6, 3 5, 1 13}]",6,82,13,13,5,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",122.0,"[{0 85, 2 13, ""other"" 6, 3 5, 1 13}]",6,85,13,13,5,0
+Clojure,https://github.com/lambdaisland/regal,2021-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lumimies@gmail.com]",123.0,"[{0 85, 2 13, ""other"" 6, 3 6, 1 13}]",6,85,13,13,6,0
+Clojure,https://github.com/lambdaisland/regal,2021-07-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alys@gaiwan.co, alys@gaiwan.co]",125.0,"[{0 85, 2 13, ""other"" 6, 3 6, 1 15}]",6,85,15,13,6,0
+Clojure,https://github.com/lambdaisland/regal,2021-07-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co]",128.0,"[{0 85, 2 13, ""other"" 6, 3 6, 1 18}]",6,85,18,13,6,0
+Clojure,https://github.com/lambdaisland/regal,2021-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alys@gaiwan.co]",129.0,"[{0 85, 2 13, ""other"" 6, 3 6, 1 19}]",6,85,19,13,6,0
+Clojure,https://github.com/lambdaisland/regal,2021-07-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[zab1000+github@gmail.com, zab1000+github@gmail.com]",131.0,"[{0 85, 2 13, ""other"" 8, 3 6, 1 19}]",8,85,19,13,6,0
+Clojure,https://github.com/lambdaisland/regal,2021-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dan@dorman.us]",132.0,"[{0 85, 2 13, ""other"" 9, 3 6, 1 19}]",9,85,19,13,6,0
+Clojure,https://github.com/lambdaisland/regal,2021-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[humorless@gmail.com]",133.0,"[{0 85, 2 13, ""other"" 9, 3 6, 1 19, 4 1}]",9,85,19,13,6,1
+Clojure,https://github.com/lambdaisland/regal,2021-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[humorless@gmail.com]",134.0,"[{0 85, 2 13, ""other"" 9, 3 6, 1 19, 4 2}]",9,85,19,13,6,2
+Clojure,https://github.com/lambdaisland/regal,2021-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dan@dorman.us]",135.0,"[{0 85, 2 13, ""other"" 10, 3 6, 1 19, 4 2}]",10,85,19,13,6,2
+Clojure,https://github.com/lambdaisland/regal,2021-10-05,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dan@dorman.us, alys@gaiwan.co, alys@gaiwan.co]",138.0,"[{0 85, 2 13, ""other"" 11, 3 6, 1 21, 4 2}]",11,85,21,13,6,2
+Clojure,https://github.com/lambdaisland/regal,2021-10-12,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[humorless@gmail.com, humorless@gmail.com, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co]",149.0,"[{0 85, 2 13, ""other"" 11, 3 6, 1 30, 4 4}]",11,85,30,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2021-10-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alys@gaiwan.co]",150.0,"[{0 85, 2 13, ""other"" 11, 3 6, 1 31, 4 4}]",11,85,31,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2021-10-21,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co, alys@gaiwan.co]",156.0,"[{0 85, 2 13, ""other"" 11, 3 6, 1 37, 4 4}]",11,85,37,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2022-05-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pt.roterski@gmail.com, pt.roterski@gmail.com]",158.0,"[{0 85, 2 13, ""other"" 13, 3 6, 1 37, 4 4}]",13,85,37,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2022-05-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net]",160.0,"[{0 87, 2 13, ""other"" 13, 3 6, 1 37, 4 4}]",13,87,37,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2022-09-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net, arne@arnebrasseur.net]",164.0,"[{0 91, 2 13, ""other"" 13, 3 6, 1 37, 4 4}]",13,91,37,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2022-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@dlread.com]",165.0,"[{0 91, 2 13, ""other"" 14, 3 6, 1 37, 4 4}]",14,91,37,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2022-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",166.0,"[{0 92, 2 13, ""other"" 14, 3 6, 1 37, 4 4}]",14,92,37,13,6,4
+Clojure,https://github.com/lambdaisland/regal,2023-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alys@gaiwan.co]",167.0,"[{0 92, 2 13, ""other"" 14, 3 6, 1 38, 4 4}]",14,92,38,13,6,4

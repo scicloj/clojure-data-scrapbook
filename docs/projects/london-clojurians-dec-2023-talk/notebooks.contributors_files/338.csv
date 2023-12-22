@@ -1,0 +1,297 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,mhuebert,2016-11-11,7,1,"#{""no-email@gmail.com""}",7.0,1
+Clojure,mhuebert,2016-11-13,16,2,"#{""jack@rusher.com"" ""no-email@gmail.com""}",23.0,2
+Clojure,mhuebert,2016-11-14,16,2,"#{""jack@rusher.com"" ""no-email@gmail.com""}",39.0,2
+Clojure,mhuebert,2016-11-15,13,1,"#{""no-email@gmail.com""}",52.0,2
+Clojure,mhuebert,2016-11-16,19,3,"#{""jack@rusher.com"" ""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",71.0,3
+Clojure,mhuebert,2016-11-17,6,1,"#{""no-email@gmail.com""}",77.0,3
+Clojure,mhuebert,2016-11-18,6,2,"#{""jack@rusher.com"" ""dave.liepmann@gmail.com""}",83.0,3
+Clojure,mhuebert,2016-11-19,32,3,"#{""jack@rusher.com"" ""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",115.0,3
+Clojure,mhuebert,2016-11-20,3,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",118.0,3
+Clojure,mhuebert,2016-11-21,3,1,"#{""no-email@gmail.com""}",121.0,3
+Clojure,mhuebert,2016-11-22,1,1,"#{""no-email@gmail.com""}",122.0,3
+Clojure,mhuebert,2016-11-24,2,1,"#{""no-email@gmail.com""}",124.0,3
+Clojure,mhuebert,2016-11-25,3,1,"#{""no-email@gmail.com""}",127.0,3
+Clojure,mhuebert,2016-11-27,6,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",133.0,3
+Clojure,mhuebert,2016-11-28,3,1,"#{""no-email@gmail.com""}",136.0,3
+Clojure,mhuebert,2016-11-29,2,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",138.0,3
+Clojure,mhuebert,2016-11-30,3,1,"#{""no-email@gmail.com""}",141.0,3
+Clojure,mhuebert,2016-12-01,13,1,"#{""no-email@gmail.com""}",154.0,3
+Clojure,mhuebert,2016-12-02,2,1,"#{""no-email@gmail.com""}",156.0,3
+Clojure,mhuebert,2016-12-05,2,1,"#{""no-email@gmail.com""}",158.0,3
+Clojure,mhuebert,2016-12-09,1,1,"#{""no-email@gmail.com""}",159.0,3
+Clojure,mhuebert,2016-12-11,1,1,"#{""no-email@gmail.com""}",160.0,3
+Clojure,mhuebert,2016-12-13,1,1,"#{""no-email@gmail.com""}",161.0,3
+Clojure,mhuebert,2016-12-14,3,1,"#{""dave.liepmann@gmail.com""}",164.0,3
+Clojure,mhuebert,2016-12-17,3,1,"#{""no-email@gmail.com""}",167.0,3
+Clojure,mhuebert,2016-12-18,2,1,"#{""dave.liepmann@gmail.com""}",169.0,3
+Clojure,mhuebert,2017-03-18,2,1,"#{""dave.liepmann@gmail.com""}",171.0,3
+Clojure,mhuebert,2017-03-20,1,1,"#{""dave.liepmann@gmail.com""}",172.0,3
+Clojure,mhuebert,2017-03-22,2,1,"#{""no-email@gmail.com""}",174.0,3
+Clojure,mhuebert,2017-04-16,1,1,"#{""dave.liepmann@gmail.com""}",175.0,3
+Clojure,mhuebert,2017-05-23,11,1,"#{""no-email@gmail.com""}",186.0,3
+Clojure,mhuebert,2017-05-24,6,1,"#{""no-email@gmail.com""}",192.0,3
+Clojure,mhuebert,2017-05-25,3,1,"#{""no-email@gmail.com""}",195.0,3
+Clojure,mhuebert,2017-05-26,1,1,"#{""no-email@gmail.com""}",196.0,3
+Clojure,mhuebert,2017-05-27,7,1,"#{""dave.liepmann@gmail.com""}",203.0,3
+Clojure,mhuebert,2017-05-28,5,1,"#{""no-email@gmail.com""}",208.0,3
+Clojure,mhuebert,2017-05-29,10,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",218.0,3
+Clojure,mhuebert,2017-05-30,9,1,"#{""no-email@gmail.com""}",227.0,3
+Clojure,mhuebert,2017-06-02,16,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",243.0,3
+Clojure,mhuebert,2017-06-06,3,3,"#{""mhuebert@gmail.com"" ""arne@arnebrasseur.net"" ""no-email@gmail.com""}",246.0,5
+Clojure,mhuebert,2017-06-07,8,1,"#{""dave.liepmann@gmail.com""}",254.0,5
+Clojure,mhuebert,2017-06-08,9,3,"#{""jack@rusher.com"" ""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",263.0,5
+Clojure,mhuebert,2017-06-09,3,2,"#{""jack@rusher.com"" ""dave.liepmann@gmail.com""}",266.0,5
+Clojure,mhuebert,2017-06-10,5,2,"#{""jack@rusher.com"" ""dave.liepmann@gmail.com""}",271.0,5
+Clojure,mhuebert,2017-06-12,5,2,"#{""jack@rusher.com"" ""dave.liepmann@gmail.com""}",276.0,5
+Clojure,mhuebert,2017-06-13,1,1,"#{""dave.liepmann@gmail.com""}",277.0,5
+Clojure,mhuebert,2017-06-14,2,1,"#{""jack@rusher.com""}",279.0,5
+Clojure,mhuebert,2017-06-15,3,1,"#{""jack@rusher.com""}",282.0,5
+Clojure,mhuebert,2017-06-19,2,1,"#{""jack@rusher.com""}",284.0,5
+Clojure,mhuebert,2017-06-20,2,1,"#{""jack@rusher.com""}",286.0,5
+Clojure,mhuebert,2017-06-25,11,1,"#{""no-email@gmail.com""}",297.0,5
+Clojure,mhuebert,2017-06-26,4,2,"#{""jack@rusher.com"" ""no-email@gmail.com""}",301.0,5
+Clojure,mhuebert,2017-06-30,14,3,"#{""jack@rusher.com"" ""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",315.0,5
+Clojure,mhuebert,2017-07-01,3,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",318.0,5
+Clojure,mhuebert,2017-07-02,12,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",330.0,5
+Clojure,mhuebert,2017-07-03,1,1,"#{""dave.liepmann@gmail.com""}",331.0,5
+Clojure,mhuebert,2017-07-05,5,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",336.0,5
+Clojure,mhuebert,2017-07-06,8,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",344.0,5
+Clojure,mhuebert,2017-07-07,1,1,"#{""no-email@gmail.com""}",345.0,5
+Clojure,mhuebert,2017-07-08,1,1,"#{""jack@rusher.com""}",346.0,5
+Clojure,mhuebert,2017-07-09,4,2,"#{""jack@rusher.com"" ""no-email@gmail.com""}",350.0,5
+Clojure,mhuebert,2017-07-10,21,4,"#{""daiyitastic@gmail.com"" ""jack@rusher.com"" ""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",371.0,6
+Clojure,mhuebert,2017-07-11,21,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",392.0,6
+Clojure,mhuebert,2017-07-12,10,2,"#{""jack@rusher.com"" ""no-email@gmail.com""}",402.0,6
+Clojure,mhuebert,2017-07-13,14,3,"#{""jack@rusher.com"" ""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",416.0,6
+Clojure,mhuebert,2017-07-14,3,1,"#{""no-email@gmail.com""}",419.0,6
+Clojure,mhuebert,2017-07-15,8,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",427.0,6
+Clojure,mhuebert,2017-07-16,2,1,"#{""no-email@gmail.com""}",429.0,6
+Clojure,mhuebert,2017-07-17,6,1,"#{""no-email@gmail.com""}",435.0,6
+Clojure,mhuebert,2017-07-18,3,1,"#{""no-email@gmail.com""}",438.0,6
+Clojure,mhuebert,2017-07-19,2,2,"#{""mhuebert@gmail.com"" ""no-email@gmail.com""}",440.0,6
+Clojure,mhuebert,2017-07-20,2,1,"#{""no-email@gmail.com""}",442.0,6
+Clojure,mhuebert,2017-07-23,10,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",452.0,6
+Clojure,mhuebert,2017-07-24,12,3,"#{""jack@rusher.com"" ""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",464.0,6
+Clojure,mhuebert,2017-07-25,3,1,"#{""no-email@gmail.com""}",467.0,6
+Clojure,mhuebert,2017-07-26,5,1,"#{""no-email@gmail.com""}",472.0,6
+Clojure,mhuebert,2017-07-28,1,1,"#{""dave.liepmann@gmail.com""}",473.0,6
+Clojure,mhuebert,2017-07-31,5,1,"#{""no-email@gmail.com""}",478.0,6
+Clojure,mhuebert,2017-08-04,10,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",488.0,6
+Clojure,mhuebert,2017-08-05,5,1,"#{""no-email@gmail.com""}",493.0,6
+Clojure,mhuebert,2017-08-07,5,1,"#{""no-email@gmail.com""}",498.0,6
+Clojure,mhuebert,2017-08-08,4,1,"#{""no-email@gmail.com""}",502.0,6
+Clojure,mhuebert,2017-08-10,1,1,"#{""no-email@gmail.com""}",503.0,6
+Clojure,mhuebert,2017-08-11,1,1,"#{""no-email@gmail.com""}",504.0,6
+Clojure,mhuebert,2017-08-12,1,1,"#{""no-email@gmail.com""}",505.0,6
+Clojure,mhuebert,2017-08-13,4,1,"#{""dave.liepmann@gmail.com""}",509.0,6
+Clojure,mhuebert,2017-08-14,3,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",512.0,6
+Clojure,mhuebert,2017-08-15,3,1,"#{""no-email@gmail.com""}",515.0,6
+Clojure,mhuebert,2017-08-17,1,1,"#{""no-email@gmail.com""}",516.0,6
+Clojure,mhuebert,2017-08-18,2,1,"#{""no-email@gmail.com""}",518.0,6
+Clojure,mhuebert,2017-08-19,2,1,"#{""no-email@gmail.com""}",520.0,6
+Clojure,mhuebert,2017-08-20,2,1,"#{""no-email@gmail.com""}",522.0,6
+Clojure,mhuebert,2017-08-22,4,1,"#{""no-email@gmail.com""}",526.0,6
+Clojure,mhuebert,2017-08-23,1,1,"#{""no-email@gmail.com""}",527.0,6
+Clojure,mhuebert,2017-08-24,1,1,"#{""no-email@gmail.com""}",528.0,6
+Clojure,mhuebert,2017-08-25,1,1,"#{""no-email@gmail.com""}",529.0,6
+Clojure,mhuebert,2017-08-26,3,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",532.0,6
+Clojure,mhuebert,2017-08-27,1,1,"#{""no-email@gmail.com""}",533.0,6
+Clojure,mhuebert,2017-08-28,1,1,"#{""no-email@gmail.com""}",534.0,6
+Clojure,mhuebert,2017-08-29,4,1,"#{""no-email@gmail.com""}",538.0,6
+Clojure,mhuebert,2017-08-31,2,1,"#{""no-email@gmail.com""}",540.0,6
+Clojure,mhuebert,2017-09-01,1,1,"#{""dave.liepmann@gmail.com""}",541.0,6
+Clojure,mhuebert,2017-09-02,13,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",554.0,6
+Clojure,mhuebert,2017-09-04,1,1,"#{""no-email@gmail.com""}",555.0,6
+Clojure,mhuebert,2017-09-05,5,1,"#{""no-email@gmail.com""}",560.0,6
+Clojure,mhuebert,2017-09-06,3,1,"#{""no-email@gmail.com""}",563.0,6
+Clojure,mhuebert,2017-09-07,1,1,"#{""no-email@gmail.com""}",564.0,6
+Clojure,mhuebert,2017-09-09,2,1,"#{""no-email@gmail.com""}",566.0,6
+Clojure,mhuebert,2017-09-10,5,2,"#{""no-email@gmail.com"" ""dave.liepmann@gmail.com""}",571.0,6
+Clojure,mhuebert,2017-09-11,14,2,"#{""mhuebert@gmail.com"" ""no-email@gmail.com""}",585.0,6
+Clojure,mhuebert,2017-09-12,5,1,"#{""mhuebert@gmail.com""}",590.0,6
+Clojure,mhuebert,2017-09-13,7,1,"#{""mhuebert@gmail.com""}",597.0,6
+Clojure,mhuebert,2017-09-14,5,1,"#{""mhuebert@gmail.com""}",602.0,6
+Clojure,mhuebert,2017-09-15,1,1,"#{""mhuebert@gmail.com""}",603.0,6
+Clojure,mhuebert,2017-09-16,1,1,"#{""mhuebert@gmail.com""}",604.0,6
+Clojure,mhuebert,2017-09-17,1,1,"#{""mhuebert@gmail.com""}",605.0,6
+Clojure,mhuebert,2017-09-19,4,1,"#{""mhuebert@gmail.com""}",609.0,6
+Clojure,mhuebert,2017-09-21,4,1,"#{""mhuebert@gmail.com""}",613.0,6
+Clojure,mhuebert,2017-09-22,1,1,"#{""mhuebert@gmail.com""}",614.0,6
+Clojure,mhuebert,2017-09-23,9,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",623.0,6
+Clojure,mhuebert,2017-09-24,21,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",644.0,6
+Clojure,mhuebert,2017-09-25,3,1,"#{""mhuebert@gmail.com""}",647.0,6
+Clojure,mhuebert,2017-09-26,19,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",666.0,6
+Clojure,mhuebert,2017-09-27,10,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",676.0,6
+Clojure,mhuebert,2017-09-28,5,1,"#{""mhuebert@gmail.com""}",681.0,6
+Clojure,mhuebert,2017-09-29,3,1,"#{""mhuebert@gmail.com""}",684.0,6
+Clojure,mhuebert,2017-09-30,9,1,"#{""dave.liepmann@gmail.com""}",693.0,6
+Clojure,mhuebert,2017-10-01,38,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",731.0,6
+Clojure,mhuebert,2017-10-02,5,1,"#{""dave.liepmann@gmail.com""}",736.0,6
+Clojure,mhuebert,2017-10-03,5,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",741.0,6
+Clojure,mhuebert,2017-10-04,9,3,"#{""mhuebert@gmail.com"" ""jack@rusher.com"" ""dave.liepmann@gmail.com""}",750.0,6
+Clojure,mhuebert,2017-10-05,2,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",752.0,6
+Clojure,mhuebert,2017-10-06,21,3,"#{""mhuebert@gmail.com"" ""jack@rusher.com"" ""dave.liepmann@gmail.com""}",773.0,6
+Clojure,mhuebert,2017-10-07,1,1,"#{""mhuebert@gmail.com""}",774.0,6
+Clojure,mhuebert,2017-10-08,5,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",779.0,6
+Clojure,mhuebert,2017-10-09,1,1,"#{""jack@rusher.com""}",780.0,6
+Clojure,mhuebert,2017-10-10,2,1,"#{""dave.liepmann@gmail.com""}",782.0,6
+Clojure,mhuebert,2017-10-12,5,1,"#{""mhuebert@gmail.com""}",787.0,6
+Clojure,mhuebert,2017-10-16,6,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",793.0,6
+Clojure,mhuebert,2017-10-17,9,1,"#{""mhuebert@gmail.com""}",802.0,6
+Clojure,mhuebert,2017-10-18,14,1,"#{""mhuebert@gmail.com""}",816.0,6
+Clojure,mhuebert,2017-10-19,1,1,"#{""mhuebert@gmail.com""}",817.0,6
+Clojure,mhuebert,2017-10-23,2,1,"#{""mhuebert@gmail.com""}",819.0,6
+Clojure,mhuebert,2017-10-25,1,1,"#{""mhuebert@gmail.com""}",820.0,6
+Clojure,mhuebert,2017-10-26,3,1,"#{""mhuebert@gmail.com""}",823.0,6
+Clojure,mhuebert,2017-10-27,3,1,"#{""mhuebert@gmail.com""}",826.0,6
+Clojure,mhuebert,2017-10-31,13,1,"#{""mhuebert@gmail.com""}",839.0,6
+Clojure,mhuebert,2017-11-01,4,1,"#{""mhuebert@gmail.com""}",843.0,6
+Clojure,mhuebert,2017-11-07,1,1,"#{""mhuebert@gmail.com""}",844.0,6
+Clojure,mhuebert,2017-11-12,1,1,"#{""mhuebert@gmail.com""}",845.0,6
+Clojure,mhuebert,2018-01-20,7,1,"#{""mhuebert@gmail.com""}",852.0,6
+Clojure,mhuebert,2018-01-21,5,1,"#{""mhuebert@gmail.com""}",857.0,6
+Clojure,mhuebert,2018-01-22,24,1,"#{""mhuebert@gmail.com""}",881.0,6
+Clojure,mhuebert,2018-01-23,2,1,"#{""mhuebert@gmail.com""}",883.0,6
+Clojure,mhuebert,2018-01-24,2,1,"#{""mhuebert@gmail.com""}",885.0,6
+Clojure,mhuebert,2018-02-21,1,1,"#{""mhuebert@gmail.com""}",886.0,6
+Clojure,mhuebert,2018-02-22,2,1,"#{""mhuebert@gmail.com""}",888.0,6
+Clojure,mhuebert,2018-02-23,9,2,"#{""mhuebert@gmail.com"" ""jack@rusher.com""}",897.0,6
+Clojure,mhuebert,2018-02-24,7,1,"#{""mhuebert@gmail.com""}",904.0,6
+Clojure,mhuebert,2018-02-26,3,2,"#{""mhuebert@gmail.com"" ""zebian93@gmail.com""}",907.0,7
+Clojure,mhuebert,2018-02-27,5,1,"#{""dave.liepmann@gmail.com""}",912.0,7
+Clojure,mhuebert,2018-02-28,7,1,"#{""dave.liepmann@gmail.com""}",919.0,7
+Clojure,mhuebert,2018-03-01,3,1,"#{""dave.liepmann@gmail.com""}",922.0,7
+Clojure,mhuebert,2018-03-02,1,1,"#{""dave.liepmann@gmail.com""}",923.0,7
+Clojure,mhuebert,2018-03-04,5,1,"#{""dave.liepmann@gmail.com""}",928.0,7
+Clojure,mhuebert,2018-03-05,6,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",934.0,7
+Clojure,mhuebert,2018-03-06,4,2,"#{""jack@rusher.com"" ""dave.liepmann@gmail.com""}",938.0,7
+Clojure,mhuebert,2018-03-07,7,1,"#{""dave.liepmann@gmail.com""}",945.0,7
+Clojure,mhuebert,2018-03-08,3,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",948.0,7
+Clojure,mhuebert,2018-03-09,8,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",956.0,7
+Clojure,mhuebert,2018-03-10,6,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",962.0,7
+Clojure,mhuebert,2018-03-11,4,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",966.0,7
+Clojure,mhuebert,2018-03-12,3,2,"#{""mhuebert@gmail.com"" ""jack@rusher.com""}",969.0,7
+Clojure,mhuebert,2018-03-14,9,1,"#{""mhuebert@gmail.com""}",978.0,7
+Clojure,mhuebert,2018-03-15,4,1,"#{""mhuebert@gmail.com""}",982.0,7
+Clojure,mhuebert,2018-03-16,2,1,"#{""dave.liepmann@gmail.com""}",984.0,7
+Clojure,mhuebert,2018-03-20,3,3,"#{""jack@rusher.com"" ""mail@fnumatic.de"" ""dave.liepmann@gmail.com""}",987.0,8
+Clojure,mhuebert,2018-04-01,2,1,"#{""dave.liepmann@gmail.com""}",989.0,8
+Clojure,mhuebert,2018-04-03,4,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",993.0,8
+Clojure,mhuebert,2018-04-10,1,1,"#{""mhuebert@gmail.com""}",994.0,8
+Clojure,mhuebert,2018-05-10,2,1,"#{""dave.liepmann@gmail.com""}",996.0,8
+Clojure,mhuebert,2019-04-27,8,1,"#{""mhuebert@gmail.com""}",1004.0,8
+Clojure,mhuebert,2019-05-02,5,1,"#{""mhuebert@gmail.com""}",1009.0,8
+Clojure,mhuebert,2019-05-03,2,1,"#{""mhuebert@gmail.com""}",1011.0,8
+Clojure,mhuebert,2019-05-05,12,1,"#{""mhuebert@gmail.com""}",1023.0,8
+Clojure,mhuebert,2019-05-06,11,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",1034.0,8
+Clojure,mhuebert,2019-05-07,17,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",1051.0,8
+Clojure,mhuebert,2019-05-08,6,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",1057.0,8
+Clojure,mhuebert,2019-05-09,7,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",1064.0,8
+Clojure,mhuebert,2019-05-10,5,2,"#{""jack@rusher.com"" ""dave.liepmann@gmail.com""}",1069.0,8
+Clojure,mhuebert,2019-05-11,1,1,"#{""mhuebert@gmail.com""}",1070.0,8
+Clojure,mhuebert,2019-05-12,6,1,"#{""dave.liepmann@gmail.com""}",1076.0,8
+Clojure,mhuebert,2019-05-15,1,1,"#{""mhuebert@gmail.com""}",1077.0,8
+Clojure,mhuebert,2019-05-16,1,1,"#{""jack@rusher.com""}",1078.0,8
+Clojure,mhuebert,2019-11-15,14,1,"#{""mhuebert@gmail.com""}",1092.0,8
+Clojure,mhuebert,2019-11-16,3,1,"#{""mhuebert@gmail.com""}",1095.0,8
+Clojure,mhuebert,2019-11-17,1,1,"#{""mhuebert@gmail.com""}",1096.0,8
+Clojure,mhuebert,2020-02-12,5,2,"#{""mhuebert@gmail.com"" ""dave.liepmann@gmail.com""}",1101.0,8
+Clojure,mhuebert,2020-03-02,4,1,"#{""mhuebert@gmail.com""}",1105.0,8
+Clojure,mhuebert,2020-07-18,1,1,"#{""68407690+kekacoutinho@users.noreply.github.com""}",1106.0,9
+Clojure,mhuebert,2020-09-04,1,1,"#{""jack@rusher.com""}",1107.0,9
+Clojure,mhuebert,2020-09-26,1,1,"#{""mhuebert@gmail.com""}",1108.0,9
+Clojure,mhuebert,2020-10-18,6,1,"#{""mhuebert@gmail.com""}",1114.0,9
+Clojure,mhuebert,2020-10-19,1,1,"#{""mhuebert@gmail.com""}",1115.0,9
+Clojure,mhuebert,2021-01-29,1,1,"#{""dave.liepmann@gmail.com""}",1116.0,9
+Clojure,mhuebert,2022-02-21,9,2,"#{""mhuebert@gmail.com"" ""49699333+dependabot[bot]@users.noreply.github.com""}",1125.0,10
+Clojure,mhuebert,2022-02-22,1,1,"#{""mhuebert@gmail.com""}",1126.0,10
+Clojure,mhuebert,2022-03-26,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",1127.0,10
+Clojure,mhuebert,2022-04-02,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",1128.0,10
+Clojure,mhuebert,2022-04-15,2,1,"#{""mhuebert@gmail.com""}",1130.0,10
+Clojure,mhuebert,2022-09-07,17,1,"#{""mhuebert@gmail.com""}",1147.0,10
+Clojure,mhuebert,2022-09-08,2,1,"#{""mhuebert@gmail.com""}",1149.0,10
+Clojure,mhuebert,2022-09-14,2,1,"#{""mhuebert@gmail.com""}",1151.0,10
+Clojure,mhuebert,2022-09-19,1,1,"#{""mhuebert@gmail.com""}",1152.0,10
+Clojure,mhuebert,2022-09-21,1,1,"#{""mhuebert@gmail.com""}",1153.0,10
+Clojure,mhuebert,2022-09-22,1,1,"#{""mhuebert@gmail.com""}",1154.0,10
+Clojure,mhuebert,2022-09-23,1,1,"#{""mhuebert@gmail.com""}",1155.0,10
+Clojure,mhuebert,2022-09-26,2,1,"#{""mhuebert@gmail.com""}",1157.0,10
+Clojure,mhuebert,2022-09-27,2,1,"#{""mhuebert@gmail.com""}",1159.0,10
+Clojure,mhuebert,2022-09-30,3,1,"#{""mhuebert@gmail.com""}",1162.0,10
+Clojure,mhuebert,2022-10-01,3,1,"#{""mhuebert@gmail.com""}",1165.0,10
+Clojure,mhuebert,2022-10-02,1,1,"#{""mhuebert@gmail.com""}",1166.0,10
+Clojure,mhuebert,2022-10-03,1,1,"#{""mhuebert@gmail.com""}",1167.0,10
+Clojure,mhuebert,2022-10-06,1,1,"#{""mhuebert@gmail.com""}",1168.0,10
+Clojure,mhuebert,2022-10-07,2,1,"#{""mhuebert@gmail.com""}",1170.0,10
+Clojure,mhuebert,2022-10-08,1,1,"#{""mhuebert@gmail.com""}",1171.0,10
+Clojure,mhuebert,2022-10-09,2,1,"#{""mhuebert@gmail.com""}",1173.0,10
+Clojure,mhuebert,2022-10-11,1,1,"#{""mhuebert@gmail.com""}",1174.0,10
+Clojure,mhuebert,2022-10-13,7,1,"#{""mhuebert@gmail.com""}",1181.0,10
+Clojure,mhuebert,2022-10-19,1,1,"#{""mhuebert@gmail.com""}",1182.0,10
+Clojure,mhuebert,2022-10-20,1,1,"#{""mhuebert@gmail.com""}",1183.0,10
+Clojure,mhuebert,2022-10-21,1,1,"#{""mhuebert@gmail.com""}",1184.0,10
+Clojure,mhuebert,2022-10-23,1,1,"#{""mhuebert@gmail.com""}",1185.0,10
+Clojure,mhuebert,2022-10-24,1,1,"#{""mhuebert@gmail.com""}",1186.0,10
+Clojure,mhuebert,2022-10-25,2,1,"#{""mhuebert@gmail.com""}",1188.0,10
+Clojure,mhuebert,2022-10-31,5,1,"#{""mhuebert@gmail.com""}",1193.0,10
+Clojure,mhuebert,2022-11-07,1,1,"#{""mhuebert@gmail.com""}",1194.0,10
+Clojure,mhuebert,2022-11-08,2,1,"#{""mhuebert@gmail.com""}",1196.0,10
+Clojure,mhuebert,2022-11-15,2,1,"#{""mhuebert@gmail.com""}",1198.0,10
+Clojure,mhuebert,2022-11-17,1,1,"#{""mhuebert@gmail.com""}",1199.0,10
+Clojure,mhuebert,2022-11-18,1,1,"#{""mhuebert@gmail.com""}",1200.0,10
+Clojure,mhuebert,2022-11-19,1,1,"#{""mhuebert@gmail.com""}",1201.0,10
+Clojure,mhuebert,2022-11-21,2,1,"#{""mhuebert@gmail.com""}",1203.0,10
+Clojure,mhuebert,2022-11-25,5,1,"#{""mhuebert@gmail.com""}",1208.0,10
+Clojure,mhuebert,2022-11-28,1,1,"#{""mhuebert@gmail.com""}",1209.0,10
+Clojure,mhuebert,2022-11-29,2,1,"#{""mhuebert@gmail.com""}",1211.0,10
+Clojure,mhuebert,2022-11-30,2,1,"#{""mhuebert@gmail.com""}",1213.0,10
+Clojure,mhuebert,2023-01-22,1,1,"#{""mhuebert@gmail.com""}",1214.0,10
+Clojure,mhuebert,2023-02-14,1,1,"#{""dave.liepmann@gmail.com""}",1215.0,10
+Clojure,mhuebert,2023-03-03,1,1,"#{""mhuebert@gmail.com""}",1216.0,10
+Clojure,mhuebert,2023-03-05,1,1,"#{""mhuebert@gmail.com""}",1217.0,10
+Clojure,mhuebert,2023-03-06,1,1,"#{""mhuebert@gmail.com""}",1218.0,10
+Clojure,mhuebert,2023-03-07,1,1,"#{""mhuebert@gmail.com""}",1219.0,10
+Clojure,mhuebert,2023-03-08,1,1,"#{""mhuebert@gmail.com""}",1220.0,10
+Clojure,mhuebert,2023-03-09,3,1,"#{""mhuebert@gmail.com""}",1223.0,10
+Clojure,mhuebert,2023-03-10,2,1,"#{""mhuebert@gmail.com""}",1225.0,10
+Clojure,mhuebert,2023-03-20,1,1,"#{""mhuebert@gmail.com""}",1226.0,10
+Clojure,mhuebert,2023-04-03,3,1,"#{""mhuebert@gmail.com""}",1229.0,10
+Clojure,mhuebert,2023-04-10,4,1,"#{""mhuebert@gmail.com""}",1233.0,10
+Clojure,mhuebert,2023-04-11,1,1,"#{""mhuebert@gmail.com""}",1234.0,10
+Clojure,mhuebert,2023-04-12,2,1,"#{""mhuebert@gmail.com""}",1236.0,10
+Clojure,mhuebert,2023-04-13,14,1,"#{""mhuebert@gmail.com""}",1250.0,10
+Clojure,mhuebert,2023-04-16,1,1,"#{""mhuebert@gmail.com""}",1251.0,10
+Clojure,mhuebert,2023-04-17,2,1,"#{""mhuebert@gmail.com""}",1253.0,10
+Clojure,mhuebert,2023-05-11,1,1,"#{""dave.liepmann@gmail.com""}",1254.0,10
+Clojure,mhuebert,2023-05-15,2,1,"#{""dave.liepmann@gmail.com""}",1256.0,10
+Clojure,mhuebert,2023-05-17,1,1,"#{""dave.liepmann@gmail.com""}",1257.0,10
+Clojure,mhuebert,2023-06-10,1,1,"#{""mhuebert@gmail.com""}",1258.0,10
+Clojure,mhuebert,2023-07-03,2,1,"#{""mhuebert@gmail.com""}",1260.0,10
+Clojure,mhuebert,2023-07-06,1,1,"#{""mhuebert@gmail.com""}",1261.0,10
+Clojure,mhuebert,2023-07-07,1,1,"#{""mhuebert@gmail.com""}",1262.0,10
+Clojure,mhuebert,2023-07-08,2,1,"#{""mhuebert@gmail.com""}",1264.0,10
+Clojure,mhuebert,2023-07-10,1,1,"#{""mhuebert@gmail.com""}",1265.0,10
+Clojure,mhuebert,2023-07-18,1,1,"#{""mhuebert@gmail.com""}",1266.0,10
+Clojure,mhuebert,2023-07-19,6,1,"#{""mhuebert@gmail.com""}",1272.0,10
+Clojure,mhuebert,2023-07-21,3,1,"#{""mhuebert@gmail.com""}",1275.0,10
+Clojure,mhuebert,2023-07-22,3,1,"#{""mhuebert@gmail.com""}",1278.0,10
+Clojure,mhuebert,2023-07-23,1,1,"#{""mhuebert@gmail.com""}",1279.0,10
+Clojure,mhuebert,2023-07-24,2,1,"#{""mhuebert@gmail.com""}",1281.0,10
+Clojure,mhuebert,2023-07-25,7,1,"#{""mhuebert@gmail.com""}",1288.0,10
+Clojure,mhuebert,2023-07-26,3,1,"#{""mhuebert@gmail.com""}",1291.0,10
+Clojure,mhuebert,2023-07-27,4,1,"#{""mhuebert@gmail.com""}",1295.0,10
+Clojure,mhuebert,2023-07-28,5,1,"#{""mhuebert@gmail.com""}",1300.0,10
+Clojure,mhuebert,2023-07-29,2,1,"#{""mhuebert@gmail.com""}",1302.0,10
+Clojure,mhuebert,2023-08-02,3,1,"#{""mhuebert@gmail.com""}",1305.0,10
+Clojure,mhuebert,2023-08-03,6,1,"#{""mhuebert@gmail.com""}",1311.0,10
+Clojure,mhuebert,2023-08-06,1,1,"#{""mhuebert@gmail.com""}",1312.0,10
+Clojure,mhuebert,2023-08-08,3,1,"#{""mhuebert@gmail.com""}",1315.0,10
+Clojure,mhuebert,2023-08-09,2,1,"#{""mhuebert@gmail.com""}",1317.0,10
+Clojure,mhuebert,2023-08-14,1,1,"#{""mhuebert@gmail.com""}",1318.0,10
+Clojure,mhuebert,2023-08-17,1,1,"#{""mhuebert@gmail.com""}",1319.0,10
+Clojure,mhuebert,2023-08-25,1,1,"#{""mhuebert@gmail.com""}",1320.0,10
+Clojure,mhuebert,2023-09-03,1,1,"#{""avidrucker@gmail.com""}",1321.0,11
+Clojure,mhuebert,2023-09-10,1,1,"#{""avidrucker@users.noreply.github.com""}",1322.0,12
+Clojure,mhuebert,2023-11-26,3,2,"#{""avidrucker@users.noreply.github.com"" ""dave.liepmann@gmail.com""}",1325.0,12
+Clojure,mhuebert,2023-12-01,1,1,"#{""dave.liepmann@gmail.com""}",1326.0,12

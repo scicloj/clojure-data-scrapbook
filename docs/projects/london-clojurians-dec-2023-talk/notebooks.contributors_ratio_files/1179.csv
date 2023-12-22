@@ -1,0 +1,163 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clj-commons/ordered,2011-06-18,40,1,"#tech.v3.dataset.column<string>[40]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org...]",40.0,[{0 40}],0,40,0,0,0,0
+Clojure,https://github.com/clj-commons/ordered,2011-06-19,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",54.0,[{0 54}],0,54,0,0,0,0
+Clojure,https://github.com/clj-commons/ordered,2011-06-20,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",63.0,[{0 63}],0,63,0,0,0,0
+Clojure,https://github.com/clj-commons/ordered,2011-06-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@malloys.org, alan@malloys.org]",65.0,[{0 65}],0,65,0,0,0,0
+Clojure,https://github.com/clj-commons/ordered,2011-06-22,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",70.0,[{0 70}],0,70,0,0,0,0
+Clojure,https://github.com/clj-commons/ordered,2011-07-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[i@raynes.me]",71.0,"[{0 70, 4 1}]",0,70,0,0,0,1
+Clojure,https://github.com/clj-commons/ordered,2011-10-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marick@exampler.com, marick@exampler.com]",73.0,"[{0 70, 4 1, ""other"" 2}]",2,70,0,0,0,1
+Clojure,https://github.com/clj-commons/ordered,2011-11-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",77.0,"[{0 74, 4 1, ""other"" 2}]",2,74,0,0,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@justinbalthrop.com]",78.0,"[{0 74, 4 1, ""other"" 2, 2 1}]",2,74,0,1,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alang@malloys.org]",79.0,"[{0 74, 4 1, ""other"" 3, 2 1}]",3,74,0,1,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@malloys.org]",80.0,"[{0 75, 4 1, ""other"" 3, 2 1}]",3,75,0,1,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-04-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@malloys.org]",81.0,"[{0 76, 4 1, ""other"" 3, 2 1}]",3,76,0,1,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-04-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@malloys.org, alan@malloys.org]",83.0,"[{0 78, 4 1, ""other"" 3, 2 1}]",3,78,0,1,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-05-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[git@justinbalthrop.com, git@justinbalthrop.com, git@justinbalthrop.com]",86.0,"[{0 78, 4 1, ""other"" 3, 2 4}]",3,78,0,4,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-05-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jon@millett.net]",87.0,"[{0 78, 4 1, ""other"" 4, 2 4}]",4,78,0,4,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-06-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@malloys.org, alan@malloys.org]",89.0,"[{0 80, 4 1, ""other"" 4, 2 4}]",4,80,0,4,0,1
+Clojure,https://github.com/clj-commons/ordered,2012-07-23,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[i@raynes.me, i@raynes.me, i@raynes.me, i@raynes.me, i@raynes.me]",94.0,"[{0 80, 4 6, ""other"" 4, 2 4}]",4,80,0,4,0,6
+Clojure,https://github.com/clj-commons/ordered,2012-07-24,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",100.0,"[{0 86, 4 6, ""other"" 4, 2 4}]",4,86,0,4,0,6
+Clojure,https://github.com/clj-commons/ordered,2012-08-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[alan@malloys.org, alan@malloys.org, jkkramer@gmail.com]",103.0,"[{0 88, 4 6, ""other"" 5, 2 4}]",5,88,0,4,0,6
+Clojure,https://github.com/clj-commons/ordered,2012-10-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[trolard@gmail.com, trolard@gmail.com]",105.0,"[{0 88, 4 6, ""other"" 7, 2 4}]",7,88,0,4,0,6
+Clojure,https://github.com/clj-commons/ordered,2012-11-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@justinbalthrop.com, git@justinbalthrop.com]",107.0,"[{0 88, 4 6, ""other"" 7, 2 6}]",7,88,0,6,0,6
+Clojure,https://github.com/clj-commons/ordered,2012-11-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[git@justinbalthrop.com, git@justinbalthrop.com, git@justinbalthrop.com]",110.0,"[{0 88, 4 6, ""other"" 7, 2 9}]",7,88,0,9,0,6
+Clojure,https://github.com/clj-commons/ordered,2012-11-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[i@raynes.me]",111.0,"[{0 88, 4 7, ""other"" 7, 2 9}]",7,88,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2013-04-09,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",121.0,"[{0 98, 4 7, ""other"" 7, 2 9}]",7,98,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2013-04-10,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",127.0,"[{0 104, 4 7, ""other"" 7, 2 9}]",7,104,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2013-10-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@malloys.org, alan@malloys.org]",129.0,"[{0 106, 4 7, ""other"" 7, 2 9}]",7,106,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2015-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@malloys.org]",130.0,"[{0 107, 4 7, ""other"" 7, 2 9}]",7,107,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2015-05-28,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, jafinger@cisco.com, jafinger@cisco.com, alan@malloys.org, jafinger@cisco.com]",138.0,"[{0 112, 4 7, ""other"" 10, 2 9}]",10,112,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2015-05-30,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[alan@malloys.org, jafinger@cisco.com, alan@malloys.org, jafinger@cisco.com, jafinger@cisco.com]",143.0,"[{0 114, 4 7, ""other"" 13, 2 9}]",13,114,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2015-06-01,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, jafinger@cisco.com]",147.0,"[{0 117, 4 7, ""other"" 14, 2 9}]",14,117,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2016-07-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",153.0,"[{0 123, 4 7, ""other"" 14, 2 9}]",14,123,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2016-08-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[_@lvh.io, _@lvh.io, _@lvh.io]",156.0,"[{0 123, 4 7, ""other"" 17, 2 9}]",17,123,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2016-08-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[_@lvh.io, _@lvh.io]",158.0,"[{0 123, 4 7, ""other"" 19, 2 9}]",19,123,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2017-07-12,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org, alan@malloys.org]",164.0,"[{0 129, 4 7, ""other"" 19, 2 9}]",19,129,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2017-08-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[alan@malloys.org, alan@malloys.org, alan@malloys.org, LispEngineer@users.noreply.github.com]",168.0,"[{0 132, 4 7, ""other"" 20, 2 9}]",20,132,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2018-10-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[willcohen@users.noreply.github.com]",169.0,"[{0 132, 4 7, ""other"" 21, 2 9}]",21,132,0,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2018-12-06,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",175.0,"[{0 132, 4 7, ""other"" 21, 2 9, 1 6}]",21,132,6,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2018-12-07,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",183.0,"[{0 132, 4 7, ""other"" 21, 2 9, 1 14}]",21,132,14,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2019-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@eidel.net]",184.0,"[{0 132, 4 7, ""other"" 22, 2 9, 1 14}]",22,132,14,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2019-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",185.0,"[{0 132, 4 7, ""other"" 22, 2 9, 1 15}]",22,132,15,9,0,7
+Clojure,https://github.com/clj-commons/ordered,2019-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erik@assum.net]",186.0,"[{0 132, 4 7, ""other"" 22, 2 9, 1 15, 3 1}]",22,132,15,9,1,7
+Clojure,https://github.com/clj-commons/ordered,2019-10-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, ralf@systemexit.de]",188.0,"[{0 132, 4 7, ""other"" 23, 2 9, 1 16, 3 1}]",23,132,16,9,1,7
+Clojure,https://github.com/clj-commons/ordered,2020-04-13,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[michielborkent@gmail.com, erik@assum.net, michielborkent@gmail.com, michielborkent@gmail.com, erik@assum.net, desk@danielcompton.net, desk@danielcompton.net, erik@assum.net]",196.0,"[{0 132, 4 7, ""other"" 26, 2 9, 1 18, 3 4}]",26,132,18,9,4,7
+Clojure,https://github.com/clj-commons/ordered,2020-04-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, desk@danielcompton.net]",198.0,"[{0 132, 4 7, ""other"" 26, 2 9, 1 20, 3 4}]",26,132,20,9,4,7
+Clojure,https://github.com/clj-commons/ordered,2020-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kolhar730@gmail.com]",199.0,"[{0 132, 4 7, ""other"" 27, 2 9, 1 20, 3 4}]",27,132,20,9,4,7
+Clojure,https://github.com/clj-commons/ordered,2020-06-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[erik@assum.net, erik@assum.net]",201.0,"[{0 132, 4 7, ""other"" 27, 2 9, 1 20, 3 6}]",27,132,20,9,6,7
+Clojure,https://github.com/clj-commons/ordered,2020-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erik@assum.net]",202.0,"[{0 132, 4 7, ""other"" 27, 2 9, 1 20, 3 7}]",27,132,20,9,7,7
+Clojure,https://github.com/clj-commons/ordered,2021-09-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[erik@assum.net, arne.brasseur@gmail.com]",204.0,"[{0 132, 4 7, ""other"" 28, 2 9, 1 20, 3 8}]",28,132,20,9,8,7
+Clojure,https://github.com/clj-commons/ordered,2021-09-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne.brasseur@gmail.com]",205.0,"[{0 132, 4 7, ""other"" 29, 2 9, 1 20, 3 8}]",29,132,20,9,8,7
+Clojure,https://github.com/clj-commons/ordered,2021-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erik@assum.net]",206.0,"[{0 132, 4 7, ""other"" 29, 2 9, 1 20, 3 9}]",29,132,20,9,9,7
+Clojure,https://github.com/clj-commons/ordered,2021-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",207.0,"[{0 132, 4 7, ""other"" 29, 2 9, 1 21, 3 9}]",29,132,21,9,9,7
+Clojure,https://github.com/clj-commons/ordered,2021-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[noah.bogart@hey.com]",208.0,"[{0 132, 4 7, ""other"" 30, 2 9, 1 21, 3 9}]",30,132,21,9,9,7
+Clojure,https://github.com/clj-commons/ordered,2023-03-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",209.0,"[{0 132, 4 7, ""other"" 31, 2 9, 1 21, 3 9}]",31,132,21,9,9,7
+Clojure,https://github.com/clj-commons/ordered,2023-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",210.0,"[{0 132, 4 7, ""other"" 32, 2 9, 1 21, 3 9}]",32,132,21,9,9,7

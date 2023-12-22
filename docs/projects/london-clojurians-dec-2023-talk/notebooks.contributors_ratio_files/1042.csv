@@ -1,0 +1,97 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/boot-clj/boot-new,2015-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/boot-clj/boot-new,2016-01-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/boot-clj/boot-new,2016-01-16,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[sean@corfield.org, sean@corfield.org, iron@waffle.io, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",13.0,"[{0 12, 4 1}]",0,12,0,0,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-01-18,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",20.0,"[{0 19, 4 1}]",0,19,0,0,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-01-19,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[Sean Corfield, Sean Corfield, Sean Corfield, Sean Corfield, Sean Corfield, Sean Corfield]",26.0,"[{0 19, 4 1, 2 6}]",0,19,0,6,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-01-29,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",33.0,"[{0 26, 4 1, 2 6}]",0,26,0,6,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-01-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",37.0,"[{0 30, 4 1, 2 6}]",0,30,0,6,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Sean Corfield]",38.0,"[{0 30, 4 1, 2 7}]",0,30,0,7,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Sean Corfield]",39.0,"[{0 30, 4 1, 2 8}]",0,30,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-02-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",44.0,"[{0 35, 4 1, 2 8}]",0,35,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-03-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",47.0,"[{0 38, 4 1, 2 8}]",0,38,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",48.0,"[{0 39, 4 1, 2 8}]",0,39,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",49.0,"[{0 40, 4 1, 2 8}]",0,40,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-05-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, norton@alum.mit.edu]",51.0,"[{0 41, 4 1, 2 8, ""other"" 1}]",1,41,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-05-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",52.0,"[{0 42, 4 1, 2 8, ""other"" 1}]",1,42,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",53.0,"[{0 43, 4 1, 2 8, ""other"" 1}]",1,43,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-07-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",54.0,"[{0 44, 4 1, 2 8, ""other"" 1}]",1,44,0,8,0,1
+Clojure,https://github.com/boot-clj/boot-new,2016-08-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, levi@byimplication.com]",56.0,"[{0 45, 4 1, 2 8, ""other"" 1, 3 1}]",1,45,0,8,1,1
+Clojure,https://github.com/boot-clj/boot-new,2016-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[levi@byimplication.com]",57.0,"[{0 45, 4 1, 2 8, ""other"" 1, 3 2}]",1,45,0,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2016-08-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, matt@degree9.io]",60.0,"[{0 47, 4 1, 2 8, ""other"" 1, 3 2, 1 1}]",1,47,1,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2016-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[matt@degree9.io]",61.0,"[{0 47, 4 1, 2 8, ""other"" 1, 3 2, 1 2}]",1,47,2,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2016-09-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",63.0,"[{0 49, 4 1, 2 8, ""other"" 1, 3 2, 1 2}]",1,49,2,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2016-12-10,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[matt@degree9.io, matt@degree9.io, sean@corfield.org, matt@degree9.io, matt@degree9.io, matt@degree9.io, matt@degree9.io, sean@corfield.org, matt@degree9.io, matt@degree9.io, matt@degree9.io]",74.0,"[{0 51, 4 1, 2 8, ""other"" 1, 3 2, 1 11}]",1,51,11,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2016-12-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, matt@degree9.io]",76.0,"[{0 52, 4 1, 2 8, ""other"" 1, 3 2, 1 12}]",1,52,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2017-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",77.0,"[{0 53, 4 1, 2 8, ""other"" 1, 3 2, 1 12}]",1,53,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2017-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",78.0,"[{0 54, 4 1, 2 8, ""other"" 1, 3 2, 1 12}]",1,54,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2017-02-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, a.richiardi.work@gmail.com]",80.0,"[{0 55, 4 1, 2 8, ""other"" 2, 3 2, 1 12}]",2,55,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2017-04-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",83.0,"[{0 58, 4 1, 2 8, ""other"" 2, 3 2, 1 12}]",2,58,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2017-06-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, contact@solussd.io]",85.0,"[{0 59, 4 1, 2 8, ""other"" 3, 3 2, 1 12}]",3,59,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2018-04-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",87.0,"[{0 61, 4 1, 2 8, ""other"" 3, 3 2, 1 12}]",3,61,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2018-04-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",90.0,"[{0 64, 4 1, 2 8, ""other"" 3, 3 2, 1 12}]",3,64,12,8,2,1
+Clojure,https://github.com/boot-clj/boot-new,2019-06-26,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[matt@degree9.io, kannan.r@imaginea.com]",92.0,"[{0 64, 4 1, 2 8, ""other"" 4, 3 2, 1 13}]",4,64,13,8,2,1

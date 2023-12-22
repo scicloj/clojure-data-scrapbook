@@ -1,0 +1,124 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/pyr/unilog,2014-10-14,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",10.0,[{0 10}],0,10,0,0,0,0
+Clojure,https://github.com/pyr/unilog,2014-10-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pyr@spootnik.org]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-06-04,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",25.0,[{0 25}],0,25,0,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-06-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",29.0,[{0 29}],0,29,0,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pyr@spootnik.org]",30.0,[{0 30}],0,30,0,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-07-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com]",33.0,"[{0 30, 1 3}]",0,30,3,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-07-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pyr@spootnik.org]",34.0,"[{0 31, 1 3}]",0,31,3,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-07-22,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com]",44.0,"[{0 31, 1 13}]",0,31,13,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-07-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[crockabiscuit@gmail.com, crockabiscuit@gmail.com, crockabiscuit@gmail.com]",47.0,"[{0 31, 1 16}]",0,31,16,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-07-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[crockabiscuit@gmail.com]",48.0,"[{0 31, 1 17}]",0,31,17,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-07-28,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[crockabiscuit@gmail.com, pyr@spootnik.org, crockabiscuit@gmail.com, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",54.0,"[{0 35, 1 19}]",0,35,19,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-07-31,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, crockabiscuit@gmail.com, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",64.0,"[{0 44, 1 20}]",0,44,20,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-10-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",67.0,"[{0 47, 1 20}]",0,47,20,0,0,0
+Clojure,https://github.com/pyr/unilog,2015-11-10,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, coda.hale@gmail.com]",71.0,"[{0 50, 1 20, 2 1}]",0,50,20,1,0,0
+Clojure,https://github.com/pyr/unilog,2015-11-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pyr@spootnik.org, pyr@spootnik.org]",73.0,"[{0 52, 1 20, 2 1}]",0,52,20,1,0,0
+Clojure,https://github.com/pyr/unilog,2015-11-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pyr@spootnik.org, pyr@spootnik.org]",75.0,"[{0 54, 1 20, 2 1}]",0,54,20,1,0,0
+Clojure,https://github.com/pyr/unilog,2016-01-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[pyr@spootnik.org, rauhs@users.noreply.github.com]",77.0,"[{0 55, 1 20, 2 1, ""other"" 1}]",1,55,20,1,0,0
+Clojure,https://github.com/pyr/unilog,2016-03-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",80.0,"[{0 58, 1 20, 2 1, ""other"" 1}]",1,58,20,1,0,0
+Clojure,https://github.com/pyr/unilog,2016-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[coda.hale@gmail.com]",81.0,"[{0 58, 1 20, 2 2, ""other"" 1}]",1,58,20,2,0,0
+Clojure,https://github.com/pyr/unilog,2016-08-29,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",87.0,"[{0 64, 1 20, 2 2, ""other"" 1}]",1,64,20,2,0,0
+Clojure,https://github.com/pyr/unilog,2016-12-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[coda.hale@gmail.com]",88.0,"[{0 64, 1 20, 2 3, ""other"" 1}]",1,64,20,3,0,0
+Clojure,https://github.com/pyr/unilog,2016-12-23,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",94.0,"[{0 70, 1 20, 2 3, ""other"" 1}]",1,70,20,3,0,0
+Clojure,https://github.com/pyr/unilog,2017-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pyr@spootnik.org]",95.0,"[{0 71, 1 20, 2 3, ""other"" 1}]",1,71,20,3,0,0
+Clojure,https://github.com/pyr/unilog,2017-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pyr@spootnik.org]",96.0,"[{0 72, 1 20, 2 3, ""other"" 1}]",1,72,20,3,0,0
+Clojure,https://github.com/pyr/unilog,2017-02-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pyr@spootnik.org, pyr@spootnik.org]",98.0,"[{0 74, 1 20, 2 3, ""other"" 1}]",1,74,20,3,0,0
+Clojure,https://github.com/pyr/unilog,2017-02-12,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",104.0,"[{0 80, 1 20, 2 3, ""other"" 1}]",1,80,20,3,0,0
+Clojure,https://github.com/pyr/unilog,2017-03-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[m@qbits.cc, m@qbits.cc]",106.0,"[{0 80, 1 20, 2 3, ""other"" 1, 3 2}]",1,80,20,3,2,0
+Clojure,https://github.com/pyr/unilog,2017-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[coda.hale@gmail.com]",107.0,"[{0 80, 1 20, 2 4, ""other"" 1, 3 2}]",1,80,20,4,2,0
+Clojure,https://github.com/pyr/unilog,2017-03-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pyr@spootnik.org, pyr@spootnik.org]",109.0,"[{0 82, 1 20, 2 4, ""other"" 1, 3 2}]",1,82,20,4,2,0
+Clojure,https://github.com/pyr/unilog,2017-07-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",112.0,"[{0 85, 1 20, 2 4, ""other"" 1, 3 2}]",1,85,20,4,2,0
+Clojure,https://github.com/pyr/unilog,2017-12-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",117.0,"[{0 90, 1 20, 2 4, ""other"" 1, 3 2}]",1,90,20,4,2,0
+Clojure,https://github.com/pyr/unilog,2018-11-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",123.0,"[{0 96, 1 20, 2 4, ""other"" 1, 3 2}]",1,96,20,4,2,0
+Clojure,https://github.com/pyr/unilog,2019-10-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",127.0,"[{0 100, 1 20, 2 4, ""other"" 1, 3 2}]",1,100,20,4,2,0
+Clojure,https://github.com/pyr/unilog,2020-10-31,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",138.0,"[{0 111, 1 20, 2 4, ""other"" 1, 3 2}]",1,111,20,4,2,0
+Clojure,https://github.com/pyr/unilog,2020-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miguel.ping@exoscale.ch]",139.0,"[{0 111, 1 20, 2 4, ""other"" 1, 3 2, 4 1}]",1,111,20,4,2,1
+Clojure,https://github.com/pyr/unilog,2020-11-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",143.0,"[{0 115, 1 20, 2 4, ""other"" 1, 3 2, 4 1}]",1,115,20,4,2,1
+Clojure,https://github.com/pyr/unilog,2021-10-06,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[arnaudgeiser@gmail.com, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, arnaud.geiser@exoscale.ch]",149.0,"[{0 119, 1 20, 2 4, ""other"" 3, 3 2, 4 1}]",3,119,20,4,2,1
+Clojure,https://github.com/pyr/unilog,2021-12-15,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org, liquidz.uo@gmail.com]",153.0,"[{0 122, 1 20, 2 4, ""other"" 4, 3 2, 4 1}]",4,122,20,4,2,1
+Clojure,https://github.com/pyr/unilog,2022-05-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",156.0,"[{0 125, 1 20, 2 4, ""other"" 4, 3 2, 4 1}]",4,125,20,4,2,1
+Clojure,https://github.com/pyr/unilog,2022-10-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[pyr@spootnik.org, pyr@spootnik.org, pyr@spootnik.org]",159.0,"[{0 128, 1 20, 2 4, ""other"" 4, 3 2, 4 1}]",4,128,20,4,2,1

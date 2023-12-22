@@ -1,0 +1,136 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,suprematic,2016-04-07,1,1,"#{""aav@acm.org""}",1.0,1
+Clojure,suprematic,2016-04-15,1,1,"#{""aav@acm.org""}",2.0,1
+Clojure,suprematic,2016-05-01,1,1,"#{""aav@acm.org""}",3.0,1
+Clojure,suprematic,2016-05-14,3,1,"#{""skorohodovsemen@gmail.com""}",6.0,2
+Clojure,suprematic,2016-05-16,2,1,"#{""aav@acm.org""}",8.0,2
+Clojure,suprematic,2016-05-23,2,1,"#{""aav@acm.org""}",10.0,2
+Clojure,suprematic,2016-06-02,4,1,"#{""aav@acm.org""}",14.0,2
+Clojure,suprematic,2016-06-26,1,1,"#{""aav@acm.org""}",15.0,2
+Clojure,suprematic,2016-06-28,3,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",18.0,2
+Clojure,suprematic,2016-06-30,8,1,"#{""skorohodovsemen@gmail.com""}",26.0,2
+Clojure,suprematic,2016-07-01,1,1,"#{""skorohodovsemen@gmail.com""}",27.0,2
+Clojure,suprematic,2016-07-02,14,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",41.0,2
+Clojure,suprematic,2016-07-04,12,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",53.0,2
+Clojure,suprematic,2016-07-06,2,1,"#{""skorohodovsemen@gmail.com""}",55.0,2
+Clojure,suprematic,2016-07-07,11,1,"#{""skorohodovsemen@gmail.com""}",66.0,2
+Clojure,suprematic,2016-07-08,12,1,"#{""skorohodovsemen@gmail.com""}",78.0,2
+Clojure,suprematic,2016-07-11,4,1,"#{""aav@acm.org""}",82.0,2
+Clojure,suprematic,2016-07-12,11,1,"#{""skorohodovsemen@gmail.com""}",93.0,2
+Clojure,suprematic,2016-07-13,3,1,"#{""skorohodovsemen@gmail.com""}",96.0,2
+Clojure,suprematic,2016-07-15,14,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",110.0,2
+Clojure,suprematic,2016-07-16,5,1,"#{""skorohodovsemen@gmail.com""}",115.0,2
+Clojure,suprematic,2016-07-17,1,1,"#{""skorohodovsemen@gmail.com""}",116.0,2
+Clojure,suprematic,2016-07-18,4,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",120.0,2
+Clojure,suprematic,2016-07-19,7,1,"#{""skorohodovsemen@gmail.com""}",127.0,2
+Clojure,suprematic,2016-07-22,1,1,"#{""aav@acm.org""}",128.0,2
+Clojure,suprematic,2016-07-25,2,1,"#{""skorohodovsemen@gmail.com""}",130.0,2
+Clojure,suprematic,2016-07-26,7,1,"#{""skorohodovsemen@gmail.com""}",137.0,2
+Clojure,suprematic,2016-07-27,1,1,"#{""skorohodovsemen@gmail.com""}",138.0,2
+Clojure,suprematic,2016-07-28,2,1,"#{""aav@acm.org""}",140.0,2
+Clojure,suprematic,2016-08-08,1,1,"#{""skorohodovsemen@gmail.com""}",141.0,2
+Clojure,suprematic,2016-08-11,7,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",148.0,2
+Clojure,suprematic,2016-08-12,4,1,"#{""skorohodovsemen@gmail.com""}",152.0,2
+Clojure,suprematic,2016-08-15,12,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",164.0,2
+Clojure,suprematic,2016-08-17,3,1,"#{""skorohodovsemen@gmail.com""}",167.0,2
+Clojure,suprematic,2016-08-18,10,1,"#{""skorohodovsemen@gmail.com""}",177.0,2
+Clojure,suprematic,2016-08-21,1,1,"#{""skorohodovsemen@gmail.com""}",178.0,2
+Clojure,suprematic,2016-08-22,3,1,"#{""skorohodovsemen@gmail.com""}",181.0,2
+Clojure,suprematic,2016-08-24,5,1,"#{""skorohodovsemen@gmail.com""}",186.0,2
+Clojure,suprematic,2016-08-25,6,1,"#{""skorohodovsemen@gmail.com""}",192.0,2
+Clojure,suprematic,2016-08-26,6,1,"#{""skorohodovsemen@gmail.com""}",198.0,2
+Clojure,suprematic,2016-08-28,1,1,"#{""shinych@suprematic.net""}",199.0,3
+Clojure,suprematic,2016-08-30,11,1,"#{""skorohodovsemen@gmail.com""}",210.0,3
+Clojure,suprematic,2016-08-31,8,1,"#{""skorohodovsemen@gmail.com""}",218.0,3
+Clojure,suprematic,2016-09-01,4,1,"#{""skorohodovsemen@gmail.com""}",222.0,3
+Clojure,suprematic,2016-09-02,3,1,"#{""skorohodovsemen@gmail.com""}",225.0,3
+Clojure,suprematic,2016-09-16,3,1,"#{""skorohodovsemen@gmail.com""}",228.0,3
+Clojure,suprematic,2016-09-17,1,1,"#{""skorohodovsemen@gmail.com""}",229.0,3
+Clojure,suprematic,2016-10-24,2,1,"#{""skorohodovsemen@gmail.com""}",231.0,3
+Clojure,suprematic,2017-02-22,2,1,"#{""aav@acm.org""}",233.0,3
+Clojure,suprematic,2017-02-28,2,1,"#{""aav@acm.org""}",235.0,3
+Clojure,suprematic,2017-03-03,6,1,"#{""samu3l@Simons-MacBook-Pro.fritz.box""}",241.0,4
+Clojure,suprematic,2017-03-05,1,1,"#{""samu3l@Simons-MacBook-Pro.local""}",242.0,5
+Clojure,suprematic,2017-03-06,4,1,"#{""samu3l@Simons-MacBook-Pro.fritz.box""}",246.0,5
+Clojure,suprematic,2017-03-07,7,1,"#{""samu3l@Simons-MacBook-Pro.fritz.box""}",253.0,5
+Clojure,suprematic,2017-03-08,2,1,"#{""samu3l@Simons-MacBook-Pro.fritz.box""}",255.0,5
+Clojure,suprematic,2017-03-09,8,2,"#{""aav@acm.org"" ""samu3l@Simons-MacBook-Pro.fritz.box""}",263.0,5
+Clojure,suprematic,2017-03-10,12,3,"#{""samu3l@Simons-MacBook-Pro.local"" ""samu3l@Simons-MBP.fritz.box"" ""samu3l@Simons-MacBook-Pro.fritz.box""}",275.0,6
+Clojure,suprematic,2017-03-13,7,1,"#{""samu3l@Simons-MBP.fritz.box""}",282.0,6
+Clojure,suprematic,2017-03-16,3,1,"#{""samu3l@Simons-MBP.fritz.box""}",285.0,6
+Clojure,suprematic,2017-03-17,11,1,"#{""samu3l@Simons-MBP.fritz.box""}",296.0,6
+Clojure,suprematic,2017-03-27,1,1,"#{""samu3l@Simons-MBP.fritz.box""}",297.0,6
+Clojure,suprematic,2017-03-28,3,1,"#{""samu3l@Simons-MBP.fritz.box""}",300.0,6
+Clojure,suprematic,2017-03-29,1,1,"#{""samu3l@Simons-MBP.fritz.box""}",301.0,6
+Clojure,suprematic,2017-03-31,1,1,"#{""samu3l@Simons-MBP.fritz.box""}",302.0,6
+Clojure,suprematic,2017-04-05,7,1,"#{""samu3l@Simons-MBP.fritz.box""}",309.0,6
+Clojure,suprematic,2017-04-06,1,1,"#{""skorohodovsemen@gmail.com""}",310.0,6
+Clojure,suprematic,2017-04-07,1,1,"#{""skorohodovsemen@gmail.com""}",311.0,6
+Clojure,suprematic,2017-04-11,3,1,"#{""skorohodovsemen@gmail.com""}",314.0,6
+Clojure,suprematic,2017-04-12,4,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",318.0,6
+Clojure,suprematic,2017-04-13,7,1,"#{""skorohodovsemen@gmail.com""}",325.0,6
+Clojure,suprematic,2017-04-14,2,1,"#{""skorohodovsemen@gmail.com""}",327.0,6
+Clojure,suprematic,2017-04-15,3,1,"#{""skorohodovsemen@gmail.com""}",330.0,6
+Clojure,suprematic,2017-04-16,2,1,"#{""skorohodovsemen@gmail.com""}",332.0,6
+Clojure,suprematic,2017-04-17,6,1,"#{""skorohodovsemen@gmail.com""}",338.0,6
+Clojure,suprematic,2017-04-20,2,1,"#{""skorohodovsemen@gmail.com""}",340.0,6
+Clojure,suprematic,2017-04-21,4,1,"#{""skorohodovsemen@gmail.com""}",344.0,6
+Clojure,suprematic,2017-04-22,1,1,"#{""skorohodovsemen@gmail.com""}",345.0,6
+Clojure,suprematic,2017-04-23,1,1,"#{""aav@acm.org""}",346.0,6
+Clojure,suprematic,2017-04-25,4,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",350.0,6
+Clojure,suprematic,2017-05-10,4,1,"#{""skorohodovsemen@gmail.com""}",354.0,6
+Clojure,suprematic,2017-05-16,6,1,"#{""skorohodovsemen@gmail.com""}",360.0,6
+Clojure,suprematic,2017-05-17,4,2,"#{""skorohodovsemen@gmail.com"" ""aav@acm.org""}",364.0,6
+Clojure,suprematic,2017-05-20,1,1,"#{""skorohodovsemen@gmail.com""}",365.0,6
+Clojure,suprematic,2017-05-21,1,1,"#{""skorohodovsemen@gmail.com""}",366.0,6
+Clojure,suprematic,2017-06-24,4,1,"#{""skorohodovsemen@gmail.com""}",370.0,6
+Clojure,suprematic,2017-07-21,1,1,"#{""skorohodovsemen@gmail.com""}",371.0,6
+Clojure,suprematic,2017-07-22,2,1,"#{""skorohodovsemen@gmail.com""}",373.0,6
+Clojure,suprematic,2017-07-23,3,1,"#{""skorohodovsemen@gmail.com""}",376.0,6
+Clojure,suprematic,2017-08-08,2,1,"#{""aav@acm.org""}",378.0,6
+Clojure,suprematic,2017-08-13,1,1,"#{""skorohodovsemen@gmail.com""}",379.0,6
+Clojure,suprematic,2017-08-15,1,1,"#{""skorohodovsemen@gmail.com""}",380.0,6
+Clojure,suprematic,2017-08-18,1,1,"#{""aav@acm.org""}",381.0,6
+Clojure,suprematic,2017-08-26,2,1,"#{""skorohodovsemen@gmail.com""}",383.0,6
+Clojure,suprematic,2017-09-19,1,1,"#{""skorohodovsemen@gmail.com""}",384.0,6
+Clojure,suprematic,2017-09-25,1,1,"#{""skorohodovsemen@gmail.com""}",385.0,6
+Clojure,suprematic,2017-11-05,12,1,"#{""skorohodovsemen@gmail.com""}",397.0,6
+Clojure,suprematic,2017-11-06,2,1,"#{""skorohodovsemen@gmail.com""}",399.0,6
+Clojure,suprematic,2017-11-12,3,1,"#{""skorohodovsemen@gmail.com""}",402.0,6
+Clojure,suprematic,2018-03-16,1,1,"#{""skorohodovsemen@gmail.com""}",403.0,6
+Clojure,suprematic,2018-03-24,16,1,"#{""skorohodovsemen@gmail.com""}",419.0,6
+Clojure,suprematic,2018-03-25,10,1,"#{""skorohodovsemen@gmail.com""}",429.0,6
+Clojure,suprematic,2018-03-30,1,1,"#{""skorohodovsemen@gmail.com""}",430.0,6
+Clojure,suprematic,2018-03-31,2,1,"#{""skorohodovsemen@gmail.com""}",432.0,6
+Clojure,suprematic,2018-04-02,1,1,"#{""skorohodovsemen@gmail.com""}",433.0,6
+Clojure,suprematic,2018-04-03,1,1,"#{""skorohodovsemen@gmail.com""}",434.0,6
+Clojure,suprematic,2018-04-07,1,1,"#{""skorohodovsemen@gmail.com""}",435.0,6
+Clojure,suprematic,2018-04-14,9,1,"#{""skorohodovsemen@gmail.com""}",444.0,6
+Clojure,suprematic,2018-04-15,1,1,"#{""skorohodovsemen@gmail.com""}",445.0,6
+Clojure,suprematic,2018-04-18,2,1,"#{""skorohodovsemen@gmail.com""}",447.0,6
+Clojure,suprematic,2018-04-21,3,1,"#{""skorohodovsemen@gmail.com""}",450.0,6
+Clojure,suprematic,2018-04-22,9,1,"#{""skorohodovsemen@gmail.com""}",459.0,6
+Clojure,suprematic,2018-04-23,2,1,"#{""skorohodovsemen@gmail.com""}",461.0,6
+Clojure,suprematic,2018-05-21,8,1,"#{""skorohodovsemen@gmail.com""}",469.0,6
+Clojure,suprematic,2018-05-27,4,1,"#{""skorohodovsemen@gmail.com""}",473.0,6
+Clojure,suprematic,2018-05-31,7,1,"#{""skorohodovsemen@gmail.com""}",480.0,6
+Clojure,suprematic,2018-06-03,7,1,"#{""skorohodovsemen@gmail.com""}",487.0,6
+Clojure,suprematic,2018-06-09,11,1,"#{""skorohodovsemen@gmail.com""}",498.0,6
+Clojure,suprematic,2018-06-16,14,1,"#{""skorohodovsemen@gmail.com""}",512.0,6
+Clojure,suprematic,2018-06-17,9,1,"#{""skorohodovsemen@gmail.com""}",521.0,6
+Clojure,suprematic,2018-06-18,1,1,"#{""skorohodovsemen@gmail.com""}",522.0,6
+Clojure,suprematic,2018-06-19,1,1,"#{""skorohodovsemen@gmail.com""}",523.0,6
+Clojure,suprematic,2018-06-22,3,1,"#{""skorohodovsemen@gmail.com""}",526.0,6
+Clojure,suprematic,2018-06-23,4,1,"#{""skorohodovsemen@gmail.com""}",530.0,6
+Clojure,suprematic,2018-06-24,5,1,"#{""skorohodovsemen@gmail.com""}",535.0,6
+Clojure,suprematic,2018-06-30,3,1,"#{""skorohodovsemen@gmail.com""}",538.0,6
+Clojure,suprematic,2018-07-01,5,1,"#{""skorohodovsemen@gmail.com""}",543.0,6
+Clojure,suprematic,2018-07-08,4,1,"#{""skorohodovsemen@gmail.com""}",547.0,6
+Clojure,suprematic,2018-07-15,5,1,"#{""skorohodovsemen@gmail.com""}",552.0,6
+Clojure,suprematic,2018-09-23,4,1,"#{""skorohodovsemen@gmail.com""}",556.0,6
+Clojure,suprematic,2018-10-30,2,1,"#{""skorohodovsemen@gmail.com""}",558.0,6
+Clojure,suprematic,2018-12-07,3,1,"#{""skorohodovsemen@gmail.com""}",561.0,6
+Clojure,suprematic,2019-02-24,4,1,"#{""skorohodovsemen@gmail.com""}",565.0,6
+Clojure,suprematic,2019-02-26,1,1,"#{""skorohodovsemen@gmail.com""}",566.0,6
+Clojure,suprematic,2019-07-19,1,1,"#{""skorohodovsemen@gmail.com""}",567.0,6
+Clojure,suprematic,2019-07-20,18,1,"#{""skorohodovsemen@gmail.com""}",585.0,6

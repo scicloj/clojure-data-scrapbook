@@ -1,0 +1,244 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com]",2.0,[{1 2}],0,0,2,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",3.0,[{1 3}],0,0,3,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com]",5.0,[{1 5}],0,0,5,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",6.0,[{1 6}],0,0,6,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",7.0,[{1 7}],0,0,7,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com, stu@thinkrelevance.com]",10.0,[{1 10}],0,0,10,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gabriel.horner@gmail.com]",11.0,"[{1 10, ""other"" 1}]",1,0,10,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",12.0,"[{1 11, ""other"" 1}]",1,0,11,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-09-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com, stu@thinkrelevance.com]",15.0,"[{1 14, ""other"" 1}]",1,0,14,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",16.0,"[{1 15, ""other"" 1}]",1,0,15,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",17.0,"[{1 16, ""other"" 1}]",1,0,16,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-10-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com]",19.0,"[{1 18, ""other"" 1}]",1,0,18,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",20.0,"[{1 19, ""other"" 1}]",1,0,19,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stuart@leo.(none)]",21.0,"[{1 19, ""other"" 2}]",2,0,19,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-11-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com]",23.0,"[{1 21, ""other"" 2}]",2,0,21,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-12-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com]",25.0,"[{1 23, ""other"" 2}]",2,0,23,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2012-12-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stuart@leo.(none), stu@thinkrelevance.com]",27.0,"[{1 24, ""other"" 3}]",3,0,24,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-01-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bobby_calderwood@mac.com, bobby_calderwood@mac.com]",29.0,"[{1 24, ""other"" 3, 0 2}]",3,2,24,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-01-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bobby_calderwood@mac.com, bobby_calderwood@mac.com]",31.0,"[{1 24, ""other"" 3, 0 4}]",3,4,24,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",32.0,"[{1 24, ""other"" 3, 0 5}]",3,5,24,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",33.0,"[{1 24, ""other"" 3, 0 6}]",3,6,24,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",34.0,"[{1 25, ""other"" 3, 0 6}]",3,6,25,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bobby_calderwood@mac.com, bobby_calderwood@mac.com, bobby_calderwood@mac.com]",37.0,"[{1 25, ""other"" 3, 0 9}]",3,9,25,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",38.0,"[{1 25, ""other"" 3, 0 10}]",3,10,25,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",39.0,"[{1 25, ""other"" 3, 0 11}]",3,11,25,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",40.0,"[{1 25, ""other"" 3, 0 12}]",3,12,25,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stu@thinkrelevance.com, stu@thinkrelevance.com]",42.0,"[{1 27, ""other"" 3, 0 12}]",3,12,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-02-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bobby_calderwood@mac.com, bobby_calderwood@mac.com, bobby_calderwood@mac.com]",45.0,"[{1 27, ""other"" 3, 0 15}]",3,15,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",46.0,"[{1 27, ""other"" 3, 0 16}]",3,16,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",47.0,"[{1 27, ""other"" 3, 0 17}]",3,17,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",48.0,"[{1 27, ""other"" 3, 0 18}]",3,18,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",49.0,"[{1 27, ""other"" 3, 0 19}]",3,19,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",50.0,"[{1 27, ""other"" 3, 0 20}]",3,20,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-05-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",51.0,"[{1 27, ""other"" 3, 0 21}]",3,21,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-05-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",52.0,"[{1 27, ""other"" 3, 0 22}]",3,22,27,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@thinkrelevance.com]",53.0,"[{1 28, ""other"" 3, 0 22}]",3,22,28,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-06-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bobby_calderwood@mac.com, bobby_calderwood@mac.com]",55.0,"[{1 28, ""other"" 3, 0 24}]",3,24,28,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",56.0,"[{1 28, ""other"" 3, 0 25}]",3,25,28,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",57.0,"[{1 28, ""other"" 3, 0 26}]",3,26,28,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-10-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bobby_calderwood@mac.com, bobby_calderwood@mac.com]",59.0,"[{1 28, ""other"" 3, 0 28}]",3,28,28,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2013-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",60.0,"[{1 28, ""other"" 3, 0 29}]",3,29,28,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2014-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobby_calderwood@mac.com]",61.0,"[{1 28, ""other"" 3, 0 30}]",3,30,28,0,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2014-02-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",62.0,"[{1 28, ""other"" 3, 0 30, 2 1}]",3,30,28,1,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2014-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",63.0,"[{1 28, ""other"" 3, 0 30, 2 2}]",3,30,28,2,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2014-04-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bobby_calderwood@mac.com, bobby_calderwood@mac.com, bobby_calderwood@mac.com, bobby_calderwood@mac.com]",67.0,"[{1 28, ""other"" 3, 0 34, 2 2}]",3,34,28,2,0,0
+Clojure,https://github.com/Datomic/day-of-datomic,2014-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.kamphaus@gmail.com]",68.0,"[{1 28, ""other"" 3, 0 34, 2 2, 3 1}]",3,34,28,2,1,0
+Clojure,https://github.com/Datomic/day-of-datomic,2014-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",69.0,"[{1 28, ""other"" 3, 0 34, 2 3, 3 1}]",3,34,28,3,1,0
+Clojure,https://github.com/Datomic/day-of-datomic,2014-10-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[redinger@gmail.com, redinger@gmail.com]",71.0,"[{1 28, ""other"" 3, 0 34, 2 3, 3 1, 4 2}]",3,34,28,3,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",72.0,"[{1 28, ""other"" 3, 0 34, 2 4, 3 1, 4 2}]",3,34,28,4,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-11-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stu@cognitect.com, stu@cognitect.com]",74.0,"[{1 28, ""other"" 3, 0 34, 2 6, 3 1, 4 2}]",3,34,28,6,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-11-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",75.0,"[{1 28, ""other"" 3, 0 34, 2 7, 3 1, 4 2}]",3,34,28,7,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",76.0,"[{1 28, ""other"" 3, 0 34, 2 8, 3 1, 4 2}]",3,34,28,8,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-11-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[stu@cognitect.com, stu@cognitect.com, stu@cognitect.com]",79.0,"[{1 28, ""other"" 3, 0 34, 2 11, 3 1, 4 2}]",3,34,28,11,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",80.0,"[{1 28, ""other"" 3, 0 34, 2 12, 3 1, 4 2}]",3,34,28,12,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",81.0,"[{1 28, ""other"" 3, 0 34, 2 13, 3 1, 4 2}]",3,34,28,13,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-12-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",82.0,"[{1 28, ""other"" 3, 0 34, 2 14, 3 1, 4 2}]",3,34,28,14,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",83.0,"[{1 28, ""other"" 3, 0 34, 2 15, 3 1, 4 2}]",3,34,28,15,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2014-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",84.0,"[{1 28, ""other"" 3, 0 34, 2 16, 3 1, 4 2}]",3,34,28,16,1,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.kamphaus@gmail.com]",85.0,"[{1 28, ""other"" 3, 0 34, 2 16, 3 2, 4 2}]",3,34,28,16,2,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-01-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ben.kamphaus@gmail.com, ben.kamphaus@gmail.com]",87.0,"[{1 28, ""other"" 3, 0 34, 2 16, 3 4, 4 2}]",3,34,28,16,4,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-01-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ben.kamphaus@gmail.com, ben.kamphaus@gmail.com, ben.kamphaus@gmail.com]",90.0,"[{1 28, ""other"" 3, 0 34, 2 16, 3 7, 4 2}]",3,34,28,16,7,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-01-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ben.kamphaus@gmail.com, ben.kamphaus@gmail.com]",92.0,"[{1 28, ""other"" 3, 0 34, 2 16, 3 9, 4 2}]",3,34,28,16,9,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",93.0,"[{1 28, ""other"" 3, 0 34, 2 17, 3 9, 4 2}]",3,34,28,17,9,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.kamphaus@gmail.com]",94.0,"[{1 28, ""other"" 3, 0 34, 2 17, 3 10, 4 2}]",3,34,28,17,10,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.kamphaus@gmail.com]",95.0,"[{1 28, ""other"" 3, 0 34, 2 17, 3 11, 4 2}]",3,34,28,17,11,2
+Clojure,https://github.com/Datomic/day-of-datomic,2015-03-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[redinger@gmail.com, redinger@gmail.com, redinger@gmail.com]",98.0,"[{1 28, ""other"" 3, 0 34, 2 17, 3 11, 4 5}]",3,34,28,17,11,5
+Clojure,https://github.com/Datomic/day-of-datomic,2015-03-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[redinger@gmail.com]",99.0,"[{1 28, ""other"" 3, 0 34, 2 17, 3 11, 4 6}]",3,34,28,17,11,6
+Clojure,https://github.com/Datomic/day-of-datomic,2015-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.kamphaus@gmail.com]",100.0,"[{1 28, ""other"" 3, 0 34, 2 17, 3 12, 4 6}]",3,34,28,17,12,6
+Clojure,https://github.com/Datomic/day-of-datomic,2015-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",101.0,"[{1 28, ""other"" 3, 0 34, 2 18, 3 12, 4 6}]",3,34,28,18,12,6
+Clojure,https://github.com/Datomic/day-of-datomic,2015-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",102.0,"[{1 28, ""other"" 3, 0 34, 2 19, 3 12, 4 6}]",3,34,28,19,12,6
+Clojure,https://github.com/Datomic/day-of-datomic,2016-04-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[ben.kamphaus@gmail.com, mail@stuartsierra.com, mail@stuartsierra.com, mail@stuartsierra.com]",106.0,"[{1 28, ""other"" 6, 0 34, 2 19, 3 13, 4 6}]",6,34,28,19,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2016-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marshall@cognitect.com]",107.0,"[{1 28, ""other"" 7, 0 34, 2 19, 3 13, 4 6}]",7,34,28,19,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2016-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",108.0,"[{1 28, ""other"" 7, 0 34, 2 20, 3 13, 4 6}]",7,34,28,20,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2016-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",109.0,"[{1 28, ""other"" 7, 0 34, 2 21, 3 13, 4 6}]",7,34,28,21,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2017-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",110.0,"[{1 28, ""other"" 7, 0 34, 2 22, 3 13, 4 6}]",7,34,28,22,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2017-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marshall@cognitect.com]",111.0,"[{1 28, ""other"" 8, 0 34, 2 22, 3 13, 4 6}]",8,34,28,22,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2017-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marshall@cognitect.com]",112.0,"[{1 28, ""other"" 9, 0 34, 2 22, 3 13, 4 6}]",9,34,28,22,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2019-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marshall@cognitect.com]",113.0,"[{1 28, ""other"" 10, 0 34, 2 22, 3 13, 4 6}]",10,34,28,22,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2019-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",114.0,"[{1 28, ""other"" 10, 0 34, 2 23, 3 13, 4 6}]",10,34,28,23,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2019-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",115.0,"[{1 28, ""other"" 10, 0 34, 2 24, 3 13, 4 6}]",10,34,28,24,13,6
+Clojure,https://github.com/Datomic/day-of-datomic,2019-08-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stu@cognitect.com]",116.0,"[{1 28, ""other"" 10, 0 34, 2 25, 3 13, 4 6}]",10,34,28,25,13,6

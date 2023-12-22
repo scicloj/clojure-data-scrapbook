@@ -1,0 +1,163 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,venantius,2015-01-04,1,1,"#{""david@standardtreasury.com""}",1.0,1
+Clojure,venantius,2015-01-05,7,1,"#{""david@standardtreasury.com""}",8.0,1
+Clojure,venantius,2015-01-07,1,1,"#{""david@standardtreasury.com""}",9.0,1
+Clojure,venantius,2015-01-10,3,1,"#{""david@standardtreasury.com""}",12.0,1
+Clojure,venantius,2015-01-12,5,1,"#{""david@standardtreasury.com""}",17.0,1
+Clojure,venantius,2015-01-13,5,1,"#{""david@standardtreasury.com""}",22.0,1
+Clojure,venantius,2015-01-19,7,2,"#{""venantius@gmail.com"" ""david@standardtreasury.com""}",29.0,2
+Clojure,venantius,2015-01-20,5,2,"#{""venantius@gmail.com"" ""david@standardtreasury.com""}",34.0,2
+Clojure,venantius,2015-01-23,2,1,"#{""david@standardtreasury.com""}",36.0,2
+Clojure,venantius,2015-01-27,4,2,"#{""venantius@gmail.com"" ""david@standardtreasury.com""}",40.0,2
+Clojure,venantius,2015-01-29,4,3,"#{""laurencepascall@gmail.com"" ""tcrayford@googlemail.com"" ""venantius@gmail.com""}",44.0,4
+Clojure,venantius,2015-01-31,1,1,"#{""david@standardtreasury.com""}",45.0,4
+Clojure,venantius,2015-02-02,2,1,"#{""david@standardtreasury.com""}",47.0,4
+Clojure,venantius,2015-02-03,1,1,"#{""venantius@gmail.com""}",48.0,4
+Clojure,venantius,2015-02-15,1,1,"#{""david@standardtreasury.com""}",49.0,4
+Clojure,venantius,2015-02-21,4,1,"#{""venantius@gmail.com""}",53.0,4
+Clojure,venantius,2015-02-28,4,1,"#{""david@standardtreasury.com""}",57.0,4
+Clojure,venantius,2015-03-02,6,1,"#{""david@standardtreasury.com""}",63.0,4
+Clojure,venantius,2015-03-04,1,1,"#{""david@standardtreasury.com""}",64.0,4
+Clojure,venantius,2015-03-13,1,1,"#{""david@standardtreasury.com""}",65.0,4
+Clojure,venantius,2015-03-14,1,1,"#{""david@standardtreasury.com""}",66.0,4
+Clojure,venantius,2015-03-15,5,2,"#{""venantius@gmail.com"" ""david@standardtreasury.com""}",71.0,4
+Clojure,venantius,2015-03-16,2,1,"#{""david@standardtreasury.com""}",73.0,4
+Clojure,venantius,2015-03-17,2,1,"#{""david@standardtreasury.com""}",75.0,4
+Clojure,venantius,2015-03-19,2,1,"#{""david@standardtreasury.com""}",77.0,4
+Clojure,venantius,2015-03-22,1,1,"#{""david@standardtreasury.com""}",78.0,4
+Clojure,venantius,2015-03-23,1,1,"#{""david@standardtreasury.com""}",79.0,4
+Clojure,venantius,2015-03-24,5,1,"#{""david@standardtreasury.com""}",84.0,4
+Clojure,venantius,2015-03-26,1,1,"#{""venantius@gmail.com""}",85.0,4
+Clojure,venantius,2015-06-17,2,1,"#{""david@standardtreasury.com""}",87.0,4
+Clojure,venantius,2015-06-18,2,1,"#{""david@standardtreasury.com""}",89.0,4
+Clojure,venantius,2015-06-20,11,2,"#{""venantius@gmail.com"" ""david@standardtreasury.com""}",100.0,4
+Clojure,venantius,2015-06-21,5,1,"#{""david@standardtreasury.com""}",105.0,4
+Clojure,venantius,2015-06-23,2,1,"#{""venantius@gmail.com""}",107.0,4
+Clojure,venantius,2015-06-29,3,1,"#{""david@standardtreasury.com""}",110.0,4
+Clojure,venantius,2015-07-01,2,2,"#{""marek@xivilization.net"" ""david@standardtreasury.com""}",112.0,5
+Clojure,venantius,2015-07-02,1,1,"#{""david@standardtreasury.com""}",113.0,5
+Clojure,venantius,2015-07-05,1,1,"#{""venantius@gmail.com""}",114.0,5
+Clojure,venantius,2015-07-06,5,2,"#{""venantius@gmail.com"" ""badger@gitter.im""}",119.0,6
+Clojure,venantius,2015-07-07,6,1,"#{""venantius@gmail.com""}",125.0,6
+Clojure,venantius,2015-07-08,1,1,"#{""venantius@gmail.com""}",126.0,6
+Clojure,venantius,2015-07-16,1,1,"#{""venantius@gmail.com""}",127.0,6
+Clojure,venantius,2015-07-18,1,1,"#{""venantius@gmail.com""}",128.0,6
+Clojure,venantius,2015-07-23,1,1,"#{""venantius@gmail.com""}",129.0,6
+Clojure,venantius,2015-07-24,1,1,"#{""venantius@gmail.com""}",130.0,6
+Clojure,venantius,2015-08-01,1,1,"#{""venantius@gmail.com""}",131.0,6
+Clojure,venantius,2015-08-02,2,1,"#{""venantius@gmail.com""}",133.0,6
+Clojure,venantius,2015-08-19,1,1,"#{""venantius@gmail.com""}",134.0,6
+Clojure,venantius,2015-08-23,1,1,"#{""z@caudate.me""}",135.0,7
+Clojure,venantius,2015-08-25,1,1,"#{""venantius@gmail.com""}",136.0,7
+Clojure,venantius,2015-08-26,1,1,"#{""andree88@gmail.com""}",137.0,8
+Clojure,venantius,2015-08-27,1,1,"#{""venantius@gmail.com""}",138.0,8
+Clojure,venantius,2015-08-28,3,1,"#{""venantius@gmail.com""}",141.0,8
+Clojure,venantius,2015-09-12,4,1,"#{""david.jarvis@airbnb.com""}",145.0,9
+Clojure,venantius,2015-09-13,1,1,"#{""venantius@gmail.com""}",146.0,9
+Clojure,venantius,2015-09-16,1,1,"#{""venantius@gmail.com""}",147.0,9
+Clojure,venantius,2015-09-20,1,1,"#{""david.jarvis@airbnb.com""}",148.0,9
+Clojure,venantius,2015-09-27,5,1,"#{""venantius@gmail.com""}",153.0,9
+Clojure,venantius,2015-10-27,2,2,"#{""vadim.platonov@tuloscapital.com"" ""venantius@gmail.com""}",155.0,10
+Clojure,venantius,2015-10-28,1,1,"#{""edvorg@gmail.com""}",156.0,11
+Clojure,venantius,2015-10-29,4,3,"#{""vadim.platonov@tuloscapital.com"" ""edvorg@gmail.com"" ""venantius@gmail.com""}",160.0,11
+Clojure,venantius,2015-11-01,3,1,"#{""venantius@gmail.com""}",163.0,11
+Clojure,venantius,2015-11-02,8,1,"#{""venantius@gmail.com""}",171.0,11
+Clojure,venantius,2015-11-03,1,1,"#{""edvorg@gmail.com""}",172.0,11
+Clojure,venantius,2015-11-05,1,1,"#{""venantius@gmail.com""}",173.0,11
+Clojure,venantius,2015-11-07,7,1,"#{""venantius@gmail.com""}",180.0,11
+Clojure,venantius,2015-11-08,1,1,"#{""venantius@gmail.com""}",181.0,11
+Clojure,venantius,2015-11-09,1,1,"#{""venantius@gmail.com""}",182.0,11
+Clojure,venantius,2015-11-10,1,1,"#{""edvorg@gmail.com""}",183.0,11
+Clojure,venantius,2015-11-14,1,1,"#{""venantius@gmail.com""}",184.0,11
+Clojure,venantius,2015-11-27,1,1,"#{""gnosis@gmail.com""}",185.0,12
+Clojure,venantius,2015-12-02,1,1,"#{""venantius@gmail.com""}",186.0,12
+Clojure,venantius,2015-12-06,3,2,"#{""venantius@gmail.com"" ""shinych@gmail.com""}",189.0,13
+Clojure,venantius,2016-01-09,1,1,"#{""bradmelanson@icloud.com""}",190.0,14
+Clojure,venantius,2016-01-11,1,1,"#{""venantius@gmail.com""}",191.0,14
+Clojure,venantius,2016-02-13,1,1,"#{""a@monks.co""}",192.0,15
+Clojure,venantius,2016-02-16,1,1,"#{""venantius@gmail.com""}",193.0,15
+Clojure,venantius,2016-02-19,2,1,"#{""arohner@gmail.com""}",195.0,16
+Clojure,venantius,2016-02-20,2,2,"#{""arohner@gmail.com"" ""venantius@gmail.com""}",197.0,16
+Clojure,venantius,2016-02-23,1,1,"#{""venantius@gmail.com""}",198.0,16
+Clojure,venantius,2016-02-26,1,1,"#{""david.jarvis@airbnb.com""}",199.0,16
+Clojure,venantius,2016-02-27,1,1,"#{""venantius@gmail.com""}",200.0,16
+Clojure,venantius,2016-02-28,3,1,"#{""venantius@gmail.com""}",203.0,16
+Clojure,venantius,2016-02-29,3,1,"#{""venantius@gmail.com""}",206.0,16
+Clojure,venantius,2016-03-01,3,1,"#{""venantius@gmail.com""}",209.0,16
+Clojure,venantius,2016-05-07,1,1,"#{""timothypratley@gmail.com""}",210.0,17
+Clojure,venantius,2016-05-30,2,1,"#{""timothypratley@gmail.com""}",212.0,17
+Clojure,venantius,2016-06-06,1,1,"#{""venantius@gmail.com""}",213.0,17
+Clojure,venantius,2016-06-24,1,1,"#{""david.jarvis@airbnb.com""}",214.0,17
+Clojure,venantius,2016-06-26,9,1,"#{""david.jarvis@airbnb.com""}",223.0,17
+Clojure,venantius,2016-07-11,1,1,"#{""sdienst@informatik.uni-leipzig.de""}",224.0,18
+Clojure,venantius,2016-07-19,1,1,"#{""venantius@gmail.com""}",225.0,18
+Clojure,venantius,2016-09-14,2,1,"#{""venantius@gmail.com""}",227.0,18
+Clojure,venantius,2016-09-19,1,1,"#{""tommi@iki.fi""}",228.0,19
+Clojure,venantius,2016-09-20,2,1,"#{""venantius@gmail.com""}",230.0,19
+Clojure,venantius,2016-11-24,1,1,"#{""vadim.platonov@tuloscapital.com""}",231.0,19
+Clojure,venantius,2016-11-26,1,1,"#{""venantius@gmail.com""}",232.0,19
+Clojure,venantius,2016-12-14,2,1,"#{""venantius@gmail.com""}",234.0,19
+Clojure,venantius,2016-12-22,1,1,"#{""steffen.dienst@uni-leipzig.de""}",235.0,20
+Clojure,venantius,2017-01-08,5,1,"#{""venantius@gmail.com""}",240.0,20
+Clojure,venantius,2017-02-13,1,1,"#{""wesmorgan@icloud.com""}",241.0,21
+Clojure,venantius,2017-02-15,2,2,"#{""venantius@gmail.com"" ""nico.rikken@mpare.net""}",243.0,22
+Clojure,venantius,2017-02-17,2,1,"#{""venantius@gmail.com""}",245.0,22
+Clojure,venantius,2017-02-22,1,1,"#{""nico.rikken@mpare.net""}",246.0,22
+Clojure,venantius,2017-02-24,1,1,"#{""venantius@gmail.com""}",247.0,22
+Clojure,venantius,2017-02-25,1,1,"#{""venantius@gmail.com""}",248.0,22
+Clojure,venantius,2017-02-27,2,2,"#{""venantius@gmail.com"" ""steffen.dienst@uni-leipzig.de""}",250.0,22
+Clojure,venantius,2017-03-14,1,1,"#{""jean-louis@jawaninja.com""}",251.0,23
+Clojure,venantius,2017-04-25,1,1,"#{""venantius@gmail.com""}",252.0,23
+Clojure,venantius,2017-06-15,1,1,"#{""venantius@gmail.com""}",253.0,23
+Clojure,venantius,2017-06-23,1,1,"#{""divergentdave@gmail.com""}",254.0,24
+Clojure,venantius,2017-07-10,1,1,"#{""steffen.dienst@gmail.com""}",255.0,25
+Clojure,venantius,2017-08-14,1,1,"#{""the30yearswar@hotmail.com""}",256.0,26
+Clojure,venantius,2017-08-16,1,1,"#{""venantius@gmail.com""}",257.0,26
+Clojure,venantius,2017-09-10,1,1,"#{""DrTom@schank.ch""}",258.0,27
+Clojure,venantius,2017-09-13,2,1,"#{""Emlyn.Corrin@microsoft.com""}",260.0,28
+Clojure,venantius,2017-10-28,1,1,"#{""david@griffin.sh""}",261.0,29
+Clojure,venantius,2017-10-29,1,1,"#{""venantius@gmail.com""}",262.0,29
+Clojure,venantius,2017-11-01,2,2,"#{""venantius@gmail.com"" ""david@griffin.sh""}",264.0,29
+Clojure,venantius,2017-11-02,6,4,"#{""venantius@gmail.com"" ""eero.helenius@solita.fi"" ""Emlyn.Corrin@microsoft.com"" ""david@griffin.sh""}",270.0,30
+Clojure,venantius,2017-11-03,3,3,"#{""kanumaiku@gmail.com"" ""venantius@gmail.com"" ""david@griffin.sh""}",273.0,31
+Clojure,venantius,2018-01-15,1,1,"#{""david@griffin.sh""}",274.0,31
+Clojure,venantius,2018-02-13,1,1,"#{""venantius@gmail.com""}",275.0,31
+Clojure,venantius,2018-02-15,3,2,"#{""venantius@gmail.com"" ""david@griffin.sh""}",278.0,31
+Clojure,venantius,2018-02-16,9,1,"#{""venantius@gmail.com""}",287.0,31
+Clojure,venantius,2018-02-17,2,1,"#{""venantius@gmail.com""}",289.0,31
+Clojure,venantius,2018-02-19,4,3,"#{""refsdal.ivar@gmail.com"" ""timothypratley@gmail.com"" ""adam.niederer@gmail.com""}",293.0,33
+Clojure,venantius,2018-02-20,3,2,"#{""ivar.refsdal@nsd.no"" ""adam.niederer@gmail.com""}",296.0,34
+Clojure,venantius,2018-02-21,2,1,"#{""ivar.refsdal@nsd.no""}",298.0,34
+Clojure,venantius,2018-02-22,3,1,"#{""ivar.refsdal@nsd.no""}",301.0,34
+Clojure,venantius,2018-02-23,2,2,"#{""venantius@gmail.com"" ""david@griffin.sh""}",303.0,34
+Clojure,venantius,2018-02-26,8,4,"#{""ivar.refsdal@nsd.no"" ""venantius@gmail.com"" ""david@griffin.sh"" ""timothypratley@gmail.com""}",311.0,34
+Clojure,venantius,2018-02-27,1,1,"#{""david@griffin.sh""}",312.0,34
+Clojure,venantius,2018-02-28,4,2,"#{""venantius@gmail.com"" ""david@griffin.sh""}",316.0,34
+Clojure,venantius,2018-03-07,1,1,"#{""david@griffin.sh""}",317.0,34
+Clojure,venantius,2018-03-08,2,1,"#{""venantius@gmail.com""}",319.0,34
+Clojure,venantius,2018-03-19,1,1,"#{""david@griffin.sh""}",320.0,34
+Clojure,venantius,2018-05-15,1,1,"#{""venantius@gmail.com""}",321.0,34
+Clojure,venantius,2018-05-26,1,1,"#{""venantius@gmail.com""}",322.0,34
+Clojure,venantius,2018-07-09,2,2,"#{""souenzzo@gmail.com"" ""david@griffin.sh""}",324.0,35
+Clojure,venantius,2018-08-30,1,1,"#{""nha@users.noreply.github.com""}",325.0,36
+Clojure,venantius,2018-08-31,3,2,"#{""nha@users.noreply.github.com"" ""david@griffin.sh""}",328.0,36
+Clojure,venantius,2018-11-08,2,1,"#{""tom@reifyhealth.com""}",330.0,37
+Clojure,venantius,2018-11-10,2,2,"#{""tommi.jalkanen@kodan.fi"" ""david@griffin.sh""}",332.0,38
+Clojure,venantius,2018-11-14,1,1,"#{""david@griffin.sh""}",333.0,38
+Clojure,venantius,2018-11-27,3,2,"#{""david@griffin.sh"" ""ron.duplain@gmail.com""}",336.0,39
+Clojure,venantius,2018-12-04,3,2,"#{""kanumaiku@gmail.com"" ""david@griffin.sh""}",339.0,39
+Clojure,venantius,2018-12-12,1,1,"#{""kanumaiku@gmail.com""}",340.0,39
+Clojure,venantius,2018-12-13,4,2,"#{""andrea.crotti.0@gmail.com"" ""david@griffin.sh""}",344.0,40
+Clojure,venantius,2018-12-14,1,1,"#{""david@griffin.sh""}",345.0,40
+Clojure,venantius,2019-01-27,2,2,"#{""oubiwann@gmail.com"" ""david@griffin.sh""}",347.0,41
+Clojure,venantius,2019-02-02,1,1,"#{""thomas@thosmos.com""}",348.0,42
+Clojure,venantius,2019-02-03,1,1,"#{""david@griffin.sh""}",349.0,42
+Clojure,venantius,2019-02-09,1,1,"#{""david@griffin.sh""}",350.0,42
+Clojure,venantius,2019-03-04,2,1,"#{""david@griffin.sh""}",352.0,42
+Clojure,venantius,2019-03-09,3,1,"#{""david@griffin.sh""}",355.0,42
+Clojure,venantius,2019-04-19,1,1,"#{""franconbiasin@gmail.com""}",356.0,43
+Clojure,venantius,2019-04-20,2,2,"#{""cloojure@gmail.com"" ""kanumaiku@gmail.com""}",358.0,44
+Clojure,venantius,2019-04-21,1,1,"#{""kanumaiku@gmail.com""}",359.0,44
+Clojure,venantius,2019-10-19,1,1,"#{""david@griffin.sh""}",360.0,44
+Clojure,venantius,2021-09-30,2,2,"#{""joel.kaasinen@metosin.fi"" ""1824859+venantius@users.noreply.github.com""}",362.0,46
+Clojure,venantius,2023-02-16,1,1,"#{""1824859+venantius@users.noreply.github.com""}",363.0,46

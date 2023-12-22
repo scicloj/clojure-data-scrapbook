@@ -1,0 +1,229 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clojurewerkz/eep,2013-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oleksandr.petrov@gmail.com]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/clojurewerkz/eep,2013-03-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/clojurewerkz/eep,2013-03-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/clojurewerkz/eep,2013-03-10,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[michael@novemberain.com, michael@novemberain.com, michael@novemberain.com, michael@novemberain.com, michael@novemberain.com, michael@novemberain.com, michael@novemberain.com]",12.0,"[{0 5, 3 7}]",0,5,0,0,7,0
+Clojure,https://github.com/clojurewerkz/eep,2013-03-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",16.0,"[{0 9, 3 7}]",0,9,0,0,7,0
+Clojure,https://github.com/clojurewerkz/eep,2013-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@defprotocol.org]",17.0,"[{0 9, 3 7, 4 1}]",0,9,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-03-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",19.0,"[{0 11, 3 7, 4 1}]",0,11,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oleksandr.petrov@gmail.com]",20.0,"[{0 12, 3 7, 4 1}]",0,12,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-03-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",24.0,"[{0 16, 3 7, 4 1}]",0,16,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-04-07,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",33.0,"[{0 25, 3 7, 4 1}]",0,25,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-05-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",35.0,"[{0 27, 3 7, 4 1}]",0,27,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-05-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",37.0,"[{0 29, 3 7, 4 1}]",0,29,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",41.0,"[{0 33, 3 7, 4 1}]",0,33,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",43.0,"[{0 35, 3 7, 4 1}]",0,35,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oleksandr.petrov@gmail.com]",44.0,"[{0 36, 3 7, 4 1}]",0,36,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oleksandr.petrov@gmail.com]",45.0,"[{0 37, 3 7, 4 1}]",0,37,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",49.0,"[{0 41, 3 7, 4 1}]",0,41,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",51.0,"[{0 43, 3 7, 4 1}]",0,43,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",54.0,"[{0 46, 3 7, 4 1}]",0,46,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",56.0,"[{0 48, 3 7, 4 1}]",0,48,0,0,7,1
+Clojure,https://github.com/clojurewerkz/eep,2013-06-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@defprotocol.org, michael@defprotocol.org]",58.0,"[{0 48, 3 7, 4 3}]",0,48,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-06-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",63.0,"[{0 53, 3 7, 4 3}]",0,53,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oleksandr.petrov@gmail.com]",64.0,"[{0 54, 3 7, 4 3}]",0,54,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-06-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",66.0,"[{0 56, 3 7, 4 3}]",0,56,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-06-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",68.0,"[{0 58, 3 7, 4 3}]",0,58,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-06-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oleksandr.petrov@gmail.com]",69.0,"[{0 59, 3 7, 4 3}]",0,59,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-07-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",72.0,"[{0 62, 3 7, 4 3}]",0,62,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-07-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com, oleksandr.petrov@gmail.com]",75.0,"[{0 65, 3 7, 4 3}]",0,65,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-07-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oleksandr.petrov@gmail.com]",76.0,"[{0 66, 3 7, 4 3}]",0,66,0,0,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexp@coffeenco.de]",77.0,"[{0 66, 3 7, 4 3, 2 1}]",0,66,0,1,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-08-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de]",81.0,"[{0 66, 3 7, 4 3, 2 5}]",0,66,0,5,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexp@coffeenco.de]",82.0,"[{0 66, 3 7, 4 3, 2 6}]",0,66,0,6,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-08-28,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de]",89.0,"[{0 66, 3 7, 4 3, 2 13}]",0,66,0,13,7,3
+Clojure,https://github.com/clojurewerkz/eep,2013-08-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@novemberain.com]",90.0,"[{0 66, 3 8, 4 3, 2 13}]",0,66,0,13,8,3
+Clojure,https://github.com/clojurewerkz/eep,2013-08-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michael@defprotocol.org, michael@defprotocol.org, michael@defprotocol.org]",93.0,"[{0 66, 3 8, 4 6, 2 13}]",0,66,0,13,8,6
+Clojure,https://github.com/clojurewerkz/eep,2013-09-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de]",97.0,"[{0 66, 3 8, 4 6, 2 17}]",0,66,0,17,8,6
+Clojure,https://github.com/clojurewerkz/eep,2013-09-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de]",100.0,"[{0 66, 3 8, 4 6, 2 20}]",0,66,0,20,8,6
+Clojure,https://github.com/clojurewerkz/eep,2013-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexp@coffeenco.de]",101.0,"[{0 66, 3 8, 4 6, 2 21}]",0,66,0,21,8,6
+Clojure,https://github.com/clojurewerkz/eep,2013-09-09,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de]",113.0,"[{0 66, 3 8, 4 6, 2 33}]",0,66,0,33,8,6
+Clojure,https://github.com/clojurewerkz/eep,2013-09-18,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de]",118.0,"[{0 66, 3 8, 4 6, 2 38}]",0,66,0,38,8,6
+Clojure,https://github.com/clojurewerkz/eep,2013-09-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michael@defprotocol.org, michael@defprotocol.org, michael@defprotocol.org]",121.0,"[{0 66, 3 8, 4 9, 2 38}]",0,66,0,38,8,9
+Clojure,https://github.com/clojurewerkz/eep,2013-09-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alexp@coffeenco.de, alexp@coffeenco.de, alexp@coffeenco.de]",124.0,"[{0 66, 3 8, 4 9, 2 41}]",0,66,0,41,8,9
+Clojure,https://github.com/clojurewerkz/eep,2013-12-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alexp@coffeenco.de, chef@bitdeli.com]",126.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 1}]",1,66,0,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2013-12-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",128.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 1, 1 2}]",1,66,2,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",129.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 1, 1 3}]",1,66,3,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",130.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 1, 1 4}]",1,66,4,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",132.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 1, 1 6}]",1,66,6,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",134.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 1, 1 8}]",1,66,8,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, justin.valentini@gmail.com]",136.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 9}]",2,66,9,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",137.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 10}]",2,66,10,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",138.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 11}]",2,66,11,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",139.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 12}]",2,66,12,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",140.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 13}]",2,66,13,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",142.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 15}]",2,66,15,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",143.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 16}]",2,66,16,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-05-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",145.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 18}]",2,66,18,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",146.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 19}]",2,66,19,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-06-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org]",150.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 23}]",2,66,23,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",151.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 24}]",2,66,24,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",152.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 25}]",2,66,25,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",153.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 26}]",2,66,26,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-11-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",155.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 28}]",2,66,28,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2014-12-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",156.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 29}]",2,66,29,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org]",161.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 2, 1 34}]",2,66,34,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[malcolm@juxt.pro]",162.0,"[{0 66, 3 8, 4 9, 2 42, ""other"" 3, 1 34}]",3,66,34,42,8,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[michael@novemberain.com, malcolm@juxt.pro, michael@novemberain.com, malcolm@juxt.pro]",166.0,"[{0 66, 3 10, 4 9, 2 42, ""other"" 5, 1 34}]",5,66,34,42,10,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",168.0,"[{0 66, 3 10, 4 9, 2 42, ""other"" 5, 1 36}]",5,66,36,42,10,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-08,17,2,"#tech.v3.dataset.column<string>[17]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@novemberain.com, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org, michael@clojurewerkz.org]",185.0,"[{0 66, 3 11, 4 9, 2 42, ""other"" 5, 1 52}]",5,66,52,42,11,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@novemberain.com, malcolm@juxt.pro]",187.0,"[{0 66, 3 12, 4 9, 2 42, ""other"" 6, 1 52}]",6,66,52,42,12,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",188.0,"[{0 66, 3 12, 4 9, 2 42, ""other"" 6, 1 53}]",6,66,53,42,12,9
+Clojure,https://github.com/clojurewerkz/eep,2015-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",189.0,"[{0 66, 3 12, 4 9, 2 42, ""other"" 6, 1 54}]",6,66,54,42,12,9
+Clojure,https://github.com/clojurewerkz/eep,2015-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mcktrtl@users.noreply.github.com]",190.0,"[{0 66, 3 12, 4 9, 2 42, ""other"" 7, 1 54}]",7,66,54,42,12,9
+Clojure,https://github.com/clojurewerkz/eep,2015-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@novemberain.com]",191.0,"[{0 66, 3 13, 4 9, 2 42, ""other"" 7, 1 54}]",7,66,54,42,13,9
+Clojure,https://github.com/clojurewerkz/eep,2015-06-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",192.0,"[{0 66, 3 13, 4 9, 2 42, ""other"" 7, 1 55}]",7,66,55,42,13,9
+Clojure,https://github.com/clojurewerkz/eep,2015-07-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@clojurewerkz.org, michael@clojurewerkz.org]",194.0,"[{0 66, 3 13, 4 9, 2 42, ""other"" 7, 1 57}]",7,66,57,42,13,9
+Clojure,https://github.com/clojurewerkz/eep,2016-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael@clojurewerkz.org]",195.0,"[{0 66, 3 13, 4 9, 2 42, ""other"" 7, 1 58}]",7,66,58,42,13,9

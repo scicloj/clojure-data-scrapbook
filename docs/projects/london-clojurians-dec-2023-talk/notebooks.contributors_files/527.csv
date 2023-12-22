@@ -1,0 +1,114 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,relevance,2010-01-14,4,1,"#{""stu@thinkrelevance.com""}",4.0,1
+Clojure,relevance,2010-01-15,1,1,"#{""stu@thinkrelevance.com""}",5.0,1
+Clojure,relevance,2010-01-16,1,1,"#{""stu@thinkrelevance.com""}",6.0,1
+Clojure,relevance,2010-01-17,1,1,"#{""stu@thinkrelevance.com""}",7.0,1
+Clojure,relevance,2010-02-01,9,1,"#{""stu@thinkrelevance.com""}",16.0,1
+Clojure,relevance,2010-02-02,1,1,"#{""stu@thinkrelevance.com""}",17.0,1
+Clojure,relevance,2010-02-15,9,2,"#{""stu@thinkrelevance.com"" ""aaron@aaronbedra.com""}",26.0,2
+Clojure,relevance,2010-02-16,9,1,"#{""stu@thinkrelevance.com""}",35.0,2
+Clojure,relevance,2010-02-17,5,1,"#{""stu@thinkrelevance.com""}",40.0,2
+Clojure,relevance,2010-02-18,3,1,"#{""stu@thinkrelevance.com""}",43.0,2
+Clojure,relevance,2010-02-21,1,1,"#{""stu@thinkrelevance.com""}",44.0,2
+Clojure,relevance,2010-02-22,2,1,"#{""stu@thinkrelevance.com""}",46.0,2
+Clojure,relevance,2010-02-23,1,1,"#{""stu@thinkrelevance.com""}",47.0,2
+Clojure,relevance,2010-02-24,1,1,"#{""stu@thinkrelevance.com""}",48.0,2
+Clojure,relevance,2010-02-25,1,1,"#{""stu@thinkrelevance.com""}",49.0,2
+Clojure,relevance,2010-03-02,1,1,"#{""stu@thinkrelevance.com""}",50.0,2
+Clojure,relevance,2010-03-03,1,1,"#{""stu@thinkrelevance.com""}",51.0,2
+Clojure,relevance,2010-03-08,1,1,"#{""stu@thinkrelevance.com""}",52.0,2
+Clojure,relevance,2010-03-10,4,1,"#{""stu@thinkrelevance.com""}",56.0,2
+Clojure,relevance,2010-03-12,1,1,"#{""stu@thinkrelevance.com""}",57.0,2
+Clojure,relevance,2010-03-14,1,1,"#{""stu@thinkrelevance.com""}",58.0,2
+Clojure,relevance,2010-03-15,6,1,"#{""stu@thinkrelevance.com""}",64.0,2
+Clojure,relevance,2010-03-16,3,2,"#{""stu@thinkrelevance.com"" ""matt.wizeman@nearinfinity.com""}",67.0,3
+Clojure,relevance,2010-03-17,5,1,"#{""stu@thinkrelevance.com""}",72.0,3
+Clojure,relevance,2010-03-21,1,1,"#{""stu@thinkrelevance.com""}",73.0,3
+Clojure,relevance,2010-03-22,2,1,"#{""citizen428@gmail.com""}",75.0,4
+Clojure,relevance,2010-03-23,8,4,"#{""stu@thinkrelevance.com"" ""citizen428@gmail.com"" ""alexott@gmail.com"" ""richhickey@gmail.com""}",83.0,6
+Clojure,relevance,2010-03-24,7,4,"#{""stu@thinkrelevance.com"" ""citizen428@gmail.com"" ""alexott@gmail.com"" ""shawn@bighugh.com""}",90.0,7
+Clojure,relevance,2010-03-25,1,1,"#{""citizen428@gmail.com""}",91.0,7
+Clojure,relevance,2010-03-26,3,1,"#{""citizen428@gmail.com""}",94.0,7
+Clojure,relevance,2010-03-27,3,1,"#{""stu@thinkrelevance.com""}",97.0,7
+Clojure,relevance,2010-03-29,1,1,"#{""richhickey@gmail.com""}",98.0,7
+Clojure,relevance,2010-04-01,2,2,"#{""stu@thinkrelevance.com"" ""shawn@bighugh.com""}",100.0,7
+Clojure,relevance,2010-04-06,1,1,"#{""stu@thinkrelevance.com""}",101.0,7
+Clojure,relevance,2010-04-08,1,1,"#{""daniel@solanogomez.org""}",102.0,8
+Clojure,relevance,2010-04-09,1,1,"#{""daniel@solanogomez.org""}",103.0,8
+Clojure,relevance,2010-04-11,1,1,"#{""goof@foognostic.net""}",104.0,9
+Clojure,relevance,2010-04-12,3,1,"#{""stu@thinkrelevance.com""}",107.0,9
+Clojure,relevance,2010-04-14,5,2,"#{""goof@foognostic.net"" ""mike@clarkware.com""}",112.0,10
+Clojure,relevance,2010-04-20,2,1,"#{""stu@thinkrelevance.com""}",114.0,10
+Clojure,relevance,2010-04-27,1,1,"#{""stu@thinkrelevance.com""}",115.0,10
+Clojure,relevance,2010-04-30,1,1,"#{""stu@thinkrelevance.com""}",116.0,10
+Clojure,relevance,2010-05-02,1,1,"#{""stu@thinkrelevance.com""}",117.0,10
+Clojure,relevance,2010-05-05,3,1,"#{""stu@thinkrelevance.com""}",120.0,10
+Clojure,relevance,2010-05-06,2,1,"#{""stu@thinkrelevance.com""}",122.0,10
+Clojure,relevance,2010-05-14,2,1,"#{""stu@thinkrelevance.com""}",124.0,10
+Clojure,relevance,2010-05-15,1,1,"#{""stu@thinkrelevance.com""}",125.0,10
+Clojure,relevance,2010-05-19,2,1,"#{""stu@thinkrelevance.com""}",127.0,10
+Clojure,relevance,2010-05-30,1,1,"#{""stu@thinkrelevance.com""}",128.0,10
+Clojure,relevance,2010-06-07,1,1,"#{""stu@thinkrelevance.com""}",129.0,10
+Clojure,relevance,2010-07-02,1,1,"#{""aaron@aaronbedra.com""}",130.0,10
+Clojure,relevance,2010-07-16,2,1,"#{""aaron@aaronbedra.com""}",132.0,10
+Clojure,relevance,2010-08-20,3,1,"#{""aaron@aaronbedra.com""}",135.0,10
+Clojure,relevance,2010-09-09,1,1,"#{""stu@thinkrelevance.com""}",136.0,10
+Clojure,relevance,2010-09-12,1,1,"#{""stu@thinkrelevance.com""}",137.0,10
+Clojure,relevance,2010-09-23,1,1,"#{""stu@thinkrelevance.com""}",138.0,10
+Clojure,relevance,2010-09-30,2,1,"#{""jon.distad@gmail.com""}",140.0,11
+Clojure,relevance,2010-10-01,1,1,"#{""jack.dempsey@gmail.com""}",141.0,12
+Clojure,relevance,2010-10-02,1,1,"#{""jack.dempsey@gmail.com""}",142.0,12
+Clojure,relevance,2010-10-03,2,2,"#{""stu@thinkrelevance.com"" ""chad@spicycode.com""}",144.0,13
+Clojure,relevance,2010-10-05,1,1,"#{""heow@tako.(none)""}",145.0,14
+Clojure,relevance,2010-10-07,1,1,"#{""fhd@ubercode.de""}",146.0,15
+Clojure,relevance,2010-10-08,1,1,"#{""jon.distad@gmail.com""}",147.0,15
+Clojure,relevance,2010-10-11,1,1,"#{""fhd@ubercode.de""}",148.0,15
+Clojure,relevance,2010-10-15,12,2,"#{""adam@fixflyer.com"" ""aaron@aaronbedra.com""}",160.0,16
+Clojure,relevance,2011-03-29,4,1,"#{""aaron@aaronbedra.com""}",164.0,16
+Clojure,relevance,2011-04-10,2,1,"#{""aaron@aaronbedra.com""}",166.0,16
+Clojure,relevance,2011-05-02,18,1,"#{""aaron@aaronbedra.com""}",184.0,16
+Clojure,relevance,2011-05-03,5,1,"#{""aaron@aaronbedra.com""}",189.0,16
+Clojure,relevance,2011-05-04,16,1,"#{""aaron@aaronbedra.com""}",205.0,16
+Clojure,relevance,2011-05-05,7,1,"#{""aaron@aaronbedra.com""}",212.0,16
+Clojure,relevance,2011-06-04,1,1,"#{""stu@thinkrelevance.com""}",213.0,16
+Clojure,relevance,2011-06-14,1,1,"#{""stu@thinkrelevance.com""}",214.0,16
+Clojure,relevance,2011-08-19,2,1,"#{""aaron@aaronbedra.com""}",216.0,16
+Clojure,relevance,2011-09-17,2,1,"#{""pjvandehaar@gmail.com""}",218.0,17
+Clojure,relevance,2011-10-24,6,1,"#{""aaron@aaronbedra.com""}",224.0,17
+Clojure,relevance,2011-10-27,2,2,"#{""mail@stuartsierra.com"" ""aaron@aaronbedra.com""}",226.0,18
+Clojure,relevance,2011-11-02,1,1,"#{""mail@stuartsierra.com""}",227.0,18
+Clojure,relevance,2011-12-19,1,1,"#{""benemue@googlemail.com""}",228.0,19
+Clojure,relevance,2011-12-28,14,1,"#{""mail@stuartsierra.com""}",242.0,19
+Clojure,relevance,2011-12-29,10,1,"#{""mail@stuartsierra.com""}",252.0,19
+Clojure,relevance,2011-12-31,6,1,"#{""mail@stuartsierra.com""}",258.0,19
+Clojure,relevance,2012-01-03,4,1,"#{""mail@stuartsierra.com""}",262.0,19
+Clojure,relevance,2012-01-05,3,1,"#{""mail@stuartsierra.com""}",265.0,19
+Clojure,relevance,2012-01-06,13,1,"#{""mail@stuartsierra.com""}",278.0,19
+Clojure,relevance,2012-01-08,1,1,"#{""mail@stuartsierra.com""}",279.0,19
+Clojure,relevance,2012-01-10,16,1,"#{""mail@stuartsierra.com""}",295.0,19
+Clojure,relevance,2012-01-13,20,1,"#{""mail@stuartsierra.com""}",315.0,19
+Clojure,relevance,2012-01-16,4,1,"#{""mail@stuartsierra.com""}",319.0,19
+Clojure,relevance,2012-01-17,2,1,"#{""mail@stuartsierra.com""}",321.0,19
+Clojure,relevance,2012-01-21,1,1,"#{""mail@stuartsierra.com""}",322.0,19
+Clojure,relevance,2012-01-26,2,1,"#{""mail@stuartsierra.com""}",324.0,19
+Clojure,relevance,2012-02-03,14,2,"#{""mail@stuartsierra.com"" ""pair@thinkrelevance.com""}",338.0,20
+Clojure,relevance,2012-02-10,17,2,"#{""mail@stuartsierra.com"" ""candera@wangdera.com""}",355.0,21
+Clojure,relevance,2012-02-17,1,1,"#{""mail@stuartsierra.com""}",356.0,21
+Clojure,relevance,2012-02-22,3,2,"#{""mail@stuartsierra.com"" ""candera@wangdera.com""}",359.0,21
+Clojure,relevance,2012-02-24,4,1,"#{""mail@stuartsierra.com""}",363.0,21
+Clojure,relevance,2012-03-09,9,1,"#{""mail@stuartsierra.com""}",372.0,21
+Clojure,relevance,2012-03-10,5,1,"#{""mail@stuartsierra.com""}",377.0,21
+Clojure,relevance,2012-03-12,3,1,"#{""mail@stuartsierra.com""}",380.0,21
+Clojure,relevance,2012-08-01,1,1,"#{""denis.fuenzalida@gmail.com""}",381.0,22
+Clojure,relevance,2012-08-14,3,1,"#{""mail@stuartsierra.com""}",384.0,22
+Clojure,relevance,2013-02-13,10,1,"#{""stu@thinkrelevance.com""}",394.0,22
+Clojure,relevance,2013-03-14,1,1,"#{""stu@thinkrelevance.com""}",395.0,22
+Clojure,relevance,2013-03-15,1,1,"#{""stu@thinkrelevance.com""}",396.0,22
+Clojure,relevance,2013-09-06,1,1,"#{""mail@stuartsierra.com""}",397.0,22
+Clojure,relevance,2013-09-09,3,1,"#{""mail@stuartsierra.com""}",400.0,22
+Clojure,relevance,2013-09-25,2,1,"#{""stu@thinkrelevance.com""}",402.0,22
+Clojure,relevance,2013-09-27,11,1,"#{""mail@stuartsierra.com""}",413.0,22
+Clojure,relevance,2014-05-09,1,1,"#{""mail@stuartsierra.com""}",414.0,22
+Clojure,relevance,2014-08-28,1,1,"#{""stu@cognitect.com""}",415.0,23
+Clojure,relevance,2014-10-24,1,1,"#{""stu@cognitect.com""}",416.0,23
+Clojure,relevance,2014-12-03,1,1,"#{""stu@cognitect.com""}",417.0,23

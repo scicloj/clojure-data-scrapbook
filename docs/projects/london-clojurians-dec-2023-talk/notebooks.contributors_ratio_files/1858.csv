@@ -1,0 +1,25 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/fossasia/event-collect,2016-11-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mb@mariobehling.de]",1.0,[{0 1}],0,1,0,0,0,0
+Python,https://github.com/fossasia/event-collect,2016-12-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mb@mariobehling.de, polbaladasluna@gmail.com]",3.0,"[{0 2, 3 1}]",0,2,0,0,1,0
+Python,https://github.com/fossasia/event-collect,2016-12-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mb@mariobehling.de, polbaladasluna@gmail.com]",5.0,"[{0 3, 3 2}]",0,3,0,0,2,0
+Python,https://github.com/fossasia/event-collect,2016-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Nikhil Kumar]",6.0,"[{0 3, 3 2, 2 1}]",0,3,0,1,2,0
+Python,https://github.com/fossasia/event-collect,2016-12-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Nikhil Kumar]",7.0,"[{0 3, 3 2, 2 2}]",0,3,0,2,2,0
+Python,https://github.com/fossasia/event-collect,2016-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niranjan94@yahoo.com]",8.0,"[{0 3, 3 2, 2 2, 1 1}]",0,3,1,2,2,0
+Python,https://github.com/fossasia/event-collect,2017-01-09,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[oanarosca1999@yahoo.com, mb@mariobehling.de, mb@mariobehling.de, alex.heredia.barbosa@gmail.com]",12.0,"[{0 5, 3 2, 2 2, 1 1, ""other"" 1, 4 1}]",1,5,1,2,2,1
+Python,https://github.com/fossasia/event-collect,2017-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niranjan94@yahoo.com]",13.0,"[{0 5, 3 2, 2 2, 1 2, ""other"" 1, 4 1}]",1,5,2,2,2,1

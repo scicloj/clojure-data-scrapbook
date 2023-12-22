@@ -1,0 +1,82 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/oliyh/superlifter,2019-01-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@oliy.co.uk, git@oliy.co.uk]",2.0,[{0 2}],0,2,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2019-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2019-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-01-03,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[git@oliy.co.uk, git@oliy.co.uk, git@oliy.co.uk, git@oliy.co.uk]",8.0,[{0 8}],0,8,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",9.0,[{0 9}],0,9,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-02-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[git@oliy.co.uk, git@oliy.co.uk, git@oliy.co.uk]",12.0,[{0 12}],0,12,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-03-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-03-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@oliy.co.uk, git@oliy.co.uk]",16.0,[{0 16}],0,16,0,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@oliy.co.uk]",17.0,"[{0 16, 1 1}]",0,16,1,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-04-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",18.0,"[{0 17, 1 1}]",0,17,1,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@oliy.co.uk]",19.0,"[{0 17, 1 2}]",0,17,2,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@oliy.co.uk]",20.0,"[{0 17, 1 3}]",0,17,3,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-06-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@oliy.co.uk, git@oliy.co.uk]",22.0,"[{0 19, 1 3}]",0,19,3,0,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[root@gws.fyi]",23.0,"[{0 19, 1 3, 2 1}]",0,19,3,1,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-11-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@oliy.co.uk]",24.0,"[{0 19, 1 4, 2 1}]",0,19,4,1,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[root@gws.fyi]",25.0,"[{0 19, 1 4, 2 2}]",0,19,4,2,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",26.0,"[{0 20, 1 4, 2 2}]",0,20,4,2,0,0
+Clojure,https://github.com/oliyh/superlifter,2020-12-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@oliy.co.uk, git@oliy.co.uk]",28.0,"[{0 22, 1 4, 2 2}]",0,22,4,2,0,0
+Clojure,https://github.com/oliyh/superlifter,2021-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",29.0,"[{0 23, 1 4, 2 2}]",0,23,4,2,0,0
+Clojure,https://github.com/oliyh/superlifter,2021-02-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[thumbnail@users.noreply.github.com]",30.0,"[{0 23, 1 4, 2 2, ""other"" 1}]",1,23,4,2,0,0
+Clojure,https://github.com/oliyh/superlifter,2021-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dominikengelhardt@ymail.com]",31.0,"[{0 23, 1 4, 2 2, ""other"" 1, 4 1}]",1,23,4,2,0,1
+Clojure,https://github.com/oliyh/superlifter,2022-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",32.0,"[{0 24, 1 4, 2 2, ""other"" 1, 4 1}]",1,24,4,2,0,1
+Clojure,https://github.com/oliyh/superlifter,2022-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",33.0,"[{0 25, 1 4, 2 2, ""other"" 1, 4 1}]",1,25,4,2,0,1
+Clojure,https://github.com/oliyh/superlifter,2023-03-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[git@oliy.co.uk, git@oliy.co.uk, coyotesqrl@gmail.com]",36.0,"[{0 27, 1 4, 2 2, ""other"" 1, 4 1, 3 1}]",1,27,4,2,1,1
+Clojure,https://github.com/oliyh/superlifter,2023-04-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@oliy.co.uk, git@oliy.co.uk]",38.0,"[{0 29, 1 4, 2 2, ""other"" 1, 4 1, 3 1}]",1,29,4,2,1,1
+Clojure,https://github.com/oliyh/superlifter,2023-07-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@oliy.co.uk, git@oliy.co.uk]",40.0,"[{0 31, 1 4, 2 2, ""other"" 1, 4 1, 3 1}]",1,31,4,2,1,1

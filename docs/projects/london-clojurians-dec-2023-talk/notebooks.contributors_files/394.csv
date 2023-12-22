@@ -1,0 +1,229 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,plivo,2010-11-10,1,1,"#{""admin@miglu.com""}",1.0,1
+Python,plivo,2010-11-11,4,1,"#{""michael.ricordeau@gmail.com""}",5.0,2
+Python,plivo,2010-11-12,2,1,"#{""michael.ricordeau@gmail.com""}",7.0,2
+Python,plivo,2010-11-13,5,1,"#{""michael.ricordeau@gmail.com""}",12.0,2
+Python,plivo,2010-11-14,1,1,"#{""michael.ricordeau@gmail.com""}",13.0,2
+Python,plivo,2010-11-15,2,1,"#{""michael.ricordeau@gmail.com""}",15.0,2
+Python,plivo,2010-11-16,4,1,"#{""admin@miglu.com""}",19.0,2
+Python,plivo,2010-11-17,11,2,"#{""michael.ricordeau@gmail.com"" ""admin@miglu.com""}",30.0,2
+Python,plivo,2010-11-18,4,1,"#{""michael.ricordeau@gmail.com""}",34.0,2
+Python,plivo,2010-11-23,1,1,"#{""michael.ricordeau@gmail.com""}",35.0,2
+Python,plivo,2010-11-25,2,1,"#{""admin@miglu.com""}",37.0,2
+Python,plivo,2010-12-29,3,1,"#{""michael.ricordeau@gmail.com""}",40.0,2
+Python,plivo,2010-12-31,1,1,"#{""michael.ricordeau@gmail.com""}",41.0,2
+Python,plivo,2011-01-01,6,1,"#{""michael.ricordeau@gmail.com""}",47.0,2
+Python,plivo,2011-01-03,3,1,"#{""michael.ricordeau@gmail.com""}",50.0,2
+Python,plivo,2011-01-04,4,1,"#{""michael.ricordeau@gmail.com""}",54.0,2
+Python,plivo,2011-01-05,4,1,"#{""michael.ricordeau@gmail.com""}",58.0,2
+Python,plivo,2011-01-07,5,1,"#{""michael.ricordeau@gmail.com""}",63.0,2
+Python,plivo,2011-01-08,4,1,"#{""michael.ricordeau@gmail.com""}",67.0,2
+Python,plivo,2011-01-10,1,1,"#{""michael.ricordeau@gmail.com""}",68.0,2
+Python,plivo,2011-01-12,2,1,"#{""michael.ricordeau@gmail.com""}",70.0,2
+Python,plivo,2011-01-14,1,1,"#{""michael.ricordeau@gmail.com""}",71.0,2
+Python,plivo,2011-01-19,3,1,"#{""michael.ricordeau@gmail.com""}",74.0,2
+Python,plivo,2011-02-08,5,1,"#{""michael.ricordeau@gmail.com""}",79.0,2
+Python,plivo,2011-02-09,4,1,"#{""michael.ricordeau@gmail.com""}",83.0,2
+Python,plivo,2011-02-10,3,1,"#{""michael.ricordeau@gmail.com""}",86.0,2
+Python,plivo,2011-02-21,2,1,"#{""michael.ricordeau@gmail.com""}",88.0,2
+Python,plivo,2011-03-04,1,1,"#{""bevenky@ubuntu.(none)""}",89.0,3
+Python,plivo,2011-03-17,4,1,"#{""michael.ricordeau@gmail.com""}",93.0,3
+Python,plivo,2011-04-04,2,1,"#{""michael.ricordeau@gmail.com""}",95.0,3
+Python,plivo,2011-04-07,1,1,"#{""venky@miglu.com""}",96.0,4
+Python,plivo,2011-04-08,5,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",101.0,4
+Python,plivo,2011-04-23,4,1,"#{""venky@miglu.com""}",105.0,4
+Python,plivo,2011-04-24,2,1,"#{""venky@miglu.com""}",107.0,4
+Python,plivo,2011-04-26,5,1,"#{""m.ricordeau@newtech.fr""}",112.0,5
+Python,plivo,2011-04-27,4,1,"#{""venky@miglu.com""}",116.0,5
+Python,plivo,2011-04-29,11,2,"#{""venky@miglu.com"" ""m.ricordeau@newtech.fr""}",127.0,5
+Python,plivo,2011-04-30,4,2,"#{""michael.ricordeau@gmail.com"" ""root@moris.(none)""}",131.0,6
+Python,plivo,2011-05-01,1,1,"#{""michael.ricordeau@gmail.com""}",132.0,6
+Python,plivo,2011-05-02,7,3,"#{""michael.ricordeau@gmail.com"" ""mike@labiche.(none)"" ""m.ricordeau@newtech.fr""}",139.0,7
+Python,plivo,2011-05-03,2,1,"#{""m.ricordeau@newtech.fr""}",141.0,7
+Python,plivo,2011-05-04,5,2,"#{""venky@miglu.com"" ""m.ricordeau@newtech.fr""}",146.0,7
+Python,plivo,2011-05-05,5,1,"#{""m.ricordeau@newtech.fr""}",151.0,7
+Python,plivo,2011-05-06,7,2,"#{""michael.ricordeau@gmail.com"" ""m.ricordeau@newtech.fr""}",158.0,7
+Python,plivo,2011-05-07,1,1,"#{""michael.ricordeau@gmail.com""}",159.0,7
+Python,plivo,2011-05-08,2,1,"#{""venky@miglu.com""}",161.0,7
+Python,plivo,2011-05-09,16,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""m.ricordeau@newtech.fr""}",177.0,7
+Python,plivo,2011-05-10,7,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""areski@gmail.com""}",184.0,8
+Python,plivo,2011-05-11,13,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",197.0,8
+Python,plivo,2011-05-12,12,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""areski@gmail.com""}",209.0,8
+Python,plivo,2011-05-13,21,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""areski@gmail.com""}",230.0,8
+Python,plivo,2011-05-15,4,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",234.0,8
+Python,plivo,2011-05-16,17,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",251.0,8
+Python,plivo,2011-05-17,13,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",264.0,8
+Python,plivo,2011-05-18,13,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""m.ricordeau@newtech.fr""}",277.0,8
+Python,plivo,2011-05-19,9,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",286.0,8
+Python,plivo,2011-05-20,6,2,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com""}",292.0,8
+Python,plivo,2011-05-21,6,2,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com""}",298.0,8
+Python,plivo,2011-05-22,1,1,"#{""venky@miglu.com""}",299.0,8
+Python,plivo,2011-05-23,25,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""areski@gmail.com""}",324.0,8
+Python,plivo,2011-05-24,28,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""areski@gmail.com""}",352.0,8
+Python,plivo,2011-05-25,32,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",384.0,8
+Python,plivo,2011-05-26,41,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""areski@gmail.com""}",425.0,8
+Python,plivo,2011-05-27,14,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",439.0,8
+Python,plivo,2011-05-28,6,1,"#{""michael.ricordeau@gmail.com""}",445.0,8
+Python,plivo,2011-05-29,1,1,"#{""michael.ricordeau@gmail.com""}",446.0,8
+Python,plivo,2011-05-30,2,1,"#{""michael.ricordeau@gmail.com""}",448.0,8
+Python,plivo,2011-05-31,14,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",462.0,8
+Python,plivo,2011-06-01,7,3,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com"" ""areski@gmail.com""}",469.0,8
+Python,plivo,2011-06-02,2,1,"#{""areski@gmail.com""}",471.0,8
+Python,plivo,2011-06-03,7,1,"#{""michael.ricordeau@gmail.com""}",478.0,8
+Python,plivo,2011-06-06,2,1,"#{""areski@gmail.com""}",480.0,8
+Python,plivo,2011-06-09,5,1,"#{""venky@miglu.com""}",485.0,8
+Python,plivo,2011-06-10,5,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",490.0,8
+Python,plivo,2011-06-11,8,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",498.0,8
+Python,plivo,2011-06-12,5,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",503.0,8
+Python,plivo,2011-06-13,1,1,"#{""michael.ricordeau@gmail.com""}",504.0,8
+Python,plivo,2011-06-15,5,2,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com""}",509.0,8
+Python,plivo,2011-06-16,8,1,"#{""michael.ricordeau@gmail.com""}",517.0,8
+Python,plivo,2011-06-17,3,1,"#{""michael.ricordeau@gmail.com""}",520.0,8
+Python,plivo,2011-06-20,2,1,"#{""michael.ricordeau@gmail.com""}",522.0,8
+Python,plivo,2011-06-21,4,1,"#{""michael.ricordeau@gmail.com""}",526.0,8
+Python,plivo,2011-06-22,8,2,"#{""michael.ricordeau@gmail.com"" ""venky@miglu.com""}",534.0,8
+Python,plivo,2011-06-23,1,1,"#{""matt@teltechcorp.com""}",535.0,9
+Python,plivo,2011-06-24,3,2,"#{""venky@miglu.com"" ""matt@teltechcorp.com""}",538.0,9
+Python,plivo,2011-06-27,3,2,"#{""matt@teltechcorp.com"" ""areski@gmail.com""}",541.0,9
+Python,plivo,2011-06-28,4,2,"#{""venky@miglu.com"" ""matt@teltechcorp.com""}",545.0,9
+Python,plivo,2011-06-29,1,1,"#{""michael.ricordeau@gmail.com""}",546.0,9
+Python,plivo,2011-07-01,8,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",554.0,9
+Python,plivo,2011-07-05,4,2,"#{""matt@teltechcorp.com"" ""areski@gmail.com""}",558.0,9
+Python,plivo,2011-07-06,2,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",560.0,9
+Python,plivo,2011-07-07,2,2,"#{""venky@miglu.com"" ""matt@teltechcorp.com""}",562.0,9
+Python,plivo,2011-07-08,3,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",565.0,9
+Python,plivo,2011-07-09,2,2,"#{""michael.ricordeau@gmail.com"" ""nbhatti@gmail.com""}",567.0,10
+Python,plivo,2011-07-11,7,3,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com"" ""venky@plivo.com""}",574.0,11
+Python,plivo,2011-07-12,2,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",576.0,11
+Python,plivo,2011-07-13,5,1,"#{""michael.ricordeau@gmail.com""}",581.0,11
+Python,plivo,2011-07-14,1,1,"#{""michael.ricordeau@gmail.com""}",582.0,11
+Python,plivo,2011-07-18,13,3,"#{""michael.ricordeau@gmail.com"" ""venky@plivo.com"" ""areski@gmail.com""}",595.0,11
+Python,plivo,2011-07-19,5,1,"#{""michael.ricordeau@gmail.com""}",600.0,11
+Python,plivo,2011-07-20,9,1,"#{""michael.ricordeau@gmail.com""}",609.0,11
+Python,plivo,2011-07-21,5,1,"#{""michael.ricordeau@gmail.com""}",614.0,11
+Python,plivo,2011-07-22,11,1,"#{""michael.ricordeau@gmail.com""}",625.0,11
+Python,plivo,2011-07-25,2,1,"#{""michael.ricordeau@gmail.com""}",627.0,11
+Python,plivo,2011-07-28,4,1,"#{""michael.ricordeau@gmail.com""}",631.0,11
+Python,plivo,2011-07-29,4,1,"#{""michael.ricordeau@gmail.com""}",635.0,11
+Python,plivo,2011-08-01,2,1,"#{""michael.ricordeau@gmail.com""}",637.0,11
+Python,plivo,2011-08-02,1,1,"#{""michael.ricordeau@gmail.com""}",638.0,11
+Python,plivo,2011-08-03,1,1,"#{""michael.ricordeau@gmail.com""}",639.0,11
+Python,plivo,2011-08-04,1,1,"#{""michael.ricordeau@gmail.com""}",640.0,11
+Python,plivo,2011-08-05,1,1,"#{""michael.ricordeau@gmail.com""}",641.0,11
+Python,plivo,2011-08-06,3,1,"#{""michael.ricordeau@gmail.com""}",644.0,11
+Python,plivo,2011-08-09,6,1,"#{""michael.ricordeau@gmail.com""}",650.0,11
+Python,plivo,2011-08-13,1,1,"#{""venky@plivo.com""}",651.0,11
+Python,plivo,2011-08-14,2,1,"#{""venky@plivo.com""}",653.0,11
+Python,plivo,2011-08-15,11,1,"#{""venky@plivo.com""}",664.0,11
+Python,plivo,2011-08-16,10,2,"#{""michael.ricordeau@gmail.com"" ""venky@plivo.com""}",674.0,11
+Python,plivo,2011-08-17,10,1,"#{""michael.ricordeau@gmail.com""}",684.0,11
+Python,plivo,2011-08-18,14,2,"#{""michael.ricordeau@gmail.com"" ""venky@plivo.com""}",698.0,11
+Python,plivo,2011-08-19,7,1,"#{""michael.ricordeau@gmail.com""}",705.0,11
+Python,plivo,2011-08-20,1,1,"#{""venky@plivo.com""}",706.0,11
+Python,plivo,2011-08-22,3,1,"#{""michael.ricordeau@gmail.com""}",709.0,11
+Python,plivo,2011-08-23,5,1,"#{""michael.ricordeau@gmail.com""}",714.0,11
+Python,plivo,2011-08-24,5,1,"#{""michael.ricordeau@gmail.com""}",719.0,11
+Python,plivo,2011-08-25,2,1,"#{""michael.ricordeau@gmail.com""}",721.0,11
+Python,plivo,2011-08-26,5,1,"#{""michael.ricordeau@gmail.com""}",726.0,11
+Python,plivo,2011-08-29,3,1,"#{""michael.ricordeau@gmail.com""}",729.0,11
+Python,plivo,2011-08-30,2,1,"#{""michael.ricordeau@gmail.com""}",731.0,11
+Python,plivo,2011-08-31,1,1,"#{""michael.ricordeau@gmail.com""}",732.0,11
+Python,plivo,2011-09-01,11,1,"#{""michael.ricordeau@gmail.com""}",743.0,11
+Python,plivo,2011-09-02,8,1,"#{""michael.ricordeau@gmail.com""}",751.0,11
+Python,plivo,2011-09-05,7,1,"#{""michael.ricordeau@gmail.com""}",758.0,11
+Python,plivo,2011-09-06,6,1,"#{""michael.ricordeau@gmail.com""}",764.0,11
+Python,plivo,2011-09-07,3,1,"#{""michael.ricordeau@gmail.com""}",767.0,11
+Python,plivo,2011-09-08,3,1,"#{""michael.ricordeau@gmail.com""}",770.0,11
+Python,plivo,2011-09-14,4,2,"#{""michael.ricordeau@gmail.com"" ""venky@plivo.com""}",774.0,11
+Python,plivo,2011-09-15,6,1,"#{""michael.ricordeau@gmail.com""}",780.0,11
+Python,plivo,2011-09-16,1,1,"#{""michael.ricordeau@gmail.com""}",781.0,11
+Python,plivo,2011-09-17,7,1,"#{""venky@plivo.com""}",788.0,11
+Python,plivo,2011-09-18,1,1,"#{""venky@plivo.com""}",789.0,11
+Python,plivo,2011-09-19,9,2,"#{""michael.ricordeau@gmail.com"" ""venky@plivo.com""}",798.0,11
+Python,plivo,2011-09-20,1,1,"#{""michael.ricordeau@gmail.com""}",799.0,11
+Python,plivo,2011-09-21,2,1,"#{""michael.ricordeau@gmail.com""}",801.0,11
+Python,plivo,2011-09-22,1,1,"#{""michael.ricordeau@gmail.com""}",802.0,11
+Python,plivo,2011-09-23,1,1,"#{""michael.ricordeau@gmail.com""}",803.0,11
+Python,plivo,2011-09-25,1,1,"#{""michael.ricordeau@gmail.com""}",804.0,11
+Python,plivo,2011-09-27,1,1,"#{""michael.ricordeau@gmail.com""}",805.0,11
+Python,plivo,2011-09-28,5,1,"#{""michael.ricordeau@gmail.com""}",810.0,11
+Python,plivo,2011-09-29,3,1,"#{""michael.ricordeau@gmail.com""}",813.0,11
+Python,plivo,2011-09-30,5,1,"#{""michael.ricordeau@gmail.com""}",818.0,11
+Python,plivo,2011-10-01,2,1,"#{""venky@plivo.com""}",820.0,11
+Python,plivo,2011-10-02,2,1,"#{""michael.ricordeau@gmail.com""}",822.0,11
+Python,plivo,2011-10-03,5,2,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com""}",827.0,11
+Python,plivo,2011-10-04,3,1,"#{""michael.ricordeau@gmail.com""}",830.0,11
+Python,plivo,2011-10-05,1,1,"#{""michael.ricordeau@gmail.com""}",831.0,11
+Python,plivo,2011-10-07,1,1,"#{""michael.ricordeau@gmail.com""}",832.0,11
+Python,plivo,2011-10-10,3,1,"#{""michael.ricordeau@gmail.com""}",835.0,11
+Python,plivo,2011-10-11,2,1,"#{""michael.ricordeau@gmail.com""}",837.0,11
+Python,plivo,2011-10-14,3,1,"#{""venkatesh11@gmail.com""}",840.0,12
+Python,plivo,2011-10-16,3,1,"#{""michael.ricordeau@gmail.com""}",843.0,12
+Python,plivo,2011-10-17,5,1,"#{""michael.ricordeau@gmail.com""}",848.0,12
+Python,plivo,2011-10-19,1,1,"#{""michael.ricordeau@gmail.com""}",849.0,12
+Python,plivo,2011-10-21,2,1,"#{""michael.ricordeau@gmail.com""}",851.0,12
+Python,plivo,2011-10-25,4,1,"#{""michael.ricordeau@gmail.com""}",855.0,12
+Python,plivo,2011-10-26,1,1,"#{""michael.ricordeau@gmail.com""}",856.0,12
+Python,plivo,2011-10-27,8,1,"#{""michael.ricordeau@gmail.com""}",864.0,12
+Python,plivo,2011-10-28,1,1,"#{""michael.ricordeau@gmail.com""}",865.0,12
+Python,plivo,2011-11-03,5,1,"#{""michael.ricordeau@gmail.com""}",870.0,12
+Python,plivo,2011-11-07,1,1,"#{""venkatesh11@gmail.com""}",871.0,12
+Python,plivo,2011-11-08,6,2,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com""}",877.0,12
+Python,plivo,2011-11-10,2,2,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com""}",879.0,12
+Python,plivo,2011-11-11,3,1,"#{""michael.ricordeau@gmail.com""}",882.0,12
+Python,plivo,2011-11-16,1,1,"#{""michael.ricordeau@gmail.com""}",883.0,12
+Python,plivo,2011-11-21,1,1,"#{""michael.ricordeau@gmail.com""}",884.0,12
+Python,plivo,2011-11-23,1,1,"#{""michael.ricordeau@gmail.com""}",885.0,12
+Python,plivo,2011-11-24,11,3,"#{""michael.ricordeau@gmail.com"" ""c.thiesset@newtech.fr"" ""root@ledindon.(none)""}",896.0,14
+Python,plivo,2012-01-19,2,1,"#{""michael.ricordeau@gmail.com""}",898.0,14
+Python,plivo,2012-02-01,1,1,"#{""michael.ricordeau@gmail.com""}",899.0,14
+Python,plivo,2012-02-06,1,1,"#{""mike@plivo.com""}",900.0,15
+Python,plivo,2012-02-16,1,1,"#{""matt@teltechcorp.com""}",901.0,15
+Python,plivo,2012-02-17,1,1,"#{""michael.ricordeau@gmail.com""}",902.0,15
+Python,plivo,2012-02-21,4,1,"#{""mike@plivo.com""}",906.0,15
+Python,plivo,2012-02-27,3,3,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com"" ""mike@plivo.com""}",909.0,15
+Python,plivo,2012-03-01,2,2,"#{""michael.ricordeau@gmail.com"" ""areski@gmail.com""}",911.0,15
+Python,plivo,2012-03-02,1,1,"#{""mike@plivo.com""}",912.0,15
+Python,plivo,2012-03-05,4,1,"#{""matt@teltechcorp.com""}",916.0,15
+Python,plivo,2012-03-16,2,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",918.0,15
+Python,plivo,2012-03-21,3,3,"#{""michael.ricordeau@gmail.com"" ""dawsdesign@gmail.com"" ""mike@plivo.com""}",921.0,16
+Python,plivo,2012-03-28,3,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",924.0,16
+Python,plivo,2012-03-30,1,1,"#{""matt@teltechcorp.com""}",925.0,16
+Python,plivo,2012-04-03,1,1,"#{""michael.ricordeau@gmail.com""}",926.0,16
+Python,plivo,2012-04-13,2,1,"#{""mustafa.khattab@gmail.com""}",928.0,17
+Python,plivo,2012-04-17,2,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",930.0,17
+Python,plivo,2012-04-18,1,1,"#{""mike@plivo.com""}",931.0,17
+Python,plivo,2012-05-05,1,1,"#{""michael.ricordeau@gmail.com""}",932.0,17
+Python,plivo,2012-05-15,3,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",935.0,17
+Python,plivo,2012-05-29,1,1,"#{""matt@teltechcorp.com""}",936.0,17
+Python,plivo,2012-06-27,4,2,"#{""venky@plivo.com"" ""mike@plivo.com""}",940.0,17
+Python,plivo,2012-06-28,6,3,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com"" ""mike@plivo.com""}",946.0,17
+Python,plivo,2012-06-29,5,2,"#{""michael.ricordeau@gmail.com"" ""matt@teltechcorp.com""}",951.0,17
+Python,plivo,2012-07-13,1,1,"#{""mike@plivo.com""}",952.0,17
+Python,plivo,2012-09-20,1,1,"#{""mike@plivo.com""}",953.0,17
+Python,plivo,2012-10-12,1,1,"#{""mike@plivo.com""}",954.0,17
+Python,plivo,2012-12-20,1,1,"#{""mike@plivo.com""}",955.0,17
+Python,plivo,2013-03-19,1,1,"#{""Chad.Engler@patlive.com""}",956.0,18
+Python,plivo,2013-03-20,4,2,"#{""michael.ricordeau@gmail.com"" ""mike@plivo.com""}",960.0,18
+Python,plivo,2013-03-27,2,2,"#{""michael.ricordeau@gmail.com"" ""Chad.Engler@patlive.com""}",962.0,18
+Python,plivo,2013-05-03,1,1,"#{""mike@plivo.com""}",963.0,18
+Python,plivo,2013-06-08,1,1,"#{""mike@plivo.com""}",964.0,18
+Python,plivo,2013-06-24,1,1,"#{""mike@plivo.com""}",965.0,18
+Python,plivo,2013-09-13,2,2,"#{""michael.ricordeau@gmail.com"" ""uvaraj6@gmail.com""}",967.0,19
+Python,plivo,2013-10-15,1,1,"#{""mike@plivo.com""}",968.0,19
+Python,plivo,2013-10-16,1,1,"#{""mike@plivo.com""}",969.0,19
+Python,plivo,2013-10-18,1,1,"#{""mike@plivo.com""}",970.0,19
+Python,plivo,2013-11-28,1,1,"#{""michael.ricordeau@gmail.com""}",971.0,19
+Python,plivo,2013-11-29,1,1,"#{""ppyy@pubyun.com""}",972.0,20
+Python,plivo,2013-12-03,2,2,"#{""michael.ricordeau@gmail.com"" ""andrew@andrewklau.com""}",974.0,21
+Python,plivo,2013-12-09,1,1,"#{""mike@plivo.com""}",975.0,21
+Python,plivo,2014-02-10,2,2,"#{""michael.ricordeau@gmail.com"" ""emamirazavi@gmail.com""}",977.0,22
+Python,plivo,2014-02-11,1,1,"#{""mike@plivo.com""}",978.0,22
+Python,plivo,2014-03-10,2,2,"#{""michael.ricordeau@gmail.com"" ""hello+github@darylyu.com""}",980.0,23
+Python,plivo,2014-10-01,4,2,"#{""michael.ricordeau@gmail.com"" ""dyu+honeypot@fastmail.fm""}",984.0,24
+Python,plivo,2014-10-07,2,2,"#{""michael.ricordeau@gmail.com"" ""darylyu@users.noreply.github.com""}",986.0,25
+Python,plivo,2014-10-10,1,1,"#{""ra1991k@gmail.com""}",987.0,26
+Python,plivo,2014-10-13,2,2,"#{""michael.ricordeau@gmail.com"" ""stefan@gersmann.de""}",989.0,27
+Python,plivo,2014-10-18,1,1,"#{""michael.ricordeau@gmail.com""}",990.0,27
+Python,plivo,2015-01-02,1,1,"#{""takotakot@users.noreply.github.com""}",991.0,28
+Python,plivo,2015-02-01,1,1,"#{""michael.ricordeau@gmail.com""}",992.0,28

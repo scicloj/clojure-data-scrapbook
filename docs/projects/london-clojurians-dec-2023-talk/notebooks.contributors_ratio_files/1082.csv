@@ -1,0 +1,64 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/alanning/meteor-load-test,2013-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-04-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alanning@gmail.com, alanning@gmail.com]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-07-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alanning@gmail.com, alanning@gmail.com]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",6.0,[{0 6}],0,6,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-08-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[alanning@gmail.com, alanning@gmail.com, alanning@gmail.com, alanning@gmail.com]",10.0,[{0 10}],0,10,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-08-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",12.0,[{0 12}],0,12,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-10-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alanning@gmail.com, alanning@gmail.com]",16.0,[{0 16}],0,16,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",17.0,[{0 17}],0,17,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-10-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",18.0,[{0 18}],0,18,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-10-27,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[alanning@gmail.com, alanning@gmail.com, alanning@gmail.com, alanning@gmail.com, alanning@gmail.com]",23.0,[{0 23}],0,23,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-10-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alanning@gmail.com, alanning@gmail.com]",25.0,[{0 25}],0,25,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-10-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alanning@gmail.com, alanning@gmail.com, alanning@gmail.com]",28.0,[{0 28}],0,28,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2013-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",29.0,[{0 29}],0,29,0,0,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2014-01-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alanning@gmail.com, hugo@hugoduncan.org]",31.0,"[{0 30, 2 1}]",0,30,0,1,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2014-04-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alanning@gmail.com, alanning@gmail.com]",33.0,"[{0 32, 2 1}]",0,32,0,1,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2014-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",34.0,"[{0 33, 2 1}]",0,33,0,1,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2014-07-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[alanning@gmail.com, alanning@gmail.com, jameson.quinn+github@gmail.com, jameson.quinn+github@gmail.com]",38.0,"[{0 35, 2 1, 1 2}]",0,35,2,1,0,0
+Clojure,https://github.com/alanning/meteor-load-test,2015-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alanning@gmail.com]",39.0,"[{0 36, 2 1, 1 2}]",0,36,2,1,0,0

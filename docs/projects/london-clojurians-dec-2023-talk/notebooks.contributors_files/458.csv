@@ -1,0 +1,259 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,greglook,2013-11-10,9,1,"#{""greg@greg-look.net""}",9.0,1
+Clojure,greglook,2013-11-11,2,1,"#{""greg@greg-look.net""}",11.0,1
+Clojure,greglook,2013-11-14,2,1,"#{""greg@greg-look.net""}",13.0,1
+Clojure,greglook,2013-11-18,1,1,"#{""greg@greg-look.net""}",14.0,1
+Clojure,greglook,2013-11-29,2,1,"#{""greg@greg-look.net""}",16.0,1
+Clojure,greglook,2013-12-09,3,1,"#{""greg@greg-look.net""}",19.0,1
+Clojure,greglook,2013-12-10,3,1,"#{""greg@greg-look.net""}",22.0,1
+Clojure,greglook,2014-03-28,5,1,"#{""greg@greg-look.net""}",27.0,1
+Clojure,greglook,2014-03-29,2,1,"#{""greg@greg-look.net""}",29.0,1
+Clojure,greglook,2014-04-18,2,1,"#{""greg@greg-look.net""}",31.0,1
+Clojure,greglook,2014-04-21,1,1,"#{""greg@greg-look.net""}",32.0,1
+Clojure,greglook,2014-04-22,1,1,"#{""greg@greg-look.net""}",33.0,1
+Clojure,greglook,2014-05-08,1,1,"#{""greg@greg-look.net""}",34.0,1
+Clojure,greglook,2014-05-09,22,1,"#{""greg@greg-look.net""}",56.0,1
+Clojure,greglook,2014-05-10,13,1,"#{""greg@greg-look.net""}",69.0,1
+Clojure,greglook,2014-05-12,7,1,"#{""greg@greg-look.net""}",76.0,1
+Clojure,greglook,2014-05-13,11,1,"#{""greg@greg-look.net""}",87.0,1
+Clojure,greglook,2014-05-14,7,1,"#{""greg@greg-look.net""}",94.0,1
+Clojure,greglook,2014-05-20,1,1,"#{""greg@greg-look.net""}",95.0,1
+Clojure,greglook,2014-05-21,1,1,"#{""greg@greg-look.net""}",96.0,1
+Clojure,greglook,2014-05-22,2,1,"#{""greg@greg-look.net""}",98.0,1
+Clojure,greglook,2014-05-23,1,1,"#{""greg@greg-look.net""}",99.0,1
+Clojure,greglook,2014-05-26,2,1,"#{""greg@greg-look.net""}",101.0,1
+Clojure,greglook,2014-05-27,1,1,"#{""greg@greg-look.net""}",102.0,1
+Clojure,greglook,2014-06-05,3,1,"#{""greg@greg-look.net""}",105.0,1
+Clojure,greglook,2014-06-19,5,2,"#{""brandon.d.bloom@gmail.com"" ""greg@greg-look.net""}",110.0,2
+Clojure,greglook,2014-06-20,8,2,"#{""brandon.d.bloom@gmail.com"" ""greg@greg-look.net""}",118.0,2
+Clojure,greglook,2014-06-23,14,1,"#{""greg@greg-look.net""}",132.0,2
+Clojure,greglook,2014-06-24,18,2,"#{""brandon.d.bloom@gmail.com"" ""greg@greg-look.net""}",150.0,2
+Clojure,greglook,2014-06-26,3,1,"#{""greg@greg-look.net""}",153.0,2
+Clojure,greglook,2014-07-03,2,1,"#{""greg@greg-look.net""}",155.0,2
+Clojure,greglook,2014-07-04,1,1,"#{""ivan@ludios.org""}",156.0,3
+Clojure,greglook,2014-07-11,3,1,"#{""greg@greg-look.net""}",159.0,3
+Clojure,greglook,2014-08-28,1,1,"#{""brandon@brandonbloom.name""}",160.0,4
+Clojure,greglook,2014-09-05,1,1,"#{""greg@greg-look.net""}",161.0,4
+Clojure,greglook,2014-09-23,10,2,"#{""fredericksgary@gmail.com"" ""greg@greg-look.net""}",171.0,5
+Clojure,greglook,2014-09-24,1,1,"#{""greg@greg-look.net""}",172.0,5
+Clojure,greglook,2014-10-05,3,1,"#{""greg@greg-look.net""}",175.0,5
+Clojure,greglook,2014-10-12,7,2,"#{""fredericksgary@gmail.com"" ""greg@greg-look.net""}",182.0,5
+Clojure,greglook,2014-10-13,4,1,"#{""greg@greg-look.net""}",186.0,5
+Clojure,greglook,2014-10-14,5,1,"#{""greg@greg-look.net""}",191.0,5
+Clojure,greglook,2014-11-15,1,1,"#{""jreeves@weavejester.com""}",192.0,6
+Clojure,greglook,2014-11-16,1,1,"#{""jreeves@weavejester.com""}",193.0,6
+Clojure,greglook,2014-11-17,3,1,"#{""jreeves@weavejester.com""}",196.0,6
+Clojure,greglook,2014-11-18,3,1,"#{""jreeves@weavejester.com""}",199.0,6
+Clojure,greglook,2014-11-19,2,1,"#{""jreeves@weavejester.com""}",201.0,6
+Clojure,greglook,2014-11-21,2,1,"#{""jreeves@weavejester.com""}",203.0,6
+Clojure,greglook,2014-11-22,14,1,"#{""jreeves@weavejester.com""}",217.0,6
+Clojure,greglook,2014-11-23,1,1,"#{""jreeves@weavejester.com""}",218.0,6
+Clojure,greglook,2014-12-22,1,1,"#{""jreeves@weavejester.com""}",219.0,6
+Clojure,greglook,2014-12-23,1,1,"#{""jreeves@weavejester.com""}",220.0,6
+Clojure,greglook,2014-12-25,4,1,"#{""jreeves@weavejester.com""}",224.0,6
+Clojure,greglook,2014-12-26,1,1,"#{""jreeves@weavejester.com""}",225.0,6
+Clojure,greglook,2014-12-27,5,1,"#{""jreeves@weavejester.com""}",230.0,6
+Clojure,greglook,2014-12-28,8,1,"#{""greg@greg-look.net""}",238.0,6
+Clojure,greglook,2014-12-30,1,1,"#{""jreeves@weavejester.com""}",239.0,6
+Clojure,greglook,2014-12-31,2,1,"#{""jreeves@weavejester.com""}",241.0,6
+Clojure,greglook,2015-01-08,6,1,"#{""jreeves@weavejester.com""}",247.0,6
+Clojure,greglook,2015-01-10,13,1,"#{""jreeves@weavejester.com""}",260.0,6
+Clojure,greglook,2015-01-12,1,1,"#{""jreeves@weavejester.com""}",261.0,6
+Clojure,greglook,2015-01-15,3,1,"#{""jreeves@weavejester.com""}",264.0,6
+Clojure,greglook,2015-01-16,4,1,"#{""jreeves@weavejester.com""}",268.0,6
+Clojure,greglook,2015-01-17,16,2,"#{""jreeves@weavejester.com"" ""michaelwfogleman@gmail.com""}",284.0,7
+Clojure,greglook,2015-01-18,11,2,"#{""jreeves@weavejester.com"" ""greg@greg-look.net""}",295.0,7
+Clojure,greglook,2015-01-19,6,1,"#{""greg@greg-look.net""}",301.0,7
+Clojure,greglook,2015-01-20,1,1,"#{""fer.obbee@gmail.com""}",302.0,8
+Clojure,greglook,2015-01-22,1,1,"#{""jreeves@weavejester.com""}",303.0,8
+Clojure,greglook,2015-01-27,2,2,"#{""noisesmith@gmail.com"" ""jreeves@weavejester.com""}",305.0,9
+Clojure,greglook,2015-01-28,8,1,"#{""jreeves@weavejester.com""}",313.0,9
+Clojure,greglook,2015-01-29,6,1,"#{""jreeves@weavejester.com""}",319.0,9
+Clojure,greglook,2015-01-31,5,2,"#{""jreeves@weavejester.com"" ""greg@greg-look.net""}",324.0,9
+Clojure,greglook,2015-02-02,2,2,"#{""qtang@leancloud.rocks"" ""jreeves@weavejester.com""}",326.0,10
+Clojure,greglook,2015-02-03,3,2,"#{""jreeves@weavejester.com"" ""greg@greg-look.net""}",329.0,10
+Clojure,greglook,2015-02-04,4,2,"#{""jreeves@weavejester.com"" ""venantius@gmail.com""}",333.0,11
+Clojure,greglook,2015-02-05,2,1,"#{""jreeves@weavejester.com""}",335.0,11
+Clojure,greglook,2015-02-06,2,1,"#{""jreeves@weavejester.com""}",337.0,11
+Clojure,greglook,2015-02-07,1,1,"#{""scgilardi@gmail.com""}",338.0,12
+Clojure,greglook,2015-02-08,4,1,"#{""scgilardi@gmail.com""}",342.0,12
+Clojure,greglook,2015-02-09,2,1,"#{""jreeves@weavejester.com""}",344.0,12
+Clojure,greglook,2015-02-10,12,2,"#{""scgilardi@gmail.com"" ""greg@greg-look.net""}",356.0,12
+Clojure,greglook,2015-02-11,6,3,"#{""scollins@vbridges.com"" ""jreeves@weavejester.com"" ""greg@greg-look.net""}",362.0,13
+Clojure,greglook,2015-02-13,2,1,"#{""jreeves@weavejester.com""}",364.0,13
+Clojure,greglook,2015-02-15,4,2,"#{""jreeves@weavejester.com"" ""bozhidar@batsov.com""}",368.0,14
+Clojure,greglook,2015-02-16,2,1,"#{""jreeves@weavejester.com""}",370.0,14
+Clojure,greglook,2015-02-26,1,1,"#{""david@standardtreasury.com""}",371.0,15
+Clojure,greglook,2015-02-27,3,2,"#{""david@standardtreasury.com"" ""greg@greg-look.net""}",374.0,15
+Clojure,greglook,2015-02-28,5,1,"#{""greg@greg-look.net""}",379.0,15
+Clojure,greglook,2015-03-06,5,1,"#{""greg@greg-look.net""}",384.0,15
+Clojure,greglook,2015-03-07,20,1,"#{""greg@greg-look.net""}",404.0,15
+Clojure,greglook,2015-03-08,2,1,"#{""greg@greg-look.net""}",406.0,15
+Clojure,greglook,2015-03-09,1,1,"#{""greg@greg-look.net""}",407.0,15
+Clojure,greglook,2015-03-10,8,1,"#{""greg@greg-look.net""}",415.0,15
+Clojure,greglook,2015-03-11,2,1,"#{""greg@greg-look.net""}",417.0,15
+Clojure,greglook,2015-03-13,1,1,"#{""rbxbxdev@gmail.com""}",418.0,16
+Clojure,greglook,2015-03-14,2,1,"#{""jreeves@weavejester.com""}",420.0,16
+Clojure,greglook,2015-04-25,7,1,"#{""greg@greg-look.net""}",427.0,16
+Clojure,greglook,2015-04-26,9,1,"#{""greg@greg-look.net""}",436.0,16
+Clojure,greglook,2015-06-12,1,1,"#{""greg@greg-look.net""}",437.0,16
+Clojure,greglook,2015-07-01,1,1,"#{""patrick@puppetlabs.com""}",438.0,17
+Clojure,greglook,2015-07-02,8,1,"#{""jreeves@weavejester.com""}",446.0,17
+Clojure,greglook,2015-07-03,5,1,"#{""jreeves@weavejester.com""}",451.0,17
+Clojure,greglook,2015-07-15,2,1,"#{""jreeves@weavejester.com""}",453.0,17
+Clojure,greglook,2015-07-16,1,1,"#{""jreeves@weavejester.com""}",454.0,17
+Clojure,greglook,2015-07-28,4,1,"#{""jreeves@weavejester.com""}",458.0,17
+Clojure,greglook,2015-10-07,2,1,"#{""greglook@counsyl.com""}",460.0,18
+Clojure,greglook,2015-10-10,4,1,"#{""greglook@counsyl.com""}",464.0,18
+Clojure,greglook,2015-10-11,21,1,"#{""greg@greg-look.net""}",485.0,18
+Clojure,greglook,2015-10-12,8,1,"#{""greg@greg-look.net""}",493.0,18
+Clojure,greglook,2015-10-13,12,1,"#{""greg@greg-look.net""}",505.0,18
+Clojure,greglook,2015-10-15,4,1,"#{""greg@greg-look.net""}",509.0,18
+Clojure,greglook,2015-10-17,10,1,"#{""greg@greg-look.net""}",519.0,18
+Clojure,greglook,2015-10-18,9,1,"#{""greg@greg-look.net""}",528.0,18
+Clojure,greglook,2015-10-20,14,2,"#{""greglook@counsyl.com"" ""greg@greg-look.net""}",542.0,18
+Clojure,greglook,2015-10-21,1,1,"#{""greg@greg-look.net""}",543.0,18
+Clojure,greglook,2015-10-25,2,1,"#{""greg@greg-look.net""}",545.0,18
+Clojure,greglook,2015-10-29,19,1,"#{""greg@greg-look.net""}",564.0,18
+Clojure,greglook,2015-11-03,17,2,"#{""greg@greg-look.net"" ""badger@gitter.im""}",581.0,19
+Clojure,greglook,2015-11-04,2,1,"#{""greg@greg-look.net""}",583.0,19
+Clojure,greglook,2015-11-12,1,1,"#{""greg@greg-look.net""}",584.0,19
+Clojure,greglook,2015-11-13,2,2,"#{""duck@kronkltd.net"" ""greg@greg-look.net""}",586.0,20
+Clojure,greglook,2016-02-07,1,1,"#{""greg@greg-look.net""}",587.0,20
+Clojure,greglook,2016-02-10,1,1,"#{""greg@greg-look.net""}",588.0,20
+Clojure,greglook,2016-02-12,1,1,"#{""case@outpace.com""}",589.0,21
+Clojure,greglook,2016-02-13,1,1,"#{""jreeves@weavejester.com""}",590.0,21
+Clojure,greglook,2016-02-23,6,2,"#{""me@arrdem.com"" ""jreeves@weavejester.com""}",596.0,22
+Clojure,greglook,2016-02-24,7,2,"#{""me@arrdem.com"" ""jreeves@weavejester.com""}",603.0,22
+Clojure,greglook,2016-02-25,2,1,"#{""jreeves@weavejester.com""}",605.0,22
+Clojure,greglook,2016-03-09,1,1,"#{""greg@greg-look.net""}",606.0,22
+Clojure,greglook,2016-03-28,2,2,"#{""jreeves@weavejester.com"" ""tomjkidd@gmail.com""}",608.0,23
+Clojure,greglook,2016-03-29,5,1,"#{""jreeves@weavejester.com""}",613.0,23
+Clojure,greglook,2016-04-06,1,1,"#{""me@arrdem.com""}",614.0,23
+Clojure,greglook,2016-04-07,1,1,"#{""jreeves@weavejester.com""}",615.0,23
+Clojure,greglook,2016-04-08,3,1,"#{""jreeves@weavejester.com""}",618.0,23
+Clojure,greglook,2016-04-14,1,1,"#{""marian.schubert@gmail.com""}",619.0,24
+Clojure,greglook,2016-04-16,1,1,"#{""jreeves@weavejester.com""}",620.0,24
+Clojure,greglook,2016-04-17,1,1,"#{""jreeves@weavejester.com""}",621.0,24
+Clojure,greglook,2016-04-25,2,1,"#{""jreeves@weavejester.com""}",623.0,24
+Clojure,greglook,2016-07-02,7,1,"#{""greg@greg-look.net""}",630.0,24
+Clojure,greglook,2016-07-03,1,1,"#{""greg@greg-look.net""}",631.0,24
+Clojure,greglook,2016-08-23,7,2,"#{""greg@greg-look.net"" ""dhruv@dhruvbhatia.com""}",638.0,25
+Clojure,greglook,2016-09-16,8,2,"#{""i.bondarenko@modnakasta.ua"" ""jreeves@weavejester.com""}",646.0,26
+Clojure,greglook,2016-09-29,3,2,"#{""jreeves@weavejester.com"" ""greg@greg-look.net""}",649.0,26
+Clojure,greglook,2016-10-07,2,1,"#{""greg@greg-look.net""}",651.0,26
+Clojure,greglook,2016-10-08,1,1,"#{""greg@greg-look.net""}",652.0,26
+Clojure,greglook,2016-10-19,1,1,"#{""matthewjdarling@gmail.com""}",653.0,27
+Clojure,greglook,2016-10-20,1,1,"#{""matthewjdarling@gmail.com""}",654.0,27
+Clojure,greglook,2016-10-27,2,1,"#{""jreeves@weavejester.com""}",656.0,27
+Clojure,greglook,2017-10-12,3,1,"#{""greg@greg-look.net""}",659.0,27
+Clojure,greglook,2017-11-04,11,1,"#{""greg@greg-look.net""}",670.0,27
+Clojure,greglook,2017-11-18,4,1,"#{""greg@greg-look.net""}",674.0,27
+Clojure,greglook,2017-11-19,5,1,"#{""greg@greg-look.net""}",679.0,27
+Clojure,greglook,2017-11-21,6,1,"#{""greg@greg-look.net""}",685.0,27
+Clojure,greglook,2017-11-22,2,1,"#{""greg@greg-look.net""}",687.0,27
+Clojure,greglook,2017-11-27,5,1,"#{""greg@greg-look.net""}",692.0,27
+Clojure,greglook,2017-11-28,4,1,"#{""greg@greg-look.net""}",696.0,27
+Clojure,greglook,2017-11-29,2,1,"#{""greg@greg-look.net""}",698.0,27
+Clojure,greglook,2017-12-04,2,1,"#{""greg@greg-look.net""}",700.0,27
+Clojure,greglook,2017-12-20,2,1,"#{""alex.benjamin.engelberg@gmail.com""}",702.0,28
+Clojure,greglook,2017-12-21,1,1,"#{""greg@greg-look.net""}",703.0,28
+Clojure,greglook,2017-12-24,2,1,"#{""greg@greg-look.net""}",705.0,28
+Clojure,greglook,2018-02-05,6,2,"#{""alex.benjamin.engelberg@gmail.com"" ""greg@greg-look.net""}",711.0,28
+Clojure,greglook,2018-10-04,1,1,"#{""tir.karthi@gmail.com""}",712.0,29
+Clojure,greglook,2018-10-30,9,1,"#{""greg@greg-look.net""}",721.0,29
+Clojure,greglook,2018-10-31,1,1,"#{""greg@greg-look.net""}",722.0,29
+Clojure,greglook,2018-12-10,1,1,"#{""desk@danielcompton.net""}",723.0,30
+Clojure,greglook,2018-12-15,1,1,"#{""greg@greg-look.net""}",724.0,30
+Clojure,greglook,2018-12-16,8,2,"#{""greg@greg-look.net"" ""greg@mvxcvi.com""}",732.0,31
+Clojure,greglook,2018-12-17,1,1,"#{""greg@mvxcvi.com""}",733.0,31
+Clojure,greglook,2019-02-16,2,1,"#{""mikey@cich.li""}",735.0,32
+Clojure,greglook,2019-03-01,3,2,"#{""greg@amperity.com"" ""greg@greg-look.net""}",738.0,33
+Clojure,greglook,2019-03-17,5,1,"#{""greg@amperity.com""}",743.0,33
+Clojure,greglook,2019-03-18,3,1,"#{""greg@amperity.com""}",746.0,33
+Clojure,greglook,2019-03-23,3,1,"#{""greg@amperity.com""}",749.0,33
+Clojure,greglook,2019-04-04,6,1,"#{""greg@amperity.com""}",755.0,33
+Clojure,greglook,2019-05-18,6,1,"#{""greg@amperity.com""}",761.0,33
+Clojure,greglook,2019-07-24,7,1,"#{""greg@amperity.com""}",768.0,33
+Clojure,greglook,2019-07-25,12,1,"#{""greg@amperity.com""}",780.0,33
+Clojure,greglook,2019-07-26,12,1,"#{""greg@amperity.com""}",792.0,33
+Clojure,greglook,2019-07-27,4,1,"#{""greg@amperity.com""}",796.0,33
+Clojure,greglook,2019-07-28,1,1,"#{""greg@amperity.com""}",797.0,33
+Clojure,greglook,2019-07-29,1,1,"#{""greg@amperity.com""}",798.0,33
+Clojure,greglook,2019-07-30,5,1,"#{""greg@amperity.com""}",803.0,33
+Clojure,greglook,2019-07-31,5,1,"#{""greg@amperity.com""}",808.0,33
+Clojure,greglook,2019-08-01,13,1,"#{""greg@amperity.com""}",821.0,33
+Clojure,greglook,2019-08-03,2,1,"#{""greg@amperity.com""}",823.0,33
+Clojure,greglook,2019-08-04,3,1,"#{""greg@amperity.com""}",826.0,33
+Clojure,greglook,2019-08-05,2,1,"#{""greg@amperity.com""}",828.0,33
+Clojure,greglook,2019-08-20,5,2,"#{""greg@amperity.com"" ""drew@drewinglis.com""}",833.0,34
+Clojure,greglook,2019-10-04,3,1,"#{""greg@amperity.com""}",836.0,34
+Clojure,greglook,2019-10-06,3,1,"#{""lee@dlread.com""}",839.0,35
+Clojure,greglook,2019-10-07,1,1,"#{""kailashnath.k.reddy@gmail.com""}",840.0,36
+Clojure,greglook,2019-10-08,9,3,"#{""greg@amperity.com"" ""lee@dlread.com"" ""greg@mvxcvi.com""}",849.0,36
+Clojure,greglook,2019-10-11,16,1,"#{""greg@amperity.com""}",865.0,36
+Clojure,greglook,2019-10-12,1,1,"#{""greg@amperity.com""}",866.0,36
+Clojure,greglook,2019-10-13,13,1,"#{""greg@amperity.com""}",879.0,36
+Clojure,greglook,2019-10-15,2,1,"#{""greg@amperity.com""}",881.0,36
+Clojure,greglook,2019-12-24,1,1,"#{""aclev@users.noreply.github.com""}",882.0,37
+Clojure,greglook,2019-12-25,8,2,"#{""greg@amperity.com"" ""brandon@amperity.com""}",890.0,38
+Clojure,greglook,2019-12-26,1,1,"#{""egs33.bicycle@gmail.com""}",891.0,39
+Clojure,greglook,2020-01-02,1,1,"#{""greg@amperity.com""}",892.0,39
+Clojure,greglook,2020-01-04,2,1,"#{""greg@amperity.com""}",894.0,39
+Clojure,greglook,2020-01-05,2,1,"#{""greg@amperity.com""}",896.0,39
+Clojure,greglook,2020-01-07,1,1,"#{""greg@amperity.com""}",897.0,39
+Clojure,greglook,2020-01-16,8,2,"#{""egs33.bicycle@gmail.com"" ""greg@amperity.com""}",905.0,39
+Clojure,greglook,2020-01-17,11,1,"#{""greg@amperity.com""}",916.0,39
+Clojure,greglook,2020-01-18,13,1,"#{""greg@amperity.com""}",929.0,39
+Clojure,greglook,2020-01-19,6,1,"#{""greg@amperity.com""}",935.0,39
+Clojure,greglook,2020-01-20,6,1,"#{""greg@amperity.com""}",941.0,39
+Clojure,greglook,2020-01-21,5,2,"#{""greg@amperity.com"" ""greg@mvxcvi.com""}",946.0,39
+Clojure,greglook,2020-01-22,7,1,"#{""greg@mvxcvi.com""}",953.0,39
+Clojure,greglook,2020-01-24,2,1,"#{""greg@mvxcvi.com""}",955.0,39
+Clojure,greglook,2020-01-25,7,1,"#{""greg@mvxcvi.com""}",962.0,39
+Clojure,greglook,2020-01-26,14,1,"#{""greg@mvxcvi.com""}",976.0,39
+Clojure,greglook,2020-02-07,3,1,"#{""greg@mvxcvi.com""}",979.0,39
+Clojure,greglook,2020-02-08,1,1,"#{""egs33.bicycle@gmail.com""}",980.0,39
+Clojure,greglook,2020-02-21,10,1,"#{""greg@mvxcvi.com""}",990.0,39
+Clojure,greglook,2020-02-22,3,2,"#{""jeroentjevandijk@gmail.com"" ""greg@mvxcvi.com""}",993.0,40
+Clojure,greglook,2020-03-04,2,1,"#{""greg@mvxcvi.com""}",995.0,40
+Clojure,greglook,2020-03-05,1,1,"#{""nik@nikperic.com""}",996.0,41
+Clojure,greglook,2020-04-19,5,2,"#{""robhanlon@gmail.com"" ""greg@mvxcvi.com""}",1001.0,42
+Clojure,greglook,2020-04-23,1,1,"#{""greg@mvxcvi.com""}",1002.0,42
+Clojure,greglook,2020-05-14,4,2,"#{""niclas@niclasnilsson.se"" ""greg@mvxcvi.com""}",1006.0,43
+Clojure,greglook,2020-05-19,1,1,"#{""greg@mvxcvi.com""}",1007.0,43
+Clojure,greglook,2020-05-29,1,1,"#{""drew@drewinglis.com""}",1008.0,43
+Clojure,greglook,2020-05-30,1,1,"#{""greg@mvxcvi.com""}",1009.0,43
+Clojure,greglook,2020-06-01,4,1,"#{""greg@mvxcvi.com""}",1013.0,43
+Clojure,greglook,2020-06-04,5,2,"#{""rory@roryokane.com"" ""greg@mvxcvi.com""}",1018.0,44
+Clojure,greglook,2020-06-05,6,2,"#{""toby@tcrawley.org"" ""greg@mvxcvi.com""}",1024.0,45
+Clojure,greglook,2020-06-09,1,1,"#{""greg@mvxcvi.com""}",1025.0,45
+Clojure,greglook,2020-06-11,2,1,"#{""greg@mvxcvi.com""}",1027.0,45
+Clojure,greglook,2020-06-13,1,1,"#{""greg@mvxcvi.com""}",1028.0,45
+Clojure,greglook,2020-08-08,1,1,"#{""greg@mvxcvi.com""}",1029.0,45
+Clojure,greglook,2020-08-09,1,1,"#{""greg@mvxcvi.com""}",1030.0,45
+Clojure,greglook,2020-08-22,7,1,"#{""greg@mvxcvi.com""}",1037.0,45
+Clojure,greglook,2020-09-18,1,1,"#{""greg@mvxcvi.com""}",1038.0,45
+Clojure,greglook,2020-10-26,6,1,"#{""greg@mvxcvi.com""}",1044.0,45
+Clojure,greglook,2020-10-27,14,1,"#{""greg@mvxcvi.com""}",1058.0,45
+Clojure,greglook,2020-11-01,8,1,"#{""greg@mvxcvi.com""}",1066.0,45
+Clojure,greglook,2020-11-02,3,1,"#{""greg@mvxcvi.com""}",1069.0,45
+Clojure,greglook,2020-11-03,5,1,"#{""greg@mvxcvi.com""}",1074.0,45
+Clojure,greglook,2020-11-04,8,1,"#{""greg@mvxcvi.com""}",1082.0,45
+Clojure,greglook,2020-11-05,11,1,"#{""greg@mvxcvi.com""}",1093.0,45
+Clojure,greglook,2020-11-06,2,1,"#{""greg@mvxcvi.com""}",1095.0,45
+Clojure,greglook,2020-11-07,10,1,"#{""greg@mvxcvi.com""}",1105.0,45
+Clojure,greglook,2020-12-09,2,2,"#{""robhanlon@gmail.com"" ""drew@drewinglis.com""}",1107.0,45
+Clojure,greglook,2021-03-25,3,3,"#{""wilkerlucio@users.noreply.github.com"" ""40712240+saitouena@users.noreply.github.com"" ""kufahmeeran@gmail.com""}",1110.0,48
+Clojure,greglook,2021-03-27,9,1,"#{""greg@mvxcvi.com""}",1119.0,48
+Clojure,greglook,2021-03-28,18,1,"#{""greg@mvxcvi.com""}",1137.0,48
+Clojure,greglook,2021-03-29,5,1,"#{""greg@mvxcvi.com""}",1142.0,48
+Clojure,greglook,2021-03-30,4,1,"#{""greg@mvxcvi.com""}",1146.0,48
+Clojure,greglook,2021-06-23,1,1,"#{""agentydragon@gmail.com""}",1147.0,49
+Clojure,greglook,2021-10-12,1,1,"#{""filipematossilva@gmail.com""}",1148.0,50
+Clojure,greglook,2021-10-18,1,1,"#{""tobyclemson@gmail.com""}",1149.0,51
+Clojure,greglook,2021-12-11,6,1,"#{""greg@mvxcvi.com""}",1155.0,51
+Clojure,greglook,2022-11-07,1,1,"#{""greg@mvxcvi.com""}",1156.0,51
+Clojure,greglook,2022-11-08,1,1,"#{""vemv@users.noreply.github.com""}",1157.0,52
+Clojure,greglook,2022-11-09,4,2,"#{""phillipmates@gmail.com"" ""greg@mvxcvi.com""}",1161.0,53
+Clojure,greglook,2023-01-07,2,1,"#{""greg@mvxcvi.com""}",1163.0,53

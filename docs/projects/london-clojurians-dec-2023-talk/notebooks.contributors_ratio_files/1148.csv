@@ -1,0 +1,322 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/nrepl/piggieback,2012-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2012-08-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2012-08-21,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",9.0,[{0 9}],0,9,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2012-08-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2012-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",12.0,[{0 12}],0,12,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2012-08-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2012-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2012-10-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-01-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",17.0,[{0 17}],0,17,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",18.0,[{0 18}],0,18,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-02-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",20.0,[{0 20}],0,20,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-02-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",24.0,[{0 24}],0,24,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",26.0,[{0 26}],0,26,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-02-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",30.0,[{0 30}],0,30,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trptcolin@gmail.com]",31.0,"[{0 30, ""other"" 1}]",1,30,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-06-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",32.0,"[{0 31, ""other"" 1}]",1,31,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trptcolin@gmail.com]",33.0,"[{0 31, ""other"" 2}]",2,31,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",35.0,"[{0 33, ""other"" 2}]",2,33,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",36.0,"[{0 34, ""other"" 2}]",2,34,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-08-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",39.0,"[{0 37, ""other"" 2}]",2,37,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-08-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",42.0,"[{0 40, ""other"" 2}]",2,40,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-11-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",44.0,"[{0 42, ""other"" 2}]",2,42,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-11-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",47.0,"[{0 45, ""other"" 2}]",2,45,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",48.0,"[{0 45, ""other"" 3}]",3,45,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2013-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",49.0,"[{0 46, ""other"" 3}]",3,46,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2014-02-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",51.0,"[{0 48, ""other"" 3}]",3,48,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2014-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gary.trakhman@gmail.com]",52.0,"[{0 48, ""other"" 4}]",4,48,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2014-02-18,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",57.0,"[{0 53, ""other"" 4}]",4,53,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-01-09,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[chas@cemerick.com, paul@bauer.codes, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",64.0,"[{0 59, ""other"" 5}]",5,59,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-01-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",66.0,"[{0 61, ""other"" 5}]",5,61,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-01-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, sritchie09@gmail.com]",68.0,"[{0 62, ""other"" 6}]",6,62,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tom@crystae.net]",69.0,"[{0 62, ""other"" 7}]",7,62,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mike@fikesfarm.com]",70.0,"[{0 62, ""other"" 8}]",8,62,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.nolen@gmail.com]",71.0,"[{0 62, ""other"" 9}]",9,62,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",72.0,"[{0 63, ""other"" 9}]",9,63,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-03-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",76.0,"[{0 67, ""other"" 9}]",9,67,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-03-24,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",85.0,"[{0 76, ""other"" 9}]",9,76,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-03-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",88.0,"[{0 79, ""other"" 9}]",9,79,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-03-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",91.0,"[{0 82, ""other"" 9}]",9,82,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-03-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",95.0,"[{0 86, ""other"" 9}]",9,86,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-04-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",99.0,"[{0 90, ""other"" 9}]",9,90,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2015-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",100.0,"[{0 91, ""other"" 9}]",9,91,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2017-05-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alessandro.d@gmail.com]",101.0,"[{0 91, ""other"" 10}]",10,91,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2017-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",102.0,"[{0 92, ""other"" 10}]",10,92,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2017-06-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",105.0,"[{0 95, ""other"" 10}]",10,95,0,0,0,0
+Clojure,https://github.com/nrepl/piggieback,2018-03-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com]",108.0,"[{0 95, ""other"" 10, 3 3}]",10,95,0,0,3,0
+Clojure,https://github.com/nrepl/piggieback,2018-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bhauman@gmail.com]",109.0,"[{0 95, ""other"" 10, 3 4}]",10,95,0,0,4,0
+Clojure,https://github.com/nrepl/piggieback,2018-03-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",113.0,"[{0 95, ""other"" 10, 3 4, 1 4}]",10,95,4,0,4,0
+Clojure,https://github.com/nrepl/piggieback,2018-03-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",114.0,"[{0 95, ""other"" 10, 3 4, 1 5}]",10,95,5,0,4,0
+Clojure,https://github.com/nrepl/piggieback,2018-03-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[neil.okamoto@gmail.com, bozhidar@batsov.com, bozhidar@batsov.com]",117.0,"[{0 95, ""other"" 11, 3 4, 1 7}]",11,95,7,0,4,0
+Clojure,https://github.com/nrepl/piggieback,2018-03-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neil.okamoto@gmail.com, neil.okamoto@gmail.com]",119.0,"[{0 95, ""other"" 13, 3 4, 1 7}]",13,95,7,0,4,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",120.0,"[{0 95, ""other"" 13, 3 4, 1 8}]",13,95,8,0,4,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",124.0,"[{0 95, ""other"" 13, 3 4, 1 12}]",13,95,12,0,4,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-18,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com, bozhidar@batsov.com, bozhidar@batsov.com]",135.0,"[{0 95, ""other"" 13, 3 8, 1 19}]",13,95,19,0,8,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",136.0,"[{0 95, ""other"" 13, 3 8, 1 20}]",13,95,20,0,8,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",137.0,"[{0 95, ""other"" 13, 3 8, 1 21}]",13,95,21,0,8,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bhauman@gmail.com]",138.0,"[{0 95, ""other"" 13, 3 9, 1 21}]",13,95,21,0,9,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com]",142.0,"[{0 95, ""other"" 13, 3 13, 1 21}]",13,95,21,0,13,0
+Clojure,https://github.com/nrepl/piggieback,2018-04-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",144.0,"[{0 95, ""other"" 13, 3 13, 1 23}]",13,95,23,0,13,0
+Clojure,https://github.com/nrepl/piggieback,2018-05-07,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bozhidar@batsov.com]",147.0,"[{0 95, ""other"" 13, 3 15, 1 24}]",13,95,24,0,15,0
+Clojure,https://github.com/nrepl/piggieback,2018-05-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",149.0,"[{0 95, ""other"" 13, 3 15, 1 26}]",13,95,26,0,15,0
+Clojure,https://github.com/nrepl/piggieback,2018-05-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com]",153.0,"[{0 95, ""other"" 13, 3 19, 1 26}]",13,95,26,0,19,0
+Clojure,https://github.com/nrepl/piggieback,2018-05-15,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",158.0,"[{0 95, ""other"" 13, 3 21, 1 29}]",13,95,29,0,21,0
+Clojure,https://github.com/nrepl/piggieback,2018-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",159.0,"[{0 95, ""other"" 13, 3 21, 1 30}]",13,95,30,0,21,0
+Clojure,https://github.com/nrepl/piggieback,2018-05-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",164.0,"[{0 95, ""other"" 13, 3 21, 1 35}]",13,95,35,0,21,0
+Clojure,https://github.com/nrepl/piggieback,2018-05-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",166.0,"[{0 95, ""other"" 13, 3 21, 1 37}]",13,95,37,0,21,0
+Clojure,https://github.com/nrepl/piggieback,2018-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bhauman@gmail.com]",167.0,"[{0 95, ""other"" 13, 3 22, 1 37}]",13,95,37,0,22,0
+Clojure,https://github.com/nrepl/piggieback,2018-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",168.0,"[{0 95, ""other"" 13, 3 22, 1 38}]",13,95,38,0,22,0
+Clojure,https://github.com/nrepl/piggieback,2018-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",169.0,"[{0 95, ""other"" 13, 3 22, 1 39}]",13,95,39,0,22,0
+Clojure,https://github.com/nrepl/piggieback,2018-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",170.0,"[{0 95, ""other"" 13, 3 22, 1 40}]",13,95,40,0,22,0
+Clojure,https://github.com/nrepl/piggieback,2018-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",171.0,"[{0 95, ""other"" 13, 3 22, 1 41}]",13,95,41,0,22,0
+Clojure,https://github.com/nrepl/piggieback,2018-07-31,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",177.0,"[{0 95, ""other"" 13, 3 22, 1 47}]",13,95,47,0,22,0
+Clojure,https://github.com/nrepl/piggieback,2018-08-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",179.0,"[{0 95, ""other"" 13, 3 22, 1 49}]",13,95,49,0,22,0
+Clojure,https://github.com/nrepl/piggieback,2018-08-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com]",183.0,"[{0 95, ""other"" 13, 3 26, 1 49}]",13,95,49,0,26,0
+Clojure,https://github.com/nrepl/piggieback,2018-08-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bhauman@gmail.com, bhauman@gmail.com]",185.0,"[{0 95, ""other"" 13, 3 28, 1 49}]",13,95,49,0,28,0
+Clojure,https://github.com/nrepl/piggieback,2018-08-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com]",188.0,"[{0 95, ""other"" 13, 3 31, 1 49}]",13,95,49,0,31,0
+Clojure,https://github.com/nrepl/piggieback,2018-10-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",190.0,"[{0 95, ""other"" 13, 3 31, 1 51}]",13,95,51,0,31,0
+Clojure,https://github.com/nrepl/piggieback,2018-10-21,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, marc@sinistral.net]",197.0,"[{0 95, ""other"" 14, 3 31, 1 57}]",14,95,57,0,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-01-22,19,1,"#tech.v3.dataset.column<string>[19]
+:email
+[mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li]",216.0,"[{0 95, ""other"" 14, 3 31, 1 57, 2 19}]",14,95,57,19,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mikey@cich.li]",217.0,"[{0 95, ""other"" 14, 3 31, 1 57, 2 20}]",14,95,57,20,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-01-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mikey@cich.li, mikey@cich.li]",219.0,"[{0 95, ""other"" 14, 3 31, 1 57, 2 22}]",14,95,57,22,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mikey@cich.li]",220.0,"[{0 95, ""other"" 14, 3 31, 1 57, 2 23}]",14,95,57,23,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mikey@cich.li]",221.0,"[{0 95, ""other"" 14, 3 31, 1 57, 2 24}]",14,95,57,24,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-02-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[mikey@cich.li, mikey@cich.li, mikey@cich.li]",224.0,"[{0 95, ""other"" 14, 3 31, 1 57, 2 27}]",14,95,57,27,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-02-22,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li, mikey@cich.li]",230.0,"[{0 95, ""other"" 14, 3 31, 1 57, 2 33}]",14,95,57,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[biozinc@gmail.com]",231.0,"[{0 95, ""other"" 15, 3 31, 1 57, 2 33}]",15,95,57,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-05-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",234.0,"[{0 95, ""other"" 15, 3 31, 1 60, 2 33}]",15,95,60,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mbertheau@gmail.com]",235.0,"[{0 95, ""other"" 16, 3 31, 1 60, 2 33}]",16,95,60,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-10-04,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, SevereOverfl0w@users.noreply.github.com]",240.0,"[{0 95, ""other"" 17, 3 31, 1 64, 2 33}]",17,95,64,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2019-10-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",244.0,"[{0 95, ""other"" 17, 3 31, 1 68, 2 33}]",17,95,68,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-04-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",246.0,"[{0 95, ""other"" 17, 3 31, 1 70, 2 33}]",17,95,70,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[richard.moehn@posteo.de]",247.0,"[{0 95, ""other"" 18, 3 31, 1 70, 2 33}]",18,95,70,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",248.0,"[{0 95, ""other"" 18, 3 31, 1 71, 2 33}]",18,95,71,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[biozinc@gmail.com]",249.0,"[{0 95, ""other"" 19, 3 31, 1 71, 2 33}]",19,95,71,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ak@coram.pub]",250.0,"[{0 95, ""other"" 20, 3 31, 1 71, 2 33}]",20,95,71,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-05-10,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[biozinc@gmail.com, biozinc@gmail.com, biozinc@gmail.com, biozinc@gmail.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",257.0,"[{0 95, ""other"" 24, 3 31, 1 74, 2 33}]",24,95,74,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-05-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com, bozhidar@batsov.com]",261.0,"[{0 95, ""other"" 24, 3 31, 1 78, 2 33}]",24,95,78,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-05-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",263.0,"[{0 95, ""other"" 24, 3 31, 1 80, 2 33}]",24,95,80,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.com]",264.0,"[{0 95, ""other"" 24, 3 31, 1 81, 2 33}]",24,95,81,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-08-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arne@arnebrasseur.net]",265.0,"[{0 95, ""other"" 25, 3 31, 1 81, 2 33}]",25,95,81,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-08-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",267.0,"[{0 95, ""other"" 25, 3 31, 1 83, 2 33}]",25,95,83,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2020-11-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bozhidar@batsov.com, bozhidar@batsov.com]",269.0,"[{0 95, ""other"" 25, 3 31, 1 85, 2 33}]",25,95,85,33,31,0
+Clojure,https://github.com/nrepl/piggieback,2021-07-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[vemv@users.noreply.github.com, vemv@users.noreply.github.com, vemv@users.noreply.github.com, vemv@users.noreply.github.com, vemv@users.noreply.github.com]",274.0,"[{0 95, ""other"" 25, 3 31, 1 85, 2 33, 4 5}]",25,95,85,33,31,5
+Clojure,https://github.com/nrepl/piggieback,2021-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vemv@users.noreply.github.com]",275.0,"[{0 95, ""other"" 25, 3 31, 1 85, 2 33, 4 6}]",25,95,85,33,31,6
+Clojure,https://github.com/nrepl/piggieback,2021-10-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vemv@users.noreply.github.com]",276.0,"[{0 95, ""other"" 25, 3 31, 1 85, 2 33, 4 7}]",25,95,85,33,31,7
+Clojure,https://github.com/nrepl/piggieback,2021-10-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bozhidar@batsov.dev]",277.0,"[{0 95, ""other"" 26, 3 31, 1 85, 2 33, 4 7}]",26,95,85,33,31,7
+Clojure,https://github.com/nrepl/piggieback,2023-06-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vemv@users.noreply.github.com]",278.0,"[{0 95, ""other"" 26, 3 31, 1 85, 2 33, 4 8}]",26,95,85,33,31,8

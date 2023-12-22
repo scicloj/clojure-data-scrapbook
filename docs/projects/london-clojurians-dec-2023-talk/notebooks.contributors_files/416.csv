@@ -1,0 +1,222 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,kubeflow-kale,2019-01-24,6,1,"#{""stefano.fioravanzo@gmail.com""}",6.0,1
+Python,kubeflow-kale,2019-01-28,2,1,"#{""stefano.fioravanzo@gmail.com""}",8.0,1
+Python,kubeflow-kale,2019-01-31,5,1,"#{""stefano.fioravanzo@gmail.com""}",13.0,1
+Python,kubeflow-kale,2019-02-01,1,1,"#{""stefano.fioravanzo@gmail.com""}",14.0,1
+Python,kubeflow-kale,2019-02-27,2,1,"#{""stefano.fioravanzo@gmail.com""}",16.0,1
+Python,kubeflow-kale,2019-03-14,1,1,"#{""stefano.fioravanzo@gmail.com""}",17.0,1
+Python,kubeflow-kale,2019-03-25,1,1,"#{""stefano.fioravanzo@gmail.com""}",18.0,1
+Python,kubeflow-kale,2019-03-26,1,1,"#{""stefano.fioravanzo@gmail.com""}",19.0,1
+Python,kubeflow-kale,2019-03-29,1,1,"#{""stefano.fioravanzo@gmail.com""}",20.0,1
+Python,kubeflow-kale,2019-04-01,5,1,"#{""stefano.fioravanzo@gmail.com""}",25.0,1
+Python,kubeflow-kale,2019-04-05,7,1,"#{""stefano.fioravanzo@gmail.com""}",32.0,1
+Python,kubeflow-kale,2019-04-08,4,1,"#{""stefano.fioravanzo@gmail.com""}",36.0,1
+Python,kubeflow-kale,2019-04-09,5,1,"#{""stefano.fioravanzo@gmail.com""}",41.0,1
+Python,kubeflow-kale,2019-04-19,1,1,"#{""stefano.fioravanzo@gmail.com""}",42.0,1
+Python,kubeflow-kale,2019-04-26,1,1,"#{""stefano.fioravanzo@gmail.com""}",43.0,1
+Python,kubeflow-kale,2019-04-27,1,1,"#{""stefano.fioravanzo@gmail.com""}",44.0,1
+Python,kubeflow-kale,2019-04-28,1,1,"#{""stefano.fioravanzo@gmail.com""}",45.0,1
+Python,kubeflow-kale,2019-04-29,7,1,"#{""stefano.fioravanzo@gmail.com""}",52.0,1
+Python,kubeflow-kale,2019-04-30,6,1,"#{""stefano.fioravanzo@gmail.com""}",58.0,1
+Python,kubeflow-kale,2019-05-11,5,1,"#{""stefano.fioravanzo@gmail.com""}",63.0,1
+Python,kubeflow-kale,2019-05-13,8,1,"#{""stefano.fioravanzo@gmail.com""}",71.0,1
+Python,kubeflow-kale,2019-05-14,1,1,"#{""stefano.fioravanzo@gmail.com""}",72.0,1
+Python,kubeflow-kale,2019-05-29,1,1,"#{""stefano.fioravanzo@gmail.com""}",73.0,1
+Python,kubeflow-kale,2019-06-27,1,1,"#{""stefano.fioravanzo@gmail.com""}",74.0,1
+Python,kubeflow-kale,2019-07-03,1,1,"#{""stefano.fioravanzo@gmail.com""}",75.0,1
+Python,kubeflow-kale,2019-07-17,4,1,"#{""stefano.fioravanzo@gmail.com""}",79.0,1
+Python,kubeflow-kale,2019-07-18,4,1,"#{""stefano.fioravanzo@gmail.com""}",83.0,1
+Python,kubeflow-kale,2019-07-19,3,1,"#{""stefano.fioravanzo@gmail.com""}",86.0,1
+Python,kubeflow-kale,2019-07-23,2,1,"#{""stefano.fioravanzo@gmail.com""}",88.0,1
+Python,kubeflow-kale,2019-08-01,1,1,"#{""stefano.fioravanzo@gmail.com""}",89.0,1
+Python,kubeflow-kale,2019-09-03,2,1,"#{""stefano.fioravanzo@gmail.com""}",91.0,1
+Python,kubeflow-kale,2019-09-05,4,1,"#{""vmaggio@fbk.eu""}",95.0,2
+Python,kubeflow-kale,2019-09-16,1,1,"#{""stefano.fioravanzo@gmail.com""}",96.0,2
+Python,kubeflow-kale,2019-09-17,4,1,"#{""stefano.fioravanzo@gmail.com""}",100.0,2
+Python,kubeflow-kale,2019-09-18,2,1,"#{""stefano.fioravanzo@gmail.com""}",102.0,2
+Python,kubeflow-kale,2019-09-19,5,1,"#{""stefano.fioravanzo@gmail.com""}",107.0,2
+Python,kubeflow-kale,2019-09-20,4,1,"#{""stefano.fioravanzo@gmail.com""}",111.0,2
+Python,kubeflow-kale,2019-09-21,2,1,"#{""stefano.fioravanzo@gmail.com""}",113.0,2
+Python,kubeflow-kale,2019-09-22,7,1,"#{""stefano.fioravanzo@gmail.com""}",120.0,2
+Python,kubeflow-kale,2019-09-27,8,1,"#{""stefano.fioravanzo@gmail.com""}",128.0,2
+Python,kubeflow-kale,2019-09-28,5,1,"#{""stefano.fioravanzo@gmail.com""}",133.0,2
+Python,kubeflow-kale,2019-09-29,9,1,"#{""stefano.fioravanzo@gmail.com""}",142.0,2
+Python,kubeflow-kale,2019-10-03,3,1,"#{""stefano.fioravanzo@gmail.com""}",145.0,2
+Python,kubeflow-kale,2019-10-04,5,1,"#{""stefano.fioravanzo@gmail.com""}",150.0,2
+Python,kubeflow-kale,2019-10-05,2,1,"#{""stefano.fioravanzo@gmail.com""}",152.0,2
+Python,kubeflow-kale,2019-10-06,1,1,"#{""stefano.fioravanzo@gmail.com""}",153.0,2
+Python,kubeflow-kale,2019-10-07,6,1,"#{""stefano.fioravanzo@gmail.com""}",159.0,2
+Python,kubeflow-kale,2019-10-08,4,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""stefano.fioravanzo@gmail.com""}",163.0,3
+Python,kubeflow-kale,2019-10-09,8,1,"#{""stefano.fioravanzo@gmail.com""}",171.0,3
+Python,kubeflow-kale,2019-10-10,2,1,"#{""stefano.fioravanzo@gmail.com""}",173.0,3
+Python,kubeflow-kale,2019-10-11,7,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",180.0,4
+Python,kubeflow-kale,2019-10-13,5,1,"#{""stefano.fioravanzo@gmail.com""}",185.0,4
+Python,kubeflow-kale,2019-10-14,4,2,"#{""klolos@arrikto.com"" ""stefano.fioravanzo@gmail.com""}",189.0,5
+Python,kubeflow-kale,2019-10-15,10,3,"#{""klolos@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",199.0,5
+Python,kubeflow-kale,2019-10-16,5,3,"#{""klolos@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",204.0,5
+Python,kubeflow-kale,2019-10-17,1,1,"#{""elikatsis@arrikto.com""}",205.0,5
+Python,kubeflow-kale,2019-10-19,1,1,"#{""elikatsis@arrikto.com""}",206.0,5
+Python,kubeflow-kale,2019-10-22,4,1,"#{""stefano.fioravanzo@gmail.com""}",210.0,5
+Python,kubeflow-kale,2019-10-23,11,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",221.0,5
+Python,kubeflow-kale,2019-10-24,1,1,"#{""elikatsis@arrikto.com""}",222.0,5
+Python,kubeflow-kale,2019-10-30,1,1,"#{""elikatsis@arrikto.com""}",223.0,5
+Python,kubeflow-kale,2019-11-04,2,1,"#{""elikatsis@arrikto.com""}",225.0,5
+Python,kubeflow-kale,2019-11-05,2,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",227.0,5
+Python,kubeflow-kale,2019-11-06,4,3,"#{""klolos@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",231.0,5
+Python,kubeflow-kale,2019-11-07,5,3,"#{""tasos@arrikto.com"" ""klolos@arrikto.com"" ""elikatsis@arrikto.com""}",236.0,6
+Python,kubeflow-kale,2019-11-08,2,2,"#{""klolos@arrikto.com"" ""stefano.fioravanzo@gmail.com""}",238.0,6
+Python,kubeflow-kale,2019-11-10,5,2,"#{""tasos@arrikto.com"" ""elikatsis@arrikto.com""}",243.0,6
+Python,kubeflow-kale,2019-11-11,5,3,"#{""klolos@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",248.0,6
+Python,kubeflow-kale,2019-11-12,1,1,"#{""stefano.fioravanzo@gmail.com""}",249.0,6
+Python,kubeflow-kale,2019-11-13,3,2,"#{""tasos@arrikto.com"" ""elikatsis@arrikto.com""}",252.0,6
+Python,kubeflow-kale,2019-11-14,8,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",260.0,6
+Python,kubeflow-kale,2019-11-15,2,2,"#{""tasos@arrikto.com"" ""elikatsis@arrikto.com""}",262.0,6
+Python,kubeflow-kale,2019-11-28,2,1,"#{""elikatsis@arrikto.com""}",264.0,6
+Python,kubeflow-kale,2019-11-29,3,1,"#{""elikatsis@arrikto.com""}",267.0,6
+Python,kubeflow-kale,2019-12-06,1,1,"#{""elikatsis@arrikto.com""}",268.0,6
+Python,kubeflow-kale,2019-12-13,1,1,"#{""elikatsis@arrikto.com""}",269.0,6
+Python,kubeflow-kale,2019-12-16,1,1,"#{""elikatsis@arrikto.com""}",270.0,6
+Python,kubeflow-kale,2020-01-13,2,1,"#{""stefano@arrikto.com""}",272.0,7
+Python,kubeflow-kale,2020-01-14,4,1,"#{""elikatsis@arrikto.com""}",276.0,7
+Python,kubeflow-kale,2020-01-15,18,1,"#{""elikatsis@arrikto.com""}",294.0,7
+Python,kubeflow-kale,2020-01-16,4,1,"#{""elikatsis@arrikto.com""}",298.0,7
+Python,kubeflow-kale,2020-01-17,2,1,"#{""elikatsis@arrikto.com""}",300.0,7
+Python,kubeflow-kale,2020-01-20,2,1,"#{""elikatsis@arrikto.com""}",302.0,7
+Python,kubeflow-kale,2020-01-21,2,2,"#{""stefano@arrikto.com"" ""stefano.fioravanzo@gmail.com""}",304.0,7
+Python,kubeflow-kale,2020-01-28,1,1,"#{""stefano@arrikto.com""}",305.0,7
+Python,kubeflow-kale,2020-01-30,1,1,"#{""stefano.fioravanzo@gmail.com""}",306.0,7
+Python,kubeflow-kale,2020-01-31,1,1,"#{""elikatsis@arrikto.com""}",307.0,7
+Python,kubeflow-kale,2020-02-03,1,1,"#{""stefano.fioravanzo@gmail.com""}",308.0,7
+Python,kubeflow-kale,2020-02-05,2,2,"#{""stefano@arrikto.com"" ""48305025+jiapinai@users.noreply.github.com""}",310.0,8
+Python,kubeflow-kale,2020-02-09,1,1,"#{""stefano.fioravanzo@gmail.com""}",311.0,8
+Python,kubeflow-kale,2020-02-10,1,1,"#{""stefano.fioravanzo@gmail.com""}",312.0,8
+Python,kubeflow-kale,2020-02-11,1,1,"#{""stefano.fioravanzo@gmail.com""}",313.0,8
+Python,kubeflow-kale,2020-02-14,3,1,"#{""stefano.fioravanzo@gmail.com""}",316.0,8
+Python,kubeflow-kale,2020-02-17,1,1,"#{""stefano.fioravanzo@gmail.com""}",317.0,8
+Python,kubeflow-kale,2020-02-21,2,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",319.0,8
+Python,kubeflow-kale,2020-02-26,1,1,"#{""stefano.fioravanzo@gmail.com""}",320.0,8
+Python,kubeflow-kale,2020-02-27,2,2,"#{""tasos@arrikto.com"" ""stefano.fioravanzo@gmail.com""}",322.0,8
+Python,kubeflow-kale,2020-02-28,4,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",326.0,8
+Python,kubeflow-kale,2020-03-04,1,1,"#{""stefano@arrikto.com""}",327.0,8
+Python,kubeflow-kale,2020-03-05,1,1,"#{""stefano@arrikto.com""}",328.0,8
+Python,kubeflow-kale,2020-03-06,1,1,"#{""tasos@arrikto.com""}",329.0,8
+Python,kubeflow-kale,2020-03-10,5,1,"#{""stefano.fioravanzo@gmail.com""}",334.0,8
+Python,kubeflow-kale,2020-03-11,2,1,"#{""stefano.fioravanzo@gmail.com""}",336.0,8
+Python,kubeflow-kale,2020-03-14,2,1,"#{""elikatsis@arrikto.com""}",338.0,8
+Python,kubeflow-kale,2020-03-15,1,1,"#{""tasos@arrikto.com""}",339.0,8
+Python,kubeflow-kale,2020-03-16,1,1,"#{""elikatsis@arrikto.com""}",340.0,8
+Python,kubeflow-kale,2020-03-19,3,1,"#{""stefano.fioravanzo@gmail.com""}",343.0,8
+Python,kubeflow-kale,2020-03-23,4,3,"#{""tasos@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",347.0,8
+Python,kubeflow-kale,2020-03-24,3,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""tasos@arrikto.com"" ""stefano.fioravanzo@gmail.com""}",350.0,8
+Python,kubeflow-kale,2020-03-30,2,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",352.0,8
+Python,kubeflow-kale,2020-04-01,1,1,"#{""stefano.fioravanzo@gmail.com""}",353.0,8
+Python,kubeflow-kale,2020-04-03,1,1,"#{""elikatsis@arrikto.com""}",354.0,8
+Python,kubeflow-kale,2020-04-06,1,1,"#{""elikatsis@arrikto.com""}",355.0,8
+Python,kubeflow-kale,2020-04-07,3,1,"#{""stefano.fioravanzo@gmail.com""}",358.0,8
+Python,kubeflow-kale,2020-04-08,2,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",360.0,8
+Python,kubeflow-kale,2020-04-09,1,1,"#{""stefano.fioravanzo@gmail.com""}",361.0,8
+Python,kubeflow-kale,2020-04-13,1,1,"#{""stefano@arrikto.com""}",362.0,8
+Python,kubeflow-kale,2020-04-15,1,1,"#{""stefano.fioravanzo@gmail.com""}",363.0,8
+Python,kubeflow-kale,2020-04-22,4,1,"#{""stefano.fioravanzo@gmail.com""}",367.0,8
+Python,kubeflow-kale,2020-04-23,1,1,"#{""elikatsis@arrikto.com""}",368.0,8
+Python,kubeflow-kale,2020-04-24,1,1,"#{""stefano.fioravanzo@gmail.com""}",369.0,8
+Python,kubeflow-kale,2020-04-28,4,2,"#{""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",373.0,8
+Python,kubeflow-kale,2020-04-29,4,3,"#{""stefano@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""cspavlou@arrikto.com""}",377.0,9
+Python,kubeflow-kale,2020-04-30,1,1,"#{""elikatsis@arrikto.com""}",378.0,9
+Python,kubeflow-kale,2020-05-01,3,1,"#{""stefano@arrikto.com""}",381.0,9
+Python,kubeflow-kale,2020-05-02,2,1,"#{""stefano@arrikto.com""}",383.0,9
+Python,kubeflow-kale,2020-05-05,2,1,"#{""elikatsis@arrikto.com""}",385.0,9
+Python,kubeflow-kale,2020-05-06,4,2,"#{""stefano@arrikto.com"" ""cspavlou@arrikto.com""}",389.0,9
+Python,kubeflow-kale,2020-05-07,15,3,"#{""stefano@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",404.0,9
+Python,kubeflow-kale,2020-05-08,3,3,"#{""stefano@arrikto.com"" ""stefano.fioravanzo@gmail.com"" ""elikatsis@arrikto.com""}",407.0,9
+Python,kubeflow-kale,2020-05-12,1,1,"#{""elikatsis@arrikto.com""}",408.0,9
+Python,kubeflow-kale,2020-05-13,3,1,"#{""elikatsis@arrikto.com""}",411.0,9
+Python,kubeflow-kale,2020-05-14,1,1,"#{""stefano.fioravanzo@gmail.com""}",412.0,9
+Python,kubeflow-kale,2020-05-15,1,1,"#{""stefano@arrikto.com""}",413.0,9
+Python,kubeflow-kale,2020-05-20,2,1,"#{""elikatsis@arrikto.com""}",415.0,9
+Python,kubeflow-kale,2020-05-26,3,1,"#{""elikatsis@arrikto.com""}",418.0,9
+Python,kubeflow-kale,2020-05-27,1,1,"#{""cspavlou@arrikto.com""}",419.0,9
+Python,kubeflow-kale,2020-06-09,1,1,"#{""stefano@arrikto.com""}",420.0,9
+Python,kubeflow-kale,2020-06-10,1,1,"#{""elikatsis@arrikto.com""}",421.0,9
+Python,kubeflow-kale,2020-06-11,1,1,"#{""elikatsis@arrikto.com""}",422.0,9
+Python,kubeflow-kale,2020-06-12,1,1,"#{""stefano@arrikto.com""}",423.0,9
+Python,kubeflow-kale,2020-06-15,1,1,"#{""stefano@arrikto.com""}",424.0,9
+Python,kubeflow-kale,2020-06-30,1,1,"#{""elikatsis@arrikto.com""}",425.0,9
+Python,kubeflow-kale,2020-07-03,1,1,"#{""stefano@arrikto.com""}",426.0,9
+Python,kubeflow-kale,2020-07-06,1,1,"#{""elikatsis@arrikto.com""}",427.0,9
+Python,kubeflow-kale,2020-07-09,1,1,"#{""stefano@arrikto.com""}",428.0,9
+Python,kubeflow-kale,2020-07-13,1,1,"#{""stefano@arrikto.com""}",429.0,9
+Python,kubeflow-kale,2020-07-14,2,1,"#{""elikatsis@arrikto.com""}",431.0,9
+Python,kubeflow-kale,2020-07-15,1,1,"#{""stefano@arrikto.com""}",432.0,9
+Python,kubeflow-kale,2020-07-16,2,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",434.0,9
+Python,kubeflow-kale,2020-07-21,2,1,"#{""elikatsis@arrikto.com""}",436.0,9
+Python,kubeflow-kale,2020-07-22,1,1,"#{""elikatsis@arrikto.com""}",437.0,9
+Python,kubeflow-kale,2020-07-27,5,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",442.0,9
+Python,kubeflow-kale,2020-07-28,4,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",446.0,9
+Python,kubeflow-kale,2020-07-30,5,1,"#{""stefano@arrikto.com""}",451.0,9
+Python,kubeflow-kale,2020-07-31,13,1,"#{""elikatsis@arrikto.com""}",464.0,9
+Python,kubeflow-kale,2020-08-11,3,1,"#{""elikatsis@arrikto.com""}",467.0,9
+Python,kubeflow-kale,2020-08-18,3,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",470.0,9
+Python,kubeflow-kale,2020-08-19,1,1,"#{""stefano@arrikto.com""}",471.0,9
+Python,kubeflow-kale,2020-08-27,3,1,"#{""stefano@arrikto.com""}",474.0,9
+Python,kubeflow-kale,2020-09-02,1,1,"#{""stefano@arrikto.com""}",475.0,9
+Python,kubeflow-kale,2020-09-04,1,1,"#{""stefano@arrikto.com""}",476.0,9
+Python,kubeflow-kale,2020-09-07,6,2,"#{""stefano@arrikto.com"" ""dimpo@arrikto.com""}",482.0,10
+Python,kubeflow-kale,2020-09-10,1,1,"#{""stefano@arrikto.com""}",483.0,10
+Python,kubeflow-kale,2020-09-11,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""stefano@arrikto.com""}",486.0,10
+Python,kubeflow-kale,2020-09-14,2,2,"#{""dimpo@arrikto.com"" ""elikatsis@arrikto.com""}",488.0,10
+Python,kubeflow-kale,2020-09-17,2,1,"#{""stefano@arrikto.com""}",490.0,10
+Python,kubeflow-kale,2020-09-21,1,1,"#{""elikatsis@arrikto.com""}",491.0,10
+Python,kubeflow-kale,2020-09-23,1,1,"#{""stefano@arrikto.com""}",492.0,10
+Python,kubeflow-kale,2020-09-28,2,2,"#{""dimpo@arrikto.com"" ""vanderspek.david@gmail.com""}",494.0,11
+Python,kubeflow-kale,2020-09-30,2,1,"#{""elikatsis@arrikto.com""}",496.0,11
+Python,kubeflow-kale,2020-10-01,2,1,"#{""elikatsis@arrikto.com""}",498.0,11
+Python,kubeflow-kale,2020-10-02,2,1,"#{""elikatsis@arrikto.com""}",500.0,11
+Python,kubeflow-kale,2020-10-07,6,1,"#{""stefano@arrikto.com""}",506.0,11
+Python,kubeflow-kale,2020-10-09,1,1,"#{""stefano@arrikto.com""}",507.0,11
+Python,kubeflow-kale,2020-10-12,2,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",509.0,11
+Python,kubeflow-kale,2020-10-13,1,1,"#{""dimpo@arrikto.com""}",510.0,11
+Python,kubeflow-kale,2020-10-14,4,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",514.0,11
+Python,kubeflow-kale,2020-10-15,1,1,"#{""elikatsis@arrikto.com""}",515.0,11
+Python,kubeflow-kale,2020-10-16,7,1,"#{""elikatsis@arrikto.com""}",522.0,11
+Python,kubeflow-kale,2020-10-19,2,2,"#{""stefano@arrikto.com"" ""dimpo@arrikto.com""}",524.0,11
+Python,kubeflow-kale,2020-10-20,5,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",529.0,11
+Python,kubeflow-kale,2020-10-22,3,1,"#{""elikatsis@arrikto.com""}",532.0,11
+Python,kubeflow-kale,2020-10-26,6,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",538.0,11
+Python,kubeflow-kale,2020-10-30,3,2,"#{""dimpo@arrikto.com"" ""elikatsis@arrikto.com""}",541.0,11
+Python,kubeflow-kale,2020-11-02,4,1,"#{""stefano@arrikto.com""}",545.0,11
+Python,kubeflow-kale,2020-11-03,4,1,"#{""stefano@arrikto.com""}",549.0,11
+Python,kubeflow-kale,2020-11-04,8,1,"#{""stefano@arrikto.com""}",557.0,11
+Python,kubeflow-kale,2020-11-06,6,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",563.0,11
+Python,kubeflow-kale,2020-11-09,4,1,"#{""elikatsis@arrikto.com""}",567.0,11
+Python,kubeflow-kale,2020-11-10,5,1,"#{""stefano@arrikto.com""}",572.0,11
+Python,kubeflow-kale,2020-11-11,3,2,"#{""stefano@arrikto.com"" ""dimpo@arrikto.com""}",575.0,11
+Python,kubeflow-kale,2020-11-12,3,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",578.0,11
+Python,kubeflow-kale,2020-11-16,2,1,"#{""stefano@arrikto.com""}",580.0,11
+Python,kubeflow-kale,2020-11-17,1,1,"#{""stefano@arrikto.com""}",581.0,11
+Python,kubeflow-kale,2020-11-19,3,1,"#{""stefano@arrikto.com""}",584.0,11
+Python,kubeflow-kale,2020-11-20,6,2,"#{""stefano@arrikto.com"" ""dimpo@arrikto.com""}",590.0,11
+Python,kubeflow-kale,2020-12-10,3,1,"#{""stefano@arrikto.com""}",593.0,11
+Python,kubeflow-kale,2020-12-11,2,2,"#{""elikatsis@arrikto.com"" ""cspavlou@arrikto.com""}",595.0,11
+Python,kubeflow-kale,2020-12-14,2,1,"#{""stefano@arrikto.com""}",597.0,11
+Python,kubeflow-kale,2020-12-15,4,1,"#{""elikatsis@arrikto.com""}",601.0,11
+Python,kubeflow-kale,2020-12-16,1,1,"#{""stefano@arrikto.com""}",602.0,11
+Python,kubeflow-kale,2020-12-18,3,1,"#{""elikatsis@arrikto.com""}",605.0,11
+Python,kubeflow-kale,2020-12-22,1,1,"#{""stefano@arrikto.com""}",606.0,11
+Python,kubeflow-kale,2021-01-05,3,1,"#{""stefano@arrikto.com""}",609.0,11
+Python,kubeflow-kale,2021-01-07,3,1,"#{""stefano@arrikto.com""}",612.0,11
+Python,kubeflow-kale,2021-01-11,1,1,"#{""elikatsis@arrikto.com""}",613.0,11
+Python,kubeflow-kale,2021-01-15,5,1,"#{""elikatsis@arrikto.com""}",618.0,11
+Python,kubeflow-kale,2021-01-18,2,1,"#{""elikatsis@arrikto.com""}",620.0,11
+Python,kubeflow-kale,2021-01-20,8,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",628.0,11
+Python,kubeflow-kale,2021-01-21,1,1,"#{""stefano@arrikto.com""}",629.0,11
+Python,kubeflow-kale,2021-01-22,3,1,"#{""stefano@arrikto.com""}",632.0,11
+Python,kubeflow-kale,2021-01-26,1,1,"#{""stefano@arrikto.com""}",633.0,11
+Python,kubeflow-kale,2021-01-28,1,1,"#{""stefano@arrikto.com""}",634.0,11
+Python,kubeflow-kale,2021-02-12,1,1,"#{""elikatsis@arrikto.com""}",635.0,11
+Python,kubeflow-kale,2021-04-09,3,2,"#{""stefano@arrikto.com"" ""elikatsis@arrikto.com""}",638.0,11
+Python,kubeflow-kale,2021-04-16,2,1,"#{""elikatsis@arrikto.com""}",640.0,11
+Python,kubeflow-kale,2021-05-19,1,1,"#{""stefano@arrikto.com""}",641.0,11
+Python,kubeflow-kale,2021-09-09,1,1,"#{""elikatsis@arrikto.com""}",642.0,11
+Python,kubeflow-kale,2021-09-25,1,1,"#{""elikatsis@arrikto.com""}",643.0,11
+Python,kubeflow-kale,2021-10-20,1,1,"#{""elikatsis@arrikto.com""}",644.0,11

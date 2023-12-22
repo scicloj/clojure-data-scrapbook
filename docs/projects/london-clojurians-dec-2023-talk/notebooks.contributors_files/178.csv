@@ -1,0 +1,218 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,korma,2011-10-05,10,1,"#{""ibdknox@gmail.com""}",10.0,1
+Clojure,korma,2011-10-08,4,1,"#{""ibdknox@gmail.com""}",14.0,1
+Clojure,korma,2011-10-09,1,1,"#{""ibdknox@gmail.com""}",15.0,1
+Clojure,korma,2011-10-12,2,1,"#{""ibdknox@gmail.com""}",17.0,1
+Clojure,korma,2011-10-15,1,1,"#{""ibdknox@gmail.com""}",18.0,1
+Clojure,korma,2011-10-17,6,1,"#{""ibdknox@gmail.com""}",24.0,1
+Clojure,korma,2011-10-18,1,1,"#{""ibdknox@gmail.com""}",25.0,1
+Clojure,korma,2011-10-27,2,1,"#{""ibdknox@gmail.com""}",27.0,1
+Clojure,korma,2011-10-29,2,1,"#{""ibdknox@gmail.com""}",29.0,1
+Clojure,korma,2011-10-31,1,1,"#{""ibdknox@gmail.com""}",30.0,1
+Clojure,korma,2011-11-01,3,1,"#{""ibdknox@gmail.com""}",33.0,1
+Clojure,korma,2011-11-02,7,1,"#{""ibdknox@gmail.com""}",40.0,1
+Clojure,korma,2011-11-04,2,1,"#{""ibdknox@gmail.com""}",42.0,1
+Clojure,korma,2011-11-06,5,1,"#{""ibdknox@gmail.com""}",47.0,1
+Clojure,korma,2011-11-07,1,1,"#{""ibdknox@gmail.com""}",48.0,1
+Clojure,korma,2011-11-11,1,1,"#{""ibdknox@gmail.com""}",49.0,1
+Clojure,korma,2011-11-12,1,1,"#{""ibdknox@gmail.com""}",50.0,1
+Clojure,korma,2011-11-14,8,1,"#{""ibdknox@gmail.com""}",58.0,1
+Clojure,korma,2011-11-16,1,1,"#{""ibdknox@gmail.com""}",59.0,1
+Clojure,korma,2011-11-17,3,1,"#{""ibdknox@gmail.com""}",62.0,1
+Clojure,korma,2011-11-24,1,1,"#{""ibdknox@gmail.com""}",63.0,1
+Clojure,korma,2011-11-26,3,1,"#{""ibdknox@gmail.com""}",66.0,1
+Clojure,korma,2011-12-04,1,1,"#{""ibdknox@gmail.com""}",67.0,1
+Clojure,korma,2011-12-06,1,1,"#{""ibdknox@gmail.com""}",68.0,1
+Clojure,korma,2011-12-08,1,1,"#{""ibdknox@gmail.com""}",69.0,1
+Clojure,korma,2011-12-18,2,1,"#{""ibdknox@gmail.com""}",71.0,1
+Clojure,korma,2011-12-20,2,1,"#{""ibdknox@gmail.com""}",73.0,1
+Clojure,korma,2011-12-28,2,1,"#{""ibdknox@gmail.com""}",75.0,1
+Clojure,korma,2011-12-30,1,1,"#{""ibdknox@gmail.com""}",76.0,1
+Clojure,korma,2012-01-01,3,1,"#{""ibdknox@gmail.com""}",79.0,1
+Clojure,korma,2012-01-12,3,1,"#{""ibdknox@gmail.com""}",82.0,1
+Clojure,korma,2012-01-19,2,1,"#{""ibdknox@gmail.com""}",84.0,1
+Clojure,korma,2012-01-31,2,1,"#{""ibdknox@gmail.com""}",86.0,1
+Clojure,korma,2012-02-06,1,1,"#{""eric@leadtune.com""}",87.0,2
+Clojure,korma,2012-02-12,1,1,"#{""ibdknox@gmail.com""}",88.0,2
+Clojure,korma,2012-02-21,2,1,"#{""ibdknox@gmail.com""}",90.0,2
+Clojure,korma,2012-02-28,1,1,"#{""michael@novemberain.com""}",91.0,3
+Clojure,korma,2012-03-02,1,1,"#{""ibdknox@gmail.com""}",92.0,3
+Clojure,korma,2012-03-13,2,1,"#{""ibdknox@gmail.com""}",94.0,3
+Clojure,korma,2012-03-19,5,1,"#{""ibdknox@gmail.com""}",99.0,3
+Clojure,korma,2012-03-20,5,1,"#{""ibdknox@gmail.com""}",104.0,3
+Clojure,korma,2012-04-03,1,1,"#{""mike.aldred@gmail.com""}",105.0,4
+Clojure,korma,2012-04-11,1,1,"#{""ibdknox@gmail.com""}",106.0,4
+Clojure,korma,2012-04-24,1,1,"#{""Mike Aldred@VIVI.(none)""}",107.0,5
+Clojure,korma,2012-04-27,1,1,"#{""mike.aldred@gmail.com""}",108.0,5
+Clojure,korma,2012-05-02,2,2,"#{""felideon+git@gmail.com"" ""ibdknox@gmail.com""}",110.0,6
+Clojure,korma,2012-05-08,1,1,"#{""felideon+git@gmail.com""}",111.0,6
+Clojure,korma,2012-05-10,1,1,"#{""ibdknox@gmail.com""}",112.0,6
+Clojure,korma,2012-05-15,1,1,"#{""aleksander@ogrim.no""}",113.0,7
+Clojure,korma,2012-06-13,1,1,"#{""ibdknox@gmail.com""}",114.0,7
+Clojure,korma,2012-06-14,1,1,"#{""alexander.zolotko@ainstainer.com""}",115.0,8
+Clojure,korma,2012-07-20,1,1,"#{""juha.syrjala@gmail.com""}",116.0,9
+Clojure,korma,2012-08-10,1,1,"#{""duffy@indeed.com""}",117.0,10
+Clojure,korma,2012-08-28,3,1,"#{""jim@crossleys.org""}",120.0,11
+Clojure,korma,2012-09-12,1,1,"#{""mccraigmccraig@gmail.com""}",121.0,12
+Clojure,korma,2012-10-22,4,1,"#{""ben@benburkert.com""}",125.0,13
+Clojure,korma,2012-11-28,2,2,"#{""dennisroberts71@gmail.com"" ""dennis@iplantcollaborative.org""}",127.0,15
+Clojure,korma,2012-11-30,1,1,"#{""dennisroberts71@gmail.com""}",128.0,15
+Clojure,korma,2012-12-27,7,2,"#{""alexander.baranosky@gmail.com"" ""alex@runa.com""}",135.0,17
+Clojure,korma,2012-12-31,9,1,"#{""alexander.baranosky@gmail.com""}",144.0,17
+Clojure,korma,2013-01-01,7,1,"#{""alexander.baranosky@gmail.com""}",151.0,17
+Clojure,korma,2013-01-04,14,2,"#{""alexander.baranosky@gmail.com"" ""t_yano@me.com""}",165.0,18
+Clojure,korma,2013-01-05,3,1,"#{""alexander.baranosky@gmail.com""}",168.0,18
+Clojure,korma,2013-01-06,11,2,"#{""alexander.baranosky@gmail.com"" ""t_yano@me.com""}",179.0,18
+Clojure,korma,2013-01-07,5,1,"#{""alexander.baranosky@gmail.com""}",184.0,18
+Clojure,korma,2013-01-08,4,1,"#{""alexander.baranosky@gmail.com""}",188.0,18
+Clojure,korma,2013-01-09,4,1,"#{""alexander.baranosky@gmail.com""}",192.0,18
+Clojure,korma,2013-01-10,3,1,"#{""alexander.baranosky@gmail.com""}",195.0,18
+Clojure,korma,2013-01-12,1,1,"#{""alexander.baranosky@gmail.com""}",196.0,18
+Clojure,korma,2013-01-13,3,1,"#{""alexander.baranosky@gmail.com""}",199.0,18
+Clojure,korma,2013-01-14,1,1,"#{""alexander.baranosky@gmail.com""}",200.0,18
+Clojure,korma,2013-01-15,1,1,"#{""alexander.baranosky@gmail.com""}",201.0,18
+Clojure,korma,2013-01-16,7,1,"#{""alexander.baranosky@gmail.com""}",208.0,18
+Clojure,korma,2013-01-18,3,1,"#{""alexander.baranosky@gmail.com""}",211.0,18
+Clojure,korma,2013-01-19,2,1,"#{""alexander.baranosky@gmail.com""}",213.0,18
+Clojure,korma,2013-02-06,2,1,"#{""david.ringman@gmail.com""}",215.0,19
+Clojure,korma,2013-02-08,5,2,"#{""alexander.baranosky@gmail.com"" ""david.ringman@gmail.com""}",220.0,19
+Clojure,korma,2013-02-09,2,2,"#{""alexander.baranosky@gmail.com"" ""david.ringman@gmail.com""}",222.0,19
+Clojure,korma,2013-02-10,6,2,"#{""alexander.baranosky@gmail.com"" ""david.ringman@gmail.com""}",228.0,19
+Clojure,korma,2013-02-11,2,2,"#{""alexander.baranosky@gmail.com"" ""david.ringman@gmail.com""}",230.0,19
+Clojure,korma,2013-02-14,4,2,"#{""alexander.baranosky@gmail.com"" ""vadim@yummly.com""}",234.0,20
+Clojure,korma,2013-02-22,1,1,"#{""alexander.baranosky@gmail.com""}",235.0,20
+Clojure,korma,2013-03-07,1,1,"#{""s@bushi.do""}",236.0,21
+Clojure,korma,2013-03-12,7,2,"#{""alexander.baranosky@gmail.com"" ""joe@josephwilk.net""}",243.0,22
+Clojure,korma,2013-03-21,4,1,"#{""alexander.baranosky@gmail.com""}",247.0,22
+Clojure,korma,2013-04-07,2,2,"#{""alexander.baranosky@gmail.com"" ""mynomoto@gmail.com""}",249.0,23
+Clojure,korma,2013-04-08,4,1,"#{""vadim@yummly.com""}",253.0,23
+Clojure,korma,2013-04-09,2,2,"#{""vadim@yummly.com"" ""djwhitt@gmail.com""}",255.0,24
+Clojure,korma,2013-04-10,3,2,"#{""alexander.baranosky@gmail.com"" ""mynomoto@gmail.com""}",258.0,24
+Clojure,korma,2013-04-11,1,1,"#{""vadim@yummly.com""}",259.0,24
+Clojure,korma,2013-04-14,1,1,"#{""vadim@yummly.com""}",260.0,24
+Clojure,korma,2013-04-15,2,2,"#{""alexander.baranosky@gmail.com"" ""vadim@yummly.com""}",262.0,24
+Clojure,korma,2013-07-22,1,1,"#{""ktsujister@gmail.com""}",263.0,25
+Clojure,korma,2013-07-30,1,1,"#{""kkirch@wdtinc.com""}",264.0,26
+Clojure,korma,2013-08-08,1,1,"#{""alexander.baranosky@gmail.com""}",265.0,26
+Clojure,korma,2013-08-09,1,1,"#{""raita_kazunobu@cyberagent.co.jp""}",266.0,27
+Clojure,korma,2013-08-21,2,2,"#{""alexander.baranosky@gmail.com"" ""cosmi.cosmi@gmail.com""}",268.0,28
+Clojure,korma,2013-09-07,2,1,"#{""cma@bitemyapp.com""}",270.0,29
+Clojure,korma,2013-09-12,1,1,"#{""cma@bitemyapp.com""}",271.0,29
+Clojure,korma,2013-09-20,2,2,"#{""federkasten@me.com"" ""cma@bitemyapp.com""}",273.0,30
+Clojure,korma,2013-09-29,2,2,"#{""matthew.j.todd@gmail.com"" ""cma@bitemyapp.com""}",275.0,31
+Clojure,korma,2013-10-12,2,1,"#{""cma@bitemyapp.com""}",277.0,31
+Clojure,korma,2013-11-09,2,2,"#{""dan@danmidwood.com"" ""cma@bitemyapp.com""}",279.0,32
+Clojure,korma,2013-11-26,1,1,"#{""fcaton@texeltek.com""}",280.0,33
+Clojure,korma,2013-11-27,1,1,"#{""cma@bitemyapp.com""}",281.0,33
+Clojure,korma,2013-12-01,1,1,"#{""poketo7878@gmail.com""}",282.0,34
+Clojure,korma,2013-12-02,4,1,"#{""immo.heikkinen@gmail.com""}",286.0,35
+Clojure,korma,2013-12-03,3,2,"#{""dane.schneider@gmail.com"" ""cma@bitemyapp.com""}",289.0,36
+Clojure,korma,2013-12-18,5,1,"#{""MerelyAPseudonym@gmail.com""}",294.0,37
+Clojure,korma,2014-01-23,1,1,"#{""me@isaacsu.com""}",295.0,38
+Clojure,korma,2014-01-31,5,1,"#{""MerelyAPseudonym@gmail.com""}",300.0,38
+Clojure,korma,2014-02-06,3,1,"#{""MerelyAPseudonym@gmail.com""}",303.0,38
+Clojure,korma,2014-02-27,1,1,"#{""immo.heikkinen@ekahau.com""}",304.0,39
+Clojure,korma,2014-03-19,1,1,"#{""chris.benninger@sophos.com""}",305.0,40
+Clojure,korma,2014-03-20,1,1,"#{""cma@bitemyapp.com""}",306.0,40
+Clojure,korma,2014-03-24,2,1,"#{""immo.heikkinen@gmail.com""}",308.0,40
+Clojure,korma,2014-03-25,3,1,"#{""immo.heikkinen@gmail.com""}",311.0,40
+Clojure,korma,2014-03-26,3,1,"#{""immo.heikkinen@gmail.com""}",314.0,40
+Clojure,korma,2014-03-27,2,1,"#{""immo.heikkinen@gmail.com""}",316.0,40
+Clojure,korma,2014-03-28,2,1,"#{""immo.heikkinen@gmail.com""}",318.0,40
+Clojure,korma,2014-03-29,3,1,"#{""alexander.baranosky@gmail.com""}",321.0,40
+Clojure,korma,2014-03-31,1,1,"#{""draphael@iscanonline.com""}",322.0,41
+Clojure,korma,2014-04-01,3,1,"#{""immo.heikkinen@gmail.com""}",325.0,41
+Clojure,korma,2014-04-07,1,1,"#{""immo.heikkinen@gmail.com""}",326.0,41
+Clojure,korma,2014-04-10,1,1,"#{""immo.heikkinen@gmail.com""}",327.0,41
+Clojure,korma,2014-04-11,2,1,"#{""immo.heikkinen@gmail.com""}",329.0,41
+Clojure,korma,2014-04-15,4,1,"#{""immo.heikkinen@gmail.com""}",333.0,41
+Clojure,korma,2014-04-20,1,1,"#{""justin.jaffray@gmail.com""}",334.0,42
+Clojure,korma,2014-04-21,1,1,"#{""immo.heikkinen@gmail.com""}",335.0,42
+Clojure,korma,2014-05-30,1,1,"#{""draphael@iscanonline.com""}",336.0,42
+Clojure,korma,2014-06-02,2,2,"#{""intelrullz@gmail.com"" ""immo.heikkinen@gmail.com""}",338.0,43
+Clojure,korma,2014-06-03,1,1,"#{""immo.heikkinen@gmail.com""}",339.0,43
+Clojure,korma,2014-06-05,3,1,"#{""immo.heikkinen@gmail.com""}",342.0,43
+Clojure,korma,2014-06-06,1,1,"#{""immo.heikkinen@gmail.com""}",343.0,43
+Clojure,korma,2014-06-09,2,1,"#{""immo.heikkinen@gmail.com""}",345.0,43
+Clojure,korma,2014-06-11,4,2,"#{""immo.heikkinen@gmail.com"" ""yohan.pereira@gmail.com""}",349.0,44
+Clojure,korma,2014-06-13,4,1,"#{""immo.heikkinen@gmail.com""}",353.0,44
+Clojure,korma,2014-06-17,1,1,"#{""immo.heikkinen@gmail.com""}",354.0,44
+Clojure,korma,2014-06-25,1,1,"#{""immo.heikkinen@gmail.com""}",355.0,44
+Clojure,korma,2014-07-02,1,1,"#{""scott@scttnlsn.com""}",356.0,45
+Clojure,korma,2014-07-03,1,1,"#{""smorgan@groupon.com""}",357.0,46
+Clojure,korma,2014-07-29,1,1,"#{""immo.heikkinen@gmail.com""}",358.0,46
+Clojure,korma,2014-07-31,1,1,"#{""immo.heikkinen@gmail.com""}",359.0,46
+Clojure,korma,2014-08-01,4,2,"#{""intelrullz@gmail.com"" ""immo.heikkinen@gmail.com""}",363.0,46
+Clojure,korma,2014-08-02,1,1,"#{""starks67@gmail.com""}",364.0,47
+Clojure,korma,2014-08-08,1,1,"#{""immo.heikkinen@gmail.com""}",365.0,47
+Clojure,korma,2014-08-11,1,1,"#{""immo.heikkinen@gmail.com""}",366.0,47
+Clojure,korma,2014-08-13,1,1,"#{""immo.heikkinen@gmail.com""}",367.0,47
+Clojure,korma,2014-08-18,1,1,"#{""immo.heikkinen@gmail.com""}",368.0,47
+Clojure,korma,2014-08-25,2,1,"#{""immo.heikkinen@gmail.com""}",370.0,47
+Clojure,korma,2014-08-27,3,1,"#{""immo.heikkinen@gmail.com""}",373.0,47
+Clojure,korma,2014-09-18,1,1,"#{""ionut@artarisi.eu""}",374.0,48
+Clojure,korma,2014-09-22,1,1,"#{""immo.heikkinen@gmail.com""}",375.0,48
+Clojure,korma,2014-10-22,1,1,"#{""alex@kurilin.net""}",376.0,49
+Clojure,korma,2014-10-27,1,1,"#{""immo.heikkinen@gmail.com""}",377.0,49
+Clojure,korma,2014-12-11,2,1,"#{""immo.heikkinen@gmail.com""}",379.0,49
+Clojure,korma,2014-12-26,2,1,"#{""immo.heikkinen@gmail.com""}",381.0,49
+Clojure,korma,2015-01-31,4,2,"#{""wildgriffin45@gmail.com"" ""immo.heikkinen@gmail.com""}",385.0,50
+Clojure,korma,2015-02-26,1,1,"#{""juhovh@iki.fi""}",386.0,51
+Clojure,korma,2015-03-02,2,2,"#{""intelrullz@gmail.com"" ""immo.heikkinen@gmail.com""}",388.0,51
+Clojure,korma,2015-03-04,1,1,"#{""immo.heikkinen@gmail.com""}",389.0,51
+Clojure,korma,2015-03-17,1,1,"#{""immo.heikkinen@gmail.com""}",390.0,51
+Clojure,korma,2015-04-21,1,1,"#{""federkasten@me.com""}",391.0,51
+Clojure,korma,2015-04-30,1,1,"#{""immo.heikkinen@gmail.com""}",392.0,51
+Clojure,korma,2015-05-11,5,2,"#{""antti.virtanen@iki.fi"" ""immo.heikkinen@gmail.com""}",397.0,52
+Clojure,korma,2015-05-14,2,1,"#{""immo.heikkinen@gmail.com""}",399.0,52
+Clojure,korma,2015-05-15,5,1,"#{""immo.heikkinen@gmail.com""}",404.0,52
+Clojure,korma,2015-05-18,2,1,"#{""intelrullz@gmail.com""}",406.0,52
+Clojure,korma,2015-05-19,2,1,"#{""immo.heikkinen@gmail.com""}",408.0,52
+Clojure,korma,2015-05-20,1,1,"#{""danielsoro@gmail.com""}",409.0,53
+Clojure,korma,2015-05-21,1,1,"#{""immo.heikkinen@gmail.com""}",410.0,53
+Clojure,korma,2015-05-31,4,2,"#{""immo.heikkinen@gmail.com"" ""k13gomez@gmail.com""}",414.0,54
+Clojure,korma,2015-06-02,1,1,"#{""k13gomez@gmail.com""}",415.0,54
+Clojure,korma,2015-06-05,6,1,"#{""immo.heikkinen@gmail.com""}",421.0,54
+Clojure,korma,2015-06-08,2,2,"#{""intelrullz@gmail.com"" ""immo.heikkinen@gmail.com""}",423.0,54
+Clojure,korma,2015-06-11,1,1,"#{""immo.heikkinen@gmail.com""}",424.0,54
+Clojure,korma,2015-06-12,1,1,"#{""k13gomez@gmail.com""}",425.0,54
+Clojure,korma,2015-06-16,1,1,"#{""k13gomez@gmail.com""}",426.0,54
+Clojure,korma,2015-06-17,1,1,"#{""immo.heikkinen@gmail.com""}",427.0,54
+Clojure,korma,2015-06-24,2,1,"#{""k13gomez@gmail.com""}",429.0,54
+Clojure,korma,2015-06-25,3,2,"#{""immo.heikkinen@gmail.com"" ""k13gomez@gmail.com""}",432.0,54
+Clojure,korma,2015-06-26,1,1,"#{""immo.heikkinen@gmail.com""}",433.0,54
+Clojure,korma,2015-06-30,2,1,"#{""immo.heikkinen@gmail.com""}",435.0,54
+Clojure,korma,2015-07-10,3,2,"#{""zjhsdtc@gmail.com"" ""immo.heikkinen@gmail.com""}",438.0,55
+Clojure,korma,2015-07-15,1,1,"#{""pupeno@pupeno.com""}",439.0,56
+Clojure,korma,2015-07-16,2,1,"#{""immo.heikkinen@gmail.com""}",441.0,56
+Clojure,korma,2015-07-19,2,1,"#{""immo.heikkinen@gmail.com""}",443.0,56
+Clojure,korma,2015-07-20,4,1,"#{""immo.heikkinen@gmail.com""}",447.0,56
+Clojure,korma,2015-07-21,1,1,"#{""immo.heikkinen@gmail.com""}",448.0,56
+Clojure,korma,2015-11-16,1,1,"#{""ndtm.idea@gmail.com""}",449.0,57
+Clojure,korma,2015-11-20,1,1,"#{""immo.heikkinen@gmail.com""}",450.0,57
+Clojure,korma,2015-11-24,2,1,"#{""cmshea@gmail.com""}",452.0,58
+Clojure,korma,2015-11-26,1,1,"#{""immo.heikkinen@gmail.com""}",453.0,58
+Clojure,korma,2016-01-07,2,1,"#{""arttu.kaipiainen@solita.fi""}",455.0,59
+Clojure,korma,2016-01-15,1,1,"#{""immo.heikkinen@gmail.com""}",456.0,59
+Clojure,korma,2016-01-20,2,1,"#{""immo.heikkinen@gmail.com""}",458.0,59
+Clojure,korma,2016-01-28,1,1,"#{""immo.heikkinen@gmail.com""}",459.0,59
+Clojure,korma,2016-02-02,2,1,"#{""jackson@donorschoose.org""}",461.0,60
+Clojure,korma,2016-02-03,1,1,"#{""immo.heikkinen@gmail.com""}",462.0,60
+Clojure,korma,2016-02-09,3,2,"#{""immo.heikkinen@gmail.com"" ""zjhmale@gmail.com""}",465.0,61
+Clojure,korma,2016-04-11,2,1,"#{""divyansh@helpshift.com""}",467.0,62
+Clojure,korma,2016-04-13,1,1,"#{""immo.heikkinen@gmail.com""}",468.0,62
+Clojure,korma,2016-04-26,2,1,"#{""ndtm.idea@gmail.com""}",470.0,62
+Clojure,korma,2016-04-29,1,1,"#{""immo.heikkinen@gmail.com""}",471.0,62
+Clojure,korma,2016-05-13,2,1,"#{""venantius@gmail.com""}",473.0,63
+Clojure,korma,2016-06-04,2,1,"#{""david.jarvis@airbnb.com""}",475.0,64
+Clojure,korma,2016-07-31,2,1,"#{""immo.heikkinen@gmail.com""}",477.0,64
+Clojure,korma,2016-08-02,3,1,"#{""immo.heikkinen@gmail.com""}",480.0,64
+Clojure,korma,2016-09-13,1,1,"#{""marcepaino@gmail.com""}",481.0,65
+Clojure,korma,2016-09-14,1,1,"#{""immo.heikkinen@gmail.com""}",482.0,65
+Clojure,korma,2016-09-27,1,1,"#{""immo.heikkinen@gmail.com""}",483.0,65
+Clojure,korma,2017-02-11,1,1,"#{""r.pazyaquian@gmail.com""}",484.0,66
+Clojure,korma,2017-02-12,1,1,"#{""immo.heikkinen@gmail.com""}",485.0,66
+Clojure,korma,2017-05-12,1,1,"#{""abaranos@cisco.com""}",486.0,67
+Clojure,korma,2017-05-26,1,1,"#{""AlexBaranosky@users.noreply.github.com""}",487.0,68
+Clojure,korma,2018-02-28,2,1,"#{""immo.heikkinen@gmail.com""}",489.0,68
+Clojure,korma,2018-03-08,2,2,"#{""venantius@gmail.com"" ""david@griffin.sh""}",491.0,69

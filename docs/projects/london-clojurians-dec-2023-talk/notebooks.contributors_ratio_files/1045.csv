@@ -1,0 +1,241 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/hoplon/javelin,2013-02-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[asdf@ubergibson.com, alan@dipert.org]",2.0,"[{0 1, 2 1}]",0,1,0,1,0,0
+Clojure,https://github.com/hoplon/javelin,2013-02-16,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, alan@dipert.org]",5.0,"[{0 3, 2 2}]",0,3,0,2,0,0
+Clojure,https://github.com/hoplon/javelin,2013-02-17,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, alan@dipert.org]",9.0,"[{0 6, 2 3}]",0,6,0,3,0,0
+Clojure,https://github.com/hoplon/javelin,2013-02-18,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, alan@dipert.org, alan@dipert.org, alan@dipert.org]",14.0,"[{0 8, 2 6}]",0,8,0,6,0,0
+Clojure,https://github.com/hoplon/javelin,2013-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@dipert.org, alan@dipert.org]",16.0,"[{0 8, 2 8}]",0,8,0,8,0,0
+Clojure,https://github.com/hoplon/javelin,2013-02-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",17.0,"[{0 8, 2 9}]",0,8,0,9,0,0
+Clojure,https://github.com/hoplon/javelin,2013-03-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alan@dipert.org, alan@dipert.org, alan@dipert.org]",20.0,"[{0 8, 2 12}]",0,8,0,12,0,0
+Clojure,https://github.com/hoplon/javelin,2013-03-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com]",22.0,"[{0 10, 2 12}]",0,10,0,12,0,0
+Clojure,https://github.com/hoplon/javelin,2013-03-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",23.0,"[{0 10, 2 13}]",0,10,0,13,0,0
+Clojure,https://github.com/hoplon/javelin,2013-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",24.0,"[{0 10, 2 14}]",0,10,0,14,0,0
+Clojure,https://github.com/hoplon/javelin,2013-03-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",25.0,"[{0 10, 2 15}]",0,10,0,15,0,0
+Clojure,https://github.com/hoplon/javelin,2013-05-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asdf@ubergibson.com]",26.0,"[{0 11, 2 15}]",0,11,0,15,0,0
+Clojure,https://github.com/hoplon/javelin,2013-05-21,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[alan@dipert.org, alan@dipert.org, alan@dipert.org, alan@dipert.org, alan@dipert.org]",31.0,"[{0 11, 2 20}]",0,11,0,20,0,0
+Clojure,https://github.com/hoplon/javelin,2013-05-22,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[alan@dipert.org, alan@dipert.org, alan@dipert.org, alan@dipert.org, alan@dipert.org, asdf@ubergibson.com, asdf@ubergibson.com, alan@dipert.org, alan@dipert.org, alan@dipert.org]",41.0,"[{0 13, 2 28}]",0,13,0,28,0,0
+Clojure,https://github.com/hoplon/javelin,2013-06-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",42.0,"[{0 13, 2 29}]",0,13,0,29,0,0
+Clojure,https://github.com/hoplon/javelin,2013-07-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",43.0,"[{0 13, 2 30}]",0,13,0,30,0,0
+Clojure,https://github.com/hoplon/javelin,2013-08-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@dipert.org, alan@dipert.org]",45.0,"[{0 13, 2 32}]",0,13,0,32,0,0
+Clojure,https://github.com/hoplon/javelin,2013-08-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",46.0,"[{0 13, 2 33}]",0,13,0,33,0,0
+Clojure,https://github.com/hoplon/javelin,2013-08-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@dipert.org, alan@dipert.org]",48.0,"[{0 13, 2 35}]",0,13,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asdf@ubergibson.com]",49.0,"[{0 14, 2 35}]",0,14,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asdf@ubergibson.com]",50.0,"[{0 15, 2 35}]",0,15,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com]",54.0,"[{0 19, 2 35}]",0,19,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-08,35,1,"#tech.v3.dataset.column<string>[35]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com...]",89.0,"[{0 54, 2 35}]",0,54,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-09,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com]",102.0,"[{0 67, 2 35}]",0,67,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-13,43,1,"#tech.v3.dataset.column<string>[43]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com...]",145.0,"[{0 110, 2 35}]",0,110,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com]",147.0,"[{0 112, 2 35}]",0,112,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com]",152.0,"[{0 117, 2 35}]",0,117,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-17,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com]",159.0,"[{0 124, 2 35}]",0,124,0,35,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",160.0,"[{0 124, 2 36}]",0,124,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com]",164.0,"[{0 128, 2 36}]",0,128,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-20,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com]",171.0,"[{0 135, 2 36}]",0,135,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-21,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[asdf@ubergibson.com, anchambers@paypal.com, asdf@ubergibson.com]",174.0,"[{0 137, 2 36, ""other"" 1}]",1,137,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asdf@ubergibson.com]",175.0,"[{0 138, 2 36, ""other"" 1}]",1,138,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2013-10-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com]",177.0,"[{0 140, 2 36, ""other"" 1}]",1,140,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2013-11-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com]",179.0,"[{0 142, 2 36, ""other"" 1}]",1,142,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2013-12-31,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com, asdf@ubergibson.com]",185.0,"[{0 148, 2 36, ""other"" 1}]",1,148,0,36,0,0
+Clojure,https://github.com/hoplon/javelin,2014-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",186.0,"[{0 148, 2 36, ""other"" 1, 1 1}]",1,148,1,36,0,0
+Clojure,https://github.com/hoplon/javelin,2014-01-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com]",188.0,"[{0 148, 2 36, ""other"" 1, 1 3}]",1,148,3,36,0,0
+Clojure,https://github.com/hoplon/javelin,2014-01-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",189.0,"[{0 148, 2 36, ""other"" 1, 1 4}]",1,148,4,36,0,0
+Clojure,https://github.com/hoplon/javelin,2014-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@dipert.org, alan@dipert.org]",191.0,"[{0 148, 2 38, ""other"" 1, 1 4}]",1,148,4,38,0,0
+Clojure,https://github.com/hoplon/javelin,2014-05-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com]",193.0,"[{0 148, 2 38, ""other"" 1, 1 6}]",1,148,6,38,0,0
+Clojure,https://github.com/hoplon/javelin,2014-05-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",194.0,"[{0 148, 2 38, ""other"" 1, 1 7}]",1,148,7,38,0,0
+Clojure,https://github.com/hoplon/javelin,2014-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",195.0,"[{0 148, 2 38, ""other"" 1, 1 8}]",1,148,8,38,0,0
+Clojure,https://github.com/hoplon/javelin,2014-07-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@dipert.org, alan@dipert.org]",197.0,"[{0 148, 2 40, ""other"" 1, 1 8}]",1,148,8,40,0,0
+Clojure,https://github.com/hoplon/javelin,2014-08-05,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com]",204.0,"[{0 148, 2 40, ""other"" 1, 1 15}]",1,148,15,40,0,0
+Clojure,https://github.com/hoplon/javelin,2014-08-06,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com]",221.0,"[{0 148, 2 40, ""other"" 1, 1 32}]",1,148,32,40,0,0
+Clojure,https://github.com/hoplon/javelin,2014-08-07,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com]",229.0,"[{0 148, 2 40, ""other"" 1, 1 40}]",1,148,40,40,0,0
+Clojure,https://github.com/hoplon/javelin,2014-08-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mynomoto@gmail.com, micha.niskin@gmail.com]",231.0,"[{0 148, 2 40, ""other"" 1, 1 41, 3 1}]",1,148,41,40,1,0
+Clojure,https://github.com/hoplon/javelin,2014-08-17,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com]",238.0,"[{0 148, 2 40, ""other"" 1, 1 48, 3 1}]",1,148,48,40,1,0
+Clojure,https://github.com/hoplon/javelin,2014-08-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com]",241.0,"[{0 148, 2 40, ""other"" 1, 1 51, 3 1}]",1,148,51,40,1,0
+Clojure,https://github.com/hoplon/javelin,2014-10-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com]",243.0,"[{0 148, 2 40, ""other"" 1, 1 53, 3 1}]",1,148,53,40,1,0
+Clojure,https://github.com/hoplon/javelin,2014-11-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alan@dipert.org, alan@dipert.org, alan@dipert.org]",246.0,"[{0 148, 2 43, ""other"" 1, 1 53, 3 1}]",1,148,53,43,1,0
+Clojure,https://github.com/hoplon/javelin,2015-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[davesann.p@gmail.com]",247.0,"[{0 148, 2 43, ""other"" 2, 1 53, 3 1}]",2,148,53,43,1,0
+Clojure,https://github.com/hoplon/javelin,2015-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",248.0,"[{0 148, 2 44, ""other"" 2, 1 53, 3 1}]",2,148,53,44,1,0
+Clojure,https://github.com/hoplon/javelin,2015-03-16,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com]",256.0,"[{0 148, 2 44, ""other"" 2, 1 61, 3 1}]",2,148,61,44,1,0
+Clojure,https://github.com/hoplon/javelin,2015-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",257.0,"[{0 148, 2 45, ""other"" 2, 1 61, 3 1}]",2,148,61,45,1,0
+Clojure,https://github.com/hoplon/javelin,2015-04-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mynomoto@gmail.com]",258.0,"[{0 148, 2 45, ""other"" 2, 1 61, 3 2}]",2,148,61,45,2,0
+Clojure,https://github.com/hoplon/javelin,2015-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",259.0,"[{0 148, 2 46, ""other"" 2, 1 61, 3 2}]",2,148,61,46,2,0
+Clojure,https://github.com/hoplon/javelin,2015-05-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",260.0,"[{0 148, 2 47, ""other"" 2, 1 61, 3 2}]",2,148,61,47,2,0
+Clojure,https://github.com/hoplon/javelin,2015-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexander@solovyov.net]",261.0,"[{0 148, 2 47, ""other"" 3, 1 61, 3 2}]",3,148,61,47,2,0
+Clojure,https://github.com/hoplon/javelin,2015-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",262.0,"[{0 148, 2 47, ""other"" 3, 1 62, 3 2}]",3,148,62,47,2,0
+Clojure,https://github.com/hoplon/javelin,2015-08-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",263.0,"[{0 148, 2 47, ""other"" 3, 1 63, 3 2}]",3,148,63,47,2,0
+Clojure,https://github.com/hoplon/javelin,2015-08-30,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, alan@dipert.org, alan@dipert.org]",267.0,"[{0 148, 2 49, ""other"" 3, 1 65, 3 2}]",3,148,65,49,2,0
+Clojure,https://github.com/hoplon/javelin,2015-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",268.0,"[{0 148, 2 49, ""other"" 3, 1 66, 3 2}]",3,148,66,49,2,0
+Clojure,https://github.com/hoplon/javelin,2015-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",269.0,"[{0 148, 2 49, ""other"" 3, 1 67, 3 2}]",3,148,67,49,2,0
+Clojure,https://github.com/hoplon/javelin,2015-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",270.0,"[{0 148, 2 50, ""other"" 3, 1 67, 3 2}]",3,148,67,50,2,0
+Clojure,https://github.com/hoplon/javelin,2016-01-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[laforge49@gmail.com, laforge49@gmail.com]",272.0,"[{0 148, 2 50, ""other"" 5, 1 67, 3 2}]",5,148,67,50,2,0
+Clojure,https://github.com/hoplon/javelin,2016-06-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alan@dipert.org, mretchin@gmail.com]",274.0,"[{0 148, 2 51, ""other"" 6, 1 67, 3 2}]",6,148,67,51,2,0
+Clojure,https://github.com/hoplon/javelin,2016-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sbondaryev@gmail.com]",275.0,"[{0 148, 2 51, ""other"" 7, 1 67, 3 2}]",7,148,67,51,2,0
+Clojure,https://github.com/hoplon/javelin,2016-12-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com]",277.0,"[{0 148, 2 51, ""other"" 7, 1 69, 3 2}]",7,148,69,51,2,0
+Clojure,https://github.com/hoplon/javelin,2016-12-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micha.niskin@gmail.com]",278.0,"[{0 148, 2 51, ""other"" 7, 1 70, 3 2}]",7,148,70,51,2,0
+Clojure,https://github.com/hoplon/javelin,2016-12-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com, micha.niskin@gmail.com]",282.0,"[{0 148, 2 51, ""other"" 7, 1 74, 3 2}]",7,148,74,51,2,0
+Clojure,https://github.com/hoplon/javelin,2017-07-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vladanghene@users.noreply.github.com]",283.0,"[{0 148, 2 51, ""other"" 8, 1 74, 3 2}]",8,148,74,51,2,0
+Clojure,https://github.com/hoplon/javelin,2017-12-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[thedavidmeister@gmail.com, thedavidmeister@gmail.com]",285.0,"[{0 148, 2 51, ""other"" 10, 1 74, 3 2}]",10,148,74,51,2,0
+Clojure,https://github.com/hoplon/javelin,2018-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dave.yarwood@gmail.com]",286.0,"[{0 148, 2 51, ""other"" 11, 1 74, 3 2}]",11,148,74,51,2,0
+Clojure,https://github.com/hoplon/javelin,2020-03-21,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[matt@degree9.io, matt@degree9.io, matt@degree9.io, matt@degree9.io, matt@degree9.io, matt@degree9.io]",292.0,"[{0 148, 2 51, ""other"" 11, 1 74, 3 2, 4 6}]",11,148,74,51,2,6
+Clojure,https://github.com/hoplon/javelin,2023-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@dipert.org]",293.0,"[{0 148, 2 52, ""other"" 11, 1 74, 3 2, 4 6}]",11,148,74,52,2,6
+Clojure,https://github.com/hoplon/javelin,2023-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",294.0,"[{0 148, 2 52, ""other"" 12, 1 74, 3 2, 4 6}]",12,148,74,52,2,6
+Clojure,https://github.com/hoplon/javelin,2023-10-30,12,3,"#tech.v3.dataset.column<string>[12]
+:email
+[alan@dipert.org, mynomoto@gmail.com, mynomoto@gmail.com, michielborkent@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com]",306.0,"[{0 148, 2 53, ""other"" 13, 1 74, 3 12, 4 6}]",13,148,74,53,12,6
+Clojure,https://github.com/hoplon/javelin,2023-10-31,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com, mynomoto@gmail.com]",313.0,"[{0 148, 2 53, ""other"" 13, 1 74, 3 19, 4 6}]",13,148,74,53,19,6

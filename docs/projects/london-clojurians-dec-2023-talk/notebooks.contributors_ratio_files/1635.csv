@@ -1,0 +1,133 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-09-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@twitter.com, nathan@twitter.com, nathan@twitter.com]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-09-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@twitter.com, nathan@twitter.com, nathan@twitter.com]",6.0,[{0 6}],0,6,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-09-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nathan@twitter.com, nathan@twitter.com, nathan@twitter.com, nathan@twitter.com, nathan@twitter.com]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-09-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan@twitter.com, nathan@twitter.com, nathan@twitter.com]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@twitter.com]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-09-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@twitter.com, nathan@twitter.com]",17.0,[{0 17}],0,17,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jason@cvk.ca]",18.0,"[{0 17, ""other"" 1}]",1,17,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-10-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@twitter.com, nathan@twitter.com]",20.0,"[{0 19, ""other"" 1}]",1,19,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-10-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@twitter.com]",21.0,"[{0 20, ""other"" 1}]",1,20,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2011-11-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan@twitter.com, nathan@twitter.com]",23.0,"[{0 22, ""other"" 1}]",1,22,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@twitter.com]",24.0,"[{0 23, ""other"" 1}]",1,23,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@twitter.com]",25.0,"[{0 24, ""other"" 1}]",1,24,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-02-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jason@cvk.ca, jason@cvk.ca]",27.0,"[{0 24, ""other"" 3}]",3,24,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[clive.cox@rummblelabs.com]",28.0,"[{0 24, ""other"" 4}]",4,24,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-05-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nathan.marz@gmail.com, martinharrigan@gmail.com]",30.0,"[{0 24, ""other"" 6}]",6,24,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nathan@twitter.com]",31.0,"[{0 25, ""other"" 6}]",6,25,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-07-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[clive.cox@rummblelabs.com]",32.0,"[{0 25, ""other"" 7}]",7,25,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-08-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[nathan.marz@gmail.com, joel@joellongtine.com, joel@joellongtine.com]",35.0,"[{0 25, ""other"" 10}]",10,25,0,0,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jasonjckn@gmail.com]",36.0,"[{0 25, ""other"" 10, 2 1}]",10,25,0,1,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-09-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[barkbarkuk@gmail.com, barkbarkuk@gmail.com]",38.0,"[{0 25, ""other"" 12, 2 1}]",12,25,0,1,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2012-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[travis@copious.com]",39.0,"[{0 25, ""other"" 13, 2 1}]",13,25,0,1,0,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-01-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[kaspergsm@gmail.com, kaspergsm@gmail.com, kaspergsm@gmail.com]",42.0,"[{0 25, ""other"" 13, 2 1, 3 3}]",13,25,0,1,3,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kaspergsm@gmail.com]",43.0,"[{0 25, ""other"" 13, 2 1, 3 4}]",13,25,0,1,4,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-01-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kaspergsm@gmail.com, kaspergsm@gmail.com]",45.0,"[{0 25, ""other"" 13, 2 1, 3 6}]",13,25,0,1,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-01-30,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[jasonjckn@gmail.com, petermelias@gmail.com, petermelias@gmail.com]",48.0,"[{0 25, ""other"" 15, 2 2, 3 6}]",15,25,0,2,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[petermelias@gmail.com]",49.0,"[{0 25, ""other"" 16, 2 2, 3 6}]",16,25,0,2,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[petermelias@gmail.com]",50.0,"[{0 25, ""other"" 17, 2 2, 3 6}]",17,25,0,2,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jasonjckn@gmail.com]",51.0,"[{0 25, ""other"" 17, 2 3, 3 6}]",17,25,0,3,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-02-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[guarly@gmail.com, guarly@gmail.com]",53.0,"[{0 25, ""other"" 19, 2 3, 3 6}]",19,25,0,3,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jasonjckn@gmail.com]",54.0,"[{0 25, ""other"" 19, 2 4, 3 6}]",19,25,0,4,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jasonjckn@gmail.com]",55.0,"[{0 25, ""other"" 19, 2 5, 3 6}]",19,25,0,5,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[travis@copious.com]",56.0,"[{0 25, ""other"" 20, 2 5, 3 6}]",20,25,0,5,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jasonjckn@gmail.com]",57.0,"[{0 25, ""other"" 20, 2 6, 3 6}]",20,25,0,6,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-04-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jasonjckn@gmail.com, gworley@korrelate.com]",59.0,"[{0 25, ""other"" 21, 2 7, 3 6}]",21,25,0,7,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-07-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tbatchelli@acm.org, tbatchelli@acm.org]",61.0,"[{0 25, ""other"" 21, 2 7, 3 6, 1 2}]",21,25,2,7,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-07-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@bluemontlabs.com]",62.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 2}]",22,25,2,7,6,0
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lorcan@gmail.com]",63.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 2, 4 1}]",22,25,2,7,6,1
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-10-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tbatchelli@acm.org, tbatchelli@acm.org]",65.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 4, 4 1}]",22,25,4,7,6,1
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tbatchelli@acm.org]",66.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 5, 4 1}]",22,25,5,7,6,1
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lorcan@gmail.com]",67.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 5, 4 2}]",22,25,5,7,6,2
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-11-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lorcan@gmail.com, lorcan@gmail.com]",69.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 5, 4 4}]",22,25,5,7,6,4
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-11-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tbatchelli@acm.org]",70.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 6, 4 4}]",22,25,6,7,6,4
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-12-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lorcan@gmail.com]",71.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 6, 4 5}]",22,25,6,7,6,5
+Clojure,https://github.com/nathanmarz/storm-deploy,2013-12-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tbatchelli@acm.org]",72.0,"[{0 25, ""other"" 22, 2 7, 3 6, 1 7, 4 5}]",22,25,7,7,6,5

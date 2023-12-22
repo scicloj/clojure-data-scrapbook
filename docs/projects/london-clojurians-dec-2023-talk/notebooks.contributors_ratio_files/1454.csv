@@ -1,0 +1,139 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/xsc/pandect,2013-05-16,24,1,"#tech.v3.dataset.column<string>[24]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com...]",24.0,[{1 24}],0,0,24,0,0,0
+Clojure,https://github.com/xsc/pandect,2013-05-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com]",28.0,[{1 28}],0,0,28,0,0,0
+Clojure,https://github.com/xsc/pandect,2013-05-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com]",30.0,[{1 30}],0,0,30,0,0,0
+Clojure,https://github.com/xsc/pandect,2013-05-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com]",33.0,[{1 33}],0,0,33,0,0,0
+Clojure,https://github.com/xsc/pandect,2013-05-21,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com]",39.0,[{1 39}],0,0,39,0,0,0
+Clojure,https://github.com/xsc/pandect,2013-05-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com]",41.0,[{1 41}],0,0,41,0,0,0
+Clojure,https://github.com/xsc/pandect,2013-05-24,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com]",46.0,[{1 46}],0,0,46,0,0,0
+Clojure,https://github.com/xsc/pandect,2013-07-10,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com, yannick.scherer@gmail.com]",54.0,[{1 54}],0,0,54,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-03-22,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",71.0,"[{1 54, 0 17}]",0,17,54,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roimisia@gmail.com]",72.0,"[{1 54, 0 17, ""other"" 1}]",1,17,54,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-05-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@gmail.com]",74.0,"[{1 55, 0 18, ""other"" 1}]",1,18,55,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-06-07,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",80.0,"[{1 55, 0 24, ""other"" 1}]",1,24,55,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-06-09,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",87.0,"[{1 55, 0 31, ""other"" 1}]",1,31,55,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-06-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",90.0,"[{1 55, 0 34, ""other"" 1}]",1,34,55,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-06-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",93.0,"[{1 55, 0 37, ""other"" 1}]",1,37,55,0,0,0
+Clojure,https://github.com/xsc/pandect,2014-09-19,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, jan.stepien@stylefruits.de, jan.stepien@stylefruits.de]",102.0,"[{1 55, 0 44, ""other"" 1, 3 2}]",1,44,55,0,2,0
+Clojure,https://github.com/xsc/pandect,2014-10-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",105.0,"[{1 55, 0 47, ""other"" 1, 3 2}]",1,47,55,0,2,0
+Clojure,https://github.com/xsc/pandect,2014-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",107.0,"[{1 55, 0 49, ""other"" 1, 3 2}]",1,49,55,0,2,0
+Clojure,https://github.com/xsc/pandect,2014-10-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",110.0,"[{1 55, 0 52, ""other"" 1, 3 2}]",1,52,55,0,2,0
+Clojure,https://github.com/xsc/pandect,2014-10-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",113.0,"[{1 55, 0 55, ""other"" 1, 3 2}]",1,55,55,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-01-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@gmail.com]",114.0,"[{1 56, 0 55, ""other"" 1, 3 2}]",1,55,56,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-01-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",119.0,"[{1 56, 0 60, ""other"" 1, 3 2}]",1,60,56,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-01-31,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@gmail.com, tcrayford@googlemail.com]",125.0,"[{1 57, 0 64, ""other"" 2, 3 2}]",2,64,57,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-02-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",129.0,"[{1 57, 0 68, ""other"" 2, 3 2}]",2,68,57,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-02-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@gmail.com]",130.0,"[{1 58, 0 68, ""other"" 2, 3 2}]",2,68,58,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@stylefruits.de]",131.0,"[{1 58, 0 69, ""other"" 2, 3 2}]",2,69,58,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-04-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",133.0,"[{1 58, 0 71, ""other"" 2, 3 2}]",2,71,58,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@stylefruits.de]",134.0,"[{1 58, 0 72, ""other"" 2, 3 2}]",2,72,58,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@stylefruits.de]",135.0,"[{1 58, 0 73, ""other"" 2, 3 2}]",2,73,58,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@stylefruits.de]",136.0,"[{1 58, 0 74, ""other"" 2, 3 2}]",2,74,58,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@stylefruits.de]",137.0,"[{1 58, 0 75, ""other"" 2, 3 2}]",2,75,58,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-08-06,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@gmail.com, alexanderkiel@gmx.net]",144.0,"[{1 59, 0 80, ""other"" 3, 3 2}]",3,80,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-09-18,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",150.0,"[{1 59, 0 86, ""other"" 3, 3 2}]",3,86,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-09-19,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",159.0,"[{1 59, 0 95, ""other"" 3, 3 2}]",3,95,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2015-09-23,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",165.0,"[{1 59, 0 101, ""other"" 3, 3 2}]",3,101,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2016-05-16,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",178.0,"[{1 59, 0 114, ""other"" 3, 3 2}]",3,114,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2016-05-17,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",186.0,"[{1 59, 0 122, ""other"" 3, 3 2}]",3,122,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2016-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@stylefruits.de]",187.0,"[{1 59, 0 123, ""other"" 3, 3 2}]",3,123,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2016-07-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",190.0,"[{1 59, 0 126, ""other"" 3, 3 2}]",3,126,59,0,2,0
+Clojure,https://github.com/xsc/pandect,2016-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maverickbozo@me.com]",191.0,"[{1 59, 0 126, ""other"" 3, 3 2, 4 1}]",3,126,59,0,2,1
+Clojure,https://github.com/xsc/pandect,2016-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yannick.scherer@gmail.com]",192.0,"[{1 60, 0 126, ""other"" 3, 3 2, 4 1}]",3,126,60,0,2,1
+Clojure,https://github.com/xsc/pandect,2016-10-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de, yannick.scherer@stylefruits.de]",195.0,"[{1 60, 0 129, ""other"" 3, 3 2, 4 1}]",3,129,60,0,2,1
+Clojure,https://github.com/xsc/pandect,2021-01-17,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[yannick.scherer@gmail.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com]",202.0,"[{1 61, 0 129, ""other"" 3, 3 2, 4 1, 2 6}]",3,129,61,6,2,1
+Clojure,https://github.com/xsc/pandect,2021-01-23,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@gmail.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com]",211.0,"[{1 62, 0 129, ""other"" 3, 3 2, 4 1, 2 14}]",3,129,62,14,2,1
+Clojure,https://github.com/xsc/pandect,2021-02-13,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[yannick.scherer@futurice.com, yannick.scherer@gmail.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com]",216.0,"[{1 63, 0 129, ""other"" 3, 3 2, 4 1, 2 18}]",3,129,63,18,2,1
+Clojure,https://github.com/xsc/pandect,2021-11-17,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com, yannick.scherer@gmail.com, yannick.scherer@futurice.com, yannick.scherer@futurice.com]",224.0,"[{1 64, 0 129, ""other"" 3, 3 2, 4 1, 2 25}]",3,129,64,25,2,1

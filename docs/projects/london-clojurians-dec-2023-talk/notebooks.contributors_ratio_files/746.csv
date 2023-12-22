@@ -1,0 +1,247 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/xeqi/kerodon,2012-02-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-02-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-02-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",6.0,[{0 6}],0,6,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",7.0,[{0 7}],0,7,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-03-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",10.0,[{0 10}],0,10,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-03-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-03-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",18.0,[{0 18}],0,18,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-03-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",20.0,[{0 20}],0,20,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-03-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",23.0,[{0 23}],0,23,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",24.0,[{0 24}],0,24,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-04-01,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",29.0,[{0 29}],0,29,0,0,0,0
+Clojure,https://github.com/xeqi/kerodon,2012-05-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[willroe@gmail.com, willroe@gmail.com]",31.0,"[{0 29, 3 2}]",0,29,0,0,2,0
+Clojure,https://github.com/xeqi/kerodon,2012-07-31,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[nmorris@nelsonmorris.net, willroe@gmail.com, willroe@gmail.com, willroe@gmail.com, willroe@gmail.com, willroe@gmail.com, willroe@gmail.com, willroe@gmail.com, willroe@gmail.com]",40.0,"[{0 30, 3 10}]",0,30,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2012-08-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",42.0,"[{0 32, 3 10}]",0,32,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2012-08-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",45.0,"[{0 35, 3 10}]",0,35,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2012-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",46.0,"[{0 36, 3 10}]",0,36,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2012-09-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",49.0,"[{0 39, 3 10}]",0,39,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2012-12-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[travis@copious.com]",50.0,"[{0 39, 3 10, ""other"" 1}]",1,39,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2012-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",51.0,"[{0 40, 3 10, ""other"" 1}]",1,40,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",52.0,"[{0 41, 3 10, ""other"" 1}]",1,41,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[travis@copious.com]",53.0,"[{0 41, 3 10, ""other"" 2}]",2,41,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-02-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",57.0,"[{0 45, 3 10, ""other"" 2}]",2,45,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nmorris@nelsonmorris.net]",58.0,"[{0 46, 3 10, ""other"" 2}]",2,46,0,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-05-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com]",60.0,"[{0 46, 3 10, ""other"" 2, 1 2}]",2,46,2,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",61.0,"[{0 46, 3 10, ""other"" 2, 1 3}]",2,46,3,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",62.0,"[{0 46, 3 10, ""other"" 2, 1 4}]",2,46,4,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",63.0,"[{0 46, 3 10, ""other"" 2, 1 5}]",2,46,5,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-05-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com]",65.0,"[{0 46, 3 10, ""other"" 2, 1 7}]",2,46,7,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-05-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",66.0,"[{0 46, 3 10, ""other"" 2, 1 8}]",2,46,8,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-05-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",70.0,"[{0 50, 3 10, ""other"" 2, 1 8}]",2,50,8,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-06-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",71.0,"[{0 50, 3 10, ""other"" 2, 1 9}]",2,50,9,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",72.0,"[{0 50, 3 10, ""other"" 2, 1 10}]",2,50,10,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",73.0,"[{0 50, 3 10, ""other"" 2, 1 11}]",2,50,11,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[silvia.schreier@innoq.com]",74.0,"[{0 50, 3 10, ""other"" 3, 1 11}]",3,50,11,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",75.0,"[{0 50, 3 10, ""other"" 3, 1 12}]",3,50,12,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-11-26,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, tobias.bayer@inovex.de]",77.0,"[{0 51, 3 10, ""other"" 4, 1 12}]",4,51,12,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-11-27,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[glenjamin@gmail.com, tobayer@googlemail.com, tobayer@googlemail.com]",80.0,"[{0 51, 3 10, ""other"" 6, 1 13}]",6,51,13,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Nathan.Clark@nasa.gov]",81.0,"[{0 51, 3 10, ""other"" 7, 1 13}]",7,51,13,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-12-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[Nathan.Clark@nasa.gov, Nathan.Clark@nasa.gov, Nathan.Clark@nasa.gov]",84.0,"[{0 51, 3 10, ""other"" 10, 1 13}]",10,51,13,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Nathan.Clark@tokenshift.com]",85.0,"[{0 51, 3 10, ""other"" 11, 1 13}]",11,51,13,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2013-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",86.0,"[{0 51, 3 10, ""other"" 11, 1 14}]",11,51,14,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-01-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",88.0,"[{0 53, 3 10, ""other"" 11, 1 14}]",11,53,14,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[frozenlock@gmail.com]",89.0,"[{0 53, 3 10, ""other"" 12, 1 14}]",12,53,14,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[frozenlock@gmail.com, frozenlock@gmail.com]",91.0,"[{0 53, 3 10, ""other"" 14, 1 14}]",14,53,14,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",92.0,"[{0 53, 3 10, ""other"" 14, 1 15}]",14,53,15,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",93.0,"[{0 53, 3 10, ""other"" 14, 1 16}]",14,53,16,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glen.mailer@bskyb.com]",94.0,"[{0 53, 3 10, ""other"" 15, 1 16}]",15,53,16,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-05-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[glenjamin@gmail.com, philip.potter@digital.cabinet-office.gov.uk]",96.0,"[{0 53, 3 10, ""other"" 16, 1 17}]",16,53,17,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-06-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com]",100.0,"[{0 53, 3 10, ""other"" 16, 1 21}]",16,53,21,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-06-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com]",102.0,"[{0 53, 3 10, ""other"" 16, 1 23}]",16,53,23,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[john.a.cowie@gmail.com]",103.0,"[{0 53, 3 10, ""other"" 17, 1 23}]",17,53,23,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[john.a.cowie@gmail.com]",104.0,"[{0 53, 3 10, ""other"" 18, 1 23}]",18,53,23,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-10-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[john.a.cowie@gmail.com, john.a.cowie@gmail.com, john.a.cowie@gmail.com]",107.0,"[{0 53, 3 10, ""other"" 21, 1 23}]",21,53,23,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com]",109.0,"[{0 53, 3 10, ""other"" 21, 1 25}]",21,53,25,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-11-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com]",111.0,"[{0 53, 3 10, ""other"" 21, 1 27}]",21,53,27,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-12-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com]",114.0,"[{0 53, 3 10, ""other"" 21, 1 30}]",21,53,30,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2014-12-14,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[jay@patel.org.in, glenjamin@gmail.com, sean@seanhussey.com, glenjamin@gmail.com, jay@patel.org.in]",119.0,"[{0 53, 3 10, ""other"" 24, 1 32}]",24,53,32,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2015-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",120.0,"[{0 53, 3 10, ""other"" 24, 1 33}]",24,53,33,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2015-04-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[glenjamin@gmail.com, thegeez@users.noreply.github.com, thegeez@users.noreply.github.com]",123.0,"[{0 53, 3 10, ""other"" 26, 1 34}]",26,53,34,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2015-05-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com]",126.0,"[{0 53, 3 10, ""other"" 26, 1 37}]",26,53,37,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2015-05-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com]",129.0,"[{0 53, 3 10, ""other"" 26, 1 40}]",26,53,40,0,10,0
+Clojure,https://github.com/xeqi/kerodon,2015-08-14,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[cgore@cgore.com, cgore@cgore.com, glenjamin@gmail.com, cgore@cgore.com, cgore@cgore.com, cgore@cgore.com, cgore@cgore.com, cgore@cgore.com]",137.0,"[{0 53, 3 10, ""other"" 26, 1 41, 4 7}]",26,53,41,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2015-08-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com, glenjamin@gmail.com]",142.0,"[{0 53, 3 10, ""other"" 26, 1 46, 4 7}]",26,53,46,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2016-04-01,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[glenjamin@gmail.com, chris.gore@climate.com, chris.gore@climate.com]",145.0,"[{0 53, 3 10, ""other"" 28, 1 47, 4 7}]",28,53,47,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2016-04-11,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[glenjamin@gmail.com, ayato.skycrawlers@gmail.com, ayato.skycrawlers@gmail.com]",148.0,"[{0 53, 3 10, ""other"" 30, 1 48, 4 7}]",30,53,48,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2016-06-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jbswetnam@gmail.com, jbswetnam@gmail.com]",150.0,"[{0 53, 3 10, ""other"" 32, 1 48, 4 7}]",32,53,48,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2016-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jbswetnam@gmail.com]",151.0,"[{0 53, 3 10, ""other"" 33, 1 48, 4 7}]",33,53,48,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2016-06-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[glenjamin@gmail.com, glenjamin@gmail.com]",153.0,"[{0 53, 3 10, ""other"" 33, 1 50, 4 7}]",33,53,50,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2016-09-07,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[glenjamin@gmail.com, asimic@gmail.com, asimic@gmail.com, asimic@gmail.com, asimic@gmail.com]",158.0,"[{0 53, 3 10, ""other"" 37, 1 51, 4 7}]",37,53,51,0,10,7
+Clojure,https://github.com/xeqi/kerodon,2017-09-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",159.0,"[{0 53, 3 10, ""other"" 37, 1 51, 4 7, 2 1}]",37,53,51,1,10,7
+Clojure,https://github.com/xeqi/kerodon,2017-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[glenjamin@gmail.com]",160.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 1}]",37,53,52,1,10,7
+Clojure,https://github.com/xeqi/kerodon,2017-09-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",161.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 2}]",37,53,52,2,10,7
+Clojure,https://github.com/xeqi/kerodon,2017-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",162.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 3}]",37,53,52,3,10,7
+Clojure,https://github.com/xeqi/kerodon,2017-11-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",163.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 4}]",37,53,52,4,10,7
+Clojure,https://github.com/xeqi/kerodon,2018-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",164.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 5}]",37,53,52,5,10,7
+Clojure,https://github.com/xeqi/kerodon,2018-05-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, desk@danielcompton.net]",166.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 7}]",37,53,52,7,10,7
+Clojure,https://github.com/xeqi/kerodon,2018-06-07,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",171.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 12}]",37,53,52,12,10,7
+Clojure,https://github.com/xeqi/kerodon,2018-06-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",175.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 16}]",37,53,52,16,10,7
+Clojure,https://github.com/xeqi/kerodon,2019-07-11,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net, desk@danielcompton.net]",183.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 24}]",37,53,52,24,10,7
+Clojure,https://github.com/xeqi/kerodon,2022-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",184.0,"[{0 53, 3 10, ""other"" 37, 1 52, 4 7, 2 25}]",37,53,52,25,10,7
+Clojure,https://github.com/xeqi/kerodon,2023-11-13,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[frozenlock@gmail.com, frozenlock@gmail.com, desk@danielcompton.net, desk@danielcompton.net]",188.0,"[{0 53, 3 10, ""other"" 39, 1 52, 4 7, 2 27}]",39,53,52,27,10,7
+Clojure,https://github.com/xeqi/kerodon,2023-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",189.0,"[{0 53, 3 10, ""other"" 39, 1 52, 4 7, 2 28}]",39,53,52,28,10,7

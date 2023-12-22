@@ -1,0 +1,614 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,IntelAI,2018-10-02,4,1,"#{""mlukaszewski@gmail.com""}",4.0,1
+Python,IntelAI,2018-10-08,1,1,"#{""mlukaszewski@gmail.com""}",5.0,1
+Python,IntelAI,2018-10-31,5,2,"#{""karthik.vadla@intel.com"" ""dina.m.suehiro@intel.com""}",10.0,3
+Python,IntelAI,2018-11-01,2,1,"#{""karthik.vadla@intel.com""}",12.0,3
+Python,IntelAI,2018-11-02,2,1,"#{""dina.m.suehiro@intel.com""}",14.0,3
+Python,IntelAI,2018-11-05,3,3,"#{""clayne.b.robison@intel.com"" ""karthik.vadla@intel.com"" ""dina.m.suehiro@intel.com""}",17.0,4
+Python,IntelAI,2018-11-06,13,2,"#{""karthik.vadla@intel.com"" ""dina.m.suehiro@intel.com""}",30.0,4
+Python,IntelAI,2018-11-07,3,3,"#{""clayne.b.robison@intel.com"" ""karthik.vadla@intel.com"" ""ashahba@users.noreply.github.com""}",33.0,5
+Python,IntelAI,2018-11-08,4,4,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""dina.m.suehiro@intel.com"" ""ashahba@users.noreply.github.com""}",37.0,7
+Python,IntelAI,2018-11-09,1,1,"#{""karthik.vadla@intel.com""}",38.0,7
+Python,IntelAI,2018-11-12,6,3,"#{""steven@nervanasys.com"" ""karthik.vadla@intel.com"" ""dina.m.suehiro@intel.com""}",44.0,8
+Python,IntelAI,2018-11-13,8,3,"#{""steven@nervanasys.com"" ""dina.m.suehiro@intel.com"" ""srtrumpetaggie@gmail.com""}",52.0,9
+Python,IntelAI,2018-11-14,6,4,"#{""steven@nervanasys.com"" ""dina.m.suehiro@intel.com"" ""srtrumpetaggie@gmail.com"" ""ashahba@users.noreply.github.com""}",58.0,9
+Python,IntelAI,2018-11-15,12,3,"#{""wafaa.s.taie@intel.com"" ""jitendra.patil@intel.com"" ""dina.m.suehiro@intel.com""}",70.0,10
+Python,IntelAI,2018-11-16,7,4,"#{""wafaa.s.taie@intel.com"" ""karthik.vadla@intel.com"" ""dina.m.suehiro@intel.com"" ""wstaie@wstaie-mac02.sc.intel.com""}",77.0,11
+Python,IntelAI,2018-11-20,4,2,"#{""wafaa.s.taie@intel.com"" ""clayne.b.robison@intel.com""}",81.0,11
+Python,IntelAI,2018-11-26,3,2,"#{""wafaa.s.taie@intel.com"" ""dina.m.suehiro@intel.com""}",84.0,11
+Python,IntelAI,2018-11-27,2,1,"#{""dina.s.jones@intel.com""}",86.0,12
+Python,IntelAI,2018-11-28,3,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",89.0,12
+Python,IntelAI,2018-11-30,2,2,"#{""dina.s.jones@intel.com"" ""jitendra.patil@intel.com""}",91.0,12
+Python,IntelAI,2018-12-03,1,1,"#{""jitendra.patil@intel.com""}",92.0,12
+Python,IntelAI,2018-12-04,1,1,"#{""dina.s.jones@intel.com""}",93.0,12
+Python,IntelAI,2018-12-06,4,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""42454094+moonjkyung@users.noreply.github.com""}",97.0,13
+Python,IntelAI,2018-12-07,4,3,"#{""dina.s.jones@intel.com"" ""jitendra.patil@intel.com"" ""42454094+moonjkyung@users.noreply.github.com""}",101.0,13
+Python,IntelAI,2018-12-09,2,1,"#{""42454094+moonjkyung@users.noreply.github.com""}",103.0,13
+Python,IntelAI,2018-12-10,11,5,"#{""dina.s.jones@intel.com"" ""steven@nervanasys.com"" ""srtrumpetaggie@gmail.com"" ""42454094+moonjkyung@users.noreply.github.com"" ""mhbuehler@gmail.com""}",114.0,14
+Python,IntelAI,2018-12-11,1,1,"#{""srtrumpetaggie@gmail.com""}",115.0,14
+Python,IntelAI,2018-12-12,8,2,"#{""jitendra.patil@intel.com"" ""42454094+moonjkyung@users.noreply.github.com""}",123.0,14
+Python,IntelAI,2018-12-13,6,1,"#{""42454094+moonjkyung@users.noreply.github.com""}",129.0,14
+Python,IntelAI,2018-12-14,12,3,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com"" ""42454094+moonjkyung@users.noreply.github.com""}",141.0,15
+Python,IntelAI,2018-12-17,1,1,"#{""mlukaszewski@gmail.com""}",142.0,15
+Python,IntelAI,2018-12-18,5,2,"#{""dina.s.jones@intel.com"" ""42454094+moonjkyung@users.noreply.github.com""}",147.0,15
+Python,IntelAI,2018-12-19,4,1,"#{""42454094+moonjkyung@users.noreply.github.com""}",151.0,15
+Python,IntelAI,2018-12-20,6,3,"#{""wafaa.s.taie@intel.com"" ""42454094+moonjkyung@users.noreply.github.com"" ""lukasz.durka@intel.com""}",157.0,16
+Python,IntelAI,2018-12-21,6,4,"#{""wafaa.s.taie@intel.com"" ""karthik.vadla@intel.com"" ""42454094+moonjkyung@users.noreply.github.com"" ""lukasz.durka@intel.com""}",163.0,16
+Python,IntelAI,2019-01-02,9,5,"#{""moonjung.kyung@intel.com"" ""karthik.vadla@intel.com"" ""42454094+moonjkyung@users.noreply.github.com"" ""lukasz.durka@intel.com"" ""ashahba@users.noreply.github.com""}",172.0,16
+Python,IntelAI,2019-01-03,3,3,"#{""wafaa.s.taie@intel.com"" ""karthik.vadla@intel.com"" ""lukasz.durka@intel.com""}",175.0,16
+Python,IntelAI,2019-01-04,3,2,"#{""wojciech.uss@intel.com"" ""lukasz.durka@intel.com""}",178.0,17
+Python,IntelAI,2019-01-07,2,1,"#{""dina.s.jones@intel.com""}",180.0,17
+Python,IntelAI,2019-01-08,4,3,"#{""dina.s.jones@intel.com"" ""karthik.vadla@intel.com"" ""wojciech.uss@intel.com""}",184.0,17
+Python,IntelAI,2019-01-09,3,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""lukasz.durka@intel.com""}",187.0,17
+Python,IntelAI,2019-01-10,2,2,"#{""dina.s.jones@intel.com"" ""lukasz.durka@intel.com""}",189.0,17
+Python,IntelAI,2019-01-14,4,2,"#{""wafaa.s.taie@intel.com"" ""mhbuehler@gmail.com""}",193.0,17
+Python,IntelAI,2019-01-15,1,1,"#{""mhbuehler@gmail.com""}",194.0,17
+Python,IntelAI,2019-01-16,1,1,"#{""mhbuehler@gmail.com""}",195.0,17
+Python,IntelAI,2019-01-17,3,3,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com"" ""jitendra.patil@intel.com""}",198.0,17
+Python,IntelAI,2019-01-18,1,1,"#{""wojciech.uss@intel.com""}",199.0,17
+Python,IntelAI,2019-01-22,3,3,"#{""wafaa.s.taie@intel.com"" ""karthik.vadla@intel.com"" ""ashahba@users.noreply.github.com""}",202.0,17
+Python,IntelAI,2019-01-23,1,1,"#{""dina.s.jones@intel.com""}",203.0,17
+Python,IntelAI,2019-01-25,1,1,"#{""dina.s.jones@intel.com""}",204.0,17
+Python,IntelAI,2019-01-28,1,1,"#{""wafaa.s.taie@intel.com""}",205.0,17
+Python,IntelAI,2019-01-29,2,1,"#{""karthik.vadla@intel.com""}",207.0,17
+Python,IntelAI,2019-01-30,2,1,"#{""dina.s.jones@intel.com""}",209.0,17
+Python,IntelAI,2019-01-31,1,1,"#{""dina.s.jones@intel.com""}",210.0,17
+Python,IntelAI,2019-02-01,11,5,"#{""dina.s.jones@intel.com"" ""clayne.b.robison@intel.com"" ""jitendra.patil@intel.com"" ""karthik.vadla@intel.com"" ""lukasz.durka@intel.com""}",221.0,17
+Python,IntelAI,2019-02-04,2,1,"#{""jitendra.patil@intel.com""}",223.0,17
+Python,IntelAI,2019-02-05,3,2,"#{""dina.s.jones@intel.com"" ""mhbuehler@gmail.com""}",226.0,17
+Python,IntelAI,2019-02-06,4,3,"#{""dina.s.jones@intel.com"" ""karthik.vadla@intel.com"" ""ravi.panchumarthy@intel.com""}",230.0,18
+Python,IntelAI,2019-02-08,2,2,"#{""wojciech.uss@intel.com"" ""mhbuehler@gmail.com""}",232.0,18
+Python,IntelAI,2019-02-11,1,1,"#{""srtrumpetaggie@gmail.com""}",233.0,18
+Python,IntelAI,2019-02-12,4,4,"#{""dina.s.jones@intel.com"" ""karthik.vadla@intel.com"" ""nathan.g.greeneltch@intel.com"" ""mhbuehler@gmail.com""}",237.0,19
+Python,IntelAI,2019-02-13,4,3,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com"" ""preethi.venkatesh@intel.com""}",241.0,20
+Python,IntelAI,2019-02-14,1,1,"#{""srtrumpetaggie@gmail.com""}",242.0,20
+Python,IntelAI,2019-02-15,4,3,"#{""dina.s.jones@intel.com"" ""steven@nervanasys.com"" ""wafaa.s.taie@intel.com""}",246.0,20
+Python,IntelAI,2019-02-19,2,1,"#{""dina.s.jones@intel.com""}",248.0,20
+Python,IntelAI,2019-02-20,4,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",252.0,20
+Python,IntelAI,2019-02-22,2,1,"#{""dina.s.jones@intel.com""}",254.0,20
+Python,IntelAI,2019-02-24,1,1,"#{""karthik.vadla@intel.com""}",255.0,20
+Python,IntelAI,2019-02-25,5,3,"#{""dina.s.jones@intel.com"" ""jitendra.patil@intel.com"" ""40469535+rchinna@users.noreply.github.com""}",260.0,21
+Python,IntelAI,2019-02-27,8,4,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com"" ""preethi.venkatesh@intel.com"" ""mlukaszewski@gmail.com""}",268.0,21
+Python,IntelAI,2019-02-28,2,2,"#{""jianmin.li@intel.com"" ""dina.m.suehiro@intel.com""}",270.0,22
+Python,IntelAI,2019-03-01,4,2,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com""}",274.0,22
+Python,IntelAI,2019-03-04,4,2,"#{""moonjung.kyung@intel.com"" ""karthik.vadla@intel.com""}",278.0,22
+Python,IntelAI,2019-03-05,6,3,"#{""moonjung.kyung@intel.com"" ""jitendra.patil@intel.com"" ""mhbuehler@gmail.com""}",284.0,22
+Python,IntelAI,2019-03-06,2,1,"#{""moonjung.kyung@intel.com""}",286.0,22
+Python,IntelAI,2019-03-07,6,1,"#{""dina.s.jones@intel.com""}",292.0,22
+Python,IntelAI,2019-03-08,2,1,"#{""dina.s.jones@intel.com""}",294.0,22
+Python,IntelAI,2019-03-11,8,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""jianmin.li@intel.com""}",302.0,22
+Python,IntelAI,2019-03-12,6,3,"#{""dina.s.jones@intel.com"" ""40469535+rchinna@users.noreply.github.com"" ""jianmin.li@intel.com""}",308.0,22
+Python,IntelAI,2019-03-13,2,1,"#{""mhbuehler@gmail.com""}",310.0,22
+Python,IntelAI,2019-03-14,2,1,"#{""40469535+rchinna@users.noreply.github.com""}",312.0,22
+Python,IntelAI,2019-03-15,4,2,"#{""xiaoming.cui@intel.com"" ""mhbuehler@gmail.com""}",316.0,23
+Python,IntelAI,2019-03-18,6,3,"#{""dina.s.jones@intel.com"" ""srtrumpetaggie@gmail.com"" ""mhbuehler@gmail.com""}",322.0,23
+Python,IntelAI,2019-03-19,4,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",326.0,23
+Python,IntelAI,2019-03-20,6,3,"#{""wafaa.s.taie@intel.com"" ""moonjung.kyung@intel.com"" ""mhbuehler@gmail.com""}",332.0,23
+Python,IntelAI,2019-03-21,2,1,"#{""dina.s.jones@intel.com""}",334.0,23
+Python,IntelAI,2019-03-22,8,2,"#{""wafaa.s.taie@intel.com"" ""mhbuehler@gmail.com""}",342.0,23
+Python,IntelAI,2019-03-23,2,1,"#{""guizi.li@intel.com""}",344.0,24
+Python,IntelAI,2019-03-24,2,1,"#{""mhbuehler@gmail.com""}",346.0,24
+Python,IntelAI,2019-03-25,4,1,"#{""dina.s.jones@intel.com""}",350.0,24
+Python,IntelAI,2019-03-26,4,2,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com""}",354.0,24
+Python,IntelAI,2019-03-27,4,2,"#{""xiaoming.cui@intel.com"" ""preethi.venkatesh@intel.com""}",358.0,24
+Python,IntelAI,2019-03-28,6,3,"#{""dina.s.jones@intel.com"" ""xiaoming.cui@intel.com"" ""mhbuehler@gmail.com""}",364.0,24
+Python,IntelAI,2019-03-29,10,4,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""preethi.venkatesh@intel.com"" ""bhavani1.subramanian@intel.com""}",374.0,25
+Python,IntelAI,2019-04-01,6,3,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com"" ""mhbuehler@gmail.com""}",380.0,25
+Python,IntelAI,2019-04-02,2,2,"#{""srtrumpetaggie@gmail.com"" ""mhbuehler@gmail.com""}",382.0,25
+Python,IntelAI,2019-04-04,2,1,"#{""dina.s.jones@intel.com""}",384.0,25
+Python,IntelAI,2019-04-05,2,2,"#{""dina.s.jones@intel.com"" ""guizi.li@intel.com""}",386.0,25
+Python,IntelAI,2019-04-09,1,1,"#{""moonjung.kyung@intel.com""}",387.0,25
+Python,IntelAI,2019-04-10,2,2,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com""}",389.0,25
+Python,IntelAI,2019-04-11,3,2,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com""}",392.0,25
+Python,IntelAI,2019-04-12,5,2,"#{""dina.s.jones@intel.com"" ""moonjung.kyung@intel.com""}",397.0,25
+Python,IntelAI,2019-04-15,3,3,"#{""dina.s.jones@intel.com"" ""karthik.vadla@intel.com"" ""12436063+ashahba@users.noreply.github.com""}",400.0,26
+Python,IntelAI,2019-04-17,1,1,"#{""moonjung.kyung@intel.com""}",401.0,26
+Python,IntelAI,2019-04-18,1,1,"#{""dina.s.jones@intel.com""}",402.0,26
+Python,IntelAI,2019-04-22,1,1,"#{""wafaa.s.taie@intel.com""}",403.0,26
+Python,IntelAI,2019-04-25,1,1,"#{""dina.s.jones@intel.com""}",404.0,26
+Python,IntelAI,2019-04-26,2,1,"#{""wafaa.s.taie@intel.com""}",406.0,26
+Python,IntelAI,2019-04-29,2,2,"#{""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com""}",408.0,27
+Python,IntelAI,2019-04-30,1,1,"#{""melanie.h.buehler@intel.com""}",409.0,27
+Python,IntelAI,2019-05-01,1,1,"#{""nathan.g.greeneltch@intel.com""}",410.0,27
+Python,IntelAI,2019-05-03,1,1,"#{""wafaa.s.taie@intel.com""}",411.0,27
+Python,IntelAI,2019-05-06,1,1,"#{""wafaa.s.taie@intel.com""}",412.0,27
+Python,IntelAI,2019-05-07,1,1,"#{""dina.s.jones@intel.com""}",413.0,27
+Python,IntelAI,2019-05-09,1,1,"#{""dina.s.jones@intel.com""}",414.0,27
+Python,IntelAI,2019-05-10,2,1,"#{""jitendra.patil@intel.com""}",416.0,27
+Python,IntelAI,2019-05-13,1,1,"#{""jitendra.patil@intel.com""}",417.0,27
+Python,IntelAI,2019-05-16,1,1,"#{""karthik.vadla@intel.com""}",418.0,27
+Python,IntelAI,2019-05-22,1,1,"#{""dina.s.jones@intel.com""}",419.0,27
+Python,IntelAI,2019-05-23,2,2,"#{""dina.s.jones@intel.com"" ""niranjan.hasabnis@intel.com""}",421.0,28
+Python,IntelAI,2019-05-24,2,2,"#{""dina.s.jones@intel.com"" ""guizi.li@intel.com""}",423.0,28
+Python,IntelAI,2019-05-28,3,2,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com""}",426.0,28
+Python,IntelAI,2019-05-29,3,2,"#{""melanie.h.buehler@intel.com"" ""mhbuehler@gmail.com""}",429.0,28
+Python,IntelAI,2019-05-30,4,3,"#{""melanie.h.buehler@intel.com"" ""clayne.b.robison@intel.com"" ""lukasz.wencel@intel.com""}",433.0,29
+Python,IntelAI,2019-05-31,3,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""ag.ramesh@intel.com""}",436.0,30
+Python,IntelAI,2019-06-03,1,1,"#{""melanie.h.buehler@intel.com""}",437.0,30
+Python,IntelAI,2019-06-06,1,1,"#{""wafaa.s.taie@intel.com""}",438.0,30
+Python,IntelAI,2019-06-11,2,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",440.0,30
+Python,IntelAI,2019-06-12,1,1,"#{""clayne.b.robison@intel.com""}",441.0,30
+Python,IntelAI,2019-06-13,3,3,"#{""dina.s.jones@intel.com"" ""xiaoming.cui@intel.com"" ""mhbuehler@gmail.com""}",444.0,30
+Python,IntelAI,2019-06-14,2,2,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com""}",446.0,30
+Python,IntelAI,2019-06-18,2,2,"#{""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com""}",448.0,30
+Python,IntelAI,2019-06-21,1,1,"#{""jitendra.patil@intel.com""}",449.0,30
+Python,IntelAI,2019-06-22,1,1,"#{""wenxi.zhu@intel.com""}",450.0,31
+Python,IntelAI,2019-06-24,1,1,"#{""12436063+ashahba@users.noreply.github.com""}",451.0,31
+Python,IntelAI,2019-06-25,1,1,"#{""dina.s.jones@intel.com""}",452.0,31
+Python,IntelAI,2019-06-27,2,2,"#{""dina.s.jones@intel.com"" ""jianmin.li@intel.com""}",454.0,31
+Python,IntelAI,2019-06-28,1,1,"#{""lukasz.wencel@intel.com""}",455.0,31
+Python,IntelAI,2019-07-02,3,2,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com""}",458.0,31
+Python,IntelAI,2019-07-03,9,3,"#{""dina.s.jones@intel.com"" ""jitendra.patil@intel.com"" ""dmsuehir@aipg-fm-skx-91.fm.intel.com""}",467.0,32
+Python,IntelAI,2019-07-08,1,1,"#{""12436063+ashahba@users.noreply.github.com""}",468.0,32
+Python,IntelAI,2019-07-09,5,2,"#{""jitendra.patil@intel.com"" ""12436063+ashahba@users.noreply.github.com""}",473.0,32
+Python,IntelAI,2019-07-10,5,3,"#{""dina.s.jones@intel.com"" ""clayne.b.robison@intel.com"" ""jitendra.patil@intel.com""}",478.0,32
+Python,IntelAI,2019-07-15,1,1,"#{""melanie.h.buehler@intel.com""}",479.0,32
+Python,IntelAI,2019-07-16,1,1,"#{""mhbuehler@gmail.com""}",480.0,32
+Python,IntelAI,2019-07-17,3,3,"#{""melanie.h.buehler@intel.com"" ""river.liu@intel.com"" ""mahmoud.abuzaina@intel.com""}",483.0,34
+Python,IntelAI,2019-07-18,1,1,"#{""wei.v.wang@intel.com""}",484.0,35
+Python,IntelAI,2019-07-25,1,1,"#{""52769182+ShengYang1@users.noreply.github.com""}",485.0,36
+Python,IntelAI,2019-07-28,1,1,"#{""zhongyue.luo@gmail.com""}",486.0,37
+Python,IntelAI,2019-07-29,2,2,"#{""52697806+CuiYifeng@users.noreply.github.com"" ""maozhou.ge@intel.com""}",488.0,39
+Python,IntelAI,2019-07-30,2,1,"#{""dina.s.jones@intel.com""}",490.0,39
+Python,IntelAI,2019-07-31,1,1,"#{""Leslie-Fang@users.noreply.github.com""}",491.0,40
+Python,IntelAI,2019-08-01,1,1,"#{""dina.s.jones@intel.com""}",492.0,40
+Python,IntelAI,2019-08-02,1,1,"#{""maozhou.ge@intel.com""}",493.0,40
+Python,IntelAI,2019-08-05,1,1,"#{""chinmay.wadgaonkar@intel.com""}",494.0,41
+Python,IntelAI,2019-08-07,1,1,"#{""melanie.h.buehler@intel.com""}",495.0,41
+Python,IntelAI,2019-08-09,2,2,"#{""chinmay.wadgaonkar@intel.com"" ""preethi.venkatesh@intel.com""}",497.0,41
+Python,IntelAI,2019-08-15,1,1,"#{""52769182+ShengYang1@users.noreply.github.com""}",498.0,41
+Python,IntelAI,2019-08-16,3,3,"#{""maozhou.ge@intel.com"" ""clayne.b.robison@intel.com"" ""river.liu@intel.com""}",501.0,41
+Python,IntelAI,2019-08-19,2,2,"#{""wafaa.s.taie@intel.com"" ""river.liu@intel.com""}",503.0,41
+Python,IntelAI,2019-08-20,2,2,"#{""teng.lu@intel.com"" ""lixia.chen@intel.com""}",505.0,43
+Python,IntelAI,2019-08-26,2,2,"#{""karen.wu@intel.com"" ""lukasz.wencel@intel.com""}",507.0,44
+Python,IntelAI,2019-08-27,1,1,"#{""chuanqi.wang@intel.com""}",508.0,45
+Python,IntelAI,2019-08-29,1,1,"#{""52697806+CuiYifeng@users.noreply.github.com""}",509.0,45
+Python,IntelAI,2019-08-30,1,1,"#{""52769182+ShengYang1@users.noreply.github.com""}",510.0,45
+Python,IntelAI,2019-09-02,1,1,"#{""52769182+ShengYang1@users.noreply.github.com""}",511.0,45
+Python,IntelAI,2019-09-05,1,1,"#{""52697806+CuiYifeng@users.noreply.github.com""}",512.0,45
+Python,IntelAI,2019-09-10,1,1,"#{""chuanqi.wang@intel.com""}",513.0,45
+Python,IntelAI,2019-09-19,1,1,"#{""52697806+CuiYifeng@users.noreply.github.com""}",514.0,45
+Python,IntelAI,2019-09-23,1,1,"#{""mohammad.ashraf.bhuiyan@intel.com""}",515.0,46
+Python,IntelAI,2019-09-25,2,1,"#{""52697806+CuiYifeng@users.noreply.github.com""}",517.0,46
+Python,IntelAI,2019-09-27,1,1,"#{""52697806+CuiYifeng@users.noreply.github.com""}",518.0,46
+Python,IntelAI,2019-09-29,1,1,"#{""52697806+CuiYifeng@users.noreply.github.com""}",519.0,46
+Python,IntelAI,2019-10-08,1,1,"#{""md.faijul.amin@intel.com""}",520.0,47
+Python,IntelAI,2019-10-17,1,1,"#{""clayne.b.robison@intel.com""}",521.0,47
+Python,IntelAI,2019-10-23,1,1,"#{""yang.sheng@intel.com""}",522.0,48
+Python,IntelAI,2019-10-24,1,1,"#{""52697806+CuiYifeng@users.noreply.github.com""}",523.0,48
+Python,IntelAI,2019-11-06,1,1,"#{""rodrigo.camacho@intel.com""}",524.0,49
+Python,IntelAI,2019-11-14,5,3,"#{""mohammad.ashraf.bhuiyan@intel.com"" ""chuanqi.wang@intel.com"" ""guizi.li@intel.com""}",529.0,49
+Python,IntelAI,2019-11-17,2,2,"#{""lukasz.wencel@intel.com"" ""river.liu@intel.com""}",531.0,49
+Python,IntelAI,2019-11-18,6,4,"#{""ag.ramesh@intel.com"" ""suyue.chen@intel.com"" ""teng.lu@intel.com"" ""chuanqi.wang@intel.com""}",537.0,50
+Python,IntelAI,2019-11-21,4,3,"#{""yifeng.cui@intel.com"" ""teng.lu@intel.com"" ""chuanqi.wang@intel.com""}",541.0,51
+Python,IntelAI,2019-12-10,2,2,"#{""sneha.kola@intel.com"" ""chuanqi.wang@intel.com""}",543.0,52
+Python,IntelAI,2019-12-12,1,1,"#{""yang.sheng@intel.com""}",544.0,52
+Python,IntelAI,2019-12-17,1,1,"#{""yang.sheng@intel.com""}",545.0,52
+Python,IntelAI,2019-12-18,1,1,"#{""teng.lu@intel.com""}",546.0,52
+Python,IntelAI,2020-01-09,1,1,"#{""chuanqi.wang@intel.com""}",547.0,52
+Python,IntelAI,2020-01-20,4,3,"#{""suyue.chen@intel.com"" ""teng.lu@intel.com"" ""chuanqi.wang@intel.com""}",551.0,52
+Python,IntelAI,2020-02-09,1,1,"#{""chuanqi.wang@intel.com""}",552.0,52
+Python,IntelAI,2020-02-10,1,1,"#{""guizi.li@intel.com""}",553.0,52
+Python,IntelAI,2020-03-04,1,1,"#{""teng.lu@intel.com""}",554.0,52
+Python,IntelAI,2020-03-05,1,1,"#{""mahmoud.abuzaina@intel.com""}",555.0,52
+Python,IntelAI,2020-03-09,2,2,"#{""teng.lu@intel.com"" ""chuanqi.wang@intel.com""}",557.0,52
+Python,IntelAI,2020-03-16,2,2,"#{""yunfei.mao@intel.com"" ""chuanqi.wang@intel.com""}",559.0,53
+Python,IntelAI,2020-03-18,2,2,"#{""yunfei.mao@intel.com"" ""chuanqi.wang@intel.com""}",561.0,53
+Python,IntelAI,2020-03-22,2,2,"#{""chuanqi.wang@intel.com"" ""niroopshankar.ammbashankar@intel.com""}",563.0,54
+Python,IntelAI,2020-03-24,6,3,"#{""yunfei.mao@intel.com"" ""suyue.chen@intel.com"" ""chuanqi.wang@intel.com""}",569.0,54
+Python,IntelAI,2020-03-25,8,4,"#{""krishnan.abhiram@intel.com"" ""xiaoming.cui@intel.com"" ""mahmoud.abuzaina@intel.com"" ""chuanqi.wang@intel.com""}",577.0,55
+Python,IntelAI,2020-03-26,2,2,"#{""mabuzain@JF5300-10B072T.jf.intel.com"" ""mahmoud.abuzaina@intel.com""}",579.0,56
+Python,IntelAI,2020-03-30,2,2,"#{""jojimon.varghese@intel.com"" ""chuanqi.wang@intel.com""}",581.0,57
+Python,IntelAI,2020-04-02,1,1,"#{""yunfei.mao@intel.com""}",582.0,57
+Python,IntelAI,2020-04-03,2,1,"#{""abolfazl.shahbazi@intel.com""}",584.0,57
+Python,IntelAI,2020-04-04,4,2,"#{""mohammad.ashraf.bhuiyan@intel.com"" ""chuanqi.wang@intel.com""}",588.0,57
+Python,IntelAI,2020-04-07,1,1,"#{""teng.lu@intel.com""}",589.0,57
+Python,IntelAI,2020-04-08,2,1,"#{""chuanqi.wang@intel.com""}",591.0,57
+Python,IntelAI,2020-04-09,1,1,"#{""teng.lu@intel.com""}",592.0,57
+Python,IntelAI,2020-04-10,3,2,"#{""niranjan.hasabnis@intel.com"" ""teng.lu@intel.com""}",595.0,57
+Python,IntelAI,2020-04-12,1,1,"#{""chuanqi.wang@intel.com""}",596.0,57
+Python,IntelAI,2020-04-13,1,1,"#{""abolfazl.shahbazi@intel.com""}",597.0,57
+Python,IntelAI,2020-04-14,4,3,"#{""yifeng.cui@intel.com"" ""niranjan.hasabnis@intel.com"" ""chuanqi.wang@intel.com""}",601.0,57
+Python,IntelAI,2020-04-15,3,1,"#{""mahmoud.abuzaina@intel.com""}",604.0,57
+Python,IntelAI,2020-04-16,4,3,"#{""jitendra.patil@intel.com"" ""sneha.kola@intel.com"" ""chuanqi.wang@intel.com""}",608.0,57
+Python,IntelAI,2020-04-19,2,1,"#{""teng.lu@intel.com""}",610.0,57
+Python,IntelAI,2020-04-20,7,5,"#{""karen.wu@intel.com"" ""root@wlr27s01.zpn.intel.com"" ""wei.v.wang@intel.com"" ""teng.lu@intel.com"" ""chuanqi.wang@intel.com""}",617.0,58
+Python,IntelAI,2020-04-21,7,4,"#{""mohammad.ashraf.bhuiyan@intel.com"" ""wei.v.wang@intel.com"" ""mahmoud.abuzaina@intel.com"" ""chuanqi.wang@intel.com""}",624.0,58
+Python,IntelAI,2020-04-22,8,4,"#{""karen.wu@intel.com"" ""abolfazl.shahbazi@intel.com"" ""mahmoud.abuzaina@intel.com"" ""chuanqi.wang@intel.com""}",632.0,58
+Python,IntelAI,2020-04-23,7,4,"#{""karen.wu@intel.com"" ""teng.lu@intel.com"" ""chuanqi.wang@intel.com"" ""niroopshankar.ammbashankar@intel.com""}",639.0,58
+Python,IntelAI,2020-04-24,2,2,"#{""yunfei.mao@intel.com"" ""chuanqi.wang@intel.com""}",641.0,58
+Python,IntelAI,2020-04-27,6,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",647.0,58
+Python,IntelAI,2020-04-28,6,4,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""ganand1@aipg-ra-clx-110.ra.intel.com""}",653.0,59
+Python,IntelAI,2020-04-29,8,2,"#{""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com""}",661.0,59
+Python,IntelAI,2020-04-30,14,5,"#{""dina.s.jones@intel.com"" ""mohammad.ashraf.bhuiyan@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com"" ""chuanqi.wang@intel.com""}",675.0,59
+Python,IntelAI,2020-05-01,8,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""wei.v.wang@intel.com""}",683.0,59
+Python,IntelAI,2020-05-04,12,4,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com""}",695.0,59
+Python,IntelAI,2020-05-05,7,2,"#{""abolfazl.shahbazi@intel.com"" ""mahmoud.abuzaina@intel.com""}",702.0,59
+Python,IntelAI,2020-05-06,13,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com""}",715.0,59
+Python,IntelAI,2020-05-07,21,6,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""mohammad.ashraf.bhuiyan@intel.com"" ""abolfazl.shahbazi@intel.com"" ""wei.v.wang@intel.com""}",736.0,60
+Python,IntelAI,2020-05-08,9,4,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""mahmoud.abuzaina@intel.com""}",745.0,60
+Python,IntelAI,2020-05-11,10,3,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""wei.v.wang@intel.com""}",755.0,60
+Python,IntelAI,2020-05-13,6,2,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",761.0,60
+Python,IntelAI,2020-05-14,2,1,"#{""abolfazl.shahbazi@intel.com""}",763.0,60
+Python,IntelAI,2020-05-15,3,2,"#{""krishnan.abhiram@intel.com"" ""abolfazl.shahbazi@intel.com""}",766.0,60
+Python,IntelAI,2020-05-18,5,3,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""mahmoud.abuzaina@intel.com""}",771.0,60
+Python,IntelAI,2020-05-20,4,2,"#{""shweta.ojha@intel.com"" ""abolfazl.shahbazi@intel.com""}",775.0,61
+Python,IntelAI,2020-05-21,6,3,"#{""kam.d.kasravi@intel.com"" ""yunfei.mao@intel.com"" ""abolfazl.shahbazi@intel.com""}",781.0,61
+Python,IntelAI,2020-05-26,5,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",786.0,61
+Python,IntelAI,2020-05-27,2,1,"#{""abolfazl.shahbazi@intel.com""}",788.0,61
+Python,IntelAI,2020-05-29,6,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",794.0,61
+Python,IntelAI,2020-06-09,2,2,"#{""abolfazl.shahbazi@intel.com"" ""mahmoud.abuzaina@intel.com""}",796.0,61
+Python,IntelAI,2020-06-10,2,2,"#{""abolfazl.shahbazi@intel.com"" ""chuanqi.wang@intel.com""}",798.0,61
+Python,IntelAI,2020-06-11,2,2,"#{""abolfazl.shahbazi@intel.com"" ""venkata.p.yerneni@intel.com""}",800.0,62
+Python,IntelAI,2020-06-16,5,2,"#{""abolfazl.shahbazi@intel.com"" ""12436063+ashahba@users.noreply.github.com""}",805.0,62
+Python,IntelAI,2020-06-17,4,4,"#{""yanzhang.wang@intel.com"" ""abolfazl.shahbazi@intel.com"" ""chuanqi.wang@intel.com"" ""12436063+ashahba@users.noreply.github.com""}",809.0,63
+Python,IntelAI,2020-06-18,4,3,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""niroopshankar.ammbashankar@intel.com""}",813.0,63
+Python,IntelAI,2020-06-19,4,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",817.0,63
+Python,IntelAI,2020-06-23,3,1,"#{""dina.s.jones@intel.com""}",820.0,63
+Python,IntelAI,2020-06-24,5,3,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""venkata.p.yerneni@intel.com""}",825.0,63
+Python,IntelAI,2020-06-25,2,1,"#{""dina.s.jones@intel.com""}",827.0,63
+Python,IntelAI,2020-06-26,3,2,"#{""kam.d.kasravi@intel.com"" ""12436063+ashahba@users.noreply.github.com""}",830.0,63
+Python,IntelAI,2020-06-29,2,2,"#{""abolfazl.shahbazi@intel.com"" ""gandhimathi.anand@intel.com""}",832.0,64
+Python,IntelAI,2020-06-30,1,1,"#{""abolfazl.shahbazi@intel.com""}",833.0,64
+Python,IntelAI,2020-07-01,4,3,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""wstaie@hkandpal-mobl1.amr.corp.intel.com""}",837.0,65
+Python,IntelAI,2020-07-02,12,4,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",849.0,65
+Python,IntelAI,2020-07-03,2,2,"#{""kam.d.kasravi@intel.com"" ""wafaa.s.taie@intel.com""}",851.0,65
+Python,IntelAI,2020-07-09,4,2,"#{""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com""}",855.0,65
+Python,IntelAI,2020-07-10,12,2,"#{""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com""}",867.0,65
+Python,IntelAI,2020-07-14,6,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""venkata.p.yerneni@intel.com""}",873.0,65
+Python,IntelAI,2020-07-15,6,3,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""venkata.p.yerneni@intel.com""}",879.0,65
+Python,IntelAI,2020-07-16,2,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",881.0,65
+Python,IntelAI,2020-07-17,4,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",885.0,65
+Python,IntelAI,2020-07-20,4,2,"#{""dina.s.jones@intel.com"" ""jitendra.patil@intel.com""}",889.0,65
+Python,IntelAI,2020-07-21,4,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",893.0,65
+Python,IntelAI,2020-07-24,8,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""jitendra.patil@intel.com""}",901.0,65
+Python,IntelAI,2020-07-29,2,1,"#{""dina.s.jones@intel.com""}",903.0,65
+Python,IntelAI,2020-07-30,7,4,"#{""melanie.h.buehler@intel.com"" ""jitendra.patil@intel.com"" ""chuanqi.wang@intel.com"" ""doubleyoung18@gmail.com""}",910.0,66
+Python,IntelAI,2020-07-31,4,3,"#{""jitendra.patil@intel.com"" ""chuanqi.wang@intel.com"" ""mengfeix.li@intel.com""}",914.0,67
+Python,IntelAI,2020-08-03,2,1,"#{""dina.s.jones@intel.com""}",916.0,67
+Python,IntelAI,2020-08-05,7,3,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",923.0,67
+Python,IntelAI,2020-08-10,4,2,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com""}",927.0,67
+Python,IntelAI,2020-08-12,2,1,"#{""dina.s.jones@intel.com""}",929.0,67
+Python,IntelAI,2020-08-13,4,1,"#{""wafaa.s.taie@intel.com""}",933.0,67
+Python,IntelAI,2020-08-14,7,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""wstaie@krunaljx-mobl.amr.corp.intel.com""}",940.0,68
+Python,IntelAI,2020-08-17,7,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",947.0,68
+Python,IntelAI,2020-08-18,23,7,"#{""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com"" ""venkata.p.yerneni@intel.com"" ""wstaie@jmtorre1-mobl1.amr.corp.intel.com"" ""wstaie@tyu2-mobl1.amr.corp.intel.com""}",970.0,70
+Python,IntelAI,2020-08-19,24,5,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com"" ""venkata.p.yerneni@intel.com""}",994.0,70
+Python,IntelAI,2020-08-20,30,8,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com"" ""venkata.p.yerneni@intel.com"" ""wstaie@ppaidi-MOBL1.amr.corp.intel.com"" ""wstaie@adurquid-MOBL.amr.corp.intel.com""}",1024.0,72
+Python,IntelAI,2020-08-21,13,2,"#{""kam.d.kasravi@intel.com"" ""abolfazl.shahbazi@intel.com""}",1037.0,72
+Python,IntelAI,2020-08-31,1,1,"#{""abolfazl.shahbazi@intel.com""}",1038.0,72
+Python,IntelAI,2020-09-01,4,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1042.0,72
+Python,IntelAI,2020-09-04,6,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""jitendra.patil@intel.com""}",1048.0,72
+Python,IntelAI,2020-09-09,1,1,"#{""dina.s.jones@intel.com""}",1049.0,72
+Python,IntelAI,2020-09-11,3,1,"#{""dina.s.jones@intel.com""}",1052.0,72
+Python,IntelAI,2020-09-14,2,1,"#{""dina.s.jones@intel.com""}",1054.0,72
+Python,IntelAI,2020-09-15,6,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com""}",1060.0,72
+Python,IntelAI,2020-09-16,3,1,"#{""abolfazl.shahbazi@intel.com""}",1063.0,72
+Python,IntelAI,2020-09-17,13,5,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""hongzhen.liu@intel.com"" ""jitendra.patil@intel.com""}",1076.0,73
+Python,IntelAI,2020-09-18,6,1,"#{""abolfazl.shahbazi@intel.com""}",1082.0,73
+Python,IntelAI,2020-09-21,2,1,"#{""jitendra.patil@intel.com""}",1084.0,73
+Python,IntelAI,2020-09-22,7,4,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1091.0,73
+Python,IntelAI,2020-09-23,2,1,"#{""dina.s.jones@intel.com""}",1093.0,73
+Python,IntelAI,2020-09-24,2,1,"#{""dina.s.jones@intel.com""}",1095.0,73
+Python,IntelAI,2020-09-25,2,1,"#{""wafaa.s.taie@intel.com""}",1097.0,73
+Python,IntelAI,2020-09-28,2,1,"#{""dina.s.jones@intel.com""}",1099.0,73
+Python,IntelAI,2020-09-29,2,1,"#{""dina.s.jones@intel.com""}",1101.0,73
+Python,IntelAI,2020-09-30,4,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1105.0,73
+Python,IntelAI,2020-10-01,6,2,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1111.0,73
+Python,IntelAI,2020-10-02,2,1,"#{""abolfazl.shahbazi@intel.com""}",1113.0,73
+Python,IntelAI,2020-10-06,2,1,"#{""kam.d.kasravi@intel.com""}",1115.0,73
+Python,IntelAI,2020-10-07,5,3,"#{""kam.d.kasravi@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1120.0,73
+Python,IntelAI,2020-10-08,20,3,"#{""dzung.d.tran@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1140.0,74
+Python,IntelAI,2020-10-09,8,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""wstaie@mlp-ra-skx-17.ra.intel.com""}",1148.0,75
+Python,IntelAI,2020-10-12,4,1,"#{""wafaa.s.taie@intel.com""}",1152.0,75
+Python,IntelAI,2020-10-13,6,1,"#{""dina.s.jones@intel.com""}",1158.0,75
+Python,IntelAI,2020-10-14,10,4,"#{""dzung.d.tran@intel.com"" ""kam.d.kasravi@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1168.0,75
+Python,IntelAI,2020-10-15,8,3,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1176.0,75
+Python,IntelAI,2020-10-16,20,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1196.0,75
+Python,IntelAI,2020-10-18,1,1,"#{""abolfazl.shahbazi@intel.com""}",1197.0,75
+Python,IntelAI,2020-10-19,2,1,"#{""abolfazl.shahbazi@intel.com""}",1199.0,75
+Python,IntelAI,2020-10-20,27,4,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1226.0,75
+Python,IntelAI,2020-10-21,4,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1230.0,75
+Python,IntelAI,2020-10-22,16,3,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1246.0,75
+Python,IntelAI,2020-10-26,12,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""jitendra.patil@intel.com""}",1258.0,75
+Python,IntelAI,2020-10-27,8,1,"#{""dina.s.jones@intel.com""}",1266.0,75
+Python,IntelAI,2020-10-29,4,2,"#{""wafaa.s.taie@intel.com"" ""wstaie@mlp-ra-skx-17.ra.intel.com""}",1270.0,75
+Python,IntelAI,2020-10-30,10,3,"#{""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""jitendra.patil@intel.com""}",1280.0,75
+Python,IntelAI,2020-11-02,6,1,"#{""abolfazl.shahbazi@intel.com""}",1286.0,75
+Python,IntelAI,2020-11-03,14,3,"#{""dzung.d.tran@intel.com"" ""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1300.0,75
+Python,IntelAI,2020-11-04,8,3,"#{""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1308.0,75
+Python,IntelAI,2020-11-05,20,5,"#{""kam.d.kasravi@intel.com"" ""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""chuanqi.wang@intel.com""}",1328.0,75
+Python,IntelAI,2020-11-06,4,1,"#{""dina.s.jones@intel.com""}",1332.0,75
+Python,IntelAI,2020-11-09,4,2,"#{""melanie.h.buehler@intel.com"" ""louie.tsai@intel.com""}",1336.0,76
+Python,IntelAI,2020-11-10,8,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com""}",1344.0,76
+Python,IntelAI,2020-11-11,22,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1366.0,76
+Python,IntelAI,2020-11-12,23,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1389.0,76
+Python,IntelAI,2020-11-13,10,2,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1399.0,76
+Python,IntelAI,2020-11-16,8,5,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""teng.lu@intel.com"" ""chuanqi.wang@intel.com"" ""xiaobing.zhang@intel.com""}",1407.0,77
+Python,IntelAI,2020-11-17,8,4,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""yang5.yang@intel.com"" ""chuanqi.wang@intel.com""}",1415.0,78
+Python,IntelAI,2020-11-18,15,4,"#{""kam.d.kasravi@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""sneha.kola@intel.com""}",1430.0,78
+Python,IntelAI,2020-11-19,40,7,"#{""dzung.d.tran@intel.com"" ""kam.d.kasravi@intel.com"" ""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""sharvil.shah@intel.com"" ""jitendra.patil@intel.com""}",1470.0,79
+Python,IntelAI,2020-11-20,19,4,"#{""dzung.d.tran@intel.com"" ""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""louie.tsai@intel.com""}",1489.0,79
+Python,IntelAI,2020-11-23,12,2,"#{""dzung.d.tran@intel.com"" ""abolfazl.shahbazi@intel.com""}",1501.0,79
+Python,IntelAI,2020-11-24,4,1,"#{""dzung.d.tran@intel.com""}",1505.0,79
+Python,IntelAI,2020-12-01,6,3,"#{""shweta.ojha@intel.com"" ""abolfazl.shahbazi@intel.com"" ""ying.hu@intel.com""}",1511.0,80
+Python,IntelAI,2020-12-02,12,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""jitendra.patil@intel.com""}",1523.0,80
+Python,IntelAI,2020-12-03,4,1,"#{""dina.s.jones@intel.com""}",1527.0,80
+Python,IntelAI,2020-12-04,6,2,"#{""kam.d.kasravi@intel.com"" ""abolfazl.shahbazi@intel.com""}",1533.0,80
+Python,IntelAI,2020-12-07,10,3,"#{""kam.d.kasravi@intel.com"" ""abolfazl.shahbazi@intel.com"" ""sharvil.shah@intel.com""}",1543.0,80
+Python,IntelAI,2020-12-08,16,2,"#{""kam.d.kasravi@intel.com"" ""abolfazl.shahbazi@intel.com""}",1559.0,80
+Python,IntelAI,2020-12-09,36,6,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com""}",1595.0,80
+Python,IntelAI,2020-12-10,17,5,"#{""dzung.d.tran@intel.com"" ""kam.d.kasravi@intel.com"" ""melanie.h.buehler@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1612.0,80
+Python,IntelAI,2020-12-11,38,3,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1650.0,80
+Python,IntelAI,2020-12-12,9,1,"#{""abolfazl.shahbazi@intel.com""}",1659.0,80
+Python,IntelAI,2020-12-13,2,1,"#{""kam.d.kasravi@intel.com""}",1661.0,80
+Python,IntelAI,2020-12-16,2,1,"#{""niroopshankar.ammbashankar@intel.com""}",1663.0,80
+Python,IntelAI,2020-12-21,2,2,"#{""dzung.d.tran@intel.com"" ""melanie.h.buehler@intel.com""}",1665.0,80
+Python,IntelAI,2021-01-04,2,1,"#{""abolfazl.shahbazi@intel.com""}",1667.0,80
+Python,IntelAI,2021-01-06,1,1,"#{""louie.tsai@intel.com""}",1668.0,80
+Python,IntelAI,2021-01-12,1,1,"#{""rama.ketineni@intel.com""}",1669.0,81
+Python,IntelAI,2021-01-13,4,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1673.0,81
+Python,IntelAI,2021-01-14,1,1,"#{""abolfazl.shahbazi@intel.com""}",1674.0,81
+Python,IntelAI,2021-01-15,4,2,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com""}",1678.0,81
+Python,IntelAI,2021-01-20,2,1,"#{""wafaa.s.taie@intel.com""}",1680.0,81
+Python,IntelAI,2021-01-21,2,1,"#{""abolfazl.shahbazi@intel.com""}",1682.0,81
+Python,IntelAI,2021-01-22,5,2,"#{""abolfazl.shahbazi@intel.com"" ""niroopshankar.ammbashankar@intel.com""}",1687.0,81
+Python,IntelAI,2021-01-25,8,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1695.0,81
+Python,IntelAI,2021-01-26,4,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1699.0,81
+Python,IntelAI,2021-01-27,5,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""niroopshankar.ammbashankar@intel.com""}",1704.0,81
+Python,IntelAI,2021-01-28,1,1,"#{""kam.d.kasravi@intel.com""}",1705.0,81
+Python,IntelAI,2021-01-29,2,1,"#{""kam.d.kasravi@intel.com""}",1707.0,81
+Python,IntelAI,2021-01-31,1,1,"#{""abolfazl.shahbazi@intel.com""}",1708.0,81
+Python,IntelAI,2021-02-01,2,2,"#{""kam.d.kasravi@intel.com"" ""abolfazl.shahbazi@intel.com""}",1710.0,81
+Python,IntelAI,2021-02-02,5,4,"#{""kam.d.kasravi@intel.com"" ""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com""}",1715.0,81
+Python,IntelAI,2021-02-03,8,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1723.0,81
+Python,IntelAI,2021-02-04,6,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1729.0,81
+Python,IntelAI,2021-02-05,4,1,"#{""abolfazl.shahbazi@intel.com""}",1733.0,81
+Python,IntelAI,2021-02-08,14,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1747.0,81
+Python,IntelAI,2021-02-09,4,3,"#{""kam.d.kasravi@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1751.0,81
+Python,IntelAI,2021-02-10,18,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1769.0,81
+Python,IntelAI,2021-02-11,11,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1780.0,81
+Python,IntelAI,2021-02-12,6,2,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1786.0,81
+Python,IntelAI,2021-02-14,1,1,"#{""abolfazl.shahbazi@intel.com""}",1787.0,81
+Python,IntelAI,2021-02-17,2,1,"#{""dina.s.jones@intel.com""}",1789.0,81
+Python,IntelAI,2021-02-18,2,1,"#{""wafaa.s.taie@intel.com""}",1791.0,81
+Python,IntelAI,2021-02-22,2,1,"#{""jitendra.patil@intel.com""}",1793.0,81
+Python,IntelAI,2021-02-23,4,1,"#{""dina.s.jones@intel.com""}",1797.0,81
+Python,IntelAI,2021-02-24,5,2,"#{""dina.s.jones@intel.com"" ""yimei.sun@intel.com""}",1802.0,82
+Python,IntelAI,2021-02-25,2,1,"#{""wafaa.s.taie@intel.com""}",1804.0,82
+Python,IntelAI,2021-02-26,3,2,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com""}",1807.0,82
+Python,IntelAI,2021-03-02,1,1,"#{""melanie.h.buehler@intel.com""}",1808.0,82
+Python,IntelAI,2021-03-04,2,1,"#{""wafaa.s.taie@intel.com""}",1810.0,82
+Python,IntelAI,2021-03-05,2,2,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1812.0,82
+Python,IntelAI,2021-03-08,1,1,"#{""melanie.h.buehler@intel.com""}",1813.0,82
+Python,IntelAI,2021-03-12,4,1,"#{""abolfazl.shahbazi@intel.com""}",1817.0,82
+Python,IntelAI,2021-03-16,3,1,"#{""abolfazl.shahbazi@intel.com""}",1820.0,82
+Python,IntelAI,2021-03-18,4,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",1824.0,82
+Python,IntelAI,2021-03-19,4,1,"#{""abolfazl.shahbazi@intel.com""}",1828.0,82
+Python,IntelAI,2021-03-22,2,1,"#{""kam.d.kasravi@intel.com""}",1830.0,82
+Python,IntelAI,2021-03-23,2,1,"#{""wafaa.s.taie@intel.com""}",1832.0,82
+Python,IntelAI,2021-03-24,2,1,"#{""abolfazl.shahbazi@intel.com""}",1834.0,82
+Python,IntelAI,2021-03-25,1,1,"#{""mahmoud.abuzaina@intel.com""}",1835.0,82
+Python,IntelAI,2021-03-26,4,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1839.0,82
+Python,IntelAI,2021-03-27,1,1,"#{""abolfazl.shahbazi@intel.com""}",1840.0,82
+Python,IntelAI,2021-03-29,5,2,"#{""abolfazl.shahbazi@intel.com"" ""rajendrakumar.chinnaiyan@intel.com""}",1845.0,83
+Python,IntelAI,2021-03-30,7,3,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""david.b.kinder@intel.com""}",1852.0,84
+Python,IntelAI,2021-04-01,2,1,"#{""venkata.p.yerneni@intel.com""}",1854.0,84
+Python,IntelAI,2021-04-09,4,2,"#{""melanie.h.buehler@intel.com"" ""louie.tsai@intel.com""}",1858.0,84
+Python,IntelAI,2021-04-12,1,1,"#{""dina.s.jones@intel.com""}",1859.0,84
+Python,IntelAI,2021-04-13,6,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""srinivasan.narayanamoorthy@intel.com""}",1865.0,85
+Python,IntelAI,2021-04-16,5,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""yimei.sun@intel.com""}",1870.0,85
+Python,IntelAI,2021-04-19,4,2,"#{""om.thakkar@intel.com"" ""abolfazl.shahbazi@intel.com""}",1874.0,86
+Python,IntelAI,2021-04-20,3,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1877.0,86
+Python,IntelAI,2021-04-21,4,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""yimei.sun@intel.com""}",1881.0,86
+Python,IntelAI,2021-04-23,4,2,"#{""shweta.ojha@intel.com"" ""abolfazl.shahbazi@intel.com""}",1885.0,86
+Python,IntelAI,2021-04-26,5,2,"#{""xiaoming.cui@intel.com"" ""abolfazl.shahbazi@intel.com""}",1890.0,86
+Python,IntelAI,2021-04-28,6,4,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com"" ""mahmoud.abuzaina@intel.com""}",1896.0,86
+Python,IntelAI,2021-04-29,5,3,"#{""abolfazl.shahbazi@intel.com"" ""xkdjfk"" ""jojimon.varghese@intel.com""}",1901.0,87
+Python,IntelAI,2021-04-30,5,2,"#{""abolfazl.shahbazi@intel.com"" ""xkdjfk""}",1906.0,87
+Python,IntelAI,2021-05-03,4,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""kanvi.khanna@intel.com""}",1910.0,88
+Python,IntelAI,2021-05-04,2,2,"#{""abolfazl.shahbazi@intel.com"" ""md.faijul.amin@intel.com""}",1912.0,88
+Python,IntelAI,2021-05-05,4,3,"#{""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com"" ""kanvi.khanna@intel.com""}",1916.0,88
+Python,IntelAI,2021-05-06,4,1,"#{""abolfazl.shahbazi@intel.com""}",1920.0,88
+Python,IntelAI,2021-05-07,4,1,"#{""dina.s.jones@intel.com""}",1924.0,88
+Python,IntelAI,2021-05-12,2,2,"#{""abolfazl.shahbazi@intel.com"" ""sharada.shiddibhavi@intel.com""}",1926.0,89
+Python,IntelAI,2021-05-14,6,5,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""sharvil.shah@intel.com"" ""sharada.shiddibhavi@intel.com""}",1932.0,89
+Python,IntelAI,2021-05-19,3,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1935.0,89
+Python,IntelAI,2021-05-21,1,1,"#{""dina.s.jones@intel.com""}",1936.0,89
+Python,IntelAI,2021-05-24,4,1,"#{""abolfazl.shahbazi@intel.com""}",1940.0,89
+Python,IntelAI,2021-05-25,7,2,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com""}",1947.0,89
+Python,IntelAI,2021-05-26,5,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""xiaoming.cui@intel.com""}",1952.0,89
+Python,IntelAI,2021-05-27,3,1,"#{""dina.s.jones@intel.com""}",1955.0,89
+Python,IntelAI,2021-06-01,5,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",1960.0,89
+Python,IntelAI,2021-06-02,2,1,"#{""dina.s.jones@intel.com""}",1962.0,89
+Python,IntelAI,2021-06-03,3,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",1965.0,89
+Python,IntelAI,2021-06-04,10,5,"#{""dina.s.jones@intel.com"" ""rama.ketineni@intel.com"" ""abolfazl.shahbazi@intel.com"" ""md.faijul.amin@intel.com"" ""yimei.sun@intel.com""}",1975.0,89
+Python,IntelAI,2021-06-07,11,1,"#{""abolfazl.shahbazi@intel.com""}",1986.0,89
+Python,IntelAI,2021-06-08,13,3,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",1999.0,89
+Python,IntelAI,2021-06-09,4,1,"#{""dina.s.jones@intel.com""}",2003.0,89
+Python,IntelAI,2021-06-10,4,1,"#{""melanie.h.buehler@intel.com""}",2007.0,89
+Python,IntelAI,2021-06-11,3,2,"#{""abolfazl.shahbazi@intel.com"" ""yimei.sun@intel.com""}",2010.0,89
+Python,IntelAI,2021-06-13,2,1,"#{""dina.s.jones@intel.com""}",2012.0,89
+Python,IntelAI,2021-06-14,3,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",2015.0,89
+Python,IntelAI,2021-06-18,2,1,"#{""melanie.h.buehler@intel.com""}",2017.0,89
+Python,IntelAI,2021-06-20,1,1,"#{""melanie.h.buehler@intel.com""}",2018.0,89
+Python,IntelAI,2021-06-21,1,1,"#{""melanie.h.buehler@intel.com""}",2019.0,89
+Python,IntelAI,2021-06-23,2,2,"#{""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com""}",2021.0,89
+Python,IntelAI,2021-06-24,4,2,"#{""abolfazl.shahbazi@intel.com"" ""mahmoud.abuzaina@intel.com""}",2025.0,89
+Python,IntelAI,2021-06-28,2,2,"#{""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com""}",2027.0,89
+Python,IntelAI,2021-06-29,3,1,"#{""abolfazl.shahbazi@intel.com""}",2030.0,89
+Python,IntelAI,2021-06-30,1,1,"#{""melanie.h.buehler@intel.com""}",2031.0,89
+Python,IntelAI,2021-07-06,1,1,"#{""abolfazl.shahbazi@intel.com""}",2032.0,89
+Python,IntelAI,2021-07-08,2,2,"#{""abolfazl.shahbazi@intel.com"" ""kanvi.khanna@intel.com""}",2034.0,89
+Python,IntelAI,2021-07-13,2,1,"#{""abolfazl.shahbazi@intel.com""}",2036.0,89
+Python,IntelAI,2021-07-14,6,1,"#{""abolfazl.shahbazi@intel.com""}",2042.0,89
+Python,IntelAI,2021-07-16,2,1,"#{""yimei.sun@intel.com""}",2044.0,89
+Python,IntelAI,2021-07-19,1,1,"#{""dina.s.jones@intel.com""}",2045.0,89
+Python,IntelAI,2021-07-22,3,1,"#{""abolfazl.shahbazi@intel.com""}",2048.0,89
+Python,IntelAI,2021-07-23,11,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""jitendra.patil@intel.com""}",2059.0,89
+Python,IntelAI,2021-07-24,1,1,"#{""abolfazl.shahbazi@intel.com""}",2060.0,89
+Python,IntelAI,2021-07-26,3,2,"#{""abolfazl.shahbazi@intel.com"" ""jojimon.varghese@intel.com""}",2063.0,89
+Python,IntelAI,2021-07-28,1,1,"#{""abolfazl.shahbazi@intel.com""}",2064.0,89
+Python,IntelAI,2021-07-29,2,1,"#{""kanvi.khanna@intel.com""}",2066.0,89
+Python,IntelAI,2021-07-30,2,1,"#{""xiaoming.cui@intel.com""}",2068.0,89
+Python,IntelAI,2021-08-04,4,2,"#{""xiaoming.cui@intel.com"" ""sharada.shiddibhavi@intel.com""}",2072.0,89
+Python,IntelAI,2021-08-05,2,1,"#{""dina.s.jones@intel.com""}",2074.0,89
+Python,IntelAI,2021-08-06,2,1,"#{""xiaoming.cui@intel.com""}",2076.0,89
+Python,IntelAI,2021-08-07,2,1,"#{""venkata.p.yerneni@intel.com""}",2078.0,89
+Python,IntelAI,2021-08-09,2,1,"#{""dina.s.jones@intel.com""}",2080.0,89
+Python,IntelAI,2021-08-11,2,1,"#{""abolfazl.shahbazi@intel.com""}",2082.0,89
+Python,IntelAI,2021-08-12,1,1,"#{""dina.s.jones@intel.com""}",2083.0,89
+Python,IntelAI,2021-08-16,1,1,"#{""abolfazl.shahbazi@intel.com""}",2084.0,89
+Python,IntelAI,2021-08-18,2,1,"#{""kanvi.khanna@intel.com""}",2086.0,89
+Python,IntelAI,2021-08-19,5,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",2091.0,89
+Python,IntelAI,2021-08-20,1,1,"#{""dina.s.jones@intel.com""}",2092.0,89
+Python,IntelAI,2021-08-23,2,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",2094.0,89
+Python,IntelAI,2021-08-24,1,1,"#{""dina.s.jones@intel.com""}",2095.0,89
+Python,IntelAI,2021-08-25,4,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",2099.0,89
+Python,IntelAI,2021-08-27,3,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",2102.0,89
+Python,IntelAI,2021-08-30,3,1,"#{""dina.s.jones@intel.com""}",2105.0,89
+Python,IntelAI,2021-08-31,5,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",2110.0,89
+Python,IntelAI,2021-09-02,4,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",2114.0,89
+Python,IntelAI,2021-09-03,1,1,"#{""dina.s.jones@intel.com""}",2115.0,89
+Python,IntelAI,2021-09-07,2,1,"#{""abolfazl.shahbazi@intel.com""}",2117.0,89
+Python,IntelAI,2021-09-08,2,1,"#{""dina.s.jones@intel.com""}",2119.0,89
+Python,IntelAI,2021-09-09,2,1,"#{""dina.s.jones@intel.com""}",2121.0,89
+Python,IntelAI,2021-09-10,2,2,"#{""wafaa.s.taie@intel.com"" ""jianyu.zhang@intel.com""}",2123.0,90
+Python,IntelAI,2021-09-13,3,2,"#{""wafaa.s.taie@intel.com"" ""om.thakkar@intel.com""}",2126.0,90
+Python,IntelAI,2021-09-14,3,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",2129.0,90
+Python,IntelAI,2021-09-15,3,2,"#{""wafaa.s.taie@intel.com"" ""leslie.fang@intel.com""}",2132.0,91
+Python,IntelAI,2021-09-20,4,2,"#{""wafaa.s.taie@intel.com"" ""xiaoming.cui@intel.com""}",2136.0,91
+Python,IntelAI,2021-09-23,7,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",2143.0,91
+Python,IntelAI,2021-09-24,3,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",2146.0,91
+Python,IntelAI,2021-09-28,5,1,"#{""dina.s.jones@intel.com""}",2151.0,91
+Python,IntelAI,2021-09-29,3,1,"#{""jitendra.patil@intel.com""}",2154.0,91
+Python,IntelAI,2021-10-01,2,1,"#{""wafaa.s.taie@intel.com""}",2156.0,91
+Python,IntelAI,2021-10-04,1,1,"#{""dina.s.jones@intel.com""}",2157.0,91
+Python,IntelAI,2021-10-05,2,1,"#{""dina.s.jones@intel.com""}",2159.0,91
+Python,IntelAI,2021-10-06,4,2,"#{""xiaoming.cui@intel.com"" ""abolfazl.shahbazi@intel.com""}",2163.0,91
+Python,IntelAI,2021-10-07,2,1,"#{""wafaa.s.taie@intel.com""}",2165.0,91
+Python,IntelAI,2021-10-13,3,1,"#{""dina.s.jones@intel.com""}",2168.0,91
+Python,IntelAI,2021-10-15,9,3,"#{""dina.s.jones@intel.com"" ""xiaoming.cui@intel.com"" ""abolfazl.shahbazi@intel.com""}",2177.0,91
+Python,IntelAI,2021-10-18,4,1,"#{""abolfazl.shahbazi@intel.com""}",2181.0,91
+Python,IntelAI,2021-10-19,5,2,"#{""abolfazl.shahbazi@intel.com"" ""chunyuan.wu@intel.com""}",2186.0,92
+Python,IntelAI,2021-10-21,4,2,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com""}",2190.0,92
+Python,IntelAI,2021-10-22,6,3,"#{""dina.s.jones@intel.com"" ""jiayi.sun@intel.com"" ""yanbing.jiang@intel.com""}",2196.0,94
+Python,IntelAI,2021-10-25,3,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",2199.0,94
+Python,IntelAI,2021-10-26,4,2,"#{""liangang.zhang@intel.com"" ""xiaobing.zhang@intel.com""}",2203.0,95
+Python,IntelAI,2021-10-27,2,1,"#{""dina.s.jones@intel.com""}",2205.0,95
+Python,IntelAI,2021-10-29,3,2,"#{""dina.s.jones@intel.com"" ""chunyuan.wu@intel.com""}",2208.0,95
+Python,IntelAI,2021-11-01,2,1,"#{""haozhe.zhu@intel.com""}",2210.0,96
+Python,IntelAI,2021-11-02,6,2,"#{""abolfazl.shahbazi@intel.com"" ""leslie.fang@intel.com""}",2216.0,96
+Python,IntelAI,2021-11-03,8,4,"#{""leslie.fang@intel.com"" ""liangang.zhang@intel.com"" ""jiayi.sun@intel.com"" ""xiaobing.zhang@intel.com""}",2224.0,96
+Python,IntelAI,2021-11-04,8,4,"#{""xiaoming.cui@intel.com"" ""leslie.fang@intel.com"" ""jianan.gu@intel.com"" ""yanbing.jiang@intel.com""}",2232.0,97
+Python,IntelAI,2021-11-05,6,3,"#{""haozhe.zhu@intel.com"" ""jiayi.sun@intel.com"" ""chunyuan.wu@intel.com""}",2238.0,97
+Python,IntelAI,2021-11-06,2,1,"#{""beilei.zheng@intel.com""}",2240.0,98
+Python,IntelAI,2021-11-08,2,1,"#{""beilei.zheng@intel.com""}",2242.0,98
+Python,IntelAI,2021-11-09,5,3,"#{""wafaa.s.taie@intel.com"" ""chunyuan.wu@intel.com"" ""xiaobing.zhang@intel.com""}",2247.0,98
+Python,IntelAI,2021-11-10,16,8,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""haozhe.zhu@intel.com"" ""leslie.fang@intel.com"" ""weizhuo.zhang@intel.com"" ""jiayi.sun@intel.com"" ""jianan.gu@intel.com"" ""yanbing.jiang@intel.com""}",2263.0,99
+Python,IntelAI,2021-11-11,2,1,"#{""jiayi.sun@intel.com""}",2265.0,99
+Python,IntelAI,2021-11-12,3,2,"#{""dzung.d.tran@intel.com"" ""weizhuo.zhang@intel.com""}",2268.0,99
+Python,IntelAI,2021-11-15,4,2,"#{""abolfazl.shahbazi@intel.com"" ""weizhuo.zhang@intel.com""}",2272.0,99
+Python,IntelAI,2021-11-16,8,1,"#{""dina.s.jones@intel.com""}",2280.0,99
+Python,IntelAI,2021-11-17,13,6,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""liangang.zhang@intel.com"" ""weizhuo.zhang@intel.com"" ""jiayi.sun@intel.com"" ""chunyuan.wu@intel.com""}",2293.0,99
+Python,IntelAI,2021-11-18,2,1,"#{""abolfazl.shahbazi@intel.com""}",2295.0,99
+Python,IntelAI,2021-11-19,7,4,"#{""dina.s.jones@intel.com"" ""weizhuo.zhang@intel.com"" ""beilei.zheng@intel.com"" ""xiaobing.zhang@intel.com""}",2302.0,99
+Python,IntelAI,2021-11-21,2,2,"#{""leslie.fang@intel.com"" ""yanbing.jiang@intel.com""}",2304.0,99
+Python,IntelAI,2021-11-24,9,5,"#{""haozhe.zhu@intel.com"" ""leslie.fang@intel.com"" ""weizhuo.zhang@intel.com"" ""jiayi.sun@intel.com"" ""xiaobing.zhang@intel.com""}",2313.0,99
+Python,IntelAI,2021-11-25,5,3,"#{""leslie.fang@intel.com"" ""weizhuo.zhang@intel.com"" ""beilei.zheng@intel.com""}",2318.0,99
+Python,IntelAI,2021-11-26,5,3,"#{""liangang.zhang@intel.com"" ""beilei.zheng@intel.com"" ""jianan.gu@intel.com""}",2323.0,99
+Python,IntelAI,2021-11-29,2,2,"#{""mahmoud.abuzaina@intel.com"" ""jiayi.sun@intel.com""}",2325.0,99
+Python,IntelAI,2021-11-30,2,2,"#{""leslie.fang@intel.com"" ""liangang.zhang@intel.com""}",2327.0,99
+Python,IntelAI,2021-12-01,5,4,"#{""wafaa.s.taie@intel.com"" ""haozhe.zhu@intel.com"" ""chunyuan.wu@intel.com"" ""xiaobing.zhang@intel.com""}",2332.0,99
+Python,IntelAI,2021-12-02,1,1,"#{""beilei.zheng@intel.com""}",2333.0,99
+Python,IntelAI,2021-12-03,7,5,"#{""dina.s.jones@intel.com"" ""haozhe.zhu@intel.com"" ""leslie.fang@intel.com"" ""chunyuan.wu@intel.com"" ""xiaobing.zhang@intel.com""}",2340.0,99
+Python,IntelAI,2021-12-04,1,1,"#{""leslie.fang@intel.com""}",2341.0,99
+Python,IntelAI,2021-12-06,1,1,"#{""dina.s.jones@intel.com""}",2342.0,99
+Python,IntelAI,2021-12-07,4,3,"#{""dina.s.jones@intel.com"" ""leslie.fang@intel.com"" ""liangang.zhang@intel.com""}",2346.0,99
+Python,IntelAI,2021-12-08,3,2,"#{""dina.s.jones@intel.com"" ""liangang.zhang@intel.com""}",2349.0,99
+Python,IntelAI,2021-12-09,6,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""liangang.zhang@intel.com""}",2355.0,99
+Python,IntelAI,2021-12-10,8,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""xiaobing.zhang@intel.com""}",2363.0,99
+Python,IntelAI,2021-12-13,2,2,"#{""dina.s.jones@intel.com"" ""leslie.fang@intel.com""}",2365.0,99
+Python,IntelAI,2021-12-14,3,1,"#{""abolfazl.shahbazi@intel.com""}",2368.0,99
+Python,IntelAI,2021-12-16,3,3,"#{""wafaa.s.taie@intel.com"" ""xiaoming.cui@intel.com"" ""haozhe.zhu@intel.com""}",2371.0,99
+Python,IntelAI,2021-12-20,5,2,"#{""haozhe.zhu@intel.com"" ""weizhuo.zhang@intel.com""}",2376.0,99
+Python,IntelAI,2021-12-25,3,1,"#{""xiaofei.jiang@intel.com""}",2379.0,100
+Python,IntelAI,2021-12-27,2,1,"#{""xiaofei.jiang@intel.com""}",2381.0,100
+Python,IntelAI,2021-12-28,1,1,"#{""xiaobing.zhang@intel.com""}",2382.0,100
+Python,IntelAI,2021-12-29,2,1,"#{""haozhe.zhu@intel.com""}",2384.0,100
+Python,IntelAI,2022-01-05,2,2,"#{""abolfazl.shahbazi@intel.com"" ""leslie.fang@intel.com""}",2386.0,100
+Python,IntelAI,2022-01-06,1,1,"#{""xiaobing.zhang@intel.com""}",2387.0,100
+Python,IntelAI,2022-01-07,4,4,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""leslie.fang@intel.com"" ""yanbing.jiang@intel.com""}",2391.0,100
+Python,IntelAI,2022-01-09,2,1,"#{""beilei.zheng@intel.com""}",2393.0,100
+Python,IntelAI,2022-01-10,3,3,"#{""haozhe.zhu@intel.com"" ""jiayi.sun@intel.com"" ""yanbing.jiang@intel.com""}",2396.0,100
+Python,IntelAI,2022-01-11,3,3,"#{""haozhe.zhu@intel.com"" ""liangang.zhang@intel.com"" ""jiayi.sun@intel.com""}",2399.0,100
+Python,IntelAI,2022-01-12,1,1,"#{""vladx.silverman@intel.com""}",2400.0,101
+Python,IntelAI,2022-01-13,1,1,"#{""wafaa.s.taie@intel.com""}",2401.0,101
+Python,IntelAI,2022-01-17,1,1,"#{""jiayi.sun@intel.com""}",2402.0,101
+Python,IntelAI,2022-01-18,1,1,"#{""wafaa.s.taie@intel.com""}",2403.0,101
+Python,IntelAI,2022-01-19,2,2,"#{""melanie.h.buehler@intel.com"" ""mahmoud.abuzaina@intel.com""}",2405.0,101
+Python,IntelAI,2022-01-21,7,6,"#{""wafaa.s.taie@intel.com"" ""xiaoming.cui@intel.com"" ""leslie.fang@intel.com"" ""weizhuo.zhang@intel.com"" ""jiayi.sun@intel.com"" ""yanbing.jiang@intel.com""}",2412.0,101
+Python,IntelAI,2022-01-24,1,1,"#{""weizhuo.zhang@intel.com""}",2413.0,101
+Python,IntelAI,2022-01-26,2,2,"#{""liangang.zhang@intel.com"" ""weizhuo.zhang@intel.com""}",2415.0,101
+Python,IntelAI,2022-01-27,3,3,"#{""wafaa.s.taie@intel.com"" ""haozhe.zhu@intel.com"" ""liangang.zhang@intel.com""}",2418.0,101
+Python,IntelAI,2022-01-28,3,2,"#{""wafaa.s.taie@intel.com"" ""haozhe.zhu@intel.com""}",2421.0,101
+Python,IntelAI,2022-01-31,3,2,"#{""abolfazl.shahbazi@intel.com"" ""titswort@oregonstate.edu""}",2424.0,102
+Python,IntelAI,2022-02-01,2,1,"#{""abolfazl.shahbazi@intel.com""}",2426.0,102
+Python,IntelAI,2022-02-02,7,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",2433.0,102
+Python,IntelAI,2022-02-04,3,1,"#{""abolfazl.shahbazi@intel.com""}",2436.0,102
+Python,IntelAI,2022-02-07,3,3,"#{""dina.s.jones@intel.com"" ""abolfazl.shahbazi@intel.com"" ""haozhe.zhu@intel.com""}",2439.0,102
+Python,IntelAI,2022-02-08,3,2,"#{""abolfazl.shahbazi@intel.com"" ""louie.tsai@intel.com""}",2442.0,102
+Python,IntelAI,2022-02-09,1,1,"#{""wafaa.s.taie@intel.com""}",2443.0,102
+Python,IntelAI,2022-02-10,2,2,"#{""wafaa.s.taie@intel.com"" ""weizhuo.zhang@intel.com""}",2445.0,102
+Python,IntelAI,2022-02-11,1,1,"#{""dina.s.jones@intel.com""}",2446.0,102
+Python,IntelAI,2022-02-14,4,3,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com"" ""yanbing.jiang@intel.com""}",2450.0,102
+Python,IntelAI,2022-02-15,5,4,"#{""dina.s.jones@intel.com"" ""melanie.h.buehler@intel.com"" ""abolfazl.shahbazi@intel.com"" ""md.faijul.amin@intel.com""}",2455.0,102
+Python,IntelAI,2022-02-16,1,1,"#{""leslie.fang@intel.com""}",2456.0,102
+Python,IntelAI,2022-02-17,1,1,"#{""wafaa.s.taie@intel.com""}",2457.0,102
+Python,IntelAI,2022-02-18,4,3,"#{""wafaa.s.taie@intel.com"" ""jing.xu@intel.com"" ""jiayi.sun@intel.com""}",2461.0,103
+Python,IntelAI,2022-02-22,2,2,"#{""dina.s.jones@intel.com"" ""wafaa.s.taie@intel.com""}",2463.0,103
+Python,IntelAI,2022-02-23,2,2,"#{""dina.s.jones@intel.com"" ""haozhe.zhu@intel.com""}",2465.0,103
+Python,IntelAI,2022-02-25,1,1,"#{""beilei.zheng@intel.com""}",2466.0,103
+Python,IntelAI,2022-02-26,1,1,"#{""dina.s.jones@intel.com""}",2467.0,103
+Python,IntelAI,2022-02-28,2,2,"#{""wafaa.s.taie@intel.com"" ""weizhuo.zhang@intel.com""}",2469.0,103
+Python,IntelAI,2022-03-01,4,4,"#{""leslie.fang@intel.com"" ""jiayi.sun@intel.com"" ""louie.tsai@intel.com"" ""jianan.gu@intel.com""}",2473.0,103
+Python,IntelAI,2022-03-02,2,2,"#{""wafaa.s.taie@intel.com"" ""jiayi.sun@intel.com""}",2475.0,103
+Python,IntelAI,2022-03-03,4,3,"#{""haozhe.zhu@intel.com"" ""liangang.zhang@intel.com"" ""xiaobing.zhang@intel.com""}",2479.0,103
+Python,IntelAI,2022-03-04,3,2,"#{""wafaa.s.taie@intel.com"" ""banikumar.maiti@intel.com""}",2482.0,104
+Python,IntelAI,2022-03-05,1,1,"#{""srinivasan.narayanamoorthy@intel.com""}",2483.0,104
+Python,IntelAI,2022-03-06,1,1,"#{""dina.s.jones@intel.com""}",2484.0,104
+Python,IntelAI,2022-03-07,6,1,"#{""abolfazl.shahbazi@intel.com""}",2490.0,104
+Python,IntelAI,2022-03-08,1,1,"#{""leslie.fang@intel.com""}",2491.0,104
+Python,IntelAI,2022-03-09,3,2,"#{""leslie.fang@intel.com"" ""jing.xu@intel.com""}",2494.0,104
+Python,IntelAI,2022-03-14,1,1,"#{""dina.s.jones@intel.com""}",2495.0,104
+Python,IntelAI,2022-03-15,2,1,"#{""wafaa.s.taie@intel.com""}",2497.0,104
+Python,IntelAI,2022-03-16,2,1,"#{""abolfazl.shahbazi@intel.com""}",2499.0,104
+Python,IntelAI,2022-03-18,1,1,"#{""xiaoming.cui@intel.com""}",2500.0,104
+Python,IntelAI,2022-03-22,1,1,"#{""abolfazl.shahbazi@intel.com""}",2501.0,104
+Python,IntelAI,2022-03-25,1,1,"#{""weizhuo.zhang@intel.com""}",2502.0,104
+Python,IntelAI,2022-03-30,7,3,"#{""abolfazl.shahbazi@intel.com"" ""haozhe.zhu@intel.com"" ""beilei.zheng@intel.com""}",2509.0,104
+Python,IntelAI,2022-03-31,3,3,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com"" ""leslie.fang@intel.com""}",2512.0,104
+Python,IntelAI,2022-04-01,1,1,"#{""leslie.fang@intel.com""}",2513.0,104
+Python,IntelAI,2022-04-04,1,1,"#{""abolfazl.shahbazi@intel.com""}",2514.0,104
+Python,IntelAI,2022-04-05,2,1,"#{""abolfazl.shahbazi@intel.com""}",2516.0,104
+Python,IntelAI,2022-04-12,1,1,"#{""abolfazl.shahbazi@intel.com""}",2517.0,104
+Python,IntelAI,2022-06-01,1,1,"#{""abolfazl.shahbazi@intel.com""}",2518.0,104
+Python,IntelAI,2022-09-19,1,1,"#{""wafaa.s.taie@intel.com""}",2519.0,104
+Python,IntelAI,2022-11-16,1,1,"#{""wafaa.s.taie@intel.com""}",2520.0,104
+Python,IntelAI,2022-12-09,1,1,"#{""abolfazl.shahbazi@intel.com""}",2521.0,104
+Python,IntelAI,2022-12-16,2,1,"#{""wafaa.s.taie@intel.com""}",2523.0,104
+Python,IntelAI,2022-12-19,2,1,"#{""wafaa.s.taie@intel.com""}",2525.0,104
+Python,IntelAI,2023-01-24,1,1,"#{""wafaa.s.taie@intel.com""}",2526.0,104
+Python,IntelAI,2023-01-26,1,1,"#{""wafaa.s.taie@intel.com""}",2527.0,104
+Python,IntelAI,2023-02-02,1,1,"#{""wafaa.s.taie@intel.com""}",2528.0,104
+Python,IntelAI,2023-02-28,1,1,"#{""wafaa.s.taie@intel.com""}",2529.0,104
+Python,IntelAI,2023-03-02,1,1,"#{""wafaa.s.taie@intel.com""}",2530.0,104
+Python,IntelAI,2023-04-27,1,1,"#{""wafaa.s.taie@intel.com""}",2531.0,104
+Python,IntelAI,2023-04-28,1,1,"#{""wafaa.s.taie@intel.com""}",2532.0,104
+Python,IntelAI,2023-05-05,1,1,"#{""wafaa.s.taie@intel.com""}",2533.0,104
+Python,IntelAI,2023-07-18,2,2,"#{""wafaa.s.taie@intel.com"" ""abolfazl.shahbazi@intel.com""}",2535.0,104
+Python,IntelAI,2023-07-21,1,1,"#{""wafaa.s.taie@intel.com""}",2536.0,104
+Python,IntelAI,2023-08-07,1,1,"#{""wafaa.s.taie@intel.com""}",2537.0,104
+Python,IntelAI,2023-09-15,1,1,"#{""wafaa.s.taie@intel.com""}",2538.0,104
+Python,IntelAI,2023-10-17,1,1,"#{""wafaa.s.taie@intel.com""}",2539.0,104
+Python,IntelAI,2023-12-04,1,1,"#{""wafaa.s.taie@intel.com""}",2540.0,104

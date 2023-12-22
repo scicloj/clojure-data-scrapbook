@@ -1,0 +1,190 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/ternjs/tern_for_vim,2013-04-29,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",8.0,[{0 8}],0,8,0,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-04-30,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[tobias.pflug@gmail.com, tobias.pflug@gmail.com, samdraiz@gmail.com, tobias.pflug@gmail.com, tobias.pflug@gmail.com, samdraiz@gmail.com]",14.0,"[{0 8, 1 4, ""other"" 2}]",2,8,4,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-05-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tobias.pflug@gmail.com, tobias.pflug@gmail.com, tobias.pflug@gmail.com, tobias.pflug@gmail.com]",18.0,"[{0 8, 1 8, ""other"" 2}]",2,8,8,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-05-02,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, jack@jackfranklin.net, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, jack@jackfranklin.net, marijnh@gmail.com, marijnh@gmail.com]",28.0,"[{0 16, 1 8, ""other"" 4}]",4,16,8,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-05-03,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[claus.reinke@talk21.com, claus.reinke@talk21.com, marijnh@gmail.com, claus.reinke@talk21.com, claus.reinke@talk21.com, marijnh@gmail.com]",34.0,"[{0 18, 1 8, ""other"" 8}]",8,18,8,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-05-12,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",40.0,"[{0 24, 1 8, ""other"" 8}]",8,24,8,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-05-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",44.0,"[{0 28, 1 8, ""other"" 8}]",8,28,8,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-05-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",46.0,"[{0 30, 1 8, ""other"" 8}]",8,30,8,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-06-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",50.0,"[{0 34, 1 8, ""other"" 8}]",8,34,8,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-07-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tobias.pflug@gmail.com, tobias.pflug@gmail.com]",52.0,"[{0 34, 1 10, ""other"" 8}]",8,34,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-07-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",54.0,"[{0 36, 1 10, ""other"" 8}]",8,36,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-08-12,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",62.0,"[{0 44, 1 10, ""other"" 8}]",8,44,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-08-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stolwijk.arian@gmail.com, stolwijk.arian@gmail.com]",64.0,"[{0 44, 1 10, ""other"" 10}]",10,44,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-09-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dave.aitken@gmail.com, dave.aitken@gmail.com]",66.0,"[{0 44, 1 10, ""other"" 12}]",12,44,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-10-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",70.0,"[{0 48, 1 10, ""other"" 12}]",12,48,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-10-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",72.0,"[{0 50, 1 10, ""other"" 12}]",12,50,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-10-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",74.0,"[{0 52, 1 10, ""other"" 12}]",12,52,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2013-12-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cavingdeep@gmail.com, cavingdeep@gmail.com]",76.0,"[{0 52, 1 10, ""other"" 14}]",14,52,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-01-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tim@tmadsen.com, tim@tmadsen.com]",78.0,"[{0 52, 1 10, ""other"" 16}]",16,52,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tim@tmadsen.com, tim@tmadsen.com]",80.0,"[{0 52, 1 10, ""other"" 18}]",18,52,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[keithbsmiley@gmail.com, keithbsmiley@gmail.com]",82.0,"[{0 52, 1 10, ""other"" 20}]",20,52,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-06-06,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",90.0,"[{0 60, 1 10, ""other"" 20}]",20,60,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-07-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ddetkovs@gmail.com, ddetkovs@gmail.com]",92.0,"[{0 60, 1 10, ""other"" 22}]",22,60,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-07-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marekk@theodo.fr, marekk@theodo.fr]",94.0,"[{0 60, 1 10, ""other"" 24}]",24,60,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-09-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[j.cheatham@gmail.com, j.cheatham@gmail.com]",96.0,"[{0 60, 1 10, ""other"" 26}]",26,60,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-10-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",98.0,"[{0 62, 1 10, ""other"" 26}]",26,62,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-10-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",100.0,"[{0 64, 1 10, ""other"" 26}]",26,64,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-10-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[sloria1@gmail.com, sloria1@gmail.com, sloria1@gmail.com, sloria1@gmail.com, sloria1@gmail.com, sloria1@gmail.com]",106.0,"[{0 64, 1 10, ""other"" 32}]",32,64,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2014-10-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",110.0,"[{0 68, 1 10, ""other"" 32}]",32,68,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-05-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seb.nyberg90@gmail.com, seb.nyberg90@gmail.com]",112.0,"[{0 68, 1 10, ""other"" 34}]",34,68,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-07-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[egalpin@users.noreply.github.com, egalpin@users.noreply.github.com]",114.0,"[{0 68, 1 10, ""other"" 36}]",36,68,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-07-09,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[francisco@oblita.com, othree@gmail.com, francisco@oblita.com, othree@gmail.com]",118.0,"[{0 68, 1 10, ""other"" 40}]",40,68,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-09-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[takeda@groon.co.jp, takeda@groon.co.jp]",120.0,"[{0 68, 1 10, ""other"" 42}]",42,68,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-09-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com, marijnh@gmail.com]",124.0,"[{0 72, 1 10, ""other"" 42}]",42,72,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-10-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",126.0,"[{0 74, 1 10, ""other"" 42}]",42,74,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-10-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",128.0,"[{0 76, 1 10, ""other"" 42}]",42,76,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-11-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",130.0,"[{0 78, 1 10, ""other"" 42}]",42,78,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2015-11-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijnh@gmail.com, marijnh@gmail.com]",132.0,"[{0 80, 1 10, ""other"" 42}]",42,80,10,0,0,0
+Python,https://github.com/ternjs/tern_for_vim,2016-02-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.vereshchagin@gmail.com, dmitri.vereshchagin@gmail.com]",134.0,"[{0 80, 1 10, ""other"" 42, 4 2}]",42,80,10,0,0,2
+Python,https://github.com/ternjs/tern_for_vim,2016-02-19,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[dmitri.vereshchagin@gmail.com, dmitri.vereshchagin@gmail.com, dmitri.vereshchagin@gmail.com, dmitri.vereshchagin@gmail.com, dmitri.vereshchagin@gmail.com, dmitri.vereshchagin@gmail.com]",140.0,"[{0 80, 1 10, ""other"" 42, 4 8}]",42,80,10,0,0,8
+Python,https://github.com/ternjs/tern_for_vim,2016-03-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[harish2704@gmail.com, harish2704@gmail.com]",142.0,"[{0 80, 1 10, ""other"" 44, 4 8}]",44,80,10,0,0,8
+Python,https://github.com/ternjs/tern_for_vim,2016-04-11,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brett@ausmeier.co.za, marijn@haverbeke.nl, brett@ausmeier.co.za, marijn@haverbeke.nl]",146.0,"[{0 80, 1 10, ""other"" 46, 4 8, 3 2}]",46,80,10,0,2,8
+Python,https://github.com/ternjs/tern_for_vim,2016-04-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michael@zinreich.de, michael@zinreich.de]",148.0,"[{0 80, 1 10, ""other"" 48, 4 8, 3 2}]",48,80,10,0,2,8
+Python,https://github.com/ternjs/tern_for_vim,2016-05-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[castor.4bit@gmail.com, castor.4bit@gmail.com]",150.0,"[{0 80, 1 10, ""other"" 50, 4 8, 3 2}]",50,80,10,0,2,8
+Python,https://github.com/ternjs/tern_for_vim,2016-05-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tony@git-pull.com, tony@git-pull.com]",152.0,"[{0 80, 1 10, ""other"" 52, 4 8, 3 2}]",52,80,10,0,2,8
+Python,https://github.com/ternjs/tern_for_vim,2016-05-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dani.hodovic@gmail.com, dani.hodovic@gmail.com]",154.0,"[{0 80, 1 10, ""other"" 54, 4 8, 3 2}]",54,80,10,0,2,8
+Python,https://github.com/ternjs/tern_for_vim,2016-06-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijn@haverbeke.nl, marijn@haverbeke.nl]",156.0,"[{0 80, 1 10, ""other"" 54, 4 8, 3 4}]",54,80,10,0,4,8
+Python,https://github.com/ternjs/tern_for_vim,2016-07-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijn@haverbeke.nl, marijn@haverbeke.nl]",158.0,"[{0 80, 1 10, ""other"" 54, 4 8, 3 6}]",54,80,10,0,6,8
+Python,https://github.com/ternjs/tern_for_vim,2016-12-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijn@haverbeke.nl, marijn@haverbeke.nl]",160.0,"[{0 80, 1 10, ""other"" 54, 4 8, 3 8}]",54,80,10,0,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-01-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[victorio.franco@gmail.com, victorio.franco@gmail.com]",162.0,"[{0 80, 1 10, ""other"" 56, 4 8, 3 8}]",56,80,10,0,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-02-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rhysd@users.noreply.github.com, rhysd@users.noreply.github.com]",164.0,"[{0 80, 1 10, ""other"" 58, 4 8, 3 8}]",58,80,10,0,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-03-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marko@LAPTOP.localdomain, marko@LAPTOP.localdomain]",166.0,"[{0 80, 1 10, ""other"" 60, 4 8, 3 8}]",60,80,10,0,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-04-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bluthcy@gmail.com, bluthcy@gmail.com]",168.0,"[{0 80, 1 10, ""other"" 62, 4 8, 3 8}]",62,80,10,0,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-04-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[random620@gmail.com, random620@gmail.com]",170.0,"[{0 80, 1 10, ""other"" 62, 4 8, 3 8, 2 2}]",62,80,10,2,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-04-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tangjf.88@163.com, tangjf.88@163.com]",172.0,"[{0 80, 1 10, ""other"" 64, 4 8, 3 8, 2 2}]",64,80,10,2,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-05-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[svvac@users.noreply.github.com, svvac@users.noreply.github.com]",174.0,"[{0 80, 1 10, ""other"" 66, 4 8, 3 8, 2 2}]",66,80,10,2,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-09-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[random620@gmail.com, random620@gmail.com]",176.0,"[{0 80, 1 10, ""other"" 66, 4 8, 3 8, 2 4}]",66,80,10,4,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-09-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sebastian.a9436@gmail.com, sebastian.a9436@gmail.com]",178.0,"[{0 80, 1 10, ""other"" 68, 4 8, 3 8, 2 4}]",68,80,10,4,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-10-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[random620@gmail.com, random620@gmail.com]",180.0,"[{0 80, 1 10, ""other"" 68, 4 8, 3 8, 2 6}]",68,80,10,6,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-11-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[random620@gmail.com, random620@gmail.com, random620@gmail.com, random620@gmail.com]",184.0,"[{0 80, 1 10, ""other"" 68, 4 8, 3 8, 2 10}]",68,80,10,10,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-11-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[wsdjeg@163.com, wsdjeg@163.com]",186.0,"[{0 80, 1 10, ""other"" 70, 4 8, 3 8, 2 10}]",70,80,10,10,8,8
+Python,https://github.com/ternjs/tern_for_vim,2017-11-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[marijn@haverbeke.nl, marijn@haverbeke.nl]",188.0,"[{0 80, 1 10, ""other"" 70, 4 8, 3 10, 2 10}]",70,80,10,10,10,8
+Python,https://github.com/ternjs/tern_for_vim,2019-01-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[othree@gmail.com, othree@gmail.com, othree@gmail.com, othree@gmail.com]",192.0,"[{0 80, 1 10, ""other"" 74, 4 8, 3 10, 2 10}]",74,80,10,10,10,8

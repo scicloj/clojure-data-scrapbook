@@ -1,0 +1,247 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,cloudera,2013-05-05,2,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",2.0,2
+Python,cloudera,2013-11-11,3,1,"#{""laserson@cloudera.com""}",5.0,2
+Python,cloudera,2013-11-12,5,1,"#{""laserson@cloudera.com""}",10.0,2
+Python,cloudera,2013-11-15,6,1,"#{""laserson@cloudera.com""}",16.0,2
+Python,cloudera,2013-11-17,1,1,"#{""laserson@cloudera.com""}",17.0,2
+Python,cloudera,2013-12-02,1,1,"#{""laserson@cloudera.com""}",18.0,2
+Python,cloudera,2013-12-03,3,1,"#{""laserson@cloudera.com""}",21.0,2
+Python,cloudera,2013-12-12,2,1,"#{""laserson@cloudera.com""}",23.0,2
+Python,cloudera,2013-12-13,4,1,"#{""laserson@cloudera.com""}",27.0,2
+Python,cloudera,2013-12-14,5,1,"#{""laserson@cloudera.com""}",32.0,2
+Python,cloudera,2013-12-15,1,1,"#{""laserson@cloudera.com""}",33.0,2
+Python,cloudera,2013-12-16,2,1,"#{""laserson@cloudera.com""}",35.0,2
+Python,cloudera,2013-12-17,5,1,"#{""laserson@cloudera.com""}",40.0,2
+Python,cloudera,2014-01-15,1,1,"#{""laserson@cloudera.com""}",41.0,2
+Python,cloudera,2014-01-16,2,2,"#{""uri.laserson@gmail.com"" ""rcarneva@gmail.com""}",43.0,3
+Python,cloudera,2014-01-20,2,1,"#{""laserson@cloudera.com""}",45.0,3
+Python,cloudera,2014-01-21,1,1,"#{""laserson@cloudera.com""}",46.0,3
+Python,cloudera,2014-01-30,2,1,"#{""laserson@cloudera.com""}",48.0,3
+Python,cloudera,2014-02-12,1,1,"#{""laserson@cloudera.com""}",49.0,3
+Python,cloudera,2014-02-21,3,1,"#{""laserson@cloudera.com""}",52.0,3
+Python,cloudera,2014-02-27,2,1,"#{""laserson@cloudera.com""}",54.0,3
+Python,cloudera,2014-03-02,1,1,"#{""laserson@cloudera.com""}",55.0,3
+Python,cloudera,2014-03-21,5,2,"#{""casey@cloudera.com"" ""laserson@cloudera.com""}",60.0,4
+Python,cloudera,2014-03-24,1,1,"#{""casey@cloudera.com""}",61.0,4
+Python,cloudera,2014-03-26,1,1,"#{""uri.laserson@gmail.com""}",62.0,4
+Python,cloudera,2014-04-14,1,1,"#{""laserson@cloudera.com""}",63.0,4
+Python,cloudera,2014-04-15,1,1,"#{""laserson@cloudera.com""}",64.0,4
+Python,cloudera,2014-04-16,3,1,"#{""laserson@cloudera.com""}",67.0,4
+Python,cloudera,2014-04-21,2,1,"#{""laserson@cloudera.com""}",69.0,4
+Python,cloudera,2014-04-24,2,1,"#{""laserson@cloudera.com""}",71.0,4
+Python,cloudera,2014-04-25,4,1,"#{""laserson@cloudera.com""}",75.0,4
+Python,cloudera,2014-04-28,1,1,"#{""laserson@cloudera.com""}",76.0,4
+Python,cloudera,2014-04-29,1,1,"#{""laserson@cloudera.com""}",77.0,4
+Python,cloudera,2014-05-02,5,1,"#{""laserson@cloudera.com""}",82.0,4
+Python,cloudera,2014-05-14,2,1,"#{""laserson@cloudera.com""}",84.0,4
+Python,cloudera,2014-05-16,3,1,"#{""laserson@cloudera.com""}",87.0,4
+Python,cloudera,2014-05-22,1,1,"#{""laserson@cloudera.com""}",88.0,4
+Python,cloudera,2014-05-23,2,2,"#{""uri.laserson@gmail.com"" ""ishaan@cloudera.com""}",90.0,5
+Python,cloudera,2014-05-27,2,1,"#{""laserson@cloudera.com""}",92.0,5
+Python,cloudera,2014-05-28,3,1,"#{""laserson@cloudera.com""}",95.0,5
+Python,cloudera,2014-05-29,1,1,"#{""laserson@cloudera.com""}",96.0,5
+Python,cloudera,2014-05-30,1,1,"#{""laserson@cloudera.com""}",97.0,5
+Python,cloudera,2014-06-12,2,1,"#{""laserson@cloudera.com""}",99.0,5
+Python,cloudera,2014-06-13,2,1,"#{""laserson@cloudera.com""}",101.0,5
+Python,cloudera,2014-07-03,1,1,"#{""laserson@cloudera.com""}",102.0,5
+Python,cloudera,2014-08-05,3,1,"#{""laserson@cloudera.com""}",105.0,5
+Python,cloudera,2014-08-07,1,1,"#{""laserson@cloudera.com""}",106.0,5
+Python,cloudera,2014-08-12,1,1,"#{""laserson@cloudera.com""}",107.0,5
+Python,cloudera,2014-08-18,2,2,"#{""uri.laserson@gmail.com"" ""marius.v.niekerk@gmail.com""}",109.0,6
+Python,cloudera,2014-08-21,1,1,"#{""casey@cloudera.com""}",110.0,6
+Python,cloudera,2014-08-22,1,1,"#{""laserson@cloudera.com""}",111.0,6
+Python,cloudera,2014-08-26,1,1,"#{""abdullah.yousufi@cloudera.com""}",112.0,7
+Python,cloudera,2014-08-27,1,1,"#{""uri.laserson@gmail.com""}",113.0,7
+Python,cloudera,2014-08-28,3,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",116.0,7
+Python,cloudera,2014-08-29,2,1,"#{""abdullah.yousufi@cloudera.com""}",118.0,7
+Python,cloudera,2014-09-02,3,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",121.0,7
+Python,cloudera,2014-09-08,2,1,"#{""laserson@cloudera.com""}",123.0,7
+Python,cloudera,2014-09-12,1,1,"#{""uri.laserson@gmail.com""}",124.0,7
+Python,cloudera,2014-09-16,4,1,"#{""laserson@cloudera.com""}",128.0,7
+Python,cloudera,2014-09-17,2,2,"#{""uri.laserson@gmail.com"" ""marius.v.niekerk@gmail.com""}",130.0,7
+Python,cloudera,2014-09-18,1,1,"#{""casey@cloudera.com""}",131.0,7
+Python,cloudera,2014-09-22,2,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",133.0,7
+Python,cloudera,2014-09-23,3,1,"#{""laserson@cloudera.com""}",136.0,7
+Python,cloudera,2014-09-24,1,1,"#{""laserson@cloudera.com""}",137.0,7
+Python,cloudera,2014-09-30,1,1,"#{""laserson@cloudera.com""}",138.0,7
+Python,cloudera,2014-10-01,4,1,"#{""laserson@cloudera.com""}",142.0,7
+Python,cloudera,2014-10-06,2,2,"#{""uri.laserson@gmail.com"" ""casey@cloudera.com""}",144.0,7
+Python,cloudera,2014-10-07,3,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",147.0,7
+Python,cloudera,2014-10-08,2,1,"#{""laserson@cloudera.com""}",149.0,7
+Python,cloudera,2014-10-10,1,1,"#{""laserson@cloudera.com""}",150.0,7
+Python,cloudera,2014-10-13,2,1,"#{""laserson@cloudera.com""}",152.0,7
+Python,cloudera,2014-10-16,3,1,"#{""laserson@cloudera.com""}",155.0,7
+Python,cloudera,2014-10-17,2,1,"#{""marius.v.niekerk@gmail.com""}",157.0,7
+Python,cloudera,2014-10-20,3,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",160.0,7
+Python,cloudera,2014-10-21,1,1,"#{""laserson@cloudera.com""}",161.0,7
+Python,cloudera,2014-10-22,2,1,"#{""laserson@cloudera.com""}",163.0,7
+Python,cloudera,2014-11-09,3,1,"#{""laserson@cloudera.com""}",166.0,7
+Python,cloudera,2014-11-16,2,2,"#{""uri.laserson@gmail.com"" ""marius.v.niekerk@gmail.com""}",168.0,7
+Python,cloudera,2014-11-19,2,2,"#{""uri.laserson@gmail.com"" ""frank.kaufer@bakdata.com""}",170.0,8
+Python,cloudera,2014-12-02,2,1,"#{""laserson@cloudera.com""}",172.0,8
+Python,cloudera,2014-12-03,1,1,"#{""juliet@cloudera.com""}",173.0,9
+Python,cloudera,2014-12-04,2,1,"#{""laserson@cloudera.com""}",175.0,9
+Python,cloudera,2014-12-05,1,1,"#{""uri.laserson@gmail.com""}",176.0,9
+Python,cloudera,2014-12-15,1,1,"#{""uri.laserson@gmail.com""}",177.0,9
+Python,cloudera,2014-12-17,2,1,"#{""laserson@cloudera.com""}",179.0,9
+Python,cloudera,2014-12-18,1,1,"#{""laserson@cloudera.com""}",180.0,9
+Python,cloudera,2014-12-28,1,1,"#{""laserson@cloudera.com""}",181.0,9
+Python,cloudera,2015-01-20,1,1,"#{""laserson@cloudera.com""}",182.0,9
+Python,cloudera,2015-01-26,3,1,"#{""laserson@cloudera.com""}",185.0,9
+Python,cloudera,2015-02-02,2,2,"#{""uri.laserson@gmail.com"" ""wes@cloudera.com""}",187.0,10
+Python,cloudera,2015-02-03,1,1,"#{""laserson@cloudera.com""}",188.0,10
+Python,cloudera,2015-02-05,1,1,"#{""laserson@cloudera.com""}",189.0,10
+Python,cloudera,2015-02-16,1,1,"#{""marius.v.niekerk@gmail.com""}",190.0,10
+Python,cloudera,2015-02-17,3,3,"#{""uri.laserson@gmail.com"" ""marius.v.niekerk@gmail.com"" ""laserson@cloudera.com""}",193.0,10
+Python,cloudera,2015-03-06,2,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",195.0,10
+Python,cloudera,2015-03-11,2,1,"#{""laserson@cloudera.com""}",197.0,10
+Python,cloudera,2015-03-31,1,1,"#{""github@tjeb.nl""}",198.0,11
+Python,cloudera,2015-04-06,3,3,"#{""uri.laserson@gmail.com"" ""mj@cloudera.com"" ""laserson@cloudera.com""}",201.0,12
+Python,cloudera,2015-04-07,1,1,"#{""uri.laserson@gmail.com""}",202.0,12
+Python,cloudera,2015-04-08,1,1,"#{""uri.laserson@gmail.com""}",203.0,12
+Python,cloudera,2015-04-27,1,1,"#{""laserson@cloudera.com""}",204.0,12
+Python,cloudera,2015-04-29,2,1,"#{""laserson@cloudera.com""}",206.0,12
+Python,cloudera,2015-05-29,3,1,"#{""laserson@cloudera.com""}",209.0,12
+Python,cloudera,2015-06-02,2,1,"#{""laserson@cloudera.com""}",211.0,12
+Python,cloudera,2015-06-04,4,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",215.0,12
+Python,cloudera,2015-06-05,1,1,"#{""laserson@cloudera.com""}",216.0,12
+Python,cloudera,2015-06-07,2,1,"#{""laserson@cloudera.com""}",218.0,12
+Python,cloudera,2015-06-10,1,1,"#{""laserson@cloudera.com""}",219.0,12
+Python,cloudera,2015-06-11,1,1,"#{""casey@cloudera.com""}",220.0,12
+Python,cloudera,2015-07-14,1,1,"#{""laserson@cloudera.com""}",221.0,12
+Python,cloudera,2015-07-20,1,1,"#{""szehon@cloudera.com""}",222.0,13
+Python,cloudera,2015-07-21,1,1,"#{""laserson@cloudera.com""}",223.0,13
+Python,cloudera,2015-07-23,1,1,"#{""nonsleepr@gmail.com""}",224.0,14
+Python,cloudera,2015-07-24,3,3,"#{""uri.laserson@gmail.com"" ""lskuff@cloudera.com"" ""laserson@cloudera.com""}",227.0,15
+Python,cloudera,2015-07-26,3,1,"#{""laserson@cloudera.com""}",230.0,15
+Python,cloudera,2015-07-29,1,1,"#{""laserson@cloudera.com""}",231.0,15
+Python,cloudera,2015-07-30,1,1,"#{""laserson@cloudera.com""}",232.0,15
+Python,cloudera,2015-08-12,1,1,"#{""laserson@cloudera.com""}",233.0,15
+Python,cloudera,2015-08-21,2,1,"#{""laserson@cloudera.com""}",235.0,15
+Python,cloudera,2015-08-25,1,1,"#{""wes@cloudera.com""}",236.0,15
+Python,cloudera,2015-08-26,2,2,"#{""laserson@cloudera.com"" ""wes@cloudera.com""}",238.0,15
+Python,cloudera,2015-08-27,2,1,"#{""laserson@cloudera.com""}",240.0,15
+Python,cloudera,2015-08-31,8,1,"#{""laserson@cloudera.com""}",248.0,15
+Python,cloudera,2015-09-02,1,1,"#{""laserson@cloudera.com""}",249.0,15
+Python,cloudera,2015-09-03,2,1,"#{""laserson@cloudera.com""}",251.0,15
+Python,cloudera,2015-09-04,3,1,"#{""laserson@cloudera.com""}",254.0,15
+Python,cloudera,2015-09-08,1,1,"#{""laserson@cloudera.com""}",255.0,15
+Python,cloudera,2015-09-28,1,1,"#{""laserson@cloudera.com""}",256.0,15
+Python,cloudera,2015-10-06,1,1,"#{""laserson@cloudera.com""}",257.0,15
+Python,cloudera,2015-10-07,2,1,"#{""laserson@cloudera.com""}",259.0,15
+Python,cloudera,2015-10-16,1,1,"#{""casey@cloudera.com""}",260.0,15
+Python,cloudera,2015-10-28,1,1,"#{""wes@cloudera.com""}",261.0,15
+Python,cloudera,2015-10-29,1,1,"#{""laserson@cloudera.com""}",262.0,15
+Python,cloudera,2015-10-30,2,1,"#{""laserson@cloudera.com""}",264.0,15
+Python,cloudera,2015-11-09,5,2,"#{""laserson@cloudera.com"" ""wes@cloudera.com""}",269.0,15
+Python,cloudera,2015-11-10,1,1,"#{""wes@cloudera.com""}",270.0,15
+Python,cloudera,2015-12-03,1,1,"#{""i@raynes.me""}",271.0,16
+Python,cloudera,2015-12-08,2,1,"#{""laserson@cloudera.com""}",273.0,16
+Python,cloudera,2015-12-11,2,2,"#{""ishaan@cloudera.com"" ""laserson@cloudera.com""}",275.0,16
+Python,cloudera,2015-12-14,1,1,"#{""willwangv@gmail.com""}",276.0,17
+Python,cloudera,2016-01-22,1,1,"#{""laserson@cloudera.com""}",277.0,17
+Python,cloudera,2016-01-25,3,1,"#{""laserson@cloudera.com""}",280.0,17
+Python,cloudera,2016-01-27,1,1,"#{""laserson@cloudera.com""}",281.0,17
+Python,cloudera,2016-02-01,1,1,"#{""laserson@cloudera.com""}",282.0,17
+Python,cloudera,2016-02-05,5,2,"#{""uri.laserson@gmail.com"" ""laserson@cloudera.com""}",287.0,17
+Python,cloudera,2016-02-08,2,2,"#{""wes@cloudera.com"" ""zibi667@gmail.com""}",289.0,18
+Python,cloudera,2016-02-16,3,1,"#{""wes@cloudera.com""}",292.0,18
+Python,cloudera,2016-02-21,1,1,"#{""nonsleepr@gmail.com""}",293.0,18
+Python,cloudera,2016-02-22,1,1,"#{""julien.baley@gmail.com""}",294.0,19
+Python,cloudera,2016-02-23,2,1,"#{""wes@cloudera.com""}",296.0,19
+Python,cloudera,2016-03-02,2,2,"#{""wes@cloudera.com"" ""wesm@apache.org""}",298.0,20
+Python,cloudera,2016-03-03,1,1,"#{""wesm@apache.org""}",299.0,20
+Python,cloudera,2016-03-09,3,2,"#{""wes@cloudera.com"" ""wesm@apache.org""}",302.0,20
+Python,cloudera,2016-03-13,1,1,"#{""wesm@apache.org""}",303.0,20
+Python,cloudera,2016-04-03,2,2,"#{""jmmarkha@ncsu.edu"" ""wesm@apache.org""}",305.0,21
+Python,cloudera,2016-04-21,1,1,"#{""josh@joshwalters.com""}",306.0,22
+Python,cloudera,2016-04-22,1,1,"#{""wesm@apache.org""}",307.0,22
+Python,cloudera,2016-04-23,1,1,"#{""chenhong.xie@gmail.com""}",308.0,23
+Python,cloudera,2016-04-26,1,1,"#{""bruno@quinart.be""}",309.0,24
+Python,cloudera,2016-05-04,2,1,"#{""wesm@apache.org""}",311.0,24
+Python,cloudera,2016-08-27,1,1,"#{""fcntl@users.noreply.github.com""}",312.0,25
+Python,cloudera,2016-09-29,1,1,"#{""joshuagbaxter@gmail.com""}",313.0,26
+Python,cloudera,2016-09-30,2,2,"#{""tigran@saluev.com"" ""Florian.Wilhelm@gmail.com""}",315.0,28
+Python,cloudera,2016-10-02,1,1,"#{""tigran@saluev.com""}",316.0,28
+Python,cloudera,2016-10-16,1,1,"#{""joshuagbaxter@gmail.com""}",317.0,28
+Python,cloudera,2016-10-29,1,1,"#{""joshuagbaxter@gmail.com""}",318.0,28
+Python,cloudera,2016-11-08,1,1,"#{""joshuagbaxter@gmail.com""}",319.0,28
+Python,cloudera,2016-11-27,3,1,"#{""wes.mckinney@twosigma.com""}",322.0,29
+Python,cloudera,2017-02-13,1,1,"#{""tdhopper@users.noreply.github.com""}",323.0,30
+Python,cloudera,2017-10-12,1,1,"#{""dreyco676@gmail.com""}",324.0,31
+Python,cloudera,2018-07-18,4,4,"#{""tothandor@gmail.com"" ""hendrik.kleinwaechter@gmail.com"" ""fokko@driesprong.frl"" ""41145406+el-stano@users.noreply.github.com""}",328.0,35
+Python,cloudera,2018-08-13,1,1,"#{""tim.g.armstrong@gmail.com""}",329.0,36
+Python,cloudera,2018-09-19,1,1,"#{""rosenville@gmail.com""}",330.0,37
+Python,cloudera,2018-12-02,1,1,"#{""jakub@mbr-targeting.com""}",331.0,38
+Python,cloudera,2019-01-12,1,1,"#{""cpcloud@gmail.com""}",332.0,39
+Python,cloudera,2019-02-20,1,1,"#{""lvolker@gmail.com""}",333.0,40
+Python,cloudera,2019-02-25,1,1,"#{""lv@cloudera.com""}",334.0,41
+Python,cloudera,2019-02-26,1,1,"#{""tim.g.armstrong@gmail.com""}",335.0,41
+Python,cloudera,2019-02-27,2,2,"#{""dimaspivak@users.noreply.github.com"" ""eugene@rachitskiy.com""}",337.0,43
+Python,cloudera,2019-02-28,1,1,"#{""guillemborrell@gmail.com""}",338.0,44
+Python,cloudera,2019-03-04,1,1,"#{""tim.g.armstrong@gmail.com""}",339.0,44
+Python,cloudera,2019-03-06,1,1,"#{""devinstevenson@users.noreply.github.com""}",340.0,45
+Python,cloudera,2019-03-07,2,2,"#{""dknupp@users.noreply.github.com"" ""manuvaldes@gmail.com""}",342.0,47
+Python,cloudera,2019-03-18,1,1,"#{""dknupp@users.noreply.github.com""}",343.0,47
+Python,cloudera,2019-06-04,1,1,"#{""julien.marechal35@gmail.com""}",344.0,48
+Python,cloudera,2019-06-21,1,1,"#{""epiphyte@vertex.link""}",345.0,49
+Python,cloudera,2019-07-15,1,1,"#{""rrichmond.gh@gmail.com""}",346.0,50
+Python,cloudera,2019-08-13,1,1,"#{""cympfh@gmail.com""}",347.0,51
+Python,cloudera,2019-08-15,2,2,"#{""lv@cloudera.com"" ""chenxiang0815@gmail.com""}",349.0,52
+Python,cloudera,2019-08-21,1,1,"#{""prasanna.sk@gmail.com""}",350.0,53
+Python,cloudera,2019-09-04,1,1,"#{""545552727@qq.com""}",351.0,54
+Python,cloudera,2019-09-06,1,1,"#{""dknupp@users.noreply.github.com""}",352.0,54
+Python,cloudera,2019-09-23,2,2,"#{""dknupp@cloudera.com"" ""dknupp@users.noreply.github.com""}",354.0,55
+Python,cloudera,2019-11-04,1,1,"#{""tim.g.armstrong@gmail.com""}",355.0,55
+Python,cloudera,2019-11-07,1,1,"#{""dknupp@users.noreply.github.com""}",356.0,55
+Python,cloudera,2019-11-11,1,1,"#{""Tagar@users.noreply.github.com""}",357.0,56
+Python,cloudera,2019-11-20,2,1,"#{""tim.g.armstrong@gmail.com""}",359.0,56
+Python,cloudera,2019-12-10,1,1,"#{""dknupp@users.noreply.github.com""}",360.0,56
+Python,cloudera,2020-03-13,1,1,"#{""rafaelreuber@gmail.com""}",361.0,57
+Python,cloudera,2020-05-01,3,3,"#{""dknupp@users.noreply.github.com"" ""tim.g.armstrong@gmail.com"" ""attila.jeges@gmail.com""}",364.0,58
+Python,cloudera,2020-05-02,1,1,"#{""tir.karthi@gmail.com""}",365.0,59
+Python,cloudera,2020-05-08,1,1,"#{""asherman@cloudera.com""}",366.0,60
+Python,cloudera,2020-05-20,1,1,"#{""asherman@cloudera.com""}",367.0,60
+Python,cloudera,2020-05-21,1,1,"#{""tim.g.armstrong@gmail.com""}",368.0,60
+Python,cloudera,2020-06-11,1,1,"#{""tim.g.armstrong@gmail.com""}",369.0,60
+Python,cloudera,2020-07-23,1,1,"#{""tim.g.armstrong@gmail.com""}",370.0,60
+Python,cloudera,2020-09-30,1,1,"#{""t.paine154@gmail.com""}",371.0,61
+Python,cloudera,2020-10-02,1,1,"#{""attila.jeges@gmail.com""}",372.0,61
+Python,cloudera,2020-10-07,2,1,"#{""attila.jeges@gmail.com""}",374.0,61
+Python,cloudera,2020-12-08,1,1,"#{""asherman@cloudera.com""}",375.0,61
+Python,cloudera,2021-03-17,1,1,"#{""attila.jeges@gmail.com""}",376.0,61
+Python,cloudera,2021-04-01,1,1,"#{""attilaj@cloudera.com""}",377.0,62
+Python,cloudera,2021-04-09,1,1,"#{""55709772+scarlin-cloudera@users.noreply.github.com""}",378.0,63
+Python,cloudera,2021-04-14,3,2,"#{""attilaj@cloudera.com"" ""csringhofer@cloudera.com""}",381.0,64
+Python,cloudera,2021-04-19,2,2,"#{""attilaj@cloudera.com"" ""csringhofer@cloudera.com""}",383.0,64
+Python,cloudera,2021-04-23,1,1,"#{""attilaj@cloudera.com""}",384.0,64
+Python,cloudera,2021-04-27,2,1,"#{""attilaj@cloudera.com""}",386.0,64
+Python,cloudera,2021-04-29,3,2,"#{""attilaj@cloudera.com"" ""csringhofer@cloudera.com""}",389.0,64
+Python,cloudera,2021-05-04,2,2,"#{""attilaj@cloudera.com"" ""csringhofer@cloudera.com""}",391.0,64
+Python,cloudera,2021-05-06,1,1,"#{""csringhofer@cloudera.com""}",392.0,64
+Python,cloudera,2021-05-10,1,1,"#{""csringhofer@cloudera.com""}",393.0,64
+Python,cloudera,2021-05-14,4,3,"#{""attilaj@cloudera.com"" ""csringhofer@cloudera.com"" ""attila.jeges@gmail.com""}",397.0,64
+Python,cloudera,2021-05-17,2,2,"#{""daniel@woods.us"" ""attila.jeges@gmail.com""}",399.0,65
+Python,cloudera,2021-05-18,1,1,"#{""daniel@woods.us""}",400.0,65
+Python,cloudera,2021-05-20,2,2,"#{""dlaing@pivotal.io"" ""attila.jeges@gmail.com""}",402.0,66
+Python,cloudera,2021-05-21,2,2,"#{""attilaj@cloudera.com"" ""attila.jeges@gmail.com""}",404.0,66
+Python,cloudera,2021-05-26,2,1,"#{""attilaj@cloudera.com""}",406.0,66
+Python,cloudera,2021-06-11,2,2,"#{""dhanababum@users.noreply.github.com"" ""attila.jeges@gmail.com""}",408.0,67
+Python,cloudera,2021-07-29,1,1,"#{""inrejoe@gmail.com""}",409.0,68
+Python,cloudera,2021-08-10,1,1,"#{""58790157+wzhou-code@users.noreply.github.com""}",410.0,69
+Python,cloudera,2021-08-17,1,1,"#{""58790157+wzhou-code@users.noreply.github.com""}",411.0,69
+Python,cloudera,2021-10-08,2,1,"#{""58790157+wzhou-code@users.noreply.github.com""}",413.0,69
+Python,cloudera,2022-03-15,2,2,"#{""tovganesh@yahoo.co.in"" ""58790157+wzhou-code@users.noreply.github.com""}",415.0,70
+Python,cloudera,2022-04-21,2,2,"#{""csringhofer@cloudera.com"" ""tir.karthi@gmail.com""}",417.0,70
+Python,cloudera,2022-04-27,2,1,"#{""csringhofer@cloudera.com""}",419.0,70
+Python,cloudera,2022-05-24,1,1,"#{""csringhofer@cloudera.com""}",420.0,70
+Python,cloudera,2022-07-13,2,2,"#{""58790157+wzhou-code@users.noreply.github.com"" ""csringhofer@cloudera.com""}",422.0,70
+Python,cloudera,2022-08-30,2,1,"#{""csringhofer@cloudera.com""}",424.0,70
+Python,cloudera,2022-09-17,1,1,"#{""ganesh.venkateshwara@cloudera.com""}",425.0,71
+Python,cloudera,2022-09-27,2,1,"#{""csringhofer@cloudera.com""}",427.0,71
+Python,cloudera,2022-09-28,2,1,"#{""csringhofer@cloudera.com""}",429.0,71
+Python,cloudera,2023-01-10,1,1,"#{""j.skrle@gmail.com""}",430.0,72
+Python,cloudera,2023-06-07,1,1,"#{""jasonmfehr@users.noreply.github.com""}",431.0,73
+Python,cloudera,2023-08-01,1,1,"#{""asherman@cloudera.com""}",432.0,73
+Python,cloudera,2023-10-24,1,1,"#{""mail@huw.org.uk""}",433.0,74
+Python,cloudera,2023-11-21,1,1,"#{""58790157+wzhou-code@users.noreply.github.com""}",434.0,74

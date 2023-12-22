@@ -1,0 +1,958 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,lspector,2010-09-18,1,1,"#{""lspector@hampshire.edu""}",1.0,1
+Clojure,lspector,2010-09-19,4,1,"#{""lspector@hampshire.edu""}",5.0,1
+Clojure,lspector,2010-09-20,4,1,"#{""lspector@hampshire.edu""}",9.0,1
+Clojure,lspector,2010-09-21,3,1,"#{""lspector@hampshire.edu""}",12.0,1
+Clojure,lspector,2010-09-25,2,1,"#{""lspector@hampshire.edu""}",14.0,1
+Clojure,lspector,2010-10-05,2,1,"#{""lspector@hampshire.edu""}",16.0,1
+Clojure,lspector,2010-10-14,2,1,"#{""lspector@hampshire.edu""}",18.0,1
+Clojure,lspector,2010-10-17,1,1,"#{""lspector@hampshire.edu""}",19.0,1
+Clojure,lspector,2010-11-04,1,1,"#{""lspector@hampshire.edu""}",20.0,1
+Clojure,lspector,2010-11-07,1,1,"#{""lspector@hampshire.edu""}",21.0,1
+Clojure,lspector,2010-12-05,3,1,"#{""lspector@hampshire.edu""}",24.0,1
+Clojure,lspector,2010-12-08,1,1,"#{""lspector@hampshire.edu""}",25.0,1
+Clojure,lspector,2011-01-12,3,1,"#{""lspector@hampshire.edu""}",28.0,1
+Clojure,lspector,2011-01-13,1,1,"#{""lspector@hampshire.edu""}",29.0,1
+Clojure,lspector,2011-01-14,1,1,"#{""lspector@hampshire.edu""}",30.0,1
+Clojure,lspector,2011-01-18,1,1,"#{""lspector@hampshire.edu""}",31.0,1
+Clojure,lspector,2011-03-27,1,1,"#{""lspector@hampshire.edu""}",32.0,1
+Clojure,lspector,2011-04-09,2,1,"#{""lspector@hampshire.edu""}",34.0,1
+Clojure,lspector,2011-04-24,1,1,"#{""lspector@hampshire.edu""}",35.0,1
+Clojure,lspector,2011-05-08,1,1,"#{""lspector@hampshire.edu""}",36.0,1
+Clojure,lspector,2011-05-17,1,1,"#{""lspector@hampshire.edu""}",37.0,1
+Clojure,lspector,2011-05-26,1,1,"#{""lspector@hampshire.edu""}",38.0,1
+Clojure,lspector,2011-06-07,1,1,"#{""lspector@hampshire.edu""}",39.0,1
+Clojure,lspector,2011-06-18,1,1,"#{""lspector@hampshire.edu""}",40.0,1
+Clojure,lspector,2011-06-24,2,1,"#{""lspector@hampshire.edu""}",42.0,1
+Clojure,lspector,2011-06-29,1,1,"#{""lspector@hampshire.edu""}",43.0,1
+Clojure,lspector,2011-07-02,1,1,"#{""lspector@hampshire.edu""}",44.0,1
+Clojure,lspector,2011-07-14,1,1,"#{""lspector@hampshire.edu""}",45.0,1
+Clojure,lspector,2011-08-09,1,1,"#{""lspector@hampshire.edu""}",46.0,1
+Clojure,lspector,2011-09-11,2,1,"#{""lspector@hampshire.edu""}",48.0,1
+Clojure,lspector,2011-10-26,1,1,"#{""trhtom@gmail.com""}",49.0,2
+Clojure,lspector,2011-10-27,4,1,"#{""trhtom@gmail.com""}",53.0,2
+Clojure,lspector,2011-10-28,4,1,"#{""trhtom@gmail.com""}",57.0,2
+Clojure,lspector,2011-11-03,2,1,"#{""trhtom@gmail.com""}",59.0,2
+Clojure,lspector,2011-11-04,5,1,"#{""trhtom@gmail.com""}",64.0,2
+Clojure,lspector,2011-11-11,7,3,"#{""trhtom@gmail.com"" ""kyleharrington@serotonin.local"" ""kyleh@cs.brandeis.edu""}",71.0,4
+Clojure,lspector,2011-11-12,5,3,"#{""lspector@hampshire.edu"" ""kyleharrington@serotonin.local"" ""kyleh@cs.brandeis.edu""}",76.0,4
+Clojure,lspector,2011-11-15,1,1,"#{""lspector@hampshire.edu""}",77.0,4
+Clojure,lspector,2011-11-16,1,1,"#{""trhtom@gmail.com""}",78.0,4
+Clojure,lspector,2011-11-17,1,1,"#{""kyleh@cs.brandeis.edu""}",79.0,4
+Clojure,lspector,2011-11-18,5,3,"#{""lspector@hampshire.edu"" ""trhtom@gmail.com"" ""kyleh@cs.brandeis.edu""}",84.0,4
+Clojure,lspector,2011-11-19,1,1,"#{""lspector@hampshire.edu""}",85.0,4
+Clojure,lspector,2011-12-14,3,1,"#{""kyleh@cs.brandeis.edu""}",88.0,4
+Clojure,lspector,2012-01-22,1,1,"#{""lspector@hampshire.edu""}",89.0,4
+Clojure,lspector,2012-02-04,1,1,"#{""trhtom@gmail.com""}",90.0,4
+Clojure,lspector,2012-02-07,1,1,"#{""lspector@hampshire.edu""}",91.0,4
+Clojure,lspector,2012-02-10,2,1,"#{""lspector@hampshire.edu""}",93.0,4
+Clojure,lspector,2012-02-17,1,1,"#{""lspector@hampshire.edu""}",94.0,4
+Clojure,lspector,2012-02-18,2,1,"#{""lspector@hampshire.edu""}",96.0,4
+Clojure,lspector,2012-03-02,6,1,"#{""lspector@hampshire.edu""}",102.0,4
+Clojure,lspector,2012-03-03,1,1,"#{""lspector@hampshire.edu""}",103.0,4
+Clojure,lspector,2012-03-04,1,1,"#{""lspector@hampshire.edu""}",104.0,4
+Clojure,lspector,2012-03-09,1,1,"#{""lspector@hampshire.edu""}",105.0,4
+Clojure,lspector,2012-03-11,4,1,"#{""lspector@hampshire.edu""}",109.0,4
+Clojure,lspector,2012-03-12,2,1,"#{""lspector@hampshire.edu""}",111.0,4
+Clojure,lspector,2012-03-23,25,1,"#{""kyleh@cs.brandeis.edu""}",136.0,4
+Clojure,lspector,2012-03-25,3,1,"#{""lspector@hampshire.edu""}",139.0,4
+Clojure,lspector,2012-06-01,1,1,"#{""lspector@hampshire.edu""}",140.0,4
+Clojure,lspector,2012-06-12,5,2,"#{""lspector@hampshire.edu"" ""trhtom@gmail.com""}",145.0,4
+Clojure,lspector,2012-06-14,2,1,"#{""lspector@hampshire.edu""}",147.0,4
+Clojure,lspector,2012-06-18,4,2,"#{""lspector@hampshire.edu"" ""trhtom@gmail.com""}",151.0,4
+Clojure,lspector,2012-06-20,6,1,"#{""trhtom@gmail.com""}",157.0,4
+Clojure,lspector,2012-06-21,9,1,"#{""trhtom@gmail.com""}",166.0,4
+Clojure,lspector,2012-06-22,5,1,"#{""trhtom@gmail.com""}",171.0,4
+Clojure,lspector,2012-06-23,3,1,"#{""lspector@hampshire.edu""}",174.0,4
+Clojure,lspector,2012-06-24,2,1,"#{""lspector@hampshire.edu""}",176.0,4
+Clojure,lspector,2012-06-25,17,2,"#{""lspector@hampshire.edu"" ""trhtom@gmail.com""}",193.0,4
+Clojure,lspector,2012-06-26,7,1,"#{""trhtom@gmail.com""}",200.0,4
+Clojure,lspector,2012-06-27,2,1,"#{""lspector@hampshire.edu""}",202.0,4
+Clojure,lspector,2012-06-28,1,1,"#{""trhtom@gmail.com""}",203.0,4
+Clojure,lspector,2012-06-29,2,2,"#{""lspector@hampshire.edu"" ""trhtom@gmail.com""}",205.0,4
+Clojure,lspector,2012-07-07,1,1,"#{""lspector@hampshire.edu""}",206.0,4
+Clojure,lspector,2012-07-14,1,1,"#{""lspector@hampshire.edu""}",207.0,4
+Clojure,lspector,2012-07-17,2,1,"#{""lspector@hampshire.edu""}",209.0,4
+Clojure,lspector,2012-07-20,6,1,"#{""kyleh@cs.brandeis.edu""}",215.0,4
+Clojure,lspector,2012-07-22,1,1,"#{""lspector@hampshire.edu""}",216.0,4
+Clojure,lspector,2012-07-31,1,1,"#{""etosch@gmail.com""}",217.0,5
+Clojure,lspector,2012-08-09,1,1,"#{""lspector@hampshire.edu""}",218.0,5
+Clojure,lspector,2012-08-21,1,1,"#{""lspector@hampshire.edu""}",219.0,5
+Clojure,lspector,2012-08-23,2,1,"#{""thelmuth@cs.umass.edu""}",221.0,6
+Clojure,lspector,2012-08-27,1,1,"#{""lspector@hampshire.edu""}",222.0,6
+Clojure,lspector,2012-09-01,1,1,"#{""lspector@hampshire.edu""}",223.0,6
+Clojure,lspector,2012-09-02,2,1,"#{""lspector@hampshire.edu""}",225.0,6
+Clojure,lspector,2012-09-05,1,1,"#{""thelmuth@cs.umass.edu""}",226.0,6
+Clojure,lspector,2012-09-07,1,1,"#{""thelmuth@cs.umass.edu""}",227.0,6
+Clojure,lspector,2012-09-12,3,1,"#{""thelmuth@cs.umass.edu""}",230.0,6
+Clojure,lspector,2012-09-13,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",233.0,6
+Clojure,lspector,2012-09-14,1,1,"#{""thelmuth@cs.umass.edu""}",234.0,6
+Clojure,lspector,2012-09-16,2,1,"#{""lspector@hampshire.edu""}",236.0,6
+Clojure,lspector,2012-09-17,6,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",242.0,6
+Clojure,lspector,2012-09-18,2,1,"#{""thelmuth@cs.umass.edu""}",244.0,6
+Clojure,lspector,2012-09-19,1,1,"#{""thelmuth@cs.umass.edu""}",245.0,6
+Clojure,lspector,2012-09-20,1,1,"#{""thelmuth@cs.umass.edu""}",246.0,6
+Clojure,lspector,2012-09-21,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",250.0,6
+Clojure,lspector,2012-09-24,4,1,"#{""thelmuth@cs.umass.edu""}",254.0,6
+Clojure,lspector,2012-09-25,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",257.0,6
+Clojure,lspector,2012-09-26,1,1,"#{""thelmuth@cs.umass.edu""}",258.0,6
+Clojure,lspector,2012-09-27,2,1,"#{""thelmuth@cs.umass.edu""}",260.0,6
+Clojure,lspector,2012-09-28,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",262.0,6
+Clojure,lspector,2012-09-30,1,1,"#{""lspector@hampshire.edu""}",263.0,6
+Clojure,lspector,2012-10-05,2,1,"#{""thelmuth@cs.umass.edu""}",265.0,6
+Clojure,lspector,2012-10-08,2,1,"#{""lspector@hampshire.edu""}",267.0,6
+Clojure,lspector,2012-10-09,1,1,"#{""thelmuth@cs.umass.edu""}",268.0,6
+Clojure,lspector,2012-10-10,3,2,"#{""lspector@hampshire.edu"" ""trhtom@gmail.com""}",271.0,6
+Clojure,lspector,2012-10-14,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",274.0,6
+Clojure,lspector,2012-10-15,2,1,"#{""lspector@hampshire.edu""}",276.0,6
+Clojure,lspector,2012-10-18,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",278.0,6
+Clojure,lspector,2012-10-19,2,1,"#{""lspector@hampshire.edu""}",280.0,6
+Clojure,lspector,2012-10-26,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",283.0,6
+Clojure,lspector,2012-11-02,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",285.0,6
+Clojure,lspector,2012-11-10,1,1,"#{""thelmuth@cs.umass.edu""}",286.0,6
+Clojure,lspector,2012-11-12,3,1,"#{""thelmuth@cs.umass.edu""}",289.0,6
+Clojure,lspector,2012-11-13,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",294.0,6
+Clojure,lspector,2012-11-14,6,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",300.0,6
+Clojure,lspector,2012-11-28,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",303.0,6
+Clojure,lspector,2012-11-29,1,1,"#{""thelmuth@cs.umass.edu""}",304.0,6
+Clojure,lspector,2012-11-30,1,1,"#{""lspector@hampshire.edu""}",305.0,6
+Clojure,lspector,2012-12-06,1,1,"#{""trhtom@gmail.com""}",306.0,6
+Clojure,lspector,2012-12-14,1,1,"#{""thelmuth@cs.umass.edu""}",307.0,6
+Clojure,lspector,2012-12-17,2,1,"#{""lspector@hampshire.edu""}",309.0,6
+Clojure,lspector,2012-12-26,1,1,"#{""lspector@hampshire.edu""}",310.0,6
+Clojure,lspector,2012-12-27,2,1,"#{""lspector@hampshire.edu""}",312.0,6
+Clojure,lspector,2013-01-01,2,1,"#{""lspector@hampshire.edu""}",314.0,6
+Clojure,lspector,2013-01-06,2,1,"#{""lspector@hampshire.edu""}",316.0,6
+Clojure,lspector,2013-01-07,2,1,"#{""lspector@hampshire.edu""}",318.0,6
+Clojure,lspector,2013-01-16,1,1,"#{""lspector@hampshire.edu""}",319.0,6
+Clojure,lspector,2013-01-20,3,1,"#{""lspector@hampshire.edu""}",322.0,6
+Clojure,lspector,2013-01-21,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",327.0,6
+Clojure,lspector,2013-01-24,1,1,"#{""etosch@gmail.com""}",328.0,6
+Clojure,lspector,2013-01-30,2,1,"#{""etosch@gmail.com""}",330.0,6
+Clojure,lspector,2013-01-31,1,1,"#{""etosch@gmail.com""}",331.0,6
+Clojure,lspector,2013-02-01,1,1,"#{""etosch@gmail.com""}",332.0,6
+Clojure,lspector,2013-02-07,14,2,"#{""etosch@gmail.com"" ""etosch@cs.umass.edu""}",346.0,7
+Clojure,lspector,2013-02-08,2,1,"#{""lspector@hampshire.edu""}",348.0,7
+Clojure,lspector,2013-02-13,1,1,"#{""etosch@gmail.com""}",349.0,7
+Clojure,lspector,2013-02-14,1,1,"#{""etosch@gmail.com""}",350.0,7
+Clojure,lspector,2013-02-15,1,1,"#{""etosch@gmail.com""}",351.0,7
+Clojure,lspector,2013-02-17,1,1,"#{""lspector@hampshire.edu""}",352.0,7
+Clojure,lspector,2013-02-24,4,1,"#{""lspector@hampshire.edu""}",356.0,7
+Clojure,lspector,2013-02-25,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",359.0,7
+Clojure,lspector,2013-02-26,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",362.0,7
+Clojure,lspector,2013-02-27,3,1,"#{""lspector@hampshire.edu""}",365.0,7
+Clojure,lspector,2013-03-02,3,1,"#{""lspector@hampshire.edu""}",368.0,7
+Clojure,lspector,2013-03-03,4,1,"#{""lspector@hampshire.edu""}",372.0,7
+Clojure,lspector,2013-03-04,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",377.0,7
+Clojure,lspector,2013-03-05,4,1,"#{""lspector@hampshire.edu""}",381.0,7
+Clojure,lspector,2013-03-08,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",386.0,7
+Clojure,lspector,2013-03-14,2,1,"#{""thelmuth@cs.umass.edu""}",388.0,7
+Clojure,lspector,2013-03-15,1,1,"#{""lspector@hampshire.edu""}",389.0,7
+Clojure,lspector,2013-03-16,1,1,"#{""thelmuth@cs.umass.edu""}",390.0,7
+Clojure,lspector,2013-03-20,1,1,"#{""lspector@hampshire.edu""}",391.0,7
+Clojure,lspector,2013-03-22,1,1,"#{""lspector@hampshire.edu""}",392.0,7
+Clojure,lspector,2013-03-25,1,1,"#{""thelmuth@cs.umass.edu""}",393.0,7
+Clojure,lspector,2013-03-26,6,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",399.0,7
+Clojure,lspector,2013-05-10,1,1,"#{""thelmuth@cs.umass.edu""}",400.0,7
+Clojure,lspector,2013-05-16,1,1,"#{""lspector@hampshire.edu""}",401.0,7
+Clojure,lspector,2013-06-11,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",403.0,7
+Clojure,lspector,2013-06-13,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",405.0,7
+Clojure,lspector,2013-07-01,1,1,"#{""thelmuth@cs.umass.edu""}",406.0,7
+Clojure,lspector,2013-07-28,6,1,"#{""lspector@hampshire.edu""}",412.0,7
+Clojure,lspector,2013-07-29,2,1,"#{""lspector@hampshire.edu""}",414.0,7
+Clojure,lspector,2013-08-10,1,1,"#{""lspector@hampshire.edu""}",415.0,7
+Clojure,lspector,2013-08-11,6,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",421.0,7
+Clojure,lspector,2013-08-12,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",424.0,7
+Clojure,lspector,2013-08-14,1,1,"#{""lspector@hampshire.edu""}",425.0,7
+Clojure,lspector,2013-08-20,1,1,"#{""thelmuth@cs.umass.edu""}",426.0,7
+Clojure,lspector,2013-08-21,1,1,"#{""thelmuth@cs.umass.edu""}",427.0,7
+Clojure,lspector,2013-08-27,1,1,"#{""thelmuth@cs.umass.edu""}",428.0,7
+Clojure,lspector,2013-08-29,3,1,"#{""lspector@hampshire.edu""}",431.0,7
+Clojure,lspector,2013-08-30,2,1,"#{""lspector@hampshire.edu""}",433.0,7
+Clojure,lspector,2013-09-03,3,2,"#{""dgagne@cs.umass.edu"" ""thelmuth@cs.umass.edu""}",436.0,8
+Clojure,lspector,2013-09-06,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",438.0,8
+Clojure,lspector,2013-09-07,1,1,"#{""thelmuth@cs.umass.edu""}",439.0,8
+Clojure,lspector,2013-09-08,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",441.0,8
+Clojure,lspector,2013-09-13,3,3,"#{""dgagne@cs.umass.edu"" ""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",444.0,8
+Clojure,lspector,2013-09-14,3,2,"#{""trhtom@gmail.com"" ""thelmuth@cs.umass.edu""}",447.0,8
+Clojure,lspector,2013-09-16,2,2,"#{""trhtom@gmail.com"" ""thelmuth@cs.umass.edu""}",449.0,8
+Clojure,lspector,2013-09-17,4,2,"#{""trhtom@gmail.com"" ""thelmuth@cs.umass.edu""}",453.0,8
+Clojure,lspector,2013-09-18,1,1,"#{""thelmuth@cs.umass.edu""}",454.0,8
+Clojure,lspector,2013-09-20,6,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",460.0,8
+Clojure,lspector,2013-09-21,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",463.0,8
+Clojure,lspector,2013-09-25,1,1,"#{""thelmuth@cs.umass.edu""}",464.0,8
+Clojure,lspector,2013-09-26,3,1,"#{""lspector@hampshire.edu""}",467.0,8
+Clojure,lspector,2013-09-27,1,1,"#{""thelmuth@cs.umass.edu""}",468.0,8
+Clojure,lspector,2013-10-01,2,1,"#{""thelmuth@cs.umass.edu""}",470.0,8
+Clojure,lspector,2013-10-04,1,1,"#{""thelmuth@cs.umass.edu""}",471.0,8
+Clojure,lspector,2013-10-07,1,1,"#{""thelmuth@cs.umass.edu""}",472.0,8
+Clojure,lspector,2013-10-10,3,1,"#{""thelmuth@cs.umass.edu""}",475.0,8
+Clojure,lspector,2013-10-11,1,1,"#{""thelmuth@cs.umass.edu""}",476.0,8
+Clojure,lspector,2013-10-12,1,1,"#{""thelmuth@cs.umass.edu""}",477.0,8
+Clojure,lspector,2013-10-13,5,1,"#{""thelmuth@cs.umass.edu""}",482.0,8
+Clojure,lspector,2013-10-14,7,1,"#{""thelmuth@cs.umass.edu""}",489.0,8
+Clojure,lspector,2013-10-15,10,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",499.0,8
+Clojure,lspector,2013-10-16,1,1,"#{""thelmuth@cs.umass.edu""}",500.0,8
+Clojure,lspector,2013-10-19,2,1,"#{""lspector@hampshire.edu""}",502.0,8
+Clojure,lspector,2013-10-20,3,1,"#{""thelmuth@cs.umass.edu""}",505.0,8
+Clojure,lspector,2013-10-26,1,1,"#{""thelmuth@cs.umass.edu""}",506.0,8
+Clojure,lspector,2013-10-27,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",511.0,8
+Clojure,lspector,2013-10-30,1,1,"#{""lspector@hampshire.edu""}",512.0,8
+Clojure,lspector,2013-10-31,1,1,"#{""thelmuth@cs.umass.edu""}",513.0,8
+Clojure,lspector,2013-11-02,5,2,"#{""lspector@hampshire.edu"" ""kyleh@cs.brandeis.edu""}",518.0,8
+Clojure,lspector,2013-11-03,1,1,"#{""thelmuth@cs.umass.edu""}",519.0,8
+Clojure,lspector,2013-11-04,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",521.0,8
+Clojure,lspector,2013-11-05,1,1,"#{""thelmuth@cs.umass.edu""}",522.0,8
+Clojure,lspector,2013-11-07,1,1,"#{""lspector@hampshire.edu""}",523.0,8
+Clojure,lspector,2013-11-14,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",525.0,8
+Clojure,lspector,2013-11-15,2,1,"#{""lspector@hampshire.edu""}",527.0,8
+Clojure,lspector,2013-11-17,2,1,"#{""lspector@hampshire.edu""}",529.0,8
+Clojure,lspector,2013-11-20,1,1,"#{""thelmuth@cs.umass.edu""}",530.0,8
+Clojure,lspector,2013-11-25,1,1,"#{""thelmuth@cs.umass.edu""}",531.0,8
+Clojure,lspector,2013-12-04,1,1,"#{""thelmuth@cs.umass.edu""}",532.0,8
+Clojure,lspector,2013-12-05,4,1,"#{""lspector@hampshire.edu""}",536.0,8
+Clojure,lspector,2013-12-06,3,1,"#{""thelmuth@cs.umass.edu""}",539.0,8
+Clojure,lspector,2013-12-07,2,1,"#{""lspector@hampshire.edu""}",541.0,8
+Clojure,lspector,2013-12-08,2,1,"#{""lspector@hampshire.edu""}",543.0,8
+Clojure,lspector,2013-12-09,6,1,"#{""thelmuth@cs.umass.edu""}",549.0,8
+Clojure,lspector,2013-12-10,2,1,"#{""thelmuth@cs.umass.edu""}",551.0,8
+Clojure,lspector,2013-12-11,2,1,"#{""thelmuth@cs.umass.edu""}",553.0,8
+Clojure,lspector,2013-12-12,3,1,"#{""thelmuth@cs.umass.edu""}",556.0,8
+Clojure,lspector,2013-12-14,1,1,"#{""lspector@hampshire.edu""}",557.0,8
+Clojure,lspector,2013-12-16,1,1,"#{""thelmuth@cs.umass.edu""}",558.0,8
+Clojure,lspector,2013-12-18,2,1,"#{""thelmuth@cs.umass.edu""}",560.0,8
+Clojure,lspector,2013-12-22,1,1,"#{""thelmuth@cs.umass.edu""}",561.0,8
+Clojure,lspector,2013-12-24,1,1,"#{""lspector@hampshire.edu""}",562.0,8
+Clojure,lspector,2014-01-07,6,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",568.0,8
+Clojure,lspector,2014-01-08,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",570.0,8
+Clojure,lspector,2014-01-12,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",572.0,8
+Clojure,lspector,2014-01-15,1,1,"#{""thelmuth@cs.umass.edu""}",573.0,8
+Clojure,lspector,2014-01-17,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",577.0,8
+Clojure,lspector,2014-01-18,1,1,"#{""thelmuth@cs.umass.edu""}",578.0,8
+Clojure,lspector,2014-01-23,1,1,"#{""thelmuth@cs.umass.edu""}",579.0,8
+Clojure,lspector,2014-01-28,1,1,"#{""thelmuth@cs.umass.edu""}",580.0,8
+Clojure,lspector,2014-02-01,2,1,"#{""lspector@hampshire.edu""}",582.0,8
+Clojure,lspector,2014-02-03,3,1,"#{""thelmuth@cs.umass.edu""}",585.0,8
+Clojure,lspector,2014-02-04,1,1,"#{""thelmuth@cs.umass.edu""}",586.0,8
+Clojure,lspector,2014-02-07,1,1,"#{""thelmuth@cs.umass.edu""}",587.0,8
+Clojure,lspector,2014-02-14,1,1,"#{""lspector@hampshire.edu""}",588.0,8
+Clojure,lspector,2014-02-16,2,1,"#{""lspector@hampshire.edu""}",590.0,8
+Clojure,lspector,2014-02-18,1,1,"#{""thelmuth@cs.umass.edu""}",591.0,8
+Clojure,lspector,2014-03-04,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",594.0,8
+Clojure,lspector,2014-03-21,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",596.0,8
+Clojure,lspector,2014-04-12,2,2,"#{""lspector@hampshire.edu"" ""s.shanabrook@gmail.com""}",598.0,9
+Clojure,lspector,2014-04-28,1,1,"#{""ngv10@hampshire.edu""}",599.0,10
+Clojure,lspector,2014-05-28,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",601.0,10
+Clojure,lspector,2014-06-09,2,1,"#{""lspector@hampshire.edu""}",603.0,10
+Clojure,lspector,2014-06-19,1,1,"#{""thelmuth@cs.umass.edu""}",604.0,10
+Clojure,lspector,2014-06-23,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",606.0,10
+Clojure,lspector,2014-06-24,2,1,"#{""thelmuth@cs.umass.edu""}",608.0,10
+Clojure,lspector,2014-06-25,6,1,"#{""thelmuth@cs.umass.edu""}",614.0,10
+Clojure,lspector,2014-06-26,2,1,"#{""thelmuth@cs.umass.edu""}",616.0,10
+Clojure,lspector,2014-06-27,2,1,"#{""thelmuth@cs.umass.edu""}",618.0,10
+Clojure,lspector,2014-06-28,2,1,"#{""thelmuth@cs.umass.edu""}",620.0,10
+Clojure,lspector,2014-06-30,3,1,"#{""thelmuth@cs.umass.edu""}",623.0,10
+Clojure,lspector,2014-07-01,3,1,"#{""thelmuth@cs.umass.edu""}",626.0,10
+Clojure,lspector,2014-07-02,5,1,"#{""thelmuth@cs.umass.edu""}",631.0,10
+Clojure,lspector,2014-07-03,2,1,"#{""thelmuth@cs.umass.edu""}",633.0,10
+Clojure,lspector,2014-07-04,7,2,"#{""trhtom@gmail.com"" ""thelmuth@cs.umass.edu""}",640.0,10
+Clojure,lspector,2014-07-08,1,1,"#{""thelmuth@cs.umass.edu""}",641.0,10
+Clojure,lspector,2014-07-16,2,1,"#{""thelmuth@cs.umass.edu""}",643.0,10
+Clojure,lspector,2014-07-21,2,1,"#{""thelmuth@cs.umass.edu""}",645.0,10
+Clojure,lspector,2014-08-07,1,1,"#{""thelmuth@cs.umass.edu""}",646.0,10
+Clojure,lspector,2014-08-22,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",651.0,10
+Clojure,lspector,2014-08-25,5,1,"#{""thelmuth@cs.umass.edu""}",656.0,10
+Clojure,lspector,2014-08-27,5,1,"#{""thelmuth@cs.umass.edu""}",661.0,10
+Clojure,lspector,2014-08-28,12,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",673.0,10
+Clojure,lspector,2014-08-29,5,1,"#{""thelmuth@cs.umass.edu""}",678.0,10
+Clojure,lspector,2014-08-30,1,1,"#{""thelmuth@cs.umass.edu""}",679.0,10
+Clojure,lspector,2014-08-31,2,1,"#{""thelmuth@cs.umass.edu""}",681.0,10
+Clojure,lspector,2014-09-01,6,3,"#{""mcphee@morris.umn.edu"" ""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",687.0,11
+Clojure,lspector,2014-09-03,2,1,"#{""thelmuth@cs.umass.edu""}",689.0,11
+Clojure,lspector,2014-09-04,3,1,"#{""thelmuth@cs.umass.edu""}",692.0,11
+Clojure,lspector,2014-09-05,3,1,"#{""thelmuth@cs.umass.edu""}",695.0,11
+Clojure,lspector,2014-09-06,5,1,"#{""thelmuth@cs.umass.edu""}",700.0,11
+Clojure,lspector,2014-09-07,3,1,"#{""thelmuth@cs.umass.edu""}",703.0,11
+Clojure,lspector,2014-09-08,1,1,"#{""thelmuth@cs.umass.edu""}",704.0,11
+Clojure,lspector,2014-09-09,1,1,"#{""thelmuth@cs.umass.edu""}",705.0,11
+Clojure,lspector,2014-09-10,5,1,"#{""thelmuth@cs.umass.edu""}",710.0,11
+Clojure,lspector,2014-09-11,2,1,"#{""thelmuth@cs.umass.edu""}",712.0,11
+Clojure,lspector,2014-09-12,9,1,"#{""thelmuth@cs.umass.edu""}",721.0,11
+Clojure,lspector,2014-09-13,1,1,"#{""lspector@hampshire.edu""}",722.0,11
+Clojure,lspector,2014-09-15,10,1,"#{""thelmuth@cs.umass.edu""}",732.0,11
+Clojure,lspector,2014-09-16,5,1,"#{""thelmuth@cs.umass.edu""}",737.0,11
+Clojure,lspector,2014-09-17,5,1,"#{""thelmuth@cs.umass.edu""}",742.0,11
+Clojure,lspector,2014-09-18,9,1,"#{""thelmuth@cs.umass.edu""}",751.0,11
+Clojure,lspector,2014-09-19,3,2,"#{""mcphee@morris.umn.edu"" ""thelmuth@cs.umass.edu""}",754.0,11
+Clojure,lspector,2014-09-20,2,1,"#{""thelmuth@cs.umass.edu""}",756.0,11
+Clojure,lspector,2014-09-21,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",760.0,11
+Clojure,lspector,2014-09-22,12,2,"#{""mcphee@morris.umn.edu"" ""thelmuth@cs.umass.edu""}",772.0,11
+Clojure,lspector,2014-09-23,2,1,"#{""thelmuth@cs.umass.edu""}",774.0,11
+Clojure,lspector,2014-09-24,8,1,"#{""thelmuth@cs.umass.edu""}",782.0,11
+Clojure,lspector,2014-09-25,6,1,"#{""thelmuth@cs.umass.edu""}",788.0,11
+Clojure,lspector,2014-09-26,5,1,"#{""thelmuth@cs.umass.edu""}",793.0,11
+Clojure,lspector,2014-09-27,2,1,"#{""thelmuth@cs.umass.edu""}",795.0,11
+Clojure,lspector,2014-09-29,3,1,"#{""thelmuth@cs.umass.edu""}",798.0,11
+Clojure,lspector,2014-10-01,9,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",807.0,11
+Clojure,lspector,2014-10-02,2,1,"#{""thelmuth@cs.umass.edu""}",809.0,11
+Clojure,lspector,2014-10-04,3,1,"#{""thelmuth@cs.umass.edu""}",812.0,11
+Clojure,lspector,2014-10-08,3,1,"#{""thelmuth@cs.umass.edu""}",815.0,11
+Clojure,lspector,2014-10-18,1,1,"#{""thelmuth@cs.umass.edu""}",816.0,11
+Clojure,lspector,2014-10-20,3,1,"#{""thelmuth@cs.umass.edu""}",819.0,11
+Clojure,lspector,2014-10-23,5,1,"#{""thelmuth@cs.umass.edu""}",824.0,11
+Clojure,lspector,2014-10-24,3,1,"#{""thelmuth@cs.umass.edu""}",827.0,11
+Clojure,lspector,2014-10-29,1,1,"#{""thelmuth@cs.umass.edu""}",828.0,11
+Clojure,lspector,2014-10-30,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",832.0,11
+Clojure,lspector,2014-10-31,2,1,"#{""thelmuth@cs.umass.edu""}",834.0,11
+Clojure,lspector,2014-11-01,2,1,"#{""thelmuth@cs.umass.edu""}",836.0,11
+Clojure,lspector,2014-11-02,1,1,"#{""thelmuth@cs.umass.edu""}",837.0,11
+Clojure,lspector,2014-11-11,2,1,"#{""thelmuth@cs.umass.edu""}",839.0,11
+Clojure,lspector,2014-11-14,3,1,"#{""thelmuth@cs.umass.edu""}",842.0,11
+Clojure,lspector,2014-12-21,1,1,"#{""thelmuth@cs.umass.edu""}",843.0,11
+Clojure,lspector,2014-12-22,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",847.0,11
+Clojure,lspector,2014-12-23,3,1,"#{""thelmuth@cs.umass.edu""}",850.0,11
+Clojure,lspector,2014-12-26,3,1,"#{""thelmuth@cs.umass.edu""}",853.0,11
+Clojure,lspector,2015-01-03,2,1,"#{""thelmuth@cs.umass.edu""}",855.0,11
+Clojure,lspector,2015-01-05,1,1,"#{""thelmuth@cs.umass.edu""}",856.0,11
+Clojure,lspector,2015-01-06,2,1,"#{""thelmuth@cs.umass.edu""}",858.0,11
+Clojure,lspector,2015-01-09,1,1,"#{""thelmuth@cs.umass.edu""}",859.0,11
+Clojure,lspector,2015-01-11,1,1,"#{""thelmuth@cs.umass.edu""}",860.0,11
+Clojure,lspector,2015-01-15,1,1,"#{""thelmuth@cs.umass.edu""}",861.0,11
+Clojure,lspector,2015-01-27,2,1,"#{""thelmuth@cs.umass.edu""}",863.0,11
+Clojure,lspector,2015-02-04,1,1,"#{""thelmuth@cs.umass.edu""}",864.0,11
+Clojure,lspector,2015-02-19,3,1,"#{""lspector@hampshire.edu""}",867.0,11
+Clojure,lspector,2015-02-20,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",870.0,11
+Clojure,lspector,2015-02-21,2,1,"#{""thelmuth@cs.umass.edu""}",872.0,11
+Clojure,lspector,2015-02-22,16,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",888.0,11
+Clojure,lspector,2015-02-23,6,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",894.0,11
+Clojure,lspector,2015-02-25,3,1,"#{""thelmuth@cs.umass.edu""}",897.0,11
+Clojure,lspector,2015-02-27,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",902.0,11
+Clojure,lspector,2015-03-06,1,1,"#{""bill@vagueinnovation.com""}",903.0,12
+Clojure,lspector,2015-03-08,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",905.0,12
+Clojure,lspector,2015-04-11,1,1,"#{""thelmuth@cs.umass.edu""}",906.0,12
+Clojure,lspector,2015-04-12,1,1,"#{""lspector@hampshire.edu""}",907.0,12
+Clojure,lspector,2015-04-13,1,1,"#{""lspector@hampshire.edu""}",908.0,12
+Clojure,lspector,2015-04-15,2,1,"#{""thelmuth@cs.umass.edu""}",910.0,12
+Clojure,lspector,2015-04-18,2,1,"#{""lspector@hampshire.edu""}",912.0,12
+Clojure,lspector,2015-04-20,1,1,"#{""lspector@hampshire.edu""}",913.0,12
+Clojure,lspector,2015-04-23,1,1,"#{""thelmuth@cs.umass.edu""}",914.0,12
+Clojure,lspector,2015-04-24,2,1,"#{""lspector@hampshire.edu""}",916.0,12
+Clojure,lspector,2015-04-25,4,1,"#{""lspector@hampshire.edu""}",920.0,12
+Clojure,lspector,2015-04-27,1,1,"#{""lspector@hampshire.edu""}",921.0,12
+Clojure,lspector,2015-04-28,2,1,"#{""thelmuth@cs.umass.edu""}",923.0,12
+Clojure,lspector,2015-04-29,1,1,"#{""thelmuth@cs.umass.edu""}",924.0,12
+Clojure,lspector,2015-04-30,1,1,"#{""thelmuth@cs.umass.edu""}",925.0,12
+Clojure,lspector,2015-05-03,1,1,"#{""lspector@hampshire.edu""}",926.0,12
+Clojure,lspector,2015-05-04,2,1,"#{""lspector@hampshire.edu""}",928.0,12
+Clojure,lspector,2015-05-19,1,1,"#{""lspector@hampshire.edu""}",929.0,12
+Clojure,lspector,2015-05-20,9,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",938.0,12
+Clojure,lspector,2015-05-21,1,1,"#{""thelmuth@cs.umass.edu""}",939.0,12
+Clojure,lspector,2015-05-22,3,1,"#{""lspector@hampshire.edu""}",942.0,12
+Clojure,lspector,2015-05-23,1,1,"#{""thelmuth@cs.umass.edu""}",943.0,12
+Clojure,lspector,2015-05-24,1,1,"#{""thelmuth@cs.umass.edu""}",944.0,12
+Clojure,lspector,2015-05-28,5,1,"#{""thelmuth@cs.umass.edu""}",949.0,12
+Clojure,lspector,2015-06-03,4,1,"#{""lspector@hampshire.edu""}",953.0,12
+Clojure,lspector,2015-06-04,1,1,"#{""thelmuth@cs.umass.edu""}",954.0,12
+Clojure,lspector,2015-06-27,2,1,"#{""lspector@hampshire.edu""}",956.0,12
+Clojure,lspector,2015-06-28,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",959.0,12
+Clojure,lspector,2015-06-30,9,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",968.0,12
+Clojure,lspector,2015-07-01,1,1,"#{""thelmuth@cs.umass.edu""}",969.0,12
+Clojure,lspector,2015-07-03,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",972.0,12
+Clojure,lspector,2015-07-06,5,2,"#{""mcphee@morris.umn.edu"" ""thelmuth@cs.umass.edu""}",977.0,12
+Clojure,lspector,2015-07-07,2,1,"#{""thelmuth@cs.umass.edu""}",979.0,12
+Clojure,lspector,2015-07-12,4,1,"#{""bill@vagueinnovation.com""}",983.0,12
+Clojure,lspector,2015-07-13,5,1,"#{""bill@vagueinnovation.com""}",988.0,12
+Clojure,lspector,2015-07-14,5,1,"#{""bill@vagueinnovation.com""}",993.0,12
+Clojure,lspector,2015-07-15,3,2,"#{""bill@vagueinnovation.com"" ""mweitzel@gmail.com""}",996.0,13
+Clojure,lspector,2015-07-17,2,1,"#{""bill@vagueinnovation.com""}",998.0,13
+Clojure,lspector,2015-07-22,6,1,"#{""lspector@hampshire.edu""}",1004.0,13
+Clojure,lspector,2015-07-23,2,1,"#{""thelmuth@cs.umass.edu""}",1006.0,13
+Clojure,lspector,2015-07-30,2,1,"#{""lspector@hampshire.edu""}",1008.0,13
+Clojure,lspector,2015-07-31,1,1,"#{""thelmuth@cs.umass.edu""}",1009.0,13
+Clojure,lspector,2015-08-08,3,1,"#{""lspector@hampshire.edu""}",1012.0,13
+Clojure,lspector,2015-09-12,2,1,"#{""lspector@hampshire.edu""}",1014.0,13
+Clojure,lspector,2015-09-15,3,2,"#{""lspector@hampshire.edu"" ""bill@vagueinnovation.com""}",1017.0,13
+Clojure,lspector,2015-09-21,3,2,"#{""mcphee@morris.umn.edu"" ""casal033@morris.umn.edu""}",1020.0,14
+Clojure,lspector,2015-09-28,2,1,"#{""lspector@hampshire.edu""}",1022.0,14
+Clojure,lspector,2015-10-02,1,1,"#{""s.shanabrook@gmail.com""}",1023.0,14
+Clojure,lspector,2015-10-03,1,1,"#{""thelmuth@cs.umass.edu""}",1024.0,14
+Clojure,lspector,2015-10-04,1,1,"#{""lspector@hampshire.edu""}",1025.0,14
+Clojure,lspector,2015-10-05,4,2,"#{""lspector@hampshire.edu"" ""s.shanabrook@gmail.com""}",1029.0,14
+Clojure,lspector,2015-10-10,3,1,"#{""lspector@hampshire.edu""}",1032.0,14
+Clojure,lspector,2015-10-13,2,1,"#{""s.shanabrook@gmail.com""}",1034.0,14
+Clojure,lspector,2015-10-14,1,1,"#{""lspector@hampshire.edu""}",1035.0,14
+Clojure,lspector,2015-11-11,1,1,"#{""s.shanabrook@gmail.com""}",1036.0,14
+Clojure,lspector,2015-11-30,1,1,"#{""bennettbailey@gmail.com""}",1037.0,15
+Clojure,lspector,2015-12-08,6,2,"#{""_@_._"" ""s.shanabrook@gmail.com""}",1043.0,16
+Clojure,lspector,2015-12-09,5,2,"#{""_@_._"" ""s.shanabrook@gmail.com""}",1048.0,16
+Clojure,lspector,2015-12-14,1,1,"#{""s.shanabrook@gmail.com""}",1049.0,16
+Clojure,lspector,2015-12-15,3,2,"#{""_@_._"" ""s.shanabrook@gmail.com""}",1052.0,16
+Clojure,lspector,2015-12-18,1,1,"#{""s.shanabrook@gmail.com""}",1053.0,16
+Clojure,lspector,2015-12-20,2,1,"#{""lspector@hampshire.edu""}",1055.0,16
+Clojure,lspector,2015-12-21,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1058.0,16
+Clojure,lspector,2015-12-23,5,2,"#{""_@_._"" ""s.shanabrook@gmail.com""}",1063.0,16
+Clojure,lspector,2015-12-24,2,1,"#{""_@_._""}",1065.0,16
+Clojure,lspector,2015-12-25,11,2,"#{""_@_._"" ""s.shanabrook@gmail.com""}",1076.0,16
+Clojure,lspector,2015-12-26,9,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1085.0,16
+Clojure,lspector,2016-01-06,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1089.0,16
+Clojure,lspector,2016-01-09,2,1,"#{""thelmuth@cs.umass.edu""}",1091.0,16
+Clojure,lspector,2016-01-10,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1094.0,16
+Clojure,lspector,2016-01-15,2,1,"#{""lspector@hampshire.edu""}",1096.0,16
+Clojure,lspector,2016-01-16,2,1,"#{""lspector@hampshire.edu""}",1098.0,16
+Clojure,lspector,2016-01-17,2,1,"#{""_@_._""}",1100.0,16
+Clojure,lspector,2016-02-19,1,1,"#{""thelmuth@cs.umass.edu""}",1101.0,16
+Clojure,lspector,2016-02-20,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1104.0,16
+Clojure,lspector,2016-02-21,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@cs.umass.edu""}",1108.0,16
+Clojure,lspector,2016-02-22,4,1,"#{""_@_._""}",1112.0,16
+Clojure,lspector,2016-03-05,1,1,"#{""helmutht@wlu.edu""}",1113.0,17
+Clojure,lspector,2016-03-06,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1116.0,17
+Clojure,lspector,2016-03-20,2,2,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu""}",1118.0,17
+Clojure,lspector,2016-03-21,5,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1123.0,17
+Clojure,lspector,2016-03-22,2,1,"#{""_@_._""}",1125.0,17
+Clojure,lspector,2016-03-24,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1129.0,17
+Clojure,lspector,2016-04-16,7,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1136.0,17
+Clojure,lspector,2016-04-22,1,1,"#{""helmutht@wlu.edu""}",1137.0,17
+Clojure,lspector,2016-04-23,7,3,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu"" ""_@_._""}",1144.0,17
+Clojure,lspector,2016-05-12,4,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""skoj824@gmail.com""}",1148.0,18
+Clojure,lspector,2016-05-22,3,1,"#{""lspector@hampshire.edu""}",1151.0,18
+Clojure,lspector,2016-05-23,4,1,"#{""_@_._""}",1155.0,18
+Clojure,lspector,2016-06-01,47,1,"#{""skoj824@gmail.com""}",1202.0,18
+Clojure,lspector,2016-06-13,4,3,"#{""lspector@hampshire.edu"" ""erp12@hampshire.edu"" ""_@_._""}",1206.0,19
+Clojure,lspector,2016-06-20,47,1,"#{""skoj824@gmail.com""}",1253.0,19
+Clojure,lspector,2016-06-21,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1256.0,19
+Clojure,lspector,2016-06-24,1,1,"#{""schr1230@morris.umn.edu""}",1257.0,20
+Clojure,lspector,2016-06-30,1,1,"#{""erp12@hampshire.edu""}",1258.0,20
+Clojure,lspector,2016-07-06,1,1,"#{""schr1230@morris.umn.edu""}",1259.0,20
+Clojure,lspector,2016-07-07,4,2,"#{""_@_._"" ""s.shanabrook@gmail.com""}",1263.0,20
+Clojure,lspector,2016-07-08,1,1,"#{""schr1230@morris.umn.edu""}",1264.0,20
+Clojure,lspector,2016-07-12,1,1,"#{""lspector@hampshire.edu""}",1265.0,20
+Clojure,lspector,2016-07-13,2,2,"#{""lspector@hampshire.edu"" ""schr1230@morris.umn.edu""}",1267.0,20
+Clojure,lspector,2016-07-18,1,1,"#{""lspector@hampshire.edu""}",1268.0,20
+Clojure,lspector,2016-07-22,6,4,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu"" ""_@_._"" ""s.shanabrook@gmail.com""}",1274.0,20
+Clojure,lspector,2016-07-23,4,2,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu""}",1278.0,20
+Clojure,lspector,2016-07-24,1,1,"#{""helmutht@wlu.edu""}",1279.0,20
+Clojure,lspector,2016-07-25,6,2,"#{""EPantridge@MassMutual.com"" ""schr1230@morris.umn.edu""}",1285.0,21
+Clojure,lspector,2016-07-26,4,1,"#{""schr1230@morris.umn.edu""}",1289.0,21
+Clojure,lspector,2016-07-27,5,4,"#{""lspector@hampshire.edu"" ""EPantridge@MassMutual.com"" ""erp12@hampshire.edu"" ""_@_._""}",1294.0,21
+Clojure,lspector,2016-07-30,3,2,"#{""helmutht@wlu.edu"" ""schr1230@morris.umn.edu""}",1297.0,21
+Clojure,lspector,2016-07-31,1,1,"#{""helmutht@wlu.edu""}",1298.0,21
+Clojure,lspector,2016-08-04,4,2,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu""}",1302.0,21
+Clojure,lspector,2016-08-05,4,3,"#{""trhtom@gmail.com"" ""helmutht@wlu.edu"" ""_@_._""}",1306.0,21
+Clojure,lspector,2016-08-06,8,3,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu"" ""_@_._""}",1314.0,21
+Clojure,lspector,2016-08-07,1,1,"#{""helmutht@wlu.edu""}",1315.0,21
+Clojure,lspector,2016-08-08,1,1,"#{""helmutht@wlu.edu""}",1316.0,21
+Clojure,lspector,2016-08-09,4,2,"#{""trhtom@gmail.com"" ""helmutht@wlu.edu""}",1320.0,21
+Clojure,lspector,2016-08-10,4,2,"#{""helmutht@wlu.edu"" ""_@_._""}",1324.0,21
+Clojure,lspector,2016-08-24,2,2,"#{""EPantridge@MassMutual.com"" ""erp12@hampshire.edu""}",1326.0,21
+Clojure,lspector,2016-08-29,1,1,"#{""lspector@hampshire.edu""}",1327.0,21
+Clojure,lspector,2016-08-30,2,1,"#{""_@_._""}",1329.0,21
+Clojure,lspector,2016-09-02,2,1,"#{""lspector@hampshire.edu""}",1331.0,21
+Clojure,lspector,2016-09-03,1,1,"#{""lverns@schrock.email""}",1332.0,22
+Clojure,lspector,2016-09-04,9,2,"#{""lspector@hampshire.edu"" ""lverns@schrock.email""}",1341.0,22
+Clojure,lspector,2016-09-06,6,1,"#{""lspector@hampshire.edu""}",1347.0,22
+Clojure,lspector,2016-09-07,2,1,"#{""_@_._""}",1349.0,22
+Clojure,lspector,2016-09-08,2,1,"#{""schr1230@morris.umn.edu""}",1351.0,22
+Clojure,lspector,2016-09-09,5,3,"#{""EPantridge@MassMutual.com"" ""_@_._"" ""s.shanabrook@gmail.com""}",1356.0,22
+Clojure,lspector,2016-09-15,6,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1362.0,22
+Clojure,lspector,2016-09-17,1,1,"#{""schr1230@morris.umn.edu""}",1363.0,22
+Clojure,lspector,2016-09-18,1,1,"#{""lspector@hampshire.edu""}",1364.0,22
+Clojure,lspector,2016-09-20,2,1,"#{""lspector@hampshire.edu""}",1366.0,22
+Clojure,lspector,2016-09-21,2,1,"#{""_@_._""}",1368.0,22
+Clojure,lspector,2016-09-28,1,1,"#{""erp12@hampshire.edu""}",1369.0,22
+Clojure,lspector,2016-10-05,1,1,"#{""lspector@hampshire.edu""}",1370.0,22
+Clojure,lspector,2016-10-06,6,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1376.0,22
+Clojure,lspector,2016-10-08,1,1,"#{""schr1230@morris.umn.edu""}",1377.0,22
+Clojure,lspector,2016-10-09,1,1,"#{""schr1230@morris.umn.edu""}",1378.0,22
+Clojure,lspector,2016-10-17,4,1,"#{""lspector@hampshire.edu""}",1382.0,22
+Clojure,lspector,2016-10-18,2,1,"#{""_@_._""}",1384.0,22
+Clojure,lspector,2016-10-20,6,1,"#{""lspector@hampshire.edu""}",1390.0,22
+Clojure,lspector,2016-10-21,2,1,"#{""lspector@hampshire.edu""}",1392.0,22
+Clojure,lspector,2016-10-22,1,1,"#{""lspector@hampshire.edu""}",1393.0,22
+Clojure,lspector,2016-10-23,19,1,"#{""lspector@hampshire.edu""}",1412.0,22
+Clojure,lspector,2016-10-24,5,1,"#{""lspector@hampshire.edu""}",1417.0,22
+Clojure,lspector,2016-10-25,2,1,"#{""_@_._""}",1419.0,22
+Clojure,lspector,2016-10-28,5,4,"#{""lspector@hampshire.edu"" ""EPantridge@MassMutual.com"" ""schr1230@morris.umn.edu"" ""erp12@hampshire.edu""}",1424.0,22
+Clojure,lspector,2016-10-29,9,2,"#{""lspector@hampshire.edu"" ""schr1230@morris.umn.edu""}",1433.0,22
+Clojure,lspector,2016-10-30,2,1,"#{""_@_._""}",1435.0,22
+Clojure,lspector,2016-10-31,2,1,"#{""schr1230@morris.umn.edu""}",1437.0,22
+Clojure,lspector,2016-11-12,1,1,"#{""lspector@hampshire.edu""}",1438.0,22
+Clojure,lspector,2016-11-30,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1441.0,22
+Clojure,lspector,2016-12-04,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1445.0,22
+Clojure,lspector,2016-12-11,11,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1456.0,22
+Clojure,lspector,2016-12-12,8,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1464.0,22
+Clojure,lspector,2016-12-13,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1467.0,22
+Clojure,lspector,2016-12-14,5,2,"#{""mcphee@morris.umn.edu"" ""lspector@hampshire.edu""}",1472.0,22
+Clojure,lspector,2016-12-15,11,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1483.0,22
+Clojure,lspector,2016-12-19,5,1,"#{""lspector@hampshire.edu""}",1488.0,22
+Clojure,lspector,2016-12-21,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1491.0,22
+Clojure,lspector,2016-12-22,2,1,"#{""lspector@hampshire.edu""}",1493.0,22
+Clojure,lspector,2016-12-23,6,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1499.0,22
+Clojure,lspector,2016-12-24,5,1,"#{""lspector@hampshire.edu""}",1504.0,22
+Clojure,lspector,2016-12-25,8,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1512.0,22
+Clojure,lspector,2016-12-26,2,1,"#{""lspector@hampshire.edu""}",1514.0,22
+Clojure,lspector,2016-12-28,1,1,"#{""lspector@hampshire.edu""}",1515.0,22
+Clojure,lspector,2017-01-01,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1519.0,22
+Clojure,lspector,2017-01-03,7,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1526.0,22
+Clojure,lspector,2017-01-04,1,1,"#{""lspector@hampshire.edu""}",1527.0,22
+Clojure,lspector,2017-01-07,2,1,"#{""lspector@hampshire.edu""}",1529.0,22
+Clojure,lspector,2017-01-08,2,1,"#{""lspector@hampshire.edu""}",1531.0,22
+Clojure,lspector,2017-01-11,3,1,"#{""lspector@hampshire.edu""}",1534.0,22
+Clojure,lspector,2017-01-12,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1537.0,22
+Clojure,lspector,2017-01-17,4,3,"#{""juao15@hampshire.edu"" ""lspector@hampshire.edu"" ""_@_._""}",1541.0,23
+Clojure,lspector,2017-01-23,10,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1551.0,23
+Clojure,lspector,2017-01-26,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1555.0,23
+Clojure,lspector,2017-01-27,7,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1562.0,23
+Clojure,lspector,2017-01-28,7,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1569.0,23
+Clojure,lspector,2017-01-31,2,1,"#{""s.shanabrook@gmail.com""}",1571.0,23
+Clojure,lspector,2017-02-01,6,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1577.0,23
+Clojure,lspector,2017-02-02,5,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""s.shanabrook@gmail.com""}",1582.0,23
+Clojure,lspector,2017-02-07,8,1,"#{""lspector@hampshire.edu""}",1590.0,23
+Clojure,lspector,2017-02-08,14,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""s.shanabrook@gmail.com""}",1604.0,23
+Clojure,lspector,2017-02-12,1,1,"#{""lspector@hampshire.edu""}",1605.0,23
+Clojure,lspector,2017-02-17,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1608.0,23
+Clojure,lspector,2017-02-19,7,3,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu"" ""_@_._""}",1615.0,23
+Clojure,lspector,2017-02-20,1,1,"#{""helmutht@wlu.edu""}",1616.0,23
+Clojure,lspector,2017-02-24,1,1,"#{""lspector@hampshire.edu""}",1617.0,23
+Clojure,lspector,2017-02-26,4,1,"#{""lspector@hampshire.edu""}",1621.0,23
+Clojure,lspector,2017-02-27,1,1,"#{""lspector@hampshire.edu""}",1622.0,23
+Clojure,lspector,2017-02-28,7,1,"#{""lspector@hampshire.edu""}",1629.0,23
+Clojure,lspector,2017-03-01,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1633.0,23
+Clojure,lspector,2017-03-02,6,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""s.shanabrook@gmail.com""}",1639.0,23
+Clojure,lspector,2017-03-03,2,1,"#{""lspector@hampshire.edu""}",1641.0,23
+Clojure,lspector,2017-03-04,2,1,"#{""_@_._""}",1643.0,23
+Clojure,lspector,2017-03-05,1,1,"#{""s.shanabrook@gmail.com""}",1644.0,23
+Clojure,lspector,2017-03-07,3,1,"#{""lspector@hampshire.edu""}",1647.0,23
+Clojure,lspector,2017-03-08,2,1,"#{""_@_._""}",1649.0,23
+Clojure,lspector,2017-03-18,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1652.0,23
+Clojure,lspector,2017-03-19,3,1,"#{""lspector@hampshire.edu""}",1655.0,23
+Clojure,lspector,2017-03-21,1,1,"#{""lspector@hampshire.edu""}",1656.0,23
+Clojure,lspector,2017-03-22,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1659.0,23
+Clojure,lspector,2017-03-24,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1662.0,23
+Clojure,lspector,2017-03-25,4,1,"#{""lspector@hampshire.edu""}",1666.0,23
+Clojure,lspector,2017-03-26,6,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1672.0,23
+Clojure,lspector,2017-03-27,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1675.0,23
+Clojure,lspector,2017-03-28,2,1,"#{""_@_._""}",1677.0,23
+Clojure,lspector,2017-04-03,6,1,"#{""lspector@hampshire.edu""}",1683.0,23
+Clojure,lspector,2017-04-04,1,1,"#{""lspector@hampshire.edu""}",1684.0,23
+Clojure,lspector,2017-04-05,11,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1695.0,23
+Clojure,lspector,2017-04-06,6,1,"#{""lspector@hampshire.edu""}",1701.0,23
+Clojure,lspector,2017-04-07,7,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1708.0,23
+Clojure,lspector,2017-04-09,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1712.0,23
+Clojure,lspector,2017-04-11,1,1,"#{""lspector@hampshire.edu""}",1713.0,23
+Clojure,lspector,2017-04-12,1,1,"#{""lspector@hampshire.edu""}",1714.0,23
+Clojure,lspector,2017-04-13,2,1,"#{""lspector@hampshire.edu""}",1716.0,23
+Clojure,lspector,2017-04-14,1,1,"#{""lspector@hampshire.edu""}",1717.0,23
+Clojure,lspector,2017-04-15,3,1,"#{""lspector@hampshire.edu""}",1720.0,23
+Clojure,lspector,2017-04-16,8,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1728.0,23
+Clojure,lspector,2017-04-17,4,1,"#{""lspector@hampshire.edu""}",1732.0,23
+Clojure,lspector,2017-04-20,1,1,"#{""lspector@hampshire.edu""}",1733.0,23
+Clojure,lspector,2017-04-26,1,1,"#{""lspector@hampshire.edu""}",1734.0,23
+Clojure,lspector,2017-04-27,3,1,"#{""lspector@hampshire.edu""}",1737.0,23
+Clojure,lspector,2017-05-03,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1740.0,23
+Clojure,lspector,2017-05-12,1,1,"#{""s.shanabrook@gmail.com""}",1741.0,23
+Clojure,lspector,2017-05-13,1,1,"#{""s.shanabrook@gmail.com""}",1742.0,23
+Clojure,lspector,2017-05-18,2,2,"#{""lspector@hampshire.edu"" ""raliclo@gmail.com""}",1744.0,24
+Clojure,lspector,2017-05-21,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1748.0,24
+Clojure,lspector,2017-05-23,6,1,"#{""lspector@hampshire.edu""}",1754.0,24
+Clojure,lspector,2017-05-24,5,1,"#{""lspector@hampshire.edu""}",1759.0,24
+Clojure,lspector,2017-05-25,1,1,"#{""lspector@hampshire.edu""}",1760.0,24
+Clojure,lspector,2017-05-26,1,1,"#{""lspector@hampshire.edu""}",1761.0,24
+Clojure,lspector,2017-05-27,1,1,"#{""lspector@hampshire.edu""}",1762.0,24
+Clojure,lspector,2017-05-28,1,1,"#{""lspector@hampshire.edu""}",1763.0,24
+Clojure,lspector,2017-05-29,3,1,"#{""lspector@hampshire.edu""}",1766.0,24
+Clojure,lspector,2017-06-02,1,1,"#{""s.shanabrook@gmail.com""}",1767.0,24
+Clojure,lspector,2017-06-05,1,1,"#{""lspector@hampshire.edu""}",1768.0,24
+Clojure,lspector,2017-06-07,3,1,"#{""helmutht@wlu.edu""}",1771.0,24
+Clojure,lspector,2017-06-08,14,4,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu"" ""_@_._"" ""s.shanabrook@gmail.com""}",1785.0,24
+Clojure,lspector,2017-06-09,5,2,"#{""helmutht@wlu.edu"" ""_@_._""}",1790.0,24
+Clojure,lspector,2017-06-10,3,1,"#{""helmutht@wlu.edu""}",1793.0,24
+Clojure,lspector,2017-06-13,3,1,"#{""helmutht@wlu.edu""}",1796.0,24
+Clojure,lspector,2017-06-14,3,1,"#{""helmutht@wlu.edu""}",1799.0,24
+Clojure,lspector,2017-06-16,3,1,"#{""helmutht@wlu.edu""}",1802.0,24
+Clojure,lspector,2017-06-17,1,1,"#{""helmutht@wlu.edu""}",1803.0,24
+Clojure,lspector,2017-06-18,1,1,"#{""s.shanabrook@gmail.com""}",1804.0,24
+Clojure,lspector,2017-06-19,2,1,"#{""helmutht@wlu.edu""}",1806.0,24
+Clojure,lspector,2017-06-20,1,1,"#{""helmutht@wlu.edu""}",1807.0,24
+Clojure,lspector,2017-06-23,4,2,"#{""helmutht@wlu.edu"" ""s.shanabrook@gmail.com""}",1811.0,24
+Clojure,lspector,2017-06-24,3,1,"#{""helmutht@wlu.edu""}",1814.0,24
+Clojure,lspector,2017-06-25,5,1,"#{""helmutht@wlu.edu""}",1819.0,24
+Clojure,lspector,2017-06-26,1,1,"#{""helmutht@wlu.edu""}",1820.0,24
+Clojure,lspector,2017-06-28,2,1,"#{""helmutht@wlu.edu""}",1822.0,24
+Clojure,lspector,2017-06-29,8,1,"#{""helmutht@wlu.edu""}",1830.0,24
+Clojure,lspector,2017-06-30,11,3,"#{""lspector@hampshire.edu"" ""helmutht@wlu.edu"" ""_@_._""}",1841.0,24
+Clojure,lspector,2017-07-01,1,1,"#{""Wolfgang@windows.com""}",1842.0,25
+Clojure,lspector,2017-07-02,2,2,"#{""Wolfgang@windows.com"" ""lspector@hampshire.edu""}",1844.0,25
+Clojure,lspector,2017-07-04,4,1,"#{""s.shanabrook@gmail.com""}",1848.0,25
+Clojure,lspector,2017-07-05,5,1,"#{""s.shanabrook@gmail.com""}",1853.0,25
+Clojure,lspector,2017-07-08,1,1,"#{""s.shanabrook@gmail.com""}",1854.0,25
+Clojure,lspector,2017-07-10,1,1,"#{""lspector@hampshire.edu""}",1855.0,25
+Clojure,lspector,2017-07-11,1,1,"#{""lspector@hampshire.edu""}",1856.0,25
+Clojure,lspector,2017-07-12,1,1,"#{""lspector@hampshire.edu""}",1857.0,25
+Clojure,lspector,2017-07-15,1,1,"#{""lspector@hampshire.edu""}",1858.0,25
+Clojure,lspector,2017-07-18,1,1,"#{""lspector@hampshire.edu""}",1859.0,25
+Clojure,lspector,2017-07-29,1,1,"#{""s.shanabrook@gmail.com""}",1860.0,25
+Clojure,lspector,2017-07-31,1,1,"#{""lspector@hampshire.edu""}",1861.0,25
+Clojure,lspector,2017-08-03,3,1,"#{""lspector@hampshire.edu""}",1864.0,25
+Clojure,lspector,2017-08-04,2,1,"#{""lspector@hampshire.edu""}",1866.0,25
+Clojure,lspector,2017-08-05,2,1,"#{""lspector@hampshire.edu""}",1868.0,25
+Clojure,lspector,2017-08-06,2,1,"#{""lspector@hampshire.edu""}",1870.0,25
+Clojure,lspector,2017-08-07,1,1,"#{""lspector@hampshire.edu""}",1871.0,25
+Clojure,lspector,2017-08-12,2,1,"#{""lspector@hampshire.edu""}",1873.0,25
+Clojure,lspector,2017-08-13,16,1,"#{""lspector@hampshire.edu""}",1889.0,25
+Clojure,lspector,2017-08-14,1,1,"#{""lspector@hampshire.edu""}",1890.0,25
+Clojure,lspector,2017-08-15,1,1,"#{""lspector@hampshire.edu""}",1891.0,25
+Clojure,lspector,2017-08-16,2,2,"#{""lspector@hampshire.edu"" ""s.shanabrook@gmail.com""}",1893.0,25
+Clojure,lspector,2017-08-17,7,2,"#{""lspector@hampshire.edu"" ""s.shanabrook@gmail.com""}",1900.0,25
+Clojure,lspector,2017-08-18,4,1,"#{""lspector@hampshire.edu""}",1904.0,25
+Clojure,lspector,2017-08-20,5,1,"#{""lspector@hampshire.edu""}",1909.0,25
+Clojure,lspector,2017-08-22,1,1,"#{""lspector@hampshire.edu""}",1910.0,25
+Clojure,lspector,2017-08-24,2,1,"#{""lspector@hampshire.edu""}",1912.0,25
+Clojure,lspector,2017-08-25,1,1,"#{""lspector@hampshire.edu""}",1913.0,25
+Clojure,lspector,2017-08-26,1,1,"#{""lspector@hampshire.edu""}",1914.0,25
+Clojure,lspector,2017-08-27,1,1,"#{""lspector@hampshire.edu""}",1915.0,25
+Clojure,lspector,2017-08-29,1,1,"#{""lspector@hampshire.edu""}",1916.0,25
+Clojure,lspector,2017-08-30,3,1,"#{""lspector@hampshire.edu""}",1919.0,25
+Clojure,lspector,2017-09-03,1,1,"#{""lspector@hampshire.edu""}",1920.0,25
+Clojure,lspector,2017-09-08,1,1,"#{""lspector@hampshire.edu""}",1921.0,25
+Clojure,lspector,2017-09-10,4,1,"#{""lspector@hampshire.edu""}",1925.0,25
+Clojure,lspector,2017-09-11,1,1,"#{""lspector@hampshire.edu""}",1926.0,25
+Clojure,lspector,2017-09-13,4,1,"#{""lspector@hampshire.edu""}",1930.0,25
+Clojure,lspector,2017-09-15,3,1,"#{""lspector@hampshire.edu""}",1933.0,25
+Clojure,lspector,2017-09-16,3,1,"#{""lspector@hampshire.edu""}",1936.0,25
+Clojure,lspector,2017-09-17,1,1,"#{""lspector@hampshire.edu""}",1937.0,25
+Clojure,lspector,2017-09-18,1,1,"#{""lspector@hampshire.edu""}",1938.0,25
+Clojure,lspector,2017-09-19,1,1,"#{""lspector@hampshire.edu""}",1939.0,25
+Clojure,lspector,2017-09-22,1,1,"#{""lspector@hampshire.edu""}",1940.0,25
+Clojure,lspector,2017-09-23,5,1,"#{""lspector@hampshire.edu""}",1945.0,25
+Clojure,lspector,2017-09-24,5,2,"#{""_@_._"" ""s.shanabrook@gmail.com""}",1950.0,25
+Clojure,lspector,2017-09-25,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1953.0,25
+Clojure,lspector,2017-09-26,3,2,"#{""lspector@hampshire.edu"" ""s.shanabrook@gmail.com""}",1956.0,25
+Clojure,lspector,2017-09-27,4,1,"#{""s.shanabrook@gmail.com""}",1960.0,25
+Clojure,lspector,2017-09-28,4,1,"#{""lspector@hampshire.edu""}",1964.0,25
+Clojure,lspector,2017-09-29,8,2,"#{""lspector@hampshire.edu"" ""_@_._""}",1972.0,25
+Clojure,lspector,2017-09-30,2,1,"#{""lspector@hampshire.edu""}",1974.0,25
+Clojure,lspector,2017-10-03,2,1,"#{""lspector@hampshire.edu""}",1976.0,25
+Clojure,lspector,2017-10-04,1,1,"#{""s.shanabrook@gmail.com""}",1977.0,25
+Clojure,lspector,2017-10-08,7,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""s.shanabrook@gmail.com""}",1984.0,25
+Clojure,lspector,2017-10-11,1,1,"#{""lspector@hampshire.edu""}",1985.0,25
+Clojure,lspector,2017-10-12,2,1,"#{""lspector@hampshire.edu""}",1987.0,25
+Clojure,lspector,2017-10-16,1,1,"#{""lspector@hampshire.edu""}",1988.0,25
+Clojure,lspector,2017-10-18,6,1,"#{""lspector@hampshire.edu""}",1994.0,25
+Clojure,lspector,2017-10-19,6,1,"#{""lspector@hampshire.edu""}",2000.0,25
+Clojure,lspector,2017-10-22,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2004.0,25
+Clojure,lspector,2017-10-23,1,1,"#{""s.shanabrook@gmail.com""}",2005.0,25
+Clojure,lspector,2017-10-26,2,1,"#{""s.shanabrook@gmail.com""}",2007.0,25
+Clojure,lspector,2017-10-27,3,1,"#{""lspector@hampshire.edu""}",2010.0,25
+Clojure,lspector,2017-10-28,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2014.0,25
+Clojure,lspector,2017-10-29,3,1,"#{""lspector@hampshire.edu""}",2017.0,25
+Clojure,lspector,2017-10-30,1,1,"#{""lspector@hampshire.edu""}",2018.0,25
+Clojure,lspector,2017-10-31,2,1,"#{""lspector@hampshire.edu""}",2020.0,25
+Clojure,lspector,2017-11-06,1,1,"#{""lspector@hampshire.edu""}",2021.0,25
+Clojure,lspector,2017-11-07,1,1,"#{""lspector@hampshire.edu""}",2022.0,25
+Clojure,lspector,2017-11-08,3,1,"#{""lspector@hampshire.edu""}",2025.0,25
+Clojure,lspector,2017-11-10,1,1,"#{""lspector@hampshire.edu""}",2026.0,25
+Clojure,lspector,2017-11-12,1,1,"#{""lspector@hampshire.edu""}",2027.0,25
+Clojure,lspector,2017-11-15,4,1,"#{""lspector@hampshire.edu""}",2031.0,25
+Clojure,lspector,2017-11-17,2,1,"#{""lspector@hampshire.edu""}",2033.0,25
+Clojure,lspector,2017-11-19,1,1,"#{""lspector@hampshire.edu""}",2034.0,25
+Clojure,lspector,2017-11-20,2,1,"#{""lspector@hampshire.edu""}",2036.0,25
+Clojure,lspector,2017-11-22,1,1,"#{""lspector@hampshire.edu""}",2037.0,25
+Clojure,lspector,2017-11-23,2,1,"#{""lspector@hampshire.edu""}",2039.0,25
+Clojure,lspector,2017-11-24,1,1,"#{""lspector@hampshire.edu""}",2040.0,25
+Clojure,lspector,2017-11-25,1,1,"#{""lspector@hampshire.edu""}",2041.0,25
+Clojure,lspector,2017-11-27,1,1,"#{""lspector@hampshire.edu""}",2042.0,25
+Clojure,lspector,2017-11-28,1,1,"#{""lspector@hampshire.edu""}",2043.0,25
+Clojure,lspector,2017-11-30,1,1,"#{""lspector@hampshire.edu""}",2044.0,25
+Clojure,lspector,2017-12-01,2,1,"#{""lspector@hampshire.edu""}",2046.0,25
+Clojure,lspector,2017-12-05,1,1,"#{""lspector@hampshire.edu""}",2047.0,25
+Clojure,lspector,2017-12-08,1,1,"#{""lspector@hampshire.edu""}",2048.0,25
+Clojure,lspector,2017-12-09,1,1,"#{""lspector@hampshire.edu""}",2049.0,25
+Clojure,lspector,2017-12-12,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2053.0,25
+Clojure,lspector,2017-12-22,2,1,"#{""lspector@hampshire.edu""}",2055.0,25
+Clojure,lspector,2017-12-23,1,1,"#{""lspector@hampshire.edu""}",2056.0,25
+Clojure,lspector,2017-12-27,6,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2062.0,25
+Clojure,lspector,2017-12-28,3,1,"#{""lspector@hampshire.edu""}",2065.0,25
+Clojure,lspector,2018-01-04,1,1,"#{""lspector@hampshire.edu""}",2066.0,25
+Clojure,lspector,2018-01-05,1,1,"#{""lspector@hampshire.edu""}",2067.0,25
+Clojure,lspector,2018-01-06,1,1,"#{""lspector@hampshire.edu""}",2068.0,25
+Clojure,lspector,2018-01-07,3,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2071.0,26
+Clojure,lspector,2018-01-08,4,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2075.0,26
+Clojure,lspector,2018-01-09,2,1,"#{""_@_._""}",2077.0,26
+Clojure,lspector,2018-01-10,2,1,"#{""lspector@hampshire.edu""}",2079.0,26
+Clojure,lspector,2018-01-11,1,1,"#{""lspector@hampshire.edu""}",2080.0,26
+Clojure,lspector,2018-01-13,1,1,"#{""lspector@hampshire.edu""}",2081.0,26
+Clojure,lspector,2018-01-17,1,1,"#{""lspector@hampshire.edu""}",2082.0,26
+Clojure,lspector,2018-01-18,1,1,"#{""s.shanabrook@gmail.com""}",2083.0,26
+Clojure,lspector,2018-01-19,1,1,"#{""lspector@hampshire.edu""}",2084.0,26
+Clojure,lspector,2018-01-20,2,1,"#{""lspector@hampshire.edu""}",2086.0,26
+Clojure,lspector,2018-01-23,1,1,"#{""lspector@hampshire.edu""}",2087.0,26
+Clojure,lspector,2018-01-24,1,1,"#{""lspector@hampshire.edu""}",2088.0,26
+Clojure,lspector,2018-01-25,3,1,"#{""lspector@hampshire.edu""}",2091.0,26
+Clojure,lspector,2018-01-26,3,1,"#{""lspector@hampshire.edu""}",2094.0,26
+Clojure,lspector,2018-01-27,9,3,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com"" ""_@_._""}",2103.0,27
+Clojure,lspector,2018-01-28,1,1,"#{""lspector@hampshire.edu""}",2104.0,27
+Clojure,lspector,2018-01-29,1,1,"#{""lspector@hampshire.edu""}",2105.0,27
+Clojure,lspector,2018-01-30,3,1,"#{""lspector@hampshire.edu""}",2108.0,27
+Clojure,lspector,2018-01-31,2,2,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com""}",2110.0,27
+Clojure,lspector,2018-02-02,3,2,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com""}",2113.0,27
+Clojure,lspector,2018-02-03,3,2,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com""}",2116.0,27
+Clojure,lspector,2018-02-04,2,2,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com""}",2118.0,27
+Clojure,lspector,2018-02-06,1,1,"#{""lspector@hampshire.edu""}",2119.0,27
+Clojure,lspector,2018-02-10,4,1,"#{""lspector@hampshire.edu""}",2123.0,27
+Clojure,lspector,2018-02-11,1,1,"#{""lspector@hampshire.edu""}",2124.0,27
+Clojure,lspector,2018-02-12,1,1,"#{""lspector@hampshire.edu""}",2125.0,27
+Clojure,lspector,2018-02-14,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2127.0,27
+Clojure,lspector,2018-02-16,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2131.0,27
+Clojure,lspector,2018-02-17,3,1,"#{""lspector@hampshire.edu""}",2134.0,27
+Clojure,lspector,2018-02-19,1,1,"#{""lspector@hampshire.edu""}",2135.0,27
+Clojure,lspector,2018-02-20,5,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2140.0,27
+Clojure,lspector,2018-02-21,1,1,"#{""lspector@hampshire.edu""}",2141.0,27
+Clojure,lspector,2018-02-24,2,1,"#{""lspector@hampshire.edu""}",2143.0,27
+Clojure,lspector,2018-02-25,1,1,"#{""lspector@hampshire.edu""}",2144.0,27
+Clojure,lspector,2018-02-27,1,1,"#{""lspector@hampshire.edu""}",2145.0,27
+Clojure,lspector,2018-02-28,1,1,"#{""lspector@hampshire.edu""}",2146.0,27
+Clojure,lspector,2018-03-02,1,1,"#{""lspector@hampshire.edu""}",2147.0,27
+Clojure,lspector,2018-03-03,1,1,"#{""lspector@hampshire.edu""}",2148.0,27
+Clojure,lspector,2018-03-04,1,1,"#{""lspector@hampshire.edu""}",2149.0,27
+Clojure,lspector,2018-03-06,1,1,"#{""lspector@hampshire.edu""}",2150.0,27
+Clojure,lspector,2018-03-12,1,1,"#{""anil1iitr@gmail.com""}",2151.0,27
+Clojure,lspector,2018-03-14,1,1,"#{""anil1iitr@gmail.com""}",2152.0,27
+Clojure,lspector,2018-03-15,2,1,"#{""lspector@hampshire.edu""}",2154.0,27
+Clojure,lspector,2018-03-18,1,1,"#{""lspector@hampshire.edu""}",2155.0,27
+Clojure,lspector,2018-03-23,1,1,"#{""anil1iitr@gmail.com""}",2156.0,27
+Clojure,lspector,2018-03-24,1,1,"#{""lspector@hampshire.edu""}",2157.0,27
+Clojure,lspector,2018-03-25,1,1,"#{""lspector@hampshire.edu""}",2158.0,27
+Clojure,lspector,2018-03-26,2,2,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com""}",2160.0,27
+Clojure,lspector,2018-03-28,1,1,"#{""anil1iitr@gmail.com""}",2161.0,27
+Clojure,lspector,2018-03-31,2,1,"#{""anil1iitr@gmail.com""}",2163.0,27
+Clojure,lspector,2018-04-01,1,1,"#{""anil1iitr@gmail.com""}",2164.0,27
+Clojure,lspector,2018-04-02,4,2,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com""}",2168.0,27
+Clojure,lspector,2018-04-04,2,1,"#{""lspector@hampshire.edu""}",2170.0,27
+Clojure,lspector,2018-04-05,1,1,"#{""lspector@hampshire.edu""}",2171.0,27
+Clojure,lspector,2018-04-06,1,1,"#{""lspector@hampshire.edu""}",2172.0,27
+Clojure,lspector,2018-04-10,1,1,"#{""anil1iitr@gmail.com""}",2173.0,27
+Clojure,lspector,2018-04-11,1,1,"#{""lspector@hampshire.edu""}",2174.0,27
+Clojure,lspector,2018-04-14,2,1,"#{""lspector@hampshire.edu""}",2176.0,27
+Clojure,lspector,2018-04-15,1,1,"#{""lspector@hampshire.edu""}",2177.0,27
+Clojure,lspector,2018-04-16,1,1,"#{""lspector@hampshire.edu""}",2178.0,27
+Clojure,lspector,2018-04-17,1,1,"#{""lspector@hampshire.edu""}",2179.0,27
+Clojure,lspector,2018-04-19,2,1,"#{""lspector@hampshire.edu""}",2181.0,27
+Clojure,lspector,2018-04-20,1,1,"#{""lspector@hampshire.edu""}",2182.0,27
+Clojure,lspector,2018-04-22,1,1,"#{""lspector@hampshire.edu""}",2183.0,27
+Clojure,lspector,2018-04-23,1,1,"#{""lspector@hampshire.edu""}",2184.0,27
+Clojure,lspector,2018-04-24,1,1,"#{""lspector@hampshire.edu""}",2185.0,27
+Clojure,lspector,2018-04-25,1,1,"#{""lspector@hampshire.edu""}",2186.0,27
+Clojure,lspector,2018-04-30,1,1,"#{""lspector@hampshire.edu""}",2187.0,27
+Clojure,lspector,2018-05-04,2,1,"#{""lspector@hampshire.edu""}",2189.0,27
+Clojure,lspector,2018-05-21,1,1,"#{""lspector@hampshire.edu""}",2190.0,27
+Clojure,lspector,2018-05-22,2,1,"#{""lspector@hampshire.edu""}",2192.0,27
+Clojure,lspector,2018-05-25,2,1,"#{""lspector@hampshire.edu""}",2194.0,27
+Clojure,lspector,2018-05-27,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2198.0,27
+Clojure,lspector,2018-05-28,7,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2205.0,27
+Clojure,lspector,2018-05-30,1,1,"#{""lspector@hampshire.edu""}",2206.0,27
+Clojure,lspector,2018-06-04,1,1,"#{""thelmuth@hamilton.edu""}",2207.0,27
+Clojure,lspector,2018-06-06,7,1,"#{""lspector@hampshire.edu""}",2214.0,27
+Clojure,lspector,2018-06-07,2,1,"#{""_@_._""}",2216.0,27
+Clojure,lspector,2018-06-09,2,1,"#{""lspector@hampshire.edu""}",2218.0,27
+Clojure,lspector,2018-06-11,1,1,"#{""anil1iitr@gmail.com""}",2219.0,27
+Clojure,lspector,2018-06-13,2,2,"#{""anil1iitr@gmail.com"" ""aks@swarm2.cm.cluster""}",2221.0,28
+Clojure,lspector,2018-06-20,1,1,"#{""lspector@hampshire.edu""}",2222.0,28
+Clojure,lspector,2018-06-21,1,1,"#{""lspector@hampshire.edu""}",2223.0,28
+Clojure,lspector,2018-06-23,2,1,"#{""lspector@hampshire.edu""}",2225.0,28
+Clojure,lspector,2018-06-24,1,1,"#{""lspector@hampshire.edu""}",2226.0,28
+Clojure,lspector,2018-06-25,6,1,"#{""lspector@hampshire.edu""}",2232.0,28
+Clojure,lspector,2018-06-27,1,1,"#{""lspector@hampshire.edu""}",2233.0,28
+Clojure,lspector,2018-07-01,2,1,"#{""lspector@hampshire.edu""}",2235.0,28
+Clojure,lspector,2018-07-02,1,1,"#{""lspector@hampshire.edu""}",2236.0,28
+Clojure,lspector,2018-07-03,1,1,"#{""lspector@hampshire.edu""}",2237.0,28
+Clojure,lspector,2018-07-04,1,1,"#{""lspector@hampshire.edu""}",2238.0,28
+Clojure,lspector,2018-07-06,1,1,"#{""lspector@hampshire.edu""}",2239.0,28
+Clojure,lspector,2018-07-13,1,1,"#{""lspector@hampshire.edu""}",2240.0,28
+Clojure,lspector,2018-07-14,1,1,"#{""lspector@hampshire.edu""}",2241.0,28
+Clojure,lspector,2018-07-18,1,1,"#{""thelmuth@hamilton.edu""}",2242.0,28
+Clojure,lspector,2018-07-26,2,1,"#{""anil1iitr@gmail.com""}",2244.0,28
+Clojure,lspector,2018-07-31,2,1,"#{""thelmuth@hamilton.edu""}",2246.0,28
+Clojure,lspector,2018-08-01,4,1,"#{""thelmuth@hamilton.edu""}",2250.0,28
+Clojure,lspector,2018-08-02,10,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2260.0,28
+Clojure,lspector,2018-09-11,4,1,"#{""thelmuth@hamilton.edu""}",2264.0,28
+Clojure,lspector,2018-09-12,5,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2269.0,28
+Clojure,lspector,2018-09-13,2,1,"#{""_@_._""}",2271.0,28
+Clojure,lspector,2018-09-14,6,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2277.0,28
+Clojure,lspector,2018-09-15,5,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2282.0,28
+Clojure,lspector,2018-09-29,2,1,"#{""lspector@hampshire.edu""}",2284.0,28
+Clojure,lspector,2018-09-30,2,1,"#{""lspector@hampshire.edu""}",2286.0,28
+Clojure,lspector,2018-10-04,5,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2291.0,28
+Clojure,lspector,2018-10-05,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2295.0,28
+Clojure,lspector,2018-10-10,2,1,"#{""lspector@hampshire.edu""}",2297.0,28
+Clojure,lspector,2018-10-11,2,1,"#{""_@_._""}",2299.0,28
+Clojure,lspector,2018-10-26,1,1,"#{""lspector@hampshire.edu""}",2300.0,28
+Clojure,lspector,2018-10-27,1,1,"#{""lspector@hampshire.edu""}",2301.0,28
+Clojure,lspector,2018-11-01,1,1,"#{""lspector@hampshire.edu""}",2302.0,28
+Clojure,lspector,2018-11-03,2,1,"#{""lspector@hampshire.edu""}",2304.0,28
+Clojure,lspector,2018-11-09,5,1,"#{""lspector@hampshire.edu""}",2309.0,28
+Clojure,lspector,2018-11-25,2,1,"#{""lspector@hampshire.edu""}",2311.0,28
+Clojure,lspector,2018-11-26,1,1,"#{""pluck011@morris.umn.edu""}",2312.0,29
+Clojure,lspector,2018-11-29,1,1,"#{""lspector@hampshire.edu""}",2313.0,29
+Clojure,lspector,2018-12-04,1,1,"#{""lspector@hampshire.edu""}",2314.0,29
+Clojure,lspector,2018-12-05,1,1,"#{""lspector@hampshire.edu""}",2315.0,29
+Clojure,lspector,2018-12-07,1,1,"#{""lspector@hampshire.edu""}",2316.0,29
+Clojure,lspector,2018-12-09,1,1,"#{""lspector@hampshire.edu""}",2317.0,29
+Clojure,lspector,2018-12-14,1,1,"#{""lspector@hampshire.edu""}",2318.0,29
+Clojure,lspector,2018-12-15,2,1,"#{""lspector@hampshire.edu""}",2320.0,29
+Clojure,lspector,2018-12-16,2,1,"#{""lspector@hampshire.edu""}",2322.0,29
+Clojure,lspector,2018-12-17,1,1,"#{""lspector@hampshire.edu""}",2323.0,29
+Clojure,lspector,2018-12-19,2,1,"#{""lspector@hampshire.edu""}",2325.0,29
+Clojure,lspector,2018-12-21,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2329.0,29
+Clojure,lspector,2018-12-22,3,1,"#{""lspector@hampshire.edu""}",2332.0,29
+Clojure,lspector,2018-12-26,1,1,"#{""lspector@hampshire.edu""}",2333.0,29
+Clojure,lspector,2019-01-02,2,1,"#{""lspector@hampshire.edu""}",2335.0,29
+Clojure,lspector,2019-01-21,4,1,"#{""lspector@hampshire.edu""}",2339.0,29
+Clojure,lspector,2019-01-25,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2343.0,29
+Clojure,lspector,2019-01-29,2,1,"#{""lspector@hampshire.edu""}",2345.0,29
+Clojure,lspector,2019-01-30,1,1,"#{""lspector@hampshire.edu""}",2346.0,29
+Clojure,lspector,2019-02-08,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2349.0,29
+Clojure,lspector,2019-02-11,2,1,"#{""lspector@hampshire.edu""}",2351.0,29
+Clojure,lspector,2019-02-16,1,1,"#{""lspector@hampshire.edu""}",2352.0,29
+Clojure,lspector,2019-02-18,1,1,"#{""lspector@hampshire.edu""}",2353.0,29
+Clojure,lspector,2019-02-20,1,1,"#{""lspector@hampshire.edu""}",2354.0,29
+Clojure,lspector,2019-02-21,3,1,"#{""bill@vagueinnovation.com""}",2357.0,29
+Clojure,lspector,2019-02-22,1,1,"#{""lspector@hampshire.edu""}",2358.0,29
+Clojure,lspector,2019-02-23,2,1,"#{""bill@vagueinnovation.com""}",2360.0,29
+Clojure,lspector,2019-02-25,1,1,"#{""bill@Leuka.local""}",2361.0,30
+Clojure,lspector,2019-02-26,4,1,"#{""lspector@hampshire.edu""}",2365.0,30
+Clojure,lspector,2019-02-27,2,1,"#{""_@_._""}",2367.0,30
+Clojure,lspector,2019-02-28,1,1,"#{""lspector@hampshire.edu""}",2368.0,30
+Clojure,lspector,2019-03-02,2,1,"#{""anil1iitr@gmail.com""}",2370.0,30
+Clojure,lspector,2019-03-15,1,1,"#{""lspector@hampshire.edu""}",2371.0,30
+Clojure,lspector,2019-03-16,1,1,"#{""lspector@hampshire.edu""}",2372.0,30
+Clojure,lspector,2019-03-18,2,1,"#{""lspector@hampshire.edu""}",2374.0,30
+Clojure,lspector,2019-04-06,1,1,"#{""lspector@hampshire.edu""}",2375.0,30
+Clojure,lspector,2019-04-07,1,1,"#{""lspector@hampshire.edu""}",2376.0,30
+Clojure,lspector,2019-04-10,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2379.0,30
+Clojure,lspector,2019-04-30,1,1,"#{""anil1iitr@gmail.com""}",2380.0,30
+Clojure,lspector,2019-05-08,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2384.0,30
+Clojure,lspector,2019-05-11,10,1,"#{""lspector@hampshire.edu""}",2394.0,30
+Clojure,lspector,2019-05-12,7,1,"#{""lspector@hampshire.edu""}",2401.0,30
+Clojure,lspector,2019-05-14,4,1,"#{""lspector@hampshire.edu""}",2405.0,30
+Clojure,lspector,2019-05-15,1,1,"#{""lspector@hampshire.edu""}",2406.0,30
+Clojure,lspector,2019-05-16,1,1,"#{""lspector@hampshire.edu""}",2407.0,30
+Clojure,lspector,2019-05-17,1,1,"#{""lspector@hampshire.edu""}",2408.0,30
+Clojure,lspector,2019-05-19,1,1,"#{""lspector@hampshire.edu""}",2409.0,30
+Clojure,lspector,2019-05-23,1,1,"#{""lspector@hampshire.edu""}",2410.0,30
+Clojure,lspector,2019-05-24,1,1,"#{""lspector@hampshire.edu""}",2411.0,30
+Clojure,lspector,2019-06-02,1,1,"#{""lspector@hampshire.edu""}",2412.0,30
+Clojure,lspector,2019-06-09,2,1,"#{""lspector@hampshire.edu""}",2414.0,30
+Clojure,lspector,2019-06-14,1,1,"#{""lspector@hampshire.edu""}",2415.0,30
+Clojure,lspector,2019-06-16,1,1,"#{""lspector@hampshire.edu""}",2416.0,30
+Clojure,lspector,2019-06-18,1,1,"#{""lspector@hampshire.edu""}",2417.0,30
+Clojure,lspector,2019-06-19,1,1,"#{""lspector@hampshire.edu""}",2418.0,30
+Clojure,lspector,2019-06-21,1,1,"#{""lspector@hampshire.edu""}",2419.0,30
+Clojure,lspector,2019-06-22,3,1,"#{""lspector@hampshire.edu""}",2422.0,30
+Clojure,lspector,2019-06-25,1,1,"#{""lspector@hampshire.edu""}",2423.0,30
+Clojure,lspector,2019-06-26,1,1,"#{""lspector@hampshire.edu""}",2424.0,30
+Clojure,lspector,2019-06-27,1,1,"#{""lspector@hampshire.edu""}",2425.0,30
+Clojure,lspector,2019-07-05,1,1,"#{""lspector@hampshire.edu""}",2426.0,30
+Clojure,lspector,2019-07-06,1,1,"#{""lspector@hampshire.edu""}",2427.0,30
+Clojure,lspector,2019-07-08,1,1,"#{""lspector@hampshire.edu""}",2428.0,30
+Clojure,lspector,2019-07-10,1,1,"#{""lspector@hampshire.edu""}",2429.0,30
+Clojure,lspector,2019-07-11,1,1,"#{""lspector@hampshire.edu""}",2430.0,30
+Clojure,lspector,2019-07-13,1,1,"#{""lspector@hampshire.edu""}",2431.0,30
+Clojure,lspector,2019-07-14,2,1,"#{""lspector@hampshire.edu""}",2433.0,30
+Clojure,lspector,2019-07-21,1,1,"#{""lspector@hampshire.edu""}",2434.0,30
+Clojure,lspector,2019-07-25,1,1,"#{""anil1iitr@gmail.com""}",2435.0,30
+Clojure,lspector,2019-08-15,1,1,"#{""thelmuth@hamilton.edu""}",2436.0,30
+Clojure,lspector,2019-08-19,1,1,"#{""thelmuth@hamilton.edu""}",2437.0,30
+Clojure,lspector,2019-08-20,6,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2443.0,30
+Clojure,lspector,2019-08-22,4,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2447.0,30
+Clojure,lspector,2019-08-24,6,3,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com"" ""thelmuth@hamilton.edu""}",2453.0,30
+Clojure,lspector,2019-08-25,1,1,"#{""thelmuth@hamilton.edu""}",2454.0,30
+Clojure,lspector,2019-08-26,2,1,"#{""thelmuth@hamilton.edu""}",2456.0,30
+Clojure,lspector,2019-08-27,2,1,"#{""thelmuth@hamilton.edu""}",2458.0,30
+Clojure,lspector,2019-08-28,1,1,"#{""thelmuth@hamilton.edu""}",2459.0,30
+Clojure,lspector,2019-09-10,7,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2466.0,30
+Clojure,lspector,2019-09-11,5,3,"#{""anil1iitr@gmail.com"" ""_@_._"" ""thelmuth@hamilton.edu""}",2471.0,30
+Clojure,lspector,2019-09-16,2,1,"#{""thelmuth@hamilton.edu""}",2473.0,30
+Clojure,lspector,2019-09-25,1,1,"#{""anil1iitr@gmail.com""}",2474.0,30
+Clojure,lspector,2019-09-30,1,1,"#{""anil1iitr@gmail.com""}",2475.0,30
+Clojure,lspector,2019-10-03,1,1,"#{""anil1iitr@gmail.com""}",2476.0,30
+Clojure,lspector,2019-10-07,1,1,"#{""anil1iitr@gmail.com""}",2477.0,30
+Clojure,lspector,2019-10-09,1,1,"#{""anil1iitr@gmail.com""}",2478.0,30
+Clojure,lspector,2019-10-11,1,1,"#{""anil1iitr@gmail.com""}",2479.0,30
+Clojure,lspector,2019-10-16,1,1,"#{""anil1iitr@gmail.com""}",2480.0,30
+Clojure,lspector,2019-10-18,1,1,"#{""anil1iitr@gmail.com""}",2481.0,30
+Clojure,lspector,2019-10-20,1,1,"#{""thelmuth@hamilton.edu""}",2482.0,30
+Clojure,lspector,2019-10-23,1,1,"#{""thelmuth@hamilton.edu""}",2483.0,30
+Clojure,lspector,2019-10-26,4,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2487.0,30
+Clojure,lspector,2019-10-27,7,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2494.0,30
+Clojure,lspector,2019-10-28,7,2,"#{""_@_._"" ""thelmuth@hamilton.edu""}",2501.0,30
+Clojure,lspector,2019-10-29,7,4,"#{""lspector@hampshire.edu"" ""anil1iitr@gmail.com"" ""_@_._"" ""thelmuth@hamilton.edu""}",2508.0,30
+Clojure,lspector,2019-10-30,1,1,"#{""thelmuth@hamilton.edu""}",2509.0,30
+Clojure,lspector,2019-10-31,4,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2513.0,30
+Clojure,lspector,2019-11-02,1,1,"#{""thelmuth@hamilton.edu""}",2514.0,30
+Clojure,lspector,2019-11-05,1,1,"#{""lspector@hampshire.edu""}",2515.0,30
+Clojure,lspector,2019-11-06,2,1,"#{""_@_._""}",2517.0,30
+Clojure,lspector,2019-11-13,1,1,"#{""thelmuth@hamilton.edu""}",2518.0,30
+Clojure,lspector,2019-11-15,2,1,"#{""thelmuth@hamilton.edu""}",2520.0,30
+Clojure,lspector,2019-11-16,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2523.0,30
+Clojure,lspector,2019-11-17,5,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2528.0,30
+Clojure,lspector,2019-11-20,1,1,"#{""anil1iitr@gmail.com""}",2529.0,30
+Clojure,lspector,2019-11-24,1,1,"#{""anil1iitr@gmail.com""}",2530.0,30
+Clojure,lspector,2019-12-06,2,1,"#{""thelmuth@hamilton.edu""}",2532.0,30
+Clojure,lspector,2019-12-09,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2535.0,30
+Clojure,lspector,2019-12-10,1,1,"#{""thelmuth@hamilton.edu""}",2536.0,30
+Clojure,lspector,2019-12-17,3,2,"#{""lspector@hampshire.edu"" ""_@_._""}",2539.0,30
+Clojure,lspector,2019-12-28,4,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2543.0,30
+Clojure,lspector,2020-01-02,4,3,"#{""lspector@hampshire.edu"" ""_@_._"" ""thelmuth@hamilton.edu""}",2547.0,30
+Clojure,lspector,2020-02-04,2,2,"#{""lspector@hampshire.edu"" ""bill@vagueinnovation.com""}",2549.0,30
+Clojure,lspector,2020-02-05,2,1,"#{""_@_._""}",2551.0,30
+Clojure,lspector,2020-02-24,1,1,"#{""bill@williamtozier.com""}",2552.0,31
+Clojure,lspector,2020-02-25,1,1,"#{""lspector@hampshire.edu""}",2553.0,31
+Clojure,lspector,2020-02-26,2,1,"#{""_@_._""}",2555.0,31
+Clojure,lspector,2020-03-16,1,1,"#{""anil1iitr@gmail.com""}",2556.0,31
+Clojure,lspector,2020-05-18,3,1,"#{""anil1iitr@gmail.com""}",2559.0,31
+Clojure,lspector,2020-06-12,1,1,"#{""anil1iitr@gmail.com""}",2560.0,31
+Clojure,lspector,2020-06-14,1,1,"#{""lspector@hampshire.edu""}",2561.0,31
+Clojure,lspector,2020-06-15,2,1,"#{""_@_._""}",2563.0,31
+Clojure,lspector,2020-07-20,1,1,"#{""thelmuth@hamilton.edu""}",2564.0,31
+Clojure,lspector,2020-07-21,1,1,"#{""thelmuth@hamilton.edu""}",2565.0,31
+Clojure,lspector,2020-07-22,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2567.0,31
+Clojure,lspector,2020-09-17,2,2,"#{""lspector@hampshire.edu"" ""me@taichikato.com""}",2569.0,32
+Clojure,lspector,2020-11-03,1,1,"#{""anil1iitr@gmail.com""}",2570.0,32
+Clojure,lspector,2020-11-05,1,1,"#{""lspector@hampshire.edu""}",2571.0,32
+Clojure,lspector,2020-12-20,1,1,"#{""thelmuth@hamilton.edu""}",2572.0,32
+Clojure,lspector,2020-12-21,4,2,"#{""pxkelly@hamilton.edu"" ""thelmuth@hamilton.edu""}",2576.0,33
+Clojure,lspector,2020-12-22,6,3,"#{""pxkelly@hamilton.edu"" ""35539495+pxkelly@users.noreply.github.com"" ""thelmuth@hamilton.edu""}",2582.0,34
+Clojure,lspector,2020-12-23,1,1,"#{""thelmuth@hamilton.edu""}",2583.0,34
+Clojure,lspector,2020-12-24,3,1,"#{""thelmuth@hamilton.edu""}",2586.0,34
+Clojure,lspector,2020-12-29,1,1,"#{""thelmuth@hamilton.edu""}",2587.0,34
+Clojure,lspector,2020-12-30,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2589.0,34
+Clojure,lspector,2021-01-01,2,1,"#{""thelmuth@hamilton.edu""}",2591.0,34
+Clojure,lspector,2021-01-02,2,1,"#{""thelmuth@hamilton.edu""}",2593.0,34
+Clojure,lspector,2021-01-03,11,1,"#{""thelmuth@hamilton.edu""}",2604.0,34
+Clojure,lspector,2021-01-04,3,3,"#{""pxkelly@hamilton.edu"" ""35539495+pxkelly@users.noreply.github.com"" ""thelmuth@hamilton.edu""}",2607.0,34
+Clojure,lspector,2021-01-05,2,1,"#{""thelmuth@hamilton.edu""}",2609.0,34
+Clojure,lspector,2021-01-07,2,1,"#{""thelmuth@hamilton.edu""}",2611.0,34
+Clojure,lspector,2021-01-08,1,1,"#{""thelmuth@hamilton.edu""}",2612.0,34
+Clojure,lspector,2021-01-13,3,1,"#{""thelmuth@hamilton.edu""}",2615.0,34
+Clojure,lspector,2021-01-14,1,1,"#{""thelmuth@hamilton.edu""}",2616.0,34
+Clojure,lspector,2021-01-15,3,1,"#{""pxkelly@hamilton.edu""}",2619.0,34
+Clojure,lspector,2021-01-16,2,1,"#{""thelmuth@hamilton.edu""}",2621.0,34
+Clojure,lspector,2021-01-18,1,1,"#{""thelmuth@hamilton.edu""}",2622.0,34
+Clojure,lspector,2021-01-19,1,1,"#{""thelmuth@hamilton.edu""}",2623.0,34
+Clojure,lspector,2021-01-23,2,1,"#{""thelmuth@hamilton.edu""}",2625.0,34
+Clojure,lspector,2021-01-24,1,1,"#{""thelmuth@hamilton.edu""}",2626.0,34
+Clojure,lspector,2021-01-27,1,1,"#{""thelmuth@hamilton.edu""}",2627.0,34
+Clojure,lspector,2021-01-29,1,1,"#{""thelmuth@hamilton.edu""}",2628.0,34
+Clojure,lspector,2021-01-30,2,1,"#{""thelmuth@hamilton.edu""}",2630.0,34
+Clojure,lspector,2021-02-01,1,1,"#{""thelmuth@hamilton.edu""}",2631.0,34
+Clojure,lspector,2021-02-06,2,1,"#{""thelmuth@hamilton.edu""}",2633.0,34
+Clojure,lspector,2021-02-07,1,1,"#{""thelmuth@hamilton.edu""}",2634.0,34
+Clojure,lspector,2021-02-09,1,1,"#{""thelmuth@hamilton.edu""}",2635.0,34
+Clojure,lspector,2021-02-13,1,1,"#{""thelmuth@hamilton.edu""}",2636.0,34
+Clojure,lspector,2021-03-31,4,1,"#{""pxkelly@hamilton.edu""}",2640.0,34
+Clojure,lspector,2021-04-01,1,1,"#{""35539495+pxkelly@users.noreply.github.com""}",2641.0,34
+Clojure,lspector,2021-04-27,2,1,"#{""lspector@hampshire.edu""}",2643.0,34
+Clojure,lspector,2021-07-14,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2645.0,34
+Clojure,lspector,2021-07-15,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2647.0,34
+Clojure,lspector,2022-07-11,2,2,"#{""lspector@hampshire.edu"" ""thelmuth@hamilton.edu""}",2649.0,34
+Clojure,lspector,2023-05-06,1,1,"#{""lspector@hampshire.edu""}",2650.0,34

@@ -1,0 +1,142 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-01-29,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-01-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-02-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",16.0,[{0 16}],0,16,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",17.0,[{0 17}],0,17,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-03-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",18.0,[{0 18}],0,18,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-04-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",21.0,[{0 21}],0,21,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-04-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",27.0,[{0 27}],0,27,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-04-09,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",34.0,[{0 34}],0,34,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-04-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",37.0,[{0 37}],0,37,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[daniel@flyingmachinestudios.com]",38.0,"[{0 37, ""other"" 1}]",1,37,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",39.0,"[{0 38, ""other"" 1}]",1,38,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-06-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com]",41.0,"[{0 40, ""other"" 1}]",1,40,0,0,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-09-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brian@otherpeoplespixels.com, brian@otherpeoplespixels.com]",43.0,"[{0 40, ""other"" 1, 2 2}]",1,40,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",44.0,"[{0 41, ""other"" 1, 2 2}]",1,41,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",45.0,"[{0 42, ""other"" 1, 2 2}]",1,42,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-11-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, spamtrap@alphageeksinc.com]",47.0,"[{0 43, ""other"" 2, 2 2}]",2,43,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-11-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[moritz@doo.net]",48.0,"[{0 43, ""other"" 3, 2 2}]",3,43,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-11-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",52.0,"[{0 47, ""other"" 3, 2 2}]",3,47,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2012-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",53.0,"[{0 48, ""other"" 3, 2 2}]",3,48,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexander.baranosky@gmail.com]",54.0,"[{0 48, ""other"" 4, 2 2}]",4,48,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",55.0,"[{0 49, ""other"" 4, 2 2}]",4,49,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-03-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",58.0,"[{0 52, ""other"" 4, 2 2}]",4,52,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",59.0,"[{0 53, ""other"" 4, 2 2}]",4,53,0,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-04-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neale@isismanor.com, neale@isismanor.com]",61.0,"[{0 53, ""other"" 4, 2 2, 1 2}]",4,53,2,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-04-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neale@isismanor.com, neale@isismanor.com, neale@isismanor.com]",64.0,"[{0 53, ""other"" 4, 2 2, 1 5}]",4,53,5,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-04-22,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",74.0,"[{0 63, ""other"" 4, 2 2, 1 5}]",4,63,5,2,0,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",75.0,"[{0 63, ""other"" 4, 2 2, 1 5, 3 1}]",4,63,5,2,1,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",76.0,"[{0 64, ""other"" 4, 2 2, 1 5, 3 1}]",4,64,5,2,1,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-05-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[neale@isismanor.com, jreeves@weavejester.com, neale@isismanor.com]",79.0,"[{0 65, ""other"" 4, 2 2, 1 7, 3 1}]",4,65,7,2,1,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",80.0,"[{0 66, ""other"" 4, 2 2, 1 7, 3 1}]",4,66,7,2,1,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-06-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mtbkapp@gmail.com]",81.0,"[{0 66, ""other"" 5, 2 2, 1 7, 3 1}]",5,66,7,2,1,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",82.0,"[{0 67, ""other"" 5, 2 2, 1 7, 3 1}]",5,67,7,2,1,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-08-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[homer.strong@gmail.com]",83.0,"[{0 67, ""other"" 5, 2 2, 1 7, 3 2}]",5,67,7,2,2,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-08-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",86.0,"[{0 70, ""other"" 5, 2 2, 1 7, 3 2}]",5,70,7,2,2,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@m3p.co.uk]",87.0,"[{0 70, ""other"" 6, 2 2, 1 7, 3 2}]",6,70,7,2,2,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neale@isismanor.com]",88.0,"[{0 70, ""other"" 6, 2 2, 1 8, 3 2}]",6,70,8,2,2,0
+Clojure,https://github.com/weavejester/clj-aws-s3,2013-11-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, chris@dreamtolearn.com]",90.0,"[{0 71, ""other"" 6, 2 2, 1 8, 3 2, 4 1}]",6,71,8,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-01-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neale@isismanor.com, neale@isismanor.com, neale@isismanor.com]",93.0,"[{0 71, ""other"" 6, 2 2, 1 11, 3 2, 4 1}]",6,71,11,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[elliot@deck36.net]",94.0,"[{0 71, ""other"" 7, 2 2, 1 11, 3 2, 4 1}]",7,71,11,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-01-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jlee@yetitrails.com, neale@isismanor.com]",96.0,"[{0 71, ""other"" 8, 2 2, 1 12, 3 2, 4 1}]",8,71,12,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-02-13,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",103.0,"[{0 78, ""other"" 8, 2 2, 1 12, 3 2, 4 1}]",8,78,12,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[devinw@gmail.com]",104.0,"[{0 78, ""other"" 9, 2 2, 1 12, 3 2, 4 1}]",9,78,12,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",105.0,"[{0 79, ""other"" 9, 2 2, 1 12, 3 2, 4 1}]",9,79,12,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",106.0,"[{0 80, ""other"" 9, 2 2, 1 12, 3 2, 4 1}]",9,80,12,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-05-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, rthomas@atlassian.com]",108.0,"[{0 81, ""other"" 10, 2 2, 1 12, 3 2, 4 1}]",10,81,12,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2014-09-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com]",110.0,"[{0 83, ""other"" 10, 2 2, 1 12, 3 2, 4 1}]",10,83,12,2,2,1
+Clojure,https://github.com/weavejester/clj-aws-s3,2017-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",111.0,"[{0 84, ""other"" 10, 2 2, 1 12, 3 2, 4 1}]",10,84,12,2,2,1

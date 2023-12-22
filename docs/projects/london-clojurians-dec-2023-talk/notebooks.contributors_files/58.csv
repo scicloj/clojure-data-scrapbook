@@ -1,0 +1,230 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,danielsz,2014-07-25,3,1,"#{""daniel.szmulewicz@gmail.com""}",3.0,1
+Clojure,danielsz,2014-07-26,1,1,"#{""daniel.szmulewicz@gmail.com""}",4.0,1
+Clojure,danielsz,2014-07-28,5,1,"#{""daniel.szmulewicz@gmail.com""}",9.0,1
+Clojure,danielsz,2014-07-29,22,1,"#{""daniel.szmulewicz@gmail.com""}",31.0,1
+Clojure,danielsz,2014-08-04,6,2,"#{""daniel.szmulewicz@gmail.com"" ""mike.r.anderson.13@gmail.com""}",37.0,2
+Clojure,danielsz,2014-08-05,2,1,"#{""daniel.szmulewicz@gmail.com""}",39.0,2
+Clojure,danielsz,2014-08-06,2,1,"#{""daniel.szmulewicz@gmail.com""}",41.0,2
+Clojure,danielsz,2014-08-27,1,1,"#{""daniel.szmulewicz@gmail.com""}",42.0,2
+Clojure,danielsz,2014-08-28,1,1,"#{""daniel.szmulewicz@gmail.com""}",43.0,2
+Clojure,danielsz,2014-08-30,2,1,"#{""daniel.szmulewicz@gmail.com""}",45.0,2
+Clojure,danielsz,2014-09-25,2,1,"#{""daniel.szmulewicz@gmail.com""}",47.0,2
+Clojure,danielsz,2014-10-05,1,1,"#{""daniel.szmulewicz@gmail.com""}",48.0,2
+Clojure,danielsz,2014-10-08,8,1,"#{""daniel.szmulewicz@gmail.com""}",56.0,2
+Clojure,danielsz,2014-10-31,3,2,"#{""z@caudate.me"" ""danielsz@sdf.lonestar.org""}",59.0,4
+Clojure,danielsz,2014-11-01,1,1,"#{""christian_weilbach@web.de""}",60.0,5
+Clojure,danielsz,2014-11-02,2,1,"#{""daniel.szmulewicz@gmail.com""}",62.0,5
+Clojure,danielsz,2014-11-10,1,1,"#{""daniel.szmulewicz@gmail.com""}",63.0,5
+Clojure,danielsz,2015-01-20,2,1,"#{""dariusz@luksza.org""}",65.0,6
+Clojure,danielsz,2015-01-21,3,1,"#{""daniel.szmulewicz@gmail.com""}",68.0,6
+Clojure,danielsz,2015-02-21,7,2,"#{""daniel.szmulewicz@gmail.com"" ""colin.yates@gmail.com""}",75.0,7
+Clojure,danielsz,2015-03-05,2,1,"#{""tonihe@gmail.com""}",77.0,8
+Clojure,danielsz,2015-04-06,6,1,"#{""daniel.szmulewicz@gmail.com""}",83.0,8
+Clojure,danielsz,2015-04-07,2,1,"#{""daniel.szmulewicz@gmail.com""}",85.0,8
+Clojure,danielsz,2015-04-09,10,1,"#{""daniel.szmulewicz@gmail.com""}",95.0,8
+Clojure,danielsz,2015-04-26,2,1,"#{""daniel.szmulewicz@gmail.com""}",97.0,8
+Clojure,danielsz,2015-04-27,4,1,"#{""daniel.szmulewicz@gmail.com""}",101.0,8
+Clojure,danielsz,2015-04-28,2,1,"#{""daniel.szmulewicz@gmail.com""}",103.0,8
+Clojure,danielsz,2015-05-11,3,1,"#{""daniel.szmulewicz@gmail.com""}",106.0,8
+Clojure,danielsz,2015-05-16,2,2,"#{""piotrek@bzdyl.net"" ""daniel.szmulewicz@gmail.com""}",108.0,9
+Clojure,danielsz,2015-05-17,1,1,"#{""daniel.szmulewicz@gmail.com""}",109.0,9
+Clojure,danielsz,2015-05-18,12,2,"#{""daniel.szmulewicz@gmail.com"" ""stig@brautaset.org""}",121.0,10
+Clojure,danielsz,2015-05-19,1,1,"#{""daniel.szmulewicz@gmail.com""}",122.0,10
+Clojure,danielsz,2015-05-21,4,2,"#{""daniel.szmulewicz@gmail.com"" ""jstepien@users.sourceforge.net""}",126.0,11
+Clojure,danielsz,2015-05-24,2,1,"#{""daniel.szmulewicz@gmail.com""}",128.0,11
+Clojure,danielsz,2015-06-10,1,1,"#{""daniel.szmulewicz@gmail.com""}",129.0,11
+Clojure,danielsz,2015-06-23,2,1,"#{""daniel.szmulewicz@gmail.com""}",131.0,11
+Clojure,danielsz,2015-06-28,3,2,"#{""bensima@gmail.com"" ""daniel.szmulewicz@gmail.com""}",134.0,12
+Clojure,danielsz,2015-07-01,4,3,"#{""bensima@gmail.com"" ""daniel.szmulewicz@gmail.com"" ""r.dahlen@gmail.com""}",138.0,13
+Clojure,danielsz,2015-07-03,1,1,"#{""daniel.szmulewicz@gmail.com""}",139.0,13
+Clojure,danielsz,2015-07-06,1,1,"#{""bensima@gmail.com""}",140.0,13
+Clojure,danielsz,2015-07-14,1,1,"#{""danielsz@freeshell.org""}",141.0,14
+Clojure,danielsz,2015-07-23,4,2,"#{""daniel.szmulewicz@gmail.com"" ""john.d.swanson@gmail.com""}",145.0,15
+Clojure,danielsz,2015-07-26,3,2,"#{""daniel.szmulewicz@gmail.com"" ""stig@brautaset.org""}",148.0,15
+Clojure,danielsz,2015-08-09,5,2,"#{""daniel.szmulewicz@gmail.com"" ""metasoarous@gmail.com""}",153.0,16
+Clojure,danielsz,2015-08-10,1,1,"#{""daniel.szmulewicz@gmail.com""}",154.0,16
+Clojure,danielsz,2015-08-11,2,1,"#{""daniel.szmulewicz@gmail.com""}",156.0,16
+Clojure,danielsz,2015-08-12,4,1,"#{""daniel.szmulewicz@gmail.com""}",160.0,16
+Clojure,danielsz,2015-08-13,1,1,"#{""daniel.szmulewicz@gmail.com""}",161.0,16
+Clojure,danielsz,2015-08-15,6,1,"#{""daniel.szmulewicz@gmail.com""}",167.0,16
+Clojure,danielsz,2015-08-20,1,1,"#{""daniel.szmulewicz@gmail.com""}",168.0,16
+Clojure,danielsz,2015-08-21,2,1,"#{""git@sonntagsbox.de""}",170.0,17
+Clojure,danielsz,2015-08-24,2,2,"#{""daniel.szmulewicz@gmail.com"" ""git@sonntagsbox.de""}",172.0,17
+Clojure,danielsz,2015-08-25,5,2,"#{""larry@larrystaton.com"" ""daniel.szmulewicz@gmail.com""}",177.0,18
+Clojure,danielsz,2015-09-28,5,2,"#{""karel.miarka@seznam.cz"" ""daniel.szmulewicz@gmail.com""}",182.0,19
+Clojure,danielsz,2015-09-29,9,2,"#{""karel.miarka@seznam.cz"" ""daniel.szmulewicz@gmail.com""}",191.0,19
+Clojure,danielsz,2015-10-06,2,2,"#{""karel.miarka@seznam.cz"" ""daniel.szmulewicz@gmail.com""}",193.0,19
+Clojure,danielsz,2015-10-14,1,1,"#{""karel.miarka@seznam.cz""}",194.0,19
+Clojure,danielsz,2015-10-15,1,1,"#{""karel.miarka@seznam.cz""}",195.0,19
+Clojure,danielsz,2015-10-16,1,1,"#{""daniel.szmulewicz@gmail.com""}",196.0,19
+Clojure,danielsz,2015-10-28,2,1,"#{""daniel.szmulewicz@gmail.com""}",198.0,19
+Clojure,danielsz,2015-10-29,1,1,"#{""daniel.szmulewicz@gmail.com""}",199.0,19
+Clojure,danielsz,2015-11-04,1,1,"#{""daniel.szmulewicz@gmail.com""}",200.0,19
+Clojure,danielsz,2015-11-08,4,1,"#{""daniel.szmulewicz@gmail.com""}",204.0,19
+Clojure,danielsz,2015-11-12,2,1,"#{""daniel.szmulewicz@gmail.com""}",206.0,19
+Clojure,danielsz,2015-11-13,2,1,"#{""daniel.szmulewicz@gmail.com""}",208.0,19
+Clojure,danielsz,2015-11-20,2,1,"#{""daniel.szmulewicz@gmail.com""}",210.0,19
+Clojure,danielsz,2015-11-23,7,1,"#{""daniel.szmulewicz@gmail.com""}",217.0,19
+Clojure,danielsz,2015-12-06,2,1,"#{""daniel.szmulewicz@gmail.com""}",219.0,19
+Clojure,danielsz,2015-12-14,2,2,"#{""daniel.szmulewicz@gmail.com"" ""fran.sardo@gmail.com""}",221.0,20
+Clojure,danielsz,2015-12-15,1,1,"#{""daniel.szmulewicz@gmail.com""}",222.0,20
+Clojure,danielsz,2016-01-11,3,1,"#{""daniel.szmulewicz@gmail.com""}",225.0,20
+Clojure,danielsz,2016-01-15,1,1,"#{""daniel.szmulewicz@gmail.com""}",226.0,20
+Clojure,danielsz,2016-01-17,4,1,"#{""daniel.szmulewicz@gmail.com""}",230.0,20
+Clojure,danielsz,2016-01-31,9,1,"#{""daniel.szmulewicz@gmail.com""}",239.0,20
+Clojure,danielsz,2016-02-01,5,1,"#{""daniel.szmulewicz@gmail.com""}",244.0,20
+Clojure,danielsz,2016-02-02,4,1,"#{""daniel.szmulewicz@gmail.com""}",248.0,20
+Clojure,danielsz,2016-02-10,2,1,"#{""daniel.szmulewicz@gmail.com""}",250.0,20
+Clojure,danielsz,2016-02-12,1,1,"#{""daniel.szmulewicz@gmail.com""}",251.0,20
+Clojure,danielsz,2016-02-15,2,2,"#{""daniel.szmulewicz@gmail.com"" ""paul.brabban@gmail.com""}",253.0,21
+Clojure,danielsz,2016-02-16,4,2,"#{""daniel.szmulewicz@gmail.com"" ""paul.brabban@gmail.com""}",257.0,21
+Clojure,danielsz,2016-02-17,2,2,"#{""daniel.szmulewicz@gmail.com"" ""paul.brabban@gmail.com""}",259.0,21
+Clojure,danielsz,2016-02-18,3,2,"#{""daniel.szmulewicz@gmail.com"" ""paul.brabban@gmail.com""}",262.0,21
+Clojure,danielsz,2016-02-19,2,1,"#{""daniel.szmulewicz@gmail.com""}",264.0,21
+Clojure,danielsz,2016-02-21,3,2,"#{""daniel.szmulewicz@gmail.com"" ""derekslager@gmail.com""}",267.0,22
+Clojure,danielsz,2016-02-22,5,1,"#{""daniel.szmulewicz@gmail.com""}",272.0,22
+Clojure,danielsz,2016-02-23,1,1,"#{""mihails.butorins@gmail.com""}",273.0,23
+Clojure,danielsz,2016-02-24,4,2,"#{""daniel.szmulewicz@gmail.com"" ""mihails.butorins@gmail.com""}",277.0,23
+Clojure,danielsz,2016-02-25,5,1,"#{""daniel.szmulewicz@gmail.com""}",282.0,23
+Clojure,danielsz,2016-03-07,2,2,"#{""karel.miarka@seznam.cz"" ""daniel.szmulewicz@gmail.com""}",284.0,23
+Clojure,danielsz,2016-03-13,1,1,"#{""giorgio@refactor.it""}",285.0,24
+Clojure,danielsz,2016-03-21,2,1,"#{""upgradingdave@gmail.com""}",287.0,25
+Clojure,danielsz,2016-03-22,1,1,"#{""daniel.szmulewicz@gmail.com""}",288.0,25
+Clojure,danielsz,2016-03-23,2,1,"#{""daniel.szmulewicz@gmail.com""}",290.0,25
+Clojure,danielsz,2016-03-26,2,1,"#{""theasp@gmail.com""}",292.0,26
+Clojure,danielsz,2016-03-27,4,3,"#{""daniel.szmulewicz@gmail.com"" ""theasp@gmail.com"" ""paul@paul-personal-laptop.home""}",296.0,27
+Clojure,danielsz,2016-03-28,1,1,"#{""daniel.szmulewicz@gmail.com""}",297.0,27
+Clojure,danielsz,2016-03-29,4,1,"#{""daniel.szmulewicz@gmail.com""}",301.0,27
+Clojure,danielsz,2016-04-04,2,2,"#{""daniel.szmulewicz@gmail.com"" ""theasp@gmail.com""}",303.0,27
+Clojure,danielsz,2016-04-08,5,2,"#{""adam@adamfrey.me"" ""daniel.szmulewicz@gmail.com""}",308.0,28
+Clojure,danielsz,2016-04-10,1,1,"#{""ed@reshape.de""}",309.0,29
+Clojure,danielsz,2016-04-11,3,1,"#{""daniel.szmulewicz@gmail.com""}",312.0,29
+Clojure,danielsz,2016-04-15,1,1,"#{""daniel.szmulewicz@gmail.com""}",313.0,29
+Clojure,danielsz,2016-04-16,1,1,"#{""daniel.szmulewicz@gmail.com""}",314.0,29
+Clojure,danielsz,2016-04-30,1,1,"#{""daniel.szmulewicz@gmail.com""}",315.0,29
+Clojure,danielsz,2016-05-01,1,1,"#{""daniel.szmulewicz@gmail.com""}",316.0,29
+Clojure,danielsz,2016-05-09,1,1,"#{""daniel.szmulewicz@gmail.com""}",317.0,29
+Clojure,danielsz,2016-05-12,2,1,"#{""daniel.szmulewicz@gmail.com""}",319.0,29
+Clojure,danielsz,2016-05-13,8,1,"#{""daniel.szmulewicz@gmail.com""}",327.0,29
+Clojure,danielsz,2016-05-14,3,1,"#{""daniel.szmulewicz@gmail.com""}",330.0,29
+Clojure,danielsz,2016-05-15,1,1,"#{""daniel.szmulewicz@gmail.com""}",331.0,29
+Clojure,danielsz,2016-05-21,5,2,"#{""daniel.szmulewicz@gmail.com"" ""fabrizio.ferrai@gmail.com""}",336.0,30
+Clojure,danielsz,2016-05-26,1,1,"#{""daniel.szmulewicz@gmail.com""}",337.0,30
+Clojure,danielsz,2016-06-18,1,1,"#{""daniel@flyingmachinestudios.com""}",338.0,31
+Clojure,danielsz,2016-06-19,2,1,"#{""daniel.szmulewicz@gmail.com""}",340.0,31
+Clojure,danielsz,2016-06-30,1,1,"#{""daniel.szmulewicz@gmail.com""}",341.0,31
+Clojure,danielsz,2016-07-06,1,1,"#{""daniel.szmulewicz@gmail.com""}",342.0,31
+Clojure,danielsz,2016-07-11,1,1,"#{""7@7vn.ru""}",343.0,32
+Clojure,danielsz,2016-07-18,1,1,"#{""daniel.szmulewicz@gmail.com""}",344.0,32
+Clojure,danielsz,2016-07-29,5,1,"#{""daniel.szmulewicz@gmail.com""}",349.0,32
+Clojure,danielsz,2016-08-08,3,1,"#{""daniel.szmulewicz@gmail.com""}",352.0,32
+Clojure,danielsz,2016-08-10,1,1,"#{""a.rottmann@commend.com""}",353.0,33
+Clojure,danielsz,2016-08-11,2,1,"#{""daniel.szmulewicz@gmail.com""}",355.0,33
+Clojure,danielsz,2016-08-20,4,2,"#{""daniel.szmulewicz@gmail.com"" ""alex@puredanger.com""}",359.0,34
+Clojure,danielsz,2016-09-06,1,1,"#{""daniel.szmulewicz@gmail.com""}",360.0,34
+Clojure,danielsz,2016-09-21,4,1,"#{""daniel.szmulewicz@gmail.com""}",364.0,34
+Clojure,danielsz,2016-09-26,1,1,"#{""john.d.swanson@gmail.com""}",365.0,34
+Clojure,danielsz,2016-09-30,2,1,"#{""daniel.szmulewicz@gmail.com""}",367.0,34
+Clojure,danielsz,2016-10-05,1,1,"#{""daniel.szmulewicz@gmail.com""}",368.0,34
+Clojure,danielsz,2016-10-12,2,1,"#{""daniel.szmulewicz@gmail.com""}",370.0,34
+Clojure,danielsz,2016-10-13,2,1,"#{""daniel.szmulewicz@gmail.com""}",372.0,34
+Clojure,danielsz,2016-11-09,2,1,"#{""daniel.szmulewicz@gmail.com""}",374.0,34
+Clojure,danielsz,2016-12-05,3,1,"#{""daniel.szmulewicz@gmail.com""}",377.0,34
+Clojure,danielsz,2016-12-15,4,2,"#{""daniel.szmulewicz@gmail.com"" ""yayitswei@gmail.com""}",381.0,35
+Clojure,danielsz,2017-01-01,2,1,"#{""daniel.szmulewicz@gmail.com""}",383.0,35
+Clojure,danielsz,2017-01-04,2,1,"#{""daniel.szmulewicz@gmail.com""}",385.0,35
+Clojure,danielsz,2017-01-05,3,1,"#{""daniel.szmulewicz@gmail.com""}",388.0,35
+Clojure,danielsz,2017-01-06,1,1,"#{""daniel.szmulewicz@gmail.com""}",389.0,35
+Clojure,danielsz,2017-01-07,1,1,"#{""daniel.szmulewicz@gmail.com""}",390.0,35
+Clojure,danielsz,2017-01-14,1,1,"#{""arne@arnebrasseur.net""}",391.0,36
+Clojure,danielsz,2017-01-15,2,2,"#{""daniel.szmulewicz@gmail.com"" ""arne@arnebrasseur.net""}",393.0,36
+Clojure,danielsz,2017-01-16,3,1,"#{""daniel.szmulewicz@gmail.com""}",396.0,36
+Clojure,danielsz,2017-01-21,1,1,"#{""daniel.szmulewicz@gmail.com""}",397.0,36
+Clojure,danielsz,2017-01-24,1,1,"#{""daniel.szmulewicz@gmail.com""}",398.0,36
+Clojure,danielsz,2017-01-29,2,1,"#{""daniel.szmulewicz@gmail.com""}",400.0,36
+Clojure,danielsz,2017-02-01,2,1,"#{""daniel.szmulewicz@gmail.com""}",402.0,36
+Clojure,danielsz,2017-02-04,1,1,"#{""daniel.szmulewicz@gmail.com""}",403.0,36
+Clojure,danielsz,2017-02-16,4,2,"#{""awole20@gmail.com"" ""daniel.szmulewicz@gmail.com""}",407.0,37
+Clojure,danielsz,2017-02-17,4,1,"#{""daniel.szmulewicz@gmail.com""}",411.0,37
+Clojure,danielsz,2017-02-28,1,1,"#{""daniel.szmulewicz@gmail.com""}",412.0,37
+Clojure,danielsz,2017-03-11,2,1,"#{""daniel.szmulewicz@gmail.com""}",414.0,37
+Clojure,danielsz,2017-04-01,1,1,"#{""daniel.szmulewicz@gmail.com""}",415.0,37
+Clojure,danielsz,2017-04-02,1,1,"#{""daniel.szmulewicz@gmail.com""}",416.0,37
+Clojure,danielsz,2017-04-18,1,1,"#{""daniel.szmulewicz@gmail.com""}",417.0,37
+Clojure,danielsz,2017-04-29,2,1,"#{""daniel.szmulewicz@gmail.com""}",419.0,37
+Clojure,danielsz,2017-05-07,2,1,"#{""daniel.szmulewicz@gmail.com""}",421.0,37
+Clojure,danielsz,2017-06-21,1,1,"#{""daniel.szmulewicz@gmail.com""}",422.0,37
+Clojure,danielsz,2017-08-02,2,1,"#{""daniel.szmulewicz@gmail.com""}",424.0,37
+Clojure,danielsz,2017-08-18,1,1,"#{""baptistedupuch@MacBook-Pro-de-Baptiste.local""}",425.0,38
+Clojure,danielsz,2017-08-19,2,2,"#{""baptistedupuch@MacBook-Pro-de-Baptiste.local"" ""daniel.szmulewicz@gmail.com""}",427.0,38
+Clojure,danielsz,2017-08-20,2,2,"#{""baptistedupuch@MacBook-Pro-de-Baptiste.local"" ""daniel.szmulewicz@gmail.com""}",429.0,38
+Clojure,danielsz,2017-08-21,6,1,"#{""daniel.szmulewicz@gmail.com""}",435.0,38
+Clojure,danielsz,2017-08-25,1,1,"#{""daniel.szmulewicz@gmail.com""}",436.0,38
+Clojure,danielsz,2017-10-04,2,1,"#{""daniel.szmulewicz@gmail.com""}",438.0,38
+Clojure,danielsz,2017-10-07,1,1,"#{""ashakdwipeea@gmail.com""}",439.0,39
+Clojure,danielsz,2017-10-08,2,1,"#{""daniel.szmulewicz@gmail.com""}",441.0,39
+Clojure,danielsz,2017-10-09,1,1,"#{""daniel.szmulewicz@gmail.com""}",442.0,39
+Clojure,danielsz,2017-10-31,1,1,"#{""daniel.szmulewicz@gmail.com""}",443.0,39
+Clojure,danielsz,2017-11-01,3,2,"#{""daniel.szmulewicz@gmail.com"" ""whamtet@gmail.com""}",446.0,40
+Clojure,danielsz,2017-11-07,2,1,"#{""daniel.szmulewicz@gmail.com""}",448.0,40
+Clojure,danielsz,2017-11-22,1,1,"#{""daniel.szmulewicz@gmail.com""}",449.0,40
+Clojure,danielsz,2017-11-28,3,1,"#{""daniel.szmulewicz@gmail.com""}",452.0,40
+Clojure,danielsz,2017-11-29,1,1,"#{""daniel.szmulewicz@gmail.com""}",453.0,40
+Clojure,danielsz,2017-11-30,3,1,"#{""daniel.szmulewicz@gmail.com""}",456.0,40
+Clojure,danielsz,2017-12-07,2,1,"#{""daniel.szmulewicz@gmail.com""}",458.0,40
+Clojure,danielsz,2017-12-08,1,1,"#{""daniel.szmulewicz@gmail.com""}",459.0,40
+Clojure,danielsz,2018-01-12,3,1,"#{""daniel.szmulewicz@gmail.com""}",462.0,40
+Clojure,danielsz,2018-01-16,1,1,"#{""daniel.szmulewicz@gmail.com""}",463.0,40
+Clojure,danielsz,2018-01-18,1,1,"#{""daniel.szmulewicz@gmail.com""}",464.0,40
+Clojure,danielsz,2018-01-24,1,1,"#{""daniel.szmulewicz@gmail.com""}",465.0,40
+Clojure,danielsz,2018-01-30,1,1,"#{""daniel.szmulewicz@gmail.com""}",466.0,40
+Clojure,danielsz,2018-09-21,3,1,"#{""daniel.szmulewicz@gmail.com""}",469.0,40
+Clojure,danielsz,2018-10-29,1,1,"#{""daniel.szmulewicz@gmail.com""}",470.0,40
+Clojure,danielsz,2019-01-30,1,1,"#{""daniel.szmulewicz@gmail.com""}",471.0,40
+Clojure,danielsz,2019-02-14,1,1,"#{""daniel.szmulewicz@gmail.com""}",472.0,40
+Clojure,danielsz,2019-02-24,1,1,"#{""daniel.szmulewicz@gmail.com""}",473.0,40
+Clojure,danielsz,2019-03-02,1,1,"#{""daniel.szmulewicz@gmail.com""}",474.0,40
+Clojure,danielsz,2019-03-10,1,1,"#{""daniel.szmulewicz@gmail.com""}",475.0,40
+Clojure,danielsz,2019-04-18,4,1,"#{""daniel.szmulewicz@gmail.com""}",479.0,40
+Clojure,danielsz,2019-05-03,1,1,"#{""daniel.szmulewicz@gmail.com""}",480.0,40
+Clojure,danielsz,2019-05-07,2,1,"#{""daniel.szmulewicz@gmail.com""}",482.0,40
+Clojure,danielsz,2019-05-14,2,1,"#{""daniel.szmulewicz@gmail.com""}",484.0,40
+Clojure,danielsz,2019-05-15,1,1,"#{""daniel.szmulewicz@gmail.com""}",485.0,40
+Clojure,danielsz,2019-05-28,2,1,"#{""daniel.szmulewicz@gmail.com""}",487.0,40
+Clojure,danielsz,2019-06-08,1,1,"#{""daniel.szmulewicz@gmail.com""}",488.0,40
+Clojure,danielsz,2019-08-30,1,1,"#{""daniel.szmulewicz@gmail.com""}",489.0,40
+Clojure,danielsz,2019-10-29,2,1,"#{""daniel.szmulewicz@gmail.com""}",491.0,40
+Clojure,danielsz,2019-11-01,1,1,"#{""daniel.szmulewicz@gmail.com""}",492.0,40
+Clojure,danielsz,2019-11-02,2,1,"#{""daniel.szmulewicz@gmail.com""}",494.0,40
+Clojure,danielsz,2019-11-06,2,1,"#{""daniel.szmulewicz@gmail.com""}",496.0,40
+Clojure,danielsz,2019-11-07,1,1,"#{""daniel.szmulewicz@gmail.com""}",497.0,40
+Clojure,danielsz,2019-12-27,5,1,"#{""daniel.szmulewicz@gmail.com""}",502.0,40
+Clojure,danielsz,2019-12-28,1,1,"#{""daniel.szmulewicz@gmail.com""}",503.0,40
+Clojure,danielsz,2020-01-20,1,1,"#{""daniel.szmulewicz@gmail.com""}",504.0,40
+Clojure,danielsz,2020-01-22,2,1,"#{""daniel.szmulewicz@gmail.com""}",506.0,40
+Clojure,danielsz,2020-01-27,1,1,"#{""daniel.szmulewicz@gmail.com""}",507.0,40
+Clojure,danielsz,2020-02-07,1,1,"#{""daniel.szmulewicz@gmail.com""}",508.0,40
+Clojure,danielsz,2020-05-08,4,1,"#{""daniel.szmulewicz@gmail.com""}",512.0,40
+Clojure,danielsz,2020-06-16,1,1,"#{""daniel.szmulewicz@gmail.com""}",513.0,40
+Clojure,danielsz,2020-06-17,1,1,"#{""daniel.szmulewicz@gmail.com""}",514.0,40
+Clojure,danielsz,2020-07-29,4,1,"#{""daniel.szmulewicz@gmail.com""}",518.0,40
+Clojure,danielsz,2020-08-26,2,1,"#{""daniel.szmulewicz@gmail.com""}",520.0,40
+Clojure,danielsz,2020-08-31,3,1,"#{""daniel.szmulewicz@gmail.com""}",523.0,40
+Clojure,danielsz,2020-12-18,1,1,"#{""daniel.szmulewicz@gmail.com""}",524.0,40
+Clojure,danielsz,2020-12-27,1,1,"#{""daniel.szmulewicz@gmail.com""}",525.0,40
+Clojure,danielsz,2021-01-14,1,1,"#{""daniel.szmulewicz@gmail.com""}",526.0,40
+Clojure,danielsz,2021-01-29,1,1,"#{""daniel.szmulewicz@gmail.com""}",527.0,40
+Clojure,danielsz,2021-02-17,1,1,"#{""daniel.szmulewicz@gmail.com""}",528.0,40
+Clojure,danielsz,2021-07-25,1,1,"#{""daniel.szmulewicz@gmail.com""}",529.0,40
+Clojure,danielsz,2021-07-26,1,1,"#{""daniel.szmulewicz@gmail.com""}",530.0,40
+Clojure,danielsz,2022-03-24,2,1,"#{""daniel.szmulewicz@gmail.com""}",532.0,40
+Clojure,danielsz,2022-08-26,1,1,"#{""daniel.szmulewicz@gmail.com""}",533.0,40
+Clojure,danielsz,2022-11-03,2,1,"#{""daniel.szmulewicz@gmail.com""}",535.0,40
+Clojure,danielsz,2023-05-15,2,1,"#{""daniel.szmulewicz@gmail.com""}",537.0,40
+Clojure,danielsz,2023-08-06,4,1,"#{""daniel.szmulewicz@gmail.com""}",541.0,40
+Clojure,danielsz,2023-08-31,1,1,"#{""daniel.szmulewicz@gmail.com""}",542.0,40
+Clojure,danielsz,2023-09-05,1,1,"#{""daniel.szmulewicz@gmail.com""}",543.0,40
+Clojure,danielsz,2023-09-18,3,1,"#{""daniel.szmulewicz@gmail.com""}",546.0,40
+Clojure,danielsz,2023-10-01,1,1,"#{""daniel.szmulewicz@gmail.com""}",547.0,40
+Clojure,danielsz,2023-10-24,2,1,"#{""daniel.szmulewicz@gmail.com""}",549.0,40

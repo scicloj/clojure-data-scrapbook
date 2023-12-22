@@ -1,0 +1,163 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,explosion,2022-07-11,1,1,"#{""me@danieldk.eu""}",1.0,1
+Python,explosion,2022-07-22,2,1,"#{""me@danieldk.eu""}",3.0,1
+Python,explosion,2022-07-25,1,1,"#{""me@danieldk.eu""}",4.0,1
+Python,explosion,2022-07-26,1,1,"#{""shadeMe@users.noreply.github.com""}",5.0,2
+Python,explosion,2022-07-28,1,1,"#{""me@danieldk.eu""}",6.0,2
+Python,explosion,2022-07-29,4,1,"#{""me@danieldk.eu""}",10.0,2
+Python,explosion,2022-08-01,2,1,"#{""me@danieldk.eu""}",12.0,2
+Python,explosion,2022-08-02,4,1,"#{""shadeMe@users.noreply.github.com""}",16.0,2
+Python,explosion,2022-08-05,1,1,"#{""shadeMe@users.noreply.github.com""}",17.0,2
+Python,explosion,2022-09-05,2,1,"#{""me@danieldk.eu""}",19.0,2
+Python,explosion,2022-09-06,3,1,"#{""me@danieldk.eu""}",22.0,2
+Python,explosion,2022-09-07,4,1,"#{""me@danieldk.eu""}",26.0,2
+Python,explosion,2022-09-08,9,1,"#{""me@danieldk.eu""}",35.0,2
+Python,explosion,2022-09-09,5,1,"#{""me@danieldk.eu""}",40.0,2
+Python,explosion,2022-09-12,11,1,"#{""me@danieldk.eu""}",51.0,2
+Python,explosion,2022-09-13,6,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",57.0,2
+Python,explosion,2022-09-14,4,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",61.0,2
+Python,explosion,2022-09-15,2,1,"#{""me@danieldk.eu""}",63.0,2
+Python,explosion,2022-09-16,5,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",68.0,2
+Python,explosion,2022-09-17,1,1,"#{""me@danieldk.eu""}",69.0,2
+Python,explosion,2022-09-19,2,1,"#{""me@danieldk.eu""}",71.0,2
+Python,explosion,2022-09-26,2,1,"#{""me@danieldk.eu""}",73.0,2
+Python,explosion,2022-09-29,2,1,"#{""me@danieldk.eu""}",75.0,2
+Python,explosion,2022-09-30,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",78.0,2
+Python,explosion,2022-10-03,1,1,"#{""me@danieldk.eu""}",79.0,2
+Python,explosion,2022-10-05,3,1,"#{""me@danieldk.eu""}",82.0,2
+Python,explosion,2022-10-07,1,1,"#{""me@danieldk.eu""}",83.0,2
+Python,explosion,2022-10-11,1,1,"#{""shadeMe@users.noreply.github.com""}",84.0,2
+Python,explosion,2022-10-12,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",86.0,2
+Python,explosion,2022-10-17,2,1,"#{""me@danieldk.eu""}",88.0,2
+Python,explosion,2022-10-18,1,1,"#{""me@danieldk.eu""}",89.0,2
+Python,explosion,2022-10-19,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",91.0,2
+Python,explosion,2022-10-20,1,1,"#{""me@danieldk.eu""}",92.0,2
+Python,explosion,2022-10-21,2,1,"#{""me@danieldk.eu""}",94.0,2
+Python,explosion,2022-10-24,5,1,"#{""me@danieldk.eu""}",99.0,2
+Python,explosion,2022-10-26,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",102.0,2
+Python,explosion,2022-10-27,1,1,"#{""me@danieldk.eu""}",103.0,2
+Python,explosion,2022-10-28,2,1,"#{""me@danieldk.eu""}",105.0,2
+Python,explosion,2022-10-31,2,1,"#{""me@danieldk.eu""}",107.0,2
+Python,explosion,2022-11-01,2,1,"#{""me@danieldk.eu""}",109.0,2
+Python,explosion,2022-11-02,1,1,"#{""me@danieldk.eu""}",110.0,2
+Python,explosion,2022-11-03,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",112.0,2
+Python,explosion,2022-11-04,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",115.0,2
+Python,explosion,2022-11-07,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",118.0,2
+Python,explosion,2022-11-09,1,1,"#{""shadeMe@users.noreply.github.com""}",119.0,2
+Python,explosion,2022-11-10,2,1,"#{""shadeMe@users.noreply.github.com""}",121.0,2
+Python,explosion,2022-11-11,1,1,"#{""me@danieldk.eu""}",122.0,2
+Python,explosion,2022-11-14,2,1,"#{""shadeMe@users.noreply.github.com""}",124.0,2
+Python,explosion,2022-11-16,4,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",128.0,2
+Python,explosion,2022-11-18,1,1,"#{""me@danieldk.eu""}",129.0,2
+Python,explosion,2022-11-21,1,1,"#{""me@danieldk.eu""}",130.0,2
+Python,explosion,2022-12-01,2,2,"#{""adrianeboyd@gmail.com"" ""me@danieldk.eu""}",132.0,3
+Python,explosion,2022-12-02,1,1,"#{""shadeMe@users.noreply.github.com""}",133.0,3
+Python,explosion,2022-12-15,1,1,"#{""shadeMe@users.noreply.github.com""}",134.0,3
+Python,explosion,2022-12-19,1,1,"#{""shadeMe@users.noreply.github.com""}",135.0,3
+Python,explosion,2022-12-20,1,1,"#{""shadeMe@users.noreply.github.com""}",136.0,3
+Python,explosion,2022-12-28,1,1,"#{""shadeMe@users.noreply.github.com""}",137.0,3
+Python,explosion,2023-01-09,1,1,"#{""me@danieldk.eu""}",138.0,3
+Python,explosion,2023-01-11,1,1,"#{""shadeMe@users.noreply.github.com""}",139.0,3
+Python,explosion,2023-01-12,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",141.0,3
+Python,explosion,2023-02-06,6,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",147.0,3
+Python,explosion,2023-02-07,7,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",154.0,3
+Python,explosion,2023-02-08,1,1,"#{""shadeMe@users.noreply.github.com""}",155.0,3
+Python,explosion,2023-02-09,2,1,"#{""shadeMe@users.noreply.github.com""}",157.0,3
+Python,explosion,2023-02-10,4,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",161.0,3
+Python,explosion,2023-02-11,1,1,"#{""me@danieldk.eu""}",162.0,3
+Python,explosion,2023-02-16,3,1,"#{""me@danieldk.eu""}",165.0,3
+Python,explosion,2023-02-22,1,1,"#{""vinit.ravishankar@gmail.com""}",166.0,4
+Python,explosion,2023-02-23,2,2,"#{""vinit.ravishankar@gmail.com"" ""me@danieldk.eu""}",168.0,4
+Python,explosion,2023-03-01,1,1,"#{""me@danieldk.eu""}",169.0,4
+Python,explosion,2023-03-05,1,1,"#{""me@danieldk.eu""}",170.0,4
+Python,explosion,2023-03-08,1,1,"#{""shadeMe@users.noreply.github.com""}",171.0,4
+Python,explosion,2023-03-09,1,1,"#{""shadeMe@users.noreply.github.com""}",172.0,4
+Python,explosion,2023-03-14,1,1,"#{""shadeMe@users.noreply.github.com""}",173.0,4
+Python,explosion,2023-03-15,1,1,"#{""me@danieldk.eu""}",174.0,4
+Python,explosion,2023-03-19,1,1,"#{""shadeMe@users.noreply.github.com""}",175.0,4
+Python,explosion,2023-03-22,2,1,"#{""me@danieldk.eu""}",177.0,4
+Python,explosion,2023-03-24,1,1,"#{""me@danieldk.eu""}",178.0,4
+Python,explosion,2023-04-11,1,1,"#{""shadeMe@users.noreply.github.com""}",179.0,4
+Python,explosion,2023-04-17,1,1,"#{""me@danieldk.eu""}",180.0,4
+Python,explosion,2023-04-18,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",182.0,4
+Python,explosion,2023-05-02,1,1,"#{""shadeMe@users.noreply.github.com""}",183.0,4
+Python,explosion,2023-05-03,1,1,"#{""shadeMe@users.noreply.github.com""}",184.0,4
+Python,explosion,2023-05-05,2,1,"#{""me@danieldk.eu""}",186.0,4
+Python,explosion,2023-05-07,1,1,"#{""me@danieldk.eu""}",187.0,4
+Python,explosion,2023-05-08,2,1,"#{""me@danieldk.eu""}",189.0,4
+Python,explosion,2023-05-09,6,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",195.0,4
+Python,explosion,2023-05-11,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",198.0,4
+Python,explosion,2023-05-12,2,1,"#{""me@danieldk.eu""}",200.0,4
+Python,explosion,2023-05-15,4,1,"#{""me@danieldk.eu""}",204.0,4
+Python,explosion,2023-05-16,5,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",209.0,4
+Python,explosion,2023-05-17,2,1,"#{""me@danieldk.eu""}",211.0,4
+Python,explosion,2023-05-18,2,1,"#{""me@danieldk.eu""}",213.0,4
+Python,explosion,2023-05-20,1,1,"#{""me@danieldk.eu""}",214.0,4
+Python,explosion,2023-05-22,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",216.0,4
+Python,explosion,2023-05-23,2,1,"#{""shadeMe@users.noreply.github.com""}",218.0,4
+Python,explosion,2023-05-24,5,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",223.0,4
+Python,explosion,2023-05-25,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",225.0,4
+Python,explosion,2023-05-26,1,1,"#{""me@danieldk.eu""}",226.0,4
+Python,explosion,2023-06-02,1,1,"#{""me@danieldk.eu""}",227.0,4
+Python,explosion,2023-06-05,1,1,"#{""me@danieldk.eu""}",228.0,4
+Python,explosion,2023-06-06,1,1,"#{""me@danieldk.eu""}",229.0,4
+Python,explosion,2023-06-07,1,1,"#{""me@danieldk.eu""}",230.0,4
+Python,explosion,2023-06-08,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",232.0,4
+Python,explosion,2023-06-12,1,1,"#{""me@danieldk.eu""}",233.0,4
+Python,explosion,2023-06-13,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",235.0,4
+Python,explosion,2023-06-14,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",238.0,4
+Python,explosion,2023-06-16,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",241.0,4
+Python,explosion,2023-06-19,2,1,"#{""me@danieldk.eu""}",243.0,4
+Python,explosion,2023-06-20,2,1,"#{""me@danieldk.eu""}",245.0,4
+Python,explosion,2023-06-21,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",247.0,4
+Python,explosion,2023-06-22,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",249.0,4
+Python,explosion,2023-06-23,2,1,"#{""me@danieldk.eu""}",251.0,4
+Python,explosion,2023-06-26,3,1,"#{""shadeMe@users.noreply.github.com""}",254.0,4
+Python,explosion,2023-06-27,1,1,"#{""me@danieldk.eu""}",255.0,4
+Python,explosion,2023-06-29,1,1,"#{""me@danieldk.eu""}",256.0,4
+Python,explosion,2023-07-03,1,1,"#{""me@danieldk.eu""}",257.0,4
+Python,explosion,2023-07-04,1,1,"#{""me@danieldk.eu""}",258.0,4
+Python,explosion,2023-07-05,1,1,"#{""me@danieldk.eu""}",259.0,4
+Python,explosion,2023-07-06,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",261.0,4
+Python,explosion,2023-07-07,1,1,"#{""me@danieldk.eu""}",262.0,4
+Python,explosion,2023-07-08,1,1,"#{""me@danieldk.eu""}",263.0,4
+Python,explosion,2023-07-10,8,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",271.0,4
+Python,explosion,2023-07-11,5,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",276.0,4
+Python,explosion,2023-07-12,12,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",288.0,4
+Python,explosion,2023-07-13,4,1,"#{""me@danieldk.eu""}",292.0,4
+Python,explosion,2023-07-14,2,1,"#{""me@danieldk.eu""}",294.0,4
+Python,explosion,2023-07-17,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",297.0,4
+Python,explosion,2023-07-18,2,2,"#{""kit1980@gmail.com"" ""me@danieldk.eu""}",299.0,5
+Python,explosion,2023-07-19,1,1,"#{""me@danieldk.eu""}",300.0,5
+Python,explosion,2023-07-20,3,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",303.0,5
+Python,explosion,2023-07-21,2,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",305.0,5
+Python,explosion,2023-07-25,1,1,"#{""shadeMe@users.noreply.github.com""}",306.0,5
+Python,explosion,2023-07-26,5,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",311.0,5
+Python,explosion,2023-07-27,5,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",316.0,5
+Python,explosion,2023-07-29,3,1,"#{""me@danieldk.eu""}",319.0,5
+Python,explosion,2023-07-31,1,1,"#{""shadeMe@users.noreply.github.com""}",320.0,5
+Python,explosion,2023-08-01,4,1,"#{""me@danieldk.eu""}",324.0,5
+Python,explosion,2023-08-02,7,2,"#{""me@danieldk.eu"" ""svlandeg@users.noreply.github.com""}",331.0,6
+Python,explosion,2023-08-03,8,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",339.0,6
+Python,explosion,2023-08-04,1,1,"#{""me@danieldk.eu""}",340.0,6
+Python,explosion,2023-08-09,2,1,"#{""me@danieldk.eu""}",342.0,6
+Python,explosion,2023-08-10,3,1,"#{""me@danieldk.eu""}",345.0,6
+Python,explosion,2023-08-11,5,2,"#{""shadeMe@users.noreply.github.com"" ""mayankjobanputra@gmail.com""}",350.0,7
+Python,explosion,2023-08-14,1,1,"#{""shadeMe@users.noreply.github.com""}",351.0,7
+Python,explosion,2023-08-17,1,1,"#{""shadeMe@users.noreply.github.com""}",352.0,7
+Python,explosion,2023-08-28,1,1,"#{""shadeMe@users.noreply.github.com""}",353.0,7
+Python,explosion,2023-09-04,1,1,"#{""mayankjobanputra@gmail.com""}",354.0,7
+Python,explosion,2023-09-05,1,1,"#{""73983677+omahs@users.noreply.github.com""}",355.0,8
+Python,explosion,2023-09-12,6,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",361.0,8
+Python,explosion,2023-09-13,1,1,"#{""shadeMe@users.noreply.github.com""}",362.0,8
+Python,explosion,2023-09-14,1,1,"#{""me@danieldk.eu""}",363.0,8
+Python,explosion,2023-09-18,1,1,"#{""shadeMe@users.noreply.github.com""}",364.0,8
+Python,explosion,2023-09-19,1,1,"#{""shadeMe@users.noreply.github.com""}",365.0,8
+Python,explosion,2023-09-26,1,1,"#{""me@danieldk.eu""}",366.0,8
+Python,explosion,2023-09-27,1,1,"#{""shadeMe@users.noreply.github.com""}",367.0,8
+Python,explosion,2023-09-28,1,1,"#{""shadeMe@users.noreply.github.com""}",368.0,8
+Python,explosion,2023-10-02,2,1,"#{""shadeMe@users.noreply.github.com""}",370.0,8
+Python,explosion,2023-10-05,4,2,"#{""me@danieldk.eu"" ""shadeMe@users.noreply.github.com""}",374.0,8
+Python,explosion,2023-11-07,1,1,"#{""shadeMe@users.noreply.github.com""}",375.0,8
+Python,explosion,2023-11-08,1,1,"#{""shadeMe@users.noreply.github.com""}",376.0,8
+Python,explosion,2023-12-01,1,1,"#{""me@danieldk.eu""}",377.0,8

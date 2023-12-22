@@ -1,0 +1,434 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,cognitect-labs,2014-08-26,1,1,"#{""pair@thinkrelevance.com""}",1.0,1
+Clojure,cognitect-labs,2014-08-27,5,1,"#{""pair@thinkrelevance.com""}",6.0,1
+Clojure,cognitect-labs,2014-08-28,2,1,"#{""pair@thinkrelevance.com""}",8.0,1
+Clojure,cognitect-labs,2014-09-02,1,1,"#{""pair@thinkrelevance.com""}",9.0,1
+Clojure,cognitect-labs,2014-09-04,2,1,"#{""pair@thinkrelevance.com""}",11.0,1
+Clojure,cognitect-labs,2014-09-08,1,1,"#{""pair@thinkrelevance.com""}",12.0,1
+Clojure,cognitect-labs,2014-09-09,2,2,"#{""pair@thinkrelevance.com"" ""alex.redington@thinkrelevance.com""}",14.0,2
+Clojure,cognitect-labs,2014-09-10,7,2,"#{""pair@thinkrelevance.com"" ""alex.redington@thinkrelevance.com""}",21.0,2
+Clojure,cognitect-labs,2014-09-15,2,2,"#{""pair@thinkrelevance.com"" ""alex.redington@thinkrelevance.com""}",23.0,2
+Clojure,cognitect-labs,2014-09-18,2,2,"#{""pair@thinkrelevance.com"" ""alex.redington@thinkrelevance.com""}",25.0,2
+Clojure,cognitect-labs,2014-09-22,4,1,"#{""pair@thinkrelevance.com""}",29.0,2
+Clojure,cognitect-labs,2014-09-23,1,1,"#{""pair@thinkrelevance.com""}",30.0,2
+Clojure,cognitect-labs,2015-03-23,1,1,"#{""luke@vanderhart.net""}",31.0,3
+Clojure,cognitect-labs,2015-03-24,1,1,"#{""luke@vanderhart.net""}",32.0,3
+Clojure,cognitect-labs,2015-03-26,2,1,"#{""luke@vanderhart.net""}",34.0,3
+Clojure,cognitect-labs,2015-03-30,4,1,"#{""luke@vanderhart.net""}",38.0,3
+Clojure,cognitect-labs,2015-04-20,4,1,"#{""paul.degrandis@gmail.com""}",42.0,4
+Clojure,cognitect-labs,2015-04-21,2,1,"#{""paul.degrandis@gmail.com""}",44.0,4
+Clojure,cognitect-labs,2015-04-27,1,1,"#{""luke@vanderhart.net""}",45.0,4
+Clojure,cognitect-labs,2015-04-28,5,1,"#{""paul.degrandis@gmail.com""}",50.0,4
+Clojure,cognitect-labs,2015-06-02,2,1,"#{""paul.degrandis@gmail.com""}",52.0,4
+Clojure,cognitect-labs,2015-07-25,1,1,"#{""mtnygard@gmail.com""}",53.0,5
+Clojure,cognitect-labs,2015-08-07,3,1,"#{""paul.degrandis@gmail.com""}",56.0,5
+Clojure,cognitect-labs,2015-10-15,1,1,"#{""paul.degrandis@gmail.com""}",57.0,5
+Clojure,cognitect-labs,2016-02-17,1,1,"#{""mtnygard@gmail.com""}",58.0,5
+Clojure,cognitect-labs,2016-02-25,1,1,"#{""mtnygard@gmail.com""}",59.0,5
+Clojure,cognitect-labs,2016-02-26,1,1,"#{""mtnygard@gmail.com""}",60.0,5
+Clojure,cognitect-labs,2016-02-29,2,1,"#{""mtnygard@gmail.com""}",62.0,5
+Clojure,cognitect-labs,2016-03-06,2,1,"#{""mtnygard@gmail.com""}",64.0,5
+Clojure,cognitect-labs,2016-03-14,1,1,"#{""mtnygard@gmail.com""}",65.0,5
+Clojure,cognitect-labs,2016-05-03,4,1,"#{""mtnygard@gmail.com""}",69.0,5
+Clojure,cognitect-labs,2016-05-04,1,1,"#{""mtnygard@gmail.com""}",70.0,5
+Clojure,cognitect-labs,2016-05-05,1,1,"#{""mtnygard@gmail.com""}",71.0,5
+Clojure,cognitect-labs,2016-05-09,2,2,"#{""mtnygard@gmail.com"" ""ddeaguiar@pointslope.com""}",73.0,6
+Clojure,cognitect-labs,2016-06-06,1,1,"#{""yokolet@gmail.com""}",74.0,7
+Clojure,cognitect-labs,2016-06-08,1,1,"#{""yokolet@gmail.com""}",75.0,7
+Clojure,cognitect-labs,2016-06-09,2,1,"#{""yokolet@gmail.com""}",77.0,7
+Clojure,cognitect-labs,2016-06-13,2,1,"#{""yokolet@gmail.com""}",79.0,7
+Clojure,cognitect-labs,2016-06-14,3,1,"#{""yokolet@gmail.com""}",82.0,7
+Clojure,cognitect-labs,2016-06-16,3,1,"#{""yokolet@gmail.com""}",85.0,7
+Clojure,cognitect-labs,2016-06-17,1,1,"#{""ddeaguiar@pointslope.com""}",86.0,7
+Clojure,cognitect-labs,2016-06-18,2,1,"#{""mtnygard@gmail.com""}",88.0,7
+Clojure,cognitect-labs,2016-06-19,9,1,"#{""mtnygard@gmail.com""}",97.0,7
+Clojure,cognitect-labs,2016-06-20,1,1,"#{""mtnygard@gmail.com""}",98.0,7
+Clojure,cognitect-labs,2016-06-21,3,2,"#{""paul.degrandis@gmail.com"" ""yokolet@gmail.com""}",101.0,7
+Clojure,cognitect-labs,2016-06-22,11,2,"#{""paul.degrandis@gmail.com"" ""yokolet@gmail.com""}",112.0,7
+Clojure,cognitect-labs,2016-06-23,8,2,"#{""paul.degrandis@gmail.com"" ""yokolet@gmail.com""}",120.0,7
+Clojure,cognitect-labs,2016-06-27,4,1,"#{""yokolet@gmail.com""}",124.0,7
+Clojure,cognitect-labs,2016-06-29,10,2,"#{""paul.degrandis@gmail.com"" ""yokolet@gmail.com""}",134.0,7
+Clojure,cognitect-labs,2016-06-30,2,1,"#{""yokolet@gmail.com""}",136.0,7
+Clojure,cognitect-labs,2016-07-07,2,1,"#{""yokolet@gmail.com""}",138.0,7
+Clojure,cognitect-labs,2016-07-11,2,1,"#{""yokolet@gmail.com""}",140.0,7
+Clojure,cognitect-labs,2016-07-12,1,1,"#{""yokolet@gmail.com""}",141.0,7
+Clojure,cognitect-labs,2016-07-13,3,1,"#{""yokolet@gmail.com""}",144.0,7
+Clojure,cognitect-labs,2016-07-14,2,1,"#{""yokolet@gmail.com""}",146.0,7
+Clojure,cognitect-labs,2016-07-15,2,2,"#{""mtnygard@gmail.com"" ""yokolet@gmail.com""}",148.0,7
+Clojure,cognitect-labs,2016-07-20,10,3,"#{""mtnygard@gmail.com"" ""yokolet@gmail.com"" ""ddeaguiar@pointslope.com""}",158.0,7
+Clojure,cognitect-labs,2016-07-21,3,2,"#{""paul.degrandis@gmail.com"" ""ddeaguiar@pointslope.com""}",161.0,7
+Clojure,cognitect-labs,2016-07-22,7,1,"#{""paul.degrandis@gmail.com""}",168.0,7
+Clojure,cognitect-labs,2016-07-27,3,1,"#{""mtnygard@gmail.com""}",171.0,7
+Clojure,cognitect-labs,2016-07-29,3,2,"#{""paul.degrandis@gmail.com"" ""mtnygard@gmail.com""}",174.0,7
+Clojure,cognitect-labs,2016-08-16,1,1,"#{""yokolet@gmail.com""}",175.0,7
+Clojure,cognitect-labs,2016-09-30,1,1,"#{""paul.degrandis@gmail.com""}",176.0,7
+Clojure,cognitect-labs,2016-10-11,1,1,"#{""mtnygard@gmail.com""}",177.0,7
+Clojure,cognitect-labs,2016-12-15,1,1,"#{""mtnygard@gmail.com""}",178.0,7
+Clojure,cognitect-labs,2016-12-18,4,1,"#{""mtnygard@gmail.com""}",182.0,7
+Clojure,cognitect-labs,2016-12-19,2,1,"#{""mtnygard@gmail.com""}",184.0,7
+Clojure,cognitect-labs,2017-01-05,1,1,"#{""paul.degrandis@gmail.com""}",185.0,7
+Clojure,cognitect-labs,2017-01-06,8,1,"#{""paul.degrandis@gmail.com""}",193.0,7
+Clojure,cognitect-labs,2017-01-10,1,1,"#{""paul.degrandis@gmail.com""}",194.0,7
+Clojure,cognitect-labs,2017-01-13,10,1,"#{""paul.degrandis@gmail.com""}",204.0,7
+Clojure,cognitect-labs,2017-01-16,1,1,"#{""paul.degrandis@gmail.com""}",205.0,7
+Clojure,cognitect-labs,2017-01-17,6,1,"#{""paul.degrandis@gmail.com""}",211.0,7
+Clojure,cognitect-labs,2017-01-27,3,1,"#{""paul.degrandis@gmail.com""}",214.0,7
+Clojure,cognitect-labs,2017-01-28,7,1,"#{""mtnygard@gmail.com""}",221.0,7
+Clojure,cognitect-labs,2017-01-31,16,4,"#{""jimmyhmiller@gmail.com"" ""paul.degrandis@gmail.com"" ""mtnygard@gmail.com"" ""contact@solussd.io""}",237.0,9
+Clojure,cognitect-labs,2017-02-03,1,1,"#{""paul.degrandis@gmail.com""}",238.0,9
+Clojure,cognitect-labs,2017-02-06,3,1,"#{""mtnygard@gmail.com""}",241.0,9
+Clojure,cognitect-labs,2017-02-07,5,2,"#{""donald.ball@gmail.com"" ""mtnygard@gmail.com""}",246.0,10
+Clojure,cognitect-labs,2017-02-09,1,1,"#{""mtnygard@gmail.com""}",247.0,10
+Clojure,cognitect-labs,2017-02-13,6,1,"#{""paul.degrandis@gmail.com""}",253.0,10
+Clojure,cognitect-labs,2017-02-14,2,1,"#{""paul.degrandis@gmail.com""}",255.0,10
+Clojure,cognitect-labs,2017-02-15,3,1,"#{""paul.degrandis@gmail.com""}",258.0,10
+Clojure,cognitect-labs,2017-02-22,1,1,"#{""alexanderkiel@gmx.net""}",259.0,11
+Clojure,cognitect-labs,2017-03-03,1,1,"#{""paul.degrandis@gmail.com""}",260.0,11
+Clojure,cognitect-labs,2017-03-06,1,1,"#{""mtnygard@gmail.com""}",261.0,11
+Clojure,cognitect-labs,2017-03-07,1,1,"#{""mtnygard@gmail.com""}",262.0,11
+Clojure,cognitect-labs,2017-03-12,1,1,"#{""mtnygard@gmail.com""}",263.0,11
+Clojure,cognitect-labs,2017-03-13,2,2,"#{""deg@degel.com"" ""mtnygard@gmail.com""}",265.0,12
+Clojure,cognitect-labs,2017-03-14,6,3,"#{""paul.degrandis@gmail.com"" ""mtnygard@gmail.com"" ""nxqd.inbox+rhacker@gmail.com""}",271.0,13
+Clojure,cognitect-labs,2017-03-18,1,1,"#{""bob@jadn.com""}",272.0,14
+Clojure,cognitect-labs,2017-03-19,1,1,"#{""paul.degrandis@gmail.com""}",273.0,14
+Clojure,cognitect-labs,2017-03-21,1,1,"#{""mtnygard@gmail.com""}",274.0,14
+Clojure,cognitect-labs,2017-03-23,3,3,"#{""deg@degel.com"" ""paul.degrandis@gmail.com"" ""mtnygard@gmail.com""}",277.0,14
+Clojure,cognitect-labs,2017-03-24,1,1,"#{""mtnygard@gmail.com""}",278.0,14
+Clojure,cognitect-labs,2017-03-28,5,2,"#{""deg@degel.com"" ""mtnygard@gmail.com""}",283.0,14
+Clojure,cognitect-labs,2017-04-01,1,1,"#{""malchmih@gmail.com""}",284.0,15
+Clojure,cognitect-labs,2017-04-06,1,1,"#{""mtnygard@gmail.com""}",285.0,15
+Clojure,cognitect-labs,2017-04-07,2,1,"#{""mtnygard@gmail.com""}",287.0,15
+Clojure,cognitect-labs,2017-04-21,1,1,"#{""mtnygard@gmail.com""}",288.0,15
+Clojure,cognitect-labs,2017-04-26,1,1,"#{""mtnygard@gmail.com""}",289.0,15
+Clojure,cognitect-labs,2017-04-27,3,1,"#{""mtnygard@gmail.com""}",292.0,15
+Clojure,cognitect-labs,2017-04-28,2,1,"#{""mtnygard@gmail.com""}",294.0,15
+Clojure,cognitect-labs,2017-05-05,5,2,"#{""paul.degrandis@gmail.com"" ""mtnygard@gmail.com""}",299.0,15
+Clojure,cognitect-labs,2017-05-06,2,1,"#{""mtnygard@gmail.com""}",301.0,15
+Clojure,cognitect-labs,2017-05-10,1,1,"#{""mtnygard@cognitect.com""}",302.0,16
+Clojure,cognitect-labs,2017-05-16,5,1,"#{""mtnygard@gmail.com""}",307.0,16
+Clojure,cognitect-labs,2017-06-15,3,1,"#{""mtnygard@gmail.com""}",310.0,16
+Clojure,cognitect-labs,2017-06-20,1,1,"#{""mtnygard@cognitect.com""}",311.0,16
+Clojure,cognitect-labs,2017-07-21,1,1,"#{""mtnygard@cognitect.com""}",312.0,16
+Clojure,cognitect-labs,2017-07-22,1,1,"#{""mtnygard@gmail.com""}",313.0,16
+Clojure,cognitect-labs,2017-07-24,2,1,"#{""stu@cognitect.com""}",315.0,17
+Clojure,cognitect-labs,2017-08-05,1,1,"#{""paul.degrandis@gmail.com""}",316.0,17
+Clojure,cognitect-labs,2017-08-18,2,1,"#{""mtnygard@cognitect.com""}",318.0,17
+Clojure,cognitect-labs,2017-08-21,1,1,"#{""mtnygard@cognitect.com""}",319.0,17
+Clojure,cognitect-labs,2017-09-25,1,1,"#{""stu@cognitect.com""}",320.0,17
+Clojure,cognitect-labs,2017-09-26,2,1,"#{""stu@cognitect.com""}",322.0,17
+Clojure,cognitect-labs,2017-09-30,3,1,"#{""mtnygard@cognitect.com""}",325.0,17
+Clojure,cognitect-labs,2017-10-06,2,2,"#{""mtnygard@cognitect.com"" ""stu@cognitect.com""}",327.0,17
+Clojure,cognitect-labs,2017-10-07,1,1,"#{""stu@cognitect.com""}",328.0,17
+Clojure,cognitect-labs,2017-10-14,1,1,"#{""levi.ong@gmail.com""}",329.0,18
+Clojure,cognitect-labs,2017-10-25,6,2,"#{""deg@degel.com"" ""mtnygard@gmail.com""}",335.0,18
+Clojure,cognitect-labs,2017-10-27,2,2,"#{""mtnygard@cognitect.com"" ""mtnygard@gmail.com""}",337.0,18
+Clojure,cognitect-labs,2017-10-28,7,1,"#{""mtnygard@gmail.com""}",344.0,18
+Clojure,cognitect-labs,2017-11-06,1,1,"#{""rlusk@chariotsolutions.com""}",345.0,19
+Clojure,cognitect-labs,2017-11-07,1,1,"#{""rlusk@chariotsolutions.com""}",346.0,19
+Clojure,cognitect-labs,2017-11-18,1,1,"#{""stu@cognitect.com""}",347.0,19
+Clojure,cognitect-labs,2017-12-15,5,1,"#{""mtnygard@gmail.com""}",352.0,19
+Clojure,cognitect-labs,2018-01-15,7,1,"#{""luke@vanderhart.net""}",359.0,19
+Clojure,cognitect-labs,2018-02-09,1,1,"#{""luke@vanderhart.net""}",360.0,19
+Clojure,cognitect-labs,2018-02-10,2,1,"#{""luke@vanderhart.net""}",362.0,19
+Clojure,cognitect-labs,2018-02-16,1,1,"#{""luke@vanderhart.net""}",363.0,19
+Clojure,cognitect-labs,2018-02-20,1,1,"#{""eli@naeher.name""}",364.0,20
+Clojure,cognitect-labs,2018-02-22,1,1,"#{""alex.miller@cognitect.com""}",365.0,21
+Clojure,cognitect-labs,2018-02-23,1,1,"#{""luke@vanderhart.net""}",366.0,21
+Clojure,cognitect-labs,2018-02-24,2,1,"#{""luke@vanderhart.net""}",368.0,21
+Clojure,cognitect-labs,2018-02-26,2,2,"#{""eli@naeher.name"" ""luke@vanderhart.net""}",370.0,21
+Clojure,cognitect-labs,2018-03-03,2,2,"#{""luke@vanderhart.net"" ""sean@corfield.org""}",372.0,22
+Clojure,cognitect-labs,2018-03-06,2,1,"#{""kawas44@gmail.com""}",374.0,23
+Clojure,cognitect-labs,2018-03-23,2,2,"#{""alex@puredanger.com"" ""calebmacdonaldblack@gmail.com""}",376.0,25
+Clojure,cognitect-labs,2018-03-30,3,1,"#{""mtnygard@gmail.com""}",379.0,25
+Clojure,cognitect-labs,2018-03-31,5,4,"#{""ddeaguiar@gmail.com"" ""deg@degel.com"" ""mtnygard@gmail.com"" ""calebmacdonaldblack@gmail.com""}",384.0,26
+Clojure,cognitect-labs,2018-07-06,2,1,"#{""jacob.maine@gmail.com""}",386.0,27
+Clojure,cognitect-labs,2018-07-09,1,1,"#{""jacob.maine@gmail.com""}",387.0,27
+Clojure,cognitect-labs,2018-07-13,2,1,"#{""luke@vanderhart.net""}",389.0,27
+Clojure,cognitect-labs,2018-07-30,1,1,"#{""gshayban@gmail.com""}",390.0,28
+Clojure,cognitect-labs,2018-08-03,1,1,"#{""dchelimsky@gmail.com""}",391.0,29
+Clojure,cognitect-labs,2018-08-15,6,1,"#{""mtnygard@gmail.com""}",397.0,29
+Clojure,cognitect-labs,2018-08-16,8,1,"#{""mtnygard@gmail.com""}",405.0,29
+Clojure,cognitect-labs,2018-08-20,1,1,"#{""mtnygard@gmail.com""}",406.0,29
+Clojure,cognitect-labs,2018-08-21,4,2,"#{""ddeaguiar@gmail.com"" ""mtnygard@gmail.com""}",410.0,29
+Clojure,cognitect-labs,2018-08-22,2,1,"#{""mtnygard@gmail.com""}",412.0,29
+Clojure,cognitect-labs,2018-08-25,1,1,"#{""luke@vanderhart.net""}",413.0,29
+Clojure,cognitect-labs,2018-08-29,2,1,"#{""mtnygard@gmail.com""}",415.0,29
+Clojure,cognitect-labs,2018-09-06,1,1,"#{""mtnygard@gmail.com""}",416.0,29
+Clojure,cognitect-labs,2018-09-20,1,1,"#{""mtnygard@cognitect.com""}",417.0,29
+Clojure,cognitect-labs,2018-09-21,1,1,"#{""mtnygard@gmail.com""}",418.0,29
+Clojure,cognitect-labs,2018-09-23,3,1,"#{""mtnygard@gmail.com""}",421.0,29
+Clojure,cognitect-labs,2018-09-24,1,1,"#{""mtnygard@gmail.com""}",422.0,29
+Clojure,cognitect-labs,2018-09-28,6,2,"#{""dchelimsky@gmail.com"" ""mtnygard@gmail.com""}",428.0,29
+Clojure,cognitect-labs,2018-09-29,3,2,"#{""dchelimsky@gmail.com"" ""mtnygard@gmail.com""}",431.0,29
+Clojure,cognitect-labs,2018-10-03,1,1,"#{""mtnygard@gmail.com""}",432.0,29
+Clojure,cognitect-labs,2018-10-11,1,1,"#{""stu@cognitect.com""}",433.0,29
+Clojure,cognitect-labs,2018-11-01,6,1,"#{""dchelimsky@gmail.com""}",439.0,29
+Clojure,cognitect-labs,2018-11-02,3,1,"#{""dchelimsky@gmail.com""}",442.0,29
+Clojure,cognitect-labs,2018-11-04,9,3,"#{""alex@puredanger.com"" ""dchelimsky@gmail.com"" ""alex.miller@cognitect.com""}",451.0,29
+Clojure,cognitect-labs,2018-11-05,8,1,"#{""dchelimsky@gmail.com""}",459.0,29
+Clojure,cognitect-labs,2018-11-07,10,3,"#{""marshall@cognitect.com"" ""dchelimsky@gmail.com"" ""joe@uwcreations.com""}",469.0,31
+Clojure,cognitect-labs,2018-11-08,2,1,"#{""dchelimsky@gmail.com""}",471.0,31
+Clojure,cognitect-labs,2018-11-09,6,1,"#{""dchelimsky@gmail.com""}",477.0,31
+Clojure,cognitect-labs,2018-11-10,4,1,"#{""dchelimsky@gmail.com""}",481.0,31
+Clojure,cognitect-labs,2018-11-11,3,1,"#{""dchelimsky@gmail.com""}",484.0,31
+Clojure,cognitect-labs,2018-11-12,1,1,"#{""dchelimsky@gmail.com""}",485.0,31
+Clojure,cognitect-labs,2018-11-13,1,1,"#{""dchelimsky@gmail.com""}",486.0,31
+Clojure,cognitect-labs,2018-11-16,15,1,"#{""dchelimsky@gmail.com""}",501.0,31
+Clojure,cognitect-labs,2018-11-19,2,1,"#{""dchelimsky@gmail.com""}",503.0,31
+Clojure,cognitect-labs,2018-11-20,5,1,"#{""dchelimsky@gmail.com""}",508.0,31
+Clojure,cognitect-labs,2018-11-21,7,1,"#{""dchelimsky@gmail.com""}",515.0,31
+Clojure,cognitect-labs,2018-11-22,6,1,"#{""dchelimsky@gmail.com""}",521.0,31
+Clojure,cognitect-labs,2018-11-23,10,1,"#{""dchelimsky@gmail.com""}",531.0,31
+Clojure,cognitect-labs,2018-11-24,4,2,"#{""dchelimsky@gmail.com"" ""stu@cognitect.com""}",535.0,31
+Clojure,cognitect-labs,2018-11-25,3,1,"#{""dchelimsky@gmail.com""}",538.0,31
+Clojure,cognitect-labs,2018-11-27,2,1,"#{""dchelimsky@gmail.com""}",540.0,31
+Clojure,cognitect-labs,2018-11-28,1,1,"#{""dchelimsky@gmail.com""}",541.0,31
+Clojure,cognitect-labs,2018-11-29,12,1,"#{""dchelimsky@gmail.com""}",553.0,31
+Clojure,cognitect-labs,2018-12-01,5,1,"#{""dchelimsky@gmail.com""}",558.0,31
+Clojure,cognitect-labs,2018-12-02,3,1,"#{""dchelimsky@gmail.com""}",561.0,31
+Clojure,cognitect-labs,2018-12-03,2,1,"#{""dchelimsky@gmail.com""}",563.0,31
+Clojure,cognitect-labs,2018-12-04,4,1,"#{""dchelimsky@gmail.com""}",567.0,31
+Clojure,cognitect-labs,2018-12-05,1,1,"#{""dchelimsky@gmail.com""}",568.0,31
+Clojure,cognitect-labs,2018-12-06,5,1,"#{""dchelimsky@gmail.com""}",573.0,31
+Clojure,cognitect-labs,2018-12-07,1,1,"#{""dchelimsky@gmail.com""}",574.0,31
+Clojure,cognitect-labs,2018-12-08,1,1,"#{""dchelimsky@gmail.com""}",575.0,31
+Clojure,cognitect-labs,2018-12-10,2,1,"#{""dchelimsky@gmail.com""}",577.0,31
+Clojure,cognitect-labs,2018-12-12,10,1,"#{""dchelimsky@gmail.com""}",587.0,31
+Clojure,cognitect-labs,2018-12-13,2,1,"#{""dchelimsky@gmail.com""}",589.0,31
+Clojure,cognitect-labs,2018-12-16,2,1,"#{""dchelimsky@gmail.com""}",591.0,31
+Clojure,cognitect-labs,2018-12-17,1,1,"#{""dchelimsky@gmail.com""}",592.0,31
+Clojure,cognitect-labs,2018-12-21,2,1,"#{""dchelimsky@gmail.com""}",594.0,31
+Clojure,cognitect-labs,2018-12-22,3,1,"#{""dchelimsky@gmail.com""}",597.0,31
+Clojure,cognitect-labs,2018-12-23,1,1,"#{""dchelimsky@gmail.com""}",598.0,31
+Clojure,cognitect-labs,2018-12-25,1,1,"#{""dchelimsky@gmail.com""}",599.0,31
+Clojure,cognitect-labs,2018-12-28,5,1,"#{""dchelimsky@gmail.com""}",604.0,31
+Clojure,cognitect-labs,2019-01-05,3,1,"#{""dchelimsky@gmail.com""}",607.0,31
+Clojure,cognitect-labs,2019-01-06,5,1,"#{""dchelimsky@gmail.com""}",612.0,31
+Clojure,cognitect-labs,2019-01-08,4,2,"#{""dchelimsky@gmail.com"" ""gshayban@gmail.com""}",616.0,31
+Clojure,cognitect-labs,2019-01-09,1,1,"#{""dchelimsky@gmail.com""}",617.0,31
+Clojure,cognitect-labs,2019-01-10,6,2,"#{""dchelimsky@gmail.com"" ""alex.miller@cognitect.com""}",623.0,31
+Clojure,cognitect-labs,2019-01-11,6,1,"#{""dchelimsky@gmail.com""}",629.0,31
+Clojure,cognitect-labs,2019-01-14,5,2,"#{""dchelimsky@gmail.com"" ""gshayban@gmail.com""}",634.0,31
+Clojure,cognitect-labs,2019-01-18,4,1,"#{""dchelimsky@gmail.com""}",638.0,31
+Clojure,cognitect-labs,2019-01-23,1,1,"#{""dchelimsky@gmail.com""}",639.0,31
+Clojure,cognitect-labs,2019-01-24,2,1,"#{""dchelimsky@gmail.com""}",641.0,31
+Clojure,cognitect-labs,2019-01-25,15,2,"#{""dchelimsky@gmail.com"" ""gshayban@gmail.com""}",656.0,31
+Clojure,cognitect-labs,2019-01-26,3,1,"#{""dchelimsky@gmail.com""}",659.0,31
+Clojure,cognitect-labs,2019-01-29,3,1,"#{""dchelimsky@gmail.com""}",662.0,31
+Clojure,cognitect-labs,2019-01-30,2,1,"#{""dchelimsky@gmail.com""}",664.0,31
+Clojure,cognitect-labs,2019-02-01,15,1,"#{""dchelimsky@gmail.com""}",679.0,31
+Clojure,cognitect-labs,2019-02-04,3,1,"#{""dchelimsky@gmail.com""}",682.0,31
+Clojure,cognitect-labs,2019-02-07,1,1,"#{""dchelimsky@gmail.com""}",683.0,31
+Clojure,cognitect-labs,2019-02-08,7,2,"#{""ddeaguiar@gmail.com"" ""dchelimsky@gmail.com""}",690.0,31
+Clojure,cognitect-labs,2019-02-15,4,1,"#{""dchelimsky@gmail.com""}",694.0,31
+Clojure,cognitect-labs,2019-02-17,1,1,"#{""dchelimsky@gmail.com""}",695.0,31
+Clojure,cognitect-labs,2019-02-22,9,3,"#{""ddeaguiar@gmail.com"" ""dchelimsky@gmail.com"" ""gshayban@gmail.com""}",704.0,31
+Clojure,cognitect-labs,2019-02-25,5,3,"#{""ddeaguiar@gmail.com"" ""dchelimsky@gmail.com"" ""gshayban@gmail.com""}",709.0,31
+Clojure,cognitect-labs,2019-03-01,3,1,"#{""dchelimsky@gmail.com""}",712.0,31
+Clojure,cognitect-labs,2019-03-15,1,1,"#{""dchelimsky@gmail.com""}",713.0,31
+Clojure,cognitect-labs,2019-03-22,2,1,"#{""dchelimsky@gmail.com""}",715.0,31
+Clojure,cognitect-labs,2019-03-24,2,1,"#{""dchelimsky@gmail.com""}",717.0,31
+Clojure,cognitect-labs,2019-03-25,1,1,"#{""dchelimsky@gmail.com""}",718.0,31
+Clojure,cognitect-labs,2019-03-26,1,1,"#{""dchelimsky@gmail.com""}",719.0,31
+Clojure,cognitect-labs,2019-03-29,8,1,"#{""dchelimsky@gmail.com""}",727.0,31
+Clojure,cognitect-labs,2019-04-12,4,1,"#{""dchelimsky@gmail.com""}",731.0,31
+Clojure,cognitect-labs,2019-04-19,11,2,"#{""ddeaguiar@gmail.com"" ""dchelimsky@gmail.com""}",742.0,31
+Clojure,cognitect-labs,2019-04-20,1,1,"#{""ddeaguiar@gmail.com""}",743.0,31
+Clojure,cognitect-labs,2019-05-02,1,1,"#{""dchelimsky@gmail.com""}",744.0,31
+Clojure,cognitect-labs,2019-05-10,5,2,"#{""ddeaguiar@gmail.com"" ""dchelimsky@gmail.com""}",749.0,31
+Clojure,cognitect-labs,2019-05-16,1,1,"#{""dchelimsky@gmail.com""}",750.0,31
+Clojure,cognitect-labs,2019-05-17,3,1,"#{""dchelimsky@gmail.com""}",753.0,31
+Clojure,cognitect-labs,2019-05-28,3,1,"#{""dchelimsky@gmail.com""}",756.0,31
+Clojure,cognitect-labs,2019-05-29,1,1,"#{""dchelimsky@gmail.com""}",757.0,31
+Clojure,cognitect-labs,2019-06-07,3,1,"#{""dchelimsky@gmail.com""}",760.0,31
+Clojure,cognitect-labs,2019-06-14,2,1,"#{""dchelimsky@gmail.com""}",762.0,31
+Clojure,cognitect-labs,2019-06-18,2,1,"#{""dchelimsky@gmail.com""}",764.0,31
+Clojure,cognitect-labs,2019-06-21,1,1,"#{""gshayban@gmail.com""}",765.0,31
+Clojure,cognitect-labs,2019-06-29,1,1,"#{""ddeaguiar@gmail.com""}",766.0,31
+Clojure,cognitect-labs,2019-07-01,1,1,"#{""dchelimsky@gmail.com""}",767.0,31
+Clojure,cognitect-labs,2019-07-04,1,1,"#{""dchelimsky@gmail.com""}",768.0,31
+Clojure,cognitect-labs,2019-07-05,14,1,"#{""dchelimsky@gmail.com""}",782.0,31
+Clojure,cognitect-labs,2019-07-06,8,1,"#{""dchelimsky@gmail.com""}",790.0,31
+Clojure,cognitect-labs,2019-07-09,2,1,"#{""dchelimsky@gmail.com""}",792.0,31
+Clojure,cognitect-labs,2019-07-12,1,1,"#{""dchelimsky@gmail.com""}",793.0,31
+Clojure,cognitect-labs,2019-07-19,2,1,"#{""dchelimsky@gmail.com""}",795.0,31
+Clojure,cognitect-labs,2019-07-26,2,1,"#{""dchelimsky@gmail.com""}",797.0,31
+Clojure,cognitect-labs,2019-08-02,1,1,"#{""dchelimsky@gmail.com""}",798.0,31
+Clojure,cognitect-labs,2019-08-09,2,1,"#{""dchelimsky@gmail.com""}",800.0,31
+Clojure,cognitect-labs,2019-08-10,1,1,"#{""dchelimsky@gmail.com""}",801.0,31
+Clojure,cognitect-labs,2019-09-16,2,1,"#{""dchelimsky@gmail.com""}",803.0,31
+Clojure,cognitect-labs,2019-09-20,2,1,"#{""dchelimsky@gmail.com""}",805.0,31
+Clojure,cognitect-labs,2019-09-23,2,1,"#{""dchelimsky@gmail.com""}",807.0,31
+Clojure,cognitect-labs,2019-09-24,2,1,"#{""dchelimsky@gmail.com""}",809.0,31
+Clojure,cognitect-labs,2019-09-27,4,1,"#{""dchelimsky@gmail.com""}",813.0,31
+Clojure,cognitect-labs,2019-10-04,6,1,"#{""dchelimsky@gmail.com""}",819.0,31
+Clojure,cognitect-labs,2019-10-12,1,1,"#{""dchelimsky@gmail.com""}",820.0,31
+Clojure,cognitect-labs,2019-10-19,4,1,"#{""dchelimsky@gmail.com""}",824.0,31
+Clojure,cognitect-labs,2019-10-23,2,1,"#{""stu@cognitect.com""}",826.0,31
+Clojure,cognitect-labs,2019-10-24,5,1,"#{""dchelimsky@gmail.com""}",831.0,31
+Clojure,cognitect-labs,2019-10-25,6,2,"#{""dchelimsky@gmail.com"" ""gshayban@gmail.com""}",837.0,31
+Clojure,cognitect-labs,2019-10-29,3,2,"#{""dchelimsky@gmail.com"" ""gshayban@gmail.com""}",840.0,31
+Clojure,cognitect-labs,2019-11-01,1,1,"#{""dchelimsky@gmail.com""}",841.0,31
+Clojure,cognitect-labs,2019-11-08,1,1,"#{""dchelimsky@gmail.com""}",842.0,31
+Clojure,cognitect-labs,2019-11-09,1,1,"#{""dchelimsky@gmail.com""}",843.0,31
+Clojure,cognitect-labs,2019-11-13,1,1,"#{""alex@puredanger.com""}",844.0,31
+Clojure,cognitect-labs,2019-11-14,1,1,"#{""dchelimsky@gmail.com""}",845.0,31
+Clojure,cognitect-labs,2019-11-16,2,1,"#{""dchelimsky@gmail.com""}",847.0,31
+Clojure,cognitect-labs,2019-11-18,2,1,"#{""dchelimsky@gmail.com""}",849.0,31
+Clojure,cognitect-labs,2019-11-20,1,1,"#{""dchelimsky@gmail.com""}",850.0,31
+Clojure,cognitect-labs,2019-11-25,4,1,"#{""dchelimsky@gmail.com""}",854.0,31
+Clojure,cognitect-labs,2019-11-26,1,1,"#{""dchelimsky@gmail.com""}",855.0,31
+Clojure,cognitect-labs,2019-11-29,1,1,"#{""dchelimsky@gmail.com""}",856.0,31
+Clojure,cognitect-labs,2019-12-03,2,1,"#{""dchelimsky@gmail.com""}",858.0,31
+Clojure,cognitect-labs,2019-12-04,1,1,"#{""dchelimsky@gmail.com""}",859.0,31
+Clojure,cognitect-labs,2019-12-05,1,1,"#{""dchelimsky@gmail.com""}",860.0,31
+Clojure,cognitect-labs,2019-12-10,1,1,"#{""dchelimsky@gmail.com""}",861.0,31
+Clojure,cognitect-labs,2019-12-16,1,1,"#{""dchelimsky@gmail.com""}",862.0,31
+Clojure,cognitect-labs,2019-12-19,2,2,"#{""dchelimsky@gmail.com"" ""alex.miller@cognitect.com""}",864.0,31
+Clojure,cognitect-labs,2019-12-20,1,1,"#{""alex.miller@cognitect.com""}",865.0,31
+Clojure,cognitect-labs,2019-12-27,1,1,"#{""dchelimsky@gmail.com""}",866.0,31
+Clojure,cognitect-labs,2020-01-11,1,1,"#{""dchelimsky@gmail.com""}",867.0,31
+Clojure,cognitect-labs,2020-01-17,2,1,"#{""dchelimsky@gmail.com""}",869.0,31
+Clojure,cognitect-labs,2020-01-18,1,1,"#{""dchelimsky@gmail.com""}",870.0,31
+Clojure,cognitect-labs,2020-01-25,1,1,"#{""dchelimsky@gmail.com""}",871.0,31
+Clojure,cognitect-labs,2020-02-03,1,1,"#{""dchelimsky@gmail.com""}",872.0,31
+Clojure,cognitect-labs,2020-02-10,4,1,"#{""dchelimsky@gmail.com""}",876.0,31
+Clojure,cognitect-labs,2020-02-11,1,1,"#{""dchelimsky@gmail.com""}",877.0,31
+Clojure,cognitect-labs,2020-02-13,3,1,"#{""dchelimsky@gmail.com""}",880.0,31
+Clojure,cognitect-labs,2020-02-14,5,1,"#{""dchelimsky@gmail.com""}",885.0,31
+Clojure,cognitect-labs,2020-02-21,1,1,"#{""dchelimsky@gmail.com""}",886.0,31
+Clojure,cognitect-labs,2020-02-25,5,1,"#{""dchelimsky@gmail.com""}",891.0,31
+Clojure,cognitect-labs,2020-03-01,1,1,"#{""dchelimsky@gmail.com""}",892.0,31
+Clojure,cognitect-labs,2020-03-23,1,1,"#{""dchelimsky@gmail.com""}",893.0,31
+Clojure,cognitect-labs,2020-03-25,1,1,"#{""dchelimsky@gmail.com""}",894.0,31
+Clojure,cognitect-labs,2020-03-26,2,1,"#{""dchelimsky@gmail.com""}",896.0,31
+Clojure,cognitect-labs,2020-03-27,6,1,"#{""dchelimsky@gmail.com""}",902.0,31
+Clojure,cognitect-labs,2020-03-28,1,1,"#{""dchelimsky@gmail.com""}",903.0,31
+Clojure,cognitect-labs,2020-05-02,1,1,"#{""dchelimsky@gmail.com""}",904.0,31
+Clojure,cognitect-labs,2020-05-15,1,1,"#{""dchelimsky@gmail.com""}",905.0,31
+Clojure,cognitect-labs,2020-05-24,1,1,"#{""dchelimsky@gmail.com""}",906.0,31
+Clojure,cognitect-labs,2020-07-02,1,1,"#{""dchelimsky@gmail.com""}",907.0,31
+Clojure,cognitect-labs,2020-07-10,8,1,"#{""dchelimsky@gmail.com""}",915.0,31
+Clojure,cognitect-labs,2020-07-24,1,1,"#{""dchelimsky@gmail.com""}",916.0,31
+Clojure,cognitect-labs,2020-08-09,1,1,"#{""dchelimsky@gmail.com""}",917.0,31
+Clojure,cognitect-labs,2020-08-15,4,1,"#{""dchelimsky@gmail.com""}",921.0,31
+Clojure,cognitect-labs,2020-08-16,3,1,"#{""dchelimsky@gmail.com""}",924.0,31
+Clojure,cognitect-labs,2020-08-17,1,1,"#{""alex@puredanger.com""}",925.0,31
+Clojure,cognitect-labs,2020-09-09,1,1,"#{""dchelimsky@gmail.com""}",926.0,31
+Clojure,cognitect-labs,2020-09-30,1,1,"#{""alex.miller@cognitect.com""}",927.0,31
+Clojure,cognitect-labs,2020-11-03,2,1,"#{""dchelimsky@gmail.com""}",929.0,31
+Clojure,cognitect-labs,2020-11-05,3,1,"#{""dchelimsky@gmail.com""}",932.0,31
+Clojure,cognitect-labs,2020-11-22,1,1,"#{""dchelimsky@gmail.com""}",933.0,31
+Clojure,cognitect-labs,2020-11-23,1,1,"#{""dchelimsky@gmail.com""}",934.0,31
+Clojure,cognitect-labs,2020-12-01,1,1,"#{""dchelimsky@gmail.com""}",935.0,31
+Clojure,cognitect-labs,2020-12-02,1,1,"#{""dchelimsky@gmail.com""}",936.0,31
+Clojure,cognitect-labs,2020-12-08,1,1,"#{""dchelimsky@gmail.com""}",937.0,31
+Clojure,cognitect-labs,2020-12-17,1,1,"#{""dchelimsky@gmail.com""}",938.0,31
+Clojure,cognitect-labs,2020-12-28,2,1,"#{""dchelimsky@gmail.com""}",940.0,31
+Clojure,cognitect-labs,2021-01-03,3,1,"#{""dchelimsky@gmail.com""}",943.0,31
+Clojure,cognitect-labs,2021-01-09,4,1,"#{""dchelimsky@gmail.com""}",947.0,31
+Clojure,cognitect-labs,2021-02-01,1,1,"#{""dchelimsky@gmail.com""}",948.0,31
+Clojure,cognitect-labs,2021-02-16,1,1,"#{""dchelimsky@gmail.com""}",949.0,31
+Clojure,cognitect-labs,2021-02-23,5,1,"#{""dchelimsky@gmail.com""}",954.0,31
+Clojure,cognitect-labs,2021-03-08,1,1,"#{""dchelimsky@gmail.com""}",955.0,31
+Clojure,cognitect-labs,2021-03-17,1,1,"#{""dchelimsky@gmail.com""}",956.0,31
+Clojure,cognitect-labs,2021-03-21,1,1,"#{""abonnairesergeant@gmail.com""}",957.0,32
+Clojure,cognitect-labs,2021-03-22,1,1,"#{""dchelimsky@gmail.com""}",958.0,32
+Clojure,cognitect-labs,2021-04-21,1,1,"#{""dchelimsky@gmail.com""}",959.0,32
+Clojure,cognitect-labs,2021-05-07,16,2,"#{""alex@puredanger.com"" ""alex.miller@cognitect.com""}",975.0,32
+Clojure,cognitect-labs,2021-05-09,4,2,"#{""alex@puredanger.com"" ""alex.miller@cognitect.com""}",979.0,32
+Clojure,cognitect-labs,2021-05-21,3,1,"#{""alex.miller@cognitect.com""}",982.0,32
+Clojure,cognitect-labs,2021-05-24,2,1,"#{""alex.miller@cognitect.com""}",984.0,32
+Clojure,cognitect-labs,2021-06-01,1,1,"#{""alex@puredanger.com""}",985.0,32
+Clojure,cognitect-labs,2021-06-21,3,1,"#{""mefogus@gmail.com""}",988.0,33
+Clojure,cognitect-labs,2021-06-25,2,1,"#{""dchelimsky@gmail.com""}",990.0,33
+Clojure,cognitect-labs,2021-06-27,1,1,"#{""dchelimsky@gmail.com""}",991.0,33
+Clojure,cognitect-labs,2021-07-02,1,1,"#{""alex.miller@cognitect.com""}",992.0,33
+Clojure,cognitect-labs,2021-07-14,1,1,"#{""mathieu.lirzin@oscaro.com""}",993.0,34
+Clojure,cognitect-labs,2021-07-16,2,2,"#{""alex@puredanger.com"" ""alex.miller@cognitect.com""}",995.0,34
+Clojure,cognitect-labs,2021-08-02,1,1,"#{""mefogus@gmail.com""}",996.0,34
+Clojure,cognitect-labs,2021-08-09,1,1,"#{""mefogus@gmail.com""}",997.0,34
+Clojure,cognitect-labs,2021-08-20,1,1,"#{""mefogus@gmail.com""}",998.0,34
+Clojure,cognitect-labs,2021-08-24,2,2,"#{""alex@puredanger.com"" ""github@wesmorgan.me""}",1000.0,35
+Clojure,cognitect-labs,2021-08-30,1,1,"#{""mefogus@gmail.com""}",1001.0,35
+Clojure,cognitect-labs,2021-09-03,3,1,"#{""alex.miller@cognitect.com""}",1004.0,35
+Clojure,cognitect-labs,2021-09-10,1,1,"#{""mefogus@gmail.com""}",1005.0,35
+Clojure,cognitect-labs,2021-09-17,4,1,"#{""mefogus@gmail.com""}",1009.0,35
+Clojure,cognitect-labs,2021-10-15,1,1,"#{""mefogus@gmail.com""}",1010.0,35
+Clojure,cognitect-labs,2021-10-22,1,1,"#{""mefogus@gmail.com""}",1011.0,35
+Clojure,cognitect-labs,2021-11-08,1,1,"#{""mefogus@gmail.com""}",1012.0,35
+Clojure,cognitect-labs,2021-11-16,1,1,"#{""mefogus@gmail.com""}",1013.0,35
+Clojure,cognitect-labs,2021-11-24,1,1,"#{""alex.miller@cognitect.com""}",1014.0,35
+Clojure,cognitect-labs,2021-11-29,1,1,"#{""mefogus@gmail.com""}",1015.0,35
+Clojure,cognitect-labs,2021-12-07,2,1,"#{""mefogus@gmail.com""}",1017.0,35
+Clojure,cognitect-labs,2021-12-08,4,1,"#{""mefogus@gmail.com""}",1021.0,35
+Clojure,cognitect-labs,2021-12-10,1,1,"#{""alex.miller@cognitect.com""}",1022.0,35
+Clojure,cognitect-labs,2021-12-13,1,1,"#{""mefogus@gmail.com""}",1023.0,35
+Clojure,cognitect-labs,2021-12-14,1,1,"#{""mefogus@gmail.com""}",1024.0,35
+Clojure,cognitect-labs,2022-02-07,1,1,"#{""mefogus@gmail.com""}",1025.0,35
+Clojure,cognitect-labs,2022-02-16,1,1,"#{""mefogus@gmail.com""}",1026.0,35
+Clojure,cognitect-labs,2022-03-21,1,1,"#{""mefogus@gmail.com""}",1027.0,35
+Clojure,cognitect-labs,2022-03-30,1,1,"#{""mefogus@gmail.com""}",1028.0,35
+Clojure,cognitect-labs,2022-04-05,5,1,"#{""dchelimsky@gmail.com""}",1033.0,35
+Clojure,cognitect-labs,2022-04-07,1,1,"#{""dchelimsky@gmail.com""}",1034.0,35
+Clojure,cognitect-labs,2022-04-26,1,1,"#{""dchelimsky@gmail.com""}",1035.0,35
+Clojure,cognitect-labs,2022-05-06,6,2,"#{""dchelimsky@gmail.com"" ""alex.miller@cognitect.com""}",1041.0,35
+Clojure,cognitect-labs,2022-05-09,3,1,"#{""dchelimsky@gmail.com""}",1044.0,35
+Clojure,cognitect-labs,2022-05-27,6,1,"#{""dchelimsky@gmail.com""}",1050.0,35
+Clojure,cognitect-labs,2022-05-28,2,1,"#{""dchelimsky@gmail.com""}",1052.0,35
+Clojure,cognitect-labs,2022-05-29,1,1,"#{""dchelimsky@gmail.com""}",1053.0,35
+Clojure,cognitect-labs,2022-06-09,2,1,"#{""dchelimsky@gmail.com""}",1055.0,35
+Clojure,cognitect-labs,2022-07-08,1,1,"#{""dchelimsky@gmail.com""}",1056.0,35
+Clojure,cognitect-labs,2022-07-22,4,2,"#{""dchelimsky@gmail.com"" ""joe.lane@cognitect.com""}",1060.0,36
+Clojure,cognitect-labs,2022-07-25,4,1,"#{""dchelimsky@gmail.com""}",1064.0,36
+Clojure,cognitect-labs,2022-07-27,1,1,"#{""dchelimsky@gmail.com""}",1065.0,36
+Clojure,cognitect-labs,2022-07-28,1,1,"#{""dchelimsky@gmail.com""}",1066.0,36
+Clojure,cognitect-labs,2022-08-09,1,1,"#{""dchelimsky@gmail.com""}",1067.0,36
+Clojure,cognitect-labs,2022-08-11,3,1,"#{""dchelimsky@gmail.com""}",1070.0,36
+Clojure,cognitect-labs,2022-08-29,3,1,"#{""dchelimsky@gmail.com""}",1073.0,36
+Clojure,cognitect-labs,2022-08-30,3,1,"#{""dchelimsky@gmail.com""}",1076.0,36
+Clojure,cognitect-labs,2022-09-07,1,1,"#{""dchelimsky@gmail.com""}",1077.0,36
+Clojure,cognitect-labs,2022-09-12,5,2,"#{""maria.crespo@alumni.usp.br"" ""dchelimsky@gmail.com""}",1082.0,37
+Clojure,cognitect-labs,2022-09-15,1,1,"#{""dchelimsky@gmail.com""}",1083.0,37
+Clojure,cognitect-labs,2022-09-16,7,2,"#{""dchelimsky@gmail.com"" ""alex.miller@cognitect.com""}",1090.0,37
+Clojure,cognitect-labs,2022-09-21,1,1,"#{""dchelimsky@gmail.com""}",1091.0,37
+Clojure,cognitect-labs,2022-09-23,1,1,"#{""dchelimsky@gmail.com""}",1092.0,37
+Clojure,cognitect-labs,2022-10-11,4,2,"#{""dchelimsky@gmail.com"" ""scott.bale@nubank.com.br""}",1096.0,38
+Clojure,cognitect-labs,2022-10-14,1,1,"#{""scott.bale@nubank.com.br""}",1097.0,38
+Clojure,cognitect-labs,2022-10-15,1,1,"#{""dchelimsky@gmail.com""}",1098.0,38
+Clojure,cognitect-labs,2022-10-27,5,2,"#{""dchelimsky@gmail.com"" ""alex.miller@cognitect.com""}",1103.0,38
+Clojure,cognitect-labs,2022-11-28,6,2,"#{""dchelimsky@gmail.com"" ""kylegann@gmail.com""}",1109.0,39
+Clojure,cognitect-labs,2022-12-01,4,2,"#{""dchelimsky@gmail.com"" ""scott.bale@nubank.com.br""}",1113.0,39
+Clojure,cognitect-labs,2022-12-05,8,2,"#{""dchelimsky@gmail.com"" ""george.kierstein@nubank.com.br""}",1121.0,40
+Clojure,cognitect-labs,2022-12-14,2,1,"#{""dchelimsky@gmail.com""}",1123.0,40
+Clojure,cognitect-labs,2022-12-15,1,1,"#{""dchelimsky@gmail.com""}",1124.0,40
+Clojure,cognitect-labs,2022-12-28,4,1,"#{""dchelimsky@gmail.com""}",1128.0,40
+Clojure,cognitect-labs,2023-01-06,1,1,"#{""dchelimsky@gmail.com""}",1129.0,40
+Clojure,cognitect-labs,2023-01-09,1,1,"#{""dchelimsky@gmail.com""}",1130.0,40
+Clojure,cognitect-labs,2023-01-17,3,1,"#{""dchelimsky@gmail.com""}",1133.0,40
+Clojure,cognitect-labs,2023-01-23,1,1,"#{""dchelimsky@gmail.com""}",1134.0,40
+Clojure,cognitect-labs,2023-02-01,1,1,"#{""dchelimsky@gmail.com""}",1135.0,40
+Clojure,cognitect-labs,2023-02-13,2,2,"#{""thayanne.sousa@nubank.com.br"" ""dchelimsky@gmail.com""}",1137.0,41
+Clojure,cognitect-labs,2023-02-14,2,1,"#{""dchelimsky@gmail.com""}",1139.0,41
+Clojure,cognitect-labs,2023-02-27,3,1,"#{""dchelimsky@gmail.com""}",1142.0,41
+Clojure,cognitect-labs,2023-02-28,1,1,"#{""dchelimsky@gmail.com""}",1143.0,41
+Clojure,cognitect-labs,2023-03-02,1,1,"#{""dchelimsky@gmail.com""}",1144.0,41
+Clojure,cognitect-labs,2023-03-13,1,1,"#{""dchelimsky@gmail.com""}",1145.0,41
+Clojure,cognitect-labs,2023-03-14,2,1,"#{""dchelimsky@gmail.com""}",1147.0,41
+Clojure,cognitect-labs,2023-03-29,1,1,"#{""dchelimsky@gmail.com""}",1148.0,41
+Clojure,cognitect-labs,2023-04-15,1,1,"#{""dchelimsky@gmail.com""}",1149.0,41
+Clojure,cognitect-labs,2023-04-19,1,1,"#{""thayannevls@gmail.com""}",1150.0,42
+Clojure,cognitect-labs,2023-04-26,5,2,"#{""dchelimsky@gmail.com"" ""scott.bale@nubank.com.br""}",1155.0,42
+Clojure,cognitect-labs,2023-04-27,2,1,"#{""dchelimsky@gmail.com""}",1157.0,42
+Clojure,cognitect-labs,2023-05-09,1,1,"#{""dchelimsky@gmail.com""}",1158.0,42
+Clojure,cognitect-labs,2023-05-22,4,1,"#{""dchelimsky@gmail.com""}",1162.0,42
+Clojure,cognitect-labs,2023-05-23,4,1,"#{""dchelimsky@gmail.com""}",1166.0,42
+Clojure,cognitect-labs,2023-05-30,1,1,"#{""dchelimsky@gmail.com""}",1167.0,42
+Clojure,cognitect-labs,2023-06-07,1,1,"#{""dchelimsky@gmail.com""}",1168.0,42
+Clojure,cognitect-labs,2023-06-08,1,1,"#{""thayanne.sousa@nubank.com.br""}",1169.0,42
+Clojure,cognitect-labs,2023-06-15,1,1,"#{""dchelimsky@gmail.com""}",1170.0,42
+Clojure,cognitect-labs,2023-06-16,3,2,"#{""dchelimsky@gmail.com"" ""scott.bale@nubank.com.br""}",1173.0,42
+Clojure,cognitect-labs,2023-06-23,1,1,"#{""scott.bale@nubank.com.br""}",1174.0,42
+Clojure,cognitect-labs,2023-07-06,3,2,"#{""dchelimsky@gmail.com"" ""scott.bale@nubank.com.br""}",1177.0,42
+Clojure,cognitect-labs,2023-07-11,1,1,"#{""scott.bale@nubank.com.br""}",1178.0,42
+Clojure,cognitect-labs,2023-07-12,2,1,"#{""dchelimsky@gmail.com""}",1180.0,42

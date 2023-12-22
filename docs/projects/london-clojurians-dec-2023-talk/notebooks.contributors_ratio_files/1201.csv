@@ -1,0 +1,142 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Alexey.Nesterov@live.com]",1.0,[{1 1}],0,0,1,0,0,0
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-10-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@live.com]",2.0,"[{1 1, 0 1}]",0,1,1,0,0,0
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-10-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com]",4.0,"[{1 1, 0 3}]",0,3,1,0,0,0
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-10-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[Alexey.Nesterov@live.com, Alexey.Nesterov@live.com, Alexey.Nesterov@live.com]",7.0,"[{1 4, 0 3}]",0,3,4,0,0,0
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-10-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[Alexey.Nesterov@live.com, ZaozerskyAU@gmail.com]",9.0,"[{1 5, 0 3, 4 1}]",0,3,5,0,0,1
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ZaozerskyAU@gmail.com]",10.0,"[{1 5, 0 3, 4 2}]",0,3,5,0,0,2
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-10-28,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[Alexey.Nesterov@live.com, ZaozerskyAU@gmail.com, ZaozerskyAU@gmail.com]",13.0,"[{1 6, 0 3, 4 4}]",0,3,6,0,0,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Alexey.Nesterov@live.com]",14.0,"[{1 7, 0 3, 4 4}]",0,3,7,0,0,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, francois.kha@gmail.com]",16.0,"[{1 7, 0 4, 4 4, ""other"" 1}]",1,4,7,0,0,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-17,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[alexey.nesterov@live.com, jeffrey@sadeli.com, Alexey.Nesterov@live.com]",19.0,"[{1 8, 0 5, 4 4, ""other"" 1, 3 1}]",1,5,8,0,1,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[alexey.nesterov@live.com, jeffrey@sadeli.com, jeffrey@sadeli.com]",22.0,"[{1 8, 0 6, 4 4, ""other"" 1, 3 3}]",1,6,8,0,3,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jeffrey@sadeli.com]",23.0,"[{1 8, 0 6, 4 4, ""other"" 1, 3 4}]",1,6,8,0,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[your_email@your-domain.com, alexey.nesterov@live.com]",25.0,"[{1 8, 0 7, 4 4, ""other"" 2, 3 4}]",2,7,8,0,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Alexey.Nesterov@live.com]",26.0,"[{1 9, 0 7, 4 4, ""other"" 2, 3 4}]",2,7,9,0,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2011-11-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Alexey.Nesterov@live.com]",27.0,"[{1 10, 0 7, 4 4, ""other"" 2, 3 4}]",2,7,10,0,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2012-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Alexey.Nesterov@live.com]",28.0,"[{1 11, 0 7, 4 4, ""other"" 2, 3 4}]",2,7,11,0,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ronan@jouchet.fr]",29.0,"[{1 11, 0 7, 4 4, ""other"" 3, 3 4}]",3,7,11,0,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@live.com]",30.0,"[{1 11, 0 8, 4 4, ""other"" 3, 3 4}]",3,8,11,0,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-03-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[alexey.nesterov@totalobjects.spb.ru, alexey.nesterov@totalobjects.spb.ru, alexey.nesterov@totalobjects.spb.ru, alexey.nesterov@totalobjects.spb.ru]",34.0,"[{1 11, 0 8, 4 4, ""other"" 3, 3 4, 2 4}]",3,8,11,4,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-04-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com, alexey.nesterov@live.com, alexey.nesterov@live.com]",38.0,"[{1 11, 0 12, 4 4, ""other"" 3, 3 4, 2 4}]",3,12,11,4,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jiandeyu@gmail.com]",39.0,"[{1 11, 0 12, 4 4, ""other"" 4, 3 4, 2 4}]",4,12,11,4,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-07-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com, alexey.nesterov@live.com]",42.0,"[{1 11, 0 15, 4 4, ""other"" 4, 3 4, 2 4}]",4,15,11,4,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@totalobjects.spb.ru]",43.0,"[{1 11, 0 15, 4 4, ""other"" 4, 3 4, 2 5}]",4,15,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdurfee@ghx.com]",44.0,"[{1 11, 0 15, 4 4, ""other"" 5, 3 4, 2 5}]",5,15,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@live.com]",45.0,"[{1 11, 0 16, 4 4, ""other"" 5, 3 4, 2 5}]",5,16,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2013-12-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bloch.akiva@gmail.com, bloch.akiva@gmail.com]",47.0,"[{1 11, 0 16, 4 4, ""other"" 7, 3 4, 2 5}]",7,16,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2014-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hmalphettes@gmail.com]",48.0,"[{1 11, 0 16, 4 4, ""other"" 8, 3 4, 2 5}]",8,16,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2014-02-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com]",50.0,"[{1 11, 0 18, 4 4, ""other"" 8, 3 4, 2 5}]",8,18,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2014-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.kane@sparknet.net]",51.0,"[{1 11, 0 18, 4 4, ""other"" 9, 3 4, 2 5}]",9,18,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2014-06-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@live.com]",52.0,"[{1 11, 0 19, 4 4, ""other"" 9, 3 4, 2 5}]",9,19,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2015-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bbonney@bitstew.com]",53.0,"[{1 11, 0 19, 4 4, ""other"" 10, 3 4, 2 5}]",10,19,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2015-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bheklilr2@gmail.com]",54.0,"[{1 11, 0 19, 4 4, ""other"" 11, 3 4, 2 5}]",11,19,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2015-08-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com]",56.0,"[{1 11, 0 21, 4 4, ""other"" 11, 3 4, 2 5}]",11,21,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2015-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@live.com]",57.0,"[{1 11, 0 22, 4 4, ""other"" 11, 3 4, 2 5}]",11,22,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2016-05-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com]",59.0,"[{1 11, 0 24, 4 4, ""other"" 11, 3 4, 2 5}]",11,24,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2016-05-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[petter@fourmation.se]",60.0,"[{1 11, 0 24, 4 4, ""other"" 12, 3 4, 2 5}]",12,24,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2016-05-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@live.com]",61.0,"[{1 11, 0 25, 4 4, ""other"" 12, 3 4, 2 5}]",12,25,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2016-05-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com, alexey.nesterov@live.com]",64.0,"[{1 11, 0 28, 4 4, ""other"" 12, 3 4, 2 5}]",12,28,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2016-06-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, david.schmiddi.86@gmail.com]",66.0,"[{1 11, 0 29, 4 4, ""other"" 13, 3 4, 2 5}]",13,29,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2017-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kinow@users.noreply.github.com]",67.0,"[{1 11, 0 29, 4 4, ""other"" 14, 3 4, 2 5}]",14,29,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2017-06-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com, alexey.nesterov@live.com]",70.0,"[{1 11, 0 32, 4 4, ""other"" 14, 3 4, 2 5}]",14,32,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2017-06-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com]",72.0,"[{1 11, 0 34, 4 4, ""other"" 14, 3 4, 2 5}]",14,34,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2017-06-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com, alexey.nesterov@live.com]",75.0,"[{1 11, 0 37, 4 4, ""other"" 14, 3 4, 2 5}]",14,37,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2017-07-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com]",77.0,"[{1 11, 0 39, 4 4, ""other"" 14, 3 4, 2 5}]",14,39,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2017-08-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alexey.nesterov@live.com, alexey.nesterov@live.com]",79.0,"[{1 11, 0 41, 4 4, ""other"" 14, 3 4, 2 5}]",14,41,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2017-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Hagfjall@users.noreply.github.com]",80.0,"[{1 11, 0 41, 4 4, ""other"" 15, 3 4, 2 5}]",15,41,11,5,4,4
+Python,https://github.com/alek-sys/sublimetext_indentxml,2018-01-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexey.nesterov@live.com]",81.0,"[{1 11, 0 42, 4 4, ""other"" 15, 3 4, 2 5}]",15,42,11,5,4,4

@@ -1,0 +1,429 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,LightTable,2012-02-04,1,1,"#{""ibdknox@gmail.com""}",1.0,1
+Clojure,LightTable,2012-02-05,2,1,"#{""ibdknox@gmail.com""}",3.0,1
+Clojure,LightTable,2012-02-06,1,1,"#{""ibdknox@gmail.com""}",4.0,1
+Clojure,LightTable,2012-02-13,1,1,"#{""ibdknox@gmail.com""}",5.0,1
+Clojure,LightTable,2012-02-19,3,1,"#{""ibdknox@gmail.com""}",8.0,1
+Clojure,LightTable,2012-03-12,1,1,"#{""ibdknox@gmail.com""}",9.0,1
+Clojure,LightTable,2012-04-17,2,2,"#{""berg.christian@gmail.com"" ""ibdknox@gmail.com""}",11.0,2
+Clojure,LightTable,2012-04-26,1,1,"#{""jeroentjevandijk@gmail.com""}",12.0,3
+Clojure,LightTable,2012-09-06,1,1,"#{""ibdknox@gmail.com""}",13.0,3
+Clojure,LightTable,2013-07-04,1,1,"#{""ibdknox@gmail.com""}",14.0,3
+Clojure,LightTable,2013-07-07,1,1,"#{""ibdknox@gmail.com""}",15.0,3
+Clojure,LightTable,2013-07-09,4,1,"#{""ibdknox@gmail.com""}",19.0,3
+Clojure,LightTable,2013-07-12,1,1,"#{""ibdknox@gmail.com""}",20.0,3
+Clojure,LightTable,2013-07-16,1,1,"#{""ibdknox@gmail.com""}",21.0,3
+Clojure,LightTable,2013-07-19,1,1,"#{""ibdknox@gmail.com""}",22.0,3
+Clojure,LightTable,2013-08-01,1,1,"#{""ibdknox@gmail.com""}",23.0,3
+Clojure,LightTable,2013-08-08,1,1,"#{""ibdknox@gmail.com""}",24.0,3
+Clojure,LightTable,2013-08-09,1,1,"#{""ibdknox@gmail.com""}",25.0,3
+Clojure,LightTable,2013-08-20,1,1,"#{""ibdknox@gmail.com""}",26.0,3
+Clojure,LightTable,2013-08-21,1,1,"#{""ibdknox@gmail.com""}",27.0,3
+Clojure,LightTable,2013-08-25,3,1,"#{""ibdknox@gmail.com""}",30.0,3
+Clojure,LightTable,2013-08-26,1,1,"#{""ibdknox@gmail.com""}",31.0,3
+Clojure,LightTable,2013-08-27,1,1,"#{""ibdknox@gmail.com""}",32.0,3
+Clojure,LightTable,2013-09-05,1,1,"#{""ibdknox@gmail.com""}",33.0,3
+Clojure,LightTable,2013-10-09,2,1,"#{""ibdknox@gmail.com""}",35.0,3
+Clojure,LightTable,2013-10-16,1,1,"#{""ibdknox@gmail.com""}",36.0,3
+Clojure,LightTable,2013-10-17,1,1,"#{""ibdknox@gmail.com""}",37.0,3
+Clojure,LightTable,2013-10-23,1,1,"#{""ibdknox@gmail.com""}",38.0,3
+Clojure,LightTable,2013-11-07,3,1,"#{""ibdknox@gmail.com""}",41.0,3
+Clojure,LightTable,2013-11-11,2,1,"#{""ibdknox@gmail.com""}",43.0,3
+Clojure,LightTable,2013-11-12,1,1,"#{""ibdknox@gmail.com""}",44.0,3
+Clojure,LightTable,2013-11-20,3,1,"#{""ibdknox@gmail.com""}",47.0,3
+Clojure,LightTable,2013-12-02,8,1,"#{""ibdknox@gmail.com""}",55.0,3
+Clojure,LightTable,2013-12-03,4,1,"#{""ibdknox@gmail.com""}",59.0,3
+Clojure,LightTable,2013-12-04,2,1,"#{""ibdknox@gmail.com""}",61.0,3
+Clojure,LightTable,2013-12-10,4,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",65.0,4
+Clojure,LightTable,2013-12-11,4,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",69.0,4
+Clojure,LightTable,2013-12-12,4,1,"#{""jamie@scattered-thoughts.net""}",73.0,4
+Clojure,LightTable,2013-12-13,2,1,"#{""jamie@scattered-thoughts.net""}",75.0,4
+Clojure,LightTable,2013-12-14,9,1,"#{""jamie@scattered-thoughts.net""}",84.0,4
+Clojure,LightTable,2013-12-16,13,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",97.0,4
+Clojure,LightTable,2013-12-17,1,1,"#{""jamie@scattered-thoughts.net""}",98.0,4
+Clojure,LightTable,2013-12-18,3,1,"#{""jamie@scattered-thoughts.net""}",101.0,4
+Clojure,LightTable,2013-12-19,2,1,"#{""jamie@scattered-thoughts.net""}",103.0,4
+Clojure,LightTable,2013-12-20,7,1,"#{""jamie@scattered-thoughts.net""}",110.0,4
+Clojure,LightTable,2013-12-21,5,1,"#{""ibdknox@gmail.com""}",115.0,4
+Clojure,LightTable,2013-12-23,1,1,"#{""ibdknox@gmail.com""}",116.0,4
+Clojure,LightTable,2013-12-24,2,1,"#{""ibdknox@gmail.com""}",118.0,4
+Clojure,LightTable,2013-12-25,3,1,"#{""ibdknox@gmail.com""}",121.0,4
+Clojure,LightTable,2013-12-26,2,1,"#{""ibdknox@gmail.com""}",123.0,4
+Clojure,LightTable,2013-12-27,7,1,"#{""ibdknox@gmail.com""}",130.0,4
+Clojure,LightTable,2013-12-28,1,1,"#{""ibdknox@gmail.com""}",131.0,4
+Clojure,LightTable,2013-12-29,1,1,"#{""jamie@scattered-thoughts.net""}",132.0,4
+Clojure,LightTable,2013-12-30,11,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",143.0,4
+Clojure,LightTable,2014-01-01,2,1,"#{""ibdknox@gmail.com""}",145.0,4
+Clojure,LightTable,2014-01-03,12,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",157.0,4
+Clojure,LightTable,2014-01-04,17,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",174.0,4
+Clojure,LightTable,2014-01-05,11,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",185.0,4
+Clojure,LightTable,2014-01-06,20,1,"#{""ibdknox@gmail.com""}",205.0,4
+Clojure,LightTable,2014-01-07,30,2,"#{""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",235.0,4
+Clojure,LightTable,2014-01-08,25,7,"#{""brandon@brandonbloom.name"" ""rfobic@gmail.com"" ""me@thoradam.com"" ""joshuafcole@gmail.com"" ""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com"" ""jones3.hardy@gmail.com""}",260.0,9
+Clojure,LightTable,2014-01-09,21,8,"#{""kien@sendgrid.com"" ""joshuafcole@gmail.com"" ""darthdeus@gmail.com"" ""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com"" ""gunnar@gunnarahlberg.com"" ""bmathes@castlighthealth.com"" ""messaged@messaged.lv""}",281.0,14
+Clojure,LightTable,2014-01-10,17,5,"#{""joshuafcole@gmail.com"" ""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com"" ""wwiser@gmail.com"" ""zz@zoranzaric.de""}",298.0,16
+Clojure,LightTable,2014-01-11,3,3,"#{""jasonwhaley@gmail.com"" ""david@mohsdef.com"" ""feministsoftwarefoundation@loves.dicksinmyan.us""}",301.0,19
+Clojure,LightTable,2014-01-13,11,2,"#{""ibdknox@gmail.com"" ""dpetroff@gmail.com""}",312.0,20
+Clojure,LightTable,2014-01-14,5,5,"#{""remy.leone@gmail.com"" ""ibdknox@gmail.com"" ""eric.a.pritchett.che@gmail.com"" ""dpetroff@gmail.com"" ""elwell.christopher@gmail.com""}",317.0,23
+Clojure,LightTable,2014-01-15,23,6,"#{""remy.leone@gmail.com"" ""joshuafcole@gmail.com"" ""efuquen@gmail.com"" ""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com"" ""rmunn@pobox.com""}",340.0,25
+Clojure,LightTable,2014-01-16,12,6,"#{""efuquen@gettyimages.com"" ""efuquen@gmail.com"" ""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com"" ""eric.a.pritchett.che@gmail.com"" ""dpetroff@gmail.com""}",352.0,26
+Clojure,LightTable,2014-01-17,2,1,"#{""morgawr@gmail.com""}",354.0,27
+Clojure,LightTable,2014-01-18,2,2,"#{""github@gunnarahlberg.com"" ""eric.a.pritchett.che@gmail.com""}",356.0,28
+Clojure,LightTable,2014-01-20,3,3,"#{""ibdknox@gmail.com"" ""eric.a.pritchett.che@gmail.com"" ""ndr@qef.io""}",359.0,29
+Clojure,LightTable,2014-01-21,7,3,"#{""git@domkm.com"" ""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",366.0,30
+Clojure,LightTable,2014-01-23,15,2,"#{""ibdknox@gmail.com"" ""eric.a.pritchett.che@gmail.com""}",381.0,30
+Clojure,LightTable,2014-01-24,10,4,"#{""morgawr@gmail.com"" ""chmllr@me.com"" ""ibdknox@gmail.com"" ""ndr@qef.io""}",391.0,31
+Clojure,LightTable,2014-01-25,1,1,"#{""morgawr@gmail.com""}",392.0,31
+Clojure,LightTable,2014-01-26,3,2,"#{""marco.munizaga@ufl.edu"" ""ndr@qef.io""}",395.0,32
+Clojure,LightTable,2014-01-27,14,4,"#{""ibdknox@gmail.com"" ""toqueteos@gmail.com"" ""ndr@qef.io"" ""mihnea@linux.com""}",409.0,34
+Clojure,LightTable,2014-01-28,8,6,"#{""mark.fisher@e2x.co.uk"" ""crnixon@gmail.com"" ""ibdknox@gmail.com"" ""ndr@qef.io"" ""mihnea@linux.com"" ""mocanu.cristian93@gmail.com""}",417.0,37
+Clojure,LightTable,2014-01-29,12,4,"#{""manutter51@gmail.com"" ""crnixon@gmail.com"" ""ibdknox@gmail.com"" ""mi.au@papill0n.org""}",429.0,39
+Clojure,LightTable,2014-01-30,4,2,"#{""ibdknox@gmail.com"" ""mihnea@linux.com""}",433.0,39
+Clojure,LightTable,2014-02-02,1,1,"#{""mihnea@linux.com""}",434.0,39
+Clojure,LightTable,2014-02-03,2,1,"#{""ibdknox@gmail.com""}",436.0,39
+Clojure,LightTable,2014-02-04,1,1,"#{""ibdknox@gmail.com""}",437.0,39
+Clojure,LightTable,2014-02-05,1,1,"#{""ibdknox@gmail.com""}",438.0,39
+Clojure,LightTable,2014-02-06,2,2,"#{""ibdknox@gmail.com"" ""ndr@qef.io""}",440.0,39
+Clojure,LightTable,2014-02-07,1,1,"#{""4registration@gmail.com""}",441.0,40
+Clojure,LightTable,2014-02-10,4,1,"#{""ibdknox@gmail.com""}",445.0,40
+Clojure,LightTable,2014-02-11,6,2,"#{""tmorton@tmorton-MacBookPro.(none)"" ""ibdknox@gmail.com""}",451.0,41
+Clojure,LightTable,2014-02-12,3,2,"#{""mark.fisher@e2x.co.uk"" ""ibdknox@gmail.com""}",454.0,41
+Clojure,LightTable,2014-02-14,2,1,"#{""jamie@scattered-thoughts.net""}",456.0,41
+Clojure,LightTable,2014-02-15,1,1,"#{""flaviozantut@gmail.com""}",457.0,42
+Clojure,LightTable,2014-02-16,1,1,"#{""jamie@scattered-thoughts.net""}",458.0,42
+Clojure,LightTable,2014-02-17,10,3,"#{""sean@lineonpoint.com"" ""ibdknox@gmail.com"" ""ndr@qef.io""}",468.0,43
+Clojure,LightTable,2014-02-18,4,3,"#{""tmorton@tmorton-MacBookPro.(none)"" ""ibdknox@gmail.com"" ""lssmith@g.cofc.edu""}",472.0,44
+Clojure,LightTable,2014-02-19,1,1,"#{""tmorton@tmorton-MacBookPro.(none)""}",473.0,44
+Clojure,LightTable,2014-02-20,1,1,"#{""tmorton@tmorton-MacBookPro.(none)""}",474.0,44
+Clojure,LightTable,2014-02-22,2,2,"#{""nickgieschen@gmail.com"" ""piyush.0101@gmail.com""}",476.0,46
+Clojure,LightTable,2014-02-24,13,3,"#{""ibdknox@gmail.com"" ""piyush.0101@gmail.com"" ""lssmith@g.cofc.edu""}",489.0,46
+Clojure,LightTable,2014-02-25,1,1,"#{""tmorton@tmorton-MacBookPro.(none)""}",490.0,46
+Clojure,LightTable,2014-02-27,1,1,"#{""ibdknox@gmail.com""}",491.0,46
+Clojure,LightTable,2014-02-28,1,1,"#{""sean@lineonpoint.com""}",492.0,46
+Clojure,LightTable,2014-03-02,2,2,"#{""snufkon@gmail.com"" ""santiagopelufo@gmail.com""}",494.0,48
+Clojure,LightTable,2014-03-03,1,1,"#{""rfobic@gmail.com""}",495.0,48
+Clojure,LightTable,2014-03-04,1,1,"#{""ndr@qef.io""}",496.0,48
+Clojure,LightTable,2014-03-05,11,5,"#{""patrick.connelly@brandingbrand.com"" ""snufkon@gmail.com"" ""gabriel.horner@gmail.com"" ""ibdknox@gmail.com"" ""ndr@qef.io""}",507.0,50
+Clojure,LightTable,2014-03-06,1,1,"#{""curtis@clappy.(none)""}",508.0,51
+Clojure,LightTable,2014-03-07,1,1,"#{""snufkon@gmail.com""}",509.0,51
+Clojure,LightTable,2014-03-09,1,1,"#{""ndr@qef.io""}",510.0,51
+Clojure,LightTable,2014-03-10,1,1,"#{""piyush.0101@gmail.com""}",511.0,51
+Clojure,LightTable,2014-03-11,10,1,"#{""ibdknox@gmail.com""}",521.0,51
+Clojure,LightTable,2014-03-14,1,1,"#{""gabriel.horner@gmail.com""}",522.0,51
+Clojure,LightTable,2014-03-15,1,1,"#{""gabriel.horner@gmail.com""}",523.0,51
+Clojure,LightTable,2014-03-18,7,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",530.0,51
+Clojure,LightTable,2014-03-20,5,4,"#{""tmorton@tmorton-MacBookPro.(none)"" ""ccspell@g.cofc.edu"" ""snufkon@gmail.com"" ""ibdknox@gmail.com""}",535.0,52
+Clojure,LightTable,2014-03-21,3,1,"#{""gabriel.horner@gmail.com""}",538.0,52
+Clojure,LightTable,2014-03-22,3,1,"#{""eric.a.pritchett.che@gmail.com""}",541.0,52
+Clojure,LightTable,2014-03-23,1,1,"#{""ndr@qef.io""}",542.0,52
+Clojure,LightTable,2014-03-24,1,1,"#{""ibdknox@gmail.com""}",543.0,52
+Clojure,LightTable,2014-03-27,1,1,"#{""nickgieschen@gmail.com""}",544.0,52
+Clojure,LightTable,2014-04-01,1,1,"#{""sean@lineonpoint.com""}",545.0,52
+Clojure,LightTable,2014-04-03,12,2,"#{""ibdknox@gmail.com"" ""eric.a.pritchett.che@gmail.com""}",557.0,52
+Clojure,LightTable,2014-04-04,7,4,"#{""sean@lineonpoint.com"" ""gabriel.horner@gmail.com"" ""ibdknox@gmail.com"" ""eric.a.pritchett.che@gmail.com""}",564.0,52
+Clojure,LightTable,2014-04-05,3,2,"#{""sean@lineonpoint.com"" ""gabriel.horner@gmail.com""}",567.0,52
+Clojure,LightTable,2014-04-10,3,2,"#{""thebost@gmail.com"" ""mike.j.innes@gmail.com""}",570.0,54
+Clojure,LightTable,2014-04-11,2,1,"#{""thebost@gmail.com""}",572.0,54
+Clojure,LightTable,2014-04-13,2,1,"#{""joshuafcole@gmail.com""}",574.0,54
+Clojure,LightTable,2014-04-15,2,1,"#{""thebost@gmail.com""}",576.0,54
+Clojure,LightTable,2014-04-19,1,1,"#{""gabriel.horner@gmail.com""}",577.0,54
+Clojure,LightTable,2014-04-21,11,3,"#{""joshuafcole@gmail.com"" ""jamie@scattered-thoughts.net"" ""ibdknox@gmail.com""}",588.0,54
+Clojure,LightTable,2014-04-22,2,2,"#{""thebost@gmail.com"" ""ykomatsu@akaumigame.org""}",590.0,55
+Clojure,LightTable,2014-04-23,1,1,"#{""sean@lineonpoint.com""}",591.0,55
+Clojure,LightTable,2014-04-25,2,1,"#{""ibdknox@gmail.com""}",593.0,55
+Clojure,LightTable,2014-04-26,1,1,"#{""eric.a.pritchett.che@gmail.com""}",594.0,55
+Clojure,LightTable,2014-04-29,1,1,"#{""eric.a.pritchett.che@gmail.com""}",595.0,55
+Clojure,LightTable,2014-05-05,1,1,"#{""ibdknox@gmail.com""}",596.0,55
+Clojure,LightTable,2014-05-06,1,1,"#{""ibdknox@gmail.com""}",597.0,55
+Clojure,LightTable,2014-05-07,1,1,"#{""jakub.holy@iterate.no""}",598.0,56
+Clojure,LightTable,2014-05-12,4,1,"#{""jamie@scattered-thoughts.net""}",602.0,56
+Clojure,LightTable,2014-05-16,1,1,"#{""ibdknox@gmail.com""}",603.0,56
+Clojure,LightTable,2014-05-17,1,1,"#{""ibdknox@gmail.com""}",604.0,56
+Clojure,LightTable,2014-05-19,4,2,"#{""rfobic@gmail.com"" ""ibdknox@gmail.com""}",608.0,56
+Clojure,LightTable,2014-05-20,1,1,"#{""ndr@qef.io""}",609.0,56
+Clojure,LightTable,2014-05-21,3,1,"#{""ibdknox@gmail.com""}",612.0,56
+Clojure,LightTable,2014-05-22,5,2,"#{""ibdknox@gmail.com"" ""ndr@qef.io""}",617.0,56
+Clojure,LightTable,2014-05-27,1,1,"#{""ibdknox@gmail.com""}",618.0,56
+Clojure,LightTable,2014-05-29,1,1,"#{""ibdknox@gmail.com""}",619.0,56
+Clojure,LightTable,2014-06-02,1,1,"#{""ibdknox@gmail.com""}",620.0,56
+Clojure,LightTable,2014-06-03,1,1,"#{""ibdknox@gmail.com""}",621.0,56
+Clojure,LightTable,2014-06-04,2,2,"#{""dusan@struna.me"" ""ibdknox@gmail.com""}",623.0,57
+Clojure,LightTable,2014-06-07,1,1,"#{""grunseid@gmail.com""}",624.0,58
+Clojure,LightTable,2014-06-12,3,1,"#{""ibdknox@gmail.com""}",627.0,58
+Clojure,LightTable,2014-06-27,1,1,"#{""wblandin@gmail.com""}",628.0,59
+Clojure,LightTable,2014-06-29,1,1,"#{""gekkoe808@gmail.com""}",629.0,60
+Clojure,LightTable,2014-07-10,10,2,"#{""ibdknox@gmail.com"" ""ndr@qef.io""}",639.0,60
+Clojure,LightTable,2014-07-15,2,1,"#{""ibdknox@gmail.com""}",641.0,60
+Clojure,LightTable,2014-07-18,2,1,"#{""victor.cottin@quinyx.com""}",643.0,61
+Clojure,LightTable,2014-07-28,3,1,"#{""joshuafcole@gmail.com""}",646.0,61
+Clojure,LightTable,2014-08-02,1,1,"#{""dtkinzer@gmail.com""}",647.0,62
+Clojure,LightTable,2014-08-03,1,1,"#{""mike.j.innes@gmail.com""}",648.0,62
+Clojure,LightTable,2014-08-04,1,1,"#{""gekkoe@users.noreply.github.com""}",649.0,63
+Clojure,LightTable,2014-08-05,2,1,"#{""gabriel.horner@gmail.com""}",651.0,63
+Clojure,LightTable,2014-08-06,1,1,"#{""gabriel.horner@gmail.com""}",652.0,63
+Clojure,LightTable,2014-08-14,2,1,"#{""joshuafcole@gmail.com""}",654.0,63
+Clojure,LightTable,2014-08-15,1,1,"#{""joshuafcole@gmail.com""}",655.0,63
+Clojure,LightTable,2014-08-16,1,1,"#{""joshuafcole@gmail.com""}",656.0,63
+Clojure,LightTable,2014-08-19,11,1,"#{""ibdknox@gmail.com""}",667.0,63
+Clojure,LightTable,2014-08-20,2,1,"#{""ibdknox@gmail.com""}",669.0,63
+Clojure,LightTable,2014-08-21,1,1,"#{""ibdknox@gmail.com""}",670.0,63
+Clojure,LightTable,2014-08-22,9,4,"#{""sean@lineonpoint.com"" ""joshuafcole@gmail.com"" ""ibdknox@gmail.com"" ""mike.j.innes@gmail.com""}",679.0,63
+Clojure,LightTable,2014-08-23,1,1,"#{""joshuafcole@gmail.com""}",680.0,63
+Clojure,LightTable,2014-08-24,3,2,"#{""sean@lineonpoint.com"" ""mike.j.innes@gmail.com""}",683.0,63
+Clojure,LightTable,2014-08-25,2,1,"#{""joshuafcole@gmail.com""}",685.0,63
+Clojure,LightTable,2014-08-26,1,1,"#{""sean@lineonpoint.com""}",686.0,63
+Clojure,LightTable,2014-08-27,3,1,"#{""joshuafcole@gmail.com""}",689.0,63
+Clojure,LightTable,2014-08-29,4,1,"#{""gabriel.horner@gmail.com""}",693.0,63
+Clojure,LightTable,2014-08-31,1,1,"#{""eric.a.pritchett.che@gmail.com""}",694.0,63
+Clojure,LightTable,2014-09-01,1,1,"#{""eric.a.pritchett.che@gmail.com""}",695.0,63
+Clojure,LightTable,2014-09-02,6,1,"#{""ibdknox@gmail.com""}",701.0,63
+Clojure,LightTable,2014-09-03,4,3,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com"" ""mike.j.innes@gmail.com""}",705.0,63
+Clojure,LightTable,2014-09-10,2,1,"#{""ibdknox@gmail.com""}",707.0,63
+Clojure,LightTable,2014-09-11,1,1,"#{""mike.j.innes@gmail.com""}",708.0,63
+Clojure,LightTable,2014-09-14,2,1,"#{""ibdknox@gmail.com""}",710.0,63
+Clojure,LightTable,2014-09-15,2,1,"#{""ibdknox@gmail.com""}",712.0,63
+Clojure,LightTable,2014-09-20,1,1,"#{""gabriel.horner@gmail.com""}",713.0,63
+Clojure,LightTable,2014-09-22,1,1,"#{""ibdknox@gmail.com""}",714.0,63
+Clojure,LightTable,2014-09-24,1,1,"#{""ibdknox@gmail.com""}",715.0,63
+Clojure,LightTable,2014-10-03,5,1,"#{""gabriel.horner@gmail.com""}",720.0,63
+Clojure,LightTable,2014-10-07,3,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",723.0,63
+Clojure,LightTable,2014-10-14,3,1,"#{""brabadu@gmail.com""}",726.0,64
+Clojure,LightTable,2014-10-15,6,3,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com"" ""brabadu@gmail.com""}",732.0,64
+Clojure,LightTable,2014-10-17,4,1,"#{""brabadu@gmail.com""}",736.0,64
+Clojure,LightTable,2014-10-18,8,2,"#{""gabriel.horner@gmail.com"" ""brabadu@gmail.com""}",744.0,64
+Clojure,LightTable,2014-10-19,3,2,"#{""gabriel.horner@gmail.com"" ""brabadu@gmail.com""}",747.0,64
+Clojure,LightTable,2014-10-20,4,1,"#{""gabriel.horner@gmail.com""}",751.0,64
+Clojure,LightTable,2014-10-21,1,1,"#{""gabriel.horner@gmail.com""}",752.0,64
+Clojure,LightTable,2014-10-22,1,1,"#{""mike.j.innes@gmail.com""}",753.0,64
+Clojure,LightTable,2014-10-23,2,1,"#{""gabriel.horner@gmail.com""}",755.0,64
+Clojure,LightTable,2014-10-24,4,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",759.0,64
+Clojure,LightTable,2014-10-25,7,3,"#{""thebost@gmail.com"" ""gabriel.horner@gmail.com"" ""brabadu@gmail.com""}",766.0,64
+Clojure,LightTable,2014-10-27,6,1,"#{""ibdknox@gmail.com""}",772.0,64
+Clojure,LightTable,2014-10-28,1,1,"#{""brabadu@gmail.com""}",773.0,64
+Clojure,LightTable,2014-11-01,1,1,"#{""gabriel.horner@gmail.com""}",774.0,64
+Clojure,LightTable,2014-11-03,1,1,"#{""gabriel.horner@gmail.com""}",775.0,64
+Clojure,LightTable,2014-11-04,3,2,"#{""gabriel.horner@gmail.com"" ""brabadu@gmail.com""}",778.0,64
+Clojure,LightTable,2014-11-05,2,2,"#{""gabriel.horner@gmail.com"" ""brabadu@gmail.com""}",780.0,64
+Clojure,LightTable,2014-11-06,1,1,"#{""mike.j.innes@gmail.com""}",781.0,64
+Clojure,LightTable,2014-11-07,4,1,"#{""gabriel.horner@gmail.com""}",785.0,64
+Clojure,LightTable,2014-11-08,3,2,"#{""gabriel.horner@gmail.com"" ""mike.j.innes@gmail.com""}",788.0,64
+Clojure,LightTable,2014-11-09,4,1,"#{""gabriel.horner@gmail.com""}",792.0,64
+Clojure,LightTable,2014-11-11,2,1,"#{""ibdknox@gmail.com""}",794.0,64
+Clojure,LightTable,2014-11-12,1,1,"#{""ibdknox@gmail.com""}",795.0,64
+Clojure,LightTable,2014-11-13,4,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",799.0,64
+Clojure,LightTable,2014-11-15,15,3,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com"" ""brabadu@gmail.com""}",814.0,64
+Clojure,LightTable,2014-11-16,3,1,"#{""gabriel.horner@gmail.com""}",817.0,64
+Clojure,LightTable,2014-11-18,12,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",829.0,64
+Clojure,LightTable,2014-11-19,13,3,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com"" ""mike.j.innes@gmail.com""}",842.0,64
+Clojure,LightTable,2014-11-20,8,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",850.0,64
+Clojure,LightTable,2014-11-21,1,1,"#{""gabriel.horner@gmail.com""}",851.0,64
+Clojure,LightTable,2014-11-27,4,1,"#{""gabriel.horner@gmail.com""}",855.0,64
+Clojure,LightTable,2014-11-28,3,2,"#{""shamrin@gmail.com"" ""gabriel.horner@gmail.com""}",858.0,65
+Clojure,LightTable,2014-11-29,1,1,"#{""gabriel.horner@gmail.com""}",859.0,65
+Clojure,LightTable,2014-11-30,6,2,"#{""gabriel.horner@gmail.com"" ""mike.j.innes@gmail.com""}",865.0,65
+Clojure,LightTable,2014-12-01,1,1,"#{""gabriel.horner@gmail.com""}",866.0,65
+Clojure,LightTable,2014-12-02,1,1,"#{""gabriel.horner@gmail.com""}",867.0,65
+Clojure,LightTable,2014-12-06,7,1,"#{""gabriel.horner@gmail.com""}",874.0,65
+Clojure,LightTable,2014-12-07,1,1,"#{""mike.j.innes@gmail.com""}",875.0,65
+Clojure,LightTable,2014-12-08,8,2,"#{""gabriel.horner@gmail.com"" ""mike.j.innes@gmail.com""}",883.0,65
+Clojure,LightTable,2014-12-09,6,2,"#{""gabriel.horner@gmail.com"" ""mike.j.innes@gmail.com""}",889.0,65
+Clojure,LightTable,2014-12-10,7,2,"#{""gabriel.horner@gmail.com"" ""mike.j.innes@gmail.com""}",896.0,65
+Clojure,LightTable,2014-12-11,2,1,"#{""mike.j.innes@gmail.com""}",898.0,65
+Clojure,LightTable,2014-12-12,1,1,"#{""gabriel.horner@gmail.com""}",899.0,65
+Clojure,LightTable,2014-12-13,6,3,"#{""joshuafcole@gmail.com"" ""gabriel.horner@gmail.com"" ""mike.j.innes@gmail.com""}",905.0,65
+Clojure,LightTable,2014-12-16,7,2,"#{""gabriel.horner@gmail.com"" ""mike.j.innes@gmail.com""}",912.0,65
+Clojure,LightTable,2014-12-17,3,1,"#{""gabriel.horner@gmail.com""}",915.0,65
+Clojure,LightTable,2014-12-18,1,1,"#{""gabriel.horner@gmail.com""}",916.0,65
+Clojure,LightTable,2014-12-19,4,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",920.0,65
+Clojure,LightTable,2014-12-22,3,1,"#{""gabriel.horner@gmail.com""}",923.0,65
+Clojure,LightTable,2014-12-23,1,1,"#{""gabriel.horner@gmail.com""}",924.0,65
+Clojure,LightTable,2014-12-26,2,1,"#{""gabriel.horner@gmail.com""}",926.0,65
+Clojure,LightTable,2014-12-28,3,1,"#{""gabriel.horner@gmail.com""}",929.0,65
+Clojure,LightTable,2014-12-29,1,1,"#{""gabriel.horner@gmail.com""}",930.0,65
+Clojure,LightTable,2014-12-30,4,1,"#{""gabriel.horner@gmail.com""}",934.0,65
+Clojure,LightTable,2014-12-31,3,1,"#{""gabriel.horner@gmail.com""}",937.0,65
+Clojure,LightTable,2015-01-01,3,1,"#{""gabriel.horner@gmail.com""}",940.0,65
+Clojure,LightTable,2015-01-02,1,1,"#{""gabriel.horner@gmail.com""}",941.0,65
+Clojure,LightTable,2015-01-03,1,1,"#{""gabriel.horner@gmail.com""}",942.0,65
+Clojure,LightTable,2015-01-04,3,1,"#{""gabriel.horner@gmail.com""}",945.0,65
+Clojure,LightTable,2015-01-05,2,1,"#{""gabriel.horner@gmail.com""}",947.0,65
+Clojure,LightTable,2015-01-08,2,2,"#{""joshuafcole@gmail.com"" ""ibdknox@gmail.com""}",949.0,65
+Clojure,LightTable,2015-01-09,1,1,"#{""joshuafcole@gmail.com""}",950.0,65
+Clojure,LightTable,2015-01-10,1,1,"#{""jakub.fojtl@ysoft.com""}",951.0,66
+Clojure,LightTable,2015-01-11,2,1,"#{""gabriel.horner@gmail.com""}",953.0,66
+Clojure,LightTable,2015-01-12,2,1,"#{""gabriel.horner@gmail.com""}",955.0,66
+Clojure,LightTable,2015-01-13,1,1,"#{""steven.cordwell@uqconnect.edu.au""}",956.0,67
+Clojure,LightTable,2015-01-15,1,1,"#{""gabriel.horner@gmail.com""}",957.0,67
+Clojure,LightTable,2015-01-16,2,1,"#{""gabriel.horner@gmail.com""}",959.0,67
+Clojure,LightTable,2015-01-24,1,1,"#{""gabriel.horner@gmail.com""}",960.0,67
+Clojure,LightTable,2015-01-25,4,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",964.0,67
+Clojure,LightTable,2015-01-27,3,1,"#{""gabriel.horner@gmail.com""}",967.0,67
+Clojure,LightTable,2015-01-28,3,3,"#{""ohAitch@gmail.com"" ""joshuafcole@gmail.com"" ""gabriel.horner@gmail.com""}",970.0,68
+Clojure,LightTable,2015-01-30,3,2,"#{""gabriel.horner@gmail.com"" ""ibdknox@gmail.com""}",973.0,68
+Clojure,LightTable,2015-01-31,1,1,"#{""snufkon@gmail.com""}",974.0,68
+Clojure,LightTable,2015-02-06,1,1,"#{""gabriel.horner@gmail.com""}",975.0,68
+Clojure,LightTable,2015-02-08,2,1,"#{""ibdknox@gmail.com""}",977.0,68
+Clojure,LightTable,2015-02-27,4,2,"#{""alhimik45@gmail.com"" ""gabriel.horner@gmail.com""}",981.0,69
+Clojure,LightTable,2015-02-28,1,1,"#{""thewhitetulip@users.noreply.github.com""}",982.0,70
+Clojure,LightTable,2015-03-05,1,1,"#{""ibdknox@gmail.com""}",983.0,70
+Clojure,LightTable,2015-03-06,2,1,"#{""gabriel.horner@gmail.com""}",985.0,70
+Clojure,LightTable,2015-03-07,1,1,"#{""ibdknox@gmail.com""}",986.0,70
+Clojure,LightTable,2015-03-21,3,1,"#{""ibdknox@gmail.com""}",989.0,70
+Clojure,LightTable,2015-03-23,2,1,"#{""ibdknox@gmail.com""}",991.0,70
+Clojure,LightTable,2015-04-23,3,1,"#{""martinchooooooo@gmail.com""}",994.0,71
+Clojure,LightTable,2015-05-01,1,1,"#{""lngm1@hotmail.com""}",995.0,72
+Clojure,LightTable,2015-06-14,4,1,"#{""kenny.evitt@gmail.com""}",999.0,73
+Clojure,LightTable,2015-06-16,2,2,"#{""kenny.evitt@gmail.com"" ""mrundberget@hotmail.com""}",1001.0,74
+Clojure,LightTable,2015-06-17,1,1,"#{""daniel.korner@tu-dortmund.de""}",1002.0,75
+Clojure,LightTable,2015-06-23,1,1,"#{""kevitt@recp.com""}",1003.0,76
+Clojure,LightTable,2015-06-24,3,2,"#{""kenny.evitt@gmail.com"" ""mrundberget@hotmail.com""}",1006.0,76
+Clojure,LightTable,2015-06-26,2,2,"#{""benjamin.vanryseghem@gmail.com"" ""kenny.evitt@gmail.com""}",1008.0,77
+Clojure,LightTable,2015-07-01,2,2,"#{""kenny.evitt@gmail.com"" ""badger@gitter.im""}",1010.0,78
+Clojure,LightTable,2015-07-02,2,2,"#{""kenny.evitt@gmail.com"" ""mrundberget@hotmail.com""}",1012.0,78
+Clojure,LightTable,2015-07-08,1,1,"#{""martinchooooooo@gmail.com""}",1013.0,78
+Clojure,LightTable,2015-07-10,1,1,"#{""kenny.evitt@gmail.com""}",1014.0,78
+Clojure,LightTable,2015-07-12,1,1,"#{""brabadu@gmail.com""}",1015.0,78
+Clojure,LightTable,2015-07-14,2,2,"#{""kenny.evitt@gmail.com"" ""mrundberget@hotmail.com""}",1017.0,78
+Clojure,LightTable,2015-07-15,2,1,"#{""kenny.evitt@gmail.com""}",1019.0,78
+Clojure,LightTable,2015-08-23,2,2,"#{""benjamin.vanryseghem@gmail.com"" ""gabriel.horner@gmail.com""}",1021.0,78
+Clojure,LightTable,2015-08-24,1,1,"#{""gabriel.horner@gmail.com""}",1022.0,78
+Clojure,LightTable,2015-08-25,2,1,"#{""gabriel.horner@gmail.com""}",1024.0,78
+Clojure,LightTable,2015-08-26,2,1,"#{""gabriel.horner@gmail.com""}",1026.0,78
+Clojure,LightTable,2015-08-27,3,1,"#{""gabriel.horner@gmail.com""}",1029.0,78
+Clojure,LightTable,2015-08-28,4,1,"#{""gabriel.horner@gmail.com""}",1033.0,78
+Clojure,LightTable,2015-08-30,1,1,"#{""gabriel.horner@gmail.com""}",1034.0,78
+Clojure,LightTable,2015-08-31,3,1,"#{""gabriel.horner@gmail.com""}",1037.0,78
+Clojure,LightTable,2015-09-01,1,1,"#{""kevitt@recp.com""}",1038.0,78
+Clojure,LightTable,2015-09-02,1,1,"#{""mrundberget@hotmail.com""}",1039.0,78
+Clojure,LightTable,2015-09-03,1,1,"#{""gabriel.horner@gmail.com""}",1040.0,78
+Clojure,LightTable,2015-09-07,2,1,"#{""gabriel.horner@gmail.com""}",1042.0,78
+Clojure,LightTable,2015-09-09,1,1,"#{""kevitt@recp.com""}",1043.0,78
+Clojure,LightTable,2015-09-10,3,2,"#{""kenny.evitt@gmail.com"" ""gabriel.horner@gmail.com""}",1046.0,78
+Clojure,LightTable,2015-09-11,1,1,"#{""mrundberget@hotmail.com""}",1047.0,78
+Clojure,LightTable,2015-09-14,1,1,"#{""gabriel.horner@gmail.com""}",1048.0,78
+Clojure,LightTable,2015-09-15,1,1,"#{""gabriel.horner@gmail.com""}",1049.0,78
+Clojure,LightTable,2015-09-16,1,1,"#{""kevitt@recp.com""}",1050.0,78
+Clojure,LightTable,2015-09-20,2,1,"#{""gabriel.horner@gmail.com""}",1052.0,78
+Clojure,LightTable,2015-09-21,3,1,"#{""gabriel.horner@gmail.com""}",1055.0,78
+Clojure,LightTable,2015-09-22,5,2,"#{""kevitt@recp.com"" ""gabriel.horner@gmail.com""}",1060.0,78
+Clojure,LightTable,2015-09-23,5,1,"#{""gabriel.horner@gmail.com""}",1065.0,78
+Clojure,LightTable,2015-09-28,3,2,"#{""kenny.evitt@gmail.com"" ""kevitt@recp.com""}",1068.0,78
+Clojure,LightTable,2015-10-13,1,1,"#{""mrundberget@hotmail.com""}",1069.0,78
+Clojure,LightTable,2015-10-16,1,1,"#{""dmitriy.rozhkov@xing.com""}",1070.0,79
+Clojure,LightTable,2015-10-22,1,1,"#{""mrundberget@hotmail.com""}",1071.0,79
+Clojure,LightTable,2015-10-24,2,2,"#{""gabriel.horner@gmail.com"" ""christophegragnic@gmail.com""}",1073.0,80
+Clojure,LightTable,2015-11-06,4,1,"#{""gabriel.horner@gmail.com""}",1077.0,80
+Clojure,LightTable,2015-11-07,1,1,"#{""gabriel.horner@gmail.com""}",1078.0,80
+Clojure,LightTable,2015-11-16,1,1,"#{""mrundberget@hotmail.com""}",1079.0,80
+Clojure,LightTable,2015-11-18,2,2,"#{""kenny.evitt@gmail.com"" ""kevitt@recp.com""}",1081.0,80
+Clojure,LightTable,2015-11-21,1,1,"#{""mrundberget@hotmail.com""}",1082.0,80
+Clojure,LightTable,2015-11-22,1,1,"#{""gabriel.horner@gmail.com""}",1083.0,80
+Clojure,LightTable,2015-11-30,2,1,"#{""gabriel.horner@gmail.com""}",1085.0,80
+Clojure,LightTable,2015-12-01,1,1,"#{""gabriel.horner@gmail.com""}",1086.0,80
+Clojure,LightTable,2015-12-02,2,1,"#{""gabriel.horner@gmail.com""}",1088.0,80
+Clojure,LightTable,2015-12-03,2,1,"#{""gabriel.horner@gmail.com""}",1090.0,80
+Clojure,LightTable,2015-12-04,6,1,"#{""gabriel.horner@gmail.com""}",1096.0,80
+Clojure,LightTable,2015-12-05,5,2,"#{""thebost@gmail.com"" ""gabriel.horner@gmail.com""}",1101.0,80
+Clojure,LightTable,2015-12-06,10,2,"#{""kenny.evitt@gmail.com"" ""gabriel.horner@gmail.com""}",1111.0,80
+Clojure,LightTable,2015-12-08,5,2,"#{""kenny.evitt@gmail.com"" ""gabriel.horner@gmail.com""}",1116.0,80
+Clojure,LightTable,2015-12-10,5,2,"#{""kevitt@recp.com"" ""gabriel.horner@gmail.com""}",1121.0,80
+Clojure,LightTable,2015-12-11,2,1,"#{""gabriel.horner@gmail.com""}",1123.0,80
+Clojure,LightTable,2015-12-12,2,1,"#{""gabriel.horner@gmail.com""}",1125.0,80
+Clojure,LightTable,2015-12-13,6,3,"#{""kenny.evitt@gmail.com"" ""ryan.q@linux.com"" ""gabriel.horner@gmail.com""}",1131.0,81
+Clojure,LightTable,2015-12-16,3,1,"#{""gabriel.horner@gmail.com""}",1134.0,81
+Clojure,LightTable,2015-12-27,1,1,"#{""gabriel.horner@gmail.com""}",1135.0,81
+Clojure,LightTable,2015-12-31,1,1,"#{""gabriel.horner@gmail.com""}",1136.0,81
+Clojure,LightTable,2016-01-01,3,1,"#{""gabriel.horner@gmail.com""}",1139.0,81
+Clojure,LightTable,2016-01-02,1,1,"#{""gabriel.horner@gmail.com""}",1140.0,81
+Clojure,LightTable,2016-01-03,3,2,"#{""teachmefly@gmail.com"" ""gabriel.horner@gmail.com""}",1143.0,82
+Clojure,LightTable,2016-01-05,3,2,"#{""teachmefly@gmail.com"" ""gabriel.horner@gmail.com""}",1146.0,82
+Clojure,LightTable,2016-01-06,4,1,"#{""gabriel.horner@gmail.com""}",1150.0,82
+Clojure,LightTable,2016-01-07,2,1,"#{""gabriel.horner@gmail.com""}",1152.0,82
+Clojure,LightTable,2016-01-08,1,1,"#{""gabriel.horner@gmail.com""}",1153.0,82
+Clojure,LightTable,2016-01-09,10,1,"#{""gabriel.horner@gmail.com""}",1163.0,82
+Clojure,LightTable,2016-01-10,3,1,"#{""gabriel.horner@gmail.com""}",1166.0,82
+Clojure,LightTable,2016-01-11,5,1,"#{""gabriel.horner@gmail.com""}",1171.0,82
+Clojure,LightTable,2016-01-12,2,1,"#{""gabriel.horner@gmail.com""}",1173.0,82
+Clojure,LightTable,2016-01-14,3,1,"#{""gabriel.horner@gmail.com""}",1176.0,82
+Clojure,LightTable,2016-01-16,4,1,"#{""gabriel.horner@gmail.com""}",1180.0,82
+Clojure,LightTable,2016-01-17,4,1,"#{""gabriel.horner@gmail.com""}",1184.0,82
+Clojure,LightTable,2016-01-19,4,2,"#{""kevitt@recp.com"" ""gabriel.horner@gmail.com""}",1188.0,82
+Clojure,LightTable,2016-01-20,3,2,"#{""kenny.evitt@gmail.com"" ""gabriel.horner@gmail.com""}",1191.0,82
+Clojure,LightTable,2016-01-21,13,3,"#{""kenny.evitt@gmail.com"" ""kevitt@recp.com"" ""gabriel.horner@gmail.com""}",1204.0,82
+Clojure,LightTable,2016-02-09,3,1,"#{""gabriel.horner@gmail.com""}",1207.0,82
+Clojure,LightTable,2016-03-18,1,1,"#{""gabriel.horner@gmail.com""}",1208.0,82
+Clojure,LightTable,2016-03-19,1,1,"#{""gabriel.horner@gmail.com""}",1209.0,82
+Clojure,LightTable,2016-04-05,1,1,"#{""kevitt@recp.com""}",1210.0,82
+Clojure,LightTable,2016-04-18,1,1,"#{""kenny.evitt@gmail.com""}",1211.0,82
+Clojure,LightTable,2016-04-30,1,1,"#{""kenny.evitt@gmail.com""}",1212.0,82
+Clojure,LightTable,2016-05-13,1,1,"#{""gabriel.horner@gmail.com""}",1213.0,82
+Clojure,LightTable,2016-05-29,1,1,"#{""me@michael-brown.net""}",1214.0,83
+Clojure,LightTable,2016-06-05,1,1,"#{""kenny.evitt@gmail.com""}",1215.0,83
+Clojure,LightTable,2016-06-10,1,1,"#{""kenny.evitt@gmail.com""}",1216.0,83
+Clojure,LightTable,2016-06-11,1,1,"#{""kenny.evitt@gmail.com""}",1217.0,83
+Clojure,LightTable,2016-06-14,1,1,"#{""kevitt@recp.com""}",1218.0,83
+Clojure,LightTable,2016-06-16,1,1,"#{""sbauer322@gmail.com""}",1219.0,84
+Clojure,LightTable,2016-06-23,1,1,"#{""kenny.evitt@gmail.com""}",1220.0,84
+Clojure,LightTable,2016-07-25,1,1,"#{""tomtau@hku.hk""}",1221.0,85
+Clojure,LightTable,2016-08-14,2,1,"#{""kenny.evitt@gmail.com""}",1223.0,85
+Clojure,LightTable,2016-08-20,2,1,"#{""sbauer322@gmail.com""}",1225.0,85
+Clojure,LightTable,2016-08-25,3,1,"#{""mrundberget@hotmail.com""}",1228.0,85
+Clojure,LightTable,2016-08-30,1,1,"#{""sbauer322@gmail.com""}",1229.0,85
+Clojure,LightTable,2016-09-03,3,2,"#{""kenny.evitt@gmail.com"" ""Mouvedia@users.noreply.github.com""}",1232.0,86
+Clojure,LightTable,2016-09-05,2,1,"#{""ibdknox@gmail.com""}",1234.0,86
+Clojure,LightTable,2016-09-10,2,1,"#{""kenny.evitt@gmail.com""}",1236.0,86
+Clojure,LightTable,2016-09-11,1,1,"#{""mrundberget@hotmail.com""}",1237.0,86
+Clojure,LightTable,2016-09-16,2,1,"#{""sbauer322@gmail.com""}",1239.0,86
+Clojure,LightTable,2016-09-17,2,1,"#{""sbauer322@gmail.com""}",1241.0,86
+Clojure,LightTable,2016-09-25,1,1,"#{""sbauer322@gmail.com""}",1242.0,86
+Clojure,LightTable,2016-10-04,1,1,"#{""sbauer322@gmail.com""}",1243.0,86
+Clojure,LightTable,2016-10-05,1,1,"#{""sbauer322@gmail.com""}",1244.0,86
+Clojure,LightTable,2016-10-09,1,1,"#{""sbauer322@gmail.com""}",1245.0,86
+Clojure,LightTable,2016-11-08,1,1,"#{""chris.etheridge@cognician.com""}",1246.0,87
+Clojure,LightTable,2016-11-28,1,1,"#{""sbauer322@gmail.com""}",1247.0,87
+Clojure,LightTable,2016-12-17,1,1,"#{""sbauer322@gmail.com""}",1248.0,87
+Clojure,LightTable,2016-12-21,1,1,"#{""sbauer322@gmail.com""}",1249.0,87
+Clojure,LightTable,2016-12-29,1,1,"#{""olivbruno8@gmail.com""}",1250.0,88
+Clojure,LightTable,2017-01-29,1,1,"#{""sbauer322@gmail.com""}",1251.0,88
+Clojure,LightTable,2017-01-30,3,2,"#{""sbauer322@gmail.com"" ""myg133@qq.com""}",1254.0,89
+Clojure,LightTable,2017-02-07,1,1,"#{""github@hoffer.org""}",1255.0,90
+Clojure,LightTable,2017-02-12,1,1,"#{""sbauer322@gmail.com""}",1256.0,90
+Clojure,LightTable,2017-04-10,2,2,"#{""TimothyDJewell@gmail.com"" ""sbauer322@gmail.com""}",1258.0,91
+Clojure,LightTable,2017-05-10,1,1,"#{""peterdepaulo@gmail.com""}",1259.0,92
+Clojure,LightTable,2017-10-06,1,1,"#{""naylyn.gaffney@gmail.com""}",1260.0,93
+Clojure,LightTable,2017-10-16,3,1,"#{""naylyn.gaffney@gmail.com""}",1263.0,93
+Clojure,LightTable,2018-04-18,1,1,"#{""github@hoffer.org""}",1264.0,93
+Clojure,LightTable,2018-05-29,1,1,"#{""denis.grebennicov@check24.de""}",1265.0,94
+Clojure,LightTable,2018-05-30,1,1,"#{""sbauer322@gmail.com""}",1266.0,94
+Clojure,LightTable,2018-05-31,11,2,"#{""sbauer322@gmail.com"" ""denis.grebennicov@check24.de""}",1277.0,94
+Clojure,LightTable,2018-06-01,1,1,"#{""sbauer322@gmail.com""}",1278.0,94
+Clojure,LightTable,2018-06-02,1,1,"#{""sbauer322@gmail.com""}",1279.0,94
+Clojure,LightTable,2018-06-14,1,1,"#{""leontalbot@gmail.com""}",1280.0,95
+Clojure,LightTable,2018-07-02,1,1,"#{""sbauer322@gmail.com""}",1281.0,95
+Clojure,LightTable,2018-12-27,2,1,"#{""predatoramigo@gmail.com""}",1283.0,96
+Clojure,LightTable,2019-01-03,1,1,"#{""predatoramigo@gmail.com""}",1284.0,96
+Clojure,LightTable,2019-01-06,1,1,"#{""sbauer322@gmail.com""}",1285.0,96
+Clojure,LightTable,2019-01-18,1,1,"#{""predatoramigo@gmail.com""}",1286.0,96
+Clojure,LightTable,2019-02-10,2,1,"#{""predatoramigo@gmail.com""}",1288.0,96
+Clojure,LightTable,2019-02-11,2,2,"#{""predatoramigo@gmail.com"" ""whitesource-bolt-for-github[bot]@users.noreply.github.com""}",1290.0,97
+Clojure,LightTable,2019-02-12,6,1,"#{""predatoramigo@gmail.com""}",1296.0,97
+Clojure,LightTable,2019-02-13,2,1,"#{""predatoramigo@gmail.com""}",1298.0,97
+Clojure,LightTable,2019-03-01,1,1,"#{""predatoramigo@gmail.com""}",1299.0,97
+Clojure,LightTable,2019-03-05,1,1,"#{""predatoramigo@gmail.com""}",1300.0,97
+Clojure,LightTable,2019-03-07,1,1,"#{""predatoramigo@gmail.com""}",1301.0,97
+Clojure,LightTable,2019-03-09,1,1,"#{""whitesource-bolt-for-github[bot]@users.noreply.github.com""}",1302.0,97
+Clojure,LightTable,2019-04-02,1,1,"#{""predatoramigo@gmail.com""}",1303.0,97
+Clojure,LightTable,2019-04-03,1,1,"#{""predatoramigo@gmail.com""}",1304.0,97
+Clojure,LightTable,2019-04-11,1,1,"#{""predatoramigo@gmail.com""}",1305.0,97
+Clojure,LightTable,2019-07-11,1,1,"#{""42819689+whitesource-bolt-for-github[bot]@users.noreply.github.com""}",1306.0,98
+Clojure,LightTable,2019-09-18,1,1,"#{""algoshipda@gmail.com""}",1307.0,99
+Clojure,LightTable,2019-12-16,1,1,"#{""predatoramigo@gmail.com""}",1308.0,99
+Clojure,LightTable,2020-01-15,2,1,"#{""predatoramigo@gmail.com""}",1310.0,99
+Clojure,LightTable,2020-01-16,5,1,"#{""predatoramigo@gmail.com""}",1315.0,99
+Clojure,LightTable,2020-01-20,5,1,"#{""predatoramigo@gmail.com""}",1320.0,99
+Clojure,LightTable,2020-01-22,2,1,"#{""predatoramigo@gmail.com""}",1322.0,99
+Clojure,LightTable,2020-10-25,7,1,"#{""predatoramigo@gmail.com""}",1329.0,99
+Clojure,LightTable,2021-04-10,4,1,"#{""prertik@prertik.com""}",1333.0,100
+Clojure,LightTable,2021-06-05,4,1,"#{""pratik@prertik.com""}",1337.0,101
+Clojure,LightTable,2021-06-21,1,1,"#{""pratik@prertik.com""}",1338.0,101
+Clojure,LightTable,2021-06-25,7,1,"#{""pratik@prertik.com""}",1345.0,101

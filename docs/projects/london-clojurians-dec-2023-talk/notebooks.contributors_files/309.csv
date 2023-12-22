@@ -1,0 +1,540 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,plumatic,2013-01-13,5,1,"#{""me@aria42.com""}",5.0,1
+Clojure,plumatic,2013-01-14,1,1,"#{""me@aria42.com""}",6.0,1
+Clojure,plumatic,2013-01-16,5,2,"#{""cpetzold@gmail.com"" ""me@aria42.com""}",11.0,2
+Clojure,plumatic,2013-01-17,14,3,"#{""ibdknox@gmail.com"" ""me@aria42.com"" ""jonrose08@gmail.com""}",25.0,4
+Clojure,plumatic,2013-01-18,3,2,"#{""m@qbits.cc"" ""me@aria42.com""}",28.0,5
+Clojure,plumatic,2013-01-21,4,1,"#{""me@aria42.com""}",32.0,5
+Clojure,plumatic,2013-01-22,3,2,"#{""michael.van.acken@gmail.com"" ""me@aria42.com""}",35.0,6
+Clojure,plumatic,2013-01-24,3,2,"#{""jason@w01fe.com"" ""me@aria42.com""}",38.0,7
+Clojure,plumatic,2013-01-25,17,3,"#{""steve@sanityinc.com"" ""jason@w01fe.com"" ""me@aria42.com""}",55.0,8
+Clojure,plumatic,2013-01-27,3,3,"#{""atkaaz@gmail.com"" ""jason@w01fe.com"" ""me@aria42.com""}",58.0,9
+Clojure,plumatic,2013-01-28,11,3,"#{""cpetzold@gmail.com"" ""jason@w01fe.com"" ""me@aria42.com""}",69.0,9
+Clojure,plumatic,2013-01-29,9,3,"#{""cpetzold@gmail.com"" ""jason@w01fe.com"" ""me@aria42.com""}",78.0,9
+Clojure,plumatic,2013-01-30,7,3,"#{""cpetzold@gmail.com"" ""me@bjeanes.com"" ""jason@w01fe.com""}",85.0,10
+Clojure,plumatic,2013-01-31,2,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",87.0,10
+Clojure,plumatic,2013-02-03,5,2,"#{""jason@w01fe.com"" ""me@aria42.com""}",92.0,10
+Clojure,plumatic,2013-02-04,3,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",95.0,10
+Clojure,plumatic,2013-02-06,2,2,"#{""m@qbits.cc"" ""davesann.p@gmail.com""}",97.0,11
+Clojure,plumatic,2013-02-07,2,1,"#{""me@aria42.com""}",99.0,11
+Clojure,plumatic,2013-02-08,4,2,"#{""cpetzold@gmail.com"" ""me@aria42.com""}",103.0,11
+Clojure,plumatic,2013-02-09,13,2,"#{""davesann.p@gmail.com"" ""me@aria42.com""}",116.0,11
+Clojure,plumatic,2013-02-12,4,1,"#{""jason@w01fe.com""}",120.0,11
+Clojure,plumatic,2013-02-13,1,1,"#{""jason@w01fe.com""}",121.0,11
+Clojure,plumatic,2013-02-17,1,1,"#{""jason@w01fe.com""}",122.0,11
+Clojure,plumatic,2013-02-19,2,1,"#{""cpetzold@gmail.com""}",124.0,11
+Clojure,plumatic,2013-02-20,5,2,"#{""cpetzold@gmail.com"" ""malcolm@congreve.com""}",129.0,12
+Clojure,plumatic,2013-02-21,7,2,"#{""cpetzold@gmail.com"" ""me@aria42.com""}",136.0,12
+Clojure,plumatic,2013-02-22,5,2,"#{""cpetzold@gmail.com"" ""laughinghan@gmail.com""}",141.0,13
+Clojure,plumatic,2013-02-23,1,1,"#{""jason@w01fe.com""}",142.0,13
+Clojure,plumatic,2013-02-26,15,3,"#{""cpetzold@gmail.com"" ""aaron@getprismatic.com"" ""jason@w01fe.com""}",157.0,14
+Clojure,plumatic,2013-02-27,6,3,"#{""cpetzold@gmail.com"" ""walter.wehner@BEEBE.ekahau.com"" ""jason@w01fe.com""}",163.0,15
+Clojure,plumatic,2013-02-28,7,3,"#{""cpetzold@gmail.com"" ""laughinghan@gmail.com"" ""ian@getprismatic.com""}",170.0,16
+Clojure,plumatic,2013-03-01,11,3,"#{""cpetzold@gmail.com"" ""laughinghan@gmail.com"" ""ian@getprismatic.com""}",181.0,16
+Clojure,plumatic,2013-03-07,4,2,"#{""cpetzold@gmail.com"" ""laughinghan@gmail.com""}",185.0,16
+Clojure,plumatic,2013-03-08,5,1,"#{""laughinghan@gmail.com""}",190.0,16
+Clojure,plumatic,2013-03-11,8,2,"#{""cpetzold@gmail.com"" ""laughinghan@gmail.com""}",198.0,16
+Clojure,plumatic,2013-03-12,1,1,"#{""abeppu@gmail.com""}",199.0,17
+Clojure,plumatic,2013-03-13,2,1,"#{""cpetzold@gmail.com""}",201.0,17
+Clojure,plumatic,2013-03-14,1,1,"#{""laughinghan@gmail.com""}",202.0,17
+Clojure,plumatic,2013-03-15,1,1,"#{""cpetzold@gmail.com""}",203.0,17
+Clojure,plumatic,2013-03-17,1,1,"#{""jason@w01fe.com""}",204.0,17
+Clojure,plumatic,2013-03-18,4,4,"#{""cpetzold@gmail.com"" ""laughinghan@gmail.com"" ""jason@w01fe.com"" ""ian@getprismatic.com""}",208.0,17
+Clojure,plumatic,2013-03-19,1,1,"#{""ian@getprismatic.com""}",209.0,17
+Clojure,plumatic,2013-03-20,2,1,"#{""ian@getprismatic.com""}",211.0,17
+Clojure,plumatic,2013-03-21,1,1,"#{""ian@getprismatic.com""}",212.0,17
+Clojure,plumatic,2013-03-22,1,1,"#{""me@aria42.com""}",213.0,17
+Clojure,plumatic,2013-03-24,1,1,"#{""me@aria42.com""}",214.0,17
+Clojure,plumatic,2013-03-25,1,1,"#{""cpetzold@gmail.com""}",215.0,17
+Clojure,plumatic,2013-03-27,9,1,"#{""ian@getprismatic.com""}",224.0,17
+Clojure,plumatic,2013-03-28,7,2,"#{""laughinghan@gmail.com"" ""ian@getprismatic.com""}",231.0,17
+Clojure,plumatic,2013-03-29,3,1,"#{""laughinghan@gmail.com""}",234.0,17
+Clojure,plumatic,2013-03-31,7,1,"#{""me@aria42.com""}",241.0,17
+Clojure,plumatic,2013-04-01,6,2,"#{""cpetzold@gmail.com"" ""me@aria42.com""}",247.0,17
+Clojure,plumatic,2013-04-03,1,1,"#{""ian@getprismatic.com""}",248.0,17
+Clojure,plumatic,2013-04-04,1,1,"#{""cpetzold@gmail.com""}",249.0,17
+Clojure,plumatic,2013-04-06,5,1,"#{""jason@w01fe.com""}",254.0,17
+Clojure,plumatic,2013-04-08,8,3,"#{""abeppu@gmail.com"" ""ai@aaroniba.net"" ""jason@w01fe.com""}",262.0,18
+Clojure,plumatic,2013-04-09,3,2,"#{""jason@w01fe.com"" ""me@aria42.com""}",265.0,18
+Clojure,plumatic,2013-04-10,3,3,"#{""abeppu@gmail.com"" ""harri.salokorpi@reaktor.fi"" ""jason@w01fe.com""}",268.0,19
+Clojure,plumatic,2013-04-11,3,2,"#{""esa.virtanen@reaktor.fi"" ""jason@w01fe.com""}",271.0,20
+Clojure,plumatic,2013-04-12,6,2,"#{""jason@w01fe.com"" ""me@aria42.com""}",277.0,20
+Clojure,plumatic,2013-04-13,13,1,"#{""jason@w01fe.com""}",290.0,20
+Clojure,plumatic,2013-04-14,8,1,"#{""jason@w01fe.com""}",298.0,20
+Clojure,plumatic,2013-04-15,5,3,"#{""cpetzold@gmail.com"" ""abeppu@gmail.com"" ""jason@w01fe.com""}",303.0,20
+Clojure,plumatic,2013-04-16,2,2,"#{""cpetzold@gmail.com"" ""laughinghan@gmail.com""}",305.0,20
+Clojure,plumatic,2013-04-17,3,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",308.0,20
+Clojure,plumatic,2013-04-18,1,1,"#{""abeppu@gmail.com""}",309.0,20
+Clojure,plumatic,2013-04-19,1,1,"#{""jason@w01fe.com""}",310.0,20
+Clojure,plumatic,2013-04-21,13,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",323.0,20
+Clojure,plumatic,2013-04-22,3,3,"#{""cpetzold@gmail.com"" ""jrfinkel@gmail.com"" ""jason@w01fe.com""}",326.0,21
+Clojure,plumatic,2013-04-23,5,1,"#{""cpetzold@gmail.com""}",331.0,21
+Clojure,plumatic,2013-04-24,3,1,"#{""cpetzold@gmail.com""}",334.0,21
+Clojure,plumatic,2013-04-25,4,2,"#{""cpetzold@gmail.com"" ""leon@climate.com""}",338.0,22
+Clojure,plumatic,2013-04-26,4,2,"#{""cpetzold@gmail.com"" ""leon@climate.com""}",342.0,22
+Clojure,plumatic,2013-04-27,6,2,"#{""jason@w01fe.com"" ""me@aria42.com""}",348.0,22
+Clojure,plumatic,2013-04-28,14,1,"#{""jason@w01fe.com""}",362.0,22
+Clojure,plumatic,2013-04-29,7,5,"#{""cpetzold@gmail.com"" ""rm_hull@yahoo.co.uk"" ""leon@climate.com"" ""jason@w01fe.com"" ""me@aria42.com""}",369.0,23
+Clojure,plumatic,2013-04-30,8,4,"#{""cpetzold@gmail.com"" ""rm_hull@yahoo.co.uk"" ""leon@climate.com"" ""michael.van.acken@gmail.com""}",377.0,23
+Clojure,plumatic,2013-05-01,5,3,"#{""laughinghan@gmail.com"" ""leon@climate.com"" ""jason@w01fe.com""}",382.0,23
+Clojure,plumatic,2013-05-03,1,1,"#{""me@aria42.com""}",383.0,23
+Clojure,plumatic,2013-05-04,1,1,"#{""jason@w01fe.com""}",384.0,23
+Clojure,plumatic,2013-05-05,4,2,"#{""jenksb@gmail.com"" ""me@aria42.com""}",388.0,24
+Clojure,plumatic,2013-05-09,1,1,"#{""ian.wong@getprismatic.com""}",389.0,25
+Clojure,plumatic,2013-05-10,2,1,"#{""ian.wong@getprismatic.com""}",391.0,25
+Clojure,plumatic,2013-05-14,2,2,"#{""ken@restivo.org"" ""jrfinkel@gmail.com""}",393.0,26
+Clojure,plumatic,2013-05-21,1,1,"#{""me@aria42.com""}",394.0,26
+Clojure,plumatic,2013-05-27,2,1,"#{""jason@w01fe.com""}",396.0,26
+Clojure,plumatic,2013-05-29,1,1,"#{""jason@w01fe.com""}",397.0,26
+Clojure,plumatic,2013-05-31,1,1,"#{""jason+ian.wong@getprismatic.com""}",398.0,27
+Clojure,plumatic,2013-06-02,1,1,"#{""jason@w01fe.com""}",399.0,27
+Clojure,plumatic,2013-06-04,1,1,"#{""jason@w01fe.com""}",400.0,27
+Clojure,plumatic,2013-06-12,1,1,"#{""jason@w01fe.com""}",401.0,27
+Clojure,plumatic,2013-06-13,1,1,"#{""ian.wong@getprismatic.com""}",402.0,27
+Clojure,plumatic,2013-06-18,3,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",405.0,27
+Clojure,plumatic,2013-06-20,1,1,"#{""jason@w01fe.com""}",406.0,27
+Clojure,plumatic,2013-06-21,15,1,"#{""leon@climate.com""}",421.0,27
+Clojure,plumatic,2013-06-22,3,1,"#{""ehf@vinjeboy.com""}",424.0,28
+Clojure,plumatic,2013-06-23,3,1,"#{""abeppu@gmail.com""}",427.0,28
+Clojure,plumatic,2013-06-25,1,1,"#{""leon@climate.com""}",428.0,28
+Clojure,plumatic,2013-06-26,10,2,"#{""ehf@vinjeboy.com"" ""jason@w01fe.com""}",438.0,28
+Clojure,plumatic,2013-06-27,3,2,"#{""abeppu@gmail.com"" ""jungziege@gmail.com""}",441.0,29
+Clojure,plumatic,2013-06-28,9,2,"#{""jason@w01fe.com"" ""dave@getprismatic.com""}",450.0,30
+Clojure,plumatic,2013-06-29,1,1,"#{""jason@w01fe.com""}",451.0,30
+Clojure,plumatic,2013-06-30,13,2,"#{""ehf@vinjeboy.com"" ""jason@w01fe.com""}",464.0,30
+Clojure,plumatic,2013-07-01,3,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",467.0,30
+Clojure,plumatic,2013-07-02,9,4,"#{""leon@climate.com"" ""ehf@vinjeboy.com"" ""jason@w01fe.com"" ""emilhenry@gmail.com""}",476.0,31
+Clojure,plumatic,2013-07-03,1,1,"#{""jason@w01fe.com""}",477.0,31
+Clojure,plumatic,2013-07-04,1,1,"#{""jason@w01fe.com""}",478.0,31
+Clojure,plumatic,2013-07-05,2,1,"#{""jason@w01fe.com""}",480.0,31
+Clojure,plumatic,2013-07-06,4,1,"#{""jason@w01fe.com""}",484.0,31
+Clojure,plumatic,2013-07-07,1,1,"#{""jason@w01fe.com""}",485.0,31
+Clojure,plumatic,2013-07-08,12,1,"#{""jason@w01fe.com""}",497.0,31
+Clojure,plumatic,2013-07-09,7,2,"#{""ehf@vinjeboy.com"" ""jason@w01fe.com""}",504.0,31
+Clojure,plumatic,2013-07-10,40,2,"#{""ehf@vinjeboy.com"" ""jason@w01fe.com""}",544.0,31
+Clojure,plumatic,2013-07-12,1,1,"#{""cpetzold@gmail.com""}",545.0,31
+Clojure,plumatic,2013-07-15,1,1,"#{""cpetzold@gmail.com""}",546.0,31
+Clojure,plumatic,2013-07-16,9,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",555.0,31
+Clojure,plumatic,2013-07-17,3,1,"#{""jason@w01fe.com""}",558.0,31
+Clojure,plumatic,2013-07-18,3,1,"#{""jason@w01fe.com""}",561.0,31
+Clojure,plumatic,2013-07-19,2,2,"#{""jason@w01fe.com"" ""jungziege@gmail.com""}",563.0,31
+Clojure,plumatic,2013-07-22,1,1,"#{""jason@w01fe.com""}",564.0,31
+Clojure,plumatic,2013-07-23,4,2,"#{""conner+ian.wong@getprismatic.com"" ""ian.wong@getprismatic.com""}",568.0,32
+Clojure,plumatic,2013-07-24,2,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",570.0,32
+Clojure,plumatic,2013-07-25,3,1,"#{""ian.wong@getprismatic.com""}",573.0,32
+Clojure,plumatic,2013-07-26,12,1,"#{""me@aria42.com""}",585.0,32
+Clojure,plumatic,2013-07-28,1,1,"#{""me@aria42.com""}",586.0,32
+Clojure,plumatic,2013-07-30,1,1,"#{""me@aria42.com""}",587.0,32
+Clojure,plumatic,2013-08-05,16,2,"#{""me@aria42.com"" ""tim.visher@gmail.com""}",603.0,33
+Clojure,plumatic,2013-08-06,1,1,"#{""cpetzold@gmail.com""}",604.0,33
+Clojure,plumatic,2013-08-07,2,1,"#{""me@aria42.com""}",606.0,33
+Clojure,plumatic,2013-08-08,6,1,"#{""me@aria42.com""}",612.0,33
+Clojure,plumatic,2013-08-09,2,1,"#{""me@aria42.com""}",614.0,33
+Clojure,plumatic,2013-08-11,7,1,"#{""me@aria42.com""}",621.0,33
+Clojure,plumatic,2013-08-12,1,1,"#{""me@aria42.com""}",622.0,33
+Clojure,plumatic,2013-08-15,1,1,"#{""jason@w01fe.com""}",623.0,33
+Clojure,plumatic,2013-08-16,4,1,"#{""jason@w01fe.com""}",627.0,33
+Clojure,plumatic,2013-08-22,4,1,"#{""me@aria42.com""}",631.0,33
+Clojure,plumatic,2013-08-31,12,1,"#{""jason@w01fe.com""}",643.0,33
+Clojure,plumatic,2013-09-01,13,2,"#{""jason@w01fe.com"" ""me@aria42.com""}",656.0,33
+Clojure,plumatic,2013-09-02,8,2,"#{""jason@w01fe.com"" ""me@aria42.com""}",664.0,33
+Clojure,plumatic,2013-09-03,15,1,"#{""jason@w01fe.com""}",679.0,33
+Clojure,plumatic,2013-09-04,4,1,"#{""jason@w01fe.com""}",683.0,33
+Clojure,plumatic,2013-09-05,7,3,"#{""cpetzold@gmail.com"" ""ian.wong@getprismatic.com"" ""jason@w01fe.com""}",690.0,33
+Clojure,plumatic,2013-09-06,3,2,"#{""ian.wong@getprismatic.com"" ""jason@w01fe.com""}",693.0,33
+Clojure,plumatic,2013-09-07,2,1,"#{""jason@w01fe.com""}",695.0,33
+Clojure,plumatic,2013-09-11,3,2,"#{""ian.wong@getprismatic.com"" ""jason@w01fe.com""}",698.0,33
+Clojure,plumatic,2013-09-13,3,1,"#{""jason@w01fe.com""}",701.0,33
+Clojure,plumatic,2013-09-14,1,1,"#{""ian.wong@getprismatic.com""}",702.0,33
+Clojure,plumatic,2013-09-15,8,1,"#{""jason@w01fe.com""}",710.0,33
+Clojure,plumatic,2013-09-17,3,1,"#{""jason@w01fe.com""}",713.0,33
+Clojure,plumatic,2013-09-19,4,2,"#{""jwhitlark@bittorrent.com"" ""jason@w01fe.com""}",717.0,34
+Clojure,plumatic,2013-09-20,1,1,"#{""jmgimeno@gmail.com""}",718.0,35
+Clojure,plumatic,2013-09-22,1,1,"#{""jason@w01fe.com""}",719.0,35
+Clojure,plumatic,2013-09-23,7,3,"#{""jwhitlark@bittorrent.com"" ""jason@w01fe.com"" ""me@aria42.com""}",726.0,35
+Clojure,plumatic,2013-09-24,22,3,"#{""daniel.neal@evoenergy.co.uk"" ""jason@w01fe.com"" ""danielneal2@gmail.com""}",748.0,37
+Clojure,plumatic,2013-09-25,1,1,"#{""jason@w01fe.com""}",749.0,37
+Clojure,plumatic,2013-09-29,2,2,"#{""alexander.baranosky@gmail.com"" ""me@aria42.com""}",751.0,38
+Clojure,plumatic,2013-09-30,1,1,"#{""jrfinkel@gmail.com""}",752.0,38
+Clojure,plumatic,2013-10-01,2,2,"#{""trptcolin@gmail.com"" ""jason@w01fe.com""}",754.0,39
+Clojure,plumatic,2013-10-02,3,2,"#{""ben@benmabey.com"" ""jason@w01fe.com""}",757.0,40
+Clojure,plumatic,2013-10-05,1,1,"#{""jason@w01fe.com""}",758.0,40
+Clojure,plumatic,2013-10-06,6,1,"#{""jason@w01fe.com""}",764.0,40
+Clojure,plumatic,2013-10-08,4,2,"#{""jason@w01fe.com"" ""danielneal2@gmail.com""}",768.0,40
+Clojure,plumatic,2013-10-11,2,2,"#{""justinhj@gmail.com"" ""me@aria42.com""}",770.0,41
+Clojure,plumatic,2013-10-13,5,1,"#{""jason@w01fe.com""}",775.0,41
+Clojure,plumatic,2013-10-15,3,1,"#{""jason@w01fe.com""}",778.0,41
+Clojure,plumatic,2013-10-22,1,1,"#{""nikelandjelo@gmail.com""}",779.0,42
+Clojure,plumatic,2013-10-28,2,1,"#{""jason@w01fe.com""}",781.0,42
+Clojure,plumatic,2013-10-29,2,2,"#{""cody.rioux@gmail.com"" ""jason@w01fe.com""}",783.0,43
+Clojure,plumatic,2013-10-31,2,1,"#{""jason@w01fe.com""}",785.0,43
+Clojure,plumatic,2013-11-01,3,1,"#{""djpowell@djpowell.net""}",788.0,44
+Clojure,plumatic,2013-11-02,1,1,"#{""dan@dankee.com""}",789.0,45
+Clojure,plumatic,2013-11-09,2,1,"#{""jason@w01fe.com""}",791.0,45
+Clojure,plumatic,2013-11-10,3,1,"#{""jason@w01fe.com""}",794.0,45
+Clojure,plumatic,2013-11-11,1,1,"#{""jason@w01fe.com""}",795.0,45
+Clojure,plumatic,2013-11-12,7,1,"#{""jason@w01fe.com""}",802.0,45
+Clojure,plumatic,2013-11-13,6,1,"#{""jason@w01fe.com""}",808.0,45
+Clojure,plumatic,2013-11-14,6,1,"#{""jason@w01fe.com""}",814.0,45
+Clojure,plumatic,2013-11-15,6,2,"#{""kendall@kendagriff.com"" ""jason@w01fe.com""}",820.0,46
+Clojure,plumatic,2013-11-16,4,3,"#{""logan.linn@gmail.com"" ""sean@worldsingles.com"" ""jason@w01fe.com""}",824.0,48
+Clojure,plumatic,2013-11-17,7,2,"#{""rbrush@cerner.com"" ""jason@w01fe.com""}",831.0,49
+Clojure,plumatic,2013-11-24,6,1,"#{""jason@w01fe.com""}",837.0,49
+Clojure,plumatic,2013-12-13,1,1,"#{""jason@w01fe.com""}",838.0,49
+Clojure,plumatic,2013-12-16,3,1,"#{""jason@w01fe.com""}",841.0,49
+Clojure,plumatic,2013-12-19,2,2,"#{""chris.cahoon@gmail.com"" ""jason@w01fe.com""}",843.0,50
+Clojure,plumatic,2013-12-26,3,2,"#{""chris@puppetlabs.com"" ""jason@w01fe.com""}",846.0,51
+Clojure,plumatic,2013-12-29,1,1,"#{""jason@w01fe.com""}",847.0,51
+Clojure,plumatic,2013-12-30,1,1,"#{""jason@w01fe.com""}",848.0,51
+Clojure,plumatic,2013-12-31,2,1,"#{""jason@w01fe.com""}",850.0,51
+Clojure,plumatic,2014-01-01,2,1,"#{""jason@w01fe.com""}",852.0,51
+Clojure,plumatic,2014-01-02,2,1,"#{""jason@w01fe.com""}",854.0,51
+Clojure,plumatic,2014-01-03,8,2,"#{""rkd@rkd.me.uk"" ""jason@w01fe.com""}",862.0,52
+Clojure,plumatic,2014-01-04,2,1,"#{""jason@w01fe.com""}",864.0,52
+Clojure,plumatic,2014-01-05,1,1,"#{""jason@w01fe.com""}",865.0,52
+Clojure,plumatic,2014-01-07,1,1,"#{""dave@getprismatic.com""}",866.0,52
+Clojure,plumatic,2014-01-08,7,2,"#{""cpetzold@gmail.com"" ""jason@w01fe.com""}",873.0,52
+Clojure,plumatic,2014-01-11,5,2,"#{""cpetzold@gmail.com"" ""koddsson@gmail.com""}",878.0,53
+Clojure,plumatic,2014-01-16,2,1,"#{""cpetzold@gmail.com""}",880.0,53
+Clojure,plumatic,2014-01-20,2,2,"#{""robert.boyd@me.com"" ""dave@getprismatic.com""}",882.0,54
+Clojure,plumatic,2014-01-24,1,1,"#{""sritchie09@gmail.com""}",883.0,55
+Clojure,plumatic,2014-01-25,4,1,"#{""koddsson@gmail.com""}",887.0,55
+Clojure,plumatic,2014-01-27,8,2,"#{""cpetzold@gmail.com"" ""koddsson@gmail.com""}",895.0,55
+Clojure,plumatic,2014-01-28,1,1,"#{""rm_hull@yahoo.co.uk""}",896.0,55
+Clojure,plumatic,2014-01-29,1,1,"#{""cpetzold@gmail.com""}",897.0,55
+Clojure,plumatic,2014-01-31,1,1,"#{""ryan.senior@puppetlabs.com""}",898.0,56
+Clojure,plumatic,2014-02-03,4,1,"#{""jason@w01fe.com""}",902.0,56
+Clojure,plumatic,2014-02-04,1,1,"#{""cpetzold@gmail.com""}",903.0,56
+Clojure,plumatic,2014-02-05,5,3,"#{""ved.manerikar@gmail.com"" ""cpetzold@gmail.com"" ""jason@w01fe.com""}",908.0,57
+Clojure,plumatic,2014-02-09,2,1,"#{""jason@w01fe.com""}",910.0,57
+Clojure,plumatic,2014-02-10,2,1,"#{""jason@w01fe.com""}",912.0,57
+Clojure,plumatic,2014-02-13,3,1,"#{""jason@w01fe.com""}",915.0,57
+Clojure,plumatic,2014-02-24,6,3,"#{""tommi.reiman@metosin.fi"" ""jason@w01fe.com"" ""dave@getprismatic.com""}",921.0,58
+Clojure,plumatic,2014-03-05,2,2,"#{""fredericksgary@gmail.com"" ""jason@w01fe.com""}",923.0,59
+Clojure,plumatic,2014-03-10,3,2,"#{""jason@w01fe.com"" ""dave@getprismatic.com""}",926.0,59
+Clojure,plumatic,2014-03-12,1,1,"#{""jason@w01fe.com""}",927.0,59
+Clojure,plumatic,2014-03-13,7,2,"#{""ceo@prepor.ru"" ""jason@w01fe.com""}",934.0,60
+Clojure,plumatic,2014-03-14,14,1,"#{""jason@w01fe.com""}",948.0,60
+Clojure,plumatic,2014-03-16,1,1,"#{""jason@w01fe.com""}",949.0,60
+Clojure,plumatic,2014-03-17,1,1,"#{""jason@w01fe.com""}",950.0,60
+Clojure,plumatic,2014-03-20,2,2,"#{""thomas.kristensen@uswitch.com"" ""dave@getprismatic.com""}",952.0,61
+Clojure,plumatic,2014-03-21,2,1,"#{""dave@getprismatic.com""}",954.0,61
+Clojure,plumatic,2014-03-22,11,2,"#{""jason@w01fe.com"" ""dave@getprismatic.com""}",965.0,61
+Clojure,plumatic,2014-03-23,1,1,"#{""s.shanabrook@gmail.com""}",966.0,62
+Clojure,plumatic,2014-03-24,4,2,"#{""nick@getprismatic.com"" ""dave@getprismatic.com""}",970.0,63
+Clojure,plumatic,2014-03-26,1,1,"#{""jason@w01fe.com""}",971.0,63
+Clojure,plumatic,2014-03-31,1,1,"#{""logan.linn@gmail.com""}",972.0,63
+Clojure,plumatic,2014-04-01,7,2,"#{""jason@w01fe.com"" ""dave@getprismatic.com""}",979.0,63
+Clojure,plumatic,2014-04-02,3,3,"#{""fredericksgary@gmail.com"" ""jason@w01fe.com"" ""thomas.kristensen@uswitch.com""}",982.0,63
+Clojure,plumatic,2014-04-03,4,1,"#{""jason@w01fe.com""}",986.0,63
+Clojure,plumatic,2014-04-04,1,1,"#{""jason@w01fe.com""}",987.0,63
+Clojure,plumatic,2014-04-06,1,1,"#{""jason@w01fe.com""}",988.0,63
+Clojure,plumatic,2014-04-10,1,1,"#{""twashing@gmail.com""}",989.0,64
+Clojure,plumatic,2014-04-15,3,2,"#{""fredericksgary@gmail.com"" ""jason@w01fe.com""}",992.0,64
+Clojure,plumatic,2014-04-16,4,2,"#{""leon@climate.com"" ""jason@w01fe.com""}",996.0,64
+Clojure,plumatic,2014-04-19,2,1,"#{""jason@w01fe.com""}",998.0,64
+Clojure,plumatic,2014-04-20,6,1,"#{""jason@w01fe.com""}",1004.0,64
+Clojure,plumatic,2014-04-21,2,1,"#{""jason@w01fe.com""}",1006.0,64
+Clojure,plumatic,2014-04-23,2,2,"#{""dbasch@gmail.com"" ""jason@w01fe.com""}",1008.0,65
+Clojure,plumatic,2014-04-24,4,2,"#{""jason@w01fe.com"" ""sritchie09@gmail.com""}",1012.0,65
+Clojure,plumatic,2014-04-30,4,2,"#{""ttasterisco@gmail.com"" ""jason@w01fe.com""}",1016.0,66
+Clojure,plumatic,2014-05-02,2,2,"#{""ttasterisco@users.noreply.github.com"" ""jason@w01fe.com""}",1018.0,67
+Clojure,plumatic,2014-05-05,2,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1020.0,67
+Clojure,plumatic,2014-05-06,7,3,"#{""ngreco@gmail.com"" ""jason@w01fe.com"" ""dave@getprismatic.com""}",1027.0,68
+Clojure,plumatic,2014-05-08,1,1,"#{""conner@getprismatic.com""}",1028.0,69
+Clojure,plumatic,2014-05-09,16,3,"#{""cpetzold@gmail.com"" ""logan.linn@gmail.com"" ""conner@getprismatic.com""}",1044.0,69
+Clojure,plumatic,2014-05-13,4,3,"#{""ray@1729.org.uk"" ""logan.linn@gmail.com"" ""jason@w01fe.com""}",1048.0,70
+Clojure,plumatic,2014-05-20,2,2,"#{""jason@w01fe.com"" ""sritchie09@gmail.com""}",1050.0,70
+Clojure,plumatic,2014-05-22,9,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1059.0,70
+Clojure,plumatic,2014-05-23,2,1,"#{""logan.linn@gmail.com""}",1061.0,70
+Clojure,plumatic,2014-05-26,9,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1070.0,70
+Clojure,plumatic,2014-05-27,2,1,"#{""m@qbits.cc""}",1072.0,70
+Clojure,plumatic,2014-05-28,20,3,"#{""logan.linn@gmail.com"" ""jason@w01fe.com"" ""blake.jakopovic@gmail.com""}",1092.0,71
+Clojure,plumatic,2014-06-02,5,1,"#{""logan.linn@gmail.com""}",1097.0,71
+Clojure,plumatic,2014-06-03,6,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1103.0,71
+Clojure,plumatic,2014-06-04,19,3,"#{""cpetzold@gmail.com"" ""logan.linn@gmail.com"" ""conner@getprismatic.com""}",1122.0,71
+Clojure,plumatic,2014-06-05,7,5,"#{""cpetzold@gmail.com"" ""logan.linn@gmail.com"" ""gildraug@gmail.com"" ""conner@getprismatic.com"" ""jungziege@gmail.com""}",1129.0,72
+Clojure,plumatic,2014-06-06,8,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1137.0,72
+Clojure,plumatic,2014-06-07,1,1,"#{""logan.linn@gmail.com""}",1138.0,72
+Clojure,plumatic,2014-06-08,12,1,"#{""logan.linn@gmail.com""}",1150.0,72
+Clojure,plumatic,2014-06-09,3,1,"#{""logan.linn@gmail.com""}",1153.0,72
+Clojure,plumatic,2014-06-10,6,1,"#{""logan.linn@gmail.com""}",1159.0,72
+Clojure,plumatic,2014-06-11,2,2,"#{""krisajenkins@gmail.com"" ""jason@w01fe.com""}",1161.0,73
+Clojure,plumatic,2014-06-12,14,2,"#{""logan.linn@gmail.com"" ""jstepien@users.sourceforge.net""}",1175.0,74
+Clojure,plumatic,2014-06-13,4,3,"#{""logan.linn@gmail.com"" ""jason@w01fe.com"" ""jstepien@users.sourceforge.net""}",1179.0,74
+Clojure,plumatic,2014-06-17,8,1,"#{""jason@w01fe.com""}",1187.0,74
+Clojure,plumatic,2014-06-19,1,1,"#{""ben@benmabey.com""}",1188.0,74
+Clojure,plumatic,2014-06-22,2,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1190.0,74
+Clojure,plumatic,2014-06-23,4,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1194.0,74
+Clojure,plumatic,2014-06-25,1,1,"#{""jason@w01fe.com""}",1195.0,74
+Clojure,plumatic,2014-06-28,1,1,"#{""jason@w01fe.com""}",1196.0,74
+Clojure,plumatic,2014-07-01,4,2,"#{""jason@w01fe.com"" ""sritchie09@gmail.com""}",1200.0,74
+Clojure,plumatic,2014-07-03,3,1,"#{""jason@w01fe.com""}",1203.0,74
+Clojure,plumatic,2014-07-05,1,1,"#{""sritchie09@gmail.com""}",1204.0,74
+Clojure,plumatic,2014-07-06,2,1,"#{""jason@w01fe.com""}",1206.0,74
+Clojure,plumatic,2014-07-07,1,1,"#{""logan.linn@gmail.com""}",1207.0,74
+Clojure,plumatic,2014-07-09,2,1,"#{""logan.linn@gmail.com""}",1209.0,74
+Clojure,plumatic,2014-07-11,1,1,"#{""jason@w01fe.com""}",1210.0,74
+Clojure,plumatic,2014-07-22,1,1,"#{""marco@marcopolo.io""}",1211.0,75
+Clojure,plumatic,2014-07-23,4,4,"#{""logan.linn@gmail.com"" ""adrian.mowat@arnoldclark.co.uk"" ""sam@paddleguru.com"" ""jason@w01fe.com""}",1215.0,77
+Clojure,plumatic,2014-07-25,1,1,"#{""marco@marcopolo.io""}",1216.0,77
+Clojure,plumatic,2014-07-29,6,3,"#{""logan.linn@gmail.com"" ""abusby@gracenote.com"" ""jason@w01fe.com""}",1222.0,78
+Clojure,plumatic,2014-07-30,1,1,"#{""thebusby@thebusby.com""}",1223.0,79
+Clojure,plumatic,2014-07-31,4,1,"#{""jason@w01fe.com""}",1227.0,79
+Clojure,plumatic,2014-08-01,4,2,"#{""logan.linn@gmail.com"" ""sritchie09@gmail.com""}",1231.0,79
+Clojure,plumatic,2014-08-03,1,1,"#{""logan.linn@gmail.com""}",1232.0,79
+Clojure,plumatic,2014-08-04,5,2,"#{""krisajenkins@gmail.com"" ""jason@w01fe.com""}",1237.0,79
+Clojure,plumatic,2014-08-05,24,3,"#{""m@qbits.cc"" ""logan.linn@gmail.com"" ""jason@w01fe.com""}",1261.0,79
+Clojure,plumatic,2014-08-11,12,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1273.0,79
+Clojure,plumatic,2014-08-12,4,3,"#{""adrian@needful.de"" ""fredericksgary@gmail.com"" ""jason@w01fe.com""}",1277.0,80
+Clojure,plumatic,2014-08-13,1,1,"#{""desk@danielcompton.net""}",1278.0,81
+Clojure,plumatic,2014-08-14,4,1,"#{""jason@w01fe.com""}",1282.0,81
+Clojure,plumatic,2014-08-21,2,2,"#{""_@lvh.cc"" ""jason@w01fe.com""}",1284.0,82
+Clojure,plumatic,2014-08-25,2,2,"#{""="" ""jason@w01fe.com""}",1286.0,83
+Clojure,plumatic,2014-08-26,7,1,"#{""logan.linn@gmail.com""}",1293.0,83
+Clojure,plumatic,2014-09-02,1,1,"#{""jason@w01fe.com""}",1294.0,83
+Clojure,plumatic,2014-09-03,1,1,"#{""jason@w01fe.com""}",1295.0,83
+Clojure,plumatic,2014-09-04,11,3,"#{""occamin@gmail.com"" ""fredericksgary@gmail.com"" ""jason@w01fe.com""}",1306.0,84
+Clojure,plumatic,2014-09-09,3,2,"#{""cjholdbrooks@gmail.com"" ""jason@w01fe.com""}",1309.0,85
+Clojure,plumatic,2014-09-10,7,4,"#{""diogo149@gmail.com"" ""tobias.kortkamp@gmail.com"" ""devinw@gmail.com"" ""jason@w01fe.com""}",1316.0,88
+Clojure,plumatic,2014-09-13,1,1,"#{""github.com@francois.rey.name""}",1317.0,89
+Clojure,plumatic,2014-09-14,2,2,"#{""github.com@francois.rey.name"" ""jason@w01fe.com""}",1319.0,89
+Clojure,plumatic,2014-09-15,7,3,"#{""logan.linn@gmail.com"" ""peter.a.jaros@gmail.com"" ""jason@w01fe.com""}",1326.0,90
+Clojure,plumatic,2014-09-16,4,1,"#{""jason@w01fe.com""}",1330.0,90
+Clojure,plumatic,2014-09-17,2,1,"#{""jason@w01fe.com""}",1332.0,90
+Clojure,plumatic,2014-09-19,5,3,"#{""blume.mike@gmail.com"" ""jason@w01fe.com"" ""plredmond@gmail.com""}",1337.0,92
+Clojure,plumatic,2014-09-24,8,1,"#{""jason@w01fe.com""}",1345.0,92
+Clojure,plumatic,2014-10-01,9,2,"#{""jason@w01fe.com"" ""michael.blume@climate.com""}",1354.0,93
+Clojure,plumatic,2014-10-07,2,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1356.0,93
+Clojure,plumatic,2014-10-08,3,3,"#{""cpetzold@gmail.com"" ""logan.linn@gmail.com"" ""conner@getprismatic.com""}",1359.0,93
+Clojure,plumatic,2014-10-09,1,1,"#{""conner@getprismatic.com""}",1360.0,93
+Clojure,plumatic,2014-10-10,9,2,"#{""logan.linn@gmail.com"" ""conner@getprismatic.com""}",1369.0,93
+Clojure,plumatic,2014-10-13,12,2,"#{""logan.linn@gmail.com"" ""conner@getprismatic.com""}",1381.0,93
+Clojure,plumatic,2014-10-14,16,3,"#{""cpetzold@gmail.com"" ""logan.linn@gmail.com"" ""conner@getprismatic.com""}",1397.0,93
+Clojure,plumatic,2014-10-15,2,2,"#{""logan.linn@gmail.com"" ""peter.a.jaros@gmail.com""}",1399.0,93
+Clojure,plumatic,2014-10-16,14,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1413.0,93
+Clojure,plumatic,2014-10-21,1,1,"#{""cpetzold@gmail.com""}",1414.0,93
+Clojure,plumatic,2014-10-24,3,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1417.0,93
+Clojure,plumatic,2014-10-25,6,2,"#{""john.lou.walker@gmail.com"" ""jason@w01fe.com""}",1423.0,94
+Clojure,plumatic,2014-10-26,1,1,"#{""jason@w01fe.com""}",1424.0,94
+Clojure,plumatic,2014-10-27,1,1,"#{""logan.linn@gmail.com""}",1425.0,94
+Clojure,plumatic,2014-10-28,1,1,"#{""logan.linn@gmail.com""}",1426.0,94
+Clojure,plumatic,2014-10-29,6,1,"#{""jason@w01fe.com""}",1432.0,94
+Clojure,plumatic,2014-10-30,3,1,"#{""jason@w01fe.com""}",1435.0,94
+Clojure,plumatic,2014-11-01,2,2,"#{""lambdadmitry@gmail.com"" ""jason@w01fe.com""}",1437.0,95
+Clojure,plumatic,2014-11-05,1,1,"#{""logan.linn@gmail.com""}",1438.0,95
+Clojure,plumatic,2014-11-11,6,1,"#{""jason@w01fe.com""}",1444.0,95
+Clojure,plumatic,2014-11-12,1,1,"#{""jason@w01fe.com""}",1445.0,95
+Clojure,plumatic,2014-11-17,2,2,"#{""cloojure@gmail.com"" ""jason@w01fe.com""}",1447.0,96
+Clojure,plumatic,2014-11-24,2,1,"#{""jason@w01fe.com""}",1449.0,96
+Clojure,plumatic,2014-12-07,1,1,"#{""adrian.medina@mail.yu.edu""}",1450.0,97
+Clojure,plumatic,2014-12-10,4,3,"#{""logan.linn@gmail.com"" ""brian@otherpeoplespixels.com"" ""jason@w01fe.com""}",1454.0,98
+Clojure,plumatic,2014-12-11,1,1,"#{""logan.linn@gmail.com""}",1455.0,98
+Clojure,plumatic,2014-12-12,1,1,"#{""jeffpalentine@gmail.com""}",1456.0,99
+Clojure,plumatic,2014-12-13,2,1,"#{""jeffpalentine@gmail.com""}",1458.0,99
+Clojure,plumatic,2014-12-22,2,2,"#{""jeffpalentine@gmail.com"" ""jason@w01fe.com""}",1460.0,99
+Clojure,plumatic,2014-12-23,4,1,"#{""logan.linn@gmail.com""}",1464.0,99
+Clojure,plumatic,2014-12-24,9,1,"#{""logan.linn@gmail.com""}",1473.0,99
+Clojure,plumatic,2014-12-25,7,1,"#{""logan.linn@gmail.com""}",1480.0,99
+Clojure,plumatic,2014-12-26,2,1,"#{""logan.linn@gmail.com""}",1482.0,99
+Clojure,plumatic,2014-12-27,1,1,"#{""logan.linn@gmail.com""}",1483.0,99
+Clojure,plumatic,2014-12-29,4,1,"#{""logan.linn@gmail.com""}",1487.0,99
+Clojure,plumatic,2015-01-08,1,1,"#{""jason@w01fe.com""}",1488.0,99
+Clojure,plumatic,2015-01-22,2,2,"#{""support@hatnik.com"" ""jason@w01fe.com""}",1490.0,100
+Clojure,plumatic,2015-01-25,1,1,"#{""fredericksgary@gmail.com""}",1491.0,100
+Clojure,plumatic,2015-01-26,1,1,"#{""jason@w01fe.com""}",1492.0,100
+Clojure,plumatic,2015-01-27,21,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1513.0,100
+Clojure,plumatic,2015-01-29,5,1,"#{""jason@w01fe.com""}",1518.0,100
+Clojure,plumatic,2015-01-30,7,2,"#{""logan.linn@gmail.com"" ""okal@justokal.com""}",1525.0,101
+Clojure,plumatic,2015-02-02,7,1,"#{""logan.linn@gmail.com""}",1532.0,101
+Clojure,plumatic,2015-02-06,4,3,"#{""logan.linn@gmail.com"" ""cloojure@gmail.com"" ""jason@w01fe.com""}",1536.0,101
+Clojure,plumatic,2015-02-22,2,1,"#{""jason@w01fe.com""}",1538.0,101
+Clojure,plumatic,2015-02-23,2,1,"#{""jason@w01fe.com""}",1540.0,101
+Clojure,plumatic,2015-03-04,1,1,"#{""jason@w01fe.com""}",1541.0,101
+Clojure,plumatic,2015-03-05,18,1,"#{""jason@w01fe.com""}",1559.0,101
+Clojure,plumatic,2015-03-06,6,1,"#{""logan.linn@gmail.com""}",1565.0,101
+Clojure,plumatic,2015-03-07,1,1,"#{""juho.teperi@iki.fi""}",1566.0,102
+Clojure,plumatic,2015-03-08,1,1,"#{""jason@w01fe.com""}",1567.0,102
+Clojure,plumatic,2015-03-10,7,1,"#{""jason@w01fe.com""}",1574.0,102
+Clojure,plumatic,2015-03-25,2,1,"#{""jason@w01fe.com""}",1576.0,102
+Clojure,plumatic,2015-04-07,1,1,"#{""jason@w01fe.com""}",1577.0,102
+Clojure,plumatic,2015-04-08,20,3,"#{""lucasmrtuner@gmail.com"" ""jason@w01fe.com"" ""mike.rodriguez@cerner.com""}",1597.0,104
+Clojure,plumatic,2015-04-14,1,1,"#{""logan.linn@gmail.com""}",1598.0,104
+Clojure,plumatic,2015-04-15,4,2,"#{""geraldo.ls@gmail.com"" ""jason@w01fe.com""}",1602.0,105
+Clojure,plumatic,2015-04-20,1,1,"#{""lgastako@gmail.com""}",1603.0,106
+Clojure,plumatic,2015-04-21,2,2,"#{""logan.linn@gmail.com"" ""kimmo.koskinen@solita.fi""}",1605.0,107
+Clojure,plumatic,2015-04-23,8,2,"#{""ccfontes@gmail.com"" ""jason@w01fe.com""}",1613.0,108
+Clojure,plumatic,2015-04-24,3,1,"#{""logan.linn@gmail.com""}",1616.0,108
+Clojure,plumatic,2015-04-26,2,2,"#{""jason@w01fe.com"" ""juanantonioruz@gmail.com""}",1618.0,109
+Clojure,plumatic,2015-04-28,9,2,"#{""tommi@iki.fi"" ""logan.linn@gmail.com""}",1627.0,110
+Clojure,plumatic,2015-04-29,5,2,"#{""tommi@iki.fi"" ""jason@w01fe.com""}",1632.0,110
+Clojure,plumatic,2015-05-02,3,1,"#{""jason@w01fe.com""}",1635.0,110
+Clojure,plumatic,2015-05-05,2,2,"#{""tommi@iki.fi"" ""logan.linn@gmail.com""}",1637.0,110
+Clojure,plumatic,2015-05-08,5,3,"#{""roman@burningswell.com"" ""jason@w01fe.com"" ""dave@getprismatic.com""}",1642.0,111
+Clojure,plumatic,2015-05-13,2,2,"#{""immo.heikkinen@gmail.com"" ""jason@w01fe.com""}",1644.0,112
+Clojure,plumatic,2015-05-21,4,2,"#{""martin@wit.ai"" ""jason@w01fe.com""}",1648.0,113
+Clojure,plumatic,2015-05-22,7,1,"#{""jason@w01fe.com""}",1655.0,113
+Clojure,plumatic,2015-06-02,1,1,"#{""logan.linn@gmail.com""}",1656.0,113
+Clojure,plumatic,2015-06-07,1,1,"#{""jason@w01fe.com""}",1657.0,113
+Clojure,plumatic,2015-06-09,2,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1659.0,113
+Clojure,plumatic,2015-06-10,4,3,"#{""fredericksgary@gmail.com"" ""jason@w01fe.com"" ""stig@brautaset.org""}",1663.0,114
+Clojure,plumatic,2015-06-11,2,2,"#{""matt.mcgill@gmail.com"" ""jason@w01fe.com""}",1665.0,115
+Clojure,plumatic,2015-06-13,2,1,"#{""jason@w01fe.com""}",1667.0,115
+Clojure,plumatic,2015-06-14,1,1,"#{""jason@w01fe.com""}",1668.0,115
+Clojure,plumatic,2015-06-17,1,1,"#{""jason@w01fe.com""}",1669.0,115
+Clojure,plumatic,2015-07-10,1,1,"#{""jason@w01fe.com""}",1670.0,115
+Clojure,plumatic,2015-07-14,1,1,"#{""spyyderz@gmail.com""}",1671.0,116
+Clojure,plumatic,2015-07-21,1,1,"#{""conan.cook@brightnorth.co.uk""}",1672.0,117
+Clojure,plumatic,2015-07-22,1,1,"#{""jason@w01fe.com""}",1673.0,117
+Clojure,plumatic,2015-07-27,1,1,"#{""jason@w01fe.com""}",1674.0,117
+Clojure,plumatic,2015-08-10,5,1,"#{""logan.linn@gmail.com""}",1679.0,117
+Clojure,plumatic,2015-08-13,2,2,"#{""jason@w01fe.com"" ""git@oliy.co.uk""}",1681.0,118
+Clojure,plumatic,2015-08-18,5,1,"#{""jason@w01fe.com""}",1686.0,118
+Clojure,plumatic,2015-08-19,1,1,"#{""jason@w01fe.com""}",1687.0,118
+Clojure,plumatic,2015-08-20,11,2,"#{""jason@w01fe.com"" ""dave@getprismatic.com""}",1698.0,118
+Clojure,plumatic,2015-08-21,13,2,"#{""jason@w01fe.com"" ""dave@getprismatic.com""}",1711.0,118
+Clojure,plumatic,2015-08-23,2,1,"#{""jason@w01fe.com""}",1713.0,118
+Clojure,plumatic,2015-08-24,1,1,"#{""dave@getprismatic.com""}",1714.0,118
+Clojure,plumatic,2015-08-25,7,1,"#{""dave@getprismatic.com""}",1721.0,118
+Clojure,plumatic,2015-08-26,1,1,"#{""mike.rodriguez@cerner.com""}",1722.0,118
+Clojure,plumatic,2015-08-27,2,1,"#{""jason@w01fe.com""}",1724.0,118
+Clojure,plumatic,2015-08-29,1,1,"#{""alexanderkiel@gmx.net""}",1725.0,119
+Clojure,plumatic,2015-08-31,4,2,"#{""alexanderkiel@gmx.net"" ""jason@w01fe.com""}",1729.0,119
+Clojure,plumatic,2015-09-02,2,1,"#{""jason@w01fe.com""}",1731.0,119
+Clojure,plumatic,2015-09-03,5,1,"#{""jason@w01fe.com""}",1736.0,119
+Clojure,plumatic,2015-09-07,5,2,"#{""james.gatannah@gmail.com"" ""jason@w01fe.com""}",1741.0,120
+Clojure,plumatic,2015-09-12,4,1,"#{""jason@w01fe.com""}",1745.0,120
+Clojure,plumatic,2015-09-17,4,1,"#{""logan.linn@gmail.com""}",1749.0,120
+Clojure,plumatic,2015-09-28,2,2,"#{""fredericksgary@gmail.com"" ""jason@w01fe.com""}",1751.0,120
+Clojure,plumatic,2015-10-01,1,1,"#{""git@albrecht.io""}",1752.0,121
+Clojure,plumatic,2015-10-02,3,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1755.0,121
+Clojure,plumatic,2015-10-03,5,1,"#{""jason@w01fe.com""}",1760.0,121
+Clojure,plumatic,2015-10-05,6,1,"#{""jason@w01fe.com""}",1766.0,121
+Clojure,plumatic,2015-10-07,3,1,"#{""jason@w01fe.com""}",1769.0,121
+Clojure,plumatic,2015-10-21,1,1,"#{""jason@w01fe.com""}",1770.0,121
+Clojure,plumatic,2015-10-22,4,1,"#{""jason@w01fe.com""}",1774.0,121
+Clojure,plumatic,2015-10-24,3,1,"#{""jason@w01fe.com""}",1777.0,121
+Clojure,plumatic,2015-10-26,1,1,"#{""jason@w01fe.com""}",1778.0,121
+Clojure,plumatic,2015-10-29,3,1,"#{""jason@w01fe.com""}",1781.0,121
+Clojure,plumatic,2015-11-02,1,1,"#{""jason@w01fe.com""}",1782.0,121
+Clojure,plumatic,2015-11-07,1,1,"#{""jason@w01fe.com""}",1783.0,121
+Clojure,plumatic,2015-11-10,5,2,"#{""logan.linn@gmail.com"" ""jason@w01fe.com""}",1788.0,121
+Clojure,plumatic,2015-11-11,3,1,"#{""logan.linn@gmail.com""}",1791.0,121
+Clojure,plumatic,2015-11-12,1,1,"#{""logan.linn@gmail.com""}",1792.0,121
+Clojure,plumatic,2015-11-18,1,1,"#{""ben.sinclair@rokt.com""}",1793.0,122
+Clojure,plumatic,2015-11-19,2,2,"#{""abonnairesergeant@gmail.com"" ""jason@w01fe.com""}",1795.0,123
+Clojure,plumatic,2015-11-20,1,1,"#{""jason@w01fe.com""}",1796.0,123
+Clojure,plumatic,2015-11-21,1,1,"#{""fredericksgary@gmail.com""}",1797.0,123
+Clojure,plumatic,2015-11-22,3,1,"#{""jason@w01fe.com""}",1800.0,123
+Clojure,plumatic,2015-11-24,3,1,"#{""jason@w01fe.com""}",1803.0,123
+Clojure,plumatic,2015-12-01,2,2,"#{""brian@maven-group.org"" ""jason@w01fe.com""}",1805.0,124
+Clojure,plumatic,2015-12-04,1,1,"#{""jason@w01fe.com""}",1806.0,124
+Clojure,plumatic,2015-12-06,3,1,"#{""jason@w01fe.com""}",1809.0,124
+Clojure,plumatic,2015-12-09,3,1,"#{""jason@w01fe.com""}",1812.0,124
+Clojure,plumatic,2015-12-20,2,2,"#{""leeorengel@gmail.com"" ""jason@w01fe.com""}",1814.0,125
+Clojure,plumatic,2015-12-30,2,1,"#{""jason@w01fe.com""}",1816.0,125
+Clojure,plumatic,2016-01-06,2,1,"#{""jason@w01fe.com""}",1818.0,125
+Clojure,plumatic,2016-01-13,6,1,"#{""jason@w01fe.com""}",1824.0,125
+Clojure,plumatic,2016-02-05,2,2,"#{""jason@w01fe.com"" ""jeannikl@hypirion.com""}",1826.0,126
+Clojure,plumatic,2016-02-12,3,1,"#{""jason@w01fe.com""}",1829.0,126
+Clojure,plumatic,2016-02-22,4,1,"#{""jason@w01fe.com""}",1833.0,126
+Clojure,plumatic,2016-02-23,2,1,"#{""jason@w01fe.com""}",1835.0,126
+Clojure,plumatic,2016-02-27,1,1,"#{""jason@w01fe.com""}",1836.0,126
+Clojure,plumatic,2016-03-23,4,1,"#{""jason@w01fe.com""}",1840.0,126
+Clojure,plumatic,2016-03-24,10,1,"#{""jason@w01fe.com""}",1850.0,126
+Clojure,plumatic,2016-03-29,5,1,"#{""jason@w01fe.com""}",1855.0,126
+Clojure,plumatic,2016-04-02,1,1,"#{""simon.belak@gmail.com""}",1856.0,127
+Clojure,plumatic,2016-04-03,2,2,"#{""cauealveseng@gmail.com"" ""simon.belak@gmail.com""}",1858.0,128
+Clojure,plumatic,2016-04-04,3,2,"#{""simon.belak@gmail.com"" ""jason@w01fe.com""}",1861.0,128
+Clojure,plumatic,2016-04-06,1,1,"#{""jason@w01fe.com""}",1862.0,128
+Clojure,plumatic,2016-04-11,1,1,"#{""cloojure@gmail.com""}",1863.0,128
+Clojure,plumatic,2016-04-12,1,1,"#{""jason@w01fe.com""}",1864.0,128
+Clojure,plumatic,2016-04-20,1,1,"#{""jason@w01fe.com""}",1865.0,128
+Clojure,plumatic,2016-04-28,1,1,"#{""jason@w01fe.com""}",1866.0,128
+Clojure,plumatic,2016-04-29,4,1,"#{""jason@w01fe.com""}",1870.0,128
+Clojure,plumatic,2016-05-11,2,2,"#{""SevereOverfl0w@users.noreply.github.com"" ""jason@w01fe.com""}",1872.0,129
+Clojure,plumatic,2016-06-13,4,1,"#{""jason@w01fe.com""}",1876.0,129
+Clojure,plumatic,2016-07-07,2,1,"#{""jason@w01fe.com""}",1878.0,129
+Clojure,plumatic,2016-07-19,1,1,"#{""fredericksgary@gmail.com""}",1879.0,129
+Clojure,plumatic,2016-07-23,4,1,"#{""jason@w01fe.com""}",1883.0,129
+Clojure,plumatic,2016-08-31,1,1,"#{""imrekoszo@users.noreply.github.com""}",1884.0,130
+Clojure,plumatic,2016-09-01,1,1,"#{""jason@w01fe.com""}",1885.0,130
+Clojure,plumatic,2016-09-12,1,1,"#{""cammsaul@gmail.com""}",1886.0,131
+Clojure,plumatic,2016-09-13,1,1,"#{""jason@w01fe.com""}",1887.0,131
+Clojure,plumatic,2017-03-17,3,2,"#{""vincenzo.pagliari@nubank.com.br"" ""jason@w01fe.com""}",1890.0,132
+Clojure,plumatic,2017-03-20,3,1,"#{""jason@w01fe.com""}",1893.0,132
+Clojure,plumatic,2017-03-27,2,2,"#{""phillip.mates@nubank.com.br"" ""jason@w01fe.com""}",1895.0,133
+Clojure,plumatic,2017-03-29,1,1,"#{""jason@w01fe.com""}",1896.0,133
+Clojure,plumatic,2017-04-04,2,2,"#{""jbrown@luc.id"" ""jason@w01fe.com""}",1898.0,134
+Clojure,plumatic,2017-04-05,8,1,"#{""jason@w01fe.com""}",1906.0,134
+Clojure,plumatic,2017-04-07,8,3,"#{""jenny@mixpanel.com"" ""jger.tm@gmail.com"" ""jason@w01fe.com""}",1914.0,136
+Clojure,plumatic,2017-05-15,5,2,"#{""teemu.kaukoranta@gmail.com"" ""jason@w01fe.com""}",1919.0,137
+Clojure,plumatic,2017-08-09,2,2,"#{""fl00r@yandex.ru"" ""jason@w01fe.com""}",1921.0,138
+Clojure,plumatic,2017-09-28,2,2,"#{""jason@w01fe.com"" ""bfabry@zendesk.com""}",1923.0,139
+Clojure,plumatic,2017-10-02,3,1,"#{""jason@w01fe.com""}",1926.0,139
+Clojure,plumatic,2017-11-08,5,2,"#{""mikkel@klokke.dk"" ""jason@w01fe.com""}",1931.0,140
+Clojure,plumatic,2018-03-12,2,2,"#{""fredericksgary@gmail.com"" ""jason@w01fe.com""}",1933.0,140
+Clojure,plumatic,2018-03-14,1,1,"#{""fredericksgary@gmail.com""}",1934.0,140
+Clojure,plumatic,2018-03-30,1,1,"#{""gfredericks@drw.com""}",1935.0,141
+Clojure,plumatic,2018-03-31,5,3,"#{""ai@aaroniba.net"" ""fredericksgary@gmail.com"" ""gfredericks@drw.com""}",1940.0,141
+Clojure,plumatic,2018-04-01,5,1,"#{""fredericksgary@gmail.com""}",1945.0,141
+Clojure,plumatic,2018-06-10,1,1,"#{""jason@w01fe.com""}",1946.0,141
+Clojure,plumatic,2018-06-11,2,1,"#{""jason@w01fe.com""}",1948.0,141
+Clojure,plumatic,2018-06-20,2,2,"#{""kachayev@gmail.com"" ""jason@w01fe.com""}",1950.0,142
+Clojure,plumatic,2018-06-29,3,1,"#{""kanumaiku@gmail.com""}",1953.0,143
+Clojure,plumatic,2018-06-30,2,2,"#{""logan.linn@gmail.com"" ""logan@loganlinn.com""}",1955.0,144
+Clojure,plumatic,2018-07-03,2,1,"#{""logan.linn@gmail.com""}",1957.0,144
+Clojure,plumatic,2018-07-27,1,1,"#{""dijonkitchen@users.noreply.github.com""}",1958.0,145
+Clojure,plumatic,2018-07-29,2,2,"#{""dijonkitchen@users.noreply.github.com"" ""jason@w01fe.com""}",1960.0,145
+Clojure,plumatic,2019-01-03,1,1,"#{""randomizedthinking@gmail.com""}",1961.0,146
+Clojure,plumatic,2019-01-07,1,1,"#{""jason@w01fe.com""}",1962.0,146
+Clojure,plumatic,2019-01-17,2,2,"#{""wilkerlucio@users.noreply.github.com"" ""jason@w01fe.com""}",1964.0,147
+Clojure,plumatic,2019-01-20,3,1,"#{""jason@w01fe.com""}",1967.0,147
+Clojure,plumatic,2019-06-11,1,1,"#{""fredericksgary@gmail.com""}",1968.0,147
+Clojure,plumatic,2019-06-12,11,1,"#{""fredericksgary@gmail.com""}",1979.0,147
+Clojure,plumatic,2019-07-29,1,1,"#{""chad@deercreeklabs.com""}",1980.0,148
+Clojure,plumatic,2019-08-01,1,1,"#{""fredericksgary@gmail.com""}",1981.0,148
+Clojure,plumatic,2019-08-02,1,1,"#{""git@oliy.co.uk""}",1982.0,148
+Clojure,plumatic,2019-08-04,1,1,"#{""fredericksgary@gmail.com""}",1983.0,148
+Clojure,plumatic,2019-08-05,2,1,"#{""fredericksgary@gmail.com""}",1985.0,148
+Clojure,plumatic,2019-08-10,3,1,"#{""fredericksgary@gmail.com""}",1988.0,148
+Clojure,plumatic,2020-01-17,1,1,"#{""paul.rutledge@vodori.com""}",1989.0,149
+Clojure,plumatic,2020-01-18,1,1,"#{""fredericksgary@gmail.com""}",1990.0,149
+Clojure,plumatic,2020-05-19,1,1,"#{""jweiss@lookingglasscyber.com""}",1991.0,150
+Clojure,plumatic,2020-05-21,1,1,"#{""jweiss@lookingglasscyber.com""}",1992.0,150
+Clojure,plumatic,2021-10-21,34,2,"#{""ambrose@ambrosebs.com"" ""ambonnai@cisco.com""}",2026.0,152
+Clojure,plumatic,2021-10-23,1,1,"#{""ambrose@ambrosebs.com""}",2027.0,152
+Clojure,plumatic,2021-10-24,1,1,"#{""jason@w01fe.com""}",2028.0,152
+Clojure,plumatic,2021-11-02,2,1,"#{""jason@w01fe.com""}",2030.0,152
+Clojure,plumatic,2021-11-03,7,2,"#{""ambrose@ambrosebs.com"" ""jason@w01fe.com""}",2037.0,152
+Clojure,plumatic,2021-11-05,1,1,"#{""ambrose@ambrosebs.com""}",2038.0,152
+Clojure,plumatic,2021-11-06,18,1,"#{""ambrose@ambrosebs.com""}",2056.0,152
+Clojure,plumatic,2021-11-08,1,1,"#{""ambonnai@cisco.com""}",2057.0,152
+Clojure,plumatic,2021-11-09,1,1,"#{""ambrose@ambrosebs.com""}",2058.0,152
+Clojure,plumatic,2021-11-16,2,1,"#{""ambonnai@cisco.com""}",2060.0,152
+Clojure,plumatic,2021-12-01,3,1,"#{""ambonnai@cisco.com""}",2063.0,152
+Clojure,plumatic,2021-12-03,2,1,"#{""ambonnai@cisco.com""}",2065.0,152
+Clojure,plumatic,2022-03-18,4,1,"#{""ambrose@ambrosebs.com""}",2069.0,152
+Clojure,plumatic,2022-03-22,2,1,"#{""ambrose@ambrosebs.com""}",2071.0,152
+Clojure,plumatic,2022-03-29,2,2,"#{""kap4020@gmail.com"" ""jason@w01fe.com""}",2073.0,153
+Clojure,plumatic,2022-04-28,6,2,"#{""william.mizuta@gmail.com"" ""jason@w01fe.com""}",2079.0,154
+Clojure,plumatic,2022-04-29,2,2,"#{""william.mizuta@gmail.com"" ""jason@w01fe.com""}",2081.0,154
+Clojure,plumatic,2022-06-10,6,1,"#{""ambrose@ambrosebs.com""}",2087.0,154
+Clojure,plumatic,2022-06-15,1,1,"#{""erickisos653@gmail.com""}",2088.0,155
+Clojure,plumatic,2022-06-25,1,1,"#{""jason@w01fe.com""}",2089.0,155
+Clojure,plumatic,2022-06-29,1,1,"#{""kylegann@gmail.com""}",2090.0,156
+Clojure,plumatic,2022-07-03,1,1,"#{""kylegann@gmail.com""}",2091.0,156
+Clojure,plumatic,2022-07-05,1,1,"#{""jason@w01fe.com""}",2092.0,156
+Clojure,plumatic,2022-07-28,44,2,"#{""ambrose@ambrosebs.com"" ""ambonnai@cisco.com""}",2136.0,156
+Clojure,plumatic,2022-08-16,6,1,"#{""ambrose@ambrosebs.com""}",2142.0,156
+Clojure,plumatic,2022-08-19,1,1,"#{""ambrose@ambrosebs.com""}",2143.0,156
+Clojure,plumatic,2022-08-21,5,1,"#{""ambrose@ambrosebs.com""}",2148.0,156
+Clojure,plumatic,2022-08-23,1,1,"#{""ambrose@ambrosebs.com""}",2149.0,156
+Clojure,plumatic,2022-09-08,1,1,"#{""ambrose@ambrosebs.com""}",2150.0,156
+Clojure,plumatic,2022-09-29,6,2,"#{""ambrose@ambrosebs.com"" ""ambonnai@cisco.com""}",2156.0,156
+Clojure,plumatic,2022-11-08,1,1,"#{""jason@w01fe.com""}",2157.0,156
+Clojure,plumatic,2022-12-20,1,1,"#{""mjdesa@gmail.com""}",2158.0,157
+Clojure,plumatic,2022-12-21,1,1,"#{""jason@w01fe.com""}",2159.0,157
+Clojure,plumatic,2023-01-31,1,1,"#{""ambrose@ambrosebs.com""}",2160.0,157
+Clojure,plumatic,2023-02-09,1,1,"#{""ambonnai@cisco.com""}",2161.0,157
+Clojure,plumatic,2023-04-27,2,2,"#{""jason@w01fe.com"" ""shaunewilliams@gmail.com""}",2163.0,158

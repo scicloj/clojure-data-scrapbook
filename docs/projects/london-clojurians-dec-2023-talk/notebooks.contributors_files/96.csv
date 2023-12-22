@@ -1,0 +1,140 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,saucelabs,2010-05-03,3,1,"#{""sah@awesame.org""}",3.0,1
+Python,saucelabs,2010-05-06,1,1,"#{""sah@awesame.org""}",4.0,1
+Python,saucelabs,2010-05-07,16,1,"#{""sah@awesame.org""}",20.0,1
+Python,saucelabs,2010-05-08,9,1,"#{""sah@awesame.org""}",29.0,1
+Python,saucelabs,2010-05-09,2,1,"#{""sah@saucelabs.com""}",31.0,2
+Python,saucelabs,2010-06-10,2,1,"#{""sah@saucelabs.com""}",33.0,2
+Python,saucelabs,2010-07-27,1,1,"#{""sah@saucelabs.com""}",34.0,2
+Python,saucelabs,2010-08-21,2,1,"#{""sah@saucelabs.com""}",36.0,2
+Python,saucelabs,2010-09-07,1,1,"#{""ghazel@gmail.com""}",37.0,3
+Python,saucelabs,2010-10-02,7,1,"#{""sah@saucelabs.com""}",44.0,3
+Python,saucelabs,2010-10-03,1,1,"#{""sah@saucelabs.com""}",45.0,3
+Python,saucelabs,2010-10-07,7,2,"#{""sah@saucelabs.com"" ""ghazel@gmail.com""}",52.0,3
+Python,saucelabs,2010-10-08,2,1,"#{""ghazel@gmail.com""}",54.0,3
+Python,saucelabs,2010-10-09,2,1,"#{""sah@saucelabs.com""}",56.0,3
+Python,saucelabs,2010-10-14,1,1,"#{""ghazel@gmail.com""}",57.0,3
+Python,saucelabs,2010-10-17,5,1,"#{""sah@saucelabs.com""}",62.0,3
+Python,saucelabs,2010-10-29,2,1,"#{""sah@saucelabs.com""}",64.0,3
+Python,saucelabs,2010-11-01,2,1,"#{""sah@saucelabs.com""}",66.0,3
+Python,saucelabs,2010-11-02,4,2,"#{""sah@saucelabs.com"" ""ghazel@gmail.com""}",70.0,3
+Python,saucelabs,2010-11-05,1,1,"#{""ghazel@gmail.com""}",71.0,3
+Python,saucelabs,2010-11-07,1,1,"#{""ghazel@gmail.com""}",72.0,3
+Python,saucelabs,2010-11-19,2,1,"#{""sah@saucelabs.com""}",74.0,3
+Python,saucelabs,2010-12-03,4,1,"#{""sah@saucelabs.com""}",78.0,3
+Python,saucelabs,2011-02-04,2,1,"#{""sah@saucelabs.com""}",80.0,3
+Python,saucelabs,2011-03-08,2,1,"#{""sah@saucelabs.com""}",82.0,3
+Python,saucelabs,2011-03-29,2,1,"#{""sah@saucelabs.com""}",84.0,3
+Python,saucelabs,2011-03-30,1,1,"#{""sah@saucelabs.com""}",85.0,3
+Python,saucelabs,2011-04-01,1,1,"#{""sah@saucelabs.com""}",86.0,3
+Python,saucelabs,2011-04-06,1,1,"#{""ghazel@gmail.com""}",87.0,3
+Python,saucelabs,2011-04-07,2,1,"#{""ghazel@gmail.com""}",89.0,3
+Python,saucelabs,2011-04-26,1,1,"#{""sah@saucelabs.com""}",90.0,3
+Python,saucelabs,2011-05-09,1,1,"#{""sah@saucelabs.com""}",91.0,3
+Python,saucelabs,2011-07-11,2,1,"#{""sah@saucelabs.com""}",93.0,3
+Python,saucelabs,2011-07-12,3,1,"#{""ghazel@gmail.com""}",96.0,3
+Python,saucelabs,2011-07-13,2,1,"#{""brandon@blanu.net""}",98.0,4
+Python,saucelabs,2011-07-15,6,3,"#{""brandon@blanu.net"" ""sah@awesame.org"" ""ghazel@gmail.com""}",104.0,4
+Python,saucelabs,2011-07-18,1,1,"#{""ghazel@gmail.com""}",105.0,4
+Python,saucelabs,2011-08-26,3,1,"#{""sah@saucelabs.com""}",108.0,4
+Python,saucelabs,2011-11-17,3,1,"#{""sah@saucelabs.com""}",111.0,4
+Python,saucelabs,2011-11-21,2,1,"#{""sah@saucelabs.com""}",113.0,4
+Python,saucelabs,2011-12-02,2,1,"#{""sah@saucelabs.com""}",115.0,4
+Python,saucelabs,2011-12-20,9,2,"#{""sah@saucelabs.com"" ""ghazel@gmail.com""}",124.0,4
+Python,saucelabs,2011-12-21,4,1,"#{""sah@saucelabs.com""}",128.0,4
+Python,saucelabs,2011-12-28,1,1,"#{""sah@saucelabs.com""}",129.0,4
+Python,saucelabs,2012-01-05,2,1,"#{""sah@saucelabs.com""}",131.0,4
+Python,saucelabs,2012-02-01,2,1,"#{""sah@saucelabs.com""}",133.0,4
+Python,saucelabs,2012-02-02,4,1,"#{""sah@saucelabs.com""}",137.0,4
+Python,saucelabs,2012-02-03,1,1,"#{""sah@saucelabs.com""}",138.0,4
+Python,saucelabs,2012-03-03,1,1,"#{""sah@saucelabs.com""}",139.0,4
+Python,saucelabs,2012-03-12,1,1,"#{""ghazel@gmail.com""}",140.0,4
+Python,saucelabs,2012-04-10,4,1,"#{""sah@saucelabs.com""}",144.0,4
+Python,saucelabs,2012-10-20,1,1,"#{""sah@saucelabs.com""}",145.0,4
+Python,saucelabs,2012-10-21,1,1,"#{""sah@saucelabs.com""}",146.0,4
+Python,saucelabs,2012-10-22,1,1,"#{""sah@saucelabs.com""}",147.0,4
+Python,saucelabs,2012-10-24,3,1,"#{""sah@saucelabs.com""}",150.0,4
+Python,saucelabs,2012-11-01,2,1,"#{""sah@saucelabs.com""}",152.0,4
+Python,saucelabs,2012-11-02,3,1,"#{""sah@saucelabs.com""}",155.0,4
+Python,saucelabs,2012-11-03,2,2,"#{""niallo@beyondfog.com"" ""sah@awesame.org""}",157.0,5
+Python,saucelabs,2012-11-12,1,1,"#{""sah@saucelabs.com""}",158.0,5
+Python,saucelabs,2012-11-24,3,1,"#{""sah@saucelabs.com""}",161.0,5
+Python,saucelabs,2012-12-14,3,1,"#{""ghazel@gmail.com""}",164.0,5
+Python,saucelabs,2012-12-16,1,1,"#{""sah@saucelabs.com""}",165.0,5
+Python,saucelabs,2013-03-20,2,2,"#{""santiycr@gmail.com"" ""sah@awesame.org""}",167.0,6
+Python,saucelabs,2013-03-21,4,2,"#{""santiycr@gmail.com"" ""sah@saucelabs.com""}",171.0,6
+Python,saucelabs,2013-03-22,3,2,"#{""santiycr@gmail.com"" ""sah@awesame.org""}",174.0,6
+Python,saucelabs,2013-03-26,4,3,"#{""santiycr@gmail.com"" ""sah@awesame.org"" ""ghazel@gmail.com""}",178.0,6
+Python,saucelabs,2013-03-28,2,1,"#{""sah@saucelabs.com""}",180.0,6
+Python,saucelabs,2013-04-16,2,2,"#{""ghazel@gmail.com"" ""silas@saucelabs.com""}",182.0,7
+Python,saucelabs,2013-06-14,4,3,"#{""santiycr@gmail.com"" ""sah@awesame.org"" ""sah@saucelabs.com""}",186.0,7
+Python,saucelabs,2013-08-26,1,1,"#{""sah@awesame.org""}",187.0,7
+Python,saucelabs,2013-09-10,1,1,"#{""sah@saucelabs.com""}",188.0,7
+Python,saucelabs,2013-10-03,1,1,"#{""mher.movsisyan@gmail.com""}",189.0,8
+Python,saucelabs,2013-10-04,2,1,"#{""silas@sewell.org""}",191.0,9
+Python,saucelabs,2013-10-06,2,1,"#{""sah@awesame.org""}",193.0,9
+Python,saucelabs,2013-10-29,1,1,"#{""mathieu.c.sabourin@gmail.com""}",194.0,10
+Python,saucelabs,2013-10-30,1,1,"#{""sah@awesame.org""}",195.0,10
+Python,saucelabs,2013-11-12,1,1,"#{""sah@saucelabs.com""}",196.0,10
+Python,saucelabs,2014-01-16,2,2,"#{""isaac@saucelabs.com"" ""jlipps@gmail.com""}",198.0,12
+Python,saucelabs,2014-08-11,1,1,"#{""chriswrendev@gmail.com""}",199.0,13
+Python,saucelabs,2014-08-14,1,1,"#{""mathieu.c.sabourin@gmail.com""}",200.0,13
+Python,saucelabs,2015-01-01,1,1,"#{""sah@awesame.org""}",201.0,13
+Python,saucelabs,2015-01-11,3,1,"#{""sah@saucelabs.com""}",204.0,13
+Python,saucelabs,2015-03-23,5,1,"#{""sah@saucelabs.com""}",209.0,13
+Python,saucelabs,2015-03-31,4,1,"#{""sah@saucelabs.com""}",213.0,13
+Python,saucelabs,2015-04-02,3,1,"#{""sah@saucelabs.com""}",216.0,13
+Python,saucelabs,2015-04-05,2,1,"#{""sah@saucelabs.com""}",218.0,13
+Python,saucelabs,2015-04-07,2,1,"#{""sah@saucelabs.com""}",220.0,13
+Python,saucelabs,2015-04-09,2,1,"#{""sah@saucelabs.com""}",222.0,13
+Python,saucelabs,2015-10-30,6,1,"#{""steenzout@ymail.com""}",228.0,14
+Python,saucelabs,2015-10-31,4,1,"#{""sah@saucelabs.com""}",232.0,14
+Python,saucelabs,2015-11-01,8,1,"#{""sah@saucelabs.com""}",240.0,14
+Python,saucelabs,2015-11-05,3,2,"#{""sah@awesame.org"" ""miketwo@saucelabs.com""}",243.0,15
+Python,saucelabs,2015-11-10,1,1,"#{""steenzout@ymail.com""}",244.0,15
+Python,saucelabs,2015-11-11,2,1,"#{""sah@awesame.org""}",246.0,15
+Python,saucelabs,2015-11-12,5,1,"#{""sah@awesame.org""}",251.0,15
+Python,saucelabs,2015-12-01,3,1,"#{""steenzout@saucelabs.com""}",254.0,16
+Python,saucelabs,2015-12-23,4,1,"#{""steenzout@saucelabs.com""}",258.0,16
+Python,saucelabs,2016-01-21,5,2,"#{""sah@awesame.org"" ""berni@extensa.pl""}",263.0,17
+Python,saucelabs,2016-01-22,3,2,"#{""sah@awesame.org"" ""steenzout@saucelabs.com""}",266.0,17
+Python,saucelabs,2016-02-03,1,1,"#{""sah@saucelabs.com""}",267.0,17
+Python,saucelabs,2016-02-08,1,1,"#{""berni@extensa.pl""}",268.0,17
+Python,saucelabs,2016-02-13,2,1,"#{""sah@awesame.org""}",270.0,17
+Python,saucelabs,2016-02-16,2,2,"#{""sah@awesame.org"" ""steenzout@saucelabs.com""}",272.0,17
+Python,saucelabs,2016-11-16,1,1,"#{""seb.vincent@gmail.com""}",273.0,18
+Python,saucelabs,2016-11-17,1,1,"#{""sah@awesame.org""}",274.0,18
+Python,saucelabs,2016-11-18,1,1,"#{""seb.vincent@gmail.com""}",275.0,18
+Python,saucelabs,2016-11-19,1,1,"#{""seb.vincent@gmail.com""}",276.0,18
+Python,saucelabs,2016-11-20,2,1,"#{""seb.vincent@gmail.com""}",278.0,18
+Python,saucelabs,2016-12-01,1,1,"#{""sah@saucelabs.com""}",279.0,18
+Python,saucelabs,2017-01-04,5,2,"#{""sah@awesame.org"" ""sah@saucelabs.com""}",284.0,18
+Python,saucelabs,2017-01-06,1,1,"#{""sah@saucelabs.com""}",285.0,18
+Python,saucelabs,2017-02-01,1,1,"#{""sah@saucelabs.com""}",286.0,18
+Python,saucelabs,2017-02-12,2,1,"#{""miketwo@gmail.com""}",288.0,19
+Python,saucelabs,2017-02-13,1,1,"#{""sah@awesame.org""}",289.0,19
+Python,saucelabs,2017-03-08,2,1,"#{""sah@saucelabs.com""}",291.0,19
+Python,saucelabs,2017-03-14,4,1,"#{""henry@precheur.org""}",295.0,20
+Python,saucelabs,2017-03-15,7,1,"#{""henry@precheur.org""}",302.0,20
+Python,saucelabs,2017-03-17,1,1,"#{""henry@precheur.org""}",303.0,20
+Python,saucelabs,2017-03-20,2,2,"#{""henry@precheur.org"" ""sah@awesame.org""}",305.0,20
+Python,saucelabs,2017-04-10,6,1,"#{""sah@saucelabs.com""}",311.0,20
+Python,saucelabs,2017-08-04,1,1,"#{""matt@friedm.com""}",312.0,21
+Python,saucelabs,2017-08-05,1,1,"#{""matt@friedm.com""}",313.0,21
+Python,saucelabs,2017-08-07,1,1,"#{""matt.friedman@saucelabs.com""}",314.0,22
+Python,saucelabs,2017-08-11,2,1,"#{""matt@friedm.com""}",316.0,22
+Python,saucelabs,2017-08-14,1,1,"#{""sah@awesame.org""}",317.0,22
+Python,saucelabs,2017-09-15,1,1,"#{""matt@friedm.com""}",318.0,22
+Python,saucelabs,2017-09-18,1,1,"#{""matt@friedm.com""}",319.0,22
+Python,saucelabs,2017-09-20,1,1,"#{""matt@friedm.com""}",320.0,22
+Python,saucelabs,2017-09-21,1,1,"#{""sah@awesame.org""}",321.0,22
+Python,saucelabs,2017-09-22,1,1,"#{""sah@saucelabs.com""}",322.0,22
+Python,saucelabs,2017-10-16,1,1,"#{""holly.becker@saucelabs.com""}",323.0,23
+Python,saucelabs,2017-10-19,2,1,"#{""seb.vincent@gmail.com""}",325.0,23
+Python,saucelabs,2017-12-05,1,1,"#{""holly.becker@saucelabs.com""}",326.0,23
+Python,saucelabs,2017-12-06,1,1,"#{""holly.becker@saucelabs.com""}",327.0,23
+Python,saucelabs,2017-12-11,2,1,"#{""holly.becker@saucelabs.com""}",329.0,23
+Python,saucelabs,2017-12-21,2,1,"#{""31707587+holly-sauce@users.noreply.github.com""}",331.0,24
+Python,saucelabs,2018-03-02,3,1,"#{""sah@saucelabs.com""}",334.0,24
+Python,saucelabs,2018-04-05,2,1,"#{""sah@saucelabs.com""}",336.0,24
+Python,saucelabs,2020-09-03,5,1,"#{""mail@christian-bromann.com""}",341.0,25

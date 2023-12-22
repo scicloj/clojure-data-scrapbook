@@ -1,0 +1,97 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",7.0,[{0 7}],0,7,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com]",9.0,[{0 9}],0,9,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",10.0,[{0 10}],0,10,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com]",12.0,[{0 12}],0,12,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-23,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",24.0,[{0 24}],0,24,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",28.0,[{0 28}],0,28,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-25,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",34.0,[{0 34}],0,34,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",37.0,[{0 37}],0,37,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",38.0,[{0 38}],0,38,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2011-10-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com]",40.0,[{0 40}],0,40,0,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2013-01-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bastian@blankenburg.net, bastian@blankenburg.net, bastian@blankenburg.net, bastian@blankenburg.net]",44.0,"[{0 40, 1 4}]",0,40,4,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2013-02-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bastian@blankenburg.net, bastian@blankenburg.net]",46.0,"[{0 40, 1 6}]",0,40,6,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2013-07-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",49.0,"[{0 43, 1 6}]",0,43,6,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2013-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",50.0,"[{0 44, 1 6}]",0,44,6,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2013-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",51.0,"[{0 45, 1 6}]",0,45,6,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-03-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",52.0,"[{0 46, 1 6}]",0,46,6,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-04-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",53.0,"[{0 47, 1 6}]",0,47,6,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cdorrat@gmail.com]",54.0,"[{0 48, 1 6}]",0,48,6,0,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-07-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cdorrat@gmail.com, desk@danielcompton.net]",56.0,"[{0 49, 1 6, 2 1}]",0,49,6,1,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",57.0,"[{0 49, 1 6, 2 2}]",0,49,6,2,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-09-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[desk@danielcompton.net, desk@danielcompton.net]",59.0,"[{0 49, 1 6, 2 4}]",0,49,6,4,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-09-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com]",61.0,"[{0 51, 1 6, 2 4}]",0,51,6,4,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-09-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",65.0,"[{0 55, 1 6, 2 4}]",0,55,6,4,0,0
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-11-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tobias@tobiasquinn.com]",66.0,"[{0 55, 1 6, 2 4, 4 1}]",0,55,6,4,0,1
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-11-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tobias@tobiasquinn.com]",67.0,"[{0 55, 1 6, 2 4, 4 2}]",0,55,6,4,0,2
+Clojure,https://github.com/cdorrat/reduce-fsm,2014-11-23,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com, cdorrat@gmail.com]",72.0,"[{0 60, 1 6, 2 4, 4 2}]",0,60,6,4,0,2
+Clojure,https://github.com/cdorrat/reduce-fsm,2015-12-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cnd@hagbard.dorrat.com, cnd@hagbard.dorrat.com]",74.0,"[{0 60, 1 6, 2 4, 4 2, 3 2}]",0,60,6,4,2,2

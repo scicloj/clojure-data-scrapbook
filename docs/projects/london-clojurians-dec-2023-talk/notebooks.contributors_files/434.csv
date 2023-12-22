@@ -1,0 +1,227 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,magnars,2013-11-07,3,1,"#{""magnars@gmail.com""}",3.0,1
+Clojure,magnars,2013-11-08,2,1,"#{""magnars@gmail.com""}",5.0,1
+Clojure,magnars,2013-11-09,3,1,"#{""magnars@gmail.com""}",8.0,1
+Clojure,magnars,2013-11-10,5,1,"#{""magnars@gmail.com""}",13.0,1
+Clojure,magnars,2013-11-11,4,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",17.0,2
+Clojure,magnars,2013-11-12,16,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",33.0,2
+Clojure,magnars,2013-11-13,3,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",36.0,2
+Clojure,magnars,2013-11-14,2,1,"#{""christian@cjohansen.no""}",38.0,2
+Clojure,magnars,2013-11-15,4,1,"#{""magnars@gmail.com""}",42.0,2
+Clojure,magnars,2013-11-18,3,1,"#{""magnars@gmail.com""}",45.0,2
+Clojure,magnars,2013-11-19,6,1,"#{""magnars@gmail.com""}",51.0,2
+Clojure,magnars,2013-11-20,9,1,"#{""magnars@gmail.com""}",60.0,2
+Clojure,magnars,2013-11-21,3,1,"#{""magnars@gmail.com""}",63.0,2
+Clojure,magnars,2013-11-22,1,1,"#{""magnars@gmail.com""}",64.0,2
+Clojure,magnars,2013-11-23,3,1,"#{""magnars@gmail.com""}",67.0,2
+Clojure,magnars,2013-11-24,8,1,"#{""magnars@gmail.com""}",75.0,2
+Clojure,magnars,2013-11-25,2,1,"#{""magnars@gmail.com""}",77.0,2
+Clojure,magnars,2013-11-26,1,1,"#{""magnars@gmail.com""}",78.0,2
+Clojure,magnars,2013-11-27,11,1,"#{""magnars@gmail.com""}",89.0,2
+Clojure,magnars,2013-12-02,2,1,"#{""magnars@gmail.com""}",91.0,2
+Clojure,magnars,2013-12-03,8,1,"#{""magnars@gmail.com""}",99.0,2
+Clojure,magnars,2013-12-04,7,1,"#{""magnars@gmail.com""}",106.0,2
+Clojure,magnars,2013-12-05,1,1,"#{""zshahar@gmail.com""}",107.0,3
+Clojure,magnars,2013-12-06,2,2,"#{""zshahar@gmail.com"" ""magnars@gmail.com""}",109.0,3
+Clojure,magnars,2013-12-07,4,1,"#{""magnars@gmail.com""}",113.0,3
+Clojure,magnars,2013-12-09,1,1,"#{""magnars@gmail.com""}",114.0,3
+Clojure,magnars,2013-12-13,4,1,"#{""magnars@gmail.com""}",118.0,3
+Clojure,magnars,2013-12-16,4,1,"#{""magnars@gmail.com""}",122.0,3
+Clojure,magnars,2013-12-28,5,1,"#{""magnars@gmail.com""}",127.0,3
+Clojure,magnars,2013-12-29,5,1,"#{""magnars@gmail.com""}",132.0,3
+Clojure,magnars,2013-12-30,9,1,"#{""magnars@gmail.com""}",141.0,3
+Clojure,magnars,2013-12-31,1,1,"#{""magnars@gmail.com""}",142.0,3
+Clojure,magnars,2014-01-02,1,1,"#{""magnars@gmail.com""}",143.0,3
+Clojure,magnars,2014-01-05,2,1,"#{""magnars@gmail.com""}",145.0,3
+Clojure,magnars,2014-01-08,4,1,"#{""magnars@gmail.com""}",149.0,3
+Clojure,magnars,2014-01-09,5,1,"#{""magnars@gmail.com""}",154.0,3
+Clojure,magnars,2014-01-11,1,1,"#{""magnars@gmail.com""}",155.0,3
+Clojure,magnars,2014-01-12,1,1,"#{""magnars@gmail.com""}",156.0,3
+Clojure,magnars,2014-01-13,8,1,"#{""magnars@gmail.com""}",164.0,3
+Clojure,magnars,2014-01-14,4,1,"#{""magnars@gmail.com""}",168.0,3
+Clojure,magnars,2014-01-15,5,1,"#{""magnars@gmail.com""}",173.0,3
+Clojure,magnars,2014-01-16,12,1,"#{""magnars@gmail.com""}",185.0,3
+Clojure,magnars,2014-01-17,1,1,"#{""magnars@gmail.com""}",186.0,3
+Clojure,magnars,2014-01-19,18,1,"#{""magnars@gmail.com""}",204.0,3
+Clojure,magnars,2014-01-21,1,1,"#{""magnars@gmail.com""}",205.0,3
+Clojure,magnars,2014-01-23,9,2,"#{""magnars@gmail.com"" ""karl@sutt.ee""}",214.0,4
+Clojure,magnars,2014-02-19,1,1,"#{""christian@cjohansen.no""}",215.0,4
+Clojure,magnars,2014-02-20,4,1,"#{""magnars@gmail.com""}",219.0,4
+Clojure,magnars,2014-02-21,1,1,"#{""magnars@gmail.com""}",220.0,4
+Clojure,magnars,2014-02-27,1,1,"#{""magnars@gmail.com""}",221.0,4
+Clojure,magnars,2014-02-28,1,1,"#{""mail@abhishek.geek.nz""}",222.0,5
+Clojure,magnars,2014-03-03,3,1,"#{""magnars@gmail.com""}",225.0,5
+Clojure,magnars,2014-03-12,2,2,"#{""august@augustl.com"" ""christian@cjohansen.no""}",227.0,6
+Clojure,magnars,2014-03-13,1,1,"#{""magnars@gmail.com""}",228.0,6
+Clojure,magnars,2014-03-19,2,1,"#{""cesar.bolanosportilla@gmail.com""}",230.0,7
+Clojure,magnars,2014-03-26,2,2,"#{""magnars@gmail.com"" ""kendall@kendagriff.com""}",232.0,8
+Clojure,magnars,2014-03-27,4,2,"#{""cesar.bolanosportilla@gmail.com"" ""magnars@gmail.com""}",236.0,8
+Clojure,magnars,2014-04-10,2,2,"#{""krisajenkins@gmail.com"" ""magnars@gmail.com""}",238.0,9
+Clojure,magnars,2014-04-16,1,1,"#{""magnars@gmail.com""}",239.0,9
+Clojure,magnars,2014-04-24,2,1,"#{""nauhygon@gmail.com""}",241.0,10
+Clojure,magnars,2014-04-25,4,1,"#{""magnars@gmail.com""}",245.0,10
+Clojure,magnars,2014-04-28,2,1,"#{""magnars@gmail.com""}",247.0,10
+Clojure,magnars,2014-05-02,1,1,"#{""yannick.scherer@stylefruits.de""}",248.0,11
+Clojure,magnars,2014-05-05,2,1,"#{""magnars@gmail.com""}",250.0,11
+Clojure,magnars,2014-05-10,1,1,"#{""DomKM@users.noreply.github.com""}",251.0,12
+Clojure,magnars,2014-05-11,1,1,"#{""magnars@gmail.com""}",252.0,12
+Clojure,magnars,2014-05-14,3,2,"#{""abhishek.reddy@smxemail.com"" ""magnars@gmail.com""}",255.0,13
+Clojure,magnars,2014-05-16,1,1,"#{""magnars@gmail.com""}",256.0,13
+Clojure,magnars,2014-05-27,1,1,"#{""magnars@gmail.com""}",257.0,13
+Clojure,magnars,2014-05-31,1,1,"#{""francisga@gmail.com""}",258.0,14
+Clojure,magnars,2014-06-03,9,1,"#{""magnars@gmail.com""}",267.0,14
+Clojure,magnars,2014-06-04,2,1,"#{""magnars@gmail.com""}",269.0,14
+Clojure,magnars,2014-07-11,1,1,"#{""magnars@gmail.com""}",270.0,14
+Clojure,magnars,2014-08-07,5,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",275.0,14
+Clojure,magnars,2014-08-19,3,1,"#{""magnars@gmail.com""}",278.0,14
+Clojure,magnars,2014-08-20,14,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",292.0,14
+Clojure,magnars,2014-08-21,11,1,"#{""christian@cjohansen.no""}",303.0,14
+Clojure,magnars,2014-08-22,18,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",321.0,14
+Clojure,magnars,2014-08-23,12,1,"#{""magnars@gmail.com""}",333.0,14
+Clojure,magnars,2014-08-24,5,1,"#{""magnars@gmail.com""}",338.0,14
+Clojure,magnars,2014-08-25,10,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",348.0,14
+Clojure,magnars,2014-08-26,15,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",363.0,14
+Clojure,magnars,2014-08-27,13,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",376.0,14
+Clojure,magnars,2014-08-28,22,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",398.0,14
+Clojure,magnars,2014-08-29,7,1,"#{""christian@cjohansen.no""}",405.0,14
+Clojure,magnars,2014-08-31,3,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",408.0,14
+Clojure,magnars,2014-09-01,9,3,"#{""christian@cjohansen.no"" ""magnars@gmail.com"" ""stig@brautaset.org""}",417.0,15
+Clojure,magnars,2014-09-02,16,3,"#{""christian@cjohansen.no"" ""magnars@gmail.com"" ""me@andrewmcveigh.com""}",433.0,16
+Clojure,magnars,2014-09-04,1,1,"#{""magnars@gmail.com""}",434.0,16
+Clojure,magnars,2014-09-12,1,1,"#{""magnars@gmail.com""}",435.0,16
+Clojure,magnars,2014-09-27,3,1,"#{""magnars@gmail.com""}",438.0,16
+Clojure,magnars,2014-10-04,2,2,"#{""michaelsappler@gmail.com"" ""magnars@gmail.com""}",440.0,17
+Clojure,magnars,2014-10-17,1,1,"#{""malcolm@juxt.pro""}",441.0,18
+Clojure,magnars,2014-10-22,1,1,"#{""christophermcdevitt@gmail.com""}",442.0,19
+Clojure,magnars,2014-11-27,3,1,"#{""magnars@gmail.com""}",445.0,19
+Clojure,magnars,2014-12-02,1,1,"#{""magnars@gmail.com""}",446.0,19
+Clojure,magnars,2014-12-08,6,1,"#{""magnars@gmail.com""}",452.0,19
+Clojure,magnars,2014-12-15,6,1,"#{""magnars@gmail.com""}",458.0,19
+Clojure,magnars,2014-12-21,1,1,"#{""magnars@gmail.com""}",459.0,19
+Clojure,magnars,2014-12-23,3,1,"#{""magnars@gmail.com""}",462.0,19
+Clojure,magnars,2015-01-08,1,1,"#{""magnars@gmail.com""}",463.0,19
+Clojure,magnars,2015-01-25,3,1,"#{""magnars@gmail.com""}",466.0,19
+Clojure,magnars,2015-01-29,6,1,"#{""magnars@gmail.com""}",472.0,19
+Clojure,magnars,2015-02-11,3,1,"#{""magnars@gmail.com""}",475.0,19
+Clojure,magnars,2015-02-18,2,1,"#{""magnars@gmail.com""}",477.0,19
+Clojure,magnars,2015-02-22,7,2,"#{""magnars@gmail.com"" ""rkworks@o0o.co""}",484.0,20
+Clojure,magnars,2015-03-27,1,1,"#{""magnars@gmail.com""}",485.0,20
+Clojure,magnars,2015-04-14,1,1,"#{""anton.onishchenko@gmail.com""}",486.0,21
+Clojure,magnars,2015-04-26,1,1,"#{""anton.onishchenko@gmail.com""}",487.0,21
+Clojure,magnars,2015-05-05,4,1,"#{""anton.onishchenko@gmail.com""}",491.0,21
+Clojure,magnars,2015-05-15,1,1,"#{""rkworks@o0o.co""}",492.0,21
+Clojure,magnars,2015-05-17,1,1,"#{""anton.onishchenko@gmail.com""}",493.0,21
+Clojure,magnars,2015-05-18,2,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",495.0,21
+Clojure,magnars,2015-07-08,2,1,"#{""magnars@gmail.com""}",497.0,21
+Clojure,magnars,2015-07-09,4,1,"#{""magnars@gmail.com""}",501.0,21
+Clojure,magnars,2015-07-10,2,1,"#{""magnars@gmail.com""}",503.0,21
+Clojure,magnars,2015-07-12,1,1,"#{""magnars@gmail.com""}",504.0,21
+Clojure,magnars,2015-07-13,3,1,"#{""magnars@gmail.com""}",507.0,21
+Clojure,magnars,2015-07-14,2,1,"#{""magnars@gmail.com""}",509.0,21
+Clojure,magnars,2015-07-15,3,1,"#{""magnars@gmail.com""}",512.0,21
+Clojure,magnars,2015-07-16,1,1,"#{""magnars@gmail.com""}",513.0,21
+Clojure,magnars,2015-07-22,1,1,"#{""magnars@gmail.com""}",514.0,21
+Clojure,magnars,2015-07-23,1,1,"#{""magnars@gmail.com""}",515.0,21
+Clojure,magnars,2015-07-24,1,1,"#{""magnars@gmail.com""}",516.0,21
+Clojure,magnars,2015-07-27,1,1,"#{""magnars@gmail.com""}",517.0,21
+Clojure,magnars,2015-07-28,1,1,"#{""magnars@gmail.com""}",518.0,21
+Clojure,magnars,2015-08-13,4,1,"#{""magnars@gmail.com""}",522.0,21
+Clojure,magnars,2015-09-18,1,1,"#{""magnars@gmail.com""}",523.0,21
+Clojure,magnars,2015-12-20,3,1,"#{""magnars@gmail.com""}",526.0,21
+Clojure,magnars,2015-12-21,1,1,"#{""hudnall.mark@gmail.com""}",527.0,22
+Clojure,magnars,2015-12-22,1,1,"#{""hudnall.mark@gmail.com""}",528.0,22
+Clojure,magnars,2015-12-23,2,1,"#{""magnars@gmail.com""}",530.0,22
+Clojure,magnars,2016-01-02,1,1,"#{""arohner@gmail.com""}",531.0,23
+Clojure,magnars,2016-01-03,8,2,"#{""telepopsound@gmail.com"" ""magnars@gmail.com""}",539.0,24
+Clojure,magnars,2016-01-04,4,1,"#{""magnars@gmail.com""}",543.0,24
+Clojure,magnars,2016-01-14,2,1,"#{""magnars@gmail.com""}",545.0,24
+Clojure,magnars,2016-02-03,1,1,"#{""magnars@gmail.com""}",546.0,24
+Clojure,magnars,2016-02-04,2,1,"#{""dlebrero@gmail.com""}",548.0,25
+Clojure,magnars,2016-02-05,2,1,"#{""magnars@gmail.com""}",550.0,25
+Clojure,magnars,2016-02-14,1,1,"#{""max@ovsankin.com""}",551.0,26
+Clojure,magnars,2016-02-15,1,1,"#{""james@logi.cl""}",552.0,27
+Clojure,magnars,2016-03-12,1,1,"#{""magnars@gmail.com""}",553.0,27
+Clojure,magnars,2016-03-18,2,2,"#{""max@ovsankin.com"" ""magnars@gmail.com""}",555.0,27
+Clojure,magnars,2016-03-19,2,1,"#{""magnars@gmail.com""}",557.0,27
+Clojure,magnars,2016-03-25,1,1,"#{""magnars@gmail.com""}",558.0,27
+Clojure,magnars,2016-03-30,3,1,"#{""magnars@gmail.com""}",561.0,27
+Clojure,magnars,2016-04-10,1,1,"#{""magnars@gmail.com""}",562.0,27
+Clojure,magnars,2016-04-11,2,1,"#{""magnars@gmail.com""}",564.0,27
+Clojure,magnars,2016-07-22,3,1,"#{""magnars@gmail.com""}",567.0,27
+Clojure,magnars,2016-08-01,2,1,"#{""magnars@gmail.com""}",569.0,27
+Clojure,magnars,2016-09-12,1,1,"#{""_@lvh.io""}",570.0,28
+Clojure,magnars,2016-09-13,2,1,"#{""magnars@gmail.com""}",572.0,28
+Clojure,magnars,2016-09-18,1,1,"#{""magnars@gmail.com""}",573.0,28
+Clojure,magnars,2016-10-04,2,2,"#{""magnars@gmail.com"" ""dmitri.sotnikov@gmail.com""}",575.0,29
+Clojure,magnars,2016-11-24,3,1,"#{""magnars@gmail.com""}",578.0,29
+Clojure,magnars,2016-11-25,3,2,"#{""magnars@gmail.com"" ""ai@example.com""}",581.0,30
+Clojure,magnars,2017-01-04,2,1,"#{""magnars@gmail.com""}",583.0,30
+Clojure,magnars,2017-02-22,1,1,"#{""jkpl@lepo.io""}",584.0,31
+Clojure,magnars,2017-02-23,1,1,"#{""magnars@gmail.com""}",585.0,31
+Clojure,magnars,2017-02-25,2,2,"#{""magnars@gmail.com"" ""lsnape@users.noreply.github.com""}",587.0,32
+Clojure,magnars,2017-05-02,2,1,"#{""christian@cjohansen.no""}",589.0,32
+Clojure,magnars,2017-05-03,2,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",591.0,32
+Clojure,magnars,2017-09-12,7,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",598.0,32
+Clojure,magnars,2017-09-20,2,1,"#{""magnars@gmail.com""}",600.0,32
+Clojure,magnars,2017-09-27,2,1,"#{""magnars@gmail.com""}",602.0,32
+Clojure,magnars,2018-01-15,11,1,"#{""magnars@gmail.com""}",613.0,32
+Clojure,magnars,2018-01-17,1,1,"#{""magnars@gmail.com""}",614.0,32
+Clojure,magnars,2018-01-18,3,1,"#{""magnars@gmail.com""}",617.0,32
+Clojure,magnars,2018-01-22,2,1,"#{""magnars@gmail.com""}",619.0,32
+Clojure,magnars,2018-01-25,4,1,"#{""magnars@gmail.com""}",623.0,32
+Clojure,magnars,2018-01-26,5,1,"#{""magnars@gmail.com""}",628.0,32
+Clojure,magnars,2018-04-04,2,1,"#{""magnars@gmail.com""}",630.0,32
+Clojure,magnars,2018-04-18,2,1,"#{""magnars@gmail.com""}",632.0,32
+Clojure,magnars,2018-05-14,1,1,"#{""timothypratley@gmail.com""}",633.0,33
+Clojure,magnars,2018-05-15,1,1,"#{""timothypratley@gmail.com""}",634.0,33
+Clojure,magnars,2018-05-16,1,1,"#{""timothypratley@gmail.com""}",635.0,33
+Clojure,magnars,2018-05-18,4,1,"#{""magnars@gmail.com""}",639.0,33
+Clojure,magnars,2018-10-02,4,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",643.0,33
+Clojure,magnars,2018-10-04,1,1,"#{""SneakyPeet@users.noreply.github.com""}",644.0,34
+Clojure,magnars,2018-10-05,3,1,"#{""magnars@gmail.com""}",647.0,34
+Clojure,magnars,2018-10-29,2,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",649.0,34
+Clojure,magnars,2018-12-22,1,1,"#{""adam@adamfrey.me""}",650.0,35
+Clojure,magnars,2018-12-23,6,1,"#{""magnars@gmail.com""}",656.0,35
+Clojure,magnars,2019-04-24,2,1,"#{""magnars@gmail.com""}",658.0,35
+Clojure,magnars,2019-04-26,3,1,"#{""magnars@gmail.com""}",661.0,35
+Clojure,magnars,2019-06-22,1,1,"#{""magnars@gmail.com""}",662.0,35
+Clojure,magnars,2019-06-24,1,1,"#{""magnars@gmail.com""}",663.0,35
+Clojure,magnars,2019-07-08,15,1,"#{""magnars@gmail.com""}",678.0,35
+Clojure,magnars,2019-08-03,7,1,"#{""magnars@gmail.com""}",685.0,35
+Clojure,magnars,2019-08-07,1,1,"#{""stephen@calmabiding.me""}",686.0,36
+Clojure,magnars,2019-08-08,3,2,"#{""magnars@gmail.com"" ""stephen@calmabiding.me""}",689.0,36
+Clojure,magnars,2019-08-10,1,1,"#{""magnars@gmail.com""}",690.0,36
+Clojure,magnars,2019-08-11,5,1,"#{""magnars@gmail.com""}",695.0,36
+Clojure,magnars,2019-08-13,1,1,"#{""magnars@gmail.com""}",696.0,36
+Clojure,magnars,2019-08-18,5,1,"#{""magnars@gmail.com""}",701.0,36
+Clojure,magnars,2019-10-10,2,1,"#{""mail@abhishek.geek.nz""}",703.0,36
+Clojure,magnars,2019-10-15,1,1,"#{""ra@refset.net""}",704.0,37
+Clojure,magnars,2019-10-16,1,1,"#{""ra@refset.net""}",705.0,37
+Clojure,magnars,2019-10-20,1,1,"#{""ra@refset.net""}",706.0,37
+Clojure,magnars,2019-11-13,1,1,"#{""august@augustl.com""}",707.0,37
+Clojure,magnars,2019-11-15,1,1,"#{""magnars@gmail.com""}",708.0,37
+Clojure,magnars,2019-11-17,3,1,"#{""august@augustl.com""}",711.0,37
+Clojure,magnars,2019-11-28,5,1,"#{""magnars@gmail.com""}",716.0,37
+Clojure,magnars,2019-12-04,1,1,"#{""magnars@gmail.com""}",717.0,37
+Clojure,magnars,2020-01-17,2,1,"#{""magnars@gmail.com""}",719.0,37
+Clojure,magnars,2020-05-10,1,1,"#{""keegan.csmith@gmail.com""}",720.0,38
+Clojure,magnars,2020-05-12,1,1,"#{""magnars@gmail.com""}",721.0,38
+Clojure,magnars,2021-01-30,1,1,"#{""magnars@gmail.com""}",722.0,38
+Clojure,magnars,2021-04-23,3,2,"#{""magnars@gmail.com"" ""dsp@technoanimal.net""}",725.0,39
+Clojure,magnars,2021-04-24,2,1,"#{""magnars@gmail.com""}",727.0,39
+Clojure,magnars,2022-02-13,1,1,"#{""magnars@gmail.com""}",728.0,39
+Clojure,magnars,2022-08-18,1,1,"#{""stel@stel.codes""}",729.0,40
+Clojure,magnars,2022-08-20,2,2,"#{""magnars@gmail.com"" ""stel@stel.codes""}",731.0,40
+Clojure,magnars,2022-08-29,1,1,"#{""magnars@gmail.com""}",732.0,40
+Clojure,magnars,2023-01-27,4,2,"#{""magnars@gmail.com"" ""40674427+the-exodus@users.noreply.github.com""}",736.0,41
+Clojure,magnars,2023-01-29,2,1,"#{""magnars@gmail.com""}",738.0,41
+Clojure,magnars,2023-02-08,2,2,"#{""magnars@gmail.com"" ""emil@emil0r.com""}",740.0,42
+Clojure,magnars,2023-05-31,1,1,"#{""john.d.swanson@gmail.com""}",741.0,43
+Clojure,magnars,2023-06-03,3,1,"#{""magnars@gmail.com""}",744.0,43
+Clojure,magnars,2023-10-02,1,1,"#{""christian@cjohansen.no""}",745.0,43
+Clojure,magnars,2023-10-03,1,1,"#{""magnars@gmail.com""}",746.0,43
+Clojure,magnars,2023-10-13,2,1,"#{""magnars@gmail.com""}",748.0,43
+Clojure,magnars,2023-10-18,3,1,"#{""magnars@gmail.com""}",751.0,43
+Clojure,magnars,2023-10-19,2,1,"#{""magnars@gmail.com""}",753.0,43
+Clojure,magnars,2023-11-21,9,2,"#{""christian@cjohansen.no"" ""magnars@gmail.com""}",762.0,43
+Clojure,magnars,2023-11-22,1,1,"#{""magnars@gmail.com""}",763.0,43

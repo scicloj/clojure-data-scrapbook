@@ -1,0 +1,331 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/plumatic/dommy,2013-01-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com]",5.0,[{1 5}],0,0,5,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@aria42.com]",6.0,[{1 6}],0,0,6,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-16,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[me@aria42.com, me@aria42.com, cpetzold@gmail.com, cpetzold@gmail.com, me@aria42.com]",11.0,"[{1 9, 0 2}]",0,2,9,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-17,14,3,"#tech.v3.dataset.column<string>[14]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, ibdknox@gmail.com, me@aria42.com, me@aria42.com, ibdknox@gmail.com, ibdknox@gmail.com, me@aria42.com, jonrose08@gmail.com, me@aria42.com, jonrose08@gmail.com]",25.0,"[{1 18, 0 2, ""other"" 5}]",5,2,18,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@aria42.com, m@qbits.cc, m@qbits.cc]",28.0,"[{1 19, 0 2, ""other"" 7}]",7,2,19,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-21,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com]",32.0,"[{1 23, 0 2, ""other"" 7}]",7,2,23,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@aria42.com, me@aria42.com, michael.van.acken@gmail.com]",35.0,"[{1 25, 0 2, ""other"" 8}]",8,2,25,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, me@aria42.com]",37.0,"[{1 27, 0 2, ""other"" 8}]",8,2,27,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, steve@sanityinc.com]",39.0,"[{1 28, 0 2, ""other"" 9}]",9,2,28,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-27,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, atkaaz@gmail.com]",41.0,"[{1 29, 0 2, ""other"" 10}]",10,2,29,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-28,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, me@aria42.com]",44.0,"[{1 30, 0 4, ""other"" 10}]",10,4,30,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-29,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[cpetzold@gmail.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com]",50.0,"[{1 35, 0 5, ""other"" 10}]",10,5,35,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",51.0,"[{1 35, 0 6, ""other"" 10}]",10,6,35,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",52.0,"[{1 35, 0 7, ""other"" 10}]",10,7,35,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, me@aria42.com]",54.0,"[{1 37, 0 7, ""other"" 10}]",10,7,37,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",55.0,"[{1 37, 0 8, ""other"" 10}]",10,8,37,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[m@qbits.cc, davesann.p@gmail.com]",57.0,"[{1 37, 0 8, ""other"" 12}]",12,8,37,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, me@aria42.com]",59.0,"[{1 39, 0 8, ""other"" 12}]",12,8,39,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-08,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[me@aria42.com, cpetzold@gmail.com, me@aria42.com, me@aria42.com]",63.0,"[{1 42, 0 9, ""other"" 12}]",12,9,42,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-09,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, davesann.p@gmail.com, davesann.p@gmail.com, davesann.p@gmail.com, davesann.p@gmail.com, davesann.p@gmail.com]",76.0,"[{1 50, 0 9, ""other"" 17}]",17,9,50,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com]",78.0,"[{1 50, 0 11, ""other"" 17}]",17,11,50,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-20,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, malcolm@congreve.com]",83.0,"[{1 50, 0 15, ""other"" 18}]",18,15,50,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-21,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[me@aria42.com, cpetzold@gmail.com, cpetzold@gmail.com, me@aria42.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",90.0,"[{1 52, 0 20, ""other"" 18}]",18,20,52,0,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-22,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",95.0,"[{1 52, 0 22, ""other"" 18, 2 3}]",18,22,52,3,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-26,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",105.0,"[{1 52, 0 32, ""other"" 18, 2 3}]",18,32,52,3,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-27,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, walter.wehner@BEEBE.ekahau.com, walter.wehner@BEEBE.ekahau.com]",109.0,"[{1 52, 0 34, ""other"" 20, 2 3}]",20,34,52,3,0,0
+Clojure,https://github.com/plumatic/dommy,2013-02-28,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[laughinghan@gmail.com, laughinghan@gmail.com, ian@getprismatic.com, cpetzold@gmail.com, cpetzold@gmail.com, ian@getprismatic.com, cpetzold@gmail.com]",116.0,"[{1 52, 0 37, ""other"" 20, 2 5, 4 2}]",20,37,52,5,0,2
+Clojure,https://github.com/plumatic/dommy,2013-03-01,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, laughinghan@gmail.com, ian@getprismatic.com, laughinghan@gmail.com, laughinghan@gmail.com, ian@getprismatic.com, ian@getprismatic.com, laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com]",127.0,"[{1 52, 0 39, ""other"" 20, 2 11, 4 5}]",20,39,52,11,0,5
+Clojure,https://github.com/plumatic/dommy,2013-03-07,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[laughinghan@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",131.0,"[{1 52, 0 42, ""other"" 20, 2 12, 4 5}]",20,42,52,12,0,5
+Clojure,https://github.com/plumatic/dommy,2013-03-08,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com]",136.0,"[{1 52, 0 42, ""other"" 20, 2 17, 4 5}]",20,42,52,17,0,5
+Clojure,https://github.com/plumatic/dommy,2013-03-11,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[laughinghan@gmail.com, laughinghan@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",144.0,"[{1 52, 0 48, ""other"" 20, 2 19, 4 5}]",20,48,52,19,0,5
+Clojure,https://github.com/plumatic/dommy,2013-03-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com]",146.0,"[{1 52, 0 50, ""other"" 20, 2 19, 4 5}]",20,50,52,19,0,5
+Clojure,https://github.com/plumatic/dommy,2013-03-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[laughinghan@gmail.com]",147.0,"[{1 52, 0 50, ""other"" 20, 2 20, 4 5}]",20,50,52,20,0,5
+Clojure,https://github.com/plumatic/dommy,2013-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",148.0,"[{1 52, 0 51, ""other"" 20, 2 20, 4 5}]",20,51,52,20,0,5
+Clojure,https://github.com/plumatic/dommy,2013-03-18,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[ian@getprismatic.com, laughinghan@gmail.com, cpetzold@gmail.com]",151.0,"[{1 52, 0 52, ""other"" 20, 2 21, 4 6}]",20,52,52,21,0,6
+Clojure,https://github.com/plumatic/dommy,2013-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ian@getprismatic.com]",152.0,"[{1 52, 0 52, ""other"" 20, 2 21, 4 7}]",20,52,52,21,0,7
+Clojure,https://github.com/plumatic/dommy,2013-03-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ian@getprismatic.com, ian@getprismatic.com]",154.0,"[{1 52, 0 52, ""other"" 20, 2 21, 4 9}]",20,52,52,21,0,9
+Clojure,https://github.com/plumatic/dommy,2013-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ian@getprismatic.com]",155.0,"[{1 52, 0 52, ""other"" 20, 2 21, 4 10}]",20,52,52,21,0,10
+Clojure,https://github.com/plumatic/dommy,2013-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@aria42.com]",156.0,"[{1 53, 0 52, ""other"" 20, 2 21, 4 10}]",20,52,53,21,0,10
+Clojure,https://github.com/plumatic/dommy,2013-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@aria42.com]",157.0,"[{1 54, 0 52, ""other"" 20, 2 21, 4 10}]",20,52,54,21,0,10
+Clojure,https://github.com/plumatic/dommy,2013-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",158.0,"[{1 54, 0 53, ""other"" 20, 2 21, 4 10}]",20,53,54,21,0,10
+Clojure,https://github.com/plumatic/dommy,2013-03-27,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[ian@getprismatic.com, ian@getprismatic.com, ian@getprismatic.com, ian@getprismatic.com, ian@getprismatic.com, ian@getprismatic.com, ian@getprismatic.com, ian@getprismatic.com, ian@getprismatic.com]",167.0,"[{1 54, 0 53, ""other"" 20, 2 21, 4 19}]",20,53,54,21,0,19
+Clojure,https://github.com/plumatic/dommy,2013-03-28,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[laughinghan@gmail.com, ian@getprismatic.com, ian@getprismatic.com, laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com]",174.0,"[{1 54, 0 53, ""other"" 20, 2 26, 4 21}]",20,53,54,26,0,21
+Clojure,https://github.com/plumatic/dommy,2013-03-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[laughinghan@gmail.com, laughinghan@gmail.com, laughinghan@gmail.com]",177.0,"[{1 54, 0 53, ""other"" 20, 2 29, 4 21}]",20,53,54,29,0,21
+Clojure,https://github.com/plumatic/dommy,2013-03-31,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com]",184.0,"[{1 61, 0 53, ""other"" 20, 2 29, 4 21}]",20,53,61,29,0,21
+Clojure,https://github.com/plumatic/dommy,2013-04-01,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, me@aria42.com, cpetzold@gmail.com]",190.0,"[{1 66, 0 54, ""other"" 20, 2 29, 4 21}]",20,54,66,29,0,21
+Clojure,https://github.com/plumatic/dommy,2013-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ian@getprismatic.com]",191.0,"[{1 66, 0 54, ""other"" 20, 2 29, 4 22}]",20,54,66,29,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",192.0,"[{1 66, 0 55, ""other"" 20, 2 29, 4 22}]",20,55,66,29,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ai@aaroniba.net]",193.0,"[{1 66, 0 55, ""other"" 21, 2 29, 4 22}]",21,55,66,29,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@aria42.com]",194.0,"[{1 67, 0 55, ""other"" 21, 2 29, 4 22}]",21,55,67,29,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[harri.salokorpi@reaktor.fi]",195.0,"[{1 67, 0 55, ""other"" 22, 2 29, 4 22}]",22,55,67,29,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[esa.virtanen@reaktor.fi]",196.0,"[{1 67, 0 55, ""other"" 23, 2 29, 4 22}]",23,55,67,29,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com]",198.0,"[{1 67, 0 57, ""other"" 23, 2 29, 4 22}]",23,57,67,29,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[laughinghan@gmail.com, cpetzold@gmail.com]",200.0,"[{1 67, 0 58, ""other"" 23, 2 30, 4 22}]",23,58,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com]",202.0,"[{1 67, 0 60, ""other"" 23, 2 30, 4 22}]",23,60,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-21,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",211.0,"[{1 67, 0 69, ""other"" 23, 2 30, 4 22}]",23,69,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",212.0,"[{1 67, 0 70, ""other"" 23, 2 30, 4 22}]",23,70,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-23,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",217.0,"[{1 67, 0 75, ""other"" 23, 2 30, 4 22}]",23,75,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",220.0,"[{1 67, 0 78, ""other"" 23, 2 30, 4 22}]",23,78,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com]",223.0,"[{1 67, 0 81, ""other"" 23, 2 30, 4 22}]",23,81,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",224.0,"[{1 67, 0 82, ""other"" 23, 2 30, 4 22}]",23,82,67,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@aria42.com]",225.0,"[{1 68, 0 82, ""other"" 23, 2 30, 4 22}]",23,82,68,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-29,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[me@aria42.com, rm_hull@yahoo.co.uk, rm_hull@yahoo.co.uk, cpetzold@gmail.com, cpetzold@gmail.com]",230.0,"[{1 69, 0 84, ""other"" 25, 2 30, 4 22}]",25,84,69,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-04-30,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[cpetzold@gmail.com, michael.van.acken@gmail.com, rm_hull@yahoo.co.uk, rm_hull@yahoo.co.uk, rm_hull@yahoo.co.uk]",235.0,"[{1 69, 0 85, ""other"" 29, 2 30, 4 22}]",29,85,69,30,0,22
+Clojure,https://github.com/plumatic/dommy,2013-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[laughinghan@gmail.com]",236.0,"[{1 69, 0 85, ""other"" 29, 2 31, 4 22}]",29,85,69,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-05-05,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com, jenksb@gmail.com]",240.0,"[{1 72, 0 85, ""other"" 30, 2 31, 4 22}]",30,85,72,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-05-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@restivo.org]",241.0,"[{1 72, 0 85, ""other"" 31, 2 31, 4 22}]",31,85,72,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@aria42.com]",242.0,"[{1 73, 0 85, ""other"" 31, 2 31, 4 22}]",31,85,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-06-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com]",244.0,"[{1 73, 0 87, ""other"" 31, 2 31, 4 22}]",31,87,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jungziege@gmail.com]",245.0,"[{1 73, 0 87, ""other"" 32, 2 31, 4 22}]",32,87,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",246.0,"[{1 73, 0 88, ""other"" 32, 2 31, 4 22}]",32,88,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",247.0,"[{1 73, 0 89, ""other"" 32, 2 31, 4 22}]",32,89,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",248.0,"[{1 73, 0 90, ""other"" 32, 2 31, 4 22}]",32,90,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",249.0,"[{1 73, 0 91, ""other"" 32, 2 31, 4 22}]",32,91,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jungziege@gmail.com]",250.0,"[{1 73, 0 91, ""other"" 33, 2 31, 4 22}]",33,91,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[conner+ian.wong@getprismatic.com, conner+ian.wong@getprismatic.com]",252.0,"[{1 73, 0 91, ""other"" 35, 2 31, 4 22}]",35,91,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",253.0,"[{1 73, 0 92, ""other"" 35, 2 31, 4 22}]",35,92,73,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@aria42.com]",254.0,"[{1 74, 0 92, ""other"" 35, 2 31, 4 22}]",35,92,74,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-08-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, tim.visher@gmail.com]",256.0,"[{1 75, 0 92, ""other"" 36, 2 31, 4 22}]",36,92,75,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",257.0,"[{1 75, 0 93, ""other"" 36, 2 31, 4 22}]",36,93,75,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-09-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@aria42.com, me@aria42.com, me@aria42.com]",260.0,"[{1 78, 0 93, ""other"" 36, 2 31, 4 22}]",36,93,78,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jmgimeno@gmail.com]",261.0,"[{1 78, 0 93, ""other"" 37, 2 31, 4 22}]",37,93,78,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-09-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, me@aria42.com]",263.0,"[{1 80, 0 93, ""other"" 37, 2 31, 4 22}]",37,93,80,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-10-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@aria42.com, justinhj@gmail.com]",265.0,"[{1 81, 0 93, ""other"" 38, 2 31, 4 22}]",38,93,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nikelandjelo@gmail.com]",266.0,"[{1 81, 0 93, ""other"" 39, 2 31, 4 22}]",39,93,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-11-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[djpowell@djpowell.net, djpowell@djpowell.net, djpowell@djpowell.net]",269.0,"[{1 81, 0 93, ""other"" 42, 2 31, 4 22}]",42,93,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2013-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dan@dankee.com]",270.0,"[{1 81, 0 93, ""other"" 43, 2 31, 4 22}]",43,93,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-01-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com]",272.0,"[{1 81, 0 95, ""other"" 43, 2 31, 4 22}]",43,95,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-01-11,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[cpetzold@gmail.com, koddsson@gmail.com, koddsson@gmail.com, koddsson@gmail.com, koddsson@gmail.com]",277.0,"[{1 81, 0 96, ""other"" 47, 2 31, 4 22}]",47,96,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-01-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com]",279.0,"[{1 81, 0 98, ""other"" 47, 2 31, 4 22}]",47,98,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-01-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[koddsson@gmail.com, koddsson@gmail.com, koddsson@gmail.com, koddsson@gmail.com]",283.0,"[{1 81, 0 98, ""other"" 51, 2 31, 4 22}]",51,98,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-01-27,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, cpetzold@gmail.com, koddsson@gmail.com, koddsson@gmail.com, cpetzold@gmail.com]",291.0,"[{1 81, 0 104, ""other"" 53, 2 31, 4 22}]",53,104,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rm_hull@yahoo.co.uk]",292.0,"[{1 81, 0 104, ""other"" 54, 2 31, 4 22}]",54,104,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-01-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",293.0,"[{1 81, 0 105, ""other"" 54, 2 31, 4 22}]",54,105,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",294.0,"[{1 81, 0 106, ""other"" 54, 2 31, 4 22}]",54,106,81,31,0,22
+Clojure,https://github.com/plumatic/dommy,2014-08-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[logan.linn@gmail.com, logan.linn@gmail.com]",296.0,"[{1 81, 0 106, ""other"" 54, 2 31, 4 22, 3 2}]",54,106,81,31,2,22
+Clojure,https://github.com/plumatic/dommy,2014-08-05,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com]",305.0,"[{1 81, 0 106, ""other"" 54, 2 31, 4 22, 3 11}]",54,106,81,31,11,22
+Clojure,https://github.com/plumatic/dommy,2014-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[conner@getprismatic.com]",306.0,"[{1 81, 0 106, ""other"" 55, 2 31, 4 22, 3 11}]",55,106,81,31,11,22
+Clojure,https://github.com/plumatic/dommy,2014-10-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[conner@getprismatic.com, conner@getprismatic.com]",308.0,"[{1 81, 0 106, ""other"" 57, 2 31, 4 22, 3 11}]",57,106,81,31,11,22
+Clojure,https://github.com/plumatic/dommy,2014-10-13,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, conner@getprismatic.com, conner@getprismatic.com, conner@getprismatic.com]",314.0,"[{1 81, 0 106, ""other"" 60, 2 31, 4 22, 3 14}]",60,106,81,31,14,22
+Clojure,https://github.com/plumatic/dommy,2014-10-14,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[cpetzold@gmail.com, conner@getprismatic.com, logan.linn@gmail.com, logan.linn@gmail.com]",318.0,"[{1 81, 0 107, ""other"" 61, 2 31, 4 22, 3 16}]",61,107,81,31,16,22
+Clojure,https://github.com/plumatic/dommy,2014-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cpetzold@gmail.com]",319.0,"[{1 81, 0 108, ""other"" 61, 2 31, 4 22, 3 16}]",61,108,81,31,16,22
+Clojure,https://github.com/plumatic/dommy,2014-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adrian.medina@mail.yu.edu]",320.0,"[{1 81, 0 108, ""other"" 62, 2 31, 4 22, 3 16}]",62,108,81,31,16,22
+Clojure,https://github.com/plumatic/dommy,2014-12-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[logan.linn@gmail.com]",321.0,"[{1 81, 0 108, ""other"" 62, 2 31, 4 22, 3 17}]",62,108,81,31,17,22
+Clojure,https://github.com/plumatic/dommy,2014-12-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[logan.linn@gmail.com]",322.0,"[{1 81, 0 108, ""other"" 62, 2 31, 4 22, 3 18}]",62,108,81,31,18,22
+Clojure,https://github.com/plumatic/dommy,2015-01-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[logan.linn@gmail.com, okal@justokal.com]",324.0,"[{1 81, 0 108, ""other"" 63, 2 31, 4 22, 3 19}]",63,108,81,31,19,22
+Clojure,https://github.com/plumatic/dommy,2015-04-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ccfontes@gmail.com, ccfontes@gmail.com]",326.0,"[{1 81, 0 108, ""other"" 65, 2 31, 4 22, 3 19}]",65,108,81,31,19,22
+Clojure,https://github.com/plumatic/dommy,2015-04-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com]",329.0,"[{1 81, 0 108, ""other"" 65, 2 31, 4 22, 3 22}]",65,108,81,31,22,22
+Clojure,https://github.com/plumatic/dommy,2015-04-28,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com, logan.linn@gmail.com]",336.0,"[{1 81, 0 108, ""other"" 65, 2 31, 4 22, 3 29}]",65,108,81,31,29,22
+Clojure,https://github.com/plumatic/dommy,2016-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jason@w01fe.com]",337.0,"[{1 81, 0 108, ""other"" 66, 2 31, 4 22, 3 29}]",66,108,81,31,29,22

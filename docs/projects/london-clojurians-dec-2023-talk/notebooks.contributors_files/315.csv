@@ -1,0 +1,214 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,noir-clojure,2011-05-10,3,1,"#{""ibdknox@gmail.com""}",3.0,1
+Clojure,noir-clojure,2011-05-16,1,1,"#{""ibdknox@gmail.com""}",4.0,1
+Clojure,noir-clojure,2011-05-23,2,1,"#{""ibdknox@gmail.com""}",6.0,1
+Clojure,noir-clojure,2011-05-24,1,1,"#{""ibdknox@gmail.com""}",7.0,1
+Clojure,noir-clojure,2011-05-25,2,1,"#{""ibdknox@gmail.com""}",9.0,1
+Clojure,noir-clojure,2011-05-26,5,1,"#{""ibdknox@gmail.com""}",14.0,1
+Clojure,noir-clojure,2011-05-30,1,1,"#{""ibdknox@gmail.com""}",15.0,1
+Clojure,noir-clojure,2011-06-02,3,1,"#{""ibdknox@gmail.com""}",18.0,1
+Clojure,noir-clojure,2011-06-03,3,1,"#{""ibdknox@gmail.com""}",21.0,1
+Clojure,noir-clojure,2011-06-10,1,1,"#{""ibdknox@gmail.com""}",22.0,1
+Clojure,noir-clojure,2011-06-12,1,1,"#{""ibdknox@gmail.com""}",23.0,1
+Clojure,noir-clojure,2011-06-13,5,1,"#{""ibdknox@gmail.com""}",28.0,1
+Clojure,noir-clojure,2011-06-14,4,1,"#{""ibdknox@gmail.com""}",32.0,1
+Clojure,noir-clojure,2011-06-16,1,1,"#{""ibdknox@gmail.com""}",33.0,1
+Clojure,noir-clojure,2011-06-21,6,1,"#{""ibdknox@gmail.com""}",39.0,1
+Clojure,noir-clojure,2011-06-22,9,3,"#{""pyr@milestonelab.com"" ""ibdknox@gmail.com"" ""stuart@ecoscorecard.com""}",48.0,3
+Clojure,noir-clojure,2011-06-23,5,2,"#{""pyr@milestonelab.com"" ""ibdknox@gmail.com""}",53.0,3
+Clojure,noir-clojure,2011-06-26,3,1,"#{""ibdknox@gmail.com""}",56.0,3
+Clojure,noir-clojure,2011-06-27,4,2,"#{""ibdknox@gmail.com"" ""daniel.l.gregoire@gmail.com""}",60.0,4
+Clojure,noir-clojure,2011-07-03,1,1,"#{""ibdknox@gmail.com""}",61.0,4
+Clojure,noir-clojure,2011-07-08,1,1,"#{""ibdknox@gmail.com""}",62.0,4
+Clojure,noir-clojure,2011-07-12,3,2,"#{""ibdknox@gmail.com"" ""alang@malloys.org""}",65.0,5
+Clojure,noir-clojure,2011-07-15,2,1,"#{""ibdknox@gmail.com""}",67.0,5
+Clojure,noir-clojure,2011-07-23,2,1,"#{""ibdknox@gmail.com""}",69.0,5
+Clojure,noir-clojure,2011-07-24,3,1,"#{""ibdknox@gmail.com""}",72.0,5
+Clojure,noir-clojure,2011-07-25,1,1,"#{""ibdknox@gmail.com""}",73.0,5
+Clojure,noir-clojure,2011-07-27,3,1,"#{""ibdknox@gmail.com""}",76.0,5
+Clojure,noir-clojure,2011-07-30,2,2,"#{""wu@madk.org"" ""ibdknox@gmail.com""}",78.0,6
+Clojure,noir-clojure,2011-08-01,2,2,"#{""ibdknox@gmail.com"" ""paul@pmn.org""}",80.0,7
+Clojure,noir-clojure,2011-08-02,3,3,"#{""pyr@milestonelab.com"" ""ibdknox@gmail.com"" ""ignacio@minnow.(none)""}",83.0,8
+Clojure,noir-clojure,2011-08-03,7,4,"#{""ignacio@albacore.(none)"" ""ibdknox@gmail.com"" ""ignacio@minnow.(none)"" ""daniel.l.gregoire@gmail.com""}",90.0,9
+Clojure,noir-clojure,2011-08-05,2,2,"#{""chris@readyforzero.com"" ""ibdknox@gmail.com""}",92.0,10
+Clojure,noir-clojure,2011-08-07,3,1,"#{""ibdknox@gmail.com""}",95.0,10
+Clojure,noir-clojure,2011-08-09,4,2,"#{""arohner@gmail.com"" ""chris@readyforzero.com""}",99.0,11
+Clojure,noir-clojure,2011-08-10,7,2,"#{""arohner@gmail.com"" ""ibdknox@gmail.com""}",106.0,11
+Clojure,noir-clojure,2011-08-11,2,1,"#{""ibdknox@gmail.com""}",108.0,11
+Clojure,noir-clojure,2011-08-13,1,1,"#{""ibdknox@gmail.com""}",109.0,11
+Clojure,noir-clojure,2011-08-16,1,1,"#{""ibdknox@gmail.com""}",110.0,11
+Clojure,noir-clojure,2011-08-17,2,2,"#{""chris@readyforzero.com"" ""ibdknox@gmail.com""}",112.0,11
+Clojure,noir-clojure,2011-08-24,2,1,"#{""ibdknox@gmail.com""}",114.0,11
+Clojure,noir-clojure,2011-08-25,1,1,"#{""ibdknox@gmail.com""}",115.0,11
+Clojure,noir-clojure,2011-08-29,1,1,"#{""ibdknox@gmail.com""}",116.0,11
+Clojure,noir-clojure,2011-09-05,1,1,"#{""ibdknox@gmail.com""}",117.0,11
+Clojure,noir-clojure,2011-09-08,2,1,"#{""ibdknox@gmail.com""}",119.0,11
+Clojure,noir-clojure,2011-09-28,1,1,"#{""ibdknox@gmail.com""}",120.0,11
+Clojure,noir-clojure,2011-10-02,4,1,"#{""ibdknox@gmail.com""}",124.0,11
+Clojure,noir-clojure,2011-10-03,3,1,"#{""ibdknox@gmail.com""}",127.0,11
+Clojure,noir-clojure,2011-10-06,1,1,"#{""ibdknox@gmail.com""}",128.0,11
+Clojure,noir-clojure,2011-10-12,1,1,"#{""ibdknox@gmail.com""}",129.0,11
+Clojure,noir-clojure,2011-10-13,1,1,"#{""ibdknox@gmail.com""}",130.0,11
+Clojure,noir-clojure,2011-10-30,1,1,"#{""ibdknox@gmail.com""}",131.0,11
+Clojure,noir-clojure,2011-11-05,15,1,"#{""ibdknox@gmail.com""}",146.0,11
+Clojure,noir-clojure,2011-11-06,2,1,"#{""ibdknox@gmail.com""}",148.0,11
+Clojure,noir-clojure,2011-11-20,1,1,"#{""ibdknox@gmail.com""}",149.0,11
+Clojure,noir-clojure,2011-11-24,1,1,"#{""ibdknox@gmail.com""}",150.0,11
+Clojure,noir-clojure,2011-12-05,1,1,"#{""ibdknox@gmail.com""}",151.0,11
+Clojure,noir-clojure,2011-12-08,1,1,"#{""ibdknox@gmail.com""}",152.0,11
+Clojure,noir-clojure,2011-12-18,1,1,"#{""ibdknox@gmail.com""}",153.0,11
+Clojure,noir-clojure,2011-12-20,3,2,"#{""ibdknox@gmail.com"" ""i@raynes.me""}",156.0,12
+Clojure,noir-clojure,2011-12-21,4,2,"#{""ibdknox@gmail.com"" ""i@raynes.me""}",160.0,12
+Clojure,noir-clojure,2011-12-22,1,1,"#{""i@raynes.me""}",161.0,12
+Clojure,noir-clojure,2011-12-23,6,2,"#{""ibdknox@gmail.com"" ""i@raynes.me""}",167.0,12
+Clojure,noir-clojure,2011-12-24,2,1,"#{""i@raynes.me""}",169.0,12
+Clojure,noir-clojure,2011-12-25,6,2,"#{""ibdknox@gmail.com"" ""i@raynes.me""}",175.0,12
+Clojure,noir-clojure,2011-12-31,2,1,"#{""i@raynes.me""}",177.0,12
+Clojure,noir-clojure,2012-01-06,1,1,"#{""ibdknox@gmail.com""}",178.0,12
+Clojure,noir-clojure,2012-01-13,1,1,"#{""ibdknox@gmail.com""}",179.0,12
+Clojure,noir-clojure,2012-01-15,2,2,"#{""brobronsa@gmail.com"" ""ibdknox@gmail.com""}",181.0,13
+Clojure,noir-clojure,2012-01-28,1,1,"#{""jim@crossleys.org""}",182.0,14
+Clojure,noir-clojure,2012-01-29,4,1,"#{""ibdknox@gmail.com""}",186.0,14
+Clojure,noir-clojure,2012-02-07,1,1,"#{""ibdknox@gmail.com""}",187.0,14
+Clojure,noir-clojure,2012-02-11,1,1,"#{""matthew.boston@gmail.com""}",188.0,15
+Clojure,noir-clojure,2012-02-16,1,1,"#{""ibdknox@gmail.com""}",189.0,15
+Clojure,noir-clojure,2012-02-28,1,1,"#{""michael@novemberain.com""}",190.0,16
+Clojure,noir-clojure,2012-03-10,2,1,"#{""i@raynes.me""}",192.0,16
+Clojure,noir-clojure,2012-03-19,8,1,"#{""ibdknox@gmail.com""}",200.0,16
+Clojure,noir-clojure,2012-03-20,1,1,"#{""ibdknox@gmail.com""}",201.0,16
+Clojure,noir-clojure,2012-04-17,1,1,"#{""jonas@jonasfagundes.com""}",202.0,17
+Clojure,noir-clojure,2012-04-29,1,1,"#{""ibdknox@gmail.com""}",203.0,17
+Clojure,noir-clojure,2012-05-06,2,1,"#{""krestivo@restivo.org""}",205.0,18
+Clojure,noir-clojure,2012-05-07,8,4,"#{""anthony@anthony-desktop.(none)"" ""krestivo@restivo.org"" ""ibdknox@gmail.com"" ""i@raynes.me""}",213.0,19
+Clojure,noir-clojure,2012-05-08,13,4,"#{""schuetzk@gmail.com"" ""pandeiro@gmail.com"" ""krestivo@restivo.org"" ""i@raynes.me""}",226.0,21
+Clojure,noir-clojure,2012-05-09,2,1,"#{""i@raynes.me""}",228.0,21
+Clojure,noir-clojure,2012-05-10,6,4,"#{""pandeiro@gmail.com"" ""scstarkey@gmail.com"" ""i@raynes.me"" ""john@szakmeister.net""}",234.0,23
+Clojure,noir-clojure,2012-05-11,2,1,"#{""pandeiro@gmail.com""}",236.0,23
+Clojure,noir-clojure,2012-05-14,4,2,"#{""krestivo@restivo.org"" ""i@raynes.me""}",240.0,23
+Clojure,noir-clojure,2012-05-21,1,1,"#{""krestivo@restivo.org""}",241.0,23
+Clojure,noir-clojure,2012-05-22,1,1,"#{""krestivo@restivo.org""}",242.0,23
+Clojure,noir-clojure,2012-05-28,1,1,"#{""krestivo@restivo.org""}",243.0,23
+Clojure,noir-clojure,2012-06-01,1,1,"#{""krestivo@restivo.org""}",244.0,23
+Clojure,noir-clojure,2012-06-04,6,2,"#{""krestivo@restivo.org"" ""i@raynes.me""}",250.0,23
+Clojure,noir-clojure,2012-06-06,2,1,"#{""i@raynes.me""}",252.0,23
+Clojure,noir-clojure,2012-06-23,10,1,"#{""i@raynes.me""}",262.0,23
+Clojure,noir-clojure,2012-06-29,1,1,"#{""i@raynes.me""}",263.0,23
+Clojure,noir-clojure,2012-07-01,3,1,"#{""i@raynes.me""}",266.0,23
+Clojure,noir-clojure,2012-09-14,1,1,"#{""jim@crossleys.org""}",267.0,23
+Clojure,noir-clojure,2012-09-15,1,1,"#{""jim@crossleys.org""}",268.0,23
+Clojure,noir-clojure,2012-10-26,1,1,"#{""git@oliy.co.uk""}",269.0,24
+Clojure,noir-clojure,2012-10-27,1,1,"#{""jakub.holy@iterate.no""}",270.0,25
+Clojure,noir-clojure,2012-11-11,5,1,"#{""i@raynes.me""}",275.0,25
+Clojure,noir-clojure,2012-12-01,2,1,"#{""i@raynes.me""}",277.0,25
+Clojure,noir-clojure,2012-12-09,1,1,"#{""i@raynes.me""}",278.0,25
+Clojure,noir-clojure,2012-12-13,1,1,"#{""i@raynes.me""}",279.0,25
+Clojure,noir-clojure,2012-12-16,1,1,"#{""konrad.garus@gmail.com""}",280.0,26
+Clojure,noir-clojure,2012-12-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",281.0,27
+Clojure,noir-clojure,2012-12-26,3,2,"#{""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",284.0,27
+Clojure,noir-clojure,2012-12-27,3,2,"#{""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",287.0,27
+Clojure,noir-clojure,2012-12-29,1,1,"#{""i@raynes.me""}",288.0,27
+Clojure,noir-clojure,2012-12-30,8,2,"#{""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",296.0,27
+Clojure,noir-clojure,2012-12-31,5,2,"#{""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",301.0,27
+Clojure,noir-clojure,2013-01-01,4,1,"#{""dmitri.sotnikov@gmail.com""}",305.0,27
+Clojure,noir-clojure,2013-01-07,4,2,"#{""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",309.0,27
+Clojure,noir-clojure,2013-01-08,3,1,"#{""dmitri.sotnikov@gmail.com""}",312.0,27
+Clojure,noir-clojure,2013-01-11,2,2,"#{""dmitri.sotnikov@gmail.com"" ""Anthony.Rosequist@gmail.com""}",314.0,28
+Clojure,noir-clojure,2013-01-12,5,1,"#{""dmitri.sotnikov@gmail.com""}",319.0,28
+Clojure,noir-clojure,2013-01-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",321.0,28
+Clojure,noir-clojure,2013-01-14,7,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",328.0,29
+Clojure,noir-clojure,2013-01-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",329.0,29
+Clojure,noir-clojure,2013-01-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",330.0,29
+Clojure,noir-clojure,2013-01-26,3,1,"#{""dmitri.sotnikov@gmail.com""}",333.0,29
+Clojure,noir-clojure,2013-01-31,2,1,"#{""yogthos@Yogthoss-MacBook.local""}",335.0,30
+Clojure,noir-clojure,2013-02-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",336.0,30
+Clojure,noir-clojure,2013-02-12,7,1,"#{""dmitri.sotnikov@gmail.com""}",343.0,30
+Clojure,noir-clojure,2013-02-15,2,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",345.0,31
+Clojure,noir-clojure,2013-02-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",347.0,31
+Clojure,noir-clojure,2013-02-20,10,1,"#{""dmitri.sotnikov@gmail.com""}",357.0,31
+Clojure,noir-clojure,2013-02-21,14,4,"#{""theinternet@yandex.com"" ""denis.labaye@gmail.com"" ""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",371.0,33
+Clojure,noir-clojure,2013-02-23,9,1,"#{""dmitri.sotnikov@gmail.com""}",380.0,33
+Clojure,noir-clojure,2013-02-24,9,1,"#{""dmitri.sotnikov@gmail.com""}",389.0,33
+Clojure,noir-clojure,2013-02-26,6,3,"#{""palango@gmx.de"" ""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",395.0,34
+Clojure,noir-clojure,2013-03-04,3,1,"#{""i@raynes.me""}",398.0,34
+Clojure,noir-clojure,2013-03-05,5,2,"#{""denis.labaye@gmail.com"" ""dmitri.sotnikov@gmail.com""}",403.0,34
+Clojure,noir-clojure,2013-03-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",405.0,34
+Clojure,noir-clojure,2013-04-10,5,2,"#{""live.tang@gmail.com"" ""dmitri.sotnikov@gmail.com""}",410.0,35
+Clojure,noir-clojure,2013-04-11,2,2,"#{""kanwei@gmail.com"" ""dmitri.sotnikov@gmail.com""}",412.0,36
+Clojure,noir-clojure,2013-04-29,2,2,"#{""palango@gmx.de"" ""dmitri.sotnikov@gmail.com""}",414.0,36
+Clojure,noir-clojure,2013-04-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",416.0,36
+Clojure,noir-clojure,2013-05-02,3,2,"#{""kanwei@gmail.com"" ""dmitri.sotnikov@gmail.com""}",419.0,36
+Clojure,noir-clojure,2013-05-03,1,1,"#{""kanwei@gmail.com""}",420.0,36
+Clojure,noir-clojure,2013-05-05,4,1,"#{""dmitri.sotnikov@gmail.com""}",424.0,36
+Clojure,noir-clojure,2013-05-09,4,1,"#{""dmitri.sotnikov@gmail.com""}",428.0,36
+Clojure,noir-clojure,2013-05-13,5,1,"#{""dmitri.sotnikov@gmail.com""}",433.0,36
+Clojure,noir-clojure,2013-05-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",434.0,36
+Clojure,noir-clojure,2013-05-16,4,3,"#{""alan@malloys.org"" ""i@raynes.me"" ""dmitri.sotnikov@gmail.com""}",438.0,37
+Clojure,noir-clojure,2013-05-17,7,1,"#{""dmitri.sotnikov@gmail.com""}",445.0,37
+Clojure,noir-clojure,2013-05-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",446.0,37
+Clojure,noir-clojure,2013-05-21,3,2,"#{""vaughnd@gmail.com"" ""dmitri.sotnikov@gmail.com""}",449.0,38
+Clojure,noir-clojure,2013-05-24,12,1,"#{""dmitri.sotnikov@gmail.com""}",461.0,38
+Clojure,noir-clojure,2013-05-25,5,1,"#{""dmitri.sotnikov@gmail.com""}",466.0,38
+Clojure,noir-clojure,2013-05-27,2,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",468.0,38
+Clojure,noir-clojure,2013-06-10,7,1,"#{""dmitri.sotnikov@gmail.com""}",475.0,38
+Clojure,noir-clojure,2013-06-11,6,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",481.0,38
+Clojure,noir-clojure,2013-06-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",482.0,38
+Clojure,noir-clojure,2013-06-16,10,2,"#{""andreizinca@gmail.com"" ""dmitri.sotnikov@gmail.com""}",492.0,39
+Clojure,noir-clojure,2013-06-17,10,2,"#{""andreizinca@gmail.com"" ""dmitri.sotnikov@gmail.com""}",502.0,39
+Clojure,noir-clojure,2013-06-18,9,1,"#{""dmitri.sotnikov@gmail.com""}",511.0,39
+Clojure,noir-clojure,2013-06-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",513.0,39
+Clojure,noir-clojure,2013-07-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",514.0,39
+Clojure,noir-clojure,2013-07-07,12,1,"#{""dmitri.sotnikov@gmail.com""}",526.0,39
+Clojure,noir-clojure,2013-07-08,3,1,"#{""dmitri.sotnikov@gmail.com""}",529.0,39
+Clojure,noir-clojure,2013-07-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",530.0,39
+Clojure,noir-clojure,2013-08-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",532.0,39
+Clojure,noir-clojure,2013-08-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",533.0,39
+Clojure,noir-clojure,2013-08-27,2,2,"#{""me@thisishugo.com"" ""dmitri.sotnikov@gmail.com""}",535.0,40
+Clojure,noir-clojure,2013-08-30,1,1,"#{""riley@rileywatkins.com""}",536.0,41
+Clojure,noir-clojure,2013-08-31,2,1,"#{""dmitri.sotnikov@gmail.com""}",538.0,41
+Clojure,noir-clojure,2013-09-05,4,1,"#{""dmitri.sotnikov@gmail.com""}",542.0,41
+Clojure,noir-clojure,2013-09-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",543.0,41
+Clojure,noir-clojure,2013-09-27,3,1,"#{""dmitri.sotnikov@gmail.com""}",546.0,41
+Clojure,noir-clojure,2013-10-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",547.0,41
+Clojure,noir-clojure,2013-10-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",548.0,41
+Clojure,noir-clojure,2013-10-29,2,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",550.0,41
+Clojure,noir-clojure,2013-10-30,3,1,"#{""dmitri.sotnikov@gmail.com""}",553.0,41
+Clojure,noir-clojure,2013-11-04,2,1,"#{""dmitri.sotnikov@gmail.com""}",555.0,41
+Clojure,noir-clojure,2013-11-19,4,1,"#{""dmitri.sotnikov@gmail.com""}",559.0,41
+Clojure,noir-clojure,2013-11-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",560.0,41
+Clojure,noir-clojure,2013-12-07,3,2,"#{""t@trevorw.tw"" ""dmitri.sotnikov@gmail.com""}",563.0,42
+Clojure,noir-clojure,2013-12-15,2,1,"#{""dmitri.sotnikov@gmail.com""}",565.0,42
+Clojure,noir-clojure,2013-12-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",566.0,42
+Clojure,noir-clojure,2013-12-23,4,2,"#{""andy_fingerhut@alum.wustl.edu"" ""dmitri.sotnikov@gmail.com""}",570.0,43
+Clojure,noir-clojure,2014-01-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",571.0,43
+Clojure,noir-clojure,2014-01-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",573.0,43
+Clojure,noir-clojure,2014-02-18,3,2,"#{""shane@kilkelly.me"" ""dmitri.sotnikov@gmail.com""}",576.0,44
+Clojure,noir-clojure,2014-04-08,3,2,"#{""radzio.cool@gmail.com"" ""dmitri.sotnikov@gmail.com""}",579.0,45
+Clojure,noir-clojure,2014-05-13,3,1,"#{""dmitri.sotnikov@gmail.com""}",582.0,45
+Clojure,noir-clojure,2014-05-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",583.0,45
+Clojure,noir-clojure,2014-06-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",584.0,45
+Clojure,noir-clojure,2014-06-03,3,1,"#{""dmitri.sotnikov@gmail.com""}",587.0,45
+Clojure,noir-clojure,2014-06-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",588.0,45
+Clojure,noir-clojure,2014-06-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",590.0,45
+Clojure,noir-clojure,2014-06-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",591.0,45
+Clojure,noir-clojure,2014-07-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",592.0,45
+Clojure,noir-clojure,2014-08-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",593.0,45
+Clojure,noir-clojure,2014-08-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",594.0,45
+Clojure,noir-clojure,2014-08-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",595.0,45
+Clojure,noir-clojure,2014-08-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",596.0,45
+Clojure,noir-clojure,2014-09-07,4,2,"#{""xavi.caballe@gmail.com"" ""dmitri.sotnikov@gmail.com""}",600.0,46
+Clojure,noir-clojure,2014-09-11,2,1,"#{""dmitri.sotnikov@gmail.com""}",602.0,46
+Clojure,noir-clojure,2014-09-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",603.0,46
+Clojure,noir-clojure,2014-09-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",605.0,46
+Clojure,noir-clojure,2014-10-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",606.0,46
+Clojure,noir-clojure,2014-10-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",607.0,46
+Clojure,noir-clojure,2014-10-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",608.0,46
+Clojure,noir-clojure,2014-10-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",609.0,46
+Clojure,noir-clojure,2014-10-20,3,1,"#{""dmitri.sotnikov@gmail.com""}",612.0,46
+Clojure,noir-clojure,2014-11-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",613.0,46
+Clojure,noir-clojure,2014-12-11,2,1,"#{""dmitri.sotnikov@gmail.com""}",615.0,46
+Clojure,noir-clojure,2015-01-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",616.0,46
+Clojure,noir-clojure,2015-04-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",617.0,46
+Clojure,noir-clojure,2015-04-06,4,2,"#{""jafinger@cisco.com"" ""dmitri.sotnikov@gmail.com""}",621.0,47
+Clojure,noir-clojure,2015-04-07,1,1,"#{""ayato.skycrawlers@gmail.com""}",622.0,48
+Clojure,noir-clojure,2015-04-08,2,1,"#{""dmitri.sotnikov@gmail.com""}",624.0,48
+Clojure,noir-clojure,2018-09-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",625.0,48

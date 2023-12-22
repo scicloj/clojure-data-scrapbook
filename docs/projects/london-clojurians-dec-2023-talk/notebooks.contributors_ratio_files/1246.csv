@@ -1,0 +1,67 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/weavejester/haslett,2017-06-07,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",12.0,[{0 12}],0,12,0,0,0,0
+Clojure,https://github.com/weavejester/haslett,2017-06-08,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",23.0,[{0 23}],0,23,0,0,0,0
+Clojure,https://github.com/weavejester/haslett,2017-06-09,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",33.0,[{0 33}],0,33,0,0,0,0
+Clojure,https://github.com/weavejester/haslett,2017-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[phil@branch14.org]",34.0,"[{0 33, ""other"" 1}]",1,33,0,0,0,0
+Clojure,https://github.com/weavejester/haslett,2017-08-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",35.0,"[{0 34, ""other"" 1}]",1,34,0,0,0,0
+Clojure,https://github.com/weavejester/haslett,2017-12-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ir4y.ix@gmail.com]",36.0,"[{0 34, ""other"" 1, 4 1}]",1,34,0,0,0,1
+Clojure,https://github.com/weavejester/haslett,2017-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",37.0,"[{0 35, ""other"" 1, 4 1}]",1,35,0,0,0,1
+Clojure,https://github.com/weavejester/haslett,2018-01-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com]",39.0,"[{0 37, ""other"" 1, 4 1}]",1,37,0,0,0,1
+Clojure,https://github.com/weavejester/haslett,2018-01-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, kurt@clubhouse.io]",41.0,"[{0 38, ""other"" 1, 4 1, 3 1}]",1,38,0,0,1,1
+Clojure,https://github.com/weavejester/haslett,2018-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jorge@workframe.com]",42.0,"[{0 38, ""other"" 1, 4 1, 3 1, 2 1}]",1,38,0,1,1,1
+Clojure,https://github.com/weavejester/haslett,2018-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",43.0,"[{0 39, ""other"" 1, 4 1, 3 1, 2 1}]",1,39,0,1,1,1
+Clojure,https://github.com/weavejester/haslett,2018-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",44.0,"[{0 40, ""other"" 1, 4 1, 3 1, 2 1}]",1,40,0,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[matt@mattp.name]",45.0,"[{0 40, ""other"" 1, 4 1, 3 1, 2 1, 1 1}]",1,40,1,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[matt@mattp.name]",46.0,"[{0 40, ""other"" 1, 4 1, 3 1, 2 1, 1 2}]",1,40,2,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-03-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com]",48.0,"[{0 42, ""other"" 1, 4 1, 3 1, 2 1, 1 2}]",1,42,2,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jreeves@weavejester.com]",49.0,"[{0 43, ""other"" 1, 4 1, 3 1, 2 1, 1 2}]",1,43,2,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[matt@mattp.name]",50.0,"[{0 43, ""other"" 1, 4 1, 3 1, 2 1, 1 3}]",1,43,3,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-04-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com]",52.0,"[{0 45, ""other"" 1, 4 1, 3 1, 2 1, 1 3}]",1,45,3,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-04-21,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",57.0,"[{0 50, ""other"" 1, 4 1, 3 1, 2 1, 1 3}]",1,50,3,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-04-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",60.0,"[{0 53, ""other"" 1, 4 1, 3 1, 2 1, 1 3}]",1,53,3,1,1,1
+Clojure,https://github.com/weavejester/haslett,2019-04-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com]",62.0,"[{0 55, ""other"" 1, 4 1, 3 1, 2 1, 1 3}]",1,55,3,1,1,1
+Clojure,https://github.com/weavejester/haslett,2022-03-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jreeves@weavejester.com, jreeves@weavejester.com, jreeves@weavejester.com]",65.0,"[{0 58, ""other"" 1, 4 1, 3 1, 2 1, 1 3}]",1,58,3,1,1,1

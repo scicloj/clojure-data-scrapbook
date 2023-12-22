@@ -1,0 +1,466 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/r0man/sablono,2013-12-21,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",7.0,[{1 7}],0,0,7,0,0,0
+Clojure,https://github.com/r0man/sablono,2013-12-22,22,1,"#tech.v3.dataset.column<string>[22]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com...]",29.0,[{1 29}],0,0,29,0,0,0
+Clojure,https://github.com/r0man/sablono,2013-12-25,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",36.0,[{1 36}],0,0,36,0,0,0
+Clojure,https://github.com/r0man/sablono,2013-12-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",40.0,[{1 40}],0,0,40,0,0,0
+Clojure,https://github.com/r0man/sablono,2013-12-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",44.0,[{1 44}],0,0,44,0,0,0
+Clojure,https://github.com/r0man/sablono,2013-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",45.0,[{1 45}],0,0,45,0,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-01,22,1,"#tech.v3.dataset.column<string>[22]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com...]",67.0,[{1 67}],0,0,67,0,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",68.0,[{1 68}],0,0,68,0,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-07,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@nugg.ad, roman.scherer@nugg.ad, roman.scherer@nugg.ad, roman.scherer@nugg.ad]",74.0,"[{1 70, 2 4}]",0,0,70,4,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-09,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",81.0,"[{1 77, 2 4}]",0,0,77,4,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-10,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",89.0,"[{1 85, 2 4}]",0,0,85,4,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-11,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, janne@asmala.name]",100.0,"[{1 95, 2 4, ""other"" 1}]",1,0,95,4,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com]",102.0,"[{1 97, 2 4, ""other"" 1}]",1,0,97,4,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-13,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",114.0,"[{1 109, 2 4, ""other"" 1}]",1,0,109,4,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman.scherer@nugg.ad, roman.scherer@nugg.ad, roman.scherer@nugg.ad]",117.0,"[{1 109, 2 7, ""other"" 1}]",1,0,109,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-01-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",120.0,"[{1 112, 2 7, ""other"" 1}]",1,0,112,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-01,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",127.0,"[{1 119, 2 7, ""other"" 1}]",1,0,119,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",130.0,"[{1 122, 2 7, ""other"" 1}]",1,0,122,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com]",132.0,"[{1 124, 2 7, ""other"" 1}]",1,0,124,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",136.0,"[{1 128, 2 7, ""other"" 1}]",1,0,128,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",137.0,"[{1 129, 2 7, ""other"" 1}]",1,0,129,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",138.0,"[{1 130, 2 7, ""other"" 1}]",1,0,130,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com]",140.0,"[{1 132, 2 7, ""other"" 1}]",1,0,132,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",141.0,"[{1 132, 2 7, ""other"" 1, 0 1}]",1,1,132,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-03-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[s@bushi.do]",142.0,"[{1 132, 2 7, ""other"" 2, 0 1}]",2,1,132,7,0,0
+Clojure,https://github.com/r0man/sablono,2014-03-05,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[asher.friedman@gmail.com, asher.friedman@gmail.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman@burningswell.com]",147.0,"[{1 134, 2 7, ""other"" 2, 0 2, 4 2}]",2,2,134,7,0,2
+Clojure,https://github.com/r0man/sablono,2014-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asher.friedman@gmail.com]",148.0,"[{1 134, 2 7, ""other"" 2, 0 2, 4 3}]",2,2,134,7,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-07,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman@burningswell.com]",152.0,"[{1 137, 2 7, ""other"" 2, 0 3, 4 3}]",2,3,137,7,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-08,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",160.0,"[{1 145, 2 7, ""other"" 2, 0 3, 4 3}]",2,3,145,7,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",161.0,"[{1 146, 2 7, ""other"" 2, 0 3, 4 3}]",2,3,146,7,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",165.0,"[{1 150, 2 7, ""other"" 2, 0 3, 4 3}]",2,3,150,7,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",168.0,"[{1 153, 2 7, ""other"" 2, 0 3, 4 3}]",2,3,153,7,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",172.0,"[{1 157, 2 7, ""other"" 2, 0 3, 4 3}]",2,3,157,7,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman.scherer@nugg.ad, roman.scherer@nugg.ad, roman.scherer@nugg.ad]",175.0,"[{1 157, 2 10, ""other"" 2, 0 3, 4 3}]",2,3,157,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com]",177.0,"[{1 159, 2 10, ""other"" 2, 0 3, 4 3}]",2,3,159,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kidpollo@gmail.com]",178.0,"[{1 159, 2 10, ""other"" 3, 0 3, 4 3}]",3,3,159,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-03-28,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman@burningswell.com]",184.0,"[{1 164, 2 10, ""other"" 3, 0 4, 4 3}]",3,4,164,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",185.0,"[{1 165, 2 10, ""other"" 3, 0 4, 4 3}]",3,4,165,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eslick@alum.mit.edu]",186.0,"[{1 165, 2 10, ""other"" 4, 0 4, 4 3}]",4,4,165,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",187.0,"[{1 166, 2 10, ""other"" 4, 0 4, 4 3}]",4,4,166,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-04-19,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, eslick@alum.mit.edu, eslick@alum.mit.edu]",194.0,"[{1 171, 2 10, ""other"" 6, 0 4, 4 3}]",6,4,171,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-05-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com]",196.0,"[{1 173, 2 10, ""other"" 6, 0 4, 4 3}]",6,4,173,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-05-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",199.0,"[{1 176, 2 10, ""other"" 6, 0 4, 4 3}]",6,4,176,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-05-25,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com, roman.scherer@burningswell.com]",205.0,"[{1 182, 2 10, ""other"" 6, 0 4, 4 3}]",6,4,182,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",206.0,"[{1 183, 2 10, ""other"" 6, 0 4, 4 3}]",6,4,183,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-06-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",207.0,"[{1 184, 2 10, ""other"" 6, 0 4, 4 3}]",6,4,184,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-06-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman.scherer@burningswell.com, roman.scherer@burningswell.com]",209.0,"[{1 186, 2 10, ""other"" 6, 0 4, 4 3}]",6,4,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",210.0,"[{1 186, 2 10, ""other"" 6, 0 5, 4 3}]",6,5,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",211.0,"[{1 186, 2 10, ""other"" 6, 0 6, 4 3}]",6,6,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-07-12,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",216.0,"[{1 186, 2 10, ""other"" 6, 0 11, 4 3}]",6,11,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-07-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jenanwise@gmail.com]",217.0,"[{1 186, 2 10, ""other"" 7, 0 11, 4 3}]",7,11,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-07-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",221.0,"[{1 186, 2 10, ""other"" 7, 0 15, 4 3}]",7,15,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-08-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",226.0,"[{1 186, 2 10, ""other"" 7, 0 20, 4 3}]",7,20,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexander@hudek.org]",227.0,"[{1 186, 2 10, ""other"" 8, 0 20, 4 3}]",8,20,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-08-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",231.0,"[{1 186, 2 10, ""other"" 8, 0 24, 4 3}]",8,24,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-08-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",235.0,"[{1 186, 2 10, ""other"" 8, 0 28, 4 3}]",8,28,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",236.0,"[{1 186, 2 10, ""other"" 8, 0 29, 4 3}]",8,29,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",237.0,"[{1 186, 2 10, ""other"" 8, 0 30, 4 3}]",8,30,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2014-12-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",238.0,"[{1 186, 2 10, ""other"" 8, 0 31, 4 3}]",8,31,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-01-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",239.0,"[{1 186, 2 10, ""other"" 8, 0 32, 4 3}]",8,32,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-01-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",242.0,"[{1 186, 2 10, ""other"" 8, 0 35, 4 3}]",8,35,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-01-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",244.0,"[{1 186, 2 10, ""other"" 8, 0 37, 4 3}]",8,37,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-01-25,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, elliot@framed.io]",248.0,"[{1 186, 2 10, ""other"" 9, 0 40, 4 3}]",9,40,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-01-27,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, ostronom@gmail.com]",252.0,"[{1 186, 2 10, ""other"" 10, 0 43, 4 3}]",10,43,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",253.0,"[{1 186, 2 10, ""other"" 10, 0 44, 4 3}]",10,44,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",254.0,"[{1 186, 2 10, ""other"" 10, 0 45, 4 3}]",10,45,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",255.0,"[{1 186, 2 10, ""other"" 10, 0 46, 4 3}]",10,46,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",256.0,"[{1 186, 2 10, ""other"" 10, 0 47, 4 3}]",10,47,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adrian.medina@mail.yu.edu]",257.0,"[{1 186, 2 10, ""other"" 11, 0 47, 4 3}]",11,47,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-12,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",262.0,"[{1 186, 2 10, ""other"" 11, 0 52, 4 3}]",11,52,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-13,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[adrian.medina@mail.yu.edu, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",268.0,"[{1 186, 2 10, ""other"" 12, 0 57, 4 3}]",12,57,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-02-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",271.0,"[{1 186, 2 10, ""other"" 12, 0 60, 4 3}]",12,60,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jason@whitlark.org]",272.0,"[{1 186, 2 10, ""other"" 13, 0 60, 4 3}]",13,60,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-03-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",273.0,"[{1 186, 2 10, ""other"" 13, 0 61, 4 3}]",13,61,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-04-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",276.0,"[{1 186, 2 10, ""other"" 13, 0 64, 4 3}]",13,64,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-05-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",279.0,"[{1 186, 2 10, ""other"" 13, 0 67, 4 3}]",13,67,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-05-21,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",284.0,"[{1 186, 2 10, ""other"" 13, 0 72, 4 3}]",13,72,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-05-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",288.0,"[{1 186, 2 10, ""other"" 13, 0 76, 4 3}]",13,76,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-06-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",291.0,"[{1 186, 2 10, ""other"" 13, 0 79, 4 3}]",13,79,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-08-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",295.0,"[{1 186, 2 10, ""other"" 13, 0 83, 4 3}]",13,83,186,10,0,3
+Clojure,https://github.com/r0man/sablono,2015-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",296.0,"[{1 186, 2 10, ""other"" 13, 0 83, 4 3, 3 1}]",13,83,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-08-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",299.0,"[{1 186, 2 10, ""other"" 13, 0 86, 4 3, 3 1}]",13,86,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",301.0,"[{1 186, 2 10, ""other"" 13, 0 88, 4 3, 3 1}]",13,88,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",302.0,"[{1 186, 2 10, ""other"" 13, 0 89, 4 3, 3 1}]",13,89,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",303.0,"[{1 186, 2 10, ""other"" 13, 0 90, 4 3, 3 1}]",13,90,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-10-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",306.0,"[{1 186, 2 10, ""other"" 13, 0 93, 4 3, 3 1}]",13,93,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-11-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",308.0,"[{1 186, 2 10, ""other"" 13, 0 95, 4 3, 3 1}]",13,95,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-11-28,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",319.0,"[{1 186, 2 10, ""other"" 13, 0 106, 4 3, 3 1}]",13,106,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-11-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",323.0,"[{1 186, 2 10, ""other"" 13, 0 110, 4 3, 3 1}]",13,110,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-12-01,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",330.0,"[{1 186, 2 10, ""other"" 13, 0 117, 4 3, 3 1}]",13,117,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-12-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",332.0,"[{1 186, 2 10, ""other"" 13, 0 119, 4 3, 3 1}]",13,119,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-12-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",336.0,"[{1 186, 2 10, ""other"" 13, 0 123, 4 3, 3 1}]",13,123,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-12-11,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",342.0,"[{1 186, 2 10, ""other"" 13, 0 129, 4 3, 3 1}]",13,129,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-12-17,26,1,"#tech.v3.dataset.column<string>[26]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com...]",368.0,"[{1 186, 2 10, ""other"" 13, 0 155, 4 3, 3 1}]",13,155,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-12-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",370.0,"[{1 186, 2 10, ""other"" 13, 0 157, 4 3, 3 1}]",13,157,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2015-12-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",374.0,"[{1 186, 2 10, ""other"" 13, 0 161, 4 3, 3 1}]",13,161,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2016-02-04,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",380.0,"[{1 186, 2 10, ""other"" 13, 0 167, 4 3, 3 1}]",13,167,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2016-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nha@users.noreply.github.com]",381.0,"[{1 186, 2 10, ""other"" 14, 0 167, 4 3, 3 1}]",14,167,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2016-02-09,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",389.0,"[{1 186, 2 10, ""other"" 14, 0 175, 4 3, 3 1}]",14,175,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2016-02-14,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",406.0,"[{1 186, 2 10, ""other"" 14, 0 192, 4 3, 3 1}]",14,192,186,10,1,3
+Clojure,https://github.com/r0man/sablono,2016-02-15,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, prokopov@gmail.com]",412.0,"[{1 186, 2 10, ""other"" 14, 0 197, 4 3, 3 2}]",14,197,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-03-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",414.0,"[{1 186, 2 10, ""other"" 14, 0 199, 4 3, 3 2}]",14,199,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-03-23,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",422.0,"[{1 186, 2 10, ""other"" 14, 0 207, 4 3, 3 2}]",14,207,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-04-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",425.0,"[{1 186, 2 10, ""other"" 14, 0 210, 4 3, 3 2}]",14,210,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",426.0,"[{1 186, 2 10, ""other"" 14, 0 211, 4 3, 3 2}]",14,211,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",427.0,"[{1 186, 2 10, ""other"" 14, 0 212, 4 3, 3 2}]",14,212,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-04-26,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, aJchemist@users.noreply.github.com]",433.0,"[{1 186, 2 10, ""other"" 15, 0 217, 4 3, 3 2}]",15,217,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-05-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",435.0,"[{1 186, 2 10, ""other"" 15, 0 219, 4 3, 3 2}]",15,219,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-05-31,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",440.0,"[{1 186, 2 10, ""other"" 15, 0 224, 4 3, 3 2}]",15,224,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",441.0,"[{1 186, 2 10, ""other"" 15, 0 225, 4 3, 3 2}]",15,225,186,10,2,3
+Clojure,https://github.com/r0man/sablono,2016-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[prokopov@gmail.com]",442.0,"[{1 186, 2 10, ""other"" 15, 0 225, 4 3, 3 3}]",15,225,186,10,3,3
+Clojure,https://github.com/r0man/sablono,2016-07-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",444.0,"[{1 186, 2 10, ""other"" 15, 0 227, 4 3, 3 3}]",15,227,186,10,3,3
+Clojure,https://github.com/r0man/sablono,2016-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",445.0,"[{1 186, 2 10, ""other"" 15, 0 228, 4 3, 3 3}]",15,228,186,10,3,3
+Clojure,https://github.com/r0man/sablono,2016-07-20,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, prokopov@gmail.com]",450.0,"[{1 186, 2 10, ""other"" 15, 0 232, 4 3, 3 4}]",15,232,186,10,4,3
+Clojure,https://github.com/r0man/sablono,2016-08-17,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, prokopov@gmail.com]",453.0,"[{1 186, 2 10, ""other"" 15, 0 234, 4 3, 3 5}]",15,234,186,10,5,3
+Clojure,https://github.com/r0man/sablono,2016-10-03,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, prokopov@gmail.com]",457.0,"[{1 186, 2 10, ""other"" 15, 0 237, 4 3, 3 6}]",15,237,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2016-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[moritz@tarn-vedra.de]",458.0,"[{1 186, 2 10, ""other"" 16, 0 237, 4 3, 3 6}]",16,237,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2016-10-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",460.0,"[{1 186, 2 10, ""other"" 16, 0 239, 4 3, 3 6}]",16,239,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2016-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kennyjwilli@gmail.com]",461.0,"[{1 186, 2 10, ""other"" 17, 0 239, 4 3, 3 6}]",17,239,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2016-11-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",463.0,"[{1 186, 2 10, ""other"" 17, 0 241, 4 3, 3 6}]",17,241,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2016-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",464.0,"[{1 186, 2 10, ""other"" 17, 0 242, 4 3, 3 6}]",17,242,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-01-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",470.0,"[{1 186, 2 10, ""other"" 17, 0 248, 4 3, 3 6}]",17,248,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",471.0,"[{1 186, 2 10, ""other"" 17, 0 249, 4 3, 3 6}]",17,249,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-01-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",473.0,"[{1 186, 2 10, ""other"" 17, 0 251, 4 3, 3 6}]",17,251,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-01-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",475.0,"[{1 186, 2 10, ""other"" 17, 0 253, 4 3, 3 6}]",17,253,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-02-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roimisia@gmail.com]",476.0,"[{1 186, 2 10, ""other"" 18, 0 253, 4 3, 3 6}]",18,253,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-02-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",480.0,"[{1 186, 2 10, ""other"" 18, 0 257, 4 3, 3 6}]",18,257,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-02-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",481.0,"[{1 186, 2 10, ""other"" 18, 0 258, 4 3, 3 6}]",18,258,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",483.0,"[{1 186, 2 10, ""other"" 18, 0 260, 4 3, 3 6}]",18,260,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",484.0,"[{1 186, 2 10, ""other"" 18, 0 261, 4 3, 3 6}]",18,261,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",485.0,"[{1 186, 2 10, ""other"" 18, 0 262, 4 3, 3 6}]",18,262,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-03-26,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, kevin@keminglabs.com, roman@burningswell.com]",490.0,"[{1 186, 2 10, ""other"" 19, 0 266, 4 3, 3 6}]",19,266,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-03-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",492.0,"[{1 186, 2 10, ""other"" 19, 0 268, 4 3, 3 6}]",19,268,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-04-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",493.0,"[{1 186, 2 10, ""other"" 19, 0 269, 4 3, 3 6}]",19,269,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",494.0,"[{1 186, 2 10, ""other"" 19, 0 270, 4 3, 3 6}]",19,270,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-04-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mike.kaplinskiy@gmail.com, roman@burningswell.com]",496.0,"[{1 186, 2 10, ""other"" 20, 0 271, 4 3, 3 6}]",20,271,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",498.0,"[{1 186, 2 10, ""other"" 20, 0 273, 4 3, 3 6}]",20,273,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-09-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",500.0,"[{1 186, 2 10, ""other"" 20, 0 275, 4 3, 3 6}]",20,275,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2017-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",501.0,"[{1 186, 2 10, ""other"" 20, 0 276, 4 3, 3 6}]",20,276,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2018-01-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, webmaster@kazer.es]",504.0,"[{1 186, 2 10, ""other"" 21, 0 278, 4 3, 3 6}]",21,278,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2018-01-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",507.0,"[{1 186, 2 10, ""other"" 21, 0 281, 4 3, 3 6}]",21,281,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2018-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",508.0,"[{1 186, 2 10, ""other"" 21, 0 282, 4 3, 3 6}]",21,282,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2018-03-22,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",513.0,"[{1 186, 2 10, ""other"" 21, 0 287, 4 3, 3 6}]",21,287,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2018-04-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",514.0,"[{1 186, 2 10, ""other"" 21, 0 288, 4 3, 3 6}]",21,288,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2018-04-19,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",520.0,"[{1 186, 2 10, ""other"" 21, 0 294, 4 3, 3 6}]",21,294,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2018-12-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[roman@burningswell.com, roman@burningswell.com]",522.0,"[{1 186, 2 10, ""other"" 21, 0 296, 4 3, 3 6}]",21,296,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2019-01-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",525.0,"[{1 186, 2 10, ""other"" 21, 0 299, 4 3, 3 6}]",21,299,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2019-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",526.0,"[{1 186, 2 10, ""other"" 21, 0 300, 4 3, 3 6}]",21,300,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2019-05-12,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",531.0,"[{1 186, 2 10, ""other"" 21, 0 305, 4 3, 3 6}]",21,305,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2019-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",532.0,"[{1 186, 2 10, ""other"" 21, 0 306, 4 3, 3 6}]",21,306,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2020-04-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",535.0,"[{1 186, 2 10, ""other"" 21, 0 309, 4 3, 3 6}]",21,309,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2020-04-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",538.0,"[{1 186, 2 10, ""other"" 21, 0 312, 4 3, 3 6}]",21,312,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2020-05-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",539.0,"[{1 186, 2 10, ""other"" 21, 0 313, 4 3, 3 6}]",21,313,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2020-05-18,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com, roman@burningswell.com]",544.0,"[{1 186, 2 10, ""other"" 21, 0 318, 4 3, 3 6}]",21,318,186,10,6,3
+Clojure,https://github.com/r0man/sablono,2020-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@burningswell.com]",545.0,"[{1 186, 2 10, ""other"" 21, 0 319, 4 3, 3 6}]",21,319,186,10,6,3

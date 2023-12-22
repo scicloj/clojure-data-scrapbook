@@ -1,0 +1,775 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,marick,2010-05-23,1,1,"#{""marick@exampler.com""}",1.0,1
+Clojure,marick,2010-06-23,1,1,"#{""marick@exampler.com""}",2.0,1
+Clojure,marick,2010-06-24,2,1,"#{""marick@exampler.com""}",4.0,1
+Clojure,marick,2010-06-25,5,1,"#{""marick@exampler.com""}",9.0,1
+Clojure,marick,2010-06-26,10,1,"#{""marick@exampler.com""}",19.0,1
+Clojure,marick,2010-06-27,13,1,"#{""marick@exampler.com""}",32.0,1
+Clojure,marick,2010-06-29,9,1,"#{""marick@exampler.com""}",41.0,1
+Clojure,marick,2010-06-30,24,1,"#{""marick@exampler.com""}",65.0,1
+Clojure,marick,2010-07-12,2,1,"#{""wilkesjoiner@gmail.com""}",67.0,2
+Clojure,marick,2010-07-13,2,1,"#{""marick@exampler.com""}",69.0,2
+Clojure,marick,2010-07-27,3,1,"#{""marick@exampler.com""}",72.0,2
+Clojure,marick,2010-07-28,2,1,"#{""marick@exampler.com""}",74.0,2
+Clojure,marick,2010-08-03,4,2,"#{""marick@exampler.com"" ""wilkesjoiner@gmail.com""}",78.0,2
+Clojure,marick,2010-08-04,5,1,"#{""marick@exampler.com""}",83.0,2
+Clojure,marick,2010-08-05,3,2,"#{""marick@exampler.com"" ""wilkesjoiner@gmail.com""}",86.0,2
+Clojure,marick,2010-08-06,1,1,"#{""marick@exampler.com""}",87.0,2
+Clojure,marick,2010-08-11,1,1,"#{""marick@exampler.com""}",88.0,2
+Clojure,marick,2010-08-15,2,1,"#{""marick@exampler.com""}",90.0,2
+Clojure,marick,2010-08-16,5,1,"#{""marick@exampler.com""}",95.0,2
+Clojure,marick,2010-08-17,2,1,"#{""marick@exampler.com""}",97.0,2
+Clojure,marick,2010-08-19,8,1,"#{""marick@exampler.com""}",105.0,2
+Clojure,marick,2010-08-22,1,1,"#{""marick@exampler.com""}",106.0,2
+Clojure,marick,2010-08-23,2,1,"#{""marick@exampler.com""}",108.0,2
+Clojure,marick,2010-08-24,4,1,"#{""marick@exampler.com""}",112.0,2
+Clojure,marick,2010-09-12,3,1,"#{""marick@exampler.com""}",115.0,2
+Clojure,marick,2010-09-13,4,1,"#{""marick@exampler.com""}",119.0,2
+Clojure,marick,2010-09-14,8,1,"#{""marick@exampler.com""}",127.0,2
+Clojure,marick,2010-09-15,6,1,"#{""marick@exampler.com""}",133.0,2
+Clojure,marick,2010-09-18,2,1,"#{""marick@exampler.com""}",135.0,2
+Clojure,marick,2010-09-19,4,1,"#{""marick@exampler.com""}",139.0,2
+Clojure,marick,2010-09-21,2,1,"#{""marick@exampler.com""}",141.0,2
+Clojure,marick,2010-09-22,4,1,"#{""marick@exampler.com""}",145.0,2
+Clojure,marick,2010-09-23,4,1,"#{""marick@exampler.com""}",149.0,2
+Clojure,marick,2010-09-24,6,1,"#{""marick@exampler.com""}",155.0,2
+Clojure,marick,2010-09-26,9,1,"#{""marick@exampler.com""}",164.0,2
+Clojure,marick,2010-09-27,2,1,"#{""marick@exampler.com""}",166.0,2
+Clojure,marick,2010-09-28,2,1,"#{""marick@exampler.com""}",168.0,2
+Clojure,marick,2010-10-03,1,1,"#{""sroccaserra@yahoo.com""}",169.0,3
+Clojure,marick,2010-10-04,1,1,"#{""sroccaserra@yahoo.com""}",170.0,3
+Clojure,marick,2010-10-10,3,1,"#{""marick@exampler.com""}",173.0,3
+Clojure,marick,2010-10-11,2,1,"#{""marick@exampler.com""}",175.0,3
+Clojure,marick,2010-10-23,3,1,"#{""marick@exampler.com""}",178.0,3
+Clojure,marick,2010-10-24,1,1,"#{""marick@exampler.com""}",179.0,3
+Clojure,marick,2010-10-28,7,1,"#{""marick@exampler.com""}",186.0,3
+Clojure,marick,2010-10-29,6,1,"#{""marick@exampler.com""}",192.0,3
+Clojure,marick,2010-10-31,2,1,"#{""marick@exampler.com""}",194.0,3
+Clojure,marick,2010-11-01,1,1,"#{""marick@exampler.com""}",195.0,3
+Clojure,marick,2010-11-02,3,1,"#{""marick@exampler.com""}",198.0,3
+Clojure,marick,2010-11-03,2,1,"#{""marick@exampler.com""}",200.0,3
+Clojure,marick,2010-11-04,10,1,"#{""marick@exampler.com""}",210.0,3
+Clojure,marick,2010-11-05,1,1,"#{""marick@exampler.com""}",211.0,3
+Clojure,marick,2010-11-07,1,1,"#{""marick@exampler.com""}",212.0,3
+Clojure,marick,2010-11-11,1,1,"#{""marick@exampler.com""}",213.0,3
+Clojure,marick,2010-11-12,10,1,"#{""marick@exampler.com""}",223.0,3
+Clojure,marick,2010-11-14,3,1,"#{""marick@exampler.com""}",226.0,3
+Clojure,marick,2010-11-16,1,1,"#{""marick@exampler.com""}",227.0,3
+Clojure,marick,2010-11-17,1,1,"#{""marick@exampler.com""}",228.0,3
+Clojure,marick,2010-11-18,8,1,"#{""marick@exampler.com""}",236.0,3
+Clojure,marick,2010-11-20,2,1,"#{""marick@exampler.com""}",238.0,3
+Clojure,marick,2010-11-22,3,1,"#{""marick@exampler.com""}",241.0,3
+Clojure,marick,2010-11-23,1,1,"#{""marick@exampler.com""}",242.0,3
+Clojure,marick,2010-11-26,10,1,"#{""marick@exampler.com""}",252.0,3
+Clojure,marick,2010-11-27,7,1,"#{""marick@exampler.com""}",259.0,3
+Clojure,marick,2010-11-28,5,1,"#{""marick@exampler.com""}",264.0,3
+Clojure,marick,2010-12-05,2,1,"#{""marick@exampler.com""}",266.0,3
+Clojure,marick,2010-12-06,3,1,"#{""marick@exampler.com""}",269.0,3
+Clojure,marick,2010-12-07,9,1,"#{""marick@exampler.com""}",278.0,3
+Clojure,marick,2010-12-08,3,1,"#{""marick@exampler.com""}",281.0,3
+Clojure,marick,2010-12-09,4,1,"#{""marick@exampler.com""}",285.0,3
+Clojure,marick,2010-12-15,2,1,"#{""marick@exampler.com""}",287.0,3
+Clojure,marick,2010-12-16,6,1,"#{""marick@exampler.com""}",293.0,3
+Clojure,marick,2010-12-17,4,1,"#{""marick@exampler.com""}",297.0,3
+Clojure,marick,2010-12-18,5,1,"#{""marick@exampler.com""}",302.0,3
+Clojure,marick,2010-12-19,4,1,"#{""marick@exampler.com""}",306.0,3
+Clojure,marick,2010-12-20,2,1,"#{""marick@exampler.com""}",308.0,3
+Clojure,marick,2010-12-22,4,1,"#{""marick@exampler.com""}",312.0,3
+Clojure,marick,2010-12-23,4,1,"#{""marick@exampler.com""}",316.0,3
+Clojure,marick,2010-12-25,5,1,"#{""marick@exampler.com""}",321.0,3
+Clojure,marick,2010-12-27,8,1,"#{""marick@exampler.com""}",329.0,3
+Clojure,marick,2010-12-28,6,1,"#{""marick@exampler.com""}",335.0,3
+Clojure,marick,2010-12-29,16,1,"#{""marick@exampler.com""}",351.0,3
+Clojure,marick,2010-12-30,4,1,"#{""marick@exampler.com""}",355.0,3
+Clojure,marick,2011-01-02,3,1,"#{""marick@exampler.com""}",358.0,3
+Clojure,marick,2011-01-03,8,1,"#{""marick@exampler.com""}",366.0,3
+Clojure,marick,2011-01-04,6,1,"#{""marick@exampler.com""}",372.0,3
+Clojure,marick,2011-01-05,5,1,"#{""marick@exampler.com""}",377.0,3
+Clojure,marick,2011-01-07,4,1,"#{""marick@exampler.com""}",381.0,3
+Clojure,marick,2011-01-08,4,1,"#{""marick@exampler.com""}",385.0,3
+Clojure,marick,2011-01-09,2,1,"#{""marick@exampler.com""}",387.0,3
+Clojure,marick,2011-01-10,7,1,"#{""marick@exampler.com""}",394.0,3
+Clojure,marick,2011-01-11,5,1,"#{""marick@exampler.com""}",399.0,3
+Clojure,marick,2011-01-12,1,1,"#{""marick@exampler.com""}",400.0,3
+Clojure,marick,2011-01-13,6,1,"#{""marick@exampler.com""}",406.0,3
+Clojure,marick,2011-01-16,2,1,"#{""marick@exampler.com""}",408.0,3
+Clojure,marick,2011-01-17,8,1,"#{""marick@exampler.com""}",416.0,3
+Clojure,marick,2011-01-19,1,1,"#{""ben@benmabey.com""}",417.0,4
+Clojure,marick,2011-01-20,1,1,"#{""marick@exampler.com""}",418.0,4
+Clojure,marick,2011-01-21,4,1,"#{""marick@exampler.com""}",422.0,4
+Clojure,marick,2011-01-22,2,1,"#{""marick@exampler.com""}",424.0,4
+Clojure,marick,2011-01-23,4,1,"#{""marick@exampler.com""}",428.0,4
+Clojure,marick,2011-01-25,6,1,"#{""marick@exampler.com""}",434.0,4
+Clojure,marick,2011-01-26,8,2,"#{""marick@exampler.com"" ""pcalcado@gmail.com""}",442.0,5
+Clojure,marick,2011-01-27,2,1,"#{""marick@exampler.com""}",444.0,5
+Clojure,marick,2011-01-30,1,1,"#{""marick@exampler.com""}",445.0,5
+Clojure,marick,2011-01-31,1,1,"#{""marick@exampler.com""}",446.0,5
+Clojure,marick,2011-02-01,2,1,"#{""marick@exampler.com""}",448.0,5
+Clojure,marick,2011-02-02,13,1,"#{""marick@exampler.com""}",461.0,5
+Clojure,marick,2011-02-03,4,1,"#{""marick@exampler.com""}",465.0,5
+Clojure,marick,2011-02-05,2,1,"#{""marick@exampler.com""}",467.0,5
+Clojure,marick,2011-02-07,2,1,"#{""marick@exampler.com""}",469.0,5
+Clojure,marick,2011-02-28,1,1,"#{""marick@exampler.com""}",470.0,5
+Clojure,marick,2011-03-02,10,1,"#{""marick@exampler.com""}",480.0,5
+Clojure,marick,2011-03-03,4,1,"#{""marick@exampler.com""}",484.0,5
+Clojure,marick,2011-03-04,1,1,"#{""marick@exampler.com""}",485.0,5
+Clojure,marick,2011-03-18,4,1,"#{""marick@exampler.com""}",489.0,5
+Clojure,marick,2011-03-20,6,1,"#{""marick@exampler.com""}",495.0,5
+Clojure,marick,2011-03-23,16,1,"#{""marick@exampler.com""}",511.0,5
+Clojure,marick,2011-03-24,6,1,"#{""marick@exampler.com""}",517.0,5
+Clojure,marick,2011-03-26,1,1,"#{""marick@exampler.com""}",518.0,5
+Clojure,marick,2011-04-05,1,1,"#{""marick@exampler.com""}",519.0,5
+Clojure,marick,2011-04-23,3,1,"#{""marick@exampler.com""}",522.0,5
+Clojure,marick,2011-04-24,1,1,"#{""marick@exampler.com""}",523.0,5
+Clojure,marick,2011-04-25,1,1,"#{""marick@exampler.com""}",524.0,5
+Clojure,marick,2011-04-29,4,1,"#{""marick@exampler.com""}",528.0,5
+Clojure,marick,2011-06-14,3,1,"#{""marick@exampler.com""}",531.0,5
+Clojure,marick,2011-06-15,4,1,"#{""marick@exampler.com""}",535.0,5
+Clojure,marick,2011-06-16,7,1,"#{""marick@exampler.com""}",542.0,5
+Clojure,marick,2011-06-17,7,1,"#{""marick@exampler.com""}",549.0,5
+Clojure,marick,2011-06-20,1,1,"#{""marick@exampler.com""}",550.0,5
+Clojure,marick,2011-06-21,3,2,"#{""marick@exampler.com"" ""ru.vinzent@gmail.com""}",553.0,6
+Clojure,marick,2011-06-22,2,1,"#{""marick@exampler.com""}",555.0,6
+Clojure,marick,2011-06-23,4,1,"#{""marick@exampler.com""}",559.0,6
+Clojure,marick,2011-06-24,10,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",569.0,7
+Clojure,marick,2011-06-25,15,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",584.0,7
+Clojure,marick,2011-06-26,9,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",593.0,7
+Clojure,marick,2011-06-27,6,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",599.0,7
+Clojure,marick,2011-06-29,10,1,"#{""marick@exampler.com""}",609.0,7
+Clojure,marick,2011-07-01,2,1,"#{""marick@exampler.com""}",611.0,7
+Clojure,marick,2011-07-02,7,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",618.0,7
+Clojure,marick,2011-07-03,4,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",622.0,7
+Clojure,marick,2011-07-04,6,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",628.0,7
+Clojure,marick,2011-07-05,1,1,"#{""alexander.baranosky@gmail.com""}",629.0,7
+Clojure,marick,2011-07-12,1,1,"#{""marick@exampler.com""}",630.0,7
+Clojure,marick,2011-07-20,2,1,"#{""marick@exampler.com""}",632.0,7
+Clojure,marick,2011-07-25,11,1,"#{""marick@exampler.com""}",643.0,7
+Clojure,marick,2011-07-26,25,1,"#{""marick@exampler.com""}",668.0,7
+Clojure,marick,2011-07-31,1,1,"#{""marick@exampler.com""}",669.0,7
+Clojure,marick,2011-08-01,2,1,"#{""marick@exampler.com""}",671.0,7
+Clojure,marick,2011-08-02,3,1,"#{""marick@exampler.com""}",674.0,7
+Clojure,marick,2011-08-03,1,1,"#{""marick@exampler.com""}",675.0,7
+Clojure,marick,2011-08-04,5,1,"#{""marick@exampler.com""}",680.0,7
+Clojure,marick,2011-08-05,3,1,"#{""marick@exampler.com""}",683.0,7
+Clojure,marick,2011-08-06,2,1,"#{""marick@exampler.com""}",685.0,7
+Clojure,marick,2011-09-15,1,1,"#{""marick@exampler.com""}",686.0,7
+Clojure,marick,2011-09-17,2,1,"#{""marick@exampler.com""}",688.0,7
+Clojure,marick,2011-09-21,4,1,"#{""marick@exampler.com""}",692.0,7
+Clojure,marick,2011-09-22,2,1,"#{""marick@exampler.com""}",694.0,7
+Clojure,marick,2011-09-24,2,1,"#{""alexander.baranosky@gmail.com""}",696.0,7
+Clojure,marick,2011-10-10,2,1,"#{""marick@exampler.com""}",698.0,7
+Clojure,marick,2011-10-11,11,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",709.0,7
+Clojure,marick,2011-10-12,9,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",718.0,7
+Clojure,marick,2011-10-13,2,1,"#{""marick@exampler.com""}",720.0,7
+Clojure,marick,2011-10-17,2,1,"#{""alexander.baranosky@gmail.com""}",722.0,7
+Clojure,marick,2011-10-18,2,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",724.0,7
+Clojure,marick,2011-10-20,3,1,"#{""alexander.baranosky@gmail.com""}",727.0,7
+Clojure,marick,2011-10-22,5,1,"#{""marick@exampler.com""}",732.0,7
+Clojure,marick,2011-10-23,3,1,"#{""alexander.baranosky@gmail.com""}",735.0,7
+Clojure,marick,2011-10-24,1,1,"#{""alexander.baranosky@gmail.com""}",736.0,7
+Clojure,marick,2011-10-28,2,2,"#{""alexander.baranosky@gmail.com"" ""alex.baranosky@timgroup.com""}",738.0,8
+Clojure,marick,2011-10-30,4,1,"#{""alexander.baranosky@gmail.com""}",742.0,8
+Clojure,marick,2011-10-31,1,1,"#{""alexander.baranosky@gmail.com""}",743.0,8
+Clojure,marick,2011-11-02,1,1,"#{""alexander.baranosky@gmail.com""}",744.0,8
+Clojure,marick,2011-11-04,2,1,"#{""marick@exampler.com""}",746.0,8
+Clojure,marick,2011-11-05,4,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",750.0,8
+Clojure,marick,2011-11-06,6,1,"#{""marick@exampler.com""}",756.0,8
+Clojure,marick,2011-11-07,3,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",759.0,8
+Clojure,marick,2011-11-09,8,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",767.0,8
+Clojure,marick,2011-11-10,1,1,"#{""alexander.baranosky@gmail.com""}",768.0,8
+Clojure,marick,2011-11-12,7,1,"#{""alexander.baranosky@gmail.com""}",775.0,8
+Clojure,marick,2011-11-13,4,1,"#{""alexander.baranosky@gmail.com""}",779.0,8
+Clojure,marick,2011-11-14,2,1,"#{""alexander.baranosky@gmail.com""}",781.0,8
+Clojure,marick,2011-11-15,2,1,"#{""alexander.baranosky@gmail.com""}",783.0,8
+Clojure,marick,2011-11-17,3,1,"#{""alexander.baranosky@gmail.com""}",786.0,8
+Clojure,marick,2011-11-22,4,1,"#{""alexander.baranosky@gmail.com""}",790.0,8
+Clojure,marick,2011-11-25,10,1,"#{""alexander.baranosky@gmail.com""}",800.0,8
+Clojure,marick,2011-11-26,17,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",817.0,8
+Clojure,marick,2011-11-27,4,1,"#{""alexander.baranosky@gmail.com""}",821.0,8
+Clojure,marick,2011-11-29,1,1,"#{""alexander.baranosky@gmail.com""}",822.0,8
+Clojure,marick,2011-11-30,1,1,"#{""alexander.baranosky@gmail.com""}",823.0,8
+Clojure,marick,2011-12-01,1,1,"#{""alexander.baranosky@gmail.com""}",824.0,8
+Clojure,marick,2011-12-05,5,1,"#{""marick@exampler.com""}",829.0,8
+Clojure,marick,2011-12-06,2,1,"#{""marick@exampler.com""}",831.0,8
+Clojure,marick,2011-12-07,5,1,"#{""marick@exampler.com""}",836.0,8
+Clojure,marick,2011-12-08,15,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",851.0,8
+Clojure,marick,2011-12-10,1,1,"#{""alexander.baranosky@gmail.com""}",852.0,8
+Clojure,marick,2011-12-12,5,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",857.0,8
+Clojure,marick,2011-12-15,6,1,"#{""alexander.baranosky@gmail.com""}",863.0,8
+Clojure,marick,2011-12-17,6,1,"#{""alexander.baranosky@gmail.com""}",869.0,8
+Clojure,marick,2011-12-18,7,1,"#{""alexander.baranosky@gmail.com""}",876.0,8
+Clojure,marick,2011-12-19,9,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",885.0,8
+Clojure,marick,2011-12-20,12,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",897.0,8
+Clojure,marick,2011-12-21,2,1,"#{""alexander.baranosky@gmail.com""}",899.0,8
+Clojure,marick,2011-12-22,3,1,"#{""alexander.baranosky@gmail.com""}",902.0,8
+Clojure,marick,2011-12-23,1,1,"#{""alexander.baranosky@gmail.com""}",903.0,8
+Clojure,marick,2011-12-24,7,1,"#{""alexander.baranosky@gmail.com""}",910.0,8
+Clojure,marick,2011-12-26,7,1,"#{""alexander.baranosky@gmail.com""}",917.0,8
+Clojure,marick,2011-12-27,6,1,"#{""alexander.baranosky@gmail.com""}",923.0,8
+Clojure,marick,2011-12-29,10,1,"#{""alexander.baranosky@gmail.com""}",933.0,8
+Clojure,marick,2011-12-30,6,1,"#{""alexander.baranosky@gmail.com""}",939.0,8
+Clojure,marick,2011-12-31,12,1,"#{""alexander.baranosky@gmail.com""}",951.0,8
+Clojure,marick,2012-01-01,2,1,"#{""alexander.baranosky@gmail.com""}",953.0,8
+Clojure,marick,2012-01-02,14,1,"#{""alexander.baranosky@gmail.com""}",967.0,8
+Clojure,marick,2012-01-03,3,1,"#{""alexander.baranosky@gmail.com""}",970.0,8
+Clojure,marick,2012-01-04,3,1,"#{""alexander.baranosky@gmail.com""}",973.0,8
+Clojure,marick,2012-01-05,8,1,"#{""alexander.baranosky@gmail.com""}",981.0,8
+Clojure,marick,2012-01-06,1,1,"#{""alexander.baranosky@gmail.com""}",982.0,8
+Clojure,marick,2012-01-07,9,1,"#{""alexander.baranosky@gmail.com""}",991.0,8
+Clojure,marick,2012-01-08,4,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",995.0,8
+Clojure,marick,2012-01-09,1,1,"#{""alexander.baranosky@gmail.com""}",996.0,8
+Clojure,marick,2012-01-11,3,1,"#{""alexander.baranosky@gmail.com""}",999.0,8
+Clojure,marick,2012-01-12,1,1,"#{""alexander.baranosky@gmail.com""}",1000.0,8
+Clojure,marick,2012-01-13,7,1,"#{""alexander.baranosky@gmail.com""}",1007.0,8
+Clojure,marick,2012-01-14,8,1,"#{""alexander.baranosky@gmail.com""}",1015.0,8
+Clojure,marick,2012-01-15,1,1,"#{""alexander.baranosky@gmail.com""}",1016.0,8
+Clojure,marick,2012-01-16,5,1,"#{""alexander.baranosky@gmail.com""}",1021.0,8
+Clojure,marick,2012-01-18,4,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1025.0,8
+Clojure,marick,2012-01-19,2,2,"#{""alexander.baranosky@gmail.com"" ""alex.baranosky@timgroup.com""}",1027.0,8
+Clojure,marick,2012-01-20,1,1,"#{""alexander.baranosky@gmail.com""}",1028.0,8
+Clojure,marick,2012-01-21,4,1,"#{""alexander.baranosky@gmail.com""}",1032.0,8
+Clojure,marick,2012-01-22,11,1,"#{""alexander.baranosky@gmail.com""}",1043.0,8
+Clojure,marick,2012-01-24,3,1,"#{""alexander.baranosky@gmail.com""}",1046.0,8
+Clojure,marick,2012-01-28,12,1,"#{""alexander.baranosky@gmail.com""}",1058.0,8
+Clojure,marick,2012-01-29,2,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1060.0,8
+Clojure,marick,2012-01-30,1,1,"#{""alexander.baranosky@gmail.com""}",1061.0,8
+Clojure,marick,2012-02-02,2,1,"#{""alexander.baranosky@gmail.com""}",1063.0,8
+Clojure,marick,2012-02-03,2,1,"#{""alexander.baranosky@gmail.com""}",1065.0,8
+Clojure,marick,2012-02-04,7,2,"#{""r.p.levy@gmail.com"" ""alexander.baranosky@gmail.com""}",1072.0,9
+Clojure,marick,2012-02-05,6,1,"#{""alexander.baranosky@gmail.com""}",1078.0,9
+Clojure,marick,2012-02-06,4,1,"#{""alexander.baranosky@gmail.com""}",1082.0,9
+Clojure,marick,2012-02-09,1,1,"#{""alexander.baranosky@gmail.com""}",1083.0,9
+Clojure,marick,2012-02-12,7,2,"#{""alexander.baranosky@gmail.com"" ""jacek@japila.pl""}",1090.0,10
+Clojure,marick,2012-02-13,1,1,"#{""marick@exampler.com""}",1091.0,10
+Clojure,marick,2012-02-18,10,1,"#{""alexander.baranosky@gmail.com""}",1101.0,10
+Clojure,marick,2012-02-19,12,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1113.0,10
+Clojure,marick,2012-02-20,3,1,"#{""alexander.baranosky@gmail.com""}",1116.0,10
+Clojure,marick,2012-02-21,5,1,"#{""alexander.baranosky@gmail.com""}",1121.0,10
+Clojure,marick,2012-02-22,4,1,"#{""alexander.baranosky@gmail.com""}",1125.0,10
+Clojure,marick,2012-02-23,2,1,"#{""alexander.baranosky@gmail.com""}",1127.0,10
+Clojure,marick,2012-02-24,1,1,"#{""alexander.baranosky@gmail.com""}",1128.0,10
+Clojure,marick,2012-02-25,13,1,"#{""alexander.baranosky@gmail.com""}",1141.0,10
+Clojure,marick,2012-02-26,1,1,"#{""alexander.baranosky@gmail.com""}",1142.0,10
+Clojure,marick,2012-02-27,3,1,"#{""alexander.baranosky@gmail.com""}",1145.0,10
+Clojure,marick,2012-02-28,5,1,"#{""alexander.baranosky@gmail.com""}",1150.0,10
+Clojure,marick,2012-02-29,3,1,"#{""alexander.baranosky@gmail.com""}",1153.0,10
+Clojure,marick,2012-03-01,4,1,"#{""alexander.baranosky@gmail.com""}",1157.0,10
+Clojure,marick,2012-03-02,1,1,"#{""alexander.baranosky@gmail.com""}",1158.0,10
+Clojure,marick,2012-03-03,1,1,"#{""alexander.baranosky@gmail.com""}",1159.0,10
+Clojure,marick,2012-03-04,9,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1168.0,10
+Clojure,marick,2012-03-05,1,1,"#{""alexander.baranosky@gmail.com""}",1169.0,10
+Clojure,marick,2012-03-06,1,1,"#{""alexander.baranosky@gmail.com""}",1170.0,10
+Clojure,marick,2012-03-07,2,1,"#{""alexander.baranosky@gmail.com""}",1172.0,10
+Clojure,marick,2012-03-08,7,1,"#{""alexander.baranosky@gmail.com""}",1179.0,10
+Clojure,marick,2012-03-10,5,1,"#{""alexander.baranosky@gmail.com""}",1184.0,10
+Clojure,marick,2012-03-11,3,1,"#{""alexander.baranosky@gmail.com""}",1187.0,10
+Clojure,marick,2012-03-12,1,1,"#{""alexander.baranosky@gmail.com""}",1188.0,10
+Clojure,marick,2012-03-13,4,1,"#{""alexander.baranosky@gmail.com""}",1192.0,10
+Clojure,marick,2012-03-14,4,1,"#{""alexander.baranosky@gmail.com""}",1196.0,10
+Clojure,marick,2012-03-15,7,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1203.0,10
+Clojure,marick,2012-03-17,2,1,"#{""alexander.baranosky@gmail.com""}",1205.0,10
+Clojure,marick,2012-03-18,8,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1213.0,10
+Clojure,marick,2012-03-19,5,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1218.0,10
+Clojure,marick,2012-03-20,3,2,"#{""alexander.baranosky@gmail.com"" ""ru.vinzent@gmail.com""}",1221.0,10
+Clojure,marick,2012-03-21,2,1,"#{""alexander.baranosky@gmail.com""}",1223.0,10
+Clojure,marick,2012-03-22,1,1,"#{""alexander.baranosky@gmail.com""}",1224.0,10
+Clojure,marick,2012-03-24,6,1,"#{""alexander.baranosky@gmail.com""}",1230.0,10
+Clojure,marick,2012-03-25,4,1,"#{""alexander.baranosky@gmail.com""}",1234.0,10
+Clojure,marick,2012-03-27,1,1,"#{""alexander.baranosky@gmail.com""}",1235.0,10
+Clojure,marick,2012-03-30,2,1,"#{""alexander.baranosky@gmail.com""}",1237.0,10
+Clojure,marick,2012-03-31,9,1,"#{""alexander.baranosky@gmail.com""}",1246.0,10
+Clojure,marick,2012-04-01,10,1,"#{""alexander.baranosky@gmail.com""}",1256.0,10
+Clojure,marick,2012-04-03,5,1,"#{""alexander.baranosky@gmail.com""}",1261.0,10
+Clojure,marick,2012-04-04,3,1,"#{""alexander.baranosky@gmail.com""}",1264.0,10
+Clojure,marick,2012-04-08,2,1,"#{""alexander.baranosky@gmail.com""}",1266.0,10
+Clojure,marick,2012-04-11,2,1,"#{""alexander.baranosky@gmail.com""}",1268.0,10
+Clojure,marick,2012-04-12,2,1,"#{""alexander.baranosky@gmail.com""}",1270.0,10
+Clojure,marick,2012-04-13,2,1,"#{""alexander.baranosky@gmail.com""}",1272.0,10
+Clojure,marick,2012-04-15,2,1,"#{""alexander.baranosky@gmail.com""}",1274.0,10
+Clojure,marick,2012-04-19,1,1,"#{""alexander.baranosky@gmail.com""}",1275.0,10
+Clojure,marick,2012-04-20,1,1,"#{""marick@exampler.com""}",1276.0,10
+Clojure,marick,2012-04-21,5,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1281.0,10
+Clojure,marick,2012-04-22,8,1,"#{""alexander.baranosky@gmail.com""}",1289.0,10
+Clojure,marick,2012-04-23,5,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1294.0,10
+Clojure,marick,2012-04-24,7,1,"#{""marick@exampler.com""}",1301.0,10
+Clojure,marick,2012-04-25,6,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1307.0,10
+Clojure,marick,2012-04-26,9,1,"#{""marick@exampler.com""}",1316.0,10
+Clojure,marick,2012-04-27,6,1,"#{""marick@exampler.com""}",1322.0,10
+Clojure,marick,2012-04-28,2,1,"#{""alexander.baranosky@gmail.com""}",1324.0,10
+Clojure,marick,2012-04-29,2,1,"#{""alexander.baranosky@gmail.com""}",1326.0,10
+Clojure,marick,2012-05-01,8,1,"#{""marick@exampler.com""}",1334.0,10
+Clojure,marick,2012-05-05,3,1,"#{""marick@exampler.com""}",1337.0,10
+Clojure,marick,2012-05-09,1,1,"#{""marick@exampler.com""}",1338.0,10
+Clojure,marick,2012-05-10,1,1,"#{""marick@exampler.com""}",1339.0,10
+Clojure,marick,2012-05-11,2,1,"#{""marick@exampler.com""}",1341.0,10
+Clojure,marick,2012-06-14,1,1,"#{""greg.spurrier@gmail.com""}",1342.0,11
+Clojure,marick,2012-06-15,8,2,"#{""marick@exampler.com"" ""greg.spurrier@gmail.com""}",1350.0,11
+Clojure,marick,2012-06-19,7,2,"#{""marick@exampler.com"" ""harri.salokorpi@reaktor.fi""}",1357.0,12
+Clojure,marick,2012-06-20,2,1,"#{""marick@exampler.com""}",1359.0,12
+Clojure,marick,2012-06-22,1,1,"#{""marick@exampler.com""}",1360.0,12
+Clojure,marick,2012-06-27,1,1,"#{""marick@exampler.com""}",1361.0,12
+Clojure,marick,2012-06-28,2,1,"#{""marick@exampler.com""}",1363.0,12
+Clojure,marick,2012-06-29,1,1,"#{""marick@exampler.com""}",1364.0,12
+Clojure,marick,2012-06-30,3,1,"#{""marick@exampler.com""}",1367.0,12
+Clojure,marick,2012-07-01,1,1,"#{""marick@exampler.com""}",1368.0,12
+Clojure,marick,2012-07-02,6,1,"#{""marick@exampler.com""}",1374.0,12
+Clojure,marick,2012-07-04,2,1,"#{""marick@exampler.com""}",1376.0,12
+Clojure,marick,2012-07-05,3,1,"#{""marick@exampler.com""}",1379.0,12
+Clojure,marick,2012-07-06,4,1,"#{""marick@exampler.com""}",1383.0,12
+Clojure,marick,2012-07-08,5,1,"#{""marick@exampler.com""}",1388.0,12
+Clojure,marick,2012-07-09,1,1,"#{""marick@exampler.com""}",1389.0,12
+Clojure,marick,2012-07-10,1,1,"#{""marick@exampler.com""}",1390.0,12
+Clojure,marick,2012-07-16,2,1,"#{""marick@exampler.com""}",1392.0,12
+Clojure,marick,2012-07-19,6,3,"#{""alexander.baranosky@gmail.com"" ""alex@runa.com"" ""pmoriarty@annadaletech.com""}",1398.0,14
+Clojure,marick,2012-07-20,4,1,"#{""marick@exampler.com""}",1402.0,14
+Clojure,marick,2012-07-22,1,1,"#{""marick@exampler.com""}",1403.0,14
+Clojure,marick,2012-08-07,1,1,"#{""marick@exampler.com""}",1404.0,14
+Clojure,marick,2012-08-17,6,1,"#{""marick@exampler.com""}",1410.0,14
+Clojure,marick,2012-08-18,6,1,"#{""marick@exampler.com""}",1416.0,14
+Clojure,marick,2012-08-19,1,1,"#{""marick@exampler.com""}",1417.0,14
+Clojure,marick,2012-08-20,1,1,"#{""marick@exampler.com""}",1418.0,14
+Clojure,marick,2012-08-23,2,1,"#{""marick@exampler.com""}",1420.0,14
+Clojure,marick,2012-08-24,1,1,"#{""marick@exampler.com""}",1421.0,14
+Clojure,marick,2012-08-25,1,1,"#{""moss.127@gmail.com""}",1422.0,15
+Clojure,marick,2012-08-26,3,1,"#{""marick@exampler.com""}",1425.0,15
+Clojure,marick,2012-08-28,3,1,"#{""marick@exampler.com""}",1428.0,15
+Clojure,marick,2012-08-29,3,1,"#{""marick@exampler.com""}",1431.0,15
+Clojure,marick,2012-08-30,2,1,"#{""marick@exampler.com""}",1433.0,15
+Clojure,marick,2012-08-31,3,1,"#{""marick@exampler.com""}",1436.0,15
+Clojure,marick,2012-09-01,2,1,"#{""marick@exampler.com""}",1438.0,15
+Clojure,marick,2012-09-02,1,1,"#{""marick@exampler.com""}",1439.0,15
+Clojure,marick,2012-09-05,1,1,"#{""marick@exampler.com""}",1440.0,15
+Clojure,marick,2012-09-08,5,1,"#{""marick@exampler.com""}",1445.0,15
+Clojure,marick,2012-09-14,1,1,"#{""marick@exampler.com""}",1446.0,15
+Clojure,marick,2012-09-19,1,1,"#{""marick@exampler.com""}",1447.0,15
+Clojure,marick,2012-09-21,1,1,"#{""marick@exampler.com""}",1448.0,15
+Clojure,marick,2012-09-23,2,1,"#{""marick@exampler.com""}",1450.0,15
+Clojure,marick,2012-09-24,1,1,"#{""alex@runa.com""}",1451.0,15
+Clojure,marick,2012-10-02,3,1,"#{""marick@exampler.com""}",1454.0,15
+Clojure,marick,2012-10-03,3,1,"#{""marick@exampler.com""}",1457.0,15
+Clojure,marick,2012-10-07,1,1,"#{""marick@exampler.com""}",1458.0,15
+Clojure,marick,2012-10-09,1,1,"#{""marick@exampler.com""}",1459.0,15
+Clojure,marick,2012-10-10,1,1,"#{""marick@exampler.com""}",1460.0,15
+Clojure,marick,2012-10-11,4,1,"#{""marick@exampler.com""}",1464.0,15
+Clojure,marick,2012-10-15,6,1,"#{""marick@exampler.com""}",1470.0,15
+Clojure,marick,2012-10-16,2,1,"#{""marick@exampler.com""}",1472.0,15
+Clojure,marick,2012-10-18,1,1,"#{""marick@exampler.com""}",1473.0,15
+Clojure,marick,2012-10-19,1,1,"#{""marick@exampler.com""}",1474.0,15
+Clojure,marick,2012-10-23,1,1,"#{""marick@exampler.com""}",1475.0,15
+Clojure,marick,2012-10-24,2,1,"#{""marick@exampler.com""}",1477.0,15
+Clojure,marick,2012-10-25,6,1,"#{""marick@exampler.com""}",1483.0,15
+Clojure,marick,2012-10-26,6,1,"#{""marick@exampler.com""}",1489.0,15
+Clojure,marick,2012-10-27,2,1,"#{""marick@exampler.com""}",1491.0,15
+Clojure,marick,2012-10-28,4,1,"#{""marick@exampler.com""}",1495.0,15
+Clojure,marick,2012-10-31,4,1,"#{""marick@exampler.com""}",1499.0,15
+Clojure,marick,2012-11-01,3,1,"#{""marick@exampler.com""}",1502.0,15
+Clojure,marick,2012-11-02,2,1,"#{""marick@exampler.com""}",1504.0,15
+Clojure,marick,2012-11-03,4,2,"#{""marick@exampler.com"" ""alex@runa.com""}",1508.0,15
+Clojure,marick,2012-11-04,2,1,"#{""marick@exampler.com""}",1510.0,15
+Clojure,marick,2012-11-13,3,1,"#{""marick@exampler.com""}",1513.0,15
+Clojure,marick,2012-11-14,4,1,"#{""marick@exampler.com""}",1517.0,15
+Clojure,marick,2012-11-15,4,1,"#{""marick@exampler.com""}",1521.0,15
+Clojure,marick,2012-11-16,1,1,"#{""marick@exampler.com""}",1522.0,15
+Clojure,marick,2012-11-17,8,1,"#{""marick@exampler.com""}",1530.0,15
+Clojure,marick,2012-11-18,2,1,"#{""marick@exampler.com""}",1532.0,15
+Clojure,marick,2012-11-19,5,1,"#{""marick@exampler.com""}",1537.0,15
+Clojure,marick,2012-11-20,4,1,"#{""marick@exampler.com""}",1541.0,15
+Clojure,marick,2012-11-21,2,1,"#{""marick@exampler.com""}",1543.0,15
+Clojure,marick,2012-11-22,3,1,"#{""alex@runa.com""}",1546.0,15
+Clojure,marick,2012-11-23,7,1,"#{""marick@exampler.com""}",1553.0,15
+Clojure,marick,2012-11-24,7,1,"#{""marick@exampler.com""}",1560.0,15
+Clojure,marick,2012-11-25,1,1,"#{""marick@exampler.com""}",1561.0,15
+Clojure,marick,2012-11-26,3,1,"#{""marick@exampler.com""}",1564.0,15
+Clojure,marick,2012-11-27,9,1,"#{""marick@exampler.com""}",1573.0,15
+Clojure,marick,2012-11-28,9,1,"#{""marick@exampler.com""}",1582.0,15
+Clojure,marick,2012-11-29,5,1,"#{""marick@exampler.com""}",1587.0,15
+Clojure,marick,2012-11-30,2,1,"#{""marick@exampler.com""}",1589.0,15
+Clojure,marick,2012-12-01,3,1,"#{""marick@exampler.com""}",1592.0,15
+Clojure,marick,2012-12-02,5,2,"#{""marick@exampler.com"" ""alex@runa.com""}",1597.0,15
+Clojure,marick,2012-12-03,11,1,"#{""marick@exampler.com""}",1608.0,15
+Clojure,marick,2012-12-04,11,1,"#{""marick@exampler.com""}",1619.0,15
+Clojure,marick,2012-12-05,16,2,"#{""marick@exampler.com"" ""alex@runa.com""}",1635.0,15
+Clojure,marick,2012-12-06,6,1,"#{""marick@exampler.com""}",1641.0,15
+Clojure,marick,2012-12-07,4,1,"#{""marick@exampler.com""}",1645.0,15
+Clojure,marick,2012-12-11,3,1,"#{""marick@exampler.com""}",1648.0,15
+Clojure,marick,2012-12-12,1,1,"#{""marick@exampler.com""}",1649.0,15
+Clojure,marick,2012-12-16,1,1,"#{""jeremyw.sherman@gmail.com""}",1650.0,16
+Clojure,marick,2012-12-18,2,1,"#{""marick@exampler.com""}",1652.0,16
+Clojure,marick,2012-12-21,2,1,"#{""marick@exampler.com""}",1654.0,16
+Clojure,marick,2012-12-22,2,1,"#{""marick@exampler.com""}",1656.0,16
+Clojure,marick,2012-12-23,2,1,"#{""marick@exampler.com""}",1658.0,16
+Clojure,marick,2012-12-24,4,1,"#{""marick@exampler.com""}",1662.0,16
+Clojure,marick,2012-12-25,5,1,"#{""marick@exampler.com""}",1667.0,16
+Clojure,marick,2012-12-26,1,1,"#{""marick@exampler.com""}",1668.0,16
+Clojure,marick,2012-12-27,5,1,"#{""marick@exampler.com""}",1673.0,16
+Clojure,marick,2012-12-28,1,1,"#{""marick@exampler.com""}",1674.0,16
+Clojure,marick,2012-12-29,1,1,"#{""marick@exampler.com""}",1675.0,16
+Clojure,marick,2012-12-30,5,1,"#{""marick@exampler.com""}",1680.0,16
+Clojure,marick,2012-12-31,4,1,"#{""marick@exampler.com""}",1684.0,16
+Clojure,marick,2013-01-01,1,1,"#{""marick@exampler.com""}",1685.0,16
+Clojure,marick,2013-01-02,5,1,"#{""marick@exampler.com""}",1690.0,16
+Clojure,marick,2013-01-03,4,1,"#{""marick@exampler.com""}",1694.0,16
+Clojure,marick,2013-01-04,5,1,"#{""marick@exampler.com""}",1699.0,16
+Clojure,marick,2013-01-05,3,2,"#{""alexander.baranosky@gmail.com"" ""marick@exampler.com""}",1702.0,16
+Clojure,marick,2013-01-06,4,1,"#{""marick@exampler.com""}",1706.0,16
+Clojure,marick,2013-01-07,4,1,"#{""marick@exampler.com""}",1710.0,16
+Clojure,marick,2013-01-08,5,1,"#{""marick@exampler.com""}",1715.0,16
+Clojure,marick,2013-01-09,8,1,"#{""marick@exampler.com""}",1723.0,16
+Clojure,marick,2013-01-10,2,1,"#{""marick@exampler.com""}",1725.0,16
+Clojure,marick,2013-01-12,10,1,"#{""marick@exampler.com""}",1735.0,16
+Clojure,marick,2013-01-13,4,1,"#{""marick@exampler.com""}",1739.0,16
+Clojure,marick,2013-01-14,11,1,"#{""marick@exampler.com""}",1750.0,16
+Clojure,marick,2013-01-15,10,1,"#{""marick@exampler.com""}",1760.0,16
+Clojure,marick,2013-01-17,5,1,"#{""marick@exampler.com""}",1765.0,16
+Clojure,marick,2013-01-18,4,1,"#{""marick@exampler.com""}",1769.0,16
+Clojure,marick,2013-01-19,7,1,"#{""marick@exampler.com""}",1776.0,16
+Clojure,marick,2013-01-20,6,2,"#{""rdm@cfcl.com"" ""marick@exampler.com""}",1782.0,17
+Clojure,marick,2013-01-21,6,1,"#{""marick@exampler.com""}",1788.0,17
+Clojure,marick,2013-01-22,21,1,"#{""marick@exampler.com""}",1809.0,17
+Clojure,marick,2013-01-23,9,1,"#{""marick@exampler.com""}",1818.0,17
+Clojure,marick,2013-01-24,21,1,"#{""marick@exampler.com""}",1839.0,17
+Clojure,marick,2013-01-25,11,1,"#{""marick@exampler.com""}",1850.0,17
+Clojure,marick,2013-01-26,15,1,"#{""marick@exampler.com""}",1865.0,17
+Clojure,marick,2013-01-27,4,1,"#{""marick@exampler.com""}",1869.0,17
+Clojure,marick,2013-01-28,2,1,"#{""marick@exampler.com""}",1871.0,17
+Clojure,marick,2013-01-29,5,1,"#{""marick@exampler.com""}",1876.0,17
+Clojure,marick,2013-01-30,1,1,"#{""marick@exampler.com""}",1877.0,17
+Clojure,marick,2013-01-31,3,1,"#{""marick@exampler.com""}",1880.0,17
+Clojure,marick,2013-02-01,8,1,"#{""marick@exampler.com""}",1888.0,17
+Clojure,marick,2013-02-02,11,1,"#{""marick@exampler.com""}",1899.0,17
+Clojure,marick,2013-02-03,18,1,"#{""marick@exampler.com""}",1917.0,17
+Clojure,marick,2013-02-04,14,1,"#{""marick@exampler.com""}",1931.0,17
+Clojure,marick,2013-02-05,13,1,"#{""marick@exampler.com""}",1944.0,17
+Clojure,marick,2013-02-06,2,1,"#{""marick@exampler.com""}",1946.0,17
+Clojure,marick,2013-02-07,4,1,"#{""marick@exampler.com""}",1950.0,17
+Clojure,marick,2013-02-08,3,1,"#{""marick@exampler.com""}",1953.0,17
+Clojure,marick,2013-02-09,4,2,"#{""giorgio@refactor.it"" ""marick@exampler.com""}",1957.0,18
+Clojure,marick,2013-02-10,5,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",1962.0,19
+Clojure,marick,2013-02-12,5,1,"#{""marick@exampler.com""}",1967.0,19
+Clojure,marick,2013-02-13,7,1,"#{""marick@exampler.com""}",1974.0,19
+Clojure,marick,2013-02-14,1,1,"#{""marick@exampler.com""}",1975.0,19
+Clojure,marick,2013-02-15,6,1,"#{""marick@exampler.com""}",1981.0,19
+Clojure,marick,2013-02-16,1,1,"#{""giorgio@refactor.it""}",1982.0,19
+Clojure,marick,2013-02-17,5,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",1987.0,19
+Clojure,marick,2013-02-18,4,1,"#{""marick@exampler.com""}",1991.0,19
+Clojure,marick,2013-02-19,3,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",1994.0,19
+Clojure,marick,2013-02-20,7,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",2001.0,19
+Clojure,marick,2013-02-21,11,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",2012.0,19
+Clojure,marick,2013-02-22,5,1,"#{""marick@exampler.com""}",2017.0,19
+Clojure,marick,2013-02-23,2,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",2019.0,19
+Clojure,marick,2013-02-25,4,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",2023.0,19
+Clojure,marick,2013-02-26,7,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",2030.0,19
+Clojure,marick,2013-02-27,6,1,"#{""joe@josephwilk.net""}",2036.0,19
+Clojure,marick,2013-02-28,9,1,"#{""joe@josephwilk.net""}",2045.0,19
+Clojure,marick,2013-03-01,12,2,"#{""marick@exampler.com"" ""joe@josephwilk.net""}",2057.0,19
+Clojure,marick,2013-03-02,5,2,"#{""giorgio@refactor.it"" ""joe@josephwilk.net""}",2062.0,19
+Clojure,marick,2013-03-07,3,1,"#{""marick@exampler.com""}",2065.0,19
+Clojure,marick,2013-03-08,1,1,"#{""marick@exampler.com""}",2066.0,19
+Clojure,marick,2013-03-10,1,1,"#{""joe@josephwilk.net""}",2067.0,19
+Clojure,marick,2013-03-18,1,1,"#{""marick@exampler.com""}",2068.0,19
+Clojure,marick,2013-03-19,10,1,"#{""marick@exampler.com""}",2078.0,19
+Clojure,marick,2013-03-20,6,1,"#{""marick@exampler.com""}",2084.0,19
+Clojure,marick,2013-03-22,3,1,"#{""marick@exampler.com""}",2087.0,19
+Clojure,marick,2013-03-23,1,1,"#{""marick@exampler.com""}",2088.0,19
+Clojure,marick,2013-04-03,1,1,"#{""alex@swiftkey.net""}",2089.0,20
+Clojure,marick,2013-04-05,1,1,"#{""joe@josephwilk.net""}",2090.0,20
+Clojure,marick,2013-04-09,2,1,"#{""joe@josephwilk.net""}",2092.0,20
+Clojure,marick,2013-04-10,3,1,"#{""joe@josephwilk.net""}",2095.0,20
+Clojure,marick,2013-04-24,1,1,"#{""marick@exampler.com""}",2096.0,20
+Clojure,marick,2013-04-27,1,1,"#{""marick@exampler.com""}",2097.0,20
+Clojure,marick,2013-04-28,5,1,"#{""marick@exampler.com""}",2102.0,20
+Clojure,marick,2013-05-04,4,1,"#{""marick@exampler.com""}",2106.0,20
+Clojure,marick,2013-05-07,1,1,"#{""marick@exampler.com""}",2107.0,20
+Clojure,marick,2013-05-08,3,1,"#{""marick@exampler.com""}",2110.0,20
+Clojure,marick,2013-05-09,2,1,"#{""marick@exampler.com""}",2112.0,20
+Clojure,marick,2013-05-10,5,1,"#{""marick@exampler.com""}",2117.0,20
+Clojure,marick,2013-05-11,2,1,"#{""marick@exampler.com""}",2119.0,20
+Clojure,marick,2013-05-12,7,1,"#{""marick@exampler.com""}",2126.0,20
+Clojure,marick,2013-05-13,5,1,"#{""marick@exampler.com""}",2131.0,20
+Clojure,marick,2013-05-14,7,1,"#{""marick@exampler.com""}",2138.0,20
+Clojure,marick,2013-05-15,4,1,"#{""marick@exampler.com""}",2142.0,20
+Clojure,marick,2013-05-16,7,1,"#{""marick@exampler.com""}",2149.0,20
+Clojure,marick,2013-05-19,2,1,"#{""marick@exampler.com""}",2151.0,20
+Clojure,marick,2013-05-25,2,1,"#{""giorgio@refactor.it""}",2153.0,20
+Clojure,marick,2013-06-08,2,1,"#{""marick@exampler.com""}",2155.0,20
+Clojure,marick,2013-06-09,1,1,"#{""marick@exampler.com""}",2156.0,20
+Clojure,marick,2013-07-10,1,1,"#{""trptcolin@gmail.com""}",2157.0,21
+Clojure,marick,2013-07-17,1,1,"#{""giorgio@refactor.it""}",2158.0,21
+Clojure,marick,2013-07-18,1,1,"#{""giorgio@refactor.it""}",2159.0,21
+Clojure,marick,2013-07-19,1,1,"#{""giorgio@refactor.it""}",2160.0,21
+Clojure,marick,2013-07-20,6,1,"#{""marick@exampler.com""}",2166.0,21
+Clojure,marick,2013-07-25,1,1,"#{""giorgio@refactor.it""}",2167.0,21
+Clojure,marick,2013-07-27,1,1,"#{""marick@exampler.com""}",2168.0,21
+Clojure,marick,2013-07-28,6,1,"#{""marick@exampler.com""}",2174.0,21
+Clojure,marick,2013-08-06,1,1,"#{""ozan@ozansener.com""}",2175.0,22
+Clojure,marick,2013-08-09,2,1,"#{""brian@getset.com""}",2177.0,23
+Clojure,marick,2013-08-11,4,2,"#{""marick@exampler.com"" ""brian@getset.com""}",2181.0,23
+Clojure,marick,2013-08-26,3,1,"#{""jacek@lshift.net""}",2184.0,24
+Clojure,marick,2013-09-10,1,1,"#{""usenet@laliluna.de""}",2185.0,25
+Clojure,marick,2013-09-19,1,1,"#{""rmlipman@gmail.com""}",2186.0,26
+Clojure,marick,2013-10-06,4,1,"#{""marick@exampler.com""}",2190.0,26
+Clojure,marick,2013-11-09,5,1,"#{""marick@exampler.com""}",2195.0,26
+Clojure,marick,2013-11-29,1,1,"#{""marick@exampler.com""}",2196.0,26
+Clojure,marick,2013-11-30,1,1,"#{""marick@exampler.com""}",2197.0,26
+Clojure,marick,2013-12-01,1,1,"#{""marick@exampler.com""}",2198.0,26
+Clojure,marick,2014-02-02,4,1,"#{""marick@exampler.com""}",2202.0,26
+Clojure,marick,2014-02-12,2,1,"#{""marick@exampler.com""}",2204.0,26
+Clojure,marick,2014-03-09,4,1,"#{""marick@exampler.com""}",2208.0,26
+Clojure,marick,2014-03-17,1,1,"#{""toby@tcrawley.org""}",2209.0,27
+Clojure,marick,2014-03-18,1,1,"#{""cch1@hapgoods.com""}",2210.0,28
+Clojure,marick,2014-05-18,10,1,"#{""marick@exampler.com""}",2220.0,28
+Clojure,marick,2014-07-04,1,1,"#{""marick@exampler.com""}",2221.0,28
+Clojure,marick,2014-09-21,4,1,"#{""muhuk@muhuk.com""}",2225.0,29
+Clojure,marick,2014-10-26,8,1,"#{""marick@exampler.com""}",2233.0,29
+Clojure,marick,2014-11-28,2,1,"#{""marick@exampler.com""}",2235.0,29
+Clojure,marick,2014-11-29,10,1,"#{""marick@exampler.com""}",2245.0,29
+Clojure,marick,2014-11-30,6,1,"#{""marick@exampler.com""}",2251.0,29
+Clojure,marick,2014-12-07,5,1,"#{""marick@exampler.com""}",2256.0,29
+Clojure,marick,2015-01-04,1,1,"#{""marick@exampler.com""}",2257.0,29
+Clojure,marick,2015-01-05,2,2,"#{""anders.furseth@gmail.com"" ""marick@exampler.com""}",2259.0,30
+Clojure,marick,2015-01-06,3,1,"#{""marick@exampler.com""}",2262.0,30
+Clojure,marick,2015-01-07,7,1,"#{""marick@exampler.com""}",2269.0,30
+Clojure,marick,2015-01-08,2,1,"#{""marick@exampler.com""}",2271.0,30
+Clojure,marick,2015-01-10,17,1,"#{""marick@exampler.com""}",2288.0,30
+Clojure,marick,2015-01-11,2,1,"#{""marick@exampler.com""}",2290.0,30
+Clojure,marick,2015-02-19,2,1,"#{""blkbsstt@gmail.com""}",2292.0,31
+Clojure,marick,2015-03-25,1,1,"#{""wildgriffin45@gmail.com""}",2293.0,32
+Clojure,marick,2015-04-09,2,1,"#{""marick@exampler.com""}",2295.0,32
+Clojure,marick,2015-04-10,3,1,"#{""marick@exampler.com""}",2298.0,32
+Clojure,marick,2015-04-17,2,1,"#{""marick@exampler.com""}",2300.0,32
+Clojure,marick,2015-04-18,7,1,"#{""marick@exampler.com""}",2307.0,32
+Clojure,marick,2015-04-20,8,1,"#{""marick@exampler.com""}",2315.0,32
+Clojure,marick,2015-04-21,3,1,"#{""marick@exampler.com""}",2318.0,32
+Clojure,marick,2015-04-27,1,1,"#{""marick@exampler.com""}",2319.0,32
+Clojure,marick,2015-05-04,1,1,"#{""marick@exampler.com""}",2320.0,32
+Clojure,marick,2015-05-05,1,1,"#{""marick@exampler.com""}",2321.0,32
+Clojure,marick,2015-05-06,1,1,"#{""marick@exampler.com""}",2322.0,32
+Clojure,marick,2015-05-08,2,1,"#{""marick@exampler.com""}",2324.0,32
+Clojure,marick,2015-05-09,2,2,"#{""marick@exampler.com"" ""colin@logaan.net""}",2326.0,33
+Clojure,marick,2015-05-12,3,1,"#{""muhuk@muhuk.com""}",2329.0,33
+Clojure,marick,2015-05-13,7,2,"#{""marick@exampler.com"" ""muhuk@muhuk.com""}",2336.0,33
+Clojure,marick,2015-05-17,10,2,"#{""marick@exampler.com"" ""muhuk@muhuk.com""}",2346.0,33
+Clojure,marick,2015-05-18,4,1,"#{""marick@exampler.com""}",2350.0,33
+Clojure,marick,2015-05-19,4,1,"#{""muhuk@muhuk.com""}",2354.0,33
+Clojure,marick,2015-05-20,2,2,"#{""marick@exampler.com"" ""muhuk@muhuk.com""}",2356.0,33
+Clojure,marick,2015-05-21,1,1,"#{""marick@exampler.com""}",2357.0,33
+Clojure,marick,2015-06-01,5,1,"#{""marick@exampler.com""}",2362.0,33
+Clojure,marick,2015-06-07,5,1,"#{""marick@exampler.com""}",2367.0,33
+Clojure,marick,2015-06-08,7,1,"#{""marick@exampler.com""}",2374.0,33
+Clojure,marick,2015-06-09,14,1,"#{""marick@exampler.com""}",2388.0,33
+Clojure,marick,2015-06-11,1,1,"#{""marick@exampler.com""}",2389.0,33
+Clojure,marick,2015-06-12,8,1,"#{""marick@exampler.com""}",2397.0,33
+Clojure,marick,2015-06-13,3,1,"#{""marick@exampler.com""}",2400.0,33
+Clojure,marick,2015-06-14,3,1,"#{""marick@exampler.com""}",2403.0,33
+Clojure,marick,2015-06-15,5,1,"#{""marick@exampler.com""}",2408.0,33
+Clojure,marick,2015-06-16,1,1,"#{""marick@exampler.com""}",2409.0,33
+Clojure,marick,2015-06-17,5,1,"#{""marick@exampler.com""}",2414.0,33
+Clojure,marick,2015-06-19,8,1,"#{""marick@exampler.com""}",2422.0,33
+Clojure,marick,2015-06-20,4,1,"#{""marick@exampler.com""}",2426.0,33
+Clojure,marick,2015-06-21,11,1,"#{""marick@exampler.com""}",2437.0,33
+Clojure,marick,2015-06-22,7,1,"#{""marick@exampler.com""}",2444.0,33
+Clojure,marick,2015-06-23,5,1,"#{""marick@exampler.com""}",2449.0,33
+Clojure,marick,2015-06-24,4,1,"#{""marick@exampler.com""}",2453.0,33
+Clojure,marick,2015-06-25,2,1,"#{""marick@exampler.com""}",2455.0,33
+Clojure,marick,2015-06-26,6,1,"#{""marick@exampler.com""}",2461.0,33
+Clojure,marick,2015-06-28,14,1,"#{""marick@exampler.com""}",2475.0,33
+Clojure,marick,2015-06-30,5,1,"#{""marick@exampler.com""}",2480.0,33
+Clojure,marick,2015-07-02,13,1,"#{""marick@exampler.com""}",2493.0,33
+Clojure,marick,2015-07-03,3,1,"#{""marick@exampler.com""}",2496.0,33
+Clojure,marick,2015-07-05,12,1,"#{""marick@exampler.com""}",2508.0,33
+Clojure,marick,2015-07-06,8,1,"#{""marick@exampler.com""}",2516.0,33
+Clojure,marick,2015-07-07,9,1,"#{""marick@exampler.com""}",2525.0,33
+Clojure,marick,2015-07-10,2,1,"#{""marick@exampler.com""}",2527.0,33
+Clojure,marick,2015-07-11,1,1,"#{""marick@exampler.com""}",2528.0,33
+Clojure,marick,2015-07-12,2,1,"#{""marick@exampler.com""}",2530.0,33
+Clojure,marick,2015-07-13,5,1,"#{""marick@exampler.com""}",2535.0,33
+Clojure,marick,2015-07-14,1,1,"#{""marick@exampler.com""}",2536.0,33
+Clojure,marick,2015-07-15,6,1,"#{""marick@exampler.com""}",2542.0,33
+Clojure,marick,2015-07-16,9,1,"#{""marick@exampler.com""}",2551.0,33
+Clojure,marick,2015-07-17,13,1,"#{""marick@exampler.com""}",2564.0,33
+Clojure,marick,2015-07-30,1,1,"#{""marick@exampler.com""}",2565.0,33
+Clojure,marick,2015-07-31,1,1,"#{""marick@exampler.com""}",2566.0,33
+Clojure,marick,2015-08-01,4,1,"#{""marick@exampler.com""}",2570.0,33
+Clojure,marick,2015-08-02,7,1,"#{""marick@exampler.com""}",2577.0,33
+Clojure,marick,2015-08-03,3,1,"#{""marick@exampler.com""}",2580.0,33
+Clojure,marick,2015-08-04,4,1,"#{""marick@exampler.com""}",2584.0,33
+Clojure,marick,2015-08-05,2,1,"#{""marick@exampler.com""}",2586.0,33
+Clojure,marick,2015-08-08,1,1,"#{""marick@exampler.com""}",2587.0,33
+Clojure,marick,2015-08-09,2,1,"#{""marick@exampler.com""}",2589.0,33
+Clojure,marick,2015-08-10,12,1,"#{""marick@exampler.com""}",2601.0,33
+Clojure,marick,2015-08-11,7,1,"#{""marick@exampler.com""}",2608.0,33
+Clojure,marick,2015-08-12,2,1,"#{""marick@exampler.com""}",2610.0,33
+Clojure,marick,2015-08-13,8,1,"#{""marick@exampler.com""}",2618.0,33
+Clojure,marick,2015-08-14,2,1,"#{""marick@exampler.com""}",2620.0,33
+Clojure,marick,2015-08-15,4,1,"#{""marick@exampler.com""}",2624.0,33
+Clojure,marick,2015-08-16,7,1,"#{""marick@exampler.com""}",2631.0,33
+Clojure,marick,2015-08-18,2,1,"#{""marick@exampler.com""}",2633.0,33
+Clojure,marick,2015-08-19,4,1,"#{""marick@exampler.com""}",2637.0,33
+Clojure,marick,2015-08-23,10,1,"#{""marick@exampler.com""}",2647.0,33
+Clojure,marick,2015-08-28,1,1,"#{""marick@exampler.com""}",2648.0,33
+Clojure,marick,2015-08-29,2,1,"#{""marick@exampler.com""}",2650.0,33
+Clojure,marick,2015-08-30,2,1,"#{""marick@exampler.com""}",2652.0,33
+Clojure,marick,2015-08-31,4,1,"#{""marick@exampler.com""}",2656.0,33
+Clojure,marick,2015-09-04,5,1,"#{""marick@exampler.com""}",2661.0,33
+Clojure,marick,2015-09-05,7,1,"#{""marick@exampler.com""}",2668.0,33
+Clojure,marick,2015-09-06,6,1,"#{""marick@exampler.com""}",2674.0,33
+Clojure,marick,2015-09-07,2,1,"#{""marick@exampler.com""}",2676.0,33
+Clojure,marick,2015-09-10,1,1,"#{""marick@exampler.com""}",2677.0,33
+Clojure,marick,2015-09-11,3,2,"#{""marick@exampler.com"" ""andree88@gmail.com""}",2680.0,34
+Clojure,marick,2015-09-12,3,1,"#{""marick@exampler.com""}",2683.0,34
+Clojure,marick,2015-09-13,3,1,"#{""marick@exampler.com""}",2686.0,34
+Clojure,marick,2015-09-15,5,1,"#{""marick@exampler.com""}",2691.0,34
+Clojure,marick,2015-09-17,2,1,"#{""marick@exampler.com""}",2693.0,34
+Clojure,marick,2015-09-18,2,1,"#{""marick@exampler.com""}",2695.0,34
+Clojure,marick,2015-09-19,4,1,"#{""marick@exampler.com""}",2699.0,34
+Clojure,marick,2015-09-21,2,1,"#{""marick@exampler.com""}",2701.0,34
+Clojure,marick,2015-09-22,1,1,"#{""marick@exampler.com""}",2702.0,34
+Clojure,marick,2015-09-23,2,1,"#{""marick@exampler.com""}",2704.0,34
+Clojure,marick,2015-09-24,3,1,"#{""marick@exampler.com""}",2707.0,34
+Clojure,marick,2015-09-25,4,1,"#{""marick@exampler.com""}",2711.0,34
+Clojure,marick,2015-09-26,1,1,"#{""marick@exampler.com""}",2712.0,34
+Clojure,marick,2015-09-27,5,1,"#{""marick@exampler.com""}",2717.0,34
+Clojure,marick,2015-09-28,2,1,"#{""marick@exampler.com""}",2719.0,34
+Clojure,marick,2015-09-29,11,1,"#{""marick@exampler.com""}",2730.0,34
+Clojure,marick,2015-09-30,2,1,"#{""marick@exampler.com""}",2732.0,34
+Clojure,marick,2015-10-01,2,1,"#{""marick@exampler.com""}",2734.0,34
+Clojure,marick,2015-10-03,2,1,"#{""marick@exampler.com""}",2736.0,34
+Clojure,marick,2015-10-04,4,1,"#{""marick@exampler.com""}",2740.0,34
+Clojure,marick,2015-10-05,2,1,"#{""marick@exampler.com""}",2742.0,34
+Clojure,marick,2015-10-07,2,1,"#{""marick@exampler.com""}",2744.0,34
+Clojure,marick,2015-10-08,6,1,"#{""marick@exampler.com""}",2750.0,34
+Clojure,marick,2015-10-10,1,1,"#{""marick@exampler.com""}",2751.0,34
+Clojure,marick,2015-10-11,4,1,"#{""marick@exampler.com""}",2755.0,34
+Clojure,marick,2015-10-12,1,1,"#{""marick@exampler.com""}",2756.0,34
+Clojure,marick,2015-10-14,3,1,"#{""marick@exampler.com""}",2759.0,34
+Clojure,marick,2015-10-15,2,1,"#{""marick@exampler.com""}",2761.0,34
+Clojure,marick,2015-10-16,6,1,"#{""marick@exampler.com""}",2767.0,34
+Clojure,marick,2015-10-17,3,2,"#{""marick@exampler.com"" ""jakedust@gmail.com""}",2770.0,35
+Clojure,marick,2015-10-18,10,2,"#{""alessandroandrioni@gmail.com"" ""marick@exampler.com""}",2780.0,36
+Clojure,marick,2015-10-19,2,2,"#{""alessandroandrioni@gmail.com"" ""marick@exampler.com""}",2782.0,36
+Clojure,marick,2015-10-20,3,1,"#{""marick@exampler.com""}",2785.0,36
+Clojure,marick,2015-10-23,2,1,"#{""marick@exampler.com""}",2787.0,36
+Clojure,marick,2015-10-24,2,1,"#{""marick@exampler.com""}",2789.0,36
+Clojure,marick,2015-10-25,3,1,"#{""marick@exampler.com""}",2792.0,36
+Clojure,marick,2015-10-26,3,1,"#{""marick@exampler.com""}",2795.0,36
+Clojure,marick,2015-10-27,5,1,"#{""marick@exampler.com""}",2800.0,36
+Clojure,marick,2015-10-28,3,1,"#{""marick@exampler.com""}",2803.0,36
+Clojure,marick,2015-10-30,2,1,"#{""marick@exampler.com""}",2805.0,36
+Clojure,marick,2015-10-31,1,1,"#{""marick@exampler.com""}",2806.0,36
+Clojure,marick,2015-11-01,2,1,"#{""marick@exampler.com""}",2808.0,36
+Clojure,marick,2015-11-06,1,1,"#{""marick@exampler.com""}",2809.0,36
+Clojure,marick,2015-11-16,1,1,"#{""marick@exampler.com""}",2810.0,36
+Clojure,marick,2015-11-21,2,1,"#{""marick@exampler.com""}",2812.0,36
+Clojure,marick,2015-11-29,1,1,"#{""devn@users.noreply.github.com""}",2813.0,37
+Clojure,marick,2015-12-14,1,1,"#{""marick@exampler.com""}",2814.0,37
+Clojure,marick,2015-12-18,8,1,"#{""marick@exampler.com""}",2822.0,37
+Clojure,marick,2015-12-19,1,1,"#{""marick@exampler.com""}",2823.0,37
+Clojure,marick,2015-12-31,2,1,"#{""marick@exampler.com""}",2825.0,37
+Clojure,marick,2016-01-17,2,1,"#{""dlebrero@gmail.com""}",2827.0,38
+Clojure,marick,2016-01-20,5,1,"#{""marick@exampler.com""}",2832.0,38
+Clojure,marick,2016-01-22,2,1,"#{""marick@exampler.com""}",2834.0,38
+Clojure,marick,2016-01-23,9,2,"#{""marick@exampler.com"" ""dlebrero@gmail.com""}",2843.0,38
+Clojure,marick,2016-01-24,4,1,"#{""marick@exampler.com""}",2847.0,38
+Clojure,marick,2016-01-25,4,1,"#{""marick@exampler.com""}",2851.0,38
+Clojure,marick,2016-01-29,2,1,"#{""marick@exampler.com""}",2853.0,38
+Clojure,marick,2016-01-30,8,1,"#{""marick@exampler.com""}",2861.0,38
+Clojure,marick,2016-01-31,7,1,"#{""marick@exampler.com""}",2868.0,38
+Clojure,marick,2016-02-11,1,1,"#{""marick@exampler.com""}",2869.0,38
+Clojure,marick,2016-02-14,6,1,"#{""marick@exampler.com""}",2875.0,38
+Clojure,marick,2016-02-15,2,1,"#{""marick@exampler.com""}",2877.0,38
+Clojure,marick,2016-02-16,4,1,"#{""marick@exampler.com""}",2881.0,38
+Clojure,marick,2016-02-17,1,1,"#{""marick@exampler.com""}",2882.0,38
+Clojure,marick,2016-02-18,3,1,"#{""marick@exampler.com""}",2885.0,38
+Clojure,marick,2016-02-19,3,1,"#{""marick@exampler.com""}",2888.0,38
+Clojure,marick,2016-02-20,10,1,"#{""marick@exampler.com""}",2898.0,38
+Clojure,marick,2016-02-21,2,1,"#{""marick@exampler.com""}",2900.0,38
+Clojure,marick,2016-02-22,2,1,"#{""marick@exampler.com""}",2902.0,38
+Clojure,marick,2016-02-25,1,1,"#{""marick@exampler.com""}",2903.0,38
+Clojure,marick,2016-02-27,4,1,"#{""marick@exampler.com""}",2907.0,38
+Clojure,marick,2016-02-28,5,1,"#{""marick@exampler.com""}",2912.0,38
+Clojure,marick,2016-02-29,1,1,"#{""marick@exampler.com""}",2913.0,38
+Clojure,marick,2016-03-01,2,1,"#{""marick@exampler.com""}",2915.0,38
+Clojure,marick,2016-03-02,5,1,"#{""marick@exampler.com""}",2920.0,38
+Clojure,marick,2016-03-03,1,1,"#{""marick@exampler.com""}",2921.0,38
+Clojure,marick,2016-03-04,1,1,"#{""marick@exampler.com""}",2922.0,38
+Clojure,marick,2016-03-05,5,1,"#{""marick@exampler.com""}",2927.0,38
+Clojure,marick,2016-03-09,8,1,"#{""marick@exampler.com""}",2935.0,38
+Clojure,marick,2016-03-10,1,1,"#{""marick@exampler.com""}",2936.0,38
+Clojure,marick,2016-03-12,1,1,"#{""marick@exampler.com""}",2937.0,38
+Clojure,marick,2016-03-13,3,1,"#{""marick@exampler.com""}",2940.0,38
+Clojure,marick,2016-03-15,1,1,"#{""marick@exampler.com""}",2941.0,38
+Clojure,marick,2016-03-18,6,1,"#{""marick@exampler.com""}",2947.0,38
+Clojure,marick,2016-03-19,2,1,"#{""marick@exampler.com""}",2949.0,38
+Clojure,marick,2016-03-20,12,1,"#{""marick@exampler.com""}",2961.0,38
+Clojure,marick,2016-03-30,3,1,"#{""marick@exampler.com""}",2964.0,38
+Clojure,marick,2016-04-12,1,1,"#{""jason.m.felice@gmail.com""}",2965.0,39
+Clojure,marick,2016-04-30,1,1,"#{""marick@exampler.com""}",2966.0,39
+Clojure,marick,2016-05-02,1,1,"#{""ben.d.sinclair@gmail.com""}",2967.0,40
+Clojure,marick,2016-06-12,2,1,"#{""marick@exampler.com""}",2969.0,40
+Clojure,marick,2016-06-13,9,1,"#{""marick@exampler.com""}",2978.0,40
+Clojure,marick,2016-07-01,4,1,"#{""marick@exampler.com""}",2982.0,40
+Clojure,marick,2016-07-30,1,1,"#{""bsvingen@borkdal.com""}",2983.0,41
+Clojure,marick,2016-08-14,5,1,"#{""marick@exampler.com""}",2988.0,41
+Clojure,marick,2016-08-21,5,1,"#{""marick@exampler.com""}",2993.0,41
+Clojure,marick,2016-08-22,3,1,"#{""marick@exampler.com""}",2996.0,41
+Clojure,marick,2016-09-05,3,1,"#{""marick@exampler.com""}",2999.0,41
+Clojure,marick,2016-09-09,1,1,"#{""marick@exampler.com""}",3000.0,41
+Clojure,marick,2016-10-26,3,1,"#{""marick@exampler.com""}",3003.0,41
+Clojure,marick,2016-11-25,1,1,"#{""dennis.schridde@uni-heidelberg.de""}",3004.0,42
+Clojure,marick,2016-12-09,1,1,"#{""toby@tcrawley.org""}",3005.0,42
+Clojure,marick,2017-03-16,2,1,"#{""phillip.mates@nubank.com.br""}",3007.0,43
+Clojure,marick,2017-03-17,2,1,"#{""phillip.mates@nubank.com.br""}",3009.0,43
+Clojure,marick,2017-04-14,2,1,"#{""rafael@rafaelferreira.net""}",3011.0,44
+Clojure,marick,2017-05-07,2,1,"#{""public@rafaelferreira.net""}",3013.0,45
+Clojure,marick,2017-06-06,3,1,"#{""phillip.mates@nubank.com.br""}",3016.0,45
+Clojure,marick,2017-06-07,3,1,"#{""phillip.mates@nubank.com.br""}",3019.0,45
+Clojure,marick,2017-06-08,3,1,"#{""phillip.mates@nubank.com.br""}",3022.0,45
+Clojure,marick,2017-06-09,4,1,"#{""phillip.mates@nubank.com.br""}",3026.0,45
+Clojure,marick,2017-06-12,8,1,"#{""phillip.mates@nubank.com.br""}",3034.0,45
+Clojure,marick,2017-06-13,1,1,"#{""phillip.mates@nubank.com.br""}",3035.0,45
+Clojure,marick,2017-06-19,1,1,"#{""phillip.mates@nubank.com.br""}",3036.0,45
+Clojure,marick,2017-06-20,15,2,"#{""public@rafaelferreira.net"" ""phillip.mates@nubank.com.br""}",3051.0,45
+Clojure,marick,2017-06-21,13,1,"#{""phillip.mates@nubank.com.br""}",3064.0,45
+Clojure,marick,2017-07-04,11,3,"#{""rafael@rafaelferreira.net"" ""public@rafaelferreira.net"" ""phillip.mates@nubank.com.br""}",3075.0,45
+Clojure,marick,2017-08-07,2,1,"#{""phillip.mates@nubank.com.br""}",3077.0,45
+Clojure,marick,2017-08-16,1,1,"#{""phillip.mates@nubank.com.br""}",3078.0,45
+Clojure,marick,2017-08-22,1,1,"#{""phillip.mates@nubank.com.br""}",3079.0,45
+Clojure,marick,2017-08-23,1,1,"#{""phillip.mates@nubank.com.br""}",3080.0,45
+Clojure,marick,2017-09-11,1,1,"#{""phillip.mates@nubank.com.br""}",3081.0,45
+Clojure,marick,2017-11-08,1,1,"#{""phillip.mates@nubank.com.br""}",3082.0,45
+Clojure,marick,2017-11-09,10,1,"#{""phillip.mates@nubank.com.br""}",3092.0,45
+Clojure,marick,2017-11-14,2,1,"#{""phillip.mates@nubank.com.br""}",3094.0,45
+Clojure,marick,2017-11-21,1,1,"#{""phillip.mates@nubank.com.br""}",3095.0,45
+Clojure,marick,2017-12-01,3,2,"#{""phillip.mates@nubank.com.br"" ""cgore@cgore.com""}",3098.0,46
+Clojure,marick,2017-12-19,1,1,"#{""phillip.mates@nubank.com.br""}",3099.0,46
+Clojure,marick,2017-12-27,3,1,"#{""phillip.mates@nubank.com.br""}",3102.0,46
+Clojure,marick,2018-01-03,1,1,"#{""phillip.mates@nubank.com.br""}",3103.0,46
+Clojure,marick,2018-02-23,1,1,"#{""phillip.mates@nubank.com.br""}",3104.0,46
+Clojure,marick,2018-06-22,1,1,"#{""phillip.mates@nubank.com.br""}",3105.0,46
+Clojure,marick,2018-07-17,1,1,"#{""phillip.mates@nubank.com.br""}",3106.0,46
+Clojure,marick,2018-08-27,2,2,"#{""adam@adamfrey.me"" ""phillip.mates@nubank.com.br""}",3108.0,47
+Clojure,marick,2018-09-28,3,1,"#{""phillip.mates@nubank.com.br""}",3111.0,47
+Clojure,marick,2018-10-09,3,2,"#{""alex@puredanger.com"" ""phillip.mates@nubank.com.br""}",3114.0,48
+Clojure,marick,2018-10-18,2,1,"#{""phillip.mates@nubank.com.br""}",3116.0,48
+Clojure,marick,2019-01-04,2,2,"#{""helios89@gmail.com"" ""phillip.mates@nubank.com.br""}",3118.0,49
+Clojure,marick,2019-01-08,2,2,"#{""public@rafaelferreira.net"" ""phillip.mates@nubank.com.br""}",3120.0,49
+Clojure,marick,2019-01-17,1,1,"#{""phillip.mates@nubank.com.br""}",3121.0,49
+Clojure,marick,2019-04-02,2,2,"#{""laverne@schrock.email"" ""phillip.mates@nubank.com.br""}",3123.0,50
+Clojure,marick,2019-04-08,2,2,"#{""laverne@schrock.email"" ""phillip.mates@nubank.com.br""}",3125.0,50
+Clojure,marick,2019-07-10,2,2,"#{""f32647908@gmail.com"" ""phillip.mates@nubank.com.br""}",3127.0,51
+Clojure,marick,2019-10-17,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",3128.0,52
+Clojure,marick,2019-10-21,1,1,"#{""marick@exampler.com""}",3129.0,52
+Clojure,marick,2020-06-16,1,1,"#{""reynald.borer@gmail.com""}",3130.0,53
+Clojure,marick,2020-07-28,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",3131.0,53
+Clojure,marick,2020-07-31,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""marick@exampler.com""}",3134.0,53
+Clojure,marick,2021-03-04,3,2,"#{""phillip.mates@nubank.com.br"" ""itaysabato@gmail.com""}",3137.0,54
+Clojure,marick,2021-05-10,2,2,"#{""phillip.mates@nubank.com.br"" ""ercdll1337@gmail.com""}",3139.0,55
+Clojure,marick,2021-05-11,4,2,"#{""ericdallo06@hotmail.com"" ""phillip.mates@nubank.com.br""}",3143.0,56
+Clojure,marick,2021-05-12,1,1,"#{""ericdallo06@hotmail.com""}",3144.0,56
+Clojure,marick,2021-08-09,2,2,"#{""phillip.mates@protonmail.com"" ""ericdallo06@hotmail.com""}",3146.0,57
+Clojure,marick,2021-10-27,2,2,"#{""andre.peric.tavares@gmail.com"" ""pmates@igalia.com""}",3148.0,59
+Clojure,marick,2022-10-17,2,1,"#{""phillipmates@gmail.com""}",3150.0,60
+Clojure,marick,2022-11-22,1,1,"#{""ivan.galban.smith@gmail.com""}",3151.0,61
+Clojure,marick,2022-11-23,3,1,"#{""phillipmates@gmail.com""}",3154.0,61
+Clojure,marick,2022-11-28,2,2,"#{""phillipmates@gmail.com"" ""ivan.galban.smith@gmail.com""}",3156.0,61
+Clojure,marick,2023-05-15,1,1,"#{""marick@exampler.com""}",3157.0,61

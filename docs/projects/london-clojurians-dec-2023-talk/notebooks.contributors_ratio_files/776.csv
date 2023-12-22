@@ -1,0 +1,151 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/toxinu/Sublimall,2013-09-01,22,1,"#tech.v3.dataset.column<string>[22]
+:email
+[fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr...]",22.0,[{0 22}],0,22,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-02,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[geoffrey@lehee.name, geoffrey@lehee.name, geoffrey@lehee.name, geoffrey@lehee.name, geoffrey@lehee.name, geoffrey@lehee.name, geoffrey@lehee.name, geoffrey@lehee.name]",30.0,"[{0 22, ""other"" 8}]",8,22,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[fpaquet@live.fr, fpaquet@live.fr]",32.0,"[{0 24, ""other"" 8}]",8,24,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr]",36.0,"[{0 28, ""other"" 8}]",8,28,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr]",39.0,"[{0 31, ""other"" 8}]",8,31,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-07,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr]",47.0,"[{0 39, ""other"" 8}]",8,39,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-08,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr]",58.0,"[{0 50, ""other"" 8}]",8,50,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fpaquet@live.fr]",59.0,"[{0 51, ""other"" 8}]",8,51,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[fpaquet@live.fr, fpaquet@live.fr, fpaquet@live.fr]",62.0,"[{0 54, ""other"" 8}]",8,54,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2013-09-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fpaquet@live.fr]",63.0,"[{0 55, ""other"" 8}]",8,55,0,0,0,0
+Python,https://github.com/toxinu/Sublimall,2014-02-07,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org]",71.0,"[{0 55, ""other"" 8, 1 8}]",8,55,8,0,0,0
+Python,https://github.com/toxinu/Sublimall,2014-02-08,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, socketubs@users.noreply.github.com, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org]",80.0,"[{0 55, ""other"" 8, 1 16, 4 1}]",8,55,16,0,0,1
+Python,https://github.com/toxinu/Sublimall,2014-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hello@socketubs.org, hello@socketubs.org]",82.0,"[{0 55, ""other"" 8, 1 18, 4 1}]",8,55,18,0,0,1
+Python,https://github.com/toxinu/Sublimall,2014-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[socketubs@users.noreply.github.com]",83.0,"[{0 55, ""other"" 8, 1 18, 4 2}]",8,55,18,0,0,2
+Python,https://github.com/toxinu/Sublimall,2014-02-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hello@socketubs.org, hello@socketubs.org, hello@socketubs.org]",86.0,"[{0 55, ""other"" 8, 1 21, 4 2}]",8,55,21,0,0,2
+Python,https://github.com/toxinu/Sublimall,2014-02-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[socketubs@users.noreply.github.com, socketubs@users.noreply.github.com]",88.0,"[{0 55, ""other"" 8, 1 21, 4 4}]",8,55,21,0,0,4
+Python,https://github.com/toxinu/Sublimall,2014-02-14,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[hello@socketubs.org, hello@socketubs.org, g.lehee@jurismarches.com]",91.0,"[{0 55, ""other"" 8, 1 23, 4 4, 3 1}]",8,55,23,0,1,4
+Python,https://github.com/toxinu/Sublimall,2014-02-15,21,3,"#tech.v3.dataset.column<string>[21]
+:email
+[hello@socketubs.org, socketubs@users.noreply.github.com, dufferzafar0@gmail.com, dufferzafar0@gmail.com, hello@socketubs.org, socketubs@users.noreply.github.com, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, dufferzafar0@gmail.com, socketubs@users.noreply.github.com, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org...]",112.0,"[{0 55, ""other"" 11, 1 38, 4 7, 3 1}]",11,55,38,0,1,7
+Python,https://github.com/toxinu/Sublimall,2014-02-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[g.lehee@jurismarches.com, g.lehee@jurismarches.com]",114.0,"[{0 55, ""other"" 11, 1 38, 4 7, 3 3}]",11,55,38,0,3,7
+Python,https://github.com/toxinu/Sublimall,2014-02-18,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[michal.czokajlo@gmail.com, michal.czokajlo@gmail.com, michal.czokajlo@gmail.com, michal.czokajlo@gmail.com, hello@socketubs.org, hello@socketubs.org, g.lehee@jurismarches.com, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org]",125.0,"[{0 55, ""other"" 15, 1 44, 4 7, 3 4}]",15,55,44,0,4,7
+Python,https://github.com/toxinu/Sublimall,2014-02-19,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[socketubs@users.noreply.github.com, michal.czokajlo@gmail.com, michal.czokajlo@gmail.com, michal.czokajlo@gmail.com]",129.0,"[{0 55, ""other"" 18, 1 44, 4 8, 3 4}]",18,55,44,0,4,8
+Python,https://github.com/toxinu/Sublimall,2014-02-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[socketubs@users.noreply.github.com]",130.0,"[{0 55, ""other"" 18, 1 44, 4 9, 3 4}]",18,55,44,0,4,9
+Python,https://github.com/toxinu/Sublimall,2014-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[g.lehee@jurismarches.com]",131.0,"[{0 55, ""other"" 18, 1 44, 4 9, 3 5}]",18,55,44,0,5,9
+Python,https://github.com/toxinu/Sublimall,2014-03-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com]",134.0,"[{0 55, ""other"" 18, 1 44, 4 9, 3 8}]",18,55,44,0,8,9
+Python,https://github.com/toxinu/Sublimall,2014-04-07,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com]",141.0,"[{0 55, ""other"" 18, 1 44, 4 9, 3 15}]",18,55,44,0,15,9
+Python,https://github.com/toxinu/Sublimall,2014-04-08,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[socketubs@users.noreply.github.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com]",150.0,"[{0 55, ""other"" 18, 1 44, 4 10, 3 23}]",18,55,44,0,23,10
+Python,https://github.com/toxinu/Sublimall,2014-04-10,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com]",158.0,"[{0 55, ""other"" 18, 1 44, 4 10, 3 31}]",18,55,44,0,31,10
+Python,https://github.com/toxinu/Sublimall,2014-04-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hello@socketubs.org, hello@socketubs.org, hello@socketubs.org, hello@socketubs.org]",162.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 31}]",18,55,48,0,31,10
+Python,https://github.com/toxinu/Sublimall,2014-04-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[g.lehee@jurismarches.com, g.lehee@jurismarches.com, g.lehee@jurismarches.com]",165.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34}]",18,55,48,0,34,10
+Python,https://github.com/toxinu/Sublimall,2014-06-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",168.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 3}]",18,55,48,3,34,10
+Python,https://github.com/toxinu/Sublimall,2014-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[geoffrey.lehee@lengow.com]",169.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 4}]",18,55,48,4,34,10
+Python,https://github.com/toxinu/Sublimall,2014-06-12,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",176.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 11}]",18,55,48,11,34,10
+Python,https://github.com/toxinu/Sublimall,2014-06-13,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",185.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 20}]",18,55,48,20,34,10
+Python,https://github.com/toxinu/Sublimall,2014-06-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",189.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 24}]",18,55,48,24,34,10
+Python,https://github.com/toxinu/Sublimall,2014-06-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",192.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 27}]",18,55,48,27,34,10
+Python,https://github.com/toxinu/Sublimall,2014-06-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",194.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 29}]",18,55,48,29,34,10
+Python,https://github.com/toxinu/Sublimall,2014-08-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[geoffrey.lehee@lengow.com]",195.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 30}]",18,55,48,30,34,10
+Python,https://github.com/toxinu/Sublimall,2014-08-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",199.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 34}]",18,55,48,34,34,10
+Python,https://github.com/toxinu/Sublimall,2014-08-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[geoffrey.lehee@lengow.com, geoffrey.lehee@lengow.com]",201.0,"[{0 55, ""other"" 18, 1 48, 4 10, 3 34, 2 36}]",18,55,48,36,34,10
+Python,https://github.com/toxinu/Sublimall,2014-09-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[socketubs@users.noreply.github.com, socketubs@users.noreply.github.com]",203.0,"[{0 55, ""other"" 18, 1 48, 4 12, 3 34, 2 36}]",18,55,48,36,34,12
+Python,https://github.com/toxinu/Sublimall,2014-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hello@socketubs.org]",204.0,"[{0 55, ""other"" 18, 1 49, 4 12, 3 34, 2 36}]",18,55,49,36,34,12
+Python,https://github.com/toxinu/Sublimall,2014-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robotrising@gmail.com]",205.0,"[{0 55, ""other"" 19, 1 49, 4 12, 3 34, 2 36}]",19,55,49,36,34,12
+Python,https://github.com/toxinu/Sublimall,2014-11-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[socketubs@users.noreply.github.com, hello@socketubs.org, hello@socketubs.org]",208.0,"[{0 55, ""other"" 19, 1 51, 4 13, 3 34, 2 36}]",19,55,51,36,34,13
+Python,https://github.com/toxinu/Sublimall,2014-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[socketubs@users.noreply.github.com]",209.0,"[{0 55, ""other"" 19, 1 51, 4 14, 3 34, 2 36}]",19,55,51,36,34,14
+Python,https://github.com/toxinu/Sublimall,2014-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[g.lehee@jurismarches.com]",210.0,"[{0 55, ""other"" 19, 1 51, 4 14, 3 35, 2 36}]",19,55,51,36,35,14
+Python,https://github.com/toxinu/Sublimall,2015-06-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vinta.chen@gmail.com]",211.0,"[{0 55, ""other"" 20, 1 51, 4 14, 3 35, 2 36}]",20,55,51,36,35,14
+Python,https://github.com/toxinu/Sublimall,2015-06-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[socketubs@users.noreply.github.com, socketubs@users.noreply.github.com, socketubs@users.noreply.github.com]",214.0,"[{0 55, ""other"" 20, 1 51, 4 17, 3 35, 2 36}]",20,55,51,36,35,17
+Python,https://github.com/toxinu/Sublimall,2015-11-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[socketubs@users.noreply.github.com]",215.0,"[{0 55, ""other"" 20, 1 51, 4 18, 3 35, 2 36}]",20,55,51,36,35,18
+Python,https://github.com/toxinu/Sublimall,2016-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[socketubs@users.noreply.github.com]",216.0,"[{0 55, ""other"" 20, 1 51, 4 19, 3 35, 2 36}]",20,55,51,36,35,19
+Python,https://github.com/toxinu/Sublimall,2017-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[toxinu@users.noreply.github.com]",217.0,"[{0 55, ""other"" 21, 1 51, 4 19, 3 35, 2 36}]",21,55,51,36,35,19

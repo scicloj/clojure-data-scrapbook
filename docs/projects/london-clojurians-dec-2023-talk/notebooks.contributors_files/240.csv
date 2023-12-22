@@ -1,0 +1,786 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,mikera,2012-05-14,2,2,"#{""mike_r_anderson@yahoo.co.uk"" ""mike.r.anderson.13@gmail.com""}",2.0,2
+Clojure,mikera,2012-05-15,4,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",6.0,3
+Clojure,mikera,2012-05-16,2,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",8.0,3
+Clojure,mikera,2012-05-20,36,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",44.0,3
+Clojure,mikera,2012-05-21,10,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",54.0,3
+Clojure,mikera,2012-05-22,8,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",62.0,3
+Clojure,mikera,2012-05-23,2,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",64.0,3
+Clojure,mikera,2012-05-24,22,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",86.0,3
+Clojure,mikera,2012-05-25,6,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",92.0,3
+Clojure,mikera,2012-06-12,2,2,"#{""Mike@Mike-VAIO"" ""mike.r.anderson.13@gmail.com""}",94.0,3
+Clojure,mikera,2012-06-19,4,1,"#{""mike.r.anderson.13@gmail.com""}",98.0,3
+Clojure,mikera,2012-06-27,2,1,"#{""mike.r.anderson.13@gmail.com""}",100.0,3
+Clojure,mikera,2012-06-29,1,1,"#{""mike.r.anderson.13@gmail.com""}",101.0,3
+Clojure,mikera,2012-07-15,1,1,"#{""mike.r.anderson.13@gmail.com""}",102.0,3
+Clojure,mikera,2012-07-16,2,1,"#{""mike.r.anderson.13@gmail.com""}",104.0,3
+Clojure,mikera,2012-07-17,5,1,"#{""mike.r.anderson.13@gmail.com""}",109.0,3
+Clojure,mikera,2012-07-18,10,1,"#{""mike.r.anderson.13@gmail.com""}",119.0,3
+Clojure,mikera,2012-07-19,8,1,"#{""mike.r.anderson.13@gmail.com""}",127.0,3
+Clojure,mikera,2012-07-20,2,1,"#{""mike.r.anderson.13@gmail.com""}",129.0,3
+Clojure,mikera,2012-07-22,2,1,"#{""mike.r.anderson.13@gmail.com""}",131.0,3
+Clojure,mikera,2012-07-23,6,1,"#{""mike.r.anderson.13@gmail.com""}",137.0,3
+Clojure,mikera,2012-07-24,3,1,"#{""mike.r.anderson.13@gmail.com""}",140.0,3
+Clojure,mikera,2012-07-27,5,1,"#{""mike.r.anderson.13@gmail.com""}",145.0,3
+Clojure,mikera,2012-07-29,2,1,"#{""mike.r.anderson.13@gmail.com""}",147.0,3
+Clojure,mikera,2012-07-30,5,1,"#{""mike.r.anderson.13@gmail.com""}",152.0,3
+Clojure,mikera,2012-07-31,3,1,"#{""mike.r.anderson.13@gmail.com""}",155.0,3
+Clojure,mikera,2012-08-01,9,1,"#{""mike.r.anderson.13@gmail.com""}",164.0,3
+Clojure,mikera,2012-08-02,9,1,"#{""mike.r.anderson.13@gmail.com""}",173.0,3
+Clojure,mikera,2012-08-03,2,1,"#{""mike.r.anderson.13@gmail.com""}",175.0,3
+Clojure,mikera,2012-08-04,2,1,"#{""mike.r.anderson.13@gmail.com""}",177.0,3
+Clojure,mikera,2012-08-05,5,1,"#{""mike.r.anderson.13@gmail.com""}",182.0,3
+Clojure,mikera,2012-08-08,2,1,"#{""mike.r.anderson.13@gmail.com""}",184.0,3
+Clojure,mikera,2012-08-11,5,1,"#{""mike.r.anderson.13@gmail.com""}",189.0,3
+Clojure,mikera,2012-08-12,7,1,"#{""mike.r.anderson.13@gmail.com""}",196.0,3
+Clojure,mikera,2012-08-13,3,1,"#{""mike.r.anderson.13@gmail.com""}",199.0,3
+Clojure,mikera,2012-08-15,4,1,"#{""mike.r.anderson.13@gmail.com""}",203.0,3
+Clojure,mikera,2012-08-16,17,1,"#{""mike.r.anderson.13@gmail.com""}",220.0,3
+Clojure,mikera,2012-08-17,1,1,"#{""mike.r.anderson.13@gmail.com""}",221.0,3
+Clojure,mikera,2012-08-18,4,1,"#{""mike.r.anderson.13@gmail.com""}",225.0,3
+Clojure,mikera,2012-08-21,1,1,"#{""mike.r.anderson.13@gmail.com""}",226.0,3
+Clojure,mikera,2012-08-27,2,1,"#{""mike.r.anderson.13@gmail.com""}",228.0,3
+Clojure,mikera,2012-08-30,11,1,"#{""mike.r.anderson.13@gmail.com""}",239.0,3
+Clojure,mikera,2012-08-31,1,1,"#{""mike.r.anderson.13@gmail.com""}",240.0,3
+Clojure,mikera,2012-09-03,9,1,"#{""mike.r.anderson.13@gmail.com""}",249.0,3
+Clojure,mikera,2012-09-04,1,1,"#{""mike.r.anderson.13@gmail.com""}",250.0,3
+Clojure,mikera,2012-09-07,3,1,"#{""mike.r.anderson.13@gmail.com""}",253.0,3
+Clojure,mikera,2012-09-12,2,1,"#{""mike.r.anderson.13@gmail.com""}",255.0,3
+Clojure,mikera,2012-09-16,2,1,"#{""mike.r.anderson.13@gmail.com""}",257.0,3
+Clojure,mikera,2012-09-23,1,1,"#{""mike.r.anderson.13@gmail.com""}",258.0,3
+Clojure,mikera,2012-10-02,5,1,"#{""mike.r.anderson.13@gmail.com""}",263.0,3
+Clojure,mikera,2012-10-04,3,1,"#{""mike.r.anderson.13@gmail.com""}",266.0,3
+Clojure,mikera,2012-10-09,4,1,"#{""mike.r.anderson.13@gmail.com""}",270.0,3
+Clojure,mikera,2012-10-13,1,1,"#{""mike.r.anderson.13@gmail.com""}",271.0,3
+Clojure,mikera,2012-10-18,3,1,"#{""mike.r.anderson.13@gmail.com""}",274.0,3
+Clojure,mikera,2012-10-27,1,1,"#{""mike.r.anderson.13@gmail.com""}",275.0,3
+Clojure,mikera,2012-11-17,3,1,"#{""mike.r.anderson.13@gmail.com""}",278.0,3
+Clojure,mikera,2012-11-18,1,1,"#{""mike.r.anderson.13@gmail.com""}",279.0,3
+Clojure,mikera,2012-12-01,28,2,"#{""mike_r_anderson@yahoo.co.uk"" ""mike.r.anderson.13@gmail.com""}",307.0,3
+Clojure,mikera,2012-12-02,10,1,"#{""mike.r.anderson.13@gmail.com""}",317.0,3
+Clojure,mikera,2012-12-03,2,1,"#{""mike.r.anderson.13@gmail.com""}",319.0,3
+Clojure,mikera,2012-12-05,11,1,"#{""mike.r.anderson.13@gmail.com""}",330.0,3
+Clojure,mikera,2012-12-06,8,1,"#{""mike.r.anderson.13@gmail.com""}",338.0,3
+Clojure,mikera,2012-12-07,17,1,"#{""mike.r.anderson.13@gmail.com""}",355.0,3
+Clojure,mikera,2012-12-08,20,1,"#{""mike.r.anderson.13@gmail.com""}",375.0,3
+Clojure,mikera,2012-12-09,6,1,"#{""mike.r.anderson.13@gmail.com""}",381.0,3
+Clojure,mikera,2012-12-10,5,1,"#{""mike.r.anderson.13@gmail.com""}",386.0,3
+Clojure,mikera,2012-12-11,10,1,"#{""mike.r.anderson.13@gmail.com""}",396.0,3
+Clojure,mikera,2012-12-12,7,1,"#{""mike.r.anderson.13@gmail.com""}",403.0,3
+Clojure,mikera,2012-12-13,11,1,"#{""mike.r.anderson.13@gmail.com""}",414.0,3
+Clojure,mikera,2012-12-14,8,1,"#{""mike.r.anderson.13@gmail.com""}",422.0,3
+Clojure,mikera,2012-12-16,1,1,"#{""mike.r.anderson.13@gmail.com""}",423.0,3
+Clojure,mikera,2012-12-17,2,1,"#{""mike.r.anderson.13@gmail.com""}",425.0,3
+Clojure,mikera,2012-12-18,11,1,"#{""mike.r.anderson.13@gmail.com""}",436.0,3
+Clojure,mikera,2012-12-20,8,1,"#{""mike.r.anderson.13@gmail.com""}",444.0,3
+Clojure,mikera,2012-12-22,1,1,"#{""mike.r.anderson.13@gmail.com""}",445.0,3
+Clojure,mikera,2012-12-24,2,1,"#{""mike.r.anderson.13@gmail.com""}",447.0,3
+Clojure,mikera,2012-12-25,1,1,"#{""mike.r.anderson.13@gmail.com""}",448.0,3
+Clojure,mikera,2012-12-27,3,1,"#{""mike.r.anderson.13@gmail.com""}",451.0,3
+Clojure,mikera,2012-12-29,1,1,"#{""mike.r.anderson.13@gmail.com""}",452.0,3
+Clojure,mikera,2013-01-02,2,2,"#{""mike_r_anderson@yahoo.co.uk"" ""mike.r.anderson.13@gmail.com""}",454.0,3
+Clojure,mikera,2013-01-03,28,1,"#{""mike.r.anderson.13@gmail.com""}",482.0,3
+Clojure,mikera,2013-01-04,7,1,"#{""mike.r.anderson.13@gmail.com""}",489.0,3
+Clojure,mikera,2013-01-05,23,3,"#{""mike_r_anderson@yahoo.co.uk"" ""paul@quantisan.com"" ""mike.r.anderson.13@gmail.com""}",512.0,4
+Clojure,mikera,2013-01-06,20,1,"#{""mike.r.anderson.13@gmail.com""}",532.0,4
+Clojure,mikera,2013-01-07,18,1,"#{""mike.r.anderson.13@gmail.com""}",550.0,4
+Clojure,mikera,2013-01-08,6,1,"#{""mike.r.anderson.13@gmail.com""}",556.0,4
+Clojure,mikera,2013-01-09,23,1,"#{""mike.r.anderson.13@gmail.com""}",579.0,4
+Clojure,mikera,2013-01-10,32,3,"#{""mike_r_anderson@yahoo.co.uk"" ""robertlachlan@gmail.com"" ""mike.r.anderson.13@gmail.com""}",611.0,5
+Clojure,mikera,2013-01-11,14,2,"#{""paul@quantisan.com"" ""mike.r.anderson.13@gmail.com""}",625.0,5
+Clojure,mikera,2013-01-12,6,1,"#{""mike.r.anderson.13@gmail.com""}",631.0,5
+Clojure,mikera,2013-01-14,3,2,"#{""edmundsjackson@gmail.com"" ""mike.r.anderson.13@gmail.com""}",634.0,6
+Clojure,mikera,2013-01-15,6,1,"#{""mike.r.anderson.13@gmail.com""}",640.0,6
+Clojure,mikera,2013-01-16,33,2,"#{""simone@mweb.biz"" ""mike.r.anderson.13@gmail.com""}",673.0,7
+Clojure,mikera,2013-01-17,8,1,"#{""mike.r.anderson.13@gmail.com""}",681.0,7
+Clojure,mikera,2013-01-18,19,1,"#{""mike.r.anderson.13@gmail.com""}",700.0,7
+Clojure,mikera,2013-01-19,6,1,"#{""mike.r.anderson.13@gmail.com""}",706.0,7
+Clojure,mikera,2013-01-20,5,1,"#{""mike.r.anderson.13@gmail.com""}",711.0,7
+Clojure,mikera,2013-01-23,5,1,"#{""mike.r.anderson.13@gmail.com""}",716.0,7
+Clojure,mikera,2013-01-24,6,2,"#{""matthew@swiftkey.net"" ""mike.r.anderson.13@gmail.com""}",722.0,8
+Clojure,mikera,2013-01-25,15,1,"#{""mike.r.anderson.13@gmail.com""}",737.0,8
+Clojure,mikera,2013-01-26,30,3,"#{""ben@benmabey.com"" ""mike_r_anderson@yahoo.co.uk"" ""mike.r.anderson.13@gmail.com""}",767.0,9
+Clojure,mikera,2013-01-27,17,1,"#{""mike.r.anderson.13@gmail.com""}",784.0,9
+Clojure,mikera,2013-01-28,27,3,"#{""mike_r_anderson@yahoo.co.uk"" ""joel.boehland@evocomputing.com"" ""mike.r.anderson.13@gmail.com""}",811.0,10
+Clojure,mikera,2013-01-29,3,1,"#{""mike.r.anderson.13@gmail.com""}",814.0,10
+Clojure,mikera,2013-02-01,1,1,"#{""mike.r.anderson.13@gmail.com""}",815.0,10
+Clojure,mikera,2013-02-02,17,1,"#{""mike.r.anderson.13@gmail.com""}",832.0,10
+Clojure,mikera,2013-02-03,15,1,"#{""mike.r.anderson.13@gmail.com""}",847.0,10
+Clojure,mikera,2013-02-04,2,1,"#{""mike.r.anderson.13@gmail.com""}",849.0,10
+Clojure,mikera,2013-02-05,15,1,"#{""mike.r.anderson.13@gmail.com""}",864.0,10
+Clojure,mikera,2013-02-06,4,2,"#{""mike_r_anderson@yahoo.co.uk"" ""mike.r.anderson.13@gmail.com""}",868.0,10
+Clojure,mikera,2013-02-07,19,1,"#{""mike.r.anderson.13@gmail.com""}",887.0,10
+Clojure,mikera,2013-02-08,2,1,"#{""mike.r.anderson.13@gmail.com""}",889.0,10
+Clojure,mikera,2013-02-09,5,1,"#{""mike.r.anderson.13@gmail.com""}",894.0,10
+Clojure,mikera,2013-02-10,1,1,"#{""mike.r.anderson.13@gmail.com""}",895.0,10
+Clojure,mikera,2013-02-13,9,2,"#{""simone@mweb.biz"" ""mike.r.anderson.13@gmail.com""}",904.0,10
+Clojure,mikera,2013-02-14,11,2,"#{""ben@benmabey.com"" ""mike.r.anderson.13@gmail.com""}",915.0,10
+Clojure,mikera,2013-02-15,30,1,"#{""mike.r.anderson.13@gmail.com""}",945.0,10
+Clojure,mikera,2013-02-16,12,2,"#{""simone@mweb.biz"" ""mike.r.anderson.13@gmail.com""}",957.0,10
+Clojure,mikera,2013-02-17,18,1,"#{""mike.r.anderson.13@gmail.com""}",975.0,10
+Clojure,mikera,2013-02-18,25,1,"#{""mike.r.anderson.13@gmail.com""}",1000.0,10
+Clojure,mikera,2013-02-19,3,1,"#{""mike.r.anderson.13@gmail.com""}",1003.0,10
+Clojure,mikera,2013-02-20,2,1,"#{""mike.r.anderson.13@gmail.com""}",1005.0,10
+Clojure,mikera,2013-02-21,2,1,"#{""mike.r.anderson.13@gmail.com""}",1007.0,10
+Clojure,mikera,2013-02-22,15,1,"#{""mike.r.anderson.13@gmail.com""}",1022.0,10
+Clojure,mikera,2013-02-24,6,1,"#{""mike.r.anderson.13@gmail.com""}",1028.0,10
+Clojure,mikera,2013-02-25,18,1,"#{""mike.r.anderson.13@gmail.com""}",1046.0,10
+Clojure,mikera,2013-02-26,3,1,"#{""mike.r.anderson.13@gmail.com""}",1049.0,10
+Clojure,mikera,2013-02-27,2,2,"#{""lyzrd17@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1051.0,11
+Clojure,mikera,2013-03-07,4,1,"#{""mike.r.anderson.13@gmail.com""}",1055.0,11
+Clojure,mikera,2013-03-08,8,3,"#{""durka42+github@gmail.com"" ""lyzrd17@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1063.0,12
+Clojure,mikera,2013-03-09,33,2,"#{""edmundsjackson@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1096.0,12
+Clojure,mikera,2013-03-10,6,2,"#{""lyzrd17@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1102.0,12
+Clojure,mikera,2013-03-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",1103.0,12
+Clojure,mikera,2013-03-14,2,1,"#{""mike.r.anderson.13@gmail.com""}",1105.0,12
+Clojure,mikera,2013-03-21,1,1,"#{""mike.r.anderson.13@gmail.com""}",1106.0,12
+Clojure,mikera,2013-03-24,1,1,"#{""mike.r.anderson.13@gmail.com""}",1107.0,12
+Clojure,mikera,2013-03-25,4,1,"#{""mike.r.anderson.13@gmail.com""}",1111.0,12
+Clojure,mikera,2013-03-26,1,1,"#{""mike.r.anderson.13@gmail.com""}",1112.0,12
+Clojure,mikera,2013-03-29,3,1,"#{""mike.r.anderson.13@gmail.com""}",1115.0,12
+Clojure,mikera,2013-04-02,13,1,"#{""mike.r.anderson.13@gmail.com""}",1128.0,12
+Clojure,mikera,2013-04-03,5,1,"#{""mike.r.anderson.13@gmail.com""}",1133.0,12
+Clojure,mikera,2013-04-04,8,1,"#{""mike.r.anderson.13@gmail.com""}",1141.0,12
+Clojure,mikera,2013-04-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",1142.0,12
+Clojure,mikera,2013-04-07,24,2,"#{""lyzrd17@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1166.0,12
+Clojure,mikera,2013-04-08,19,1,"#{""mike.r.anderson.13@gmail.com""}",1185.0,12
+Clojure,mikera,2013-04-09,1,1,"#{""mike.r.anderson.13@gmail.com""}",1186.0,12
+Clojure,mikera,2013-04-10,1,1,"#{""mike.r.anderson.13@gmail.com""}",1187.0,12
+Clojure,mikera,2013-04-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",1188.0,12
+Clojure,mikera,2013-04-12,6,1,"#{""mike.r.anderson.13@gmail.com""}",1194.0,12
+Clojure,mikera,2013-04-13,20,1,"#{""mike.r.anderson.13@gmail.com""}",1214.0,12
+Clojure,mikera,2013-04-14,14,1,"#{""mike.r.anderson.13@gmail.com""}",1228.0,12
+Clojure,mikera,2013-04-15,11,1,"#{""mike.r.anderson.13@gmail.com""}",1239.0,12
+Clojure,mikera,2013-04-16,6,1,"#{""mike.r.anderson.13@gmail.com""}",1245.0,12
+Clojure,mikera,2013-04-17,20,1,"#{""mike.r.anderson.13@gmail.com""}",1265.0,12
+Clojure,mikera,2013-04-18,16,1,"#{""mike.r.anderson.13@gmail.com""}",1281.0,12
+Clojure,mikera,2013-04-25,2,1,"#{""mike.r.anderson.13@gmail.com""}",1283.0,12
+Clojure,mikera,2013-05-03,2,1,"#{""mike.r.anderson.13@gmail.com""}",1285.0,12
+Clojure,mikera,2013-05-05,31,1,"#{""mike.r.anderson.13@gmail.com""}",1316.0,12
+Clojure,mikera,2013-05-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",1317.0,12
+Clojure,mikera,2013-05-07,3,1,"#{""mike.r.anderson.13@gmail.com""}",1320.0,12
+Clojure,mikera,2013-05-08,1,1,"#{""mike.r.anderson.13@gmail.com""}",1321.0,12
+Clojure,mikera,2013-05-09,5,1,"#{""mike.r.anderson.13@gmail.com""}",1326.0,12
+Clojure,mikera,2013-05-10,6,1,"#{""mike.r.anderson.13@gmail.com""}",1332.0,12
+Clojure,mikera,2013-05-13,1,1,"#{""mike.r.anderson.13@gmail.com""}",1333.0,12
+Clojure,mikera,2013-05-14,3,1,"#{""mike.r.anderson.13@gmail.com""}",1336.0,12
+Clojure,mikera,2013-05-15,41,1,"#{""mike.r.anderson.13@gmail.com""}",1377.0,12
+Clojure,mikera,2013-05-16,11,1,"#{""mike.r.anderson.13@gmail.com""}",1388.0,12
+Clojure,mikera,2013-05-22,3,1,"#{""mike.r.anderson.13@gmail.com""}",1391.0,12
+Clojure,mikera,2013-05-27,31,1,"#{""mike.r.anderson.13@gmail.com""}",1422.0,12
+Clojure,mikera,2013-05-28,8,1,"#{""mike.r.anderson.13@gmail.com""}",1430.0,12
+Clojure,mikera,2013-06-01,2,1,"#{""mike.r.anderson.13@gmail.com""}",1432.0,12
+Clojure,mikera,2013-06-03,1,1,"#{""mike.r.anderson.13@gmail.com""}",1433.0,12
+Clojure,mikera,2013-06-04,1,1,"#{""john.downs@maine.edu""}",1434.0,13
+Clojure,mikera,2013-06-05,3,2,"#{""jdowns@ondeckcapital.com"" ""john.a.downs@gmail.com""}",1437.0,15
+Clojure,mikera,2013-06-06,1,1,"#{""john.downs@maine.edu""}",1438.0,15
+Clojure,mikera,2013-06-10,1,1,"#{""mike.r.anderson.13@gmail.com""}",1439.0,15
+Clojure,mikera,2013-06-17,3,1,"#{""mike.r.anderson.13@gmail.com""}",1442.0,15
+Clojure,mikera,2013-06-22,44,1,"#{""mike.r.anderson.13@gmail.com""}",1486.0,15
+Clojure,mikera,2013-06-25,15,1,"#{""mike.r.anderson.13@gmail.com""}",1501.0,15
+Clojure,mikera,2013-06-27,3,1,"#{""mike.r.anderson.13@gmail.com""}",1504.0,15
+Clojure,mikera,2013-07-02,13,2,"#{""groshev@selectel.ru"" ""mike.r.anderson.13@gmail.com""}",1517.0,16
+Clojure,mikera,2013-07-03,2,1,"#{""mike.r.anderson.13@gmail.com""}",1519.0,16
+Clojure,mikera,2013-07-04,1,1,"#{""mike.r.anderson.13@gmail.com""}",1520.0,16
+Clojure,mikera,2013-07-05,1,1,"#{""mike.r.anderson.13@gmail.com""}",1521.0,16
+Clojure,mikera,2013-07-07,2,2,"#{""a2alt@ya.ru"" ""lambdadmitry@gmail.com""}",1523.0,18
+Clojure,mikera,2013-07-08,5,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1528.0,18
+Clojure,mikera,2013-07-09,1,1,"#{""mike.r.anderson.13@gmail.com""}",1529.0,18
+Clojure,mikera,2013-07-10,2,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1531.0,18
+Clojure,mikera,2013-07-11,11,1,"#{""mike.r.anderson.13@gmail.com""}",1542.0,18
+Clojure,mikera,2013-07-12,5,1,"#{""lambdadmitry@gmail.com""}",1547.0,18
+Clojure,mikera,2013-07-14,1,1,"#{""mike.r.anderson.13@gmail.com""}",1548.0,18
+Clojure,mikera,2013-07-15,24,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1572.0,18
+Clojure,mikera,2013-07-16,15,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1587.0,18
+Clojure,mikera,2013-07-17,1,1,"#{""lambdadmitry@gmail.com""}",1588.0,18
+Clojure,mikera,2013-07-18,7,1,"#{""mike.r.anderson.13@gmail.com""}",1595.0,18
+Clojure,mikera,2013-07-21,7,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1602.0,18
+Clojure,mikera,2013-07-22,33,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1635.0,18
+Clojure,mikera,2013-07-24,9,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1644.0,18
+Clojure,mikera,2013-07-25,3,1,"#{""lambdadmitry@gmail.com""}",1647.0,18
+Clojure,mikera,2013-07-26,1,1,"#{""lambdadmitry@gmail.com""}",1648.0,18
+Clojure,mikera,2013-07-27,6,1,"#{""mike.r.anderson.13@gmail.com""}",1654.0,18
+Clojure,mikera,2013-07-28,3,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1657.0,18
+Clojure,mikera,2013-07-29,7,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1664.0,18
+Clojure,mikera,2013-07-30,8,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1672.0,18
+Clojure,mikera,2013-07-31,16,3,"#{""lambdadmitry@gmail.com"" ""self@sungpae.com"" ""mike.r.anderson.13@gmail.com""}",1688.0,19
+Clojure,mikera,2013-08-01,6,1,"#{""lambdadmitry@gmail.com""}",1694.0,19
+Clojure,mikera,2013-08-03,4,1,"#{""mike.r.anderson.13@gmail.com""}",1698.0,19
+Clojure,mikera,2013-08-04,3,1,"#{""mike.r.anderson.13@gmail.com""}",1701.0,19
+Clojure,mikera,2013-08-06,4,1,"#{""mike.r.anderson.13@gmail.com""}",1705.0,19
+Clojure,mikera,2013-08-07,1,1,"#{""mike.r.anderson.13@gmail.com""}",1706.0,19
+Clojure,mikera,2013-08-14,10,1,"#{""mike.r.anderson.13@gmail.com""}",1716.0,19
+Clojure,mikera,2013-08-15,2,1,"#{""lambdadmitry@gmail.com""}",1718.0,19
+Clojure,mikera,2013-08-16,2,1,"#{""lambdadmitry@gmail.com""}",1720.0,19
+Clojure,mikera,2013-08-20,2,1,"#{""lambdadmitry@gmail.com""}",1722.0,19
+Clojure,mikera,2013-08-21,6,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1728.0,19
+Clojure,mikera,2013-08-22,11,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1739.0,19
+Clojure,mikera,2013-08-23,8,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1747.0,19
+Clojure,mikera,2013-08-26,38,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1785.0,19
+Clojure,mikera,2013-08-27,20,3,"#{""lambdadmitry@gmail.com"" ""john.downs@maine.edu"" ""mike.r.anderson.13@gmail.com""}",1805.0,19
+Clojure,mikera,2013-08-28,19,4,"#{""jdowns@ondeckcapital.com"" ""john.downs@maine.edu"" ""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1824.0,20
+Clojure,mikera,2013-08-29,4,2,"#{""lambdadmitry@gmail.com"" ""john.downs@maine.edu""}",1828.0,20
+Clojure,mikera,2013-08-30,7,3,"#{""lambdadmitry@gmail.com"" ""john.downs@maine.edu"" ""mike.r.anderson.13@gmail.com""}",1835.0,20
+Clojure,mikera,2013-08-31,3,2,"#{""john.downs@maine.edu"" ""mike.r.anderson.13@gmail.com""}",1838.0,20
+Clojure,mikera,2013-09-01,2,1,"#{""lambdadmitry@gmail.com""}",1840.0,20
+Clojure,mikera,2013-09-02,2,1,"#{""lambdadmitry@gmail.com""}",1842.0,20
+Clojure,mikera,2013-09-03,1,1,"#{""lambdadmitry@gmail.com""}",1843.0,20
+Clojure,mikera,2013-09-04,2,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1845.0,20
+Clojure,mikera,2013-09-06,2,1,"#{""lambdadmitry@gmail.com""}",1847.0,20
+Clojure,mikera,2013-09-07,2,1,"#{""lambdadmitry@gmail.com""}",1849.0,20
+Clojure,mikera,2013-09-08,2,1,"#{""mike.r.anderson.13@gmail.com""}",1851.0,20
+Clojure,mikera,2013-09-09,15,3,"#{""lambdadmitry@gmail.com"" ""fbmnds7@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1866.0,21
+Clojure,mikera,2013-09-11,1,1,"#{""lambdadmitry@gmail.com""}",1867.0,21
+Clojure,mikera,2013-09-12,1,1,"#{""lambdadmitry@gmail.com""}",1868.0,21
+Clojure,mikera,2013-09-14,6,1,"#{""lambdadmitry@gmail.com""}",1874.0,21
+Clojure,mikera,2013-09-15,1,1,"#{""lambdadmitry@gmail.com""}",1875.0,21
+Clojure,mikera,2013-09-18,1,1,"#{""lambdadmitry@gmail.com""}",1876.0,21
+Clojure,mikera,2013-09-19,1,1,"#{""lambdadmitry@gmail.com""}",1877.0,21
+Clojure,mikera,2013-09-20,3,1,"#{""lambdadmitry@gmail.com""}",1880.0,21
+Clojure,mikera,2013-09-21,4,1,"#{""lambdadmitry@gmail.com""}",1884.0,21
+Clojure,mikera,2013-09-23,9,3,"#{""lambdadmitry@gmail.com"" ""adereth@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1893.0,22
+Clojure,mikera,2013-09-24,2,1,"#{""mike.r.anderson.13@gmail.com""}",1895.0,22
+Clojure,mikera,2013-09-25,5,1,"#{""mike.r.anderson.13@gmail.com""}",1900.0,22
+Clojure,mikera,2013-10-05,3,1,"#{""vcdt34@motorola.com""}",1903.0,23
+Clojure,mikera,2013-10-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",1904.0,23
+Clojure,mikera,2013-10-07,22,1,"#{""mike.r.anderson.13@gmail.com""}",1926.0,23
+Clojure,mikera,2013-10-14,1,1,"#{""mike.r.anderson.13@gmail.com""}",1927.0,23
+Clojure,mikera,2013-10-15,7,1,"#{""mike.r.anderson.13@gmail.com""}",1934.0,23
+Clojure,mikera,2013-10-18,9,1,"#{""mike.r.anderson.13@gmail.com""}",1943.0,23
+Clojure,mikera,2013-10-19,19,1,"#{""mike.r.anderson.13@gmail.com""}",1962.0,23
+Clojure,mikera,2013-10-20,22,1,"#{""mike.r.anderson.13@gmail.com""}",1984.0,23
+Clojure,mikera,2013-10-25,3,1,"#{""mike.r.anderson.13@gmail.com""}",1987.0,23
+Clojure,mikera,2013-10-27,43,1,"#{""mike.r.anderson.13@gmail.com""}",2030.0,23
+Clojure,mikera,2013-10-28,29,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2059.0,24
+Clojure,mikera,2013-10-29,1,1,"#{""mike.r.anderson.13@gmail.com""}",2060.0,24
+Clojure,mikera,2013-10-31,2,1,"#{""mike.r.anderson.13@gmail.com""}",2062.0,24
+Clojure,mikera,2013-11-02,69,1,"#{""mike.r.anderson.13@gmail.com""}",2131.0,24
+Clojure,mikera,2013-11-03,7,1,"#{""mike.r.anderson.13@gmail.com""}",2138.0,24
+Clojure,mikera,2013-11-05,9,1,"#{""mike.r.anderson.13@gmail.com""}",2147.0,24
+Clojure,mikera,2013-11-06,7,1,"#{""mike.r.anderson.13@gmail.com""}",2154.0,24
+Clojure,mikera,2013-11-08,1,1,"#{""mike.r.anderson.13@gmail.com""}",2155.0,24
+Clojure,mikera,2013-11-09,19,1,"#{""mike.r.anderson.13@gmail.com""}",2174.0,24
+Clojure,mikera,2013-11-10,3,1,"#{""mike.r.anderson.13@gmail.com""}",2177.0,24
+Clojure,mikera,2013-11-11,7,1,"#{""mike.r.anderson.13@gmail.com""}",2184.0,24
+Clojure,mikera,2013-11-12,2,1,"#{""mike.r.anderson.13@gmail.com""}",2186.0,24
+Clojure,mikera,2013-11-13,4,1,"#{""mike.r.anderson.13@gmail.com""}",2190.0,24
+Clojure,mikera,2013-11-14,1,1,"#{""mike.r.anderson.13@gmail.com""}",2191.0,24
+Clojure,mikera,2013-11-15,2,1,"#{""mike.r.anderson.13@gmail.com""}",2193.0,24
+Clojure,mikera,2013-11-16,3,1,"#{""mike.r.anderson.13@gmail.com""}",2196.0,24
+Clojure,mikera,2013-11-17,9,1,"#{""mike.r.anderson.13@gmail.com""}",2205.0,24
+Clojure,mikera,2013-11-18,2,1,"#{""mike.r.anderson.13@gmail.com""}",2207.0,24
+Clojure,mikera,2013-11-19,2,1,"#{""mike.r.anderson.13@gmail.com""}",2209.0,24
+Clojure,mikera,2013-11-21,9,1,"#{""mike.r.anderson.13@gmail.com""}",2218.0,24
+Clojure,mikera,2013-11-23,17,1,"#{""mike.r.anderson.13@gmail.com""}",2235.0,24
+Clojure,mikera,2013-11-26,1,1,"#{""mike.r.anderson.13@gmail.com""}",2236.0,24
+Clojure,mikera,2013-12-05,7,2,"#{""mike.r.anderson.13@gmail.com"" ""michael.o.church@gmail.com""}",2243.0,25
+Clojure,mikera,2013-12-06,3,2,"#{""mike.r.anderson.13@gmail.com"" ""michael.o.church@gmail.com""}",2246.0,25
+Clojure,mikera,2013-12-08,2,1,"#{""tbrooks8@gmail.com""}",2248.0,26
+Clojure,mikera,2013-12-09,4,2,"#{""opieppo@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2252.0,27
+Clojure,mikera,2013-12-10,2,1,"#{""mike.r.anderson.13@gmail.com""}",2254.0,27
+Clojure,mikera,2013-12-11,4,1,"#{""mabrams@uab.edu""}",2258.0,27
+Clojure,mikera,2013-12-12,5,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2263.0,27
+Clojure,mikera,2013-12-13,6,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2269.0,27
+Clojure,mikera,2013-12-14,20,4,"#{""tbrooks8@gmail.com"" ""mabrams@uab.edu"" ""opieppo@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2289.0,27
+Clojure,mikera,2013-12-15,1,1,"#{""tbrooks8@gmail.com""}",2290.0,27
+Clojure,mikera,2013-12-16,1,1,"#{""mike.r.anderson.13@gmail.com""}",2291.0,27
+Clojure,mikera,2013-12-17,5,1,"#{""mike.r.anderson.13@gmail.com""}",2296.0,27
+Clojure,mikera,2013-12-19,1,1,"#{""mike.r.anderson.13@gmail.com""}",2297.0,27
+Clojure,mikera,2013-12-20,7,1,"#{""mabrams@uab.edu""}",2304.0,27
+Clojure,mikera,2013-12-21,33,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2337.0,27
+Clojure,mikera,2013-12-22,20,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2357.0,27
+Clojure,mikera,2013-12-23,7,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2364.0,27
+Clojure,mikera,2013-12-24,5,1,"#{""mike.r.anderson.13@gmail.com""}",2369.0,27
+Clojure,mikera,2013-12-25,1,1,"#{""mike.r.anderson.13@gmail.com""}",2370.0,27
+Clojure,mikera,2013-12-27,2,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2372.0,27
+Clojure,mikera,2013-12-28,3,1,"#{""mabrams@uab.edu""}",2375.0,27
+Clojure,mikera,2013-12-29,7,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2382.0,27
+Clojure,mikera,2013-12-30,7,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2389.0,27
+Clojure,mikera,2014-01-02,1,1,"#{""mike.r.anderson.13@gmail.com""}",2390.0,27
+Clojure,mikera,2014-01-03,5,1,"#{""mike.r.anderson.13@gmail.com""}",2395.0,27
+Clojure,mikera,2014-01-04,10,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2405.0,27
+Clojure,mikera,2014-01-05,2,1,"#{""mike.r.anderson.13@gmail.com""}",2407.0,27
+Clojure,mikera,2014-01-06,6,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2413.0,27
+Clojure,mikera,2014-01-07,2,1,"#{""mike.r.anderson.13@gmail.com""}",2415.0,27
+Clojure,mikera,2014-01-08,2,1,"#{""karl@sutt.ee""}",2417.0,28
+Clojure,mikera,2014-01-09,10,2,"#{""karl@sutt.ee"" ""mike.r.anderson.13@gmail.com""}",2427.0,28
+Clojure,mikera,2014-01-10,1,1,"#{""karl@sutt.ee""}",2428.0,28
+Clojure,mikera,2014-01-11,3,1,"#{""mike.r.anderson.13@gmail.com""}",2431.0,28
+Clojure,mikera,2014-01-12,8,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2439.0,28
+Clojure,mikera,2014-01-13,9,4,"#{""mabrams@uab.edu"" ""karl@sutt.ee"" ""fgh@4gh.tv"" ""mike.r.anderson.13@gmail.com""}",2448.0,29
+Clojure,mikera,2014-01-14,6,2,"#{""karl@sutt.ee"" ""mike.r.anderson.13@gmail.com""}",2454.0,29
+Clojure,mikera,2014-01-16,4,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2458.0,29
+Clojure,mikera,2014-01-18,1,1,"#{""mike.r.anderson.13@gmail.com""}",2459.0,29
+Clojure,mikera,2014-01-19,5,1,"#{""mike.r.anderson.13@gmail.com""}",2464.0,29
+Clojure,mikera,2014-01-20,4,1,"#{""mike.r.anderson.13@gmail.com""}",2468.0,29
+Clojure,mikera,2014-01-22,4,1,"#{""karl@sutt.ee""}",2472.0,29
+Clojure,mikera,2014-01-23,2,1,"#{""mike.r.anderson.13@gmail.com""}",2474.0,29
+Clojure,mikera,2014-01-24,2,1,"#{""mike.r.anderson.13@gmail.com""}",2476.0,29
+Clojure,mikera,2014-01-29,2,1,"#{""karl@sutt.ee""}",2478.0,29
+Clojure,mikera,2014-02-05,2,2,"#{""karl@sutt.ee"" ""mike.r.anderson.13@gmail.com""}",2480.0,29
+Clojure,mikera,2014-02-06,2,1,"#{""mike.r.anderson.13@gmail.com""}",2482.0,29
+Clojure,mikera,2014-02-09,1,1,"#{""karl@sutt.ee""}",2483.0,29
+Clojure,mikera,2014-02-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",2484.0,29
+Clojure,mikera,2014-02-15,14,2,"#{""farrellm@alum.mit.edu"" ""mike.r.anderson.13@gmail.com""}",2498.0,30
+Clojure,mikera,2014-02-20,8,1,"#{""mike.r.anderson.13@gmail.com""}",2506.0,30
+Clojure,mikera,2014-02-21,14,2,"#{""mabrams@uab.edu"" ""mike.r.anderson.13@gmail.com""}",2520.0,30
+Clojure,mikera,2014-02-22,2,1,"#{""mike.r.anderson.13@gmail.com""}",2522.0,30
+Clojure,mikera,2014-02-25,3,1,"#{""mike.r.anderson.13@gmail.com""}",2525.0,30
+Clojure,mikera,2014-03-04,4,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2529.0,31
+Clojure,mikera,2014-03-05,3,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2532.0,31
+Clojure,mikera,2014-03-06,6,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2538.0,31
+Clojure,mikera,2014-03-07,2,1,"#{""mike.r.anderson.13@gmail.com""}",2540.0,31
+Clojure,mikera,2014-03-08,3,2,"#{""aleksandr.sorokoumov@gmail.com"" ""prasant12075@iiitd.ac.in""}",2543.0,32
+Clojure,mikera,2014-03-09,14,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2557.0,32
+Clojure,mikera,2014-03-10,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",2559.0,32
+Clojure,mikera,2014-03-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",2560.0,32
+Clojure,mikera,2014-03-16,1,1,"#{""mabrams@uab.edu""}",2561.0,32
+Clojure,mikera,2014-03-17,1,1,"#{""mike.r.anderson.13@gmail.com""}",2562.0,32
+Clojure,mikera,2014-03-21,6,3,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",2568.0,33
+Clojure,mikera,2014-03-22,6,3,"#{""aleksandr.sorokoumov@gmail.com"" ""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2574.0,33
+Clojure,mikera,2014-03-23,2,2,"#{""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2576.0,33
+Clojure,mikera,2014-03-24,6,3,"#{""aleksandr.sorokoumov@gmail.com"" ""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2582.0,33
+Clojure,mikera,2014-03-25,14,3,"#{""aleksandr.sorokoumov@gmail.com"" ""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2596.0,33
+Clojure,mikera,2014-03-26,19,2,"#{""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2615.0,33
+Clojure,mikera,2014-03-28,2,1,"#{""mike.r.anderson.13@gmail.com""}",2617.0,33
+Clojure,mikera,2014-03-30,2,1,"#{""maikschuenemann@gmail.com""}",2619.0,33
+Clojure,mikera,2014-03-31,3,1,"#{""mike.r.anderson.13@gmail.com""}",2622.0,33
+Clojure,mikera,2014-04-02,1,1,"#{""mike.r.anderson.13@gmail.com""}",2623.0,33
+Clojure,mikera,2014-04-03,5,2,"#{""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2628.0,33
+Clojure,mikera,2014-04-04,2,1,"#{""mike.r.anderson.13@gmail.com""}",2630.0,33
+Clojure,mikera,2014-04-05,11,2,"#{""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2641.0,33
+Clojure,mikera,2014-04-07,3,1,"#{""mabrams@uab.edu""}",2644.0,33
+Clojure,mikera,2014-04-08,2,1,"#{""mike.r.anderson.13@gmail.com""}",2646.0,33
+Clojure,mikera,2014-04-09,9,2,"#{""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2655.0,33
+Clojure,mikera,2014-04-10,1,1,"#{""mike.r.anderson.13@gmail.com""}",2656.0,33
+Clojure,mikera,2014-04-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",2657.0,33
+Clojure,mikera,2014-04-12,3,1,"#{""mike.r.anderson.13@gmail.com""}",2660.0,33
+Clojure,mikera,2014-04-17,6,1,"#{""mike.r.anderson.13@gmail.com""}",2666.0,33
+Clojure,mikera,2014-04-20,2,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2668.0,33
+Clojure,mikera,2014-04-21,2,1,"#{""mike.r.anderson.13@gmail.com""}",2670.0,33
+Clojure,mikera,2014-04-24,1,1,"#{""mike.r.anderson.13@gmail.com""}",2671.0,33
+Clojure,mikera,2014-04-25,8,2,"#{""maikschuenemann@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2679.0,33
+Clojure,mikera,2014-04-26,4,1,"#{""mike.r.anderson.13@gmail.com""}",2683.0,33
+Clojure,mikera,2014-04-27,1,1,"#{""mike.r.anderson.13@gmail.com""}",2684.0,33
+Clojure,mikera,2014-04-30,2,1,"#{""mike.r.anderson.13@gmail.com""}",2686.0,33
+Clojure,mikera,2014-05-01,3,1,"#{""mike.r.anderson.13@gmail.com""}",2689.0,33
+Clojure,mikera,2014-05-02,5,2,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2694.0,34
+Clojure,mikera,2014-05-03,7,1,"#{""mike.r.anderson.13@gmail.com""}",2701.0,34
+Clojure,mikera,2014-05-05,1,1,"#{""mike.r.anderson.13@gmail.com""}",2702.0,34
+Clojure,mikera,2014-05-07,3,1,"#{""mike.r.anderson.13@gmail.com""}",2705.0,34
+Clojure,mikera,2014-05-09,2,1,"#{""mabrams@uab.edu""}",2707.0,34
+Clojure,mikera,2014-05-10,1,1,"#{""mike.r.anderson.13@gmail.com""}",2708.0,34
+Clojure,mikera,2014-05-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",2709.0,34
+Clojure,mikera,2014-05-23,1,1,"#{""prasant12075@iiitd.ac.in""}",2710.0,34
+Clojure,mikera,2014-05-25,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",2711.0,34
+Clojure,mikera,2014-05-26,6,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2717.0,34
+Clojure,mikera,2014-05-27,2,1,"#{""mike.r.anderson.13@gmail.com""}",2719.0,34
+Clojure,mikera,2014-05-28,6,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2725.0,34
+Clojure,mikera,2014-05-29,5,3,"#{""aleksandr.sorokoumov@gmail.com"" ""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2730.0,34
+Clojure,mikera,2014-05-30,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",2731.0,34
+Clojure,mikera,2014-05-31,1,1,"#{""mike.r.anderson.13@gmail.com""}",2732.0,34
+Clojure,mikera,2014-06-01,14,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2746.0,34
+Clojure,mikera,2014-06-02,8,3,"#{""mabrams@uab.edu"" ""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2754.0,34
+Clojure,mikera,2014-06-03,3,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2757.0,34
+Clojure,mikera,2014-06-05,2,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2759.0,34
+Clojure,mikera,2014-06-06,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",2760.0,34
+Clojure,mikera,2014-06-07,1,1,"#{""mike.r.anderson.13@gmail.com""}",2761.0,34
+Clojure,mikera,2014-06-10,2,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2763.0,34
+Clojure,mikera,2014-06-11,4,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2767.0,34
+Clojure,mikera,2014-06-12,3,3,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",2770.0,34
+Clojure,mikera,2014-06-15,1,1,"#{""mike.r.anderson.13@gmail.com""}",2771.0,34
+Clojure,mikera,2014-06-16,1,1,"#{""mike.r.anderson.13@gmail.com""}",2772.0,34
+Clojure,mikera,2014-06-18,1,1,"#{""mike.r.anderson.13@gmail.com""}",2773.0,34
+Clojure,mikera,2014-06-23,2,1,"#{""mike.r.anderson.13@gmail.com""}",2775.0,34
+Clojure,mikera,2014-06-25,7,3,"#{""aleksandr.sorokoumov@gmail.com"" ""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2782.0,34
+Clojure,mikera,2014-06-26,10,3,"#{""aleksandr.sorokoumov@gmail.com"" ""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2792.0,34
+Clojure,mikera,2014-06-27,7,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2799.0,34
+Clojure,mikera,2014-06-28,10,1,"#{""mike.r.anderson.13@gmail.com""}",2809.0,34
+Clojure,mikera,2014-06-29,1,1,"#{""prasant12075@iiitd.ac.in""}",2810.0,34
+Clojure,mikera,2014-07-08,4,1,"#{""mike.r.anderson.13@gmail.com""}",2814.0,34
+Clojure,mikera,2014-07-09,4,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2818.0,34
+Clojure,mikera,2014-07-10,5,1,"#{""aleksandr.sorokoumov@gmail.com""}",2823.0,34
+Clojure,mikera,2014-07-11,2,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2825.0,34
+Clojure,mikera,2014-07-12,2,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2827.0,34
+Clojure,mikera,2014-07-13,5,3,"#{""prasant12075@iiitd.ac.in"" ""aaronds109@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2832.0,35
+Clojure,mikera,2014-07-14,1,1,"#{""mike.r.anderson.13@gmail.com""}",2833.0,35
+Clojure,mikera,2014-07-20,7,1,"#{""prasant12075@iiitd.ac.in""}",2840.0,35
+Clojure,mikera,2014-07-21,15,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2855.0,35
+Clojure,mikera,2014-07-22,4,1,"#{""prasant12075@iiitd.ac.in""}",2859.0,35
+Clojure,mikera,2014-07-23,4,3,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com"" ""Anthony.Rosequist@gmail.com""}",2863.0,36
+Clojure,mikera,2014-07-24,32,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2895.0,36
+Clojure,mikera,2014-07-25,3,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2898.0,36
+Clojure,mikera,2014-07-26,2,1,"#{""tim.brooks@staples.com""}",2900.0,37
+Clojure,mikera,2014-07-27,8,3,"#{""tim.brooks@staples.com"" ""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2908.0,37
+Clojure,mikera,2014-07-28,1,1,"#{""mike.r.anderson.13@gmail.com""}",2909.0,37
+Clojure,mikera,2014-07-29,8,2,"#{""tim.brooks@staples.com"" ""mike.r.anderson.13@gmail.com""}",2917.0,37
+Clojure,mikera,2014-07-30,3,2,"#{""tim.brooks@staples.com"" ""mike.r.anderson.13@gmail.com""}",2920.0,37
+Clojure,mikera,2014-07-31,4,2,"#{""tim.brooks@staples.com"" ""mike.r.anderson.13@gmail.com""}",2924.0,37
+Clojure,mikera,2014-08-01,8,3,"#{""mabrams@uab.edu"" ""tim.brooks@staples.com"" ""aleksandr.sorokoumov@gmail.com""}",2932.0,37
+Clojure,mikera,2014-08-03,4,2,"#{""tim.brooks@staples.com"" ""mike.r.anderson.13@gmail.com""}",2936.0,37
+Clojure,mikera,2014-08-04,12,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2948.0,37
+Clojure,mikera,2014-08-05,4,1,"#{""aleksandr.sorokoumov@gmail.com""}",2952.0,37
+Clojure,mikera,2014-08-06,6,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2958.0,37
+Clojure,mikera,2014-08-07,11,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2969.0,37
+Clojure,mikera,2014-08-08,13,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",2982.0,37
+Clojure,mikera,2014-08-09,17,3,"#{""aleksandr.sorokoumov@gmail.com"" ""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",2999.0,37
+Clojure,mikera,2014-08-10,7,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3006.0,37
+Clojure,mikera,2014-08-13,3,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3009.0,37
+Clojure,mikera,2014-08-14,3,2,"#{""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",3012.0,37
+Clojure,mikera,2014-08-15,4,1,"#{""mike.r.anderson.13@gmail.com""}",3016.0,37
+Clojure,mikera,2014-08-16,4,1,"#{""mike.r.anderson.13@gmail.com""}",3020.0,37
+Clojure,mikera,2014-08-17,5,3,"#{""mabrams@uab.edu"" ""prasant12075@iiitd.ac.in"" ""mike.r.anderson.13@gmail.com""}",3025.0,37
+Clojure,mikera,2014-08-18,5,1,"#{""mike.r.anderson.13@gmail.com""}",3030.0,37
+Clojure,mikera,2014-08-22,2,1,"#{""mike.r.anderson.13@gmail.com""}",3032.0,37
+Clojure,mikera,2014-08-28,6,1,"#{""mike.r.anderson.13@gmail.com""}",3038.0,37
+Clojure,mikera,2014-09-02,1,1,"#{""hello@kimchi.io""}",3039.0,38
+Clojure,mikera,2014-09-03,1,1,"#{""mike.r.anderson.13@gmail.com""}",3040.0,38
+Clojure,mikera,2014-09-10,1,1,"#{""mike.r.anderson.13@gmail.com""}",3041.0,38
+Clojure,mikera,2014-09-12,1,1,"#{""mike.r.anderson.13@gmail.com""}",3042.0,38
+Clojure,mikera,2014-09-17,4,2,"#{""cavingdeep@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3046.0,39
+Clojure,mikera,2014-09-20,5,1,"#{""mike.r.anderson.13@gmail.com""}",3051.0,39
+Clojure,mikera,2014-09-22,4,1,"#{""mike.r.anderson.13@gmail.com""}",3055.0,39
+Clojure,mikera,2014-09-23,2,2,"#{""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",3057.0,39
+Clojure,mikera,2014-09-24,3,1,"#{""mike.r.anderson.13@gmail.com""}",3060.0,39
+Clojure,mikera,2014-09-25,3,2,"#{""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",3063.0,39
+Clojure,mikera,2014-09-26,2,1,"#{""mike.r.anderson.13@gmail.com""}",3065.0,39
+Clojure,mikera,2014-09-30,5,1,"#{""mike.r.anderson.13@gmail.com""}",3070.0,39
+Clojure,mikera,2014-10-03,4,1,"#{""mike.r.anderson.13@gmail.com""}",3074.0,39
+Clojure,mikera,2014-10-06,2,1,"#{""mike.r.anderson.13@gmail.com""}",3076.0,39
+Clojure,mikera,2014-10-07,3,1,"#{""mike.r.anderson.13@gmail.com""}",3079.0,39
+Clojure,mikera,2014-10-08,5,1,"#{""mike.r.anderson.13@gmail.com""}",3084.0,39
+Clojure,mikera,2014-10-10,7,1,"#{""mike.r.anderson.13@gmail.com""}",3091.0,39
+Clojure,mikera,2014-10-13,1,1,"#{""mabrams@uab.edu""}",3092.0,39
+Clojure,mikera,2014-10-14,1,1,"#{""mike.r.anderson.13@gmail.com""}",3093.0,39
+Clojure,mikera,2014-10-16,2,1,"#{""mike.r.anderson.13@gmail.com""}",3095.0,39
+Clojure,mikera,2014-10-20,5,2,"#{""lambdadmitry@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3100.0,39
+Clojure,mikera,2014-10-21,1,1,"#{""mike.r.anderson.13@gmail.com""}",3101.0,39
+Clojure,mikera,2014-10-29,7,1,"#{""mike.r.anderson.13@gmail.com""}",3108.0,39
+Clojure,mikera,2014-10-30,9,2,"#{""mike.r.anderson.13@gmail.com"" ""zcharlop@rockefeller.edu""}",3117.0,40
+Clojure,mikera,2014-10-31,12,3,"#{""zcharlop@rockefeller.du"" ""scottdw0001@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3129.0,42
+Clojure,mikera,2014-11-01,4,1,"#{""mike.r.anderson.13@gmail.com""}",3133.0,42
+Clojure,mikera,2014-11-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",3134.0,42
+Clojure,mikera,2014-11-15,4,1,"#{""mike.r.anderson.13@gmail.com""}",3138.0,42
+Clojure,mikera,2014-11-24,10,2,"#{""desk@danielcompton.net"" ""mike.r.anderson.13@gmail.com""}",3148.0,43
+Clojure,mikera,2014-11-25,1,1,"#{""mike.r.anderson.13@gmail.com""}",3149.0,43
+Clojure,mikera,2014-11-27,5,1,"#{""mike.r.anderson.13@gmail.com""}",3154.0,43
+Clojure,mikera,2014-11-28,3,1,"#{""mike.r.anderson.13@gmail.com""}",3157.0,43
+Clojure,mikera,2014-12-08,3,1,"#{""mike.r.anderson.13@gmail.com""}",3160.0,43
+Clojure,mikera,2014-12-10,3,1,"#{""mabrams@uab.edu""}",3163.0,43
+Clojure,mikera,2014-12-13,1,1,"#{""mike.r.anderson.13@gmail.com""}",3164.0,43
+Clojure,mikera,2014-12-23,9,1,"#{""mike.r.anderson.13@gmail.com""}",3173.0,43
+Clojure,mikera,2014-12-26,2,1,"#{""mike.r.anderson.13@gmail.com""}",3175.0,43
+Clojure,mikera,2014-12-27,28,1,"#{""mike.r.anderson.13@gmail.com""}",3203.0,43
+Clojure,mikera,2014-12-28,7,2,"#{""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",3210.0,43
+Clojure,mikera,2014-12-29,2,1,"#{""mike.r.anderson.13@gmail.com""}",3212.0,43
+Clojure,mikera,2014-12-30,4,1,"#{""mike.r.anderson.13@gmail.com""}",3216.0,43
+Clojure,mikera,2015-01-02,2,1,"#{""mike.r.anderson.13@gmail.com""}",3218.0,43
+Clojure,mikera,2015-01-03,3,2,"#{""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",3221.0,43
+Clojure,mikera,2015-01-04,2,1,"#{""mike.r.anderson.13@gmail.com""}",3223.0,43
+Clojure,mikera,2015-01-05,1,1,"#{""andy_fingerhut@alum.wustl.edu""}",3224.0,44
+Clojure,mikera,2015-01-06,2,1,"#{""mike.r.anderson.13@gmail.com""}",3226.0,44
+Clojure,mikera,2015-01-08,1,1,"#{""mike.r.anderson.13@gmail.com""}",3227.0,44
+Clojure,mikera,2015-01-09,1,1,"#{""mike.r.anderson.13@gmail.com""}",3228.0,44
+Clojure,mikera,2015-01-11,5,2,"#{""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",3233.0,44
+Clojure,mikera,2015-01-13,5,1,"#{""mike.r.anderson.13@gmail.com""}",3238.0,44
+Clojure,mikera,2015-01-26,3,1,"#{""mike.r.anderson.13@gmail.com""}",3241.0,44
+Clojure,mikera,2015-01-28,1,1,"#{""mike.r.anderson.13@gmail.com""}",3242.0,44
+Clojure,mikera,2015-02-03,2,1,"#{""mrevelle@gmail.com""}",3244.0,44
+Clojure,mikera,2015-02-04,1,1,"#{""mrevelle@gmail.com""}",3245.0,44
+Clojure,mikera,2015-02-05,2,2,"#{""mike.r.anderson.13@gmail.com"" ""mrevelle@gmail.com""}",3247.0,44
+Clojure,mikera,2015-02-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",3248.0,44
+Clojure,mikera,2015-02-08,9,2,"#{""john@mail.npxdesigns.com"" ""mike.r.anderson.13@gmail.com""}",3257.0,45
+Clojure,mikera,2015-02-10,2,1,"#{""mrevelle@gmail.com""}",3259.0,45
+Clojure,mikera,2015-02-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",3260.0,45
+Clojure,mikera,2015-02-15,10,1,"#{""mike.r.anderson.13@gmail.com""}",3270.0,45
+Clojure,mikera,2015-02-16,1,1,"#{""cloojure@gmail.com""}",3271.0,46
+Clojure,mikera,2015-02-17,2,1,"#{""mike.r.anderson.13@gmail.com""}",3273.0,46
+Clojure,mikera,2015-02-21,9,1,"#{""mike.r.anderson.13@gmail.com""}",3282.0,46
+Clojure,mikera,2015-02-24,1,1,"#{""mike.r.anderson.13@gmail.com""}",3283.0,46
+Clojure,mikera,2015-02-25,1,1,"#{""mike.r.anderson.13@gmail.com""}",3284.0,46
+Clojure,mikera,2015-03-05,3,1,"#{""mike.r.anderson.13@gmail.com""}",3287.0,46
+Clojure,mikera,2015-03-14,2,1,"#{""mike.r.anderson.13@gmail.com""}",3289.0,46
+Clojure,mikera,2015-03-22,1,1,"#{""antoine@japonophile.com""}",3290.0,47
+Clojure,mikera,2015-04-01,12,2,"#{""antoine@japonophile.com"" ""mike.r.anderson.13@gmail.com""}",3302.0,47
+Clojure,mikera,2015-04-02,3,2,"#{""antoine@japonophile.com"" ""mike.r.anderson.13@gmail.com""}",3305.0,47
+Clojure,mikera,2015-04-03,3,1,"#{""mike.r.anderson.13@gmail.com""}",3308.0,47
+Clojure,mikera,2015-04-08,1,1,"#{""mike@mikera.net""}",3309.0,48
+Clojure,mikera,2015-04-12,2,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3311.0,48
+Clojure,mikera,2015-04-13,1,1,"#{""mike.r.anderson.13@gmail.com""}",3312.0,48
+Clojure,mikera,2015-04-14,2,2,"#{""badger@gitter.im"" ""mike.r.anderson.13@gmail.com""}",3314.0,49
+Clojure,mikera,2015-04-15,1,1,"#{""mike.r.anderson.13@gmail.com""}",3315.0,49
+Clojure,mikera,2015-04-25,3,1,"#{""mike.r.anderson.13@gmail.com""}",3318.0,49
+Clojure,mikera,2015-04-28,3,1,"#{""mike.r.anderson.13@gmail.com""}",3321.0,49
+Clojure,mikera,2015-05-12,2,1,"#{""mabrams@uab.edu""}",3323.0,49
+Clojure,mikera,2015-05-13,2,1,"#{""mike.r.anderson.13@gmail.com""}",3325.0,49
+Clojure,mikera,2015-05-15,2,1,"#{""mike.r.anderson.13@gmail.com""}",3327.0,49
+Clojure,mikera,2015-05-18,1,1,"#{""mike.r.anderson.13@gmail.com""}",3328.0,49
+Clojure,mikera,2015-05-21,1,1,"#{""mike@mikera.net""}",3329.0,49
+Clojure,mikera,2015-05-22,1,1,"#{""mike.r.anderson.13@gmail.com""}",3330.0,49
+Clojure,mikera,2015-05-24,2,1,"#{""mike@mikera.net""}",3332.0,49
+Clojure,mikera,2015-05-25,7,1,"#{""mike@mikera.net""}",3339.0,49
+Clojure,mikera,2015-05-26,1,1,"#{""mike@mikera.net""}",3340.0,49
+Clojure,mikera,2015-06-02,3,1,"#{""mike@mikera.net""}",3343.0,49
+Clojure,mikera,2015-06-03,9,1,"#{""mike@mikera.net""}",3352.0,49
+Clojure,mikera,2015-06-04,5,1,"#{""mike@mikera.net""}",3357.0,49
+Clojure,mikera,2015-06-05,3,1,"#{""mike@mikera.net""}",3360.0,49
+Clojure,mikera,2015-06-09,7,1,"#{""mike@mikera.net""}",3367.0,49
+Clojure,mikera,2015-06-10,16,1,"#{""mike@mikera.net""}",3383.0,49
+Clojure,mikera,2015-06-11,1,1,"#{""Nathan.Clark@tokenshift.com""}",3384.0,50
+Clojure,mikera,2015-06-12,4,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",3388.0,50
+Clojure,mikera,2015-06-15,2,2,"#{""nblumoe@users.noreply.github.com"" ""mike.r.anderson.13@gmail.com""}",3390.0,51
+Clojure,mikera,2015-06-16,3,1,"#{""mike@mikera.net""}",3393.0,51
+Clojure,mikera,2015-06-18,3,1,"#{""mike@mikera.net""}",3396.0,51
+Clojure,mikera,2015-06-29,1,1,"#{""mike@mikera.net""}",3397.0,51
+Clojure,mikera,2015-06-30,3,1,"#{""mike@mikera.net""}",3400.0,51
+Clojure,mikera,2015-07-01,3,1,"#{""mike@mikera.net""}",3403.0,51
+Clojure,mikera,2015-07-07,2,1,"#{""mike@mikera.net""}",3405.0,51
+Clojure,mikera,2015-07-13,4,1,"#{""mike.r.anderson.13@gmail.com""}",3409.0,51
+Clojure,mikera,2015-07-18,2,1,"#{""mike@mikera.net""}",3411.0,51
+Clojure,mikera,2015-07-20,1,1,"#{""mike.r.anderson.13@gmail.com""}",3412.0,51
+Clojure,mikera,2015-07-24,3,1,"#{""mike.r.anderson.13@gmail.com""}",3415.0,51
+Clojure,mikera,2015-07-29,2,1,"#{""mike.r.anderson.13@gmail.com""}",3417.0,51
+Clojure,mikera,2015-07-30,5,1,"#{""mike.r.anderson.13@gmail.com""}",3422.0,51
+Clojure,mikera,2015-07-31,3,1,"#{""mike.r.anderson.13@gmail.com""}",3425.0,51
+Clojure,mikera,2015-08-01,4,1,"#{""mike.r.anderson.13@gmail.com""}",3429.0,51
+Clojure,mikera,2015-08-02,4,1,"#{""mike.r.anderson.13@gmail.com""}",3433.0,51
+Clojure,mikera,2015-08-03,3,1,"#{""mike.r.anderson.13@gmail.com""}",3436.0,51
+Clojure,mikera,2015-08-10,1,1,"#{""glenn@gmail.com""}",3437.0,52
+Clojure,mikera,2015-08-11,10,2,"#{""alexanderkiel@gmx.net"" ""mike.r.anderson.13@gmail.com""}",3447.0,53
+Clojure,mikera,2015-08-12,23,1,"#{""mike.r.anderson.13@gmail.com""}",3470.0,53
+Clojure,mikera,2015-08-13,7,1,"#{""mike.r.anderson.13@gmail.com""}",3477.0,53
+Clojure,mikera,2015-08-18,1,1,"#{""mike.r.anderson.13@gmail.com""}",3478.0,53
+Clojure,mikera,2015-08-23,1,1,"#{""quah.fy95@gmail.com""}",3479.0,54
+Clojure,mikera,2015-08-24,5,2,"#{""quah.fy95@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3484.0,54
+Clojure,mikera,2015-08-26,5,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",3489.0,54
+Clojure,mikera,2015-08-27,5,1,"#{""mike.r.anderson.13@gmail.com""}",3494.0,54
+Clojure,mikera,2015-08-28,1,1,"#{""mike@mikera.net""}",3495.0,54
+Clojure,mikera,2015-08-29,2,1,"#{""quah.fy95@gmail.com""}",3497.0,54
+Clojure,mikera,2015-08-30,6,1,"#{""quah.fy95@gmail.com""}",3503.0,54
+Clojure,mikera,2015-08-31,9,2,"#{""quah.fy95@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3512.0,54
+Clojure,mikera,2015-09-01,6,4,"#{""quah.fy95@gmail.com"" ""mike@mikera.net"" ""mike.r.anderson.13@gmail.com"" ""edwastone@gmail.com""}",3518.0,55
+Clojure,mikera,2015-09-02,16,2,"#{""quah.fy95@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3534.0,55
+Clojure,mikera,2015-09-03,8,2,"#{""chris@strandz.org"" ""mike.r.anderson.13@gmail.com""}",3542.0,56
+Clojure,mikera,2015-09-04,28,1,"#{""mike.r.anderson.13@gmail.com""}",3570.0,56
+Clojure,mikera,2015-09-07,9,1,"#{""mike.r.anderson.13@gmail.com""}",3579.0,56
+Clojure,mikera,2015-09-16,5,1,"#{""mike.r.anderson.13@gmail.com""}",3584.0,56
+Clojure,mikera,2015-09-18,20,1,"#{""mike.r.anderson.13@gmail.com""}",3604.0,56
+Clojure,mikera,2015-09-19,1,1,"#{""mike.r.anderson.13@gmail.com""}",3605.0,56
+Clojure,mikera,2015-09-21,9,1,"#{""mike.r.anderson.13@gmail.com""}",3614.0,56
+Clojure,mikera,2015-09-22,1,1,"#{""mike.r.anderson.13@gmail.com""}",3615.0,56
+Clojure,mikera,2015-09-23,4,1,"#{""mike.r.anderson.13@gmail.com""}",3619.0,56
+Clojure,mikera,2015-09-25,1,1,"#{""mike.r.anderson.13@gmail.com""}",3620.0,56
+Clojure,mikera,2015-09-26,12,2,"#{""keith.schulze@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3632.0,57
+Clojure,mikera,2015-09-27,3,1,"#{""mike.r.anderson.13@gmail.com""}",3635.0,57
+Clojure,mikera,2015-09-28,1,1,"#{""mike.r.anderson.13@gmail.com""}",3636.0,57
+Clojure,mikera,2015-09-29,6,1,"#{""mike.r.anderson.13@gmail.com""}",3642.0,57
+Clojure,mikera,2015-09-30,2,1,"#{""mike.r.anderson.13@gmail.com""}",3644.0,57
+Clojure,mikera,2015-10-03,5,1,"#{""mike.r.anderson.13@gmail.com""}",3649.0,57
+Clojure,mikera,2015-10-04,4,1,"#{""mike.r.anderson.13@gmail.com""}",3653.0,57
+Clojure,mikera,2015-10-05,13,1,"#{""mike.r.anderson.13@gmail.com""}",3666.0,57
+Clojure,mikera,2015-10-06,3,1,"#{""mike.r.anderson.13@gmail.com""}",3669.0,57
+Clojure,mikera,2015-10-07,1,1,"#{""mike.r.anderson.13@gmail.com""}",3670.0,57
+Clojure,mikera,2015-10-14,15,1,"#{""mike.r.anderson.13@gmail.com""}",3685.0,57
+Clojure,mikera,2015-10-21,1,1,"#{""keith.schulze@gmail.com""}",3686.0,57
+Clojure,mikera,2015-10-27,1,1,"#{""mike.r.anderson.13@gmail.com""}",3687.0,57
+Clojure,mikera,2015-10-28,1,1,"#{""mike.r.anderson.13@gmail.com""}",3688.0,57
+Clojure,mikera,2015-10-29,15,1,"#{""mike.r.anderson.13@gmail.com""}",3703.0,57
+Clojure,mikera,2015-10-30,1,1,"#{""mike.r.anderson.13@gmail.com""}",3704.0,57
+Clojure,mikera,2015-11-03,22,1,"#{""mike.r.anderson.13@gmail.com""}",3726.0,57
+Clojure,mikera,2015-11-04,2,1,"#{""mike.r.anderson.13@gmail.com""}",3728.0,57
+Clojure,mikera,2015-11-06,2,1,"#{""jeff@thinktopic.com""}",3730.0,58
+Clojure,mikera,2015-11-07,1,1,"#{""mike.r.anderson.13@gmail.com""}",3731.0,58
+Clojure,mikera,2015-11-08,15,1,"#{""mike.r.anderson.13@gmail.com""}",3746.0,58
+Clojure,mikera,2015-11-09,8,2,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3754.0,58
+Clojure,mikera,2015-11-10,6,1,"#{""mike.r.anderson.13@gmail.com""}",3760.0,58
+Clojure,mikera,2015-11-11,10,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",3770.0,58
+Clojure,mikera,2015-11-12,9,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",3779.0,58
+Clojure,mikera,2015-11-13,13,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",3792.0,58
+Clojure,mikera,2015-11-16,1,1,"#{""mike.r.anderson.13@gmail.com""}",3793.0,58
+Clojure,mikera,2015-11-17,6,1,"#{""mike.r.anderson.13@gmail.com""}",3799.0,58
+Clojure,mikera,2015-11-18,8,1,"#{""mike.r.anderson.13@gmail.com""}",3807.0,58
+Clojure,mikera,2015-11-19,11,1,"#{""mike.r.anderson.13@gmail.com""}",3818.0,58
+Clojure,mikera,2015-11-26,5,1,"#{""mike.r.anderson.13@gmail.com""}",3823.0,58
+Clojure,mikera,2015-11-28,2,1,"#{""mike.r.anderson.13@gmail.com""}",3825.0,58
+Clojure,mikera,2015-11-30,1,1,"#{""mike.r.anderson.13@gmail.com""}",3826.0,58
+Clojure,mikera,2015-12-02,1,1,"#{""mike.r.anderson.13@gmail.com""}",3827.0,58
+Clojure,mikera,2015-12-03,9,1,"#{""mike.r.anderson.13@gmail.com""}",3836.0,58
+Clojure,mikera,2015-12-04,5,2,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3841.0,58
+Clojure,mikera,2015-12-05,2,1,"#{""mike.r.anderson.13@gmail.com""}",3843.0,58
+Clojure,mikera,2015-12-06,3,2,"#{""12e.david@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3846.0,59
+Clojure,mikera,2015-12-07,1,1,"#{""rosejn@gmail.com""}",3847.0,59
+Clojure,mikera,2015-12-10,2,1,"#{""rosejn@gmail.com""}",3849.0,59
+Clojure,mikera,2015-12-11,4,1,"#{""mike.r.anderson.13@gmail.com""}",3853.0,59
+Clojure,mikera,2015-12-17,2,1,"#{""mike@mikera.net""}",3855.0,59
+Clojure,mikera,2015-12-19,3,1,"#{""mike@mikera.net""}",3858.0,59
+Clojure,mikera,2015-12-20,13,1,"#{""mike@mikera.net""}",3871.0,59
+Clojure,mikera,2015-12-21,1,1,"#{""mike@mikera.net""}",3872.0,59
+Clojure,mikera,2015-12-23,4,1,"#{""mike@mikera.net""}",3876.0,59
+Clojure,mikera,2015-12-24,5,1,"#{""mike@mikera.net""}",3881.0,59
+Clojure,mikera,2015-12-27,5,1,"#{""mike@mikera.net""}",3886.0,59
+Clojure,mikera,2015-12-29,1,1,"#{""mike@mikera.net""}",3887.0,59
+Clojure,mikera,2016-01-02,13,1,"#{""mike@mikera.net""}",3900.0,59
+Clojure,mikera,2016-01-03,19,1,"#{""mike@mikera.net""}",3919.0,59
+Clojure,mikera,2016-01-05,1,1,"#{""mike@mikera.net""}",3920.0,59
+Clojure,mikera,2016-01-13,3,1,"#{""mike.r.anderson.13@gmail.com""}",3923.0,59
+Clojure,mikera,2016-01-15,9,1,"#{""mike.r.anderson.13@gmail.com""}",3932.0,59
+Clojure,mikera,2016-01-16,3,2,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3935.0,59
+Clojure,mikera,2016-01-20,5,1,"#{""mike.r.anderson.13@gmail.com""}",3940.0,59
+Clojure,mikera,2016-01-22,2,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",3942.0,59
+Clojure,mikera,2016-01-23,4,2,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3946.0,59
+Clojure,mikera,2016-01-24,24,2,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com""}",3970.0,59
+Clojure,mikera,2016-01-25,3,2,"#{""rosejn@gmail.com"" ""charles@thinktopic.com""}",3973.0,60
+Clojure,mikera,2016-01-26,6,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",3979.0,60
+Clojure,mikera,2016-01-27,4,3,"#{""charles@thinktopic.com"" ""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",3983.0,60
+Clojure,mikera,2016-01-28,4,2,"#{""charles@thinktopic.com"" ""jeff@thinktopic.com""}",3987.0,60
+Clojure,mikera,2016-01-29,6,3,"#{""val@bandsquare.fr"" ""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",3993.0,61
+Clojure,mikera,2016-01-31,18,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4011.0,61
+Clojure,mikera,2016-02-01,14,5,"#{""rosejn@gmail.com"" ""val@bandsquare.fr"" ""charles@thinktopic.com"" ""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",4025.0,61
+Clojure,mikera,2016-02-02,7,3,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",4032.0,61
+Clojure,mikera,2016-02-03,3,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",4035.0,61
+Clojure,mikera,2016-02-05,7,4,"#{""evaggelos.avgerinos@gmail.com"" ""chris@thinktopic.com"" ""charles@thinktopic.com"" ""jeff@thinktopic.com""}",4042.0,63
+Clojure,mikera,2016-02-06,6,2,"#{""evaggelos.avgerinos@gmail.com"" ""rosejn@gmail.com""}",4048.0,63
+Clojure,mikera,2016-02-07,8,1,"#{""mike.r.anderson.13@gmail.com""}",4056.0,63
+Clojure,mikera,2016-02-08,1,1,"#{""jeff@thinktopic.com""}",4057.0,63
+Clojure,mikera,2016-02-09,2,1,"#{""rosejn@gmail.com""}",4059.0,63
+Clojure,mikera,2016-02-10,3,1,"#{""jeff@thinktopic.com""}",4062.0,63
+Clojure,mikera,2016-02-11,5,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",4067.0,63
+Clojure,mikera,2016-02-12,10,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",4077.0,63
+Clojure,mikera,2016-02-13,4,1,"#{""mike.r.anderson.13@gmail.com""}",4081.0,63
+Clojure,mikera,2016-02-15,1,1,"#{""mike.r.anderson.13@gmail.com""}",4082.0,63
+Clojure,mikera,2016-02-23,5,1,"#{""mike.r.anderson.13@gmail.com""}",4087.0,63
+Clojure,mikera,2016-02-26,1,1,"#{""mike.r.anderson.13@gmail.com""}",4088.0,63
+Clojure,mikera,2016-03-07,14,1,"#{""mike.r.anderson.13@gmail.com""}",4102.0,63
+Clojure,mikera,2016-03-08,3,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4105.0,63
+Clojure,mikera,2016-03-18,4,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4109.0,63
+Clojure,mikera,2016-03-19,3,1,"#{""mike.r.anderson.13@gmail.com""}",4112.0,63
+Clojure,mikera,2016-03-20,1,1,"#{""mike.r.anderson.13@gmail.com""}",4113.0,63
+Clojure,mikera,2016-03-22,3,1,"#{""mike.r.anderson.13@gmail.com""}",4116.0,63
+Clojure,mikera,2016-03-31,4,1,"#{""mike.r.anderson.13@gmail.com""}",4120.0,63
+Clojure,mikera,2016-04-01,7,1,"#{""mike.r.anderson.13@gmail.com""}",4127.0,63
+Clojure,mikera,2016-04-12,3,1,"#{""mike.r.anderson.13@gmail.com""}",4130.0,63
+Clojure,mikera,2016-04-28,2,1,"#{""mike.r.anderson.13@gmail.com""}",4132.0,63
+Clojure,mikera,2016-05-06,3,2,"#{""kiran.karkera@gmail.com"" ""mike.r.anderson.13@gmail.com""}",4135.0,64
+Clojure,mikera,2016-05-07,4,1,"#{""mike.r.anderson.13@gmail.com""}",4139.0,64
+Clojure,mikera,2016-05-14,1,1,"#{""miikka.koskinen@iki.fi""}",4140.0,65
+Clojure,mikera,2016-05-15,1,1,"#{""mike.r.anderson.13@gmail.com""}",4141.0,65
+Clojure,mikera,2016-05-16,1,1,"#{""mike.r.anderson.13@gmail.com""}",4142.0,65
+Clojure,mikera,2016-05-17,3,1,"#{""mike.r.anderson.13@gmail.com""}",4145.0,65
+Clojure,mikera,2016-05-21,2,1,"#{""mike.r.anderson.13@gmail.com""}",4147.0,65
+Clojure,mikera,2016-05-30,4,1,"#{""mike.r.anderson.13@gmail.com""}",4151.0,65
+Clojure,mikera,2016-06-02,1,1,"#{""mike.r.anderson.13@gmail.com""}",4152.0,65
+Clojure,mikera,2016-06-08,5,1,"#{""mike@mikera.net""}",4157.0,65
+Clojure,mikera,2016-06-13,1,1,"#{""dj@danieljanus.pl""}",4158.0,66
+Clojure,mikera,2016-06-14,2,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4160.0,66
+Clojure,mikera,2016-06-15,2,1,"#{""mike@mikera.net""}",4162.0,66
+Clojure,mikera,2016-06-17,3,1,"#{""mike@mikera.net""}",4165.0,66
+Clojure,mikera,2016-06-27,2,1,"#{""mike@mikera.net""}",4167.0,66
+Clojure,mikera,2016-07-06,2,1,"#{""mike@mikera.net""}",4169.0,66
+Clojure,mikera,2016-07-14,2,1,"#{""mike@mikera.net""}",4171.0,66
+Clojure,mikera,2016-08-08,3,1,"#{""mike.r.anderson.13@gmail.com""}",4174.0,66
+Clojure,mikera,2016-08-11,3,1,"#{""darwin401@gmail.com""}",4177.0,67
+Clojure,mikera,2016-08-12,7,1,"#{""mike.r.anderson.13@gmail.com""}",4184.0,67
+Clojure,mikera,2016-08-13,2,1,"#{""mike.r.anderson.13@gmail.com""}",4186.0,67
+Clojure,mikera,2016-08-14,1,1,"#{""mike.r.anderson.13@gmail.com""}",4187.0,67
+Clojure,mikera,2016-08-15,7,1,"#{""mike.r.anderson.13@gmail.com""}",4194.0,67
+Clojure,mikera,2016-08-16,2,1,"#{""mike.r.anderson.13@gmail.com""}",4196.0,67
+Clojure,mikera,2016-08-30,1,1,"#{""mike.r.anderson.13@gmail.com""}",4197.0,67
+Clojure,mikera,2016-09-06,20,1,"#{""mike.r.anderson.13@gmail.com""}",4217.0,67
+Clojure,mikera,2016-09-10,2,1,"#{""mike.r.anderson.13@gmail.com""}",4219.0,67
+Clojure,mikera,2016-09-12,11,1,"#{""mike.r.anderson.13@gmail.com""}",4230.0,67
+Clojure,mikera,2016-09-13,1,1,"#{""mike.r.anderson.13@gmail.com""}",4231.0,67
+Clojure,mikera,2016-09-14,2,1,"#{""mike.r.anderson.13@gmail.com""}",4233.0,67
+Clojure,mikera,2016-09-22,3,1,"#{""mike.r.anderson.13@gmail.com""}",4236.0,67
+Clojure,mikera,2016-09-28,2,1,"#{""dmarjenburgh@gmail.com""}",4238.0,68
+Clojure,mikera,2016-09-29,1,1,"#{""mike.r.anderson.13@gmail.com""}",4239.0,68
+Clojure,mikera,2016-10-02,1,1,"#{""mike.r.anderson.13@gmail.com""}",4240.0,68
+Clojure,mikera,2016-10-03,19,1,"#{""mike.r.anderson.13@gmail.com""}",4259.0,68
+Clojure,mikera,2016-10-15,6,1,"#{""mike.r.anderson.13@gmail.com""}",4265.0,68
+Clojure,mikera,2016-10-17,1,1,"#{""mike.r.anderson.13@gmail.com""}",4266.0,68
+Clojure,mikera,2016-10-24,3,1,"#{""mike.r.anderson.13@gmail.com""}",4269.0,68
+Clojure,mikera,2016-10-28,9,1,"#{""mike@mikera.net""}",4278.0,68
+Clojure,mikera,2016-11-07,1,1,"#{""mike.r.anderson.13@gmail.com""}",4279.0,68
+Clojure,mikera,2016-11-16,4,1,"#{""mike.r.anderson.13@gmail.com""}",4283.0,68
+Clojure,mikera,2016-11-17,3,1,"#{""mike.r.anderson.13@gmail.com""}",4286.0,68
+Clojure,mikera,2016-11-18,1,1,"#{""hhausman@gmail.com""}",4287.0,69
+Clojure,mikera,2016-11-21,1,1,"#{""mike.r.anderson.13@gmail.com""}",4288.0,69
+Clojure,mikera,2016-11-22,2,1,"#{""mike.r.anderson.13@gmail.com""}",4290.0,69
+Clojure,mikera,2016-11-23,1,1,"#{""ulrik.sandberg@gmail.com""}",4291.0,70
+Clojure,mikera,2016-11-24,1,1,"#{""mike.r.anderson.13@gmail.com""}",4292.0,70
+Clojure,mikera,2016-11-30,3,1,"#{""mike.r.anderson.13@gmail.com""}",4295.0,70
+Clojure,mikera,2016-12-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",4296.0,70
+Clojure,mikera,2016-12-27,3,1,"#{""mike@mikera.net""}",4299.0,70
+Clojure,mikera,2017-01-02,1,1,"#{""mike@mikera.net""}",4300.0,70
+Clojure,mikera,2017-01-13,6,1,"#{""mike.r.anderson.13@gmail.com""}",4306.0,70
+Clojure,mikera,2017-03-01,5,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4311.0,70
+Clojure,mikera,2017-03-07,1,1,"#{""rovanion.luckey@gmail.com""}",4312.0,71
+Clojure,mikera,2017-03-12,1,1,"#{""mike.r.anderson.13@gmail.com""}",4313.0,71
+Clojure,mikera,2017-03-15,8,1,"#{""mike.r.anderson.13@gmail.com""}",4321.0,71
+Clojure,mikera,2017-04-19,1,1,"#{""mike.r.anderson.13@gmail.com""}",4322.0,71
+Clojure,mikera,2017-04-26,1,1,"#{""mike.r.anderson.13@gmail.com""}",4323.0,71
+Clojure,mikera,2017-05-01,9,1,"#{""mike.r.anderson.13@gmail.com""}",4332.0,71
+Clojure,mikera,2017-05-02,2,2,"#{""kiran.karkera@gmail.com"" ""mike.r.anderson.13@gmail.com""}",4334.0,71
+Clojure,mikera,2017-05-05,2,1,"#{""kiran.karkera@gmail.com""}",4336.0,71
+Clojure,mikera,2017-05-08,4,2,"#{""kiran.karkera@gmail.com"" ""mike.r.anderson.13@gmail.com""}",4340.0,71
+Clojure,mikera,2017-05-09,2,2,"#{""kiran.karkera@gmail.com"" ""mike.r.anderson.13@gmail.com""}",4342.0,71
+Clojure,mikera,2017-05-16,13,1,"#{""mike.r.anderson.13@gmail.com""}",4355.0,71
+Clojure,mikera,2017-05-17,4,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4359.0,71
+Clojure,mikera,2017-05-18,8,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4367.0,71
+Clojure,mikera,2017-08-01,1,1,"#{""mike.r.anderson.13@gmail.com""}",4368.0,71
+Clojure,mikera,2017-08-14,1,1,"#{""mabrams@uab.edu""}",4369.0,71
+Clojure,mikera,2017-08-17,3,2,"#{""kiran.karkera@gmail.com"" ""mike.r.anderson.13@gmail.com""}",4372.0,71
+Clojure,mikera,2017-08-29,1,1,"#{""mike.r.anderson.13@gmail.com""}",4373.0,71
+Clojure,mikera,2017-08-30,4,1,"#{""mike@mikera.net""}",4377.0,71
+Clojure,mikera,2017-09-02,19,1,"#{""mike.r.anderson.13@gmail.com""}",4396.0,71
+Clojure,mikera,2017-09-04,1,1,"#{""mike.r.anderson.13@gmail.com""}",4397.0,71
+Clojure,mikera,2017-09-05,1,1,"#{""kiran.karkera@gmail.com""}",4398.0,71
+Clojure,mikera,2017-09-08,1,1,"#{""mike.r.anderson.13@gmail.com""}",4399.0,71
+Clojure,mikera,2017-09-11,3,1,"#{""kiran.karkera@gmail.com""}",4402.0,71
+Clojure,mikera,2017-09-12,1,1,"#{""kiran.karkera@gmail.com""}",4403.0,71
+Clojure,mikera,2017-09-14,1,1,"#{""kiran.karkera@gmail.com""}",4404.0,71
+Clojure,mikera,2017-09-18,5,1,"#{""kiran.karkera@gmail.com""}",4409.0,71
+Clojure,mikera,2017-09-19,4,1,"#{""kiran.karkera@gmail.com""}",4413.0,71
+Clojure,mikera,2017-09-27,2,1,"#{""mike@mikera.net""}",4415.0,71
+Clojure,mikera,2017-10-02,5,1,"#{""kiran.karkera@gmail.com""}",4420.0,71
+Clojure,mikera,2017-10-09,5,2,"#{""kiran.karkera@gmail.com"" ""mike.r.anderson.13@gmail.com""}",4425.0,71
+Clojure,mikera,2017-10-10,1,1,"#{""mike.r.anderson.13@gmail.com""}",4426.0,71
+Clojure,mikera,2017-11-22,1,1,"#{""mike.r.anderson.13@gmail.com""}",4427.0,71
+Clojure,mikera,2017-11-23,1,1,"#{""mike.r.anderson.13@gmail.com""}",4428.0,71
+Clojure,mikera,2017-12-02,1,1,"#{""mike@mikera.net""}",4429.0,71
+Clojure,mikera,2017-12-21,2,1,"#{""kiran.karkera@gmail.com""}",4431.0,71
+Clojure,mikera,2018-01-09,1,1,"#{""mike.r.anderson.13@gmail.com""}",4432.0,71
+Clojure,mikera,2018-01-24,1,1,"#{""mike@mikera.net""}",4433.0,71
+Clojure,mikera,2018-02-06,5,1,"#{""mike@mikera.net""}",4438.0,71
+Clojure,mikera,2018-02-07,1,1,"#{""mike@mikera.net""}",4439.0,71
+Clojure,mikera,2018-03-02,3,1,"#{""mike.r.anderson.13@gmail.com""}",4442.0,71
+Clojure,mikera,2018-03-07,1,1,"#{""mike.r.anderson.13@gmail.com""}",4443.0,71
+Clojure,mikera,2018-03-08,2,1,"#{""mike.r.anderson.13@gmail.com""}",4445.0,71
+Clojure,mikera,2018-06-17,1,1,"#{""christian@topiq.es""}",4446.0,72
+Clojure,mikera,2018-08-21,3,1,"#{""mike.r.anderson.13@gmail.com""}",4449.0,72
+Clojure,mikera,2019-05-03,1,1,"#{""naik.punit44@gmail.com""}",4450.0,73
+Clojure,mikera,2019-05-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",4451.0,73
+Clojure,mikera,2019-07-29,1,1,"#{""mike@mikera.net""}",4452.0,73
+Clojure,mikera,2019-08-11,2,1,"#{""mike@mikera.net""}",4454.0,73
+Clojure,mikera,2019-11-22,1,1,"#{""54135532+FaizBShah@users.noreply.github.com""}",4455.0,74
+Clojure,mikera,2019-11-29,3,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4458.0,74
+Clojure,mikera,2019-12-10,1,1,"#{""bo.helleskov@gmail.com""}",4459.0,75
+Clojure,mikera,2019-12-22,1,1,"#{""mike.r.anderson.13@gmail.com""}",4460.0,75
+Clojure,mikera,2020-04-13,3,2,"#{""vwaeselynck@ap2s.fr"" ""mike.r.anderson.13@gmail.com""}",4463.0,76
+Clojure,mikera,2020-08-10,1,1,"#{""9922379+UnwarySage@users.noreply.github.com""}",4464.0,77
+Clojure,mikera,2020-08-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",4465.0,77
+Clojure,mikera,2020-11-11,1,1,"#{""brian.badahdah@gmail.com""}",4466.0,78
+Clojure,mikera,2021-01-20,1,1,"#{""mike.r.anderson.13@gmail.com""}",4467.0,78
+Clojure,mikera,2021-02-26,1,1,"#{""mike@mikera.net""}",4468.0,78
+Clojure,mikera,2021-05-19,2,1,"#{""irfns@protonmail.com""}",4470.0,79
+Clojure,mikera,2021-05-20,1,1,"#{""mike.r.anderson.13@gmail.com""}",4471.0,79
+Clojure,mikera,2021-12-15,1,1,"#{""57645186+precondition@users.noreply.github.com""}",4472.0,80
+Clojure,mikera,2021-12-17,1,1,"#{""mike.r.anderson.13@gmail.com""}",4473.0,80
+Clojure,mikera,2022-01-05,1,1,"#{""tschady@users.noreply.github.com""}",4474.0,81
+Clojure,mikera,2022-01-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",4475.0,81
+Clojure,mikera,2022-03-08,1,1,"#{""thmorriss@gmail.com""}",4476.0,82
+Clojure,mikera,2022-05-17,1,1,"#{""samuel@pitch.io""}",4477.0,83
+Clojure,mikera,2022-05-18,1,1,"#{""mike.r.anderson.13@gmail.com""}",4478.0,83
+Clojure,mikera,2022-09-26,1,1,"#{""sean@corfield.org""}",4479.0,84
+Clojure,mikera,2022-09-27,2,2,"#{""mike.r.anderson.13@gmail.com"" ""sean@corfield.org""}",4481.0,84
+Clojure,mikera,2022-10-02,1,1,"#{""mike.r.anderson.13@gmail.com""}",4482.0,84
+Clojure,mikera,2022-12-07,7,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",4489.0,84

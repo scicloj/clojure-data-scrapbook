@@ -1,0 +1,130 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,lvh,2014-08-05,2,1,"#{""_@lvh.io""}",2.0,1
+Clojure,lvh,2014-08-06,1,1,"#{""_@lvh.io""}",3.0,1
+Clojure,lvh,2014-08-28,3,1,"#{""_@lvh.io""}",6.0,1
+Clojure,lvh,2014-08-29,8,1,"#{""_@lvh.io""}",14.0,1
+Clojure,lvh,2014-09-01,3,1,"#{""_@lvh.io""}",17.0,1
+Clojure,lvh,2014-09-10,9,1,"#{""_@lvh.io""}",26.0,1
+Clojure,lvh,2014-09-11,9,1,"#{""_@lvh.io""}",35.0,1
+Clojure,lvh,2014-09-24,6,1,"#{""_@lvh.io""}",41.0,1
+Clojure,lvh,2014-09-25,5,1,"#{""_@lvh.io""}",46.0,1
+Clojure,lvh,2014-09-30,1,1,"#{""_@lvh.io""}",47.0,1
+Clojure,lvh,2014-10-02,1,1,"#{""_@lvh.io""}",48.0,1
+Clojure,lvh,2014-10-07,1,1,"#{""_@lvh.io""}",49.0,1
+Clojure,lvh,2016-02-04,3,1,"#{""c.bowdon@bath.edu""}",52.0,2
+Clojure,lvh,2016-02-05,2,1,"#{""c.bowdon@bath.edu""}",54.0,2
+Clojure,lvh,2016-02-06,2,1,"#{""c.bowdon@bath.edu""}",56.0,2
+Clojure,lvh,2016-03-07,1,1,"#{""_@lvh.io""}",57.0,2
+Clojure,lvh,2016-03-08,2,1,"#{""_@lvh.io""}",59.0,2
+Clojure,lvh,2016-03-21,1,1,"#{""_@lvh.io""}",60.0,2
+Clojure,lvh,2016-04-02,23,1,"#{""_@lvh.io""}",83.0,2
+Clojure,lvh,2016-04-14,8,1,"#{""_@lvh.io""}",91.0,2
+Clojure,lvh,2016-04-15,2,1,"#{""_@lvh.io""}",93.0,2
+Clojure,lvh,2016-04-16,21,1,"#{""_@lvh.io""}",114.0,2
+Clojure,lvh,2016-04-17,3,1,"#{""_@lvh.io""}",117.0,2
+Clojure,lvh,2016-04-18,7,1,"#{""_@lvh.io""}",124.0,2
+Clojure,lvh,2016-04-19,18,1,"#{""_@lvh.io""}",142.0,2
+Clojure,lvh,2016-04-20,8,1,"#{""_@lvh.io""}",150.0,2
+Clojure,lvh,2016-05-05,13,1,"#{""_@lvh.io""}",163.0,2
+Clojure,lvh,2016-05-07,27,1,"#{""_@lvh.io""}",190.0,2
+Clojure,lvh,2016-05-08,3,1,"#{""_@lvh.io""}",193.0,2
+Clojure,lvh,2016-05-09,16,1,"#{""_@lvh.io""}",209.0,2
+Clojure,lvh,2016-05-15,23,1,"#{""_@lvh.io""}",232.0,2
+Clojure,lvh,2016-05-20,7,1,"#{""_@lvh.io""}",239.0,2
+Clojure,lvh,2016-05-21,20,1,"#{""_@lvh.io""}",259.0,2
+Clojure,lvh,2016-05-22,25,1,"#{""_@lvh.io""}",284.0,2
+Clojure,lvh,2016-05-23,13,1,"#{""_@lvh.io""}",297.0,2
+Clojure,lvh,2016-06-04,3,1,"#{""_@lvh.io""}",300.0,2
+Clojure,lvh,2016-06-12,2,1,"#{""_@lvh.io""}",302.0,2
+Clojure,lvh,2016-06-18,1,1,"#{""_@lvh.io""}",303.0,2
+Clojure,lvh,2016-06-19,2,1,"#{""_@lvh.io""}",305.0,2
+Clojure,lvh,2016-06-22,3,1,"#{""_@lvh.io""}",308.0,2
+Clojure,lvh,2016-06-23,4,1,"#{""_@lvh.io""}",312.0,2
+Clojure,lvh,2016-06-24,17,1,"#{""_@lvh.io""}",329.0,2
+Clojure,lvh,2016-06-25,2,1,"#{""_@lvh.io""}",331.0,2
+Clojure,lvh,2016-06-26,3,1,"#{""_@lvh.io""}",334.0,2
+Clojure,lvh,2016-06-27,1,1,"#{""_@lvh.io""}",335.0,2
+Clojure,lvh,2016-06-28,6,1,"#{""_@lvh.io""}",341.0,2
+Clojure,lvh,2016-06-30,11,1,"#{""_@lvh.io""}",352.0,2
+Clojure,lvh,2016-07-01,6,1,"#{""_@lvh.io""}",358.0,2
+Clojure,lvh,2016-07-02,17,1,"#{""_@lvh.io""}",375.0,2
+Clojure,lvh,2016-07-03,4,1,"#{""_@lvh.io""}",379.0,2
+Clojure,lvh,2016-07-06,4,1,"#{""_@lvh.io""}",383.0,2
+Clojure,lvh,2016-08-07,3,1,"#{""_@lvh.io""}",386.0,2
+Clojure,lvh,2016-08-08,5,1,"#{""_@lvh.io""}",391.0,2
+Clojure,lvh,2016-08-09,8,1,"#{""_@lvh.io""}",399.0,2
+Clojure,lvh,2016-08-10,18,1,"#{""_@lvh.io""}",417.0,2
+Clojure,lvh,2016-08-11,3,1,"#{""_@lvh.io""}",420.0,2
+Clojure,lvh,2016-08-12,22,1,"#{""_@lvh.io""}",442.0,2
+Clojure,lvh,2016-08-13,20,1,"#{""_@lvh.io""}",462.0,2
+Clojure,lvh,2016-08-14,13,1,"#{""_@lvh.io""}",475.0,2
+Clojure,lvh,2016-09-16,17,1,"#{""_@lvh.io""}",492.0,2
+Clojure,lvh,2016-09-20,7,1,"#{""_@lvh.io""}",499.0,2
+Clojure,lvh,2016-10-04,10,1,"#{""_@lvh.io""}",509.0,2
+Clojure,lvh,2016-10-05,4,1,"#{""_@lvh.io""}",513.0,2
+Clojure,lvh,2016-10-23,9,2,"#{""_@lvh.io"" ""mahmood@circleci.com""}",522.0,3
+Clojure,lvh,2016-11-04,10,1,"#{""_@lvh.io""}",532.0,3
+Clojure,lvh,2016-11-05,4,1,"#{""_@lvh.io""}",536.0,3
+Clojure,lvh,2016-11-08,1,1,"#{""_@lvh.io""}",537.0,3
+Clojure,lvh,2017-03-17,2,2,"#{""sirsean@gmail.com"" ""_@lvh.io""}",539.0,4
+Clojure,lvh,2017-08-22,1,1,"#{""root@localhost.localdomain""}",540.0,5
+Clojure,lvh,2017-08-29,4,1,"#{""_@lvh.io""}",544.0,5
+Clojure,lvh,2017-10-14,1,1,"#{""ajay.pisupati@gmail.com""}",545.0,6
+Clojure,lvh,2017-10-18,1,1,"#{""_@lvh.io""}",546.0,6
+Clojure,lvh,2017-10-25,3,1,"#{""_@lvh.io""}",549.0,6
+Clojure,lvh,2017-11-11,2,1,"#{""ajay@nameless""}",551.0,7
+Clojure,lvh,2017-11-12,2,1,"#{""_@lvh.io""}",553.0,7
+Clojure,lvh,2017-11-18,2,1,"#{""ajay@nameless""}",555.0,7
+Clojure,lvh,2017-11-19,1,1,"#{""_@lvh.io""}",556.0,7
+Clojure,lvh,2017-12-27,2,2,"#{""a.richiardi.work@gmail.com"" ""_@lvh.io""}",558.0,8
+Clojure,lvh,2018-01-07,1,1,"#{""_@lvh.io""}",559.0,8
+Clojure,lvh,2018-01-08,1,1,"#{""desk@danielcompton.net""}",560.0,9
+Clojure,lvh,2018-05-24,1,1,"#{""arteebrahimi@gmail.com""}",561.0,10
+Clojure,lvh,2018-05-25,1,1,"#{""arteebrahimi@gmail.com""}",562.0,10
+Clojure,lvh,2018-05-29,1,1,"#{""soosool12@gmail.com""}",563.0,11
+Clojure,lvh,2018-05-30,3,2,"#{""_@lvh.io"" ""lvh@latacora.com""}",566.0,12
+Clojure,lvh,2018-06-14,2,1,"#{""arteebrahimi@gmail.com""}",568.0,12
+Clojure,lvh,2018-06-15,1,1,"#{""_@lvh.io""}",569.0,12
+Clojure,lvh,2018-09-28,4,1,"#{""arteebrahimi@gmail.com""}",573.0,12
+Clojure,lvh,2018-09-29,4,2,"#{""arteebrahimi@gmail.com"" ""_@lvh.io""}",577.0,12
+Clojure,lvh,2018-10-17,4,2,"#{""_@lvh.io"" ""alessandro.andrioni@nubank.com.br""}",581.0,13
+Clojure,lvh,2018-10-18,4,1,"#{""alessandro.andrioni@nubank.com.br""}",585.0,13
+Clojure,lvh,2018-10-19,1,1,"#{""_@lvh.io""}",586.0,13
+Clojure,lvh,2018-12-31,1,1,"#{""igor@work.co""}",587.0,14
+Clojure,lvh,2019-01-06,4,2,"#{""_@lvh.io"" ""lvh@latacora.com""}",591.0,14
+Clojure,lvh,2019-01-10,7,3,"#{""jerry.peng@smxemail.com"" ""_@lvh.io"" ""lvh@latacora.com""}",598.0,15
+Clojure,lvh,2019-01-11,1,1,"#{""jerry.peng@smxemail.com""}",599.0,15
+Clojure,lvh,2019-02-04,1,1,"#{""_@lvh.io""}",600.0,15
+Clojure,lvh,2019-02-12,2,2,"#{""dsp@technoanimal.net"" ""_@lvh.io""}",602.0,16
+Clojure,lvh,2019-07-14,4,2,"#{""anthony.galea@gmail.com"" ""_@lvh.io""}",606.0,17
+Clojure,lvh,2019-08-16,1,1,"#{""_@lvh.io""}",607.0,17
+Clojure,lvh,2019-09-04,2,2,"#{""_@lvh.io"" ""id@tomlisankie.com""}",609.0,18
+Clojure,lvh,2019-10-24,6,2,"#{""dsp@technoanimal.net"" ""_@lvh.io""}",615.0,18
+Clojure,lvh,2019-11-03,1,1,"#{""dsp@technoanimal.net""}",616.0,18
+Clojure,lvh,2019-11-05,3,1,"#{""dsp@technoanimal.net""}",619.0,18
+Clojure,lvh,2019-11-13,2,1,"#{""dsp@technoanimal.net""}",621.0,18
+Clojure,lvh,2019-11-18,1,1,"#{""_@lvh.io""}",622.0,18
+Clojure,lvh,2020-02-20,5,1,"#{""_@lvh.io""}",627.0,18
+Clojure,lvh,2020-08-19,2,2,"#{""miikka.koskinen@iki.fi"" ""lvh@latacora.com""}",629.0,19
+Clojure,lvh,2020-08-31,1,1,"#{""andrey@subbotin.me""}",630.0,20
+Clojure,lvh,2020-09-03,1,1,"#{""andrey@subbotin.me""}",631.0,20
+Clojure,lvh,2020-09-05,2,1,"#{""_@lvh.io""}",633.0,20
+Clojure,lvh,2020-09-08,9,3,"#{""andrey@subbotin.me"" ""_@lvh.io"" ""lvh@latacora.com""}",642.0,20
+Clojure,lvh,2020-09-09,1,1,"#{""andrey@subbotin.me""}",643.0,20
+Clojure,lvh,2020-09-10,6,1,"#{""andrey@subbotin.me""}",649.0,20
+Clojure,lvh,2020-09-11,4,1,"#{""andrey@subbotin.me""}",653.0,20
+Clojure,lvh,2020-09-12,2,1,"#{""andrey@subbotin.me""}",655.0,20
+Clojure,lvh,2020-09-19,1,1,"#{""_@lvh.io""}",656.0,20
+Clojure,lvh,2020-09-21,1,1,"#{""andrey@subbotin.me""}",657.0,20
+Clojure,lvh,2020-09-22,3,2,"#{""andrey@subbotin.me"" ""_@lvh.io""}",660.0,20
+Clojure,lvh,2020-09-23,2,1,"#{""andrey@subbotin.me""}",662.0,20
+Clojure,lvh,2020-09-29,4,1,"#{""_@lvh.io""}",666.0,20
+Clojure,lvh,2021-01-05,2,2,"#{""dsp@technoanimal.net"" ""lvh@latacora.com""}",668.0,20
+Clojure,lvh,2021-04-14,2,2,"#{""allen@griffin.sh"" ""_@lvh.io""}",670.0,21
+Clojure,lvh,2021-04-18,7,1,"#{""_@lvh.io""}",677.0,21
+Clojure,lvh,2021-09-24,2,2,"#{""piotr-yuxuan@users.noreply.github.com"" ""_@lvh.io""}",679.0,22
+Clojure,lvh,2022-07-17,3,1,"#{""_@lvh.io""}",682.0,22
+Clojure,lvh,2022-07-27,1,1,"#{""allen@griffin.sh""}",683.0,22
+Clojure,lvh,2022-09-17,1,1,"#{""_@lvh.io""}",684.0,22
+Clojure,lvh,2022-09-18,5,1,"#{""_@lvh.io""}",689.0,22
+Clojure,lvh,2023-09-15,2,2,"#{""joelkuiper@users.noreply.github.com"" ""_@lvh.io""}",691.0,23

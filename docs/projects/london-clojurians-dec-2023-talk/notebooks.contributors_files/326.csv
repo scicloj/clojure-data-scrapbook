@@ -1,0 +1,153 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,exoscale,2013-09-10,1,1,"#{""pyr@spootnik.org""}",1.0,1
+Clojure,exoscale,2013-09-11,2,1,"#{""pyr@spootnik.org""}",3.0,1
+Clojure,exoscale,2013-09-16,2,1,"#{""pyr@spootnik.org""}",5.0,1
+Clojure,exoscale,2013-09-17,2,1,"#{""pyr@spootnik.org""}",7.0,1
+Clojure,exoscale,2013-09-24,6,1,"#{""pyr@spootnik.org""}",13.0,1
+Clojure,exoscale,2013-09-25,6,1,"#{""pyr@spootnik.org""}",19.0,1
+Clojure,exoscale,2013-09-27,2,1,"#{""pyr@spootnik.org""}",21.0,1
+Clojure,exoscale,2013-09-28,8,1,"#{""pyr@spootnik.org""}",29.0,1
+Clojure,exoscale,2013-09-30,16,1,"#{""pyr@spootnik.org""}",45.0,1
+Clojure,exoscale,2013-10-01,6,1,"#{""pyr@spootnik.org""}",51.0,1
+Clojure,exoscale,2013-10-02,38,1,"#{""pyr@spootnik.org""}",89.0,1
+Clojure,exoscale,2013-10-03,6,1,"#{""pyr@spootnik.org""}",95.0,1
+Clojure,exoscale,2013-10-04,13,1,"#{""pyr@spootnik.org""}",108.0,1
+Clojure,exoscale,2013-10-16,6,1,"#{""pyr@spootnik.org""}",114.0,1
+Clojure,exoscale,2013-10-17,3,1,"#{""pyr@spootnik.org""}",117.0,1
+Clojure,exoscale,2014-02-13,2,1,"#{""acr@veltigroup.com""}",119.0,2
+Clojure,exoscale,2014-03-17,2,1,"#{""pyr@spootnik.org""}",121.0,2
+Clojure,exoscale,2014-03-19,3,1,"#{""pyr@spootnik.org""}",124.0,2
+Clojure,exoscale,2014-03-20,10,1,"#{""pyr@spootnik.org""}",134.0,2
+Clojure,exoscale,2014-03-24,2,1,"#{""pyr@spootnik.org""}",136.0,2
+Clojure,exoscale,2014-03-25,3,1,"#{""pyr@spootnik.org""}",139.0,2
+Clojure,exoscale,2014-03-26,9,4,"#{""zyegfryed@gmail.com"" ""acr@veltigroup.com"" ""pascal@borreli.com"" ""pyr@spootnik.org""}",148.0,4
+Clojure,exoscale,2014-03-27,16,1,"#{""pyr@spootnik.org""}",164.0,4
+Clojure,exoscale,2014-03-28,2,1,"#{""pyr@spootnik.org""}",166.0,4
+Clojure,exoscale,2014-04-03,1,1,"#{""pyr@spootnik.org""}",167.0,4
+Clojure,exoscale,2014-04-09,1,1,"#{""acr@veltigroup.com""}",168.0,4
+Clojure,exoscale,2014-04-23,1,1,"#{""pyr@spootnik.org""}",169.0,4
+Clojure,exoscale,2014-04-25,1,1,"#{""pyr@spootnik.org""}",170.0,4
+Clojure,exoscale,2014-04-29,4,2,"#{""m@qbits.cc"" ""pyr@spootnik.org""}",174.0,5
+Clojure,exoscale,2014-04-30,1,1,"#{""pyr@spootnik.org""}",175.0,5
+Clojure,exoscale,2014-05-02,3,1,"#{""pyr@spootnik.org""}",178.0,5
+Clojure,exoscale,2014-05-07,1,1,"#{""lll@exoscale.ch""}",179.0,6
+Clojure,exoscale,2014-05-12,3,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",182.0,7
+Clojure,exoscale,2014-05-13,5,1,"#{""pyr@spootnik.org""}",187.0,7
+Clojure,exoscale,2014-05-14,5,1,"#{""pyr@spootnik.org""}",192.0,7
+Clojure,exoscale,2014-07-10,2,1,"#{""vadim.platonov@tuloscapital.com""}",194.0,8
+Clojure,exoscale,2014-07-11,2,1,"#{""pyr@spootnik.org""}",196.0,8
+Clojure,exoscale,2014-09-10,1,1,"#{""vincent@bernat.im""}",197.0,9
+Clojure,exoscale,2014-09-11,1,1,"#{""vincent@bernat.im""}",198.0,9
+Clojure,exoscale,2014-09-16,1,1,"#{""pyr@spootnik.org""}",199.0,9
+Clojure,exoscale,2014-09-17,1,1,"#{""pyr@spootnik.org""}",200.0,9
+Clojure,exoscale,2014-09-23,3,1,"#{""pyr@spootnik.org""}",203.0,9
+Clojure,exoscale,2014-09-24,2,2,"#{""andy@hammerhartes.de"" ""mail@speedswiss.ch""}",205.0,11
+Clojure,exoscale,2014-09-26,6,1,"#{""pyr@spootnik.org""}",211.0,11
+Clojure,exoscale,2014-09-29,8,1,"#{""pyr@spootnik.org""}",219.0,11
+Clojure,exoscale,2014-09-30,19,1,"#{""pyr@spootnik.org""}",238.0,11
+Clojure,exoscale,2014-10-01,18,1,"#{""pyr@spootnik.org""}",256.0,11
+Clojure,exoscale,2014-10-02,21,1,"#{""pyr@spootnik.org""}",277.0,11
+Clojure,exoscale,2014-10-03,9,1,"#{""pyr@spootnik.org""}",286.0,11
+Clojure,exoscale,2014-10-15,2,1,"#{""pyr@spootnik.org""}",288.0,11
+Clojure,exoscale,2014-10-16,2,1,"#{""pyr@spootnik.org""}",290.0,11
+Clojure,exoscale,2014-10-17,1,1,"#{""pyr@spootnik.org""}",291.0,11
+Clojure,exoscale,2014-10-20,4,1,"#{""pyr@spootnik.org""}",295.0,11
+Clojure,exoscale,2014-10-21,10,1,"#{""pyr@spootnik.org""}",305.0,11
+Clojure,exoscale,2014-10-22,13,3,"#{""vincent@bernat.im"" ""Vincent.Bernat@exoscale.ch"" ""pyr@spootnik.org""}",318.0,12
+Clojure,exoscale,2014-10-23,9,2,"#{""Vincent.Bernat@exoscale.ch"" ""pyr@spootnik.org""}",327.0,12
+Clojure,exoscale,2014-10-24,5,1,"#{""pyr@spootnik.org""}",332.0,12
+Clojure,exoscale,2014-10-27,17,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",349.0,12
+Clojure,exoscale,2014-10-28,6,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",355.0,12
+Clojure,exoscale,2014-10-29,14,1,"#{""pyr@spootnik.org""}",369.0,12
+Clojure,exoscale,2014-10-30,19,1,"#{""pyr@spootnik.org""}",388.0,12
+Clojure,exoscale,2014-10-31,3,1,"#{""pyr@spootnik.org""}",391.0,12
+Clojure,exoscale,2014-11-01,1,1,"#{""pyr@spootnik.org""}",392.0,12
+Clojure,exoscale,2014-11-02,1,1,"#{""pyr@spootnik.org""}",393.0,12
+Clojure,exoscale,2014-11-03,18,1,"#{""pyr@spootnik.org""}",411.0,12
+Clojure,exoscale,2014-11-04,17,1,"#{""pyr@spootnik.org""}",428.0,12
+Clojure,exoscale,2014-11-05,5,1,"#{""pyr@spootnik.org""}",433.0,12
+Clojure,exoscale,2014-11-07,1,1,"#{""pyr@spootnik.org""}",434.0,12
+Clojure,exoscale,2014-11-11,3,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",437.0,12
+Clojure,exoscale,2014-11-20,10,2,"#{""Vincent.Bernat@exoscale.ch"" ""pyr@spootnik.org""}",447.0,12
+Clojure,exoscale,2014-11-24,3,1,"#{""pyr@spootnik.org""}",450.0,12
+Clojure,exoscale,2014-11-25,29,1,"#{""pyr@spootnik.org""}",479.0,12
+Clojure,exoscale,2014-11-26,2,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",481.0,12
+Clojure,exoscale,2014-12-16,1,1,"#{""brutasse@gmail.com""}",482.0,12
+Clojure,exoscale,2014-12-18,2,1,"#{""pyr@spootnik.org""}",484.0,12
+Clojure,exoscale,2014-12-22,5,1,"#{""Vincent.Bernat@exoscale.ch""}",489.0,12
+Clojure,exoscale,2015-01-05,9,1,"#{""pyr@spootnik.org""}",498.0,12
+Clojure,exoscale,2015-01-08,1,1,"#{""numbat@gmail.com""}",499.0,13
+Clojure,exoscale,2015-01-09,2,1,"#{""numbat@gmail.com""}",501.0,13
+Clojure,exoscale,2015-01-12,5,1,"#{""pyr@spootnik.org""}",506.0,13
+Clojure,exoscale,2015-01-13,1,1,"#{""brutasse@gmail.com""}",507.0,13
+Clojure,exoscale,2015-02-17,2,1,"#{""numbat@gmail.com""}",509.0,13
+Clojure,exoscale,2015-02-23,10,1,"#{""pyr@spootnik.org""}",519.0,13
+Clojure,exoscale,2015-02-24,16,1,"#{""pyr@spootnik.org""}",535.0,13
+Clojure,exoscale,2015-02-25,4,1,"#{""pyr@spootnik.org""}",539.0,13
+Clojure,exoscale,2015-02-27,1,1,"#{""pyr@spootnik.org""}",540.0,13
+Clojure,exoscale,2015-03-13,2,1,"#{""christian.schroeder@conceptboard.com""}",542.0,14
+Clojure,exoscale,2015-03-19,10,1,"#{""pyr@spootnik.org""}",552.0,14
+Clojure,exoscale,2015-03-20,1,1,"#{""pyr@spootnik.org""}",553.0,14
+Clojure,exoscale,2015-03-26,1,1,"#{""numbat@gmail.com""}",554.0,14
+Clojure,exoscale,2015-05-11,2,2,"#{""Vincent.Bernat@exoscale.ch"" ""pyr@spootnik.org""}",556.0,14
+Clojure,exoscale,2015-05-15,8,1,"#{""pyr@spootnik.org""}",564.0,14
+Clojure,exoscale,2015-05-18,1,1,"#{""numbat@gmail.com""}",565.0,14
+Clojure,exoscale,2015-07-16,2,2,"#{""emil@apcera.com"" ""mail@speedswiss.ch""}",567.0,15
+Clojure,exoscale,2015-07-27,3,1,"#{""pyr@spootnik.org""}",570.0,15
+Clojure,exoscale,2015-07-28,11,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",581.0,15
+Clojure,exoscale,2015-07-29,8,1,"#{""pyr@spootnik.org""}",589.0,15
+Clojure,exoscale,2015-07-30,6,1,"#{""pyr@spootnik.org""}",595.0,15
+Clojure,exoscale,2015-08-03,3,2,"#{""ste-m@users.noreply.github.com"" ""pyr@spootnik.org""}",598.0,16
+Clojure,exoscale,2015-08-10,2,2,"#{""andy@hammerhartes.de"" ""mail@speedswiss.ch""}",600.0,16
+Clojure,exoscale,2015-08-26,9,1,"#{""pyr@spootnik.org""}",609.0,16
+Clojure,exoscale,2015-09-07,3,1,"#{""pyr@spootnik.org""}",612.0,16
+Clojure,exoscale,2015-10-22,1,1,"#{""brutasse@gmail.com""}",613.0,16
+Clojure,exoscale,2015-10-26,2,1,"#{""pyr@spootnik.org""}",615.0,16
+Clojure,exoscale,2015-11-12,5,1,"#{""brutasse@gmail.com""}",620.0,16
+Clojure,exoscale,2015-12-14,1,1,"#{""pyr@spootnik.org""}",621.0,16
+Clojure,exoscale,2016-02-01,1,1,"#{""pyr@spootnik.org""}",622.0,16
+Clojure,exoscale,2016-03-10,1,1,"#{""pyr@spootnik.org""}",623.0,16
+Clojure,exoscale,2016-03-11,1,1,"#{""pyr@spootnik.org""}",624.0,16
+Clojure,exoscale,2016-03-14,1,1,"#{""pyr@spootnik.org""}",625.0,16
+Clojure,exoscale,2016-03-23,1,1,"#{""schu@exoscale.ch""}",626.0,17
+Clojure,exoscale,2016-03-24,3,3,"#{""schu@users.noreply.github.com"" ""pyr@spootnik.org"" ""schu@exoscale.ch""}",629.0,18
+Clojure,exoscale,2016-04-13,1,1,"#{""pyr@spootnik.org""}",630.0,18
+Clojure,exoscale,2016-04-17,1,1,"#{""pyr@spootnik.org""}",631.0,18
+Clojure,exoscale,2016-04-26,1,1,"#{""pyr@spootnik.org""}",632.0,18
+Clojure,exoscale,2016-05-02,2,2,"#{""pyr@spootnik.org"" ""schu@exoscale.ch""}",634.0,18
+Clojure,exoscale,2016-05-11,2,1,"#{""pyr@spootnik.org""}",636.0,18
+Clojure,exoscale,2016-05-25,7,1,"#{""pyr@spootnik.org""}",643.0,18
+Clojure,exoscale,2016-05-26,7,2,"#{""j.kasiak@gmail.com"" ""pyr@spootnik.org""}",650.0,19
+Clojure,exoscale,2016-05-27,3,2,"#{""pyr@spootnik.org"" ""schu@exoscale.ch""}",653.0,19
+Clojure,exoscale,2016-05-31,1,1,"#{""pyr@spootnik.org""}",654.0,19
+Clojure,exoscale,2016-06-02,2,1,"#{""pyr@spootnik.org""}",656.0,19
+Clojure,exoscale,2016-06-06,9,3,"#{""TooAngel@TooAngel.de"" ""stefan.friesel@gmail.com"" ""pyr@spootnik.org""}",665.0,21
+Clojure,exoscale,2016-06-07,4,1,"#{""pyr@spootnik.org""}",669.0,21
+Clojure,exoscale,2016-06-08,5,3,"#{""TooAngel@TooAngel.de"" ""schu@users.noreply.github.com"" ""pyr@spootnik.org""}",674.0,21
+Clojure,exoscale,2016-06-09,7,3,"#{""schu@users.noreply.github.com"" ""stefan.friesel@gmail.com"" ""pyr@spootnik.org""}",681.0,21
+Clojure,exoscale,2016-06-16,1,1,"#{""pyr@spootnik.org""}",682.0,21
+Clojure,exoscale,2016-06-17,1,1,"#{""pst@cloudcontrol.de""}",683.0,22
+Clojure,exoscale,2016-07-05,3,1,"#{""llambiel@own3d.ch""}",686.0,23
+Clojure,exoscale,2016-07-21,1,1,"#{""brutasse@gmail.com""}",687.0,23
+Clojure,exoscale,2016-08-18,2,1,"#{""pyr@spootnik.org""}",689.0,23
+Clojure,exoscale,2016-10-21,2,2,"#{""brutasse@users.noreply.github.com"" ""brutasse@gmail.com""}",691.0,24
+Clojure,exoscale,2016-10-24,8,4,"#{""mwilliams256@gmail.com"" ""pawel.veselov@gmail.com"" ""brutasse@users.noreply.github.com"" ""pyr@spootnik.org""}",699.0,26
+Clojure,exoscale,2016-11-02,3,2,"#{""brutasse@users.noreply.github.com"" ""pyr@spootnik.org""}",702.0,26
+Clojure,exoscale,2016-11-10,1,1,"#{""pyr@spootnik.org""}",703.0,26
+Clojure,exoscale,2016-11-15,1,1,"#{""pyr@spootnik.org""}",704.0,26
+Clojure,exoscale,2016-11-17,1,1,"#{""brutasse@users.noreply.github.com""}",705.0,26
+Clojure,exoscale,2016-11-22,1,1,"#{""brutasse@users.noreply.github.com""}",706.0,26
+Clojure,exoscale,2016-11-24,2,1,"#{""pyr@spootnik.org""}",708.0,26
+Clojure,exoscale,2016-12-02,2,1,"#{""pyr@spootnik.org""}",710.0,26
+Clojure,exoscale,2016-12-27,1,1,"#{""pyr@spootnik.org""}",711.0,26
+Clojure,exoscale,2017-01-04,1,1,"#{""m@brothier.org""}",712.0,27
+Clojure,exoscale,2017-01-10,1,1,"#{""pyr@spootnik.org""}",713.0,27
+Clojure,exoscale,2017-02-08,1,1,"#{""pyr@spootnik.org""}",714.0,27
+Clojure,exoscale,2017-02-24,1,1,"#{""ck@creavo.de""}",715.0,28
+Clojure,exoscale,2017-05-24,1,1,"#{""llambiel@own3d.ch""}",716.0,28
+Clojure,exoscale,2017-08-04,1,1,"#{""pyr@spootnik.org""}",717.0,28
+Clojure,exoscale,2017-09-06,2,1,"#{""m@brothier.org""}",719.0,28
+Clojure,exoscale,2018-01-22,1,1,"#{""tribaal@gmail.com""}",720.0,29
+Clojure,exoscale,2018-03-08,3,2,"#{""sandeepsdixit@users.noreply.github.com"" ""john.carr@unrouted.co.uk""}",723.0,31
+Clojure,exoscale,2018-08-09,1,1,"#{""m@brothier.org""}",724.0,31
+Clojure,exoscale,2018-10-01,1,1,"#{""bertrand.cachet@gmail.com""}",725.0,32

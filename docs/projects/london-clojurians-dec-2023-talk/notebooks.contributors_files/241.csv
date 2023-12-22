@@ -1,0 +1,1142 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,superdesk,2013-06-26,3,1,"#{""jasekpetr@gmail.com""}",3.0,1
+Python,superdesk,2013-06-27,1,1,"#{""petr.jasek@sourcefabric.org""}",4.0,2
+Python,superdesk,2013-07-01,3,1,"#{""petr.jasek@sourcefabric.org""}",7.0,2
+Python,superdesk,2013-07-02,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",11.0,3
+Python,superdesk,2013-07-03,5,2,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org""}",16.0,4
+Python,superdesk,2013-07-04,2,1,"#{""jasekpetr@gmail.com""}",18.0,4
+Python,superdesk,2013-08-01,2,1,"#{""petr.jasek@sourcefabric.org""}",20.0,4
+Python,superdesk,2013-08-06,1,1,"#{""petr.jasek@sourcefabric.org""}",21.0,4
+Python,superdesk,2013-08-09,3,1,"#{""petr.jasek@sourcefabric.org""}",24.0,4
+Python,superdesk,2013-08-13,4,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",28.0,4
+Python,superdesk,2013-08-14,2,1,"#{""petr.jasek@sourcefabric.org""}",30.0,4
+Python,superdesk,2013-08-15,2,1,"#{""petr.jasek@sourcefabric.org""}",32.0,4
+Python,superdesk,2013-08-16,3,1,"#{""petr.jasek@sourcefabric.org""}",35.0,4
+Python,superdesk,2013-08-19,4,1,"#{""jasekpetr@gmail.com""}",39.0,4
+Python,superdesk,2013-08-21,3,1,"#{""petr.jasek@sourcefabric.org""}",42.0,4
+Python,superdesk,2013-08-23,9,1,"#{""petr.jasek@sourcefabric.org""}",51.0,4
+Python,superdesk,2013-08-28,5,1,"#{""petr.jasek@sourcefabric.org""}",56.0,4
+Python,superdesk,2013-09-02,1,1,"#{""petr.jasek@sourcefabric.org""}",57.0,4
+Python,superdesk,2013-09-03,4,1,"#{""petr.jasek@sourcefabric.org""}",61.0,4
+Python,superdesk,2013-09-04,1,1,"#{""petr.jasek@sourcefabric.org""}",62.0,4
+Python,superdesk,2013-09-05,4,1,"#{""petr.jasek@sourcefabric.org""}",66.0,4
+Python,superdesk,2013-09-06,10,1,"#{""petr.jasek@sourcefabric.org""}",76.0,4
+Python,superdesk,2013-09-09,8,1,"#{""petr.jasek@sourcefabric.org""}",84.0,4
+Python,superdesk,2013-09-10,2,1,"#{""petr.jasek@sourcefabric.org""}",86.0,4
+Python,superdesk,2013-09-11,7,1,"#{""petr.jasek@sourcefabric.org""}",93.0,4
+Python,superdesk,2013-09-12,2,1,"#{""petr.jasek@sourcefabric.org""}",95.0,4
+Python,superdesk,2013-09-13,2,1,"#{""petr.jasek@sourcefabric.org""}",97.0,4
+Python,superdesk,2013-09-17,1,1,"#{""petr.jasek@sourcefabric.org""}",98.0,4
+Python,superdesk,2013-09-20,1,1,"#{""petr.jasek@sourcefabric.org""}",99.0,4
+Python,superdesk,2013-09-22,4,1,"#{""jasekpetr@gmail.com""}",103.0,4
+Python,superdesk,2013-09-23,5,1,"#{""petr.jasek@sourcefabric.org""}",108.0,4
+Python,superdesk,2013-09-24,6,1,"#{""petr.jasek@sourcefabric.org""}",114.0,4
+Python,superdesk,2013-09-25,6,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",120.0,4
+Python,superdesk,2013-09-26,29,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",149.0,5
+Python,superdesk,2013-09-27,7,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",156.0,5
+Python,superdesk,2013-09-30,1,1,"#{""ozan.ozbek@sourcefabric.org""}",157.0,5
+Python,superdesk,2013-10-01,11,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",168.0,5
+Python,superdesk,2013-10-02,6,1,"#{""petr.jasek@sourcefabric.org""}",174.0,5
+Python,superdesk,2013-10-03,13,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",187.0,5
+Python,superdesk,2013-10-04,5,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",192.0,5
+Python,superdesk,2013-10-07,15,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",207.0,5
+Python,superdesk,2013-10-08,7,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",214.0,5
+Python,superdesk,2013-10-09,12,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",226.0,5
+Python,superdesk,2013-10-10,21,4,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",247.0,5
+Python,superdesk,2013-10-11,9,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",256.0,5
+Python,superdesk,2013-10-12,1,1,"#{""jasekpetr@gmail.com""}",257.0,5
+Python,superdesk,2013-10-13,2,1,"#{""erdemozanozbek@gmail.com""}",259.0,5
+Python,superdesk,2013-10-14,16,4,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",275.0,5
+Python,superdesk,2013-10-15,14,4,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",289.0,5
+Python,superdesk,2013-10-16,20,3,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",309.0,5
+Python,superdesk,2013-10-17,5,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",314.0,5
+Python,superdesk,2013-10-18,10,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",324.0,5
+Python,superdesk,2013-10-19,1,1,"#{""erdemozanozbek@gmail.com""}",325.0,5
+Python,superdesk,2013-10-21,9,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",334.0,5
+Python,superdesk,2013-10-22,4,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",338.0,5
+Python,superdesk,2013-10-23,7,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",345.0,5
+Python,superdesk,2013-10-24,5,1,"#{""petr.jasek@sourcefabric.org""}",350.0,5
+Python,superdesk,2013-10-25,5,3,"#{""holman.romero@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",355.0,6
+Python,superdesk,2013-10-28,6,1,"#{""nikolic_nikola@live.com""}",361.0,6
+Python,superdesk,2013-10-29,11,4,"#{""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",372.0,6
+Python,superdesk,2013-10-30,12,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",384.0,6
+Python,superdesk,2013-10-31,10,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",394.0,6
+Python,superdesk,2013-11-01,8,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",402.0,6
+Python,superdesk,2013-11-02,4,1,"#{""jasekpetr@gmail.com""}",406.0,6
+Python,superdesk,2013-11-04,11,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",417.0,6
+Python,superdesk,2013-11-05,6,3,"#{""holman.romero@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",423.0,6
+Python,superdesk,2013-11-06,3,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",426.0,6
+Python,superdesk,2013-11-07,7,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",433.0,6
+Python,superdesk,2013-11-08,10,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",443.0,6
+Python,superdesk,2013-11-11,9,3,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",452.0,6
+Python,superdesk,2013-11-12,6,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",458.0,6
+Python,superdesk,2013-11-13,17,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",475.0,6
+Python,superdesk,2013-11-14,14,4,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",489.0,6
+Python,superdesk,2013-11-15,12,2,"#{""jasekpetr@gmail.com"" ""nikolic_nikola@live.com""}",501.0,6
+Python,superdesk,2013-11-18,15,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",516.0,6
+Python,superdesk,2013-11-19,4,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",520.0,6
+Python,superdesk,2013-11-20,7,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",527.0,6
+Python,superdesk,2013-11-21,8,3,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",535.0,6
+Python,superdesk,2013-11-22,2,2,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org""}",537.0,6
+Python,superdesk,2013-11-23,1,1,"#{""erdemozanozbek@gmail.com""}",538.0,6
+Python,superdesk,2013-11-25,24,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",562.0,6
+Python,superdesk,2013-11-26,6,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",568.0,6
+Python,superdesk,2013-11-27,11,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",579.0,6
+Python,superdesk,2013-11-28,5,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",584.0,6
+Python,superdesk,2013-11-29,8,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",592.0,6
+Python,superdesk,2013-12-02,7,3,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",599.0,6
+Python,superdesk,2013-12-03,14,4,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",613.0,6
+Python,superdesk,2013-12-04,9,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",622.0,6
+Python,superdesk,2013-12-05,3,1,"#{""nikolic_nikola@live.com""}",625.0,6
+Python,superdesk,2013-12-06,10,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",635.0,6
+Python,superdesk,2013-12-09,1,1,"#{""nikolic_nikola@live.com""}",636.0,6
+Python,superdesk,2013-12-11,10,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",646.0,6
+Python,superdesk,2013-12-12,1,1,"#{""nikolic_nikola@live.com""}",647.0,6
+Python,superdesk,2013-12-13,1,1,"#{""ozan.ozbek@sourcefabric.org""}",648.0,6
+Python,superdesk,2013-12-16,4,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",652.0,6
+Python,superdesk,2013-12-18,8,3,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",660.0,6
+Python,superdesk,2013-12-20,1,1,"#{""petr.jasek@sourcefabric.org""}",661.0,6
+Python,superdesk,2013-12-22,4,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",665.0,6
+Python,superdesk,2013-12-23,2,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",667.0,6
+Python,superdesk,2013-12-26,4,1,"#{""nikolic_nikola@live.com""}",671.0,6
+Python,superdesk,2013-12-27,1,1,"#{""nikolic_nikola@live.com""}",672.0,6
+Python,superdesk,2013-12-30,3,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",675.0,6
+Python,superdesk,2014-01-02,5,1,"#{""petr.jasek@sourcefabric.org""}",680.0,6
+Python,superdesk,2014-01-06,6,1,"#{""petr.jasek@sourcefabric.org""}",686.0,6
+Python,superdesk,2014-01-07,3,1,"#{""petr.jasek@sourcefabric.org""}",689.0,6
+Python,superdesk,2014-01-08,4,1,"#{""petr.jasek@sourcefabric.org""}",693.0,6
+Python,superdesk,2014-01-09,2,1,"#{""petr.jasek@sourcefabric.org""}",695.0,6
+Python,superdesk,2014-01-14,3,1,"#{""petr.jasek@sourcefabric.org""}",698.0,6
+Python,superdesk,2014-01-16,6,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",704.0,6
+Python,superdesk,2014-01-17,5,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",709.0,6
+Python,superdesk,2014-01-19,1,1,"#{""nikolic_nikola@live.com""}",710.0,6
+Python,superdesk,2014-01-20,4,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",714.0,6
+Python,superdesk,2014-01-21,5,1,"#{""petr.jasek@sourcefabric.org""}",719.0,6
+Python,superdesk,2014-01-22,7,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",726.0,6
+Python,superdesk,2014-01-23,3,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",729.0,6
+Python,superdesk,2014-01-24,12,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",741.0,6
+Python,superdesk,2014-01-27,10,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",751.0,6
+Python,superdesk,2014-01-28,10,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",761.0,6
+Python,superdesk,2014-01-29,5,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",766.0,6
+Python,superdesk,2014-01-30,12,4,"#{""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",778.0,6
+Python,superdesk,2014-01-31,8,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",786.0,6
+Python,superdesk,2014-02-02,1,1,"#{""erdemozanozbek@gmail.com""}",787.0,6
+Python,superdesk,2014-02-03,14,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",801.0,6
+Python,superdesk,2014-02-04,8,4,"#{""sava.tatic@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",809.0,7
+Python,superdesk,2014-02-05,3,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",812.0,7
+Python,superdesk,2014-02-07,1,1,"#{""nikolic_nikola@live.com""}",813.0,7
+Python,superdesk,2014-02-10,2,1,"#{""petr.jasek@sourcefabric.org""}",815.0,7
+Python,superdesk,2014-02-12,4,1,"#{""petr.jasek@sourcefabric.org""}",819.0,7
+Python,superdesk,2014-02-13,1,1,"#{""nikolic_nikola@live.com""}",820.0,7
+Python,superdesk,2014-02-17,1,1,"#{""ozan.ozbek@sourcefabric.org""}",821.0,7
+Python,superdesk,2014-02-18,1,1,"#{""petr.jasek@sourcefabric.org""}",822.0,7
+Python,superdesk,2014-02-19,2,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",824.0,7
+Python,superdesk,2014-02-21,1,1,"#{""petr.jasek@sourcefabric.org""}",825.0,7
+Python,superdesk,2014-02-24,3,1,"#{""petr.jasek@sourcefabric.org""}",828.0,7
+Python,superdesk,2014-02-25,4,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",832.0,7
+Python,superdesk,2014-02-26,6,1,"#{""petr.jasek@sourcefabric.org""}",838.0,7
+Python,superdesk,2014-02-27,1,1,"#{""petr.jasek@sourcefabric.org""}",839.0,7
+Python,superdesk,2014-02-28,4,1,"#{""petr.jasek@sourcefabric.org""}",843.0,7
+Python,superdesk,2014-03-03,3,1,"#{""petr.jasek@sourcefabric.org""}",846.0,7
+Python,superdesk,2014-03-04,2,1,"#{""petr.jasek@sourcefabric.org""}",848.0,7
+Python,superdesk,2014-03-05,3,1,"#{""petr.jasek@sourcefabric.org""}",851.0,7
+Python,superdesk,2014-03-06,2,1,"#{""petr.jasek@sourcefabric.org""}",853.0,7
+Python,superdesk,2014-03-07,2,1,"#{""petr.jasek@sourcefabric.org""}",855.0,7
+Python,superdesk,2014-03-10,4,1,"#{""petr.jasek@sourcefabric.org""}",859.0,7
+Python,superdesk,2014-03-11,3,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",862.0,7
+Python,superdesk,2014-03-12,7,2,"#{""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org""}",869.0,8
+Python,superdesk,2014-03-13,3,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",872.0,8
+Python,superdesk,2014-03-14,7,3,"#{""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",879.0,8
+Python,superdesk,2014-03-17,8,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",887.0,8
+Python,superdesk,2014-03-18,2,1,"#{""petr.jasek@sourcefabric.org""}",889.0,8
+Python,superdesk,2014-03-19,11,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",900.0,8
+Python,superdesk,2014-03-20,7,4,"#{""sava.tatic@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",907.0,8
+Python,superdesk,2014-03-21,5,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",912.0,8
+Python,superdesk,2014-03-24,7,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",919.0,8
+Python,superdesk,2014-03-25,4,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",923.0,8
+Python,superdesk,2014-03-26,5,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",928.0,8
+Python,superdesk,2014-03-27,11,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",939.0,8
+Python,superdesk,2014-03-28,3,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",942.0,8
+Python,superdesk,2014-03-31,6,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",948.0,8
+Python,superdesk,2014-04-01,3,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",951.0,8
+Python,superdesk,2014-04-02,6,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",957.0,8
+Python,superdesk,2014-04-03,2,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",959.0,8
+Python,superdesk,2014-04-04,6,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",965.0,8
+Python,superdesk,2014-04-07,4,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",969.0,8
+Python,superdesk,2014-04-08,3,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",972.0,8
+Python,superdesk,2014-04-09,5,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",977.0,8
+Python,superdesk,2014-04-10,7,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",984.0,8
+Python,superdesk,2014-04-11,5,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",989.0,8
+Python,superdesk,2014-04-14,8,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",997.0,8
+Python,superdesk,2014-04-15,6,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1003.0,8
+Python,superdesk,2014-04-16,4,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",1007.0,8
+Python,superdesk,2014-04-17,6,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1013.0,8
+Python,superdesk,2014-04-18,6,1,"#{""petr.jasek@sourcefabric.org""}",1019.0,8
+Python,superdesk,2014-04-23,5,2,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org""}",1024.0,8
+Python,superdesk,2014-04-24,7,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",1031.0,8
+Python,superdesk,2014-04-25,8,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",1039.0,8
+Python,superdesk,2014-04-28,6,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1045.0,8
+Python,superdesk,2014-04-29,4,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1049.0,8
+Python,superdesk,2014-04-30,8,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1057.0,8
+Python,superdesk,2014-05-02,2,1,"#{""petr.jasek@sourcefabric.org""}",1059.0,8
+Python,superdesk,2014-05-05,1,1,"#{""petr.jasek@sourcefabric.org""}",1060.0,8
+Python,superdesk,2014-05-06,3,1,"#{""petr.jasek@sourcefabric.org""}",1063.0,8
+Python,superdesk,2014-05-07,4,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",1067.0,8
+Python,superdesk,2014-05-08,1,1,"#{""jasekpetr@gmail.com""}",1068.0,8
+Python,superdesk,2014-05-09,2,2,"#{""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1070.0,8
+Python,superdesk,2014-05-12,7,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1077.0,9
+Python,superdesk,2014-05-13,8,4,"#{""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1085.0,10
+Python,superdesk,2014-05-14,11,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1096.0,10
+Python,superdesk,2014-05-15,9,5,"#{""sava.tatic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1105.0,10
+Python,superdesk,2014-05-16,13,4,"#{""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1118.0,10
+Python,superdesk,2014-05-19,12,3,"#{""jasekpetr@gmail.com"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1130.0,10
+Python,superdesk,2014-05-20,6,2,"#{""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1136.0,10
+Python,superdesk,2014-05-21,7,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1143.0,10
+Python,superdesk,2014-05-22,4,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1147.0,10
+Python,superdesk,2014-05-23,15,4,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com""}",1162.0,11
+Python,superdesk,2014-05-26,6,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1168.0,11
+Python,superdesk,2014-05-27,10,5,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1178.0,11
+Python,superdesk,2014-05-28,11,6,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1189.0,12
+Python,superdesk,2014-05-29,13,5,"#{""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1202.0,12
+Python,superdesk,2014-05-30,10,4,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1212.0,12
+Python,superdesk,2014-05-31,1,1,"#{""magdasadrian@gmail.com""}",1213.0,12
+Python,superdesk,2014-06-02,10,5,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1223.0,12
+Python,superdesk,2014-06-03,9,5,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com""}",1232.0,12
+Python,superdesk,2014-06-04,21,6,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1253.0,12
+Python,superdesk,2014-06-05,2,1,"#{""erdemozanozbek@gmail.com""}",1255.0,12
+Python,superdesk,2014-06-06,1,1,"#{""magdasadrian@gmail.com""}",1256.0,12
+Python,superdesk,2014-06-10,6,4,"#{""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1262.0,12
+Python,superdesk,2014-06-11,7,3,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ancafarcas06@gmail.com""}",1269.0,12
+Python,superdesk,2014-06-12,7,4,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com""}",1276.0,12
+Python,superdesk,2014-06-13,9,5,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ancafarcas06@gmail.com""}",1285.0,12
+Python,superdesk,2014-06-16,10,3,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1295.0,12
+Python,superdesk,2014-06-17,4,4,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1299.0,12
+Python,superdesk,2014-06-18,5,4,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1304.0,12
+Python,superdesk,2014-06-19,7,4,"#{""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com"" ""f.occhipinti@gmail.com""}",1311.0,14
+Python,superdesk,2014-06-20,6,3,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1317.0,14
+Python,superdesk,2014-06-23,9,4,"#{""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""f.occhipinti@gmail.com""}",1326.0,14
+Python,superdesk,2014-06-24,6,4,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1332.0,14
+Python,superdesk,2014-06-25,11,5,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1343.0,14
+Python,superdesk,2014-06-26,14,5,"#{""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1357.0,14
+Python,superdesk,2014-06-27,15,4,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1372.0,14
+Python,superdesk,2014-06-28,3,1,"#{""ioan.pocol@sourcefabric.org""}",1375.0,14
+Python,superdesk,2014-06-29,2,1,"#{""magdasadrian@gmail.com""}",1377.0,14
+Python,superdesk,2014-06-30,2,2,"#{""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1379.0,14
+Python,superdesk,2014-07-01,3,1,"#{""petr.jasek@sourcefabric.org""}",1382.0,14
+Python,superdesk,2014-07-02,10,5,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1392.0,14
+Python,superdesk,2014-07-03,18,6,"#{""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1410.0,14
+Python,superdesk,2014-07-04,14,5,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1424.0,14
+Python,superdesk,2014-07-07,4,3,"#{""gabriel.nistor@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1428.0,14
+Python,superdesk,2014-07-08,7,4,"#{""gabriel.nistor@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1435.0,14
+Python,superdesk,2014-07-09,14,6,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1449.0,14
+Python,superdesk,2014-07-10,18,8,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1467.0,14
+Python,superdesk,2014-07-11,11,5,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1478.0,14
+Python,superdesk,2014-07-14,4,2,"#{""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1482.0,14
+Python,superdesk,2014-07-15,4,2,"#{""erdemozanozbek@gmail.com"" ""magdasadrian@gmail.com""}",1486.0,14
+Python,superdesk,2014-07-16,4,3,"#{""mugur.rus@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1490.0,14
+Python,superdesk,2014-07-17,8,3,"#{""gabriel.nistor@sourcefabric.org"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1498.0,14
+Python,superdesk,2014-07-18,7,2,"#{""erdemozanozbek@gmail.com"" ""magdasadrian@gmail.com""}",1505.0,14
+Python,superdesk,2014-07-21,13,4,"#{""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1518.0,14
+Python,superdesk,2014-07-22,14,5,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1532.0,14
+Python,superdesk,2014-07-23,5,3,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.nistor@sourcefabric.org"" ""magdasadrian@gmail.com""}",1537.0,14
+Python,superdesk,2014-07-24,7,3,"#{""ioan.pocol@sourcefabric.org"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1544.0,14
+Python,superdesk,2014-07-25,7,3,"#{""gabriel.nistor@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""magdasadrian@gmail.com""}",1551.0,14
+Python,superdesk,2014-07-28,9,4,"#{""gabriel.nistor@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1560.0,14
+Python,superdesk,2014-07-29,4,2,"#{""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1564.0,14
+Python,superdesk,2014-07-30,13,5,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1577.0,14
+Python,superdesk,2014-07-31,9,4,"#{""gabriel.nistor@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1586.0,14
+Python,superdesk,2014-08-01,16,7,"#{""gabriel.nistor@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1602.0,14
+Python,superdesk,2014-08-04,3,3,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1605.0,14
+Python,superdesk,2014-08-05,10,4,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1615.0,14
+Python,superdesk,2014-08-06,13,5,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1628.0,14
+Python,superdesk,2014-08-07,10,4,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1638.0,14
+Python,superdesk,2014-08-08,11,4,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1649.0,14
+Python,superdesk,2014-08-11,1,1,"#{""nikolic_nikola@live.com""}",1650.0,14
+Python,superdesk,2014-08-12,6,3,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1656.0,14
+Python,superdesk,2014-08-13,12,4,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com""}",1668.0,14
+Python,superdesk,2014-08-14,7,2,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1675.0,14
+Python,superdesk,2014-08-15,9,3,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1684.0,14
+Python,superdesk,2014-08-18,8,3,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com""}",1692.0,14
+Python,superdesk,2014-08-19,7,4,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1699.0,14
+Python,superdesk,2014-08-20,11,3,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1710.0,14
+Python,superdesk,2014-08-21,6,4,"#{""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1716.0,14
+Python,superdesk,2014-08-22,5,3,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",1721.0,14
+Python,superdesk,2014-08-25,2,1,"#{""petr.jasek@sourcefabric.org""}",1723.0,14
+Python,superdesk,2014-08-26,14,4,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1737.0,14
+Python,superdesk,2014-08-27,10,3,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1747.0,14
+Python,superdesk,2014-08-28,14,5,"#{""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1761.0,14
+Python,superdesk,2014-08-29,8,3,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com""}",1769.0,14
+Python,superdesk,2014-09-01,7,3,"#{""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1776.0,14
+Python,superdesk,2014-09-02,10,5,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1786.0,14
+Python,superdesk,2014-09-03,5,4,"#{""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1791.0,16
+Python,superdesk,2014-09-04,11,5,"#{""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1802.0,16
+Python,superdesk,2014-09-05,9,3,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",1811.0,16
+Python,superdesk,2014-09-08,21,4,"#{""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",1832.0,17
+Python,superdesk,2014-09-09,18,5,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1850.0,17
+Python,superdesk,2014-09-10,16,7,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1866.0,17
+Python,superdesk,2014-09-11,18,7,"#{""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1884.0,17
+Python,superdesk,2014-09-12,11,4,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com""}",1895.0,17
+Python,superdesk,2014-09-13,1,1,"#{""magdasadrian@gmail.com""}",1896.0,17
+Python,superdesk,2014-09-14,3,1,"#{""magdasadrian@gmail.com""}",1899.0,17
+Python,superdesk,2014-09-15,4,4,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1903.0,17
+Python,superdesk,2014-09-16,9,7,"#{""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",1912.0,18
+Python,superdesk,2014-09-17,9,5,"#{""jasekpetr@gmail.com"" ""ozan.ozbek@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1921.0,18
+Python,superdesk,2014-09-18,11,4,"#{""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1932.0,18
+Python,superdesk,2014-09-19,12,4,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",1944.0,18
+Python,superdesk,2014-09-22,12,5,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1956.0,18
+Python,superdesk,2014-09-23,25,7,"#{""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1981.0,18
+Python,superdesk,2014-09-24,13,6,"#{""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",1994.0,18
+Python,superdesk,2014-09-25,13,6,"#{""mugur.rus@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",2007.0,18
+Python,superdesk,2014-09-26,9,4,"#{""ioan.pocol@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2016.0,18
+Python,superdesk,2014-09-29,1,1,"#{""amarwood@aap.com.au""}",2017.0,18
+Python,superdesk,2014-09-30,7,5,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au""}",2024.0,18
+Python,superdesk,2014-10-01,4,1,"#{""kunas@aap.com.au""}",2028.0,18
+Python,superdesk,2014-10-02,2,1,"#{""akint@aap.com.au""}",2030.0,18
+Python,superdesk,2014-10-03,1,1,"#{""akint@aap.com.au""}",2031.0,18
+Python,superdesk,2014-10-06,8,4,"#{""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2039.0,18
+Python,superdesk,2014-10-07,12,7,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2051.0,18
+Python,superdesk,2014-10-08,10,7,"#{""erdemozanozbek@gmail.com"" ""gabriel.nistor@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2061.0,18
+Python,superdesk,2014-10-09,15,7,"#{""gabriel.nistor@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2076.0,18
+Python,superdesk,2014-10-10,13,6,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2089.0,18
+Python,superdesk,2014-10-13,12,6,"#{""holman.romero@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2101.0,18
+Python,superdesk,2014-10-14,10,6,"#{""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au""}",2111.0,18
+Python,superdesk,2014-10-15,22,6,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2133.0,18
+Python,superdesk,2014-10-16,20,6,"#{""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",2153.0,18
+Python,superdesk,2014-10-17,10,5,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com""}",2163.0,18
+Python,superdesk,2014-10-19,1,1,"#{""amarwood@aap.com.au""}",2164.0,18
+Python,superdesk,2014-10-20,15,5,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2179.0,18
+Python,superdesk,2014-10-21,5,4,"#{""akint@aap.com.au"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2184.0,18
+Python,superdesk,2014-10-22,16,5,"#{""ioan.pocol@sourcefabric.org"" ""akint@aap.com.au"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",2200.0,19
+Python,superdesk,2014-10-23,14,6,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2214.0,19
+Python,superdesk,2014-10-24,17,5,"#{""ioan.pocol@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",2231.0,19
+Python,superdesk,2014-10-26,1,1,"#{""amarwood@aap.com.au""}",2232.0,19
+Python,superdesk,2014-10-27,18,8,"#{""ioan.pocol@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""Mihai.Nistor@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2250.0,20
+Python,superdesk,2014-10-28,15,8,"#{""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""Mihai.Nistor@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2265.0,20
+Python,superdesk,2014-10-29,12,6,"#{""akint@aap.com.au"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",2277.0,20
+Python,superdesk,2014-10-30,13,6,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""Mihai.Nistor@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2290.0,20
+Python,superdesk,2014-10-31,10,6,"#{""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""Mihai.Nistor@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2300.0,20
+Python,superdesk,2014-11-03,17,5,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com""}",2317.0,20
+Python,superdesk,2014-11-04,22,9,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""kunas@aap.com.au"" ""takin@aap.com.au"" ""magdasadrian@gmail.com""}",2339.0,21
+Python,superdesk,2014-11-05,26,6,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",2365.0,21
+Python,superdesk,2014-11-06,25,8,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",2390.0,21
+Python,superdesk,2014-11-07,24,7,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",2414.0,21
+Python,superdesk,2014-11-08,1,1,"#{""kunas@aap.com.au""}",2415.0,21
+Python,superdesk,2014-11-09,2,2,"#{""amarwood@aap.com.au"" ""kunas@aap.com.au""}",2417.0,21
+Python,superdesk,2014-11-10,31,10,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",2448.0,21
+Python,superdesk,2014-11-11,25,8,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2473.0,21
+Python,superdesk,2014-11-12,18,8,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2491.0,21
+Python,superdesk,2014-11-13,11,6,"#{""ioan.pocol@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2502.0,21
+Python,superdesk,2014-11-14,17,8,"#{""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2519.0,21
+Python,superdesk,2014-11-17,13,5,"#{""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2532.0,21
+Python,superdesk,2014-11-18,16,5,"#{""ioan.pocol@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2548.0,21
+Python,superdesk,2014-11-19,20,7,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2568.0,21
+Python,superdesk,2014-11-20,16,5,"#{""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2584.0,21
+Python,superdesk,2014-11-21,14,5,"#{""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2598.0,21
+Python,superdesk,2014-11-22,3,2,"#{""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",2601.0,21
+Python,superdesk,2014-11-23,1,1,"#{""mugur.rus@sourcefabric.org""}",2602.0,21
+Python,superdesk,2014-11-24,29,9,"#{""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2631.0,21
+Python,superdesk,2014-11-25,34,10,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2665.0,21
+Python,superdesk,2014-11-26,22,7,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2687.0,21
+Python,superdesk,2014-11-27,30,9,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2717.0,21
+Python,superdesk,2014-11-28,3,3,"#{""erdemozanozbek@gmail.com"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com""}",2720.0,21
+Python,superdesk,2014-12-01,6,5,"#{""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",2726.0,21
+Python,superdesk,2014-12-02,20,7,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com""}",2746.0,21
+Python,superdesk,2014-12-03,20,8,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2766.0,21
+Python,superdesk,2014-12-04,30,7,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2796.0,21
+Python,superdesk,2014-12-05,34,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2830.0,22
+Python,superdesk,2014-12-06,1,1,"#{""akint@aap.com.au""}",2831.0,22
+Python,superdesk,2014-12-07,2,1,"#{""akint@aap.com.au""}",2833.0,22
+Python,superdesk,2014-12-08,29,10,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2862.0,22
+Python,superdesk,2014-12-09,22,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2884.0,22
+Python,superdesk,2014-12-10,39,11,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""Mihai.Nistor@sourcefabric.org"" ""kunas@aap.com.au"" ""mihai.nistor@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2923.0,23
+Python,superdesk,2014-12-11,33,6,"#{""sjunaid@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2956.0,23
+Python,superdesk,2014-12-12,15,6,"#{""petr.jasek@sourcefabric.org"" ""Mihai.Nistor@sourcefabric.org"" ""kunas@aap.com.au"" ""mihai.nistor@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2971.0,23
+Python,superdesk,2014-12-15,12,5,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",2983.0,23
+Python,superdesk,2014-12-16,21,8,"#{""sava.tatic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",3004.0,23
+Python,superdesk,2014-12-17,18,7,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",3022.0,23
+Python,superdesk,2014-12-18,10,5,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""holman.romero@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3032.0,23
+Python,superdesk,2014-12-19,16,7,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""holman.romero@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",3048.0,23
+Python,superdesk,2014-12-22,17,6,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",3065.0,24
+Python,superdesk,2014-12-23,23,6,"#{""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3088.0,24
+Python,superdesk,2014-12-24,4,4,"#{""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""akint@aap.com.au"" ""kunas@aap.com.au""}",3092.0,25
+Python,superdesk,2014-12-25,4,2,"#{""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org""}",3096.0,25
+Python,superdesk,2014-12-26,1,1,"#{""vladimir.stefanovic@sourcefabric.org""}",3097.0,25
+Python,superdesk,2014-12-29,7,4,"#{""edou4rd@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com""}",3104.0,25
+Python,superdesk,2014-12-30,5,4,"#{""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",3109.0,25
+Python,superdesk,2014-12-31,1,1,"#{""sjunaid@aap.com.au""}",3110.0,25
+Python,superdesk,2015-01-01,1,1,"#{""kunas@aap.com.au""}",3111.0,25
+Python,superdesk,2015-01-03,3,1,"#{""kunas@aap.com.au""}",3114.0,25
+Python,superdesk,2015-01-05,19,5,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",3133.0,25
+Python,superdesk,2015-01-06,15,6,"#{""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""magdasadrian@gmail.com""}",3148.0,25
+Python,superdesk,2015-01-07,12,7,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""kunas@aap.com.au"" ""magdasadrian@gmail.com""}",3160.0,25
+Python,superdesk,2015-01-08,23,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3183.0,25
+Python,superdesk,2015-01-09,22,7,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",3205.0,25
+Python,superdesk,2015-01-11,2,1,"#{""mdhamanwala@aap.com.au""}",3207.0,25
+Python,superdesk,2015-01-12,26,9,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3233.0,25
+Python,superdesk,2015-01-13,13,7,"#{""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3246.0,25
+Python,superdesk,2015-01-14,25,6,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3271.0,25
+Python,superdesk,2015-01-15,31,8,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3302.0,25
+Python,superdesk,2015-01-16,10,4,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com""}",3312.0,25
+Python,superdesk,2015-01-19,12,3,"#{""cybernet2u@yahoo.com"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",3324.0,26
+Python,superdesk,2015-01-20,17,7,"#{""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""sava.tatic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",3341.0,26
+Python,superdesk,2015-01-21,15,7,"#{""edou4rd@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3356.0,26
+Python,superdesk,2015-01-22,10,6,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3366.0,26
+Python,superdesk,2015-01-23,20,5,"#{""ioan.pocol@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3386.0,26
+Python,superdesk,2015-01-24,1,1,"#{""mdhamanwala@aap.com.au""}",3387.0,26
+Python,superdesk,2015-01-26,14,6,"#{""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""magdasadrian@gmail.com""}",3401.0,26
+Python,superdesk,2015-01-27,13,7,"#{""ioan.pocol@sourcefabric.org"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3414.0,26
+Python,superdesk,2015-01-28,17,4,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3431.0,26
+Python,superdesk,2015-01-29,10,5,"#{""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""magdasadrian@gmail.com""}",3441.0,26
+Python,superdesk,2015-01-30,9,2,"#{""sjunaid@aap.com.au"" ""magdasadrian@gmail.com""}",3450.0,26
+Python,superdesk,2015-02-02,13,7,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3463.0,26
+Python,superdesk,2015-02-03,40,12,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3503.0,26
+Python,superdesk,2015-02-04,20,6,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3523.0,26
+Python,superdesk,2015-02-05,18,7,"#{""jasekpetr@gmail.com"" ""akint@aap.com.au"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""kunas@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3541.0,26
+Python,superdesk,2015-02-06,28,10,"#{""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3569.0,27
+Python,superdesk,2015-02-09,21,9,"#{""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3590.0,27
+Python,superdesk,2015-02-10,15,8,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3605.0,27
+Python,superdesk,2015-02-11,19,7,"#{""sjunaid@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3624.0,27
+Python,superdesk,2015-02-12,16,8,"#{""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",3640.0,27
+Python,superdesk,2015-02-13,24,7,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3664.0,27
+Python,superdesk,2015-02-15,1,1,"#{""mdhamanwala@aap.com.au""}",3665.0,27
+Python,superdesk,2015-02-16,19,8,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",3684.0,27
+Python,superdesk,2015-02-17,25,10,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3709.0,28
+Python,superdesk,2015-02-18,36,13,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3745.0,28
+Python,superdesk,2015-02-19,71,13,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""holman.romero@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",3816.0,29
+Python,superdesk,2015-02-20,20,8,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3836.0,29
+Python,superdesk,2015-02-22,1,1,"#{""sjunaid@aap.com.au""}",3837.0,29
+Python,superdesk,2015-02-23,22,10,"#{""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""Mihai.Nistor@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3859.0,29
+Python,superdesk,2015-02-24,28,8,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",3887.0,29
+Python,superdesk,2015-02-25,23,9,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",3910.0,29
+Python,superdesk,2015-02-26,12,5,"#{""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com""}",3922.0,29
+Python,superdesk,2015-02-27,3,3,"#{""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""magdasadrian@gmail.com""}",3925.0,29
+Python,superdesk,2015-02-28,3,1,"#{""magdasadrian@gmail.com""}",3928.0,29
+Python,superdesk,2015-03-01,2,2,"#{""erdemozanozbek@gmail.com"" ""magdasadrian@gmail.com""}",3930.0,29
+Python,superdesk,2015-03-02,14,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""amarwood@aap.com.au"" ""Mihai.Nistor@sourcefabric.org"" ""magdasadrian@gmail.com""}",3944.0,29
+Python,superdesk,2015-03-03,12,7,"#{""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3956.0,29
+Python,superdesk,2015-03-04,10,5,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""nikolic_nikola@live.com""}",3966.0,29
+Python,superdesk,2015-03-05,19,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",3985.0,29
+Python,superdesk,2015-03-06,23,9,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""sava.tatic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com""}",4008.0,29
+Python,superdesk,2015-03-08,1,1,"#{""erdemozanozbek@gmail.com""}",4009.0,29
+Python,superdesk,2015-03-09,32,12,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""sava.tatic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4041.0,29
+Python,superdesk,2015-03-10,28,8,"#{""ioan.pocol@sourcefabric.org"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4069.0,29
+Python,superdesk,2015-03-11,35,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4104.0,29
+Python,superdesk,2015-03-12,29,11,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4133.0,29
+Python,superdesk,2015-03-13,25,6,"#{""ioan.pocol@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4158.0,29
+Python,superdesk,2015-03-15,2,2,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au""}",4160.0,29
+Python,superdesk,2015-03-16,12,4,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""nikolic_nikola@live.com""}",4172.0,29
+Python,superdesk,2015-03-17,25,8,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""nikolic_nikola@live.com"" ""nikola.nikolic@sourcefabric.org""}",4197.0,29
+Python,superdesk,2015-03-18,41,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4238.0,29
+Python,superdesk,2015-03-19,36,9,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4274.0,29
+Python,superdesk,2015-03-20,18,6,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4292.0,29
+Python,superdesk,2015-03-21,1,1,"#{""akint@aap.com.au""}",4293.0,29
+Python,superdesk,2015-03-23,24,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""darko.tomic@gmail.com"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com""}",4317.0,30
+Python,superdesk,2015-03-24,25,13,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikolic_nikola@live.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",4342.0,30
+Python,superdesk,2015-03-25,32,13,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""nikolic_nikola@live.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com""}",4374.0,31
+Python,superdesk,2015-03-26,45,9,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""darko.tomic@gmail.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4419.0,31
+Python,superdesk,2015-03-27,23,8,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikola.nikolic@sourcefabric.org"" ""akintolga@users.noreply.github.com""}",4442.0,31
+Python,superdesk,2015-03-30,9,6,"#{""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4451.0,31
+Python,superdesk,2015-03-31,23,7,"#{""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4474.0,31
+Python,superdesk,2015-04-01,28,9,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4502.0,31
+Python,superdesk,2015-04-02,33,9,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""ancafarcas06@gmail.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4535.0,31
+Python,superdesk,2015-04-03,7,4,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com""}",4542.0,31
+Python,superdesk,2015-04-04,1,1,"#{""mugur.rus@sourcefabric.org""}",4543.0,31
+Python,superdesk,2015-04-06,12,4,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""nikola.nikolic@sourcefabric.org""}",4555.0,31
+Python,superdesk,2015-04-07,30,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4585.0,31
+Python,superdesk,2015-04-08,27,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",4612.0,31
+Python,superdesk,2015-04-09,19,7,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4631.0,31
+Python,superdesk,2015-04-10,13,7,"#{""ioan.pocol@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",4644.0,31
+Python,superdesk,2015-04-12,1,1,"#{""mugur.rus@sourcefabric.org""}",4645.0,31
+Python,superdesk,2015-04-13,12,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",4657.0,31
+Python,superdesk,2015-04-14,12,5,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4669.0,31
+Python,superdesk,2015-04-15,23,8,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""nikola.nikolic@sourcefabric.org"" ""magdasadrian@gmail.com""}",4692.0,32
+Python,superdesk,2015-04-16,15,9,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""ancafarcas06@gmail.com"" ""magdasadrian@gmail.com""}",4707.0,32
+Python,superdesk,2015-04-17,10,8,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",4717.0,32
+Python,superdesk,2015-04-18,1,1,"#{""akint@aap.com.au""}",4718.0,32
+Python,superdesk,2015-04-19,3,2,"#{""peter.lamut@niteoweb.com"" ""akint@aap.com.au""}",4721.0,32
+Python,superdesk,2015-04-20,16,5,"#{""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",4737.0,32
+Python,superdesk,2015-04-21,29,9,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",4766.0,32
+Python,superdesk,2015-04-22,19,9,"#{""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com""}",4785.0,32
+Python,superdesk,2015-04-23,29,8,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",4814.0,32
+Python,superdesk,2015-04-24,18,7,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""peter.lamut@niteoweb.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",4832.0,32
+Python,superdesk,2015-04-25,1,1,"#{""magdasadrian@gmail.com""}",4833.0,32
+Python,superdesk,2015-04-27,17,8,"#{""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com""}",4850.0,32
+Python,superdesk,2015-04-28,29,10,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""sava.tatic@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",4879.0,32
+Python,superdesk,2015-04-29,38,12,"#{""ioan.pocol@sourcefabric.org"" ""sebastian.simon@sourcefabric.org"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""takin@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com""}",4917.0,33
+Python,superdesk,2015-04-30,37,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com""}",4954.0,33
+Python,superdesk,2015-05-01,14,4,"#{""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""magdasadrian@gmail.com""}",4968.0,33
+Python,superdesk,2015-05-02,1,1,"#{""akint@aap.com.au""}",4969.0,33
+Python,superdesk,2015-05-03,2,2,"#{""akint@aap.com.au"" ""akintolga@users.noreply.github.com""}",4971.0,33
+Python,superdesk,2015-05-04,22,11,"#{""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",4993.0,34
+Python,superdesk,2015-05-05,29,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",5022.0,34
+Python,superdesk,2015-05-06,24,9,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",5046.0,34
+Python,superdesk,2015-05-07,32,12,"#{""ioan.pocol@sourcefabric.org"" ""pawel.mikolajczuk@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",5078.0,35
+Python,superdesk,2015-05-08,8,4,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",5086.0,35
+Python,superdesk,2015-05-11,12,6,"#{""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",5098.0,35
+Python,superdesk,2015-05-12,28,9,"#{""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",5126.0,35
+Python,superdesk,2015-05-13,35,9,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",5161.0,35
+Python,superdesk,2015-05-14,16,5,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""magdasadrian@gmail.com""}",5177.0,35
+Python,superdesk,2015-05-15,16,8,"#{""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",5193.0,35
+Python,superdesk,2015-05-16,4,2,"#{""mdhamanwala@aap.com.au"" ""magdasadrian@gmail.com""}",5197.0,35
+Python,superdesk,2015-05-17,3,3,"#{""skuna@aap.com.au"" ""akint@aap.com.au"" ""magdasadrian@gmail.com""}",5200.0,35
+Python,superdesk,2015-05-18,23,11,"#{""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",5223.0,35
+Python,superdesk,2015-05-19,21,8,"#{""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",5244.0,35
+Python,superdesk,2015-05-20,27,12,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com""}",5271.0,35
+Python,superdesk,2015-05-21,9,6,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",5280.0,35
+Python,superdesk,2015-05-22,15,11,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""ozan.ozbek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",5295.0,35
+Python,superdesk,2015-05-23,4,2,"#{""ioan.pocol@sourcefabric.org"" ""peter.lamut@niteoweb.com""}",5299.0,35
+Python,superdesk,2015-05-24,2,1,"#{""sjunaid@aap.com.au""}",5301.0,35
+Python,superdesk,2015-05-25,10,5,"#{""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com""}",5311.0,35
+Python,superdesk,2015-05-26,20,8,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",5331.0,35
+Python,superdesk,2015-05-27,20,11,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5351.0,36
+Python,superdesk,2015-05-28,21,12,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""vied12@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5372.0,37
+Python,superdesk,2015-05-29,13,7,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@protonmail.com""}",5385.0,37
+Python,superdesk,2015-05-31,4,2,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au""}",5389.0,37
+Python,superdesk,2015-06-01,8,6,"#{""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",5397.0,37
+Python,superdesk,2015-06-02,20,6,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",5417.0,37
+Python,superdesk,2015-06-03,22,8,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@protonmail.com""}",5439.0,37
+Python,superdesk,2015-06-04,22,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",5461.0,37
+Python,superdesk,2015-06-05,15,9,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",5476.0,37
+Python,superdesk,2015-06-06,2,2,"#{""skuna@aap.com.au"" ""actionless.loveless@gmail.com""}",5478.0,37
+Python,superdesk,2015-06-08,8,2,"#{""ioan.pocol@sourcefabric.org"" ""actionless.loveless@gmail.com""}",5486.0,37
+Python,superdesk,2015-06-09,30,14,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5516.0,37
+Python,superdesk,2015-06-10,18,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5534.0,37
+Python,superdesk,2015-06-11,21,10,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5555.0,37
+Python,superdesk,2015-06-12,13,7,"#{""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5568.0,37
+Python,superdesk,2015-06-13,1,1,"#{""skuna@aap.com.au""}",5569.0,37
+Python,superdesk,2015-06-14,3,2,"#{""sjunaid@aap.com.au"" ""akint@aap.com.au""}",5572.0,37
+Python,superdesk,2015-06-15,22,10,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5594.0,37
+Python,superdesk,2015-06-16,25,13,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5619.0,37
+Python,superdesk,2015-06-17,14,9,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5633.0,37
+Python,superdesk,2015-06-18,13,9,"#{""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5646.0,37
+Python,superdesk,2015-06-19,11,9,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5657.0,37
+Python,superdesk,2015-06-22,19,10,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5676.0,37
+Python,superdesk,2015-06-23,16,8,"#{""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5692.0,37
+Python,superdesk,2015-06-24,22,9,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5714.0,37
+Python,superdesk,2015-06-25,14,7,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5728.0,37
+Python,superdesk,2015-06-26,13,7,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5741.0,37
+Python,superdesk,2015-06-27,3,3,"#{""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au""}",5744.0,37
+Python,superdesk,2015-06-29,16,8,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5760.0,37
+Python,superdesk,2015-06-30,14,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5774.0,37
+Python,superdesk,2015-07-01,16,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",5790.0,38
+Python,superdesk,2015-07-02,10,6,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""akint@aap.com.au"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5800.0,38
+Python,superdesk,2015-07-03,5,4,"#{""skuna@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",5805.0,38
+Python,superdesk,2015-07-05,3,1,"#{""sjunaid@aap.com.au""}",5808.0,38
+Python,superdesk,2015-07-06,18,9,"#{""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com""}",5826.0,38
+Python,superdesk,2015-07-07,17,7,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5843.0,38
+Python,superdesk,2015-07-08,8,4,"#{""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@protonmail.com""}",5851.0,38
+Python,superdesk,2015-07-09,11,5,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com""}",5862.0,38
+Python,superdesk,2015-07-10,18,8,"#{""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5880.0,38
+Python,superdesk,2015-07-11,2,2,"#{""mdhamanwala@aap.com.au"" ""magdasadrian@protonmail.com""}",5882.0,38
+Python,superdesk,2015-07-12,2,1,"#{""sjunaid@aap.com.au""}",5884.0,38
+Python,superdesk,2015-07-13,17,8,"#{""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",5901.0,38
+Python,superdesk,2015-07-14,16,10,"#{""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5917.0,38
+Python,superdesk,2015-07-15,18,12,"#{""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5935.0,38
+Python,superdesk,2015-07-16,8,5,"#{""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""magdasadrian@protonmail.com""}",5943.0,38
+Python,superdesk,2015-07-17,10,6,"#{""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""petr.jasek@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",5953.0,38
+Python,superdesk,2015-07-19,2,1,"#{""sjunaid@aap.com.au""}",5955.0,38
+Python,superdesk,2015-07-20,11,8,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",5966.0,38
+Python,superdesk,2015-07-21,10,7,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com""}",5976.0,38
+Python,superdesk,2015-07-22,14,8,"#{""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",5990.0,38
+Python,superdesk,2015-07-23,14,9,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com""}",6004.0,38
+Python,superdesk,2015-07-24,11,7,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com""}",6015.0,38
+Python,superdesk,2015-07-25,1,1,"#{""akint@aap.com.au""}",6016.0,38
+Python,superdesk,2015-07-26,2,2,"#{""sjunaid@aap.com.au"" ""akint@aap.com.au""}",6018.0,38
+Python,superdesk,2015-07-27,15,9,"#{""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""darko.tomic@gmail.com"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com""}",6033.0,38
+Python,superdesk,2015-07-28,29,13,"#{""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""darko.tomic@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",6062.0,38
+Python,superdesk,2015-07-29,19,8,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",6081.0,38
+Python,superdesk,2015-07-30,10,8,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com""}",6091.0,38
+Python,superdesk,2015-07-31,14,8,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",6105.0,38
+Python,superdesk,2015-08-01,2,1,"#{""sivakuna-aap@users.noreply.github.com""}",6107.0,38
+Python,superdesk,2015-08-03,15,10,"#{""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6122.0,38
+Python,superdesk,2015-08-04,29,13,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com""}",6151.0,38
+Python,superdesk,2015-08-05,30,14,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""ozan.ozbek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",6181.0,38
+Python,superdesk,2015-08-06,16,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",6197.0,38
+Python,superdesk,2015-08-07,19,9,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",6216.0,38
+Python,superdesk,2015-08-08,2,1,"#{""sivakuna-aap@users.noreply.github.com""}",6218.0,38
+Python,superdesk,2015-08-09,2,1,"#{""sjunaid@aap.com.au""}",6220.0,38
+Python,superdesk,2015-08-10,24,11,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6244.0,38
+Python,superdesk,2015-08-11,33,13,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""ozan.ozbek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@protonmail.com""}",6277.0,38
+Python,superdesk,2015-08-12,13,8,"#{""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""ozan.ozbek@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6290.0,38
+Python,superdesk,2015-08-13,10,6,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""akint@aap.com.au"" ""akintolga@users.noreply.github.com""}",6300.0,38
+Python,superdesk,2015-08-14,4,3,"#{""sjunaid@aap.com.au"" ""akint@aap.com.au"" ""magdasadrian@protonmail.com""}",6304.0,38
+Python,superdesk,2015-08-15,2,2,"#{""skuna@aap.com.au"" ""mdhamanwala@aap.com.au""}",6306.0,38
+Python,superdesk,2015-08-16,1,1,"#{""mdhamanwala@aap.com.au""}",6307.0,38
+Python,superdesk,2015-08-17,11,5,"#{""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",6318.0,38
+Python,superdesk,2015-08-18,13,7,"#{""ioan.pocol@sourcefabric.org"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",6331.0,38
+Python,superdesk,2015-08-19,21,8,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@protonmail.com""}",6352.0,38
+Python,superdesk,2015-08-20,17,8,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",6369.0,38
+Python,superdesk,2015-08-21,6,6,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au""}",6375.0,38
+Python,superdesk,2015-08-24,16,9,"#{""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",6391.0,38
+Python,superdesk,2015-08-25,26,12,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6417.0,38
+Python,superdesk,2015-08-26,33,13,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""sava.tatic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6450.0,38
+Python,superdesk,2015-08-27,21,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",6471.0,38
+Python,superdesk,2015-08-28,21,7,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",6492.0,38
+Python,superdesk,2015-08-31,28,16,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6520.0,38
+Python,superdesk,2015-09-01,23,12,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6543.0,38
+Python,superdesk,2015-09-02,12,10,"#{""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6555.0,38
+Python,superdesk,2015-09-03,17,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""peter.lamut@niteoweb.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@protonmail.com""}",6572.0,38
+Python,superdesk,2015-09-04,17,7,"#{""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com""}",6589.0,38
+Python,superdesk,2015-09-07,13,7,"#{""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com""}",6602.0,38
+Python,superdesk,2015-09-08,28,11,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6630.0,38
+Python,superdesk,2015-09-09,27,11,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6657.0,38
+Python,superdesk,2015-09-10,31,13,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6688.0,38
+Python,superdesk,2015-09-11,18,12,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6706.0,38
+Python,superdesk,2015-09-12,2,1,"#{""sivakuna-aap@users.noreply.github.com""}",6708.0,38
+Python,superdesk,2015-09-13,2,1,"#{""sjunaid@aap.com.au""}",6710.0,38
+Python,superdesk,2015-09-14,14,7,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",6724.0,38
+Python,superdesk,2015-09-15,6,4,"#{""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",6730.0,38
+Python,superdesk,2015-09-16,30,14,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6760.0,38
+Python,superdesk,2015-09-17,28,11,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6788.0,38
+Python,superdesk,2015-09-18,18,9,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",6806.0,38
+Python,superdesk,2015-09-19,7,2,"#{""actionless.loveless@gmail.com"" ""sivakuna-aap@users.noreply.github.com""}",6813.0,38
+Python,superdesk,2015-09-20,3,3,"#{""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""magdasadrian@protonmail.com""}",6816.0,38
+Python,superdesk,2015-09-21,36,11,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6852.0,38
+Python,superdesk,2015-09-22,22,13,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6874.0,38
+Python,superdesk,2015-09-23,25,12,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6899.0,38
+Python,superdesk,2015-09-24,20,10,"#{""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6919.0,38
+Python,superdesk,2015-09-25,10,4,"#{""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""sivakuna-aap@users.noreply.github.com""}",6929.0,38
+Python,superdesk,2015-09-26,4,1,"#{""actionless.loveless@gmail.com""}",6933.0,38
+Python,superdesk,2015-09-27,1,1,"#{""magdasadrian@protonmail.com""}",6934.0,38
+Python,superdesk,2015-09-28,12,6,"#{""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com""}",6946.0,38
+Python,superdesk,2015-09-29,15,9,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6961.0,38
+Python,superdesk,2015-09-30,11,8,"#{""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",6972.0,38
+Python,superdesk,2015-10-01,11,7,"#{""ioan.pocol@sourcefabric.org"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",6983.0,38
+Python,superdesk,2015-10-02,9,6,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""mugur.rus@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",6992.0,38
+Python,superdesk,2015-10-05,4,3,"#{""petr.jasek@sourcefabric.org"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",6996.0,38
+Python,superdesk,2015-10-06,13,8,"#{""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",7009.0,38
+Python,superdesk,2015-10-07,9,5,"#{""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""akintolga@users.noreply.github.com""}",7018.0,38
+Python,superdesk,2015-10-08,5,3,"#{""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""sivakuna-aap@users.noreply.github.com""}",7023.0,38
+Python,superdesk,2015-10-09,4,2,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au""}",7027.0,38
+Python,superdesk,2015-10-12,11,7,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com""}",7038.0,38
+Python,superdesk,2015-10-13,9,5,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""peter.lamut@niteoweb.com"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com""}",7047.0,38
+Python,superdesk,2015-10-14,20,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",7067.0,38
+Python,superdesk,2015-10-15,19,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",7086.0,38
+Python,superdesk,2015-10-16,14,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@gmail.com""}",7100.0,38
+Python,superdesk,2015-10-17,2,2,"#{""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com""}",7102.0,38
+Python,superdesk,2015-10-18,2,1,"#{""mdhamanwala@aap.com.au""}",7104.0,38
+Python,superdesk,2015-10-19,23,9,"#{""sjunaid@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@gmail.com"" ""magdasadrian@protonmail.com""}",7127.0,38
+Python,superdesk,2015-10-20,28,14,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""darko.tomic@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",7155.0,38
+Python,superdesk,2015-10-21,17,9,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",7172.0,38
+Python,superdesk,2015-10-22,12,5,"#{""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",7184.0,38
+Python,superdesk,2015-10-23,16,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7200.0,38
+Python,superdesk,2015-10-26,10,6,"#{""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""darko.tomic@gmail.com"" ""amarwood@aap.com.au""}",7210.0,38
+Python,superdesk,2015-10-27,14,8,"#{""ioan.pocol@sourcefabric.org"" ""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""magdasadrian@protonmail.com""}",7224.0,38
+Python,superdesk,2015-10-28,10,6,"#{""ioan.pocol@sourcefabric.org"" ""mdhaman@yahoo.com"" ""skuna@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""magdasadrian@protonmail.com""}",7234.0,39
+Python,superdesk,2015-10-29,9,6,"#{""ioan.pocol@sourcefabric.org"" ""skuna@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7243.0,39
+Python,superdesk,2015-10-30,13,7,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""magdasadrian@protonmail.com""}",7256.0,39
+Python,superdesk,2015-10-31,2,1,"#{""mdhamanwala@aap.com.au""}",7258.0,39
+Python,superdesk,2015-11-01,1,1,"#{""mdhamanwala@aap.com.au""}",7259.0,39
+Python,superdesk,2015-11-02,9,8,"#{""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""darko.tomic@gmail.com""}",7268.0,39
+Python,superdesk,2015-11-03,11,8,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7279.0,39
+Python,superdesk,2015-11-04,15,9,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",7294.0,39
+Python,superdesk,2015-11-05,12,8,"#{""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""peter.lamut@niteoweb.com"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7306.0,39
+Python,superdesk,2015-11-06,11,6,"#{""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""akint@aap.com.au"" ""darko.tomic@gmail.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",7317.0,39
+Python,superdesk,2015-11-07,1,1,"#{""sivakuna-aap@users.noreply.github.com""}",7318.0,39
+Python,superdesk,2015-11-08,8,3,"#{""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7326.0,39
+Python,superdesk,2015-11-09,23,9,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",7349.0,39
+Python,superdesk,2015-11-10,25,8,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""sivakuna-aap@users.noreply.github.com""}",7374.0,39
+Python,superdesk,2015-11-11,22,12,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""Mihai.Nistor@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com""}",7396.0,39
+Python,superdesk,2015-11-12,9,5,"#{""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""darko.tomic@gmail.com"" ""thnkloud9@gmail.com""}",7405.0,39
+Python,superdesk,2015-11-13,9,6,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au""}",7414.0,39
+Python,superdesk,2015-11-15,1,1,"#{""mdhamanwala@aap.com.au""}",7415.0,39
+Python,superdesk,2015-11-16,16,9,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""william@johnstonhaus.us"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com""}",7431.0,40
+Python,superdesk,2015-11-17,12,6,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""sivakuna-aap@users.noreply.github.com""}",7443.0,40
+Python,superdesk,2015-11-18,10,8,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au""}",7453.0,40
+Python,superdesk,2015-11-19,26,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com""}",7479.0,40
+Python,superdesk,2015-11-20,23,11,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""darko.tomic@gmail.com"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7502.0,40
+Python,superdesk,2015-11-21,2,1,"#{""ioan.pocol@sourcefabric.org""}",7504.0,40
+Python,superdesk,2015-11-23,11,5,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au""}",7515.0,40
+Python,superdesk,2015-11-24,5,4,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com""}",7520.0,40
+Python,superdesk,2015-11-25,12,6,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com""}",7532.0,40
+Python,superdesk,2015-11-26,9,6,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",7541.0,40
+Python,superdesk,2015-11-27,23,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""vlad.nicoara@sourcefabric.org""}",7564.0,41
+Python,superdesk,2015-11-30,15,7,"#{""edou4rd@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7579.0,41
+Python,superdesk,2015-12-01,13,8,"#{""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7592.0,41
+Python,superdesk,2015-12-02,13,10,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""darko.tomic@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com""}",7605.0,41
+Python,superdesk,2015-12-03,17,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""Mihai.Nistor@sourcefabric.org""}",7622.0,41
+Python,superdesk,2015-12-04,16,8,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com""}",7638.0,41
+Python,superdesk,2015-12-06,1,1,"#{""mdhamanwala@aap.com.au""}",7639.0,41
+Python,superdesk,2015-12-07,13,6,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com""}",7652.0,41
+Python,superdesk,2015-12-08,9,7,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""actionless.loveless@gmail.com"" ""sivakuna-aap@users.noreply.github.com""}",7661.0,41
+Python,superdesk,2015-12-09,14,6,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""akint@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com""}",7675.0,41
+Python,superdesk,2015-12-10,11,6,"#{""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""aca84.jov@gmail.com"" ""rmuszynski1@gmail.com"" ""thnkloud9@gmail.com"" ""sivakuna-aap@users.noreply.github.com""}",7686.0,42
+Python,superdesk,2015-12-11,20,11,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""akintolga@users.noreply.github.com""}",7706.0,42
+Python,superdesk,2015-12-14,12,8,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au""}",7718.0,42
+Python,superdesk,2015-12-15,30,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com""}",7748.0,42
+Python,superdesk,2015-12-16,28,10,"#{""ioan.pocol@sourcefabric.org"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""darko.tomic@gmail.com"" ""amarwood@aap.com.au"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com""}",7776.0,42
+Python,superdesk,2015-12-17,32,12,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""edou4rd@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""rmuszynski1@gmail.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""thnkloud9@gmail.com"" ""vlad.nicoara@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com""}",7808.0,42
+Python,superdesk,2015-12-18,20,7,"#{""ioan.pocol@sourcefabric.org"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",7828.0,42
+Python,superdesk,2015-12-21,6,5,"#{""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",7834.0,42
+Python,superdesk,2015-12-22,12,5,"#{""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""akint@aap.com.au"" ""thnkloud9@gmail.com"" ""sivakuna-aap@users.noreply.github.com""}",7846.0,42
+Python,superdesk,2015-12-23,2,2,"#{""sjunaid@aap.com.au"" ""akint@aap.com.au""}",7848.0,42
+Python,superdesk,2015-12-24,5,5,"#{""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""rmuszynski1@gmail.com""}",7853.0,42
+Python,superdesk,2015-12-25,1,1,"#{""darko.tomic@gmail.com""}",7854.0,42
+Python,superdesk,2015-12-26,2,2,"#{""vlad.nicoara@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com""}",7856.0,42
+Python,superdesk,2015-12-28,4,2,"#{""erdemozanozbek@gmail.com"" ""me@pavlovicnemanja.com""}",7860.0,42
+Python,superdesk,2015-12-29,6,5,"#{""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""amarwood@aap.com.au"" ""vlad.nicoara@sourcefabric.org""}",7866.0,42
+Python,superdesk,2015-12-30,3,1,"#{""skuna@aap.com.au""}",7869.0,42
+Python,superdesk,2015-12-31,3,3,"#{""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""amarwood@aap.com.au""}",7872.0,42
+Python,superdesk,2016-01-03,2,1,"#{""vlad.nicoara@sourcefabric.org""}",7874.0,42
+Python,superdesk,2016-01-04,17,7,"#{""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com""}",7891.0,42
+Python,superdesk,2016-01-05,9,5,"#{""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com""}",7900.0,42
+Python,superdesk,2016-01-06,14,7,"#{""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""vlad.nicoara@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com""}",7914.0,42
+Python,superdesk,2016-01-07,18,7,"#{""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""sivakuna-aap@users.noreply.github.com""}",7932.0,42
+Python,superdesk,2016-01-08,22,8,"#{""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",7954.0,42
+Python,superdesk,2016-01-11,22,9,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""vlad.nicoara@sourcefabric.org""}",7976.0,42
+Python,superdesk,2016-01-12,24,13,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""vlad.nicoara@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com"" ""akintolga@users.noreply.github.com""}",8000.0,42
+Python,superdesk,2016-01-13,17,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""erdemozanozbek@gmail.com"" ""skuna@aap.com.au"" ""mugur.rus@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com""}",8017.0,42
+Python,superdesk,2016-01-14,32,13,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""skuna@aap.com.au"" ""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""vlad.nicoara@sourcefabric.org"" ""sivakuna-aap@users.noreply.github.com""}",8049.0,42
+Python,superdesk,2016-01-15,8,6,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com""}",8057.0,42
+Python,superdesk,2016-01-17,2,1,"#{""me@pavlovicnemanja.com""}",8059.0,42
+Python,superdesk,2016-01-18,11,6,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""vlad.nicoara@sourcefabric.org"" ""akintolga@users.noreply.github.com""}",8070.0,42
+Python,superdesk,2016-01-19,13,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com"" ""vlad.nicoara@sourcefabric.org""}",8083.0,42
+Python,superdesk,2016-01-20,18,12,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""erdemozanozbek@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""akint@aap.com.au"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""vlad.nicoara@sourcefabric.org"" ""akintolga@users.noreply.github.com""}",8101.0,42
+Python,superdesk,2016-01-21,10,6,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au"" ""akintolga@users.noreply.github.com""}",8111.0,42
+Python,superdesk,2016-01-22,7,4,"#{""aca84.jov@gmail.com"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com""}",8118.0,42
+Python,superdesk,2016-01-25,8,5,"#{""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8126.0,42
+Python,superdesk,2016-01-26,1,1,"#{""petr.jasek@sourcefabric.org""}",8127.0,42
+Python,superdesk,2016-01-27,13,7,"#{""sjunaid@aap.com.au"" ""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com""}",8140.0,42
+Python,superdesk,2016-01-28,17,7,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""vladimir.stefanovic@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""akintolga@users.noreply.github.com""}",8157.0,42
+Python,superdesk,2016-01-29,17,8,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""jasekpetr@gmail.com"" ""vladimir.stefanovic@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8174.0,42
+Python,superdesk,2016-02-01,9,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8183.0,42
+Python,superdesk,2016-02-02,3,2,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org""}",8186.0,42
+Python,superdesk,2016-02-03,8,5,"#{""ioan.pocol@sourcefabric.org"" ""sjunaid@aap.com.au"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""akintolga@users.noreply.github.com""}",8194.0,42
+Python,superdesk,2016-02-04,6,4,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com""}",8200.0,42
+Python,superdesk,2016-02-05,5,4,"#{""aca84.jov@gmail.com"" ""jasekpetr@gmail.com"" ""rmuszynski1@gmail.com"" ""actionless.loveless@gmail.com""}",8205.0,42
+Python,superdesk,2016-02-08,2,1,"#{""jasekpetr@gmail.com""}",8207.0,42
+Python,superdesk,2016-02-09,6,3,"#{""mdhamanwala@aap.com.au"" ""actionless.loveless@gmail.com"" ""amarwood@aap.com.au""}",8213.0,42
+Python,superdesk,2016-02-10,4,4,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8217.0,42
+Python,superdesk,2016-02-11,4,3,"#{""ioan.pocol@sourcefabric.org"" ""actionless.loveless@gmail.com"" ""petr.jasek@sourcefabric.org""}",8221.0,42
+Python,superdesk,2016-02-12,4,3,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8225.0,42
+Python,superdesk,2016-02-17,2,2,"#{""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au""}",8227.0,42
+Python,superdesk,2016-02-18,2,2,"#{""mdhamanwala@aap.com.au"" ""akintolga@users.noreply.github.com""}",8229.0,42
+Python,superdesk,2016-02-19,2,2,"#{""akint@aap.com.au"" ""akintolga@users.noreply.github.com""}",8231.0,42
+Python,superdesk,2016-02-22,4,3,"#{""jasekpetr@gmail.com"" ""naomiaro@gmail.com"" ""vlad.nicoara@sourcefabric.org""}",8235.0,43
+Python,superdesk,2016-02-23,4,2,"#{""jasekpetr@gmail.com"" ""vlad.nicoara@sourcefabric.org""}",8239.0,43
+Python,superdesk,2016-02-24,1,1,"#{""ioan.pocol@sourcefabric.org""}",8240.0,43
+Python,superdesk,2016-02-25,2,2,"#{""ioan.pocol@sourcefabric.org"" ""actionless.loveless@gmail.com""}",8242.0,43
+Python,superdesk,2016-02-26,3,2,"#{""jasekpetr@gmail.com"" ""actionless.loveless@gmail.com""}",8245.0,43
+Python,superdesk,2016-02-29,5,3,"#{""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""amarwood@aap.com.au""}",8250.0,43
+Python,superdesk,2016-03-02,2,1,"#{""jasekpetr@gmail.com""}",8252.0,43
+Python,superdesk,2016-03-03,2,1,"#{""actionless.loveless@gmail.com""}",8254.0,43
+Python,superdesk,2016-03-07,1,1,"#{""mdhamanwala@aap.com.au""}",8255.0,43
+Python,superdesk,2016-03-11,6,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au""}",8261.0,43
+Python,superdesk,2016-03-14,1,1,"#{""jasekpetr@gmail.com""}",8262.0,43
+Python,superdesk,2016-03-15,2,1,"#{""edou4rd@gmail.com""}",8264.0,43
+Python,superdesk,2016-03-16,1,1,"#{""amarwood@aap.com.au""}",8265.0,43
+Python,superdesk,2016-03-17,3,2,"#{""edou4rd@gmail.com"" ""jasekpetr@gmail.com""}",8268.0,43
+Python,superdesk,2016-03-18,1,1,"#{""ioan.pocol@sourcefabric.org""}",8269.0,43
+Python,superdesk,2016-03-21,3,2,"#{""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au""}",8272.0,43
+Python,superdesk,2016-03-22,4,2,"#{""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org""}",8276.0,43
+Python,superdesk,2016-03-23,1,1,"#{""jasekpetr@gmail.com""}",8277.0,43
+Python,superdesk,2016-03-24,3,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8280.0,43
+Python,superdesk,2016-03-31,1,1,"#{""akint@aap.com.au""}",8281.0,43
+Python,superdesk,2016-04-01,1,1,"#{""actionless.loveless@gmail.com""}",8282.0,43
+Python,superdesk,2016-04-05,6,5,"#{""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""me@pavlovicnemanja.com"" ""vlad.nicoara@sourcefabric.org""}",8288.0,43
+Python,superdesk,2016-04-06,5,4,"#{""ioan.pocol@sourcefabric.org"" ""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""vied12@gmail.com""}",8293.0,43
+Python,superdesk,2016-04-08,3,3,"#{""petr.jasek@sourcefabric.org"" ""amarwood@aap.com.au"" ""me@pavlovicnemanja.com""}",8296.0,43
+Python,superdesk,2016-04-11,4,2,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au""}",8300.0,43
+Python,superdesk,2016-04-12,1,1,"#{""akintolga@users.noreply.github.com""}",8301.0,43
+Python,superdesk,2016-04-13,2,1,"#{""aca84.jov@gmail.com""}",8303.0,43
+Python,superdesk,2016-04-14,3,2,"#{""aca84.jov@gmail.com"" ""mdhamanwala@aap.com.au""}",8306.0,43
+Python,superdesk,2016-04-15,4,2,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au""}",8310.0,43
+Python,superdesk,2016-04-16,2,1,"#{""ioan.pocol@sourcefabric.org""}",8312.0,43
+Python,superdesk,2016-04-18,3,2,"#{""ioan.pocol@sourcefabric.org"" ""petr.jasek@sourcefabric.org""}",8315.0,43
+Python,superdesk,2016-04-19,3,2,"#{""aca84.jov@gmail.com"" ""jasekpetr@gmail.com""}",8318.0,43
+Python,superdesk,2016-04-20,1,1,"#{""mugur.rus@sourcefabric.org""}",8319.0,43
+Python,superdesk,2016-04-21,1,1,"#{""mdhamanwala@aap.com.au""}",8320.0,43
+Python,superdesk,2016-04-22,1,1,"#{""jasekpetr@gmail.com""}",8321.0,43
+Python,superdesk,2016-04-25,11,5,"#{""jasekpetr@gmail.com"" ""holman.romero@sourcefabric.org"" ""petr.jasek@sourcefabric.org"" ""emma.vansant@sourcefabric.org"" ""micz.flor@web.de""}",8332.0,45
+Python,superdesk,2016-04-26,4,3,"#{""jasekpetr@gmail.com"" ""akint@aap.com.au"" ""me@pavlovicnemanja.com""}",8336.0,45
+Python,superdesk,2016-04-27,3,3,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8339.0,46
+Python,superdesk,2016-04-29,1,1,"#{""jasekpetr@gmail.com""}",8340.0,46
+Python,superdesk,2016-05-03,1,1,"#{""jasekpetr@gmail.com""}",8341.0,46
+Python,superdesk,2016-05-04,4,2,"#{""jasekpetr@gmail.com"" ""actionless.loveless@gmail.com""}",8345.0,46
+Python,superdesk,2016-05-05,4,1,"#{""jasekpetr@gmail.com""}",8349.0,46
+Python,superdesk,2016-05-06,2,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",8351.0,46
+Python,superdesk,2016-05-10,2,1,"#{""jasekpetr@gmail.com""}",8353.0,46
+Python,superdesk,2016-05-12,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8355.0,46
+Python,superdesk,2016-05-16,2,2,"#{""ioan.pocol@sourcefabric.org"" ""actionless.loveless@gmail.com""}",8357.0,46
+Python,superdesk,2016-05-17,4,2,"#{""akint@aap.com.au"" ""me@pavlovicnemanja.com""}",8361.0,46
+Python,superdesk,2016-05-19,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8365.0,46
+Python,superdesk,2016-05-20,2,2,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.aszalos@gmail.com""}",8367.0,46
+Python,superdesk,2016-05-23,1,1,"#{""akint@aap.com.au""}",8368.0,46
+Python,superdesk,2016-05-24,1,1,"#{""mdhamanwala@aap.com.au""}",8369.0,46
+Python,superdesk,2016-05-30,3,3,"#{""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org""}",8372.0,46
+Python,superdesk,2016-05-31,1,1,"#{""ioan.pocol@sourcefabric.org""}",8373.0,46
+Python,superdesk,2016-06-01,5,3,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8378.0,46
+Python,superdesk,2016-06-02,3,2,"#{""ioan.pocol@sourcefabric.org"" ""mdhamanwala@aap.com.au""}",8381.0,46
+Python,superdesk,2016-06-03,7,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8388.0,46
+Python,superdesk,2016-06-07,2,1,"#{""jasekpetr@gmail.com""}",8390.0,46
+Python,superdesk,2016-06-09,2,1,"#{""ioan.pocol@sourcefabric.org""}",8392.0,46
+Python,superdesk,2016-06-10,2,1,"#{""ioan.pocol@sourcefabric.org""}",8394.0,46
+Python,superdesk,2016-06-13,2,2,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com""}",8396.0,46
+Python,superdesk,2016-06-15,3,2,"#{""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org""}",8399.0,46
+Python,superdesk,2016-06-16,1,1,"#{""me@pavlovicnemanja.com""}",8400.0,46
+Python,superdesk,2016-06-17,4,3,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8404.0,46
+Python,superdesk,2016-06-20,1,1,"#{""jasekpetr@gmail.com""}",8405.0,46
+Python,superdesk,2016-06-21,2,1,"#{""mugur.rus@sourcefabric.org""}",8407.0,46
+Python,superdesk,2016-06-22,4,1,"#{""jasekpetr@gmail.com""}",8411.0,46
+Python,superdesk,2016-06-23,1,1,"#{""gabriel.aszalos@gmail.com""}",8412.0,46
+Python,superdesk,2016-06-24,1,1,"#{""jasekpetr@gmail.com""}",8413.0,46
+Python,superdesk,2016-06-28,4,3,"#{""mdhamanwala@aap.com.au"" ""darko.tomic@gmail.com"" ""me@pavlovicnemanja.com""}",8417.0,46
+Python,superdesk,2016-06-30,7,3,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8424.0,46
+Python,superdesk,2016-07-01,1,1,"#{""mdhamanwala@aap.com.au""}",8425.0,46
+Python,superdesk,2016-07-04,2,2,"#{""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8427.0,46
+Python,superdesk,2016-07-07,2,1,"#{""me@pavlovicnemanja.com""}",8429.0,46
+Python,superdesk,2016-07-12,2,2,"#{""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8431.0,46
+Python,superdesk,2016-07-15,2,2,"#{""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8433.0,46
+Python,superdesk,2016-07-18,2,1,"#{""mugur.rus@sourcefabric.org""}",8435.0,46
+Python,superdesk,2016-07-20,3,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""gabriel.aszalos@gmail.com""}",8438.0,46
+Python,superdesk,2016-07-25,6,5,"#{""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""vied12@gmail.com"" ""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8444.0,46
+Python,superdesk,2016-07-26,3,2,"#{""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com""}",8447.0,47
+Python,superdesk,2016-07-27,2,2,"#{""jerome.poisson@sourcefabric.org"" ""gabriel.aszalos@gmail.com""}",8449.0,47
+Python,superdesk,2016-07-28,5,2,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.aszalos@gmail.com""}",8454.0,47
+Python,superdesk,2016-08-01,4,1,"#{""jasekpetr@gmail.com""}",8458.0,47
+Python,superdesk,2016-08-02,3,1,"#{""gabriel.aszalos@gmail.com""}",8461.0,47
+Python,superdesk,2016-08-03,3,2,"#{""mugur.rus@sourcefabric.org"" ""gabriel.aszalos@gmail.com""}",8464.0,47
+Python,superdesk,2016-08-05,5,3,"#{""edou4rd@gmail.com"" ""jasekpetr@gmail.com"" ""gabriel.aszalos@gmail.com""}",8469.0,47
+Python,superdesk,2016-08-08,3,3,"#{""vied12@gmail.com"" ""me@pavlovicnemanja.com"" ""Nemanja Pavlovic@Miroslava-PC""}",8472.0,48
+Python,superdesk,2016-08-09,1,1,"#{""jasekpetr@gmail.com""}",8473.0,48
+Python,superdesk,2016-08-10,5,3,"#{""marklewis@Marks-MacBook-Pro.local"" ""jasekpetr@gmail.com"" ""gabriel.aszalos@gmail.com""}",8478.0,49
+Python,superdesk,2016-08-11,1,1,"#{""gabriel.aszalos@gmail.com""}",8479.0,49
+Python,superdesk,2016-08-12,3,2,"#{""edou4rd@gmail.com"" ""gabriel.aszalos@gmail.com""}",8482.0,49
+Python,superdesk,2016-08-15,3,1,"#{""jasekpetr@gmail.com""}",8485.0,49
+Python,superdesk,2016-08-16,5,3,"#{""ioan.pocol@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8490.0,49
+Python,superdesk,2016-08-17,3,3,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""gabriel.aszalos@gmail.com""}",8493.0,49
+Python,superdesk,2016-08-19,3,2,"#{""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org""}",8496.0,49
+Python,superdesk,2016-08-23,9,5,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""thnkloud9@gmail.com"" ""me@pavlovicnemanja.com"" ""gabriel.aszalos@gmail.com""}",8505.0,49
+Python,superdesk,2016-08-25,1,1,"#{""me@pavlovicnemanja.com""}",8506.0,49
+Python,superdesk,2016-08-26,2,1,"#{""me@pavlovicnemanja.com""}",8508.0,49
+Python,superdesk,2016-08-29,2,1,"#{""jasekpetr@gmail.com""}",8510.0,49
+Python,superdesk,2016-08-31,2,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",8512.0,49
+Python,superdesk,2016-09-01,7,3,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8519.0,49
+Python,superdesk,2016-09-02,2,2,"#{""ioan.pocol@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8521.0,49
+Python,superdesk,2016-09-06,7,3,"#{""ioan.pocol@sourcefabric.org"" ""nogues.loic@gmail.com"" ""naspeh@gmail.com""}",8528.0,51
+Python,superdesk,2016-09-07,5,3,"#{""ioan.pocol@sourcefabric.org"" ""aca84.jov@gmail.com"" ""nogues.loic@gmail.com""}",8533.0,51
+Python,superdesk,2016-09-08,2,1,"#{""jasekpetr@gmail.com""}",8535.0,51
+Python,superdesk,2016-09-09,5,2,"#{""ioan.pocol@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8540.0,51
+Python,superdesk,2016-09-12,2,1,"#{""me@pavlovicnemanja.com""}",8542.0,51
+Python,superdesk,2016-09-14,2,1,"#{""jasekpetr@gmail.com""}",8544.0,51
+Python,superdesk,2016-09-16,2,1,"#{""nogues.loic@gmail.com""}",8546.0,51
+Python,superdesk,2016-09-23,5,3,"#{""nogues.loic@gmail.com"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8551.0,51
+Python,superdesk,2016-09-27,2,2,"#{""marklewis@Marks-MacBook-Pro.local"" ""thnkloud9@gmail.com""}",8553.0,51
+Python,superdesk,2016-10-04,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""inylove82@gmail.com""}",8557.0,52
+Python,superdesk,2016-10-05,1,1,"#{""ioan.pocol@sourcefabric.org""}",8558.0,52
+Python,superdesk,2016-10-06,2,1,"#{""jasekpetr@gmail.com""}",8560.0,52
+Python,superdesk,2016-10-09,1,1,"#{""inylove82@gmail.com""}",8561.0,52
+Python,superdesk,2016-10-10,2,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",8563.0,52
+Python,superdesk,2016-10-11,2,2,"#{""jasekpetr@gmail.com"" ""gabriel.aszalos@gmail.com""}",8565.0,52
+Python,superdesk,2016-10-14,1,1,"#{""jasekpetr@gmail.com""}",8566.0,52
+Python,superdesk,2016-10-17,1,1,"#{""jasekpetr@gmail.com""}",8567.0,52
+Python,superdesk,2016-10-18,1,1,"#{""petr.jasek@sourcefabric.org""}",8568.0,52
+Python,superdesk,2016-10-19,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8572.0,52
+Python,superdesk,2016-10-20,4,3,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com"" ""naspeh@gmail.com""}",8576.0,52
+Python,superdesk,2016-10-21,2,1,"#{""jasekpetr@gmail.com""}",8578.0,52
+Python,superdesk,2016-10-24,2,1,"#{""jasekpetr@gmail.com""}",8580.0,52
+Python,superdesk,2016-10-25,2,2,"#{""sjunaid@aap.com.au"" ""jasekpetr@gmail.com""}",8582.0,52
+Python,superdesk,2016-11-01,2,1,"#{""aca84.jov@gmail.com""}",8584.0,52
+Python,superdesk,2016-11-07,2,1,"#{""me@pavlovicnemanja.com""}",8586.0,52
+Python,superdesk,2016-11-09,1,1,"#{""petr.jasek@sourcefabric.org""}",8587.0,52
+Python,superdesk,2016-11-11,2,2,"#{""jasekpetr@gmail.com"" ""naspeh@gmail.com""}",8589.0,52
+Python,superdesk,2016-11-14,1,1,"#{""jasekpetr@gmail.com""}",8590.0,52
+Python,superdesk,2016-11-18,5,2,"#{""me@pavlovicnemanja.com"" ""naspeh@gmail.com""}",8595.0,52
+Python,superdesk,2016-11-21,2,1,"#{""jasekpetr@gmail.com""}",8597.0,52
+Python,superdesk,2016-11-22,8,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""naspeh@gmail.com""}",8605.0,52
+Python,superdesk,2016-11-23,2,1,"#{""jasekpetr@gmail.com""}",8607.0,52
+Python,superdesk,2016-11-29,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8609.0,52
+Python,superdesk,2016-11-30,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8611.0,52
+Python,superdesk,2016-12-08,1,1,"#{""me@pavlovicnemanja.com""}",8612.0,52
+Python,superdesk,2016-12-12,2,2,"#{""jasekpetr@gmail.com"" ""naspeh@gmail.com""}",8614.0,52
+Python,superdesk,2016-12-15,7,3,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com"" ""naspeh@gmail.com""}",8621.0,52
+Python,superdesk,2016-12-16,3,1,"#{""jasekpetr@gmail.com""}",8624.0,52
+Python,superdesk,2016-12-20,4,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8628.0,52
+Python,superdesk,2016-12-23,2,1,"#{""me@pavlovicnemanja.com""}",8630.0,52
+Python,superdesk,2016-12-26,2,1,"#{""me@pavlovicnemanja.com""}",8632.0,52
+Python,superdesk,2017-01-05,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8634.0,52
+Python,superdesk,2017-01-06,2,1,"#{""me@pavlovicnemanja.com""}",8636.0,52
+Python,superdesk,2017-01-09,3,1,"#{""jasekpetr@gmail.com""}",8639.0,52
+Python,superdesk,2017-01-12,4,1,"#{""jerome.poisson@sourcefabric.org""}",8643.0,52
+Python,superdesk,2017-01-17,2,1,"#{""naspeh@gmail.com""}",8645.0,52
+Python,superdesk,2017-01-18,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8647.0,52
+Python,superdesk,2017-01-19,1,1,"#{""jerome.poisson@sourcefabric.org""}",8648.0,52
+Python,superdesk,2017-01-20,3,2,"#{""ioan.pocol@sourcefabric.org"" ""jerome.poisson@sourcefabric.org""}",8651.0,52
+Python,superdesk,2017-01-23,2,2,"#{""gabriel.aszalos@gmail.com"" ""gabriel.aszalos@sourcefabric.org""}",8653.0,53
+Python,superdesk,2017-01-25,4,2,"#{""gabriel.aszalos@gmail.com"" ""gabriel.aszalos@sourcefabric.org""}",8657.0,53
+Python,superdesk,2017-01-26,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""thnkloud9@gmail.com""}",8661.0,53
+Python,superdesk,2017-01-30,2,2,"#{""gabriel.aszalos@gmail.com"" ""gabriel.aszalos@sourcefabric.org""}",8663.0,53
+Python,superdesk,2017-02-02,2,1,"#{""ioan.pocol@sourcefabric.org""}",8665.0,53
+Python,superdesk,2017-02-03,1,1,"#{""naspeh@gmail.com""}",8666.0,53
+Python,superdesk,2017-02-04,1,1,"#{""ioan.pocol@sourcefabric.org""}",8667.0,53
+Python,superdesk,2017-02-06,6,3,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.aszalos@gmail.com"" ""gabriel.aszalos@sourcefabric.org""}",8673.0,53
+Python,superdesk,2017-02-07,5,2,"#{""ioan.pocol@sourcefabric.org"" ""gabriel.aszalos@sourcefabric.org""}",8678.0,53
+Python,superdesk,2017-02-08,5,4,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""mdhamanwala@aap.com.au"" ""petr.jasek@sourcefabric.org""}",8683.0,53
+Python,superdesk,2017-02-09,1,1,"#{""jasekpetr@gmail.com""}",8684.0,53
+Python,superdesk,2017-02-10,2,1,"#{""jasekpetr@gmail.com""}",8686.0,53
+Python,superdesk,2017-02-14,2,1,"#{""ioan.pocol@sourcefabric.org""}",8688.0,53
+Python,superdesk,2017-02-15,4,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",8692.0,53
+Python,superdesk,2017-02-16,3,3,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8695.0,53
+Python,superdesk,2017-02-17,1,1,"#{""jasekpetr@gmail.com""}",8696.0,53
+Python,superdesk,2017-02-20,1,1,"#{""vied12@gmail.com""}",8697.0,53
+Python,superdesk,2017-02-22,5,3,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8702.0,53
+Python,superdesk,2017-02-23,5,2,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org""}",8707.0,53
+Python,superdesk,2017-02-24,2,1,"#{""jasekpetr@gmail.com""}",8709.0,53
+Python,superdesk,2017-02-27,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8711.0,53
+Python,superdesk,2017-03-01,2,1,"#{""jasekpetr@gmail.com""}",8713.0,53
+Python,superdesk,2017-03-06,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8715.0,53
+Python,superdesk,2017-03-09,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""naspeh@gmail.com""}",8719.0,53
+Python,superdesk,2017-03-13,2,2,"#{""jasekpetr@gmail.com"" ""naspeh@gmail.com""}",8721.0,53
+Python,superdesk,2017-03-14,1,1,"#{""edou4rd@gmail.com""}",8722.0,53
+Python,superdesk,2017-03-15,3,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""naspeh@gmail.com""}",8725.0,53
+Python,superdesk,2017-03-17,4,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",8729.0,53
+Python,superdesk,2017-03-22,2,2,"#{""gabriel.aszalos@gmail.com"" ""gabriel.aszalos@sourcefabric.org""}",8731.0,53
+Python,superdesk,2017-03-27,2,2,"#{""gabriel.aszalos@gmail.com"" ""gabriel.aszalos@sourcefabric.org""}",8733.0,53
+Python,superdesk,2017-03-30,2,1,"#{""jasekpetr@gmail.com""}",8735.0,53
+Python,superdesk,2017-03-31,4,1,"#{""jasekpetr@gmail.com""}",8739.0,53
+Python,superdesk,2017-04-04,2,2,"#{""jasekpetr@gmail.com"" ""naspeh@gmail.com""}",8741.0,53
+Python,superdesk,2017-04-06,3,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""gabriel.aszalos@sourcefabric.org""}",8744.0,53
+Python,superdesk,2017-04-12,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8746.0,53
+Python,superdesk,2017-04-13,2,1,"#{""jasekpetr@gmail.com""}",8748.0,53
+Python,superdesk,2017-04-18,4,3,"#{""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""petr.jasek@sourcefabric.org""}",8752.0,53
+Python,superdesk,2017-04-20,3,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""gabriel.aszalos@sourcefabric.org""}",8755.0,53
+Python,superdesk,2017-04-21,2,2,"#{""jerome.poisson@sourcefabric.org"" ""naspeh@gmail.com""}",8757.0,53
+Python,superdesk,2017-04-24,2,1,"#{""ioan.pocol@sourcefabric.org""}",8759.0,53
+Python,superdesk,2017-04-25,4,2,"#{""jerome.poisson@sourcefabric.org"" ""mugur.rus@sourcefabric.org""}",8763.0,53
+Python,superdesk,2017-04-26,2,1,"#{""me@pavlovicnemanja.com""}",8765.0,53
+Python,superdesk,2017-04-28,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""naspeh@gmail.com""}",8769.0,53
+Python,superdesk,2017-04-29,2,1,"#{""mugur.rus@sourcefabric.org""}",8771.0,53
+Python,superdesk,2017-05-02,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8773.0,53
+Python,superdesk,2017-05-04,2,1,"#{""me@pavlovicnemanja.com""}",8775.0,53
+Python,superdesk,2017-05-06,2,1,"#{""naspeh@gmail.com""}",8777.0,53
+Python,superdesk,2017-05-15,4,3,"#{""ioan.pocol@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""naspeh@gmail.com""}",8781.0,53
+Python,superdesk,2017-05-17,5,4,"#{""jasekpetr@gmail.com"" ""akint@aap.com.au"" ""petr.jasek@sourcefabric.org"" ""gabriel.aszalos@sourcefabric.org""}",8786.0,53
+Python,superdesk,2017-05-18,2,1,"#{""jasekpetr@gmail.com""}",8788.0,53
+Python,superdesk,2017-05-19,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8790.0,53
+Python,superdesk,2017-05-22,3,2,"#{""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com""}",8793.0,53
+Python,superdesk,2017-05-29,2,2,"#{""jerome.poisson@sourcefabric.org"" ""naspeh@gmail.com""}",8795.0,53
+Python,superdesk,2017-05-30,3,2,"#{""me@pavlovicnemanja.com"" ""naspeh@gmail.com""}",8798.0,53
+Python,superdesk,2017-06-05,5,2,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com""}",8803.0,53
+Python,superdesk,2017-06-06,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8805.0,53
+Python,superdesk,2017-06-07,2,1,"#{""jasekpetr@gmail.com""}",8807.0,53
+Python,superdesk,2017-06-09,1,1,"#{""me@pavlovicnemanja.com""}",8808.0,53
+Python,superdesk,2017-06-12,3,2,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com""}",8811.0,53
+Python,superdesk,2017-06-14,2,1,"#{""mugur.rus@sourcefabric.org""}",8813.0,53
+Python,superdesk,2017-06-15,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8817.0,53
+Python,superdesk,2017-06-20,2,2,"#{""ioan.pocol@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8819.0,53
+Python,superdesk,2017-06-23,2,1,"#{""me@pavlovicnemanja.com""}",8821.0,53
+Python,superdesk,2017-06-26,4,3,"#{""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8825.0,53
+Python,superdesk,2017-06-28,2,1,"#{""me@pavlovicnemanja.com""}",8827.0,53
+Python,superdesk,2017-06-29,2,1,"#{""jasekpetr@gmail.com""}",8829.0,53
+Python,superdesk,2017-07-03,4,3,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com""}",8833.0,53
+Python,superdesk,2017-07-05,1,1,"#{""gabriel.aszalos@sourcefabric.org""}",8834.0,53
+Python,superdesk,2017-07-06,2,1,"#{""me@pavlovicnemanja.com""}",8836.0,53
+Python,superdesk,2017-07-07,2,1,"#{""me@pavlovicnemanja.com""}",8838.0,53
+Python,superdesk,2017-07-10,4,2,"#{""ioan.pocol@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8842.0,53
+Python,superdesk,2017-07-13,8,5,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com"" ""gabriel.aszalos@sourcefabric.org""}",8850.0,53
+Python,superdesk,2017-07-17,2,1,"#{""me@pavlovicnemanja.com""}",8852.0,53
+Python,superdesk,2017-07-18,4,3,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com""}",8856.0,53
+Python,superdesk,2017-07-19,2,1,"#{""jasekpetr@gmail.com""}",8858.0,53
+Python,superdesk,2017-07-20,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8860.0,53
+Python,superdesk,2017-07-27,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8864.0,53
+Python,superdesk,2017-07-31,2,1,"#{""jasekpetr@gmail.com""}",8866.0,53
+Python,superdesk,2017-08-02,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8868.0,53
+Python,superdesk,2017-08-03,2,1,"#{""jasekpetr@gmail.com""}",8870.0,53
+Python,superdesk,2017-08-09,2,2,"#{""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8872.0,53
+Python,superdesk,2017-08-11,4,3,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8876.0,53
+Python,superdesk,2017-08-17,2,2,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com""}",8878.0,53
+Python,superdesk,2017-08-18,1,1,"#{""me@pavlovicnemanja.com""}",8879.0,53
+Python,superdesk,2017-08-22,1,1,"#{""me@pavlovicnemanja.com""}",8880.0,53
+Python,superdesk,2017-08-27,2,1,"#{""mugur.rus@sourcefabric.org""}",8882.0,53
+Python,superdesk,2017-09-05,2,1,"#{""naspeh@gmail.com""}",8884.0,53
+Python,superdesk,2017-09-06,4,1,"#{""ioan.pocol@sourcefabric.org""}",8888.0,53
+Python,superdesk,2017-09-07,1,1,"#{""naspeh@gmail.com""}",8889.0,53
+Python,superdesk,2017-09-08,1,1,"#{""me@pavlovicnemanja.com""}",8890.0,53
+Python,superdesk,2017-09-10,1,1,"#{""ioan.pocol@sourcefabric.org""}",8891.0,53
+Python,superdesk,2017-09-11,1,1,"#{""me@pavlovicnemanja.com""}",8892.0,53
+Python,superdesk,2017-09-12,3,3,"#{""jerome.poisson@sourcefabric.org"" ""darko.tomic@gmail.com"" ""me@pavlovicnemanja.com""}",8895.0,53
+Python,superdesk,2017-09-13,2,2,"#{""ioan.pocol@sourcefabric.org"" ""me@pavlovicnemanja.com""}",8897.0,53
+Python,superdesk,2017-09-14,4,2,"#{""ioan.pocol@sourcefabric.org"" ""naspeh@gmail.com""}",8901.0,53
+Python,superdesk,2017-09-19,3,2,"#{""ioan.pocol@sourcefabric.org"" ""naspeh@gmail.com""}",8904.0,53
+Python,superdesk,2017-09-21,3,1,"#{""mugur.rus@sourcefabric.org""}",8907.0,53
+Python,superdesk,2017-09-22,5,2,"#{""ioan.pocol@sourcefabric.org"" ""naspeh@gmail.com""}",8912.0,53
+Python,superdesk,2017-09-26,2,1,"#{""naspeh@gmail.com""}",8914.0,53
+Python,superdesk,2017-09-29,1,1,"#{""jerome.poisson@sourcefabric.org""}",8915.0,53
+Python,superdesk,2017-10-02,2,1,"#{""mugur.rus@sourcefabric.org""}",8917.0,53
+Python,superdesk,2017-10-03,1,1,"#{""jerome.poisson@sourcefabric.org""}",8918.0,53
+Python,superdesk,2017-10-10,4,1,"#{""ioan.pocol@sourcefabric.org""}",8922.0,53
+Python,superdesk,2017-10-12,2,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",8924.0,53
+Python,superdesk,2017-10-13,2,1,"#{""ioan.pocol@sourcefabric.org""}",8926.0,53
+Python,superdesk,2017-10-20,2,1,"#{""ioan.pocol@sourcefabric.org""}",8928.0,53
+Python,superdesk,2017-10-23,2,1,"#{""ioan.pocol@sourcefabric.org""}",8930.0,53
+Python,superdesk,2017-10-26,5,2,"#{""jerome.poisson@sourcefabric.org"" ""mugur.rus@sourcefabric.org""}",8935.0,53
+Python,superdesk,2017-11-07,1,1,"#{""me@pavlovicnemanja.com""}",8936.0,53
+Python,superdesk,2017-11-08,5,3,"#{""ioan.pocol@sourcefabric.org"" ""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com""}",8941.0,53
+Python,superdesk,2017-11-09,2,1,"#{""ioan.pocol@sourcefabric.org""}",8943.0,53
+Python,superdesk,2017-11-10,4,2,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org""}",8947.0,53
+Python,superdesk,2017-11-13,4,1,"#{""ioan.pocol@sourcefabric.org""}",8951.0,53
+Python,superdesk,2017-11-14,2,1,"#{""ioan.pocol@sourcefabric.org""}",8953.0,53
+Python,superdesk,2017-11-15,2,1,"#{""ioan.pocol@sourcefabric.org""}",8955.0,53
+Python,superdesk,2017-11-16,2,1,"#{""ioan.pocol@sourcefabric.org""}",8957.0,53
+Python,superdesk,2017-11-17,3,2,"#{""ioan.pocol@sourcefabric.org"" ""nathan@nathansmith.io""}",8960.0,54
+Python,superdesk,2017-11-20,1,1,"#{""jasekpetr@gmail.com""}",8961.0,54
+Python,superdesk,2017-11-21,4,1,"#{""ioan.pocol@sourcefabric.org""}",8965.0,54
+Python,superdesk,2017-11-22,2,1,"#{""ioan.pocol@sourcefabric.org""}",8967.0,54
+Python,superdesk,2017-11-23,4,2,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org""}",8971.0,54
+Python,superdesk,2017-11-25,2,1,"#{""mugur.rus@sourcefabric.org""}",8973.0,54
+Python,superdesk,2017-11-27,2,1,"#{""ioan.pocol@sourcefabric.org""}",8975.0,54
+Python,superdesk,2017-11-28,1,1,"#{""jerome.poisson@sourcefabric.org""}",8976.0,54
+Python,superdesk,2017-11-29,5,3,"#{""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org""}",8981.0,54
+Python,superdesk,2017-11-30,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",8983.0,54
+Python,superdesk,2017-12-01,4,2,"#{""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com""}",8987.0,54
+Python,superdesk,2017-12-04,3,2,"#{""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com""}",8990.0,54
+Python,superdesk,2017-12-05,2,1,"#{""ioan.pocol@sourcefabric.org""}",8992.0,54
+Python,superdesk,2017-12-06,2,1,"#{""ioan.pocol@sourcefabric.org""}",8994.0,54
+Python,superdesk,2017-12-07,4,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",8998.0,54
+Python,superdesk,2017-12-08,2,1,"#{""ioan.pocol@sourcefabric.org""}",9000.0,54
+Python,superdesk,2017-12-12,1,1,"#{""jasekpetr@gmail.com""}",9001.0,54
+Python,superdesk,2017-12-13,5,3,"#{""ioan.pocol@sourcefabric.org"" ""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com""}",9006.0,54
+Python,superdesk,2017-12-14,4,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",9010.0,54
+Python,superdesk,2017-12-18,2,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",9012.0,54
+Python,superdesk,2017-12-20,2,1,"#{""ioan.pocol@sourcefabric.org""}",9014.0,54
+Python,superdesk,2017-12-21,5,2,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com""}",9019.0,54
+Python,superdesk,2017-12-27,2,1,"#{""ioan.pocol@sourcefabric.org""}",9021.0,54
+Python,superdesk,2017-12-28,2,1,"#{""gabriel.aszalos@sourcefabric.org""}",9023.0,54
+Python,superdesk,2017-12-29,4,2,"#{""ioan.pocol@sourcefabric.org"" ""mugur.rus@sourcefabric.org""}",9027.0,54
+Python,superdesk,2018-01-04,2,1,"#{""jasekpetr@gmail.com""}",9029.0,54
+Python,superdesk,2018-01-08,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",9031.0,54
+Python,superdesk,2018-01-09,2,1,"#{""jasekpetr@gmail.com""}",9033.0,54
+Python,superdesk,2018-01-10,2,1,"#{""ioan.pocol@sourcefabric.org""}",9035.0,54
+Python,superdesk,2018-01-11,3,2,"#{""ioan.pocol@sourcefabric.org"" ""t.kikutis@gmail.com""}",9038.0,55
+Python,superdesk,2018-01-12,6,3,"#{""ioan.pocol@sourcefabric.org"" ""jasekpetr@gmail.com"" ""t.kikutis@gmail.com""}",9044.0,55
+Python,superdesk,2018-01-15,5,4,"#{""ioan.pocol@sourcefabric.org"" ""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",9049.0,55
+Python,superdesk,2018-01-17,2,1,"#{""ioan.pocol@sourcefabric.org""}",9051.0,55
+Python,superdesk,2018-01-18,1,1,"#{""petr.jasek@sourcefabric.org""}",9052.0,55
+Python,superdesk,2018-01-19,5,2,"#{""jasekpetr@gmail.com"" ""me@pavlovicnemanja.com""}",9057.0,55
+Python,superdesk,2018-01-22,2,2,"#{""jasekpetr@gmail.com"" ""petr.jasek@sourcefabric.org""}",9059.0,55
+Python,superdesk,2018-01-23,2,1,"#{""t.kikutis@gmail.com""}",9061.0,55
+Python,superdesk,2018-01-25,2,1,"#{""ioan.pocol@sourcefabric.org""}",9063.0,55
+Python,superdesk,2018-01-26,2,1,"#{""ioan.pocol@sourcefabric.org""}",9065.0,55
+Python,superdesk,2018-01-29,1,1,"#{""me@pavlovicnemanja.com""}",9066.0,55
+Python,superdesk,2018-01-30,1,1,"#{""me@pavlovicnemanja.com""}",9067.0,55
+Python,superdesk,2018-01-31,4,2,"#{""me@pavlovicnemanja.com"" ""t.kikutis@gmail.com""}",9071.0,55
+Python,superdesk,2018-02-01,7,4,"#{""jasekpetr@gmail.com"" ""mugur.rus@sourcefabric.org"" ""rmuszynski1@gmail.com"" ""petr.jasek@sourcefabric.org""}",9078.0,55
+Python,superdesk,2018-02-08,2,2,"#{""jasekpetr@gmail.com"" ""tomasz.rondio@gmail.com""}",9080.0,56
+Python,superdesk,2018-02-13,4,2,"#{""jerome.poisson@sourcefabric.org"" ""jasekpetr@gmail.com""}",9084.0,56
+Python,superdesk,2018-02-14,2,1,"#{""ioan.pocol@sourcefabric.org""}",9086.0,56
+Python,superdesk,2018-03-08,2,2,"#{""jasekpetr@gmail.com"" ""rmuszynski1@gmail.com""}",9088.0,56
+Python,superdesk,2018-03-09,2,1,"#{""jasekpetr@gmail.com""}",9090.0,56
+Python,superdesk,2018-05-09,2,1,"#{""jasekpetr@gmail.com""}",9092.0,56
+Python,superdesk,2018-05-17,2,2,"#{""jasekpetr@gmail.com"" ""rmuszynski1@gmail.com""}",9094.0,56
+Python,superdesk,2018-06-08,1,1,"#{""petr.jasek@sourcefabric.org""}",9095.0,56
+Python,superdesk,2018-07-17,2,1,"#{""mugur.rus@gmail.com""}",9097.0,57
+Python,superdesk,2018-07-18,1,1,"#{""ioan.pocol@sourcefabric.org""}",9098.0,57
+Python,superdesk,2018-07-19,1,1,"#{""ioan.pocol@sourcefabric.org""}",9099.0,57
+Python,superdesk,2018-07-31,1,1,"#{""jerome.poisson@sourcefabric.org""}",9100.0,57
+Python,superdesk,2018-08-01,1,1,"#{""petr.jasek@sourcefabric.org""}",9101.0,57
+Python,superdesk,2018-08-02,1,1,"#{""ioan.pocol@sourcefabric.org""}",9102.0,57
+Python,superdesk,2018-08-03,1,1,"#{""ioan.pocol@sourcefabric.org""}",9103.0,57
+Python,superdesk,2018-08-06,1,1,"#{""jasekpetr@gmail.com""}",9104.0,57
+Python,superdesk,2018-08-14,1,1,"#{""jerome.poisson@sourcefabric.org""}",9105.0,57
+Python,superdesk,2018-08-24,1,1,"#{""mark.pittaway@gmail.com""}",9106.0,58
+Python,superdesk,2018-09-18,1,1,"#{""jasekpetr@gmail.com""}",9107.0,58
+Python,superdesk,2018-09-26,2,2,"#{""ioan.pocol@sourcefabric.org"" ""ivp@ivp.local""}",9109.0,59
+Python,superdesk,2018-10-08,2,2,"#{""ioan.pocol@sourcefabric.org"" ""ivp@ivp-2.local""}",9111.0,60
+Python,superdesk,2018-11-14,1,1,"#{""ivp@ivp.local""}",9112.0,60
+Python,superdesk,2018-11-16,1,1,"#{""ioan.pocol@sourcefabric.org""}",9113.0,60
+Python,superdesk,2018-11-22,1,1,"#{""jerome.poisson@sourcefabric.org""}",9114.0,60
+Python,superdesk,2018-11-27,1,1,"#{""t.kikutis@gmail.com""}",9115.0,60
+Python,superdesk,2018-11-29,1,1,"#{""jerome.poisson@sourcefabric.org""}",9116.0,60
+Python,superdesk,2019-01-30,1,1,"#{""t.kikutis@gmail.com""}",9117.0,60
+Python,superdesk,2019-02-01,2,1,"#{""olegpshenichniy@gmail.com""}",9119.0,61
+Python,superdesk,2019-03-05,2,1,"#{""olegpshenichniy@gmail.com""}",9121.0,61
+Python,superdesk,2019-05-01,1,1,"#{""getsiddd@gmail.com""}",9122.0,62
+Python,superdesk,2019-05-28,1,1,"#{""jasekpetr@gmail.com""}",9123.0,62
+Python,superdesk,2019-06-07,1,1,"#{""t.kikutis@gmail.com""}",9124.0,62
+Python,superdesk,2019-07-01,1,1,"#{""gyanig72@gmail.com""}",9125.0,63
+Python,superdesk,2019-07-02,1,1,"#{""jerome.poisson@sourcefabric.org""}",9126.0,63
+Python,superdesk,2019-08-27,1,1,"#{""jasekpetr@gmail.com""}",9127.0,63
+Python,superdesk,2019-09-12,1,1,"#{""mark.pittaway@gmail.com""}",9128.0,63
+Python,superdesk,2019-10-24,1,1,"#{""t.kikutis@gmail.com""}",9129.0,63
+Python,superdesk,2019-11-07,1,1,"#{""t.kikutis@gmail.com""}",9130.0,63
+Python,superdesk,2019-11-10,1,1,"#{""t.kikutis@gmail.com""}",9131.0,63
+Python,superdesk,2019-12-04,1,1,"#{""t.kikutis@gmail.com""}",9132.0,63
+Python,superdesk,2020-02-25,1,1,"#{""olegpshenichniy@gmail.com""}",9133.0,63
+Python,superdesk,2020-03-26,1,1,"#{""jasekpetr@gmail.com""}",9134.0,63
+Python,superdesk,2020-06-08,1,1,"#{""pablovarela182@gmail.com""}",9135.0,64
+Python,superdesk,2020-06-18,1,1,"#{""mark.pittaway@gmail.com""}",9136.0,64
+Python,superdesk,2020-06-19,2,2,"#{""jasekpetr@gmail.com"" ""62991760+dev-tsoni@users.noreply.github.com""}",9138.0,65
+Python,superdesk,2020-09-23,1,1,"#{""pablovarela182@gmail.com""}",9139.0,65
+Python,superdesk,2020-10-03,1,1,"#{""olegpshenichniy@gmail.com""}",9140.0,65
+Python,superdesk,2020-10-06,3,1,"#{""jasekpetr@gmail.com""}",9143.0,65
+Python,superdesk,2020-10-07,1,1,"#{""jasekpetr@gmail.com""}",9144.0,65
+Python,superdesk,2020-11-03,1,1,"#{""jasekpetr@gmail.com""}",9145.0,65
+Python,superdesk,2020-11-05,1,1,"#{""jasekpetr@gmail.com""}",9146.0,65
+Python,superdesk,2020-11-12,3,1,"#{""jasekpetr@gmail.com""}",9149.0,65
+Python,superdesk,2020-12-03,1,1,"#{""pablovarela182@gmail.com""}",9150.0,65
+Python,superdesk,2020-12-21,1,1,"#{""jasekpetr@gmail.com""}",9151.0,65
+Python,superdesk,2021-01-08,1,1,"#{""jasekpetr@gmail.com""}",9152.0,65
+Python,superdesk,2021-02-03,2,1,"#{""jasekpetr@gmail.com""}",9154.0,65
+Python,superdesk,2021-02-10,4,1,"#{""jasekpetr@gmail.com""}",9158.0,65
+Python,superdesk,2021-02-18,2,2,"#{""jasekpetr@gmail.com"" ""t.kikutis@gmail.com""}",9160.0,65
+Python,superdesk,2021-03-01,1,1,"#{""jasekpetr@gmail.com""}",9161.0,65
+Python,superdesk,2021-03-05,2,2,"#{""mark.pittaway@gmail.com"" ""jasekpetr@gmail.com""}",9163.0,65
+Python,superdesk,2021-03-08,2,1,"#{""jerome.poisson@sourcefabric.org""}",9165.0,65
+Python,superdesk,2021-03-17,1,1,"#{""nickdbush@hotmail.co.uk""}",9166.0,66
+Python,superdesk,2021-03-30,1,1,"#{""jasekpetr@gmail.com""}",9167.0,66
+Python,superdesk,2021-04-06,1,1,"#{""jasekpetr@gmail.com""}",9168.0,66
+Python,superdesk,2021-04-07,2,1,"#{""mark.pittaway@gmail.com""}",9170.0,66
+Python,superdesk,2021-04-16,1,1,"#{""jasekpetr@gmail.com""}",9171.0,66
+Python,superdesk,2021-04-27,1,1,"#{""jasekpetr@gmail.com""}",9172.0,66
+Python,superdesk,2021-05-03,2,1,"#{""jasekpetr@gmail.com""}",9174.0,66
+Python,superdesk,2021-05-04,1,1,"#{""jasekpetr@gmail.com""}",9175.0,66
+Python,superdesk,2021-05-06,3,1,"#{""jasekpetr@gmail.com""}",9178.0,66
+Python,superdesk,2021-05-10,1,1,"#{""jasekpetr@gmail.com""}",9179.0,66
+Python,superdesk,2021-05-12,2,2,"#{""jasekpetr@gmail.com"" ""t.kikutis@gmail.com""}",9181.0,66
+Python,superdesk,2021-05-13,2,1,"#{""jasekpetr@gmail.com""}",9183.0,66
+Python,superdesk,2021-05-21,1,1,"#{""mark.pittaway@gmail.com""}",9184.0,66
+Python,superdesk,2021-05-26,1,1,"#{""t.kikutis@gmail.com""}",9185.0,66
+Python,superdesk,2021-05-28,4,3,"#{""jasekpetr@gmail.com"" ""gyanig72@gmail.com"" ""t.kikutis@gmail.com""}",9189.0,66
+Python,superdesk,2021-06-17,1,1,"#{""mark.pittaway@gmail.com""}",9190.0,66
+Python,superdesk,2021-06-21,1,1,"#{""jasekpetr@gmail.com""}",9191.0,66
+Python,superdesk,2021-06-23,1,1,"#{""jasekpetr@gmail.com""}",9192.0,66
+Python,superdesk,2021-06-25,1,1,"#{""jasekpetr@gmail.com""}",9193.0,66
+Python,superdesk,2021-07-13,1,1,"#{""jasekpetr@gmail.com""}",9194.0,66
+Python,superdesk,2021-07-19,2,1,"#{""jasekpetr@gmail.com""}",9196.0,66
+Python,superdesk,2021-07-21,3,1,"#{""jasekpetr@gmail.com""}",9199.0,66
+Python,superdesk,2021-07-23,1,1,"#{""jasekpetr@gmail.com""}",9200.0,66
+Python,superdesk,2021-08-25,1,1,"#{""t.kikutis@gmail.com""}",9201.0,66
+Python,superdesk,2021-09-01,2,1,"#{""jasekpetr@gmail.com""}",9203.0,66
+Python,superdesk,2021-09-07,1,1,"#{""jasekpetr@gmail.com""}",9204.0,66
+Python,superdesk,2021-09-13,1,1,"#{""jasekpetr@gmail.com""}",9205.0,66
+Python,superdesk,2021-09-17,1,1,"#{""t.kikutis@gmail.com""}",9206.0,66
+Python,superdesk,2021-10-05,1,1,"#{""t.kikutis@gmail.com""}",9207.0,66
+Python,superdesk,2021-10-21,1,1,"#{""jasekpetr@gmail.com""}",9208.0,66
+Python,superdesk,2021-11-02,1,1,"#{""mark.pittaway@gmail.com""}",9209.0,66
+Python,superdesk,2021-11-19,2,1,"#{""jasekpetr@gmail.com""}",9211.0,66
+Python,superdesk,2021-11-24,1,1,"#{""jasekpetr@gmail.com""}",9212.0,66
+Python,superdesk,2021-11-29,1,1,"#{""t.kikutis@gmail.com""}",9213.0,66
+Python,superdesk,2021-12-13,1,1,"#{""mark.pittaway@gmail.com""}",9214.0,66
+Python,superdesk,2021-12-22,1,1,"#{""jasekpetr@gmail.com""}",9215.0,66
+Python,superdesk,2022-01-14,1,1,"#{""jasekpetr@gmail.com""}",9216.0,66
+Python,superdesk,2022-01-24,1,1,"#{""jasekpetr@gmail.com""}",9217.0,66
+Python,superdesk,2022-01-25,2,1,"#{""jasekpetr@gmail.com""}",9219.0,66
+Python,superdesk,2022-02-23,2,1,"#{""jasekpetr@gmail.com""}",9221.0,66
+Python,superdesk,2022-02-28,5,1,"#{""jasekpetr@gmail.com""}",9226.0,66
+Python,superdesk,2022-04-11,1,1,"#{""baharimahdi@ymail.com""}",9227.0,67
+Python,superdesk,2022-06-23,2,1,"#{""jasekpetr@gmail.com""}",9229.0,67
+Python,superdesk,2022-09-29,6,1,"#{""jasekpetr@gmail.com""}",9235.0,67
+Python,superdesk,2022-10-03,2,1,"#{""jasekpetr@gmail.com""}",9237.0,67
+Python,superdesk,2022-10-04,1,1,"#{""jasekpetr@gmail.com""}",9238.0,67
+Python,superdesk,2022-10-19,4,1,"#{""jasekpetr@gmail.com""}",9242.0,67
+Python,superdesk,2022-11-09,1,1,"#{""jasekpetr@gmail.com""}",9243.0,67
+Python,superdesk,2022-11-14,1,1,"#{""jasekpetr@gmail.com""}",9244.0,67
+Python,superdesk,2022-11-15,2,1,"#{""maga.ot.oz@protonmail.com""}",9246.0,68
+Python,superdesk,2022-11-25,3,1,"#{""jasekpetr@gmail.com""}",9249.0,68
+Python,superdesk,2022-12-02,1,1,"#{""jasekpetr@gmail.com""}",9250.0,68
+Python,superdesk,2022-12-06,1,1,"#{""jasekpetr@gmail.com""}",9251.0,68
+Python,superdesk,2022-12-09,3,1,"#{""jasekpetr@gmail.com""}",9254.0,68
+Python,superdesk,2022-12-20,1,1,"#{""jasekpetr@gmail.com""}",9255.0,68
+Python,superdesk,2023-01-20,3,1,"#{""jasekpetr@gmail.com""}",9258.0,68
+Python,superdesk,2023-05-17,1,1,"#{""jasekpetr@gmail.com""}",9259.0,68
+Python,superdesk,2023-11-27,1,1,"#{""jasekpetr@gmail.com""}",9260.0,68

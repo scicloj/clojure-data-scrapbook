@@ -1,0 +1,147 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,Netflix-Skunkworks,2014-10-20,1,1,"#{""awspyker@gmail.com""}",1.0,1
+Python,Netflix-Skunkworks,2014-10-21,4,1,"#{""awspyker@gmail.com""}",5.0,1
+Python,Netflix-Skunkworks,2014-10-23,6,1,"#{""awspyker@gmail.com""}",11.0,1
+Python,Netflix-Skunkworks,2014-10-24,4,1,"#{""awspyker@gmail.com""}",15.0,1
+Python,Netflix-Skunkworks,2014-10-29,2,1,"#{""awspyker@gmail.com""}",17.0,1
+Python,Netflix-Skunkworks,2014-10-30,1,1,"#{""awspyker@gmail.com""}",18.0,1
+Python,Netflix-Skunkworks,2014-11-05,3,1,"#{""awspyker@gmail.com""}",21.0,1
+Python,Netflix-Skunkworks,2014-11-07,2,1,"#{""awspyker@gmail.com""}",23.0,1
+Python,Netflix-Skunkworks,2014-11-10,4,2,"#{""pkelley@netflix.com"" ""awspyker@gmail.com""}",27.0,2
+Python,Netflix-Skunkworks,2014-11-12,1,1,"#{""awspyker@gmail.com""}",28.0,2
+Python,Netflix-Skunkworks,2014-11-17,1,1,"#{""pkelley@netflix.com""}",29.0,2
+Python,Netflix-Skunkworks,2014-11-18,1,1,"#{""pkelley@netflix.com""}",30.0,2
+Python,Netflix-Skunkworks,2014-11-20,1,1,"#{""awspyker@gmail.com""}",31.0,2
+Python,Netflix-Skunkworks,2014-12-12,2,1,"#{""awspyker@gmail.com""}",33.0,2
+Python,Netflix-Skunkworks,2014-12-14,1,1,"#{""matthewj@netflix.com""}",34.0,3
+Python,Netflix-Skunkworks,2014-12-15,3,1,"#{""awspyker@gmail.com""}",37.0,3
+Python,Netflix-Skunkworks,2014-12-16,1,1,"#{""matthewj@netflix.com""}",38.0,3
+Python,Netflix-Skunkworks,2014-12-19,1,1,"#{""awspyker@gmail.com""}",39.0,3
+Python,Netflix-Skunkworks,2015-01-06,1,1,"#{""john.gaunt@rd.io""}",40.0,4
+Python,Netflix-Skunkworks,2015-01-08,1,1,"#{""awspyker@gmail.com""}",41.0,4
+Python,Netflix-Skunkworks,2015-01-09,2,1,"#{""awspyker@gmail.com""}",43.0,4
+Python,Netflix-Skunkworks,2015-02-03,8,4,"#{""pkelley@netflix.com"" ""tgianos@netflix.com"" ""awspyker@gmail.com"" ""matthewj@netflix.com""}",51.0,5
+Python,Netflix-Skunkworks,2015-02-09,5,2,"#{""tgianos@netflix.com"" ""awspyker@gmail.com""}",56.0,5
+Python,Netflix-Skunkworks,2015-02-10,5,1,"#{""tgianos@netflix.com""}",61.0,5
+Python,Netflix-Skunkworks,2015-02-12,1,1,"#{""everpeace@gmail.com""}",62.0,6
+Python,Netflix-Skunkworks,2015-02-13,1,1,"#{""tgianos@netflix.com""}",63.0,6
+Python,Netflix-Skunkworks,2015-02-17,3,3,"#{""tom.gianos@gmail.com"" ""tgianos@netflix.com"" ""awspyker@gmail.com""}",66.0,7
+Python,Netflix-Skunkworks,2015-02-20,1,1,"#{""pkelley@netflix.com""}",67.0,7
+Python,Netflix-Skunkworks,2015-02-22,2,1,"#{""awspyker@gmail.com""}",69.0,7
+Python,Netflix-Skunkworks,2015-02-23,1,1,"#{""tgianos@netflix.com""}",70.0,7
+Python,Netflix-Skunkworks,2015-02-26,1,1,"#{""tgianos@netflix.com""}",71.0,7
+Python,Netflix-Skunkworks,2015-02-27,2,1,"#{""tgianos@netflix.com""}",73.0,7
+Python,Netflix-Skunkworks,2015-03-09,1,1,"#{""tgianos@netflix.com""}",74.0,7
+Python,Netflix-Skunkworks,2015-03-10,1,1,"#{""awspyker@gmail.com""}",75.0,7
+Python,Netflix-Skunkworks,2015-05-14,1,1,"#{""tgianos@netflix.com""}",76.0,7
+Python,Netflix-Skunkworks,2015-05-15,2,2,"#{""tgianos@netflix.com"" ""mat@schaffer.me""}",78.0,8
+Python,Netflix-Skunkworks,2015-06-03,1,1,"#{""tgianos@netflix.com""}",79.0,8
+Python,Netflix-Skunkworks,2015-06-04,1,1,"#{""tgianos@netflix.com""}",80.0,8
+Python,Netflix-Skunkworks,2015-06-25,1,1,"#{""awspyker@gmail.com""}",81.0,8
+Python,Netflix-Skunkworks,2015-06-26,4,2,"#{""tgianos@users.noreply.github.com"" ""tgianos@netflix.com""}",85.0,9
+Python,Netflix-Skunkworks,2015-08-20,3,1,"#{""pkelley@netflix.com""}",88.0,9
+Python,Netflix-Skunkworks,2015-08-24,1,1,"#{""sbehrens@gmail.com""}",89.0,10
+Python,Netflix-Skunkworks,2015-10-18,1,1,"#{""aspyker@netflix.com""}",90.0,11
+Python,Netflix-Skunkworks,2015-10-19,2,1,"#{""aspyker@netflix.com""}",92.0,11
+Python,Netflix-Skunkworks,2016-03-11,1,1,"#{""spiermar@gmail.com""}",93.0,12
+Python,Netflix-Skunkworks,2016-03-12,1,1,"#{""awspyker@gmail.com""}",94.0,12
+Python,Netflix-Skunkworks,2017-01-17,2,1,"#{""awspyker@gmail.com""}",96.0,12
+Python,Netflix-Skunkworks,2017-02-17,7,2,"#{""andreww@netflix.com"" ""jkriss@netflix.com""}",103.0,14
+Python,Netflix-Skunkworks,2017-02-19,3,1,"#{""jkriss@netflix.com""}",106.0,14
+Python,Netflix-Skunkworks,2017-02-21,11,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",117.0,15
+Python,Netflix-Skunkworks,2017-02-22,2,2,"#{""charychandan@gmail.com"" ""jkriss@users.noreply.github.com""}",119.0,17
+Python,Netflix-Skunkworks,2017-02-23,1,1,"#{""andreww@netflix.com""}",120.0,17
+Python,Netflix-Skunkworks,2017-02-26,2,2,"#{""jeremy@murkylabs.com"" ""ka7@github.com""}",122.0,19
+Python,Netflix-Skunkworks,2017-02-27,16,3,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com"" ""jkriss@netflix.com""}",138.0,19
+Python,Netflix-Skunkworks,2017-02-28,4,1,"#{""andreww@netflix.com""}",142.0,19
+Python,Netflix-Skunkworks,2017-03-03,2,1,"#{""andreww@netflix.com""}",144.0,19
+Python,Netflix-Skunkworks,2017-03-05,3,1,"#{""andreww@netflix.com""}",147.0,19
+Python,Netflix-Skunkworks,2017-03-07,1,1,"#{""andreww@netflix.com""}",148.0,19
+Python,Netflix-Skunkworks,2017-03-08,1,1,"#{""jkriss@users.noreply.github.com""}",149.0,19
+Python,Netflix-Skunkworks,2017-03-14,2,1,"#{""andreww@netflix.com""}",151.0,19
+Python,Netflix-Skunkworks,2017-03-17,4,3,"#{""andrewmwhite@gmail.com"" ""jkriss@netflix.com"" ""jkriss@users.noreply.github.com""}",155.0,19
+Python,Netflix-Skunkworks,2017-03-29,1,1,"#{""andreww@netflix.com""}",156.0,19
+Python,Netflix-Skunkworks,2017-04-04,1,1,"#{""andreww@netflix.com""}",157.0,19
+Python,Netflix-Skunkworks,2017-04-12,5,1,"#{""andreww@netflix.com""}",162.0,19
+Python,Netflix-Skunkworks,2017-04-13,7,3,"#{""andreww@netflix.com"" ""jkriss@netflix.com"" ""jkriss@users.noreply.github.com""}",169.0,19
+Python,Netflix-Skunkworks,2017-04-17,3,1,"#{""andreww@netflix.com""}",172.0,19
+Python,Netflix-Skunkworks,2017-04-18,7,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",179.0,19
+Python,Netflix-Skunkworks,2017-04-21,1,1,"#{""andreww@netflix.com""}",180.0,19
+Python,Netflix-Skunkworks,2017-05-01,7,1,"#{""andreww@netflix.com""}",187.0,19
+Python,Netflix-Skunkworks,2017-06-06,3,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",190.0,19
+Python,Netflix-Skunkworks,2017-06-09,13,2,"#{""andreww@netflix.com"" ""jkriss@netflix.com""}",203.0,19
+Python,Netflix-Skunkworks,2017-06-12,3,1,"#{""andrewmwhite@gmail.com""}",206.0,19
+Python,Netflix-Skunkworks,2017-06-13,1,1,"#{""andrewmwhite@gmail.com""}",207.0,19
+Python,Netflix-Skunkworks,2017-06-15,4,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",211.0,19
+Python,Netflix-Skunkworks,2017-06-20,1,1,"#{""andreww@netflix.com""}",212.0,19
+Python,Netflix-Skunkworks,2017-06-22,7,1,"#{""andreww@netflix.com""}",219.0,19
+Python,Netflix-Skunkworks,2017-06-26,2,1,"#{""andreww@netflix.com""}",221.0,19
+Python,Netflix-Skunkworks,2017-06-30,7,1,"#{""andreww@netflix.com""}",228.0,19
+Python,Netflix-Skunkworks,2017-07-05,5,2,"#{""andrewmwhite@gmail.com"" ""jkriss@netflix.com""}",233.0,19
+Python,Netflix-Skunkworks,2017-07-06,4,1,"#{""andreww@netflix.com""}",237.0,19
+Python,Netflix-Skunkworks,2017-07-07,1,1,"#{""andrewmwhite@gmail.com""}",238.0,19
+Python,Netflix-Skunkworks,2017-07-11,11,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",249.0,19
+Python,Netflix-Skunkworks,2017-07-18,3,2,"#{""jkriss@netflix.com"" ""jkriss@users.noreply.github.com""}",252.0,19
+Python,Netflix-Skunkworks,2017-07-19,4,2,"#{""jkriss@netflix.com"" ""jkriss@users.noreply.github.com""}",256.0,19
+Python,Netflix-Skunkworks,2017-07-21,1,1,"#{""andreww@netflix.com""}",257.0,19
+Python,Netflix-Skunkworks,2017-07-25,1,1,"#{""jkriss@netflix.com""}",258.0,19
+Python,Netflix-Skunkworks,2017-07-27,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",260.0,19
+Python,Netflix-Skunkworks,2017-07-28,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",262.0,19
+Python,Netflix-Skunkworks,2017-07-31,1,1,"#{""andrewmwhite@gmail.com""}",263.0,19
+Python,Netflix-Skunkworks,2017-08-03,1,1,"#{""andreww@netflix.com""}",264.0,19
+Python,Netflix-Skunkworks,2017-08-04,5,1,"#{""andreww@netflix.com""}",269.0,19
+Python,Netflix-Skunkworks,2017-08-07,8,1,"#{""andreww@netflix.com""}",277.0,19
+Python,Netflix-Skunkworks,2017-08-08,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",279.0,19
+Python,Netflix-Skunkworks,2017-08-14,3,2,"#{""andrewmwhite@gmail.com"" ""jkriss@netflix.com""}",282.0,19
+Python,Netflix-Skunkworks,2017-08-16,3,1,"#{""andreww@netflix.com""}",285.0,19
+Python,Netflix-Skunkworks,2017-08-21,5,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",290.0,19
+Python,Netflix-Skunkworks,2017-08-25,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",292.0,19
+Python,Netflix-Skunkworks,2017-08-30,5,1,"#{""andreww@netflix.com""}",297.0,19
+Python,Netflix-Skunkworks,2017-08-31,3,1,"#{""andrewmwhite@gmail.com""}",300.0,19
+Python,Netflix-Skunkworks,2017-09-01,15,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",315.0,19
+Python,Netflix-Skunkworks,2017-09-07,9,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",324.0,19
+Python,Netflix-Skunkworks,2017-09-19,2,1,"#{""andreww@netflix.com""}",326.0,19
+Python,Netflix-Skunkworks,2017-09-20,1,1,"#{""andrewmwhite@gmail.com""}",327.0,19
+Python,Netflix-Skunkworks,2017-09-22,6,3,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com"" ""rmcvey@netflix.com""}",333.0,20
+Python,Netflix-Skunkworks,2017-09-27,1,1,"#{""andrewmwhite@gmail.com""}",334.0,20
+Python,Netflix-Skunkworks,2017-09-29,9,1,"#{""andreww@netflix.com""}",343.0,20
+Python,Netflix-Skunkworks,2017-10-02,1,1,"#{""andrewmwhite@gmail.com""}",344.0,20
+Python,Netflix-Skunkworks,2017-10-06,7,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",351.0,20
+Python,Netflix-Skunkworks,2017-10-09,3,2,"#{""rmcvey@netflix.com"" ""jkriss@users.noreply.github.com""}",354.0,20
+Python,Netflix-Skunkworks,2017-11-14,1,1,"#{""andreww@netflix.com""}",355.0,20
+Python,Netflix-Skunkworks,2017-11-20,1,1,"#{""andrewmwhite@gmail.com""}",356.0,20
+Python,Netflix-Skunkworks,2017-11-21,2,1,"#{""andreww@netflix.com""}",358.0,20
+Python,Netflix-Skunkworks,2017-11-29,2,1,"#{""andreww@netflix.com""}",360.0,20
+Python,Netflix-Skunkworks,2017-12-04,2,1,"#{""andreww@netflix.com""}",362.0,20
+Python,Netflix-Skunkworks,2017-12-06,2,1,"#{""andrewmwhite@gmail.com""}",364.0,20
+Python,Netflix-Skunkworks,2017-12-19,1,1,"#{""seils@cisco.com""}",365.0,21
+Python,Netflix-Skunkworks,2017-12-20,1,1,"#{""andrewmwhite@gmail.com""}",366.0,21
+Python,Netflix-Skunkworks,2018-01-09,1,1,"#{""andreww@netflix.com""}",367.0,21
+Python,Netflix-Skunkworks,2018-01-12,1,1,"#{""andreww@netflix.com""}",368.0,21
+Python,Netflix-Skunkworks,2018-02-20,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",370.0,21
+Python,Netflix-Skunkworks,2018-02-23,15,1,"#{""andreww@netflix.com""}",385.0,21
+Python,Netflix-Skunkworks,2018-02-26,4,1,"#{""andreww@netflix.com""}",389.0,21
+Python,Netflix-Skunkworks,2018-02-27,2,1,"#{""andrewmwhite@gmail.com""}",391.0,21
+Python,Netflix-Skunkworks,2018-03-02,1,1,"#{""andreww@netflix.com""}",392.0,21
+Python,Netflix-Skunkworks,2018-03-13,1,1,"#{""andrewmwhite@gmail.com""}",393.0,21
+Python,Netflix-Skunkworks,2018-03-14,10,3,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com"" ""jkriss@netflix.com""}",403.0,21
+Python,Netflix-Skunkworks,2018-03-15,10,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",413.0,21
+Python,Netflix-Skunkworks,2018-03-16,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",415.0,21
+Python,Netflix-Skunkworks,2018-03-19,2,2,"#{""andrewmwhite@gmail.com"" ""jkriss@netflix.com""}",417.0,21
+Python,Netflix-Skunkworks,2018-03-26,3,1,"#{""andreww@netflix.com""}",420.0,21
+Python,Netflix-Skunkworks,2018-03-29,3,2,"#{""andrewmwhite@gmail.com"" ""rmcvey@netflix.com""}",423.0,21
+Python,Netflix-Skunkworks,2018-03-30,6,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",429.0,21
+Python,Netflix-Skunkworks,2018-04-03,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",431.0,21
+Python,Netflix-Skunkworks,2018-04-05,2,1,"#{""andreww@netflix.com""}",433.0,21
+Python,Netflix-Skunkworks,2018-04-06,3,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",436.0,21
+Python,Netflix-Skunkworks,2018-04-10,4,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",440.0,21
+Python,Netflix-Skunkworks,2018-04-11,1,1,"#{""andrewmwhite@gmail.com""}",441.0,21
+Python,Netflix-Skunkworks,2018-04-16,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",443.0,21
+Python,Netflix-Skunkworks,2018-04-24,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",445.0,21
+Python,Netflix-Skunkworks,2018-04-30,2,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",447.0,21
+Python,Netflix-Skunkworks,2018-05-14,3,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",450.0,21
+Python,Netflix-Skunkworks,2018-05-21,8,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",458.0,21
+Python,Netflix-Skunkworks,2018-06-05,3,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",461.0,21
+Python,Netflix-Skunkworks,2018-06-07,4,2,"#{""andreww@netflix.com"" ""andrewmwhite@gmail.com""}",465.0,21
+Python,Netflix-Skunkworks,2019-04-03,6,1,"#{""jkriss@netflix.com""}",471.0,21
+Python,Netflix-Skunkworks,2019-04-08,2,2,"#{""jkriss@netflix.com"" ""jkriss@users.noreply.github.com""}",473.0,21

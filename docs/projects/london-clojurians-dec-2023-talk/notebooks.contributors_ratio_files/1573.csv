@@ -1,0 +1,634 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex@puredanger.com, alex@puredanger.com]",2.0,"[{""other"" 2}]",2,0,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alex@puredanger.com, brobronsa@gmail.com]",4.0,"[{""other"" 3, 0 1}]",3,1,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",8.0,"[{""other"" 3, 0 5}]",3,5,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-12,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",13.0,"[{""other"" 3, 0 10}]",3,10,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",14.0,"[{""other"" 3, 0 11}]",3,11,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",15.0,"[{""other"" 3, 0 12}]",3,12,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",16.0,"[{""other"" 3, 0 13}]",3,13,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-10-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",18.0,"[{""other"" 3, 0 15}]",3,15,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",19.0,"[{""other"" 3, 0 16}]",3,16,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",21.0,"[{""other"" 3, 0 18}]",3,18,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",24.0,"[{""other"" 3, 0 21}]",3,21,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",25.0,"[{""other"" 3, 0 22}]",3,22,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",28.0,"[{""other"" 3, 0 25}]",3,25,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-14,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",36.0,"[{""other"" 3, 0 33}]",3,33,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",41.0,"[{""other"" 3, 0 38}]",3,38,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",43.0,"[{""other"" 3, 0 40}]",3,40,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",44.0,"[{""other"" 3, 0 41}]",3,41,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",46.0,"[{""other"" 3, 0 43}]",3,43,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",47.0,"[{""other"" 3, 0 44}]",3,44,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",48.0,"[{""other"" 3, 0 45}]",3,45,0,0,0,0
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[andy_fingerhut@alum.wustl.edu, andy_fingerhut@alum.wustl.edu]",50.0,"[{""other"" 3, 0 45, 4 2}]",3,45,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-28,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",58.0,"[{""other"" 3, 0 53, 4 2}]",3,53,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",60.0,"[{""other"" 3, 0 55, 4 2}]",3,55,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-11-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",62.0,"[{""other"" 3, 0 57, 4 2}]",3,57,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",63.0,"[{""other"" 3, 0 58, 4 2}]",3,58,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",68.0,"[{""other"" 3, 0 63, 4 2}]",3,63,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",70.0,"[{""other"" 3, 0 65, 4 2}]",3,65,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",72.0,"[{""other"" 3, 0 67, 4 2}]",3,67,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",73.0,"[{""other"" 3, 0 68, 4 2}]",3,68,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-09,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",82.0,"[{""other"" 3, 0 77, 4 2}]",3,77,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",84.0,"[{""other"" 3, 0 79, 4 2}]",3,79,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",86.0,"[{""other"" 3, 0 81, 4 2}]",3,81,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",87.0,"[{""other"" 3, 0 82, 4 2}]",3,82,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",92.0,"[{""other"" 3, 0 87, 4 2}]",3,87,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",97.0,"[{""other"" 3, 0 92, 4 2}]",3,92,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",100.0,"[{""other"" 3, 0 95, 4 2}]",3,95,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",103.0,"[{""other"" 3, 0 98, 4 2}]",3,98,0,0,0,2
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andy_fingerhut@alum.wustl.edu]",104.0,"[{""other"" 3, 0 98, 4 3}]",3,98,0,0,0,3
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",105.0,"[{""other"" 3, 0 99, 4 3}]",3,99,0,0,0,3
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andy_fingerhut@alum.wustl.edu]",106.0,"[{""other"" 3, 0 99, 4 4}]",3,99,0,0,0,4
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",108.0,"[{""other"" 3, 0 101, 4 4}]",3,101,0,0,0,4
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",109.0,"[{""other"" 3, 0 102, 4 4}]",3,102,0,0,0,4
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",113.0,"[{""other"" 3, 0 106, 4 4}]",3,106,0,0,0,4
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",115.0,"[{""other"" 3, 0 108, 4 4}]",3,108,0,0,0,4
+Clojure,https://github.com/clojure/tools.analyzer,2013-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",116.0,"[{""other"" 3, 0 109, 4 4}]",3,109,0,0,0,4
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[andy_fingerhut@alum.wustl.edu, jonas.enlund@gmail.com]",118.0,"[{""other"" 4, 0 109, 4 5}]",4,109,0,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",119.0,"[{""other"" 4, 0 110, 4 5}]",4,110,0,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",121.0,"[{""other"" 4, 0 112, 4 5}]",4,112,0,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",127.0,"[{""other"" 4, 0 118, 4 5}]",4,118,0,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-10,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",130.0,"[{""other"" 4, 0 119, 4 5, 1 2}]",4,119,2,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",131.0,"[{""other"" 4, 0 120, 4 5, 1 2}]",4,120,2,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",135.0,"[{""other"" 4, 0 124, 4 5, 1 2}]",4,124,2,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",139.0,"[{""other"" 4, 0 128, 4 5, 1 2}]",4,128,2,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",140.0,"[{""other"" 4, 0 129, 4 5, 1 2}]",4,129,2,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-16,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com]",144.0,"[{""other"" 4, 0 131, 4 5, 1 4}]",4,131,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",145.0,"[{""other"" 4, 0 132, 4 5, 1 4}]",4,132,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",148.0,"[{""other"" 4, 0 135, 4 5, 1 4}]",4,135,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",152.0,"[{""other"" 4, 0 139, 4 5, 1 4}]",4,139,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",154.0,"[{""other"" 4, 0 141, 4 5, 1 4}]",4,141,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",156.0,"[{""other"" 4, 0 143, 4 5, 1 4}]",4,143,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",158.0,"[{""other"" 4, 0 145, 4 5, 1 4}]",4,145,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",160.0,"[{""other"" 4, 0 147, 4 5, 1 4}]",4,147,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",161.0,"[{""other"" 4, 0 148, 4 5, 1 4}]",4,148,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",163.0,"[{""other"" 4, 0 150, 4 5, 1 4}]",4,150,4,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-11,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",166.0,"[{""other"" 4, 0 151, 4 5, 1 6}]",4,151,6,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-14,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",171.0,"[{""other"" 4, 0 154, 4 5, 1 8}]",4,154,8,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-15,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com]",176.0,"[{""other"" 4, 0 157, 4 5, 1 10}]",4,157,10,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-16,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",183.0,"[{""other"" 4, 0 164, 4 5, 1 10}]",4,164,10,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-17,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",188.0,"[{""other"" 4, 0 167, 4 5, 1 12}]",4,167,12,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",189.0,"[{""other"" 4, 0 168, 4 5, 1 12}]",4,168,12,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",191.0,"[{""other"" 4, 0 170, 4 5, 1 12}]",4,170,12,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",192.0,"[{""other"" 4, 0 171, 4 5, 1 12}]",4,171,12,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-26,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com]",197.0,"[{""other"" 4, 0 174, 4 5, 1 14}]",4,174,14,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-02-28,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[build@clojure.com, build@clojure.com, brobronsa@gmail.com]",200.0,"[{""other"" 4, 0 175, 4 5, 1 16}]",4,175,16,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",203.0,"[{""other"" 4, 0 178, 4 5, 1 16}]",4,178,16,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",204.0,"[{""other"" 4, 0 179, 4 5, 1 16}]",4,179,16,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",205.0,"[{""other"" 4, 0 180, 4 5, 1 16}]",4,180,16,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",206.0,"[{""other"" 4, 0 181, 4 5, 1 16}]",4,181,16,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-11,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",209.0,"[{""other"" 4, 0 182, 4 5, 1 18}]",4,182,18,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",210.0,"[{""other"" 4, 0 183, 4 5, 1 18}]",4,183,18,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",211.0,"[{""other"" 4, 0 184, 4 5, 1 18}]",4,184,18,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",212.0,"[{""other"" 4, 0 185, 4 5, 1 18}]",4,185,18,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",214.0,"[{""other"" 4, 0 187, 4 5, 1 18}]",4,187,18,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",215.0,"[{""other"" 4, 0 188, 4 5, 1 18}]",4,188,18,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-29,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",218.0,"[{""other"" 4, 0 189, 4 5, 1 20}]",4,189,20,0,0,5
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andy_fingerhut@alum.wustl.edu]",219.0,"[{""other"" 4, 0 189, 4 6, 1 20}]",4,189,20,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-03-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",221.0,"[{""other"" 4, 0 191, 4 6, 1 20}]",4,191,20,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-01,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com]",226.0,"[{""other"" 4, 0 194, 4 6, 1 22}]",4,194,22,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-05,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",233.0,"[{""other"" 4, 0 201, 4 6, 1 22}]",4,201,22,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",236.0,"[{""other"" 4, 0 204, 4 6, 1 22}]",4,204,22,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",239.0,"[{""other"" 4, 0 207, 4 6, 1 22}]",4,207,22,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",240.0,"[{""other"" 4, 0 208, 4 6, 1 22}]",4,208,22,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-18,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",247.0,"[{""other"" 4, 0 213, 4 6, 1 24}]",4,213,24,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",248.0,"[{""other"" 4, 0 214, 4 6, 1 24}]",4,214,24,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-24,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",254.0,"[{""other"" 4, 0 218, 4 6, 1 26}]",4,218,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",256.0,"[{""other"" 4, 0 220, 4 6, 1 26}]",4,220,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",257.0,"[{""other"" 4, 0 221, 4 6, 1 26}]",4,221,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-05-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",259.0,"[{""other"" 4, 0 223, 4 6, 1 26}]",4,223,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",260.0,"[{""other"" 4, 0 224, 4 6, 1 26}]",4,224,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",261.0,"[{""other"" 4, 0 225, 4 6, 1 26}]",4,225,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-05-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",262.0,"[{""other"" 4, 0 226, 4 6, 1 26}]",4,226,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-05-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",264.0,"[{""other"" 4, 0 228, 4 6, 1 26}]",4,228,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",265.0,"[{""other"" 4, 0 229, 4 6, 1 26}]",4,229,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-04,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",272.0,"[{""other"" 4, 0 236, 4 6, 1 26}]",4,236,26,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-05,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com]",276.0,"[{""other"" 4, 0 238, 4 6, 1 28}]",4,238,28,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",279.0,"[{""other"" 4, 0 241, 4 6, 1 28}]",4,241,28,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-08,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",282.0,"[{""other"" 4, 0 242, 4 6, 1 30}]",4,242,30,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",285.0,"[{""other"" 4, 0 245, 4 6, 1 30}]",4,245,30,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",286.0,"[{""other"" 4, 0 246, 4 6, 1 30}]",4,246,30,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[build@clojure.com, build@clojure.com]",288.0,"[{""other"" 4, 0 246, 4 6, 1 32}]",4,246,32,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",289.0,"[{""other"" 4, 0 247, 4 6, 1 32}]",4,247,32,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[benedek.fazekas@gmail.com, brobronsa@gmail.com]",291.0,"[{""other"" 5, 0 248, 4 6, 1 32}]",5,248,32,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-16,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",294.0,"[{""other"" 5, 0 249, 4 6, 1 34}]",5,249,34,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, me@arrdem.com, me@arrdem.com]",297.0,"[{""other"" 8, 0 249, 4 6, 1 34}]",8,249,34,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@arrdem.com, brobronsa@gmail.com, brobronsa@gmail.com]",300.0,"[{""other"" 9, 0 251, 4 6, 1 34}]",9,251,34,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",302.0,"[{""other"" 9, 0 253, 4 6, 1 34}]",9,253,34,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-06-21,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com]",306.0,"[{""other"" 9, 0 255, 4 6, 1 36}]",9,255,36,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",307.0,"[{""other"" 9, 0 256, 4 6, 1 36}]",9,256,36,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",308.0,"[{""other"" 9, 0 257, 4 6, 1 36}]",9,257,36,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",309.0,"[{""other"" 9, 0 258, 4 6, 1 36}]",9,258,36,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",310.0,"[{""other"" 9, 0 259, 4 6, 1 36}]",9,259,36,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",311.0,"[{""other"" 9, 0 260, 4 6, 1 36}]",9,260,36,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",312.0,"[{""other"" 9, 0 261, 4 6, 1 36}]",9,261,36,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",315.0,"[{""other"" 9, 0 262, 4 6, 1 38}]",9,262,38,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",316.0,"[{""other"" 9, 0 263, 4 6, 1 38}]",9,263,38,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-29,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",323.0,"[{""other"" 9, 0 268, 4 6, 1 40}]",9,268,40,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",324.0,"[{""other"" 9, 0 269, 4 6, 1 40}]",9,269,40,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",327.0,"[{""other"" 9, 0 272, 4 6, 1 40}]",9,272,40,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",331.0,"[{""other"" 9, 0 276, 4 6, 1 40}]",9,276,40,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-09,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",343.0,"[{""other"" 9, 0 286, 4 6, 1 42}]",9,286,42,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-20,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",346.0,"[{""other"" 9, 0 287, 4 6, 1 44}]",9,287,44,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",348.0,"[{""other"" 9, 0 289, 4 6, 1 44}]",9,289,44,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",349.0,"[{""other"" 9, 0 290, 4 6, 1 44}]",9,290,44,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-24,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",354.0,"[{""other"" 9, 0 295, 4 6, 1 44}]",9,295,44,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",355.0,"[{""other"" 9, 0 296, 4 6, 1 44}]",9,296,44,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-08-31,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",358.0,"[{""other"" 9, 0 297, 4 6, 1 46}]",9,297,46,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-15,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",375.0,"[{""other"" 9, 0 314, 4 6, 1 46}]",9,314,46,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-16,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",382.0,"[{""other"" 9, 0 321, 4 6, 1 46}]",9,321,46,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",384.0,"[{""other"" 9, 0 323, 4 6, 1 46}]",9,323,46,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, build@clojure.com, build@clojure.com]",388.0,"[{""other"" 9, 0 325, 4 6, 1 48}]",9,325,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",389.0,"[{""other"" 9, 0 326, 4 6, 1 48}]",9,326,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",390.0,"[{""other"" 9, 0 327, 4 6, 1 48}]",9,327,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",392.0,"[{""other"" 9, 0 329, 4 6, 1 48}]",9,329,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-23,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",398.0,"[{""other"" 9, 0 335, 4 6, 1 48}]",9,335,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",399.0,"[{""other"" 9, 0 336, 4 6, 1 48}]",9,336,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",400.0,"[{""other"" 9, 0 337, 4 6, 1 48}]",9,337,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",401.0,"[{""other"" 9, 0 338, 4 6, 1 48}]",9,338,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",404.0,"[{""other"" 9, 0 341, 4 6, 1 48}]",9,341,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-09-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",406.0,"[{""other"" 9, 0 343, 4 6, 1 48}]",9,343,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",407.0,"[{""other"" 9, 0 344, 4 6, 1 48}]",9,344,48,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",410.0,"[{""other"" 9, 0 345, 4 6, 1 50}]",9,345,50,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",414.0,"[{""other"" 9, 0 349, 4 6, 1 50}]",9,349,50,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-17,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",424.0,"[{""other"" 9, 0 359, 4 6, 1 50}]",9,359,50,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",427.0,"[{""other"" 9, 0 362, 4 6, 1 50}]",9,362,50,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-27,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",430.0,"[{""other"" 9, 0 363, 4 6, 1 52}]",9,363,52,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",431.0,"[{""other"" 9, 0 364, 4 6, 1 52}]",9,364,52,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-10-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",433.0,"[{""other"" 9, 0 366, 4 6, 1 52}]",9,366,52,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",434.0,"[{""other"" 9, 0 367, 4 6, 1 52}]",9,367,52,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",437.0,"[{""other"" 9, 0 368, 4 6, 1 54}]",9,368,54,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",438.0,"[{""other"" 9, 0 369, 4 6, 1 54}]",9,369,54,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",442.0,"[{""other"" 9, 0 373, 4 6, 1 54}]",9,373,54,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",446.0,"[{""other"" 9, 0 377, 4 6, 1 54}]",9,377,54,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-20,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com]",451.0,"[{""other"" 9, 0 380, 4 6, 1 56}]",9,380,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",453.0,"[{""other"" 9, 0 382, 4 6, 1 56}]",9,382,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-23,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",459.0,"[{""other"" 9, 0 388, 4 6, 1 56}]",9,388,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",463.0,"[{""other"" 9, 0 392, 4 6, 1 56}]",9,392,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",464.0,"[{""other"" 9, 0 393, 4 6, 1 56}]",9,393,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-11-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",467.0,"[{""other"" 9, 0 396, 4 6, 1 56}]",9,396,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",468.0,"[{""other"" 9, 0 397, 4 6, 1 56}]",9,397,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-12-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",472.0,"[{""other"" 9, 0 401, 4 6, 1 56}]",9,401,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-12-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",475.0,"[{""other"" 9, 0 404, 4 6, 1 56}]",9,404,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-12-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com]",477.0,"[{""other"" 9, 0 406, 4 6, 1 56}]",9,406,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2014-12-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",478.0,"[{""other"" 9, 0 407, 4 6, 1 56}]",9,407,56,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-02-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[build@clojure.com, build@clojure.com]",480.0,"[{""other"" 9, 0 407, 4 6, 1 58}]",9,407,58,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-03-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, brobronsa@gmail.com, brobronsa@gmail.com]",483.0,"[{""other"" 9, 0 410, 4 6, 1 58}]",9,410,58,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-03-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",484.0,"[{""other"" 9, 0 411, 4 6, 1 58}]",9,411,58,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-04-23,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com]",487.0,"[{""other"" 9, 0 412, 4 6, 1 60}]",9,412,60,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-08-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[abonnairesergeant@gmail.com, abonnairesergeant@gmail.com]",489.0,"[{""other"" 11, 0 412, 4 6, 1 60}]",11,412,60,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-08-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",490.0,"[{""other"" 11, 0 413, 4 6, 1 60}]",11,413,60,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",491.0,"[{""other"" 11, 0 414, 4 6, 1 60}]",11,414,60,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",492.0,"[{""other"" 11, 0 415, 4 6, 1 60}]",11,415,60,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",493.0,"[{""other"" 11, 0 416, 4 6, 1 60}]",11,416,60,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2015-11-03,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com]",497.0,"[{""other"" 11, 0 418, 4 6, 1 62}]",11,418,62,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2016-06-09,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[build@clojure.com, build@clojure.com, brobronsa@gmail.com, brobronsa@gmail.com, build@clojure.com, build@clojure.com, brobronsa@gmail.com]",504.0,"[{""other"" 11, 0 421, 4 6, 1 66}]",11,421,66,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2016-06-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",505.0,"[{""other"" 11, 0 422, 4 6, 1 66}]",11,422,66,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2016-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",506.0,"[{""other"" 12, 0 422, 4 6, 1 66}]",12,422,66,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2017-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",507.0,"[{""other"" 12, 0 423, 4 6, 1 66}]",12,423,66,0,0,6
+Clojure,https://github.com/clojure/tools.analyzer,2017-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@bronsa.net]",508.0,"[{""other"" 12, 0 423, 4 6, 1 66, 3 1}]",12,423,66,0,1,6
+Clojure,https://github.com/clojure/tools.analyzer,2017-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",509.0,"[{""other"" 13, 0 423, 4 6, 1 66, 3 1}]",13,423,66,0,1,6
+Clojure,https://github.com/clojure/tools.analyzer,2017-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brobronsa@gmail.com]",510.0,"[{""other"" 13, 0 424, 4 6, 1 66, 3 1}]",13,424,66,0,1,6
+Clojure,https://github.com/clojure/tools.analyzer,2017-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@bronsa.net]",511.0,"[{""other"" 13, 0 424, 4 6, 1 66, 3 2}]",13,424,66,0,2,6
+Clojure,https://github.com/clojure/tools.analyzer,2018-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@bronsa.net]",512.0,"[{""other"" 13, 0 424, 4 6, 1 66, 3 3}]",13,424,66,0,3,6
+Clojure,https://github.com/clojure/tools.analyzer,2018-12-10,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[me@bronsa.net, build@clojure.com, build@clojure.com, me@bronsa.net, me@bronsa.net]",517.0,"[{""other"" 13, 0 424, 4 6, 1 68, 3 6}]",13,424,68,0,6,6
+Clojure,https://github.com/clojure/tools.analyzer,2019-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@bronsa.net]",518.0,"[{""other"" 13, 0 424, 4 6, 1 68, 3 7}]",13,424,68,0,7,6
+Clojure,https://github.com/clojure/tools.analyzer,2019-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",519.0,"[{""other"" 13, 0 424, 4 6, 1 68, 3 7, 2 1}]",13,424,68,1,7,6
+Clojure,https://github.com/clojure/tools.analyzer,2019-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[martin.clausen@gmail.com]",520.0,"[{""other"" 14, 0 424, 4 6, 1 68, 3 7, 2 1}]",14,424,68,1,7,6
+Clojure,https://github.com/clojure/tools.analyzer,2020-02-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@bronsa.net, build@clojure.com, build@clojure.com]",523.0,"[{""other"" 14, 0 424, 4 6, 1 70, 3 8, 2 1}]",14,424,70,1,8,6
+Clojure,https://github.com/clojure/tools.analyzer,2020-03-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@bronsa.net, me@bronsa.net, me@bronsa.net]",526.0,"[{""other"" 14, 0 424, 4 6, 1 70, 3 11, 2 1}]",14,424,70,1,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2020-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@joelane.net]",527.0,"[{""other"" 15, 0 424, 4 6, 1 70, 3 11, 2 1}]",15,424,70,1,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2020-06-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[abonnairesergeant@gmail.com]",528.0,"[{""other"" 16, 0 424, 4 6, 1 70, 3 11, 2 1}]",16,424,70,1,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2020-06-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",529.0,"[{""other"" 16, 0 424, 4 6, 1 70, 3 11, 2 2}]",16,424,70,2,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2021-01-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",530.0,"[{""other"" 16, 0 424, 4 6, 1 70, 3 11, 2 3}]",16,424,70,3,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2021-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",531.0,"[{""other"" 16, 0 424, 4 6, 1 70, 3 11, 2 4}]",16,424,70,4,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2021-02-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",532.0,"[{""other"" 17, 0 424, 4 6, 1 70, 3 11, 2 4}]",17,424,70,4,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2021-02-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com]",534.0,"[{""other"" 17, 0 424, 4 6, 1 70, 3 11, 2 6}]",17,424,70,6,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2021-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",535.0,"[{""other"" 17, 0 424, 4 6, 1 70, 3 11, 2 7}]",17,424,70,7,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2021-09-14,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[alex.miller@cognitect.com, build@clojure.com, build@clojure.com, alex.miller@cognitect.com, alex.miller@cognitect.com]",540.0,"[{""other"" 17, 0 424, 4 6, 1 72, 3 11, 2 10}]",17,424,72,10,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2022-11-26,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[alex.miller@cognitect.com, clojure-build@clojure.com, clojure-build@clojure.com, alex.miller@cognitect.com]",544.0,"[{""other"" 19, 0 424, 4 6, 1 72, 3 11, 2 12}]",19,424,72,12,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2022-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmiller2718@gmail.com]",545.0,"[{""other"" 20, 0 424, 4 6, 1 72, 3 11, 2 12}]",20,424,72,12,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2023-05-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",546.0,"[{""other"" 20, 0 424, 4 6, 1 72, 3 11, 2 13}]",20,424,72,13,11,6
+Clojure,https://github.com/clojure/tools.analyzer,2023-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jarrod@fastmail.com]",547.0,"[{""other"" 21, 0 424, 4 6, 1 72, 3 11, 2 13}]",21,424,72,13,11,6

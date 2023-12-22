@@ -1,0 +1,109 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/cognitect-labs/test-runner,2018-01-15,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[luke@vanderhart.net, luke@vanderhart.net, luke@vanderhart.net, luke@vanderhart.net, luke@vanderhart.net, luke@vanderhart.net, luke@vanderhart.net]",7.0,[{1 7}],0,0,7,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luke@vanderhart.net]",8.0,[{1 8}],0,0,8,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[luke@vanderhart.net, luke@vanderhart.net]",10.0,[{1 10}],0,0,10,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luke@vanderhart.net]",11.0,[{1 11}],0,0,11,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eli@naeher.name]",12.0,"[{1 11, ""other"" 1}]",1,0,11,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",13.0,"[{1 11, ""other"" 1, 0 1}]",1,1,11,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luke@vanderhart.net]",14.0,"[{1 12, ""other"" 1, 0 1}]",1,1,12,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[luke@vanderhart.net, luke@vanderhart.net]",16.0,"[{1 14, ""other"" 1, 0 1}]",1,1,14,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-02-26,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[luke@vanderhart.net, eli@naeher.name]",18.0,"[{1 15, ""other"" 2, 0 1}]",2,1,15,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-03-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[luke@vanderhart.net, sean@corfield.org]",20.0,"[{1 16, ""other"" 3, 0 1}]",3,1,16,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-03-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kawas44@gmail.com, kawas44@gmail.com]",22.0,"[{1 16, ""other"" 5, 0 1}]",5,1,16,0,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",23.0,"[{1 16, ""other"" 5, 0 1, 2 1}]",5,1,16,1,0,0
+Clojure,https://github.com/cognitect-labs/test-runner,2018-07-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jacob.maine@gmail.com, jacob.maine@gmail.com]",25.0,"[{1 16, ""other"" 5, 0 1, 2 1, 4 2}]",5,1,16,1,0,2
+Clojure,https://github.com/cognitect-labs/test-runner,2018-07-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jacob.maine@gmail.com]",26.0,"[{1 16, ""other"" 5, 0 1, 2 1, 4 3}]",5,1,16,1,0,3
+Clojure,https://github.com/cognitect-labs/test-runner,2018-07-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[luke@vanderhart.net, luke@vanderhart.net]",28.0,"[{1 18, ""other"" 5, 0 1, 2 1, 4 3}]",5,1,18,1,0,3
+Clojure,https://github.com/cognitect-labs/test-runner,2018-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gshayban@gmail.com]",29.0,"[{1 18, ""other"" 5, 0 1, 2 1, 4 3, 3 1}]",5,1,18,1,1,3
+Clojure,https://github.com/cognitect-labs/test-runner,2018-08-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luke@vanderhart.net]",30.0,"[{1 19, ""other"" 5, 0 1, 2 1, 4 3, 3 1}]",5,1,19,1,1,3
+Clojure,https://github.com/cognitect-labs/test-runner,2019-01-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[gshayban@gmail.com, gshayban@gmail.com]",32.0,"[{1 19, ""other"" 5, 0 1, 2 1, 4 3, 3 3}]",5,1,19,1,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2019-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",33.0,"[{1 19, ""other"" 5, 0 1, 2 2, 4 3, 3 3}]",5,1,19,2,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2020-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",34.0,"[{1 19, ""other"" 5, 0 1, 2 3, 4 3, 3 3}]",5,1,19,3,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2020-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",35.0,"[{1 19, ""other"" 5, 0 2, 2 3, 4 3, 3 3}]",5,2,19,3,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[abonnairesergeant@gmail.com]",36.0,"[{1 19, ""other"" 6, 0 2, 2 3, 4 3, 3 3}]",6,2,19,3,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-05-07,16,2,"#tech.v3.dataset.column<string>[16]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex@puredanger.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex@puredanger.com, alex.miller@cognitect.com]",52.0,"[{1 19, ""other"" 6, 0 16, 2 5, 4 3, 3 3}]",6,16,19,5,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-05-09,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com, alex@puredanger.com]",56.0,"[{1 19, ""other"" 6, 0 19, 2 6, 4 3, 3 3}]",6,19,19,6,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-05-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com]",59.0,"[{1 19, ""other"" 6, 0 22, 2 6, 4 3, 3 3}]",6,22,19,6,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-05-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com]",61.0,"[{1 19, ""other"" 6, 0 24, 2 6, 4 3, 3 3}]",6,24,19,6,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",62.0,"[{1 19, ""other"" 6, 0 24, 2 7, 4 3, 3 3}]",6,24,19,7,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",63.0,"[{1 19, ""other"" 6, 0 25, 2 7, 4 3, 3 3}]",6,25,19,7,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mathieu.lirzin@oscaro.com]",64.0,"[{1 19, ""other"" 7, 0 25, 2 7, 4 3, 3 3}]",7,25,19,7,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-07-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alex.miller@cognitect.com, alex@puredanger.com]",66.0,"[{1 19, ""other"" 7, 0 26, 2 8, 4 3, 3 3}]",7,26,19,8,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-08-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[alex@puredanger.com, github@wesmorgan.me]",68.0,"[{1 19, ""other"" 8, 0 26, 2 9, 4 3, 3 3}]",8,26,19,9,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-09-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com]",71.0,"[{1 19, ""other"" 8, 0 29, 2 9, 4 3, 3 3}]",8,29,19,9,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2021-12-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",72.0,"[{1 19, ""other"" 8, 0 30, 2 9, 4 3, 3 3}]",8,30,19,9,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2022-05-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com, alex.miller@cognitect.com]",75.0,"[{1 19, ""other"" 8, 0 33, 2 9, 4 3, 3 3}]",8,33,19,9,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2022-09-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex.miller@cognitect.com, alex.miller@cognitect.com]",77.0,"[{1 19, ""other"" 8, 0 35, 2 9, 4 3, 3 3}]",8,35,19,9,3,3
+Clojure,https://github.com/cognitect-labs/test-runner,2022-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",78.0,"[{1 19, ""other"" 8, 0 36, 2 9, 4 3, 3 3}]",8,36,19,9,3,3

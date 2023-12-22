@@ -1,0 +1,82 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/dgrnbrg/spyscope,2012-10-20,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2012-10-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com]",9.0,[{0 9}],0,9,0,0,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2012-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dsg123456789+github@gmail.com]",10.0,"[{0 9, 1 1}]",0,9,1,0,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2012-11-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hhochleitner@gmail.com, hhochleitner@gmail.com, hhochleitner@gmail.com, hhochleitner@gmail.com]",14.0,"[{0 9, 1 1, 2 4}]",0,9,1,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2012-11-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com]",17.0,"[{0 12, 1 1, 2 4}]",0,12,1,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2013-02-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dsg123456789+github@gmail.com, dsg123456789+github@gmail.com]",19.0,"[{0 12, 1 3, 2 4}]",0,12,3,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2013-04-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dsg123456789@gmail.com, dsg123456789@gmail.com]",21.0,"[{0 14, 1 3, 2 4}]",0,14,3,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2013-04-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dsg123456789+github@gmail.com, dsg123456789+github@gmail.com]",23.0,"[{0 14, 1 5, 2 4}]",0,14,5,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2013-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adereth@gmail.com]",24.0,"[{0 14, 1 5, 2 4, ""other"" 1}]",1,14,5,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2013-12-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dsg123456789@gmail.com, dsg123456789+github@gmail.com]",26.0,"[{0 15, 1 6, 2 4, ""other"" 1}]",1,15,6,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2014-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swaroop@swaroopch.com]",27.0,"[{0 15, 1 6, 2 4, ""other"" 2}]",2,15,6,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2014-06-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dsg123456789@gmail.com]",28.0,"[{0 16, 1 6, 2 4, ""other"" 2}]",2,16,6,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2014-10-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com, dsg123456789@gmail.com]",32.0,"[{0 20, 1 6, 2 4, ""other"" 2}]",2,20,6,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2015-09-30,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dsg123456789+github@gmail.com, johannes.staffans@gmail.com, johannes.staffans@gmail.com]",35.0,"[{0 20, 1 7, 2 4, ""other"" 4}]",4,20,7,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2015-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kendall@kendagriff.com]",36.0,"[{0 20, 1 7, 2 4, ""other"" 5}]",5,20,7,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2015-11-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dsg123456789+github@gmail.com]",37.0,"[{0 20, 1 8, 2 4, ""other"" 5}]",5,20,8,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2016-07-25,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dsg123456789+github@gmail.com, alex@puredanger.com, alex@puredanger.com]",40.0,"[{0 20, 1 9, 2 4, ""other"" 7}]",7,20,9,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2016-09-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dsg123456789@gmail.com, dsg123456789@gmail.com]",42.0,"[{0 22, 1 9, 2 4, ""other"" 7}]",7,22,9,4,0,0
+Clojure,https://github.com/dgrnbrg/spyscope,2016-11-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[christopherpenrose@gmail.com, christopherpenrose@gmail.com, christopherpenrose@gmail.com, christopherpenrose@gmail.com]",46.0,"[{0 22, 1 9, 2 4, ""other"" 7, 3 4}]",7,22,9,4,4,0
+Clojure,https://github.com/dgrnbrg/spyscope,2016-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dsg123456789+github@gmail.com]",47.0,"[{0 22, 1 10, 2 4, ""other"" 7, 3 4}]",7,22,10,4,4,0
+Clojure,https://github.com/dgrnbrg/spyscope,2016-12-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dsg123456789+github@gmail.com, vadim.platonov@tuloscapital.com]",49.0,"[{0 22, 1 11, 2 4, ""other"" 8, 3 4}]",8,22,11,4,4,0
+Clojure,https://github.com/dgrnbrg/spyscope,2017-08-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[john.schmidt.h@gmail.com, john.schmidt.h@gmail.com, john.schmidt.h@gmail.com]",52.0,"[{0 22, 1 11, 2 4, ""other"" 8, 3 4, 4 3}]",8,22,11,4,4,3
+Clojure,https://github.com/dgrnbrg/spyscope,2018-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jkmatanle@gmail.com]",53.0,"[{0 22, 1 11, 2 4, ""other"" 9, 3 4, 4 3}]",9,22,11,4,4,3
+Clojure,https://github.com/dgrnbrg/spyscope,2018-02-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dsg123456789+github@gmail.com, dsg123456789+github@gmail.com, dsg123456789+github@gmail.com]",56.0,"[{0 22, 1 14, 2 4, ""other"" 9, 3 4, 4 3}]",9,22,14,4,4,3
+Clojure,https://github.com/dgrnbrg/spyscope,2018-04-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[philip.healy@gmail.com]",57.0,"[{0 22, 1 14, 2 4, ""other"" 10, 3 4, 4 3}]",10,22,14,4,4,3
+Clojure,https://github.com/dgrnbrg/spyscope,2018-04-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[philip.healy@gmail.com]",58.0,"[{0 22, 1 14, 2 4, ""other"" 11, 3 4, 4 3}]",11,22,14,4,4,3
+Clojure,https://github.com/dgrnbrg/spyscope,2018-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dsg123456789+github@gmail.com]",59.0,"[{0 22, 1 15, 2 4, ""other"" 11, 3 4, 4 3}]",11,22,15,4,4,3

@@ -1,0 +1,760 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/elastic/eland,2019-06-11,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",7.0,[{1 7}],0,0,7,0,0,0
+Python,https://github.com/elastic/eland,2019-06-12,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",12.0,"[{1 8, 2 4}]",0,0,8,4,0,0
+Python,https://github.com/elastic/eland,2019-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",13.0,"[{1 8, 2 5}]",0,0,8,5,0,0
+Python,https://github.com/elastic/eland,2019-06-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",17.0,"[{1 10, 2 7}]",0,0,10,7,0,0
+Python,https://github.com/elastic/eland,2019-06-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[steve.dodson@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co]",20.0,"[{1 10, 2 8, 4 2}]",0,0,10,8,0,2
+Python,https://github.com/elastic/eland,2019-06-21,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co]",24.0,"[{1 11, 2 11, 4 2}]",0,0,11,11,0,2
+Python,https://github.com/elastic/eland,2019-06-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",28.0,"[{1 14, 2 12, 4 2}]",0,0,14,12,0,2
+Python,https://github.com/elastic/eland,2019-06-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",29.0,"[{1 14, 2 13, 4 2}]",0,0,14,13,0,2
+Python,https://github.com/elastic/eland,2019-06-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",31.0,"[{1 15, 2 14, 4 2}]",0,0,15,14,0,2
+Python,https://github.com/elastic/eland,2019-06-26,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",33.0,"[{1 16, 2 15, 4 2}]",0,0,16,15,0,2
+Python,https://github.com/elastic/eland,2019-06-28,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co]",36.0,"[{1 17, 2 17, 4 2}]",0,0,17,17,0,2
+Python,https://github.com/elastic/eland,2019-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",37.0,"[{1 17, 2 18, 4 2}]",0,0,17,18,0,2
+Python,https://github.com/elastic/eland,2019-07-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",39.0,"[{1 18, 2 19, 4 2}]",0,0,18,19,0,2
+Python,https://github.com/elastic/eland,2019-07-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co]",42.0,"[{1 18, 2 22, 4 2}]",0,0,18,22,0,2
+Python,https://github.com/elastic/eland,2019-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",43.0,"[{1 19, 2 22, 4 2}]",0,0,19,22,0,2
+Python,https://github.com/elastic/eland,2019-07-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[steve.dodson@elastic.co, steve.dodson@elastic.co]",45.0,"[{1 19, 2 24, 4 2}]",0,0,19,24,0,2
+Python,https://github.com/elastic/eland,2019-07-11,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[steve.dodson@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co]",49.0,"[{1 20, 2 27, 4 2}]",0,0,20,27,0,2
+Python,https://github.com/elastic/eland,2019-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",50.0,"[{1 20, 2 28, 4 2}]",0,0,20,28,0,2
+Python,https://github.com/elastic/eland,2019-07-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",52.0,"[{1 21, 2 29, 4 2}]",0,0,21,29,0,2
+Python,https://github.com/elastic/eland,2019-08-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",54.0,"[{1 22, 2 30, 4 2}]",0,0,22,30,0,2
+Python,https://github.com/elastic/eland,2019-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",55.0,"[{1 22, 2 31, 4 2}]",0,0,22,31,0,2
+Python,https://github.com/elastic/eland,2019-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",56.0,"[{1 23, 2 31, 4 2}]",0,0,23,31,0,2
+Python,https://github.com/elastic/eland,2019-08-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co]",59.0,"[{1 24, 2 33, 4 2}]",0,0,24,33,0,2
+Python,https://github.com/elastic/eland,2019-08-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",61.0,"[{1 25, 2 34, 4 2}]",0,0,25,34,0,2
+Python,https://github.com/elastic/eland,2019-08-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",63.0,"[{1 26, 2 35, 4 2}]",0,0,26,35,0,2
+Python,https://github.com/elastic/eland,2019-10-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",65.0,"[{1 27, 2 36, 4 2}]",0,0,27,36,0,2
+Python,https://github.com/elastic/eland,2019-10-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ed.savage@elastic.co, ed.savage@elastic.co]",67.0,"[{1 27, 2 36, 4 2, ""other"" 2}]",2,0,27,36,0,2
+Python,https://github.com/elastic/eland,2019-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",68.0,"[{1 27, 2 37, 4 2, ""other"" 2}]",2,0,27,37,0,2
+Python,https://github.com/elastic/eland,2019-11-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co]",71.0,"[{1 28, 2 39, 4 2, ""other"" 2}]",2,0,28,39,0,2
+Python,https://github.com/elastic/eland,2019-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",72.0,"[{1 28, 2 40, 4 2, ""other"" 2}]",2,0,28,40,0,2
+Python,https://github.com/elastic/eland,2019-11-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[32410745+edsavage@users.noreply.github.com, ed.savage@elastic.co]",74.0,"[{1 28, 2 40, 4 2, ""other"" 4}]",4,0,28,40,0,2
+Python,https://github.com/elastic/eland,2019-11-12,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co]",77.0,"[{1 29, 2 42, 4 2, ""other"" 4}]",4,0,29,42,0,2
+Python,https://github.com/elastic/eland,2019-11-13,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[michael.hirsch@elastic.co, steve.dodson@elastic.co, michaelahirsch@gmail.com]",80.0,"[{1 29, 2 43, 4 2, ""other"" 6}]",6,0,29,43,0,2
+Python,https://github.com/elastic/eland,2019-11-14,13,3,"#tech.v3.dataset.column<string>[13]
+:email
+[michaelahirsch@gmail.com, michaelahirsch@gmail.com, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co, michaelahirsch@gmail.com, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",93.0,"[{1 33, 2 49, 4 2, ""other"" 9}]",9,0,33,49,0,2
+Python,https://github.com/elastic/eland,2019-11-15,12,4,"#tech.v3.dataset.column<string>[12]
+:email
+[michaelahirsch@gmail.com, michaelahirsch@gmail.com, michaelahirsch@gmail.com, michael.hirsch@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",105.0,"[{1 37, 2 53, 4 2, ""other"" 13}]",13,0,37,53,0,2
+Python,https://github.com/elastic/eland,2019-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michaelahirsch@gmail.com]",106.0,"[{1 37, 2 53, 4 2, ""other"" 14}]",14,0,37,53,0,2
+Python,https://github.com/elastic/eland,2019-11-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, stevedodson@users.noreply.github.com]",110.0,"[{1 38, 2 56, 4 2, ""other"" 14}]",14,0,38,56,0,2
+Python,https://github.com/elastic/eland,2019-11-19,11,5,"#tech.v3.dataset.column<string>[11]
+:email
+[michaelahirsch@gmail.com, michaelahirsch@gmail.com, michaelahirsch@gmail.com, michael.hirsch@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, josh.devins@elastic.co, josh.devins@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, stevedodson@users.noreply.github.com]",121.0,"[{1 40, 2 59, 4 2, ""other"" 20}]",20,0,40,59,0,2
+Python,https://github.com/elastic/eland,2019-11-20,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",126.0,"[{1 43, 2 61, 4 2, ""other"" 20}]",20,0,43,61,0,2
+Python,https://github.com/elastic/eland,2019-11-21,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[steve.dodson@elastic.co, camilla.montonen@elastic.co, steve.dodson@elastic.co, camilla.montonen@elastic.co]",130.0,"[{1 43, 2 63, 4 4, ""other"" 20}]",20,0,43,63,0,4
+Python,https://github.com/elastic/eland,2019-11-22,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[michael.hirsch@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, camilla.montonen@elastic.co]",135.0,"[{1 43, 2 66, 4 5, ""other"" 21}]",21,0,43,66,0,5
+Python,https://github.com/elastic/eland,2019-11-25,10,3,"#tech.v3.dataset.column<string>[10]
+:email
+[camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co]",145.0,"[{1 44, 2 70, 4 10, ""other"" 21}]",21,0,44,70,0,10
+Python,https://github.com/elastic/eland,2019-11-26,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co]",151.0,"[{1 45, 2 72, 4 13, ""other"" 21}]",21,0,45,72,0,13
+Python,https://github.com/elastic/eland,2019-11-27,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, michael.hirsch@elastic.co]",156.0,"[{1 45, 2 72, 4 17, ""other"" 22}]",22,0,45,72,0,17
+Python,https://github.com/elastic/eland,2019-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[camilla.montonen@elastic.co]",157.0,"[{1 45, 2 72, 4 18, ""other"" 22}]",22,0,45,72,0,18
+Python,https://github.com/elastic/eland,2019-11-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[camilla.montonen@elastic.co, camilla.montonen@elastic.co]",159.0,"[{1 45, 2 72, 4 20, ""other"" 22}]",22,0,45,72,0,20
+Python,https://github.com/elastic/eland,2019-12-02,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co, camilla.montonen@elastic.co]",173.0,"[{1 45, 2 72, 4 34, ""other"" 22}]",22,0,45,72,0,34
+Python,https://github.com/elastic/eland,2019-12-03,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co, steve.dodson@elastic.co, steve.dodson@elastic.co, camilla.montonen@elastic.co]",178.0,"[{1 46, 2 75, 4 35, ""other"" 22}]",22,0,46,75,0,35
+Python,https://github.com/elastic/eland,2019-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[francesco.vigliaturo@elastic.co]",179.0,"[{1 46, 2 75, 4 35, ""other"" 23}]",23,0,46,75,0,35
+Python,https://github.com/elastic/eland,2019-12-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, michael.hirsch@elastic.co]",182.0,"[{1 48, 2 75, 4 35, ""other"" 24}]",24,0,48,75,0,35
+Python,https://github.com/elastic/eland,2019-12-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",185.0,"[{1 51, 2 75, 4 35, ""other"" 24}]",24,0,51,75,0,35
+Python,https://github.com/elastic/eland,2019-12-11,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[michael.hirsch@elastic.co, camilla.montonen@elastic.co, stevedodson@users.noreply.github.com]",188.0,"[{1 52, 2 75, 4 36, ""other"" 25}]",25,0,52,75,0,36
+Python,https://github.com/elastic/eland,2019-12-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[stevedodson@users.noreply.github.com, camilla.montonen@elastic.co, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",192.0,"[{1 55, 2 75, 4 37, ""other"" 25}]",25,0,55,75,0,37
+Python,https://github.com/elastic/eland,2020-01-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Mpdreamz@gmail.com]",193.0,"[{1 55, 2 75, 4 37, ""other"" 26}]",26,0,55,75,0,37
+Python,https://github.com/elastic/eland,2020-01-10,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",203.0,"[{1 65, 2 75, 4 37, ""other"" 26}]",26,0,65,75,0,37
+Python,https://github.com/elastic/eland,2020-01-13,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",210.0,"[{1 72, 2 75, 4 37, ""other"" 26}]",26,0,72,75,0,37
+Python,https://github.com/elastic/eland,2020-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",211.0,"[{1 73, 2 75, 4 37, ""other"" 26}]",26,0,73,75,0,37
+Python,https://github.com/elastic/eland,2020-01-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",213.0,"[{1 75, 2 75, 4 37, ""other"" 26}]",26,0,75,75,0,37
+Python,https://github.com/elastic/eland,2020-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",214.0,"[{1 76, 2 75, 4 37, ""other"" 26}]",26,0,76,75,0,37
+Python,https://github.com/elastic/eland,2020-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",215.0,"[{1 77, 2 75, 4 37, ""other"" 26}]",26,0,77,75,0,37
+Python,https://github.com/elastic/eland,2020-02-15,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com, stevedodson@users.noreply.github.com]",223.0,"[{1 85, 2 75, 4 37, ""other"" 26}]",26,0,85,75,0,37
+Python,https://github.com/elastic/eland,2020-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.dodson@elastic.co]",224.0,"[{1 85, 2 76, 4 37, ""other"" 26}]",26,0,85,76,0,37
+Python,https://github.com/elastic/eland,2020-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",225.0,"[{1 86, 2 76, 4 37, ""other"" 26}]",26,0,86,76,0,37
+Python,https://github.com/elastic/eland,2020-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",226.0,"[{1 87, 2 76, 4 37, ""other"" 26}]",26,0,87,76,0,37
+Python,https://github.com/elastic/eland,2020-03-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[stevedodson@users.noreply.github.com, steve.dodson@elastic.co]",228.0,"[{1 88, 2 77, 4 37, ""other"" 26}]",26,0,88,77,0,37
+Python,https://github.com/elastic/eland,2020-03-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",230.0,"[{1 88, 2 77, 4 37, ""other"" 26, 0 2}]",26,2,88,77,0,37
+Python,https://github.com/elastic/eland,2020-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",231.0,"[{1 89, 2 77, 4 37, ""other"" 26, 0 2}]",26,2,89,77,0,37
+Python,https://github.com/elastic/eland,2020-03-27,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[seth.larson@elastic.co, mesejoleon@gmail.com, seth.larson@elastic.co]",234.0,"[{1 89, 2 77, 4 37, ""other"" 27, 0 4}]",27,4,89,77,0,37
+Python,https://github.com/elastic/eland,2020-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mesejoleon@gmail.com]",235.0,"[{1 89, 2 77, 4 37, ""other"" 28, 0 4}]",28,4,89,77,0,37
+Python,https://github.com/elastic/eland,2020-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",236.0,"[{1 90, 2 77, 4 37, ""other"" 28, 0 4}]",28,4,90,77,0,37
+Python,https://github.com/elastic/eland,2020-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",237.0,"[{1 90, 2 77, 4 37, ""other"" 28, 0 5}]",28,5,90,77,0,37
+Python,https://github.com/elastic/eland,2020-04-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",239.0,"[{1 90, 2 77, 4 37, ""other"" 28, 0 7}]",28,7,90,77,0,37
+Python,https://github.com/elastic/eland,2020-04-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, mesejoleon@gmail.com]",241.0,"[{1 90, 2 77, 4 37, ""other"" 29, 0 8}]",29,8,90,77,0,37
+Python,https://github.com/elastic/eland,2020-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",242.0,"[{1 90, 2 77, 4 37, ""other"" 29, 0 9}]",29,9,90,77,0,37
+Python,https://github.com/elastic/eland,2020-04-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mesejoleon@gmail.com]",243.0,"[{1 90, 2 77, 4 37, ""other"" 30, 0 9}]",30,9,90,77,0,37
+Python,https://github.com/elastic/eland,2020-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mesejoleon@gmail.com]",244.0,"[{1 90, 2 77, 4 37, ""other"" 31, 0 9}]",31,9,90,77,0,37
+Python,https://github.com/elastic/eland,2020-04-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[seth.larson@elastic.co, stevedodson@users.noreply.github.com, seth.larson@elastic.co, seth.larson@elastic.co]",248.0,"[{1 91, 2 77, 4 37, ""other"" 31, 0 12}]",31,12,91,77,0,37
+Python,https://github.com/elastic/eland,2020-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",249.0,"[{1 92, 2 77, 4 37, ""other"" 31, 0 12}]",31,12,92,77,0,37
+Python,https://github.com/elastic/eland,2020-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mesejoleon@gmail.com]",250.0,"[{1 92, 2 77, 4 37, ""other"" 32, 0 12}]",32,12,92,77,0,37
+Python,https://github.com/elastic/eland,2020-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mesejoleon@gmail.com]",251.0,"[{1 92, 2 77, 4 37, ""other"" 33, 0 12}]",33,12,92,77,0,37
+Python,https://github.com/elastic/eland,2020-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",252.0,"[{1 92, 2 77, 4 37, ""other"" 33, 0 13}]",33,13,92,77,0,37
+Python,https://github.com/elastic/eland,2020-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",253.0,"[{1 92, 2 77, 4 37, ""other"" 33, 0 14}]",33,14,92,77,0,37
+Python,https://github.com/elastic/eland,2020-04-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",255.0,"[{1 92, 2 77, 4 37, ""other"" 33, 0 16}]",33,16,92,77,0,37
+Python,https://github.com/elastic/eland,2020-04-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",257.0,"[{1 92, 2 77, 4 37, ""other"" 33, 0 18}]",33,18,92,77,0,37
+Python,https://github.com/elastic/eland,2020-05-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mesejoleon@gmail.com, seth.larson@elastic.co]",259.0,"[{1 92, 2 77, 4 37, ""other"" 34, 0 19}]",34,19,92,77,0,37
+Python,https://github.com/elastic/eland,2020-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mesejoleon@gmail.com]",260.0,"[{1 92, 2 77, 4 37, ""other"" 35, 0 19}]",35,19,92,77,0,37
+Python,https://github.com/elastic/eland,2020-05-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",262.0,"[{1 92, 2 77, 4 37, ""other"" 35, 0 21}]",35,21,92,77,0,37
+Python,https://github.com/elastic/eland,2020-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",263.0,"[{1 92, 2 77, 4 37, ""other"" 35, 0 22}]",35,22,92,77,0,37
+Python,https://github.com/elastic/eland,2020-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",264.0,"[{1 92, 2 77, 4 37, ""other"" 35, 0 23}]",35,23,92,77,0,37
+Python,https://github.com/elastic/eland,2020-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mesejoleon@gmail.com]",265.0,"[{1 92, 2 77, 4 37, ""other"" 36, 0 23}]",36,23,92,77,0,37
+Python,https://github.com/elastic/eland,2020-05-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co]",268.0,"[{1 92, 2 77, 4 37, ""other"" 36, 0 26}]",36,26,92,77,0,37
+Python,https://github.com/elastic/eland,2020-06-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",269.0,"[{1 92, 2 77, 4 37, ""other"" 36, 0 27}]",36,27,92,77,0,37
+Python,https://github.com/elastic/eland,2020-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leonardbinet@gmail.com]",270.0,"[{1 92, 2 77, 4 37, ""other"" 37, 0 27}]",37,27,92,77,0,37
+Python,https://github.com/elastic/eland,2020-07-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co]",273.0,"[{1 92, 2 77, 4 37, ""other"" 37, 0 30}]",37,30,92,77,0,37
+Python,https://github.com/elastic/eland,2020-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",274.0,"[{1 92, 2 77, 4 37, ""other"" 37, 0 31}]",37,31,92,77,0,37
+Python,https://github.com/elastic/eland,2020-07-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",275.0,"[{1 92, 2 77, 4 37, ""other"" 37, 0 32}]",37,32,92,77,0,37
+Python,https://github.com/elastic/eland,2020-07-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",277.0,"[{1 92, 2 77, 4 37, ""other"" 37, 0 34}]",37,34,92,77,0,37
+Python,https://github.com/elastic/eland,2020-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",278.0,"[{1 92, 2 77, 4 37, ""other"" 37, 0 35}]",37,35,92,77,0,37
+Python,https://github.com/elastic/eland,2020-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",279.0,"[{1 92, 2 77, 4 37, ""other"" 38, 0 35}]",38,35,92,77,0,37
+Python,https://github.com/elastic/eland,2020-08-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ben.w.trent@gmail.com, ben.w.trent@gmail.com]",281.0,"[{1 92, 2 77, 4 37, ""other"" 40, 0 35}]",40,35,92,77,0,37
+Python,https://github.com/elastic/eland,2020-08-12,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co, ben.w.trent@gmail.com]",287.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 40}]",41,40,92,77,0,37
+Python,https://github.com/elastic/eland,2020-08-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",288.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 41}]",41,41,92,77,0,37
+Python,https://github.com/elastic/eland,2020-08-17,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com, seth.larson@elastic.co]",293.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 45, 3 1}]",41,45,92,77,1,37
+Python,https://github.com/elastic/eland,2020-08-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co]",296.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 48, 3 1}]",41,48,92,77,1,37
+Python,https://github.com/elastic/eland,2020-08-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",297.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 48, 3 2}]",41,48,92,77,2,37
+Python,https://github.com/elastic/eland,2020-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",298.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 49, 3 2}]",41,49,92,77,2,37
+Python,https://github.com/elastic/eland,2020-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",299.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 50, 3 2}]",41,50,92,77,2,37
+Python,https://github.com/elastic/eland,2020-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",300.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 50, 3 3}]",41,50,92,77,3,37
+Python,https://github.com/elastic/eland,2020-09-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",302.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 52, 3 3}]",41,52,92,77,3,37
+Python,https://github.com/elastic/eland,2020-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",303.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 52, 3 4}]",41,52,92,77,4,37
+Python,https://github.com/elastic/eland,2020-10-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com]",305.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 53, 3 5}]",41,53,92,77,5,37
+Python,https://github.com/elastic/eland,2020-10-15,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com]",308.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 55, 3 6}]",41,55,92,77,6,37
+Python,https://github.com/elastic/eland,2020-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",309.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 56, 3 6}]",41,56,92,77,6,37
+Python,https://github.com/elastic/eland,2020-10-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",310.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 56, 3 7}]",41,56,92,77,7,37
+Python,https://github.com/elastic/eland,2020-10-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co]",313.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 59, 3 7}]",41,59,92,77,7,37
+Python,https://github.com/elastic/eland,2020-10-28,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com, 33659563+V1NAY8@users.noreply.github.com]",317.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 61, 3 9}]",41,61,92,77,9,37
+Python,https://github.com/elastic/eland,2020-10-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co]",320.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 64, 3 9}]",41,64,92,77,9,37
+Python,https://github.com/elastic/eland,2020-11-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[33659563+V1NAY8@users.noreply.github.com, 33659563+V1NAY8@users.noreply.github.com, 33659563+V1NAY8@users.noreply.github.com]",323.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 64, 3 12}]",41,64,92,77,12,37
+Python,https://github.com/elastic/eland,2020-11-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[33659563+V1NAY8@users.noreply.github.com, 33659563+V1NAY8@users.noreply.github.com]",325.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 64, 3 14}]",41,64,92,77,14,37
+Python,https://github.com/elastic/eland,2020-12-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",326.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 65, 3 14}]",41,65,92,77,14,37
+Python,https://github.com/elastic/eland,2020-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",327.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 65, 3 15}]",41,65,92,77,15,37
+Python,https://github.com/elastic/eland,2021-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",328.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 65, 3 16}]",41,65,92,77,16,37
+Python,https://github.com/elastic/eland,2021-01-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",329.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 65, 3 17}]",41,65,92,77,17,37
+Python,https://github.com/elastic/eland,2021-01-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",331.0,"[{1 92, 2 77, 4 37, ""other"" 41, 0 67, 3 17}]",41,67,92,77,17,37
+Python,https://github.com/elastic/eland,2021-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stevedodson@users.noreply.github.com]",332.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 67, 3 17}]",41,67,93,77,17,37
+Python,https://github.com/elastic/eland,2021-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",333.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 67, 3 18}]",41,67,93,77,18,37
+Python,https://github.com/elastic/eland,2021-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",334.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 67, 3 19}]",41,67,93,77,19,37
+Python,https://github.com/elastic/eland,2021-06-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",335.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 67, 3 20}]",41,67,93,77,20,37
+Python,https://github.com/elastic/eland,2021-06-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com, 33659563+V1NAY8@users.noreply.github.com]",339.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 69, 3 22}]",41,69,93,77,22,37
+Python,https://github.com/elastic/eland,2021-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",340.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 69, 3 23}]",41,69,93,77,23,37
+Python,https://github.com/elastic/eland,2021-07-27,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com]",342.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 70, 3 24}]",41,70,93,77,24,37
+Python,https://github.com/elastic/eland,2021-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",343.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 70, 3 25}]",41,70,93,77,25,37
+Python,https://github.com/elastic/eland,2021-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",344.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 70, 3 26}]",41,70,93,77,26,37
+Python,https://github.com/elastic/eland,2021-08-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",345.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 70, 3 27}]",41,70,93,77,27,37
+Python,https://github.com/elastic/eland,2021-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",346.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 71, 3 27}]",41,71,93,77,27,37
+Python,https://github.com/elastic/eland,2021-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",347.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 71, 3 28}]",41,71,93,77,28,37
+Python,https://github.com/elastic/eland,2021-08-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",348.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 71, 3 29}]",41,71,93,77,29,37
+Python,https://github.com/elastic/eland,2021-08-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com]",350.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 72, 3 30}]",41,72,93,77,30,37
+Python,https://github.com/elastic/eland,2021-08-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",352.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 74, 3 30}]",41,74,93,77,30,37
+Python,https://github.com/elastic/eland,2021-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",353.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 74, 3 31}]",41,74,93,77,31,37
+Python,https://github.com/elastic/eland,2021-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",354.0,"[{1 93, 2 77, 4 37, ""other"" 41, 0 75, 3 31}]",41,75,93,77,31,37
+Python,https://github.com/elastic/eland,2021-08-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, 1059978534@qq.com]",356.0,"[{1 93, 2 77, 4 37, ""other"" 42, 0 76, 3 31}]",42,76,93,77,31,37
+Python,https://github.com/elastic/eland,2021-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",357.0,"[{1 93, 2 77, 4 37, ""other"" 42, 0 77, 3 31}]",42,77,93,77,31,37
+Python,https://github.com/elastic/eland,2021-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",358.0,"[{1 93, 2 77, 4 37, ""other"" 42, 0 77, 3 32}]",42,77,93,77,32,37
+Python,https://github.com/elastic/eland,2021-09-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, 1059978534@qq.com]",360.0,"[{1 93, 2 77, 4 37, ""other"" 43, 0 78, 3 32}]",43,78,93,77,32,37
+Python,https://github.com/elastic/eland,2021-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",361.0,"[{1 93, 2 77, 4 37, ""other"" 43, 0 78, 3 33}]",43,78,93,77,33,37
+Python,https://github.com/elastic/eland,2021-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",362.0,"[{1 93, 2 77, 4 37, ""other"" 43, 0 79, 3 33}]",43,79,93,77,33,37
+Python,https://github.com/elastic/eland,2021-09-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[33659563+V1NAY8@users.noreply.github.com, 33659563+V1NAY8@users.noreply.github.com]",364.0,"[{1 93, 2 77, 4 37, ""other"" 43, 0 79, 3 35}]",43,79,93,77,35,37
+Python,https://github.com/elastic/eland,2021-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",365.0,"[{1 93, 2 77, 4 37, ""other"" 43, 0 79, 3 36}]",43,79,93,77,36,37
+Python,https://github.com/elastic/eland,2021-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[josh.devins@elastic.co]",366.0,"[{1 93, 2 77, 4 37, ""other"" 44, 0 79, 3 36}]",44,79,93,77,36,37
+Python,https://github.com/elastic/eland,2021-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",367.0,"[{1 93, 2 77, 4 37, ""other"" 44, 0 79, 3 37}]",44,79,93,77,37,37
+Python,https://github.com/elastic/eland,2021-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[40268737+jrodewig@users.noreply.github.com]",368.0,"[{1 93, 2 77, 4 37, ""other"" 45, 0 79, 3 37}]",45,79,93,77,37,37
+Python,https://github.com/elastic/eland,2021-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[33659563+V1NAY8@users.noreply.github.com]",369.0,"[{1 93, 2 77, 4 37, ""other"" 45, 0 79, 3 38}]",45,79,93,77,38,37
+Python,https://github.com/elastic/eland,2021-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.trent@elastic.co]",370.0,"[{1 93, 2 77, 4 37, ""other"" 46, 0 79, 3 38}]",46,79,93,77,38,37
+Python,https://github.com/elastic/eland,2021-10-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.trent@elastic.co]",371.0,"[{1 93, 2 77, 4 37, ""other"" 47, 0 79, 3 38}]",47,79,93,77,38,37
+Python,https://github.com/elastic/eland,2021-10-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[josh.devins@elastic.co, seth.larson@elastic.co]",373.0,"[{1 93, 2 77, 4 37, ""other"" 48, 0 80, 3 38}]",48,80,93,77,38,37
+Python,https://github.com/elastic/eland,2021-11-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, josh.devins@elastic.co]",375.0,"[{1 93, 2 77, 4 37, ""other"" 49, 0 81, 3 38}]",49,81,93,77,38,37
+Python,https://github.com/elastic/eland,2021-11-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.trent@elastic.co]",376.0,"[{1 93, 2 77, 4 37, ""other"" 50, 0 81, 3 38}]",50,81,93,77,38,37
+Python,https://github.com/elastic/eland,2021-11-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[josh.devins@elastic.co]",377.0,"[{1 93, 2 77, 4 37, ""other"" 51, 0 81, 3 38}]",51,81,93,77,38,37
+Python,https://github.com/elastic/eland,2021-11-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[josh.devins@elastic.co]",378.0,"[{1 93, 2 77, 4 37, ""other"" 52, 0 81, 3 38}]",52,81,93,77,38,37
+Python,https://github.com/elastic/eland,2021-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",379.0,"[{1 93, 2 77, 4 37, ""other"" 52, 0 82, 3 38}]",52,82,93,77,38,37
+Python,https://github.com/elastic/eland,2021-12-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",380.0,"[{1 93, 2 77, 4 37, ""other"" 52, 0 83, 3 38}]",52,83,93,77,38,37
+Python,https://github.com/elastic/eland,2021-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",381.0,"[{1 93, 2 77, 4 37, ""other"" 52, 0 84, 3 38}]",52,84,93,77,38,37
+Python,https://github.com/elastic/eland,2021-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[josh.devins@elastic.co]",382.0,"[{1 93, 2 77, 4 37, ""other"" 53, 0 84, 3 38}]",53,84,93,77,38,37
+Python,https://github.com/elastic/eland,2021-12-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",383.0,"[{1 93, 2 77, 4 37, ""other"" 53, 0 85, 3 38}]",53,85,93,77,38,37
+Python,https://github.com/elastic/eland,2021-12-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",385.0,"[{1 93, 2 77, 4 37, ""other"" 53, 0 87, 3 38}]",53,87,93,77,38,37
+Python,https://github.com/elastic/eland,2021-12-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",386.0,"[{1 93, 2 77, 4 37, ""other"" 53, 0 88, 3 38}]",53,88,93,77,38,37
+Python,https://github.com/elastic/eland,2022-01-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ashton.sidhu@elastic.co, flowi@outlook.com]",388.0,"[{1 93, 2 77, 4 37, ""other"" 55, 0 88, 3 38}]",55,88,93,77,38,37
+Python,https://github.com/elastic/eland,2022-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.trent@elastic.co]",389.0,"[{1 93, 2 77, 4 37, ""other"" 56, 0 88, 3 38}]",56,88,93,77,38,37
+Python,https://github.com/elastic/eland,2022-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[istvan.szabo@elastic.co]",390.0,"[{1 93, 2 77, 4 37, ""other"" 57, 0 88, 3 38}]",57,88,93,77,38,37
+Python,https://github.com/elastic/eland,2022-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ashton.sidhu@elastic.co]",391.0,"[{1 93, 2 77, 4 37, ""other"" 58, 0 88, 3 38}]",58,88,93,77,38,37
+Python,https://github.com/elastic/eland,2022-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",392.0,"[{1 93, 2 77, 4 37, ""other"" 58, 0 89, 3 38}]",58,89,93,77,38,37
+Python,https://github.com/elastic/eland,2022-03-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.kyle@elastic.co, david.kyle@elastic.co]",394.0,"[{1 93, 2 77, 4 37, ""other"" 60, 0 89, 3 38}]",60,89,93,77,38,37
+Python,https://github.com/elastic/eland,2022-03-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.trent@elastic.co]",395.0,"[{1 93, 2 77, 4 37, ""other"" 61, 0 89, 3 38}]",61,89,93,77,38,37
+Python,https://github.com/elastic/eland,2022-03-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, 33659563+V1NAY8@users.noreply.github.com]",397.0,"[{1 93, 2 77, 4 37, ""other"" 61, 0 90, 3 39}]",61,90,93,77,39,37
+Python,https://github.com/elastic/eland,2022-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.trent@elastic.co]",398.0,"[{1 93, 2 77, 4 37, ""other"" 62, 0 90, 3 39}]",62,90,93,77,39,37
+Python,https://github.com/elastic/eland,2022-04-27,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dolaru@vaevixen.com, dolaru@vaevixen.com, dolaru@vaevixen.com, dolaru@elastic.co]",402.0,"[{1 93, 2 77, 4 37, ""other"" 66, 0 90, 3 39}]",66,90,93,77,39,37
+Python,https://github.com/elastic/eland,2022-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",403.0,"[{1 93, 2 77, 4 37, ""other"" 67, 0 90, 3 39}]",67,90,93,77,39,37
+Python,https://github.com/elastic/eland,2022-05-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",404.0,"[{1 93, 2 77, 4 37, ""other"" 68, 0 90, 3 39}]",68,90,93,77,39,37
+Python,https://github.com/elastic/eland,2022-05-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, ben.w.trent@gmail.com]",406.0,"[{1 93, 2 77, 4 37, ""other"" 69, 0 91, 3 39}]",69,91,93,77,39,37
+Python,https://github.com/elastic/eland,2022-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",407.0,"[{1 93, 2 77, 4 37, ""other"" 70, 0 91, 3 39}]",70,91,93,77,39,37
+Python,https://github.com/elastic/eland,2022-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lcawley@elastic.co]",408.0,"[{1 93, 2 77, 4 37, ""other"" 71, 0 91, 3 39}]",71,91,93,77,39,37
+Python,https://github.com/elastic/eland,2022-05-31,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[lcawley@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co, seth.larson@elastic.co, lcawley@elastic.co, nasmall@pm.me]",414.0,"[{1 93, 2 77, 4 37, ""other"" 74, 0 94, 3 39}]",74,94,93,77,39,37
+Python,https://github.com/elastic/eland,2022-06-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",415.0,"[{1 93, 2 77, 4 37, ""other"" 75, 0 94, 3 39}]",75,94,93,77,39,37
+Python,https://github.com/elastic/eland,2022-06-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.kyle@elastic.co, david.kyle@elastic.co]",417.0,"[{1 93, 2 77, 4 37, ""other"" 77, 0 94, 3 39}]",77,94,93,77,39,37
+Python,https://github.com/elastic/eland,2022-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",418.0,"[{1 93, 2 77, 4 37, ""other"" 78, 0 94, 3 39}]",78,94,93,77,39,37
+Python,https://github.com/elastic/eland,2022-06-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ben.w.trent@gmail.com, david.kyle@elastic.co]",420.0,"[{1 93, 2 77, 4 37, ""other"" 80, 0 94, 3 39}]",80,94,93,77,39,37
+Python,https://github.com/elastic/eland,2022-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",421.0,"[{1 93, 2 77, 4 37, ""other"" 81, 0 94, 3 39}]",81,94,93,77,39,37
+Python,https://github.com/elastic/eland,2022-07-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",422.0,"[{1 93, 2 77, 4 37, ""other"" 81, 0 95, 3 39}]",81,95,93,77,39,37
+Python,https://github.com/elastic/eland,2022-07-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[szabosteve@gmail.com]",423.0,"[{1 93, 2 77, 4 37, ""other"" 82, 0 95, 3 39}]",82,95,93,77,39,37
+Python,https://github.com/elastic/eland,2022-07-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",424.0,"[{1 93, 2 77, 4 37, ""other"" 83, 0 95, 3 39}]",83,95,93,77,39,37
+Python,https://github.com/elastic/eland,2022-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",425.0,"[{1 93, 2 77, 4 37, ""other"" 84, 0 95, 3 39}]",84,95,93,77,39,37
+Python,https://github.com/elastic/eland,2022-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",426.0,"[{1 93, 2 77, 4 37, ""other"" 85, 0 95, 3 39}]",85,95,93,77,39,37
+Python,https://github.com/elastic/eland,2022-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",427.0,"[{1 93, 2 77, 4 37, ""other"" 86, 0 95, 3 39}]",86,95,93,77,39,37
+Python,https://github.com/elastic/eland,2023-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",428.0,"[{1 93, 2 77, 4 37, ""other"" 87, 0 95, 3 39}]",87,95,93,77,39,37
+Python,https://github.com/elastic/eland,2023-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1292899+valeriy42@users.noreply.github.com]",429.0,"[{1 93, 2 77, 4 37, ""other"" 88, 0 95, 3 39}]",88,95,93,77,39,37
+Python,https://github.com/elastic/eland,2023-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1292899+valeriy42@users.noreply.github.com]",430.0,"[{1 93, 2 77, 4 37, ""other"" 89, 0 95, 3 39}]",89,95,93,77,39,37
+Python,https://github.com/elastic/eland,2023-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",431.0,"[{1 93, 2 77, 4 37, ""other"" 90, 0 95, 3 39}]",90,95,93,77,39,37
+Python,https://github.com/elastic/eland,2023-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",432.0,"[{1 93, 2 77, 4 37, ""other"" 91, 0 95, 3 39}]",91,95,93,77,39,37
+Python,https://github.com/elastic/eland,2023-03-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dave.roberts@elastic.co, seth.larson@elastic.co]",434.0,"[{1 93, 2 77, 4 37, ""other"" 92, 0 96, 3 39}]",92,96,93,77,39,37
+Python,https://github.com/elastic/eland,2023-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",435.0,"[{1 93, 2 77, 4 37, ""other"" 93, 0 96, 3 39}]",93,96,93,77,39,37
+Python,https://github.com/elastic/eland,2023-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",436.0,"[{1 93, 2 77, 4 37, ""other"" 94, 0 96, 3 39}]",94,96,93,77,39,37
+Python,https://github.com/elastic/eland,2023-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",437.0,"[{1 93, 2 77, 4 37, ""other"" 95, 0 96, 3 39}]",95,96,93,77,39,37
+Python,https://github.com/elastic/eland,2023-05-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",439.0,"[{1 93, 2 77, 4 37, ""other"" 95, 0 98, 3 39}]",95,98,93,77,39,37
+Python,https://github.com/elastic/eland,2023-05-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.kyle@elastic.co, david.kyle@elastic.co]",441.0,"[{1 93, 2 77, 4 37, ""other"" 97, 0 98, 3 39}]",97,98,93,77,39,37
+Python,https://github.com/elastic/eland,2023-05-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david.kyle@elastic.co, david.kyle@elastic.co]",443.0,"[{1 93, 2 77, 4 37, ""other"" 99, 0 98, 3 39}]",99,98,93,77,39,37
+Python,https://github.com/elastic/eland,2023-05-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[david.kyle@elastic.co, szabosteve@gmail.com]",445.0,"[{1 93, 2 77, 4 37, ""other"" 101, 0 98, 3 39}]",101,98,93,77,39,37
+Python,https://github.com/elastic/eland,2023-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",446.0,"[{1 93, 2 77, 4 37, ""other"" 102, 0 98, 3 39}]",102,98,93,77,39,37
+Python,https://github.com/elastic/eland,2023-06-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[seth.larson@elastic.co]",447.0,"[{1 93, 2 77, 4 37, ""other"" 102, 0 99, 3 39}]",102,99,93,77,39,37
+Python,https://github.com/elastic/eland,2023-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",448.0,"[{1 93, 2 77, 4 37, ""other"" 103, 0 99, 3 39}]",103,99,93,77,39,37
+Python,https://github.com/elastic/eland,2023-06-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ben.w.trent@gmail.com]",449.0,"[{1 93, 2 77, 4 37, ""other"" 104, 0 99, 3 39}]",104,99,93,77,39,37
+Python,https://github.com/elastic/eland,2023-06-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[seth.larson@elastic.co, seth.larson@elastic.co]",451.0,"[{1 93, 2 77, 4 37, ""other"" 104, 0 101, 3 39}]",104,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[daixque@gmail.com]",452.0,"[{1 93, 2 77, 4 37, ""other"" 105, 0 101, 3 39}]",105,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sakurai.youhei@gmail.com]",453.0,"[{1 93, 2 77, 4 37, ""other"" 106, 0 101, 3 39}]",106,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sakurai.youhei@gmail.com]",454.0,"[{1 93, 2 77, 4 37, ""other"" 107, 0 101, 3 39}]",107,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1292899+valeriy42@users.noreply.github.com]",455.0,"[{1 93, 2 77, 4 37, ""other"" 108, 0 101, 3 39}]",108,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1292899+valeriy42@users.noreply.github.com]",456.0,"[{1 93, 2 77, 4 37, ""other"" 109, 0 101, 3 39}]",109,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sakurai.youhei@gmail.com]",457.0,"[{1 93, 2 77, 4 37, ""other"" 110, 0 101, 3 39}]",110,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fernando@picandocodigo.net]",458.0,"[{1 93, 2 77, 4 37, ""other"" 111, 0 101, 3 39}]",111,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fernando@picandocodigo.net]",459.0,"[{1 93, 2 77, 4 37, ""other"" 112, 0 101, 3 39}]",112,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sakurai.youhei@gmail.com]",460.0,"[{1 93, 2 77, 4 37, ""other"" 113, 0 101, 3 39}]",113,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fernando@picandocodigo.net]",461.0,"[{1 93, 2 77, 4 37, ""other"" 114, 0 101, 3 39}]",114,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[josh.devins@elastic.co]",462.0,"[{1 93, 2 77, 4 37, ""other"" 115, 0 101, 3 39}]",115,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[e.zimuel@gmail.com]",463.0,"[{1 93, 2 77, 4 37, ""other"" 116, 0 101, 3 39}]",116,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[e.zimuel@gmail.com]",464.0,"[{1 93, 2 77, 4 37, ""other"" 117, 0 101, 3 39}]",117,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-08-24,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[e.zimuel@gmail.com, e.zimuel@gmail.com, e.zimuel@gmail.com, e.zimuel@gmail.com, e.zimuel@gmail.com]",469.0,"[{1 93, 2 77, 4 37, ""other"" 122, 0 101, 3 39}]",122,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-08-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",470.0,"[{1 93, 2 77, 4 37, ""other"" 123, 0 101, 3 39}]",123,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@gmail.com]",471.0,"[{1 93, 2 77, 4 37, ""other"" 124, 0 101, 3 39}]",124,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[quentin.pradet@gmail.com, quentin.pradet@gmail.com, quentin.pradet@gmail.com, quentin.pradet@gmail.com]",475.0,"[{1 93, 2 77, 4 37, ""other"" 128, 0 101, 3 39}]",128,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",476.0,"[{1 93, 2 77, 4 37, ""other"" 129, 0 101, 3 39}]",129,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mail@bartbroere.eu]",477.0,"[{1 93, 2 77, 4 37, ""other"" 130, 0 101, 3 39}]",130,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mail@bartbroere.eu, david.kyle@elastic.co]",479.0,"[{1 93, 2 77, 4 37, ""other"" 132, 0 101, 3 39}]",132,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[56361221+jonathan-buttner@users.noreply.github.com]",480.0,"[{1 93, 2 77, 4 37, ""other"" 133, 0 101, 3 39}]",133,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",481.0,"[{1 93, 2 77, 4 37, ""other"" 134, 0 101, 3 39}]",134,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",482.0,"[{1 93, 2 77, 4 37, ""other"" 135, 0 101, 3 39}]",135,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-09-26,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[quentin.pradet@elastic.co, e.zimuel@gmail.com, mail@bartbroere.eu]",485.0,"[{1 93, 2 77, 4 37, ""other"" 138, 0 101, 3 39}]",138,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[quentin.pradet@elastic.co, quentin.pradet@elastic.co]",487.0,"[{1 93, 2 77, 4 37, ""other"" 140, 0 101, 3 39}]",140,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",488.0,"[{1 93, 2 77, 4 37, ""other"" 141, 0 101, 3 39}]",141,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",489.0,"[{1 93, 2 77, 4 37, ""other"" 142, 0 101, 3 39}]",142,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",490.0,"[{1 93, 2 77, 4 37, ""other"" 143, 0 101, 3 39}]",143,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mail@bartbroere.eu]",491.0,"[{1 93, 2 77, 4 37, ""other"" 144, 0 101, 3 39}]",144,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-11,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[quentin.pradet@elastic.co, mail@bartbroere.eu, quentin.pradet@elastic.co, quentin.pradet@elastic.co]",495.0,"[{1 93, 2 77, 4 37, ""other"" 148, 0 101, 3 39}]",148,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",496.0,"[{1 93, 2 77, 4 37, ""other"" 149, 0 101, 3 39}]",149,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",497.0,"[{1 93, 2 77, 4 37, ""other"" 150, 0 101, 3 39}]",150,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",498.0,"[{1 93, 2 77, 4 37, ""other"" 151, 0 101, 3 39}]",151,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[1292899+valeriy42@users.noreply.github.com, mail@bartbroere.eu, mail@bartbroere.eu]",501.0,"[{1 93, 2 77, 4 37, ""other"" 154, 0 101, 3 39}]",154,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",502.0,"[{1 93, 2 77, 4 37, ""other"" 155, 0 101, 3 39}]",155,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32779855+leemthompo@users.noreply.github.com]",503.0,"[{1 93, 2 77, 4 37, ""other"" 156, 0 101, 3 39}]",156,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[quentin.pradet@elastic.co]",504.0,"[{1 93, 2 77, 4 37, ""other"" 157, 0 101, 3 39}]",157,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32779855+leemthompo@users.noreply.github.com]",505.0,"[{1 93, 2 77, 4 37, ""other"" 158, 0 101, 3 39}]",158,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-21,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[david.kyle@elastic.co, quentin.pradet@elastic.co, david.kyle@elastic.co, david.kyle@elastic.co]",509.0,"[{1 93, 2 77, 4 37, ""other"" 162, 0 101, 3 39}]",162,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david.kyle@elastic.co]",510.0,"[{1 93, 2 77, 4 37, ""other"" 163, 0 101, 3 39}]",163,101,93,77,39,37
+Python,https://github.com/elastic/eland,2023-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mail@bartbroere.eu]",511.0,"[{1 93, 2 77, 4 37, ""other"" 164, 0 101, 3 39}]",164,101,93,77,39,37

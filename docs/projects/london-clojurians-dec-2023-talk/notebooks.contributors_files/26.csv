@@ -1,0 +1,883 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,jazzband,2009-07-02,2,1,"#{""coordt@washingtontimes.com""}",2.0,1
+Python,jazzband,2009-07-07,6,1,"#{""coordt@washingtontimes.com""}",8.0,1
+Python,jazzband,2009-07-08,2,1,"#{""coordt@washingtontimes.com""}",10.0,1
+Python,jazzband,2009-07-09,2,1,"#{""coordt@washingtontimes.com""}",12.0,1
+Python,jazzband,2009-07-20,4,1,"#{""jsoares@int1665.local""}",16.0,2
+Python,jazzband,2009-07-21,2,1,"#{""coordt@washingtontimes.com""}",18.0,2
+Python,jazzband,2009-07-28,6,1,"#{""coordt@washingtontimes.com""}",24.0,2
+Python,jazzband,2009-07-29,2,1,"#{""jhensley@washingtontimes.com""}",26.0,3
+Python,jazzband,2009-08-25,2,1,"#{""coordt@washingtontimes.com""}",28.0,3
+Python,jazzband,2009-08-27,20,1,"#{""coordt@washingtontimes.com""}",48.0,3
+Python,jazzband,2009-08-28,4,1,"#{""coordt@washingtontimes.com""}",52.0,3
+Python,jazzband,2009-09-30,14,1,"#{""coordt@washingtontimes.com""}",66.0,3
+Python,jazzband,2009-10-01,10,3,"#{""me@jeffbalogh.org"" ""robmadole@gmail.com"" ""jhensley@washingtontimes.com""}",76.0,5
+Python,jazzband,2009-10-02,2,1,"#{""coordt@washingtontimes.com""}",78.0,5
+Python,jazzband,2009-10-05,2,1,"#{""jsoares@int1665.local""}",80.0,5
+Python,jazzband,2009-10-06,10,1,"#{""coordt@washingtontimes.com""}",90.0,5
+Python,jazzband,2009-10-13,2,1,"#{""coordt@washingtontimes.com""}",92.0,5
+Python,jazzband,2009-10-22,6,1,"#{""coordt@washingtontimes.com""}",98.0,5
+Python,jazzband,2009-11-16,3,1,"#{""me@jeffbalogh.org""}",101.0,5
+Python,jazzband,2009-11-23,4,2,"#{""pete@lincolnloop.com"" ""me@jeffbalogh.org""}",105.0,6
+Python,jazzband,2009-11-30,1,1,"#{""bwinton@latte.ca""}",106.0,7
+Python,jazzband,2009-12-31,2,1,"#{""me@jeffbalogh.org""}",108.0,7
+Python,jazzband,2010-01-23,6,1,"#{""akaihol+django@ambitone.com""}",114.0,8
+Python,jazzband,2010-01-24,1,1,"#{""akaihol+django@ambitone.com""}",115.0,8
+Python,jazzband,2010-01-25,9,1,"#{""me@jeffbalogh.org""}",124.0,8
+Python,jazzband,2010-01-27,2,1,"#{""jsoares@adv1179.nwc.newsworld.net""}",126.0,9
+Python,jazzband,2010-01-28,4,1,"#{""justquick@gmail.com""}",130.0,10
+Python,jazzband,2010-02-01,8,1,"#{""coordt@washingtontimes.com""}",138.0,10
+Python,jazzband,2010-02-02,2,1,"#{""justquick@gmail.com""}",140.0,10
+Python,jazzband,2010-02-03,1,1,"#{""me@jeffbalogh.org""}",141.0,10
+Python,jazzband,2010-02-12,4,1,"#{""coordt@washingtontimes.com""}",145.0,10
+Python,jazzband,2010-02-21,3,1,"#{""corey@qr7.com""}",148.0,11
+Python,jazzband,2010-02-24,1,1,"#{""me@jeffbalogh.org""}",149.0,11
+Python,jazzband,2010-02-25,1,1,"#{""michael@elsdoerfer.com""}",150.0,12
+Python,jazzband,2010-02-26,4,1,"#{""justquick@gmail.com""}",154.0,12
+Python,jazzband,2010-03-02,1,1,"#{""sverre.johansen@gmail.com""}",155.0,13
+Python,jazzband,2010-04-04,4,1,"#{""me@jeffbalogh.org""}",159.0,13
+Python,jazzband,2010-04-05,8,1,"#{""coordt@washingtontimes.com""}",167.0,13
+Python,jazzband,2010-04-06,6,1,"#{""coordt@washingtontimes.com""}",173.0,13
+Python,jazzband,2010-04-07,4,1,"#{""coordt@washingtontimes.com""}",177.0,13
+Python,jazzband,2010-04-08,2,1,"#{""coordt@washingtontimes.com""}",179.0,13
+Python,jazzband,2010-04-15,2,1,"#{""coordt@washingtontimes.com""}",181.0,13
+Python,jazzband,2010-04-16,1,1,"#{""ross.lawley@gmail.com""}",182.0,14
+Python,jazzband,2010-04-22,2,1,"#{""coordt@washingtontimes.com""}",184.0,14
+Python,jazzband,2010-04-23,10,1,"#{""coordt@washingtontimes.com""}",194.0,14
+Python,jazzband,2010-04-26,4,2,"#{""coordt@washingtontimes.com"" ""webdev@washingtontimes.com""}",198.0,15
+Python,jazzband,2010-04-28,2,1,"#{""coordt@washingtontimes.com""}",200.0,15
+Python,jazzband,2010-04-29,4,1,"#{""justquick@gmail.com""}",204.0,15
+Python,jazzband,2010-05-06,1,1,"#{""proppy@aminche.com""}",205.0,16
+Python,jazzband,2010-05-18,2,1,"#{""me@jeffbalogh.org""}",207.0,16
+Python,jazzband,2010-05-22,2,1,"#{""andrzej@herok.pl""}",209.0,17
+Python,jazzband,2010-05-24,10,1,"#{""mjt@fadconsulting.com""}",219.0,18
+Python,jazzband,2010-05-25,1,1,"#{""me@jeffbalogh.org""}",220.0,18
+Python,jazzband,2010-05-26,6,1,"#{""mjt@fadconsulting.com""}",226.0,18
+Python,jazzband,2010-05-28,16,1,"#{""coordt@washingtontimes.com""}",242.0,18
+Python,jazzband,2010-06-01,2,1,"#{""me@jeffbalogh.org""}",244.0,18
+Python,jazzband,2010-06-12,2,1,"#{""carl@oddbird.net""}",246.0,19
+Python,jazzband,2010-06-14,1,1,"#{""me@jeffbalogh.org""}",247.0,19
+Python,jazzband,2010-06-16,4,1,"#{""justquick@gmail.com""}",251.0,19
+Python,jazzband,2010-06-21,1,1,"#{""ross.lawley@gmail.com""}",252.0,19
+Python,jazzband,2010-08-02,1,1,"#{""michael@elsdoerfer.com""}",253.0,19
+Python,jazzband,2010-08-04,1,1,"#{""outofculture@gmail.com""}",254.0,20
+Python,jazzband,2010-08-05,1,1,"#{""kumar@trilo.local""}",255.0,21
+Python,jazzband,2010-08-07,1,1,"#{""kumar@trilo.local""}",256.0,21
+Python,jazzband,2010-08-14,1,1,"#{""jbalogh@mozilla.com""}",257.0,22
+Python,jazzband,2010-08-25,1,1,"#{""ross.lawley@gmail.com""}",258.0,22
+Python,jazzband,2010-09-09,1,1,"#{""jbalogh@mozilla.com""}",259.0,22
+Python,jazzband,2010-09-17,2,1,"#{""justquick@gmail.com""}",261.0,22
+Python,jazzband,2010-09-30,3,2,"#{""justquick@gmail.com"" ""jbalogh@mozilla.com""}",264.0,22
+Python,jazzband,2010-10-01,1,1,"#{""carl@oddbird.net""}",265.0,22
+Python,jazzband,2010-10-07,2,1,"#{""coordt@washingtontimes.com""}",267.0,22
+Python,jazzband,2010-10-22,1,1,"#{""klaas@vanschelven.com""}",268.0,23
+Python,jazzband,2010-10-23,6,1,"#{""josh@joshourisman.com""}",274.0,24
+Python,jazzband,2010-10-25,6,2,"#{""coordt@washingtontimes.com"" ""corey@qr7.com""}",280.0,24
+Python,jazzband,2010-12-02,2,1,"#{""corey@qr7.com""}",282.0,24
+Python,jazzband,2010-12-10,10,1,"#{""coordt@washingtontimes.com""}",292.0,24
+Python,jazzband,2010-12-12,2,1,"#{""coordt@washingtontimes.com""}",294.0,24
+Python,jazzband,2010-12-16,40,1,"#{""coordt@washingtontimes.com""}",334.0,24
+Python,jazzband,2010-12-18,12,1,"#{""coordt@washingtontimes.com""}",346.0,24
+Python,jazzband,2011-01-17,6,1,"#{""erik@simmlers.com""}",352.0,25
+Python,jazzband,2011-01-19,4,1,"#{""erik@simmlers.com""}",356.0,25
+Python,jazzband,2011-01-20,6,1,"#{""coordt@washingtontimes.com""}",362.0,25
+Python,jazzband,2011-01-21,1,1,"#{""jbalogh@mozilla.com""}",363.0,25
+Python,jazzband,2011-01-29,1,1,"#{""ionel.mc@gmail.com""}",364.0,26
+Python,jazzband,2011-02-03,1,1,"#{""jbalogh@mozilla.com""}",365.0,26
+Python,jazzband,2011-02-14,20,1,"#{""coordt@washingtontimes.com""}",385.0,26
+Python,jazzband,2011-03-06,1,1,"#{""treyhunner@gmail.com""}",386.0,27
+Python,jazzband,2011-03-07,1,1,"#{""treyhunner@gmail.com""}",387.0,27
+Python,jazzband,2011-03-08,1,1,"#{""treyhunner@gmail.com""}",388.0,27
+Python,jazzband,2011-03-09,1,1,"#{""treyhunner@gmail.com""}",389.0,27
+Python,jazzband,2011-03-11,1,1,"#{""treyhunner@gmail.com""}",390.0,27
+Python,jazzband,2011-03-17,2,1,"#{""martin@cahoona.co.uk""}",392.0,28
+Python,jazzband,2011-03-26,6,2,"#{""coordt@washingtontimes.com"" ""erik@simmlers.com""}",398.0,28
+Python,jazzband,2011-03-27,8,1,"#{""erik@simmlers.com""}",406.0,28
+Python,jazzband,2011-04-10,2,1,"#{""ramiro@rmorales.net""}",408.0,29
+Python,jazzband,2011-04-15,2,1,"#{""jbalogh@mozilla.com""}",410.0,29
+Python,jazzband,2011-05-03,2,1,"#{""evan@evanculver.com""}",412.0,30
+Python,jazzband,2011-05-04,2,1,"#{""evan@evanculver.com""}",414.0,30
+Python,jazzband,2011-05-07,4,1,"#{""coordt@washingtontimes.com""}",418.0,30
+Python,jazzband,2011-05-11,12,1,"#{""coordt@washingtontimes.com""}",430.0,30
+Python,jazzband,2011-05-12,18,1,"#{""coordt@washingtontimes.com""}",448.0,30
+Python,jazzband,2011-05-13,2,1,"#{""coordt@washingtontimes.com""}",450.0,30
+Python,jazzband,2011-05-15,4,1,"#{""coordt@washingtontimes.com""}",454.0,30
+Python,jazzband,2011-05-16,10,1,"#{""coordt@washingtontimes.com""}",464.0,30
+Python,jazzband,2011-05-18,6,1,"#{""coordt@washingtontimes.com""}",470.0,30
+Python,jazzband,2011-06-11,4,1,"#{""mjt@fadconsulting.com""}",474.0,30
+Python,jazzband,2011-07-02,1,1,"#{""jfrancese@inoa.com.br""}",475.0,31
+Python,jazzband,2011-07-19,1,1,"#{""dcramer@gmail.com""}",476.0,32
+Python,jazzband,2011-07-20,1,1,"#{""dcramer@gmail.com""}",477.0,32
+Python,jazzband,2011-07-28,2,1,"#{""coordt@washingtontimes.com""}",479.0,32
+Python,jazzband,2011-08-01,18,1,"#{""coordt@washingtontimes.com""}",497.0,32
+Python,jazzband,2011-08-02,19,2,"#{""coordt@washingtontimes.com"" ""jbalogh@mozilla.com""}",516.0,32
+Python,jazzband,2011-08-03,9,2,"#{""treyhunner@gmail.com"" ""coordt@washingtontimes.com""}",525.0,32
+Python,jazzband,2011-08-07,1,1,"#{""dcramer@gmail.com""}",526.0,32
+Python,jazzband,2011-08-08,2,2,"#{""dcramer@gmail.com"" ""jbalogh@mozilla.com""}",528.0,32
+Python,jazzband,2011-08-10,1,1,"#{""jbalogh@mozilla.com""}",529.0,32
+Python,jazzband,2011-08-18,4,1,"#{""coordt@washingtontimes.com""}",533.0,32
+Python,jazzband,2011-08-19,14,1,"#{""coordt@washingtontimes.com""}",547.0,32
+Python,jazzband,2011-08-22,12,1,"#{""coordt@washingtontimes.com""}",559.0,32
+Python,jazzband,2011-08-28,6,2,"#{""mjt+illyria@skyhood.com"" ""erik@mozilla.com""}",565.0,34
+Python,jazzband,2011-08-29,6,1,"#{""coordt@washingtontimes.com""}",571.0,34
+Python,jazzband,2011-08-30,3,2,"#{""erik@mozilla.com"" ""jbalogh@mozilla.com""}",574.0,34
+Python,jazzband,2011-08-31,4,2,"#{""mjt+illyria@skyhood.com"" ""erik@mozilla.com""}",578.0,34
+Python,jazzband,2011-09-02,3,3,"#{""fwenzel@mozilla.com"" ""jfrancese@inoa.com.br"" ""erik@mozilla.com""}",581.0,35
+Python,jazzband,2011-09-04,8,1,"#{""coreyoordt@gmail.com""}",589.0,36
+Python,jazzband,2011-09-06,1,1,"#{""erik@mozilla.com""}",590.0,36
+Python,jazzband,2011-10-04,1,1,"#{""jfrancese@inoa.com.br""}",591.0,36
+Python,jazzband,2011-10-13,9,2,"#{""coreyoordt@gmail.com"" ""jfrancese@inoa.com.br""}",600.0,36
+Python,jazzband,2011-10-14,6,1,"#{""coreyoordt@gmail.com""}",606.0,36
+Python,jazzband,2011-11-03,6,1,"#{""coreyoordt@gmail.com""}",612.0,36
+Python,jazzband,2011-11-04,1,1,"#{""rajesh@pappula.com""}",613.0,37
+Python,jazzband,2011-11-07,1,1,"#{""treyhunner@gmail.com""}",614.0,37
+Python,jazzband,2011-11-08,2,1,"#{""treyhunner@gmail.com""}",616.0,37
+Python,jazzband,2011-12-06,2,1,"#{""jfrancese@inoa.com.br""}",618.0,37
+Python,jazzband,2011-12-09,1,1,"#{""mjt+illyria@skyhood.com""}",619.0,37
+Python,jazzband,2011-12-20,2,1,"#{""d.charbonnier@oxys.net""}",621.0,38
+Python,jazzband,2012-01-03,14,1,"#{""coreyoordt@gmail.com""}",635.0,38
+Python,jazzband,2012-01-04,6,1,"#{""coreyoordt@gmail.com""}",641.0,38
+Python,jazzband,2012-01-11,6,1,"#{""josefsoares@gmail.com""}",647.0,39
+Python,jazzband,2012-01-19,3,1,"#{""erik@mozilla.com""}",650.0,39
+Python,jazzband,2012-01-20,2,2,"#{""daniel.abel@maven7.hu"" ""erik@mozilla.com""}",652.0,40
+Python,jazzband,2012-01-21,1,1,"#{""daniel.abel@maven7.hu""}",653.0,40
+Python,jazzband,2012-01-24,3,1,"#{""daniel.abel@maven7.hu""}",656.0,40
+Python,jazzband,2012-02-06,10,2,"#{""josefsoares@gmail.com"" ""coreyoordt@gmail.com""}",666.0,40
+Python,jazzband,2012-02-07,22,1,"#{""coreyoordt@gmail.com""}",688.0,40
+Python,jazzband,2012-02-08,2,1,"#{""coreyoordt@gmail.com""}",690.0,40
+Python,jazzband,2012-02-09,6,1,"#{""coreyoordt@gmail.com""}",696.0,40
+Python,jazzband,2012-02-15,4,1,"#{""coreyoordt@gmail.com""}",700.0,40
+Python,jazzband,2012-02-26,3,1,"#{""jfrancese@inoa.com.br""}",703.0,40
+Python,jazzband,2012-03-06,12,1,"#{""coreyoordt@gmail.com""}",715.0,40
+Python,jazzband,2012-03-09,2,1,"#{""coreyoordt@gmail.com""}",717.0,40
+Python,jazzband,2012-03-12,20,2,"#{""erik@votizen.com"" ""rhu@hearsaycorp.com""}",737.0,42
+Python,jazzband,2012-03-13,13,3,"#{""erik@votizen.com"" ""mzdaniel@gmail.com"" ""rhu@hearsaycorp.com""}",750.0,43
+Python,jazzband,2012-03-28,14,3,"#{""bjasper@gmail.com"" ""erik@votizen.com"" ""coreyoordt@gmail.com""}",764.0,44
+Python,jazzband,2012-03-30,9,3,"#{""i.spalletti@nephila.it"" ""adepue@hearsaycorp.com"" ""coreyoordt@gmail.com""}",773.0,46
+Python,jazzband,2012-04-27,4,1,"#{""coreyoordt@gmail.com""}",777.0,46
+Python,jazzband,2012-05-03,8,2,"#{""erik@votizen.com"" ""josefsoares@gmail.com""}",785.0,46
+Python,jazzband,2012-05-07,3,1,"#{""grinch@grinchcentral.com""}",788.0,47
+Python,jazzband,2012-05-11,4,2,"#{""coreyoordt@gmail.com"" ""numerodix@gmail.com""}",792.0,48
+Python,jazzband,2012-05-15,1,1,"#{""uvilela@inoa.com.br""}",793.0,49
+Python,jazzband,2012-05-16,4,1,"#{""numerodix@gmail.com""}",797.0,49
+Python,jazzband,2012-05-17,1,1,"#{""erik@votizen.com""}",798.0,49
+Python,jazzband,2012-05-18,1,1,"#{""erik@votizen.com""}",799.0,49
+Python,jazzband,2012-05-19,2,1,"#{""erik@votizen.com""}",801.0,49
+Python,jazzband,2012-05-24,1,1,"#{""erik@votizen.com""}",802.0,49
+Python,jazzband,2012-05-26,1,1,"#{""erik@votizen.com""}",803.0,49
+Python,jazzband,2012-05-28,1,1,"#{""erik@votizen.com""}",804.0,49
+Python,jazzband,2012-06-04,4,1,"#{""josefsoares@gmail.com""}",808.0,49
+Python,jazzband,2012-06-06,2,1,"#{""coreyoordt@gmail.com""}",810.0,49
+Python,jazzband,2012-06-08,1,1,"#{""andrii@vmware.com""}",811.0,50
+Python,jazzband,2012-06-09,1,1,"#{""andrii@vmware.com""}",812.0,50
+Python,jazzband,2012-06-14,2,1,"#{""i.spalletti@nephila.it""}",814.0,50
+Python,jazzband,2012-07-02,6,1,"#{""coreyoordt@gmail.com""}",820.0,50
+Python,jazzband,2012-07-11,2,1,"#{""coreyoordt@gmail.com""}",822.0,50
+Python,jazzband,2012-07-12,17,3,"#{""ash.christopher@gmail.com"" ""grinch@grinchcentral.com"" ""coreyoordt@gmail.com""}",839.0,51
+Python,jazzband,2012-07-14,6,1,"#{""jose@linux.com""}",845.0,52
+Python,jazzband,2012-07-18,1,1,"#{""erik@votizen.com""}",846.0,52
+Python,jazzband,2012-08-08,6,1,"#{""coreyoordt@gmail.com""}",852.0,52
+Python,jazzband,2012-08-18,12,1,"#{""coreyoordt@gmail.com""}",864.0,52
+Python,jazzband,2012-08-21,2,1,"#{""jfrancese@inoa.com.br""}",866.0,52
+Python,jazzband,2012-08-23,2,1,"#{""jfrancese@inoa.com.br""}",868.0,52
+Python,jazzband,2012-08-24,2,1,"#{""epicserve@gmail.com""}",870.0,53
+Python,jazzband,2012-08-27,4,1,"#{""epicserve@gmail.com""}",874.0,53
+Python,jazzband,2012-08-28,16,1,"#{""coreyoordt@gmail.com""}",890.0,53
+Python,jazzband,2012-08-29,6,1,"#{""treyhunner@gmail.com""}",896.0,53
+Python,jazzband,2012-09-02,4,1,"#{""git@winniehell.de""}",900.0,54
+Python,jazzband,2012-09-07,11,3,"#{""f@mint"" ""grinch@grinchcentral.com"" ""camilo.nova@axiacore.com""}",911.0,56
+Python,jazzband,2012-09-09,3,2,"#{""grinch@grinchcentral.com"" ""kyle@dvelyk.com""}",914.0,57
+Python,jazzband,2012-09-11,1,1,"#{""cramm0@gmail.com""}",915.0,58
+Python,jazzband,2012-09-12,1,1,"#{""grinch@grinchcentral.com""}",916.0,58
+Python,jazzband,2012-09-14,1,1,"#{""grinch@grinchcentral.com""}",917.0,58
+Python,jazzband,2012-09-23,4,1,"#{""coreyoordt@gmail.com""}",921.0,58
+Python,jazzband,2012-10-10,2,1,"#{""epicserve@gmail.com""}",923.0,58
+Python,jazzband,2012-10-11,2,1,"#{""coreyoordt@gmail.com""}",925.0,58
+Python,jazzband,2012-10-21,1,1,"#{""alexjsgood@gmail.com""}",926.0,59
+Python,jazzband,2012-11-29,2,1,"#{""jsanchezpando@cirb.irisnet.be""}",928.0,60
+Python,jazzband,2012-12-02,1,1,"#{""trey@treyhunner.com""}",929.0,61
+Python,jazzband,2013-01-21,4,1,"#{""coreyoordt@gmail.com""}",933.0,61
+Python,jazzband,2013-02-01,1,1,"#{""grinch@grinchcentral.com""}",934.0,61
+Python,jazzband,2013-02-24,6,1,"#{""iepathos@gmail.com""}",940.0,62
+Python,jazzband,2013-02-27,4,1,"#{""coreyoordt@gmail.com""}",944.0,62
+Python,jazzband,2013-03-01,2,1,"#{""yb@enix.org""}",946.0,63
+Python,jazzband,2013-03-18,2,1,"#{""epicserve@gmail.com""}",948.0,63
+Python,jazzband,2013-03-19,4,1,"#{""coreyoordt@gmail.com""}",952.0,63
+Python,jazzband,2013-03-20,8,1,"#{""coreyoordt@gmail.com""}",960.0,63
+Python,jazzband,2013-03-21,2,1,"#{""yeo.eugene.oey@gmail.com""}",962.0,64
+Python,jazzband,2013-03-22,4,1,"#{""coreyoordt@gmail.com""}",966.0,64
+Python,jazzband,2013-03-27,2,1,"#{""jeff@jbalogh.me""}",968.0,65
+Python,jazzband,2013-04-04,2,1,"#{""trey@treyhunner.com""}",970.0,65
+Python,jazzband,2013-04-09,1,1,"#{""jsanchezpando@cirb.irisnet.be""}",971.0,65
+Python,jazzband,2013-04-11,7,1,"#{""trey@treyhunner.com""}",978.0,65
+Python,jazzband,2013-04-12,2,1,"#{""trey@treyhunner.com""}",980.0,65
+Python,jazzband,2013-04-14,12,1,"#{""trey@treyhunner.com""}",992.0,65
+Python,jazzband,2013-04-15,4,1,"#{""trey@treyhunner.com""}",996.0,65
+Python,jazzband,2013-04-16,1,1,"#{""trey@treyhunner.com""}",997.0,65
+Python,jazzband,2013-04-20,6,1,"#{""trey@treyhunner.com""}",1003.0,65
+Python,jazzband,2013-04-21,19,2,"#{""travis@innerbrane.com"" ""trey@treyhunner.com""}",1022.0,66
+Python,jazzband,2013-04-22,23,3,"#{""damien.nozay@gmail.com"" ""trey@treyhunner.com"" ""dnozay@vmware.com""}",1045.0,68
+Python,jazzband,2013-04-23,6,3,"#{""damien.nozay@gmail.com"" ""trey@treyhunner.com"" ""dnozay@vmware.com""}",1051.0,68
+Python,jazzband,2013-05-03,7,1,"#{""trey@treyhunner.com""}",1058.0,68
+Python,jazzband,2013-05-04,1,1,"#{""trey@treyhunner.com""}",1059.0,68
+Python,jazzband,2013-05-07,19,3,"#{""josh.fyne@essencedigital.com"" ""trey@treyhunner.com"" ""dnozay@vmware.com""}",1078.0,69
+Python,jazzband,2013-05-08,2,1,"#{""josh.fyne@essencedigital.com""}",1080.0,69
+Python,jazzband,2013-05-09,1,1,"#{""trey@treyhunner.com""}",1081.0,69
+Python,jazzband,2013-05-11,4,1,"#{""trey@treyhunner.com""}",1085.0,69
+Python,jazzband,2013-05-12,1,1,"#{""trey@treyhunner.com""}",1086.0,69
+Python,jazzband,2013-05-13,2,2,"#{""aleksey.kladov@gmail.com"" ""trey@treyhunner.com""}",1088.0,70
+Python,jazzband,2013-05-14,4,2,"#{""damien.nozay@gmail.com"" ""aleksey.kladov@gmail.com""}",1092.0,70
+Python,jazzband,2013-05-15,11,3,"#{""damien.nozay@gmail.com"" ""aleksey.kladov@gmail.com"" ""trey@treyhunner.com""}",1103.0,70
+Python,jazzband,2013-05-16,1,1,"#{""aleksey.kladov@gmail.com""}",1104.0,70
+Python,jazzband,2013-05-17,22,2,"#{""damien.nozay@gmail.com"" ""trey@treyhunner.com""}",1126.0,70
+Python,jazzband,2013-05-20,3,2,"#{""trey@treyhunner.com"" ""coreyoordt@gmail.com""}",1129.0,70
+Python,jazzband,2013-05-23,2,1,"#{""trey@treyhunner.com""}",1131.0,70
+Python,jazzband,2013-05-24,2,1,"#{""trey@treyhunner.com""}",1133.0,70
+Python,jazzband,2013-05-25,7,1,"#{""trey@treyhunner.com""}",1140.0,70
+Python,jazzband,2013-06-05,2,1,"#{""i.spalletti@nephila.it""}",1142.0,70
+Python,jazzband,2013-06-17,4,1,"#{""daniell@aptivate.org""}",1146.0,71
+Python,jazzband,2013-06-18,1,1,"#{""stephen.r.burrows@gmail.com""}",1147.0,72
+Python,jazzband,2013-06-20,1,1,"#{""jeff@jbalogh.me""}",1148.0,72
+Python,jazzband,2013-06-21,3,2,"#{""fabiosantosart@gmail.com"" ""coreyoordt@gmail.com""}",1151.0,73
+Python,jazzband,2013-07-02,3,1,"#{""jeff@jbalogh.me""}",1154.0,73
+Python,jazzband,2013-07-07,2,1,"#{""coreyoordt@gmail.com""}",1156.0,73
+Python,jazzband,2013-07-23,1,1,"#{""jeff@jbalogh.me""}",1157.0,73
+Python,jazzband,2013-07-25,6,3,"#{""lopegwapo@gmail.com"" ""trey@treyhunner.com"" ""hamish@aptivate.org""}",1163.0,75
+Python,jazzband,2013-07-26,3,1,"#{""hamish@aptivate.org""}",1166.0,75
+Python,jazzband,2013-07-27,1,1,"#{""hamish@foobacca.co.uk""}",1167.0,76
+Python,jazzband,2013-07-28,5,1,"#{""trey@treyhunner.com""}",1172.0,76
+Python,jazzband,2013-07-29,2,1,"#{""enver@bisevac.com""}",1174.0,77
+Python,jazzband,2013-08-01,2,1,"#{""coreyoordt@gmail.com""}",1176.0,77
+Python,jazzband,2013-08-22,1,1,"#{""moeffju@moeffju.net""}",1177.0,78
+Python,jazzband,2013-08-27,3,2,"#{""trey@treyhunner.com"" ""info@termtegrity.com""}",1180.0,79
+Python,jazzband,2013-09-04,3,3,"#{""github@jeffbalogh.org"" ""jeff@jbalogh.me"" ""marius@gedmin.as""}",1183.0,81
+Python,jazzband,2013-09-05,4,1,"#{""aleksey.kladov@gmail.com""}",1187.0,81
+Python,jazzband,2013-09-07,4,1,"#{""sina.samv@gmail.com""}",1191.0,82
+Python,jazzband,2013-09-09,2,1,"#{""coreyoordt@gmail.com""}",1193.0,82
+Python,jazzband,2013-09-26,1,1,"#{""chef@bitdeli.com""}",1194.0,83
+Python,jazzband,2013-10-20,2,1,"#{""mirzadelic1@gmail.com""}",1196.0,84
+Python,jazzband,2013-10-31,1,1,"#{""edermp@gmail.com""}",1197.0,85
+Python,jazzband,2013-11-09,1,1,"#{""danielroschka@phoenitydawn.de""}",1198.0,86
+Python,jazzband,2013-11-11,1,1,"#{""danielroschka@phoenitydawn.de""}",1199.0,86
+Python,jazzband,2013-11-24,2,1,"#{""coreyoordt@gmail.com""}",1201.0,86
+Python,jazzband,2014-01-20,1,1,"#{""paul.collins@brightscope.com""}",1202.0,87
+Python,jazzband,2014-01-26,1,1,"#{""grinch@grinchcentral.com""}",1203.0,87
+Python,jazzband,2014-01-28,1,1,"#{""mckean.david@gmail.com""}",1204.0,88
+Python,jazzband,2014-01-29,1,1,"#{""trey@treyhunner.com""}",1205.0,88
+Python,jazzband,2014-02-06,7,3,"#{""github@jeffbalogh.org"" ""trey@treyhunner.com"" ""radek.simko@gmail.com""}",1212.0,89
+Python,jazzband,2014-03-03,5,1,"#{""trey@treyhunner.com""}",1217.0,89
+Python,jazzband,2014-03-13,2,1,"#{""trey@treyhunner.com""}",1219.0,89
+Python,jazzband,2014-03-15,1,1,"#{""danielroschka@phoenitydawn.de""}",1220.0,89
+Python,jazzband,2014-03-28,1,1,"#{""eric.amorde@gmail.com""}",1221.0,90
+Python,jazzband,2014-04-01,4,1,"#{""trey@treyhunner.com""}",1225.0,90
+Python,jazzband,2014-04-03,2,1,"#{""trey@treyhunner.com""}",1227.0,90
+Python,jazzband,2014-04-13,1,1,"#{""bjdixon@gmail.com""}",1228.0,91
+Python,jazzband,2014-04-14,15,3,"#{""trey@treyhunner.com"" ""dennison.john@gmail.com"" ""danielroschka@phoenitydawn.de""}",1243.0,92
+Python,jazzband,2014-04-15,5,1,"#{""trey@treyhunner.com""}",1248.0,92
+Python,jazzband,2014-04-17,3,1,"#{""bradpitcher@gmail.com""}",1251.0,93
+Python,jazzband,2014-04-19,2,1,"#{""trey@treyhunner.com""}",1253.0,93
+Python,jazzband,2014-06-18,1,1,"#{""mauricio.abreua@gmail.com""}",1254.0,94
+Python,jazzband,2014-06-19,3,1,"#{""trey@treyhunner.com""}",1257.0,94
+Python,jazzband,2014-06-21,5,2,"#{""trey@treyhunner.com"" ""macromicah@gmail.com""}",1262.0,95
+Python,jazzband,2014-06-22,21,2,"#{""trey@treyhunner.com"" ""macromicah@gmail.com""}",1283.0,95
+Python,jazzband,2014-06-23,12,1,"#{""macromicah@gmail.com""}",1295.0,95
+Python,jazzband,2014-06-24,9,2,"#{""me@jamessocol.com"" ""macromicah@gmail.com""}",1304.0,96
+Python,jazzband,2014-06-25,10,1,"#{""macromicah@gmail.com""}",1314.0,96
+Python,jazzband,2014-06-26,4,2,"#{""trey@treyhunner.com"" ""macromicah@gmail.com""}",1318.0,96
+Python,jazzband,2014-06-29,8,1,"#{""trey@treyhunner.com""}",1326.0,96
+Python,jazzband,2014-07-20,1,1,"#{""macromicah@gmail.com""}",1327.0,96
+Python,jazzband,2014-07-26,1,1,"#{""macromicah@gmail.com""}",1328.0,96
+Python,jazzband,2014-07-27,1,1,"#{""macromicah@gmail.com""}",1329.0,96
+Python,jazzband,2014-07-31,8,2,"#{""trey@treyhunner.com"" ""macromicah@gmail.com""}",1337.0,96
+Python,jazzband,2014-08-01,1,1,"#{""macromicah@gmail.com""}",1338.0,96
+Python,jazzband,2014-08-04,2,1,"#{""macromicah@gmail.com""}",1340.0,96
+Python,jazzband,2014-08-06,3,1,"#{""macromicah@gmail.com""}",1343.0,96
+Python,jazzband,2014-08-07,2,1,"#{""macromicah@gmail.com""}",1345.0,96
+Python,jazzband,2014-08-08,2,1,"#{""macromicah@gmail.com""}",1347.0,96
+Python,jazzband,2014-08-12,1,1,"#{""macromicah@gmail.com""}",1348.0,96
+Python,jazzband,2014-08-17,2,1,"#{""trey@treyhunner.com""}",1350.0,96
+Python,jazzband,2014-08-21,3,1,"#{""macromicah@gmail.com""}",1353.0,96
+Python,jazzband,2014-08-22,4,1,"#{""macromicah@gmail.com""}",1357.0,96
+Python,jazzband,2014-08-26,1,1,"#{""macromicah@gmail.com""}",1358.0,96
+Python,jazzband,2014-09-01,2,1,"#{""macromicah@gmail.com""}",1360.0,96
+Python,jazzband,2014-09-02,1,1,"#{""macromicah@gmail.com""}",1361.0,96
+Python,jazzband,2014-09-03,2,2,"#{""jbalogh@stripe.com"" ""github@jeffbalogh.org""}",1363.0,97
+Python,jazzband,2014-09-04,2,1,"#{""macromicah@gmail.com""}",1365.0,97
+Python,jazzband,2014-09-06,1,1,"#{""trey@treyhunner.com""}",1366.0,97
+Python,jazzband,2014-09-09,7,2,"#{""rosslote@gmail.com"" ""macromicah@gmail.com""}",1373.0,98
+Python,jazzband,2014-09-12,6,1,"#{""epicserve@gmail.com""}",1379.0,98
+Python,jazzband,2014-10-01,2,1,"#{""macromicah@gmail.com""}",1381.0,98
+Python,jazzband,2014-10-08,3,2,"#{""dav3hit3@gmail.com"" ""macromicah@gmail.com""}",1384.0,99
+Python,jazzband,2014-10-09,4,2,"#{""dav3hit3@gmail.com"" ""macromicah@gmail.com""}",1388.0,99
+Python,jazzband,2014-10-11,5,1,"#{""macromicah@gmail.com""}",1393.0,99
+Python,jazzband,2014-10-12,1,1,"#{""macromicah@gmail.com""}",1394.0,99
+Python,jazzband,2014-10-13,1,1,"#{""macromicah@gmail.com""}",1395.0,99
+Python,jazzband,2014-10-14,6,1,"#{""macromicah@gmail.com""}",1401.0,99
+Python,jazzband,2014-10-15,3,2,"#{""kevin.graham.foster@gmail.com"" ""macromicah@gmail.com""}",1404.0,100
+Python,jazzband,2014-10-17,1,1,"#{""macromicah@gmail.com""}",1405.0,100
+Python,jazzband,2014-10-18,6,2,"#{""trey@treyhunner.com"" ""macromicah@gmail.com""}",1411.0,100
+Python,jazzband,2014-10-21,1,1,"#{""conrado@buhrer.net""}",1412.0,101
+Python,jazzband,2014-10-28,1,1,"#{""dnozay@users.noreply.github.com""}",1413.0,102
+Python,jazzband,2014-10-30,10,1,"#{""macromicah@gmail.com""}",1423.0,102
+Python,jazzband,2014-11-01,7,2,"#{""John-Whitlock@ieee.org"" ""macromicah@gmail.com""}",1430.0,103
+Python,jazzband,2014-11-02,2,2,"#{""trey@treyhunner.com"" ""John-Whitlock@ieee.org""}",1432.0,103
+Python,jazzband,2014-11-03,2,2,"#{""jpulec@gmail.com"" ""macromicah@gmail.com""}",1434.0,104
+Python,jazzband,2014-11-06,2,1,"#{""macromicah@gmail.com""}",1436.0,104
+Python,jazzband,2014-11-16,1,1,"#{""John-Whitlock@ieee.org""}",1437.0,104
+Python,jazzband,2014-11-18,7,1,"#{""macromicah@gmail.com""}",1444.0,104
+Python,jazzband,2014-11-20,2,1,"#{""macromicah@gmail.com""}",1446.0,104
+Python,jazzband,2014-11-22,1,1,"#{""trey@treyhunner.com""}",1447.0,104
+Python,jazzband,2014-12-05,3,1,"#{""me@jamessocol.com""}",1450.0,104
+Python,jazzband,2014-12-20,1,1,"#{""macromicah@gmail.com""}",1451.0,104
+Python,jazzband,2014-12-23,2,1,"#{""macromicah@gmail.com""}",1453.0,104
+Python,jazzband,2014-12-27,3,1,"#{""sklass@pointcircle.com""}",1456.0,105
+Python,jazzband,2014-12-30,1,1,"#{""trey@treyhunner.com""}",1457.0,105
+Python,jazzband,2015-01-01,1,1,"#{""macromicah@gmail.com""}",1458.0,105
+Python,jazzband,2015-02-01,1,1,"#{""h.mittal83@gmail.com""}",1459.0,106
+Python,jazzband,2015-02-08,1,1,"#{""macromicah@gmail.com""}",1460.0,106
+Python,jazzband,2015-02-09,3,1,"#{""tim@timc3.com""}",1463.0,107
+Python,jazzband,2015-02-23,1,1,"#{""me@jamessocol.com""}",1464.0,107
+Python,jazzband,2015-02-28,1,1,"#{""eroninjapan@gmail.com""}",1465.0,108
+Python,jazzband,2015-03-02,4,3,"#{""myhappydo@gmail.com"" ""mkelly@mozilla.com"" ""me@jamessocol.com""}",1469.0,110
+Python,jazzband,2015-03-03,1,1,"#{""macromicah@gmail.com""}",1470.0,110
+Python,jazzband,2015-03-13,1,1,"#{""yegor.rog@gmail.com""}",1471.0,111
+Python,jazzband,2015-03-19,1,1,"#{""macromicah@gmail.com""}",1472.0,111
+Python,jazzband,2015-03-20,2,2,"#{""rod@piran.com.au"" ""macromicah@gmail.com""}",1474.0,112
+Python,jazzband,2015-03-21,1,1,"#{""rod@piran.com.au""}",1475.0,112
+Python,jazzband,2015-03-28,4,1,"#{""macromicah@gmail.com""}",1479.0,112
+Python,jazzband,2015-04-02,5,2,"#{""adepue@hearsaycorp.com"" ""macromicah@gmail.com""}",1484.0,112
+Python,jazzband,2015-04-08,1,1,"#{""John-Whitlock@ieee.org""}",1485.0,112
+Python,jazzband,2015-04-13,2,1,"#{""macromicah@gmail.com""}",1487.0,112
+Python,jazzband,2015-04-14,2,1,"#{""epicserve@gmail.com""}",1489.0,112
+Python,jazzband,2015-04-16,4,1,"#{""macromicah@gmail.com""}",1493.0,112
+Python,jazzband,2015-04-20,1,1,"#{""macromicah@gmail.com""}",1494.0,112
+Python,jazzband,2015-04-21,6,1,"#{""macromicah@gmail.com""}",1500.0,112
+Python,jazzband,2015-04-22,2,1,"#{""jose@linux.com""}",1502.0,112
+Python,jazzband,2015-04-23,15,4,"#{""john-whitlock@ieee.org"" ""coreyoordt@gmail.com"" ""John-Whitlock@ieee.org"" ""jose@linux.com""}",1517.0,113
+Python,jazzband,2015-04-24,3,3,"#{""ezarowny@gmail.com"" ""john-whitlock@ieee.org"" ""John-Whitlock@ieee.org""}",1520.0,114
+Python,jazzband,2015-04-28,6,3,"#{""bradford.wade@us.mackevision.com"" ""john-whitlock@ieee.org"" ""ssexton@procuredhealth.com""}",1526.0,116
+Python,jazzband,2015-04-30,2,1,"#{""ssexton@procuredhealth.com""}",1528.0,116
+Python,jazzband,2015-05-03,2,1,"#{""macromicah@gmail.com""}",1530.0,116
+Python,jazzband,2015-05-05,2,1,"#{""coreyoordt@gmail.com""}",1532.0,116
+Python,jazzband,2015-05-06,5,2,"#{""coreyoordt@gmail.com"" ""dmitry.gladkov@gmail.com""}",1537.0,117
+Python,jazzband,2015-05-07,2,1,"#{""coreyoordt@gmail.com""}",1539.0,117
+Python,jazzband,2015-05-13,10,1,"#{""coreyoordt@gmail.com""}",1549.0,117
+Python,jazzband,2015-05-14,2,1,"#{""coreyoordt@gmail.com""}",1551.0,117
+Python,jazzband,2015-05-18,2,1,"#{""coreyoordt@gmail.com""}",1553.0,117
+Python,jazzband,2015-05-19,2,1,"#{""olivier.le-brouster@webu.coop""}",1555.0,118
+Python,jazzband,2015-05-27,2,1,"#{""coreyoordt@gmail.com""}",1557.0,118
+Python,jazzband,2015-05-28,2,1,"#{""coreyoordt@gmail.com""}",1559.0,118
+Python,jazzband,2015-06-09,6,1,"#{""coreyoordt@gmail.com""}",1565.0,118
+Python,jazzband,2015-06-15,1,1,"#{""david@davidbaumgold.com""}",1566.0,119
+Python,jazzband,2015-06-16,1,1,"#{""david@davidbaumgold.com""}",1567.0,119
+Python,jazzband,2015-06-26,5,2,"#{""john-whitlock@ieee.org"" ""dmitry.gladkov@gmail.com""}",1572.0,119
+Python,jazzband,2015-06-28,1,1,"#{""trey@treyhunner.com""}",1573.0,119
+Python,jazzband,2015-06-29,5,3,"#{""john@factorialfive.com"" ""john-whitlock@ieee.org"" ""macromicah@gmail.com""}",1578.0,120
+Python,jazzband,2015-06-30,6,1,"#{""john@factorialfive.com""}",1584.0,120
+Python,jazzband,2015-07-01,7,1,"#{""john@factorialfive.com""}",1591.0,120
+Python,jazzband,2015-07-02,5,2,"#{""john@factorialfive.com"" ""john-whitlock@ieee.org""}",1596.0,120
+Python,jazzband,2015-07-04,2,1,"#{""trey@treyhunner.com""}",1598.0,120
+Python,jazzband,2015-07-06,5,4,"#{""john@factorialfive.com"" ""scott.sexton@gmail.com"" ""john-whitlock@ieee.org"" ""bnafta@gmail.com""}",1603.0,122
+Python,jazzband,2015-07-10,1,1,"#{""trey@treyhunner.com""}",1604.0,122
+Python,jazzband,2015-07-14,3,1,"#{""martin.bachwerk@udemy.com""}",1607.0,123
+Python,jazzband,2015-07-15,1,1,"#{""martin.bachwerk@udemy.com""}",1608.0,123
+Python,jazzband,2015-07-16,2,2,"#{""quiesagua@gmail.com"" ""john-whitlock@ieee.org""}",1610.0,124
+Python,jazzband,2015-07-20,3,1,"#{""macromicah@gmail.com""}",1613.0,124
+Python,jazzband,2015-07-21,1,1,"#{""blindsey@summitesp.com""}",1614.0,125
+Python,jazzband,2015-07-23,5,1,"#{""blindsey@summitesp.com""}",1619.0,125
+Python,jazzband,2015-07-27,2,2,"#{""john-whitlock@ieee.org"" ""niyungeko@gmail.com""}",1621.0,126
+Python,jazzband,2015-07-30,1,1,"#{""macromicah@gmail.com""}",1622.0,126
+Python,jazzband,2015-08-05,2,1,"#{""john@factorialfive.com""}",1624.0,126
+Python,jazzband,2015-08-12,10,2,"#{""coreyoordt@gmail.com"" ""orestes@tid.es""}",1634.0,127
+Python,jazzband,2015-08-19,2,1,"#{""b.legal@webu.fr""}",1636.0,128
+Python,jazzband,2015-08-26,2,1,"#{""msaelices@gmail.com""}",1638.0,129
+Python,jazzband,2015-08-28,2,1,"#{""msaelices@gmail.com""}",1640.0,129
+Python,jazzband,2015-10-06,4,1,"#{""jwhitlock@mozilla.com""}",1644.0,130
+Python,jazzband,2015-10-07,7,1,"#{""jwhitlock@mozilla.com""}",1651.0,130
+Python,jazzband,2015-10-09,4,1,"#{""macromicah@gmail.com""}",1655.0,130
+Python,jazzband,2015-10-23,1,1,"#{""macromicah@gmail.com""}",1656.0,130
+Python,jazzband,2015-10-26,2,1,"#{""coreyoordt@gmail.com""}",1658.0,130
+Python,jazzband,2015-10-27,1,1,"#{""jonathan@inikup.com""}",1659.0,131
+Python,jazzband,2015-10-28,2,1,"#{""jonathan@inikup.com""}",1661.0,131
+Python,jazzband,2015-11-03,3,2,"#{""jwhitlock@mozilla.com"" ""jsatt22@gmail.com""}",1664.0,132
+Python,jazzband,2015-11-04,1,1,"#{""jwhitlock@mozilla.com""}",1665.0,132
+Python,jazzband,2015-11-08,6,2,"#{""primoz.verdnik@gmail.com"" ""macromicah@gmail.com""}",1671.0,133
+Python,jazzband,2015-11-10,1,1,"#{""macromicah@gmail.com""}",1672.0,133
+Python,jazzband,2015-11-24,1,1,"#{""macromicah@gmail.com""}",1673.0,133
+Python,jazzband,2015-11-27,1,1,"#{""david@wolever.net""}",1674.0,134
+Python,jazzband,2015-11-29,3,1,"#{""macromicah@gmail.com""}",1677.0,134
+Python,jazzband,2015-12-01,9,3,"#{""jwhitlock@mozilla.com"" ""macro@Micahs-MacBook-Pro.local"" ""macromicah@gmail.com""}",1686.0,135
+Python,jazzband,2015-12-02,4,1,"#{""macromicah@gmail.com""}",1690.0,135
+Python,jazzband,2015-12-04,1,1,"#{""me@jamessocol.com""}",1691.0,135
+Python,jazzband,2015-12-14,2,2,"#{""jwhitlock@mozilla.com"" ""willkg@mozilla.com""}",1693.0,136
+Python,jazzband,2015-12-18,2,2,"#{""walter+github@wjd.nu"" ""jwhitlock@mozilla.com""}",1695.0,137
+Python,jazzband,2015-12-28,4,1,"#{""jwhitlock@mozilla.com""}",1699.0,137
+Python,jazzband,2015-12-30,3,1,"#{""macromicah@gmail.com""}",1702.0,137
+Python,jazzband,2016-01-05,4,1,"#{""jwhitlock@mozilla.com""}",1706.0,137
+Python,jazzband,2016-02-01,1,1,"#{""macromicah@gmail.com""}",1707.0,137
+Python,jazzband,2016-02-02,2,1,"#{""macromicah@gmail.com""}",1709.0,137
+Python,jazzband,2016-02-10,8,1,"#{""epicserve@gmail.com""}",1717.0,137
+Python,jazzband,2016-02-11,6,1,"#{""epicserve@gmail.com""}",1723.0,137
+Python,jazzband,2016-02-15,28,2,"#{""coreyoordt@gmail.com"" ""epicserve@gmail.com""}",1751.0,137
+Python,jazzband,2016-02-16,6,1,"#{""epicserve@gmail.com""}",1757.0,137
+Python,jazzband,2016-03-05,6,1,"#{""epicserve@gmail.com""}",1763.0,137
+Python,jazzband,2016-03-14,2,1,"#{""epicserve@gmail.com""}",1765.0,137
+Python,jazzband,2016-03-16,2,1,"#{""lucaswiman@counsyl.com""}",1767.0,138
+Python,jazzband,2016-03-17,3,2,"#{""macromicah@gmail.com"" ""lucaswiman@counsyl.com""}",1770.0,138
+Python,jazzband,2016-03-18,1,1,"#{""lucas.wiman@gmail.com""}",1771.0,139
+Python,jazzband,2016-03-19,3,1,"#{""macromicah@gmail.com""}",1774.0,139
+Python,jazzband,2016-03-31,4,1,"#{""epicserve@gmail.com""}",1778.0,139
+Python,jazzband,2016-04-19,4,1,"#{""epicserve@gmail.com""}",1782.0,139
+Python,jazzband,2016-05-05,2,1,"#{""grzegorz@elcodo.pl""}",1784.0,140
+Python,jazzband,2016-05-08,1,1,"#{""macromicah@gmail.com""}",1785.0,140
+Python,jazzband,2016-06-03,2,1,"#{""macromicah@gmail.com""}",1787.0,140
+Python,jazzband,2016-06-26,5,2,"#{""gerben_m88@hotmail.com"" ""jwhitlock@mozilla.com""}",1792.0,141
+Python,jazzband,2016-06-27,6,1,"#{""jwhitlock@mozilla.com""}",1798.0,141
+Python,jazzband,2016-06-28,1,1,"#{""ravangen@gmail.com""}",1799.0,142
+Python,jazzband,2016-06-29,1,1,"#{""jwhitlock@mozilla.com""}",1800.0,142
+Python,jazzband,2016-07-09,1,1,"#{""macromicah@gmail.com""}",1801.0,142
+Python,jazzband,2016-07-23,1,1,"#{""jwhitlock@mozilla.com""}",1802.0,142
+Python,jazzband,2016-08-01,1,1,"#{""mengland@kayak.com""}",1803.0,143
+Python,jazzband,2016-08-02,1,1,"#{""jwhitlock@mozilla.com""}",1804.0,143
+Python,jazzband,2016-08-04,1,1,"#{""macromicah@gmail.com""}",1805.0,143
+Python,jazzband,2016-08-30,3,1,"#{""jwhitlock@mozilla.com""}",1808.0,143
+Python,jazzband,2016-09-12,2,1,"#{""jcajcefet@yahoo.com.br""}",1810.0,144
+Python,jazzband,2016-09-13,1,1,"#{""jcajcefet@yahoo.com.br""}",1811.0,144
+Python,jazzband,2016-09-17,1,1,"#{""macro1@users.noreply.github.com""}",1812.0,145
+Python,jazzband,2016-10-13,2,1,"#{""macro1@users.noreply.github.com""}",1814.0,145
+Python,jazzband,2016-10-21,6,2,"#{""jordan97@ksu.edu"" ""epicserve@gmail.com""}",1820.0,146
+Python,jazzband,2016-11-14,8,1,"#{""epicserve@gmail.com""}",1828.0,146
+Python,jazzband,2016-11-17,2,1,"#{""mail@sobolevn.me""}",1830.0,147
+Python,jazzband,2016-11-20,2,1,"#{""dheerosaur@gmail.com""}",1832.0,148
+Python,jazzband,2016-12-08,2,1,"#{""coreyoordt@gmail.com""}",1834.0,148
+Python,jazzband,2017-01-02,2,1,"#{""gregory.bataille@gmail.com""}",1836.0,149
+Python,jazzband,2017-01-03,2,1,"#{""gregory.bataille@gmail.com""}",1838.0,149
+Python,jazzband,2017-01-18,2,1,"#{""macro1@users.noreply.github.com""}",1840.0,149
+Python,jazzband,2017-01-19,1,1,"#{""macro1@users.noreply.github.com""}",1841.0,149
+Python,jazzband,2017-01-20,1,1,"#{""macro1@users.noreply.github.com""}",1842.0,149
+Python,jazzband,2017-01-23,2,1,"#{""macro1@users.noreply.github.com""}",1844.0,149
+Python,jazzband,2017-02-17,4,1,"#{""epicserve@gmail.com""}",1848.0,149
+Python,jazzband,2017-03-04,1,1,"#{""me@adamj.eu""}",1849.0,150
+Python,jazzband,2017-03-29,6,1,"#{""epicserve@gmail.com""}",1855.0,150
+Python,jazzband,2017-03-31,2,1,"#{""epicserve@gmail.com""}",1857.0,150
+Python,jazzband,2017-04-04,2,1,"#{""jwhitlock@mozilla.com""}",1859.0,150
+Python,jazzband,2017-04-15,5,1,"#{""jcajcefet@yahoo.com.br""}",1864.0,150
+Python,jazzband,2017-05-03,1,1,"#{""gregory.bataille@gmail.com""}",1865.0,150
+Python,jazzband,2017-05-11,2,1,"#{""jcajcefet@yahoo.com.br""}",1867.0,150
+Python,jazzband,2017-05-13,4,1,"#{""info@xcono.com""}",1871.0,151
+Python,jazzband,2017-05-17,3,1,"#{""jcajcefet@yahoo.com.br""}",1874.0,151
+Python,jazzband,2017-05-18,4,1,"#{""jcajcefet@yahoo.com.br""}",1878.0,151
+Python,jazzband,2017-05-19,1,1,"#{""rooter@kyberian.net""}",1879.0,152
+Python,jazzband,2017-05-20,1,1,"#{""rooter@kyberian.net""}",1880.0,152
+Python,jazzband,2017-06-01,7,2,"#{""cuducos@users.noreply.github.com"" ""trey@treyhunner.com""}",1887.0,153
+Python,jazzband,2017-06-02,3,2,"#{""cuducos@users.noreply.github.com"" ""leportella@gmail.com""}",1890.0,154
+Python,jazzband,2017-06-03,1,1,"#{""jcajcefet@yahoo.com.br""}",1891.0,154
+Python,jazzband,2017-06-04,1,1,"#{""trey@treyhunner.com""}",1892.0,154
+Python,jazzband,2017-06-05,1,1,"#{""jcajcefet@yahoo.com.br""}",1893.0,154
+Python,jazzband,2017-06-10,1,1,"#{""gregory.bataille@gmail.com""}",1894.0,154
+Python,jazzband,2017-06-11,6,1,"#{""trey@treyhunner.com""}",1900.0,154
+Python,jazzband,2017-06-13,3,2,"#{""leportella@gmail.com"" ""blacksangi14@naver.com""}",1903.0,155
+Python,jazzband,2017-06-14,1,1,"#{""jblum18@gmail.com""}",1904.0,156
+Python,jazzband,2017-06-15,1,1,"#{""leportella@gmail.com""}",1905.0,156
+Python,jazzband,2017-06-21,3,2,"#{""evert.rol@gmail.com"" ""macro1@users.noreply.github.com""}",1908.0,157
+Python,jazzband,2017-07-06,1,1,"#{""jwhitlock@mozilla.com""}",1909.0,157
+Python,jazzband,2017-07-10,1,1,"#{""macro1@users.noreply.github.com""}",1910.0,157
+Python,jazzband,2017-07-11,1,1,"#{""jesse@opencraft.com""}",1911.0,158
+Python,jazzband,2017-07-15,4,2,"#{""mo0ofier@gmail.com"" ""macro1@users.noreply.github.com""}",1915.0,159
+Python,jazzband,2017-07-18,1,1,"#{""haroboy876@gmail.com""}",1916.0,160
+Python,jazzband,2017-08-22,11,1,"#{""jwhitlock@mozilla.com""}",1927.0,160
+Python,jazzband,2017-08-23,1,1,"#{""jwhitlock@mozilla.com""}",1928.0,160
+Python,jazzband,2017-09-24,1,1,"#{""roberto.c.aguilar@gmail.com""}",1929.0,161
+Python,jazzband,2017-09-25,2,1,"#{""szabolcs.hodossy@nokia.com""}",1931.0,162
+Python,jazzband,2017-09-26,4,1,"#{""szabolcs.hodossy@nokia.com""}",1935.0,162
+Python,jazzband,2017-09-27,1,1,"#{""jwhitlock@mozilla.com""}",1936.0,162
+Python,jazzband,2017-10-12,26,1,"#{""coreyoordt@gmail.com""}",1962.0,162
+Python,jazzband,2017-10-17,2,1,"#{""kevin.graham.foster@gmail.com""}",1964.0,162
+Python,jazzband,2017-10-24,4,1,"#{""ross.mechanic@icloud.com""}",1968.0,163
+Python,jazzband,2017-10-26,1,1,"#{""ross.mechanic@icloud.com""}",1969.0,163
+Python,jazzband,2017-11-06,2,1,"#{""macro1@users.noreply.github.com""}",1971.0,163
+Python,jazzband,2017-11-07,3,2,"#{""roberto.c.aguilar@gmail.com"" ""contact@shane.gg""}",1974.0,164
+Python,jazzband,2017-11-08,1,1,"#{""macro1@users.noreply.github.com""}",1975.0,164
+Python,jazzband,2017-11-24,1,1,"#{""macro1@users.noreply.github.com""}",1976.0,164
+Python,jazzband,2017-12-18,2,1,"#{""hugovk@users.noreply.github.com""}",1978.0,165
+Python,jazzband,2017-12-26,2,1,"#{""epicserve@gmail.com""}",1980.0,165
+Python,jazzband,2018-01-02,2,1,"#{""jwhitlock@mozilla.com""}",1982.0,165
+Python,jazzband,2018-02-23,2,1,"#{""goetz.buerkle@gmail.com""}",1984.0,166
+Python,jazzband,2018-02-27,6,1,"#{""epicserve@gmail.com""}",1990.0,166
+Python,jazzband,2018-03-16,2,1,"#{""ray@plum.io""}",1992.0,167
+Python,jazzband,2018-03-26,2,1,"#{""ross.mechanic@icloud.com""}",1994.0,167
+Python,jazzband,2018-03-29,3,1,"#{""ross.mechanic@icloud.com""}",1997.0,167
+Python,jazzband,2018-03-30,5,1,"#{""ross.mechanic@icloud.com""}",2002.0,167
+Python,jazzband,2018-04-02,3,1,"#{""ross.mechanic@icloud.com""}",2005.0,167
+Python,jazzband,2018-04-03,15,3,"#{""nvcarski@gmail.com"" ""ross.mechanic@icloud.com"" ""wizpig64@users.noreply.github.com""}",2020.0,169
+Python,jazzband,2018-04-04,2,1,"#{""ross.mechanic@icloud.com""}",2022.0,169
+Python,jazzband,2018-04-05,9,1,"#{""ross.mechanic@icloud.com""}",2031.0,169
+Python,jazzband,2018-04-06,2,2,"#{""ross.mechanic@icloud.com"" ""wizpig64@users.noreply.github.com""}",2033.0,169
+Python,jazzband,2018-04-12,1,1,"#{""rwlogel@users.noreply.github.com""}",2034.0,170
+Python,jazzband,2018-04-17,1,1,"#{""vshih@users.noreply.github.com""}",2035.0,171
+Python,jazzband,2018-04-19,1,1,"#{""SpainTrain@users.noreply.github.com""}",2036.0,172
+Python,jazzband,2018-04-23,1,1,"#{""grzegorz@elcodo.pl""}",2037.0,172
+Python,jazzband,2018-04-24,2,1,"#{""ross.mechanic@icloud.com""}",2039.0,172
+Python,jazzband,2018-05-04,1,1,"#{""pablo@montepagano.com.ar""}",2040.0,173
+Python,jazzband,2018-05-15,2,2,"#{""ross.mechanic@icloud.com"" ""blawson@users.noreply.github.com""}",2042.0,174
+Python,jazzband,2018-05-29,1,1,"#{""kris.neuharth@gmail.com""}",2043.0,175
+Python,jazzband,2018-05-31,2,1,"#{""ross.mechanic@icloud.com""}",2045.0,175
+Python,jazzband,2018-06-04,3,2,"#{""iamanikeev@gmail.com"" ""ross.mechanic@icloud.com""}",2048.0,176
+Python,jazzband,2018-06-05,1,1,"#{""34247997+kseever@users.noreply.github.com""}",2049.0,177
+Python,jazzband,2018-06-14,1,1,"#{""ross.mechanic@icloud.com""}",2050.0,177
+Python,jazzband,2018-06-15,2,1,"#{""ross.mechanic@icloud.com""}",2052.0,177
+Python,jazzband,2018-06-19,1,1,"#{""rwlogel@users.noreply.github.com""}",2053.0,177
+Python,jazzband,2018-06-23,1,1,"#{""ross.mechanic@icloud.com""}",2054.0,177
+Python,jazzband,2018-07-02,4,1,"#{""ross.mechanic@icloud.com""}",2058.0,177
+Python,jazzband,2018-07-11,1,1,"#{""34247997+kseever@users.noreply.github.com""}",2059.0,177
+Python,jazzband,2018-07-19,1,1,"#{""ross.mechanic@icloud.com""}",2060.0,177
+Python,jazzband,2018-07-30,1,1,"#{""33256939+dgilge@users.noreply.github.com""}",2061.0,178
+Python,jazzband,2018-08-01,1,1,"#{""david@cadre.com""}",2062.0,179
+Python,jazzband,2018-08-28,2,2,"#{""mscansian@gmail.com"" ""ross.mechanic@icloud.com""}",2064.0,180
+Python,jazzband,2018-09-03,1,1,"#{""roddds@users.noreply.github.com""}",2065.0,181
+Python,jazzband,2018-09-05,1,1,"#{""david@cadre.com""}",2066.0,181
+Python,jazzband,2018-09-20,1,1,"#{""ross.mechanic@icloud.com""}",2067.0,181
+Python,jazzband,2018-09-24,1,1,"#{""jeff@jke.net""}",2068.0,182
+Python,jazzband,2018-09-28,1,1,"#{""ray@plum.io""}",2069.0,182
+Python,jazzband,2018-10-02,2,1,"#{""jwhitlock@mozilla.com""}",2071.0,182
+Python,jazzband,2018-10-03,4,1,"#{""jwhitlock@mozilla.com""}",2075.0,182
+Python,jazzband,2018-10-10,1,1,"#{""it.kregi@gmail.com""}",2076.0,183
+Python,jazzband,2018-10-18,4,2,"#{""brianxarmstrong@gmail.com"" ""lmiguelvargasf@gmail.com""}",2080.0,185
+Python,jazzband,2018-10-19,1,1,"#{""jim.gomez.48@gmail.com""}",2081.0,186
+Python,jazzband,2018-10-22,1,1,"#{""ross.mechanic@icloud.com""}",2082.0,186
+Python,jazzband,2018-10-23,1,1,"#{""38221205+ChrisZhangCadre@users.noreply.github.com""}",2083.0,187
+Python,jazzband,2018-10-24,1,1,"#{""ross.mechanic@icloud.com""}",2084.0,187
+Python,jazzband,2018-10-25,1,1,"#{""tbeadle@users.noreply.github.com""}",2085.0,188
+Python,jazzband,2018-10-29,3,2,"#{""kyle@cadre.com"" ""18oliveira.charles@gmail.com""}",2088.0,190
+Python,jazzband,2018-10-30,1,1,"#{""RealOrangeOne@users.noreply.github.com""}",2089.0,191
+Python,jazzband,2018-10-31,11,3,"#{""kyle@cadre.com"" ""ross.mechanic@icloud.com"" ""34247997+kseever@users.noreply.github.com""}",2100.0,191
+Python,jazzband,2018-11-08,1,1,"#{""tbeadle@users.noreply.github.com""}",2101.0,191
+Python,jazzband,2018-11-09,1,1,"#{""ross.mechanic@icloud.com""}",2102.0,191
+Python,jazzband,2018-11-12,1,1,"#{""ross.mechanic@icloud.com""}",2103.0,191
+Python,jazzband,2018-11-13,1,1,"#{""ross.mechanic@icloud.com""}",2104.0,191
+Python,jazzband,2018-11-21,1,1,"#{""funkyfuture@users.noreply.github.com""}",2105.0,192
+Python,jazzband,2018-11-26,2,1,"#{""gagandeep.2020@gmail.com""}",2107.0,193
+Python,jazzband,2018-11-27,8,1,"#{""gagandeep.2020@gmail.com""}",2115.0,193
+Python,jazzband,2018-11-28,10,3,"#{""ross.mechanic@icloud.com"" ""uhurusurfa@gmail.com"" ""gagandeep.2020@gmail.com""}",2125.0,194
+Python,jazzband,2018-12-05,3,1,"#{""ross.mechanic@icloud.com""}",2128.0,194
+Python,jazzband,2018-12-06,1,1,"#{""ross.mechanic@icloud.com""}",2129.0,194
+Python,jazzband,2018-12-07,2,2,"#{""slyngel@gmail.com"" ""ross.mechanic@icloud.com""}",2131.0,195
+Python,jazzband,2018-12-10,1,1,"#{""brianxarmstrong@gmail.com""}",2132.0,195
+Python,jazzband,2018-12-12,2,1,"#{""ross.mechanic@icloud.com""}",2134.0,195
+Python,jazzband,2018-12-18,1,1,"#{""636320+fopina@users.noreply.github.com""}",2135.0,196
+Python,jazzband,2018-12-20,3,2,"#{""ross.mechanic@icloud.com"" ""coreyoordt@gmail.com""}",2138.0,196
+Python,jazzband,2018-12-21,1,1,"#{""ross.mechanic@icloud.com""}",2139.0,196
+Python,jazzband,2018-12-25,1,1,"#{""mazg1493@gmail.com""}",2140.0,197
+Python,jazzband,2019-01-08,1,1,"#{""ew2789@gmail.com""}",2141.0,198
+Python,jazzband,2019-01-09,2,2,"#{""ross.mechanic@icloud.com"" ""RealOrangeOne@users.noreply.github.com""}",2143.0,198
+Python,jazzband,2019-01-10,1,1,"#{""ross.mechanic@icloud.com""}",2144.0,198
+Python,jazzband,2019-01-14,1,1,"#{""ross.mechanic@icloud.com""}",2145.0,198
+Python,jazzband,2019-01-16,3,1,"#{""ross.mechanic@icloud.com""}",2148.0,198
+Python,jazzband,2019-01-24,1,1,"#{""ross.mechanic@icloud.com""}",2149.0,198
+Python,jazzband,2019-02-06,1,1,"#{""ew2789@gmail.com""}",2150.0,198
+Python,jazzband,2019-03-08,2,1,"#{""fdintino@gmail.com""}",2152.0,199
+Python,jazzband,2019-04-04,1,1,"#{""yetanotherape@gmail.com""}",2153.0,200
+Python,jazzband,2019-04-05,1,1,"#{""nick-traeger@users.noreply.github.com""}",2154.0,201
+Python,jazzband,2019-04-15,2,2,"#{""ross.mechanic@icloud.com"" ""prakash@carbonfive.com""}",2156.0,202
+Python,jazzband,2019-04-16,3,2,"#{""ross.mechanic@icloud.com"" ""uhurusurfa@gmail.com""}",2159.0,202
+Python,jazzband,2019-04-17,1,1,"#{""ross.mechanic@icloud.com""}",2160.0,202
+Python,jazzband,2019-04-29,2,1,"#{""nvcarski@gmail.com""}",2162.0,202
+Python,jazzband,2019-05-14,1,1,"#{""sovende@gmail.com""}",2163.0,203
+Python,jazzband,2019-05-20,1,1,"#{""amanda.ng@kentivo.com""}",2164.0,204
+Python,jazzband,2019-05-22,1,1,"#{""37935350+partimer@users.noreply.github.com""}",2165.0,205
+Python,jazzband,2019-06-26,26,1,"#{""epicserve@gmail.com""}",2191.0,205
+Python,jazzband,2019-07-02,2,1,"#{""jwhitlock@mozilla.com""}",2193.0,205
+Python,jazzband,2019-07-03,6,2,"#{""jwhitlock@mozilla.com"" ""jannis@leidel.info""}",2199.0,206
+Python,jazzband,2019-07-15,1,1,"#{""ross.mechanic@icloud.com""}",2200.0,206
+Python,jazzband,2019-07-16,2,1,"#{""ross.mechanic@icloud.com""}",2202.0,206
+Python,jazzband,2019-07-23,2,2,"#{""me@marcanuy.com"" ""ss.yakim@gmail.com""}",2204.0,208
+Python,jazzband,2019-07-26,2,1,"#{""me@marcanuy.com""}",2206.0,208
+Python,jazzband,2019-08-16,1,1,"#{""majd.al@gmail.com""}",2207.0,209
+Python,jazzband,2019-08-19,1,1,"#{""majd.al@gmail.com""}",2208.0,209
+Python,jazzband,2019-09-05,1,1,"#{""me@marcanuy.com""}",2209.0,209
+Python,jazzband,2019-09-09,2,2,"#{""me@marcanuy.com"" ""34247997+kseever@users.noreply.github.com""}",2211.0,209
+Python,jazzband,2019-09-12,1,1,"#{""hhuseyinpay@gmail.com""}",2212.0,210
+Python,jazzband,2019-09-16,2,1,"#{""jannis@leidel.info""}",2214.0,210
+Python,jazzband,2019-09-25,2,1,"#{""ross.mechanic@icloud.com""}",2216.0,210
+Python,jazzband,2019-10-02,1,1,"#{""xahgmah@gmail.com""}",2217.0,211
+Python,jazzband,2019-10-10,1,1,"#{""guillermoeijo@gmail.com""}",2218.0,212
+Python,jazzband,2019-11-20,2,2,"#{""xahgmah@gmail.com"" ""craig@decafbad.net""}",2220.0,213
+Python,jazzband,2019-11-21,1,1,"#{""peter@catalpa.io""}",2221.0,214
+Python,jazzband,2019-12-01,2,1,"#{""ross.mechanic@icloud.com""}",2223.0,214
+Python,jazzband,2019-12-02,2,1,"#{""ross.mechanic@icloud.com""}",2225.0,214
+Python,jazzband,2019-12-03,1,1,"#{""craig@decafbad.net""}",2226.0,214
+Python,jazzband,2019-12-19,1,1,"#{""bmesick@edx.org""}",2227.0,215
+Python,jazzband,2020-01-17,1,1,"#{""flybye22@gmail.com""}",2228.0,216
+Python,jazzband,2020-02-01,2,1,"#{""petr.dlouhy@email.cz""}",2230.0,217
+Python,jazzband,2020-02-02,4,1,"#{""petr.dlouhy@email.cz""}",2234.0,217
+Python,jazzband,2020-02-03,2,1,"#{""epicserve@gmail.com""}",2236.0,217
+Python,jazzband,2020-02-04,2,1,"#{""epicserve@gmail.com""}",2238.0,217
+Python,jazzband,2020-02-12,1,1,"#{""jcushman@gmail.com""}",2239.0,218
+Python,jazzband,2020-02-14,1,1,"#{""steve@stevenmapes.com""}",2240.0,219
+Python,jazzband,2020-02-17,1,1,"#{""ew2789@gmail.com""}",2241.0,219
+Python,jazzband,2020-03-02,1,1,"#{""git@codechaos.ch""}",2242.0,220
+Python,jazzband,2020-03-06,8,1,"#{""epicserve@gmail.com""}",2250.0,220
+Python,jazzband,2020-03-10,1,1,"#{""alpha1d3d@hotmail.com""}",2251.0,221
+Python,jazzband,2020-03-13,2,1,"#{""petr.dlouhy@email.cz""}",2253.0,221
+Python,jazzband,2020-03-14,2,1,"#{""epicserve@gmail.com""}",2255.0,221
+Python,jazzband,2020-04-15,1,1,"#{""hernaner28@gmail.com""}",2256.0,222
+Python,jazzband,2020-04-18,1,1,"#{""mahsa.lotfi92@gmail.com""}",2257.0,223
+Python,jazzband,2020-04-23,5,3,"#{""ross.mechanic@icloud.com"" ""r.pourmeshki@gmail.com"" ""ew2789@gmail.com""}",2262.0,224
+Python,jazzband,2020-04-24,3,2,"#{""ross.mechanic@icloud.com"" ""jihoon0000@gmail.com""}",2265.0,225
+Python,jazzband,2020-04-26,3,2,"#{""46420394+delahondes@users.noreply.github.com"" ""ross.mechanic@icloud.com""}",2268.0,226
+Python,jazzband,2020-04-27,1,1,"#{""ross.mechanic@icloud.com""}",2269.0,226
+Python,jazzband,2020-05-03,1,1,"#{""johnthagen@users.noreply.github.com""}",2270.0,227
+Python,jazzband,2020-05-17,2,1,"#{""ccesarcaball.cc@gmail.com""}",2272.0,228
+Python,jazzband,2020-05-18,4,1,"#{""epicserve@gmail.com""}",2276.0,228
+Python,jazzband,2020-05-25,1,1,"#{""34253816+jws@users.noreply.github.com""}",2277.0,229
+Python,jazzband,2020-06-07,5,2,"#{""42344814+Kyutatsu@users.noreply.github.com"" ""trey@treyhunner.com""}",2282.0,230
+Python,jazzband,2020-06-19,2,2,"#{""keith.hackbarth@gmail.com"" ""p.peresjr@gmail.com""}",2284.0,232
+Python,jazzband,2020-06-20,2,1,"#{""ross.mechanic@icloud.com""}",2286.0,232
+Python,jazzband,2020-08-05,1,1,"#{""marablayev@gmail.com""}",2287.0,233
+Python,jazzband,2020-08-06,1,1,"#{""stefan.borer@adfinis.com""}",2288.0,234
+Python,jazzband,2020-08-09,1,1,"#{""steven.buss@gmail.com""}",2289.0,235
+Python,jazzband,2020-08-11,4,1,"#{""64661854+gantonayde@users.noreply.github.com""}",2293.0,236
+Python,jazzband,2020-08-19,4,1,"#{""jwhitlock@mozilla.com""}",2297.0,236
+Python,jazzband,2020-08-26,2,2,"#{""atodorov@otb.bg"" ""m.zemskov1@gmail.com""}",2299.0,238
+Python,jazzband,2020-08-27,1,1,"#{""jordonwii@gmail.com""}",2300.0,239
+Python,jazzband,2020-08-28,1,1,"#{""kettleg@gmail.com""}",2301.0,240
+Python,jazzband,2020-08-31,8,1,"#{""epicserve@gmail.com""}",2309.0,240
+Python,jazzband,2020-09-19,1,1,"#{""john.parton.iv@gmail.com""}",2310.0,241
+Python,jazzband,2020-09-23,1,1,"#{""f.martin@fastmail.com""}",2311.0,242
+Python,jazzband,2020-10-05,1,1,"#{""vied12@gmail.com""}",2312.0,243
+Python,jazzband,2020-10-07,1,1,"#{""39445562+smithdc1@users.noreply.github.com""}",2313.0,244
+Python,jazzband,2020-10-14,1,1,"#{""ThePumpingLemma@users.noreply.github.com""}",2314.0,245
+Python,jazzband,2020-10-18,5,1,"#{""jannis@leidel.info""}",2319.0,245
+Python,jazzband,2020-10-20,13,1,"#{""jannis@leidel.info""}",2332.0,245
+Python,jazzband,2020-10-30,1,1,"#{""39445562+smithdc1@users.noreply.github.com""}",2333.0,245
+Python,jazzband,2020-11-07,1,1,"#{""39445562+smithdc1@users.noreply.github.com""}",2334.0,245
+Python,jazzband,2020-11-09,1,1,"#{""ThePumpingLemma@users.noreply.github.com""}",2335.0,245
+Python,jazzband,2020-11-10,1,1,"#{""39445562+smithdc1@users.noreply.github.com""}",2336.0,245
+Python,jazzband,2020-11-12,4,4,"#{""david@cadre.com"" ""ThePumpingLemma@users.noreply.github.com"" ""49699333+dependabot[bot]@users.noreply.github.com"" ""vied12@gmail.com""}",2340.0,246
+Python,jazzband,2020-11-14,1,1,"#{""shihanng@gmail.com""}",2341.0,247
+Python,jazzband,2020-11-18,5,2,"#{""david@cadre.com"" ""ross.mechanic@icloud.com""}",2346.0,247
+Python,jazzband,2020-11-19,2,2,"#{""david@cadre.com"" ""ross.mechanic@icloud.com""}",2348.0,247
+Python,jazzband,2020-11-20,1,1,"#{""ross.mechanic@icloud.com""}",2349.0,247
+Python,jazzband,2020-11-25,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2350.0,247
+Python,jazzband,2020-12-09,2,1,"#{""jannis@leidel.info""}",2352.0,247
+Python,jazzband,2020-12-10,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2353.0,247
+Python,jazzband,2020-12-21,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2355.0,247
+Python,jazzband,2020-12-23,1,1,"#{""tyrantwave@gmail.com""}",2356.0,248
+Python,jazzband,2020-12-25,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2357.0,248
+Python,jazzband,2021-01-02,1,1,"#{""jannis@leidel.info""}",2358.0,248
+Python,jazzband,2021-01-04,5,3,"#{""ThePumpingLemma@users.noreply.github.com"" ""49699333+dependabot[bot]@users.noreply.github.com"" ""hasan.r67@gmail.com""}",2363.0,249
+Python,jazzband,2021-01-05,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2364.0,249
+Python,jazzband,2021-01-06,5,1,"#{""git@theorangeone.net""}",2369.0,250
+Python,jazzband,2021-01-08,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2370.0,250
+Python,jazzband,2021-01-12,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""git@theorangeone.net""}",2372.0,250
+Python,jazzband,2021-01-14,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2373.0,250
+Python,jazzband,2021-01-18,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2374.0,250
+Python,jazzband,2021-01-20,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2375.0,250
+Python,jazzband,2021-01-27,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2376.0,250
+Python,jazzband,2021-01-29,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2377.0,250
+Python,jazzband,2021-02-06,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2378.0,250
+Python,jazzband,2021-02-17,6,2,"#{""satya.devel@gmail.com"" ""satya@DESKTOP-0GVM2IE.localdomain""}",2384.0,252
+Python,jazzband,2021-02-20,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""39445562+smithdc1@users.noreply.github.com""}",2387.0,252
+Python,jazzband,2021-02-25,2,1,"#{""petr.dlouhy@email.cz""}",2389.0,252
+Python,jazzband,2021-02-26,6,1,"#{""satya.devel@gmail.com""}",2395.0,252
+Python,jazzband,2021-03-01,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2396.0,252
+Python,jazzband,2021-03-05,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2397.0,252
+Python,jazzband,2021-03-09,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""jannis@leidel.info""}",2399.0,252
+Python,jazzband,2021-03-10,1,1,"#{""jannis@leidel.info""}",2400.0,252
+Python,jazzband,2021-03-15,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2401.0,252
+Python,jazzband,2021-04-09,3,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2404.0,252
+Python,jazzband,2021-04-15,4,1,"#{""hasan.r67@gmail.com""}",2408.0,252
+Python,jazzband,2021-04-16,5,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""brianxarmstrong@gmail.com"" ""leminaw@gmail.com""}",2413.0,253
+Python,jazzband,2021-05-23,4,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2417.0,253
+Python,jazzband,2021-05-31,2,2,"#{""hielkewalinga@gmail.com"" ""dracos@users.noreply.github.com""}",2419.0,255
+Python,jazzband,2021-06-29,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2420.0,255
+Python,jazzband,2021-06-30,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2422.0,255
+Python,jazzband,2021-07-07,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2423.0,255
+Python,jazzband,2021-07-15,3,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2426.0,255
+Python,jazzband,2021-07-16,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2427.0,255
+Python,jazzband,2021-07-26,1,1,"#{""chpoensgen@me.com""}",2428.0,256
+Python,jazzband,2021-07-27,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2429.0,256
+Python,jazzband,2021-07-29,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2430.0,256
+Python,jazzband,2021-08-02,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2431.0,256
+Python,jazzband,2021-08-11,3,2,"#{""nex2hex@gmail.com"" ""jim.king@cloudtruth.com""}",2434.0,258
+Python,jazzband,2021-08-23,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2435.0,258
+Python,jazzband,2021-08-26,1,1,"#{""sridhar.marella@ibhubs.co.in""}",2436.0,259
+Python,jazzband,2021-08-27,1,1,"#{""schillingt@better-simple.com""}",2437.0,260
+Python,jazzband,2021-08-28,2,1,"#{""aksarath@gmail.com""}",2439.0,261
+Python,jazzband,2021-09-01,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""jim.king@cloudtruth.com""}",2441.0,261
+Python,jazzband,2021-09-13,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""jim.king@cloudtruth.com""}",2444.0,261
+Python,jazzband,2021-09-14,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2445.0,261
+Python,jazzband,2021-09-16,3,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""58924238+ddusi@users.noreply.github.com"" ""RealOrangeOne@users.noreply.github.com""}",2448.0,262
+Python,jazzband,2021-09-18,1,1,"#{""rdurica@gmail.com""}",2449.0,263
+Python,jazzband,2021-09-20,1,1,"#{""r.durica@gmail.com""}",2450.0,264
+Python,jazzband,2021-09-22,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""git@theorangeone.net""}",2452.0,264
+Python,jazzband,2021-09-24,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2453.0,264
+Python,jazzband,2021-09-29,2,1,"#{""jim.king@cloudtruth.com""}",2455.0,264
+Python,jazzband,2021-10-04,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""erfaniiyanerfan@gmail.com""}",2457.0,265
+Python,jazzband,2021-10-05,1,1,"#{""schilling711@gmail.com""}",2458.0,266
+Python,jazzband,2021-10-07,1,1,"#{""jim.king@cloudtruth.com""}",2459.0,266
+Python,jazzband,2021-10-13,1,1,"#{""jim.king@cloudtruth.com""}",2460.0,266
+Python,jazzband,2021-10-21,2,1,"#{""jazzband-bot@users.noreply.github.com""}",2462.0,267
+Python,jazzband,2021-10-22,1,1,"#{""jazzband-bot@users.noreply.github.com""}",2463.0,267
+Python,jazzband,2021-10-25,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""schilling711@gmail.com""}",2466.0,267
+Python,jazzband,2021-10-26,1,1,"#{""36301723+fadinflame@users.noreply.github.com""}",2467.0,268
+Python,jazzband,2021-10-27,1,1,"#{""areski@gmail.com""}",2468.0,269
+Python,jazzband,2021-11-01,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2471.0,270
+Python,jazzband,2021-11-03,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2472.0,270
+Python,jazzband,2021-11-09,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2473.0,270
+Python,jazzband,2021-11-10,1,1,"#{""hasan.r67@gmail.com""}",2474.0,270
+Python,jazzband,2021-11-11,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""camilo.nova@gmail.com""}",2477.0,271
+Python,jazzband,2021-11-12,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2478.0,271
+Python,jazzband,2021-11-15,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2479.0,271
+Python,jazzband,2021-11-18,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2481.0,271
+Python,jazzband,2021-11-22,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2482.0,271
+Python,jazzband,2021-11-25,1,1,"#{""matthew-github@dracos.co.uk""}",2483.0,272
+Python,jazzband,2021-11-29,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2485.0,272
+Python,jazzband,2021-12-04,24,3,"#{""schilling711@gmail.com"" ""39445562+smithdc1@users.noreply.github.com"" ""coreyoordt@gmail.com""}",2509.0,272
+Python,jazzband,2021-12-05,16,2,"#{""coreyoordt@gmail.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2525.0,272
+Python,jazzband,2021-12-06,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2527.0,272
+Python,jazzband,2021-12-11,4,2,"#{""coreyoordt@gmail.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2531.0,272
+Python,jazzband,2021-12-12,14,1,"#{""coreyoordt@gmail.com""}",2545.0,272
+Python,jazzband,2021-12-16,3,2,"#{""thijskramer@gmail.com"" ""petr.dlouhy@email.cz""}",2548.0,273
+Python,jazzband,2021-12-20,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""thijskramer@gmail.com""}",2551.0,273
+Python,jazzband,2021-12-22,18,1,"#{""coreyoordt@gmail.com""}",2569.0,273
+Python,jazzband,2021-12-23,36,1,"#{""coreyoordt@gmail.com""}",2605.0,273
+Python,jazzband,2021-12-27,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2606.0,273
+Python,jazzband,2021-12-29,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2608.0,273
+Python,jazzband,2022-01-02,1,1,"#{""jim.king@cloudtruth.com""}",2609.0,273
+Python,jazzband,2022-01-17,1,1,"#{""jim.king@cloudtruth.com""}",2610.0,273
+Python,jazzband,2022-01-24,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2612.0,273
+Python,jazzband,2022-01-27,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""jim.king@cloudtruth.com""}",2614.0,273
+Python,jazzband,2022-01-28,4,2,"#{""sridhar562345"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2618.0,274
+Python,jazzband,2022-01-31,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2619.0,274
+Python,jazzband,2022-02-02,4,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""hasan.r67@gmail.com""}",2623.0,274
+Python,jazzband,2022-02-03,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""hasan.r67@gmail.com""}",2625.0,274
+Python,jazzband,2022-02-05,1,1,"#{""pouya@pouya.net""}",2626.0,275
+Python,jazzband,2022-02-06,1,1,"#{""hasan.r67@gmail.com""}",2627.0,275
+Python,jazzband,2022-02-09,1,1,"#{""hasan.r67@gmail.com""}",2628.0,275
+Python,jazzband,2022-02-21,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2629.0,275
+Python,jazzband,2022-02-24,2,1,"#{""petr.dlouhy@email.cz""}",2631.0,275
+Python,jazzband,2022-02-25,4,1,"#{""petr.dlouhy@email.cz""}",2635.0,275
+Python,jazzband,2022-03-07,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2636.0,275
+Python,jazzband,2022-03-14,1,1,"#{""hans110@hotmail.com""}",2637.0,276
+Python,jazzband,2022-03-19,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2638.0,276
+Python,jazzband,2022-03-20,2,1,"#{""amartis.git@gmail.com""}",2640.0,277
+Python,jazzband,2022-03-29,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2641.0,277
+Python,jazzband,2022-04-04,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2642.0,277
+Python,jazzband,2022-04-06,1,1,"#{""hasan.r67@gmail.com""}",2643.0,277
+Python,jazzband,2022-04-08,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2644.0,277
+Python,jazzband,2022-04-09,1,1,"#{""jim.king@cloudtruth.com""}",2645.0,277
+Python,jazzband,2022-04-11,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2647.0,277
+Python,jazzband,2022-04-22,1,1,"#{""jim.king@cloudtruth.com""}",2648.0,277
+Python,jazzband,2022-04-23,1,1,"#{""jking@apache.org""}",2649.0,278
+Python,jazzband,2022-04-29,1,1,"#{""areski@gmail.com""}",2650.0,278
+Python,jazzband,2022-05-04,3,1,"#{""fabiosouza@neuralmind.ai""}",2653.0,279
+Python,jazzband,2022-05-06,1,1,"#{""jking@apache.org""}",2654.0,279
+Python,jazzband,2022-06-02,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2655.0,279
+Python,jazzband,2022-06-03,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2656.0,279
+Python,jazzband,2022-06-07,2,2,"#{""grosserconrad@gmail.com"" ""todd@twolfson.com""}",2658.0,281
+Python,jazzband,2022-06-14,1,1,"#{""lenigauffier@gmail.com""}",2659.0,282
+Python,jazzband,2022-06-15,1,1,"#{""lenigauffier@gmail.com""}",2660.0,282
+Python,jazzband,2022-06-21,1,1,"#{""lenigauffier@gmail.com""}",2661.0,282
+Python,jazzband,2022-06-23,1,1,"#{""lenigauffier@gmail.com""}",2662.0,282
+Python,jazzband,2022-06-28,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2663.0,282
+Python,jazzband,2022-06-30,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2664.0,282
+Python,jazzband,2022-07-06,1,1,"#{""me@bheesham.com""}",2665.0,283
+Python,jazzband,2022-07-08,1,1,"#{""lenigauffier@gmail.com""}",2666.0,283
+Python,jazzband,2022-07-12,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2667.0,283
+Python,jazzband,2022-07-26,1,1,"#{""ew2789@gmail.com""}",2668.0,283
+Python,jazzband,2022-07-27,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2669.0,283
+Python,jazzband,2022-08-01,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2670.0,283
+Python,jazzband,2022-08-03,5,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""hasan.r67@gmail.com""}",2675.0,283
+Python,jazzband,2022-08-04,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2676.0,283
+Python,jazzband,2022-08-08,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2677.0,283
+Python,jazzband,2022-08-16,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2678.0,283
+Python,jazzband,2022-08-24,2,1,"#{""valberg@orn.li""}",2680.0,284
+Python,jazzband,2022-08-25,4,2,"#{""hasan.r67@gmail.com"" ""valberg@orn.li""}",2684.0,284
+Python,jazzband,2022-09-05,4,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2688.0,284
+Python,jazzband,2022-09-19,5,1,"#{""ddabble@users.noreply.github.com""}",2693.0,285
+Python,jazzband,2022-09-21,32,3,"#{""coreyoordt@gmail.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com"" ""petr.dlouhy@email.cz""}",2725.0,285
+Python,jazzband,2022-09-22,12,3,"#{""coreyoordt@gmail.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com"" ""petr.dlouhy@email.cz""}",2737.0,285
+Python,jazzband,2022-09-26,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""ew2789@gmail.com""}",2740.0,285
+Python,jazzband,2022-09-27,1,1,"#{""johanneswilm@gmail.com""}",2741.0,286
+Python,jazzband,2022-09-28,1,1,"#{""valberg@orn.li""}",2742.0,286
+Python,jazzband,2022-10-24,6,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""valberg@orn.li""}",2748.0,286
+Python,jazzband,2022-10-25,5,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""valberg@orn.li""}",2753.0,286
+Python,jazzband,2022-10-26,1,1,"#{""valberg@orn.li""}",2754.0,286
+Python,jazzband,2022-10-27,10,1,"#{""josh@joshthomas.dev""}",2764.0,287
+Python,jazzband,2022-10-28,1,1,"#{""josh@joshthomas.dev""}",2765.0,287
+Python,jazzband,2022-11-14,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2766.0,287
+Python,jazzband,2022-11-25,1,1,"#{""josh@joshthomas.dev""}",2767.0,287
+Python,jazzband,2022-12-02,4,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com"" ""64690953+Ibrahim-Aldhaheri@users.noreply.github.com""}",2771.0,288
+Python,jazzband,2022-12-09,1,1,"#{""32960234+kfsz@users.noreply.github.com""}",2772.0,289
+Python,jazzband,2022-12-23,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2773.0,289
+Python,jazzband,2023-01-26,1,1,"#{""nick.traeger@ideler.de""}",2774.0,290
+Python,jazzband,2023-02-01,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2775.0,290
+Python,jazzband,2023-02-04,5,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2780.0,291
+Python,jazzband,2023-02-06,5,2,"#{""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2785.0,291
+Python,jazzband,2023-02-07,2,1,"#{""6058745+ddabble@users.noreply.github.com""}",2787.0,291
+Python,jazzband,2023-02-08,3,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2790.0,291
+Python,jazzband,2023-02-10,1,1,"#{""6058745+ddabble@users.noreply.github.com""}",2791.0,291
+Python,jazzband,2023-02-21,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2792.0,291
+Python,jazzband,2023-02-22,2,1,"#{""6058745+ddabble@users.noreply.github.com""}",2794.0,291
+Python,jazzband,2023-02-23,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2795.0,291
+Python,jazzband,2023-02-27,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2796.0,291
+Python,jazzband,2023-03-08,3,1,"#{""6058745+ddabble@users.noreply.github.com""}",2799.0,291
+Python,jazzband,2023-03-10,1,1,"#{""6058745+ddabble@users.noreply.github.com""}",2800.0,291
+Python,jazzband,2023-03-14,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2803.0,291
+Python,jazzband,2023-03-16,7,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""hugovk@users.noreply.github.com""}",2810.0,291
+Python,jazzband,2023-03-31,10,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2820.0,291
+Python,jazzband,2023-04-03,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2822.0,291
+Python,jazzband,2023-04-06,3,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2825.0,291
+Python,jazzband,2023-04-14,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2826.0,291
+Python,jazzband,2023-04-18,1,1,"#{""6058745+ddabble@users.noreply.github.com""}",2827.0,291
+Python,jazzband,2023-04-26,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2828.0,291
+Python,jazzband,2023-05-02,4,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""43556352+hector97i@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2832.0,292
+Python,jazzband,2023-05-08,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2833.0,292
+Python,jazzband,2023-05-16,1,1,"#{""danpabsolute@gmail.com""}",2834.0,293
+Python,jazzband,2023-05-19,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2835.0,293
+Python,jazzband,2023-05-23,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2836.0,293
+Python,jazzband,2023-05-25,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2837.0,293
+Python,jazzband,2023-05-30,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2838.0,293
+Python,jazzband,2023-05-31,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2839.0,293
+Python,jazzband,2023-06-05,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2840.0,293
+Python,jazzband,2023-06-08,1,1,"#{""marco@sirabella.org""}",2841.0,294
+Python,jazzband,2023-07-02,2,2,"#{""muneeb706@gmail.com"" ""117554978+kiraware@users.noreply.github.com""}",2843.0,296
+Python,jazzband,2023-07-03,7,3,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2850.0,296
+Python,jazzband,2023-07-04,8,2,"#{""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2858.0,296
+Python,jazzband,2023-07-05,6,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""6058745+ddabble@users.noreply.github.com""}",2864.0,296
+Python,jazzband,2023-07-07,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2866.0,296
+Python,jazzband,2023-07-08,3,1,"#{""6058745+ddabble@users.noreply.github.com""}",2869.0,296
+Python,jazzband,2023-07-09,4,1,"#{""6058745+ddabble@users.noreply.github.com""}",2873.0,296
+Python,jazzband,2023-07-10,2,2,"#{""valberg@orn.li"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2875.0,296
+Python,jazzband,2023-07-11,1,1,"#{""zhaojiejoe@163.com""}",2876.0,297
+Python,jazzband,2023-07-12,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2877.0,297
+Python,jazzband,2023-07-13,1,1,"#{""valberg@orn.li""}",2878.0,297
+Python,jazzband,2023-07-18,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2879.0,297
+Python,jazzband,2023-07-31,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2880.0,297
+Python,jazzband,2023-08-01,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2881.0,297
+Python,jazzband,2023-08-04,1,1,"#{""manelclos@gmail.com""}",2882.0,298
+Python,jazzband,2023-08-05,1,1,"#{""john.parton.iv@gmail.com""}",2883.0,298
+Python,jazzband,2023-08-07,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2884.0,298
+Python,jazzband,2023-08-08,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2885.0,298
+Python,jazzband,2023-08-15,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""muneeb706@gmail.com""}",2888.0,298
+Python,jazzband,2023-08-16,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2889.0,298
+Python,jazzband,2023-08-17,3,1,"#{""6058745+ddabble@users.noreply.github.com""}",2892.0,298
+Python,jazzband,2023-08-18,2,2,"#{""6058745+ddabble@users.noreply.github.com"" ""hugovk@users.noreply.github.com""}",2894.0,298
+Python,jazzband,2023-08-19,1,1,"#{""marco@sirabella.org""}",2895.0,298
+Python,jazzband,2023-08-22,2,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2897.0,298
+Python,jazzband,2023-08-24,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2898.0,298
+Python,jazzband,2023-08-28,2,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""theryanwalker@proton.me""}",2900.0,299
+Python,jazzband,2023-08-30,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2901.0,299
+Python,jazzband,2023-08-31,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2902.0,299
+Python,jazzband,2023-09-05,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""lenigauffier@gmail.com""}",2905.0,299
+Python,jazzband,2023-09-07,2,2,"#{""noel@rescommunes.ca"" ""49699333+dependabot[bot]@users.noreply.github.com""}",2907.0,300
+Python,jazzband,2023-09-09,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2908.0,300
+Python,jazzband,2023-09-11,1,1,"#{""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2909.0,300
+Python,jazzband,2023-09-12,3,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""theryanwalker@proton.me""}",2912.0,300
+Python,jazzband,2023-09-14,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2913.0,300
+Python,jazzband,2023-09-15,1,1,"#{""tenzer@tenzer.dk""}",2914.0,301
+Python,jazzband,2023-09-25,2,2,"#{""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2916.0,301
+Python,jazzband,2023-09-26,3,2,"#{""6058745+ddabble@users.noreply.github.com"" ""66853113+pre-commit-ci[bot]@users.noreply.github.com""}",2919.0,301
+Python,jazzband,2023-09-28,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",2920.0,301
+Python,jazzband,2023-09-29,1,1,"#{""anton@modernanimal.com""}",2921.0,302

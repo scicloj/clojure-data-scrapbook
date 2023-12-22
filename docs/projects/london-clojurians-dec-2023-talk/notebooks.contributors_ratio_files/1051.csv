@@ -1,0 +1,187 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clj-commons/claypoole,2014-02-11,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, leon@barrettnexus.com]",4.0,"[{2 3, 1 1}]",0,0,1,3,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-02-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lbarrett@climate.com, lbarrett@climate.com]",6.0,"[{2 5, 1 1}]",0,0,1,5,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lbarrett@climate.com]",7.0,"[{2 6, 1 1}]",0,0,1,6,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-02-14,12,3,"#tech.v3.dataset.column<string>[12]
+:email
+[lbarrett@climate.com, lbarrett@climate.com, leon@climate.com, leon@barrettnexus.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com]",19.0,"[{2 16, 1 2, 0 1}]",0,1,2,16,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-02-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com]",22.0,"[{2 19, 1 2, 0 1}]",0,1,2,19,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lbarrett@climate.com]",23.0,"[{2 20, 1 2, 0 1}]",0,1,2,20,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-02-20,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[leon@barrettnexus.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com]",30.0,"[{2 26, 1 3, 0 1}]",0,1,3,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-02-21,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@climate.com]",34.0,"[{2 26, 1 4, 0 4}]",0,4,4,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@climate.com]",35.0,"[{2 26, 1 4, 0 5}]",0,5,4,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-04-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@climate.com, leon@climate.com]",37.0,"[{2 26, 1 4, 0 7}]",0,7,4,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-05-25,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[leon@climate.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com]",44.0,"[{2 26, 1 10, 0 8}]",0,8,10,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-07-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@climate.com, leon@climate.com]",46.0,"[{2 26, 1 10, 0 10}]",0,10,10,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-07-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[leon@climate.com, leon@barrettnexus.com, leon@climate.com]",49.0,"[{2 26, 1 11, 0 12}]",0,12,11,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-09-10,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[leon@barrettnexus.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com]",63.0,"[{2 26, 1 16, 0 21}]",0,21,16,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-09-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[estsauver@gmail.com]",64.0,"[{2 26, 1 16, 0 21, ""other"" 1}]",1,21,16,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-10-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@barrettnexus.com, leon@climate.com]",66.0,"[{2 26, 1 17, 0 22, ""other"" 1}]",1,22,17,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@climate.com]",67.0,"[{2 26, 1 17, 0 23, ""other"" 1}]",1,23,17,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-10-23,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com]",75.0,"[{2 26, 1 18, 0 30, ""other"" 1}]",1,30,18,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-10-30,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com]",83.0,"[{2 26, 1 19, 0 37, ""other"" 1}]",1,37,19,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@climate.com]",84.0,"[{2 26, 1 19, 0 38, ""other"" 1}]",1,38,19,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-12-24,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[leon@climate.com, leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@climate.com]",90.0,"[{2 26, 1 21, 0 42, ""other"" 1}]",1,42,21,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-12-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@climate.com]",91.0,"[{2 26, 1 21, 0 43, ""other"" 1}]",1,43,21,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-12-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@climate.com]",92.0,"[{2 26, 1 21, 0 44, ""other"" 1}]",1,44,21,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2014-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@climate.com]",93.0,"[{2 26, 1 21, 0 45, ""other"" 1}]",1,45,21,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-01-01,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com]",102.0,"[{2 26, 1 21, 0 54, ""other"" 1}]",1,54,21,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@climate.com]",103.0,"[{2 26, 1 21, 0 55, ""other"" 1}]",1,55,21,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-01-06,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com]",114.0,"[{2 26, 1 23, 0 64, ""other"" 1}]",1,64,23,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-01-07,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com]",123.0,"[{2 26, 1 24, 0 72, ""other"" 1}]",1,72,24,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-03-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@barrettnexus.com, cloojure@gmail.com]",125.0,"[{2 26, 1 25, 0 72, ""other"" 2}]",2,72,25,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-04-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@climate.com, leon@climate.com]",127.0,"[{2 26, 1 25, 0 74, ""other"" 2}]",2,74,25,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-05-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@barrettnexus.com, leon@climate.com]",129.0,"[{2 26, 1 26, 0 75, ""other"" 2}]",2,75,26,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-06-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@barrettnexus.com, chairmanK@gmail.com]",131.0,"[{2 26, 1 27, 0 75, ""other"" 3}]",3,75,27,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@barrettnexus.com]",132.0,"[{2 26, 1 28, 0 75, ""other"" 3}]",3,75,28,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-07-21,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[leon@barrettnexus.com, leon@climate.com, leon@barrettnexus.com, leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com]",139.0,"[{2 26, 1 30, 0 80, ""other"" 3}]",3,80,30,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2015-09-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[leon@climate.com, leon@climate.com, leon@climate.com, leon@climate.com]",143.0,"[{2 26, 1 30, 0 84, ""other"" 3}]",3,84,30,26,0,0
+Clojure,https://github.com/clj-commons/claypoole,2016-01-19,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com, leon@barrettnexus.com, lbarrett@climate.com, lbarrett@climate.com]",149.0,"[{2 31, 1 31, 0 84, ""other"" 3}]",3,84,31,31,0,0
+Clojure,https://github.com/clj-commons/claypoole,2016-02-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com]",152.0,"[{2 34, 1 31, 0 84, ""other"" 3}]",3,84,31,34,0,0
+Clojure,https://github.com/clj-commons/claypoole,2016-06-12,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[leon@barrettnexus.com, leon@barrettnexus.com, lbarrett@climate.com, lbarrett@climate.com, lbarrett@climate.com]",157.0,"[{2 37, 1 33, 0 84, ""other"" 3}]",3,84,33,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2016-07-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com]",161.0,"[{2 37, 1 37, 0 84, ""other"" 3}]",3,84,37,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2016-07-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[rkenned@gmail.com, alex.miller@cognitect.com]",163.0,"[{2 37, 1 37, 0 84, ""other"" 5}]",5,84,37,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2016-11-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@barrettnexus.com, leon@barrettnexus.com]",165.0,"[{2 37, 1 39, 0 84, ""other"" 5}]",5,84,39,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2017-02-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@barrettnexus.com, shafeeq94@gmail.com]",167.0,"[{2 37, 1 40, 0 84, ""other"" 6}]",6,84,40,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2018-12-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[leon@barrettnexus.com, leon@barrettnexus.com]",169.0,"[{2 37, 1 42, 0 84, ""other"" 6}]",6,84,42,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2019-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jakubholy@jakubholy.net]",170.0,"[{2 37, 1 42, 0 84, ""other"" 7}]",7,84,42,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2019-08-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@barrettnexus.com]",171.0,"[{2 37, 1 43, 0 84, ""other"" 7}]",7,84,43,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2019-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[markku.rontu@iki.fi]",172.0,"[{2 37, 1 43, 0 84, ""other"" 8}]",8,84,43,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2019-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@barrettnexus.com]",173.0,"[{2 37, 1 44, 0 84, ""other"" 8}]",8,84,44,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2020-07-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jgomez@guaranteedrate.com, jgomez@guaranteedrate.com]",175.0,"[{2 37, 1 44, 0 84, ""other"" 10}]",10,84,44,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2020-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[k13gomez@gmail.com]",176.0,"[{2 37, 1 44, 0 84, ""other"" 11}]",11,84,44,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2020-08-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[k13gomez@gmail.com, k13gomez@gmail.com]",178.0,"[{2 37, 1 44, 0 84, ""other"" 13}]",13,84,44,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2020-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@barrettnexus.com]",179.0,"[{2 37, 1 45, 0 84, ""other"" 13}]",13,84,45,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2020-08-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[k13gomez@gmail.com, k13gomez@gmail.com]",181.0,"[{2 37, 1 45, 0 84, ""other"" 15}]",15,84,45,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2020-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leon@barrettnexus.com]",182.0,"[{2 37, 1 46, 0 84, ""other"" 15}]",15,84,46,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2021-01-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com, leon@barrettnexus.com]",187.0,"[{2 37, 1 51, 0 84, ""other"" 15}]",15,84,51,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2022-01-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[erik@assum.net, erik@assum.net, erik@assum.net, erik@assum.net]",191.0,"[{2 37, 1 51, 0 84, ""other"" 19}]",19,84,51,37,0,0
+Clojure,https://github.com/clj-commons/claypoole,2022-02-10,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[eugen.stan@netdava.com, eugen.stan@netdava.com, eugen@ieugen.ro, eugen@ieugen.ro]",195.0,"[{2 37, 1 51, 0 84, ""other"" 21, 3 2}]",21,84,51,37,2,0
+Clojure,https://github.com/clj-commons/claypoole,2022-02-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mike.kaplinskiy@gmail.com]",196.0,"[{2 37, 1 51, 0 84, ""other"" 22, 3 2}]",22,84,51,37,2,0
+Clojure,https://github.com/clj-commons/claypoole,2022-02-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[eugen.stan@netdava.com, eugen.stan@netdava.com, eugen.stan@netdava.com]",199.0,"[{2 37, 1 51, 0 84, ""other"" 22, 3 5}]",22,84,51,37,5,0
+Clojure,https://github.com/clj-commons/claypoole,2022-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eugen.stan@netdava.com]",200.0,"[{2 37, 1 51, 0 84, ""other"" 22, 3 6}]",22,84,51,37,6,0
+Clojure,https://github.com/clj-commons/claypoole,2022-02-24,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[erik.assum@ardoq.com, erik.assum@ardoq.com, erik.assum@ardoq.com, erik.assum@ardoq.com, erik.assum@ardoq.com, erik.assum@ardoq.com]",206.0,"[{2 37, 1 51, 0 84, ""other"" 22, 3 6, 4 6}]",22,84,51,37,6,6
+Clojure,https://github.com/clj-commons/claypoole,2022-02-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[eugen.stan@netdava.com, eugen.stan@netdava.com]",208.0,"[{2 37, 1 51, 0 84, ""other"" 22, 3 8, 4 6}]",22,84,51,37,8,6
+Clojure,https://github.com/clj-commons/claypoole,2023-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",209.0,"[{2 37, 1 51, 0 84, ""other"" 23, 3 8, 4 6}]",23,84,51,37,8,6

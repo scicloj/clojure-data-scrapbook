@@ -1,0 +1,709 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,reagent-project,2013-12-16,5,1,"#{""holmsand@gmail.com""}",5.0,1
+Clojure,reagent-project,2013-12-17,9,1,"#{""holmsand@gmail.com""}",14.0,1
+Clojure,reagent-project,2013-12-18,4,1,"#{""holmsand@gmail.com""}",18.0,1
+Clojure,reagent-project,2013-12-19,5,1,"#{""holmsand@gmail.com""}",23.0,1
+Clojure,reagent-project,2013-12-20,3,1,"#{""holmsand@gmail.com""}",26.0,1
+Clojure,reagent-project,2014-01-02,5,1,"#{""holmsand@gmail.com""}",31.0,1
+Clojure,reagent-project,2014-01-03,7,1,"#{""holmsand@gmail.com""}",38.0,1
+Clojure,reagent-project,2014-01-04,2,1,"#{""holmsand@gmail.com""}",40.0,1
+Clojure,reagent-project,2014-01-05,4,1,"#{""holmsand@gmail.com""}",44.0,1
+Clojure,reagent-project,2014-01-06,7,1,"#{""holmsand@gmail.com""}",51.0,1
+Clojure,reagent-project,2014-01-07,6,1,"#{""holmsand@gmail.com""}",57.0,1
+Clojure,reagent-project,2014-01-08,5,1,"#{""holmsand@gmail.com""}",62.0,1
+Clojure,reagent-project,2014-01-09,4,1,"#{""holmsand@gmail.com""}",66.0,1
+Clojure,reagent-project,2014-01-10,6,1,"#{""holmsand@gmail.com""}",72.0,1
+Clojure,reagent-project,2014-01-11,1,1,"#{""holmsand@gmail.com""}",73.0,1
+Clojure,reagent-project,2014-01-17,5,1,"#{""holmsand@gmail.com""}",78.0,1
+Clojure,reagent-project,2014-01-18,2,1,"#{""holmsand@gmail.com""}",80.0,1
+Clojure,reagent-project,2014-01-19,3,1,"#{""holmsand@gmail.com""}",83.0,1
+Clojure,reagent-project,2014-01-20,5,1,"#{""holmsand@gmail.com""}",88.0,1
+Clojure,reagent-project,2014-01-21,1,1,"#{""holmsand@gmail.com""}",89.0,1
+Clojure,reagent-project,2014-01-22,1,1,"#{""holmsand@gmail.com""}",90.0,1
+Clojure,reagent-project,2014-01-24,3,1,"#{""holmsand@gmail.com""}",93.0,1
+Clojure,reagent-project,2014-01-25,2,1,"#{""holmsand@gmail.com""}",95.0,1
+Clojure,reagent-project,2014-01-26,1,1,"#{""holmsand@gmail.com""}",96.0,1
+Clojure,reagent-project,2014-01-27,4,1,"#{""holmsand@gmail.com""}",100.0,1
+Clojure,reagent-project,2014-01-28,5,1,"#{""holmsand@gmail.com""}",105.0,1
+Clojure,reagent-project,2014-01-29,3,1,"#{""holmsand@gmail.com""}",108.0,1
+Clojure,reagent-project,2014-01-30,2,1,"#{""holmsand@gmail.com""}",110.0,1
+Clojure,reagent-project,2014-02-02,2,1,"#{""holmsand@gmail.com""}",112.0,1
+Clojure,reagent-project,2014-02-03,8,1,"#{""holmsand@gmail.com""}",120.0,1
+Clojure,reagent-project,2014-02-08,2,1,"#{""holmsand@gmail.com""}",122.0,1
+Clojure,reagent-project,2014-02-09,6,2,"#{""jonas.enlund@gmail.com"" ""holmsand@gmail.com""}",128.0,2
+Clojure,reagent-project,2014-02-10,8,1,"#{""holmsand@gmail.com""}",136.0,2
+Clojure,reagent-project,2014-02-11,11,1,"#{""holmsand@gmail.com""}",147.0,2
+Clojure,reagent-project,2014-02-12,1,1,"#{""holmsand@gmail.com""}",148.0,2
+Clojure,reagent-project,2014-02-14,4,1,"#{""holmsand@gmail.com""}",152.0,2
+Clojure,reagent-project,2014-02-15,7,1,"#{""holmsand@gmail.com""}",159.0,2
+Clojure,reagent-project,2014-02-16,1,1,"#{""holmsand@gmail.com""}",160.0,2
+Clojure,reagent-project,2014-02-17,1,1,"#{""holmsand@gmail.com""}",161.0,2
+Clojure,reagent-project,2014-02-21,12,2,"#{""jonas.enlund@gmail.com"" ""holmsand@gmail.com""}",173.0,2
+Clojure,reagent-project,2014-02-22,10,2,"#{""holmsand@gmail.com"" ""ptaoussanis@gmail.com""}",183.0,3
+Clojure,reagent-project,2014-02-26,2,1,"#{""holmsand@gmail.com""}",185.0,3
+Clojure,reagent-project,2014-02-28,1,1,"#{""holmsand@gmail.com""}",186.0,3
+Clojure,reagent-project,2014-03-02,1,1,"#{""holmsand@gmail.com""}",187.0,3
+Clojure,reagent-project,2014-03-03,1,1,"#{""jacob.maine@gmail.com""}",188.0,4
+Clojure,reagent-project,2014-03-06,6,1,"#{""holmsand@gmail.com""}",194.0,4
+Clojure,reagent-project,2014-03-14,5,1,"#{""holmsand@gmail.com""}",199.0,4
+Clojure,reagent-project,2014-03-16,1,1,"#{""holmsand@gmail.com""}",200.0,4
+Clojure,reagent-project,2014-03-17,1,1,"#{""holmsand@gmail.com""}",201.0,4
+Clojure,reagent-project,2014-03-18,2,1,"#{""holmsand@gmail.com""}",203.0,4
+Clojure,reagent-project,2014-03-25,5,1,"#{""holmsand@gmail.com""}",208.0,4
+Clojure,reagent-project,2014-04-01,2,1,"#{""holmsand@gmail.com""}",210.0,4
+Clojure,reagent-project,2014-04-09,2,1,"#{""holmsand@gmail.com""}",212.0,4
+Clojure,reagent-project,2014-09-08,1,1,"#{""sean@corfield.org""}",213.0,5
+Clojure,reagent-project,2014-09-14,2,1,"#{""holmsand@gmail.com""}",215.0,5
+Clojure,reagent-project,2014-09-16,1,1,"#{""holmsand@gmail.com""}",216.0,5
+Clojure,reagent-project,2014-10-15,1,1,"#{""holmsand@gmail.com""}",217.0,5
+Clojure,reagent-project,2014-10-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",219.0,6
+Clojure,reagent-project,2014-10-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",221.0,6
+Clojure,reagent-project,2014-10-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",222.0,6
+Clojure,reagent-project,2014-10-19,17,1,"#{""dmitri.sotnikov@gmail.com""}",239.0,6
+Clojure,reagent-project,2014-10-20,3,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",242.0,6
+Clojure,reagent-project,2014-10-21,4,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",246.0,7
+Clojure,reagent-project,2014-10-28,2,1,"#{""holmsand@gmail.com""}",248.0,7
+Clojure,reagent-project,2014-10-29,18,2,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com""}",266.0,7
+Clojure,reagent-project,2014-10-30,5,1,"#{""gadfly361@gmail.com""}",271.0,7
+Clojure,reagent-project,2014-11-01,4,1,"#{""gadfly361@gmail.com""}",275.0,7
+Clojure,reagent-project,2014-11-05,1,1,"#{""gadfly361@gmail.com""}",276.0,7
+Clojure,reagent-project,2014-11-06,9,3,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",285.0,7
+Clojure,reagent-project,2014-11-08,2,1,"#{""gadfly361@gmail.com""}",287.0,7
+Clojure,reagent-project,2014-11-10,3,1,"#{""gadfly361@gmail.com""}",290.0,7
+Clojure,reagent-project,2014-11-11,1,1,"#{""holmsand@gmail.com""}",291.0,7
+Clojure,reagent-project,2014-11-13,5,1,"#{""holmsand@gmail.com""}",296.0,7
+Clojure,reagent-project,2014-11-15,2,1,"#{""gadfly361@gmail.com""}",298.0,7
+Clojure,reagent-project,2014-11-17,9,2,"#{""gadfly361@gmail.com"" ""inchingforward@gmail.com""}",307.0,8
+Clojure,reagent-project,2014-11-18,2,1,"#{""gadfly361@gmail.com""}",309.0,8
+Clojure,reagent-project,2014-11-19,1,1,"#{""gadfly361@gmail.com""}",310.0,8
+Clojure,reagent-project,2014-11-20,2,1,"#{""holmsand@gmail.com""}",312.0,8
+Clojure,reagent-project,2014-11-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",314.0,8
+Clojure,reagent-project,2014-11-22,16,3,"#{""frozenlock@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",330.0,9
+Clojure,reagent-project,2014-11-23,2,1,"#{""holmsand@gmail.com""}",332.0,9
+Clojure,reagent-project,2014-11-25,1,1,"#{""gadfly361@gmail.com""}",333.0,9
+Clojure,reagent-project,2014-11-26,2,2,"#{""gadfly361@gmail.com"" ""frozenlock@gmail.com""}",335.0,9
+Clojure,reagent-project,2014-11-27,2,2,"#{""rohit.aggarwal@gmail.com"" ""dmitri.sotnikov@gmail.com""}",337.0,10
+Clojure,reagent-project,2014-11-28,2,1,"#{""sean@corfield.org""}",339.0,10
+Clojure,reagent-project,2014-11-29,7,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",346.0,10
+Clojure,reagent-project,2014-11-30,11,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",357.0,10
+Clojure,reagent-project,2014-12-01,7,4,"#{""trevorhartman@gmail.com"" ""col@baibell.org"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",364.0,12
+Clojure,reagent-project,2014-12-02,10,3,"#{""pandeiro@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",374.0,13
+Clojure,reagent-project,2014-12-03,4,2,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com""}",378.0,13
+Clojure,reagent-project,2014-12-05,2,1,"#{""gadfly361@gmail.com""}",380.0,13
+Clojure,reagent-project,2014-12-07,6,1,"#{""holmsand@gmail.com""}",386.0,13
+Clojure,reagent-project,2014-12-08,1,1,"#{""holmsand@gmail.com""}",387.0,13
+Clojure,reagent-project,2014-12-09,3,1,"#{""holmsand@gmail.com""}",390.0,13
+Clojure,reagent-project,2014-12-10,9,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",399.0,13
+Clojure,reagent-project,2014-12-11,1,1,"#{""holmsand@gmail.com""}",400.0,13
+Clojure,reagent-project,2014-12-12,2,1,"#{""holmsand@gmail.com""}",402.0,13
+Clojure,reagent-project,2014-12-15,4,2,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com""}",406.0,13
+Clojure,reagent-project,2014-12-16,1,1,"#{""holmsand@gmail.com""}",407.0,13
+Clojure,reagent-project,2014-12-17,3,1,"#{""dmitri.sotnikov@gmail.com""}",410.0,13
+Clojure,reagent-project,2014-12-18,1,1,"#{""holmsand@gmail.com""}",411.0,13
+Clojure,reagent-project,2014-12-19,2,1,"#{""holmsand@gmail.com""}",413.0,13
+Clojure,reagent-project,2014-12-21,6,2,"#{""lauri.hahne@leonidasoy.fi"" ""dmitri.sotnikov@gmail.com""}",419.0,14
+Clojure,reagent-project,2014-12-24,6,2,"#{""you@example.com"" ""dmitri.sotnikov@gmail.com""}",425.0,15
+Clojure,reagent-project,2014-12-25,6,2,"#{""frozenlock@gmail.com"" ""dmitri.sotnikov@gmail.com""}",431.0,15
+Clojure,reagent-project,2014-12-28,3,1,"#{""dmitri.sotnikov@gmail.com""}",434.0,15
+Clojure,reagent-project,2014-12-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",435.0,15
+Clojure,reagent-project,2014-12-30,2,1,"#{""gadfly361@gmail.com""}",437.0,15
+Clojure,reagent-project,2014-12-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",438.0,15
+Clojure,reagent-project,2015-01-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",439.0,15
+Clojure,reagent-project,2015-01-08,3,1,"#{""dmitri.sotnikov@gmail.com""}",442.0,15
+Clojure,reagent-project,2015-01-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",443.0,15
+Clojure,reagent-project,2015-01-10,3,1,"#{""dmitri.sotnikov@gmail.com""}",446.0,15
+Clojure,reagent-project,2015-01-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",448.0,15
+Clojure,reagent-project,2015-01-17,3,2,"#{""rohit.aggarwal@gmail.com"" ""dmitri.sotnikov@gmail.com""}",451.0,15
+Clojure,reagent-project,2015-01-18,2,2,"#{""rohit.aggarwal@gmail.com"" ""gadfly361@gmail.com""}",453.0,15
+Clojure,reagent-project,2015-01-19,5,2,"#{""rohit.aggarwal@gmail.com"" ""dmitri.sotnikov@gmail.com""}",458.0,15
+Clojure,reagent-project,2015-01-20,6,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",464.0,15
+Clojure,reagent-project,2015-01-24,4,1,"#{""dmitri.sotnikov@gmail.com""}",468.0,15
+Clojure,reagent-project,2015-01-25,3,1,"#{""gadfly361@gmail.com""}",471.0,15
+Clojure,reagent-project,2015-01-27,2,1,"#{""gadfly361@gmail.com""}",473.0,15
+Clojure,reagent-project,2015-01-29,6,3,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",479.0,15
+Clojure,reagent-project,2015-01-30,2,1,"#{""holmsand@gmail.com""}",481.0,15
+Clojure,reagent-project,2015-01-31,8,1,"#{""holmsand@gmail.com""}",489.0,15
+Clojure,reagent-project,2015-02-01,13,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",502.0,15
+Clojure,reagent-project,2015-02-02,5,1,"#{""holmsand@gmail.com""}",507.0,15
+Clojure,reagent-project,2015-02-03,1,1,"#{""gadfly361@gmail.com""}",508.0,15
+Clojure,reagent-project,2015-02-04,6,1,"#{""holmsand@gmail.com""}",514.0,15
+Clojure,reagent-project,2015-02-05,2,2,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com""}",516.0,15
+Clojure,reagent-project,2015-02-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",517.0,15
+Clojure,reagent-project,2015-02-07,3,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",520.0,15
+Clojure,reagent-project,2015-02-08,5,1,"#{""holmsand@gmail.com""}",525.0,15
+Clojure,reagent-project,2015-02-09,12,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",537.0,15
+Clojure,reagent-project,2015-02-10,8,3,"#{""pbw@pbw.id.au"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",545.0,16
+Clojure,reagent-project,2015-02-11,3,1,"#{""holmsand@gmail.com""}",548.0,16
+Clojure,reagent-project,2015-02-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",550.0,16
+Clojure,reagent-project,2015-02-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",551.0,16
+Clojure,reagent-project,2015-02-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",552.0,16
+Clojure,reagent-project,2015-03-01,2,2,"#{""marco.fiset@gmail.com"" ""dmitri.sotnikov@gmail.com""}",554.0,17
+Clojure,reagent-project,2015-03-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",555.0,17
+Clojure,reagent-project,2015-03-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",556.0,17
+Clojure,reagent-project,2015-03-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",557.0,17
+Clojure,reagent-project,2015-03-07,3,1,"#{""dmitri.sotnikov@gmail.com""}",560.0,17
+Clojure,reagent-project,2015-03-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",562.0,17
+Clojure,reagent-project,2015-03-10,4,1,"#{""dmitri.sotnikov@gmail.com""}",566.0,17
+Clojure,reagent-project,2015-03-11,9,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",575.0,17
+Clojure,reagent-project,2015-03-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",577.0,17
+Clojure,reagent-project,2015-03-14,1,1,"#{""gadfly361@gmail.com""}",578.0,17
+Clojure,reagent-project,2015-03-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",580.0,17
+Clojure,reagent-project,2015-03-17,4,1,"#{""dmitri.sotnikov@gmail.com""}",584.0,17
+Clojure,reagent-project,2015-03-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",585.0,17
+Clojure,reagent-project,2015-03-20,1,1,"#{""martinklepsch@googlemail.com""}",586.0,18
+Clojure,reagent-project,2015-03-21,5,3,"#{""holmsand@gmail.com"" ""hura@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",591.0,19
+Clojure,reagent-project,2015-03-22,1,1,"#{""holmsand@gmail.com""}",592.0,19
+Clojure,reagent-project,2015-03-23,7,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",599.0,20
+Clojure,reagent-project,2015-03-24,5,1,"#{""dmitri.sotnikov@gmail.com""}",604.0,20
+Clojure,reagent-project,2015-03-25,2,2,"#{""martin.haesler@gmail.com"" ""dmitri.sotnikov@gmail.com""}",606.0,21
+Clojure,reagent-project,2015-03-28,8,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",614.0,21
+Clojure,reagent-project,2015-03-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",615.0,21
+Clojure,reagent-project,2015-03-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",616.0,21
+Clojure,reagent-project,2015-04-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",619.0,21
+Clojure,reagent-project,2015-04-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",620.0,21
+Clojure,reagent-project,2015-04-08,2,1,"#{""dmitri.sotnikov@gmail.com""}",622.0,21
+Clojure,reagent-project,2015-04-12,1,1,"#{""brian@brianmaddy.com""}",623.0,22
+Clojure,reagent-project,2015-04-13,3,2,"#{""mhuebert@gmail.com"" ""dmitri.sotnikov@gmail.com""}",626.0,23
+Clojure,reagent-project,2015-04-23,3,1,"#{""volny.petr@gmail.com""}",629.0,24
+Clojure,reagent-project,2015-04-24,5,2,"#{""volny.petr@gmail.com"" ""dmitri.sotnikov@gmail.com""}",634.0,24
+Clojure,reagent-project,2015-04-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",635.0,24
+Clojure,reagent-project,2015-04-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",637.0,24
+Clojure,reagent-project,2015-05-01,3,2,"#{""dmitri.sotnikov@gmail.com"" ""pml@pmlarocque.com""}",640.0,25
+Clojure,reagent-project,2015-05-03,6,2,"#{""tg@4media-network.com"" ""dmitri.sotnikov@gmail.com""}",646.0,26
+Clojure,reagent-project,2015-05-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",647.0,26
+Clojure,reagent-project,2015-05-08,2,2,"#{""mike.thompson@day8.com.au"" ""dmitri.sotnikov@gmail.com""}",649.0,27
+Clojure,reagent-project,2015-05-11,5,3,"#{""dmitri.sotnikov@uhn.on.ca"" ""mike.thompson@day8.com.au"" ""dmitri.sotnikov@gmail.com""}",654.0,27
+Clojure,reagent-project,2015-05-12,1,1,"#{""mike.thompson@day8.com.au""}",655.0,27
+Clojure,reagent-project,2015-05-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",656.0,27
+Clojure,reagent-project,2015-05-14,3,3,"#{""hardikbhadani1993@gmail.com"" ""frozenlock@gmail.com"" ""dmitri.sotnikov@gmail.com""}",659.0,28
+Clojure,reagent-project,2015-05-19,6,2,"#{""jarrod.c.taylor@gmail.com"" ""dmitri.sotnikov@gmail.com""}",665.0,29
+Clojure,reagent-project,2015-05-20,3,2,"#{""volny.petr@gmail.com"" ""dmitri.sotnikov@gmail.com""}",668.0,29
+Clojure,reagent-project,2015-05-21,2,2,"#{""jarrod.c.taylor@gmail.com"" ""dmitri.sotnikov@gmail.com""}",670.0,29
+Clojure,reagent-project,2015-05-22,2,1,"#{""gadfly361@gmail.com""}",672.0,29
+Clojure,reagent-project,2015-05-25,1,1,"#{""holmsand@gmail.com""}",673.0,29
+Clojure,reagent-project,2015-05-29,1,1,"#{""holmsand@gmail.com""}",674.0,29
+Clojure,reagent-project,2015-05-30,1,1,"#{""gadfly361@gmail.com""}",675.0,29
+Clojure,reagent-project,2015-05-31,2,1,"#{""holmsand@gmail.com""}",677.0,29
+Clojure,reagent-project,2015-06-02,1,1,"#{""holmsand@gmail.com""}",678.0,29
+Clojure,reagent-project,2015-06-05,4,2,"#{""_@lvh.io"" ""dmitri.sotnikov@gmail.com""}",682.0,30
+Clojure,reagent-project,2015-06-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",683.0,30
+Clojure,reagent-project,2015-06-07,5,1,"#{""dmitri.sotnikov@gmail.com""}",688.0,30
+Clojure,reagent-project,2015-06-15,2,1,"#{""dmitri.sotnikov@gmail.com""}",690.0,30
+Clojure,reagent-project,2015-06-16,7,2,"#{""_@lvh.io"" ""dmitri.sotnikov@gmail.com""}",697.0,30
+Clojure,reagent-project,2015-06-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",699.0,30
+Clojure,reagent-project,2015-06-18,2,1,"#{""hlship@gmail.com""}",701.0,31
+Clojure,reagent-project,2015-06-21,4,2,"#{""_@lvh.io"" ""dmitri.sotnikov@gmail.com""}",705.0,31
+Clojure,reagent-project,2015-06-23,1,1,"#{""carmen.la@mail.utoronto.ca""}",706.0,32
+Clojure,reagent-project,2015-06-24,1,1,"#{""gadfly361@gmail.com""}",707.0,32
+Clojure,reagent-project,2015-06-25,4,1,"#{""hlship@gmail.com""}",711.0,32
+Clojure,reagent-project,2015-06-30,3,1,"#{""dmitri.sotnikov@gmail.com""}",714.0,32
+Clojure,reagent-project,2015-07-01,3,2,"#{""dmitri.sotnikov@gmail.com"" ""thiagown@gmail.com""}",717.0,33
+Clojure,reagent-project,2015-07-02,1,1,"#{""adrian.gruntkowski@gmail.com""}",718.0,34
+Clojure,reagent-project,2015-07-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",719.0,34
+Clojure,reagent-project,2015-07-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",720.0,34
+Clojure,reagent-project,2015-07-18,4,2,"#{""jarrod.c.taylor@gmail.com"" ""dmitri.sotnikov@gmail.com""}",724.0,34
+Clojure,reagent-project,2015-07-23,3,1,"#{""moskvax@gmail.com""}",727.0,35
+Clojure,reagent-project,2015-07-30,3,1,"#{""holmsand@gmail.com""}",730.0,35
+Clojure,reagent-project,2015-07-31,11,2,"#{""JulianLeviston@users.noreply.github.com"" ""holmsand@gmail.com""}",741.0,36
+Clojure,reagent-project,2015-08-08,1,1,"#{""JulianLeviston@users.noreply.github.com""}",742.0,36
+Clojure,reagent-project,2015-08-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",743.0,36
+Clojure,reagent-project,2015-08-18,3,2,"#{""me@waltonhoops.com"" ""dmitri.sotnikov@gmail.com""}",746.0,37
+Clojure,reagent-project,2015-08-19,5,1,"#{""holmsand@gmail.com""}",751.0,37
+Clojure,reagent-project,2015-08-20,6,1,"#{""holmsand@gmail.com""}",757.0,37
+Clojure,reagent-project,2015-08-21,3,1,"#{""dmitri.sotnikov@gmail.com""}",760.0,37
+Clojure,reagent-project,2015-08-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",762.0,37
+Clojure,reagent-project,2015-08-24,1,1,"#{""holmsand@gmail.com""}",763.0,37
+Clojure,reagent-project,2015-08-26,3,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",766.0,37
+Clojure,reagent-project,2015-08-27,1,1,"#{""gadfly361@gmail.com""}",767.0,37
+Clojure,reagent-project,2015-08-30,5,1,"#{""holmsand@gmail.com""}",772.0,37
+Clojure,reagent-project,2015-08-31,8,1,"#{""holmsand@gmail.com""}",780.0,37
+Clojure,reagent-project,2015-09-01,1,1,"#{""holmsand@gmail.com""}",781.0,37
+Clojure,reagent-project,2015-09-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",782.0,37
+Clojure,reagent-project,2015-09-03,2,1,"#{""dmitri.sotnikov@gmail.com""}",784.0,37
+Clojure,reagent-project,2015-09-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",785.0,37
+Clojure,reagent-project,2015-09-07,4,1,"#{""holmsand@gmail.com""}",789.0,37
+Clojure,reagent-project,2015-09-08,17,1,"#{""holmsand@gmail.com""}",806.0,37
+Clojure,reagent-project,2015-09-09,11,1,"#{""holmsand@gmail.com""}",817.0,37
+Clojure,reagent-project,2015-09-10,12,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",829.0,37
+Clojure,reagent-project,2015-09-11,9,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",838.0,37
+Clojure,reagent-project,2015-09-12,4,1,"#{""holmsand@gmail.com""}",842.0,37
+Clojure,reagent-project,2015-09-13,10,2,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com""}",852.0,37
+Clojure,reagent-project,2015-09-14,12,2,"#{""holmsand@gmail.com"" ""nothsaevets@gmail.com""}",864.0,38
+Clojure,reagent-project,2015-09-15,8,4,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com"" ""nothsaevets@gmail.com""}",872.0,38
+Clojure,reagent-project,2015-09-16,1,1,"#{""holmsand@gmail.com""}",873.0,38
+Clojure,reagent-project,2015-09-17,7,3,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",880.0,38
+Clojure,reagent-project,2015-09-18,5,3,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",885.0,38
+Clojure,reagent-project,2015-09-19,5,1,"#{""holmsand@gmail.com""}",890.0,38
+Clojure,reagent-project,2015-09-20,2,1,"#{""gadfly361@gmail.com""}",892.0,38
+Clojure,reagent-project,2015-09-21,2,2,"#{""desk@danielcompton.net"" ""holmsand@gmail.com""}",894.0,39
+Clojure,reagent-project,2015-09-23,5,1,"#{""holmsand@gmail.com""}",899.0,39
+Clojure,reagent-project,2015-09-24,7,1,"#{""holmsand@gmail.com""}",906.0,39
+Clojure,reagent-project,2015-09-25,4,1,"#{""holmsand@gmail.com""}",910.0,39
+Clojure,reagent-project,2015-09-26,7,1,"#{""holmsand@gmail.com""}",917.0,39
+Clojure,reagent-project,2015-09-27,5,1,"#{""holmsand@gmail.com""}",922.0,39
+Clojure,reagent-project,2015-09-30,4,1,"#{""holmsand@gmail.com""}",926.0,39
+Clojure,reagent-project,2015-10-02,8,2,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com""}",934.0,39
+Clojure,reagent-project,2015-10-03,6,1,"#{""holmsand@gmail.com""}",940.0,39
+Clojure,reagent-project,2015-10-04,4,1,"#{""holmsand@gmail.com""}",944.0,39
+Clojure,reagent-project,2015-10-05,3,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",947.0,39
+Clojure,reagent-project,2015-10-06,4,1,"#{""holmsand@gmail.com""}",951.0,39
+Clojure,reagent-project,2015-10-07,11,1,"#{""holmsand@gmail.com""}",962.0,39
+Clojure,reagent-project,2015-10-08,5,1,"#{""holmsand@gmail.com""}",967.0,39
+Clojure,reagent-project,2015-10-09,3,1,"#{""holmsand@gmail.com""}",970.0,39
+Clojure,reagent-project,2015-10-10,2,1,"#{""holmsand@gmail.com""}",972.0,39
+Clojure,reagent-project,2015-10-11,5,1,"#{""holmsand@gmail.com""}",977.0,39
+Clojure,reagent-project,2015-10-12,4,1,"#{""holmsand@gmail.com""}",981.0,39
+Clojure,reagent-project,2015-10-13,1,1,"#{""holmsand@gmail.com""}",982.0,39
+Clojure,reagent-project,2015-10-14,5,1,"#{""holmsand@gmail.com""}",987.0,39
+Clojure,reagent-project,2015-10-15,2,1,"#{""holmsand@gmail.com""}",989.0,39
+Clojure,reagent-project,2015-10-20,1,1,"#{""mike@mschaef.com""}",990.0,40
+Clojure,reagent-project,2015-10-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",991.0,40
+Clojure,reagent-project,2015-10-22,7,3,"#{""edvorg@gmail.com"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",998.0,41
+Clojure,reagent-project,2015-10-23,2,1,"#{""dmitri.sotnikov@gmail.com""}",1000.0,41
+Clojure,reagent-project,2015-10-25,2,2,"#{""mika.vilpas@gmail.com"" ""frozenlock@gmail.com""}",1002.0,42
+Clojure,reagent-project,2015-10-27,3,2,"#{""dmitri.sotnikov@gmail.com"" ""bobby.eickhoff@kroger.com""}",1005.0,43
+Clojure,reagent-project,2015-10-28,2,2,"#{""holmsand@gmail.com"" ""jr@juanpatten.com""}",1007.0,44
+Clojure,reagent-project,2015-10-29,5,1,"#{""dmitri.sotnikov@gmail.com""}",1012.0,44
+Clojure,reagent-project,2015-10-30,2,1,"#{""holmsand@gmail.com""}",1014.0,44
+Clojure,reagent-project,2015-11-02,3,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1017.0,44
+Clojure,reagent-project,2015-11-03,4,2,"#{""edvorg@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1021.0,44
+Clojure,reagent-project,2015-11-04,2,1,"#{""dmitri.sotnikov@gmail.com""}",1023.0,44
+Clojure,reagent-project,2015-11-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",1024.0,44
+Clojure,reagent-project,2015-11-10,3,1,"#{""dmitri.sotnikov@gmail.com""}",1027.0,44
+Clojure,reagent-project,2015-11-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1028.0,44
+Clojure,reagent-project,2015-11-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1029.0,44
+Clojure,reagent-project,2015-11-18,2,1,"#{""dmitri.sotnikov@uhn.on.ca""}",1031.0,44
+Clojure,reagent-project,2015-11-20,3,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1034.0,44
+Clojure,reagent-project,2015-11-21,3,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1037.0,44
+Clojure,reagent-project,2015-11-22,3,1,"#{""ken@restivo.org""}",1040.0,45
+Clojure,reagent-project,2015-11-24,4,2,"#{""ken@restivo.org"" ""dmitri.sotnikov@gmail.com""}",1044.0,45
+Clojure,reagent-project,2015-11-25,5,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1049.0,45
+Clojure,reagent-project,2015-11-26,2,2,"#{""mikecampo@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1051.0,46
+Clojure,reagent-project,2015-12-06,1,1,"#{""holmsand@gmail.com""}",1052.0,46
+Clojure,reagent-project,2015-12-07,3,1,"#{""holmsand@gmail.com""}",1055.0,46
+Clojure,reagent-project,2015-12-09,5,1,"#{""holmsand@gmail.com""}",1060.0,46
+Clojure,reagent-project,2015-12-14,1,1,"#{""holmsand@gmail.com""}",1061.0,46
+Clojure,reagent-project,2015-12-16,2,2,"#{""gadfly361@gmail.com"" ""holmsand@gmail.com""}",1063.0,46
+Clojure,reagent-project,2015-12-18,2,1,"#{""holmsand@gmail.com""}",1065.0,46
+Clojure,reagent-project,2015-12-21,7,1,"#{""holmsand@gmail.com""}",1072.0,46
+Clojure,reagent-project,2015-12-22,2,1,"#{""gadfly361@gmail.com""}",1074.0,46
+Clojure,reagent-project,2015-12-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",1075.0,46
+Clojure,reagent-project,2016-01-01,2,2,"#{""dmitri.sotnikov@gmail.com"" ""john.downs@acm.org""}",1077.0,47
+Clojure,reagent-project,2016-01-07,1,1,"#{""yayitswei@gmail.com""}",1078.0,48
+Clojure,reagent-project,2016-01-12,2,1,"#{""zjhmale@gmail.com""}",1080.0,49
+Clojure,reagent-project,2016-01-14,5,1,"#{""dmitri.sotnikov@gmail.com""}",1085.0,49
+Clojure,reagent-project,2016-01-15,5,1,"#{""zjhmale@gmail.com""}",1090.0,49
+Clojure,reagent-project,2016-01-18,9,2,"#{""zjhmale@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1099.0,49
+Clojure,reagent-project,2016-01-19,12,2,"#{""zjhmale@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1111.0,49
+Clojure,reagent-project,2016-01-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",1112.0,49
+Clojure,reagent-project,2016-01-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",1113.0,49
+Clojure,reagent-project,2016-01-30,4,2,"#{""zjhmale@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1117.0,49
+Clojure,reagent-project,2016-01-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1118.0,49
+Clojure,reagent-project,2016-02-02,5,2,"#{""soeren.knudsen@formpipe.com"" ""dmitri.sotnikov@gmail.com""}",1123.0,50
+Clojure,reagent-project,2016-02-06,3,2,"#{""frozenlock@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1126.0,50
+Clojure,reagent-project,2016-02-11,3,1,"#{""dmitri.sotnikov@gmail.com""}",1129.0,50
+Clojure,reagent-project,2016-02-12,1,1,"#{""karl.westin@gmail.com""}",1130.0,51
+Clojure,reagent-project,2016-02-13,2,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1132.0,51
+Clojure,reagent-project,2016-02-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1133.0,51
+Clojure,reagent-project,2016-02-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1134.0,51
+Clojure,reagent-project,2016-02-19,2,1,"#{""gadfly361@gmail.com""}",1136.0,51
+Clojure,reagent-project,2016-02-24,1,1,"#{""holmsand@gmail.com""}",1137.0,51
+Clojure,reagent-project,2016-02-27,2,2,"#{""runningskull@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1139.0,52
+Clojure,reagent-project,2016-03-02,4,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1143.0,52
+Clojure,reagent-project,2016-03-03,2,1,"#{""dmitri.sotnikov@gmail.com""}",1145.0,52
+Clojure,reagent-project,2016-03-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1146.0,52
+Clojure,reagent-project,2016-03-14,1,1,"#{""gadfly361@gmail.com""}",1147.0,52
+Clojure,reagent-project,2016-03-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1148.0,52
+Clojure,reagent-project,2016-03-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",1149.0,52
+Clojure,reagent-project,2016-03-29,1,1,"#{""yatesj@casinorama.com""}",1150.0,53
+Clojure,reagent-project,2016-03-30,1,1,"#{""gadfly361@gmail.com""}",1151.0,53
+Clojure,reagent-project,2016-04-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",1152.0,53
+Clojure,reagent-project,2016-04-08,2,1,"#{""dmitri.sotnikov@gmail.com""}",1154.0,53
+Clojure,reagent-project,2016-04-10,1,1,"#{""vincent@docsolver.com""}",1155.0,54
+Clojure,reagent-project,2016-04-16,1,1,"#{""tatu.tarvainen@me.com""}",1156.0,55
+Clojure,reagent-project,2016-04-26,3,2,"#{""m@ku1ik.com"" ""dmitri.sotnikov@gmail.com""}",1159.0,56
+Clojure,reagent-project,2016-04-27,3,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1162.0,57
+Clojure,reagent-project,2016-04-28,4,2,"#{""mike.thompson+github@day8.com.au"" ""dmitri.sotnikov@gmail.com""}",1166.0,58
+Clojure,reagent-project,2016-04-29,6,1,"#{""holmsand@gmail.com""}",1172.0,58
+Clojure,reagent-project,2016-04-30,6,2,"#{""rohit.aggarwal@gmail.com"" ""holmsand@gmail.com""}",1178.0,58
+Clojure,reagent-project,2016-05-01,4,1,"#{""holmsand@gmail.com""}",1182.0,58
+Clojure,reagent-project,2016-05-02,4,1,"#{""holmsand@gmail.com""}",1186.0,58
+Clojure,reagent-project,2016-05-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",1187.0,58
+Clojure,reagent-project,2016-05-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",1189.0,58
+Clojure,reagent-project,2016-05-10,3,2,"#{""dmitri.sotnikov@gmail.com"" ""edipofederle@gmail.com""}",1192.0,59
+Clojure,reagent-project,2016-05-16,1,1,"#{""gadfly361@gmail.com""}",1193.0,59
+Clojure,reagent-project,2016-05-18,1,1,"#{""desk@danielcompton.net""}",1194.0,59
+Clojure,reagent-project,2016-05-20,2,1,"#{""mike.thompson+github@day8.com.au""}",1196.0,59
+Clojure,reagent-project,2016-05-22,1,1,"#{""rohit.aggarwal@gmail.com""}",1197.0,59
+Clojure,reagent-project,2016-05-26,3,1,"#{""holmsand@gmail.com""}",1200.0,59
+Clojure,reagent-project,2016-05-27,4,1,"#{""holmsand@gmail.com""}",1204.0,59
+Clojure,reagent-project,2016-05-31,2,1,"#{""holmsand@gmail.com""}",1206.0,59
+Clojure,reagent-project,2016-06-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1207.0,59
+Clojure,reagent-project,2016-06-02,2,1,"#{""dmitri.sotnikov@gmail.com""}",1209.0,59
+Clojure,reagent-project,2016-06-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1210.0,59
+Clojure,reagent-project,2016-06-07,3,1,"#{""holmsand@gmail.com""}",1213.0,59
+Clojure,reagent-project,2016-06-08,2,1,"#{""holmsand@gmail.com""}",1215.0,59
+Clojure,reagent-project,2016-06-09,4,2,"#{""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1219.0,59
+Clojure,reagent-project,2016-06-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",1220.0,59
+Clojure,reagent-project,2016-06-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1221.0,59
+Clojure,reagent-project,2016-06-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",1222.0,59
+Clojure,reagent-project,2016-06-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1223.0,59
+Clojure,reagent-project,2016-06-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1224.0,59
+Clojure,reagent-project,2016-06-23,2,2,"#{""dmitri.sotnikov@gmail.com"" ""kollmann_jannik@yahoo.de""}",1226.0,60
+Clojure,reagent-project,2016-07-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1227.0,60
+Clojure,reagent-project,2016-07-03,3,1,"#{""dmitri.sotnikov@gmail.com""}",1230.0,60
+Clojure,reagent-project,2016-07-09,2,2,"#{""gadfly361@gmail.com"" ""danielprince@hotmail.co.uk""}",1232.0,61
+Clojure,reagent-project,2016-07-13,2,2,"#{""rohit.aggarwal@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1234.0,61
+Clojure,reagent-project,2016-07-14,5,1,"#{""holmsand@gmail.com""}",1239.0,61
+Clojure,reagent-project,2016-08-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1240.0,61
+Clojure,reagent-project,2016-08-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1241.0,61
+Clojure,reagent-project,2016-08-25,2,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1243.0,61
+Clojure,reagent-project,2016-09-13,1,1,"#{""juho.teperi@iki.fi""}",1244.0,61
+Clojure,reagent-project,2016-09-14,4,3,"#{""juho.teperi@iki.fi"" ""holmsand@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1248.0,61
+Clojure,reagent-project,2016-09-16,2,1,"#{""holmsand@gmail.com""}",1250.0,61
+Clojure,reagent-project,2016-09-23,1,1,"#{""kazuhiroh+karad@gmail.com""}",1251.0,62
+Clojure,reagent-project,2016-10-15,2,1,"#{""joseluisdacruz@gmail.com""}",1253.0,63
+Clojure,reagent-project,2016-10-21,1,1,"#{""desk@danielcompton.net""}",1254.0,63
+Clojure,reagent-project,2016-10-24,2,1,"#{""joseluisdacruz@gmail.com""}",1256.0,63
+Clojure,reagent-project,2016-10-26,3,1,"#{""mike.thompson+github@day8.com.au""}",1259.0,63
+Clojure,reagent-project,2016-10-30,1,1,"#{""viebel@gmail.com""}",1260.0,64
+Clojure,reagent-project,2016-11-08,1,1,"#{""desk@danielcompton.net""}",1261.0,64
+Clojure,reagent-project,2016-11-17,2,1,"#{""juho.teperi@iki.fi""}",1263.0,64
+Clojure,reagent-project,2016-11-21,3,1,"#{""dmitri.sotnikov@gmail.com""}",1266.0,64
+Clojure,reagent-project,2016-11-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1267.0,64
+Clojure,reagent-project,2016-12-05,1,1,"#{""matthew.gilliard@gmail.com""}",1268.0,65
+Clojure,reagent-project,2016-12-06,1,1,"#{""gadfly361@gmail.com""}",1269.0,65
+Clojure,reagent-project,2016-12-20,2,2,"#{""gadfly361@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1271.0,65
+Clojure,reagent-project,2016-12-21,1,1,"#{""mail@abhishek.geek.nz""}",1272.0,66
+Clojure,reagent-project,2016-12-29,1,1,"#{""viebel@gmail.com""}",1273.0,66
+Clojure,reagent-project,2017-01-02,1,1,"#{""viebel@gmail.com""}",1274.0,66
+Clojure,reagent-project,2017-01-05,3,2,"#{""Harleqin@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1277.0,67
+Clojure,reagent-project,2017-01-09,1,1,"#{""terje@in-progress.com""}",1278.0,68
+Clojure,reagent-project,2017-01-30,2,1,"#{""gadfly361@gmail.com""}",1280.0,68
+Clojure,reagent-project,2017-01-31,1,1,"#{""yatesj9@gmail.com""}",1281.0,69
+Clojure,reagent-project,2017-02-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1282.0,69
+Clojure,reagent-project,2017-03-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",1283.0,69
+Clojure,reagent-project,2017-03-10,6,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1289.0,70
+Clojure,reagent-project,2017-03-11,11,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1300.0,70
+Clojure,reagent-project,2017-03-19,3,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1303.0,70
+Clojure,reagent-project,2017-03-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1304.0,70
+Clojure,reagent-project,2017-04-27,3,2,"#{""mancini.lucas@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1307.0,71
+Clojure,reagent-project,2017-04-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",1309.0,71
+Clojure,reagent-project,2017-05-15,1,1,"#{""teeepeli@gmail.com""}",1310.0,71
+Clojure,reagent-project,2017-05-19,8,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1318.0,71
+Clojure,reagent-project,2017-06-01,3,2,"#{""contact@jeaye.com"" ""dmitri.sotnikov@gmail.com""}",1321.0,72
+Clojure,reagent-project,2017-06-06,2,1,"#{""juho.teperi@iki.fi""}",1323.0,72
+Clojure,reagent-project,2017-06-27,10,4,"#{""teeepeli@gmail.com"" ""gadfly361@gmail.com"" ""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1333.0,72
+Clojure,reagent-project,2017-07-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1334.0,72
+Clojure,reagent-project,2017-07-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",1335.0,72
+Clojure,reagent-project,2017-07-09,2,1,"#{""juho.teperi@iki.fi""}",1337.0,72
+Clojure,reagent-project,2017-07-12,3,1,"#{""juho.teperi@iki.fi""}",1340.0,72
+Clojure,reagent-project,2017-07-13,1,1,"#{""juho.teperi@iki.fi""}",1341.0,72
+Clojure,reagent-project,2017-07-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",1342.0,72
+Clojure,reagent-project,2017-07-29,5,1,"#{""juho.teperi@iki.fi""}",1347.0,72
+Clojure,reagent-project,2017-07-30,1,1,"#{""juho.teperi@iki.fi""}",1348.0,72
+Clojure,reagent-project,2017-07-31,5,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1353.0,72
+Clojure,reagent-project,2017-08-01,2,1,"#{""teeepeli@gmail.com""}",1355.0,72
+Clojure,reagent-project,2017-08-07,1,1,"#{""teeepeli@gmail.com""}",1356.0,72
+Clojure,reagent-project,2017-08-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1357.0,72
+Clojure,reagent-project,2017-08-16,3,1,"#{""dmitri.sotnikov@gmail.com""}",1360.0,72
+Clojure,reagent-project,2017-08-17,3,1,"#{""dmitri.sotnikov@gmail.com""}",1363.0,72
+Clojure,reagent-project,2017-08-30,1,1,"#{""juho.teperi@iki.fi""}",1364.0,72
+Clojure,reagent-project,2017-09-27,1,1,"#{""shunsuke.tadokoro@bizreach.co.jp""}",1365.0,73
+Clojure,reagent-project,2017-09-28,5,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1370.0,73
+Clojure,reagent-project,2017-09-29,3,1,"#{""juho.teperi@iki.fi""}",1373.0,73
+Clojure,reagent-project,2017-10-05,1,1,"#{""roman.fredrik@gmail.com""}",1374.0,74
+Clojure,reagent-project,2017-10-12,12,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1386.0,74
+Clojure,reagent-project,2017-10-13,17,2,"#{""abhishek.reddy@smxemail.com"" ""juho.teperi@iki.fi""}",1403.0,75
+Clojure,reagent-project,2017-10-14,6,1,"#{""juho.teperi@iki.fi""}",1409.0,75
+Clojure,reagent-project,2017-10-16,1,1,"#{""deg@degel.com""}",1410.0,76
+Clojure,reagent-project,2017-10-18,3,1,"#{""juho.teperi@iki.fi""}",1413.0,76
+Clojure,reagent-project,2017-10-20,8,3,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi"" ""adrian.gruntkowski@gmail.com""}",1421.0,76
+Clojure,reagent-project,2017-10-21,1,1,"#{""juho.teperi@iki.fi""}",1422.0,76
+Clojure,reagent-project,2017-10-22,1,1,"#{""juho.teperi@iki.fi""}",1423.0,76
+Clojure,reagent-project,2017-10-26,1,1,"#{""dijonkitchen@users.noreply.github.com""}",1424.0,77
+Clojure,reagent-project,2017-10-27,3,2,"#{""31179812+jacekschae@users.noreply.github.com"" ""teeepeli@gmail.com""}",1427.0,78
+Clojure,reagent-project,2017-10-31,1,1,"#{""teeepeli@gmail.com""}",1428.0,78
+Clojure,reagent-project,2017-11-02,3,1,"#{""juho.teperi@iki.fi""}",1431.0,78
+Clojure,reagent-project,2017-11-08,4,1,"#{""juho.teperi@iki.fi""}",1435.0,78
+Clojure,reagent-project,2017-11-09,1,1,"#{""juho.teperi@iki.fi""}",1436.0,78
+Clojure,reagent-project,2017-11-18,4,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1440.0,78
+Clojure,reagent-project,2017-11-19,1,1,"#{""madland.stapnes@gmail.com""}",1441.0,79
+Clojure,reagent-project,2017-11-23,1,1,"#{""juho.teperi@iki.fi""}",1442.0,79
+Clojure,reagent-project,2017-11-28,8,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1450.0,79
+Clojure,reagent-project,2017-12-04,1,1,"#{""juho.teperi@iki.fi""}",1451.0,79
+Clojure,reagent-project,2017-12-12,1,1,"#{""juho.teperi@iki.fi""}",1452.0,79
+Clojure,reagent-project,2017-12-20,2,2,"#{""31179812+jacekschae@users.noreply.github.com"" ""juho.teperi@iki.fi""}",1454.0,79
+Clojure,reagent-project,2017-12-21,6,3,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1460.0,79
+Clojure,reagent-project,2018-01-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1461.0,79
+Clojure,reagent-project,2018-01-08,1,1,"#{""teeepeli@gmail.com""}",1462.0,79
+Clojure,reagent-project,2018-01-09,2,1,"#{""teeepeli@gmail.com""}",1464.0,79
+Clojure,reagent-project,2018-01-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",1465.0,79
+Clojure,reagent-project,2018-02-05,1,1,"#{""teeepeli@gmail.com""}",1466.0,79
+Clojure,reagent-project,2018-02-13,29,1,"#{""mike.thompson+github@day8.com.au""}",1495.0,79
+Clojure,reagent-project,2018-02-16,2,1,"#{""mike.thompson+github@day8.com.au""}",1497.0,79
+Clojure,reagent-project,2018-02-20,4,2,"#{""lee.justin.m@gmail.com"" ""gadfly361@gmail.com""}",1501.0,80
+Clojure,reagent-project,2018-02-21,1,1,"#{""desk@danielcompton.net""}",1502.0,80
+Clojure,reagent-project,2018-02-23,3,2,"#{""AdamNiederer@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1505.0,81
+Clojure,reagent-project,2018-02-26,6,3,"#{""lee.justin.m@gmail.com"" ""gadfly361@gmail.com"" ""pesterhazy@gmail.com""}",1511.0,82
+Clojure,reagent-project,2018-02-27,11,2,"#{""gadfly361@gmail.com"" ""mike.thompson+github@day8.com.au""}",1522.0,82
+Clojure,reagent-project,2018-03-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1523.0,82
+Clojure,reagent-project,2018-03-06,1,1,"#{""efraimmaugusto@gmail.com""}",1524.0,83
+Clojure,reagent-project,2018-03-08,4,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1528.0,83
+Clojure,reagent-project,2018-03-12,1,1,"#{""juho.teperi@iki.fi""}",1529.0,83
+Clojure,reagent-project,2018-03-13,9,1,"#{""juho.teperi@iki.fi""}",1538.0,83
+Clojure,reagent-project,2018-03-14,4,3,"#{""teeepeli@gmail.com"" ""lee.justin.m@gmail.com"" ""nicholasbardy@gmail.com""}",1542.0,84
+Clojure,reagent-project,2018-03-15,1,1,"#{""mike.thompson+github@day8.com.au""}",1543.0,84
+Clojure,reagent-project,2018-03-24,3,1,"#{""teeepeli@gmail.com""}",1546.0,84
+Clojure,reagent-project,2018-03-26,5,3,"#{""juho.teperi@iki.fi"" ""mike.thompson+github@day8.com.au"" ""dmitri.sotnikov@gmail.com""}",1551.0,84
+Clojure,reagent-project,2018-03-30,1,1,"#{""juho.teperi@iki.fi""}",1552.0,84
+Clojure,reagent-project,2018-04-03,11,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1563.0,84
+Clojure,reagent-project,2018-04-04,7,4,"#{""ykk@peruna.fi"" ""teeepeli@gmail.com"" ""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1570.0,85
+Clojure,reagent-project,2018-04-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",1572.0,85
+Clojure,reagent-project,2018-04-11,3,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1575.0,85
+Clojure,reagent-project,2018-04-12,1,1,"#{""mike.thompson+github@day8.com.au""}",1576.0,85
+Clojure,reagent-project,2018-04-16,7,1,"#{""juho.teperi@iki.fi""}",1583.0,85
+Clojure,reagent-project,2018-04-17,2,1,"#{""juho.teperi@iki.fi""}",1585.0,85
+Clojure,reagent-project,2018-04-19,11,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1596.0,85
+Clojure,reagent-project,2018-04-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1597.0,85
+Clojure,reagent-project,2018-04-23,2,2,"#{""teeepeli@gmail.com"" ""stask@me.com""}",1599.0,86
+Clojure,reagent-project,2018-04-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1600.0,86
+Clojure,reagent-project,2018-04-27,4,1,"#{""juho.teperi@iki.fi""}",1604.0,86
+Clojure,reagent-project,2018-05-04,15,2,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi""}",1619.0,86
+Clojure,reagent-project,2018-05-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1620.0,86
+Clojure,reagent-project,2018-05-15,2,1,"#{""juho.teperi@iki.fi""}",1622.0,86
+Clojure,reagent-project,2018-05-17,4,2,"#{""juho.teperi@iki.fi"" ""cloojure@gmail.com""}",1626.0,87
+Clojure,reagent-project,2018-05-18,2,1,"#{""juho.teperi@iki.fi""}",1628.0,87
+Clojure,reagent-project,2018-05-21,3,2,"#{""juho.teperi@iki.fi"" ""sajkoooo@gmail.com""}",1631.0,88
+Clojure,reagent-project,2018-05-27,7,4,"#{""gadfly361@gmail.com"" ""juho.teperi@iki.fi"" ""codeasone@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1638.0,89
+Clojure,reagent-project,2018-05-30,1,1,"#{""juho.teperi@iki.fi""}",1639.0,89
+Clojure,reagent-project,2018-06-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1640.0,89
+Clojure,reagent-project,2018-06-06,2,2,"#{""juho.teperi@iki.fi"" ""sajkoooo@gmail.com""}",1642.0,89
+Clojure,reagent-project,2018-06-14,1,1,"#{""juho.teperi@iki.fi""}",1643.0,89
+Clojure,reagent-project,2018-06-15,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1644.0,90
+Clojure,reagent-project,2018-06-16,3,1,"#{""juho.teperi@iki.fi""}",1647.0,90
+Clojure,reagent-project,2018-06-17,6,1,"#{""juho.teperi@iki.fi""}",1653.0,90
+Clojure,reagent-project,2018-06-18,2,1,"#{""juho.teperi@iki.fi""}",1655.0,90
+Clojure,reagent-project,2018-06-21,1,1,"#{""avi.flax@fundingcircle.com""}",1656.0,91
+Clojure,reagent-project,2018-06-23,1,1,"#{""juho.teperi@iki.fi""}",1657.0,91
+Clojure,reagent-project,2018-06-25,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1658.0,91
+Clojure,reagent-project,2018-06-27,3,1,"#{""juho.teperi@iki.fi""}",1661.0,91
+Clojure,reagent-project,2018-07-11,2,1,"#{""juho.teperi@iki.fi""}",1663.0,91
+Clojure,reagent-project,2018-07-13,1,1,"#{""khardenstine@gmail.com""}",1664.0,92
+Clojure,reagent-project,2018-07-14,1,1,"#{""smnplk@gmail.com""}",1665.0,93
+Clojure,reagent-project,2018-07-15,1,1,"#{""juho.teperi@iki.fi""}",1666.0,93
+Clojure,reagent-project,2018-07-20,2,1,"#{""lee.justin.m@gmail.com""}",1668.0,93
+Clojure,reagent-project,2018-07-21,1,1,"#{""juho.teperi@iki.fi""}",1669.0,93
+Clojure,reagent-project,2018-07-29,1,1,"#{""rnagpal@rockportnetworks.com""}",1670.0,94
+Clojure,reagent-project,2018-07-30,1,1,"#{""rnagpal@rockportnetworks.com""}",1671.0,94
+Clojure,reagent-project,2018-07-31,1,1,"#{""rnagpal@rockportnetworks.com""}",1672.0,94
+Clojure,reagent-project,2018-08-01,5,3,"#{""mikkel@klokke.dk"" ""robinnagpal.tiet@gmail.com"" ""rnagpal@rockportnetworks.com""}",1677.0,96
+Clojure,reagent-project,2018-08-02,4,1,"#{""rnagpal@rockportnetworks.com""}",1681.0,96
+Clojure,reagent-project,2018-08-03,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1682.0,96
+Clojure,reagent-project,2018-08-05,1,1,"#{""juho.teperi@iki.fi""}",1683.0,96
+Clojure,reagent-project,2018-08-09,3,2,"#{""dmitri.sotnikov@gmail.com"" ""rvponomarev@yamoney.ru""}",1686.0,97
+Clojure,reagent-project,2018-08-17,1,1,"#{""dijonkitchen@users.noreply.github.com""}",1687.0,97
+Clojure,reagent-project,2018-08-21,1,1,"#{""juho.teperi@iki.fi""}",1688.0,97
+Clojure,reagent-project,2018-09-01,2,2,"#{""juho.teperi@iki.fi"" ""manawardhana@bcs.org""}",1690.0,98
+Clojure,reagent-project,2018-09-02,1,1,"#{""rm07ru@gmail.com""}",1691.0,99
+Clojure,reagent-project,2018-09-03,1,1,"#{""juho.teperi@iki.fi""}",1692.0,99
+Clojure,reagent-project,2018-09-11,2,1,"#{""kev@codingthat.com""}",1694.0,100
+Clojure,reagent-project,2018-09-17,2,1,"#{""gadfly361@gmail.com""}",1696.0,100
+Clojure,reagent-project,2018-09-26,1,1,"#{""juho.teperi@iki.fi""}",1697.0,100
+Clojure,reagent-project,2018-10-12,2,1,"#{""juho.teperi@iki.fi""}",1699.0,100
+Clojure,reagent-project,2018-10-16,3,2,"#{""dmitri.sotnikov@gmail.com"" ""pez@pezius.com""}",1702.0,101
+Clojure,reagent-project,2018-10-19,4,2,"#{""juho.teperi@iki.fi"" ""cloojure@gmail.com""}",1706.0,101
+Clojure,reagent-project,2018-10-20,1,1,"#{""juho.teperi@iki.fi""}",1707.0,101
+Clojure,reagent-project,2018-10-21,2,2,"#{""dmitri.sotnikov@gmail.com"" ""pez@pezius.com""}",1709.0,101
+Clojure,reagent-project,2018-10-22,1,1,"#{""pez@pezius.com""}",1710.0,101
+Clojure,reagent-project,2018-10-24,1,1,"#{""pez@pezius.com""}",1711.0,101
+Clojure,reagent-project,2018-10-26,3,1,"#{""juho.teperi@iki.fi""}",1714.0,101
+Clojure,reagent-project,2018-10-27,5,2,"#{""dmitri.sotnikov@gmail.com"" ""pez@pezius.com""}",1719.0,101
+Clojure,reagent-project,2018-10-28,1,1,"#{""mail@nondv.io""}",1720.0,102
+Clojure,reagent-project,2018-10-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",1722.0,102
+Clojure,reagent-project,2018-11-04,1,1,"#{""cloojure@gmail.com""}",1723.0,102
+Clojure,reagent-project,2018-11-05,6,3,"#{""juho.teperi@iki.fi"" ""cloojure@gmail.com"" ""dmitri.sotnikov@uhn.ca""}",1729.0,102
+Clojure,reagent-project,2018-11-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",1730.0,102
+Clojure,reagent-project,2018-11-14,8,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1738.0,102
+Clojure,reagent-project,2018-11-15,1,1,"#{""e.a.latuhin@gmail.com""}",1739.0,103
+Clojure,reagent-project,2018-11-23,4,2,"#{""kixxx1@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1743.0,104
+Clojure,reagent-project,2018-12-03,1,1,"#{""james.berlage@gmail.com""}",1744.0,105
+Clojure,reagent-project,2018-12-04,3,2,"#{""james.berlage@gmail.com"" ""taing.vincent@gmail.com""}",1747.0,106
+Clojure,reagent-project,2018-12-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1748.0,106
+Clojure,reagent-project,2018-12-07,1,1,"#{""jasonmm@users.noreply.github.com""}",1749.0,107
+Clojure,reagent-project,2018-12-08,1,1,"#{""juho.teperi@iki.fi""}",1750.0,107
+Clojure,reagent-project,2018-12-09,6,2,"#{""juho.teperi@iki.fi"" ""tiyotiyouda@gmail.com""}",1756.0,108
+Clojure,reagent-project,2018-12-16,3,1,"#{""poernahi@gmail.com""}",1759.0,109
+Clojure,reagent-project,2018-12-31,27,1,"#{""juho.teperi@iki.fi""}",1786.0,109
+Clojure,reagent-project,2019-01-03,3,1,"#{""juho.teperi@iki.fi""}",1789.0,109
+Clojure,reagent-project,2019-01-04,1,1,"#{""juho.teperi@iki.fi""}",1790.0,109
+Clojure,reagent-project,2019-01-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1791.0,109
+Clojure,reagent-project,2019-01-10,2,1,"#{""juho.teperi@iki.fi""}",1793.0,109
+Clojure,reagent-project,2019-01-31,5,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1798.0,109
+Clojure,reagent-project,2019-02-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1799.0,109
+Clojure,reagent-project,2019-02-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",1801.0,109
+Clojure,reagent-project,2019-02-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1802.0,109
+Clojure,reagent-project,2019-02-07,3,1,"#{""juho.teperi@iki.fi""}",1805.0,109
+Clojure,reagent-project,2019-02-14,2,1,"#{""dmitri.sotnikov@gmail.com""}",1807.0,109
+Clojure,reagent-project,2019-02-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",1809.0,109
+Clojure,reagent-project,2019-02-19,1,1,"#{""e.a.latuhin@gmail.com""}",1810.0,109
+Clojure,reagent-project,2019-02-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1811.0,109
+Clojure,reagent-project,2019-02-22,1,1,"#{""mohit.thatte@gmail.com""}",1812.0,110
+Clojure,reagent-project,2019-02-23,1,1,"#{""juho.teperi@iki.fi""}",1813.0,110
+Clojure,reagent-project,2019-03-02,1,1,"#{""juho.teperi@iki.fi""}",1814.0,110
+Clojure,reagent-project,2019-03-03,2,2,"#{""juho.teperi@iki.fi"" ""joonas.tiala@gmail.com""}",1816.0,111
+Clojure,reagent-project,2019-03-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1817.0,111
+Clojure,reagent-project,2019-03-08,1,1,"#{""r6eve179f@gmail.com""}",1818.0,112
+Clojure,reagent-project,2019-03-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1819.0,112
+Clojure,reagent-project,2019-03-28,3,2,"#{""christian.egli@sbs.ch"" ""dmitri.sotnikov@gmail.com""}",1822.0,113
+Clojure,reagent-project,2019-04-26,3,1,"#{""juho.teperi@iki.fi""}",1825.0,113
+Clojure,reagent-project,2019-04-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1826.0,113
+Clojure,reagent-project,2019-05-01,3,2,"#{""calebmacdonaldblack@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1829.0,114
+Clojure,reagent-project,2019-05-08,1,1,"#{""juho.teperi@iki.fi""}",1830.0,114
+Clojure,reagent-project,2019-05-09,2,2,"#{""hkdeven@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1832.0,115
+Clojure,reagent-project,2019-05-23,5,1,"#{""juho.teperi@iki.fi""}",1837.0,115
+Clojure,reagent-project,2019-05-31,5,2,"#{""xmao@tableau.com"" ""dmitri.sotnikov@gmail.com""}",1842.0,116
+Clojure,reagent-project,2019-06-04,1,1,"#{""funtain@me.com""}",1843.0,117
+Clojure,reagent-project,2019-06-05,1,1,"#{""juho.teperi@iki.fi""}",1844.0,117
+Clojure,reagent-project,2019-06-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1845.0,117
+Clojure,reagent-project,2019-06-13,2,2,"#{""juho.teperi@iki.fi"" ""2knust@informatik.uni-hamburg.de""}",1847.0,118
+Clojure,reagent-project,2019-06-14,4,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1851.0,118
+Clojure,reagent-project,2019-06-30,2,1,"#{""ianskerins@gmail.com""}",1853.0,119
+Clojure,reagent-project,2019-07-02,2,1,"#{""juho.teperi@iki.fi""}",1855.0,119
+Clojure,reagent-project,2019-07-03,2,1,"#{""dmitri.sotnikov@gmail.com""}",1857.0,119
+Clojure,reagent-project,2019-07-29,1,1,"#{""thomasmattacchione@gmail.com""}",1858.0,120
+Clojure,reagent-project,2019-08-13,7,2,"#{""juho.teperi@iki.fi"" ""isaac@superstruct.nz""}",1865.0,121
+Clojure,reagent-project,2019-08-14,3,1,"#{""juho.teperi@iki.fi""}",1868.0,121
+Clojure,reagent-project,2019-08-19,2,1,"#{""juho.teperi@iki.fi""}",1870.0,121
+Clojure,reagent-project,2019-08-29,2,2,"#{""juho.teperi@iki.fi"" ""github@jahson.net""}",1872.0,122
+Clojure,reagent-project,2019-09-10,1,1,"#{""juho.teperi@iki.fi""}",1873.0,122
+Clojure,reagent-project,2019-09-12,3,1,"#{""juho.teperi@iki.fi""}",1876.0,122
+Clojure,reagent-project,2019-10-02,3,1,"#{""juho.teperi@iki.fi""}",1879.0,122
+Clojure,reagent-project,2019-10-09,1,1,"#{""juho.teperi@iki.fi""}",1880.0,122
+Clojure,reagent-project,2019-10-17,6,2,"#{""juho.teperi@iki.fi"" ""38503580+watkinsm@users.noreply.github.com""}",1886.0,123
+Clojure,reagent-project,2019-10-19,1,1,"#{""iyed.bennour@gmail.com""}",1887.0,124
+Clojure,reagent-project,2019-10-20,1,1,"#{""juho.teperi@iki.fi""}",1888.0,124
+Clojure,reagent-project,2019-10-25,4,1,"#{""juho.teperi@iki.fi""}",1892.0,124
+Clojure,reagent-project,2019-11-19,6,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1898.0,124
+Clojure,reagent-project,2019-11-24,2,1,"#{""juho.teperi@iki.fi""}",1900.0,124
+Clojure,reagent-project,2019-12-12,1,1,"#{""arne@arnebrasseur.net""}",1901.0,125
+Clojure,reagent-project,2019-12-16,1,1,"#{""juho.teperi@iki.fi""}",1902.0,125
+Clojure,reagent-project,2019-12-17,12,1,"#{""juho.teperi@iki.fi""}",1914.0,125
+Clojure,reagent-project,2019-12-28,2,2,"#{""desk@danielcompton.net"" ""juho.teperi@iki.fi""}",1916.0,125
+Clojure,reagent-project,2020-01-02,2,2,"#{""juho.teperi@iki.fi"" ""dosbol.zhantolin@gmail.com""}",1918.0,126
+Clojure,reagent-project,2020-01-03,1,1,"#{""dazld@users.noreply.github.com""}",1919.0,127
+Clojure,reagent-project,2020-01-04,1,1,"#{""dosbol.zhantolin@gmail.com""}",1920.0,127
+Clojure,reagent-project,2020-01-05,1,1,"#{""mike.thompson+github@day8.com.au""}",1921.0,127
+Clojure,reagent-project,2020-01-10,3,2,"#{""jerry82422@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1924.0,128
+Clojure,reagent-project,2020-01-15,7,1,"#{""juho.teperi@iki.fi""}",1931.0,128
+Clojure,reagent-project,2020-02-03,6,1,"#{""juho.teperi@iki.fi""}",1937.0,128
+Clojure,reagent-project,2020-02-05,4,1,"#{""juho.teperi@iki.fi""}",1941.0,128
+Clojure,reagent-project,2020-02-06,5,1,"#{""juho.teperi@iki.fi""}",1946.0,128
+Clojure,reagent-project,2020-02-14,1,1,"#{""juho.teperi@iki.fi""}",1947.0,128
+Clojure,reagent-project,2020-02-28,7,1,"#{""juho.teperi@iki.fi""}",1954.0,128
+Clojure,reagent-project,2020-03-05,2,1,"#{""juho.teperi@iki.fi""}",1956.0,128
+Clojure,reagent-project,2020-03-06,3,1,"#{""juho.teperi@iki.fi""}",1959.0,128
+Clojure,reagent-project,2020-03-07,1,1,"#{""achikin@apstra.com""}",1960.0,129
+Clojure,reagent-project,2020-03-15,1,1,"#{""dominicfreeston@users.noreply.github.com""}",1961.0,130
+Clojure,reagent-project,2020-03-16,1,1,"#{""juho.teperi@iki.fi""}",1962.0,130
+Clojure,reagent-project,2020-03-18,2,2,"#{""juho.teperi@iki.fi"" ""meguru.mokke@gmail.com""}",1964.0,131
+Clojure,reagent-project,2020-03-20,1,1,"#{""achikin@apstra.com""}",1965.0,131
+Clojure,reagent-project,2020-03-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",1967.0,131
+Clojure,reagent-project,2020-03-22,12,1,"#{""juho.teperi@iki.fi""}",1979.0,131
+Clojure,reagent-project,2020-03-24,2,1,"#{""juho.teperi@iki.fi""}",1981.0,131
+Clojure,reagent-project,2020-03-28,9,2,"#{""juho.teperi@iki.fi"" ""acobster@users.noreply.github.com""}",1990.0,132
+Clojure,reagent-project,2020-03-29,2,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1992.0,132
+Clojure,reagent-project,2020-04-04,5,2,"#{""juho.teperi@iki.fi"" ""franconbiasin@gmail.com""}",1997.0,133
+Clojure,reagent-project,2020-04-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1998.0,133
+Clojure,reagent-project,2020-04-08,1,1,"#{""juho.teperi@iki.fi""}",1999.0,133
+Clojure,reagent-project,2020-04-13,1,1,"#{""juho.teperi@iki.fi""}",2000.0,133
+Clojure,reagent-project,2020-04-15,2,1,"#{""juho.teperi@iki.fi""}",2002.0,133
+Clojure,reagent-project,2020-04-16,8,3,"#{""juho.teperi@iki.fi"" ""wxitb2017@gmail.com"" ""matti@mjhanninen.com""}",2010.0,135
+Clojure,reagent-project,2020-04-17,1,1,"#{""juho.teperi@iki.fi""}",2011.0,135
+Clojure,reagent-project,2020-04-19,4,1,"#{""juho.teperi@iki.fi""}",2015.0,135
+Clojure,reagent-project,2020-04-22,2,2,"#{""kvark.lark@gmail.com"" ""juho.teperi@iki.fi""}",2017.0,136
+Clojure,reagent-project,2020-04-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",2019.0,136
+Clojure,reagent-project,2020-04-26,13,1,"#{""juho.teperi@iki.fi""}",2032.0,136
+Clojure,reagent-project,2020-04-27,2,1,"#{""vitorqb@gmail.com""}",2034.0,137
+Clojure,reagent-project,2020-05-01,4,2,"#{""davidjameshumphreys@gmail.com"" ""juho.teperi@iki.fi""}",2038.0,138
+Clojure,reagent-project,2020-05-03,6,2,"#{""davidjameshumphreys@gmail.com"" ""juho.teperi@iki.fi""}",2044.0,138
+Clojure,reagent-project,2020-05-05,1,1,"#{""43140948+vgautamm@users.noreply.github.com""}",2045.0,139
+Clojure,reagent-project,2020-05-06,4,1,"#{""juho.teperi@iki.fi""}",2049.0,139
+Clojure,reagent-project,2020-05-13,1,1,"#{""juho.teperi@iki.fi""}",2050.0,139
+Clojure,reagent-project,2020-05-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",2051.0,139
+Clojure,reagent-project,2020-05-19,1,1,"#{""juho.teperi@iki.fi""}",2052.0,139
+Clojure,reagent-project,2020-05-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",2053.0,139
+Clojure,reagent-project,2020-06-14,1,1,"#{""juho.teperi@iki.fi""}",2054.0,139
+Clojure,reagent-project,2020-06-30,1,1,"#{""b.tegelund@gmail.com""}",2055.0,140
+Clojure,reagent-project,2020-07-01,1,1,"#{""juho.teperi@iki.fi""}",2056.0,140
+Clojure,reagent-project,2020-07-07,2,1,"#{""dmitri.sotnikov@gmail.com""}",2058.0,140
+Clojure,reagent-project,2020-08-16,6,2,"#{""aeri3@kth.se"" ""dmitri.sotnikov@gmail.com""}",2064.0,141
+Clojure,reagent-project,2020-08-19,2,1,"#{""juho.teperi@iki.fi""}",2066.0,141
+Clojure,reagent-project,2020-08-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",2067.0,141
+Clojure,reagent-project,2020-08-26,1,1,"#{""teodorlu@users.noreply.github.com""}",2068.0,142
+Clojure,reagent-project,2020-09-30,1,1,"#{""juho.teperi@iki.fi""}",2069.0,142
+Clojure,reagent-project,2020-10-13,1,1,"#{""leif@leifandersen.net""}",2070.0,143
+Clojure,reagent-project,2020-10-14,1,1,"#{""juho.teperi@iki.fi""}",2071.0,143
+Clojure,reagent-project,2020-10-17,2,1,"#{""mikew1@users.noreply.github.com""}",2073.0,144
+Clojure,reagent-project,2020-10-27,1,1,"#{""paul@paulbutcher.com""}",2074.0,145
+Clojure,reagent-project,2020-11-20,3,1,"#{""juho.teperi@iki.fi""}",2077.0,145
+Clojure,reagent-project,2020-11-24,4,1,"#{""juho.teperi@iki.fi""}",2081.0,145
+Clojure,reagent-project,2020-11-26,16,2,"#{""suud@users.noreply.github.com"" ""juho.teperi@iki.fi""}",2097.0,146
+Clojure,reagent-project,2020-12-12,1,1,"#{""ngreco@gmail.com""}",2098.0,147
+Clojure,reagent-project,2020-12-13,1,1,"#{""juho.teperi@iki.fi""}",2099.0,147
+Clojure,reagent-project,2020-12-18,2,1,"#{""juho.teperi@iki.fi""}",2101.0,147
+Clojure,reagent-project,2020-12-21,11,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",2112.0,147
+Clojure,reagent-project,2020-12-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",2113.0,147
+Clojure,reagent-project,2021-01-13,1,1,"#{""chance@chancerussell.io""}",2114.0,148
+Clojure,reagent-project,2021-01-14,1,1,"#{""juho.teperi@iki.fi""}",2115.0,148
+Clojure,reagent-project,2021-01-19,1,1,"#{""31770001+tangarts@users.noreply.github.com""}",2116.0,149
+Clojure,reagent-project,2021-01-22,2,2,"#{""piotr-yuxuan-github@2bst.fr"" ""gadfly361@gmail.com""}",2118.0,150
+Clojure,reagent-project,2021-01-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",2119.0,150
+Clojure,reagent-project,2021-02-04,2,2,"#{""juho.teperi@iki.fi"" ""ben@yorke.io""}",2121.0,151
+Clojure,reagent-project,2021-02-05,5,1,"#{""juho.teperi@iki.fi""}",2126.0,151
+Clojure,reagent-project,2021-03-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",2127.0,151
+Clojure,reagent-project,2021-03-20,1,1,"#{""chris@oakmac.com""}",2128.0,152
+Clojure,reagent-project,2021-03-22,1,1,"#{""juho.teperi@iki.fi""}",2129.0,152
+Clojure,reagent-project,2021-04-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",2130.0,152
+Clojure,reagent-project,2021-04-25,37,1,"#{""juho.teperi@iki.fi""}",2167.0,152
+Clojure,reagent-project,2021-05-04,1,1,"#{""admin@prestance-informatique.fr""}",2168.0,153
+Clojure,reagent-project,2021-05-23,1,1,"#{""gadfly361@gmail.com""}",2169.0,153
+Clojure,reagent-project,2021-05-24,1,1,"#{""598193+green-coder@users.noreply.github.com""}",2170.0,154
+Clojure,reagent-project,2021-05-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",2171.0,154
+Clojure,reagent-project,2021-05-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",2172.0,154
+Clojure,reagent-project,2021-06-05,14,2,"#{""juho.teperi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",2186.0,154
+Clojure,reagent-project,2021-06-07,1,1,"#{""adek06@outlook.com""}",2187.0,155
+Clojure,reagent-project,2021-06-18,1,1,"#{""juholei@gmail.com""}",2188.0,156
+Clojure,reagent-project,2021-06-21,1,1,"#{""zackteo@gmail.com""}",2189.0,157
+Clojure,reagent-project,2021-07-02,1,1,"#{""jhacksworth@gmail.com""}",2190.0,158
+Clojure,reagent-project,2021-07-06,1,1,"#{""juho.teperi@iki.fi""}",2191.0,158
+Clojure,reagent-project,2021-08-02,2,1,"#{""juho.teperi@iki.fi""}",2193.0,158
+Clojure,reagent-project,2021-08-06,1,1,"#{""william.mizuta@gmail.com""}",2194.0,159
+Clojure,reagent-project,2021-09-02,1,1,"#{""juho.teperi@iki.fi""}",2195.0,159
+Clojure,reagent-project,2021-09-03,3,1,"#{""juho.teperi@iki.fi""}",2198.0,159
+Clojure,reagent-project,2021-09-08,1,1,"#{""tankorsmash+github@gmail.com""}",2199.0,160
+Clojure,reagent-project,2021-11-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",2200.0,160
+Clojure,reagent-project,2021-11-10,1,1,"#{""juho.teperi@iki.fi""}",2201.0,160
+Clojure,reagent-project,2021-11-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",2202.0,160
+Clojure,reagent-project,2021-12-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",2203.0,160
+Clojure,reagent-project,2021-12-19,10,1,"#{""juho.teperi@iki.fi""}",2213.0,160
+Clojure,reagent-project,2021-12-30,2,1,"#{""6143833+rgkirch@users.noreply.github.com""}",2215.0,161
+Clojure,reagent-project,2021-12-31,2,1,"#{""juho.teperi@iki.fi""}",2217.0,161
+Clojure,reagent-project,2022-03-09,2,1,"#{""juho.teperi@iki.fi""}",2219.0,161
+Clojure,reagent-project,2022-03-25,1,1,"#{""gadfly361@gmail.com""}",2220.0,161
+Clojure,reagent-project,2022-05-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",2221.0,161
+Clojure,reagent-project,2022-05-19,1,1,"#{""juho.teperi@iki.fi""}",2222.0,161
+Clojure,reagent-project,2022-06-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",2223.0,161
+Clojure,reagent-project,2022-06-27,2,2,"#{""th.heller@gmail.com"" ""dmitri.sotnikov@gmail.com""}",2225.0,162
+Clojure,reagent-project,2022-08-19,2,1,"#{""shaunewilliams@gmail.com""}",2227.0,163
+Clojure,reagent-project,2022-08-20,1,1,"#{""juho.teperi@iki.fi""}",2228.0,163
+Clojure,reagent-project,2022-08-24,1,1,"#{""shaunewilliams@gmail.com""}",2229.0,163
+Clojure,reagent-project,2022-08-25,5,1,"#{""juho.teperi@iki.fi""}",2234.0,163
+Clojure,reagent-project,2022-10-27,2,1,"#{""juho.teperi@iki.fi""}",2236.0,163
+Clojure,reagent-project,2022-10-28,1,1,"#{""juho.teperi@iki.fi""}",2237.0,163
+Clojure,reagent-project,2022-11-08,1,1,"#{""juho.teperi@iki.fi""}",2238.0,163
+Clojure,reagent-project,2022-11-09,13,1,"#{""juho.teperi@iki.fi""}",2251.0,163
+Clojure,reagent-project,2022-11-11,3,1,"#{""juho.teperi@iki.fi""}",2254.0,163
+Clojure,reagent-project,2023-01-20,2,2,"#{""juho.teperi@iki.fi"" ""th.heller@gmail.com""}",2256.0,163
+Clojure,reagent-project,2023-02-16,5,1,"#{""juho.teperi@iki.fi""}",2261.0,163
+Clojure,reagent-project,2023-03-11,2,1,"#{""juho.teperi@iki.fi""}",2263.0,163

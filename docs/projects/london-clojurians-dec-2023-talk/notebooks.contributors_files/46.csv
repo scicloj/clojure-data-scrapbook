@@ -1,0 +1,249 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,mesosphere,2014-12-10,4,1,"#{""cody@mesosphere.io""}",4.0,1
+Python,mesosphere,2014-12-11,8,2,"#{""jeremy@mesosphere.io"" ""cody@mesosphere.io""}",12.0,2
+Python,mesosphere,2014-12-12,8,2,"#{""jeremy@mesosphere.io"" ""cody@mesosphere.io""}",20.0,2
+Python,mesosphere,2014-12-16,2,1,"#{""cody@mesosphere.io""}",22.0,2
+Python,mesosphere,2014-12-23,12,1,"#{""cody@mesosphere.io""}",34.0,2
+Python,mesosphere,2014-12-24,2,1,"#{""cody@mesosphere.io""}",36.0,2
+Python,mesosphere,2015-01-05,2,1,"#{""cmaloney@theoreticalchaos.com""}",38.0,3
+Python,mesosphere,2015-01-08,6,1,"#{""cody@mesosphere.io""}",44.0,3
+Python,mesosphere,2015-01-20,2,1,"#{""lloesche@gmail.com""}",46.0,4
+Python,mesosphere,2015-01-23,2,1,"#{""lloesche@gmail.com""}",48.0,4
+Python,mesosphere,2015-01-26,4,1,"#{""lloesche@gmail.com""}",52.0,4
+Python,mesosphere,2015-04-30,4,1,"#{""lukas@mesosphere.io""}",56.0,5
+Python,mesosphere,2015-05-15,2,1,"#{""cody@mesosphere.io""}",58.0,5
+Python,mesosphere,2015-06-15,4,2,"#{""lukas@mesosphere.io"" ""gaston@mesosphere.io""}",62.0,6
+Python,mesosphere,2015-06-17,2,1,"#{""lukas@mesosphere.io""}",64.0,6
+Python,mesosphere,2015-06-18,2,1,"#{""cody@mesosphere.io""}",66.0,6
+Python,mesosphere,2015-07-13,4,1,"#{""chris@ionata.com.au""}",70.0,7
+Python,mesosphere,2015-07-14,4,2,"#{""lukas@mesosphere.io"" ""chris@ionata.com.au""}",74.0,7
+Python,mesosphere,2015-07-15,2,1,"#{""lukas@mesosphere.io""}",76.0,7
+Python,mesosphere,2015-07-17,6,1,"#{""lukas@mesosphere.io""}",82.0,7
+Python,mesosphere,2015-07-20,4,1,"#{""lukas@mesosphere.io""}",86.0,7
+Python,mesosphere,2015-07-23,4,1,"#{""lukas@mesosphere.io""}",90.0,7
+Python,mesosphere,2015-08-14,10,2,"#{""florian.sellmayr@gmail.com"" ""felix.bechstein@otto.de""}",100.0,9
+Python,mesosphere,2015-08-19,2,1,"#{""cody@mesosphere.io""}",102.0,9
+Python,mesosphere,2015-08-20,2,1,"#{""marvin.frick@sinnerschrader.com""}",104.0,10
+Python,mesosphere,2015-08-25,2,1,"#{""florian.sellmayr@gmail.com""}",106.0,10
+Python,mesosphere,2015-08-26,8,2,"#{""cody@mesosphere.io"" ""florian.sellmayr@gmail.com""}",114.0,10
+Python,mesosphere,2015-08-27,2,1,"#{""florian.sellmayr@gmail.com""}",116.0,10
+Python,mesosphere,2015-10-07,8,1,"#{""github@freigeist.org""}",124.0,11
+Python,mesosphere,2015-10-08,8,2,"#{""lukas@mesosphere.io"" ""github@freigeist.org""}",132.0,11
+Python,mesosphere,2015-10-09,12,1,"#{""github@freigeist.org""}",144.0,11
+Python,mesosphere,2015-10-13,2,1,"#{""github@freigeist.org""}",146.0,11
+Python,mesosphere,2015-10-29,2,1,"#{""felix.bechstein@otto.de""}",148.0,11
+Python,mesosphere,2015-11-02,6,2,"#{""github@freigeist.org"" ""felix.bechstein@otto.de""}",154.0,11
+Python,mesosphere,2015-11-04,4,1,"#{""github@freigeist.org""}",158.0,11
+Python,mesosphere,2015-11-05,2,1,"#{""github@freigeist.org""}",160.0,11
+Python,mesosphere,2015-11-10,6,3,"#{""github@freigeist.org"" ""brenden@diddyinc.com"" ""fish@freigeist.org""}",166.0,13
+Python,mesosphere,2015-11-11,2,1,"#{""fish@freigeist.org""}",168.0,13
+Python,mesosphere,2015-11-12,6,3,"#{""github@freigeist.org"" ""brenden@diddyinc.com"" ""fish@freigeist.org""}",174.0,13
+Python,mesosphere,2015-11-17,6,1,"#{""brenden@diddyinc.com""}",180.0,13
+Python,mesosphere,2015-11-18,4,2,"#{""brenden@diddyinc.com"" ""aladagemre@gmail.com""}",184.0,14
+Python,mesosphere,2015-11-19,34,1,"#{""brenden@diddyinc.com""}",218.0,14
+Python,mesosphere,2015-11-20,38,3,"#{""emre@fikrimuhal.com"" ""brenden@diddyinc.com"" ""jonas.fonseca@gmail.com""}",256.0,16
+Python,mesosphere,2015-11-24,2,1,"#{""lukas@mesosphere.io""}",258.0,16
+Python,mesosphere,2015-12-04,4,1,"#{""brenden@diddyinc.com""}",262.0,16
+Python,mesosphere,2015-12-05,2,1,"#{""brenden@diddyinc.com""}",264.0,16
+Python,mesosphere,2015-12-07,4,1,"#{""lukas@mesosphere.io""}",268.0,16
+Python,mesosphere,2015-12-09,4,2,"#{""mail+github@graemer.org"" ""brenden@diddyinc.com""}",272.0,17
+Python,mesosphere,2015-12-13,2,1,"#{""brenden@diddyinc.com""}",274.0,17
+Python,mesosphere,2015-12-22,4,2,"#{""dave.choi@daumkakao.com"" ""brenden@diddyinc.com""}",278.0,18
+Python,mesosphere,2015-12-23,2,1,"#{""scalisi.a@gmail.com""}",280.0,19
+Python,mesosphere,2016-01-04,8,2,"#{""suhasg@vadio.com"" ""brenden@diddyinc.com""}",288.0,20
+Python,mesosphere,2016-01-05,2,1,"#{""terrylhowe@gmail.com""}",290.0,21
+Python,mesosphere,2016-01-11,2,1,"#{""brenden@diddyinc.com""}",292.0,21
+Python,mesosphere,2016-01-13,6,1,"#{""brenden@diddyinc.com""}",298.0,21
+Python,mesosphere,2016-01-15,6,2,"#{""dave.choi@daumkakao.com"" ""aladagemre@gmail.com""}",304.0,21
+Python,mesosphere,2016-01-16,4,1,"#{""aladagemre@gmail.com""}",308.0,21
+Python,mesosphere,2016-01-20,2,1,"#{""brenden@diddyinc.com""}",310.0,21
+Python,mesosphere,2016-01-28,8,2,"#{""brenden@diddyinc.com"" ""davidr@ressman.org""}",318.0,22
+Python,mesosphere,2016-01-29,6,2,"#{""barton.tomas@gmail.com"" ""brenden@diddyinc.com""}",324.0,23
+Python,mesosphere,2016-01-30,2,1,"#{""brenden@diddyinc.com""}",326.0,23
+Python,mesosphere,2016-02-01,12,2,"#{""dave.choi@daumkakao.com"" ""brenden@diddyinc.com""}",338.0,23
+Python,mesosphere,2016-02-02,2,1,"#{""brenden@diddyinc.com""}",340.0,23
+Python,mesosphere,2016-02-03,2,1,"#{""brenden@diddyinc.com""}",342.0,23
+Python,mesosphere,2016-02-05,2,1,"#{""felix.bechstein@otto.de""}",344.0,23
+Python,mesosphere,2016-02-07,6,1,"#{""davidr@ressman.org""}",350.0,23
+Python,mesosphere,2016-02-09,10,2,"#{""brenden@diddyinc.com"" ""onur.cakmak@gmail.com""}",360.0,24
+Python,mesosphere,2016-02-10,8,2,"#{""brenden@diddyinc.com"" ""davidr@ressman.org""}",368.0,24
+Python,mesosphere,2016-02-11,6,2,"#{""lukas@mesosphere.io"" ""brenden@diddyinc.com""}",374.0,24
+Python,mesosphere,2016-02-12,4,2,"#{""lukas@mesosphere.io"" ""maxverzier@gmail.com""}",378.0,25
+Python,mesosphere,2016-02-13,4,1,"#{""dave.choi@daumkakao.com""}",382.0,25
+Python,mesosphere,2016-02-17,12,1,"#{""brenden@diddyinc.com""}",394.0,25
+Python,mesosphere,2016-02-19,4,1,"#{""brenden@diddyinc.com""}",398.0,25
+Python,mesosphere,2016-02-22,2,1,"#{""florian.sellmayr@gmail.com""}",400.0,25
+Python,mesosphere,2016-02-23,18,3,"#{""lukas@mesosphere.io"" ""mail+github@graemer.org"" ""brenden@diddyinc.com""}",418.0,25
+Python,mesosphere,2016-02-25,4,1,"#{""brenden@diddyinc.com""}",422.0,25
+Python,mesosphere,2016-02-26,12,2,"#{""dave.choi@daumkakao.com"" ""brenden@diddyinc.com""}",434.0,25
+Python,mesosphere,2016-02-29,2,1,"#{""brenden@diddyinc.com""}",436.0,25
+Python,mesosphere,2016-03-01,4,2,"#{""lukas@mesosphere.io"" ""ajays20078@gmail.com""}",440.0,26
+Python,mesosphere,2016-03-02,4,2,"#{""knesenko@vmware.com"" ""brenden@diddyinc.com""}",444.0,27
+Python,mesosphere,2016-03-03,4,2,"#{""lukas@mesosphere.io"" ""brenden@diddyinc.com""}",448.0,27
+Python,mesosphere,2016-03-04,6,1,"#{""brenden@diddyinc.com""}",454.0,27
+Python,mesosphere,2016-03-07,4,1,"#{""brenden@diddyinc.com""}",458.0,27
+Python,mesosphere,2016-03-08,2,1,"#{""brenden@diddyinc.com""}",460.0,27
+Python,mesosphere,2016-03-10,12,1,"#{""brenden@diddyinc.com""}",472.0,27
+Python,mesosphere,2016-03-11,4,2,"#{""puluto@gmail.com"" ""brenden@diddyinc.com""}",476.0,28
+Python,mesosphere,2016-03-14,4,2,"#{""dave.choi@daumkakao.com"" ""brenden@diddyinc.com""}",480.0,28
+Python,mesosphere,2016-03-19,2,1,"#{""brenden@diddyinc.com""}",482.0,28
+Python,mesosphere,2016-03-20,4,1,"#{""brenden@diddyinc.com""}",486.0,28
+Python,mesosphere,2016-03-22,2,1,"#{""brenden@diddyinc.com""}",488.0,28
+Python,mesosphere,2016-03-23,10,1,"#{""brenden@diddyinc.com""}",498.0,28
+Python,mesosphere,2016-03-25,2,1,"#{""brenden@diddyinc.com""}",500.0,28
+Python,mesosphere,2016-03-26,4,1,"#{""brenden@diddyinc.com""}",504.0,28
+Python,mesosphere,2016-03-28,10,1,"#{""brenden@diddyinc.com""}",514.0,28
+Python,mesosphere,2016-03-29,4,2,"#{""mail+github@graemer.org"" ""brenden@diddyinc.com""}",518.0,28
+Python,mesosphere,2016-03-31,10,2,"#{""ryan.despain@vivint.com"" ""brenden@diddyinc.com""}",528.0,29
+Python,mesosphere,2016-04-01,10,2,"#{""brenden@diddyinc.com"" ""mikestaub22@gmail.com""}",538.0,30
+Python,mesosphere,2016-04-04,12,2,"#{""brenden@diddyinc.com"" ""ekesken@users.noreply.github.com""}",550.0,31
+Python,mesosphere,2016-04-05,10,3,"#{""lee@leeporte.co.uk"" ""sunil@mesosphere.io"" ""brenden@diddyinc.com""}",560.0,33
+Python,mesosphere,2016-04-06,10,2,"#{""brenden@diddyinc.com"" ""stephan.stachurski@nytimes.com""}",570.0,34
+Python,mesosphere,2016-04-07,2,1,"#{""rob.brockbank@metaswitch.com""}",572.0,35
+Python,mesosphere,2016-04-08,10,1,"#{""brenden@diddyinc.com""}",582.0,35
+Python,mesosphere,2016-04-10,6,2,"#{""stephane.cottin@vixns.com"" ""brenden@diddyinc.com""}",588.0,36
+Python,mesosphere,2016-04-12,2,1,"#{""brenden@diddyinc.com""}",590.0,36
+Python,mesosphere,2016-04-13,6,2,"#{""brenden@diddyinc.com"" ""rob.brockbank@metaswitch.com""}",596.0,36
+Python,mesosphere,2016-04-14,2,1,"#{""brenden@diddyinc.com""}",598.0,36
+Python,mesosphere,2016-04-15,4,1,"#{""brenden@diddyinc.com""}",602.0,36
+Python,mesosphere,2016-04-19,4,2,"#{""sschneid@gmail.com"" ""brenden@diddyinc.com""}",606.0,37
+Python,mesosphere,2016-04-23,6,1,"#{""brenden@diddyinc.com""}",612.0,37
+Python,mesosphere,2016-04-26,6,2,"#{""lukas@mesosphere.io"" ""brenden@diddyinc.com""}",618.0,37
+Python,mesosphere,2016-04-27,2,1,"#{""lukas@mesosphere.io""}",620.0,37
+Python,mesosphere,2016-04-28,4,2,"#{""stephane.cottin@vixns.com"" ""JamesAwesome@users.noreply.github.com""}",624.0,38
+Python,mesosphere,2016-04-30,2,1,"#{""matt@mattkirman.com""}",626.0,39
+Python,mesosphere,2016-05-04,2,1,"#{""JamesAwesome@users.noreply.github.com""}",628.0,39
+Python,mesosphere,2016-05-05,2,1,"#{""JamesAwesome@users.noreply.github.com""}",630.0,39
+Python,mesosphere,2016-05-06,2,1,"#{""brenden@diddyinc.com""}",632.0,39
+Python,mesosphere,2016-05-12,4,2,"#{""brenden@diddyinc.com"" ""JamesAwesome@users.noreply.github.com""}",636.0,39
+Python,mesosphere,2016-05-13,2,1,"#{""brenden@diddyinc.com""}",638.0,39
+Python,mesosphere,2016-05-16,6,3,"#{""yanhanglyf@163.com"" ""brenden@diddyinc.com"" ""JamesAwesome@users.noreply.github.com""}",644.0,40
+Python,mesosphere,2016-05-20,8,1,"#{""lukas@mesosphere.io""}",652.0,40
+Python,mesosphere,2016-05-22,4,1,"#{""brenden@diddyinc.com""}",656.0,40
+Python,mesosphere,2016-05-24,4,1,"#{""brenden@diddyinc.com""}",660.0,40
+Python,mesosphere,2016-05-26,2,1,"#{""brenden@diddyinc.com""}",662.0,40
+Python,mesosphere,2016-06-02,4,2,"#{""JamesAwesome@users.noreply.github.com"" ""timothee.germain@wanadoo.fr""}",666.0,41
+Python,mesosphere,2016-06-04,2,1,"#{""JamesAwesome@users.noreply.github.com""}",668.0,41
+Python,mesosphere,2016-06-05,2,1,"#{""brenden@diddyinc.com""}",670.0,41
+Python,mesosphere,2016-06-08,2,1,"#{""ajays20078@gmail.com""}",672.0,41
+Python,mesosphere,2016-06-09,2,1,"#{""ajays20078@gmail.com""}",674.0,41
+Python,mesosphere,2016-06-12,2,1,"#{""liumengxinfly@gmail.com""}",676.0,42
+Python,mesosphere,2016-06-22,2,1,"#{""brenden@diddyinc.com""}",678.0,42
+Python,mesosphere,2016-06-24,2,1,"#{""ajays20078@gmail.com""}",680.0,42
+Python,mesosphere,2016-06-27,2,1,"#{""robsonpeixoto@gmail.com""}",682.0,43
+Python,mesosphere,2016-06-29,8,3,"#{""robsonpeixoto@gmail.com"" ""brenden@diddyinc.com"" ""ajays20078@gmail.com""}",690.0,43
+Python,mesosphere,2016-06-30,8,2,"#{""brenden@diddyinc.com"" ""ajays20078@gmail.com""}",698.0,43
+Python,mesosphere,2016-07-01,2,1,"#{""brenden@diddyinc.com""}",700.0,43
+Python,mesosphere,2016-07-05,6,1,"#{""brenden@diddyinc.com""}",706.0,43
+Python,mesosphere,2016-07-07,14,2,"#{""brenden@diddyinc.com"" ""ajays20078@gmail.com""}",720.0,43
+Python,mesosphere,2016-07-12,4,1,"#{""brenden@diddyinc.com""}",724.0,43
+Python,mesosphere,2016-07-13,4,1,"#{""ajays20078@gmail.com""}",728.0,43
+Python,mesosphere,2016-07-17,4,2,"#{""robsonpeixoto@gmail.com"" ""brenden@diddyinc.com""}",732.0,43
+Python,mesosphere,2016-07-20,8,1,"#{""brenden@diddyinc.com""}",740.0,43
+Python,mesosphere,2016-07-25,2,1,"#{""brenden@diddyinc.com""}",742.0,43
+Python,mesosphere,2016-08-04,4,2,"#{""jstpierre@mecheye.net"" ""fullung@gmail.com""}",746.0,45
+Python,mesosphere,2016-08-05,2,1,"#{""fullung@gmail.com""}",748.0,45
+Python,mesosphere,2016-08-16,2,1,"#{""sschneid@gmail.com""}",750.0,45
+Python,mesosphere,2016-08-29,4,1,"#{""fullung@gmail.com""}",754.0,45
+Python,mesosphere,2016-09-06,4,2,"#{""ole.bakstad@gmail.com"" ""jhewland@gmail.com""}",758.0,47
+Python,mesosphere,2016-09-07,4,2,"#{""brenden@diddyinc.com"" ""ajays20078@gmail.com""}",762.0,47
+Python,mesosphere,2016-09-08,4,2,"#{""stephane.cottin@vixns.com"" ""jhewland@gmail.com""}",766.0,47
+Python,mesosphere,2016-09-09,6,3,"#{""roy.sindre@norangshol.no"" ""brenden@diddyinc.com"" ""jhewland@gmail.com""}",772.0,48
+Python,mesosphere,2016-09-21,6,2,"#{""stephane.cottin@vixns.com"" ""brenden@diddyinc.com""}",778.0,48
+Python,mesosphere,2016-09-23,2,1,"#{""jhewland@gmail.com""}",780.0,48
+Python,mesosphere,2016-09-26,2,1,"#{""brenden@diddyinc.com""}",782.0,48
+Python,mesosphere,2016-09-28,4,1,"#{""brenden@diddyinc.com""}",786.0,48
+Python,mesosphere,2016-09-29,8,2,"#{""brenden@diddyinc.com"" ""jhewland@gmail.com""}",794.0,48
+Python,mesosphere,2016-09-30,6,1,"#{""brenden@diddyinc.com""}",800.0,48
+Python,mesosphere,2016-10-04,4,2,"#{""brenden@diddyinc.com"" ""ole.bakstad@gmail.com""}",804.0,48
+Python,mesosphere,2016-10-05,8,1,"#{""brenden@diddyinc.com""}",812.0,48
+Python,mesosphere,2016-10-06,2,1,"#{""brenden@diddyinc.com""}",814.0,48
+Python,mesosphere,2016-10-12,2,1,"#{""brenden@diddyinc.com""}",816.0,48
+Python,mesosphere,2016-10-20,8,1,"#{""brenden@diddyinc.com""}",824.0,48
+Python,mesosphere,2016-10-21,6,2,"#{""brenden@diddyinc.com"" ""byxorna@users.noreply.github.com""}",830.0,49
+Python,mesosphere,2016-10-24,2,1,"#{""yennick.trevels@gmail.com""}",832.0,50
+Python,mesosphere,2016-10-26,2,1,"#{""robsonpeixoto@gmail.com""}",834.0,50
+Python,mesosphere,2016-10-27,2,1,"#{""brenden@diddyinc.com""}",836.0,50
+Python,mesosphere,2016-10-28,2,1,"#{""brenden@diddyinc.com""}",838.0,50
+Python,mesosphere,2016-10-29,2,1,"#{""brenden@diddyinc.com""}",840.0,50
+Python,mesosphere,2016-10-31,2,1,"#{""brenden@diddyinc.com""}",842.0,50
+Python,mesosphere,2016-11-10,2,1,"#{""brenden@diddyinc.com""}",844.0,50
+Python,mesosphere,2016-11-12,4,1,"#{""matt.deboer@gmail.com""}",848.0,51
+Python,mesosphere,2016-11-18,4,1,"#{""jhewland@gmail.com""}",852.0,51
+Python,mesosphere,2016-11-22,2,1,"#{""jhewland@gmail.com""}",854.0,51
+Python,mesosphere,2016-11-25,2,1,"#{""michael.hausenblas@gmail.com""}",856.0,52
+Python,mesosphere,2016-12-05,6,1,"#{""brenden@diddyinc.com""}",862.0,52
+Python,mesosphere,2016-12-06,4,1,"#{""brenden@diddyinc.com""}",866.0,52
+Python,mesosphere,2016-12-13,2,1,"#{""dan.mcgee@rallyhealth.com""}",868.0,53
+Python,mesosphere,2016-12-19,4,1,"#{""stephane.cottin@vixns.com""}",872.0,53
+Python,mesosphere,2016-12-28,4,1,"#{""dan.mcgee@rallyhealth.com""}",876.0,53
+Python,mesosphere,2017-01-06,4,1,"#{""brenden@diddyinc.com""}",880.0,53
+Python,mesosphere,2017-01-07,2,1,"#{""jhewland@gmail.com""}",882.0,53
+Python,mesosphere,2017-01-10,2,1,"#{""skumaran@gatech.edu""}",884.0,54
+Python,mesosphere,2017-01-18,4,2,"#{""brenden@diddyinc.com"" ""jhewland@gmail.com""}",888.0,54
+Python,mesosphere,2017-01-19,2,1,"#{""brenden@diddyinc.com""}",890.0,54
+Python,mesosphere,2017-01-23,2,1,"#{""brenden@diddyinc.com""}",892.0,54
+Python,mesosphere,2017-01-24,2,1,"#{""brenden@diddyinc.com""}",894.0,54
+Python,mesosphere,2017-01-26,2,1,"#{""brenden@diddyinc.com""}",896.0,54
+Python,mesosphere,2017-02-15,2,1,"#{""jhewland@gmail.com""}",898.0,54
+Python,mesosphere,2017-02-28,2,1,"#{""bobby@ryterski.net""}",900.0,55
+Python,mesosphere,2017-03-20,2,1,"#{""olassun2@gmail.com""}",902.0,56
+Python,mesosphere,2017-03-31,2,1,"#{""arodriguez@stratio.com""}",904.0,57
+Python,mesosphere,2017-04-20,2,1,"#{""jlee@mesosphere.com""}",906.0,58
+Python,mesosphere,2017-06-28,2,1,"#{""olassun2@gmail.com""}",908.0,58
+Python,mesosphere,2017-07-21,4,2,"#{""olassun2@gmail.com"" ""drew@kerrigan.io""}",912.0,59
+Python,mesosphere,2017-07-28,2,1,"#{""james.defelice@gmail.com""}",914.0,60
+Python,mesosphere,2017-08-28,2,1,"#{""olassun2@gmail.com""}",916.0,60
+Python,mesosphere,2017-08-31,2,1,"#{""gpaul@mesosphere.io""}",918.0,61
+Python,mesosphere,2017-09-15,2,1,"#{""drew@kerrigan.io""}",920.0,61
+Python,mesosphere,2017-09-21,2,1,"#{""jlee@mesosphere.com""}",922.0,61
+Python,mesosphere,2017-10-06,2,1,"#{""edgarlanting@users.noreply.github.com""}",924.0,62
+Python,mesosphere,2017-10-09,2,1,"#{""drew@kerrigan.io""}",926.0,62
+Python,mesosphere,2017-10-13,2,1,"#{""keith.mcclellan@gmail.com""}",928.0,63
+Python,mesosphere,2017-11-29,2,1,"#{""philipnrmn@users.noreply.github.com""}",930.0,64
+Python,mesosphere,2017-11-30,2,1,"#{""matt.deboer@gmail.com""}",932.0,64
+Python,mesosphere,2017-12-08,2,1,"#{""drew@kerrigan.io""}",934.0,64
+Python,mesosphere,2018-01-29,2,1,"#{""ichernetsky@mesosphere.io""}",936.0,65
+Python,mesosphere,2018-02-07,8,3,"#{""drew@kerrigan.io"" ""jlee@mesosphere.com"" ""tyler@tylerjmarshall.com""}",944.0,66
+Python,mesosphere,2018-02-08,2,1,"#{""jlee@mesosphere.com""}",946.0,66
+Python,mesosphere,2018-03-24,2,1,"#{""drew@kerrigan.io""}",948.0,66
+Python,mesosphere,2018-03-25,2,1,"#{""jlee@mesosphere.com""}",950.0,66
+Python,mesosphere,2018-04-01,2,1,"#{""joerg.schad@gmail.com""}",952.0,67
+Python,mesosphere,2018-04-02,2,1,"#{""gurinderu@gmail.com""}",954.0,68
+Python,mesosphere,2018-04-11,2,1,"#{""drew@kerrigan.io""}",956.0,68
+Python,mesosphere,2018-04-12,4,2,"#{""drew@kerrigan.io"" ""30297870+gauripowale@users.noreply.github.com""}",960.0,69
+Python,mesosphere,2018-04-25,2,1,"#{""drew@kerrigan.io""}",962.0,69
+Python,mesosphere,2018-04-26,2,1,"#{""vespian@users.noreply.github.com""}",964.0,70
+Python,mesosphere,2018-04-27,14,1,"#{""justin.r.lee@gmail.com""}",978.0,71
+Python,mesosphere,2018-05-17,2,1,"#{""vespian@users.noreply.github.com""}",980.0,71
+Python,mesosphere,2018-08-03,2,1,"#{""exchequer598@gmail.com""}",982.0,72
+Python,mesosphere,2018-09-20,2,1,"#{""hans.gogia@gmail.com""}",984.0,73
+Python,mesosphere,2018-12-05,4,1,"#{""jason@koelker.net""}",988.0,74
+Python,mesosphere,2018-12-07,2,1,"#{""jason@koelker.net""}",990.0,74
+Python,mesosphere,2019-02-20,2,1,"#{""akangaziz@gmail.com""}",992.0,75
+Python,mesosphere,2019-02-26,2,1,"#{""40616093+c-mcinerney@users.noreply.github.com""}",994.0,76
+Python,mesosphere,2019-02-27,2,1,"#{""exchequer598@gmail.com""}",996.0,76
+Python,mesosphere,2019-03-08,6,3,"#{""stephane.cottin@vixns.com"" ""jan-github@phobia.de"" ""david@soff.nl""}",1002.0,78
+Python,mesosphere,2019-03-09,2,1,"#{""exchequer598@gmail.com""}",1004.0,78
+Python,mesosphere,2019-03-11,2,1,"#{""jason@koelker.net""}",1006.0,78
+Python,mesosphere,2019-03-21,2,1,"#{""ruippeixotog@gmail.com""}",1008.0,79
+Python,mesosphere,2019-03-22,4,2,"#{""ap@aventer.biz"" ""201180+elopezvalecky@users.noreply.github.com""}",1012.0,81
+Python,mesosphere,2019-03-23,2,1,"#{""arisu1000@gmail.com""}",1014.0,82
+Python,mesosphere,2019-03-25,2,1,"#{""jason@koelker.net""}",1016.0,82
+Python,mesosphere,2019-03-26,2,1,"#{""jason@koelker.net""}",1018.0,82
+Python,mesosphere,2019-04-04,12,1,"#{""jason@koelker.net""}",1030.0,82
+Python,mesosphere,2019-04-24,2,1,"#{""mikejennings@gmail.com""}",1032.0,83
+Python,mesosphere,2019-05-15,2,1,"#{""jason@koelker.net""}",1034.0,83
+Python,mesosphere,2019-05-24,2,1,"#{""willstewart.decider@gmail.com""}",1036.0,84
+Python,mesosphere,2019-07-24,4,2,"#{""xw_cht.y@live.cn"" ""jason@koelker.net""}",1040.0,85
+Python,mesosphere,2019-07-25,6,1,"#{""ichernetsky@mesosphere.io""}",1046.0,85
+Python,mesosphere,2019-09-24,2,1,"#{""jason@koelker.net""}",1048.0,85
+Python,mesosphere,2019-10-04,4,1,"#{""exchequer598@gmail.com""}",1052.0,85
+Python,mesosphere,2019-11-09,2,1,"#{""chozo99@users.noreply.github.com""}",1054.0,86
+Python,mesosphere,2019-12-02,2,1,"#{""jason@koelker.net""}",1056.0,86
+Python,mesosphere,2020-01-06,2,1,"#{""tharper@mesosphere.com""}",1058.0,87
+Python,mesosphere,2020-03-24,6,3,"#{""46956420+rfvbkm@users.noreply.github.com"" ""jason@koelker.net"" ""acecile@le-vert.net""}",1064.0,89
+Python,mesosphere,2020-04-09,2,1,"#{""stephane.cottin@vixns.com""}",1066.0,89
+Python,mesosphere,2020-06-26,6,1,"#{""jason@koelker.net""}",1072.0,89
+Python,mesosphere,2020-09-24,2,1,"#{""jason@koelker.net""}",1074.0,89
+Python,mesosphere,2020-09-25,12,1,"#{""jason@koelker.net""}",1086.0,89

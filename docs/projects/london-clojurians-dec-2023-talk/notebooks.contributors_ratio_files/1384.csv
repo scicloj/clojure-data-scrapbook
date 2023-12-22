@@ -1,0 +1,274 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2011-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2011-08-16,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",10.0,[{0 10}],0,10,0,0,0,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2011-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2011-08-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2011-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2011-09-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[luke.amdor@gmail.com, luke.amdor@gmail.com]",17.0,"[{0 15, ""other"" 2}]",2,15,0,0,0,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2011-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils.grunwald@gmail.com]",18.0,"[{0 15, ""other"" 2, 3 1}]",2,15,0,0,1,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",19.0,"[{0 16, ""other"" 2, 3 1}]",2,16,0,0,1,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul.michael.bauer@gmail.com]",20.0,"[{0 16, ""other"" 3, 3 1}]",3,16,0,0,1,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils.grunwald@gmail.com]",21.0,"[{0 16, ""other"" 3, 3 2}]",3,16,0,0,2,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-04-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jani.rahkola@gmail.com, jani.rahkola@gmail.com, jani.rahkola@gmail.com, jani.rahkola@gmail.com]",25.0,"[{0 16, ""other"" 7, 3 2}]",7,16,0,0,2,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-04-23,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils.grunwald@gmail.com]",30.0,"[{0 20, ""other"" 7, 3 3}]",7,20,0,0,3,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[philipa@mail.com]",31.0,"[{0 20, ""other"" 8, 3 3}]",8,20,0,0,3,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-06-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils.grunwald@gmail.com]",32.0,"[{0 20, ""other"" 8, 3 4}]",8,20,0,0,4,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-06-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nils@grunwald.fr, nils@grunwald.fr]",34.0,"[{0 22, ""other"" 8, 3 4}]",8,22,0,0,4,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-09-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nils@grunwald.fr, nils@grunwald.fr]",36.0,"[{0 24, ""other"" 8, 3 4}]",8,24,0,0,4,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jeremyw.sherman@gmail.com]",37.0,"[{0 24, ""other"" 9, 3 4}]",9,24,0,0,4,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-09-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[nils.grunwald@gmail.com, nils.grunwald@gmail.com, ian.eure@gmail.com]",40.0,"[{0 24, ""other"" 10, 3 6}]",10,24,0,0,6,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-09-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",41.0,"[{0 25, ""other"" 10, 3 6}]",10,25,0,0,6,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-10-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",44.0,"[{0 28, ""other"" 10, 3 6}]",10,28,0,0,6,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2012-12-03,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",48.0,"[{0 32, ""other"" 10, 3 6}]",10,32,0,0,6,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-01-25,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils.grunwald@gmail.com, roman.scherer@burningswell.com]",52.0,"[{0 34, ""other"" 11, 3 7}]",11,34,0,0,7,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[i@raynes.me]",53.0,"[{0 34, ""other"" 12, 3 7}]",12,34,0,0,7,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils.grunwald@gmail.com]",54.0,"[{0 34, ""other"" 12, 3 8}]",12,34,0,0,8,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",55.0,"[{0 35, ""other"" 12, 3 8}]",12,35,0,0,8,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-02-20,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",61.0,"[{0 41, ""other"" 12, 3 8}]",12,41,0,0,8,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-02-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",64.0,"[{0 44, ""other"" 12, 3 8}]",12,44,0,0,8,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-02-26,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[nils.grunwald@gmail.com, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",69.0,"[{0 48, ""other"" 12, 3 9}]",12,48,0,0,9,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-03-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",70.0,"[{0 48, ""other"" 13, 3 9}]",13,48,0,0,9,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-03-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils.grunwald@gmail.com]",71.0,"[{0 48, ""other"" 13, 3 10}]",13,48,0,0,10,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-03-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nils@grunwald.fr, nils@grunwald.fr]",73.0,"[{0 50, ""other"" 13, 3 10}]",13,50,0,0,10,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman.scherer@burningswell.com]",74.0,"[{0 50, ""other"" 14, 3 10}]",14,50,0,0,10,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-04-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ian.eure@gmail.com, ian.eure@gmail.com]",76.0,"[{0 50, ""other"" 16, 3 10}]",16,50,0,0,10,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@justinbalthrop.com]",77.0,"[{0 50, ""other"" 17, 3 10}]",17,50,0,0,10,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-08-19,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",86.0,"[{0 59, ""other"" 17, 3 10}]",17,59,0,0,10,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-08-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nils@grunwald.fr, nils@grunwald.fr]",88.0,"[{0 61, ""other"" 17, 3 10}]",17,61,0,0,10,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-09-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nils.grunwald@gmail.com, dmitri.sotnikov@gmail.com]",90.0,"[{0 61, ""other"" 18, 3 11}]",18,61,0,0,11,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sb@hekovnik.si]",91.0,"[{0 61, ""other"" 19, 3 11}]",19,61,0,0,11,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils.grunwald@gmail.com]",92.0,"[{0 61, ""other"" 19, 3 12}]",19,61,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-10-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nils@grunwald.fr, nils@grunwald.fr]",94.0,"[{0 63, ""other"" 19, 3 12}]",19,63,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2013-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",95.0,"[{0 64, ""other"" 19, 3 12}]",19,64,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",96.0,"[{0 65, ""other"" 19, 3 12}]",19,65,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-08-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nils@grunwald.fr]",97.0,"[{0 66, ""other"" 19, 3 12}]",19,66,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-08-10,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",102.0,"[{0 71, ""other"" 19, 3 12}]",19,71,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-08-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",107.0,"[{0 76, ""other"" 19, 3 12}]",19,76,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-08-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr]",110.0,"[{0 79, ""other"" 19, 3 12}]",19,79,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-09-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[akuznetsova@climate.com, akuznetsova@climate.com, akuznetsova@climate.com]",113.0,"[{0 79, ""other"" 22, 3 12}]",22,79,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christophermcdevitt@gmail.com]",114.0,"[{0 79, ""other"" 23, 3 12}]",23,79,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[yayitswei@gmail.com]",115.0,"[{0 79, ""other"" 24, 3 12}]",24,79,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael.blume@climate.com]",116.0,"[{0 79, ""other"" 25, 3 12}]",25,79,0,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2014-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",118.0,"[{0 79, ""other"" 25, 3 12, 1 2}]",25,79,2,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",119.0,"[{0 79, ""other"" 26, 3 12, 1 2}]",26,79,2,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juho.teperi@iki.fi]",120.0,"[{0 79, ""other"" 26, 3 12, 1 3}]",26,79,3,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-02-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@gmail.com, hlship@gmail.com]",122.0,"[{0 79, ""other"" 28, 3 12, 1 3}]",28,79,3,0,12,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-03-27,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils@grunwald.fr, nils.grunwald@gmail.com, nils@grunwald.fr]",128.0,"[{0 84, ""other"" 28, 3 13, 1 3}]",28,84,3,0,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-04-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lbarrett@climate.com]",129.0,"[{0 84, ""other"" 29, 3 13, 1 3}]",29,84,3,0,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-05-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",131.0,"[{0 84, ""other"" 29, 3 13, 1 5}]",29,84,5,0,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ducky427@users.noreply.github.com]",132.0,"[{0 84, ""other"" 30, 3 13, 1 5}]",30,84,5,0,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-06-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chris.gore@climate.com, chris.gore@climate.com, chris.gore@climate.com]",135.0,"[{0 84, ""other"" 33, 3 13, 1 5}]",33,84,5,0,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-08-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[teeepeli@gmail.com, teeepeli@gmail.com]",137.0,"[{0 84, ""other"" 33, 3 13, 1 5, 2 2}]",33,84,5,2,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juho.teperi@iki.fi]",138.0,"[{0 84, ""other"" 33, 3 13, 1 6, 2 2}]",33,84,6,2,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-09-01,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, teeepeli@gmail.com, teeepeli@gmail.com, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",146.0,"[{0 84, ""other"" 33, 3 13, 1 12, 2 4}]",33,84,12,4,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-09-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[teeepeli@gmail.com, teeepeli@gmail.com, cpjolicoeur@gmail.com, cpjolicoeur@gmail.com]",150.0,"[{0 84, ""other"" 35, 3 13, 1 12, 2 6}]",35,84,12,6,13,0
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-09-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cgore@cgore.com, cgore@cgore.com, cgore@cgore.com]",153.0,"[{0 84, ""other"" 35, 3 13, 1 12, 2 6, 4 3}]",35,84,12,6,13,3
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-09-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[cgore@cgore.com, cgore@cgore.com, cgore@cgore.com, cgore@cgore.com, cgore@cgore.com]",158.0,"[{0 84, ""other"" 35, 3 13, 1 12, 2 6, 4 8}]",35,84,12,6,13,8
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-10-01,17,3,"#tech.v3.dataset.column<string>[17]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, teeepeli@gmail.com, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, cgore@cgore.com, cgore@cgore.com, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, teeepeli@gmail.com]",175.0,"[{0 84, ""other"" 35, 3 13, 1 25, 2 8, 4 10}]",35,84,25,8,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tranchis@gmail.com]",176.0,"[{0 84, ""other"" 36, 3 13, 1 25, 2 8, 4 10}]",36,84,25,8,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tranchis@gmail.com]",177.0,"[{0 84, ""other"" 37, 3 13, 1 25, 2 8, 4 10}]",37,84,25,8,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teeepeli@gmail.com]",178.0,"[{0 84, ""other"" 37, 3 13, 1 25, 2 9, 4 10}]",37,84,25,9,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-11-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",182.0,"[{0 84, ""other"" 37, 3 13, 1 29, 2 9, 4 10}]",37,84,29,9,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2015-11-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",188.0,"[{0 84, ""other"" 37, 3 13, 1 35, 2 9, 4 10}]",37,84,35,9,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2016-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teeepeli@gmail.com]",189.0,"[{0 84, ""other"" 37, 3 13, 1 35, 2 10, 4 10}]",37,84,35,10,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2016-03-12,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",195.0,"[{0 84, ""other"" 37, 3 13, 1 41, 2 10, 4 10}]",37,84,41,10,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2016-04-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chris.gore@climate.com]",196.0,"[{0 84, ""other"" 38, 3 13, 1 41, 2 10, 4 10}]",38,84,41,10,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2016-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tim@kontor.com]",197.0,"[{0 84, ""other"" 39, 3 13, 1 41, 2 10, 4 10}]",39,84,41,10,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2016-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teeepeli@gmail.com]",198.0,"[{0 84, ""other"" 39, 3 13, 1 41, 2 11, 4 10}]",39,84,41,11,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2016-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@andrewhjon.es]",199.0,"[{0 84, ""other"" 40, 3 13, 1 41, 2 11, 4 10}]",40,84,41,11,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2017-01-12,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, teeepeli@gmail.com, teeepeli@gmail.com, juho.teperi@iki.fi]",205.0,"[{0 84, ""other"" 40, 3 13, 1 45, 2 13, 4 10}]",40,84,45,13,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2017-01-30,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, teeepeli@gmail.com, juho.teperi@iki.fi, juho.teperi@iki.fi]",217.0,"[{0 84, ""other"" 40, 3 13, 1 56, 2 14, 4 10}]",40,84,56,14,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2017-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teeepeli@gmail.com]",218.0,"[{0 84, ""other"" 40, 3 13, 1 56, 2 15, 4 10}]",40,84,56,15,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2018-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teeepeli@gmail.com]",219.0,"[{0 84, ""other"" 40, 3 13, 1 56, 2 16, 4 10}]",40,84,56,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2018-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mthurmond@isi-sales.com]",220.0,"[{0 84, ""other"" 41, 3 13, 1 56, 2 16, 4 10}]",41,84,56,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2018-12-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",225.0,"[{0 84, ""other"" 41, 3 13, 1 61, 2 16, 4 10}]",41,84,61,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2019-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mthurmond@isi-sales.com, mthurmond@isi-sales.com]",227.0,"[{0 84, ""other"" 43, 3 13, 1 61, 2 16, 4 10}]",43,84,61,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2019-01-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mthurmond@isi-sales.com]",228.0,"[{0 84, ""other"" 44, 3 13, 1 61, 2 16, 4 10}]",44,84,61,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2019-01-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",232.0,"[{0 84, ""other"" 44, 3 13, 1 65, 2 16, 4 10}]",44,84,65,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2019-02-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",234.0,"[{0 84, ""other"" 44, 3 13, 1 67, 2 16, 4 10}]",44,84,67,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2019-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juho.teperi@iki.fi]",235.0,"[{0 84, ""other"" 44, 3 13, 1 68, 2 16, 4 10}]",44,84,68,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2019-03-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",237.0,"[{0 84, ""other"" 44, 3 13, 1 70, 2 16, 4 10}]",44,84,70,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2022-03-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi, juho.teperi@iki.fi]",241.0,"[{0 84, ""other"" 44, 3 13, 1 74, 2 16, 4 10}]",44,84,74,16,13,10
+Clojure,https://github.com/ngrunwald/ring-middleware-format,2022-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[juho.teperi@iki.fi]",242.0,"[{0 84, ""other"" 44, 3 13, 1 75, 2 16, 4 10}]",44,84,75,16,13,10

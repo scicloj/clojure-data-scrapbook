@@ -1,0 +1,124 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/nginxinc/nginx-ldap-auth,2015-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vl.homutov@gmail.com]",1.0,[{0 1}],0,1,0,0,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2015-06-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[fymemon@yahoo.com, fymemon@yahoo.com, tony@nginx.com, tony@nginx.com]",5.0,"[{0 1, ""other"" 4}]",4,1,0,0,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-06-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vl.homutov@gmail.com]",6.0,"[{0 2, ""other"" 4}]",4,2,0,0,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stepanov.artem@lenta.ru]",7.0,"[{0 2, ""other"" 5}]",5,2,0,0,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-07-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vl-homutov@users.noreply.github.com]",8.0,"[{0 2, ""other"" 5, 1 1}]",5,2,1,0,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-10-10,7,4,"#tech.v3.dataset.column<string>[7]
+:email
+[vl-homutov@users.noreply.github.com, rysiek@hackerspace.pl, vl.homutov@gmail.com, vl.homutov@gmail.com, vl-homutov@users.noreply.github.com, vl.homutov@gmail.com, borschneck@hotmail.com]",15.0,"[{0 5, ""other"" 7, 1 3}]",7,5,3,0,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iippolitov@gmail.com]",16.0,"[{0 5, ""other"" 7, 1 3, 2 1}]",7,5,3,1,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-11-02,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[iippolitov@gmail.com, iippolitov@gmail.com, vl-homutov@users.noreply.github.com, thresh@nginx.com, thresh@nginx.com]",21.0,"[{0 5, ""other"" 9, 1 4, 2 3}]",9,5,4,3,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-11-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[vl-homutov@users.noreply.github.com, borschneck@hotmail.com, vl-homutov@users.noreply.github.com]",24.0,"[{0 5, ""other"" 10, 1 6, 2 3}]",10,5,6,3,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2016-11-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vl-homutov@users.noreply.github.com, iippolitov@gmail.com]",26.0,"[{0 5, ""other"" 10, 1 7, 2 4}]",10,5,7,4,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-05-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[rickh@benon.com, rickh@benon.com, rickh@benon.com]",29.0,"[{0 5, ""other"" 13, 1 7, 2 4}]",13,5,7,4,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iippolitov@gmail.com]",30.0,"[{0 5, ""other"" 13, 1 7, 2 5}]",13,5,7,5,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cloversday@gmail.com]",31.0,"[{0 5, ""other"" 14, 1 7, 2 5}]",14,5,7,5,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-09-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iippolitov@gmail.com]",32.0,"[{0 5, ""other"" 14, 1 7, 2 6}]",14,5,7,6,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-10-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vl-homutov@users.noreply.github.com, christian.nicolai@camunda.com]",34.0,"[{0 5, ""other"" 15, 1 8, 2 6}]",15,5,8,6,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luca@lm-net.it]",35.0,"[{0 5, ""other"" 16, 1 8, 2 6}]",16,5,8,6,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-12-22,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[vl.homutov@gmail.com, vl.homutov@gmail.com, vl.homutov@gmail.com, vl.homutov@gmail.com, vl.homutov@gmail.com, vl.homutov@gmail.com]",41.0,"[{0 11, ""other"" 16, 1 8, 2 6}]",16,11,8,6,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2017-12-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vl.homutov@gmail.com, vl.homutov@gmail.com, vl.homutov@gmail.com]",44.0,"[{0 14, ""other"" 16, 1 8, 2 6}]",16,14,8,6,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2018-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iippolitov@gmail.com]",45.0,"[{0 14, ""other"" 16, 1 8, 2 7}]",16,14,8,7,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2018-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iippolitov@gmail.com]",46.0,"[{0 14, ""other"" 16, 1 8, 2 8}]",16,14,8,8,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2018-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[han@dd-han.tw]",47.0,"[{0 14, ""other"" 17, 1 8, 2 8}]",17,14,8,8,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2018-08-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vl-homutov@users.noreply.github.com, vl.homutov@gmail.com]",49.0,"[{0 15, ""other"" 17, 1 9, 2 8}]",17,15,9,8,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2018-10-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vl.homutov@gmail.com]",50.0,"[{0 16, ""other"" 17, 1 9, 2 8}]",17,16,9,8,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2018-10-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vl.homutov@gmail.com, vl.homutov@gmail.com]",52.0,"[{0 18, ""other"" 17, 1 9, 2 8}]",17,18,9,8,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2018-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@linfratech.co.uk]",53.0,"[{0 18, ""other"" 18, 1 9, 2 8}]",18,18,9,8,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iippolitov@gmail.com]",54.0,"[{0 18, ""other"" 18, 1 9, 2 9}]",18,18,9,9,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iippolitov@gmail.com]",55.0,"[{0 18, ""other"" 18, 1 9, 2 10}]",18,18,9,10,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nikolaev.rd@yandex.ru]",56.0,"[{0 18, ""other"" 19, 1 9, 2 10}]",19,18,9,10,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vl-homutov@users.noreply.github.com]",57.0,"[{0 18, ""other"" 19, 1 10, 2 10}]",19,18,10,10,0,0
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-09-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[r.szulist@gmail.com, r.szulist@gmail.com]",59.0,"[{0 18, ""other"" 19, 1 10, 2 10, 4 2}]",19,18,10,10,0,2
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-09-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[r.szulist@gmail.com, r.szulist@gmail.com, r.szulist@gmail.com, r.szulist@gmail.com]",63.0,"[{0 18, ""other"" 19, 1 10, 2 10, 4 6}]",19,18,10,10,0,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vl@nginx.com]",64.0,"[{0 18, ""other"" 20, 1 10, 2 10, 4 6}]",20,18,10,10,0,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2019-10-31,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[vl@nginx.com, vl@nginx.com, vl-homutov@users.noreply.github.com]",67.0,"[{0 18, ""other"" 22, 1 11, 2 10, 4 6}]",22,18,11,10,0,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2020-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lychkousky@gmail.com]",68.0,"[{0 18, ""other"" 23, 1 11, 2 10, 4 6}]",23,18,11,10,0,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2020-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vl-homutov@users.noreply.github.com]",69.0,"[{0 18, ""other"" 23, 1 12, 2 10, 4 6}]",23,18,12,10,0,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2022-04-12,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[liam.crilly@nginx.com, liam.crilly@nginx.com, liam.crilly@nginx.com, liam.crilly@nginx.com, liam.crilly@nginx.com]",74.0,"[{0 18, ""other"" 23, 1 12, 2 10, 4 6, 3 5}]",23,18,12,10,5,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2022-04-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tippexs91@googlemail.com, tippexs91@googlemail.com, tippexs91@googlemail.com, tippexs91@googlemail.com]",78.0,"[{0 18, ""other"" 27, 1 12, 2 10, 4 6, 3 5}]",27,18,12,10,5,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2022-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[liam.crilly@nginx.com]",79.0,"[{0 18, ""other"" 27, 1 12, 2 10, 4 6, 3 6}]",27,18,12,10,6,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2022-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[davemc@gmail.com]",80.0,"[{0 18, ""other"" 28, 1 12, 2 10, 4 6, 3 6}]",28,18,12,10,6,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2023-03-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[davemc@gmail.com]",81.0,"[{0 18, ""other"" 29, 1 12, 2 10, 4 6, 3 6}]",29,18,12,10,6,6
+Python,https://github.com/nginxinc/nginx-ldap-auth,2023-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tippexs91@googlemail.com]",82.0,"[{0 18, ""other"" 30, 1 12, 2 10, 4 6, 3 6}]",30,18,12,10,6,6

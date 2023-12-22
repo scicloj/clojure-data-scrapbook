@@ -1,0 +1,136 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clojure/math.combinatorics,2011-08-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/clojure/math.combinatorics,2011-08-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mark.engelberg@gmail.com, mark.engelberg@gmail.com]",6.0,[{0 6}],0,6,0,0,0,0
+Clojure,https://github.com/clojure/math.combinatorics,2011-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",7.0,"[{0 6, 3 1}]",0,6,0,0,1,0
+Clojure,https://github.com/clojure/math.combinatorics,2011-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",8.0,"[{0 6, 3 2}]",0,6,0,0,2,0
+Clojure,https://github.com/clojure/math.combinatorics,2011-09-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[build@clojure.com, build@clojure.com]",10.0,"[{0 6, 3 2, 1 2}]",0,6,2,0,2,0
+Clojure,https://github.com/clojure/math.combinatorics,2011-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",11.0,"[{0 6, 3 3, 1 2}]",0,6,2,0,3,0
+Clojure,https://github.com/clojure/math.combinatorics,2011-10-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com]",14.0,"[{0 7, 3 3, 1 4}]",0,7,4,0,3,0
+Clojure,https://github.com/clojure/math.combinatorics,2012-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",15.0,"[{0 7, 3 4, 1 4}]",0,7,4,0,4,0
+Clojure,https://github.com/clojure/math.combinatorics,2012-07-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com]",18.0,"[{0 8, 3 4, 1 6}]",0,8,6,0,4,0
+Clojure,https://github.com/clojure/math.combinatorics,2012-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cromney@pointslope.com]",19.0,"[{0 8, 3 4, 1 6, ""other"" 1}]",1,8,6,0,4,0
+Clojure,https://github.com/clojure/math.combinatorics,2013-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david@bluemontlabs.com, david@bluemontlabs.com]",21.0,"[{0 8, 3 4, 1 6, ""other"" 3}]",3,8,6,0,4,0
+Clojure,https://github.com/clojure/math.combinatorics,2013-01-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",22.0,"[{0 8, 3 4, 1 6, ""other"" 4}]",4,8,6,0,4,0
+Clojure,https://github.com/clojure/math.combinatorics,2013-03-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[mark.engelberg@gmail.com, build@clojure.com, build@clojure.com]",25.0,"[{0 9, 3 4, 1 8, ""other"" 4}]",4,9,8,0,4,0
+Clojure,https://github.com/clojure/math.combinatorics,2013-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",26.0,"[{0 9, 3 5, 1 8, ""other"" 4}]",4,9,8,0,5,0
+Clojure,https://github.com/clojure/math.combinatorics,2013-10-31,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, build@clojure.com, build@clojure.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",36.0,"[{0 15, 3 5, 1 12, ""other"" 4}]",4,15,12,0,5,0
+Clojure,https://github.com/clojure/math.combinatorics,2013-11-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com]",39.0,"[{0 16, 3 5, 1 14, ""other"" 4}]",4,16,14,0,5,0
+Clojure,https://github.com/clojure/math.combinatorics,2014-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",40.0,"[{0 16, 3 6, 1 14, ""other"" 4}]",4,16,14,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2014-07-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com]",43.0,"[{0 17, 3 6, 1 16, ""other"" 4}]",4,17,16,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2014-07-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mark.engelberg@gmail.com, mark.engelberg@gmail.com]",45.0,"[{0 19, 3 6, 1 16, ""other"" 4}]",4,19,16,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2015-03-16,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, build@clojure.com, build@clojure.com, mark.engelberg@gmail.com]",51.0,"[{0 23, 3 6, 1 18, ""other"" 4}]",4,23,18,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2015-03-17,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",64.0,"[{0 34, 3 6, 1 20, ""other"" 4}]",4,34,20,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2015-03-20,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",71.0,"[{0 39, 3 6, 1 22, ""other"" 4}]",4,39,22,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2016-05-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",75.0,"[{0 41, 3 6, 1 24, ""other"" 4}]",4,41,24,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2016-06-02,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",79.0,"[{0 43, 3 6, 1 26, ""other"" 4}]",4,43,26,0,6,0
+Clojure,https://github.com/clojure/math.combinatorics,2016-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",80.0,"[{0 43, 3 6, 1 26, ""other"" 4, 4 1}]",4,43,26,0,6,1
+Clojure,https://github.com/clojure/math.combinatorics,2017-01-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mark.engelberg@gmail.com, mark.engelberg@gmail.com]",82.0,"[{0 45, 3 6, 1 26, ""other"" 4, 4 1}]",4,45,26,0,6,1
+Clojure,https://github.com/clojure/math.combinatorics,2017-01-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[alex.miller@cognitect.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",85.0,"[{0 47, 3 6, 1 26, ""other"" 4, 4 1, 2 1}]",4,47,26,1,6,1
+Clojure,https://github.com/clojure/math.combinatorics,2017-01-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",89.0,"[{0 51, 3 6, 1 26, ""other"" 4, 4 1, 2 1}]",4,51,26,1,6,1
+Clojure,https://github.com/clojure/math.combinatorics,2017-01-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[build@clojure.com, build@clojure.com]",91.0,"[{0 51, 3 6, 1 28, ""other"" 4, 4 1, 2 1}]",4,51,28,1,6,1
+Clojure,https://github.com/clojure/math.combinatorics,2017-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex@puredanger.com]",92.0,"[{0 51, 3 6, 1 28, ""other"" 4, 4 2, 2 1}]",4,51,28,1,6,2
+Clojure,https://github.com/clojure/math.combinatorics,2017-05-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mark.engelberg@gmail.com]",93.0,"[{0 52, 3 6, 1 28, ""other"" 4, 4 2, 2 1}]",4,52,28,1,6,2
+Clojure,https://github.com/clojure/math.combinatorics,2018-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",94.0,"[{0 52, 3 6, 1 28, ""other"" 4, 4 2, 2 2}]",4,52,28,2,6,2
+Clojure,https://github.com/clojure/math.combinatorics,2019-04-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mark.engelberg@gmail.com, mark.engelberg@gmail.com]",96.0,"[{0 54, 3 6, 1 28, ""other"" 4, 4 2, 2 2}]",4,54,28,2,6,2
+Clojure,https://github.com/clojure/math.combinatorics,2019-04-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[build@clojure.com, build@clojure.com]",98.0,"[{0 54, 3 6, 1 30, ""other"" 4, 4 2, 2 2}]",4,54,30,2,6,2
+Clojure,https://github.com/clojure/math.combinatorics,2019-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",99.0,"[{0 54, 3 7, 1 30, ""other"" 4, 4 2, 2 2}]",4,54,30,2,7,2
+Clojure,https://github.com/clojure/math.combinatorics,2019-07-24,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[build@clojure.com, build@clojure.com, mark.engelberg@gmail.com, mark.engelberg@gmail.com]",103.0,"[{0 56, 3 7, 1 32, ""other"" 4, 4 2, 2 2}]",4,56,32,2,7,2
+Clojure,https://github.com/clojure/math.combinatorics,2020-06-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",104.0,"[{0 56, 3 7, 1 32, ""other"" 4, 4 2, 2 3}]",4,56,32,3,7,2
+Clojure,https://github.com/clojure/math.combinatorics,2020-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",105.0,"[{0 56, 3 8, 1 32, ""other"" 4, 4 2, 2 3}]",4,56,32,3,8,2
+Clojure,https://github.com/clojure/math.combinatorics,2020-09-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",106.0,"[{0 56, 3 8, 1 32, ""other"" 4, 4 2, 2 4}]",4,56,32,4,8,2
+Clojure,https://github.com/clojure/math.combinatorics,2021-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",107.0,"[{0 56, 3 8, 1 32, ""other"" 4, 4 2, 2 5}]",4,56,32,5,8,2
+Clojure,https://github.com/clojure/math.combinatorics,2021-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",108.0,"[{0 56, 3 8, 1 32, ""other"" 4, 4 2, 2 6}]",4,56,32,6,8,2
+Clojure,https://github.com/clojure/math.combinatorics,2023-03-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sritchie09@gmail.com]",109.0,"[{0 56, 3 8, 1 32, ""other"" 5, 4 2, 2 6}]",5,56,32,6,8,2
+Clojure,https://github.com/clojure/math.combinatorics,2023-03-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[alex.miller@cognitect.com, clojure-build@clojure.com, clojure-build@clojure.com, alex.miller@cognitect.com]",113.0,"[{0 56, 3 8, 1 32, ""other"" 7, 4 2, 2 8}]",7,56,32,8,8,2
+Clojure,https://github.com/clojure/math.combinatorics,2023-05-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.miller@cognitect.com]",114.0,"[{0 56, 3 8, 1 32, ""other"" 7, 4 2, 2 9}]",7,56,32,9,8,2
+Clojure,https://github.com/clojure/math.combinatorics,2023-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jarrod@fastmail.com]",115.0,"[{0 56, 3 8, 1 32, ""other"" 8, 4 2, 2 9}]",8,56,32,9,8,2

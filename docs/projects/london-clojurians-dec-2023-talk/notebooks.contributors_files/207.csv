@@ -1,0 +1,387 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,takeoutweight,2011-06-02,4,1,"#{""richhickey@gmail.com""}",4.0,1
+Clojure,takeoutweight,2011-06-04,3,1,"#{""richhickey@gmail.com""}",7.0,1
+Clojure,takeoutweight,2011-06-06,4,1,"#{""richhickey@gmail.com""}",11.0,1
+Clojure,takeoutweight,2011-06-07,4,1,"#{""richhickey@gmail.com""}",15.0,1
+Clojure,takeoutweight,2011-06-08,2,1,"#{""richhickey@gmail.com""}",17.0,1
+Clojure,takeoutweight,2011-06-09,1,1,"#{""richhickey@gmail.com""}",18.0,1
+Clojure,takeoutweight,2011-06-10,25,6,"#{""pair@thinkrelevance.com"" ""stu@thinkrelevance.com"" ""devinw@gmail.com"" ""chouser@n01se.net"" ""richhickey@gmail.com"" ""aaron@aaronbedra.com""}",43.0,6
+Clojure,takeoutweight,2011-06-11,7,3,"#{""devinw@gmail.com"" ""chouser@n01se.net"" ""richhickey@gmail.com""}",50.0,6
+Clojure,takeoutweight,2011-06-12,10,5,"#{""devinw@gmail.com"" ""chouser@n01se.net"" ""mefogus@gmail.com"" ""redinger@gmail.com"" ""richhickey@gmail.com""}",60.0,8
+Clojure,takeoutweight,2011-06-13,6,4,"#{""devinw@gmail.com"" ""chouser@n01se.net"" ""mefogus@gmail.com"" ""redinger@gmail.com""}",66.0,8
+Clojure,takeoutweight,2011-06-14,7,3,"#{""devinw@gmail.com"" ""mefogus@gmail.com"" ""richhickey@gmail.com""}",73.0,8
+Clojure,takeoutweight,2011-06-15,2,1,"#{""mefogus@gmail.com""}",75.0,8
+Clojure,takeoutweight,2011-06-16,9,3,"#{""stu@thinkrelevance.com"" ""chouser@n01se.net"" ""richhickey@gmail.com""}",84.0,8
+Clojure,takeoutweight,2011-06-17,29,9,"#{""pair@thinkrelevance.com"" ""devinw@gmail.com"" ""thickey@gmail.com"" ""chouser@n01se.net"" ""alex.redington@thinkrelevance.com"" ""mefogus@gmail.com"" ""luke@thinkrelevance.com"" ""richhickey@gmail.com"" ""ffailla@gmail.com""}",113.0,12
+Clojure,takeoutweight,2011-06-18,15,4,"#{""chouser@n01se.net"" ""mefogus@gmail.com"" ""luke@thinkrelevance.com"" ""richhickey@gmail.com""}",128.0,12
+Clojure,takeoutweight,2011-06-19,3,2,"#{""devinw@gmail.com"" ""chouser@n01se.net""}",131.0,12
+Clojure,takeoutweight,2011-06-20,16,3,"#{""chouser@n01se.net"" ""mefogus@gmail.com"" ""ethorsen@thortech-solutions.com""}",147.0,13
+Clojure,takeoutweight,2011-06-21,10,4,"#{""devinw@gmail.com"" ""chouser@n01se.net"" ""mefogus@gmail.com"" ""richhickey@gmail.com""}",157.0,13
+Clojure,takeoutweight,2011-06-22,15,3,"#{""devinw@gmail.com"" ""chouser@n01se.net"" ""richhickey@gmail.com""}",172.0,13
+Clojure,takeoutweight,2011-06-23,6,3,"#{""chouser@n01se.net"" ""mefogus@gmail.com"" ""richhickey@gmail.com""}",178.0,13
+Clojure,takeoutweight,2011-06-24,36,11,"#{""mail@stuartsierra.com"" ""pair@thinkrelevance.com"" ""stu@thinkrelevance.com"" ""devinw@gmail.com"" ""thickey@gmail.com"" ""bashwort@gmail.com"" ""alex.redington@thinkrelevance.com"" ""mefogus@gmail.com"" ""luke@thinkrelevance.com"" ""richhickey@gmail.com"" ""aaron@aaronbedra.com""}",214.0,15
+Clojure,takeoutweight,2011-06-25,5,2,"#{""chouser@n01se.net"" ""richhickey@gmail.com""}",219.0,15
+Clojure,takeoutweight,2011-06-26,3,2,"#{""stu@thinkrelevance.com"" ""richhickey@gmail.com""}",222.0,15
+Clojure,takeoutweight,2011-06-28,7,4,"#{""stu@thinkrelevance.com"" ""chouser@n01se.net"" ""bashwort@gmail.com"" ""mefogus@gmail.com""}",229.0,15
+Clojure,takeoutweight,2011-06-29,4,1,"#{""bashwort@gmail.com""}",233.0,15
+Clojure,takeoutweight,2011-06-30,5,1,"#{""mefogus@gmail.com""}",238.0,15
+Clojure,takeoutweight,2011-07-01,29,6,"#{""mail@stuartsierra.com"" ""bobby_calderwood@mac.com"" ""bashwort@gmail.com"" ""alex.redington@thinkrelevance.com"" ""mefogus@gmail.com"" ""richhickey@gmail.com""}",267.0,16
+Clojure,takeoutweight,2011-07-02,10,3,"#{""bobby_calderwood@mac.com"" ""devinw@gmail.com"" ""chouser@n01se.net""}",277.0,16
+Clojure,takeoutweight,2011-07-03,1,1,"#{""chouser@n01se.net""}",278.0,16
+Clojure,takeoutweight,2011-07-04,8,3,"#{""bobby_calderwood@mac.com"" ""mefogus@gmail.com"" ""redinger@gmail.com""}",286.0,16
+Clojure,takeoutweight,2011-07-05,3,1,"#{""redinger@gmail.com""}",289.0,16
+Clojure,takeoutweight,2011-07-06,3,1,"#{""mefogus@gmail.com""}",292.0,16
+Clojure,takeoutweight,2011-07-07,5,1,"#{""bobby_calderwood@mac.com""}",297.0,16
+Clojure,takeoutweight,2011-07-08,5,2,"#{""bashwort@gmail.com"" ""alex.redington@thinkrelevance.com""}",302.0,16
+Clojure,takeoutweight,2011-07-09,4,2,"#{""bashwort@gmail.com"" ""alex.redington@thinkrelevance.com""}",306.0,16
+Clojure,takeoutweight,2011-07-10,1,1,"#{""richhickey@gmail.com""}",307.0,16
+Clojure,takeoutweight,2011-07-11,1,1,"#{""mefogus@gmail.com""}",308.0,16
+Clojure,takeoutweight,2011-07-12,15,3,"#{""thickey@gmail.com"" ""bashwort@gmail.com"" ""mefogus@gmail.com""}",323.0,16
+Clojure,takeoutweight,2011-07-13,8,4,"#{""devinw@gmail.com"" ""thickey@gmail.com"" ""chouser@n01se.net"" ""bashwort@gmail.com""}",331.0,16
+Clojure,takeoutweight,2011-07-14,7,4,"#{""stu@thinkrelevance.com"" ""bashwort@gmail.com"" ""mefogus@gmail.com"" ""richhickey@gmail.com""}",338.0,16
+Clojure,takeoutweight,2011-07-15,70,11,"#{""alan@dipert.org"" ""pair@thinkrelevance.com"" ""stu@thinkrelevance.com"" ""chouser@n01se.net"" ""bashwort@gmail.com"" ""alex.redington@thinkrelevance.com"" ""mefogus@gmail.com"" ""luke@thinkrelevance.com"" ""jessmartin@gmail.com"" ""richhickey@gmail.com"" ""ffailla@gmail.com""}",408.0,18
+Clojure,takeoutweight,2011-07-16,17,7,"#{""stu@thinkrelevance.com"" ""devinw@gmail.com"" ""chouser@n01se.net"" ""bashwort@gmail.com"" ""luke@thinkrelevance.com"" ""richhickey@gmail.com"" ""ffailla@gmail.com""}",425.0,18
+Clojure,takeoutweight,2011-07-17,27,5,"#{""mail@stuartsierra.com"" ""stu@thinkrelevance.com"" ""chouser@n01se.net"" ""bashwort@gmail.com"" ""ffailla@gmail.com""}",452.0,18
+Clojure,takeoutweight,2011-07-18,42,8,"#{""alan@dipert.org"" ""stu@thinkrelevance.com"" ""chouser@n01se.net"" ""bashwort@gmail.com"" ""alex.redington@thinkrelevance.com"" ""mefogus@gmail.com"" ""richhickey@gmail.com"" ""ffailla@gmail.com""}",494.0,18
+Clojure,takeoutweight,2011-07-19,35,5,"#{""stu@thinkrelevance.com"" ""thickey@gmail.com"" ""chouser@n01se.net"" ""bashwort@gmail.com"" ""richhickey@gmail.com""}",529.0,18
+Clojure,takeoutweight,2011-07-20,29,6,"#{""stu@thinkrelevance.com"" ""thickey@gmail.com"" ""chouser@n01se.net"" ""bashwort@gmail.com"" ""mefogus@gmail.com"" ""richhickey@gmail.com""}",558.0,18
+Clojure,takeoutweight,2011-07-21,2,2,"#{""alan@dipert.org"" ""ffailla@gmail.com""}",560.0,18
+Clojure,takeoutweight,2011-07-22,17,6,"#{""alan@dipert.org"" ""chouser@n01se.net"" ""hugo@hugoduncan.org"" ""mefogus@gmail.com"" ""richhickey@gmail.com"" ""ffailla@gmail.com""}",577.0,19
+Clojure,takeoutweight,2011-07-23,7,2,"#{""stu@thinkrelevance.com"" ""bashwort@gmail.com""}",584.0,19
+Clojure,takeoutweight,2011-07-24,2,1,"#{""ffailla@gmail.com""}",586.0,19
+Clojure,takeoutweight,2011-07-25,1,1,"#{""paul.michael.bauer@gmail.com""}",587.0,20
+Clojure,takeoutweight,2011-07-26,2,1,"#{""bashwort@gmail.com""}",589.0,20
+Clojure,takeoutweight,2011-07-27,18,3,"#{""bashwort@gmail.com"" ""mefogus@gmail.com"" ""ffailla@gmail.com""}",607.0,20
+Clojure,takeoutweight,2011-07-28,6,2,"#{""mefogus@gmail.com"" ""ffailla@gmail.com""}",613.0,20
+Clojure,takeoutweight,2011-07-29,14,6,"#{""bobby_calderwood@mac.com"" ""pair@thinkrelevance.com"" ""stu@thinkrelevance.com"" ""alex.redington@thinkrelevance.com"" ""mefogus@gmail.com"" ""ffailla@gmail.com""}",627.0,20
+Clojure,takeoutweight,2011-07-30,5,1,"#{""bashwort@gmail.com""}",632.0,20
+Clojure,takeoutweight,2011-07-31,2,1,"#{""bashwort@gmail.com""}",634.0,20
+Clojure,takeoutweight,2011-08-01,4,1,"#{""bashwort@gmail.com""}",638.0,20
+Clojure,takeoutweight,2011-08-02,1,1,"#{""bobby_calderwood@mac.com""}",639.0,20
+Clojure,takeoutweight,2011-08-03,5,2,"#{""bobby_calderwood@mac.com"" ""juergen@archlinux.org""}",644.0,21
+Clojure,takeoutweight,2011-08-04,10,3,"#{""devinw@gmail.com"" ""bashwort@gmail.com"" ""mefogus@gmail.com""}",654.0,21
+Clojure,takeoutweight,2011-08-05,14,4,"#{""bobby_calderwood@mac.com"" ""pair@thinkrelevance.com"" ""bashwort@gmail.com"" ""mefogus@gmail.com""}",668.0,21
+Clojure,takeoutweight,2011-08-06,4,2,"#{""bobby_calderwood@mac.com"" ""bashwort@gmail.com""}",672.0,21
+Clojure,takeoutweight,2011-08-07,5,2,"#{""bashwort@gmail.com"" ""mefogus@gmail.com""}",677.0,21
+Clojure,takeoutweight,2011-08-08,1,1,"#{""bashwort@gmail.com""}",678.0,21
+Clojure,takeoutweight,2011-08-09,6,3,"#{""bobby_calderwood@mac.com"" ""devinw@gmail.com"" ""bashwort@gmail.com""}",684.0,21
+Clojure,takeoutweight,2011-08-10,5,2,"#{""devinw@gmail.com"" ""bashwort@gmail.com""}",689.0,21
+Clojure,takeoutweight,2011-08-11,4,2,"#{""devinw@gmail.com"" ""chouser@n01se.net""}",693.0,21
+Clojure,takeoutweight,2011-08-12,2,2,"#{""bobby_calderwood@mac.com"" ""pair@thinkrelevance.com""}",695.0,21
+Clojure,takeoutweight,2011-08-15,3,1,"#{""bobby_calderwood@mac.com""}",698.0,21
+Clojure,takeoutweight,2011-08-16,7,3,"#{""bobby_calderwood@mac.com"" ""bashwort@gmail.com"" ""alen.ribic@gmail.com""}",705.0,22
+Clojure,takeoutweight,2011-08-17,3,1,"#{""bashwort@gmail.com""}",708.0,22
+Clojure,takeoutweight,2011-08-19,1,1,"#{""bobby_calderwood@mac.com""}",709.0,22
+Clojure,takeoutweight,2011-08-20,2,2,"#{""devinw@gmail.com"" ""chouser@n01se.net""}",711.0,22
+Clojure,takeoutweight,2011-08-23,3,2,"#{""bobby_calderwood@mac.com"" ""devinw@gmail.com""}",714.0,22
+Clojure,takeoutweight,2011-08-24,2,1,"#{""bobby_calderwood@mac.com""}",716.0,22
+Clojure,takeoutweight,2011-08-25,1,1,"#{""thickey@gmail.com""}",717.0,22
+Clojure,takeoutweight,2011-08-26,4,1,"#{""bashwort@gmail.com""}",721.0,22
+Clojure,takeoutweight,2011-08-30,3,3,"#{""bobby_calderwood@mac.com"" ""david.nolen@gmail.com"" ""redinger@gmail.com""}",724.0,23
+Clojure,takeoutweight,2011-08-31,5,1,"#{""bashwort@gmail.com""}",729.0,23
+Clojure,takeoutweight,2011-09-01,4,1,"#{""bashwort@gmail.com""}",733.0,23
+Clojure,takeoutweight,2011-09-02,2,2,"#{""jli@circularly.org"" ""bobby_calderwood@mac.com""}",735.0,24
+Clojure,takeoutweight,2011-09-07,3,1,"#{""devinw@gmail.com""}",738.0,24
+Clojure,takeoutweight,2011-09-08,1,1,"#{""bobby_calderwood@mac.com""}",739.0,24
+Clojure,takeoutweight,2011-09-09,7,1,"#{""bashwort@gmail.com""}",746.0,24
+Clojure,takeoutweight,2011-09-10,4,3,"#{""devinw@gmail.com"" ""bashwort@gmail.com"" ""wilkesjoiner@gmail.com""}",750.0,25
+Clojure,takeoutweight,2011-09-12,1,1,"#{""hugo@hugoduncan.org""}",751.0,25
+Clojure,takeoutweight,2011-09-13,1,1,"#{""david.nolen@gmail.com""}",752.0,25
+Clojure,takeoutweight,2011-09-14,8,1,"#{""bashwort@gmail.com""}",760.0,25
+Clojure,takeoutweight,2011-09-15,2,2,"#{""michal.marczyk@gmail.com"" ""thickey@gmail.com""}",762.0,26
+Clojure,takeoutweight,2011-09-16,4,2,"#{""bashwort@gmail.com"" ""mefogus@gmail.com""}",766.0,26
+Clojure,takeoutweight,2011-09-17,1,1,"#{""michal.marczyk@gmail.com""}",767.0,26
+Clojure,takeoutweight,2011-09-18,1,1,"#{""david.nolen@gmail.com""}",768.0,26
+Clojure,takeoutweight,2011-09-23,14,2,"#{""david.nolen@gmail.com"" ""mefogus@gmail.com""}",782.0,26
+Clojure,takeoutweight,2011-09-24,5,1,"#{""david.nolen@gmail.com""}",787.0,26
+Clojure,takeoutweight,2011-09-25,1,1,"#{""david.nolen@gmail.com""}",788.0,26
+Clojure,takeoutweight,2011-09-27,6,1,"#{""bashwort@gmail.com""}",794.0,26
+Clojure,takeoutweight,2011-09-28,13,2,"#{""bashwort@gmail.com"" ""luke@thinkrelevance.com""}",807.0,26
+Clojure,takeoutweight,2011-09-30,6,3,"#{""bashwort@gmail.com"" ""mefogus@gmail.com"" ""luke@thinkrelevance.com""}",813.0,26
+Clojure,takeoutweight,2011-10-01,3,3,"#{""devinw@gmail.com"" ""bashwort@gmail.com"" ""mefogus@gmail.com""}",816.0,26
+Clojure,takeoutweight,2011-10-03,1,1,"#{""bashwort@gmail.com""}",817.0,26
+Clojure,takeoutweight,2011-10-04,4,2,"#{""david.nolen@gmail.com"" ""bashwort@gmail.com""}",821.0,26
+Clojure,takeoutweight,2011-10-10,2,1,"#{""david.nolen@gmail.com""}",823.0,26
+Clojure,takeoutweight,2011-10-11,4,1,"#{""david.nolen@gmail.com""}",827.0,26
+Clojure,takeoutweight,2011-10-12,7,1,"#{""david.nolen@gmail.com""}",834.0,26
+Clojure,takeoutweight,2011-10-13,3,2,"#{""david.nolen@gmail.com"" ""mefogus@gmail.com""}",837.0,26
+Clojure,takeoutweight,2011-10-14,4,2,"#{""david.nolen@gmail.com"" ""mefogus@gmail.com""}",841.0,26
+Clojure,takeoutweight,2011-10-15,1,1,"#{""david.nolen@gmail.com""}",842.0,26
+Clojure,takeoutweight,2011-10-20,1,1,"#{""mefogus@gmail.com""}",843.0,26
+Clojure,takeoutweight,2011-10-21,1,1,"#{""mefogus@gmail.com""}",844.0,26
+Clojure,takeoutweight,2011-10-23,3,2,"#{""david.nolen@gmail.com"" ""aaron@aaronbedra.com""}",847.0,26
+Clojure,takeoutweight,2011-10-24,1,1,"#{""bobby_calderwood@mac.com""}",848.0,26
+Clojure,takeoutweight,2011-10-26,1,1,"#{""mefogus@gmail.com""}",849.0,26
+Clojure,takeoutweight,2011-10-28,5,1,"#{""mefogus@gmail.com""}",854.0,26
+Clojure,takeoutweight,2011-10-29,2,1,"#{""mefogus@gmail.com""}",856.0,26
+Clojure,takeoutweight,2011-10-30,1,1,"#{""mefogus@gmail.com""}",857.0,26
+Clojure,takeoutweight,2011-11-03,2,2,"#{""brenton@thinkrelevance.com"" ""mefogus@gmail.com""}",859.0,27
+Clojure,takeoutweight,2011-11-04,7,3,"#{""pair@thinkrelevance.com"" ""david.nolen@gmail.com"" ""mefogus@gmail.com""}",866.0,27
+Clojure,takeoutweight,2011-11-07,1,1,"#{""david.nolen@gmail.com""}",867.0,27
+Clojure,takeoutweight,2011-11-09,3,1,"#{""mefogus@gmail.com""}",870.0,27
+Clojure,takeoutweight,2011-11-10,1,1,"#{""david.nolen@gmail.com""}",871.0,27
+Clojure,takeoutweight,2011-11-13,9,2,"#{""david.nolen@gmail.com"" ""mefogus@gmail.com""}",880.0,27
+Clojure,takeoutweight,2011-11-16,1,1,"#{""david.nolen@gmail.com""}",881.0,27
+Clojure,takeoutweight,2011-11-20,7,2,"#{""david.nolen@gmail.com"" ""wilkesjoiner@gmail.com""}",888.0,27
+Clojure,takeoutweight,2011-11-21,4,1,"#{""david.nolen@gmail.com""}",892.0,27
+Clojure,takeoutweight,2011-11-22,3,2,"#{""wilkesjoiner@gmail.com"" ""mefogus@gmail.com""}",895.0,27
+Clojure,takeoutweight,2011-11-23,2,1,"#{""brenton@thinkrelevance.com""}",897.0,27
+Clojure,takeoutweight,2011-11-24,3,2,"#{""david.nolen@gmail.com"" ""mefogus@gmail.com""}",900.0,27
+Clojure,takeoutweight,2011-12-04,1,1,"#{""brenton@thinkrelevance.com""}",901.0,27
+Clojure,takeoutweight,2011-12-06,1,1,"#{""brenton@thinkrelevance.com""}",902.0,27
+Clojure,takeoutweight,2011-12-07,1,1,"#{""alan@malloys.org""}",903.0,28
+Clojure,takeoutweight,2011-12-08,1,1,"#{""mefogus@gmail.com""}",904.0,28
+Clojure,takeoutweight,2011-12-13,2,1,"#{""david.nolen@gmail.com""}",906.0,28
+Clojure,takeoutweight,2011-12-14,1,1,"#{""david.nolen@gmail.com""}",907.0,28
+Clojure,takeoutweight,2011-12-16,1,1,"#{""bobby_calderwood@mac.com""}",908.0,28
+Clojure,takeoutweight,2011-12-17,1,1,"#{""bobby_calderwood@mac.com""}",909.0,28
+Clojure,takeoutweight,2011-12-18,1,1,"#{""mefogus@gmail.com""}",910.0,28
+Clojure,takeoutweight,2012-01-04,2,1,"#{""kevin@keminglabs.com""}",912.0,29
+Clojure,takeoutweight,2012-01-11,4,1,"#{""david.nolen@gmail.com""}",916.0,29
+Clojure,takeoutweight,2012-01-13,13,3,"#{""bobby_calderwood@mac.com"" ""david.nolen@gmail.com"" ""mefogus@gmail.com""}",929.0,29
+Clojure,takeoutweight,2012-01-14,4,1,"#{""david.nolen@gmail.com""}",933.0,29
+Clojure,takeoutweight,2012-01-17,1,1,"#{""david.nolen@gmail.com""}",934.0,29
+Clojure,takeoutweight,2012-01-18,1,1,"#{""fatrow+hozumi@googlemail.com""}",935.0,30
+Clojure,takeoutweight,2012-01-20,1,1,"#{""brenton@thinkrelevance.com""}",936.0,30
+Clojure,takeoutweight,2012-01-21,1,1,"#{""brenton@thinkrelevance.com""}",937.0,30
+Clojure,takeoutweight,2012-01-24,16,1,"#{""david.nolen@gmail.com""}",953.0,30
+Clojure,takeoutweight,2012-01-25,8,1,"#{""david.nolen@gmail.com""}",961.0,30
+Clojure,takeoutweight,2012-01-26,1,1,"#{""david.nolen@gmail.com""}",962.0,30
+Clojure,takeoutweight,2012-01-27,10,2,"#{""pair@thinkrelevance.com"" ""luke@thinkrelevance.com""}",972.0,30
+Clojure,takeoutweight,2012-01-28,1,1,"#{""david.nolen@gmail.com""}",973.0,30
+Clojure,takeoutweight,2012-01-29,1,1,"#{""nathan.d.sorenson@gmail.com""}",974.0,31
+Clojure,takeoutweight,2012-02-03,1,1,"#{""kevin@keminglabs.com""}",975.0,31
+Clojure,takeoutweight,2012-02-05,1,1,"#{""david.nolen@gmail.com""}",976.0,31
+Clojure,takeoutweight,2012-02-06,2,1,"#{""david.nolen@gmail.com""}",978.0,31
+Clojure,takeoutweight,2012-02-11,1,1,"#{""kevin@keminglabs.com""}",979.0,31
+Clojure,takeoutweight,2012-02-16,1,1,"#{""ckirkendall@gmail.com""}",980.0,32
+Clojure,takeoutweight,2012-02-17,1,1,"#{""luke@thinkrelevance.com""}",981.0,32
+Clojure,takeoutweight,2012-02-18,2,1,"#{""michal.marczyk@gmail.com""}",983.0,32
+Clojure,takeoutweight,2012-02-19,5,1,"#{""david.nolen@gmail.com""}",988.0,32
+Clojure,takeoutweight,2012-02-20,3,2,"#{""david.nolen@gmail.com"" ""brenton@thinkrelevance.com""}",991.0,32
+Clojure,takeoutweight,2012-02-22,3,1,"#{""david.nolen@gmail.com""}",994.0,32
+Clojure,takeoutweight,2012-02-25,1,1,"#{""tom@sharkbay.at""}",995.0,33
+Clojure,takeoutweight,2012-02-28,3,1,"#{""devinw@gmail.com""}",998.0,33
+Clojure,takeoutweight,2012-03-02,1,1,"#{""david.nolen@nytimes.com""}",999.0,34
+Clojure,takeoutweight,2012-03-10,1,1,"#{""mail@stuartsierra.com""}",1000.0,34
+Clojure,takeoutweight,2012-03-11,4,1,"#{""nathan.d.sorenson@gmail.com""}",1004.0,34
+Clojure,takeoutweight,2012-03-14,2,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1006.0,35
+Clojure,takeoutweight,2012-03-18,1,1,"#{""brandon@brandonbloom.name""}",1007.0,36
+Clojure,takeoutweight,2012-03-19,1,1,"#{""romanandreg@gmail.com""}",1008.0,37
+Clojure,takeoutweight,2012-03-22,12,1,"#{""nathan.d.sorenson@gmail.com""}",1020.0,37
+Clojure,takeoutweight,2012-03-23,1,1,"#{""mail@stuartsierra.com""}",1021.0,37
+Clojure,takeoutweight,2012-03-24,4,1,"#{""nathan.d.sorenson@gmail.com""}",1025.0,37
+Clojure,takeoutweight,2012-03-25,3,2,"#{""brandon@brandonbloom.name"" ""dnolen@Davids-MacBook-Pro.local""}",1028.0,37
+Clojure,takeoutweight,2012-03-26,1,1,"#{""nathan.d.sorenson@gmail.com""}",1029.0,37
+Clojure,takeoutweight,2012-03-27,9,1,"#{""nathan.d.sorenson@gmail.com""}",1038.0,37
+Clojure,takeoutweight,2012-03-28,1,1,"#{""nathan.d.sorenson@gmail.com""}",1039.0,37
+Clojure,takeoutweight,2012-03-29,2,2,"#{""ltorokjr@gmail.com"" ""alan@malloys.org""}",1041.0,38
+Clojure,takeoutweight,2012-03-30,2,2,"#{""brenton@thinkrelevance.com"" ""dnolen@Davids-MacBook-Pro.local""}",1043.0,38
+Clojure,takeoutweight,2012-03-31,15,2,"#{""brenton@thinkrelevance.com"" ""nathan.d.sorenson@gmail.com""}",1058.0,38
+Clojure,takeoutweight,2012-04-01,3,1,"#{""nathan.d.sorenson@gmail.com""}",1061.0,38
+Clojure,takeoutweight,2012-04-03,1,1,"#{""nathan.d.sorenson@gmail.com""}",1062.0,38
+Clojure,takeoutweight,2012-04-04,19,2,"#{""nathan.d.sorenson@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1081.0,38
+Clojure,takeoutweight,2012-04-05,18,2,"#{""nathan.d.sorenson@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1099.0,38
+Clojure,takeoutweight,2012-04-06,7,1,"#{""nathan.d.sorenson@gmail.com""}",1106.0,38
+Clojure,takeoutweight,2012-04-07,12,2,"#{""brenton@thinkrelevance.com"" ""dnolen@Davids-MacBook-Pro.local""}",1118.0,38
+Clojure,takeoutweight,2012-04-08,7,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1125.0,38
+Clojure,takeoutweight,2012-04-09,1,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1126.0,38
+Clojure,takeoutweight,2012-04-10,6,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1132.0,38
+Clojure,takeoutweight,2012-04-11,7,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1139.0,38
+Clojure,takeoutweight,2012-04-12,4,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1143.0,38
+Clojure,takeoutweight,2012-04-13,3,2,"#{""bobby_calderwood@mac.com"" ""dnolen@Davids-MacBook-Pro.local""}",1146.0,38
+Clojure,takeoutweight,2012-04-14,1,1,"#{""brandon@brandonbloom.name""}",1147.0,38
+Clojure,takeoutweight,2012-04-15,4,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1151.0,38
+Clojure,takeoutweight,2012-04-16,3,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1154.0,38
+Clojure,takeoutweight,2012-04-17,2,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1156.0,38
+Clojure,takeoutweight,2012-04-18,1,1,"#{""michal.marczyk@gmail.com""}",1157.0,38
+Clojure,takeoutweight,2012-04-19,3,2,"#{""ulrich.moritz@googlemail.com"" ""brobronsa@gmail.com""}",1160.0,40
+Clojure,takeoutweight,2012-04-20,2,2,"#{""michal.marczyk@gmail.com"" ""hubert@happyhacking.nl""}",1162.0,41
+Clojure,takeoutweight,2012-04-21,16,3,"#{""michal.marczyk@gmail.com"" ""hubert@happyhacking.nl"" ""dnolen@Davids-MacBook-Pro.local""}",1178.0,41
+Clojure,takeoutweight,2012-04-22,8,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1186.0,41
+Clojure,takeoutweight,2012-04-23,4,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1190.0,41
+Clojure,takeoutweight,2012-04-24,4,2,"#{""michal.marczyk@gmail.com"" ""brobronsa@gmail.com""}",1194.0,41
+Clojure,takeoutweight,2012-04-25,2,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1196.0,41
+Clojure,takeoutweight,2012-04-26,4,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1200.0,41
+Clojure,takeoutweight,2012-04-27,1,1,"#{""brandon@brandonbloom.name""}",1201.0,41
+Clojure,takeoutweight,2012-04-28,1,1,"#{""jonas.enlund@gmail.com""}",1202.0,42
+Clojure,takeoutweight,2012-04-29,11,3,"#{""brandon@brandonbloom.name"" ""jonas.enlund@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1213.0,42
+Clojure,takeoutweight,2012-04-30,13,4,"#{""michal.marczyk@gmail.com"" ""jonas.enlund@gmail.com"" ""hubert@happyhacking.nl"" ""dnolen@Davids-MacBook-Pro.local""}",1226.0,42
+Clojure,takeoutweight,2012-05-01,6,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1232.0,42
+Clojure,takeoutweight,2012-05-02,14,3,"#{""michal.marczyk@gmail.com"" ""davesann.p@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1246.0,43
+Clojure,takeoutweight,2012-05-03,7,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1253.0,43
+Clojure,takeoutweight,2012-05-04,6,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1259.0,43
+Clojure,takeoutweight,2012-05-05,5,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1264.0,43
+Clojure,takeoutweight,2012-05-06,8,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1272.0,43
+Clojure,takeoutweight,2012-05-07,1,1,"#{""michal.marczyk@gmail.com""}",1273.0,43
+Clojure,takeoutweight,2012-05-08,9,2,"#{""hubert@happyhacking.nl"" ""dnolen@Davids-MacBook-Pro.local""}",1282.0,43
+Clojure,takeoutweight,2012-05-09,5,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1287.0,43
+Clojure,takeoutweight,2012-05-10,7,2,"#{""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1294.0,43
+Clojure,takeoutweight,2012-05-11,10,5,"#{""mail@stuartsierra.com"" ""michal.marczyk@gmail.com"" ""ulrich.moritz@googlemail.com"" ""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1304.0,43
+Clojure,takeoutweight,2012-05-12,3,2,"#{""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1307.0,43
+Clojure,takeoutweight,2012-05-15,5,3,"#{""michal.marczyk@gmail.com"" ""hubert@happyhacking.nl"" ""dnolen@Davids-MacBook-Pro.local""}",1312.0,43
+Clojure,takeoutweight,2012-05-17,6,3,"#{""michal.marczyk@gmail.com"" ""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1318.0,43
+Clojure,takeoutweight,2012-05-18,7,2,"#{""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1325.0,43
+Clojure,takeoutweight,2012-05-19,3,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1328.0,43
+Clojure,takeoutweight,2012-05-20,13,3,"#{""el.wubo@gmail.com"" ""evan@meebo-inc.com"" ""dnolen@Davids-MacBook-Pro.local""}",1341.0,45
+Clojure,takeoutweight,2012-05-21,8,3,"#{""nathan.d.sorenson@gmail.com"" ""wilkesjoiner@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1349.0,45
+Clojure,takeoutweight,2012-05-22,11,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1360.0,45
+Clojure,takeoutweight,2012-05-23,7,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1367.0,45
+Clojure,takeoutweight,2012-05-24,13,2,"#{""el.wubo@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1380.0,45
+Clojure,takeoutweight,2012-05-25,11,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1391.0,45
+Clojure,takeoutweight,2012-05-26,3,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1394.0,45
+Clojure,takeoutweight,2012-05-27,1,1,"#{""el.wubo@gmail.com""}",1395.0,45
+Clojure,takeoutweight,2012-05-28,16,2,"#{""el.wubo@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1411.0,45
+Clojure,takeoutweight,2012-05-29,5,3,"#{""michal.marczyk@gmail.com"" ""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1416.0,45
+Clojure,takeoutweight,2012-05-30,4,3,"#{""el.wubo@gmail.com"" ""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1420.0,45
+Clojure,takeoutweight,2012-05-31,7,3,"#{""michal.marczyk@gmail.com"" ""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1427.0,45
+Clojure,takeoutweight,2012-06-01,17,4,"#{""el.wubo@gmail.com"" ""michal.marczyk@gmail.com"" ""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1444.0,45
+Clojure,takeoutweight,2012-06-02,1,1,"#{""brandon@brandonbloom.name""}",1445.0,45
+Clojure,takeoutweight,2012-06-03,6,2,"#{""brandon@brandonbloom.name"" ""dnolen@Davids-MacBook-Pro.local""}",1451.0,45
+Clojure,takeoutweight,2012-06-04,6,3,"#{""brandon@brandonbloom.name"" ""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1457.0,45
+Clojure,takeoutweight,2012-06-05,4,4,"#{""brandon@brandonbloom.name"" ""michal.marczyk@gmail.com"" ""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1461.0,45
+Clojure,takeoutweight,2012-06-06,3,2,"#{""michal.marczyk@gmail.com"" ""mefogus@gmail.com""}",1464.0,45
+Clojure,takeoutweight,2012-06-07,6,2,"#{""brobronsa@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1470.0,45
+Clojure,takeoutweight,2012-06-08,20,3,"#{""brenton@thinkrelevance.com"" ""raph.amiard@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1490.0,46
+Clojure,takeoutweight,2012-06-11,1,1,"#{""brobronsa@gmail.com""}",1491.0,46
+Clojure,takeoutweight,2012-06-12,1,1,"#{""michal.marczyk@gmail.com""}",1492.0,46
+Clojure,takeoutweight,2012-06-13,4,2,"#{""mefogus@gmail.com"" ""raph.amiard@gmail.com""}",1496.0,46
+Clojure,takeoutweight,2012-06-14,3,2,"#{""mefogus@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1499.0,46
+Clojure,takeoutweight,2012-06-15,2,1,"#{""raph.amiard@gmail.com""}",1501.0,46
+Clojure,takeoutweight,2012-06-16,1,1,"#{""michal.marczyk@gmail.com""}",1502.0,46
+Clojure,takeoutweight,2012-06-17,1,1,"#{""brandon@brandonbloom.name""}",1503.0,46
+Clojure,takeoutweight,2012-06-19,1,1,"#{""michal.marczyk@gmail.com""}",1504.0,46
+Clojure,takeoutweight,2012-06-21,1,1,"#{""brandon@brandonbloom.name""}",1505.0,46
+Clojure,takeoutweight,2012-06-23,1,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1506.0,46
+Clojure,takeoutweight,2012-06-24,1,1,"#{""brandon@brandonbloom.name""}",1507.0,46
+Clojure,takeoutweight,2012-06-25,7,2,"#{""michal.marczyk@gmail.com"" ""nathan.d.sorenson@gmail.com""}",1514.0,46
+Clojure,takeoutweight,2012-06-28,2,1,"#{""michal.marczyk@gmail.com""}",1516.0,46
+Clojure,takeoutweight,2012-07-02,1,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1517.0,46
+Clojure,takeoutweight,2012-07-03,3,3,"#{""michal.marczyk@gmail.com"" ""jonas.enlund@gmail.com"" ""evan@meebo-inc.com""}",1520.0,46
+Clojure,takeoutweight,2012-07-04,6,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1526.0,46
+Clojure,takeoutweight,2012-07-07,1,1,"#{""brenton@thinkrelevance.com""}",1527.0,46
+Clojure,takeoutweight,2012-07-09,1,1,"#{""zach.allaun@gmail.com""}",1528.0,47
+Clojure,takeoutweight,2012-07-10,4,2,"#{""duffy@indeed.com"" ""dnolen@Davids-MacBook-Pro.local""}",1532.0,48
+Clojure,takeoutweight,2012-07-16,1,1,"#{""duffy@indeed.com""}",1533.0,48
+Clojure,takeoutweight,2012-07-24,1,1,"#{""brenton@thinkrelevance.com""}",1534.0,48
+Clojure,takeoutweight,2012-07-25,1,1,"#{""evan@meebo-inc.com""}",1535.0,48
+Clojure,takeoutweight,2012-07-27,1,1,"#{""zach.allaun@gmail.com""}",1536.0,48
+Clojure,takeoutweight,2012-08-01,2,1,"#{""brobronsa@gmail.com""}",1538.0,48
+Clojure,takeoutweight,2012-08-02,1,1,"#{""el.wubo@gmail.com""}",1539.0,48
+Clojure,takeoutweight,2012-08-03,2,1,"#{""mail@stuartsierra.com""}",1541.0,48
+Clojure,takeoutweight,2012-08-08,1,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1542.0,48
+Clojure,takeoutweight,2012-08-09,1,1,"#{""raph.amiard@gmail.com""}",1543.0,48
+Clojure,takeoutweight,2012-08-10,1,1,"#{""mail@stuartsierra.com""}",1544.0,48
+Clojure,takeoutweight,2012-08-11,1,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1545.0,48
+Clojure,takeoutweight,2012-08-12,1,1,"#{""brandon@brandonbloom.name""}",1546.0,48
+Clojure,takeoutweight,2012-08-14,4,2,"#{""roman.scherer@burningswell.com"" ""dnolen@Davids-MacBook-Pro.local""}",1550.0,49
+Clojure,takeoutweight,2012-08-15,1,1,"#{""michal.marczyk@gmail.com""}",1551.0,49
+Clojure,takeoutweight,2012-08-17,2,2,"#{""michal.marczyk@gmail.com"" ""dnolen@Davids-MacBook-Pro.local""}",1553.0,49
+Clojure,takeoutweight,2012-08-29,1,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1554.0,49
+Clojure,takeoutweight,2012-08-30,5,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1559.0,49
+Clojure,takeoutweight,2012-08-31,1,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1560.0,49
+Clojure,takeoutweight,2012-09-02,1,1,"#{""brandon@brandonbloom.name""}",1561.0,49
+Clojure,takeoutweight,2012-09-03,2,1,"#{""brandon@brandonbloom.name""}",1563.0,49
+Clojure,takeoutweight,2012-09-05,2,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1565.0,49
+Clojure,takeoutweight,2012-09-06,3,2,"#{""chas@cemerick.com"" ""dnolen@Davids-MacBook-Pro.local""}",1568.0,50
+Clojure,takeoutweight,2012-09-07,3,1,"#{""dnolen@Davids-MacBook-Pro.local""}",1571.0,50
+Clojure,takeoutweight,2012-09-08,2,2,"#{""evan@meebo-inc.com"" ""dnolen@Davids-MacBook-Pro.local""}",1573.0,50
+Clojure,takeoutweight,2012-09-13,1,1,"#{""chas@cemerick.com""}",1574.0,50
+Clojure,takeoutweight,2012-09-16,1,1,"#{""tom@tomoj.la""}",1575.0,51
+Clojure,takeoutweight,2012-09-19,1,1,"#{""tom@tomoj.la""}",1576.0,51
+Clojure,takeoutweight,2012-09-22,1,1,"#{""chas@cemerick.com""}",1577.0,51
+Clojure,takeoutweight,2012-09-28,6,4,"#{""mail@stuartsierra.com"" ""paul.degrandis@gmail.com"" ""edtsech@gmail.com"" ""brenton@thinkrelevance.com""}",1583.0,53
+Clojure,takeoutweight,2012-09-29,1,1,"#{""david.nolen@nytimes.com""}",1584.0,53
+Clojure,takeoutweight,2012-10-05,1,1,"#{""fredericksgary@gmail.com""}",1585.0,54
+Clojure,takeoutweight,2012-10-08,2,1,"#{""tom@tomoj.la""}",1587.0,54
+Clojure,takeoutweight,2012-10-11,1,1,"#{""el.wubo@gmail.com""}",1588.0,54
+Clojure,takeoutweight,2012-10-15,5,3,"#{""frank.siebenlist@gmail.com"" ""dnolen@Davids-MacBook-Pro-2.local"" ""erik.ouchterlony@bredband.net""}",1593.0,57
+Clojure,takeoutweight,2012-10-16,3,2,"#{""dnolen@Davids-MacBook-Pro-2.local"" ""edtsech@gmail.com""}",1596.0,57
+Clojure,takeoutweight,2012-10-18,1,1,"#{""erik.ouchterlony@bredband.net""}",1597.0,57
+Clojure,takeoutweight,2012-10-19,2,2,"#{""dnolen@Davids-MacBook-Pro-2.local"" ""chas@cemerick.com""}",1599.0,57
+Clojure,takeoutweight,2012-10-20,1,1,"#{""paul.degrandis@gmail.com""}",1600.0,57
+Clojure,takeoutweight,2012-10-22,5,2,"#{""paul.degrandis@gmail.com"" ""hhochleitner@gmail.com""}",1605.0,58
+Clojure,takeoutweight,2012-10-23,1,1,"#{""dnolen@Davids-MacBook-Pro-2.local""}",1606.0,58
+Clojure,takeoutweight,2012-10-27,3,2,"#{""brandon@brandonbloom.name"" ""dnolen@Davids-MacBook-Pro-2.local""}",1609.0,58
+Clojure,takeoutweight,2012-10-28,1,1,"#{""dnolen@Davids-MacBook-Pro-2.local""}",1610.0,58
+Clojure,takeoutweight,2012-10-29,2,2,"#{""dnolen@Davids-MacBook-Pro-2.local"" ""hhochleitner@gmail.com""}",1612.0,58
+Clojure,takeoutweight,2012-11-02,3,2,"#{""dnolen@Davids-MacBook-Pro-2.local"" ""hhochleitner@gmail.com""}",1615.0,58
+Clojure,takeoutweight,2012-11-03,4,2,"#{""mail@stuartsierra.com"" ""hhochleitner@gmail.com""}",1619.0,58
+Clojure,takeoutweight,2012-11-07,1,1,"#{""mail@stuartsierra.com""}",1620.0,58
+Clojure,takeoutweight,2012-11-12,1,1,"#{""hhochleitner@gmail.com""}",1621.0,58
+Clojure,takeoutweight,2012-11-18,2,1,"#{""dnolen@Davids-MacBook-Pro-2.local""}",1623.0,58
+Clojure,takeoutweight,2012-11-19,4,3,"#{""m@qbits.cc"" ""brandon@brandonbloom.name"" ""dnolen@Davids-MacBook-Pro-2.local""}",1627.0,59
+Clojure,takeoutweight,2012-11-21,5,2,"#{""brandon@brandonbloom.name"" ""dnolen@Davids-MacBook-Pro-2.local""}",1632.0,59
+Clojure,takeoutweight,2012-11-22,1,1,"#{""romanandreg@gmail.com""}",1633.0,59
+Clojure,takeoutweight,2012-11-23,1,1,"#{""dnolen@Davids-MacBook-Pro-2.local""}",1634.0,59
+Clojure,takeoutweight,2012-11-26,1,1,"#{""michal.marczyk@gmail.com""}",1635.0,59
+Clojure,takeoutweight,2012-11-27,1,1,"#{""brandon@brandonbloom.name""}",1636.0,59
+Clojure,takeoutweight,2012-11-28,1,1,"#{""brandon@brandonbloom.name""}",1637.0,59
+Clojure,takeoutweight,2012-12-04,3,1,"#{""nathan.d.sorenson@gmail.com""}",1640.0,59
+Clojure,takeoutweight,2012-12-06,1,1,"#{""brandon@brandonbloom.name""}",1641.0,59
+Clojure,takeoutweight,2012-12-11,2,1,"#{""brandon@brandonbloom.name""}",1643.0,59
+Clojure,takeoutweight,2012-12-15,1,1,"#{""michal.marczyk@gmail.com""}",1644.0,59
+Clojure,takeoutweight,2012-12-18,2,1,"#{""dnolen@Davids-MacBook-Pro-2.local""}",1646.0,59
+Clojure,takeoutweight,2012-12-20,4,2,"#{""dnolen@Davids-MacBook-Pro-2.local"" ""thickey@gmail.com""}",1650.0,59
+Clojure,takeoutweight,2012-12-21,1,1,"#{""dnolen@Davids-MacBook-Pro-2.local""}",1651.0,59
+Clojure,takeoutweight,2012-12-22,3,2,"#{""dnolen@Davids-MacBook-Pro-2.local"" ""david.nolen@gmail.com""}",1654.0,59
+Clojure,takeoutweight,2012-12-23,1,1,"#{""tom@tomoj.la""}",1655.0,59
+Clojure,takeoutweight,2013-01-07,1,1,"#{""nathan.d.sorenson@gmail.com""}",1656.0,59
+Clojure,takeoutweight,2013-01-09,1,1,"#{""mefogus@gmail.com""}",1657.0,59
+Clojure,takeoutweight,2013-01-12,1,1,"#{""jonas.enlund@gmail.com""}",1658.0,59
+Clojure,takeoutweight,2013-01-21,1,1,"#{""michal.marczyk@gmail.com""}",1659.0,59
+Clojure,takeoutweight,2013-01-22,1,1,"#{""david.nolen@gmail.com""}",1660.0,59
+Clojure,takeoutweight,2013-01-24,2,1,"#{""michal.marczyk@gmail.com""}",1662.0,59
+Clojure,takeoutweight,2013-01-26,3,3,"#{""david.nolen@gmail.com"" ""nathan.d.sorenson@gmail.com"" ""chas@cemerick.com""}",1665.0,59
+Clojure,takeoutweight,2013-01-27,1,1,"#{""nathan.d.sorenson@gmail.com""}",1666.0,59
+Clojure,takeoutweight,2013-01-28,2,1,"#{""nathan.d.sorenson@gmail.com""}",1668.0,59
+Clojure,takeoutweight,2013-01-30,1,1,"#{""nathan.d.sorenson@gmail.com""}",1669.0,59
+Clojure,takeoutweight,2013-02-05,1,1,"#{""nathan.d.sorenson@gmail.com""}",1670.0,59
+Clojure,takeoutweight,2013-02-06,2,1,"#{""nathan.d.sorenson@gmail.com""}",1672.0,59
+Clojure,takeoutweight,2013-02-07,1,1,"#{""nathan.d.sorenson@gmail.com""}",1673.0,59
+Clojure,takeoutweight,2013-02-20,5,1,"#{""nathan.d.sorenson@gmail.com""}",1678.0,59
+Clojure,takeoutweight,2013-02-21,12,1,"#{""nathan.d.sorenson@gmail.com""}",1690.0,59
+Clojure,takeoutweight,2013-02-22,12,1,"#{""nathan.d.sorenson@gmail.com""}",1702.0,59
+Clojure,takeoutweight,2013-02-24,10,1,"#{""nathan.d.sorenson@gmail.com""}",1712.0,59
+Clojure,takeoutweight,2013-02-25,16,1,"#{""nathan.d.sorenson@gmail.com""}",1728.0,59
+Clojure,takeoutweight,2013-02-26,11,1,"#{""nathan.d.sorenson@gmail.com""}",1739.0,59
+Clojure,takeoutweight,2013-02-27,3,1,"#{""nathan.d.sorenson@gmail.com""}",1742.0,59
+Clojure,takeoutweight,2013-02-28,6,1,"#{""nathan.d.sorenson@gmail.com""}",1748.0,59
+Clojure,takeoutweight,2013-03-03,10,1,"#{""nathan.d.sorenson@gmail.com""}",1758.0,59
+Clojure,takeoutweight,2013-03-04,1,1,"#{""nathan.d.sorenson@gmail.com""}",1759.0,59
+Clojure,takeoutweight,2013-03-17,13,1,"#{""nathan.d.sorenson@gmail.com""}",1772.0,59
+Clojure,takeoutweight,2013-03-18,7,1,"#{""nathan.d.sorenson@gmail.com""}",1779.0,59
+Clojure,takeoutweight,2013-04-02,2,1,"#{""nathan.d.sorenson@gmail.com""}",1781.0,59
+Clojure,takeoutweight,2013-04-08,4,1,"#{""nathan.d.sorenson@gmail.com""}",1785.0,59
+Clojure,takeoutweight,2013-04-10,4,1,"#{""nathan.d.sorenson@gmail.com""}",1789.0,59
+Clojure,takeoutweight,2013-04-11,7,1,"#{""nathan.d.sorenson@gmail.com""}",1796.0,59
+Clojure,takeoutweight,2013-04-12,2,1,"#{""nathan.d.sorenson@gmail.com""}",1798.0,59
+Clojure,takeoutweight,2013-04-13,10,1,"#{""nathan.d.sorenson@gmail.com""}",1808.0,59
+Clojure,takeoutweight,2013-04-14,4,1,"#{""nathan.d.sorenson@gmail.com""}",1812.0,59
+Clojure,takeoutweight,2013-04-19,5,1,"#{""nathan.d.sorenson@gmail.com""}",1817.0,59
+Clojure,takeoutweight,2013-04-23,4,1,"#{""nathan.d.sorenson@gmail.com""}",1821.0,59
+Clojure,takeoutweight,2013-05-05,13,1,"#{""nathan.d.sorenson@gmail.com""}",1834.0,59
+Clojure,takeoutweight,2013-05-13,8,1,"#{""nathan.d.sorenson@gmail.com""}",1842.0,59
+Clojure,takeoutweight,2013-05-15,6,1,"#{""nathan.d.sorenson@gmail.com""}",1848.0,59
+Clojure,takeoutweight,2013-05-16,3,1,"#{""nathan.d.sorenson@gmail.com""}",1851.0,59
+Clojure,takeoutweight,2013-05-19,4,1,"#{""nathan.d.sorenson@gmail.com""}",1855.0,59
+Clojure,takeoutweight,2013-05-20,5,1,"#{""nathan.d.sorenson@gmail.com""}",1860.0,59
+Clojure,takeoutweight,2013-05-21,2,1,"#{""nathan.d.sorenson@gmail.com""}",1862.0,59
+Clojure,takeoutweight,2013-05-22,1,1,"#{""nathan.d.sorenson@gmail.com""}",1863.0,59
+Clojure,takeoutweight,2013-05-25,8,1,"#{""nathan.d.sorenson@gmail.com""}",1871.0,59
+Clojure,takeoutweight,2013-05-26,5,1,"#{""nathan.d.sorenson@gmail.com""}",1876.0,59
+Clojure,takeoutweight,2013-05-27,6,1,"#{""nathan.d.sorenson@gmail.com""}",1882.0,59
+Clojure,takeoutweight,2013-05-28,4,1,"#{""nathan.d.sorenson@gmail.com""}",1886.0,59
+Clojure,takeoutweight,2013-05-29,9,1,"#{""nathan.d.sorenson@gmail.com""}",1895.0,59
+Clojure,takeoutweight,2013-05-30,4,1,"#{""nathan.d.sorenson@gmail.com""}",1899.0,59
+Clojure,takeoutweight,2013-05-31,1,1,"#{""nathan.d.sorenson@gmail.com""}",1900.0,59
+Clojure,takeoutweight,2013-06-02,1,1,"#{""nathan.d.sorenson@gmail.com""}",1901.0,59
+Clojure,takeoutweight,2013-06-05,9,1,"#{""nathan.d.sorenson@gmail.com""}",1910.0,59
+Clojure,takeoutweight,2013-06-06,7,1,"#{""nathan.d.sorenson@gmail.com""}",1917.0,59
+Clojure,takeoutweight,2013-06-21,1,1,"#{""nathan.d.sorenson@gmail.com""}",1918.0,59
+Clojure,takeoutweight,2013-07-02,2,1,"#{""nathan.d.sorenson@gmail.com""}",1920.0,59
+Clojure,takeoutweight,2013-07-04,1,1,"#{""p@banphim.net""}",1921.0,60
+Clojure,takeoutweight,2013-07-05,1,1,"#{""nathan.d.sorenson@gmail.com""}",1922.0,60
+Clojure,takeoutweight,2013-07-06,4,1,"#{""nathan.d.sorenson@gmail.com""}",1926.0,60
+Clojure,takeoutweight,2013-07-07,4,1,"#{""nathan.d.sorenson@gmail.com""}",1930.0,60
+Clojure,takeoutweight,2019-02-06,1,1,"#{""nathan.d.sorenson@gmail.com""}",1931.0,60

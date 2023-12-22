@@ -1,0 +1,580 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/djangonauts/django-hstore,2011-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mccoy.jordan@gmail.com]",1.0,"[{""other"" 1}]",1,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-01-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mccoy.jordan@gmail.com, mccoy.jordan@gmail.com]",3.0,"[{""other"" 3}]",3,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mccoy.jordan@gmail.com]",4.0,"[{""other"" 4}]",4,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mccoy.jordan@gmail.com]",5.0,"[{""other"" 5}]",5,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-01-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mccoy.jordan@gmail.com, mccoy.jordan@gmail.com]",7.0,"[{""other"" 7}]",7,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mccoy.jordan@gmail.com]",8.0,"[{""other"" 8}]",8,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-04-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jannis@leidel.info, jannis@leidel.info, jannis@leidel.info]",11.0,"[{""other"" 11}]",11,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-04-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[mccoy.jordan@gmail.com, mccoy.jordan@gmail.com, mccoy.jordan@gmail.com, jannis@leidel.info]",15.0,"[{""other"" 15}]",15,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-05-20,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[antyqjon@gmail.com, antyqjon@gmail.com, antyqjon@gmail.com, antyqjon@gmail.com, antyqjon@gmail.com]",20.0,"[{""other"" 20}]",20,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",21.0,"[{""other"" 21}]",21,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",22.0,"[{""other"" 22}]",22,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-07-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",23.0,"[{""other"" 23}]",23,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",24.0,"[{""other"" 24}]",24,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-07-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",25.0,"[{""other"" 25}]",25,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",26.0,"[{""other"" 26}]",26,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",27.0,"[{""other"" 27}]",27,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zoharz@infinidat.com]",28.0,"[{""other"" 28}]",28,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[oli@tippr.com]",29.0,"[{""other"" 29}]",29,0,0,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2011-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.be]",30.0,"[{""other"" 29, 1 1}]",29,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pavel.v.chernykh@gmail.com]",31.0,"[{""other"" 30, 1 1}]",30,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mikko@aino.com]",32.0,"[{""other"" 31, 1 1}]",31,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-02-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[mikko@aino.com, mikko@aino.com, mikko@aino.com]",35.0,"[{""other"" 34, 1 1}]",34,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mikko@aino.com]",36.0,"[{""other"" 35, 1 1}]",35,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-02-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[mikko@aino.com, mikko@aino.com, mikko@aino.com, mikko@aino.com]",40.0,"[{""other"" 39, 1 1}]",39,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mikko@aino.se]",41.0,"[{""other"" 40, 1 1}]",40,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adieu@adieu.me]",42.0,"[{""other"" 41, 1 1}]",41,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adieu@adieu.me]",43.0,"[{""other"" 42, 1 1}]",42,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zloy.alu@gmail.com]",44.0,"[{""other"" 43, 1 1}]",43,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zloy.alu@gmail.com]",45.0,"[{""other"" 44, 1 1}]",44,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fission6@fission6.(none)]",46.0,"[{""other"" 45, 1 1}]",45,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-08-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[fission6@fission6.(none), donald.stufft@gmail.com]",48.0,"[{""other"" 47, 1 1}]",47,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-08-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[zloy.alu@gmail.com, zloy.alu@gmail.com]",50.0,"[{""other"" 49, 1 1}]",49,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zloy.alu@gmail.com]",51.0,"[{""other"" 50, 1 1}]",50,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-09-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jann@pocketvillage.com, jann@pocketvillage.com, jann@pocketvillage.com]",54.0,"[{""other"" 53, 1 1}]",53,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-10-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jann@pocketvillage.com, jann@pocketvillage.com]",56.0,"[{""other"" 55, 1 1}]",55,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jann@pocketvillage.com]",57.0,"[{""other"" 56, 1 1}]",56,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adieu@adieu.me]",58.0,"[{""other"" 57, 1 1}]",57,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-11-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jannis@leidel.info, jannis@leidel.info]",60.0,"[{""other"" 59, 1 1}]",59,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[anton.egoroff@gmail.com]",61.0,"[{""other"" 60, 1 1}]",60,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adieu@adieu.me]",62.0,"[{""other"" 61, 1 1}]",61,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2012-12-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[adieu@adieu.me, adieu@adieu.me, adieu@adieu.me, adieu@adieu.me]",66.0,"[{""other"" 65, 1 1}]",65,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[GeyseR85@gmail.com]",67.0,"[{""other"" 66, 1 1}]",66,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[anton.egoroff@gmail.com]",68.0,"[{""other"" 67, 1 1}]",67,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-03-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[will@willhardy.com.au, will@willhardy.com.au]",70.0,"[{""other"" 69, 1 1}]",69,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[naddiseo+github@gmail.com]",71.0,"[{""other"" 70, 1 1}]",70,0,1,0,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[federico.capoano@teletu.it]",72.0,"[{""other"" 70, 1 1, 2 1}]",70,0,1,1,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-08-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it]",78.0,"[{""other"" 70, 1 1, 2 7}]",70,0,1,7,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-08-11,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it, federico.capoano@teletu.it]",85.0,"[{""other"" 70, 1 1, 2 14}]",70,0,1,14,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stefanobrilli@gmail.com]",86.0,"[{""other"" 71, 1 1, 2 14}]",71,0,1,14,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-08-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[github@naddiseo.ca, federico.capoano@teletu.it, federico.capoano@teletu.it]",89.0,"[{""other"" 72, 1 1, 2 16}]",72,0,1,16,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-08-23,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[stefanobrilli@gmail.com, federico.capoano@teletu.it, stefanobrilli@gmail.com, stefanobrilli@gmail.com, stefanobrilli@gmail.com, stefanobrilli@gmail.com]",95.0,"[{""other"" 77, 1 1, 2 17}]",77,0,1,17,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-08-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[stefanobrilli@gmail.com, federico.capoano@teletu.it, federico.capoano@teletu.it]",98.0,"[{""other"" 78, 1 1, 2 19}]",78,0,1,19,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-09-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[federico.capoano@teletu.it, federico.capoano@teletu.it]",100.0,"[{""other"" 78, 1 1, 2 21}]",78,0,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-10-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[stefanobrilli@gmail.com, stefanobrilli@gmail.com]",102.0,"[{""other"" 80, 1 1, 2 21}]",80,0,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-12-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",104.0,"[{""other"" 80, 1 1, 2 21, 0 2}]",80,2,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-12-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",107.0,"[{""other"" 80, 1 1, 2 21, 0 5}]",80,5,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-12-21,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, mccoy.jordan@gmail.com, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",119.0,"[{""other"" 81, 1 1, 2 21, 0 16}]",81,16,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-12-22,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",125.0,"[{""other"" 81, 1 1, 2 21, 0 22}]",81,22,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-12-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",127.0,"[{""other"" 81, 1 1, 2 21, 0 24}]",81,24,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-12-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",130.0,"[{""other"" 81, 1 1, 2 21, 0 27}]",81,27,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2013-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",131.0,"[{""other"" 81, 1 1, 2 21, 0 28}]",81,28,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-03,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, scoarescoare@gmail.com, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",140.0,"[{""other"" 82, 1 1, 2 21, 0 36}]",82,36,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",143.0,"[{""other"" 82, 1 1, 2 21, 0 39}]",82,39,1,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-06,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",150.0,"[{""other"" 82, 1 8, 2 21, 0 39}]",82,39,8,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",154.0,"[{""other"" 82, 1 8, 2 21, 0 43}]",82,43,8,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",155.0,"[{""other"" 82, 1 8, 2 21, 0 44}]",82,44,8,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-12,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",162.0,"[{""other"" 82, 1 15, 2 21, 0 44}]",82,44,15,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",163.0,"[{""other"" 82, 1 15, 2 21, 0 45}]",82,45,15,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",164.0,"[{""other"" 82, 1 15, 2 21, 0 46}]",82,46,15,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-20,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[vittorio.zamboni@gmail.com, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",169.0,"[{""other"" 83, 1 15, 2 21, 0 50}]",83,50,15,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vittorio.zamboni@gmail.com]",170.0,"[{""other"" 84, 1 15, 2 21, 0 50}]",84,50,15,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",173.0,"[{""other"" 84, 1 15, 2 21, 0 53}]",84,53,15,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-26,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",185.0,"[{""other"" 84, 1 27, 2 21, 0 53}]",84,53,27,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",186.0,"[{""other"" 84, 1 27, 2 21, 0 54}]",84,54,27,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-01-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",189.0,"[{""other"" 84, 1 27, 2 21, 0 57}]",84,57,27,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",190.0,"[{""other"" 84, 1 27, 2 21, 0 58}]",84,58,27,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-02-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, aljosa.mohorovic@gmail.com]",192.0,"[{""other"" 85, 1 27, 2 21, 0 59}]",85,59,27,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",193.0,"[{""other"" 85, 1 27, 2 21, 0 60}]",85,60,27,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-02-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dczech@gmail.com, dczech@gmail.com]",195.0,"[{""other"" 87, 1 27, 2 21, 0 60}]",87,60,27,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.be]",196.0,"[{""other"" 87, 1 28, 2 21, 0 60}]",87,60,28,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-03-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.be, niwi@niwi.be]",198.0,"[{""other"" 87, 1 30, 2 21, 0 60}]",87,60,30,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-03-11,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, niwi@niwi.be]",203.0,"[{""other"" 87, 1 31, 2 21, 0 64}]",87,64,31,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[naddiseo@gmail.com]",204.0,"[{""other"" 88, 1 31, 2 21, 0 64}]",88,64,31,21,0,0
+Python,https://github.com/djangonauts/django-hstore,2014-03-27,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[info@corneti.com, info@corneti.com, info@corneti.com, info@corneti.com, info@corneti.com, nemesis@ninux.org, nemesis@ninux.org]",211.0,"[{""other"" 88, 1 31, 2 21, 0 66, 3 5}]",88,66,31,21,5,0
+Python,https://github.com/djangonauts/django-hstore,2014-03-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@corneti.com, info@corneti.com]",213.0,"[{""other"" 88, 1 31, 2 21, 0 66, 3 7}]",88,66,31,21,7,0
+Python,https://github.com/djangonauts/django-hstore,2014-03-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[info@corneti.com, info@corneti.com, info@corneti.com]",216.0,"[{""other"" 88, 1 31, 2 21, 0 66, 3 10}]",88,66,31,21,10,0
+Python,https://github.com/djangonauts/django-hstore,2014-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[info@corneti.com, info@corneti.com]",218.0,"[{""other"" 88, 1 31, 2 21, 0 66, 3 12}]",88,66,31,21,12,0
+Python,https://github.com/djangonauts/django-hstore,2014-04-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",219.0,"[{""other"" 88, 1 31, 2 21, 0 67, 3 12}]",88,67,31,21,12,0
+Python,https://github.com/djangonauts/django-hstore,2014-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",220.0,"[{""other"" 88, 1 31, 2 21, 0 68, 3 12}]",88,68,31,21,12,0
+Python,https://github.com/djangonauts/django-hstore,2014-04-16,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[info@corneti.com, elin3t@gmail.com, nemesis@ninux.org]",223.0,"[{""other"" 89, 1 31, 2 21, 0 69, 3 13}]",89,69,31,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-04-17,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, nemesis@ninux.org, nemesis@ninux.org]",226.0,"[{""other"" 89, 1 32, 2 21, 0 71, 3 13}]",89,71,32,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.be]",227.0,"[{""other"" 89, 1 33, 2 21, 0 71, 3 13}]",89,71,33,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-05-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, nemesis@ninux.org, niwi@niwi.be]",230.0,"[{""other"" 89, 1 35, 2 21, 0 72, 3 13}]",89,72,35,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-05-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",233.0,"[{""other"" 89, 1 35, 2 21, 0 75, 3 13}]",89,75,35,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",234.0,"[{""other"" 89, 1 35, 2 21, 0 76, 3 13}]",89,76,35,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-05-11,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, scott.woodall@gmail.com, scott.woodall@gmail.com]",237.0,"[{""other"" 91, 1 36, 2 21, 0 76, 3 13}]",91,76,36,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-05-12,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[scott.woodall@gmail.com, github@naddiseo.ca, scott.woodall@gmail.com, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",243.0,"[{""other"" 94, 1 39, 2 21, 0 76, 3 13}]",94,76,39,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-05-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",244.0,"[{""other"" 94, 1 39, 2 21, 0 77, 3 13}]",94,77,39,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-06-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",245.0,"[{""other"" 94, 1 39, 2 21, 0 78, 3 13}]",94,78,39,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-06-21,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, niwi@niwi.be, niwi@niwi.be]",248.0,"[{""other"" 94, 1 41, 2 21, 0 79, 3 13}]",94,79,41,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-06-23,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[nemesis@ninux.org, niwi@niwi.be, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",256.0,"[{""other"" 94, 1 42, 2 21, 0 86, 3 13}]",94,86,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-06-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",258.0,"[{""other"" 94, 1 42, 2 21, 0 88, 3 13}]",94,88,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-06-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",263.0,"[{""other"" 94, 1 42, 2 21, 0 93, 3 13}]",94,93,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-11,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",269.0,"[{""other"" 94, 1 42, 2 21, 0 99, 3 13}]",94,99,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-15,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",275.0,"[{""other"" 94, 1 42, 2 21, 0 105, 3 13}]",94,105,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-17,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",281.0,"[{""other"" 94, 1 42, 2 21, 0 111, 3 13}]",94,111,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-18,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",288.0,"[{""other"" 94, 1 42, 2 21, 0 118, 3 13}]",94,118,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-21,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",296.0,"[{""other"" 94, 1 42, 2 21, 0 126, 3 13}]",94,126,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[marcelacampo@gmail.com, nemesis@ninux.org]",298.0,"[{""other"" 95, 1 42, 2 21, 0 127, 3 13}]",95,127,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[marcelacampo@gmail.com, marcelacampo@gmail.com, marcelacampo@gmail.com]",301.0,"[{""other"" 98, 1 42, 2 21, 0 127, 3 13}]",98,127,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",302.0,"[{""other"" 98, 1 42, 2 21, 0 128, 3 13}]",98,128,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marcelacampo@gmail.com]",303.0,"[{""other"" 99, 1 42, 2 21, 0 128, 3 13}]",99,128,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-07-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",304.0,"[{""other"" 99, 1 42, 2 21, 0 129, 3 13}]",99,129,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-03,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",311.0,"[{""other"" 99, 1 42, 2 21, 0 136, 3 13}]",99,136,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",313.0,"[{""other"" 99, 1 42, 2 21, 0 138, 3 13}]",99,138,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",315.0,"[{""other"" 99, 1 42, 2 21, 0 140, 3 13}]",99,140,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",317.0,"[{""other"" 99, 1 42, 2 21, 0 142, 3 13}]",99,142,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",318.0,"[{""other"" 99, 1 42, 2 21, 0 143, 3 13}]",99,143,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leonsas@users.noreply.github.com]",319.0,"[{""other"" 100, 1 42, 2 21, 0 143, 3 13}]",100,143,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",320.0,"[{""other"" 100, 1 42, 2 21, 0 144, 3 13}]",100,144,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@naddiseo.ca]",321.0,"[{""other"" 101, 1 42, 2 21, 0 144, 3 13}]",101,144,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-25,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",334.0,"[{""other"" 101, 1 42, 2 21, 0 157, 3 13}]",101,157,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",336.0,"[{""other"" 101, 1 42, 2 21, 0 159, 3 13}]",101,159,42,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-08-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.be, niwi@niwi.be]",338.0,"[{""other"" 101, 1 44, 2 21, 0 159, 3 13}]",101,159,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",339.0,"[{""other"" 101, 1 44, 2 21, 0 160, 3 13}]",101,160,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",340.0,"[{""other"" 101, 1 44, 2 21, 0 161, 3 13}]",101,161,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",341.0,"[{""other"" 101, 1 44, 2 21, 0 162, 3 13}]",101,162,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",342.0,"[{""other"" 101, 1 44, 2 21, 0 163, 3 13}]",101,163,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",344.0,"[{""other"" 101, 1 44, 2 21, 0 165, 3 13}]",101,165,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mmaurizi@azavea.com]",345.0,"[{""other"" 102, 1 44, 2 21, 0 165, 3 13}]",102,165,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",350.0,"[{""other"" 102, 1 44, 2 21, 0 170, 3 13}]",102,170,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mmaurizi@azavea.com]",351.0,"[{""other"" 103, 1 44, 2 21, 0 170, 3 13}]",103,170,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-10-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",354.0,"[{""other"" 103, 1 44, 2 21, 0 173, 3 13}]",103,173,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-10-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, vedgar+github@gmail.com]",356.0,"[{""other"" 104, 1 44, 2 21, 0 174, 3 13}]",104,174,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[anthonylukach@gmail.com]",357.0,"[{""other"" 105, 1 44, 2 21, 0 174, 3 13}]",105,174,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-11-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",358.0,"[{""other"" 105, 1 44, 2 21, 0 175, 3 13}]",105,175,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2014-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jpajares@qdqmedia.com]",359.0,"[{""other"" 106, 1 44, 2 21, 0 175, 3 13}]",106,175,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-01-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",361.0,"[{""other"" 106, 1 44, 2 21, 0 177, 3 13}]",106,177,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[audirs2@gmail.com]",362.0,"[{""other"" 107, 1 44, 2 21, 0 177, 3 13}]",107,177,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amitu@browserstack.com]",363.0,"[{""other"" 108, 1 44, 2 21, 0 177, 3 13}]",108,177,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amitu@browserstack.com]",364.0,"[{""other"" 109, 1 44, 2 21, 0 177, 3 13}]",109,177,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-01-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[audirs2@gmail.com]",365.0,"[{""other"" 110, 1 44, 2 21, 0 177, 3 13}]",110,177,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",366.0,"[{""other"" 110, 1 44, 2 21, 0 178, 3 13}]",110,178,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-03-17,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",373.0,"[{""other"" 110, 1 44, 2 21, 0 185, 3 13}]",110,185,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-03-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",374.0,"[{""other"" 110, 1 44, 2 21, 0 186, 3 13}]",110,186,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[anthonylukach@gmail.com]",375.0,"[{""other"" 111, 1 44, 2 21, 0 186, 3 13}]",111,186,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[SelyanovAA@gmail.com]",376.0,"[{""other"" 112, 1 44, 2 21, 0 186, 3 13}]",112,186,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-03-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, anton.burnashev@gmail.com]",378.0,"[{""other"" 113, 1 44, 2 21, 0 187, 3 13}]",113,187,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[SelyanovAA@gmail.com]",379.0,"[{""other"" 114, 1 44, 2 21, 0 187, 3 13}]",114,187,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-10,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",396.0,"[{""other"" 114, 1 44, 2 21, 0 204, 3 13}]",114,204,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",397.0,"[{""other"" 114, 1 44, 2 21, 0 205, 3 13}]",114,205,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",398.0,"[{""other"" 114, 1 44, 2 21, 0 206, 3 13}]",114,206,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",400.0,"[{""other"" 114, 1 44, 2 21, 0 208, 3 13}]",114,208,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-21,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",417.0,"[{""other"" 114, 1 44, 2 21, 0 225, 3 13}]",114,225,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",418.0,"[{""other"" 114, 1 44, 2 21, 0 226, 3 13}]",114,226,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",419.0,"[{""other"" 114, 1 44, 2 21, 0 227, 3 13}]",114,227,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[steve.pike@carbonculture.net]",420.0,"[{""other"" 115, 1 44, 2 21, 0 227, 3 13}]",115,227,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-04-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[steve.pike@carbonculture.net, nemesis@ninux.org]",422.0,"[{""other"" 116, 1 44, 2 21, 0 228, 3 13}]",116,228,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",423.0,"[{""other"" 116, 1 44, 2 21, 0 229, 3 13}]",116,229,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",425.0,"[{""other"" 116, 1 44, 2 21, 0 231, 3 13}]",116,231,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[aidan@aidanlister.com]",426.0,"[{""other"" 117, 1 44, 2 21, 0 231, 3 13}]",117,231,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-07,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",439.0,"[{""other"" 117, 1 44, 2 21, 0 244, 3 13}]",117,244,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",441.0,"[{""other"" 117, 1 44, 2 21, 0 246, 3 13}]",117,246,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[usvad@yandex.ru]",442.0,"[{""other"" 118, 1 44, 2 21, 0 246, 3 13}]",118,246,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bijan.vakili@gmail.com]",443.0,"[{""other"" 119, 1 44, 2 21, 0 246, 3 13}]",119,246,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-28,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",450.0,"[{""other"" 119, 1 44, 2 21, 0 253, 3 13}]",119,253,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-06-29,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",460.0,"[{""other"" 119, 1 44, 2 21, 0 263, 3 13}]",119,263,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ronan.klyne@virtualstock.co.uk]",461.0,"[{""other"" 120, 1 44, 2 21, 0 263, 3 13}]",120,263,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-10-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ronan.klyne@virtualstock.co.uk, fateevstas@yandex.ru]",463.0,"[{""other"" 122, 1 44, 2 21, 0 263, 3 13}]",122,263,44,21,13,0
+Python,https://github.com/djangonauts/django-hstore,2015-11-03,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, jarekwg@gmail.com, jarekwg@gmail.com]",467.0,"[{""other"" 122, 1 44, 2 21, 0 265, 3 13, 4 2}]",122,265,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2015-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",468.0,"[{""other"" 122, 1 44, 2 21, 0 266, 3 13, 4 2}]",122,266,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2015-11-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[antares.spica@gmail.com]",469.0,"[{""other"" 123, 1 44, 2 21, 0 266, 3 13, 4 2}]",123,266,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2015-12-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",470.0,"[{""other"" 123, 1 44, 2 21, 0 267, 3 13, 4 2}]",123,267,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2015-12-07,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",478.0,"[{""other"" 123, 1 44, 2 21, 0 275, 3 13, 4 2}]",123,275,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2015-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",479.0,"[{""other"" 123, 1 44, 2 21, 0 276, 3 13, 4 2}]",123,276,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2016-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[proktusfahitasiv@gmail.com]",480.0,"[{""other"" 124, 1 44, 2 21, 0 276, 3 13, 4 2}]",124,276,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2016-02-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",481.0,"[{""other"" 124, 1 44, 2 21, 0 277, 3 13, 4 2}]",124,277,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2016-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1460.i.iago@gmail.com]",482.0,"[{""other"" 125, 1 44, 2 21, 0 277, 3 13, 4 2}]",125,277,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2016-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gp@instaprint.me]",483.0,"[{""other"" 126, 1 44, 2 21, 0 277, 3 13, 4 2}]",126,277,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2016-04-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",486.0,"[{""other"" 126, 1 44, 2 21, 0 280, 3 13, 4 2}]",126,280,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2016-04-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nemesis@ninux.org, nemesis@ninux.org]",488.0,"[{""other"" 126, 1 44, 2 21, 0 282, 3 13, 4 2}]",126,282,44,21,13,2
+Python,https://github.com/djangonauts/django-hstore,2016-06-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jarekwg@gmail.com]",489.0,"[{""other"" 126, 1 44, 2 21, 0 282, 3 13, 4 3}]",126,282,44,21,13,3
+Python,https://github.com/djangonauts/django-hstore,2016-07-06,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[jarekwg@gmail.com, jarekwg@gmail.com, jarekwg@gmail.com, jarekwg@gmail.com, jarekwg@gmail.com, jarekwg@gmail.com, jarekwg@gmail.com, jarekwg@gmail.com]",497.0,"[{""other"" 126, 1 44, 2 21, 0 282, 3 13, 4 11}]",126,282,44,21,13,11
+Python,https://github.com/djangonauts/django-hstore,2016-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jarekwg@gmail.com]",498.0,"[{""other"" 126, 1 44, 2 21, 0 282, 3 13, 4 12}]",126,282,44,21,13,12
+Python,https://github.com/djangonauts/django-hstore,2016-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jarekwg@gmail.com]",499.0,"[{""other"" 126, 1 44, 2 21, 0 282, 3 13, 4 13}]",126,282,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2016-09-23,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",504.0,"[{""other"" 126, 1 44, 2 21, 0 287, 3 13, 4 13}]",126,287,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2016-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pablo@anche.no]",505.0,"[{""other"" 127, 1 44, 2 21, 0 287, 3 13, 4 13}]",127,287,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2016-11-10,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[m@hardcastle.com, m@hardcastle.com, m@hardcastle.com, m@hardcastle.com, m@hardcastle.com, m@hardcastle.com, m@hardcastle.com, m@hardcastle.com]",513.0,"[{""other"" 135, 1 44, 2 21, 0 287, 3 13, 4 13}]",135,287,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2016-11-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sklist@kitterman.com]",514.0,"[{""other"" 136, 1 44, 2 21, 0 287, 3 13, 4 13}]",136,287,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2016-12-19,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org, nemesis@ninux.org]",522.0,"[{""other"" 136, 1 44, 2 21, 0 295, 3 13, 4 13}]",136,295,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2017-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",523.0,"[{""other"" 136, 1 44, 2 21, 0 296, 3 13, 4 13}]",136,296,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2017-03-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andrew.hayes@therealbuzzgroup.com]",524.0,"[{""other"" 137, 1 44, 2 21, 0 296, 3 13, 4 13}]",137,296,44,21,13,13
+Python,https://github.com/djangonauts/django-hstore,2017-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nemesis@ninux.org]",525.0,"[{""other"" 137, 1 44, 2 21, 0 297, 3 13, 4 13}]",137,297,44,21,13,13

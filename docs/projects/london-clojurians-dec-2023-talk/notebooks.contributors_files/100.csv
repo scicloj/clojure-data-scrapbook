@@ -1,0 +1,135 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,levand,2011-11-04,2,1,"#{""luke@thinkrelevance.com""}",2.0,1
+Clojure,levand,2011-11-05,3,1,"#{""luke@thinkrelevance.com""}",5.0,1
+Clojure,levand,2011-11-06,2,1,"#{""luke@thinkrelevance.com""}",7.0,1
+Clojure,levand,2011-11-26,2,1,"#{""luke@thinkrelevance.com""}",9.0,1
+Clojure,levand,2011-11-28,3,1,"#{""luke@thinkrelevance.com""}",12.0,1
+Clojure,levand,2011-11-29,2,1,"#{""luke@thinkrelevance.com""}",14.0,1
+Clojure,levand,2011-12-04,3,1,"#{""luke@thinkrelevance.com""}",17.0,1
+Clojure,levand,2011-12-05,5,1,"#{""luke@thinkrelevance.com""}",22.0,1
+Clojure,levand,2011-12-06,4,1,"#{""luke@thinkrelevance.com""}",26.0,1
+Clojure,levand,2011-12-07,9,3,"#{""bobby_calderwood@mac.com"" ""luke@vanderhart.net"" ""luke@thinkrelevance.com""}",35.0,3
+Clojure,levand,2011-12-16,6,1,"#{""luke@thinkrelevance.com""}",41.0,3
+Clojure,levand,2011-12-17,2,1,"#{""luke@thinkrelevance.com""}",43.0,3
+Clojure,levand,2011-12-20,2,2,"#{""luke@vanderhart.net"" ""mefogus@gmail.com""}",45.0,4
+Clojure,levand,2011-12-23,2,1,"#{""luke@thinkrelevance.com""}",47.0,4
+Clojure,levand,2012-01-02,1,1,"#{""luke@thinkrelevance.com""}",48.0,4
+Clojure,levand,2012-01-04,1,1,"#{""luke@thinkrelevance.com""}",49.0,4
+Clojure,levand,2012-01-07,4,1,"#{""luke@thinkrelevance.com""}",53.0,4
+Clojure,levand,2012-01-08,1,1,"#{""luke@thinkrelevance.com""}",54.0,4
+Clojure,levand,2012-01-13,11,2,"#{""mefogus@gmail.com"" ""luke@thinkrelevance.com""}",65.0,4
+Clojure,levand,2012-01-14,1,1,"#{""luke@thinkrelevance.com""}",66.0,4
+Clojure,levand,2012-01-16,1,1,"#{""ckirkendall@gmail.com""}",67.0,5
+Clojure,levand,2012-01-22,1,1,"#{""ckirkendall@gmail.com""}",68.0,5
+Clojure,levand,2012-01-24,3,2,"#{""luke@vanderhart.net"" ""luke@thinkrelevance.com""}",71.0,5
+Clojure,levand,2012-01-25,1,1,"#{""luke@thinkrelevance.com""}",72.0,5
+Clojure,levand,2012-01-27,1,1,"#{""luke@thinkrelevance.com""}",73.0,5
+Clojure,levand,2012-01-29,1,1,"#{""ckirkendall@gmail.com""}",74.0,5
+Clojure,levand,2012-01-31,1,1,"#{""bobby_calderwood@mac.com""}",75.0,5
+Clojure,levand,2012-02-01,4,1,"#{""bobby_calderwood@mac.com""}",79.0,5
+Clojure,levand,2012-02-02,6,3,"#{""pair@thinkrelevance.com"" ""luke@vanderhart.net"" ""luke@thinkrelevance.com""}",85.0,6
+Clojure,levand,2012-02-03,12,3,"#{""pair@thinkrelevance.com"" ""luke@vanderhart.net"" ""luke@thinkrelevance.com""}",97.0,6
+Clojure,levand,2012-02-05,2,1,"#{""luke@thinkrelevance.com""}",99.0,6
+Clojure,levand,2012-02-08,3,1,"#{""luke@thinkrelevance.com""}",102.0,6
+Clojure,levand,2012-02-10,5,1,"#{""luke@thinkrelevance.com""}",107.0,6
+Clojure,levand,2012-02-11,1,1,"#{""luke@thinkrelevance.com""}",108.0,6
+Clojure,levand,2012-02-12,1,1,"#{""luke@thinkrelevance.com""}",109.0,6
+Clojure,levand,2012-02-13,1,1,"#{""luke@thinkrelevance.com""}",110.0,6
+Clojure,levand,2012-02-20,4,2,"#{""pair@thinkrelevance.com"" ""luke@thinkrelevance.com""}",114.0,6
+Clojure,levand,2012-02-26,1,1,"#{""luke@thinkrelevance.com""}",115.0,6
+Clojure,levand,2012-03-16,1,1,"#{""luke@vanderhart.net""}",116.0,6
+Clojure,levand,2012-03-23,2,1,"#{""luke@vanderhart.net""}",118.0,6
+Clojure,levand,2012-03-27,4,2,"#{""alan@dipert.org"" ""luke@vanderhart.net""}",122.0,7
+Clojure,levand,2012-03-29,1,1,"#{""luke@vanderhart.net""}",123.0,7
+Clojure,levand,2012-03-30,3,1,"#{""luke@vanderhart.net""}",126.0,7
+Clojure,levand,2012-04-05,2,2,"#{""luke@vanderhart.net"" ""eric.shull@gmail.com""}",128.0,8
+Clojure,levand,2012-04-06,7,1,"#{""luke@vanderhart.net""}",135.0,8
+Clojure,levand,2012-04-07,1,1,"#{""luke@vanderhart.net""}",136.0,8
+Clojure,levand,2012-04-09,2,2,"#{""github@jasonrudolph.com"" ""luke@vanderhart.net""}",138.0,9
+Clojure,levand,2012-04-14,2,1,"#{""luke@vanderhart.net""}",140.0,9
+Clojure,levand,2012-04-17,1,1,"#{""pair@thinkrelevance.com""}",141.0,9
+Clojure,levand,2012-04-20,2,1,"#{""pair@thinkrelevance.com""}",143.0,9
+Clojure,levand,2012-04-27,3,1,"#{""luke@vanderhart.net""}",146.0,9
+Clojure,levand,2012-04-28,1,1,"#{""luke@vanderhart.net""}",147.0,9
+Clojure,levand,2012-05-05,1,1,"#{""pair@thinkrelevance.com""}",148.0,9
+Clojure,levand,2012-05-18,1,1,"#{""github@jasonrudolph.com""}",149.0,9
+Clojure,levand,2012-05-19,1,1,"#{""sherbondye@gmail.com""}",150.0,10
+Clojure,levand,2012-05-22,1,1,"#{""groshev@selectel.ru""}",151.0,11
+Clojure,levand,2012-06-03,4,1,"#{""luke@vanderhart.net""}",155.0,11
+Clojure,levand,2012-06-22,1,1,"#{""github@jasonrudolph.com""}",156.0,11
+Clojure,levand,2012-07-06,7,1,"#{""luke@vanderhart.net""}",163.0,11
+Clojure,levand,2012-07-21,1,1,"#{""luke@vanderhart.net""}",164.0,11
+Clojure,levand,2012-08-09,2,1,"#{""luke@vanderhart.net""}",166.0,11
+Clojure,levand,2012-08-10,1,1,"#{""bobby_calderwood@mac.com""}",167.0,11
+Clojure,levand,2012-08-12,2,1,"#{""luke@vanderhart.net""}",169.0,11
+Clojure,levand,2012-08-29,2,1,"#{""for@get.it""}",171.0,12
+Clojure,levand,2012-09-07,1,1,"#{""juha.syrjala+github@iki.fi""}",172.0,13
+Clojure,levand,2012-09-13,2,1,"#{""luke@vanderhart.net""}",174.0,13
+Clojure,levand,2012-10-03,1,1,"#{""ckirkendall@gmail.com""}",175.0,13
+Clojure,levand,2012-10-12,6,1,"#{""luke@vanderhart.net""}",181.0,13
+Clojure,levand,2012-10-23,1,1,"#{""james@pcr.me.uk""}",182.0,14
+Clojure,levand,2012-10-26,2,1,"#{""luke@vanderhart.net""}",184.0,14
+Clojure,levand,2012-11-02,1,1,"#{""luke@vanderhart.net""}",185.0,14
+Clojure,levand,2012-11-26,1,1,"#{""s@bushi.do""}",186.0,15
+Clojure,levand,2013-01-08,1,1,"#{""giacomo.cosenza@sinapsi.com""}",187.0,16
+Clojure,levand,2013-01-15,2,1,"#{""luke@vanderhart.net""}",189.0,16
+Clojure,levand,2013-01-16,3,2,"#{""mimmo.cosenza@gmail.com"" ""luke@vanderhart.net""}",192.0,17
+Clojure,levand,2013-01-18,1,1,"#{""mimmo.cosenza@gmail.com""}",193.0,17
+Clojure,levand,2013-02-01,1,1,"#{""luke@vanderhart.net""}",194.0,17
+Clojure,levand,2013-02-13,1,1,"#{""james.r.campos@gmail.com""}",195.0,18
+Clojure,levand,2013-03-07,4,2,"#{""alex@diligenceengine.com"" ""giacomo.cosenza@sinapsi.com""}",199.0,19
+Clojure,levand,2013-03-11,4,1,"#{""luke@vanderhart.net""}",203.0,19
+Clojure,levand,2013-04-25,2,1,"#{""trptcolin@gmail.com""}",205.0,20
+Clojure,levand,2013-09-15,2,1,"#{""ckirkendall@gmail.com""}",207.0,20
+Clojure,levand,2013-09-21,4,1,"#{""ckirkendall@gmail.com""}",211.0,20
+Clojure,levand,2013-09-26,1,1,"#{""ckirkendall@gmail.com""}",212.0,20
+Clojure,levand,2013-10-25,2,1,"#{""mimmo.cosenza@gmail.com""}",214.0,20
+Clojure,levand,2013-10-28,5,2,"#{""trptcolin@gmail.com"" ""ckirkendall@gmail.com""}",219.0,20
+Clojure,levand,2014-02-03,2,1,"#{""luke@vanderhart.net""}",221.0,20
+Clojure,levand,2014-02-04,2,1,"#{""luke@vanderhart.net""}",223.0,20
+Clojure,levand,2014-02-07,1,1,"#{""luke@vanderhart.net""}",224.0,20
+Clojure,levand,2014-02-09,3,1,"#{""luke@vanderhart.net""}",227.0,20
+Clojure,levand,2014-02-10,9,2,"#{""luke@vanderhart.net"" ""rokusu@gmail.com""}",236.0,21
+Clojure,levand,2014-02-13,6,2,"#{""samumbach@gmail.com"" ""luke@vanderhart.net""}",242.0,22
+Clojure,levand,2014-02-14,1,1,"#{""luke@vanderhart.net""}",243.0,22
+Clojure,levand,2014-03-02,2,2,"#{""christian@cjohansen.no"" ""luke@vanderhart.net""}",245.0,23
+Clojure,levand,2014-03-05,3,1,"#{""neatonk@gmail.com""}",248.0,24
+Clojure,levand,2014-03-08,4,1,"#{""luke@vanderhart.net""}",252.0,24
+Clojure,levand,2014-03-10,3,1,"#{""daemianmack@gmail.com""}",255.0,25
+Clojure,levand,2014-03-12,4,1,"#{""luke@vanderhart.net""}",259.0,25
+Clojure,levand,2014-03-13,3,1,"#{""neatonk@gmail.com""}",262.0,25
+Clojure,levand,2014-03-14,1,1,"#{""luke@vanderhart.net""}",263.0,25
+Clojure,levand,2014-03-31,2,2,"#{""stuart.hinson@gmail.com"" ""ckirkendall@gmail.com""}",265.0,26
+Clojure,levand,2014-04-11,1,1,"#{""tbaldidge@gmail.com""}",266.0,27
+Clojure,levand,2014-05-23,13,1,"#{""luke@vanderhart.net""}",279.0,27
+Clojure,levand,2014-06-05,1,1,"#{""luke@vanderhart.net""}",280.0,27
+Clojure,levand,2014-06-11,1,1,"#{""mokevnin@gmail.com""}",281.0,28
+Clojure,levand,2014-06-16,1,1,"#{""luke@vanderhart.net""}",282.0,28
+Clojure,levand,2014-06-20,1,1,"#{""luke@vanderhart.net""}",283.0,28
+Clojure,levand,2014-06-21,1,1,"#{""optevo@gmail.com""}",284.0,29
+Clojure,levand,2014-07-02,1,1,"#{""luke@vanderhart.net""}",285.0,29
+Clojure,levand,2014-07-03,1,1,"#{""jan.herich@gmail.com""}",286.0,30
+Clojure,levand,2014-09-28,1,1,"#{""peter.a.jaros@gmail.com""}",287.0,31
+Clojure,levand,2014-11-05,1,1,"#{""ckirkendall@gmail.com""}",288.0,31
+Clojure,levand,2014-12-12,1,1,"#{""mmavko@gmail.com""}",289.0,32
+Clojure,levand,2015-01-22,1,1,"#{""nikelandjelo@gmail.com""}",290.0,33
+Clojure,levand,2015-01-24,1,1,"#{""creighton@outpace.com""}",291.0,34
+Clojure,levand,2015-02-02,4,1,"#{""luke@vanderhart.net""}",295.0,34
+Clojure,levand,2015-02-04,1,1,"#{""luke@vanderhart.net""}",296.0,34
+Clojure,levand,2015-02-13,4,1,"#{""luke@vanderhart.net""}",300.0,34
+Clojure,levand,2015-02-14,1,1,"#{""luke@vanderhart.net""}",301.0,34
+Clojure,levand,2015-02-15,1,1,"#{""luke@vanderhart.net""}",302.0,34
+Clojure,levand,2015-02-16,1,1,"#{""luke@vanderhart.net""}",303.0,34
+Clojure,levand,2015-03-06,2,1,"#{""luke@vanderhart.net""}",305.0,34
+Clojure,levand,2015-03-07,1,1,"#{""luke@vanderhart.net""}",306.0,34
+Clojure,levand,2015-03-08,6,1,"#{""luke@vanderhart.net""}",312.0,34
+Clojure,levand,2015-04-07,1,1,"#{""james@shopify.com""}",313.0,35
+Clojure,levand,2015-04-19,1,1,"#{""luke@vanderhart.net""}",314.0,35
+Clojure,levand,2015-06-29,4,1,"#{""luke@vanderhart.net""}",318.0,35
+Clojure,levand,2015-09-03,1,1,"#{""me@bjeanes.com""}",319.0,36
+Clojure,levand,2016-02-16,1,1,"#{""magnars@gmail.com""}",320.0,37
+Clojure,levand,2016-02-19,12,1,"#{""luke@vanderhart.net""}",332.0,37
+Clojure,levand,2016-02-22,1,1,"#{""alf.kristian@gmail.com""}",333.0,38
+Clojure,levand,2016-03-06,1,1,"#{""luke@vanderhart.net""}",334.0,38
+Clojure,levand,2016-05-02,1,1,"#{""magnars@gmail.com""}",335.0,38
+Clojure,levand,2016-05-24,3,1,"#{""luke@vanderhart.net""}",338.0,38

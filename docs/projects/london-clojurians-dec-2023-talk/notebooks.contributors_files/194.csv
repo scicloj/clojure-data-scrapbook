@@ -1,0 +1,178 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,awslabs,,1,1,#{nil},1.0,1
+Python,awslabs,2018-03-15,7,1,"#{""jpeddicord@users.noreply.github.com""}",8.0,2
+Python,awslabs,2018-03-31,5,1,"#{""jmmccon@amazon.com""}",13.0,3
+Python,awslabs,2018-04-01,12,1,"#{""jmmccon@amazon.com""}",25.0,3
+Python,awslabs,2018-04-02,8,1,"#{""jmmccon@amazon.com""}",33.0,3
+Python,awslabs,2018-04-03,6,1,"#{""jmmccon@amazon.com""}",39.0,3
+Python,awslabs,2018-04-05,1,1,"#{""jmmccon@amazon.com""}",40.0,3
+Python,awslabs,2018-04-23,4,2,"#{""jaymccon@users.noreply.github.com"" ""jmmccon@amazon.com""}",44.0,4
+Python,awslabs,2018-04-30,13,1,"#{""jmmccon@amazon.com""}",57.0,4
+Python,awslabs,2018-05-01,9,2,"#{""ci-bot@nonexistent.amazon.com"" ""jmmccon@amazon.com""}",66.0,5
+Python,awslabs,2018-05-02,8,2,"#{""ci-bot@nonexistent.amazon.com"" ""jmmccon@amazon.com""}",74.0,5
+Python,awslabs,2018-05-03,7,1,"#{""jmmccon@amazon.com""}",81.0,5
+Python,awslabs,2018-05-04,8,2,"#{""ci-bot@nonexistent.amazon.com"" ""jmmccon@amazon.com""}",89.0,5
+Python,awslabs,2018-05-07,23,3,"#{""jaymccon@users.noreply.github.com"" ""ci-bot@nonexistent.amazon.com"" ""jmmccon@amazon.com""}",112.0,5
+Python,awslabs,2018-05-08,6,2,"#{""jaymccon@users.noreply.github.com"" ""ci-bot@nonexistent.amazon.com""}",118.0,5
+Python,awslabs,2018-05-09,1,1,"#{""jmmccon@amazon.com""}",119.0,5
+Python,awslabs,2018-05-11,1,1,"#{""ci-bot@nonexistent.amazon.com""}",120.0,5
+Python,awslabs,2018-05-16,3,1,"#{""jmmccon@amazon.com""}",123.0,5
+Python,awslabs,2018-05-24,7,4,"#{""ci-bot@nonexistent.amazon.com"" ""jmmccon@amazon.com"" ""derekwhatley@gmail.com"" ""dwhatley@redhat.com""}",130.0,7
+Python,awslabs,2018-06-04,1,1,"#{""jmmccon@amazon.com""}",131.0,7
+Python,awslabs,2018-06-05,2,1,"#{""jmmccon@amazon.com""}",133.0,7
+Python,awslabs,2018-06-12,3,1,"#{""jmmccon@amazon.com""}",136.0,7
+Python,awslabs,2018-06-14,5,2,"#{""ci-bot@nonexistent.amazon.com"" ""jmmccon@amazon.com""}",141.0,7
+Python,awslabs,2018-07-02,1,1,"#{""jmmccon@amazon.com""}",142.0,7
+Python,awslabs,2018-07-06,2,1,"#{""jmmccon@amazon.com""}",144.0,7
+Python,awslabs,2018-07-18,3,1,"#{""jmmccon@amazon.com""}",147.0,7
+Python,awslabs,2018-07-19,1,1,"#{""jmmccon@amazon.com""}",148.0,7
+Python,awslabs,2018-08-01,2,2,"#{""jmmccon@amazon.com"" ""davivcgarcia@users.noreply.github.com""}",150.0,8
+Python,awslabs,2018-08-08,2,1,"#{""jmmccon@amazon.com""}",152.0,8
+Python,awslabs,2018-08-13,2,2,"#{""michael_cowgill@intuit.com"" ""jmmccon@amazon.com""}",154.0,9
+Python,awslabs,2018-08-15,1,1,"#{""jmmccon@amazon.com""}",155.0,9
+Python,awslabs,2018-08-17,4,1,"#{""jmmccon@amazon.com""}",159.0,9
+Python,awslabs,2018-08-24,2,2,"#{""jmmccon@amazon.com"" ""brett_weaver@intuit.com""}",161.0,10
+Python,awslabs,2018-08-25,2,1,"#{""brett_weaver@intuit.com""}",163.0,10
+Python,awslabs,2018-08-27,7,2,"#{""jmmccon@amazon.com"" ""brett_weaver@intuit.com""}",170.0,10
+Python,awslabs,2018-08-28,7,3,"#{""vinu_somayaji@intuit.com"" ""jmmccon@amazon.com"" ""brett_weaver@intuit.com""}",177.0,11
+Python,awslabs,2018-08-29,1,1,"#{""jmmccon@amazon.com""}",178.0,11
+Python,awslabs,2018-08-31,1,1,"#{""vinu.somayaji@gmail.com""}",179.0,12
+Python,awslabs,2018-09-06,1,1,"#{""michael_cowgill@intuit.com""}",180.0,12
+Python,awslabs,2018-09-08,4,2,"#{""jmmccon@amazon.com"" ""knqyf263@gmail.com""}",184.0,13
+Python,awslabs,2018-09-11,5,2,"#{""vinu_somayaji@intuit.com"" ""jmmccon@amazon.com""}",189.0,13
+Python,awslabs,2018-09-12,7,1,"#{""jmmccon@amazon.com""}",196.0,13
+Python,awslabs,2018-09-13,9,3,"#{""vinu_somayaji@intuit.com"" ""jmmccon@amazon.com"" ""knqyf263@gmail.com""}",205.0,13
+Python,awslabs,2018-09-14,17,3,"#{""vinu_somayaji@intuit.com"" ""jmmccon@amazon.com"" ""knqyf263@gmail.com""}",222.0,13
+Python,awslabs,2018-09-16,12,1,"#{""jmmccon@amazon.com""}",234.0,13
+Python,awslabs,2018-09-17,18,3,"#{""vinu_somayaji@intuit.com"" ""michael_cowgill@intuit.com"" ""jmmccon@amazon.com""}",252.0,13
+Python,awslabs,2018-09-18,13,2,"#{""michael_cowgill@intuit.com"" ""jmmccon@amazon.com""}",265.0,13
+Python,awslabs,2018-09-19,11,1,"#{""jmmccon@amazon.com""}",276.0,13
+Python,awslabs,2018-09-20,14,3,"#{""vinu_somayaji@intuit.com"" ""ruckle@gmail.com"" ""jmmccon@amazon.com""}",290.0,14
+Python,awslabs,2018-09-21,13,2,"#{""vinu_somayaji@intuit.com"" ""jmmccon@amazon.com""}",303.0,14
+Python,awslabs,2018-09-25,4,1,"#{""vinu_somayaji@intuit.com""}",307.0,14
+Python,awslabs,2018-09-26,2,1,"#{""jmmccon@amazon.com""}",309.0,14
+Python,awslabs,2018-10-01,1,1,"#{""jmmccon@amazon.com""}",310.0,14
+Python,awslabs,2018-10-03,10,1,"#{""jmmccon@amazon.com""}",320.0,14
+Python,awslabs,2018-10-04,4,3,"#{""vinu_somayaji@intuit.com"" ""jmmccon@amazon.com"" ""knqyf263@gmail.com""}",324.0,14
+Python,awslabs,2018-10-05,3,2,"#{""vinu_somayaji@intuit.com"" ""jmmccon@amazon.com""}",327.0,14
+Python,awslabs,2018-10-09,3,1,"#{""jmmccon@amazon.com""}",330.0,14
+Python,awslabs,2018-10-10,2,1,"#{""jmmccon@amazon.com""}",332.0,14
+Python,awslabs,2018-10-17,1,1,"#{""erich@redhat.com""}",333.0,15
+Python,awslabs,2018-10-21,1,1,"#{""emersonjairr@gmail.com""}",334.0,16
+Python,awslabs,2018-10-22,16,2,"#{""emersonjairr@gmail.com"" ""jmmccon@amazon.com""}",350.0,16
+Python,awslabs,2018-10-29,1,1,"#{""vinu_somayaji@intuit.com""}",351.0,16
+Python,awslabs,2018-10-31,1,1,"#{""vinu_somayaji@intuit.com""}",352.0,16
+Python,awslabs,2018-11-01,4,1,"#{""jmmccon@amazon.com""}",356.0,16
+Python,awslabs,2018-11-02,2,1,"#{""jmmccon@amazon.com""}",358.0,16
+Python,awslabs,2018-11-07,4,2,"#{""doug.winter@isotoma.com"" ""jmmccon@amazon.com""}",362.0,17
+Python,awslabs,2018-11-08,1,1,"#{""jmmccon@amazon.com""}",363.0,17
+Python,awslabs,2018-11-19,2,2,"#{""adam.eijdenberg@digital.gov.au"" ""jmmccon@amazon.com""}",365.0,18
+Python,awslabs,2018-11-26,4,1,"#{""jmmccon@amazon.com""}",369.0,18
+Python,awslabs,2018-11-27,9,1,"#{""jmmccon@amazon.com""}",378.0,18
+Python,awslabs,2018-11-28,3,1,"#{""jmmccon@amazon.com""}",381.0,18
+Python,awslabs,2018-11-29,4,2,"#{""leo.chu@opendoor.com"" ""jmmccon@amazon.com""}",385.0,19
+Python,awslabs,2018-11-30,1,1,"#{""jmmccon@amazon.com""}",386.0,19
+Python,awslabs,2018-12-07,1,1,"#{""adam.eijdenberg@digital.gov.au""}",387.0,19
+Python,awslabs,2018-12-11,2,1,"#{""jmmccon@amazon.com""}",389.0,19
+Python,awslabs,2018-12-14,1,1,"#{""jmmccon@amazon.com""}",390.0,19
+Python,awslabs,2018-12-17,1,1,"#{""knqyf263@gmail.com""}",391.0,19
+Python,awslabs,2018-12-28,1,1,"#{""gauthier.loutsch@contentsquare.com""}",392.0,20
+Python,awslabs,2019-01-08,1,1,"#{""simon.ruegg@vshn.ch""}",393.0,21
+Python,awslabs,2019-01-14,1,1,"#{""jmmccon@amazon.com""}",394.0,21
+Python,awslabs,2019-01-16,1,1,"#{""nrdlngr@gmail.com""}",395.0,22
+Python,awslabs,2019-01-18,2,1,"#{""gbunney@guidewire.com""}",397.0,23
+Python,awslabs,2019-01-22,5,1,"#{""jmmccon@amazon.com""}",402.0,23
+Python,awslabs,2019-02-27,3,1,"#{""jmmccon@amazon.com""}",405.0,23
+Python,awslabs,2019-04-12,1,1,"#{""mwaters@digitalglobe.com""}",406.0,24
+Python,awslabs,2019-04-16,1,1,"#{""jmmccon@amazon.com""}",407.0,24
+Python,awslabs,2019-04-17,3,1,"#{""jmmccon@amazon.com""}",410.0,24
+Python,awslabs,2019-04-19,3,1,"#{""ryanik@amazon.com""}",413.0,25
+Python,awslabs,2019-05-03,2,1,"#{""jmmccon@amazon.com""}",415.0,25
+Python,awslabs,2019-05-07,1,1,"#{""jmmccon@amazon.com""}",416.0,25
+Python,awslabs,2019-05-13,1,1,"#{""bnusunny@gmail.com""}",417.0,26
+Python,awslabs,2019-05-14,2,2,"#{""bnusunny@gmail.com"" ""jmmccon@amazon.com""}",419.0,26
+Python,awslabs,2019-05-15,1,1,"#{""bart.veenstra@gmail.com""}",420.0,27
+Python,awslabs,2019-05-17,1,1,"#{""jmmccon@amazon.com""}",421.0,27
+Python,awslabs,2019-05-29,3,1,"#{""ndrest@amazon.com""}",424.0,28
+Python,awslabs,2019-05-31,2,1,"#{""jmmccon@amazon.com""}",426.0,28
+Python,awslabs,2019-06-01,1,1,"#{""ndrest@amazon.com""}",427.0,28
+Python,awslabs,2019-06-06,2,1,"#{""ndrest@amazon.com""}",429.0,28
+Python,awslabs,2019-06-07,3,1,"#{""harinigunabalan24@gmail.com""}",432.0,29
+Python,awslabs,2019-06-10,1,1,"#{""jmmccon@amazon.com""}",433.0,29
+Python,awslabs,2019-06-11,3,2,"#{""jmmccon@amazon.com"" ""harinigunabalan24@gmail.com""}",436.0,29
+Python,awslabs,2019-06-14,3,2,"#{""45105343+aursolis@users.noreply.github.com"" ""jmmccon@amazon.com""}",439.0,30
+Python,awslabs,2019-06-23,1,1,"#{""ndrest@amazon.com""}",440.0,30
+Python,awslabs,2019-06-24,4,1,"#{""jmmccon@amazon.com""}",444.0,30
+Python,awslabs,2019-06-30,3,1,"#{""ndrest@amazon.com""}",447.0,30
+Python,awslabs,2019-07-02,1,1,"#{""jmmccon@amazon.com""}",448.0,30
+Python,awslabs,2019-07-07,1,1,"#{""ndrest@amazon.com""}",449.0,30
+Python,awslabs,2019-07-08,3,2,"#{""ndrest@amazon.com"" ""jmmccon@amazon.com""}",452.0,30
+Python,awslabs,2019-07-13,1,1,"#{""ndrest@amazon.com""}",453.0,30
+Python,awslabs,2019-07-18,1,1,"#{""szymon.janota@sap.com""}",454.0,31
+Python,awslabs,2019-07-22,1,1,"#{""jmmccon@amazon.com""}",455.0,31
+Python,awslabs,2019-07-28,2,1,"#{""ndrest@amazon.com""}",457.0,31
+Python,awslabs,2019-07-30,1,1,"#{""jmmccon@amazon.com""}",458.0,31
+Python,awslabs,2019-08-04,1,1,"#{""ndrest@amazon.com""}",459.0,31
+Python,awslabs,2019-08-07,1,1,"#{""stephenbylo@gmail.com""}",460.0,32
+Python,awslabs,2019-08-09,5,1,"#{""jmmccon@amazon.com""}",465.0,32
+Python,awslabs,2019-08-20,1,1,"#{""jbogie@pivotal.io""}",466.0,33
+Python,awslabs,2019-09-04,1,1,"#{""jmmccon@amazon.com""}",467.0,33
+Python,awslabs,2019-09-08,1,1,"#{""ndrest@amazon.com""}",468.0,33
+Python,awslabs,2019-09-09,2,1,"#{""jmmccon@amazon.com""}",470.0,33
+Python,awslabs,2019-09-23,3,1,"#{""ndrest@amazon.com""}",473.0,33
+Python,awslabs,2019-09-24,2,1,"#{""kevinmayres@gmail.com""}",475.0,34
+Python,awslabs,2019-09-25,1,1,"#{""jmmccon@amazon.com""}",476.0,34
+Python,awslabs,2019-09-27,1,1,"#{""r.trojniak@ocado.com""}",477.0,35
+Python,awslabs,2019-09-30,1,1,"#{""jmmccon@amazon.com""}",478.0,35
+Python,awslabs,2019-10-01,1,1,"#{""mail@eboland.de""}",479.0,36
+Python,awslabs,2019-10-02,1,1,"#{""jbogie@pivotal.io""}",480.0,36
+Python,awslabs,2019-10-03,1,1,"#{""thatarchguy@users.noreply.github.com""}",481.0,37
+Python,awslabs,2019-10-04,3,1,"#{""jmmccon@amazon.com""}",484.0,37
+Python,awslabs,2019-10-10,1,1,"#{""jmmccon@amazon.com""}",485.0,37
+Python,awslabs,2019-10-15,2,1,"#{""stephenbylo@gmail.com""}",487.0,37
+Python,awslabs,2019-10-16,2,1,"#{""jmmccon@amazon.com""}",489.0,37
+Python,awslabs,2019-10-17,7,3,"#{""ericn@backbase.com"" ""jmmccon@amazon.com"" ""56684880+john-siemens@users.noreply.github.com""}",496.0,39
+Python,awslabs,2019-10-22,2,1,"#{""ndrest@amazon.com""}",498.0,39
+Python,awslabs,2019-11-26,1,1,"#{""anish.patel@cengage.com""}",499.0,40
+Python,awslabs,2019-12-10,1,1,"#{""anish.patel@cengage.com""}",500.0,40
+Python,awslabs,2020-01-09,2,2,"#{""jmmccon@amazon.com"" ""james@cvpartner.no""}",502.0,41
+Python,awslabs,2020-01-10,1,1,"#{""jmmccon@amazon.com""}",503.0,41
+Python,awslabs,2020-01-11,1,1,"#{""jmmccon@amazon.com""}",504.0,41
+Python,awslabs,2020-01-14,1,1,"#{""anish.patel@cengage.com""}",505.0,41
+Python,awslabs,2020-01-21,1,1,"#{""david.gingrich@invitae.com""}",506.0,42
+Python,awslabs,2020-01-22,1,1,"#{""jmmccon@amazon.com""}",507.0,42
+Python,awslabs,2020-02-03,1,1,"#{""53515092+ritwik-gopi@users.noreply.github.com""}",508.0,43
+Python,awslabs,2020-02-15,1,1,"#{""ndrest@amazon.com""}",509.0,43
+Python,awslabs,2020-02-18,1,1,"#{""miguelferreira@me.com""}",510.0,44
+Python,awslabs,2020-04-13,2,2,"#{""rniksch@egrsolutions.co.za"" ""jerry.jia@sap.com""}",512.0,46
+Python,awslabs,2020-04-22,1,1,"#{""rniksch@egrsolutions.co.za""}",513.0,46
+Python,awslabs,2020-05-01,2,1,"#{""4399427+kferrone@users.noreply.github.com""}",515.0,47
+Python,awslabs,2020-05-12,1,1,"#{""harshal2623@gmail.com""}",516.0,48
+Python,awslabs,2020-06-05,1,1,"#{""Geoffrey.Teale@hdi.de""}",517.0,49
+Python,awslabs,2020-06-08,3,2,"#{""rniksch@egrsolutions.co.za"" ""jmmccon@amazon.com""}",520.0,49
+Python,awslabs,2020-06-22,8,1,"#{""jmmccon@amazon.com""}",528.0,49
+Python,awslabs,2020-06-23,2,1,"#{""tealeg@toffle.local""}",530.0,50
+Python,awslabs,2020-06-24,1,1,"#{""geoffrey.teale@hdi.de""}",531.0,51
+Python,awslabs,2020-06-25,4,4,"#{""tealeg@gmail.com"" ""jmmccon@amazon.com"" ""geoffrey.teale@hdi.de"" ""tealeg@toffle.fritz.box""}",535.0,53
+Python,awslabs,2020-08-11,2,2,"#{""ndrest@amazon.com"" ""jmmccon@amazon.com""}",537.0,53
+Python,awslabs,2020-08-14,1,1,"#{""jmmccon@amazon.com""}",538.0,53
+Python,awslabs,2020-08-15,1,1,"#{""ndrest@amazon.com""}",539.0,53
+Python,awslabs,2020-08-19,1,1,"#{""45374847+brianstinehart@users.noreply.github.com""}",540.0,54
+Python,awslabs,2021-03-10,1,1,"#{""patrick.geschinski@gmail.com""}",541.0,55
+Python,awslabs,2021-03-23,1,1,"#{""tealeg@gmail.com""}",542.0,55
+Python,awslabs,2021-03-24,1,1,"#{""tealeg@gmail.com""}",543.0,55
+Python,awslabs,2021-03-25,1,1,"#{""tealeg@gmail.com""}",544.0,55
+Python,awslabs,2021-03-29,6,1,"#{""jmmccon@amazon.com""}",550.0,55
+Python,awslabs,2021-03-31,1,1,"#{""tealeg@gmail.com""}",551.0,55
+Python,awslabs,2021-04-07,5,2,"#{""tealeg@gmail.com"" ""49699333+dependabot[bot]@users.noreply.github.com""}",556.0,56
+Python,awslabs,2021-04-21,3,1,"#{""a.herz@freegroup.de""}",559.0,57
+Python,awslabs,2021-05-07,1,1,"#{""krzysztof.szajerski1@gmail.com""}",560.0,58
+Python,awslabs,2021-07-13,4,1,"#{""jmmccon@amazon.com""}",564.0,58
+Python,awslabs,2021-08-30,1,1,"#{""tealeg@gmail.com""}",565.0,58
+Python,awslabs,2021-10-06,10,1,"#{""jmmccon@amazon.com""}",575.0,58
+Python,awslabs,2021-11-07,1,1,"#{""ubuntu@ip-172-31-30-76.us-east-2.compute.internal""}",576.0,59
+Python,awslabs,2021-11-08,1,1,"#{""jmmccon@amazon.com""}",577.0,59
+Python,awslabs,2022-06-03,3,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",580.0,59
+Python,awslabs,2022-10-27,15,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""jmmccon@amazon.com""}",595.0,59
+Python,awslabs,2023-05-22,1,1,"#{""jmmccon@amazon.com""}",596.0,59
+Python,awslabs,2023-07-06,1,1,"#{""jmmccon@amazon.com""}",597.0,59

@@ -1,0 +1,1063 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/RasaHQ/rasa-demo,2018-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",1.0,"[{""other"" 1}]",1,0,0,0,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-05-24,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[32450038+akelad@users.noreply.github.com, lindaschuster1@gmx.de, akela@rasa.ai]",4.0,"[{""other"" 3, 2 1}]",3,0,0,1,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lindaschuster1@gmx.de]",5.0,"[{""other"" 4, 2 1}]",4,0,0,1,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-05-30,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com]",13.0,"[{""other"" 5, 2 8}]",5,0,0,8,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",14.0,"[{""other"" 5, 2 9}]",5,0,0,9,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, akela@rasa.ai]",16.0,"[{""other"" 5, 2 11}]",5,0,0,11,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-05,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[32450038+akelad@users.noreply.github.com, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",21.0,"[{""other"" 6, 2 15}]",6,0,0,15,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",22.0,"[{""other"" 6, 2 16}]",6,0,0,16,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-07,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, lindaschuster1@gmx.de, akela@rasa.ai, lindaschuster1@gmx.de]",28.0,"[{""other"" 11, 2 17}]",11,0,0,17,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[32450038+akelad@users.noreply.github.com, akela@rasa.ai]",30.0,"[{""other"" 12, 2 18}]",12,0,0,18,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",34.0,"[{""other"" 12, 2 22}]",12,0,0,22,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",39.0,"[{""other"" 12, 2 27}]",12,0,0,27,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",45.0,"[{""other"" 12, 2 33}]",12,0,0,33,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lindaschuster1@gmx.de]",46.0,"[{""other"" 13, 2 33}]",13,0,0,33,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",47.0,"[{""other"" 14, 2 33}]",14,0,0,33,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-07-25,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, lindaschuster1@gmx.de]",52.0,"[{""other"" 15, 2 37}]",15,0,0,37,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",53.0,"[{""other"" 15, 2 38}]",15,0,0,38,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-07-30,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[lindaschuster1@gmx.de, lindaschuster1@gmx.de, lindaschuster1@gmx.de, akela@rasa.ai, akela@rasa.ai, lindaschuster1@gmx.de, lindaschuster1@gmx.de, lindaschuster1@gmx.de]",61.0,"[{""other"" 21, 2 40}]",21,0,0,40,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-07-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",64.0,"[{""other"" 21, 2 43}]",21,0,0,43,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-08-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",67.0,"[{""other"" 21, 2 46}]",21,0,0,46,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-08-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[lindaschuster1@gmx.de, akela@rasa.ai, lindaschuster1@gmx.de]",70.0,"[{""other"" 23, 2 47}]",23,0,0,47,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-08-03,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com]",78.0,"[{""other"" 26, 2 52}]",26,0,0,52,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-08-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, akela@rasa.ai]",80.0,"[{""other"" 26, 2 54}]",26,0,0,54,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-08-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[lindaschuster1@gmx.de, akela@rasa.ai]",82.0,"[{""other"" 27, 2 55}]",27,0,0,55,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-08-10,14,3,"#tech.v3.dataset.column<string>[14]
+:email
+[32450038+akelad@users.noreply.github.com, akela@rasa.ai, alan.nichol@gmail.com, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",96.0,"[{""other"" 29, 2 67}]",29,0,0,67,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-08-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",99.0,"[{""other"" 29, 2 70}]",29,0,0,70,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",100.0,"[{""other"" 29, 2 71}]",29,0,0,71,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",104.0,"[{""other"" 29, 2 75}]",29,0,0,75,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-07,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, akela@rasa.ai, akela@rasa.ai]",112.0,"[{""other"" 33, 2 79}]",33,0,0,79,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-10,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, akela@rasa.ai, akela@rasa.ai]",121.0,"[{""other"" 36, 2 85}]",36,0,0,85,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-11,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[akela@rasa.ai, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, akela@rasa.ai, akela@rasa.ai, alan@golastmile.com, alan@golastmile.com, akela@rasa.ai]",133.0,"[{""other"" 44, 2 89}]",44,0,0,89,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[suryak@udel.edu]",134.0,"[{""other"" 45, 2 89}]",45,0,0,89,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, 32450038+akelad@users.noreply.github.com]",136.0,"[{""other"" 46, 2 90}]",46,0,0,90,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-17,10,3,"#tech.v3.dataset.column<string>[10]
+:email
+[akela@rasa.ai, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, akela@rasa.ai, akela@rasa.ai, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com, alan@golastmile.com]",146.0,"[{""other"" 53, 2 93}]",53,0,0,93,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-09-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, akela@rasa.ai]",150.0,"[{""other"" 54, 2 96}]",54,0,0,96,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36412653+claverru@users.noreply.github.com]",151.0,"[{""other"" 55, 2 96}]",55,0,0,96,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",152.0,"[{""other"" 56, 2 96}]",56,0,0,96,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-10-24,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, t.wochinger@rasa.com]",156.0,"[{""other"" 57, 2 99}]",57,0,0,99,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-10-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com]",160.0,"[{""other"" 61, 2 99}]",61,0,0,99,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-10-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com]",162.0,"[{""other"" 63, 2 99}]",63,0,0,99,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-10-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[akela@rasa.ai, 32450038+akelad@users.noreply.github.com, akela@rasa.ai, akela@rasa.ai]",166.0,"[{""other"" 64, 2 102}]",64,0,0,102,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",167.0,"[{""other"" 64, 2 103}]",64,0,0,103,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",168.0,"[{""other"" 64, 2 104}]",64,0,0,104,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",169.0,"[{""other"" 64, 2 105}]",64,0,0,105,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, akela@rasa.ai]",171.0,"[{""other"" 64, 2 107}]",64,0,0,107,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",172.0,"[{""other"" 64, 2 108}]",64,0,0,108,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-20,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com]",175.0,"[{""other"" 65, 2 110}]",65,0,0,110,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com]",179.0,"[{""other"" 69, 2 110}]",69,0,0,110,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, akela@rasa.ai]",181.0,"[{""other"" 69, 2 112}]",69,0,0,112,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",182.0,"[{""other"" 70, 2 112}]",70,0,0,112,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[t.wochinger@rasa.com]",183.0,"[{""other"" 71, 2 112}]",71,0,0,112,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com]",186.0,"[{""other"" 74, 2 112}]",74,0,0,112,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-11-30,10,3,"#tech.v3.dataset.column<string>[10]
+:email
+[32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com, e.pedrotti@rasa.com]",196.0,"[{""other"" 84, 2 112}]",84,0,0,112,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[e.pedrotti@rasa.com, e.pedrotti@rasa.com]",198.0,"[{""other"" 86, 2 112}]",86,0,0,112,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",201.0,"[{""other"" 86, 2 115}]",86,0,0,115,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[e.pedrotti@rasa.com]",202.0,"[{""other"" 87, 2 115}]",87,0,0,115,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-04,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[32450038+akelad@users.noreply.github.com, akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com]",208.0,"[{""other"" 91, 2 117}]",91,0,0,117,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-05,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com, t.wochinger@rasa.com]",216.0,"[{""other"" 96, 2 120}]",96,0,0,120,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",217.0,"[{""other"" 96, 2 121}]",96,0,0,121,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",218.0,"[{""other"" 96, 2 122}]",96,0,0,122,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-13,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",225.0,"[{""other"" 100, 2 125}]",100,0,0,125,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-14,18,4,"#tech.v3.dataset.column<string>[18]
+:email
+[akela@rasa.ai, akela@rasa.ai, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, alex@rasa.com, 32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, alex@rasa.com, 32450038+akelad@users.noreply.github.com]",243.0,"[{""other"" 115, 2 128}]",115,0,0,128,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-17,7,4,"#tech.v3.dataset.column<string>[7]
+:email
+[t.wochinger@rasa.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, akela@rasa.ai, lindaschuster1@gmx.de, akela@rasa.ai, 32450038+akelad@users.noreply.github.com]",250.0,"[{""other"" 120, 2 130}]",120,0,0,130,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",251.0,"[{""other"" 121, 2 130}]",121,0,0,130,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2018-12-19,17,3,"#tech.v3.dataset.column<string>[17]
+:email
+[akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, akela@rasa.ai, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, akela@rasa.ai, akela@rasa.ai, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com]",268.0,"[{""other"" 133, 2 135}]",133,0,0,135,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-04,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com]",274.0,"[{""other"" 139, 2 135}]",139,0,0,135,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com]",276.0,"[{""other"" 141, 2 135}]",141,0,0,135,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-10,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[akela@rasa.ai, mail@tobias-wochinger.de, akela@rasa.ai]",279.0,"[{""other"" 142, 2 137}]",142,0,0,137,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-15,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, 32450038+akelad@users.noreply.github.com, akela@rasa.ai, akela@rasa.ai]",286.0,"[{""other"" 143, 2 143}]",143,0,0,143,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, akela@rasa.ai]",288.0,"[{""other"" 143, 2 145}]",143,0,0,145,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",291.0,"[{""other"" 143, 2 148}]",143,0,0,148,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, akela@rasa.ai]",293.0,"[{""other"" 143, 2 150}]",143,0,0,150,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com]",296.0,"[{""other"" 146, 2 150}]",146,0,0,150,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[t.wochinger@rasa.com]",297.0,"[{""other"" 147, 2 150}]",147,0,0,150,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-23,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[akela@rasa.ai, t.wochinger@rasa.com, t.wochinger@rasa.com, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",303.0,"[{""other"" 149, 2 154}]",149,0,0,154,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-24,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com, t.wochinger@rasa.com, 32450038+akelad@users.noreply.github.com]",307.0,"[{""other"" 153, 2 154}]",153,0,0,154,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com]",309.0,"[{""other"" 155, 2 154}]",155,0,0,154,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-01-29,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, 32450038+akelad@users.noreply.github.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com]",317.0,"[{""other"" 163, 2 154}]",163,0,0,154,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-01,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai, t.wochinger@rasa.com]",326.0,"[{""other"" 166, 2 160}]",166,0,0,160,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-04,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[t.wochinger@rasa.com, mail@tobias-wochinger.de, akela@rasa.ai, akela@rasa.ai, akela@rasa.ai]",331.0,"[{""other"" 168, 2 163}]",168,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com, t.wochinger@rasa.com]",335.0,"[{""other"" 172, 2 163}]",172,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[t.wochinger@rasa.com, t.wochinger@rasa.com, 32450038+akelad@users.noreply.github.com]",338.0,"[{""other"" 175, 2 163}]",175,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mail@tobias-wochinger.de]",339.0,"[{""other"" 176, 2 163}]",176,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[n.zaki@rasa.com]",340.0,"[{""other"" 177, 2 163}]",177,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[n.zaki@rasa.com]",341.0,"[{""other"" 178, 2 163}]",178,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-02-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",342.0,"[{""other"" 179, 2 163}]",179,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[denis.sheremetov@gmail.com]",343.0,"[{""other"" 180, 2 163}]",180,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",344.0,"[{""other"" 181, 2 163}]",181,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-03-20,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com]",350.0,"[{""other"" 187, 2 163}]",187,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-03-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com]",353.0,"[{""other"" 190, 2 163}]",190,0,0,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-03-24,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",360.0,"[{""other"" 190, 2 163, 1 7}]",190,0,7,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-03-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",363.0,"[{""other"" 190, 2 163, 1 10}]",190,0,10,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-03-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, erohmensing@gmail.com]",367.0,"[{""other"" 193, 2 163, 1 11}]",193,0,11,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com]",369.0,"[{""other"" 193, 2 163, 1 13}]",193,0,13,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-02,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[tabergma@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",374.0,"[{""other"" 194, 2 163, 1 17}]",194,0,17,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-03,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",378.0,"[{""other"" 194, 2 163, 1 21}]",194,0,21,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-05,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[tabergma@gmail.com, tabergma@gmail.com, erohmensing@gmail.com, 32450038+akelad@users.noreply.github.com]",382.0,"[{""other"" 197, 2 163, 1 22}]",197,0,22,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erohmensing@gmail.com]",383.0,"[{""other"" 197, 2 163, 1 23}]",197,0,23,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",388.0,"[{""other"" 197, 2 163, 1 28}]",197,0,28,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com]",391.0,"[{""other"" 200, 2 163, 1 28}]",200,0,28,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tabergma@gmail.com]",392.0,"[{""other"" 201, 2 163, 1 28}]",201,0,28,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tabergma@gmail.com, tabergma@gmail.com]",394.0,"[{""other"" 203, 2 163, 1 28}]",203,0,28,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-29,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com, t.bergmann@rasa.com, tabergma@gmail.com]",403.0,"[{""other"" 212, 2 163, 1 28}]",212,0,28,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-04-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tabergma@gmail.com]",404.0,"[{""other"" 213, 2 163, 1 28}]",213,0,28,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-05-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com]",406.0,"[{""other"" 213, 2 163, 1 30}]",213,0,30,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com]",408.0,"[{""other"" 213, 2 163, 1 32}]",213,0,32,163,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-05-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[akela@rasa.ai, akela@rasa.ai]",410.0,"[{""other"" 213, 2 165, 1 32}]",213,0,32,165,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",411.0,"[{""other"" 214, 2 165, 1 32}]",214,0,32,165,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-05-23,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[32450038+akelad@users.noreply.github.com, akela@rasa.ai, akela@rasa.ai]",414.0,"[{""other"" 215, 2 167, 1 32}]",215,0,32,167,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-05-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[mail@tobias-wochinger.de, akela@rasa.ai]",416.0,"[{""other"" 216, 2 168, 1 32}]",216,0,32,168,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-06-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tabergma@gmail.com, tabergma@gmail.com, tabergma@gmail.com]",419.0,"[{""other"" 219, 2 168, 1 32}]",219,0,32,168,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-06-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",420.0,"[{""other"" 220, 2 168, 1 32}]",220,0,32,168,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.ai]",421.0,"[{""other"" 220, 2 169, 1 32}]",220,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-06-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[a.mannekote@rasa.com, a.mannekote@rasa.com, a.mannekote@rasa.com, a.mannekote@rasa.com]",425.0,"[{""other"" 224, 2 169, 1 32}]",224,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-06-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[a.mannekote@rasa.com, a.mannekote@rasa.com, a.mannekote@rasa.com, a.mannekote@rasa.com]",429.0,"[{""other"" 228, 2 169, 1 32}]",228,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-07-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",430.0,"[{""other"" 229, 2 169, 1 32}]",229,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-07-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[msamogh@gmail.com, msamogh@gmail.com]",432.0,"[{""other"" 231, 2 169, 1 32}]",231,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-07-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",436.0,"[{""other"" 235, 2 169, 1 32}]",235,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-07-10,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",442.0,"[{""other"" 241, 2 169, 1 32}]",241,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-07-11,18,1,"#tech.v3.dataset.column<string>[18]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",460.0,"[{""other"" 259, 2 169, 1 32}]",259,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-07-12,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",470.0,"[{""other"" 269, 2 169, 1 32}]",269,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",471.0,"[{""other"" 270, 2 169, 1 32}]",270,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-08-06,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",477.0,"[{""other"" 276, 2 169, 1 32}]",276,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-08-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",480.0,"[{""other"" 279, 2 169, 1 32}]",279,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-08-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[msamogh@gmail.com, msamogh@gmail.com]",482.0,"[{""other"" 281, 2 169, 1 32}]",281,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",483.0,"[{""other"" 282, 2 169, 1 32}]",282,0,32,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[erohmensing@gmail.com, brianhh1230@gmail.com]",485.0,"[{""other"" 283, 2 169, 1 33}]",283,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",486.0,"[{""other"" 284, 2 169, 1 33}]",284,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",489.0,"[{""other"" 287, 2 169, 1 33}]",287,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-23,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",497.0,"[{""other"" 295, 2 169, 1 33}]",295,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[msamogh@gmail.com, msamogh@gmail.com]",499.0,"[{""other"" 297, 2 169, 1 33}]",297,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",500.0,"[{""other"" 298, 2 169, 1 33}]",298,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",501.0,"[{""other"" 299, 2 169, 1 33}]",299,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",502.0,"[{""other"" 300, 2 169, 1 33}]",300,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-10-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[msamogh@gmail.com, msamogh@gmail.com]",504.0,"[{""other"" 302, 2 169, 1 33}]",302,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-10-14,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com, msamogh@gmail.com]",510.0,"[{""other"" 308, 2 169, 1 33}]",308,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",511.0,"[{""other"" 309, 2 169, 1 33}]",309,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",512.0,"[{""other"" 310, 2 169, 1 33}]",310,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",513.0,"[{""other"" 311, 2 169, 1 33}]",311,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-10-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",514.0,"[{""other"" 312, 2 169, 1 33}]",312,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[msamogh@gmail.com]",515.0,"[{""other"" 313, 2 169, 1 33}]",313,0,33,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-05,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",522.0,"[{""other"" 313, 2 169, 1 40}]",313,0,40,169,0,0
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[arjaan.buijk@gmail.com, erohmensing@gmail.com]",524.0,"[{""other"" 313, 2 169, 1 41, 4 1}]",313,0,41,169,0,1
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-13,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, 32450038+akelad@users.noreply.github.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",532.0,"[{""other"" 314, 2 169, 1 45, 4 4}]",314,0,45,169,0,4
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-14,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[arjaan.buijk@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",537.0,"[{""other"" 314, 2 169, 1 49, 4 5}]",314,0,49,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com]",539.0,"[{""other"" 314, 2 169, 1 51, 4 5}]",314,0,51,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-20,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, a.buijk@rasa.com, erohmensing@gmail.com]",545.0,"[{""other"" 315, 2 169, 1 56, 4 5}]",315,0,56,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erohmensing@gmail.com]",546.0,"[{""other"" 315, 2 169, 1 57, 4 5}]",315,0,57,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[greg@udon.org]",547.0,"[{""other"" 316, 2 169, 1 57, 4 5}]",316,0,57,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[greg@udon.org, erohmensing@gmail.com]",549.0,"[{""other"" 317, 2 169, 1 58, 4 5}]",317,0,58,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com]",551.0,"[{""other"" 317, 2 169, 1 60, 4 5}]",317,0,60,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-11-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erohmensing@gmail.com]",552.0,"[{""other"" 317, 2 169, 1 61, 4 5}]",317,0,61,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[greg@udon.org]",553.0,"[{""other"" 318, 2 169, 1 61, 4 5}]",318,0,61,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[greg@udon.org, greg@udon.org, greg@udon.org, greg@udon.org]",557.0,"[{""other"" 322, 2 169, 1 61, 4 5}]",322,0,61,169,0,5
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-07,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[greg@udon.org, arjaan.buijk@gmail.com, greg@udon.org]",560.0,"[{""other"" 324, 2 169, 1 61, 4 6}]",324,0,61,169,0,6
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[greg@udon.org, greg@udon.org]",562.0,"[{""other"" 326, 2 169, 1 61, 4 6}]",326,0,61,169,0,6
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arjaan.buijk@gmail.com]",563.0,"[{""other"" 326, 2 169, 1 61, 4 7}]",326,0,61,169,0,7
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-11,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[greg@udon.org, greg@udon.org, greg@udon.org, erohmensing@gmail.com, greg@udon.org, 32450038+akelad@users.noreply.github.com]",569.0,"[{""other"" 331, 2 169, 1 62, 4 7}]",331,0,62,169,0,7
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, akela@rasa.com, 32450038+akelad@users.noreply.github.com]",573.0,"[{""other"" 335, 2 169, 1 62, 4 7}]",335,0,62,169,0,7
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-18,10,3,"#tech.v3.dataset.column<string>[10]
+:email
+[greg@udon.org, greg@udon.org, greg@udon.org, greg@udon.org, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, erohmensing@gmail.com, arjaan.buijk@gmail.com]",583.0,"[{""other"" 339, 2 169, 1 63, 4 12}]",339,0,63,169,0,12
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-19,16,3,"#tech.v3.dataset.column<string>[16]
+:email
+[a.buijk@rasa.com, erohmensing@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, arjaan.buijk@gmail.com]",599.0,"[{""other"" 340, 2 169, 1 70, 4 20}]",340,0,70,169,0,20
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-20,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[greg@udon.org, greg@udon.org, erohmensing@gmail.com, erohmensing@gmail.com, rasa@11f59630125a]",604.0,"[{""other"" 343, 2 169, 1 72, 4 20}]",343,0,72,169,0,20
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[greg@udon.org]",605.0,"[{""other"" 344, 2 169, 1 72, 4 20}]",344,0,72,169,0,20
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-23,13,4,"#tech.v3.dataset.column<string>[13]
+:email
+[greg@udon.org, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, arjaan.buijk@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, rasa@11f59630125a, greg@udon.org]",618.0,"[{""other"" 347, 2 169, 1 81, 4 21}]",347,0,81,169,0,21
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-24,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[greg@udon.org, greg@udon.org, greg@udon.org, greg@udon.org, greg@udon.org, greg@udon.org, greg@udon.org]",625.0,"[{""other"" 354, 2 169, 1 81, 4 21}]",354,0,81,169,0,21
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-27,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, a.buijk@rasa.com, a.buijk@rasa.com]",629.0,"[{""other"" 356, 2 169, 1 81, 4 23}]",356,0,81,169,0,23
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-30,12,5,"#tech.v3.dataset.column<string>[12]
+:email
+[greg@udon.org, greg@udon.org, greg@udon.org, erohmensing@gmail.com, rasa@11f59630125a, greg@udon.org, a.buijk@rasa.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, arjaan.buijk@gmail.com, rasa@11f59630125a]",641.0,"[{""other"" 363, 2 169, 1 85, 4 24}]",363,0,85,169,0,24
+Python,https://github.com/RasaHQ/rasa-demo,2019-12-31,5,4,"#tech.v3.dataset.column<string>[5]
+:email
+[a.buijk@rasa.com, greg@udon.org, arjaan.buijk@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",646.0,"[{""other"" 365, 2 169, 1 87, 4 25}]",365,0,87,169,0,25
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-01,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, rasa@f141922a2392, rasa@11f59630125a, erohmensing@gmail.com]",651.0,"[{""other"" 367, 2 169, 1 90, 4 25}]",367,0,90,169,0,25
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-02,14,4,"#tech.v3.dataset.column<string>[14]
+:email
+[erohmensing@gmail.com, a.buijk@rasa.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, a.buijk@rasa.com, a.buijk@rasa.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, rasa@f141922a2392, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",665.0,"[{""other"" 371, 2 169, 1 95, 4 30}]",371,0,95,169,0,30
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-03,4,4,"#tech.v3.dataset.column<string>[4]
+:email
+[a.buijk@rasa.com, arjaan.buijk@gmail.com, rasa@f141922a2392, erohmensing@gmail.com]",669.0,"[{""other"" 373, 2 169, 1 96, 4 31}]",373,0,96,169,0,31
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arjaan.buijk@gmail.com]",670.0,"[{""other"" 373, 2 169, 1 96, 4 32}]",373,0,96,169,0,32
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-06,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, erohmensing@gmail.com]",680.0,"[{""other"" 373, 2 169, 1 102, 4 36}]",373,0,102,169,0,36
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-07,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[melinda.loubser@gmail.com, erohmensing@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",686.0,"[{""other"" 373, 2 169, 1 105, 4 36, 0 3}]",373,3,105,169,0,36
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-14,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, b.hopkins@rasa.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",693.0,"[{""other"" 374, 2 169, 1 111, 4 36, 0 3}]",374,3,111,169,0,36
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arjaan.buijk@gmail.com]",694.0,"[{""other"" 374, 2 169, 1 111, 4 37, 0 3}]",374,3,111,169,0,37
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erohmensing@gmail.com]",695.0,"[{""other"" 374, 2 169, 1 112, 4 37, 0 3}]",374,3,112,169,0,37
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[melinda.loubser@gmail.com, rasa@b335fc97c68e]",697.0,"[{""other"" 375, 2 169, 1 112, 4 37, 0 4}]",375,4,112,169,0,37
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",698.0,"[{""other"" 376, 2 169, 1 112, 4 37, 0 4}]",376,4,112,169,0,37
+Python,https://github.com/RasaHQ/rasa-demo,2020-01-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[32450038+akelad@users.noreply.github.com, akela@rasa.com]",700.0,"[{""other"" 378, 2 169, 1 112, 4 37, 0 4}]",378,4,112,169,0,37
+Python,https://github.com/RasaHQ/rasa-demo,2020-02-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com]",702.0,"[{""other"" 378, 2 169, 1 114, 4 37, 0 4}]",378,4,114,169,0,37
+Python,https://github.com/RasaHQ/rasa-demo,2020-02-05,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, 32450038+akelad@users.noreply.github.com]",710.0,"[{""other"" 379, 2 169, 1 114, 4 44, 0 4}]",379,4,114,169,0,44
+Python,https://github.com/RasaHQ/rasa-demo,2020-02-06,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, a.buijk@rasa.com, a.buijk@rasa.com]",717.0,"[{""other"" 381, 2 169, 1 114, 4 49, 0 4}]",381,4,114,169,0,49
+Python,https://github.com/RasaHQ/rasa-demo,2020-02-07,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[a.buijk@rasa.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, a.buijk@rasa.com]",723.0,"[{""other"" 383, 2 169, 1 114, 4 53, 0 4}]",383,4,114,169,0,53
+Python,https://github.com/RasaHQ/rasa-demo,2020-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[arjaan.buijk@gmail.com]",724.0,"[{""other"" 383, 2 169, 1 114, 4 54, 0 4}]",383,4,114,169,0,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-02-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erohmensing@gmail.com]",725.0,"[{""other"" 383, 2 169, 1 115, 4 54, 0 4}]",383,4,115,169,0,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-02-24,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",736.0,"[{""other"" 383, 2 169, 1 126, 4 54, 0 4}]",383,4,126,169,0,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.com]",737.0,"[{""other"" 384, 2 169, 1 126, 4 54, 0 4}]",384,4,126,169,0,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",740.0,"[{""other"" 384, 2 169, 1 126, 4 54, 0 6, 3 1}]",384,6,126,169,1,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",741.0,"[{""other"" 384, 2 169, 1 126, 4 54, 0 7, 3 1}]",384,7,126,169,1,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-11,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, akela@rasa.com]",744.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 7, 3 1}]",387,7,126,169,1,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",746.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 8, 3 2}]",387,8,126,169,2,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",750.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 12, 3 2}]",387,12,126,169,2,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",752.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 13, 3 3}]",387,13,126,169,3,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-20,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",765.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 19, 3 10}]",387,19,126,169,10,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-23,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com]",774.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 23, 3 15}]",387,23,126,169,15,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",775.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 23, 3 16}]",387,23,126,169,16,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",776.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 23, 3 17}]",387,23,126,169,17,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com]",779.0,"[{""other"" 387, 2 169, 1 126, 4 54, 0 24, 3 19}]",387,24,126,169,19,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-03-30,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, 32450038+akelad@users.noreply.github.com]",782.0,"[{""other"" 388, 2 169, 1 128, 4 54, 0 24, 3 19}]",388,24,128,169,19,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",783.0,"[{""other"" 388, 2 169, 1 128, 4 54, 0 25, 3 19}]",388,25,128,169,19,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",784.0,"[{""other"" 388, 2 169, 1 128, 4 54, 0 25, 3 20}]",388,25,128,169,20,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",785.0,"[{""other"" 388, 2 169, 1 128, 4 54, 0 26, 3 20}]",388,26,128,169,20,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-16,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, rasa-x@rasa.com]",789.0,"[{""other"" 389, 2 169, 1 128, 4 54, 0 29, 3 20}]",389,29,128,169,20,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rasa-x@rasa.com]",790.0,"[{""other"" 390, 2 169, 1 128, 4 54, 0 29, 3 20}]",390,29,128,169,20,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-22,9,3,"#tech.v3.dataset.column<string>[9]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, erohmensing@gmail.com, akela@rasa.com, akela@rasa.com, akela@rasa.com, akela@rasa.com, melinda.loubser@gmail.com, akela@rasa.com]",799.0,"[{""other"" 395, 2 169, 1 129, 4 54, 0 32, 3 20}]",395,32,129,169,20,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-23,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[akela@rasa.com, akela@rasa.com, akela@rasa.com, 32450038+akelad@users.noreply.github.com]",803.0,"[{""other"" 399, 2 169, 1 129, 4 54, 0 32, 3 20}]",399,32,129,169,20,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-24,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, erohmensing@gmail.com, 32450038+akelad@users.noreply.github.com]",809.0,"[{""other"" 400, 2 169, 1 130, 4 54, 0 36, 3 20}]",400,36,130,169,20,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-27,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, t.dunn@rasa.com, melinda.loubser@gmail.com, t.dunn@rasa.com, t.dunn@rasa.com]",816.0,"[{""other"" 403, 2 169, 1 130, 4 54, 0 38, 3 22}]",403,38,130,169,22,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-28,9,4,"#tech.v3.dataset.column<string>[9]
+:email
+[melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, erohmensing@gmail.com, rasa-x@rasa.com]",825.0,"[{""other"" 404, 2 169, 1 131, 4 54, 0 41, 3 26}]",404,41,131,169,26,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-29,10,5,"#tech.v3.dataset.column<string>[10]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, akela@rasa.com, 32450038+akelad@users.noreply.github.com, rasa-x@rasa.com]",835.0,"[{""other"" 407, 2 169, 1 131, 4 54, 0 47, 3 27}]",407,47,131,169,27,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-04-30,8,4,"#tech.v3.dataset.column<string>[8]
+:email
+[melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, akela@rasa.com, 32034278+melindaloubser1@users.noreply.github.com, 32450038+akelad@users.noreply.github.com]",843.0,"[{""other"" 409, 2 169, 1 131, 4 54, 0 50, 3 30}]",409,50,131,169,30,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32450038+akelad@users.noreply.github.com]",844.0,"[{""other"" 410, 2 169, 1 131, 4 54, 0 50, 3 30}]",410,50,131,169,30,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-06,22,6,"#tech.v3.dataset.column<string>[22]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, pranavipadegal@gmail.com, pranavipadegal@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com...]",866.0,"[{""other"" 419, 2 169, 1 139, 4 54, 0 53, 3 32}]",419,53,139,169,32,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-07,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",874.0,"[{""other"" 421, 2 169, 1 139, 4 54, 0 58, 3 33}]",421,58,139,169,33,54
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-11,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[rasa-x@rasa.com, arjaan.buijk@gmail.com, rasa-x@rasa.com, 32034278+melindaloubser1@users.noreply.github.com]",878.0,"[{""other"" 423, 2 169, 1 139, 4 55, 0 58, 3 34}]",423,58,139,169,34,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-12,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[16159200+ArjaanBuijk@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",883.0,"[{""other"" 424, 2 169, 1 142, 4 55, 0 58, 3 35}]",424,58,142,169,35,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-13,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[erohmensing@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32450038+akelad@users.noreply.github.com]",888.0,"[{""other"" 425, 2 169, 1 143, 4 55, 0 58, 3 38}]",425,58,143,169,38,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-15,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[16159200+ArjaanBuijk@users.noreply.github.com, erohmensing@gmail.com, 16159200+ArjaanBuijk@users.noreply.github.com]",891.0,"[{""other"" 427, 2 169, 1 144, 4 55, 0 58, 3 38}]",427,58,144,169,38,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-17,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, erohmensing@gmail.com, rasa-x@rasa.com]",896.0,"[{""other"" 428, 2 169, 1 145, 4 55, 0 58, 3 41}]",428,58,145,169,41,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com]",898.0,"[{""other"" 428, 2 169, 1 145, 4 55, 0 60, 3 41}]",428,60,145,169,41,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-19,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, rasa-x@rasa.com, 32034278+melindaloubser1@users.noreply.github.com, rasa-x@rasa.com]",902.0,"[{""other"" 430, 2 169, 1 145, 4 55, 0 60, 3 43}]",430,60,145,169,43,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-20,6,5,"#tech.v3.dataset.column<string>[6]
+:email
+[65514514+b-quachtran@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32450038+akelad@users.noreply.github.com, 32450038+akelad@users.noreply.github.com, rasa-x@rasa.com]",908.0,"[{""other"" 434, 2 169, 1 145, 4 55, 0 61, 3 44}]",434,61,145,169,44,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",909.0,"[{""other"" 434, 2 169, 1 145, 4 55, 0 61, 3 45}]",434,61,145,169,45,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-23,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",917.0,"[{""other"" 434, 2 169, 1 145, 4 55, 0 63, 3 51}]",434,63,145,169,51,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-24,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com]",928.0,"[{""other"" 434, 2 169, 1 145, 4 55, 0 65, 3 60}]",434,65,145,169,60,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",929.0,"[{""other"" 434, 2 169, 1 145, 4 55, 0 66, 3 60}]",434,66,145,169,60,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-26,30,6,"#tech.v3.dataset.column<string>[30]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, 41898282+github-actions[bot]@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 65514514+b-quachtran@users.noreply.github.com, 41898282+github-actions[bot]@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com...]",959.0,"[{""other"" 439, 2 169, 1 156, 4 55, 0 68, 3 72}]",439,68,156,169,72,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-27,16,4,"#tech.v3.dataset.column<string>[16]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 41898282+github-actions[bot]@users.noreply.github.com, erohmensing@gmail.com, erohmensing@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 41898282+github-actions[bot]@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",975.0,"[{""other"" 441, 2 169, 1 163, 4 55, 0 71, 3 76}]",441,71,163,169,76,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-28,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 41898282+github-actions[bot]@users.noreply.github.com]",984.0,"[{""other"" 442, 2 169, 1 163, 4 55, 0 79, 3 76}]",442,79,163,169,76,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",985.0,"[{""other"" 442, 2 169, 1 163, 4 55, 0 79, 3 77}]",442,79,163,169,77,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-06-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rasa-x@rasa.com]",986.0,"[{""other"" 443, 2 169, 1 163, 4 55, 0 79, 3 77}]",443,79,163,169,77,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-06-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com]",988.0,"[{""other"" 445, 2 169, 1 163, 4 55, 0 79, 3 77}]",445,79,163,169,77,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-06-08,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",994.0,"[{""other"" 445, 2 169, 1 163, 4 55, 0 82, 3 80}]",445,82,163,169,80,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[65514514+b-quachtran@users.noreply.github.com]",995.0,"[{""other"" 446, 2 169, 1 163, 4 55, 0 82, 3 80}]",446,82,163,169,80,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41898282+github-actions[bot]@users.noreply.github.com]",996.0,"[{""other"" 447, 2 169, 1 163, 4 55, 0 82, 3 80}]",447,82,163,169,80,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-06-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com]",998.0,"[{""other"" 447, 2 169, 1 163, 4 55, 0 84, 3 80}]",447,84,163,169,80,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-06-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",1000.0,"[{""other"" 447, 2 169, 1 163, 4 55, 0 85, 3 81}]",447,85,163,169,81,55
+Python,https://github.com/RasaHQ/rasa-demo,2020-07-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com]",1002.0,"[{""other"" 447, 2 169, 1 163, 4 57, 0 85, 3 81}]",447,85,163,169,81,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-07-07,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, b.quachtran@rasa.com, b.quachtran@rasa.com, rasa-x@rasa.com]",1006.0,"[{""other"" 450, 2 169, 1 163, 4 57, 0 85, 3 82}]",450,85,163,169,82,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-07-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[16159200+ArjaanBuijk@users.noreply.github.com, 16159200+ArjaanBuijk@users.noreply.github.com]",1008.0,"[{""other"" 452, 2 169, 1 163, 4 57, 0 85, 3 82}]",452,85,163,169,82,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-07-20,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[41898282+github-actions[bot]@users.noreply.github.com, 16159200+ArjaanBuijk@users.noreply.github.com, rasa-x@rasa.com]",1011.0,"[{""other"" 455, 2 169, 1 163, 4 57, 0 85, 3 82}]",455,85,163,169,82,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com]",1014.0,"[{""other"" 458, 2 169, 1 163, 4 57, 0 85, 3 82}]",458,85,163,169,82,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1015.0,"[{""other"" 459, 2 169, 1 163, 4 57, 0 85, 3 82}]",459,85,163,169,82,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1016.0,"[{""other"" 460, 2 169, 1 163, 4 57, 0 85, 3 82}]",460,85,163,169,82,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com]",1019.0,"[{""other"" 463, 2 169, 1 163, 4 57, 0 85, 3 82}]",463,85,163,169,82,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-27,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, erohmensing@gmail.com, erohmensing@gmail.com]",1024.0,"[{""other"" 463, 2 169, 1 165, 4 57, 0 85, 3 85}]",463,85,165,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, 39144118+kr-prince@users.noreply.github.com]",1026.0,"[{""other"" 465, 2 169, 1 165, 4 57, 0 85, 3 85}]",465,85,165,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[20626973+TristanAppDev@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1030.0,"[{""other"" 466, 2 169, 1 165, 4 57, 0 88, 3 85}]",466,88,165,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-08-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[erohmensing@gmail.com, erohmensing@gmail.com, erohmensing@gmail.com]",1033.0,"[{""other"" 466, 2 169, 1 168, 4 57, 0 88, 3 85}]",466,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com]",1035.0,"[{""other"" 468, 2 169, 1 168, 4 57, 0 88, 3 85}]",468,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com]",1037.0,"[{""other"" 470, 2 169, 1 168, 4 57, 0 88, 3 85}]",470,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1038.0,"[{""other"" 471, 2 169, 1 168, 4 57, 0 88, 3 85}]",471,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, keith@jargon.com]",1040.0,"[{""other"" 473, 2 169, 1 168, 4 57, 0 88, 3 85}]",473,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com]",1044.0,"[{""other"" 477, 2 169, 1 168, 4 57, 0 88, 3 85}]",477,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1045.0,"[{""other"" 478, 2 169, 1 168, 4 57, 0 88, 3 85}]",478,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1046.0,"[{""other"" 479, 2 169, 1 168, 4 57, 0 88, 3 85}]",479,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1047.0,"[{""other"" 480, 2 169, 1 168, 4 57, 0 88, 3 85}]",480,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com]",1049.0,"[{""other"" 482, 2 169, 1 168, 4 57, 0 88, 3 85}]",482,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1050.0,"[{""other"" 483, 2 169, 1 168, 4 57, 0 88, 3 85}]",483,88,168,169,85,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-06,5,4,"#tech.v3.dataset.column<string>[5]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com, s.sucik@rasa.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",1055.0,"[{""other"" 486, 2 169, 1 168, 4 57, 0 89, 3 86}]",486,89,168,169,86,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-07,12,4,"#tech.v3.dataset.column<string>[12]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com, 65514514+b-quachtran@users.noreply.github.com, b.quachtran@rasa.com, b.quachtran@rasa.com, 65514514+b-quachtran@users.noreply.github.com, 65514514+b-quachtran@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, s.sucik@rasa.com, s.sucik@rasa.com]",1067.0,"[{""other"" 496, 2 169, 1 168, 4 57, 0 89, 3 88}]",496,89,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, s.sucik@rasa.com]",1069.0,"[{""other"" 498, 2 169, 1 168, 4 57, 0 89, 3 88}]",498,89,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[s.sucik@rasa.com]",1070.0,"[{""other"" 499, 2 169, 1 168, 4 57, 0 89, 3 88}]",499,89,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1071.0,"[{""other"" 500, 2 169, 1 168, 4 57, 0 89, 3 88}]",500,89,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[65514514+b-quachtran@users.noreply.github.com, s.sucik@rasa.com, s.sucik@rasa.com]",1074.0,"[{""other"" 503, 2 169, 1 168, 4 57, 0 89, 3 88}]",503,89,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1077.0,"[{""other"" 503, 2 169, 1 168, 4 57, 0 92, 3 88}]",503,92,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com]",1079.0,"[{""other"" 505, 2 169, 1 168, 4 57, 0 92, 3 88}]",505,92,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1080.0,"[{""other"" 506, 2 169, 1 168, 4 57, 0 92, 3 88}]",506,92,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-21,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[41898282+github-actions[bot]@users.noreply.github.com, s.sucik@rasa.com, s.sucik@rasa.com]",1083.0,"[{""other"" 509, 2 169, 1 168, 4 57, 0 92, 3 88}]",509,92,168,169,88,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-26,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[b.quachtran@rasa.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",1086.0,"[{""other"" 510, 2 169, 1 168, 4 57, 0 93, 3 89}]",510,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-29,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[65514514+b-quachtran@users.noreply.github.com, b.quachtran@rasa.com, b.quachtran@rasa.com]",1089.0,"[{""other"" 513, 2 169, 1 168, 4 57, 0 93, 3 89}]",513,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41898282+github-actions[bot]@users.noreply.github.com]",1090.0,"[{""other"" 514, 2 169, 1 168, 4 57, 0 93, 3 89}]",514,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1091.0,"[{""other"" 515, 2 169, 1 168, 4 57, 0 93, 3 89}]",515,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1092.0,"[{""other"" 516, 2 169, 1 168, 4 57, 0 93, 3 89}]",516,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-12-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1093.0,"[{""other"" 517, 2 169, 1 168, 4 57, 0 93, 3 89}]",517,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-12-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1094.0,"[{""other"" 518, 2 169, 1 168, 4 57, 0 93, 3 89}]",518,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2020-12-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com]",1096.0,"[{""other"" 520, 2 169, 1 168, 4 57, 0 93, 3 89}]",520,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-01-05,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[m.vielkind@rasa.com, matthewvielkind@Matthews-MBP.fios-router.home, 65514514+b-quachtran@users.noreply.github.com, 65514514+b-quachtran@users.noreply.github.com, 65514514+b-quachtran@users.noreply.github.com]",1101.0,"[{""other"" 525, 2 169, 1 168, 4 57, 0 93, 3 89}]",525,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[b.quachtran@rasa.com]",1102.0,"[{""other"" 526, 2 169, 1 168, 4 57, 0 93, 3 89}]",526,93,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-02-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1103.0,"[{""other"" 526, 2 169, 1 168, 4 57, 0 94, 3 89}]",526,94,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-02-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1105.0,"[{""other"" 526, 2 169, 1 168, 4 57, 0 96, 3 89}]",526,96,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1106.0,"[{""other"" 526, 2 169, 1 168, 4 57, 0 97, 3 89}]",526,97,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1107.0,"[{""other"" 526, 2 169, 1 168, 4 57, 0 98, 3 89}]",526,98,168,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-02-11,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[41898282+github-actions[bot]@users.noreply.github.com, erohmensing@gmail.com, erohmensing@gmail.com, 41898282+github-actions[bot]@users.noreply.github.com, erohmensing@gmail.com]",1112.0,"[{""other"" 528, 2 169, 1 171, 4 57, 0 98, 3 89}]",528,98,171,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-02-26,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com, b.quachtran@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com, rasa-x@rasa.com]",1120.0,"[{""other"" 536, 2 169, 1 171, 4 57, 0 98, 3 89}]",536,98,171,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-01,15,5,"#tech.v3.dataset.column<string>[15]
+:email
+[41898282+github-actions[bot]@users.noreply.github.com, 41898282+github-actions[bot]@users.noreply.github.com, 65514514+b-quachtran@users.noreply.github.com, 65514514+b-quachtran@users.noreply.github.com, s.sucik@rasa.com, 41898282+github-actions[bot]@users.noreply.github.com, s.sucik@rasa.com, erohmensing@gmail.com, s.sucik@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com, rasa-x@rasa.com]",1135.0,"[{""other"" 550, 2 169, 1 172, 4 57, 0 98, 3 89}]",550,98,172,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[41898282+github-actions[bot]@users.noreply.github.com, s.sucik@rasa.com]",1137.0,"[{""other"" 552, 2 169, 1 172, 4 57, 0 98, 3 89}]",552,98,172,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1138.0,"[{""other"" 552, 2 169, 1 172, 4 57, 0 99, 3 89}]",552,99,172,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1141.0,"[{""other"" 552, 2 169, 1 172, 4 57, 0 102, 3 89}]",552,102,172,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1144.0,"[{""other"" 552, 2 169, 1 172, 4 57, 0 105, 3 89}]",552,105,172,169,89,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-10,31,3,"#tech.v3.dataset.column<string>[31]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, s.sucik@rasa.com, s.sucik@rasa.com...]",1175.0,"[{""other"" 555, 2 169, 1 172, 4 57, 0 129, 3 93}]",555,129,172,169,93,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-11,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[s.sucik@rasa.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, s.sucik@rasa.com, s.sucik@rasa.com]",1186.0,"[{""other"" 558, 2 169, 1 172, 4 57, 0 135, 3 95}]",558,135,172,169,95,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[melinda.loubser@gmail.com, s.sucik@rasa.com]",1188.0,"[{""other"" 559, 2 169, 1 172, 4 57, 0 136, 3 95}]",559,136,172,169,95,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-15,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1191.0,"[{""other"" 559, 2 169, 1 172, 4 57, 0 138, 3 96}]",559,138,172,169,96,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-16,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",1195.0,"[{""other"" 559, 2 169, 1 172, 4 57, 0 141, 3 97}]",559,141,172,169,97,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-17,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[65514514+b-quachtran@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",1200.0,"[{""other"" 560, 2 169, 1 172, 4 57, 0 144, 3 98}]",560,144,172,169,98,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1201.0,"[{""other"" 560, 2 169, 1 172, 4 57, 0 145, 3 98}]",560,145,172,169,98,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-24,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1210.0,"[{""other"" 560, 2 169, 1 172, 4 57, 0 154, 3 98}]",560,154,172,169,98,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-25,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1215.0,"[{""other"" 560, 2 169, 1 172, 4 57, 0 157, 3 100}]",560,157,172,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-29,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[s.sucik@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com, s.sucik@rasa.com]",1220.0,"[{""other"" 565, 2 169, 1 172, 4 57, 0 157, 3 100}]",565,157,172,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1221.0,"[{""other"" 565, 2 169, 1 172, 4 57, 0 158, 3 100}]",565,158,172,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1222.0,"[{""other"" 565, 2 169, 1 172, 4 57, 0 159, 3 100}]",565,159,172,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1226.0,"[{""other"" 565, 2 169, 1 172, 4 57, 0 163, 3 100}]",565,163,172,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-14,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[hsm207@users.noreply.github.com, hsm207@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1236.0,"[{""other"" 567, 2 169, 1 172, 4 57, 0 171, 3 100}]",567,171,172,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-15,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, hsm207@users.noreply.github.com]",1249.0,"[{""other"" 568, 2 169, 1 172, 4 57, 0 183, 3 100}]",568,183,172,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erohmensing@gmail.com]",1250.0,"[{""other"" 568, 2 169, 1 173, 4 57, 0 183, 3 100}]",568,183,173,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hsm207@users.noreply.github.com, hsm207@users.noreply.github.com, hsm207@users.noreply.github.com, hsm207@users.noreply.github.com]",1254.0,"[{""other"" 572, 2 169, 1 173, 4 57, 0 183, 3 100}]",572,183,173,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-19,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[g.stephens@rasa.com, melinda.loubser@gmail.com, erohmensing@gmail.com]",1257.0,"[{""other"" 573, 2 169, 1 174, 4 57, 0 184, 3 100}]",573,184,174,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hsm207@users.noreply.github.com]",1258.0,"[{""other"" 574, 2 169, 1 174, 4 57, 0 184, 3 100}]",574,184,174,169,100,57
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-21,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com]",1270.0,"[{""other"" 574, 2 169, 1 174, 4 69, 0 184, 3 100}]",574,184,174,169,100,69
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-22,24,1,"#tech.v3.dataset.column<string>[24]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com...]",1294.0,"[{""other"" 574, 2 169, 1 174, 4 93, 0 184, 3 100}]",574,184,174,169,100,93
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-23,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com]",1302.0,"[{""other"" 574, 2 169, 1 174, 4 101, 0 184, 3 100}]",574,184,174,169,100,101
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-26,9,3,"#tech.v3.dataset.column<string>[9]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, 65514514+b-quachtran@users.noreply.github.com, b.quachtran@rasa.com, 65514514+b-quachtran@users.noreply.github.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com]",1311.0,"[{""other"" 577, 2 169, 1 174, 4 107, 0 184, 3 100}]",577,184,174,169,100,107
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1313.0,"[{""other"" 577, 2 169, 1 174, 4 107, 0 186, 3 100}]",577,186,174,169,100,107
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-28,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, hsm207@users.noreply.github.com, hsm207@users.noreply.github.com, hsm207@users.noreply.github.com, hsm207@users.noreply.github.com]",1322.0,"[{""other"" 581, 2 169, 1 174, 4 112, 0 186, 3 100}]",581,186,174,169,100,112
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-29,23,5,"#tech.v3.dataset.column<string>[23]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, 16159200+ArjaanBuijk@users.noreply.github.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, arjaan.buijk@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com...]",1345.0,"[{""other"" 582, 2 169, 1 175, 4 126, 0 191, 3 102}]",582,191,175,169,102,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com]",1347.0,"[{""other"" 582, 2 169, 1 175, 4 126, 0 191, 3 104}]",582,191,175,169,104,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-05-03,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com]",1351.0,"[{""other"" 582, 2 169, 1 175, 4 126, 0 193, 3 106}]",582,193,175,169,106,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-05-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[erohmensing@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, erohmensing@gmail.com]",1354.0,"[{""other"" 582, 2 169, 1 177, 4 126, 0 193, 3 107}]",582,193,177,169,107,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-05-05,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",1359.0,"[{""other"" 582, 2 169, 1 177, 4 126, 0 197, 3 108}]",582,197,177,169,108,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-05-14,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",1367.0,"[{""other"" 582, 2 169, 1 177, 4 126, 0 203, 3 110}]",582,203,177,169,110,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-05-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",1369.0,"[{""other"" 582, 2 169, 1 177, 4 126, 0 204, 3 111}]",582,204,177,169,111,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-05-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",1372.0,"[{""other"" 582, 2 169, 1 177, 4 126, 0 205, 3 113}]",582,205,177,169,113,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-06-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1373.0,"[{""other"" 582, 2 169, 1 177, 4 126, 0 206, 3 113}]",582,206,177,169,113,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1374.0,"[{""other"" 582, 2 169, 1 177, 4 126, 0 206, 3 114}]",582,206,177,169,114,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-06-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[65514514+b-quachtran@users.noreply.github.com, melinda.loubser@gmail.com]",1376.0,"[{""other"" 583, 2 169, 1 177, 4 126, 0 207, 3 114}]",583,207,177,169,114,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[akela@rasa.com]",1377.0,"[{""other"" 584, 2 169, 1 177, 4 126, 0 207, 3 114}]",584,207,177,169,114,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-08-05,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[65514514+b-quachtran@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com]",1381.0,"[{""other"" 585, 2 169, 1 177, 4 126, 0 207, 3 117}]",585,207,177,169,117,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-08-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1382.0,"[{""other"" 585, 2 169, 1 177, 4 126, 0 207, 3 118}]",585,207,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[y.wei@rasa.com]",1383.0,"[{""other"" 586, 2 169, 1 177, 4 126, 0 207, 3 118}]",586,207,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hsm207@users.noreply.github.com]",1384.0,"[{""other"" 587, 2 169, 1 177, 4 126, 0 207, 3 118}]",587,207,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-08-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[y.wei@rasa.com, y.wei@rasa.com, y.wei@rasa.com, y.wei@rasa.com]",1388.0,"[{""other"" 591, 2 169, 1 177, 4 126, 0 207, 3 118}]",591,207,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-08-31,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, y.wei@rasa.com]",1400.0,"[{""other"" 603, 2 169, 1 177, 4 126, 0 207, 3 118}]",603,207,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-09-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yiyao.wei@icloud.com, yiyao.wei@icloud.com]",1402.0,"[{""other"" 605, 2 169, 1 177, 4 126, 0 207, 3 118}]",605,207,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-09-07,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com, yiyao.wei@icloud.com]",1410.0,"[{""other"" 613, 2 169, 1 177, 4 126, 0 207, 3 118}]",613,207,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-09-10,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hsm207@users.noreply.github.com, hsm207@users.noreply.github.com, hsm207@users.noreply.github.com, melinda.loubser@gmail.com]",1414.0,"[{""other"" 616, 2 169, 1 177, 4 126, 0 208, 3 118}]",616,208,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-09-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[y.wei@rasa.com]",1415.0,"[{""other"" 617, 2 169, 1 177, 4 126, 0 208, 3 118}]",617,208,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-09-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[yiyao.wei@icloud.com, yiyao.wei@icloud.com]",1417.0,"[{""other"" 619, 2 169, 1 177, 4 126, 0 208, 3 118}]",619,208,177,169,118,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1418.0,"[{""other"" 619, 2 169, 1 177, 4 126, 0 208, 3 119}]",619,208,177,169,119,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-10-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[y.wei@rasa.com, y.wei@rasa.com]",1420.0,"[{""other"" 621, 2 169, 1 177, 4 126, 0 208, 3 119}]",621,208,177,169,119,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-10-11,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[y.wei@rasa.com, y.wei@rasa.com, y.wei@rasa.com, y.wei@rasa.com, y.wei@rasa.com, y.wei@rasa.com, y.wei@rasa.com]",1427.0,"[{""other"" 628, 2 169, 1 177, 4 126, 0 208, 3 119}]",628,208,177,169,119,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1428.0,"[{""other"" 628, 2 169, 1 177, 4 126, 0 208, 3 120}]",628,208,177,169,120,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-10-29,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1436.0,"[{""other"" 628, 2 169, 1 177, 4 126, 0 214, 3 122}]",628,214,177,169,122,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1437.0,"[{""other"" 628, 2 169, 1 177, 4 126, 0 214, 3 123}]",628,214,177,169,123,126
+Python,https://github.com/RasaHQ/rasa-demo,2021-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[y.wei@rasa.com]",1438.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 214, 3 123}]",629,214,177,169,123,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-01-26,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com]",1445.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 218, 3 126}]",629,218,177,169,126,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-01-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com]",1450.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 223, 3 126}]",629,223,177,169,126,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1451.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 224, 3 126}]",629,224,177,169,126,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1452.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 224, 3 127}]",629,224,177,169,127,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1453.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 224, 3 128}]",629,224,177,169,128,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-04-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[melinda.loubser@gmail.com]",1454.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 225, 3 128}]",629,225,177,169,128,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[32034278+melindaloubser1@users.noreply.github.com]",1455.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 225, 3 129}]",629,225,177,169,129,126
+Python,https://github.com/RasaHQ/rasa-demo,2022-06-23,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, melinda.loubser@gmail.com, 32034278+melindaloubser1@users.noreply.github.com, melinda.loubser@gmail.com]",1461.0,"[{""other"" 629, 2 169, 1 177, 4 126, 0 229, 3 131}]",629,229,177,169,131,126

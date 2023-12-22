@@ -1,0 +1,255 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,clj-pdf,2012-04-11,10,1,"#{""yogthos@gmail.com""}",10.0,1
+Clojure,clj-pdf,2012-04-12,8,1,"#{""yogthos@gmail.com""}",18.0,1
+Clojure,clj-pdf,2012-04-13,4,1,"#{""yogthos@gmail.com""}",22.0,1
+Clojure,clj-pdf,2012-04-15,8,2,"#{""nicholas@cthulhu.(none)"" ""yogthos@gmail.com""}",30.0,2
+Clojure,clj-pdf,2012-04-16,5,1,"#{""yogthos@gmail.com""}",35.0,2
+Clojure,clj-pdf,2012-04-17,2,1,"#{""yogthos@gmail.com""}",37.0,2
+Clojure,clj-pdf,2012-04-18,7,1,"#{""yogthos@gmail.com""}",44.0,2
+Clojure,clj-pdf,2012-04-19,6,1,"#{""yogthos@gmail.com""}",50.0,2
+Clojure,clj-pdf,2012-04-20,9,1,"#{""yogthos@gmail.com""}",59.0,2
+Clojure,clj-pdf,2012-04-21,4,2,"#{""nicholas@cthulhu.(none)"" ""yogthos@gmail.com""}",63.0,2
+Clojure,clj-pdf,2012-04-22,7,1,"#{""yogthos@gmail.com""}",70.0,2
+Clojure,clj-pdf,2012-04-24,1,1,"#{""yogthos@gmail.com""}",71.0,2
+Clojure,clj-pdf,2012-04-26,2,1,"#{""yogthos@gmail.com""}",73.0,2
+Clojure,clj-pdf,2012-04-28,7,1,"#{""dmitri.sotnikov@gmail.com""}",80.0,3
+Clojure,clj-pdf,2012-04-29,3,1,"#{""dmitri.sotnikov@gmail.com""}",83.0,3
+Clojure,clj-pdf,2012-05-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",86.0,3
+Clojure,clj-pdf,2012-05-03,5,1,"#{""dmitri.sotnikov@gmail.com""}",91.0,3
+Clojure,clj-pdf,2012-05-04,5,2,"#{""jenniferchan@Jennifers-Mac-mini.local"" ""dmitri.sotnikov@gmail.com""}",96.0,4
+Clojure,clj-pdf,2012-05-05,5,1,"#{""dmitri.sotnikov@gmail.com""}",101.0,4
+Clojure,clj-pdf,2012-05-06,8,2,"#{""dariusz@luksza.org"" ""dmitri.sotnikov@gmail.com""}",109.0,5
+Clojure,clj-pdf,2012-05-07,9,3,"#{""jenniferchan@Jennifers-Mac-mini.local"" ""dariusz@luksza.org"" ""dmitri.sotnikov@gmail.com""}",118.0,5
+Clojure,clj-pdf,2012-05-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",119.0,5
+Clojure,clj-pdf,2012-05-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",120.0,5
+Clojure,clj-pdf,2012-05-10,5,1,"#{""dmitri.sotnikov@gmail.com""}",125.0,5
+Clojure,clj-pdf,2012-05-11,1,1,"#{""jenniferchan@Jennifers-Mac-mini.local""}",126.0,5
+Clojure,clj-pdf,2012-05-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",128.0,5
+Clojure,clj-pdf,2012-05-16,3,1,"#{""dmitri.sotnikov@gmail.com""}",131.0,5
+Clojure,clj-pdf,2012-05-17,4,1,"#{""dmitri.sotnikov@gmail.com""}",135.0,5
+Clojure,clj-pdf,2012-05-23,3,2,"#{""dariusz@luksza.org"" ""dmitri.sotnikov@gmail.com""}",138.0,5
+Clojure,clj-pdf,2012-06-01,2,1,"#{""dmitri.sotnikov@gmail.com""}",140.0,5
+Clojure,clj-pdf,2012-06-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",143.0,5
+Clojure,clj-pdf,2012-06-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",144.0,5
+Clojure,clj-pdf,2012-06-05,4,1,"#{""dmitri.sotnikov@gmail.com""}",148.0,5
+Clojure,clj-pdf,2012-06-06,6,1,"#{""dmitri.sotnikov@gmail.com""}",154.0,5
+Clojure,clj-pdf,2012-06-07,2,1,"#{""dmitri.sotnikov@gmail.com""}",156.0,5
+Clojure,clj-pdf,2012-06-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",157.0,5
+Clojure,clj-pdf,2012-06-11,2,1,"#{""dmitri.sotnikov@gmail.com""}",159.0,5
+Clojure,clj-pdf,2012-06-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",161.0,5
+Clojure,clj-pdf,2012-06-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",162.0,5
+Clojure,clj-pdf,2012-06-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",164.0,5
+Clojure,clj-pdf,2012-06-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",165.0,5
+Clojure,clj-pdf,2012-07-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",168.0,5
+Clojure,clj-pdf,2012-07-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",170.0,5
+Clojure,clj-pdf,2012-07-22,7,1,"#{""dmitri.sotnikov@gmail.com""}",177.0,5
+Clojure,clj-pdf,2012-07-23,4,1,"#{""dmitri.sotnikov@gmail.com""}",181.0,5
+Clojure,clj-pdf,2012-07-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",182.0,5
+Clojure,clj-pdf,2012-07-30,6,2,"#{""dsotnikov@thanatos.uhn.ca"" ""dmitri.sotnikov@gmail.com""}",188.0,6
+Clojure,clj-pdf,2012-08-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",189.0,6
+Clojure,clj-pdf,2012-08-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",192.0,6
+Clojure,clj-pdf,2012-08-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",193.0,6
+Clojure,clj-pdf,2012-08-08,3,2,"#{""jmg3000@gmail.com"" ""dmitri.sotnikov@gmail.com""}",196.0,7
+Clojure,clj-pdf,2012-08-09,12,1,"#{""dmitri.sotnikov@gmail.com""}",208.0,7
+Clojure,clj-pdf,2012-08-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",209.0,7
+Clojure,clj-pdf,2012-08-25,5,1,"#{""dmitri.sotnikov@gmail.com""}",214.0,7
+Clojure,clj-pdf,2012-09-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",215.0,7
+Clojure,clj-pdf,2012-10-13,5,1,"#{""dmitri.sotnikov@gmail.com""}",220.0,7
+Clojure,clj-pdf,2012-10-14,2,1,"#{""dmitri.sotnikov@gmail.com""}",222.0,7
+Clojure,clj-pdf,2012-10-16,5,1,"#{""dmitri.sotnikov@gmail.com""}",227.0,7
+Clojure,clj-pdf,2012-10-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",229.0,7
+Clojure,clj-pdf,2012-10-18,6,1,"#{""dmitri.sotnikov@gmail.com""}",235.0,7
+Clojure,clj-pdf,2012-10-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",237.0,7
+Clojure,clj-pdf,2012-10-31,2,1,"#{""dmitri.sotnikov@gmail.com""}",239.0,7
+Clojure,clj-pdf,2012-11-08,3,1,"#{""dmitri.sotnikov@gmail.com""}",242.0,7
+Clojure,clj-pdf,2012-11-14,4,1,"#{""dmitri.sotnikov@gmail.com""}",246.0,7
+Clojure,clj-pdf,2012-11-16,2,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",248.0,8
+Clojure,clj-pdf,2012-11-20,2,1,"#{""dmitri.sotnikov@gmail.com""}",250.0,8
+Clojure,clj-pdf,2012-11-22,6,1,"#{""dmitri.sotnikov@gmail.com""}",256.0,8
+Clojure,clj-pdf,2012-12-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",257.0,8
+Clojure,clj-pdf,2012-12-12,5,1,"#{""dmitri.sotnikov@gmail.com""}",262.0,8
+Clojure,clj-pdf,2012-12-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",263.0,8
+Clojure,clj-pdf,2012-12-28,3,2,"#{""mcohen01@gmail.com"" ""dmitri.sotnikov@gmail.com""}",266.0,9
+Clojure,clj-pdf,2013-02-15,1,1,"#{""dmitri.sotnikov@uhn.on.ca""}",267.0,9
+Clojure,clj-pdf,2013-02-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",269.0,9
+Clojure,clj-pdf,2013-03-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",270.0,9
+Clojure,clj-pdf,2013-03-27,4,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",274.0,9
+Clojure,clj-pdf,2013-03-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",275.0,9
+Clojure,clj-pdf,2013-04-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",276.0,9
+Clojure,clj-pdf,2013-04-13,2,1,"#{""sc13@sanger.ac.uk""}",278.0,10
+Clojure,clj-pdf,2013-04-14,7,2,"#{""sc13@sanger.ac.uk"" ""dmitri.sotnikov@gmail.com""}",285.0,10
+Clojure,clj-pdf,2013-04-17,5,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",290.0,10
+Clojure,clj-pdf,2013-04-18,7,1,"#{""dmitri.sotnikov@gmail.com""}",297.0,10
+Clojure,clj-pdf,2013-05-08,5,1,"#{""dmitri.sotnikov@gmail.com""}",302.0,10
+Clojure,clj-pdf,2013-07-01,10,1,"#{""dmitri.sotnikov@gmail.com""}",312.0,10
+Clojure,clj-pdf,2013-07-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",313.0,10
+Clojure,clj-pdf,2013-07-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",314.0,10
+Clojure,clj-pdf,2013-08-01,3,2,"#{""dmitri.sotnikov@gmail.com"" ""ryan.j.crum@gmail.com""}",317.0,11
+Clojure,clj-pdf,2013-08-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",318.0,11
+Clojure,clj-pdf,2013-09-24,11,2,"#{""rm_hull@yahoo.co.uk"" ""dmitri.sotnikov@gmail.com""}",329.0,12
+Clojure,clj-pdf,2013-09-25,3,1,"#{""rm_hull@yahoo.co.uk""}",332.0,12
+Clojure,clj-pdf,2013-09-26,2,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",334.0,12
+Clojure,clj-pdf,2013-09-29,2,2,"#{""mail@drowsy.de"" ""dmitri.sotnikov@gmail.com""}",336.0,13
+Clojure,clj-pdf,2013-10-16,5,2,"#{""gberenfield@berenfield.com"" ""dmitri.sotnikov@gmail.com""}",341.0,14
+Clojure,clj-pdf,2013-11-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",342.0,14
+Clojure,clj-pdf,2013-12-12,4,2,"#{""obarbeau@acs-ami.com"" ""dmitri.sotnikov@gmail.com""}",346.0,15
+Clojure,clj-pdf,2013-12-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",347.0,15
+Clojure,clj-pdf,2013-12-26,12,1,"#{""dmitri.sotnikov@gmail.com""}",359.0,15
+Clojure,clj-pdf,2013-12-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",361.0,15
+Clojure,clj-pdf,2014-01-28,6,1,"#{""dmitri.sotnikov@gmail.com""}",367.0,15
+Clojure,clj-pdf,2014-01-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",369.0,15
+Clojure,clj-pdf,2014-03-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",371.0,15
+Clojure,clj-pdf,2014-04-18,4,1,"#{""dmitri.sotnikov@gmail.com""}",375.0,15
+Clojure,clj-pdf,2014-04-19,6,1,"#{""dmitri.sotnikov@gmail.com""}",381.0,15
+Clojure,clj-pdf,2014-06-06,4,1,"#{""dmitri.sotnikov@gmail.com""}",385.0,15
+Clojure,clj-pdf,2014-06-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",386.0,15
+Clojure,clj-pdf,2014-06-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",388.0,15
+Clojure,clj-pdf,2014-07-07,4,1,"#{""dmitri.sotnikov@gmail.com""}",392.0,15
+Clojure,clj-pdf,2014-07-25,3,2,"#{""boxed@killingar.net"" ""dmitri.sotnikov@gmail.com""}",395.0,16
+Clojure,clj-pdf,2014-08-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",396.0,16
+Clojure,clj-pdf,2015-01-13,1,1,"#{""dmitri.sotnikov@uhn.on.ca""}",397.0,16
+Clojure,clj-pdf,2015-01-15,4,2,"#{""dmitri.sotnikov@gmail.com"" ""shaunewilliams@gmail.com""}",401.0,17
+Clojure,clj-pdf,2015-01-16,6,2,"#{""dmitri.sotnikov@gmail.com"" ""shaunewilliams@gmail.com""}",407.0,17
+Clojure,clj-pdf,2015-01-17,8,2,"#{""dmitri.sotnikov@gmail.com"" ""shaunewilliams@gmail.com""}",415.0,17
+Clojure,clj-pdf,2015-01-19,6,2,"#{""dmitri.sotnikov@gmail.com"" ""shaunewilliams@gmail.com""}",421.0,17
+Clojure,clj-pdf,2015-02-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",423.0,17
+Clojure,clj-pdf,2015-02-27,4,2,"#{""mulvaney@kibu.com.au"" ""dmitri.sotnikov@gmail.com""}",427.0,18
+Clojure,clj-pdf,2015-03-13,6,2,"#{""desmondhayes@outlook.com"" ""dmitri.sotnikov@gmail.com""}",433.0,19
+Clojure,clj-pdf,2015-04-01,4,2,"#{""ortuna@gmail.com"" ""dmitri.sotnikov@gmail.com""}",437.0,20
+Clojure,clj-pdf,2015-04-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",438.0,20
+Clojure,clj-pdf,2015-04-23,2,1,"#{""dmitri.sotnikov@gmail.com""}",440.0,20
+Clojure,clj-pdf,2015-05-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",441.0,20
+Clojure,clj-pdf,2015-06-25,2,2,"#{""ellisgen@gmail.com"" ""dmitri.sotnikov@gmail.com""}",443.0,21
+Clojure,clj-pdf,2015-07-02,3,2,"#{""kristian.nybo@futurice.com"" ""dmitri.sotnikov@gmail.com""}",446.0,22
+Clojure,clj-pdf,2015-07-04,5,3,"#{""kristian.nybo@futurice.com"" ""kryfti@gmail.com"" ""dmitri.sotnikov@gmail.com""}",451.0,23
+Clojure,clj-pdf,2015-07-12,5,2,"#{""roy.tim@gmail.com"" ""dmitri.sotnikov@gmail.com""}",456.0,24
+Clojure,clj-pdf,2015-07-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",457.0,24
+Clojure,clj-pdf,2015-07-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",458.0,24
+Clojure,clj-pdf,2015-07-29,2,2,"#{""dmitri.sotnikov@gmail.com"" ""friedrich@fornever.me""}",460.0,25
+Clojure,clj-pdf,2015-08-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",461.0,25
+Clojure,clj-pdf,2015-08-06,3,1,"#{""dmitri.sotnikov@gmail.com""}",464.0,25
+Clojure,clj-pdf,2015-09-01,3,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",467.0,25
+Clojure,clj-pdf,2015-09-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",468.0,25
+Clojure,clj-pdf,2015-09-12,9,2,"#{""obiwanko@me.com"" ""dmitri.sotnikov@gmail.com""}",477.0,26
+Clojure,clj-pdf,2015-09-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",478.0,26
+Clojure,clj-pdf,2015-12-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",479.0,26
+Clojure,clj-pdf,2016-01-16,1,1,"#{""rm_hull@yahoo.co.uk""}",480.0,26
+Clojure,clj-pdf,2016-01-17,1,1,"#{""rm_hull@yahoo.co.uk""}",481.0,26
+Clojure,clj-pdf,2016-01-19,2,2,"#{""rm_hull@yahoo.co.uk"" ""dmitri.sotnikov@gmail.com""}",483.0,26
+Clojure,clj-pdf,2016-01-20,4,2,"#{""rm_hull@yahoo.co.uk"" ""dmitri.sotnikov@gmail.com""}",487.0,26
+Clojure,clj-pdf,2016-01-22,1,1,"#{""rm_hull@yahoo.co.uk""}",488.0,26
+Clojure,clj-pdf,2016-01-23,6,2,"#{""rm_hull@yahoo.co.uk"" ""dmitri.sotnikov@gmail.com""}",494.0,26
+Clojure,clj-pdf,2016-01-24,4,2,"#{""rm_hull@yahoo.co.uk"" ""dmitri.sotnikov@gmail.com""}",498.0,26
+Clojure,clj-pdf,2016-01-25,1,1,"#{""rm_hull@yahoo.co.uk""}",499.0,26
+Clojure,clj-pdf,2016-03-21,4,2,"#{""ltorokjr@gmail.com"" ""dmitri.sotnikov@gmail.com""}",503.0,27
+Clojure,clj-pdf,2016-03-31,2,2,"#{""ldoctors@gmail.com"" ""dmitri.sotnikov@gmail.com""}",505.0,28
+Clojure,clj-pdf,2016-07-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",506.0,28
+Clojure,clj-pdf,2016-07-08,2,1,"#{""dmitri.sotnikov@gmail.com""}",508.0,28
+Clojure,clj-pdf,2016-07-10,3,1,"#{""dmitri.sotnikov@gmail.com""}",511.0,28
+Clojure,clj-pdf,2016-07-11,4,1,"#{""dmitri.sotnikov@gmail.com""}",515.0,28
+Clojure,clj-pdf,2016-07-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",516.0,28
+Clojure,clj-pdf,2016-07-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",517.0,28
+Clojure,clj-pdf,2016-08-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",519.0,28
+Clojure,clj-pdf,2016-08-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",520.0,28
+Clojure,clj-pdf,2016-09-06,4,1,"#{""dmitri.sotnikov@gmail.com""}",524.0,28
+Clojure,clj-pdf,2016-09-07,4,1,"#{""dmitri.sotnikov@gmail.com""}",528.0,28
+Clojure,clj-pdf,2016-09-08,5,2,"#{""gered@blarg.ca"" ""dmitri.sotnikov@gmail.com""}",533.0,29
+Clojure,clj-pdf,2016-09-09,3,1,"#{""dmitri.sotnikov@gmail.com""}",536.0,29
+Clojure,clj-pdf,2016-09-20,4,2,"#{""gered@blarg.ca"" ""dmitri.sotnikov@gmail.com""}",540.0,29
+Clojure,clj-pdf,2016-09-23,3,2,"#{""gered@blarg.ca"" ""dmitri.sotnikov@gmail.com""}",543.0,29
+Clojure,clj-pdf,2016-12-05,4,2,"#{""dmitri.sotnikov@gmail.com"" ""leontalbot@gmail.com""}",547.0,30
+Clojure,clj-pdf,2016-12-06,1,1,"#{""alexandre.n.medeiros@gmail.com""}",548.0,31
+Clojure,clj-pdf,2016-12-07,1,1,"#{""alexandre.n.medeiros@gmail.com""}",549.0,31
+Clojure,clj-pdf,2016-12-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",550.0,31
+Clojure,clj-pdf,2017-01-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",551.0,31
+Clojure,clj-pdf,2017-01-11,2,1,"#{""dmitri.sotnikov@gmail.com""}",553.0,31
+Clojure,clj-pdf,2017-01-12,3,2,"#{""alexandre.n.medeiros@gmail.com"" ""dmitri.sotnikov@gmail.com""}",556.0,31
+Clojure,clj-pdf,2017-01-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",557.0,31
+Clojure,clj-pdf,2017-01-24,3,2,"#{""carmen.wla@gmail.com"" ""dmitri.sotnikov@gmail.com""}",560.0,32
+Clojure,clj-pdf,2017-01-25,1,1,"#{""carmen.wla@gmail.com""}",561.0,32
+Clojure,clj-pdf,2017-01-27,5,2,"#{""carmen.wla@gmail.com"" ""dmitri.sotnikov@gmail.com""}",566.0,32
+Clojure,clj-pdf,2017-03-08,4,2,"#{""d.cavoulacos@gmail.com"" ""dmitri.sotnikov@gmail.com""}",570.0,33
+Clojure,clj-pdf,2017-03-23,3,1,"#{""gered@blarg.ca""}",573.0,33
+Clojure,clj-pdf,2017-03-24,4,1,"#{""gered@blarg.ca""}",577.0,33
+Clojure,clj-pdf,2017-03-27,2,1,"#{""gered@blarg.ca""}",579.0,33
+Clojure,clj-pdf,2017-03-30,2,1,"#{""gered@blarg.ca""}",581.0,33
+Clojure,clj-pdf,2017-03-31,4,1,"#{""gered@blarg.ca""}",585.0,33
+Clojure,clj-pdf,2017-04-04,5,2,"#{""gered@blarg.ca"" ""dmitri.sotnikov@gmail.com""}",590.0,33
+Clojure,clj-pdf,2017-04-05,14,2,"#{""gered@blarg.ca"" ""dmitri.sotnikov@gmail.com""}",604.0,33
+Clojure,clj-pdf,2017-04-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",606.0,33
+Clojure,clj-pdf,2017-04-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",607.0,33
+Clojure,clj-pdf,2017-05-14,2,2,"#{""dmitri.sotnikov@gmail.com"" ""contact@yugensoft.com""}",609.0,34
+Clojure,clj-pdf,2017-06-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",610.0,34
+Clojure,clj-pdf,2017-06-15,2,2,"#{""dmitri.sotnikov@gmail.com"" ""github@benwen.com""}",612.0,35
+Clojure,clj-pdf,2017-06-21,3,2,"#{""mbdubie@gmail.com"" ""dmitri.sotnikov@gmail.com""}",615.0,36
+Clojure,clj-pdf,2017-06-27,2,2,"#{""luca.cervello@protonmail.com"" ""dmitri.sotnikov@gmail.com""}",617.0,37
+Clojure,clj-pdf,2017-07-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",618.0,37
+Clojure,clj-pdf,2017-07-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",619.0,37
+Clojure,clj-pdf,2017-07-13,2,2,"#{""dmitri.sotnikov@gmail.com"" ""github@benwen.com""}",621.0,37
+Clojure,clj-pdf,2017-07-19,1,1,"#{""anmonteiro@gmail.com""}",622.0,38
+Clojure,clj-pdf,2017-07-20,3,1,"#{""dmitri.sotnikov@gmail.com""}",625.0,38
+Clojure,clj-pdf,2017-10-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",626.0,38
+Clojure,clj-pdf,2017-11-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",627.0,38
+Clojure,clj-pdf,2017-11-20,1,1,"#{""SneakyPeet@users.noreply.github.com""}",628.0,39
+Clojure,clj-pdf,2018-03-10,2,2,"#{""alexander@solovyov.net"" ""dmitri.sotnikov@gmail.com""}",630.0,40
+Clojure,clj-pdf,2018-06-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",631.0,40
+Clojure,clj-pdf,2018-06-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",632.0,40
+Clojure,clj-pdf,2018-07-01,1,1,"#{""marco.molteni@laposte.net""}",633.0,41
+Clojure,clj-pdf,2018-12-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",634.0,41
+Clojure,clj-pdf,2018-12-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",635.0,41
+Clojure,clj-pdf,2019-01-05,3,2,"#{""martinklepsch@googlemail.com"" ""dmitri.sotnikov@gmail.com""}",638.0,42
+Clojure,clj-pdf,2019-03-01,2,2,"#{""dmitri.sotnikov@gmail.com"" ""kalle@norrestam.se""}",640.0,43
+Clojure,clj-pdf,2019-03-06,3,2,"#{""dmitri.sotnikov@gmail.com"" ""kalle@norrestam.se""}",643.0,43
+Clojure,clj-pdf,2019-04-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",644.0,43
+Clojure,clj-pdf,2019-04-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",645.0,43
+Clojure,clj-pdf,2019-05-27,4,2,"#{""pol84@live.com"" ""dmitri.sotnikov@gmail.com""}",649.0,44
+Clojure,clj-pdf,2019-07-23,2,2,"#{""anmonteiro@gmail.com"" ""dmitri.sotnikov@gmail.com""}",651.0,44
+Clojure,clj-pdf,2019-08-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",653.0,44
+Clojure,clj-pdf,2019-08-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",654.0,44
+Clojure,clj-pdf,2019-08-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",655.0,44
+Clojure,clj-pdf,2019-08-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",656.0,44
+Clojure,clj-pdf,2020-03-18,3,2,"#{""joel.kaasinen@gmail.com"" ""dmitri.sotnikov@gmail.com""}",659.0,45
+Clojure,clj-pdf,2020-03-20,1,1,"#{""joel.kaasinen@nitor.fi""}",660.0,46
+Clojure,clj-pdf,2020-03-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",661.0,46
+Clojure,clj-pdf,2020-03-31,2,2,"#{""joel.kaasinen@nitor.fi"" ""dmitri.sotnikov@gmail.com""}",663.0,46
+Clojure,clj-pdf,2020-04-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",664.0,46
+Clojure,clj-pdf,2020-04-14,2,2,"#{""mawiraike@gmail.com"" ""dmitri.sotnikov@gmail.com""}",666.0,47
+Clojure,clj-pdf,2020-04-15,1,1,"#{""mawiraike@gmail.com""}",667.0,47
+Clojure,clj-pdf,2020-04-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",668.0,47
+Clojure,clj-pdf,2020-04-22,1,1,"#{""mawiraike@gmail.com""}",669.0,47
+Clojure,clj-pdf,2020-04-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",670.0,47
+Clojure,clj-pdf,2020-04-30,1,1,"#{""github@michihuber.com""}",671.0,48
+Clojure,clj-pdf,2020-05-17,4,2,"#{""michi.huber@gmail.com"" ""dmitri.sotnikov@gmail.com""}",675.0,49
+Clojure,clj-pdf,2020-05-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",676.0,49
+Clojure,clj-pdf,2020-06-05,2,2,"#{""mawiraike@gmail.com"" ""dmitri.sotnikov@gmail.com""}",678.0,49
+Clojure,clj-pdf,2020-06-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",679.0,49
+Clojure,clj-pdf,2020-06-07,1,1,"#{""mawiraike@gmail.com""}",680.0,49
+Clojure,clj-pdf,2020-06-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",681.0,49
+Clojure,clj-pdf,2020-06-26,1,1,"#{""mawiraike@gmail.com""}",682.0,49
+Clojure,clj-pdf,2020-06-28,2,2,"#{""mawiraike@gmail.com"" ""dmitri.sotnikov@gmail.com""}",684.0,49
+Clojure,clj-pdf,2020-07-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",685.0,49
+Clojure,clj-pdf,2020-07-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",686.0,49
+Clojure,clj-pdf,2020-07-28,2,2,"#{""cloojure@gmail.com"" ""dmitri.sotnikov@gmail.com""}",688.0,50
+Clojure,clj-pdf,2020-09-10,1,1,"#{""hannu.hartikainen@gmail.com""}",689.0,51
+Clojure,clj-pdf,2020-09-11,2,2,"#{""dmitri.sotnikov@gmail.com"" ""jean.boudet@yahoo.fr""}",691.0,52
+Clojure,clj-pdf,2020-09-16,1,1,"#{""eldyrin@gmail.com""}",692.0,53
+Clojure,clj-pdf,2021-03-30,2,2,"#{""michi.huber@gmail.com"" ""dmitri.sotnikov@gmail.com""}",694.0,53
+Clojure,clj-pdf,2021-05-03,2,2,"#{""michi.huber@gmail.com"" ""dmitri.sotnikov@gmail.com""}",696.0,53
+Clojure,clj-pdf,2021-06-25,2,2,"#{""marten@sytematic.nl"" ""dmitri.sotnikov@gmail.com""}",698.0,54
+Clojure,clj-pdf,2022-03-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",699.0,54
+Clojure,clj-pdf,2022-04-14,1,1,"#{""jdommett@gmail.com""}",700.0,55
+Clojure,clj-pdf,2022-04-18,2,2,"#{""twitch@nervestaple.com"" ""dmitri.sotnikov@gmail.com""}",702.0,56
+Clojure,clj-pdf,2022-05-02,2,2,"#{""msolli@gmail.com"" ""dmitri.sotnikov@gmail.com""}",704.0,57
+Clojure,clj-pdf,2023-01-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",705.0,57
+Clojure,clj-pdf,2023-02-08,2,2,"#{""cfclrk@gmail.com"" ""dmitri.sotnikov@gmail.com""}",707.0,58
+Clojure,clj-pdf,2023-03-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",708.0,58
+Clojure,clj-pdf,2023-03-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",709.0,58
+Clojure,clj-pdf,2023-03-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",710.0,58
+Clojure,clj-pdf,2023-04-27,1,1,"#{""47240847+mattiuusitalo@users.noreply.github.com""}",711.0,59
+Clojure,clj-pdf,2023-05-06,2,2,"#{""62363025+vimanyu-taneja@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",713.0,60
+Clojure,clj-pdf,2023-07-24,2,2,"#{""kaspazza@gmail.com"" ""dmitri.sotnikov@gmail.com""}",715.0,61
+Clojure,clj-pdf,2023-08-28,3,2,"#{""emilaasa@gmail.com"" ""dmitri.sotnikov@gmail.com""}",718.0,62
+Clojure,clj-pdf,2023-11-10,2,2,"#{""ivan@stefanischin.eu"" ""dmitri.sotnikov@gmail.com""}",720.0,63
+Clojure,clj-pdf,2023-11-14,2,2,"#{""ivan@stefanischin.eu"" ""dmitri.sotnikov@gmail.com""}",722.0,63
+Clojure,clj-pdf,2023-11-17,1,1,"#{""ivan@stefanischin.eu""}",723.0,63
+Clojure,clj-pdf,2023-11-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",724.0,63

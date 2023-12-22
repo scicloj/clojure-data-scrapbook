@@ -1,0 +1,167 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,latte-central,2015-03-04,3,2,"#{""Frederic.Peschanski@lip6.fr"" ""frederic.peschanski@lip6.fr""}",3.0,2
+Clojure,latte-central,2015-03-05,1,1,"#{""frederic.peschanski@lip6.fr""}",4.0,2
+Clojure,latte-central,2015-03-06,1,1,"#{""Frederic.Peschanski@lip6.fr""}",5.0,2
+Clojure,latte-central,2015-03-07,1,1,"#{""Frederic.Peschanski@lip6.fr""}",6.0,2
+Clojure,latte-central,2015-03-08,1,1,"#{""Frederic.Peschanski@lip6.fr""}",7.0,2
+Clojure,latte-central,2015-03-09,2,1,"#{""Frederic.Peschanski@lip6.fr""}",9.0,2
+Clojure,latte-central,2015-03-10,1,1,"#{""fredokun@github.com""}",10.0,3
+Clojure,latte-central,2015-03-11,1,1,"#{""Frederic.Peschanski@lip6.fr""}",11.0,3
+Clojure,latte-central,2015-03-12,1,1,"#{""Frederic.Peschanski@lip6.fr""}",12.0,3
+Clojure,latte-central,2015-03-19,1,1,"#{""Frederic.Peschanski@lip6.fr""}",13.0,3
+Clojure,latte-central,2015-04-06,1,1,"#{""Frederic.Peschanski@lip6.fr""}",14.0,3
+Clojure,latte-central,2015-05-09,1,1,"#{""Frederic.Peschanski@lip6.fr""}",15.0,3
+Clojure,latte-central,2015-05-12,1,1,"#{""Frederic.Peschanski@lip6.fr""}",16.0,3
+Clojure,latte-central,2015-08-05,1,1,"#{""Frederic.Peschanski@lip6.fr""}",17.0,3
+Clojure,latte-central,2015-10-22,1,1,"#{""Frederic.Peschanski@lip6.fr""}",18.0,3
+Clojure,latte-central,2015-10-23,1,1,"#{""fredokun@github.com""}",19.0,3
+Clojure,latte-central,2016-06-15,2,1,"#{""fredokun@github.com""}",21.0,3
+Clojure,latte-central,2016-06-16,4,1,"#{""fredokun@github.com""}",25.0,3
+Clojure,latte-central,2016-06-17,5,1,"#{""fredokun@github.com""}",30.0,3
+Clojure,latte-central,2016-06-20,3,1,"#{""fredokun@github.com""}",33.0,3
+Clojure,latte-central,2016-06-21,3,2,"#{""fredokun@github.com"" ""Frederic.Peschanski@lip6.fr""}",36.0,3
+Clojure,latte-central,2016-06-22,6,1,"#{""fredokun@github.com""}",42.0,3
+Clojure,latte-central,2016-06-23,2,1,"#{""fredokun@github.com""}",44.0,3
+Clojure,latte-central,2016-06-24,2,1,"#{""Frederic.Peschanski@lip6.fr""}",46.0,3
+Clojure,latte-central,2016-06-27,2,1,"#{""not provided""}",48.0,4
+Clojure,latte-central,2016-06-28,1,1,"#{""fredokun@github.com""}",49.0,4
+Clojure,latte-central,2016-06-29,6,2,"#{""fredokun@github.com"" ""Frederic.Peschanski@lip6.fr""}",55.0,4
+Clojure,latte-central,2016-06-30,5,2,"#{""fredokun@github.com"" ""not provided""}",60.0,4
+Clojure,latte-central,2016-07-01,3,2,"#{""fredokun@github.com"" ""not provided""}",63.0,4
+Clojure,latte-central,2016-07-04,7,2,"#{""fredokun@github.com"" ""not provided""}",70.0,4
+Clojure,latte-central,2016-07-05,7,2,"#{""fredokun@github.com"" ""not provided""}",77.0,4
+Clojure,latte-central,2016-07-07,7,1,"#{""fredokun@github.com""}",84.0,4
+Clojure,latte-central,2016-07-08,4,1,"#{""not provided""}",88.0,4
+Clojure,latte-central,2016-07-11,6,2,"#{""Frederic.Peschanski@lip6.fr"" ""not provided""}",94.0,4
+Clojure,latte-central,2016-07-12,1,1,"#{""fredokun@github.com""}",95.0,4
+Clojure,latte-central,2016-07-13,5,2,"#{""fredokun@github.com"" ""Frederic.Peschanski@lip6.fr""}",100.0,4
+Clojure,latte-central,2016-07-14,1,1,"#{""Frederic.Peschanski@lip6.fr""}",101.0,4
+Clojure,latte-central,2016-07-17,1,1,"#{""not provided""}",102.0,4
+Clojure,latte-central,2016-07-25,5,1,"#{""not provided""}",107.0,4
+Clojure,latte-central,2016-07-26,2,1,"#{""not provided""}",109.0,4
+Clojure,latte-central,2016-07-27,3,1,"#{""not provided""}",112.0,4
+Clojure,latte-central,2016-07-28,5,1,"#{""not provided""}",117.0,4
+Clojure,latte-central,2016-07-29,6,1,"#{""not provided""}",123.0,4
+Clojure,latte-central,2016-07-31,1,1,"#{""not provided""}",124.0,4
+Clojure,latte-central,2016-08-01,1,1,"#{""not provided""}",125.0,4
+Clojure,latte-central,2016-08-02,4,1,"#{""fredokun@github.com""}",129.0,4
+Clojure,latte-central,2016-08-03,2,1,"#{""fredokun@github.com""}",131.0,4
+Clojure,latte-central,2016-08-05,5,1,"#{""fredokun@github.com""}",136.0,4
+Clojure,latte-central,2016-08-08,3,2,"#{""fredokun@github.com"" ""Frederic.Peschanski@lip6.fr""}",139.0,4
+Clojure,latte-central,2016-08-09,6,1,"#{""Frederic.Peschanski@lip6.fr""}",145.0,4
+Clojure,latte-central,2016-08-10,3,1,"#{""Frederic.Peschanski@lip6.fr""}",148.0,4
+Clojure,latte-central,2016-08-11,1,1,"#{""fredokun@github.com""}",149.0,4
+Clojure,latte-central,2016-09-02,1,1,"#{""not provided""}",150.0,4
+Clojure,latte-central,2016-09-04,2,1,"#{""not provided""}",152.0,4
+Clojure,latte-central,2016-09-05,1,1,"#{""fredokun@github.com""}",153.0,4
+Clojure,latte-central,2016-09-20,3,1,"#{""fredokun@github.com""}",156.0,4
+Clojure,latte-central,2016-09-28,3,1,"#{""fredokun@github.com""}",159.0,4
+Clojure,latte-central,2016-09-29,2,2,"#{""fredokun@github.com"" ""Frederic.Peschanski@lip6.fr""}",161.0,4
+Clojure,latte-central,2016-10-03,1,1,"#{""fredokun@github.com""}",162.0,4
+Clojure,latte-central,2016-10-05,1,1,"#{""not provided""}",163.0,4
+Clojure,latte-central,2016-10-07,1,1,"#{""Frederic.Peschanski@lip6.fr""}",164.0,4
+Clojure,latte-central,2016-10-08,2,1,"#{""not provided""}",166.0,4
+Clojure,latte-central,2016-10-09,2,1,"#{""not provided""}",168.0,4
+Clojure,latte-central,2016-10-13,1,1,"#{""not provided""}",169.0,4
+Clojure,latte-central,2016-10-18,2,1,"#{""not provided""}",171.0,4
+Clojure,latte-central,2016-10-19,1,1,"#{""not provided""}",172.0,4
+Clojure,latte-central,2016-10-20,1,1,"#{""fredokun@github.com""}",173.0,4
+Clojure,latte-central,2016-10-21,2,1,"#{""fredokun@github.com""}",175.0,4
+Clojure,latte-central,2016-11-04,5,2,"#{""thebost@gmail.com"" ""Frederic.Peschanski@lip6.fr""}",180.0,5
+Clojure,latte-central,2016-11-08,7,2,"#{""fredokun@github.com"" ""Frederic.Peschanski@lip6.fr""}",187.0,5
+Clojure,latte-central,2016-11-15,1,1,"#{""fredokun@github.com""}",188.0,5
+Clojure,latte-central,2016-11-21,2,1,"#{""fredokun@github.com""}",190.0,5
+Clojure,latte-central,2016-11-28,2,2,"#{""Frederic.Peschanski@lip6.fr"" ""clashthebunny@gmail.com""}",192.0,6
+Clojure,latte-central,2016-12-01,3,1,"#{""Frederic.Peschanski@lip6.fr""}",195.0,6
+Clojure,latte-central,2016-12-06,11,1,"#{""not provided""}",206.0,6
+Clojure,latte-central,2016-12-07,1,1,"#{""not provided""}",207.0,6
+Clojure,latte-central,2016-12-08,1,1,"#{""fredokun@github.com""}",208.0,6
+Clojure,latte-central,2016-12-14,2,1,"#{""fredokun@github.com""}",210.0,6
+Clojure,latte-central,2017-01-03,3,1,"#{""fredokun@github.com""}",213.0,6
+Clojure,latte-central,2017-01-06,6,1,"#{""not provided""}",219.0,6
+Clojure,latte-central,2017-01-07,1,1,"#{""not provided""}",220.0,6
+Clojure,latte-central,2017-01-13,3,1,"#{""fredokun@github.com""}",223.0,6
+Clojure,latte-central,2017-01-17,2,1,"#{""fredokun@github.com""}",225.0,6
+Clojure,latte-central,2017-01-24,3,1,"#{""not provided""}",228.0,6
+Clojure,latte-central,2017-01-27,3,1,"#{""fredokun@github.com""}",231.0,6
+Clojure,latte-central,2017-01-28,3,1,"#{""not provided""}",234.0,6
+Clojure,latte-central,2017-01-29,4,2,"#{""Frederic.Peschanski@lip6.fr"" ""not provided""}",238.0,6
+Clojure,latte-central,2017-01-31,1,1,"#{""not provided""}",239.0,6
+Clojure,latte-central,2017-02-22,3,2,"#{""fredokun@github.com"" ""not provided""}",242.0,6
+Clojure,latte-central,2017-03-02,1,1,"#{""thebost@gmail.com""}",243.0,6
+Clojure,latte-central,2017-03-03,1,1,"#{""thebost@gmail.com""}",244.0,6
+Clojure,latte-central,2017-03-06,1,1,"#{""Frederic.Peschanski@lip6.fr""}",245.0,6
+Clojure,latte-central,2017-03-10,2,2,"#{""thebost@gmail.com"" ""Frederic.Peschanski@lip6.fr""}",247.0,6
+Clojure,latte-central,2017-03-11,2,1,"#{""thebost@gmail.com""}",249.0,6
+Clojure,latte-central,2017-03-15,1,1,"#{""Frederic.Peschanski@lip6.fr""}",250.0,6
+Clojure,latte-central,2017-09-28,3,1,"#{""frederic.peschanski@lip6.fr""}",253.0,6
+Clojure,latte-central,2017-09-29,3,1,"#{""frederic.peschanski@lip6.fr""}",256.0,6
+Clojure,latte-central,2017-10-02,2,1,"#{""frederic.peschanski@lip6.fr""}",258.0,6
+Clojure,latte-central,2017-10-03,3,1,"#{""frederic.peschanski@lip6.fr""}",261.0,6
+Clojure,latte-central,2017-10-04,1,1,"#{""frederic.peschanski@lip6.fr""}",262.0,6
+Clojure,latte-central,2017-10-05,1,1,"#{""frederic.peschanski@lip6.fr""}",263.0,6
+Clojure,latte-central,2017-10-06,5,2,"#{""not provided"" ""frederic.peschanski@lip6.fr""}",268.0,6
+Clojure,latte-central,2017-10-09,5,1,"#{""frederic.peschanski@lip6.fr""}",273.0,6
+Clojure,latte-central,2017-10-10,5,1,"#{""not provided""}",278.0,6
+Clojure,latte-central,2017-10-12,2,1,"#{""not provided""}",280.0,6
+Clojure,latte-central,2017-10-13,3,2,"#{""not provided"" ""frederic.peschanski@lip6.fr""}",283.0,6
+Clojure,latte-central,2017-10-14,1,1,"#{""not provided""}",284.0,6
+Clojure,latte-central,2017-10-16,4,2,"#{""Frederic.Peschanski@lip6.fr"" ""not provided""}",288.0,6
+Clojure,latte-central,2017-10-18,4,1,"#{""frederic.peschanski@lip6.fr""}",292.0,6
+Clojure,latte-central,2017-11-07,3,1,"#{""frederic.peschanski@lip6.fr""}",295.0,6
+Clojure,latte-central,2017-11-08,2,1,"#{""frederic.peschanski@lip6.fr""}",297.0,6
+Clojure,latte-central,2017-11-13,2,1,"#{""frederic.peschanski@lip6.fr""}",299.0,6
+Clojure,latte-central,2017-11-14,1,1,"#{""not provided""}",300.0,6
+Clojure,latte-central,2017-11-18,1,1,"#{""not provided""}",301.0,6
+Clojure,latte-central,2017-11-20,2,1,"#{""frederic.peschanski@lip6.fr""}",303.0,6
+Clojure,latte-central,2017-11-22,2,2,"#{""not provided"" ""frederic.peschanski@lip6.fr""}",305.0,6
+Clojure,latte-central,2017-11-23,1,1,"#{""frederic.peschanski@lip6.fr""}",306.0,6
+Clojure,latte-central,2017-11-24,1,1,"#{""not provided""}",307.0,6
+Clojure,latte-central,2017-11-25,1,1,"#{""not provided""}",308.0,6
+Clojure,latte-central,2017-11-27,2,1,"#{""frederic.peschanski@lip6.fr""}",310.0,6
+Clojure,latte-central,2017-11-28,1,1,"#{""frederic.peschanski@lip6.fr""}",311.0,6
+Clojure,latte-central,2017-11-29,5,2,"#{""not provided"" ""frederic.peschanski@lip6.fr""}",316.0,6
+Clojure,latte-central,2017-11-30,2,1,"#{""frederic.peschanski@lip6.fr""}",318.0,6
+Clojure,latte-central,2018-02-17,1,1,"#{""not provided""}",319.0,6
+Clojure,latte-central,2018-05-15,1,1,"#{""not provided""}",320.0,6
+Clojure,latte-central,2018-11-06,1,1,"#{""keith@the-simmons.net""}",321.0,7
+Clojure,latte-central,2018-11-22,1,1,"#{""frederic.peschanski@lip6.fr""}",322.0,7
+Clojure,latte-central,2018-11-23,4,2,"#{""Frederic.Peschanski@lip6.fr"" ""frederic.peschanski@lip6.fr""}",326.0,7
+Clojure,latte-central,2018-11-24,3,1,"#{""not provided""}",329.0,7
+Clojure,latte-central,2018-11-26,8,2,"#{""Frederic.Peschanski@lip6.fr"" ""frederic.peschanski@lip6.fr""}",337.0,7
+Clojure,latte-central,2018-11-29,2,1,"#{""frederic.peschanski@lip6.fr""}",339.0,7
+Clojure,latte-central,2018-12-04,1,1,"#{""thebost@gmail.com""}",340.0,7
+Clojure,latte-central,2018-12-05,1,1,"#{""Frederic.Peschanski@lip6.fr""}",341.0,7
+Clojure,latte-central,2018-12-06,1,1,"#{""frederic.peschanski@lip6.fr""}",342.0,7
+Clojure,latte-central,2018-12-10,10,2,"#{""not provided"" ""frederic.peschanski@lip6.fr""}",352.0,7
+Clojure,latte-central,2018-12-12,1,1,"#{""frederic.peschanski@lip6.fr""}",353.0,7
+Clojure,latte-central,2019-01-03,3,1,"#{""frederic.peschanski@lip6.fr""}",356.0,7
+Clojure,latte-central,2019-01-08,2,1,"#{""frederic.peschanski@lip6.fr""}",358.0,7
+Clojure,latte-central,2019-02-16,1,1,"#{""not provided""}",359.0,7
+Clojure,latte-central,2019-08-07,2,1,"#{""frederic.peschanski@lip6.fr""}",361.0,7
+Clojure,latte-central,2019-09-05,4,1,"#{""frederic.peschanski@lip6.fr""}",365.0,7
+Clojure,latte-central,2019-09-11,2,2,"#{""fredokun@gitlab.com"" ""frederic.peschanski@lip6.fr""}",367.0,8
+Clojure,latte-central,2019-09-12,2,1,"#{""frederic.peschanski@lip6.fr""}",369.0,8
+Clojure,latte-central,2019-09-13,11,2,"#{""Frederic.Peschanski@lip6.fr"" ""not provided""}",380.0,8
+Clojure,latte-central,2019-09-16,1,1,"#{""frederic.peschanski@lip6.fr""}",381.0,8
+Clojure,latte-central,2019-09-20,4,2,"#{""Frederic.Peschanski@lip6.fr"" ""lo.zampino@gmail.com""}",385.0,9
+Clojure,latte-central,2019-09-23,6,2,"#{""Frederic.Peschanski@lip6.fr"" ""frederic.peschanski@lip6.fr""}",391.0,9
+Clojure,latte-central,2019-09-24,11,4,"#{""fredokun@gitlab.com"" ""Frederic.Peschanski@lip6.fr"" ""lo.zampino@gmail.com"" ""frederic.peschanski@lip6.fr""}",402.0,9
+Clojure,latte-central,2019-09-25,3,2,"#{""Frederic.Peschanski@lip6.fr"" ""frederic.peschanski@lip6.fr""}",405.0,9
+Clojure,latte-central,2019-09-26,3,1,"#{""frederic.peschanski@lip6.fr""}",408.0,9
+Clojure,latte-central,2019-10-09,1,1,"#{""frederic.peschanski@lip6.fr""}",409.0,9
+Clojure,latte-central,2020-07-29,1,1,"#{""fredokun@github.com""}",410.0,9
+Clojure,latte-central,2020-11-07,2,1,"#{""Frederic Peschanski""}",412.0,10
+Clojure,latte-central,2021-01-06,1,1,"#{""frederic.peschanski@lip6.fr""}",413.0,10
+Clojure,latte-central,2021-01-15,1,1,"#{""frederic.peschanski@lip6.fr""}",414.0,10
+Clojure,latte-central,2022-11-18,4,1,"#{""frederic.peschanski@lip6.fr""}",418.0,10
+Clojure,latte-central,2022-11-19,1,1,"#{""frederic.peschanski@lip6.fr""}",419.0,10
+Clojure,latte-central,2022-11-22,3,1,"#{""frederic.peschanski@lip6.fr""}",422.0,10
+Clojure,latte-central,2022-11-24,2,1,"#{""frederic.peschanski@lip6.fr""}",424.0,10
+Clojure,latte-central,2022-11-25,9,2,"#{""Frederic.Peschanski@lip6.fr"" ""frederic.peschanski@lip6.fr""}",433.0,10
+Clojure,latte-central,2022-11-30,1,1,"#{""frederic.peschanski@lip6.fr""}",434.0,10
+Clojure,latte-central,2023-02-27,1,1,"#{""frederic.peschanski@lip6.fr""}",435.0,10
+Clojure,latte-central,2023-11-20,2,1,"#{""frederic.peschanski@lip6.fr""}",437.0,10
+Clojure,latte-central,2023-11-27,1,1,"#{""frederic.peschanski@lip6.fr""}",438.0,10
+Clojure,latte-central,2023-11-28,1,1,"#{""frederic.peschanski@lip6.fr""}",439.0,10
+Clojure,latte-central,2023-11-29,1,1,"#{""frederic.peschanski@lip6.fr""}",440.0,10

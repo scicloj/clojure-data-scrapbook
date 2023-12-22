@@ -1,0 +1,426 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,bear,2012-09-11,1,1,"#{""bear42@gmail.com""}",1.0,1
+Python,bear,2012-09-12,1,1,"#{""bear42@gmail.com""}",2.0,1
+Python,bear,2012-10-16,5,1,"#{""bear42@gmail.com""}",7.0,1
+Python,bear,2012-10-21,1,1,"#{""thefinn93@thefinn93.com""}",8.0,2
+Python,bear,2012-11-04,1,1,"#{""bear42@gmail.com""}",9.0,2
+Python,bear,2012-11-05,1,1,"#{""bear42@gmail.com""}",10.0,2
+Python,bear,2012-11-13,2,2,"#{""nperriault@gmail.com"" ""bear42@gmail.com""}",12.0,3
+Python,bear,2012-11-22,1,1,"#{""lars@konvergenzfehler.de""}",13.0,4
+Python,bear,2012-12-03,3,1,"#{""ian@ianozsvald.com""}",16.0,5
+Python,bear,2012-12-06,1,1,"#{""lars@konvergenzfehler.de""}",17.0,5
+Python,bear,2012-12-08,1,1,"#{""ian@ianozsvald.com""}",18.0,5
+Python,bear,2012-12-09,4,1,"#{""bear42@gmail.com""}",22.0,5
+Python,bear,2012-12-14,2,1,"#{""kylewbock@gmail.com""}",24.0,6
+Python,bear,2013-01-17,2,2,"#{""stephen.bywater@gmail.com"" ""bear42@gmail.com""}",26.0,7
+Python,bear,2013-01-18,3,2,"#{""stephen.bywater@gmail.com"" ""bear42@gmail.com""}",29.0,7
+Python,bear,2013-01-29,1,1,"#{""themylogin@gmail.com""}",30.0,8
+Python,bear,2013-01-31,2,1,"#{""pradeep1288@gmail.com""}",32.0,9
+Python,bear,2013-02-02,1,1,"#{""osamak@gnu.org""}",33.0,10
+Python,bear,2013-02-04,4,3,"#{""chris.sanden@gmail.com"" ""robert_clarke@trendmicro.co.uk"" ""dahalaishraj@gmail.com""}",37.0,13
+Python,bear,2013-02-05,5,1,"#{""bear42@gmail.com""}",42.0,13
+Python,bear,2013-02-06,2,2,"#{""dahalaishraj@gmail.com"" ""bear42@gmail.com""}",44.0,13
+Python,bear,2013-02-07,3,1,"#{""bear42@gmail.com""}",47.0,13
+Python,bear,2013-02-09,1,1,"#{""domen@dev.si""}",48.0,14
+Python,bear,2013-02-10,6,1,"#{""bear42@gmail.com""}",54.0,14
+Python,bear,2013-03-03,1,1,"#{""bear42@gmail.com""}",55.0,14
+Python,bear,2013-03-07,1,1,"#{""akiva_eshbal@yahoo.com""}",56.0,15
+Python,bear,2013-03-08,1,1,"#{""bear42@gmail.com""}",57.0,15
+Python,bear,2013-03-13,5,2,"#{""bear42@gmail.com"" ""sebastian@karotte.org""}",62.0,16
+Python,bear,2013-03-14,2,1,"#{""sebastian@karotte.org""}",64.0,16
+Python,bear,2013-03-15,5,1,"#{""sebastian@karotte.org""}",69.0,16
+Python,bear,2013-03-18,9,1,"#{""bear42@gmail.com""}",78.0,16
+Python,bear,2013-03-19,4,1,"#{""sebastian@karotte.org""}",82.0,16
+Python,bear,2013-03-22,1,1,"#{""bear42@gmail.com""}",83.0,16
+Python,bear,2013-03-25,1,1,"#{""sebastian@karotte.org""}",84.0,16
+Python,bear,2013-03-26,3,2,"#{""bear42@gmail.com"" ""sebastian@karotte.org""}",87.0,16
+Python,bear,2013-03-27,1,1,"#{""yoshinori.fukushima@gmail.com""}",88.0,17
+Python,bear,2013-04-04,1,1,"#{""bear42@gmail.com""}",89.0,17
+Python,bear,2013-04-12,15,1,"#{""sebastian@karotte.org""}",104.0,17
+Python,bear,2013-04-13,2,1,"#{""sebastian@karotte.org""}",106.0,17
+Python,bear,2013-04-22,5,2,"#{""cahlan@gmail.com"" ""bear42@gmail.com""}",111.0,18
+Python,bear,2013-05-20,2,2,"#{""dps.lwl@gmail.com"" ""bear42@gmail.com""}",113.0,19
+Python,bear,2013-05-21,4,1,"#{""sebastian@karotte.org""}",117.0,19
+Python,bear,2013-05-28,7,1,"#{""bear42@gmail.com""}",124.0,19
+Python,bear,2013-05-30,2,2,"#{""gordon.p.clement@gmail.com"" ""bear42@gmail.com""}",126.0,20
+Python,bear,2013-06-04,2,1,"#{""bear42@gmail.com""}",128.0,20
+Python,bear,2013-06-07,6,2,"#{""jim@jim-easterbrook.me.uk"" ""bear42@gmail.com""}",134.0,21
+Python,bear,2013-06-12,1,1,"#{""bear42@gmail.com""}",135.0,21
+Python,bear,2013-06-13,2,1,"#{""sebastian@karotte.org""}",137.0,21
+Python,bear,2013-06-19,2,2,"#{""hpl1989@gmail.com"" ""bear42@gmail.com""}",139.0,22
+Python,bear,2013-07-03,4,3,"#{""osamak@gnu.org"" ""bear42@gmail.com"" ""sebastian@karotte.org""}",143.0,22
+Python,bear,2013-07-04,5,3,"#{""theopolismewiki@gmail.com"" ""daniil.re@gmail.com"" ""sebastian@karotte.org""}",148.0,24
+Python,bear,2013-07-05,2,2,"#{""LMendy@gmail.com"" ""bear42@gmail.com""}",150.0,25
+Python,bear,2013-07-09,3,2,"#{""phd@phdru.name"" ""bear42@gmail.com""}",153.0,26
+Python,bear,2013-07-25,1,1,"#{""sebastian@karotte.org""}",154.0,26
+Python,bear,2013-07-27,1,1,"#{""hpl1989@gmail.com""}",155.0,26
+Python,bear,2013-08-04,2,1,"#{""bear42@gmail.com""}",157.0,26
+Python,bear,2013-08-12,2,2,"#{""jake.robinson@gtri.gatech.edu"" ""bear42@gmail.com""}",159.0,27
+Python,bear,2013-08-16,6,2,"#{""jake.robinson@gtri.gatech.edu"" ""jarobins139@gmail.com""}",165.0,28
+Python,bear,2013-08-17,2,1,"#{""jake.robinson@gtri.gatech.edu""}",167.0,28
+Python,bear,2013-08-19,1,1,"#{""jake.robinson@gtri.gatech.edu""}",168.0,28
+Python,bear,2013-08-21,5,2,"#{""jake.robinson@gtri.gatech.edu"" ""jarobins139@gmail.com""}",173.0,28
+Python,bear,2013-08-22,5,2,"#{""jake.robinson@gtri.gatech.edu"" ""jarobins139@gmail.com""}",178.0,28
+Python,bear,2013-08-24,16,7,"#{""jake.robinson@gtri.gatech.edu"" ""harrywy@gmail.com"" ""jarobins139@gmail.com"" ""muthuspost@gmail.com"" ""bear42@gmail.com"" ""sebastian@karotte.org"" ""email@philsturgeon.co.uk""}",194.0,31
+Python,bear,2013-08-25,3,2,"#{""harrywy@gmail.com"" ""bear42@gmail.com""}",197.0,31
+Python,bear,2013-08-26,1,1,"#{""bear42@gmail.com""}",198.0,31
+Python,bear,2013-08-29,7,3,"#{""jake.robinson@gtri.gatech.edu"" ""me@moshekaplan.com"" ""bear42@gmail.com""}",205.0,32
+Python,bear,2013-08-30,12,3,"#{""jake.robinson@gtri.gatech.edu"" ""jarobins139@gmail.com"" ""bear42@gmail.com""}",217.0,32
+Python,bear,2013-08-31,3,2,"#{""jake.robinson@gtri.gatech.edu"" ""bear42@gmail.com""}",220.0,32
+Python,bear,2013-09-01,2,1,"#{""jake.robinson@gtri.gatech.edu""}",222.0,32
+Python,bear,2013-09-02,1,1,"#{""jake.robinson@gtri.gatech.edu""}",223.0,32
+Python,bear,2013-09-03,3,2,"#{""jarobins139@gmail.com"" ""bear42@gmail.com""}",226.0,32
+Python,bear,2013-09-04,1,1,"#{""jarobins139@gmail.com""}",227.0,32
+Python,bear,2013-09-05,1,1,"#{""brodul@brodul.org""}",228.0,33
+Python,bear,2013-09-07,2,1,"#{""bear42@gmail.com""}",230.0,33
+Python,bear,2013-09-10,6,2,"#{""jarobins139@gmail.com"" ""bear42@gmail.com""}",236.0,33
+Python,bear,2013-09-19,2,2,"#{""mr.bence.tamas@gmail.com"" ""bear42@gmail.com""}",238.0,34
+Python,bear,2013-09-23,2,1,"#{""bear42@gmail.com""}",240.0,34
+Python,bear,2013-10-06,1,1,"#{""bear42@gmail.com""}",241.0,34
+Python,bear,2013-10-14,2,2,"#{""pmakowski@ibphoenix.fr"" ""bear42@gmail.com""}",243.0,35
+Python,bear,2013-11-02,3,2,"#{""iepathos@gmail.com"" ""bear@bear.im""}",246.0,37
+Python,bear,2013-11-03,3,1,"#{""lars@konvergenzfehler.de""}",249.0,37
+Python,bear,2013-12-04,2,2,"#{""bear@bear.im"" ""skureta@gmail.com""}",251.0,38
+Python,bear,2013-12-05,2,2,"#{""bear@bear.im"" ""rmihael@gmail.com""}",253.0,39
+Python,bear,2013-12-26,2,2,"#{""bear@bear.im"" ""alex@seevl.net""}",255.0,40
+Python,bear,2014-01-07,2,2,"#{""bear@bear.im"" ""email@philsturgeon.co.uk""}",257.0,40
+Python,bear,2014-01-11,4,2,"#{""bear@bear.im"" ""shane@techie.net""}",261.0,41
+Python,bear,2014-01-18,7,3,"#{""bear@bear.im"" ""s.maggiolo@gmail.com"" ""bear42@gmail.com""}",268.0,42
+Python,bear,2014-01-19,3,1,"#{""bear42@gmail.com""}",271.0,42
+Python,bear,2014-01-21,1,1,"#{""bear@bear.im""}",272.0,42
+Python,bear,2014-01-22,1,1,"#{""shichao.an@nyu.edu""}",273.0,43
+Python,bear,2014-02-01,2,1,"#{""ch@rlesthom.as""}",275.0,44
+Python,bear,2014-02-15,3,2,"#{""lemanowiczlucas@gmail.com"" ""bear42@gmail.com""}",278.0,45
+Python,bear,2014-02-16,1,1,"#{""bear@bear.im""}",279.0,45
+Python,bear,2014-02-17,9,1,"#{""bear42@gmail.com""}",288.0,45
+Python,bear,2014-02-26,2,2,"#{""bear@bear.im"" ""hello.mikeneko@gmail.com""}",290.0,46
+Python,bear,2014-02-28,2,2,"#{""bear@bear.im"" ""jc@blackflags.co.uk""}",292.0,47
+Python,bear,2014-04-26,1,1,"#{""jarobins139@gmail.com""}",293.0,47
+Python,bear,2014-04-28,1,1,"#{""bear@bear.im""}",294.0,47
+Python,bear,2014-05-17,1,1,"#{""olivier@foxmask.info""}",295.0,48
+Python,bear,2014-06-05,5,2,"#{""bear@bear.im"" ""golopot@gmail.com""}",300.0,49
+Python,bear,2014-06-26,1,1,"#{""mohammad.abbas86@gmail.com""}",301.0,50
+Python,bear,2014-06-28,1,1,"#{""jairotrad@gmail.com""}",302.0,51
+Python,bear,2014-06-30,4,2,"#{""bear@bear.im"" ""choongmin@me.com""}",306.0,52
+Python,bear,2014-07-03,3,2,"#{""calcmaster16@gmail.com"" ""bear@bear.im""}",309.0,53
+Python,bear,2014-07-04,2,2,"#{""calcmaster16@gmail.com"" ""bear@bear.im""}",311.0,53
+Python,bear,2014-07-07,2,2,"#{""bear42@gmail.com"" ""mafagafogigante@gmail.com""}",313.0,54
+Python,bear,2014-07-08,1,1,"#{""bear@bear.im""}",314.0,54
+Python,bear,2014-07-09,4,1,"#{""sebastian@karotte.org""}",318.0,54
+Python,bear,2014-07-10,4,2,"#{""bear@bear.im"" ""bear42@gmail.com""}",322.0,54
+Python,bear,2014-07-11,2,2,"#{""bear@bear.im"" ""mafagafogigante@gmail.com""}",324.0,54
+Python,bear,2014-07-12,5,4,"#{""calcmaster16@gmail.com"" ""bear@bear.im"" ""giustinob@gmail.com"" ""mafagafogigante@gmail.com""}",329.0,55
+Python,bear,2014-07-17,1,1,"#{""calcmaster16@gmail.com""}",330.0,55
+Python,bear,2014-07-20,1,1,"#{""bear@bear.im""}",331.0,55
+Python,bear,2014-07-22,1,1,"#{""calcmaster16@gmail.com""}",332.0,55
+Python,bear,2014-07-23,3,2,"#{""calcmaster16@gmail.com"" ""bear@bear.im""}",335.0,55
+Python,bear,2014-07-30,2,2,"#{""calcmaster16@gmail.com"" ""bear@bear.im""}",337.0,55
+Python,bear,2014-08-12,2,2,"#{""bear@bear.im"" ""alexdodge@gmail.com""}",339.0,56
+Python,bear,2014-09-04,2,2,"#{""bear@bear.im"" ""awentz@theonion.com""}",341.0,57
+Python,bear,2014-10-01,2,1,"#{""jsteiner@stcharlessd.org""}",343.0,58
+Python,bear,2014-10-03,1,1,"#{""kiran.daredevil@gmail.com""}",344.0,59
+Python,bear,2014-10-23,2,2,"#{""ashok.lella@gmail.com"" ""bear42@gmail.com""}",346.0,60
+Python,bear,2014-10-26,2,2,"#{""stagi.andrea@gmail.com"" ""bear42@gmail.com""}",348.0,61
+Python,bear,2014-11-09,2,1,"#{""cuducos@gmail.com""}",350.0,62
+Python,bear,2014-11-10,1,1,"#{""bear42@gmail.com""}",351.0,62
+Python,bear,2014-11-16,2,2,"#{""james dot rubino  gmail.com"" ""bear42@gmail.com""}",353.0,63
+Python,bear,2014-11-17,3,2,"#{""adam@sparkslabs.co"" ""bear42@gmail.com""}",356.0,64
+Python,bear,2014-12-01,1,1,"#{""jayschulist@gmail.com""}",357.0,65
+Python,bear,2014-12-02,1,1,"#{""bear42@gmail.com""}",358.0,65
+Python,bear,2014-12-24,16,2,"#{""radzhome@gmail.com"" ""bear42@gmail.com""}",374.0,66
+Python,bear,2014-12-28,2,2,"#{""gadiyar@ti.com"" ""bear42@gmail.com""}",376.0,67
+Python,bear,2014-12-29,7,1,"#{""radzhome@gmail.com""}",383.0,67
+Python,bear,2015-01-09,1,1,"#{""bear42@gmail.com""}",384.0,67
+Python,bear,2015-01-10,1,1,"#{""g33ksimon@gmail.com""}",385.0,68
+Python,bear,2015-02-01,2,2,"#{""fenster@fenster.name"" ""bear42@gmail.com""}",387.0,69
+Python,bear,2015-02-16,2,2,"#{""dzuelke@gmail.com"" ""bear42@gmail.com""}",389.0,70
+Python,bear,2015-02-26,2,2,"#{""will@harris.ch"" ""bear42@gmail.com""}",391.0,71
+Python,bear,2015-03-07,1,1,"#{""ezhillang@gmail.com""}",392.0,72
+Python,bear,2015-03-09,1,1,"#{""bear42@gmail.com""}",393.0,72
+Python,bear,2015-03-16,2,2,"#{""bear42@gmail.com"" ""jsalter@iress.com.au""}",395.0,73
+Python,bear,2015-04-13,2,2,"#{""sundqvist.jonathan@gmail.com"" ""bear42@gmail.com""}",397.0,74
+Python,bear,2015-04-14,2,2,"#{""dominik.krejcik@gmail.com"" ""bear42@gmail.com""}",399.0,75
+Python,bear,2015-04-20,2,1,"#{""sundqvist.jonathan@gmail.com""}",401.0,75
+Python,bear,2015-04-21,1,1,"#{""bear42@gmail.com""}",402.0,75
+Python,bear,2015-04-25,4,2,"#{""kldykstra@gmail.com"" ""bear42@gmail.com""}",406.0,76
+Python,bear,2015-04-26,10,2,"#{""sundqvist.jonathan@gmail.com"" ""bear42@gmail.com""}",416.0,76
+Python,bear,2015-05-04,3,2,"#{""samuel@samyoul.com"" ""bear42@gmail.com""}",419.0,77
+Python,bear,2015-06-01,1,1,"#{""pswaminathan@users.noreply.github.com""}",420.0,78
+Python,bear,2015-06-02,1,1,"#{""sundqvist.jonathan@gmail.com""}",421.0,78
+Python,bear,2015-06-12,2,2,"#{""sundqvist.jonathan@gmail.com"" ""chad.miller@canonical.com""}",423.0,79
+Python,bear,2015-08-02,2,2,"#{""bear42@gmail.com"" ""tedmiston@gmail.com""}",425.0,80
+Python,bear,2015-08-12,2,1,"#{""james@deemok.com""}",427.0,81
+Python,bear,2015-08-26,1,1,"#{""manbitesdog326@gmail.com""}",428.0,82
+Python,bear,2015-08-27,1,1,"#{""bear42@gmail.com""}",429.0,82
+Python,bear,2015-09-13,2,2,"#{""ben.kampmann@gmail.com"" ""bear42@gmail.com""}",431.0,83
+Python,bear,2015-09-24,2,1,"#{""contato@eliasgranja.com""}",433.0,84
+Python,bear,2015-09-25,1,1,"#{""bear42@gmail.com""}",434.0,84
+Python,bear,2015-10-11,2,2,"#{""d-hitzel@outlook.com"" ""bear42@gmail.com""}",436.0,85
+Python,bear,2015-10-12,1,1,"#{""jsonheld@gmail.com""}",437.0,86
+Python,bear,2015-10-13,1,1,"#{""bear42@gmail.com""}",438.0,86
+Python,bear,2015-11-05,8,3,"#{""dannywilson32@gmail.com"" ""bear@andyet.net"" ""bear42@gmail.com""}",446.0,88
+Python,bear,2015-11-09,3,1,"#{""trent.stollery@d2dcrc.com.au""}",449.0,89
+Python,bear,2015-11-10,2,1,"#{""trent.stollery@d2dcrc.com.au""}",451.0,89
+Python,bear,2015-11-11,2,1,"#{""trent.stollery@d2dcrc.com.au""}",453.0,89
+Python,bear,2015-11-14,11,2,"#{""bear@bear.im"" ""bear42@gmail.com""}",464.0,89
+Python,bear,2015-11-20,1,1,"#{""rhoward@w20group.com""}",465.0,90
+Python,bear,2015-11-23,2,2,"#{""rhoward@w20group.com"" ""bear42@gmail.com""}",467.0,90
+Python,bear,2015-11-28,3,2,"#{""brandonbielicki@gmail.com"" ""bear42@gmail.com""}",470.0,91
+Python,bear,2015-12-02,2,2,"#{""lababidi@gmail.com"" ""bear42@gmail.com""}",472.0,92
+Python,bear,2015-12-06,2,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",474.0,93
+Python,bear,2015-12-21,4,2,"#{""bear42@gmail.com"" ""salmon@openmailbox.org""}",478.0,94
+Python,bear,2015-12-28,8,3,"#{""bear@bear.im"" ""bob@pasker.net"" ""bear42@gmail.com""}",486.0,95
+Python,bear,2015-12-29,7,2,"#{""bear@bear.im"" ""bear42@gmail.com""}",493.0,95
+Python,bear,2015-12-31,2,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",495.0,95
+Python,bear,2016-01-01,6,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",501.0,95
+Python,bear,2016-01-02,1,1,"#{""bear@bear.im""}",502.0,95
+Python,bear,2016-01-03,1,1,"#{""jeremylow@gmail.com""}",503.0,95
+Python,bear,2016-01-04,1,1,"#{""bear42@gmail.com""}",504.0,95
+Python,bear,2016-01-05,3,1,"#{""bob@pasker.net""}",507.0,95
+Python,bear,2016-01-06,1,1,"#{""jeremylow@gmail.com""}",508.0,95
+Python,bear,2016-01-07,1,1,"#{""jeremylow@gmail.com""}",509.0,95
+Python,bear,2016-01-09,7,1,"#{""jeremylow@gmail.com""}",516.0,95
+Python,bear,2016-01-10,7,2,"#{""shichao.an@nyu.edu"" ""jeremylow@gmail.com""}",523.0,95
+Python,bear,2016-01-11,1,1,"#{""bear42@gmail.com""}",524.0,95
+Python,bear,2016-01-12,1,1,"#{""jeremylow@gmail.com""}",525.0,95
+Python,bear,2016-01-13,1,1,"#{""jeremylow@gmail.com""}",526.0,95
+Python,bear,2016-01-14,4,1,"#{""jeremylow@gmail.com""}",530.0,95
+Python,bear,2016-01-15,1,1,"#{""jeremylow@gmail.com""}",531.0,95
+Python,bear,2016-01-16,5,1,"#{""jeremylow@gmail.com""}",536.0,95
+Python,bear,2016-01-17,2,1,"#{""jeremylow@gmail.com""}",538.0,95
+Python,bear,2016-01-18,2,2,"#{""radzhome@gmail.com"" ""bear42@gmail.com""}",540.0,95
+Python,bear,2016-01-19,2,1,"#{""jeremylow@gmail.com""}",542.0,95
+Python,bear,2016-01-20,2,1,"#{""jeremylow@gmail.com""}",544.0,95
+Python,bear,2016-01-21,1,1,"#{""jeremylow@gmail.com""}",545.0,95
+Python,bear,2016-01-23,5,1,"#{""jeremylow@gmail.com""}",550.0,95
+Python,bear,2016-01-24,3,1,"#{""jeremylow@gmail.com""}",553.0,95
+Python,bear,2016-01-25,2,1,"#{""jeremylow@gmail.com""}",555.0,95
+Python,bear,2016-01-26,2,2,"#{""jeremylow@gmail.com"" ""spot@fedoraproject.org""}",557.0,96
+Python,bear,2016-01-27,7,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",564.0,96
+Python,bear,2016-01-28,3,1,"#{""jeremylow@gmail.com""}",567.0,96
+Python,bear,2016-01-29,14,2,"#{""jeremylow@gmail.com"" ""nnyby@columbia.edu""}",581.0,97
+Python,bear,2016-01-30,10,3,"#{""andrew.konoff@gmail.com"" ""jeremylow@gmail.com"" ""bear42@gmail.com""}",591.0,98
+Python,bear,2016-01-31,2,1,"#{""jeremylow@gmail.com""}",593.0,98
+Python,bear,2016-02-09,2,1,"#{""jeremylow@gmail.com""}",595.0,98
+Python,bear,2016-02-10,3,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",598.0,98
+Python,bear,2016-02-11,4,1,"#{""jeremylow@gmail.com""}",602.0,98
+Python,bear,2016-02-13,3,1,"#{""jeremylow@gmail.com""}",605.0,98
+Python,bear,2016-02-16,5,1,"#{""jeremylow@gmail.com""}",610.0,98
+Python,bear,2016-02-17,3,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",613.0,98
+Python,bear,2016-02-18,2,1,"#{""jeremylow@gmail.com""}",615.0,98
+Python,bear,2016-02-19,1,1,"#{""bear42@gmail.com""}",616.0,98
+Python,bear,2016-03-06,4,1,"#{""jeremylow@gmail.com""}",620.0,98
+Python,bear,2016-03-07,1,1,"#{""jeremylow@gmail.com""}",621.0,98
+Python,bear,2016-03-09,1,1,"#{""jeremylow@gmail.com""}",622.0,98
+Python,bear,2016-03-11,4,1,"#{""jeremylow@gmail.com""}",626.0,98
+Python,bear,2016-03-15,6,1,"#{""bear@bear.im""}",632.0,98
+Python,bear,2016-03-16,5,2,"#{""bear@bear.im"" ""jeremylow@gmail.com""}",637.0,98
+Python,bear,2016-03-17,1,1,"#{""bear42@gmail.com""}",638.0,98
+Python,bear,2016-03-19,2,1,"#{""jeremylow@gmail.com""}",640.0,98
+Python,bear,2016-03-20,3,1,"#{""jeremylow@gmail.com""}",643.0,98
+Python,bear,2016-03-21,2,1,"#{""bear@bear.im""}",645.0,98
+Python,bear,2016-03-22,1,1,"#{""jeremylow@gmail.com""}",646.0,98
+Python,bear,2016-03-23,5,3,"#{""jeremylow@gmail.com"" ""bear42@gmail.com"" ""meyers2@pdx.edu""}",651.0,99
+Python,bear,2016-03-27,3,1,"#{""jeremylow@gmail.com""}",654.0,99
+Python,bear,2016-03-28,1,1,"#{""jeremylow@gmail.com""}",655.0,99
+Python,bear,2016-04-07,4,1,"#{""bear@bear.im""}",659.0,99
+Python,bear,2016-04-08,1,1,"#{""jeremylow@gmail.com""}",660.0,99
+Python,bear,2016-04-12,5,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",665.0,99
+Python,bear,2016-04-27,3,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",668.0,99
+Python,bear,2016-04-28,1,1,"#{""chucklogan.lim@gmail.com""}",669.0,100
+Python,bear,2016-04-29,3,2,"#{""bruc14@163.com"" ""bear42@gmail.com""}",672.0,101
+Python,bear,2016-05-02,3,1,"#{""jeremylow@gmail.com""}",675.0,101
+Python,bear,2016-05-05,1,1,"#{""jeremylow@gmail.com""}",676.0,101
+Python,bear,2016-05-06,1,1,"#{""jeremylow@gmail.com""}",677.0,101
+Python,bear,2016-05-07,1,1,"#{""jeremylow@gmail.com""}",678.0,101
+Python,bear,2016-05-08,4,1,"#{""jeremylow@gmail.com""}",682.0,101
+Python,bear,2016-05-10,1,1,"#{""jeremylow@gmail.com""}",683.0,101
+Python,bear,2016-05-13,1,1,"#{""brenda@wallace.net.nz""}",684.0,102
+Python,bear,2016-05-16,1,1,"#{""jeremylow@gmail.com""}",685.0,102
+Python,bear,2016-05-23,4,1,"#{""jeremylow@gmail.com""}",689.0,102
+Python,bear,2016-05-24,2,1,"#{""jeremylow@gmail.com""}",691.0,102
+Python,bear,2016-05-25,3,1,"#{""jeremylow@gmail.com""}",694.0,102
+Python,bear,2016-05-26,3,1,"#{""bear@bear.im""}",697.0,102
+Python,bear,2016-06-01,4,1,"#{""jeremylow@gmail.com""}",701.0,102
+Python,bear,2016-06-03,2,2,"#{""alex@meatfreezer.com"" ""bear42@gmail.com""}",703.0,103
+Python,bear,2016-06-15,2,2,"#{""roboxv@gmail.com"" ""bear42@gmail.com""}",705.0,104
+Python,bear,2016-06-16,1,1,"#{""yudasukmana1992@gmail.com""}",706.0,105
+Python,bear,2016-06-17,1,1,"#{""bear42@gmail.com""}",707.0,105
+Python,bear,2016-06-24,1,1,"#{""jeremylow@gmail.com""}",708.0,105
+Python,bear,2016-06-25,1,1,"#{""jeremylow@gmail.com""}",709.0,105
+Python,bear,2016-07-10,5,3,"#{""jeremylow@gmail.com"" ""zeta@zetasyanthis.org"" ""bear42@gmail.com""}",714.0,106
+Python,bear,2016-07-11,5,2,"#{""bear@bear.im"" ""bear42@gmail.com""}",719.0,106
+Python,bear,2016-07-12,3,3,"#{""bear@bear.im"" ""jeremylow@gmail.com"" ""bear42@gmail.com""}",722.0,106
+Python,bear,2016-07-13,4,2,"#{""bear@bear.im"" ""bear42@gmail.com""}",726.0,106
+Python,bear,2016-07-16,1,1,"#{""jeremylow@gmail.com""}",727.0,106
+Python,bear,2016-07-21,1,1,"#{""jeremylow@gmail.com""}",728.0,106
+Python,bear,2016-07-23,1,1,"#{""bmw1821@gmail.com""}",729.0,107
+Python,bear,2016-07-24,2,2,"#{""jeremylow@gmail.com"" ""bmw1821@gmail.com""}",731.0,107
+Python,bear,2016-07-25,2,1,"#{""jeremylow@gmail.com""}",733.0,107
+Python,bear,2016-07-29,4,1,"#{""jeremylow@gmail.com""}",737.0,107
+Python,bear,2016-07-30,1,1,"#{""jeremylow@gmail.com""}",738.0,107
+Python,bear,2016-07-31,2,1,"#{""james@deemok.com""}",740.0,107
+Python,bear,2016-08-01,6,1,"#{""bear@bear.im""}",746.0,107
+Python,bear,2016-08-02,2,1,"#{""bear@bear.im""}",748.0,107
+Python,bear,2016-08-03,1,1,"#{""bear42@gmail.com""}",749.0,107
+Python,bear,2016-08-04,2,1,"#{""jeremylow@gmail.com""}",751.0,107
+Python,bear,2016-08-05,3,1,"#{""jeremylow@gmail.com""}",754.0,107
+Python,bear,2016-08-09,2,1,"#{""jeremylow@gmail.com""}",756.0,107
+Python,bear,2016-08-10,1,1,"#{""jeremylow@gmail.com""}",757.0,107
+Python,bear,2016-08-13,2,2,"#{""dan_pc@live.com"" ""bear42@gmail.com""}",759.0,108
+Python,bear,2016-09-02,5,1,"#{""ajwest@gmail.com""}",764.0,109
+Python,bear,2016-09-03,8,2,"#{""ajwest@gmail.com"" ""bear42@gmail.com""}",772.0,109
+Python,bear,2016-09-13,4,1,"#{""jeremylow@gmail.com""}",776.0,109
+Python,bear,2016-09-14,3,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",779.0,109
+Python,bear,2016-09-15,2,1,"#{""jeremylow@gmail.com""}",781.0,109
+Python,bear,2016-09-16,5,1,"#{""jeremylow@gmail.com""}",786.0,109
+Python,bear,2016-09-21,1,1,"#{""jeremylow@gmail.com""}",787.0,109
+Python,bear,2016-09-22,1,1,"#{""jeremylow@gmail.com""}",788.0,109
+Python,bear,2016-10-02,3,1,"#{""jeremylow@gmail.com""}",791.0,109
+Python,bear,2016-10-03,4,1,"#{""jeremylow@gmail.com""}",795.0,109
+Python,bear,2016-10-05,2,1,"#{""jeremylow@gmail.com""}",797.0,109
+Python,bear,2016-10-19,2,1,"#{""jeremylow@gmail.com""}",799.0,109
+Python,bear,2016-10-20,4,1,"#{""jeremylow@gmail.com""}",803.0,109
+Python,bear,2016-10-25,1,1,"#{""jeremylow@gmail.com""}",804.0,109
+Python,bear,2016-10-30,1,1,"#{""jeremylow@gmail.com""}",805.0,109
+Python,bear,2016-10-31,6,2,"#{""jeremylow@gmail.com"" ""JoseAlcerreca@users.noreply.github.com""}",811.0,110
+Python,bear,2016-11-01,6,2,"#{""chaitanyakulkarni0411@gmail.com"" ""bear42@gmail.com""}",817.0,111
+Python,bear,2016-11-02,2,2,"#{""chaitanyakulkarni0411@gmail.com"" ""jeremylow@gmail.com""}",819.0,111
+Python,bear,2016-11-22,1,1,"#{""jeremylow@gmail.com""}",820.0,111
+Python,bear,2016-11-24,11,3,"#{""bear@bear.im"" ""h1994st@gmail.com"" ""bear42@gmail.com""}",831.0,112
+Python,bear,2016-11-26,2,1,"#{""jeremylow@gmail.com""}",833.0,112
+Python,bear,2016-11-28,1,1,"#{""bear42@gmail.com""}",834.0,112
+Python,bear,2016-11-30,3,2,"#{""jeremylow@gmail.com"" ""bear42@gmail.com""}",837.0,112
+Python,bear,2016-12-12,1,1,"#{""jonathan@imatix.com""}",838.0,113
+Python,bear,2017-01-21,2,2,"#{""jeremylow+gh@gmail.com"" ""misha.denil@gmail.com""}",840.0,115
+Python,bear,2017-02-11,1,1,"#{""rik919@gmail.com""}",841.0,116
+Python,bear,2017-02-13,1,1,"#{""jeremylow@gmail.com""}",842.0,116
+Python,bear,2017-02-15,3,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",845.0,116
+Python,bear,2017-02-16,4,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",849.0,116
+Python,bear,2017-02-22,1,1,"#{""markus.magnuson@gmail.com""}",850.0,117
+Python,bear,2017-02-23,1,1,"#{""bear42@gmail.com""}",851.0,117
+Python,bear,2017-02-25,1,1,"#{""pistachiopony@gmail.com""}",852.0,118
+Python,bear,2017-02-27,3,2,"#{""bear42@gmail.com"" ""pistachiopony@gmail.com""}",855.0,118
+Python,bear,2017-02-28,1,1,"#{""jeremylow@gmail.com""}",856.0,118
+Python,bear,2017-03-01,2,2,"#{""jeremylow+gh@gmail.com"" ""jonathan@imatix.com""}",858.0,118
+Python,bear,2017-03-08,2,2,"#{""jonathan@imatix.com"" ""mkdadi@outlook.in""}",860.0,119
+Python,bear,2017-03-09,1,1,"#{""bum3r4ng@gmail.com""}",861.0,120
+Python,bear,2017-03-10,1,1,"#{""jeremylow+gh@gmail.com""}",862.0,120
+Python,bear,2017-03-12,2,1,"#{""mkdadi@outlook.in""}",864.0,120
+Python,bear,2017-03-13,3,2,"#{""bear42@gmail.com"" ""mkdadi@outlook.in""}",867.0,120
+Python,bear,2017-03-29,6,2,"#{""jeremylow+gh@gmail.com"" ""jonathan@imatix.com""}",873.0,120
+Python,bear,2017-04-05,1,1,"#{""A.VanVlack@Gmail.com""}",874.0,121
+Python,bear,2017-04-06,3,1,"#{""jeremylow@gmail.com""}",877.0,121
+Python,bear,2017-04-07,1,1,"#{""jeremylow+gh@gmail.com""}",878.0,121
+Python,bear,2017-04-11,1,1,"#{""jeremylow@gmail.com""}",879.0,121
+Python,bear,2017-04-14,1,1,"#{""elizabethlagesse@gmail.com""}",880.0,122
+Python,bear,2017-04-15,1,1,"#{""jeremylow+gh@gmail.com""}",881.0,122
+Python,bear,2017-04-17,1,1,"#{""pistachiopony@gmail.com""}",882.0,122
+Python,bear,2017-04-20,3,2,"#{""penn5@users.noreply.github.com"" ""jonathan@imatix.com""}",885.0,123
+Python,bear,2017-04-23,1,1,"#{""jakekhku@gmail.com""}",886.0,124
+Python,bear,2017-04-24,1,1,"#{""jakekhku@gmail.com""}",887.0,124
+Python,bear,2017-04-25,5,3,"#{""bear@bear.im"" ""jakehku@gmail.com"" ""bear42@gmail.com""}",892.0,125
+Python,bear,2017-04-28,1,1,"#{""jeremylow+gh@gmail.com""}",893.0,125
+Python,bear,2017-05-02,1,1,"#{""jonathan@imatix.com""}",894.0,125
+Python,bear,2017-05-17,1,1,"#{""jonathan@schultz.la""}",895.0,126
+Python,bear,2017-05-20,5,2,"#{""bear@bear.im"" ""bear42@gmail.com""}",900.0,126
+Python,bear,2017-05-24,1,1,"#{""bear42@gmail.com""}",901.0,126
+Python,bear,2017-05-25,1,1,"#{""joe@macmahon.eu""}",902.0,127
+Python,bear,2017-07-12,2,1,"#{""sdythp@gmail.com""}",904.0,128
+Python,bear,2017-07-27,1,1,"#{""ladiciushm@gmail.com""}",905.0,129
+Python,bear,2017-09-02,3,2,"#{""ganti@users.noreply.github.com"" ""bear42@gmail.com""}",908.0,130
+Python,bear,2017-09-08,1,1,"#{""ezhillang@gmail.com""}",909.0,130
+Python,bear,2017-09-14,2,2,"#{""naylinn.eddie@gmail.com"" ""jeremylow+gh@gmail.com""}",911.0,131
+Python,bear,2017-09-17,1,1,"#{""me@arrdem.com""}",912.0,132
+Python,bear,2017-09-23,5,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",917.0,132
+Python,bear,2017-09-24,2,1,"#{""jeremylow@gmail.com""}",919.0,132
+Python,bear,2017-10-02,2,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",921.0,132
+Python,bear,2017-10-10,1,1,"#{""nxexox@gmail.com""}",922.0,133
+Python,bear,2017-10-26,1,1,"#{""jeremylow+gh@gmail.com""}",923.0,133
+Python,bear,2017-11-11,5,1,"#{""trevor.prater@gmail.com""}",928.0,134
+Python,bear,2017-11-26,3,3,"#{""trevor.prater@gmail.com"" ""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",931.0,134
+Python,bear,2017-12-01,3,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",934.0,134
+Python,bear,2017-12-02,4,1,"#{""jeremylow@gmail.com""}",938.0,134
+Python,bear,2017-12-17,3,1,"#{""jeremylow@gmail.com""}",941.0,134
+Python,bear,2017-12-26,1,1,"#{""nxexox@gmail.com""}",942.0,134
+Python,bear,2017-12-27,1,1,"#{""jeremylow@gmail.com""}",943.0,134
+Python,bear,2018-01-06,1,1,"#{""alexmullen1991@gmail.com""}",944.0,135
+Python,bear,2018-01-22,1,1,"#{""jeremylow+gh@gmail.com""}",945.0,135
+Python,bear,2018-01-23,2,1,"#{""nxexox@gmail.com""}",947.0,135
+Python,bear,2018-02-01,1,1,"#{""nxexox@gmail.com""}",948.0,135
+Python,bear,2018-02-03,2,2,"#{""raj.jain@tapzo.com"" ""topless@gmail.com""}",950.0,137
+Python,bear,2018-02-05,1,1,"#{""nxexox@gmail.com""}",951.0,137
+Python,bear,2018-02-08,1,1,"#{""jeremylow+gh@gmail.com""}",952.0,137
+Python,bear,2018-02-10,3,1,"#{""epiphyte@vertex.link""}",955.0,138
+Python,bear,2018-02-17,8,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",963.0,138
+Python,bear,2018-02-18,5,1,"#{""jeremylow@gmail.com""}",968.0,138
+Python,bear,2018-02-22,1,1,"#{""jeremylow@gmail.com""}",969.0,138
+Python,bear,2018-02-24,4,1,"#{""jeremylow@gmail.com""}",973.0,138
+Python,bear,2018-03-02,1,1,"#{""jeremylow@gmail.com""}",974.0,138
+Python,bear,2018-03-05,1,1,"#{""jeremylow@gmail.com""}",975.0,138
+Python,bear,2018-03-07,1,1,"#{""jeremylow@gmail.com""}",976.0,138
+Python,bear,2018-03-08,1,1,"#{""jeremylow@gmail.com""}",977.0,138
+Python,bear,2018-03-10,3,1,"#{""jeremylow@gmail.com""}",980.0,138
+Python,bear,2018-03-13,2,2,"#{""tm.tomatoes@gmail.com"" ""jeremylow+gh@gmail.com""}",982.0,139
+Python,bear,2018-03-17,2,1,"#{""jeremylow@gmail.com""}",984.0,139
+Python,bear,2018-04-09,2,1,"#{""rikhavmamania@gmail.com""}",986.0,140
+Python,bear,2018-05-08,1,1,"#{""thorsten.schwander@gmail.com""}",987.0,141
+Python,bear,2018-05-18,5,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",992.0,141
+Python,bear,2018-05-23,2,1,"#{""jeremylow@gmail.com""}",994.0,141
+Python,bear,2018-06-07,2,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",996.0,141
+Python,bear,2018-06-08,1,1,"#{""jeremylow+gh@gmail.com""}",997.0,141
+Python,bear,2018-06-09,1,1,"#{""jeremylow@gmail.com""}",998.0,141
+Python,bear,2018-06-19,4,3,"#{""manuel.lamelas@gmail.com"" ""sautier.louis@gmail.com"" ""jeremylow+gh@gmail.com""}",1002.0,143
+Python,bear,2018-07-04,1,1,"#{""tuftedocelot@users.noreply.github.com""}",1003.0,144
+Python,bear,2018-07-05,1,1,"#{""tuftedocelot@users.noreply.github.com""}",1004.0,144
+Python,bear,2018-07-06,1,1,"#{""jeremylow@gmail.com""}",1005.0,144
+Python,bear,2018-07-09,1,1,"#{""jeremylow@gmail.com""}",1006.0,144
+Python,bear,2018-08-16,1,1,"#{""jmingtan@gmail.com""}",1007.0,145
+Python,bear,2018-09-29,4,2,"#{""bear@bear.im"" ""bear42@gmail.com""}",1011.0,145
+Python,bear,2018-09-30,1,1,"#{""jeremylow@gmail.com""}",1012.0,145
+Python,bear,2018-10-13,1,1,"#{""tuftedocelot@users.noreply.github.com""}",1013.0,145
+Python,bear,2018-10-14,3,2,"#{""ansq00@gmail.com"" ""tuftedocelot@users.noreply.github.com""}",1016.0,146
+Python,bear,2018-10-24,1,1,"#{""jeremylow@gmail.com""}",1017.0,146
+Python,bear,2018-11-03,2,1,"#{""jeremylow@gmail.com""}",1019.0,146
+Python,bear,2018-11-09,1,1,"#{""jeremylow+gh@gmail.com""}",1020.0,146
+Python,bear,2018-11-10,1,1,"#{""lydia.ralph@bbc.co.uk""}",1021.0,147
+Python,bear,2018-11-12,1,1,"#{""lydia.ralph@bbc.co.uk""}",1022.0,147
+Python,bear,2018-11-16,1,1,"#{""jeremylow+gh@gmail.com""}",1023.0,147
+Python,bear,2018-12-19,2,2,"#{""jeremylow+gh@gmail.com"" ""45992480+skillyamamoto@users.noreply.github.com""}",1025.0,148
+Python,bear,2018-12-25,1,1,"#{""webtweakers@gmail.com""}",1026.0,149
+Python,bear,2018-12-31,3,2,"#{""jeremylow@gmail.com"" ""jeremylow+gh@gmail.com""}",1029.0,149
+Python,bear,2019-01-03,1,1,"#{""NicholasBuse@users.noreply.github.com""}",1030.0,150
+Python,bear,2019-01-08,1,1,"#{""jeremylow+gh@gmail.com""}",1031.0,150
+Python,bear,2019-02-16,2,2,"#{""leskis@gmail.com"" ""jeremylow+gh@gmail.com""}",1033.0,151
+Python,bear,2019-02-21,1,1,"#{""fitblip@gmail.com""}",1034.0,152
+Python,bear,2019-03-05,1,1,"#{""anthony.munozm@gmail.com""}",1035.0,153
+Python,bear,2019-03-09,2,1,"#{""gboeing@users.noreply.github.com""}",1037.0,154
+Python,bear,2019-03-10,1,1,"#{""jeremylow+gh@gmail.com""}",1038.0,154
+Python,bear,2019-05-02,3,1,"#{""sharkykh@gmail.com""}",1041.0,155
+Python,bear,2019-05-05,1,1,"#{""jeremylow+gh@gmail.com""}",1042.0,155
+Python,bear,2019-06-06,1,1,"#{""jeremylow@gmail.com""}",1043.0,155
+Python,bear,2019-06-13,4,1,"#{""cris@best.com.br""}",1047.0,156
+Python,bear,2019-06-17,1,1,"#{""mykola2001my@gmail.com""}",1048.0,157
+Python,bear,2019-06-24,2,1,"#{""jeremylow@gmail.com""}",1050.0,157
+Python,bear,2019-07-31,1,1,"#{""mark@masterson.io""}",1051.0,158
+Python,bear,2019-10-20,1,1,"#{""53452777+chmreid@users.noreply.github.com""}",1052.0,159
+Python,bear,2019-11-17,2,1,"#{""danielthepope@users.noreply.github.com""}",1054.0,160
+Python,bear,2019-11-18,4,1,"#{""bear@bear.im""}",1058.0,160
+Python,bear,2019-11-24,2,1,"#{""danielthepope@users.noreply.github.com""}",1060.0,160
+Python,bear,2019-12-15,1,1,"#{""jeremylow@gmail.com""}",1061.0,160
+Python,bear,2020-01-14,1,1,"#{""martin.kolman@gmail.com""}",1062.0,161
+Python,bear,2020-02-14,1,1,"#{""19508417+msramalho@users.noreply.github.com""}",1063.0,162
+Python,bear,2020-03-24,1,1,"#{""simon.bohnen@tum.de""}",1064.0,163
+Python,bear,2020-04-11,1,1,"#{""stephencowley44@gmail.com""}",1065.0,164
+Python,bear,2020-04-29,1,1,"#{""robert@huseli.us""}",1066.0,165
+Python,bear,2020-05-12,2,2,"#{""bracciata@gmail.com"" ""bear42@gmail.com""}",1068.0,166
+Python,bear,2020-08-31,1,1,"#{""artoonie@gmail.com""}",1069.0,167
+Python,bear,2020-12-01,1,1,"#{""benny.think@gmail.com""}",1070.0,168
+Python,bear,2020-12-24,1,1,"#{""tim.gates@iress.com""}",1071.0,169
+Python,bear,2020-12-27,2,1,"#{""me@olivercardoza.com""}",1073.0,170
+Python,bear,2021-02-17,3,1,"#{""39149409+derpwanda@users.noreply.github.com""}",1076.0,171
+Python,bear,2021-02-18,1,1,"#{""39149409+derpwanda@users.noreply.github.com""}",1077.0,171
+Python,bear,2021-07-10,5,1,"#{""58211916+yu9824@users.noreply.github.com""}",1082.0,172
+Python,bear,2021-07-17,1,1,"#{""jeremylow@gmail.com""}",1083.0,172
+Python,bear,2021-07-25,1,1,"#{""16400857+analogdash@users.noreply.github.com""}",1084.0,173
+Python,bear,2021-12-19,20,2,"#{""bear@circleci.com"" ""bear42@gmail.com""}",1104.0,174

@@ -1,0 +1,442 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,omcljs,2013-12-02,1,1,"#{""david.nolen@gmail.com""}",1.0,1
+Clojure,omcljs,2013-12-05,2,1,"#{""david.nolen@gmail.com""}",3.0,1
+Clojure,omcljs,2013-12-11,8,1,"#{""david.nolen@gmail.com""}",11.0,1
+Clojure,omcljs,2013-12-12,15,1,"#{""david.nolen@gmail.com""}",26.0,1
+Clojure,omcljs,2013-12-13,33,1,"#{""david.nolen@gmail.com""}",59.0,1
+Clojure,omcljs,2013-12-14,8,1,"#{""david.nolen@gmail.com""}",67.0,1
+Clojure,omcljs,2013-12-15,5,1,"#{""david.nolen@gmail.com""}",72.0,1
+Clojure,omcljs,2013-12-16,15,1,"#{""david.nolen@gmail.com""}",87.0,1
+Clojure,omcljs,2013-12-17,8,1,"#{""david.nolen@gmail.com""}",95.0,1
+Clojure,omcljs,2013-12-18,7,1,"#{""david.nolen@gmail.com""}",102.0,1
+Clojure,omcljs,2013-12-19,2,1,"#{""david.nolen@gmail.com""}",104.0,1
+Clojure,omcljs,2013-12-20,3,1,"#{""david.nolen@gmail.com""}",107.0,1
+Clojure,omcljs,2013-12-21,5,1,"#{""david.nolen@gmail.com""}",112.0,1
+Clojure,omcljs,2013-12-22,7,1,"#{""david.nolen@gmail.com""}",119.0,1
+Clojure,omcljs,2013-12-23,10,1,"#{""david.nolen@gmail.com""}",129.0,1
+Clojure,omcljs,2013-12-26,7,1,"#{""david.nolen@gmail.com""}",136.0,1
+Clojure,omcljs,2013-12-27,11,1,"#{""david.nolen@gmail.com""}",147.0,1
+Clojure,omcljs,2013-12-28,5,1,"#{""david.nolen@gmail.com""}",152.0,1
+Clojure,omcljs,2013-12-29,15,1,"#{""david.nolen@gmail.com""}",167.0,1
+Clojure,omcljs,2013-12-30,8,1,"#{""david.nolen@gmail.com""}",175.0,1
+Clojure,omcljs,2013-12-31,14,1,"#{""david.nolen@gmail.com""}",189.0,1
+Clojure,omcljs,2014-01-01,6,1,"#{""david.nolen@gmail.com""}",195.0,1
+Clojure,omcljs,2014-01-02,9,1,"#{""david.nolen@gmail.com""}",204.0,1
+Clojure,omcljs,2014-01-03,16,1,"#{""david.nolen@gmail.com""}",220.0,1
+Clojure,omcljs,2014-01-04,35,1,"#{""david.nolen@gmail.com""}",255.0,1
+Clojure,omcljs,2014-01-05,17,1,"#{""david.nolen@gmail.com""}",272.0,1
+Clojure,omcljs,2014-01-06,15,1,"#{""david.nolen@gmail.com""}",287.0,1
+Clojure,omcljs,2014-01-07,2,1,"#{""david.nolen@gmail.com""}",289.0,1
+Clojure,omcljs,2014-01-08,6,1,"#{""david.nolen@gmail.com""}",295.0,1
+Clojure,omcljs,2014-01-09,2,1,"#{""david.nolen@gmail.com""}",297.0,1
+Clojure,omcljs,2014-01-10,2,1,"#{""david.nolen@gmail.com""}",299.0,1
+Clojure,omcljs,2014-01-11,1,1,"#{""david.nolen@gmail.com""}",300.0,1
+Clojure,omcljs,2014-01-12,2,1,"#{""david.nolen@gmail.com""}",302.0,1
+Clojure,omcljs,2014-01-13,4,1,"#{""david.nolen@gmail.com""}",306.0,1
+Clojure,omcljs,2014-01-14,3,1,"#{""david.nolen@gmail.com""}",309.0,1
+Clojure,omcljs,2014-01-15,1,1,"#{""david.nolen@gmail.com""}",310.0,1
+Clojure,omcljs,2014-01-17,2,1,"#{""david.nolen@gmail.com""}",312.0,1
+Clojure,omcljs,2014-01-18,4,1,"#{""david.nolen@gmail.com""}",316.0,1
+Clojure,omcljs,2014-01-19,5,1,"#{""david.nolen@gmail.com""}",321.0,1
+Clojure,omcljs,2014-01-20,14,1,"#{""david.nolen@gmail.com""}",335.0,1
+Clojure,omcljs,2014-01-22,1,1,"#{""david.nolen@gmail.com""}",336.0,1
+Clojure,omcljs,2014-01-23,5,1,"#{""david.nolen@gmail.com""}",341.0,1
+Clojure,omcljs,2014-01-24,4,1,"#{""david.nolen@gmail.com""}",345.0,1
+Clojure,omcljs,2014-01-29,3,1,"#{""david.nolen@gmail.com""}",348.0,1
+Clojure,omcljs,2014-01-30,7,1,"#{""david.nolen@gmail.com""}",355.0,1
+Clojure,omcljs,2014-01-31,2,1,"#{""david.nolen@gmail.com""}",357.0,1
+Clojure,omcljs,2014-02-01,1,1,"#{""david.nolen@gmail.com""}",358.0,1
+Clojure,omcljs,2014-02-02,5,1,"#{""david.nolen@gmail.com""}",363.0,1
+Clojure,omcljs,2014-02-03,5,1,"#{""david.nolen@gmail.com""}",368.0,1
+Clojure,omcljs,2014-02-04,2,1,"#{""david.nolen@gmail.com""}",370.0,1
+Clojure,omcljs,2014-02-05,3,1,"#{""david.nolen@gmail.com""}",373.0,1
+Clojure,omcljs,2014-02-06,4,1,"#{""david.nolen@gmail.com""}",377.0,1
+Clojure,omcljs,2014-02-10,1,1,"#{""david.nolen@gmail.com""}",378.0,1
+Clojure,omcljs,2014-02-11,7,1,"#{""david.nolen@gmail.com""}",385.0,1
+Clojure,omcljs,2014-02-12,6,1,"#{""david.nolen@gmail.com""}",391.0,1
+Clojure,omcljs,2014-02-13,2,1,"#{""david.nolen@gmail.com""}",393.0,1
+Clojure,omcljs,2014-02-14,7,1,"#{""david.nolen@gmail.com""}",400.0,1
+Clojure,omcljs,2014-02-15,1,1,"#{""david.nolen@gmail.com""}",401.0,1
+Clojure,omcljs,2014-02-16,5,1,"#{""david.nolen@gmail.com""}",406.0,1
+Clojure,omcljs,2014-02-18,12,1,"#{""david.nolen@gmail.com""}",418.0,1
+Clojure,omcljs,2014-02-19,1,1,"#{""david.nolen@gmail.com""}",419.0,1
+Clojure,omcljs,2014-02-20,1,1,"#{""david.nolen@gmail.com""}",420.0,1
+Clojure,omcljs,2014-02-21,3,1,"#{""david.nolen@gmail.com""}",423.0,1
+Clojure,omcljs,2014-02-22,5,1,"#{""david.nolen@gmail.com""}",428.0,1
+Clojure,omcljs,2014-02-23,1,1,"#{""david.nolen@gmail.com""}",429.0,1
+Clojure,omcljs,2014-02-25,4,1,"#{""david.nolen@gmail.com""}",433.0,1
+Clojure,omcljs,2014-02-27,6,1,"#{""david.nolen@gmail.com""}",439.0,1
+Clojure,omcljs,2014-02-28,3,1,"#{""david.nolen@gmail.com""}",442.0,1
+Clojure,omcljs,2014-03-03,4,1,"#{""david.nolen@gmail.com""}",446.0,1
+Clojure,omcljs,2014-03-04,2,1,"#{""david.nolen@gmail.com""}",448.0,1
+Clojure,omcljs,2014-03-05,1,1,"#{""david.nolen@gmail.com""}",449.0,1
+Clojure,omcljs,2014-03-07,6,1,"#{""david.nolen@gmail.com""}",455.0,1
+Clojure,omcljs,2014-03-08,9,1,"#{""david.nolen@gmail.com""}",464.0,1
+Clojure,omcljs,2014-03-10,4,1,"#{""david.nolen@gmail.com""}",468.0,1
+Clojure,omcljs,2014-03-11,2,1,"#{""david.nolen@gmail.com""}",470.0,1
+Clojure,omcljs,2014-03-12,2,1,"#{""david.nolen@gmail.com""}",472.0,1
+Clojure,omcljs,2014-03-14,5,1,"#{""david.nolen@gmail.com""}",477.0,1
+Clojure,omcljs,2014-03-16,5,1,"#{""david.nolen@gmail.com""}",482.0,1
+Clojure,omcljs,2014-03-20,2,1,"#{""david.nolen@gmail.com""}",484.0,1
+Clojure,omcljs,2014-03-21,1,1,"#{""david.nolen@gmail.com""}",485.0,1
+Clojure,omcljs,2014-03-23,2,1,"#{""david.nolen@gmail.com""}",487.0,1
+Clojure,omcljs,2014-03-27,1,1,"#{""david.nolen@gmail.com""}",488.0,1
+Clojure,omcljs,2014-03-29,1,1,"#{""david.nolen@gmail.com""}",489.0,1
+Clojure,omcljs,2014-03-31,4,1,"#{""david.nolen@gmail.com""}",493.0,1
+Clojure,omcljs,2014-04-01,3,1,"#{""david.nolen@gmail.com""}",496.0,1
+Clojure,omcljs,2014-04-02,2,1,"#{""david.nolen@gmail.com""}",498.0,1
+Clojure,omcljs,2014-04-03,2,1,"#{""david.nolen@gmail.com""}",500.0,1
+Clojure,omcljs,2014-04-16,1,1,"#{""david.nolen@gmail.com""}",501.0,1
+Clojure,omcljs,2014-04-17,1,1,"#{""david.nolen@gmail.com""}",502.0,1
+Clojure,omcljs,2014-04-19,3,1,"#{""david.nolen@gmail.com""}",505.0,1
+Clojure,omcljs,2014-04-24,3,2,"#{""david.nolen@gmail.com"" ""davidnolen@Davids-iMac.local""}",508.0,2
+Clojure,omcljs,2014-04-25,3,1,"#{""davidnolen@Davids-iMac.local""}",511.0,2
+Clojure,omcljs,2014-04-29,1,1,"#{""davidnolen@Davids-iMac.local""}",512.0,2
+Clojure,omcljs,2014-05-08,1,1,"#{""davidnolen@Davids-iMac.local""}",513.0,2
+Clojure,omcljs,2014-05-14,1,1,"#{""davidnolen@Davids-iMac.local""}",514.0,2
+Clojure,omcljs,2014-05-15,2,1,"#{""david.nolen@gmail.com""}",516.0,2
+Clojure,omcljs,2014-05-22,2,1,"#{""davidnolen@Davids-iMac.local""}",518.0,2
+Clojure,omcljs,2014-05-23,2,1,"#{""david.nolen@gmail.com""}",520.0,2
+Clojure,omcljs,2014-05-25,1,1,"#{""david.nolen@gmail.com""}",521.0,2
+Clojure,omcljs,2014-05-27,2,1,"#{""david.nolen@gmail.com""}",523.0,2
+Clojure,omcljs,2014-06-04,2,1,"#{""david.nolen@gmail.com""}",525.0,2
+Clojure,omcljs,2014-06-12,1,1,"#{""david.nolen@gmail.com""}",526.0,2
+Clojure,omcljs,2014-06-30,1,1,"#{""david.nolen@gmail.com""}",527.0,2
+Clojure,omcljs,2014-07-06,1,1,"#{""dnolen@cognitect.com""}",528.0,3
+Clojure,omcljs,2014-07-12,1,1,"#{""david.nolen@gmail.com""}",529.0,3
+Clojure,omcljs,2014-07-22,5,1,"#{""david.nolen@gmail.com""}",534.0,3
+Clojure,omcljs,2014-07-25,1,1,"#{""dnolen@cognitect.com""}",535.0,3
+Clojure,omcljs,2014-08-01,8,1,"#{""dnolen@cognitect.com""}",543.0,3
+Clojure,omcljs,2014-08-02,6,1,"#{""david.nolen@gmail.com""}",549.0,3
+Clojure,omcljs,2014-08-03,2,1,"#{""david.nolen@gmail.com""}",551.0,3
+Clojure,omcljs,2014-08-04,2,1,"#{""dnolen@cognitect.com""}",553.0,3
+Clojure,omcljs,2014-08-07,1,1,"#{""dnolen@cognitect.com""}",554.0,3
+Clojure,omcljs,2014-08-11,1,1,"#{""dnolen@cognitect.com""}",555.0,3
+Clojure,omcljs,2014-08-12,1,1,"#{""dnolen@cognitect.com""}",556.0,3
+Clojure,omcljs,2014-08-18,2,1,"#{""david.nolen@gmail.com""}",558.0,3
+Clojure,omcljs,2014-08-25,1,1,"#{""dnolen@cognitect.com""}",559.0,3
+Clojure,omcljs,2014-09-11,3,1,"#{""dnolen@cognitect.com""}",562.0,3
+Clojure,omcljs,2014-09-12,4,1,"#{""dnolen@cognitect.com""}",566.0,3
+Clojure,omcljs,2014-09-15,1,1,"#{""dnolen@cognitect.com""}",567.0,3
+Clojure,omcljs,2014-10-02,3,1,"#{""dnolen@cognitect.com""}",570.0,3
+Clojure,omcljs,2014-10-03,6,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",576.0,3
+Clojure,omcljs,2014-10-04,5,1,"#{""david.nolen@gmail.com""}",581.0,3
+Clojure,omcljs,2014-10-05,2,1,"#{""david.nolen@gmail.com""}",583.0,3
+Clojure,omcljs,2014-10-06,1,1,"#{""dnolen@cognitect.com""}",584.0,3
+Clojure,omcljs,2014-10-07,5,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",589.0,3
+Clojure,omcljs,2014-10-09,2,1,"#{""dnolen@cognitect.com""}",591.0,3
+Clojure,omcljs,2014-10-13,8,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",599.0,3
+Clojure,omcljs,2014-10-16,2,1,"#{""dnolen@cognitect.com""}",601.0,3
+Clojure,omcljs,2014-10-17,3,1,"#{""dnolen@cognitect.com""}",604.0,3
+Clojure,omcljs,2014-10-18,9,1,"#{""david.nolen@gmail.com""}",613.0,3
+Clojure,omcljs,2014-10-22,1,1,"#{""david.nolen@gmail.com""}",614.0,3
+Clojure,omcljs,2014-11-05,2,1,"#{""david.nolen@gmail.com""}",616.0,3
+Clojure,omcljs,2014-11-07,5,1,"#{""david.nolen@gmail.com""}",621.0,3
+Clojure,omcljs,2014-11-09,8,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",629.0,3
+Clojure,omcljs,2014-11-26,1,1,"#{""dnolen@cognitect.com""}",630.0,3
+Clojure,omcljs,2014-11-30,12,2,"#{""david.nolen@gmail.com"" ""pawlicka.anna@gmail.com""}",642.0,4
+Clojure,omcljs,2014-12-01,4,3,"#{""david.nolen@gmail.com"" ""anna@mastodonc.com"" ""pawlicka.anna@gmail.com""}",646.0,5
+Clojure,omcljs,2014-12-03,1,1,"#{""david.nolen@gmail.com""}",647.0,5
+Clojure,omcljs,2014-12-04,6,2,"#{""whodidthis@users.noreply.github.com"" ""tonihe@gmail.com""}",653.0,7
+Clojure,omcljs,2014-12-05,15,4,"#{""theinternet@yandex.com"" ""anna@mastodonc.com"" ""dnolen@cognitect.com"" ""pawlicka.anna@gmail.com""}",668.0,8
+Clojure,omcljs,2014-12-06,10,4,"#{""theinternet@yandex.com"" ""g3rm0ney@gmail.com"" ""david.nolen@gmail.com"" ""pawlicka.anna@gmail.com""}",678.0,9
+Clojure,omcljs,2014-12-07,1,1,"#{""theinternet@yandex.com""}",679.0,9
+Clojure,omcljs,2014-12-08,5,2,"#{""dnolen@cognitect.com"" ""pawlicka.anna@gmail.com""}",684.0,9
+Clojure,omcljs,2014-12-09,7,2,"#{""theinternet@yandex.com"" ""david.nolen@gmail.com""}",691.0,9
+Clojure,omcljs,2014-12-10,2,2,"#{""theinternet@yandex.com"" ""pawlicka.anna@gmail.com""}",693.0,9
+Clojure,omcljs,2014-12-18,3,3,"#{""dnolen@cognitect.com"" ""pjagielski@o2.pl"" ""pawlicka.anna@gmail.com""}",696.0,10
+Clojure,omcljs,2014-12-20,12,3,"#{""david.nolen@gmail.com"" ""pjagielski@o2.pl"" ""pawlicka.anna@gmail.com""}",708.0,10
+Clojure,omcljs,2014-12-21,2,1,"#{""david.nolen@gmail.com""}",710.0,10
+Clojure,omcljs,2014-12-28,2,2,"#{""dnolen@cognitect.com"" ""tonihe@gmail.com""}",712.0,10
+Clojure,omcljs,2014-12-29,1,1,"#{""pawlicka.anna@gmail.com""}",713.0,10
+Clojure,omcljs,2014-12-30,3,1,"#{""alan@nodename.com""}",716.0,11
+Clojure,omcljs,2014-12-31,9,2,"#{""david.nolen@gmail.com"" ""pawlicka.anna@gmail.com""}",725.0,11
+Clojure,omcljs,2015-01-02,1,1,"#{""dnolen@cognitect.com""}",726.0,11
+Clojure,omcljs,2015-01-09,4,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",730.0,11
+Clojure,omcljs,2015-01-10,1,1,"#{""david.nolen@gmail.com""}",731.0,11
+Clojure,omcljs,2015-01-11,2,1,"#{""david.nolen@gmail.com""}",733.0,11
+Clojure,omcljs,2015-01-16,1,1,"#{""david.nolen@gmail.com""}",734.0,11
+Clojure,omcljs,2015-01-21,2,1,"#{""david.nolen@gmail.com""}",736.0,11
+Clojure,omcljs,2015-01-23,2,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",738.0,11
+Clojure,omcljs,2015-01-24,6,1,"#{""david.nolen@gmail.com""}",744.0,11
+Clojure,omcljs,2015-01-26,7,2,"#{""priyatam@gmail.com"" ""david.nolen@gmail.com""}",751.0,12
+Clojure,omcljs,2015-01-27,3,1,"#{""david.nolen@gmail.com""}",754.0,12
+Clojure,omcljs,2015-02-01,2,1,"#{""david.nolen@gmail.com""}",756.0,12
+Clojure,omcljs,2015-02-02,3,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",759.0,12
+Clojure,omcljs,2015-02-03,4,3,"#{""priyatam@gmail.com"" ""dnolen@cognitect.com"" ""pawlicka.anna@gmail.com""}",763.0,12
+Clojure,omcljs,2015-02-04,2,2,"#{""terhechte@gmail.com"" ""pawlicka.anna@gmail.com""}",765.0,13
+Clojure,omcljs,2015-02-18,2,2,"#{""andreas.liljeqvist@robacks.se"" ""pawlicka.anna@gmail.com""}",767.0,14
+Clojure,omcljs,2015-03-04,2,2,"#{""logan.linn@gmail.com"" ""david.nolen@gmail.com""}",769.0,15
+Clojure,omcljs,2015-03-14,2,2,"#{""je@casalogic.dk"" ""pawlicka.anna@gmail.com""}",771.0,16
+Clojure,omcljs,2015-03-22,2,2,"#{""matti@mjhanninen.com"" ""pawlicka.anna@gmail.com""}",773.0,17
+Clojure,omcljs,2015-03-24,1,1,"#{""alessandro.d@gmail.com""}",774.0,18
+Clojure,omcljs,2015-04-02,1,1,"#{""david.nolen@gmail.com""}",775.0,18
+Clojure,omcljs,2015-04-10,3,1,"#{""dnolen@cognitect.com""}",778.0,18
+Clojure,omcljs,2015-04-12,9,1,"#{""david.nolen@gmail.com""}",787.0,18
+Clojure,omcljs,2015-04-13,5,1,"#{""david.nolen@gmail.com""}",792.0,18
+Clojure,omcljs,2015-04-14,4,1,"#{""dnolen@cognitect.com""}",796.0,18
+Clojure,omcljs,2015-04-20,1,1,"#{""david.nolen@gmail.com""}",797.0,18
+Clojure,omcljs,2015-04-30,2,1,"#{""david.nolen@gmail.com""}",799.0,18
+Clojure,omcljs,2015-05-09,3,1,"#{""david.nolen@gmail.com""}",802.0,18
+Clojure,omcljs,2015-05-13,4,1,"#{""dnolen@cognitect.com""}",806.0,18
+Clojure,omcljs,2015-05-21,1,1,"#{""david.nolen@gmail.com""}",807.0,18
+Clojure,omcljs,2015-05-22,3,2,"#{""dnolen@cognitect.com"" ""sbensu@gmail.com""}",810.0,19
+Clojure,omcljs,2015-05-23,13,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",823.0,19
+Clojure,omcljs,2015-05-24,3,1,"#{""david.nolen@gmail.com""}",826.0,19
+Clojure,omcljs,2015-05-25,4,1,"#{""david.nolen@gmail.com""}",830.0,19
+Clojure,omcljs,2015-05-26,18,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",848.0,19
+Clojure,omcljs,2015-05-27,15,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",863.0,19
+Clojure,omcljs,2015-05-28,5,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",868.0,19
+Clojure,omcljs,2015-05-29,9,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",877.0,19
+Clojure,omcljs,2015-06-01,16,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",893.0,19
+Clojure,omcljs,2015-06-03,2,1,"#{""dnolen@cognitect.com""}",895.0,19
+Clojure,omcljs,2015-06-05,1,1,"#{""dnolen@cognitect.com""}",896.0,19
+Clojure,omcljs,2015-06-06,5,1,"#{""david.nolen@gmail.com""}",901.0,19
+Clojure,omcljs,2015-07-03,7,1,"#{""dnolen@cognitect.com""}",908.0,19
+Clojure,omcljs,2015-07-04,2,1,"#{""david.nolen@gmail.com""}",910.0,19
+Clojure,omcljs,2015-07-05,3,1,"#{""david.nolen@gmail.com""}",913.0,19
+Clojure,omcljs,2015-07-13,2,2,"#{""juho.teperi@iki.fi"" ""pawlicka.anna@gmail.com""}",915.0,20
+Clojure,omcljs,2015-08-05,3,1,"#{""dnolen@cognitect.com""}",918.0,20
+Clojure,omcljs,2015-08-11,1,1,"#{""dnolen@cognitect.com""}",919.0,20
+Clojure,omcljs,2015-08-24,2,2,"#{""_@sebastien-fievet.fr"" ""pawlicka.anna@gmail.com""}",921.0,21
+Clojure,omcljs,2015-08-28,2,2,"#{""wbabic@mac.com"" ""pawlicka.anna@gmail.com""}",923.0,22
+Clojure,omcljs,2015-08-29,6,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",929.0,22
+Clojure,omcljs,2015-09-01,4,1,"#{""dnolen@cognitect.com""}",933.0,22
+Clojure,omcljs,2015-09-12,6,1,"#{""dnolen@cognitect.com""}",939.0,22
+Clojure,omcljs,2015-09-13,14,1,"#{""david.nolen@gmail.com""}",953.0,22
+Clojure,omcljs,2015-09-14,10,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",963.0,22
+Clojure,omcljs,2015-09-15,3,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",966.0,22
+Clojure,omcljs,2015-09-16,12,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",978.0,22
+Clojure,omcljs,2015-09-17,14,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",992.0,22
+Clojure,omcljs,2015-09-18,9,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1001.0,22
+Clojure,omcljs,2015-09-19,14,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1015.0,22
+Clojure,omcljs,2015-09-20,26,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1041.0,22
+Clojure,omcljs,2015-09-21,11,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1052.0,22
+Clojure,omcljs,2015-09-22,17,1,"#{""david.nolen@gmail.com""}",1069.0,22
+Clojure,omcljs,2015-09-23,12,1,"#{""david.nolen@gmail.com""}",1081.0,22
+Clojure,omcljs,2015-09-24,4,1,"#{""david.nolen@gmail.com""}",1085.0,22
+Clojure,omcljs,2015-09-25,1,1,"#{""david.nolen@gmail.com""}",1086.0,22
+Clojure,omcljs,2015-09-27,12,1,"#{""david.nolen@gmail.com""}",1098.0,22
+Clojure,omcljs,2015-09-28,25,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1123.0,22
+Clojure,omcljs,2015-09-29,1,1,"#{""david.nolen@gmail.com""}",1124.0,22
+Clojure,omcljs,2015-09-30,3,1,"#{""david.nolen@gmail.com""}",1127.0,22
+Clojure,omcljs,2015-10-01,1,1,"#{""david.nolen@gmail.com""}",1128.0,22
+Clojure,omcljs,2015-10-02,7,1,"#{""david.nolen@gmail.com""}",1135.0,22
+Clojure,omcljs,2015-10-03,1,1,"#{""david.nolen@gmail.com""}",1136.0,22
+Clojure,omcljs,2015-10-04,9,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1145.0,22
+Clojure,omcljs,2015-10-05,7,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1152.0,22
+Clojure,omcljs,2015-10-06,16,1,"#{""dnolen@cognitect.com""}",1168.0,22
+Clojure,omcljs,2015-10-07,1,1,"#{""david.nolen@gmail.com""}",1169.0,22
+Clojure,omcljs,2015-10-08,6,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1175.0,22
+Clojure,omcljs,2015-10-09,1,1,"#{""dnolen@cognitect.com""}",1176.0,22
+Clojure,omcljs,2015-10-10,17,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1193.0,22
+Clojure,omcljs,2015-10-11,2,1,"#{""david.nolen@gmail.com""}",1195.0,22
+Clojure,omcljs,2015-10-12,11,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1206.0,22
+Clojure,omcljs,2015-10-13,11,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1217.0,22
+Clojure,omcljs,2015-10-14,17,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1234.0,22
+Clojure,omcljs,2015-10-15,18,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1252.0,22
+Clojure,omcljs,2015-10-16,4,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1256.0,22
+Clojure,omcljs,2015-10-19,5,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1261.0,22
+Clojure,omcljs,2015-10-21,1,1,"#{""dnolen@cognitect.com""}",1262.0,22
+Clojure,omcljs,2015-10-22,7,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1269.0,22
+Clojure,omcljs,2015-10-23,18,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1287.0,22
+Clojure,omcljs,2015-10-24,9,1,"#{""david.nolen@gmail.com""}",1296.0,22
+Clojure,omcljs,2015-10-25,5,1,"#{""david.nolen@gmail.com""}",1301.0,22
+Clojure,omcljs,2015-10-26,8,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1309.0,22
+Clojure,omcljs,2015-10-27,1,1,"#{""david.nolen@gmail.com""}",1310.0,22
+Clojure,omcljs,2015-10-28,5,1,"#{""david.nolen@gmail.com""}",1315.0,22
+Clojure,omcljs,2015-10-29,5,1,"#{""david.nolen@gmail.com""}",1320.0,22
+Clojure,omcljs,2015-10-30,6,1,"#{""david.nolen@gmail.com""}",1326.0,22
+Clojure,omcljs,2015-10-31,3,1,"#{""david.nolen@gmail.com""}",1329.0,22
+Clojure,omcljs,2015-11-01,1,1,"#{""david.nolen@gmail.com""}",1330.0,22
+Clojure,omcljs,2015-11-04,14,1,"#{""dnolen@cognitect.com""}",1344.0,22
+Clojure,omcljs,2015-11-05,5,3,"#{""stephenway@users.noreply.github.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1349.0,23
+Clojure,omcljs,2015-11-06,21,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1370.0,23
+Clojure,omcljs,2015-11-07,7,1,"#{""david.nolen@gmail.com""}",1377.0,23
+Clojure,omcljs,2015-11-08,8,1,"#{""david.nolen@gmail.com""}",1385.0,23
+Clojure,omcljs,2015-11-09,24,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1409.0,23
+Clojure,omcljs,2015-11-10,15,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1424.0,23
+Clojure,omcljs,2015-11-11,21,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1445.0,23
+Clojure,omcljs,2015-11-12,8,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1453.0,23
+Clojure,omcljs,2015-11-13,15,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1468.0,23
+Clojure,omcljs,2015-11-17,1,1,"#{""david.nolen@gmail.com""}",1469.0,23
+Clojure,omcljs,2015-11-19,5,1,"#{""david.nolen@gmail.com""}",1474.0,23
+Clojure,omcljs,2015-11-20,19,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1493.0,23
+Clojure,omcljs,2015-11-21,14,1,"#{""david.nolen@gmail.com""}",1507.0,23
+Clojure,omcljs,2015-11-22,5,1,"#{""david.nolen@gmail.com""}",1512.0,23
+Clojure,omcljs,2015-11-23,3,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1515.0,23
+Clojure,omcljs,2015-11-24,6,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1521.0,23
+Clojure,omcljs,2015-11-25,18,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1539.0,23
+Clojure,omcljs,2015-11-26,1,1,"#{""david.nolen@gmail.com""}",1540.0,23
+Clojure,omcljs,2015-11-27,4,1,"#{""david.nolen@gmail.com""}",1544.0,23
+Clojure,omcljs,2015-11-28,1,1,"#{""david.nolen@gmail.com""}",1545.0,23
+Clojure,omcljs,2015-11-30,4,2,"#{""david.nolen@gmail.com"" ""twkay@thenavisway.com""}",1549.0,24
+Clojure,omcljs,2015-12-01,6,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1555.0,24
+Clojure,omcljs,2015-12-02,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1557.0,25
+Clojure,omcljs,2015-12-04,18,4,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""twkay@thenavisway.com"" ""dnolen@cognitect.com""}",1575.0,25
+Clojure,omcljs,2015-12-06,9,1,"#{""david.nolen@gmail.com""}",1584.0,25
+Clojure,omcljs,2015-12-07,6,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1590.0,25
+Clojure,omcljs,2015-12-08,9,4,"#{""jannis@xfce.org"" ""david.nolen@gmail.com"" ""twkay@thenavisway.com"" ""dnolen@cognitect.com""}",1599.0,26
+Clojure,omcljs,2015-12-09,10,3,"#{""david.nolen@gmail.com"" ""twkay@thenavisway.com"" ""dnolen@cognitect.com""}",1609.0,26
+Clojure,omcljs,2015-12-10,4,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1613.0,26
+Clojure,omcljs,2015-12-11,13,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1626.0,26
+Clojure,omcljs,2015-12-12,1,1,"#{""david.nolen@gmail.com""}",1627.0,26
+Clojure,omcljs,2015-12-14,3,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1630.0,26
+Clojure,omcljs,2015-12-16,2,1,"#{""dnolen@cognitect.com""}",1632.0,26
+Clojure,omcljs,2015-12-17,1,1,"#{""twkay@thenavisway.com""}",1633.0,26
+Clojure,omcljs,2015-12-20,1,1,"#{""david.nolen@gmail.com""}",1634.0,26
+Clojure,omcljs,2015-12-21,10,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1644.0,26
+Clojure,omcljs,2015-12-22,3,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1647.0,26
+Clojure,omcljs,2015-12-26,1,1,"#{""anmonteiro@gmail.com""}",1648.0,26
+Clojure,omcljs,2015-12-29,11,2,"#{""david.nolen@gmail.com"" ""twkay@thenavisway.com""}",1659.0,26
+Clojure,omcljs,2015-12-31,1,1,"#{""david.nolen@gmail.com""}",1660.0,26
+Clojure,omcljs,2016-01-02,3,2,"#{""tony@teamunify.com"" ""david.nolen@gmail.com""}",1663.0,27
+Clojure,omcljs,2016-01-03,1,1,"#{""anmonteiro@gmail.com""}",1664.0,27
+Clojure,omcljs,2016-01-04,3,1,"#{""david.nolen@gmail.com""}",1667.0,27
+Clojure,omcljs,2016-01-05,2,1,"#{""anmonteiro@gmail.com""}",1669.0,27
+Clojure,omcljs,2016-01-07,1,1,"#{""david.nolen@gmail.com""}",1670.0,27
+Clojure,omcljs,2016-01-08,7,1,"#{""dnolen@cognitect.com""}",1677.0,27
+Clojure,omcljs,2016-01-11,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1679.0,27
+Clojure,omcljs,2016-01-12,1,1,"#{""dnolen@cognitect.com""}",1680.0,27
+Clojure,omcljs,2016-01-13,6,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1686.0,27
+Clojure,omcljs,2016-01-18,1,1,"#{""david.nolen@gmail.com""}",1687.0,27
+Clojure,omcljs,2016-01-19,2,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1689.0,27
+Clojure,omcljs,2016-01-20,6,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1695.0,27
+Clojure,omcljs,2016-01-21,3,1,"#{""david.nolen@gmail.com""}",1698.0,27
+Clojure,omcljs,2016-01-22,10,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1708.0,27
+Clojure,omcljs,2016-01-23,2,1,"#{""anmonteiro@gmail.com""}",1710.0,27
+Clojure,omcljs,2016-01-24,3,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1713.0,27
+Clojure,omcljs,2016-01-25,1,1,"#{""david.nolen@gmail.com""}",1714.0,27
+Clojure,omcljs,2016-01-26,2,2,"#{""anmonteiro@gmail.com"" ""twkay@thenavisway.com""}",1716.0,27
+Clojure,omcljs,2016-01-27,6,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1722.0,27
+Clojure,omcljs,2016-01-28,1,1,"#{""anmonteiro@gmail.com""}",1723.0,27
+Clojure,omcljs,2016-01-29,1,1,"#{""anmonteiro@gmail.com""}",1724.0,27
+Clojure,omcljs,2016-01-30,2,1,"#{""david.nolen@gmail.com""}",1726.0,27
+Clojure,omcljs,2016-02-02,1,1,"#{""logan@loganlinn.com""}",1727.0,28
+Clojure,omcljs,2016-02-03,1,1,"#{""anmonteiro@gmail.com""}",1728.0,28
+Clojure,omcljs,2016-02-04,5,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1733.0,28
+Clojure,omcljs,2016-02-05,6,1,"#{""dnolen@cognitect.com""}",1739.0,28
+Clojure,omcljs,2016-02-10,1,1,"#{""twkay@thenavisway.com""}",1740.0,28
+Clojure,omcljs,2016-02-11,1,1,"#{""david.nolen@gmail.com""}",1741.0,28
+Clojure,omcljs,2016-02-12,2,2,"#{""bostonou@gmail.com"" ""anmonteiro@gmail.com""}",1743.0,29
+Clojure,omcljs,2016-02-14,1,1,"#{""anmonteiro@gmail.com""}",1744.0,29
+Clojure,omcljs,2016-02-15,3,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1747.0,29
+Clojure,omcljs,2016-02-17,7,4,"#{""anmonteiro@gmail.com"" ""longster@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1754.0,30
+Clojure,omcljs,2016-02-18,3,3,"#{""anmonteiro@gmail.com"" ""longster@gmail.com"" ""david.nolen@gmail.com""}",1757.0,30
+Clojure,omcljs,2016-02-19,5,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1762.0,30
+Clojure,omcljs,2016-02-25,2,1,"#{""anmonteiro@gmail.com""}",1764.0,30
+Clojure,omcljs,2016-02-26,2,2,"#{""david.nolen@gmail.com"" ""tony.kay@gmail.com""}",1766.0,31
+Clojure,omcljs,2016-02-27,1,1,"#{""anmonteiro@gmail.com""}",1767.0,31
+Clojure,omcljs,2016-02-29,4,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1771.0,31
+Clojure,omcljs,2016-03-01,2,2,"#{""anmonteiro@gmail.com"" ""longster@gmail.com""}",1773.0,31
+Clojure,omcljs,2016-03-02,1,1,"#{""anmonteiro@gmail.com""}",1774.0,31
+Clojure,omcljs,2016-03-06,3,1,"#{""david.nolen@gmail.com""}",1777.0,31
+Clojure,omcljs,2016-03-09,3,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1780.0,31
+Clojure,omcljs,2016-03-10,2,1,"#{""anmonteiro@gmail.com""}",1782.0,31
+Clojure,omcljs,2016-03-11,1,1,"#{""david.nolen@gmail.com""}",1783.0,31
+Clojure,omcljs,2016-03-14,2,1,"#{""david.nolen@gmail.com""}",1785.0,31
+Clojure,omcljs,2016-03-15,1,1,"#{""dnolen@cognitect.com""}",1786.0,31
+Clojure,omcljs,2016-03-16,1,1,"#{""anmonteiro@gmail.com""}",1787.0,31
+Clojure,omcljs,2016-03-17,1,1,"#{""anmonteiro@gmail.com""}",1788.0,31
+Clojure,omcljs,2016-03-18,7,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1795.0,31
+Clojure,omcljs,2016-03-19,1,1,"#{""anmonteiro@gmail.com""}",1796.0,31
+Clojure,omcljs,2016-03-21,1,1,"#{""david.nolen@gmail.com""}",1797.0,31
+Clojure,omcljs,2016-03-23,1,1,"#{""anmonteiro@gmail.com""}",1798.0,31
+Clojure,omcljs,2016-03-26,2,1,"#{""david.nolen@gmail.com""}",1800.0,31
+Clojure,omcljs,2016-03-28,2,1,"#{""dnolen@cognitect.com""}",1802.0,31
+Clojure,omcljs,2016-03-30,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1804.0,31
+Clojure,omcljs,2016-04-20,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1806.0,31
+Clojure,omcljs,2016-04-23,3,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1809.0,31
+Clojure,omcljs,2016-04-25,1,1,"#{""david.nolen@gmail.com""}",1810.0,31
+Clojure,omcljs,2016-05-02,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1812.0,31
+Clojure,omcljs,2016-05-04,1,1,"#{""anmonteiro@gmail.com""}",1813.0,31
+Clojure,omcljs,2016-05-12,1,1,"#{""anmonteiro@gmail.com""}",1814.0,31
+Clojure,omcljs,2016-05-16,7,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1821.0,31
+Clojure,omcljs,2016-05-18,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1823.0,31
+Clojure,omcljs,2016-05-21,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1825.0,31
+Clojure,omcljs,2016-05-24,2,1,"#{""dnolen@cognitect.com""}",1827.0,31
+Clojure,omcljs,2016-05-27,1,1,"#{""cmcfarlen@apple.com""}",1828.0,32
+Clojure,omcljs,2016-06-02,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1830.0,32
+Clojure,omcljs,2016-06-10,1,1,"#{""anmonteiro@gmail.com""}",1831.0,32
+Clojure,omcljs,2016-06-15,3,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1834.0,32
+Clojure,omcljs,2016-06-20,2,1,"#{""dnolen@cognitect.com""}",1836.0,32
+Clojure,omcljs,2016-06-27,3,3,"#{""david.nolen@gmail.com"" ""EDGracer@thenavisway.com"" ""wilkerlucio@gmail.com""}",1839.0,34
+Clojure,omcljs,2016-06-30,1,1,"#{""anmonteiro@gmail.com""}",1840.0,34
+Clojure,omcljs,2016-07-07,5,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1845.0,34
+Clojure,omcljs,2016-07-08,2,1,"#{""anmonteiro@gmail.com""}",1847.0,34
+Clojure,omcljs,2016-07-09,10,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1857.0,34
+Clojure,omcljs,2016-07-11,4,1,"#{""david.nolen@gmail.com""}",1861.0,34
+Clojure,omcljs,2016-07-13,3,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1864.0,34
+Clojure,omcljs,2016-07-14,1,1,"#{""dnolen@cognitect.com""}",1865.0,34
+Clojure,omcljs,2016-07-15,1,1,"#{""anmonteiro@gmail.com""}",1866.0,34
+Clojure,omcljs,2016-07-22,1,1,"#{""anmonteiro@gmail.com""}",1867.0,34
+Clojure,omcljs,2016-07-24,3,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1870.0,34
+Clojure,omcljs,2016-07-26,2,1,"#{""anmonteiro@gmail.com""}",1872.0,34
+Clojure,omcljs,2016-07-29,5,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1877.0,34
+Clojure,omcljs,2016-08-01,1,1,"#{""anmonteiro@gmail.com""}",1878.0,34
+Clojure,omcljs,2016-08-03,1,1,"#{""anmonteiro@gmail.com""}",1879.0,34
+Clojure,omcljs,2016-08-04,2,1,"#{""anmonteiro@gmail.com""}",1881.0,34
+Clojure,omcljs,2016-08-18,4,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1885.0,34
+Clojure,omcljs,2016-08-21,1,1,"#{""anmonteiro@gmail.com""}",1886.0,34
+Clojure,omcljs,2016-08-23,1,1,"#{""anmonteiro@gmail.com""}",1887.0,34
+Clojure,omcljs,2016-09-01,7,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1894.0,34
+Clojure,omcljs,2016-09-02,5,2,"#{""anmonteiro@gmail.com"" ""dnolen@cognitect.com""}",1899.0,34
+Clojure,omcljs,2016-09-03,1,1,"#{""anmonteiro@gmail.com""}",1900.0,34
+Clojure,omcljs,2016-09-04,2,1,"#{""anmonteiro@gmail.com""}",1902.0,34
+Clojure,omcljs,2016-09-06,15,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1917.0,34
+Clojure,omcljs,2016-09-13,2,2,"#{""anmonteiro@gmail.com"" ""dnolen@cognitect.com""}",1919.0,34
+Clojure,omcljs,2016-09-14,5,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1924.0,34
+Clojure,omcljs,2016-09-15,2,1,"#{""anmonteiro@gmail.com""}",1926.0,34
+Clojure,omcljs,2016-09-18,2,1,"#{""anmonteiro@gmail.com""}",1928.0,34
+Clojure,omcljs,2016-09-19,6,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1934.0,34
+Clojure,omcljs,2016-09-20,1,1,"#{""anmonteiro@gmail.com""}",1935.0,34
+Clojure,omcljs,2016-09-21,1,1,"#{""david.nolen@gmail.com""}",1936.0,34
+Clojure,omcljs,2016-09-24,1,1,"#{""anmonteiro@gmail.com""}",1937.0,34
+Clojure,omcljs,2016-09-25,1,1,"#{""anmonteiro@gmail.com""}",1938.0,34
+Clojure,omcljs,2016-09-26,6,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",1944.0,34
+Clojure,omcljs,2016-09-27,2,2,"#{""anmonteiro@gmail.com"" ""levi@byimplication.com""}",1946.0,35
+Clojure,omcljs,2016-10-02,1,1,"#{""anmonteiro@gmail.com""}",1947.0,35
+Clojure,omcljs,2016-10-05,1,1,"#{""anmonteiro@gmail.com""}",1948.0,35
+Clojure,omcljs,2016-10-11,4,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1952.0,35
+Clojure,omcljs,2016-10-12,2,1,"#{""david.nolen@gmail.com""}",1954.0,35
+Clojure,omcljs,2016-10-18,1,1,"#{""dnolen@cognitect.com""}",1955.0,35
+Clojure,omcljs,2016-10-19,3,1,"#{""dnolen@cognitect.com""}",1958.0,35
+Clojure,omcljs,2016-10-20,1,1,"#{""david.nolen@gmail.com""}",1959.0,35
+Clojure,omcljs,2016-10-23,3,1,"#{""anmonteiro@gmail.com""}",1962.0,35
+Clojure,omcljs,2016-11-10,1,1,"#{""anmonteiro@gmail.com""}",1963.0,35
+Clojure,omcljs,2016-11-14,3,1,"#{""david.nolen@gmail.com""}",1966.0,35
+Clojure,omcljs,2016-11-15,1,1,"#{""david.nolen@gmail.com""}",1967.0,35
+Clojure,omcljs,2016-12-05,5,1,"#{""dnolen@cognitect.com""}",1972.0,35
+Clojure,omcljs,2016-12-06,7,1,"#{""dnolen@cognitect.com""}",1979.0,35
+Clojure,omcljs,2017-02-02,2,1,"#{""anmonteiro@gmail.com""}",1981.0,35
+Clojure,omcljs,2017-02-03,1,1,"#{""anmonteiro@gmail.com""}",1982.0,35
+Clojure,omcljs,2017-02-05,3,1,"#{""anmonteiro@gmail.com""}",1985.0,35
+Clojure,omcljs,2017-02-06,4,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1989.0,35
+Clojure,omcljs,2017-02-08,2,2,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com""}",1991.0,35
+Clojure,omcljs,2017-02-17,3,1,"#{""david.nolen@gmail.com""}",1994.0,35
+Clojure,omcljs,2017-02-20,1,1,"#{""ipetterik@gmail.com""}",1995.0,36
+Clojure,omcljs,2017-02-24,5,2,"#{""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",2000.0,36
+Clojure,omcljs,2017-03-01,1,1,"#{""matthavener@gmail.com""}",2001.0,37
+Clojure,omcljs,2017-03-23,2,1,"#{""brian.noguchi@gmail.com""}",2003.0,38
+Clojure,omcljs,2017-04-05,1,1,"#{""brian.noguchi@gmail.com""}",2004.0,38
+Clojure,omcljs,2017-04-20,1,1,"#{""alexanderkiel@gmx.net""}",2005.0,39
+Clojure,omcljs,2017-05-25,1,1,"#{""tony.kay@gmail.com""}",2006.0,39
+Clojure,omcljs,2017-05-26,7,3,"#{""anmonteiro@gmail.com"" ""david.nolen@gmail.com"" ""dnolen@cognitect.com""}",2013.0,39
+Clojure,omcljs,2017-06-07,3,1,"#{""david.nolen@gmail.com""}",2016.0,39
+Clojure,omcljs,2017-06-13,2,1,"#{""david.nolen@gmail.com""}",2018.0,39
+Clojure,omcljs,2017-06-14,2,1,"#{""david.nolen@gmail.com""}",2020.0,39
+Clojure,omcljs,2017-06-29,1,1,"#{""anmonteiro@gmail.com""}",2021.0,39
+Clojure,omcljs,2017-07-30,1,1,"#{""wilkerlucio@gmail.com""}",2022.0,39
+Clojure,omcljs,2017-08-10,1,1,"#{""david.nolen@gmail.com""}",2023.0,39
+Clojure,omcljs,2017-08-11,2,1,"#{""david.nolen@gmail.com""}",2025.0,39
+Clojure,omcljs,2017-09-03,1,1,"#{""wilkerlucio@gmail.com""}",2026.0,39
+Clojure,omcljs,2017-09-28,2,1,"#{""anmonteiro@gmail.com""}",2028.0,39
+Clojure,omcljs,2017-09-29,1,1,"#{""anmonteiro@gmail.com""}",2029.0,39
+Clojure,omcljs,2017-10-13,3,1,"#{""david.nolen@gmail.com""}",2032.0,39
+Clojure,omcljs,2017-11-09,1,1,"#{""anmonteiro@gmail.com""}",2033.0,39
+Clojure,omcljs,2018-01-31,1,1,"#{""david.nolen@gmail.com""}",2034.0,39
+Clojure,omcljs,2018-03-02,3,1,"#{""dnolen@cognitect.com""}",2037.0,39
+Clojure,omcljs,2018-03-27,1,1,"#{""dnolen@cognitect.com""}",2038.0,39
+Clojure,omcljs,2018-03-28,2,1,"#{""dnolen@cognitect.com""}",2040.0,39
+Clojure,omcljs,2018-06-01,2,1,"#{""dnolen@cognitect.com""}",2042.0,39
+Clojure,omcljs,2020-04-10,2,1,"#{""dnolen@cognitect.com""}",2044.0,39

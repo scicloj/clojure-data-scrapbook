@@ -1,0 +1,103 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/thobbs/genartlib,2016-03-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tylerhobbs@apache.org, tylerhobbs@apache.org]",2.0,[{2 2}],0,0,0,2,0,0
+Clojure,https://github.com/thobbs/genartlib,2016-06-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tylerhobbs@apache.org, tylerhobbs@apache.org, tylerhobbs@apache.org, tylerhobbs@apache.org]",6.0,[{2 6}],0,0,0,6,0,0
+Clojure,https://github.com/thobbs/genartlib,2016-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tylerhobbs@apache.org]",7.0,[{2 7}],0,0,0,7,0,0
+Clojure,https://github.com/thobbs/genartlib,2016-09-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tylerhobbs@apache.org]",8.0,[{2 8}],0,0,0,8,0,0
+Clojure,https://github.com/thobbs/genartlib,2017-01-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tyler@datastax.com, tyler@datastax.com]",10.0,"[{2 8, 1 2}]",0,0,2,8,0,0
+Clojure,https://github.com/thobbs/genartlib,2017-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@datastax.com]",11.0,"[{2 8, 1 3}]",0,0,3,8,0,0
+Clojure,https://github.com/thobbs/genartlib,2017-05-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@datastax.com]",12.0,"[{2 8, 1 4}]",0,0,4,8,0,0
+Clojure,https://github.com/thobbs/genartlib,2017-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@datastax.com]",13.0,"[{2 8, 1 5}]",0,0,5,8,0,0
+Clojure,https://github.com/thobbs/genartlib,2017-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@datastax.com]",14.0,"[{2 8, 1 6}]",0,0,6,8,0,0
+Clojure,https://github.com/thobbs/genartlib,2017-11-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[tylerlhobbs@gmail.com, pair+jake@lifelink.com]",16.0,"[{2 8, 1 6, ""other"" 1, 3 1}]",1,0,6,8,1,0
+Clojure,https://github.com/thobbs/genartlib,2017-11-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[pair+jake@lifelink.com, pair+jake@lifelink.com, pair+jake@lifelink.com, pair+jake@lifelink.com, pair+jake@lifelink.com]",21.0,"[{2 8, 1 6, ""other"" 1, 3 6}]",1,0,6,8,6,0
+Clojure,https://github.com/thobbs/genartlib,2017-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pair+jake@lifelink.com]",22.0,"[{2 8, 1 6, ""other"" 1, 3 7}]",1,0,6,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2018-02-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[tyler@datastax.com, tylerlhobbs@gmail.com, tylerlhobbs@gmail.com]",25.0,"[{2 8, 1 7, ""other"" 3, 3 7}]",3,0,7,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2018-12-03,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[tyler@datastax.com, tyler@datastax.com, tyler@datastax.com, tyler@datastax.com, tyler@datastax.com]",30.0,"[{2 8, 1 12, ""other"" 3, 3 7}]",3,0,12,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2019-01-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tyler@datastax.com, tyler@datastax.com, tyler@datastax.com]",33.0,"[{2 8, 1 15, ""other"" 3, 3 7}]",3,0,15,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2019-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@datastax.com]",34.0,"[{2 8, 1 16, ""other"" 3, 3 7}]",3,0,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2019-03-27,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",44.0,"[{2 8, 1 16, ""other"" 3, 3 7, 0 10}]",3,10,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2019-06-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",46.0,"[{2 8, 1 16, ""other"" 3, 3 7, 0 12}]",3,12,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2019-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[shrynx@users.noreply.github.com]",47.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 12}]",4,12,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2019-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@tylerlhobbs.com]",48.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 13}]",4,13,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2019-12-21,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",58.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 23}]",4,23,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2020-01-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",60.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 25}]",4,25,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2020-03-22,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",69.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 34}]",4,34,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2020-10-17,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",76.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 41}]",4,41,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2020-11-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",78.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 43}]",4,43,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2020-12-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",80.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 45}]",4,45,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2021-01-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",85.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 50}]",4,50,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2022-02-23,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",92.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 57}]",4,57,16,8,7,0
+Clojure,https://github.com/thobbs/genartlib,2023-05-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tyler@tylerxhobbs.com, tyler@tylerxhobbs.com, tyler@tylerxhobbs.com, tyler@tylerxhobbs.com]",96.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 57, 4 4}]",4,57,16,8,7,4
+Clojure,https://github.com/thobbs/genartlib,2023-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@tylerlhobbs.com]",97.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 58, 4 4}]",4,58,16,8,7,4
+Clojure,https://github.com/thobbs/genartlib,2023-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@tylerxhobbs.com]",98.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 58, 4 5}]",4,58,16,8,7,5
+Clojure,https://github.com/thobbs/genartlib,2023-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tyler@tylerxhobbs.com]",99.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 58, 4 6}]",4,58,16,8,7,6
+Clojure,https://github.com/thobbs/genartlib,2023-08-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",104.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 63, 4 6}]",4,63,16,8,7,6
+Clojure,https://github.com/thobbs/genartlib,2023-08-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tyler@tylerlhobbs.com, tyler@tylerlhobbs.com, tyler@tylerlhobbs.com]",107.0,"[{2 8, 1 16, ""other"" 4, 3 7, 0 66, 4 6}]",4,66,16,8,7,6

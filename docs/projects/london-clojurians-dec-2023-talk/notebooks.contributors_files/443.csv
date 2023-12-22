@@ -1,0 +1,1020 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,luminus-framework,2012-12-23,4,1,"#{""dmitri.sotnikov@gmail.com""}",4.0,1
+Clojure,luminus-framework,2012-12-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",5.0,1
+Clojure,luminus-framework,2012-12-28,10,2,"#{""dmitri.sotnikov@gmail.com"" ""cma@bitemyapp.com""}",15.0,2
+Clojure,luminus-framework,2012-12-29,5,2,"#{""dmitri.sotnikov@gmail.com"" ""cma@bitemyapp.com""}",20.0,2
+Clojure,luminus-framework,2012-12-30,3,1,"#{""dmitri.sotnikov@gmail.com""}",23.0,2
+Clojure,luminus-framework,2012-12-31,5,1,"#{""dmitri.sotnikov@gmail.com""}",28.0,2
+Clojure,luminus-framework,2013-01-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",31.0,2
+Clojure,luminus-framework,2013-01-02,2,1,"#{""dmitri.sotnikov@gmail.com""}",33.0,2
+Clojure,luminus-framework,2013-01-03,3,1,"#{""dmitri.sotnikov@gmail.com""}",36.0,2
+Clojure,luminus-framework,2013-01-06,3,1,"#{""dmitri.sotnikov@gmail.com""}",39.0,2
+Clojure,luminus-framework,2013-01-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",40.0,2
+Clojure,luminus-framework,2013-01-09,4,1,"#{""dmitri.sotnikov@gmail.com""}",44.0,2
+Clojure,luminus-framework,2013-01-10,8,1,"#{""dmitri.sotnikov@gmail.com""}",52.0,2
+Clojure,luminus-framework,2013-01-11,3,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",55.0,3
+Clojure,luminus-framework,2013-01-12,3,1,"#{""dmitri.sotnikov@gmail.com""}",58.0,3
+Clojure,luminus-framework,2013-01-14,2,1,"#{""dmitri.sotnikov@gmail.com""}",60.0,3
+Clojure,luminus-framework,2013-01-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",61.0,3
+Clojure,luminus-framework,2013-01-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",62.0,3
+Clojure,luminus-framework,2013-01-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",63.0,3
+Clojure,luminus-framework,2013-01-20,4,2,"#{""colazero@mail.mkoga.net"" ""dmitri.sotnikov@gmail.com""}",67.0,4
+Clojure,luminus-framework,2013-01-25,3,1,"#{""dmitri.sotnikov@gmail.com""}",70.0,4
+Clojure,luminus-framework,2013-01-26,3,2,"#{""tm.75.4073@gmail.com"" ""dmitri.sotnikov@gmail.com""}",73.0,5
+Clojure,luminus-framework,2013-01-31,4,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",77.0,5
+Clojure,luminus-framework,2013-02-01,4,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",81.0,5
+Clojure,luminus-framework,2013-02-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",82.0,5
+Clojure,luminus-framework,2013-02-05,1,1,"#{""yogthos@Yogthoss-MacBook.local""}",83.0,6
+Clojure,luminus-framework,2013-02-10,2,1,"#{""dmitri.sotnikov@gmail.com""}",85.0,6
+Clojure,luminus-framework,2013-02-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",86.0,6
+Clojure,luminus-framework,2013-02-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",88.0,6
+Clojure,luminus-framework,2013-02-15,2,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",90.0,6
+Clojure,luminus-framework,2013-02-16,4,1,"#{""dmitri.sotnikov@gmail.com""}",94.0,6
+Clojure,luminus-framework,2013-02-19,5,2,"#{""steffen.dienst@gmail.com"" ""dmitri.sotnikov@gmail.com""}",99.0,7
+Clojure,luminus-framework,2013-02-20,4,1,"#{""dmitri.sotnikov@gmail.com""}",103.0,7
+Clojure,luminus-framework,2013-02-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",105.0,7
+Clojure,luminus-framework,2013-02-22,4,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",109.0,7
+Clojure,luminus-framework,2013-02-23,4,1,"#{""dmitri.sotnikov@gmail.com""}",113.0,7
+Clojure,luminus-framework,2013-02-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",115.0,7
+Clojure,luminus-framework,2013-02-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",116.0,7
+Clojure,luminus-framework,2013-02-27,1,1,"#{""edtsech@gmail.com""}",117.0,7
+Clojure,luminus-framework,2013-02-28,3,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",120.0,7
+Clojure,luminus-framework,2013-03-01,14,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",134.0,7
+Clojure,luminus-framework,2013-03-02,2,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",136.0,7
+Clojure,luminus-framework,2013-03-04,3,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",139.0,7
+Clojure,luminus-framework,2013-03-06,10,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",149.0,7
+Clojure,luminus-framework,2013-03-07,3,1,"#{""edtsech@gmail.com""}",152.0,7
+Clojure,luminus-framework,2013-03-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",153.0,7
+Clojure,luminus-framework,2013-03-10,2,1,"#{""dmitri.sotnikov@gmail.com""}",155.0,7
+Clojure,luminus-framework,2013-03-11,6,2,"#{""dmitri.sotnikov@gmail.com"" ""cgriego@gmail.com""}",161.0,8
+Clojure,luminus-framework,2013-03-12,5,3,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com"" ""seabre986@gmail.com""}",166.0,9
+Clojure,luminus-framework,2013-03-13,3,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",169.0,9
+Clojure,luminus-framework,2013-03-15,3,1,"#{""dmitri.sotnikov@gmail.com""}",172.0,9
+Clojure,luminus-framework,2013-03-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",173.0,9
+Clojure,luminus-framework,2013-03-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",174.0,9
+Clojure,luminus-framework,2013-03-21,2,1,"#{""alexguev@gmail.com""}",176.0,10
+Clojure,luminus-framework,2013-03-22,2,2,"#{""dmitri.sotnikov@gmail.com"" ""alexguev@gmail.com""}",178.0,10
+Clojure,luminus-framework,2013-03-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",179.0,10
+Clojure,luminus-framework,2013-03-28,1,1,"#{""edtsech@gmail.com""}",180.0,10
+Clojure,luminus-framework,2013-03-29,3,2,"#{""TM.75.4073@gmail.com"" ""dmitri.sotnikov@gmail.com""}",183.0,11
+Clojure,luminus-framework,2013-03-30,6,1,"#{""dmitri.sotnikov@gmail.com""}",189.0,11
+Clojure,luminus-framework,2013-04-01,4,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",193.0,11
+Clojure,luminus-framework,2013-04-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",194.0,11
+Clojure,luminus-framework,2013-04-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",195.0,11
+Clojure,luminus-framework,2013-04-07,2,1,"#{""dmitri.sotnikov@gmail.com""}",197.0,11
+Clojure,luminus-framework,2013-04-08,2,1,"#{""dmitri.sotnikov@gmail.com""}",199.0,11
+Clojure,luminus-framework,2013-04-09,7,1,"#{""dmitri.sotnikov@gmail.com""}",206.0,11
+Clojure,luminus-framework,2013-04-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",207.0,11
+Clojure,luminus-framework,2013-04-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",208.0,11
+Clojure,luminus-framework,2013-04-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",209.0,11
+Clojure,luminus-framework,2013-05-04,6,1,"#{""dmitri.sotnikov@gmail.com""}",215.0,11
+Clojure,luminus-framework,2013-05-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",217.0,11
+Clojure,luminus-framework,2013-05-06,3,1,"#{""dmitri.sotnikov@gmail.com""}",220.0,11
+Clojure,luminus-framework,2013-05-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",221.0,11
+Clojure,luminus-framework,2013-05-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",222.0,11
+Clojure,luminus-framework,2013-05-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",223.0,11
+Clojure,luminus-framework,2013-05-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",224.0,11
+Clojure,luminus-framework,2013-05-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",225.0,11
+Clojure,luminus-framework,2013-05-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",227.0,11
+Clojure,luminus-framework,2013-05-20,2,1,"#{""dmitri.sotnikov@gmail.com""}",229.0,11
+Clojure,luminus-framework,2013-05-21,3,1,"#{""dmitri.sotnikov@gmail.com""}",232.0,11
+Clojure,luminus-framework,2013-05-24,5,1,"#{""dmitri.sotnikov@gmail.com""}",237.0,11
+Clojure,luminus-framework,2013-05-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",239.0,11
+Clojure,luminus-framework,2013-05-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",240.0,11
+Clojure,luminus-framework,2013-06-10,2,1,"#{""dmitri.sotnikov@gmail.com""}",242.0,11
+Clojure,luminus-framework,2013-06-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",243.0,11
+Clojure,luminus-framework,2013-06-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",244.0,11
+Clojure,luminus-framework,2013-06-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",245.0,11
+Clojure,luminus-framework,2013-06-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",246.0,11
+Clojure,luminus-framework,2013-06-28,5,2,"#{""maildumpert@gmail.com"" ""dmitri.sotnikov@gmail.com""}",251.0,12
+Clojure,luminus-framework,2013-07-07,2,1,"#{""dmitri.sotnikov@gmail.com""}",253.0,12
+Clojure,luminus-framework,2013-07-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",254.0,12
+Clojure,luminus-framework,2013-07-30,9,2,"#{""dmitri.sotnikov@gmail.com"" ""seabre986@gmail.com""}",263.0,12
+Clojure,luminus-framework,2013-08-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",264.0,12
+Clojure,luminus-framework,2013-08-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",267.0,12
+Clojure,luminus-framework,2013-08-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",268.0,12
+Clojure,luminus-framework,2013-08-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",269.0,12
+Clojure,luminus-framework,2013-08-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",271.0,12
+Clojure,luminus-framework,2013-08-14,3,1,"#{""dmitri.sotnikov@gmail.com""}",274.0,12
+Clojure,luminus-framework,2013-08-15,2,1,"#{""dmitri.sotnikov@gmail.com""}",276.0,12
+Clojure,luminus-framework,2013-08-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",278.0,12
+Clojure,luminus-framework,2013-08-21,3,1,"#{""dmitri.sotnikov@gmail.com""}",281.0,12
+Clojure,luminus-framework,2013-08-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",282.0,12
+Clojure,luminus-framework,2013-09-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",283.0,12
+Clojure,luminus-framework,2013-09-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",284.0,12
+Clojure,luminus-framework,2013-09-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",285.0,12
+Clojure,luminus-framework,2013-09-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",287.0,12
+Clojure,luminus-framework,2013-09-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",288.0,12
+Clojure,luminus-framework,2013-09-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",289.0,12
+Clojure,luminus-framework,2013-09-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",290.0,12
+Clojure,luminus-framework,2013-09-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",291.0,12
+Clojure,luminus-framework,2013-10-01,5,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",296.0,13
+Clojure,luminus-framework,2013-10-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",297.0,13
+Clojure,luminus-framework,2013-10-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",298.0,13
+Clojure,luminus-framework,2013-10-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",299.0,13
+Clojure,luminus-framework,2013-10-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",300.0,13
+Clojure,luminus-framework,2013-10-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",302.0,13
+Clojure,luminus-framework,2013-10-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",303.0,13
+Clojure,luminus-framework,2013-10-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",304.0,13
+Clojure,luminus-framework,2013-10-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",305.0,13
+Clojure,luminus-framework,2013-10-31,2,1,"#{""dmitri.sotnikov@gmail.com""}",307.0,13
+Clojure,luminus-framework,2013-11-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",308.0,13
+Clojure,luminus-framework,2013-11-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",310.0,13
+Clojure,luminus-framework,2013-11-08,2,1,"#{""dmitri.sotnikov@gmail.com""}",312.0,13
+Clojure,luminus-framework,2013-11-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",313.0,13
+Clojure,luminus-framework,2013-11-17,2,2,"#{""scott@oceanbase.org"" ""dmitri.sotnikov@gmail.com""}",315.0,14
+Clojure,luminus-framework,2013-11-18,3,2,"#{""dmitri.sotnikov@gmail.com"" ""nolane@gmail.com""}",318.0,15
+Clojure,luminus-framework,2013-11-19,3,1,"#{""dmitri.sotnikov@gmail.com""}",321.0,15
+Clojure,luminus-framework,2013-11-20,3,1,"#{""dmitri.sotnikov@gmail.com""}",324.0,15
+Clojure,luminus-framework,2013-11-26,2,1,"#{""dmitri.sotnikov@gmail.com""}",326.0,15
+Clojure,luminus-framework,2013-12-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",328.0,15
+Clojure,luminus-framework,2013-12-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",330.0,15
+Clojure,luminus-framework,2013-12-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",331.0,15
+Clojure,luminus-framework,2013-12-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",332.0,15
+Clojure,luminus-framework,2013-12-31,2,1,"#{""dmitri.sotnikov@gmail.com""}",334.0,15
+Clojure,luminus-framework,2014-01-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",335.0,15
+Clojure,luminus-framework,2014-01-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",337.0,15
+Clojure,luminus-framework,2014-01-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",338.0,15
+Clojure,luminus-framework,2014-01-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",339.0,15
+Clojure,luminus-framework,2014-01-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",340.0,15
+Clojure,luminus-framework,2014-01-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",342.0,15
+Clojure,luminus-framework,2014-01-23,1,1,"#{""me@isaacsu.com""}",343.0,16
+Clojure,luminus-framework,2014-01-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",344.0,16
+Clojure,luminus-framework,2014-01-25,3,2,"#{""john2x@gmail.com"" ""dmitri.sotnikov@gmail.com""}",347.0,17
+Clojure,luminus-framework,2014-01-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",349.0,17
+Clojure,luminus-framework,2014-01-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",350.0,17
+Clojure,luminus-framework,2014-01-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",352.0,17
+Clojure,luminus-framework,2014-01-31,3,1,"#{""dmitri.sotnikov@gmail.com""}",355.0,17
+Clojure,luminus-framework,2014-02-01,2,1,"#{""dmitri.sotnikov@gmail.com""}",357.0,17
+Clojure,luminus-framework,2014-02-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",358.0,17
+Clojure,luminus-framework,2014-02-03,2,1,"#{""dmitri.sotnikov@gmail.com""}",360.0,17
+Clojure,luminus-framework,2014-02-06,2,2,"#{""jeremy@code-adept.com"" ""dmitri.sotnikov@gmail.com""}",362.0,18
+Clojure,luminus-framework,2014-02-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",363.0,18
+Clojure,luminus-framework,2014-02-10,3,2,"#{""jeremy@code-adept.com"" ""dmitri.sotnikov@gmail.com""}",366.0,18
+Clojure,luminus-framework,2014-02-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",368.0,18
+Clojure,luminus-framework,2014-03-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",369.0,18
+Clojure,luminus-framework,2014-03-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",370.0,18
+Clojure,luminus-framework,2014-03-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",372.0,18
+Clojure,luminus-framework,2014-03-25,4,1,"#{""dmitri.sotnikov@gmail.com""}",376.0,18
+Clojure,luminus-framework,2014-04-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",377.0,18
+Clojure,luminus-framework,2014-04-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",378.0,18
+Clojure,luminus-framework,2014-04-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",379.0,18
+Clojure,luminus-framework,2014-04-15,2,2,"#{""qazwsxedc121@gmail.com"" ""dmitri.sotnikov@gmail.com""}",381.0,19
+Clojure,luminus-framework,2014-04-27,3,1,"#{""dmitri.sotnikov@gmail.com""}",384.0,19
+Clojure,luminus-framework,2014-04-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",386.0,19
+Clojure,luminus-framework,2014-05-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",388.0,19
+Clojure,luminus-framework,2014-05-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",389.0,19
+Clojure,luminus-framework,2014-05-18,4,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",393.0,19
+Clojure,luminus-framework,2014-05-19,4,1,"#{""dmitri.sotnikov@gmail.com""}",397.0,19
+Clojure,luminus-framework,2014-05-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",399.0,19
+Clojure,luminus-framework,2014-05-22,3,2,"#{""laurent.petit@gmail.com"" ""dmitri.sotnikov@gmail.com""}",402.0,20
+Clojure,luminus-framework,2014-05-31,2,1,"#{""dmitri.sotnikov@gmail.com""}",404.0,20
+Clojure,luminus-framework,2014-06-16,4,1,"#{""dmitri.sotnikov@gmail.com""}",408.0,20
+Clojure,luminus-framework,2014-06-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",409.0,20
+Clojure,luminus-framework,2014-06-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",411.0,20
+Clojure,luminus-framework,2014-06-22,3,1,"#{""dmitri.sotnikov@gmail.com""}",414.0,20
+Clojure,luminus-framework,2014-06-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",415.0,20
+Clojure,luminus-framework,2014-06-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",416.0,20
+Clojure,luminus-framework,2014-06-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",418.0,20
+Clojure,luminus-framework,2014-07-13,2,2,"#{""edtsech@gmail.com"" ""dmitri.sotnikov@gmail.com""}",420.0,20
+Clojure,luminus-framework,2014-07-21,4,1,"#{""dmitri.sotnikov@gmail.com""}",424.0,20
+Clojure,luminus-framework,2014-07-23,7,2,"#{""upgradingdave@gmail.com"" ""dmitri.sotnikov@gmail.com""}",431.0,21
+Clojure,luminus-framework,2014-07-29,3,1,"#{""dmitri.sotnikov@gmail.com""}",434.0,21
+Clojure,luminus-framework,2014-07-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",435.0,21
+Clojure,luminus-framework,2014-08-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",438.0,21
+Clojure,luminus-framework,2014-08-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",439.0,21
+Clojure,luminus-framework,2014-08-05,4,2,"#{""spradnyesh@slytherin.local"" ""dmitri.sotnikov@gmail.com""}",443.0,22
+Clojure,luminus-framework,2014-08-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",444.0,22
+Clojure,luminus-framework,2014-08-20,5,1,"#{""dmitri.sotnikov@gmail.com""}",449.0,22
+Clojure,luminus-framework,2014-08-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",450.0,22
+Clojure,luminus-framework,2014-08-23,2,1,"#{""dmitri.sotnikov@gmail.com""}",452.0,22
+Clojure,luminus-framework,2014-08-25,6,2,"#{""spradnyesh@slytherin.local"" ""dmitri.sotnikov@gmail.com""}",458.0,22
+Clojure,luminus-framework,2014-08-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",459.0,22
+Clojure,luminus-framework,2014-08-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",460.0,22
+Clojure,luminus-framework,2014-09-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",461.0,22
+Clojure,luminus-framework,2014-09-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",462.0,22
+Clojure,luminus-framework,2014-09-07,4,1,"#{""dmitri.sotnikov@gmail.com""}",466.0,22
+Clojure,luminus-framework,2014-09-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",467.0,22
+Clojure,luminus-framework,2014-09-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",468.0,22
+Clojure,luminus-framework,2014-09-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",469.0,22
+Clojure,luminus-framework,2014-09-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",470.0,22
+Clojure,luminus-framework,2014-09-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",472.0,22
+Clojure,luminus-framework,2014-09-20,1,1,"#{""zhaowang.net@gmail.com""}",473.0,23
+Clojure,luminus-framework,2014-09-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",474.0,23
+Clojure,luminus-framework,2014-09-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",476.0,23
+Clojure,luminus-framework,2014-09-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",477.0,23
+Clojure,luminus-framework,2014-09-26,6,3,"#{""tony.seing@gmail.com"" ""wfleming77@gmail.com"" ""dmitri.sotnikov@gmail.com""}",483.0,25
+Clojure,luminus-framework,2014-09-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",485.0,25
+Clojure,luminus-framework,2014-09-28,3,1,"#{""dmitri.sotnikov@gmail.com""}",488.0,25
+Clojure,luminus-framework,2014-09-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",490.0,25
+Clojure,luminus-framework,2014-09-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",491.0,25
+Clojure,luminus-framework,2014-10-05,2,2,"#{""sheelchoksi@gmail.com"" ""dmitri.sotnikov@gmail.com""}",493.0,26
+Clojure,luminus-framework,2014-10-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",494.0,26
+Clojure,luminus-framework,2014-10-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",495.0,26
+Clojure,luminus-framework,2014-10-14,2,1,"#{""dmitri.sotnikov@gmail.com""}",497.0,26
+Clojure,luminus-framework,2014-10-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",498.0,26
+Clojure,luminus-framework,2014-10-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",499.0,26
+Clojure,luminus-framework,2014-10-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",501.0,26
+Clojure,luminus-framework,2014-10-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",502.0,26
+Clojure,luminus-framework,2014-10-25,4,1,"#{""dmitri.sotnikov@gmail.com""}",506.0,26
+Clojure,luminus-framework,2014-10-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",507.0,26
+Clojure,luminus-framework,2014-11-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",509.0,26
+Clojure,luminus-framework,2014-11-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",510.0,26
+Clojure,luminus-framework,2014-11-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",511.0,26
+Clojure,luminus-framework,2014-11-25,3,1,"#{""dmitri.sotnikov@gmail.com""}",514.0,26
+Clojure,luminus-framework,2014-12-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",517.0,26
+Clojure,luminus-framework,2014-12-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",518.0,26
+Clojure,luminus-framework,2014-12-17,3,1,"#{""dmitri.sotnikov@gmail.com""}",521.0,26
+Clojure,luminus-framework,2014-12-26,3,2,"#{""nickgieschen@gmail.com"" ""dmitri.sotnikov@gmail.com""}",524.0,27
+Clojure,luminus-framework,2014-12-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",525.0,27
+Clojure,luminus-framework,2015-01-02,4,2,"#{""avreich@cisco.com"" ""dmitri.sotnikov@gmail.com""}",529.0,28
+Clojure,luminus-framework,2015-01-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",530.0,28
+Clojure,luminus-framework,2015-01-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",531.0,28
+Clojure,luminus-framework,2015-01-10,3,1,"#{""dmitri.sotnikov@gmail.com""}",534.0,28
+Clojure,luminus-framework,2015-01-11,2,1,"#{""dmitri.sotnikov@gmail.com""}",536.0,28
+Clojure,luminus-framework,2015-01-12,4,1,"#{""dmitri.sotnikov@gmail.com""}",540.0,28
+Clojure,luminus-framework,2015-01-13,6,1,"#{""dmitri.sotnikov@gmail.com""}",546.0,28
+Clojure,luminus-framework,2015-01-14,6,1,"#{""dmitri.sotnikov@gmail.com""}",552.0,28
+Clojure,luminus-framework,2015-01-15,7,2,"#{""jeremy@code-adept.com"" ""dmitri.sotnikov@gmail.com""}",559.0,28
+Clojure,luminus-framework,2015-01-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",561.0,28
+Clojure,luminus-framework,2015-01-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",562.0,28
+Clojure,luminus-framework,2015-01-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",563.0,28
+Clojure,luminus-framework,2015-01-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",564.0,28
+Clojure,luminus-framework,2015-01-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",565.0,28
+Clojure,luminus-framework,2015-02-02,2,1,"#{""dmitri.sotnikov@gmail.com""}",567.0,28
+Clojure,luminus-framework,2015-02-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",568.0,28
+Clojure,luminus-framework,2015-02-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",569.0,28
+Clojure,luminus-framework,2015-02-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",570.0,28
+Clojure,luminus-framework,2015-02-14,3,1,"#{""dmitri.sotnikov@gmail.com""}",573.0,28
+Clojure,luminus-framework,2015-02-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",574.0,28
+Clojure,luminus-framework,2015-02-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",575.0,28
+Clojure,luminus-framework,2015-02-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",576.0,28
+Clojure,luminus-framework,2015-03-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",577.0,28
+Clojure,luminus-framework,2015-03-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",580.0,28
+Clojure,luminus-framework,2015-03-03,6,3,"#{""bensima@gmail.com"" ""jim@crossleys.org"" ""dmitri.sotnikov@gmail.com""}",586.0,30
+Clojure,luminus-framework,2015-03-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",587.0,30
+Clojure,luminus-framework,2015-03-10,3,1,"#{""dmitri.sotnikov@gmail.com""}",590.0,30
+Clojure,luminus-framework,2015-03-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",592.0,30
+Clojure,luminus-framework,2015-03-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",593.0,30
+Clojure,luminus-framework,2015-03-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",594.0,30
+Clojure,luminus-framework,2015-03-19,3,2,"#{""qinains@popalm.com"" ""dmitri.sotnikov@gmail.com""}",597.0,31
+Clojure,luminus-framework,2015-03-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",598.0,31
+Clojure,luminus-framework,2015-03-21,4,1,"#{""dmitri.sotnikov@gmail.com""}",602.0,31
+Clojure,luminus-framework,2015-03-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",604.0,31
+Clojure,luminus-framework,2015-03-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",605.0,31
+Clojure,luminus-framework,2015-03-28,3,1,"#{""dmitri.sotnikov@gmail.com""}",608.0,31
+Clojure,luminus-framework,2015-03-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",609.0,31
+Clojure,luminus-framework,2015-03-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",610.0,31
+Clojure,luminus-framework,2015-04-01,6,2,"#{""randy@tribalknowledgegroup.com"" ""dmitri.sotnikov@gmail.com""}",616.0,32
+Clojure,luminus-framework,2015-04-02,2,1,"#{""dmitri.sotnikov@gmail.com""}",618.0,32
+Clojure,luminus-framework,2015-04-03,4,1,"#{""dmitri.sotnikov@gmail.com""}",622.0,32
+Clojure,luminus-framework,2015-04-07,2,1,"#{""dmitri.sotnikov@gmail.com""}",624.0,32
+Clojure,luminus-framework,2015-04-08,3,1,"#{""dmitri.sotnikov@gmail.com""}",627.0,32
+Clojure,luminus-framework,2015-04-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",629.0,32
+Clojure,luminus-framework,2015-04-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",630.0,32
+Clojure,luminus-framework,2015-04-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",632.0,32
+Clojure,luminus-framework,2015-04-15,2,2,"#{""volny.petr@gmail.com"" ""dmitri.sotnikov@gmail.com""}",634.0,33
+Clojure,luminus-framework,2015-04-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",636.0,33
+Clojure,luminus-framework,2015-04-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",638.0,33
+Clojure,luminus-framework,2015-04-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",640.0,33
+Clojure,luminus-framework,2015-04-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",641.0,33
+Clojure,luminus-framework,2015-04-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",642.0,33
+Clojure,luminus-framework,2015-04-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",644.0,33
+Clojure,luminus-framework,2015-04-29,12,1,"#{""dmitri.sotnikov@gmail.com""}",656.0,33
+Clojure,luminus-framework,2015-04-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",658.0,33
+Clojure,luminus-framework,2015-05-03,4,1,"#{""dmitri.sotnikov@gmail.com""}",662.0,33
+Clojure,luminus-framework,2015-05-04,2,1,"#{""dmitri.sotnikov@gmail.com""}",664.0,33
+Clojure,luminus-framework,2015-05-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",665.0,33
+Clojure,luminus-framework,2015-05-13,3,1,"#{""dmitri.sotnikov@gmail.com""}",668.0,33
+Clojure,luminus-framework,2015-05-16,8,1,"#{""dmitri.sotnikov@gmail.com""}",676.0,33
+Clojure,luminus-framework,2015-05-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",678.0,33
+Clojure,luminus-framework,2015-05-18,3,1,"#{""dmitri.sotnikov@gmail.com""}",681.0,33
+Clojure,luminus-framework,2015-05-19,4,1,"#{""dmitri.sotnikov@gmail.com""}",685.0,33
+Clojure,luminus-framework,2015-05-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",686.0,33
+Clojure,luminus-framework,2015-05-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",687.0,33
+Clojure,luminus-framework,2015-05-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",688.0,33
+Clojure,luminus-framework,2015-05-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",689.0,33
+Clojure,luminus-framework,2015-06-01,2,2,"#{""gregorio.kusowski@gmail.com"" ""dmitri.sotnikov@gmail.com""}",691.0,34
+Clojure,luminus-framework,2015-06-03,2,1,"#{""dmitri.sotnikov@gmail.com""}",693.0,34
+Clojure,luminus-framework,2015-06-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",694.0,34
+Clojure,luminus-framework,2015-06-05,4,2,"#{""dmitri.sotnikov@gmail.com"" ""jhosteny@gmail.com""}",698.0,35
+Clojure,luminus-framework,2015-06-10,2,2,"#{""l.macchini@thauris.nl"" ""dmitri.sotnikov@gmail.com""}",700.0,36
+Clojure,luminus-framework,2015-06-11,2,2,"#{""boechat107@gmail.com"" ""dmitri.sotnikov@gmail.com""}",702.0,37
+Clojure,luminus-framework,2015-06-13,1,1,"#{""me@jamesleonis.com""}",703.0,38
+Clojure,luminus-framework,2015-06-14,3,1,"#{""dmitri.sotnikov@gmail.com""}",706.0,38
+Clojure,luminus-framework,2015-06-15,4,1,"#{""dmitri.sotnikov@gmail.com""}",710.0,38
+Clojure,luminus-framework,2015-06-16,3,1,"#{""dmitri.sotnikov@gmail.com""}",713.0,38
+Clojure,luminus-framework,2015-06-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",715.0,38
+Clojure,luminus-framework,2015-06-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",717.0,38
+Clojure,luminus-framework,2015-06-24,5,2,"#{""pupeno@pupeno.com"" ""dmitri.sotnikov@gmail.com""}",722.0,39
+Clojure,luminus-framework,2015-06-25,5,1,"#{""dmitri.sotnikov@gmail.com""}",727.0,39
+Clojure,luminus-framework,2015-06-26,7,1,"#{""dmitri.sotnikov@gmail.com""}",734.0,39
+Clojure,luminus-framework,2015-06-29,3,1,"#{""dmitri.sotnikov@gmail.com""}",737.0,39
+Clojure,luminus-framework,2015-06-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",738.0,39
+Clojure,luminus-framework,2015-07-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",739.0,39
+Clojure,luminus-framework,2015-07-02,4,1,"#{""dmitri.sotnikov@gmail.com""}",743.0,39
+Clojure,luminus-framework,2015-07-03,5,1,"#{""dmitri.sotnikov@gmail.com""}",748.0,39
+Clojure,luminus-framework,2015-07-04,2,1,"#{""dmitri.sotnikov@gmail.com""}",750.0,39
+Clojure,luminus-framework,2015-07-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",751.0,39
+Clojure,luminus-framework,2015-07-08,3,2,"#{""dlepage@ebay.com"" ""dmitri.sotnikov@gmail.com""}",754.0,40
+Clojure,luminus-framework,2015-07-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",755.0,40
+Clojure,luminus-framework,2015-07-11,5,1,"#{""dmitri.sotnikov@gmail.com""}",760.0,40
+Clojure,luminus-framework,2015-07-12,4,1,"#{""dmitri.sotnikov@gmail.com""}",764.0,40
+Clojure,luminus-framework,2015-07-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",765.0,40
+Clojure,luminus-framework,2015-07-14,4,1,"#{""dmitri.sotnikov@gmail.com""}",769.0,40
+Clojure,luminus-framework,2015-07-15,4,2,"#{""boechat107@gmail.com"" ""dmitri.sotnikov@gmail.com""}",773.0,40
+Clojure,luminus-framework,2015-07-17,3,2,"#{""pupeno@pupeno.com"" ""dmitri.sotnikov@gmail.com""}",776.0,40
+Clojure,luminus-framework,2015-07-18,8,2,"#{""pupeno@pupeno.com"" ""dmitri.sotnikov@gmail.com""}",784.0,40
+Clojure,luminus-framework,2015-07-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",786.0,40
+Clojure,luminus-framework,2015-07-20,10,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",796.0,40
+Clojure,luminus-framework,2015-07-22,6,1,"#{""dmitri.sotnikov@gmail.com""}",802.0,40
+Clojure,luminus-framework,2015-07-23,2,1,"#{""dmitri.sotnikov@gmail.com""}",804.0,40
+Clojure,luminus-framework,2015-07-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",806.0,40
+Clojure,luminus-framework,2015-07-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",808.0,40
+Clojure,luminus-framework,2015-07-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",809.0,40
+Clojure,luminus-framework,2015-07-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",811.0,40
+Clojure,luminus-framework,2015-07-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",813.0,40
+Clojure,luminus-framework,2015-07-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",814.0,40
+Clojure,luminus-framework,2015-08-01,7,2,"#{""boechat107@gmail.com"" ""dmitri.sotnikov@gmail.com""}",821.0,40
+Clojure,luminus-framework,2015-08-02,6,1,"#{""dmitri.sotnikov@gmail.com""}",827.0,40
+Clojure,luminus-framework,2015-08-03,4,1,"#{""dmitri.sotnikov@gmail.com""}",831.0,40
+Clojure,luminus-framework,2015-08-04,6,2,"#{""ayato.skycrawlers@gmail.com"" ""dmitri.sotnikov@gmail.com""}",837.0,41
+Clojure,luminus-framework,2015-08-05,5,1,"#{""dmitri.sotnikov@gmail.com""}",842.0,41
+Clojure,luminus-framework,2015-08-06,6,1,"#{""dmitri.sotnikov@gmail.com""}",848.0,41
+Clojure,luminus-framework,2015-08-07,2,2,"#{""bob@jadn.com"" ""dmitri.sotnikov@gmail.com""}",850.0,42
+Clojure,luminus-framework,2015-08-09,4,1,"#{""dmitri.sotnikov@gmail.com""}",854.0,42
+Clojure,luminus-framework,2015-08-10,8,1,"#{""dmitri.sotnikov@gmail.com""}",862.0,42
+Clojure,luminus-framework,2015-08-11,6,1,"#{""dmitri.sotnikov@gmail.com""}",868.0,42
+Clojure,luminus-framework,2015-08-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",870.0,42
+Clojure,luminus-framework,2015-08-15,4,1,"#{""dmitri.sotnikov@gmail.com""}",874.0,42
+Clojure,luminus-framework,2015-08-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",875.0,42
+Clojure,luminus-framework,2015-08-20,4,1,"#{""dmitri.sotnikov@gmail.com""}",879.0,42
+Clojure,luminus-framework,2015-08-21,3,1,"#{""dmitri.sotnikov@gmail.com""}",882.0,42
+Clojure,luminus-framework,2015-08-22,3,2,"#{""sanrodari@gmail.com"" ""dmitri.sotnikov@gmail.com""}",885.0,43
+Clojure,luminus-framework,2015-08-24,3,1,"#{""dmitri.sotnikov@gmail.com""}",888.0,43
+Clojure,luminus-framework,2015-08-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",889.0,43
+Clojure,luminus-framework,2015-08-26,2,1,"#{""dmitri.sotnikov@gmail.com""}",891.0,43
+Clojure,luminus-framework,2015-08-28,2,1,"#{""dmitri.sotnikov@gmail.com""}",893.0,43
+Clojure,luminus-framework,2015-08-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",894.0,43
+Clojure,luminus-framework,2015-09-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",897.0,43
+Clojure,luminus-framework,2015-09-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",898.0,43
+Clojure,luminus-framework,2015-09-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",899.0,43
+Clojure,luminus-framework,2015-09-05,5,1,"#{""dmitri.sotnikov@gmail.com""}",904.0,43
+Clojure,luminus-framework,2015-09-06,3,1,"#{""dmitri.sotnikov@gmail.com""}",907.0,43
+Clojure,luminus-framework,2015-09-07,3,1,"#{""dmitri.sotnikov@gmail.com""}",910.0,43
+Clojure,luminus-framework,2015-09-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",911.0,43
+Clojure,luminus-framework,2015-09-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",912.0,43
+Clojure,luminus-framework,2015-09-11,12,2,"#{""chk@cfrq.net"" ""dmitri.sotnikov@gmail.com""}",924.0,44
+Clojure,luminus-framework,2015-09-14,4,1,"#{""dmitri.sotnikov@gmail.com""}",928.0,44
+Clojure,luminus-framework,2015-09-15,4,2,"#{""you@example.com"" ""dmitri.sotnikov@gmail.com""}",932.0,45
+Clojure,luminus-framework,2015-09-16,14,3,"#{""Harald.Koch@UHN.CA"" ""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",946.0,46
+Clojure,luminus-framework,2015-09-17,3,1,"#{""dmitri.sotnikov@gmail.com""}",949.0,46
+Clojure,luminus-framework,2015-09-18,2,2,"#{""you@example.com"" ""dmitri.sotnikov@gmail.com""}",951.0,46
+Clojure,luminus-framework,2015-09-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",952.0,46
+Clojure,luminus-framework,2015-09-23,3,1,"#{""dmitri.sotnikov@gmail.com""}",955.0,46
+Clojure,luminus-framework,2015-09-27,6,1,"#{""dmitri.sotnikov@gmail.com""}",961.0,46
+Clojure,luminus-framework,2015-09-28,4,2,"#{""longfinfunnel@gmail.com"" ""dmitri.sotnikov@gmail.com""}",965.0,47
+Clojure,luminus-framework,2015-09-29,3,1,"#{""dmitri.sotnikov@gmail.com""}",968.0,47
+Clojure,luminus-framework,2015-10-01,2,1,"#{""dmitri.sotnikov@gmail.com""}",970.0,47
+Clojure,luminus-framework,2015-10-03,3,1,"#{""dmitri.sotnikov@gmail.com""}",973.0,47
+Clojure,luminus-framework,2015-10-05,4,2,"#{""dmitri.sotnikov@uhn.on.ca"" ""dmitri.sotnikov@gmail.com""}",977.0,47
+Clojure,luminus-framework,2015-10-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",979.0,47
+Clojure,luminus-framework,2015-10-07,2,1,"#{""dmitri.sotnikov@gmail.com""}",981.0,47
+Clojure,luminus-framework,2015-10-14,3,1,"#{""dmitri.sotnikov@gmail.com""}",984.0,47
+Clojure,luminus-framework,2015-10-15,2,1,"#{""dmitri.sotnikov@gmail.com""}",986.0,47
+Clojure,luminus-framework,2015-10-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",988.0,47
+Clojure,luminus-framework,2015-10-20,3,1,"#{""dmitri.sotnikov@gmail.com""}",991.0,47
+Clojure,luminus-framework,2015-10-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",992.0,47
+Clojure,luminus-framework,2015-10-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",993.0,47
+Clojure,luminus-framework,2015-10-28,2,1,"#{""dmitri.sotnikov@gmail.com""}",995.0,47
+Clojure,luminus-framework,2015-11-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",996.0,47
+Clojure,luminus-framework,2015-11-04,2,1,"#{""dmitri.sotnikov@gmail.com""}",998.0,47
+Clojure,luminus-framework,2015-11-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",1000.0,47
+Clojure,luminus-framework,2015-11-10,7,1,"#{""dmitri.sotnikov@gmail.com""}",1007.0,47
+Clojure,luminus-framework,2015-11-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1008.0,47
+Clojure,luminus-framework,2015-11-13,3,1,"#{""dmitri.sotnikov@gmail.com""}",1011.0,47
+Clojure,luminus-framework,2015-11-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1012.0,47
+Clojure,luminus-framework,2015-11-16,8,1,"#{""dmitri.sotnikov@gmail.com""}",1020.0,47
+Clojure,luminus-framework,2015-11-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",1022.0,47
+Clojure,luminus-framework,2015-11-18,4,1,"#{""dmitri.sotnikov@gmail.com""}",1026.0,47
+Clojure,luminus-framework,2015-11-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1027.0,47
+Clojure,luminus-framework,2015-11-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",1029.0,47
+Clojure,luminus-framework,2015-11-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1030.0,47
+Clojure,luminus-framework,2015-11-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1031.0,47
+Clojure,luminus-framework,2015-11-30,1,1,"#{""jdbjunior@gmail.com""}",1032.0,48
+Clojure,luminus-framework,2015-12-01,11,3,"#{""laurent.dubois.meyer@gmail.com"" ""egg@novonon.com"" ""dmitri.sotnikov@gmail.com""}",1043.0,50
+Clojure,luminus-framework,2015-12-03,2,2,"#{""dmitri.sotnikov@gmail.com"" ""alex.a.naumov@gmail.com""}",1045.0,51
+Clojure,luminus-framework,2015-12-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",1046.0,51
+Clojure,luminus-framework,2015-12-10,4,2,"#{""da-z@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1050.0,52
+Clojure,luminus-framework,2015-12-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1051.0,52
+Clojure,luminus-framework,2015-12-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",1053.0,52
+Clojure,luminus-framework,2015-12-20,1,1,"#{""spariev@gmail.com""}",1054.0,53
+Clojure,luminus-framework,2015-12-21,6,2,"#{""spariev@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1060.0,53
+Clojure,luminus-framework,2015-12-22,3,1,"#{""dmitri.sotnikov@gmail.com""}",1063.0,53
+Clojure,luminus-framework,2015-12-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1064.0,53
+Clojure,luminus-framework,2015-12-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",1066.0,53
+Clojure,luminus-framework,2015-12-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1067.0,53
+Clojure,luminus-framework,2015-12-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",1069.0,53
+Clojure,luminus-framework,2015-12-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",1070.0,53
+Clojure,luminus-framework,2015-12-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1071.0,53
+Clojure,luminus-framework,2015-12-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1072.0,53
+Clojure,luminus-framework,2016-01-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",1075.0,53
+Clojure,luminus-framework,2016-01-08,4,2,"#{""jeremy@code-adept.com"" ""dmitri.sotnikov@gmail.com""}",1079.0,53
+Clojure,luminus-framework,2016-01-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1080.0,53
+Clojure,luminus-framework,2016-01-13,4,2,"#{""cristobal.garcia@obliquo.eu"" ""dmitri.sotnikov@gmail.com""}",1084.0,54
+Clojure,luminus-framework,2016-01-14,6,1,"#{""dmitri.sotnikov@gmail.com""}",1090.0,54
+Clojure,luminus-framework,2016-01-16,6,3,"#{""kevindgreene@gmail.com"" ""kevin@spantree.net"" ""dmitri.sotnikov@gmail.com""}",1096.0,56
+Clojure,luminus-framework,2016-01-19,3,1,"#{""dmitri.sotnikov@gmail.com""}",1099.0,56
+Clojure,luminus-framework,2016-01-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",1101.0,56
+Clojure,luminus-framework,2016-01-22,5,1,"#{""dmitri.sotnikov@gmail.com""}",1106.0,56
+Clojure,luminus-framework,2016-01-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1107.0,56
+Clojure,luminus-framework,2016-01-25,4,2,"#{""spradnyesh@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1111.0,57
+Clojure,luminus-framework,2016-01-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",1112.0,57
+Clojure,luminus-framework,2016-01-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1113.0,57
+Clojure,luminus-framework,2016-01-28,2,1,"#{""dmitri.sotnikov@gmail.com""}",1115.0,57
+Clojure,luminus-framework,2016-01-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",1117.0,57
+Clojure,luminus-framework,2016-01-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",1119.0,57
+Clojure,luminus-framework,2016-01-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1120.0,57
+Clojure,luminus-framework,2016-02-01,2,1,"#{""dmitri.sotnikov@gmail.com""}",1122.0,57
+Clojure,luminus-framework,2016-02-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",1125.0,57
+Clojure,luminus-framework,2016-02-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",1126.0,57
+Clojure,luminus-framework,2016-02-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",1127.0,57
+Clojure,luminus-framework,2016-02-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1128.0,57
+Clojure,luminus-framework,2016-02-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1129.0,57
+Clojure,luminus-framework,2016-02-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",1130.0,57
+Clojure,luminus-framework,2016-02-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1131.0,57
+Clojure,luminus-framework,2016-02-14,2,1,"#{""dmitri.sotnikov@gmail.com""}",1133.0,57
+Clojure,luminus-framework,2016-02-15,4,1,"#{""dmitri.sotnikov@gmail.com""}",1137.0,57
+Clojure,luminus-framework,2016-02-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",1139.0,57
+Clojure,luminus-framework,2016-02-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1140.0,57
+Clojure,luminus-framework,2016-02-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",1142.0,57
+Clojure,luminus-framework,2016-02-20,2,2,"#{""re.vkolesnikov@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1144.0,58
+Clojure,luminus-framework,2016-02-21,6,1,"#{""dmitri.sotnikov@gmail.com""}",1150.0,58
+Clojure,luminus-framework,2016-02-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1151.0,58
+Clojure,luminus-framework,2016-02-24,7,2,"#{""yangweilim21@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1158.0,59
+Clojure,luminus-framework,2016-02-25,3,2,"#{""tolitius@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1161.0,60
+Clojure,luminus-framework,2016-02-26,3,2,"#{""tolitius@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1164.0,60
+Clojure,luminus-framework,2016-02-27,6,1,"#{""dmitri.sotnikov@gmail.com""}",1170.0,60
+Clojure,luminus-framework,2016-02-28,11,1,"#{""dmitri.sotnikov@gmail.com""}",1181.0,60
+Clojure,luminus-framework,2016-02-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",1183.0,60
+Clojure,luminus-framework,2016-03-01,10,2,"#{""spradnyesh@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1193.0,60
+Clojure,luminus-framework,2016-03-02,5,2,"#{""fractaloop@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1198.0,61
+Clojure,luminus-framework,2016-03-03,3,1,"#{""dmitri.sotnikov@gmail.com""}",1201.0,61
+Clojure,luminus-framework,2016-03-07,2,1,"#{""dmitri.sotnikov@gmail.com""}",1203.0,61
+Clojure,luminus-framework,2016-03-08,5,2,"#{""agnivalent@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1208.0,62
+Clojure,luminus-framework,2016-03-10,7,1,"#{""dmitri.sotnikov@gmail.com""}",1215.0,62
+Clojure,luminus-framework,2016-03-11,3,2,"#{""prbroadfoot@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1218.0,63
+Clojure,luminus-framework,2016-03-12,7,1,"#{""dmitri.sotnikov@gmail.com""}",1225.0,63
+Clojure,luminus-framework,2016-03-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",1227.0,63
+Clojure,luminus-framework,2016-03-15,2,1,"#{""dmitri.sotnikov@gmail.com""}",1229.0,63
+Clojure,luminus-framework,2016-03-17,3,1,"#{""dmitri.sotnikov@gmail.com""}",1232.0,63
+Clojure,luminus-framework,2016-03-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1233.0,63
+Clojure,luminus-framework,2016-03-21,4,1,"#{""dmitri.sotnikov@gmail.com""}",1237.0,63
+Clojure,luminus-framework,2016-03-26,2,1,"#{""dmitri.sotnikov@gmail.com""}",1239.0,63
+Clojure,luminus-framework,2016-03-27,3,2,"#{""dviramontes@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1242.0,64
+Clojure,luminus-framework,2016-03-28,3,1,"#{""dmitri.sotnikov@gmail.com""}",1245.0,64
+Clojure,luminus-framework,2016-04-01,4,1,"#{""dmitri.sotnikov@gmail.com""}",1249.0,64
+Clojure,luminus-framework,2016-04-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",1252.0,64
+Clojure,luminus-framework,2016-04-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1253.0,64
+Clojure,luminus-framework,2016-04-10,2,2,"#{""sethkbonnie@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1255.0,65
+Clojure,luminus-framework,2016-04-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1256.0,65
+Clojure,luminus-framework,2016-04-15,2,1,"#{""dmitri.sotnikov@gmail.com""}",1258.0,65
+Clojure,luminus-framework,2016-04-16,4,1,"#{""dmitri.sotnikov@gmail.com""}",1262.0,65
+Clojure,luminus-framework,2016-04-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1263.0,65
+Clojure,luminus-framework,2016-04-19,3,1,"#{""dmitri.sotnikov@gmail.com""}",1266.0,65
+Clojure,luminus-framework,2016-04-20,5,1,"#{""dmitri.sotnikov@gmail.com""}",1271.0,65
+Clojure,luminus-framework,2016-04-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1272.0,65
+Clojure,luminus-framework,2016-04-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1273.0,65
+Clojure,luminus-framework,2016-04-28,3,1,"#{""dmitri.sotnikov@gmail.com""}",1276.0,65
+Clojure,luminus-framework,2016-04-30,3,1,"#{""dmitri.sotnikov@gmail.com""}",1279.0,65
+Clojure,luminus-framework,2016-05-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1280.0,65
+Clojure,luminus-framework,2016-05-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",1281.0,65
+Clojure,luminus-framework,2016-05-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1282.0,65
+Clojure,luminus-framework,2016-05-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1283.0,65
+Clojure,luminus-framework,2016-05-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",1285.0,65
+Clojure,luminus-framework,2016-05-10,3,2,"#{""mateusz.probachta@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1288.0,66
+Clojure,luminus-framework,2016-05-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1289.0,66
+Clojure,luminus-framework,2016-05-16,3,1,"#{""dmitri.sotnikov@gmail.com""}",1292.0,66
+Clojure,luminus-framework,2016-05-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",1293.0,66
+Clojure,luminus-framework,2016-05-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1294.0,66
+Clojure,luminus-framework,2016-05-21,4,1,"#{""dmitri.sotnikov@gmail.com""}",1298.0,66
+Clojure,luminus-framework,2016-05-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1299.0,66
+Clojure,luminus-framework,2016-05-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",1301.0,66
+Clojure,luminus-framework,2016-05-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",1303.0,66
+Clojure,luminus-framework,2016-05-26,3,1,"#{""dmitri.sotnikov@gmail.com""}",1306.0,66
+Clojure,luminus-framework,2016-05-27,3,1,"#{""dmitri.sotnikov@gmail.com""}",1309.0,66
+Clojure,luminus-framework,2016-05-31,1,1,"#{""paultopia@users.noreply.github.com""}",1310.0,67
+Clojure,luminus-framework,2016-06-01,2,1,"#{""dmitri.sotnikov@gmail.com""}",1312.0,67
+Clojure,luminus-framework,2016-06-02,8,1,"#{""dmitri.sotnikov@gmail.com""}",1320.0,67
+Clojure,luminus-framework,2016-06-03,6,1,"#{""dmitri.sotnikov@gmail.com""}",1326.0,67
+Clojure,luminus-framework,2016-06-07,4,1,"#{""dmitri.sotnikov@gmail.com""}",1330.0,67
+Clojure,luminus-framework,2016-06-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",1331.0,67
+Clojure,luminus-framework,2016-06-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",1333.0,67
+Clojure,luminus-framework,2016-06-10,2,1,"#{""dmitri.sotnikov@gmail.com""}",1335.0,67
+Clojure,luminus-framework,2016-06-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1336.0,67
+Clojure,luminus-framework,2016-06-12,7,1,"#{""dmitri.sotnikov@gmail.com""}",1343.0,67
+Clojure,luminus-framework,2016-06-13,4,2,"#{""dmitri.sotnikov@gmail.com"" ""gnovak.boskov@gmail.com""}",1347.0,68
+Clojure,luminus-framework,2016-06-14,3,2,"#{""chinmay1dd@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1350.0,69
+Clojure,luminus-framework,2016-06-15,4,2,"#{""nperic15@schulich.yorku.ca"" ""dmitri.sotnikov@gmail.com""}",1354.0,70
+Clojure,luminus-framework,2016-06-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1355.0,70
+Clojure,luminus-framework,2016-06-18,4,1,"#{""dmitri.sotnikov@gmail.com""}",1359.0,70
+Clojure,luminus-framework,2016-06-19,4,1,"#{""dmitri.sotnikov@gmail.com""}",1363.0,70
+Clojure,luminus-framework,2016-06-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1364.0,70
+Clojure,luminus-framework,2016-06-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1365.0,70
+Clojure,luminus-framework,2016-06-22,4,1,"#{""dmitri.sotnikov@gmail.com""}",1369.0,70
+Clojure,luminus-framework,2016-06-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1370.0,70
+Clojure,luminus-framework,2016-06-29,3,1,"#{""dmitri.sotnikov@gmail.com""}",1373.0,70
+Clojure,luminus-framework,2016-07-01,3,1,"#{""dmitri.sotnikov@gmail.com""}",1376.0,70
+Clojure,luminus-framework,2016-07-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1377.0,70
+Clojure,luminus-framework,2016-07-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",1379.0,70
+Clojure,luminus-framework,2016-07-09,3,1,"#{""dmitri.sotnikov@gmail.com""}",1382.0,70
+Clojure,luminus-framework,2016-07-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",1383.0,70
+Clojure,luminus-framework,2016-07-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1384.0,70
+Clojure,luminus-framework,2016-07-15,4,2,"#{""Valentinkwin38@hotmail.fr"" ""dmitri.sotnikov@gmail.com""}",1388.0,71
+Clojure,luminus-framework,2016-07-29,3,1,"#{""dmitri.sotnikov@gmail.com""}",1391.0,71
+Clojure,luminus-framework,2016-08-02,3,1,"#{""dmitri.sotnikov@gmail.com""}",1394.0,71
+Clojure,luminus-framework,2016-08-03,2,2,"#{""matsu911@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1396.0,72
+Clojure,luminus-framework,2016-08-04,2,2,"#{""matsu911@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1398.0,72
+Clojure,luminus-framework,2016-08-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",1400.0,72
+Clojure,luminus-framework,2016-08-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1401.0,72
+Clojure,luminus-framework,2016-08-11,8,3,"#{""damien.garaud@gmail.com"" ""matsu911@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1409.0,73
+Clojure,luminus-framework,2016-08-12,3,1,"#{""dmitri.sotnikov@gmail.com""}",1412.0,73
+Clojure,luminus-framework,2016-08-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1413.0,73
+Clojure,luminus-framework,2016-08-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1414.0,73
+Clojure,luminus-framework,2016-08-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1415.0,73
+Clojure,luminus-framework,2016-08-19,3,1,"#{""dmitri.sotnikov@gmail.com""}",1418.0,73
+Clojure,luminus-framework,2016-08-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1419.0,73
+Clojure,luminus-framework,2016-08-26,2,2,"#{""nrakochy@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1421.0,74
+Clojure,luminus-framework,2016-09-01,1,1,"#{""sjharms@gmail.com""}",1422.0,75
+Clojure,luminus-framework,2016-09-07,4,2,"#{""nrakochy@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1426.0,75
+Clojure,luminus-framework,2016-09-09,2,2,"#{""nrakochy@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1428.0,75
+Clojure,luminus-framework,2016-09-14,4,1,"#{""dmitri.sotnikov@gmail.com""}",1432.0,75
+Clojure,luminus-framework,2016-09-19,4,2,"#{""chk@pobox.com"" ""dmitri.sotnikov@gmail.com""}",1436.0,76
+Clojure,luminus-framework,2016-09-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1437.0,76
+Clojure,luminus-framework,2016-09-22,5,1,"#{""dmitri.sotnikov@gmail.com""}",1442.0,76
+Clojure,luminus-framework,2016-09-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1443.0,76
+Clojure,luminus-framework,2016-09-29,2,2,"#{""dmitri.sotnikov@gmail.com"" ""maxwell.furman@gmail.com""}",1445.0,77
+Clojure,luminus-framework,2016-09-30,3,2,"#{""nrakochy@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1448.0,77
+Clojure,luminus-framework,2016-10-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1449.0,77
+Clojure,luminus-framework,2016-10-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",1451.0,77
+Clojure,luminus-framework,2016-10-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",1453.0,77
+Clojure,luminus-framework,2016-10-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",1454.0,77
+Clojure,luminus-framework,2016-10-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1455.0,77
+Clojure,luminus-framework,2016-10-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1456.0,77
+Clojure,luminus-framework,2016-10-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1457.0,77
+Clojure,luminus-framework,2016-10-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",1459.0,77
+Clojure,luminus-framework,2016-10-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1460.0,77
+Clojure,luminus-framework,2016-10-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",1461.0,77
+Clojure,luminus-framework,2016-11-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1462.0,77
+Clojure,luminus-framework,2016-11-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1463.0,77
+Clojure,luminus-framework,2016-11-27,2,2,"#{""artemchernyak@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1465.0,78
+Clojure,luminus-framework,2016-11-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",1466.0,78
+Clojure,luminus-framework,2016-12-05,3,1,"#{""dmitri.sotnikov@gmail.com""}",1469.0,78
+Clojure,luminus-framework,2016-12-06,1,1,"#{""desk@danielcompton.net""}",1470.0,79
+Clojure,luminus-framework,2016-12-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1471.0,79
+Clojure,luminus-framework,2016-12-09,3,2,"#{""dexter@kth.se"" ""dmitri.sotnikov@gmail.com""}",1474.0,80
+Clojure,luminus-framework,2016-12-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1475.0,80
+Clojure,luminus-framework,2016-12-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1476.0,80
+Clojure,luminus-framework,2016-12-26,2,1,"#{""dmitri.sotnikov@gmail.com""}",1478.0,80
+Clojure,luminus-framework,2016-12-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",1479.0,80
+Clojure,luminus-framework,2017-01-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1480.0,80
+Clojure,luminus-framework,2017-01-03,2,1,"#{""dmitri.sotnikov@gmail.com""}",1482.0,80
+Clojure,luminus-framework,2017-01-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",1483.0,80
+Clojure,luminus-framework,2017-01-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1484.0,80
+Clojure,luminus-framework,2017-01-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",1486.0,80
+Clojure,luminus-framework,2017-01-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",1488.0,80
+Clojure,luminus-framework,2017-01-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",1489.0,80
+Clojure,luminus-framework,2017-01-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1490.0,80
+Clojure,luminus-framework,2017-01-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",1492.0,80
+Clojure,luminus-framework,2017-01-30,2,2,"#{""dmitri.sotnikov@gmail.com"" ""andrzej.sliwa@i-tool.eu""}",1494.0,81
+Clojure,luminus-framework,2017-01-31,2,1,"#{""dmitri.sotnikov@gmail.com""}",1496.0,81
+Clojure,luminus-framework,2017-02-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",1497.0,81
+Clojure,luminus-framework,2017-02-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1498.0,81
+Clojure,luminus-framework,2017-02-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1499.0,81
+Clojure,luminus-framework,2017-02-20,2,1,"#{""dmitri.sotnikov@gmail.com""}",1501.0,81
+Clojure,luminus-framework,2017-02-21,2,1,"#{""dmitri.sotnikov@gmail.com""}",1503.0,81
+Clojure,luminus-framework,2017-02-22,1,1,"#{""raysegantii@users.noreply.github.com""}",1504.0,82
+Clojure,luminus-framework,2017-02-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",1505.0,82
+Clojure,luminus-framework,2017-03-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1506.0,82
+Clojure,luminus-framework,2017-03-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1507.0,82
+Clojure,luminus-framework,2017-03-09,3,1,"#{""dmitri.sotnikov@gmail.com""}",1510.0,82
+Clojure,luminus-framework,2017-03-10,2,1,"#{""dmitri.sotnikov@gmail.com""}",1512.0,82
+Clojure,luminus-framework,2017-03-13,1,1,"#{""technomancy@gmail.com""}",1513.0,83
+Clojure,luminus-framework,2017-03-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",1514.0,83
+Clojure,luminus-framework,2017-03-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1515.0,83
+Clojure,luminus-framework,2017-03-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1516.0,83
+Clojure,luminus-framework,2017-03-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1517.0,83
+Clojure,luminus-framework,2017-03-27,2,1,"#{""dmitri.sotnikov@gmail.com""}",1519.0,83
+Clojure,luminus-framework,2017-03-28,1,1,"#{""telepopsound@gmail.com""}",1520.0,84
+Clojure,luminus-framework,2017-03-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1521.0,84
+Clojure,luminus-framework,2017-03-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1522.0,84
+Clojure,luminus-framework,2017-04-02,3,2,"#{""tommi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1525.0,85
+Clojure,luminus-framework,2017-04-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1526.0,85
+Clojure,luminus-framework,2017-04-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1527.0,85
+Clojure,luminus-framework,2017-04-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",1528.0,85
+Clojure,luminus-framework,2017-04-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1529.0,85
+Clojure,luminus-framework,2017-04-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",1530.0,85
+Clojure,luminus-framework,2017-04-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",1531.0,85
+Clojure,luminus-framework,2017-04-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1532.0,85
+Clojure,luminus-framework,2017-04-29,3,1,"#{""dmitri.sotnikov@gmail.com""}",1535.0,85
+Clojure,luminus-framework,2017-05-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1536.0,85
+Clojure,luminus-framework,2017-05-03,5,1,"#{""dmitri.sotnikov@gmail.com""}",1541.0,85
+Clojure,luminus-framework,2017-05-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1542.0,85
+Clojure,luminus-framework,2017-05-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1543.0,85
+Clojure,luminus-framework,2017-05-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1544.0,85
+Clojure,luminus-framework,2017-05-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1545.0,85
+Clojure,luminus-framework,2017-05-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1546.0,85
+Clojure,luminus-framework,2017-05-21,2,2,"#{""amos.oviedo@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1548.0,86
+Clojure,luminus-framework,2017-05-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1549.0,86
+Clojure,luminus-framework,2017-05-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1550.0,86
+Clojure,luminus-framework,2017-05-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1551.0,86
+Clojure,luminus-framework,2017-05-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1552.0,86
+Clojure,luminus-framework,2017-06-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1553.0,86
+Clojure,luminus-framework,2017-06-05,2,2,"#{""dmitri.sotnikov@gmail.com"" ""alejandro.alvarado0650144@gmail.com""}",1555.0,87
+Clojure,luminus-framework,2017-06-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",1557.0,87
+Clojure,luminus-framework,2017-06-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1558.0,87
+Clojure,luminus-framework,2017-06-26,1,1,"#{""artemchernyak@gmail.com""}",1559.0,87
+Clojure,luminus-framework,2017-06-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1560.0,87
+Clojure,luminus-framework,2017-06-28,3,1,"#{""dmitri.sotnikov@gmail.com""}",1563.0,87
+Clojure,luminus-framework,2017-07-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1564.0,87
+Clojure,luminus-framework,2017-07-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",1565.0,87
+Clojure,luminus-framework,2017-07-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1566.0,87
+Clojure,luminus-framework,2017-07-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1567.0,87
+Clojure,luminus-framework,2017-07-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1568.0,87
+Clojure,luminus-framework,2017-07-21,1,1,"#{""shunsuke.tadokoro@bizreach.co.jp""}",1569.0,88
+Clojure,luminus-framework,2017-07-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1570.0,88
+Clojure,luminus-framework,2017-07-28,3,1,"#{""dmitri.sotnikov@gmail.com""}",1573.0,88
+Clojure,luminus-framework,2017-07-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1574.0,88
+Clojure,luminus-framework,2017-07-31,2,2,"#{""DonyorM@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1576.0,89
+Clojure,luminus-framework,2017-08-01,2,2,"#{""DonyorM@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1578.0,89
+Clojure,luminus-framework,2017-08-02,2,2,"#{""DonyorM@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1580.0,89
+Clojure,luminus-framework,2017-08-08,3,1,"#{""dmitri.sotnikov@gmail.com""}",1583.0,89
+Clojure,luminus-framework,2017-08-09,2,1,"#{""priornix@gmail.com""}",1585.0,90
+Clojure,luminus-framework,2017-08-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1586.0,90
+Clojure,luminus-framework,2017-08-16,2,2,"#{""deg@degel.com"" ""dmitri.sotnikov@gmail.com""}",1588.0,91
+Clojure,luminus-framework,2017-08-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",1590.0,91
+Clojure,luminus-framework,2017-08-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",1592.0,91
+Clojure,luminus-framework,2017-08-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1593.0,91
+Clojure,luminus-framework,2017-08-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1594.0,91
+Clojure,luminus-framework,2017-08-29,1,1,"#{""mail@vkrm.co""}",1595.0,92
+Clojure,luminus-framework,2017-08-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1596.0,92
+Clojure,luminus-framework,2017-09-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1597.0,92
+Clojure,luminus-framework,2017-09-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1598.0,92
+Clojure,luminus-framework,2017-09-08,2,1,"#{""dmitri.sotnikov@gmail.com""}",1600.0,92
+Clojure,luminus-framework,2017-09-29,2,2,"#{""borgeajensen@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1602.0,93
+Clojure,luminus-framework,2017-10-02,2,2,"#{""cpolymeris@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1604.0,94
+Clojure,luminus-framework,2017-10-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",1605.0,94
+Clojure,luminus-framework,2017-10-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",1607.0,94
+Clojure,luminus-framework,2017-10-17,2,2,"#{""nrakochy@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1609.0,94
+Clojure,luminus-framework,2017-10-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1610.0,94
+Clojure,luminus-framework,2017-10-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1611.0,94
+Clojure,luminus-framework,2017-10-25,4,3,"#{""nrakochy@users.noreply.github.com"" ""coka@fastmail.com"" ""dmitri.sotnikov@gmail.com""}",1615.0,95
+Clojure,luminus-framework,2017-10-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1616.0,95
+Clojure,luminus-framework,2017-10-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1617.0,95
+Clojure,luminus-framework,2017-11-03,2,2,"#{""be.picolo@gmail.com"" ""nrakochy@users.noreply.github.com""}",1619.0,96
+Clojure,luminus-framework,2017-11-04,1,1,"#{""dmitri.sotnikov@gmail.com""}",1620.0,96
+Clojure,luminus-framework,2017-11-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",1622.0,96
+Clojure,luminus-framework,2017-11-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1623.0,96
+Clojure,luminus-framework,2017-11-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",1624.0,96
+Clojure,luminus-framework,2017-11-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1625.0,96
+Clojure,luminus-framework,2017-11-11,1,1,"#{""poernahi@gmail.com""}",1626.0,97
+Clojure,luminus-framework,2017-11-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",1627.0,97
+Clojure,luminus-framework,2017-11-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1628.0,97
+Clojure,luminus-framework,2017-11-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",1629.0,97
+Clojure,luminus-framework,2017-11-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",1631.0,97
+Clojure,luminus-framework,2017-11-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1632.0,97
+Clojure,luminus-framework,2017-12-05,1,1,"#{""jakubholy@jakubholy.net""}",1633.0,98
+Clojure,luminus-framework,2017-12-06,1,1,"#{""borgeajensen@gmail.com""}",1634.0,98
+Clojure,luminus-framework,2017-12-08,3,2,"#{""jakubholy@jakubholy.net"" ""dmitri.sotnikov@gmail.com""}",1637.0,98
+Clojure,luminus-framework,2017-12-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1638.0,98
+Clojure,luminus-framework,2017-12-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1639.0,98
+Clojure,luminus-framework,2017-12-27,4,2,"#{""dmitri.sotnikov@gmail.com"" ""brunoburke@googlemail.com""}",1643.0,99
+Clojure,luminus-framework,2017-12-28,2,1,"#{""dmitri.sotnikov@gmail.com""}",1645.0,99
+Clojure,luminus-framework,2017-12-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",1646.0,99
+Clojure,luminus-framework,2017-12-31,3,3,"#{""dmv@springwater7.org"" ""DonyorM@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1649.0,100
+Clojure,luminus-framework,2018-01-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1650.0,100
+Clojure,luminus-framework,2018-01-02,2,1,"#{""dmitri.sotnikov@gmail.com""}",1652.0,100
+Clojure,luminus-framework,2018-01-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",1653.0,100
+Clojure,luminus-framework,2018-01-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1654.0,100
+Clojure,luminus-framework,2018-01-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1655.0,100
+Clojure,luminus-framework,2018-01-12,1,1,"#{""dmitri.sotnikov@gmail.com""}",1656.0,100
+Clojure,luminus-framework,2018-01-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",1658.0,100
+Clojure,luminus-framework,2018-01-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",1659.0,100
+Clojure,luminus-framework,2018-01-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1660.0,100
+Clojure,luminus-framework,2018-01-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1661.0,100
+Clojure,luminus-framework,2018-01-30,3,1,"#{""dmitri.sotnikov@gmail.com""}",1664.0,100
+Clojure,luminus-framework,2018-01-31,2,1,"#{""dmitri.sotnikov@gmail.com""}",1666.0,100
+Clojure,luminus-framework,2018-02-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1667.0,100
+Clojure,luminus-framework,2018-02-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1668.0,100
+Clojure,luminus-framework,2018-02-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",1669.0,100
+Clojure,luminus-framework,2018-02-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1670.0,100
+Clojure,luminus-framework,2018-02-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1671.0,100
+Clojure,luminus-framework,2018-03-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1672.0,100
+Clojure,luminus-framework,2018-03-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",1674.0,100
+Clojure,luminus-framework,2018-03-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1675.0,100
+Clojure,luminus-framework,2018-03-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",1676.0,100
+Clojure,luminus-framework,2018-03-26,2,1,"#{""dmitri.sotnikov@gmail.com""}",1678.0,100
+Clojure,luminus-framework,2018-03-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",1679.0,100
+Clojure,luminus-framework,2018-03-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1680.0,100
+Clojure,luminus-framework,2018-04-01,2,1,"#{""dmv@springwater7.org""}",1682.0,100
+Clojure,luminus-framework,2018-04-02,4,3,"#{""dmv@springwater7.org"" ""DonyorM@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1686.0,100
+Clojure,luminus-framework,2018-04-04,4,2,"#{""dmitri.sotnikov@gmail.com"" ""beetleman@users.noreply.github.com""}",1690.0,101
+Clojure,luminus-framework,2018-04-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",1692.0,101
+Clojure,luminus-framework,2018-04-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",1694.0,101
+Clojure,luminus-framework,2018-04-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",1695.0,101
+Clojure,luminus-framework,2018-04-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1696.0,101
+Clojure,luminus-framework,2018-04-11,2,1,"#{""dmitri.sotnikov@gmail.com""}",1698.0,101
+Clojure,luminus-framework,2018-04-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",1700.0,101
+Clojure,luminus-framework,2018-04-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",1701.0,101
+Clojure,luminus-framework,2018-04-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",1702.0,101
+Clojure,luminus-framework,2018-04-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1703.0,101
+Clojure,luminus-framework,2018-04-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",1705.0,101
+Clojure,luminus-framework,2018-04-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",1706.0,101
+Clojure,luminus-framework,2018-04-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1707.0,101
+Clojure,luminus-framework,2018-04-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",1709.0,101
+Clojure,luminus-framework,2018-04-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",1711.0,101
+Clojure,luminus-framework,2018-04-28,2,2,"#{""alger84@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1713.0,102
+Clojure,luminus-framework,2018-04-29,1,1,"#{""360428+fmariluis@users.noreply.github.com""}",1714.0,103
+Clojure,luminus-framework,2018-05-06,3,1,"#{""dmitri.sotnikov@gmail.com""}",1717.0,103
+Clojure,luminus-framework,2018-05-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1718.0,103
+Clojure,luminus-framework,2018-05-17,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1719.0,104
+Clojure,luminus-framework,2018-05-18,1,1,"#{""desk@danielcompton.net""}",1720.0,104
+Clojure,luminus-framework,2018-05-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1721.0,104
+Clojure,luminus-framework,2018-05-21,3,2,"#{""tommi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1724.0,104
+Clojure,luminus-framework,2018-05-24,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1725.0,104
+Clojure,luminus-framework,2018-05-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",1726.0,104
+Clojure,luminus-framework,2018-05-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",1727.0,104
+Clojure,luminus-framework,2018-06-04,2,1,"#{""dmitri.sotnikov@gmail.com""}",1729.0,104
+Clojure,luminus-framework,2018-06-07,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1730.0,104
+Clojure,luminus-framework,2018-06-08,2,2,"#{""dmitri.sotnikov@uhn.ca"" ""dmitri.sotnikov@gmail.com""}",1732.0,104
+Clojure,luminus-framework,2018-06-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",1733.0,104
+Clojure,luminus-framework,2018-06-10,2,1,"#{""dmv@springwater7.org""}",1735.0,104
+Clojure,luminus-framework,2018-06-15,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1736.0,104
+Clojure,luminus-framework,2018-06-16,2,1,"#{""dmitri.sotnikov@gmail.com""}",1738.0,104
+Clojure,luminus-framework,2018-06-19,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1739.0,104
+Clojure,luminus-framework,2018-06-20,2,1,"#{""dmitri.sotnikov@uhn.ca""}",1741.0,104
+Clojure,luminus-framework,2018-06-25,2,2,"#{""dmitri.sotnikov@uhn.ca"" ""dmitri.sotnikov@gmail.com""}",1743.0,104
+Clojure,luminus-framework,2018-06-29,3,2,"#{""martin.nzioki@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1746.0,105
+Clojure,luminus-framework,2018-07-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1747.0,105
+Clojure,luminus-framework,2018-07-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",1748.0,105
+Clojure,luminus-framework,2018-07-10,3,1,"#{""dmitri.sotnikov@gmail.com""}",1751.0,105
+Clojure,luminus-framework,2018-07-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1752.0,105
+Clojure,luminus-framework,2018-07-14,2,1,"#{""dmitri.sotnikov@gmail.com""}",1754.0,105
+Clojure,luminus-framework,2018-07-15,2,2,"#{""deg@degel.com"" ""dmitri.sotnikov@gmail.com""}",1756.0,105
+Clojure,luminus-framework,2018-07-16,2,1,"#{""dmitri.sotnikov@uhn.ca""}",1758.0,105
+Clojure,luminus-framework,2018-07-17,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1759.0,105
+Clojure,luminus-framework,2018-07-18,1,1,"#{""abhi18av@users.noreply.github.com""}",1760.0,106
+Clojure,luminus-framework,2018-07-20,3,2,"#{""inge.solvoll@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1763.0,107
+Clojure,luminus-framework,2018-07-31,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1764.0,107
+Clojure,luminus-framework,2018-08-03,3,3,"#{""wizzytod@users.noreply.github.com"" ""dmitri.sotnikov@uhn.ca"" ""dmitri.sotnikov@gmail.com""}",1767.0,108
+Clojure,luminus-framework,2018-08-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1768.0,108
+Clojure,luminus-framework,2018-08-09,1,1,"#{""daniel.develop@manilas.net""}",1769.0,109
+Clojure,luminus-framework,2018-08-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1770.0,109
+Clojure,luminus-framework,2018-08-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1771.0,109
+Clojure,luminus-framework,2018-08-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1772.0,109
+Clojure,luminus-framework,2018-08-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",1773.0,109
+Clojure,luminus-framework,2018-08-24,5,1,"#{""dmitri.sotnikov@gmail.com""}",1778.0,109
+Clojure,luminus-framework,2018-08-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",1780.0,109
+Clojure,luminus-framework,2018-08-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1781.0,109
+Clojure,luminus-framework,2018-09-03,2,1,"#{""dmitri.sotnikov@gmail.com""}",1783.0,109
+Clojure,luminus-framework,2018-09-05,2,2,"#{""32507216+computeremotion@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1785.0,110
+Clojure,luminus-framework,2018-09-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",1786.0,110
+Clojure,luminus-framework,2018-09-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",1788.0,110
+Clojure,luminus-framework,2018-09-10,2,2,"#{""32507216+computeremotion@users.noreply.github.com"" ""dmitri.sotnikov@uhn.ca""}",1790.0,110
+Clojure,luminus-framework,2018-09-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",1792.0,110
+Clojure,luminus-framework,2018-09-16,2,2,"#{""daniel.develop@manilas.net"" ""dmitri.sotnikov@gmail.com""}",1794.0,110
+Clojure,luminus-framework,2018-09-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1795.0,110
+Clojure,luminus-framework,2018-09-30,2,1,"#{""dmitri.sotnikov@gmail.com""}",1797.0,110
+Clojure,luminus-framework,2018-10-01,4,2,"#{""32507216+computeremotion@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1801.0,110
+Clojure,luminus-framework,2018-10-02,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1802.0,110
+Clojure,luminus-framework,2018-10-04,3,1,"#{""dmitri.sotnikov@gmail.com""}",1805.0,110
+Clojure,luminus-framework,2018-10-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1806.0,110
+Clojure,luminus-framework,2018-10-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1807.0,110
+Clojure,luminus-framework,2018-10-19,1,1,"#{""mikeli@fastmail.fm""}",1808.0,111
+Clojure,luminus-framework,2018-10-23,2,2,"#{""inge.solvoll@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1810.0,111
+Clojure,luminus-framework,2018-10-25,2,1,"#{""dmitri.sotnikov@gmail.com""}",1812.0,111
+Clojure,luminus-framework,2018-11-05,4,3,"#{""re.vkolesnikov@gmail.com"" ""dmitri.sotnikov@uhn.ca"" ""dmitri.sotnikov@gmail.com""}",1816.0,111
+Clojure,luminus-framework,2018-11-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",1817.0,111
+Clojure,luminus-framework,2018-11-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",1819.0,111
+Clojure,luminus-framework,2018-11-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1820.0,111
+Clojure,luminus-framework,2018-11-19,3,2,"#{""assoc-in@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1823.0,112
+Clojure,luminus-framework,2018-11-20,2,2,"#{""32507216+computeremotion@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1825.0,112
+Clojure,luminus-framework,2018-11-24,2,1,"#{""dmitri.sotnikov@gmail.com""}",1827.0,112
+Clojure,luminus-framework,2018-11-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",1828.0,112
+Clojure,luminus-framework,2018-11-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1829.0,112
+Clojure,luminus-framework,2018-12-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1830.0,112
+Clojure,luminus-framework,2018-12-02,1,1,"#{""re.vkolesnikov@gmail.com""}",1831.0,112
+Clojure,luminus-framework,2018-12-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1832.0,112
+Clojure,luminus-framework,2018-12-07,1,1,"#{""tommi@iki.fi""}",1833.0,112
+Clojure,luminus-framework,2018-12-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",1834.0,112
+Clojure,luminus-framework,2018-12-16,4,2,"#{""tommi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1838.0,112
+Clojure,luminus-framework,2018-12-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1839.0,112
+Clojure,luminus-framework,2018-12-20,2,1,"#{""daniel.develop@manilas.net""}",1841.0,112
+Clojure,luminus-framework,2018-12-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1842.0,112
+Clojure,luminus-framework,2018-12-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1843.0,112
+Clojure,luminus-framework,2018-12-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1844.0,112
+Clojure,luminus-framework,2019-01-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1845.0,112
+Clojure,luminus-framework,2019-01-12,1,1,"#{""mzhr@protonmail.com""}",1846.0,113
+Clojure,luminus-framework,2019-01-15,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1847.0,113
+Clojure,luminus-framework,2019-01-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1848.0,113
+Clojure,luminus-framework,2019-01-25,1,1,"#{""dmitri.sotnikov@uhn.ca""}",1849.0,113
+Clojure,luminus-framework,2019-01-29,2,2,"#{""skyefreeman@icloud.com"" ""dmitri.sotnikov@gmail.com""}",1851.0,114
+Clojure,luminus-framework,2019-02-01,2,2,"#{""dmitri.sotnikov@uhn.ca"" ""dmitri.sotnikov@gmail.com""}",1853.0,114
+Clojure,luminus-framework,2019-02-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1854.0,114
+Clojure,luminus-framework,2019-02-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1855.0,114
+Clojure,luminus-framework,2019-02-12,1,1,"#{""fvides@idedalo.com""}",1856.0,115
+Clojure,luminus-framework,2019-02-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",1857.0,115
+Clojure,luminus-framework,2019-02-20,2,1,"#{""dmitri.sotnikov@gmail.com""}",1859.0,115
+Clojure,luminus-framework,2019-02-23,2,1,"#{""humorless@gmail.com""}",1861.0,116
+Clojure,luminus-framework,2019-03-09,1,1,"#{""humorless@gmail.com""}",1862.0,116
+Clojure,luminus-framework,2019-03-17,2,1,"#{""dmitri.sotnikov@gmail.com""}",1864.0,116
+Clojure,luminus-framework,2019-03-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",1865.0,116
+Clojure,luminus-framework,2019-03-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",1866.0,116
+Clojure,luminus-framework,2019-03-26,2,2,"#{""slidingfilaments@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1868.0,117
+Clojure,luminus-framework,2019-03-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",1869.0,117
+Clojure,luminus-framework,2019-03-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1870.0,117
+Clojure,luminus-framework,2019-04-04,2,2,"#{""haiyuan.vinurs@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1872.0,118
+Clojure,luminus-framework,2019-04-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1873.0,118
+Clojure,luminus-framework,2019-04-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",1874.0,118
+Clojure,luminus-framework,2019-04-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",1875.0,118
+Clojure,luminus-framework,2019-04-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",1876.0,118
+Clojure,luminus-framework,2019-04-30,1,1,"#{""nikola.peric@synqrinus.com""}",1877.0,119
+Clojure,luminus-framework,2019-05-04,2,2,"#{""11434205+dijonkitchen@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1879.0,120
+Clojure,luminus-framework,2019-05-09,5,2,"#{""nik@nikperic.com"" ""dmitri.sotnikov@gmail.com""}",1884.0,121
+Clojure,luminus-framework,2019-05-10,6,2,"#{""nikola.peric@synqrinus.com"" ""dmitri.sotnikov@gmail.com""}",1890.0,121
+Clojure,luminus-framework,2019-05-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1891.0,121
+Clojure,luminus-framework,2019-05-22,2,2,"#{""nik@nikperic.com"" ""dmitri.sotnikov@gmail.com""}",1893.0,121
+Clojure,luminus-framework,2019-05-23,2,2,"#{""tommi@iki.fi"" ""dmitri.sotnikov@gmail.com""}",1895.0,121
+Clojure,luminus-framework,2019-05-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1896.0,121
+Clojure,luminus-framework,2019-05-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",1897.0,121
+Clojure,luminus-framework,2019-05-29,1,1,"#{""11434205+dijonkitchen@users.noreply.github.com""}",1898.0,121
+Clojure,luminus-framework,2019-05-30,2,2,"#{""34898768+tlamr@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1900.0,122
+Clojure,luminus-framework,2019-06-02,2,2,"#{""11434205+dijonkitchen@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1902.0,122
+Clojure,luminus-framework,2019-06-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1903.0,122
+Clojure,luminus-framework,2019-06-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1904.0,122
+Clojure,luminus-framework,2019-06-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1905.0,122
+Clojure,luminus-framework,2019-06-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1906.0,122
+Clojure,luminus-framework,2019-06-28,5,1,"#{""dmitri.sotnikov@gmail.com""}",1911.0,122
+Clojure,luminus-framework,2019-07-05,3,2,"#{""nik@nikperic.com"" ""dmitri.sotnikov@gmail.com""}",1914.0,122
+Clojure,luminus-framework,2019-07-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",1915.0,122
+Clojure,luminus-framework,2019-07-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",1916.0,122
+Clojure,luminus-framework,2019-07-25,2,2,"#{""adamkasztenny@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1918.0,123
+Clojure,luminus-framework,2019-07-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1919.0,123
+Clojure,luminus-framework,2019-08-02,2,2,"#{""erwin@rooijakkers.software"" ""dmitri.sotnikov@gmail.com""}",1921.0,124
+Clojure,luminus-framework,2019-08-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1922.0,124
+Clojure,luminus-framework,2019-08-19,1,1,"#{""nikola.peric@synqrinus.com""}",1923.0,124
+Clojure,luminus-framework,2019-08-22,2,1,"#{""dmitri.sotnikov@gmail.com""}",1925.0,124
+Clojure,luminus-framework,2019-08-25,1,1,"#{""duncan@bayne.id.au""}",1926.0,125
+Clojure,luminus-framework,2019-09-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",1927.0,125
+Clojure,luminus-framework,2019-09-14,1,1,"#{""11434205+dijonkitchen@users.noreply.github.com""}",1928.0,125
+Clojure,luminus-framework,2019-10-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",1929.0,125
+Clojure,luminus-framework,2019-11-11,2,1,"#{""nikola.peric@synqrinus.com""}",1931.0,125
+Clojure,luminus-framework,2019-11-13,1,1,"#{""nikola.peric@synqrinus.com""}",1932.0,125
+Clojure,luminus-framework,2019-11-17,1,1,"#{""dmitri.sotnikov@gmail.com""}",1933.0,125
+Clojure,luminus-framework,2019-11-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",1935.0,125
+Clojure,luminus-framework,2019-11-26,1,1,"#{""dmitri.sotnikov@gmail.com""}",1936.0,125
+Clojure,luminus-framework,2019-11-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1937.0,125
+Clojure,luminus-framework,2019-12-03,1,1,"#{""dmitri.sotnikov@gmail.com""}",1938.0,125
+Clojure,luminus-framework,2019-12-29,2,1,"#{""dmitri.sotnikov@gmail.com""}",1940.0,125
+Clojure,luminus-framework,2020-01-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",1942.0,125
+Clojure,luminus-framework,2020-01-19,3,1,"#{""dmitri.sotnikov@gmail.com""}",1945.0,125
+Clojure,luminus-framework,2020-01-26,2,2,"#{""jasebell@gmail.com"" ""dmitri.sotnikov@gmail.com""}",1947.0,126
+Clojure,luminus-framework,2020-01-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",1948.0,126
+Clojure,luminus-framework,2020-02-05,1,1,"#{""dmitri.sotnikov@gmail.com""}",1949.0,126
+Clojure,luminus-framework,2020-02-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",1950.0,126
+Clojure,luminus-framework,2020-02-16,1,1,"#{""skroth@users.noreply.github.com""}",1951.0,127
+Clojure,luminus-framework,2020-02-17,1,1,"#{""11434205+dijonkitchen@users.noreply.github.com""}",1952.0,127
+Clojure,luminus-framework,2020-02-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",1953.0,127
+Clojure,luminus-framework,2020-02-28,2,1,"#{""dmitri.sotnikov@gmail.com""}",1955.0,127
+Clojure,luminus-framework,2020-03-13,1,1,"#{""Cnly@users.noreply.github.com""}",1956.0,128
+Clojure,luminus-framework,2020-03-14,1,1,"#{""pez@pezius.com""}",1957.0,129
+Clojure,luminus-framework,2020-03-15,3,2,"#{""dmitri.sotnikov@gmail.com"" ""pez@pezius.com""}",1960.0,129
+Clojure,luminus-framework,2020-03-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",1962.0,129
+Clojure,luminus-framework,2020-03-20,1,1,"#{""pez@pezius.com""}",1963.0,129
+Clojure,luminus-framework,2020-03-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",1964.0,129
+Clojure,luminus-framework,2020-03-28,6,3,"#{""nikola.peric@synqrinus.com"" ""nik@nikperic.com"" ""dmitri.sotnikov@gmail.com""}",1970.0,129
+Clojure,luminus-framework,2020-03-29,3,3,"#{""nik@nikperic.com"" ""dmitri.sotnikov@gmail.com"" ""andrew.b.suzuki@gmail.com""}",1973.0,130
+Clojure,luminus-framework,2020-03-30,4,2,"#{""nik@nikperic.com"" ""dmitri.sotnikov@gmail.com""}",1977.0,130
+Clojure,luminus-framework,2020-03-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",1978.0,130
+Clojure,luminus-framework,2020-04-08,2,2,"#{""nikola.peric@synqrinus.com"" ""nik@nikperic.com""}",1980.0,130
+Clojure,luminus-framework,2020-04-09,3,3,"#{""nikola.peric@synqrinus.com"" ""acobster@users.noreply.github.com"" ""dmitri.sotnikov@gmail.com""}",1983.0,131
+Clojure,luminus-framework,2020-04-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",1984.0,131
+Clojure,luminus-framework,2020-04-14,2,1,"#{""dmitri.sotnikov@gmail.com""}",1986.0,131
+Clojure,luminus-framework,2020-04-21,1,1,"#{""11434205+dijonkitchen@users.noreply.github.com""}",1987.0,131
+Clojure,luminus-framework,2020-04-24,4,1,"#{""dmitri.sotnikov@gmail.com""}",1991.0,131
+Clojure,luminus-framework,2020-04-30,1,1,"#{""11434205+dijonkitchen@users.noreply.github.com""}",1992.0,131
+Clojure,luminus-framework,2020-05-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",1993.0,131
+Clojure,luminus-framework,2020-05-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",1994.0,131
+Clojure,luminus-framework,2020-05-06,1,1,"#{""11434205+dijonkitchen@users.noreply.github.com""}",1995.0,131
+Clojure,luminus-framework,2020-05-13,2,2,"#{""nik@nikperic.com"" ""dmitri.sotnikov@gmail.com""}",1997.0,131
+Clojure,luminus-framework,2020-05-15,2,1,"#{""dmitri.sotnikov@gmail.com""}",1999.0,131
+Clojure,luminus-framework,2020-05-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",2000.0,131
+Clojure,luminus-framework,2020-05-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",2001.0,131
+Clojure,luminus-framework,2020-05-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",2002.0,131
+Clojure,luminus-framework,2020-05-27,2,2,"#{""dmitri.sotnikov@gmail.com"" ""felix.beaulieu@protonmail.com""}",2004.0,132
+Clojure,luminus-framework,2020-06-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",2005.0,132
+Clojure,luminus-framework,2020-06-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",2006.0,132
+Clojure,luminus-framework,2020-07-01,1,1,"#{""ertu.ctn@gmail.com""}",2007.0,133
+Clojure,luminus-framework,2020-07-08,3,2,"#{""nikita@sovereign.zone"" ""dmitri.sotnikov@gmail.com""}",2010.0,134
+Clojure,luminus-framework,2020-07-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",2011.0,134
+Clojure,luminus-framework,2020-07-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",2012.0,134
+Clojure,luminus-framework,2020-07-16,2,2,"#{""dmitri.sotnikov@gmail.com"" ""mikeyhogarth@users.noreply.github.com""}",2014.0,135
+Clojure,luminus-framework,2020-07-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",2015.0,135
+Clojure,luminus-framework,2020-07-20,3,2,"#{""nfedyashev@gmail.com"" ""dmitri.sotnikov@gmail.com""}",2018.0,136
+Clojure,luminus-framework,2020-07-22,2,2,"#{""nfedyashev@gmail.com"" ""prbroadfoot@gmail.com""}",2020.0,136
+Clojure,luminus-framework,2020-07-28,4,2,"#{""nfedyashev@gmail.com"" ""simon.okwori@gmail.com""}",2024.0,137
+Clojure,luminus-framework,2020-07-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",2025.0,137
+Clojure,luminus-framework,2020-08-02,1,1,"#{""518057+jmckitrick@users.noreply.github.com""}",2026.0,138
+Clojure,luminus-framework,2020-08-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",2028.0,138
+Clojure,luminus-framework,2020-08-13,1,1,"#{""dmitri.sotnikov@gmail.com""}",2029.0,138
+Clojure,luminus-framework,2020-08-21,2,1,"#{""nfedyashev@gmail.com""}",2031.0,138
+Clojure,luminus-framework,2020-08-22,1,1,"#{""518057+jmckitrick@users.noreply.github.com""}",2032.0,138
+Clojure,luminus-framework,2020-08-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",2033.0,138
+Clojure,luminus-framework,2020-08-30,1,1,"#{""hoxu@users.noreply.github.com""}",2034.0,139
+Clojure,luminus-framework,2020-09-06,1,1,"#{""nfedyashev@gmail.com""}",2035.0,139
+Clojure,luminus-framework,2020-09-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",2036.0,139
+Clojure,luminus-framework,2020-09-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",2037.0,139
+Clojure,luminus-framework,2020-09-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",2038.0,139
+Clojure,luminus-framework,2020-09-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",2039.0,139
+Clojure,luminus-framework,2020-10-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",2040.0,139
+Clojure,luminus-framework,2020-10-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",2041.0,139
+Clojure,luminus-framework,2020-10-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",2042.0,139
+Clojure,luminus-framework,2020-10-26,1,1,"#{""kontakt@franzherzog.de""}",2043.0,140
+Clojure,luminus-framework,2020-11-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",2044.0,140
+Clojure,luminus-framework,2020-11-15,1,1,"#{""anthony.kusumo.khong@gmail.com""}",2045.0,141
+Clojure,luminus-framework,2020-11-21,2,2,"#{""anthony.kusumo.khong@gmail.com"" ""dmitri.sotnikov@gmail.com""}",2047.0,141
+Clojure,luminus-framework,2020-11-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",2048.0,141
+Clojure,luminus-framework,2020-11-28,1,1,"#{""Cnly@users.noreply.github.com""}",2049.0,141
+Clojure,luminus-framework,2020-12-05,1,1,"#{""pez@pezius.com""}",2050.0,141
+Clojure,luminus-framework,2020-12-21,1,1,"#{""dmitri.sotnikov@gmail.com""}",2051.0,141
+Clojure,luminus-framework,2021-01-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",2052.0,141
+Clojure,luminus-framework,2021-01-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",2053.0,141
+Clojure,luminus-framework,2021-01-26,2,1,"#{""dmitri.sotnikov@gmail.com""}",2055.0,141
+Clojure,luminus-framework,2021-02-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",2056.0,141
+Clojure,luminus-framework,2021-02-08,3,1,"#{""dmitri.sotnikov@gmail.com""}",2059.0,141
+Clojure,luminus-framework,2021-02-09,1,1,"#{""inge.solvoll@gmail.com""}",2060.0,141
+Clojure,luminus-framework,2021-02-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",2061.0,141
+Clojure,luminus-framework,2021-03-09,1,1,"#{""dmitri.sotnikov@gmail.com""}",2062.0,141
+Clojure,luminus-framework,2021-03-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",2063.0,141
+Clojure,luminus-framework,2021-03-30,1,1,"#{""patrix@patrix.org""}",2064.0,142
+Clojure,luminus-framework,2021-04-06,2,1,"#{""dmitri.sotnikov@gmail.com""}",2066.0,142
+Clojure,luminus-framework,2021-04-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",2067.0,142
+Clojure,luminus-framework,2021-04-18,2,1,"#{""dmitri.sotnikov@gmail.com""}",2069.0,142
+Clojure,luminus-framework,2021-05-06,3,1,"#{""dmitri.sotnikov@gmail.com""}",2072.0,142
+Clojure,luminus-framework,2021-05-15,2,2,"#{""jsimpson92@hotmail.co.uk"" ""dmitri.sotnikov@gmail.com""}",2074.0,143
+Clojure,luminus-framework,2021-05-20,2,2,"#{""dmitri.sotnikov@gmail.com"" ""pez@pezius.com""}",2076.0,143
+Clojure,luminus-framework,2021-05-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",2077.0,143
+Clojure,luminus-framework,2021-06-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",2078.0,143
+Clojure,luminus-framework,2021-06-16,1,1,"#{""zoeller@hey.com""}",2079.0,144
+Clojure,luminus-framework,2021-06-24,2,2,"#{""marko@euptera.com"" ""dmitri.sotnikov@gmail.com""}",2081.0,145
+Clojure,luminus-framework,2021-07-01,1,1,"#{""dmitri.sotnikov@gmail.com""}",2082.0,145
+Clojure,luminus-framework,2021-07-02,1,1,"#{""dmitri.sotnikov@gmail.com""}",2083.0,145
+Clojure,luminus-framework,2021-07-04,2,2,"#{""dmitri.sotnikov@gmail.com"" ""pez@pezius.com""}",2085.0,145
+Clojure,luminus-framework,2021-07-13,2,1,"#{""dmitri.sotnikov@gmail.com""}",2087.0,145
+Clojure,luminus-framework,2021-07-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",2088.0,145
+Clojure,luminus-framework,2021-07-30,1,1,"#{""dmitri.sotnikov@gmail.com""}",2089.0,145
+Clojure,luminus-framework,2021-08-05,2,2,"#{""whamtet@gmail.com"" ""dmitri.sotnikov@gmail.com""}",2091.0,146
+Clojure,luminus-framework,2021-09-05,2,1,"#{""dmitri.sotnikov@gmail.com""}",2093.0,146
+Clojure,luminus-framework,2021-09-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",2094.0,146
+Clojure,luminus-framework,2021-09-09,2,2,"#{""jsimpson92@hotmail.co.uk"" ""dmitri.sotnikov@gmail.com""}",2096.0,146
+Clojure,luminus-framework,2021-10-22,1,1,"#{""dmitri.sotnikov@gmail.com""}",2097.0,146
+Clojure,luminus-framework,2021-10-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",2098.0,146
+Clojure,luminus-framework,2021-11-04,2,1,"#{""dmitri.sotnikov@gmail.com""}",2100.0,146
+Clojure,luminus-framework,2021-11-14,2,1,"#{""55880260+AbhinavOmprakash@users.noreply.github.com""}",2102.0,147
+Clojure,luminus-framework,2021-11-19,2,1,"#{""dmitri.sotnikov@gmail.com""}",2104.0,147
+Clojure,luminus-framework,2021-11-20,1,1,"#{""elias94@users.noreply.github.com""}",2105.0,148
+Clojure,luminus-framework,2021-11-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",2106.0,148
+Clojure,luminus-framework,2021-11-25,1,1,"#{""elias94@users.noreply.github.com""}",2107.0,148
+Clojure,luminus-framework,2021-12-07,1,1,"#{""dmitri.sotnikov@gmail.com""}",2108.0,148
+Clojure,luminus-framework,2021-12-10,1,1,"#{""dmitri.sotnikov@gmail.com""}",2109.0,148
+Clojure,luminus-framework,2021-12-12,2,1,"#{""dmitri.sotnikov@gmail.com""}",2111.0,148
+Clojure,luminus-framework,2021-12-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",2112.0,148
+Clojure,luminus-framework,2021-12-24,1,1,"#{""dmitri.sotnikov@gmail.com""}",2113.0,148
+Clojure,luminus-framework,2021-12-26,1,1,"#{""94855537+shogidude@users.noreply.github.com""}",2114.0,149
+Clojure,luminus-framework,2021-12-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",2115.0,149
+Clojure,luminus-framework,2021-12-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",2116.0,149
+Clojure,luminus-framework,2022-01-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",2117.0,149
+Clojure,luminus-framework,2022-02-08,1,1,"#{""dmitri.sotnikov@gmail.com""}",2118.0,149
+Clojure,luminus-framework,2022-03-09,2,1,"#{""dmitri.sotnikov@gmail.com""}",2120.0,149
+Clojure,luminus-framework,2022-03-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",2121.0,149
+Clojure,luminus-framework,2022-03-27,1,1,"#{""github@matasaru.net""}",2122.0,150
+Clojure,luminus-framework,2022-03-28,1,1,"#{""dmitri.sotnikov@gmail.com""}",2123.0,150
+Clojure,luminus-framework,2022-03-31,1,1,"#{""dmitri.sotnikov@gmail.com""}",2124.0,150
+Clojure,luminus-framework,2022-05-14,1,1,"#{""dmitri.sotnikov@gmail.com""}",2125.0,150
+Clojure,luminus-framework,2022-05-19,1,1,"#{""dmitri.sotnikov@gmail.com""}",2126.0,150
+Clojure,luminus-framework,2022-07-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",2127.0,150
+Clojure,luminus-framework,2022-07-28,1,1,"#{""vemv@users.noreply.github.com""}",2128.0,151
+Clojure,luminus-framework,2022-08-18,1,1,"#{""dmitri.sotnikov@gmail.com""}",2129.0,151
+Clojure,luminus-framework,2022-08-22,3,1,"#{""dmitri.sotnikov@gmail.com""}",2132.0,151
+Clojure,luminus-framework,2022-08-23,1,1,"#{""dmitri.sotnikov@gmail.com""}",2133.0,151
+Clojure,luminus-framework,2022-08-25,1,1,"#{""dmitri.sotnikov@gmail.com""}",2134.0,151
+Clojure,luminus-framework,2022-10-06,1,1,"#{""dmitri.sotnikov@gmail.com""}",2135.0,151
+Clojure,luminus-framework,2022-10-11,1,1,"#{""dmitri.sotnikov@gmail.com""}",2136.0,151
+Clojure,luminus-framework,2022-10-12,1,1,"#{""spamless.juergen@gmail.com""}",2137.0,152
+Clojure,luminus-framework,2022-10-15,1,1,"#{""dmitri.sotnikov@gmail.com""}",2138.0,152
+Clojure,luminus-framework,2022-10-17,1,1,"#{""spamless.juergen@gmail.com""}",2139.0,152
+Clojure,luminus-framework,2022-12-20,1,1,"#{""dmitri.sotnikov@gmail.com""}",2140.0,152
+Clojure,luminus-framework,2023-01-26,1,1,"#{""christian.egli@sbs.ch""}",2141.0,153
+Clojure,luminus-framework,2023-01-27,1,1,"#{""dmitri.sotnikov@gmail.com""}",2142.0,153
+Clojure,luminus-framework,2023-04-29,1,1,"#{""dmitri.sotnikov@gmail.com""}",2143.0,153
+Clojure,luminus-framework,2023-09-16,1,1,"#{""dmitri.sotnikov@gmail.com""}",2144.0,153

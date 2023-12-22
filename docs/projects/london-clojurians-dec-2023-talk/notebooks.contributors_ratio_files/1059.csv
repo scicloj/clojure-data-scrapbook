@@ -1,0 +1,592 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/cch1/http.async.client,2010-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-03-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",2.0,[{0 2}],0,2,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-03-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-03-31,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[h.iwaniuk@sourcesense.com, h.iwaniuk@sourcesense.com, neotyk@kungfoo.pl]",7.0,"[{0 5, ""other"" 2}]",2,5,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",8.0,"[{0 6, ""other"" 2}]",2,6,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-06-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",9.0,"[{0 7, ""other"" 2}]",2,7,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-06-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",11.0,"[{0 9, ""other"" 2}]",2,9,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-06-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",13.0,"[{0 11, ""other"" 2}]",2,11,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",14.0,"[{0 12, ""other"" 2}]",2,12,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",15.0,"[{0 13, ""other"" 2}]",2,13,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",16.0,"[{0 14, ""other"" 2}]",2,14,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",18.0,"[{0 16, ""other"" 2}]",2,16,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",19.0,"[{0 17, ""other"" 2}]",2,17,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-08,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",24.0,"[{0 22, ""other"" 2}]",2,22,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",27.0,"[{0 25, ""other"" 2}]",2,25,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",29.0,"[{0 27, ""other"" 2}]",2,27,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",32.0,"[{0 30, ""other"" 2}]",2,30,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-14,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",40.0,"[{0 38, ""other"" 2}]",2,38,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",44.0,"[{0 42, ""other"" 2}]",2,42,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",45.0,"[{0 43, ""other"" 2}]",2,43,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",48.0,"[{0 46, ""other"" 2}]",2,46,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",51.0,"[{0 49, ""other"" 2}]",2,49,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",53.0,"[{0 51, ""other"" 2}]",2,51,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",54.0,"[{0 52, ""other"" 2}]",2,52,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",56.0,"[{0 54, ""other"" 2}]",2,54,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",57.0,"[{0 55, ""other"" 2}]",2,55,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",59.0,"[{0 57, ""other"" 2}]",2,57,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",60.0,"[{0 58, ""other"" 2}]",2,58,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-13,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",68.0,"[{0 66, ""other"" 2}]",2,66,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",72.0,"[{0 70, ""other"" 2}]",2,70,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",74.0,"[{0 72, ""other"" 2}]",2,72,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",76.0,"[{0 74, ""other"" 2}]",2,74,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",79.0,"[{0 77, ""other"" 2}]",2,77,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",81.0,"[{0 79, ""other"" 2}]",2,79,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",84.0,"[{0 82, ""other"" 2}]",2,82,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",88.0,"[{0 86, ""other"" 2}]",2,86,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",89.0,"[{0 87, ""other"" 2}]",2,87,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",91.0,"[{0 89, ""other"" 2}]",2,89,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-08-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",93.0,"[{0 91, ""other"" 2}]",2,91,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",95.0,"[{0 93, ""other"" 2}]",2,93,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",100.0,"[{0 98, ""other"" 2}]",2,98,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-06,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",108.0,"[{0 106, ""other"" 2}]",2,106,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",112.0,"[{0 110, ""other"" 2}]",2,110,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",114.0,"[{0 112, ""other"" 2}]",2,112,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",120.0,"[{0 118, ""other"" 2}]",2,118,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",124.0,"[{0 122, ""other"" 2}]",2,122,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",125.0,"[{0 123, ""other"" 2}]",2,123,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",126.0,"[{0 124, ""other"" 2}]",2,124,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",128.0,"[{0 126, ""other"" 2}]",2,126,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",132.0,"[{0 130, ""other"" 2}]",2,130,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-09-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",136.0,"[{0 134, ""other"" 2}]",2,134,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-10-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",137.0,"[{0 135, ""other"" 2}]",2,135,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",138.0,"[{0 136, ""other"" 2}]",2,136,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-10-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",140.0,"[{0 138, ""other"" 2}]",2,138,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-11-01,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",147.0,"[{0 145, ""other"" 2}]",2,145,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[carlo.sciolla@gmail.com, carlo.sciolla@gmail.com]",149.0,"[{0 145, ""other"" 4}]",4,145,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-11-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",151.0,"[{0 147, ""other"" 4}]",4,147,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-11-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",154.0,"[{0 150, ""other"" 4}]",4,150,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",155.0,"[{0 151, ""other"" 4}]",4,151,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vadim@yummly.com]",156.0,"[{0 151, ""other"" 5}]",5,151,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vadim@yummly.com]",157.0,"[{0 151, ""other"" 6}]",6,151,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",158.0,"[{0 152, ""other"" 6}]",6,152,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2010-12-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[vadim@yummly.com, vadim@yummly.com, vadim@yummly.com, vadim@yummly.com]",162.0,"[{0 152, ""other"" 10}]",10,152,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-01-03,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[vadim@yummly.com, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",169.0,"[{0 158, ""other"" 11}]",11,158,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-01-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",170.0,"[{0 159, ""other"" 11}]",11,159,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",171.0,"[{0 160, ""other"" 11}]",11,160,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",172.0,"[{0 161, ""other"" 11}]",11,161,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-02-07,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",177.0,"[{0 166, ""other"" 11}]",11,166,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-02-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",181.0,"[{0 170, ""other"" 11}]",11,170,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-03-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nmorris@nelsonmorris.net, nmorris@nelsonmorris.net]",183.0,"[{0 170, ""other"" 13}]",13,170,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vadim@yummly.com]",184.0,"[{0 170, ""other"" 14}]",14,170,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-04-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",187.0,"[{0 173, ""other"" 14}]",14,173,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-04-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",191.0,"[{0 177, ""other"" 14}]",14,177,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-04-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",195.0,"[{0 181, ""other"" 14}]",14,181,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-04-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",197.0,"[{0 183, ""other"" 14}]",14,183,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",198.0,"[{0 184, ""other"" 14}]",14,184,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-06-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",201.0,"[{0 187, ""other"" 14}]",14,187,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-06-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",204.0,"[{0 190, ""other"" 14}]",14,190,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",206.0,"[{0 192, ""other"" 14}]",14,192,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[neotyk@kungfoo.pl]",207.0,"[{0 193, ""other"" 14}]",14,193,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-06-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",209.0,"[{0 195, ""other"" 14}]",14,195,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-06-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",211.0,"[{0 197, ""other"" 14}]",14,197,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-07-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hubert.iwaniuk@gmail.com, danieljomphe@gmail.com]",213.0,"[{0 197, ""other"" 16}]",16,197,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-09-19,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",219.0,"[{0 203, ""other"" 16}]",16,203,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-09-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[vadim@yummly.com, adamwynne@gmail.com, adamwynne@gmail.com]",222.0,"[{0 203, ""other"" 19}]",19,203,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-09-27,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vadim@yummly.com, adamwynne@gmail.com]",224.0,"[{0 203, ""other"" 21}]",21,203,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-09-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",226.0,"[{0 205, ""other"" 21}]",21,205,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-12-26,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, hubert.iwaniuk@gmail.com, michael@novemberain.com, neotyk@kungfoo.pl]",233.0,"[{0 210, ""other"" 23}]",23,210,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",235.0,"[{0 212, ""other"" 23}]",23,212,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-12-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl]",237.0,"[{0 214, ""other"" 23}]",23,214,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2011-12-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl, neotyk@kungfoo.pl]",241.0,"[{0 218, ""other"" 23}]",23,218,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-01-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hubert.iwaniuk@gmail.com, jkkramer@gmail.com]",243.0,"[{0 218, ""other"" 25}]",25,218,0,0,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-01-21,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",247.0,"[{0 218, ""other"" 25, 2 4}]",25,218,0,4,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-01-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hubert.iwaniuk@gmail.com, karstenlang@gmail.com]",249.0,"[{0 218, ""other"" 27, 2 4}]",27,218,0,4,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",253.0,"[{0 218, ""other"" 27, 2 8}]",27,218,0,8,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",256.0,"[{0 218, ""other"" 27, 2 11}]",27,218,0,11,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl]",258.0,"[{0 218, ""other"" 27, 2 13}]",27,218,0,13,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andrew@hotelicopter.com]",259.0,"[{0 218, ""other"" 28, 2 13}]",28,218,0,13,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-20,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, andrew@hotelicopter.com]",263.0,"[{0 218, ""other"" 29, 2 16}]",29,218,0,16,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",264.0,"[{0 218, ""other"" 29, 2 17}]",29,218,0,17,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-24,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, cesar.canassa@gmail.com]",268.0,"[{0 218, ""other"" 30, 2 20}]",30,218,0,20,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-02-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",272.0,"[{0 218, ""other"" 30, 2 24}]",30,218,0,24,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-03-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",275.0,"[{0 218, ""other"" 30, 2 27}]",30,218,0,27,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-04-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",276.0,"[{0 218, ""other"" 30, 2 28}]",30,218,0,28,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-04-27,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",285.0,"[{0 218, ""other"" 30, 2 37}]",30,218,0,37,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl]",287.0,"[{0 218, ""other"" 30, 2 39}]",30,218,0,39,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",288.0,"[{0 218, ""other"" 30, 2 40}]",30,218,0,40,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",289.0,"[{0 218, ""other"" 30, 2 41}]",30,218,0,41,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",290.0,"[{0 218, ""other"" 30, 2 42}]",30,218,0,42,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",294.0,"[{0 218, ""other"" 30, 2 46}]",30,218,0,46,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",298.0,"[{0 218, ""other"" 30, 2 50}]",30,218,0,50,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert.iwaniuk@gmail.com]",299.0,"[{0 218, ""other"" 31, 2 50}]",31,218,0,50,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",300.0,"[{0 218, ""other"" 31, 2 51}]",31,218,0,51,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",301.0,"[{0 218, ""other"" 31, 2 52}]",31,218,0,52,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",302.0,"[{0 218, ""other"" 31, 2 53}]",31,218,0,53,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",303.0,"[{0 218, ""other"" 31, 2 54}]",31,218,0,54,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",304.0,"[{0 218, ""other"" 31, 2 55}]",31,218,0,55,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-05-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl]",306.0,"[{0 218, ""other"" 31, 2 57}]",31,218,0,57,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michael.neale@gmail.com]",307.0,"[{0 218, ""other"" 32, 2 57}]",32,218,0,57,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-06-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",311.0,"[{0 218, ""other"" 32, 2 61}]",32,218,0,61,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-07-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",314.0,"[{0 218, ""other"" 32, 2 64}]",32,218,0,64,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-09-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sisonfam@gmail.com, sisonfam@gmail.com]",316.0,"[{0 218, ""other"" 34, 2 64}]",34,218,0,64,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sisonfam@gmail.com]",317.0,"[{0 218, ""other"" 35, 2 64}]",35,218,0,64,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-09-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",321.0,"[{0 218, ""other"" 35, 2 68}]",35,218,0,68,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",322.0,"[{0 218, ""other"" 35, 2 69}]",35,218,0,69,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-09-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl]",324.0,"[{0 218, ""other"" 35, 2 71}]",35,218,0,71,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-10-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",327.0,"[{0 218, ""other"" 35, 2 74}]",35,218,0,74,0,0
+Clojure,https://github.com/cch1/http.async.client,2012-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",328.0,"[{0 218, ""other"" 35, 2 75}]",35,218,0,75,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joe@josephwilk.net]",329.0,"[{0 218, ""other"" 36, 2 75}]",36,218,0,75,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-01-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",332.0,"[{0 218, ""other"" 36, 2 78}]",36,218,0,78,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joe@josephwilk.net]",333.0,"[{0 218, ""other"" 37, 2 78}]",37,218,0,78,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-02-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",337.0,"[{0 218, ""other"" 37, 2 82}]",37,218,0,82,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",338.0,"[{0 218, ""other"" 37, 2 83}]",37,218,0,83,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-03-24,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl, hubert@happyhacking.nl]",343.0,"[{0 218, ""other"" 37, 2 88}]",37,218,0,88,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bpoweski@gmail.com]",344.0,"[{0 218, ""other"" 38, 2 88}]",38,218,0,88,0,0
+Clojure,https://github.com/cch1/http.async.client,2013-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",345.0,"[{0 218, ""other"" 38, 2 89}]",38,218,0,89,0,0
+Clojure,https://github.com/cch1/http.async.client,2014-07-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jim@crossleys.org]",346.0,"[{0 218, ""other"" 39, 2 89}]",39,218,0,89,0,0
+Clojure,https://github.com/cch1/http.async.client,2014-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian_weilbach@web.de]",347.0,"[{0 218, ""other"" 40, 2 89}]",40,218,0,89,0,0
+Clojure,https://github.com/cch1/http.async.client,2014-09-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hubert@happyhacking.nl]",348.0,"[{0 218, ""other"" 40, 2 90}]",40,218,0,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-05-20,16,1,"#tech.v3.dataset.column<string>[16]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",364.0,"[{0 218, ""other"" 40, 2 90, 1 16}]",40,218,16,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-05-21,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",372.0,"[{0 218, ""other"" 40, 2 90, 1 24}]",40,218,24,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-05-22,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",380.0,"[{0 218, ""other"" 40, 2 90, 1 32}]",40,218,32,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-05-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",381.0,"[{0 218, ""other"" 40, 2 90, 1 33}]",40,218,33,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",382.0,"[{0 218, ""other"" 40, 2 90, 1 34}]",40,218,34,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-10,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",389.0,"[{0 218, ""other"" 40, 2 90, 1 41}]",40,218,41,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-11,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",398.0,"[{0 218, ""other"" 40, 2 90, 1 50}]",40,218,50,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-12,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",406.0,"[{0 218, ""other"" 40, 2 90, 1 58}]",40,218,58,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",407.0,"[{0 218, ""other"" 40, 2 90, 1 59}]",40,218,59,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",412.0,"[{0 218, ""other"" 40, 2 90, 1 64}]",40,218,64,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com]",414.0,"[{0 218, ""other"" 40, 2 90, 1 66}]",40,218,66,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",418.0,"[{0 218, ""other"" 40, 2 90, 1 70}]",40,218,70,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-23,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",428.0,"[{0 218, ""other"" 40, 2 90, 1 80}]",40,218,80,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",429.0,"[{0 218, ""other"" 40, 2 90, 1 81}]",40,218,81,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",430.0,"[{0 218, ""other"" 40, 2 90, 1 82}]",40,218,82,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",431.0,"[{0 218, ""other"" 40, 2 90, 1 83}]",40,218,83,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-07-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",432.0,"[{0 218, ""other"" 40, 2 90, 1 84}]",40,218,84,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",433.0,"[{0 218, ""other"" 40, 2 90, 1 85}]",40,218,85,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-08-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",436.0,"[{0 218, ""other"" 40, 2 90, 1 88}]",40,218,88,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-08-10,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",443.0,"[{0 218, ""other"" 40, 2 90, 1 95}]",40,218,95,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-08-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com]",445.0,"[{0 218, ""other"" 40, 2 90, 1 97}]",40,218,97,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dave.yarwood@gmail.com]",446.0,"[{0 218, ""other"" 41, 2 90, 1 97}]",41,218,97,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",447.0,"[{0 218, ""other"" 41, 2 90, 1 98}]",41,218,98,90,0,0
+Clojure,https://github.com/cch1/http.async.client,2015-10-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgoods.com, pbostrom@roomkey.com]",449.0,"[{0 218, ""other"" 41, 2 90, 1 99, 4 1}]",41,218,99,90,0,1
+Clojure,https://github.com/cch1/http.async.client,2015-10-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgoods.com, pbostrom@roomkey.com]",451.0,"[{0 218, ""other"" 41, 2 90, 1 100, 4 2}]",41,218,100,90,0,2
+Clojure,https://github.com/cch1/http.async.client,2015-10-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pbostrom@roomkey.com, pbostrom@roomkey.com]",453.0,"[{0 218, ""other"" 41, 2 90, 1 100, 4 4}]",41,218,100,90,0,4
+Clojure,https://github.com/cch1/http.async.client,2015-10-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pbostrom@roomkey.com]",454.0,"[{0 218, ""other"" 41, 2 90, 1 100, 4 5}]",41,218,100,90,0,5
+Clojure,https://github.com/cch1/http.async.client,2015-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cortex@brainonfire.net]",455.0,"[{0 218, ""other"" 42, 2 90, 1 100, 4 5}]",42,218,100,90,0,5
+Clojure,https://github.com/cch1/http.async.client,2015-10-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[pbostrom@roomkey.com, pbostrom@roomkey.com, cch1@hapgoods.com]",458.0,"[{0 218, ""other"" 42, 2 90, 1 101, 4 7}]",42,218,101,90,0,7
+Clojure,https://github.com/cch1/http.async.client,2015-10-20,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[cch1@hapgoods.com, pbostrom@gmail.com, pbostrom@gmail.com]",461.0,"[{0 218, ""other"" 44, 2 90, 1 102, 4 7}]",44,218,102,90,0,7
+Clojure,https://github.com/cch1/http.async.client,2015-11-20,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[pbostrom@roomkey.com, pbostrom@roomkey.com, pbostrom@roomkey.com, pbostrom@roomkey.com, pbostrom@roomkey.com]",466.0,"[{0 218, ""other"" 44, 2 90, 1 102, 4 12}]",44,218,102,90,0,12
+Clojure,https://github.com/cch1/http.async.client,2016-01-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",469.0,"[{0 218, ""other"" 44, 2 90, 1 105, 4 12}]",44,218,105,90,0,12
+Clojure,https://github.com/cch1/http.async.client,2016-02-27,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgoods.com, stuartvandegiessen@hotmail.com]",471.0,"[{0 218, ""other"" 45, 2 90, 1 106, 4 12}]",45,218,106,90,0,12
+Clojure,https://github.com/cch1/http.async.client,2016-07-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgoods.com, alex.miller@cognitect.com]",473.0,"[{0 218, ""other"" 46, 2 90, 1 107, 4 12}]",46,218,107,90,0,12
+Clojure,https://github.com/cch1/http.async.client,2016-08-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgoods.com, jonathan@spantree.net]",475.0,"[{0 218, ""other"" 47, 2 90, 1 108, 4 12}]",47,218,108,90,0,12
+Clojure,https://github.com/cch1/http.async.client,2016-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jim@crossleys.org]",476.0,"[{0 218, ""other"" 48, 2 90, 1 108, 4 12}]",48,218,108,90,0,12
+Clojure,https://github.com/cch1/http.async.client,2016-08-23,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[pbostrom@gmail.com, pbostrom@roomkey.com, pbostrom@roomkey.com, pbostrom@gmail.com]",480.0,"[{0 218, ""other"" 50, 2 90, 1 108, 4 14}]",50,218,108,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2016-08-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",485.0,"[{0 218, ""other"" 50, 2 90, 1 113, 4 14}]",50,218,113,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2016-08-26,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",491.0,"[{0 218, ""other"" 50, 2 90, 1 119, 4 14}]",50,218,119,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2016-09-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",495.0,"[{0 218, ""other"" 50, 2 90, 1 123, 4 14}]",50,218,123,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2016-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",496.0,"[{0 218, ""other"" 50, 2 90, 1 124, 4 14}]",50,218,124,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2016-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",497.0,"[{0 218, ""other"" 50, 2 90, 1 125, 4 14}]",50,218,125,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2017-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",498.0,"[{0 218, ""other"" 50, 2 90, 1 126, 4 14}]",50,218,126,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2018-03-26,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",505.0,"[{0 218, ""other"" 50, 2 90, 1 133, 4 14}]",50,218,133,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2019-02-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",509.0,"[{0 218, ""other"" 50, 2 90, 1 137, 4 14}]",50,218,137,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2019-06-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cch1@hapgoods.com, cch1@hapgoods.com, cch1@hapgoods.com]",512.0,"[{0 218, ""other"" 50, 2 90, 1 140, 4 14}]",50,218,140,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2020-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgoods.com]",513.0,"[{0 218, ""other"" 50, 2 90, 1 141, 4 14}]",50,218,141,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2020-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@docsolver.com]",514.0,"[{0 218, ""other"" 51, 2 90, 1 141, 4 14}]",51,218,141,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2021-07-27,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[git@wesmorgan.me, git@wesmorgan.me, git@wesmorgan.me, git@wesmorgan.me, git@wesmorgan.me]",519.0,"[{0 218, ""other"" 56, 2 90, 1 141, 4 14}]",56,218,141,90,0,14
+Clojure,https://github.com/cch1/http.async.client,2021-10-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cch1@hapgood.com, cch1@hapgood.com, cch1@hapgood.com]",522.0,"[{0 218, ""other"" 56, 2 90, 1 141, 4 14, 3 3}]",56,218,141,90,3,14
+Clojure,https://github.com/cch1/http.async.client,2021-10-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cch1@hapgood.com, cch1@hapgood.com, cch1@hapgood.com]",525.0,"[{0 218, ""other"" 56, 2 90, 1 141, 4 14, 3 6}]",56,218,141,90,6,14
+Clojure,https://github.com/cch1/http.async.client,2021-10-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cch1@hapgood.com, git@wesmorgan.me]",527.0,"[{0 218, ""other"" 57, 2 90, 1 141, 4 14, 3 7}]",57,218,141,90,7,14
+Clojure,https://github.com/cch1/http.async.client,2021-10-31,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[cch1@hapgood.com, cch1@hapgood.com, erik.assum@ardoq.com, erik@assum.net, erik.assum@ardoq.com]",532.0,"[{0 218, ""other"" 60, 2 90, 1 141, 4 14, 3 9}]",60,218,141,90,9,14
+Clojure,https://github.com/cch1/http.async.client,2021-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erik.assum@ardoq.com]",533.0,"[{0 218, ""other"" 61, 2 90, 1 141, 4 14, 3 9}]",61,218,141,90,9,14
+Clojure,https://github.com/cch1/http.async.client,2021-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgood.com]",534.0,"[{0 218, ""other"" 61, 2 90, 1 141, 4 14, 3 10}]",61,218,141,90,10,14
+Clojure,https://github.com/cch1/http.async.client,2022-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cch1@hapgood.com]",535.0,"[{0 218, ""other"" 61, 2 90, 1 141, 4 14, 3 11}]",61,218,141,90,11,14
+Clojure,https://github.com/cch1/http.async.client,2022-10-31,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[cch1@hapgood.com, cch1@hapgood.com, cch1@hapgood.com, cch1@hapgood.com, cch1@hapgood.com, cch1@hapgood.com]",541.0,"[{0 218, ""other"" 61, 2 90, 1 141, 4 14, 3 17}]",61,218,141,90,17,14

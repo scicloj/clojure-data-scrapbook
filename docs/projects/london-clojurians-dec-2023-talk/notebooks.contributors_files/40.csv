@@ -1,0 +1,1484 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,Kozea,2011-04-20,1,1,"#{""simon.sapin@exyr.org""}",1.0,1
+Python,Kozea,2011-04-21,3,1,"#{""simon.sapin@exyr.org""}",4.0,1
+Python,Kozea,2011-04-22,1,1,"#{""simon.sapin@exyr.org""}",5.0,1
+Python,Kozea,2011-04-26,1,1,"#{""simon.sapin@exyr.org""}",6.0,1
+Python,Kozea,2011-04-27,3,1,"#{""simon.sapin@exyr.org""}",9.0,1
+Python,Kozea,2011-04-28,8,3,"#{""glwadys.fayolle@kozea.fr"" ""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",17.0,3
+Python,Kozea,2011-04-29,3,3,"#{""glwadys.fayolle@kozea.fr"" ""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",20.0,3
+Python,Kozea,2011-05-01,1,1,"#{""guillaume.ayoub@kozea.fr""}",21.0,3
+Python,Kozea,2011-05-02,2,1,"#{""simon.sapin@exyr.org""}",23.0,3
+Python,Kozea,2011-05-04,5,1,"#{""simon.sapin@exyr.org""}",28.0,3
+Python,Kozea,2011-05-05,10,3,"#{""glwadys.fayolle@kozea.fr"" ""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",38.0,3
+Python,Kozea,2011-05-06,13,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",51.0,3
+Python,Kozea,2011-05-07,1,1,"#{""simon.sapin@exyr.org""}",52.0,3
+Python,Kozea,2011-05-09,1,1,"#{""simon.sapin@exyr.org""}",53.0,3
+Python,Kozea,2011-05-10,12,1,"#{""simon.sapin@exyr.org""}",65.0,3
+Python,Kozea,2011-05-12,5,1,"#{""simon.sapin@exyr.org""}",70.0,3
+Python,Kozea,2011-05-13,1,1,"#{""simon.sapin@exyr.org""}",71.0,3
+Python,Kozea,2011-05-16,5,1,"#{""simon.sapin@exyr.org""}",76.0,3
+Python,Kozea,2011-05-17,2,1,"#{""simon.sapin@exyr.org""}",78.0,3
+Python,Kozea,2011-05-19,5,1,"#{""simon.sapin@exyr.org""}",83.0,3
+Python,Kozea,2011-05-20,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",88.0,3
+Python,Kozea,2011-05-23,10,1,"#{""simon.sapin@exyr.org""}",98.0,3
+Python,Kozea,2011-05-25,4,1,"#{""simon.sapin@exyr.org""}",102.0,3
+Python,Kozea,2011-06-29,6,1,"#{""simon.sapin@exyr.org""}",108.0,3
+Python,Kozea,2011-07-01,2,1,"#{""simon.sapin@exyr.org""}",110.0,3
+Python,Kozea,2011-07-02,1,1,"#{""sharrache@kozea.fr""}",111.0,4
+Python,Kozea,2011-07-05,3,1,"#{""simon.sapin@exyr.org""}",114.0,4
+Python,Kozea,2011-07-07,9,3,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",123.0,4
+Python,Kozea,2011-07-08,3,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",126.0,4
+Python,Kozea,2011-07-10,1,1,"#{""sharrache@kozea.fr""}",127.0,4
+Python,Kozea,2011-07-11,3,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",130.0,4
+Python,Kozea,2011-07-12,13,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",143.0,4
+Python,Kozea,2011-07-13,5,2,"#{""sharrache@keleos.fr"" ""simon.sapin@exyr.org""}",148.0,5
+Python,Kozea,2011-07-15,1,1,"#{""sharrache@keleos.fr""}",149.0,5
+Python,Kozea,2011-07-17,1,1,"#{""simon.sapin@exyr.org""}",150.0,5
+Python,Kozea,2011-07-18,3,1,"#{""sharrache@keleos.fr""}",153.0,5
+Python,Kozea,2011-07-19,2,1,"#{""simon.sapin@exyr.org""}",155.0,5
+Python,Kozea,2011-07-20,5,1,"#{""simon.sapin@exyr.org""}",160.0,5
+Python,Kozea,2011-07-21,13,2,"#{""sharrache@keleos.fr"" ""simon.sapin@exyr.org""}",173.0,5
+Python,Kozea,2011-07-22,8,2,"#{""sharrache@keleos.fr"" ""simon.sapin@exyr.org""}",181.0,5
+Python,Kozea,2011-07-26,3,1,"#{""sharrache@keleos.fr""}",184.0,5
+Python,Kozea,2011-07-27,1,1,"#{""sharrache@keleos.fr""}",185.0,5
+Python,Kozea,2011-07-28,1,1,"#{""sharrache@keleos.fr""}",186.0,5
+Python,Kozea,2011-07-29,4,1,"#{""sharrache@kozea.fr""}",190.0,5
+Python,Kozea,2011-08-01,1,1,"#{""sharrache@kozea.fr""}",191.0,5
+Python,Kozea,2011-08-05,7,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",198.0,5
+Python,Kozea,2011-08-08,12,1,"#{""simon.sapin@exyr.org""}",210.0,5
+Python,Kozea,2011-08-09,12,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",222.0,5
+Python,Kozea,2011-08-10,14,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",236.0,5
+Python,Kozea,2011-08-11,10,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",246.0,5
+Python,Kozea,2011-08-12,11,3,"#{""glwadys.fayolle@kozea.fr"" ""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",257.0,5
+Python,Kozea,2011-08-15,6,1,"#{""simon.sapin@exyr.org""}",263.0,5
+Python,Kozea,2011-08-16,9,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",272.0,5
+Python,Kozea,2011-08-17,10,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",282.0,5
+Python,Kozea,2011-08-18,4,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",286.0,5
+Python,Kozea,2011-08-19,20,3,"#{""glwadys.fayolle@kozea.fr"" ""guillaume.ayoub@kozea.fr"" ""sharrache@kozea.fr""}",306.0,5
+Python,Kozea,2011-08-20,7,1,"#{""simon.sapin@exyr.org""}",313.0,5
+Python,Kozea,2011-08-21,3,1,"#{""simon.sapin@exyr.org""}",316.0,5
+Python,Kozea,2011-08-22,18,3,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",334.0,5
+Python,Kozea,2011-08-23,14,3,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",348.0,5
+Python,Kozea,2011-08-24,33,3,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",381.0,5
+Python,Kozea,2011-08-25,16,2,"#{""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",397.0,5
+Python,Kozea,2011-08-26,15,3,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org"" ""sharrache@kozea.fr""}",412.0,5
+Python,Kozea,2011-09-02,10,1,"#{""guillaume.ayoub@kozea.fr""}",422.0,5
+Python,Kozea,2011-09-06,1,1,"#{""guillaume.ayoub@kozea.fr""}",423.0,5
+Python,Kozea,2011-09-08,4,1,"#{""guillaume.ayoub@kozea.fr""}",427.0,5
+Python,Kozea,2011-09-27,5,1,"#{""simon.sapin@exyr.org""}",432.0,5
+Python,Kozea,2011-09-28,1,1,"#{""simon.sapin@exyr.org""}",433.0,5
+Python,Kozea,2011-09-29,9,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",442.0,5
+Python,Kozea,2011-09-30,8,1,"#{""simon.sapin@exyr.org""}",450.0,5
+Python,Kozea,2011-10-03,6,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",456.0,5
+Python,Kozea,2011-10-04,4,1,"#{""simon.sapin@exyr.org""}",460.0,5
+Python,Kozea,2011-10-05,1,1,"#{""simon.sapin@exyr.org""}",461.0,5
+Python,Kozea,2011-10-06,8,1,"#{""simon.sapin@exyr.org""}",469.0,5
+Python,Kozea,2011-10-07,2,1,"#{""simon.sapin@exyr.org""}",471.0,5
+Python,Kozea,2011-10-08,8,1,"#{""simon.sapin@exyr.org""}",479.0,5
+Python,Kozea,2011-10-10,4,1,"#{""simon.sapin@exyr.org""}",483.0,5
+Python,Kozea,2011-10-11,6,1,"#{""simon.sapin@exyr.org""}",489.0,5
+Python,Kozea,2011-10-13,6,1,"#{""simon.sapin@exyr.org""}",495.0,5
+Python,Kozea,2011-10-14,8,1,"#{""simon.sapin@exyr.org""}",503.0,5
+Python,Kozea,2011-10-17,10,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",513.0,5
+Python,Kozea,2011-10-18,1,1,"#{""simon.sapin@exyr.org""}",514.0,5
+Python,Kozea,2011-10-19,4,1,"#{""simon.sapin@exyr.org""}",518.0,5
+Python,Kozea,2011-10-20,2,1,"#{""simon.sapin@exyr.org""}",520.0,5
+Python,Kozea,2011-10-21,9,1,"#{""simon.sapin@exyr.org""}",529.0,5
+Python,Kozea,2011-10-24,5,1,"#{""simon.sapin@exyr.org""}",534.0,5
+Python,Kozea,2011-10-25,1,1,"#{""simon.sapin@exyr.org""}",535.0,5
+Python,Kozea,2011-10-26,6,2,"#{""anaele@kozea.fr"" ""simon.sapin@exyr.org""}",541.0,6
+Python,Kozea,2011-10-28,5,1,"#{""simon.sapin@exyr.org""}",546.0,6
+Python,Kozea,2011-10-31,3,1,"#{""simon.sapin@exyr.org""}",549.0,6
+Python,Kozea,2011-11-02,3,1,"#{""simon.sapin@exyr.org""}",552.0,6
+Python,Kozea,2011-11-04,1,1,"#{""guillaume.ayoub@kozea.fr""}",553.0,6
+Python,Kozea,2011-11-05,6,1,"#{""guillaume.ayoub@kozea.fr""}",559.0,6
+Python,Kozea,2011-11-08,3,1,"#{""simon.sapin@exyr.org""}",562.0,6
+Python,Kozea,2011-11-14,5,1,"#{""simon.sapin@exyr.org""}",567.0,6
+Python,Kozea,2011-11-15,5,1,"#{""simon.sapin@exyr.org""}",572.0,6
+Python,Kozea,2011-11-16,1,1,"#{""simon.sapin@exyr.org""}",573.0,6
+Python,Kozea,2011-11-17,4,1,"#{""simon.sapin@exyr.org""}",577.0,6
+Python,Kozea,2011-11-21,3,1,"#{""simon.sapin@exyr.org""}",580.0,6
+Python,Kozea,2011-11-22,1,1,"#{""simon.sapin@exyr.org""}",581.0,6
+Python,Kozea,2011-11-23,2,1,"#{""simon.sapin@exyr.org""}",583.0,6
+Python,Kozea,2011-11-24,3,1,"#{""simon.sapin@exyr.org""}",586.0,6
+Python,Kozea,2011-11-25,12,1,"#{""simon.sapin@exyr.org""}",598.0,6
+Python,Kozea,2011-11-28,1,1,"#{""simon.sapin@exyr.org""}",599.0,6
+Python,Kozea,2011-11-29,9,1,"#{""simon.sapin@exyr.org""}",608.0,6
+Python,Kozea,2011-11-30,5,1,"#{""simon.sapin@exyr.org""}",613.0,6
+Python,Kozea,2011-12-01,12,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",625.0,6
+Python,Kozea,2011-12-02,6,1,"#{""simon.sapin@exyr.org""}",631.0,6
+Python,Kozea,2011-12-03,2,1,"#{""simon.sapin@exyr.org""}",633.0,6
+Python,Kozea,2011-12-05,9,1,"#{""simon.sapin@exyr.org""}",642.0,6
+Python,Kozea,2011-12-06,1,1,"#{""simon.sapin@exyr.org""}",643.0,6
+Python,Kozea,2011-12-07,4,1,"#{""simon.sapin@exyr.org""}",647.0,6
+Python,Kozea,2011-12-08,8,1,"#{""simon.sapin@exyr.org""}",655.0,6
+Python,Kozea,2011-12-09,3,1,"#{""simon.sapin@exyr.org""}",658.0,6
+Python,Kozea,2011-12-12,13,1,"#{""simon.sapin@exyr.org""}",671.0,6
+Python,Kozea,2011-12-13,13,1,"#{""simon.sapin@exyr.org""}",684.0,6
+Python,Kozea,2011-12-14,7,1,"#{""simon.sapin@exyr.org""}",691.0,6
+Python,Kozea,2011-12-15,2,1,"#{""simon.sapin@exyr.org""}",693.0,6
+Python,Kozea,2011-12-16,12,1,"#{""simon.sapin@exyr.org""}",705.0,6
+Python,Kozea,2011-12-19,2,1,"#{""simon.sapin@exyr.org""}",707.0,6
+Python,Kozea,2011-12-20,1,1,"#{""simon.sapin@exyr.org""}",708.0,6
+Python,Kozea,2011-12-26,2,1,"#{""simon.sapin@exyr.org""}",710.0,6
+Python,Kozea,2011-12-27,2,1,"#{""simon.sapin@exyr.org""}",712.0,6
+Python,Kozea,2011-12-28,3,1,"#{""simon.sapin@exyr.org""}",715.0,6
+Python,Kozea,2011-12-29,2,1,"#{""simon.sapin@exyr.org""}",717.0,6
+Python,Kozea,2011-12-30,5,1,"#{""simon.sapin@exyr.org""}",722.0,6
+Python,Kozea,2012-01-02,1,1,"#{""simon.sapin@exyr.org""}",723.0,6
+Python,Kozea,2012-01-03,2,1,"#{""simon.sapin@exyr.org""}",725.0,6
+Python,Kozea,2012-01-06,2,1,"#{""simon.sapin@exyr.org""}",727.0,6
+Python,Kozea,2012-01-09,1,1,"#{""simon.sapin@exyr.org""}",728.0,6
+Python,Kozea,2012-01-11,2,1,"#{""simon.sapin@exyr.org""}",730.0,6
+Python,Kozea,2012-01-12,4,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",734.0,6
+Python,Kozea,2012-01-13,1,1,"#{""simon.sapin@exyr.org""}",735.0,6
+Python,Kozea,2012-01-16,3,1,"#{""simon.sapin@exyr.org""}",738.0,6
+Python,Kozea,2012-01-17,2,1,"#{""simon.sapin@exyr.org""}",740.0,6
+Python,Kozea,2012-01-19,1,1,"#{""simon.sapin@exyr.org""}",741.0,6
+Python,Kozea,2012-01-20,1,1,"#{""simon.sapin@exyr.org""}",742.0,6
+Python,Kozea,2012-01-23,2,1,"#{""simon.sapin@exyr.org""}",744.0,6
+Python,Kozea,2012-01-25,2,1,"#{""simon.sapin@exyr.org""}",746.0,6
+Python,Kozea,2012-01-26,1,1,"#{""guillaume.ayoub@kozea.fr""}",747.0,6
+Python,Kozea,2012-01-27,4,1,"#{""simon.sapin@exyr.org""}",751.0,6
+Python,Kozea,2012-01-30,3,2,"#{""aymeric.bois@kozea.fr"" ""simon.sapin@exyr.org""}",754.0,7
+Python,Kozea,2012-01-31,2,1,"#{""simon.sapin@exyr.org""}",756.0,7
+Python,Kozea,2012-02-01,6,1,"#{""simon.sapin@exyr.org""}",762.0,7
+Python,Kozea,2012-02-02,2,1,"#{""simon.sapin@exyr.org""}",764.0,7
+Python,Kozea,2012-02-03,4,1,"#{""simon.sapin@exyr.org""}",768.0,7
+Python,Kozea,2012-02-07,13,1,"#{""simon.sapin@exyr.org""}",781.0,7
+Python,Kozea,2012-02-08,10,1,"#{""simon.sapin@exyr.org""}",791.0,7
+Python,Kozea,2012-02-10,2,1,"#{""simon.sapin@exyr.org""}",793.0,7
+Python,Kozea,2012-02-14,3,1,"#{""simon.sapin@exyr.org""}",796.0,7
+Python,Kozea,2012-02-15,3,1,"#{""simon.sapin@exyr.org""}",799.0,7
+Python,Kozea,2012-02-16,9,1,"#{""simon.sapin@exyr.org""}",808.0,7
+Python,Kozea,2012-02-17,2,1,"#{""simon.sapin@exyr.org""}",810.0,7
+Python,Kozea,2012-02-20,3,1,"#{""simon.sapin@exyr.org""}",813.0,7
+Python,Kozea,2012-02-21,3,1,"#{""simon.sapin@exyr.org""}",816.0,7
+Python,Kozea,2012-02-22,9,1,"#{""simon.sapin@exyr.org""}",825.0,7
+Python,Kozea,2012-02-23,7,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",832.0,7
+Python,Kozea,2012-02-27,4,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",836.0,7
+Python,Kozea,2012-02-28,3,1,"#{""simon.sapin@exyr.org""}",839.0,7
+Python,Kozea,2012-02-29,10,1,"#{""simon.sapin@exyr.org""}",849.0,7
+Python,Kozea,2012-03-01,4,1,"#{""simon.sapin@exyr.org""}",853.0,7
+Python,Kozea,2012-03-05,1,1,"#{""simon.sapin@exyr.org""}",854.0,7
+Python,Kozea,2012-03-07,1,1,"#{""simon.sapin@exyr.org""}",855.0,7
+Python,Kozea,2012-03-14,3,1,"#{""simon.sapin@exyr.org""}",858.0,7
+Python,Kozea,2012-03-15,4,1,"#{""simon.sapin@exyr.org""}",862.0,7
+Python,Kozea,2012-03-16,4,2,"#{""plaes@plaes.org"" ""simon.sapin@exyr.org""}",866.0,8
+Python,Kozea,2012-03-17,1,1,"#{""plaes@plaes.org""}",867.0,8
+Python,Kozea,2012-03-19,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",872.0,8
+Python,Kozea,2012-03-20,1,1,"#{""simon.sapin@exyr.org""}",873.0,8
+Python,Kozea,2012-03-21,20,1,"#{""simon.sapin@exyr.org""}",893.0,8
+Python,Kozea,2012-03-22,6,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",899.0,8
+Python,Kozea,2012-03-23,6,1,"#{""guillaume.ayoub@kozea.fr""}",905.0,8
+Python,Kozea,2012-03-24,3,1,"#{""simon.sapin@exyr.org""}",908.0,8
+Python,Kozea,2012-03-25,4,1,"#{""simon.sapin@exyr.org""}",912.0,8
+Python,Kozea,2012-03-26,2,1,"#{""simon.sapin@exyr.org""}",914.0,8
+Python,Kozea,2012-03-28,1,1,"#{""simon.sapin@exyr.org""}",915.0,8
+Python,Kozea,2012-03-31,3,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",918.0,8
+Python,Kozea,2012-04-02,1,1,"#{""simon.sapin@exyr.org""}",919.0,8
+Python,Kozea,2012-04-03,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",924.0,8
+Python,Kozea,2012-04-04,3,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",927.0,8
+Python,Kozea,2012-04-05,10,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",937.0,8
+Python,Kozea,2012-04-06,6,1,"#{""simon.sapin@exyr.org""}",943.0,8
+Python,Kozea,2012-04-07,3,1,"#{""guillaume.ayoub@kozea.fr""}",946.0,8
+Python,Kozea,2012-04-10,17,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",963.0,8
+Python,Kozea,2012-04-12,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",968.0,8
+Python,Kozea,2012-04-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",970.0,8
+Python,Kozea,2012-04-25,1,1,"#{""simon.sapin@exyr.org""}",971.0,8
+Python,Kozea,2012-04-30,1,1,"#{""simon.sapin@exyr.org""}",972.0,8
+Python,Kozea,2012-05-04,3,1,"#{""simon.sapin@exyr.org""}",975.0,8
+Python,Kozea,2012-05-07,7,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",982.0,8
+Python,Kozea,2012-05-09,6,1,"#{""guillaume.ayoub@kozea.fr""}",988.0,8
+Python,Kozea,2012-05-10,7,1,"#{""guillaume.ayoub@kozea.fr""}",995.0,8
+Python,Kozea,2012-05-11,9,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1004.0,8
+Python,Kozea,2012-05-14,9,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1013.0,8
+Python,Kozea,2012-05-15,10,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1023.0,8
+Python,Kozea,2012-05-17,1,1,"#{""guillaume.ayoub@kozea.fr""}",1024.0,8
+Python,Kozea,2012-05-18,7,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1031.0,8
+Python,Kozea,2012-05-19,2,1,"#{""simon.sapin@exyr.org""}",1033.0,8
+Python,Kozea,2012-05-20,9,1,"#{""simon.sapin@exyr.org""}",1042.0,8
+Python,Kozea,2012-05-21,5,1,"#{""simon.sapin@exyr.org""}",1047.0,8
+Python,Kozea,2012-05-22,8,1,"#{""simon.sapin@exyr.org""}",1055.0,8
+Python,Kozea,2012-05-23,3,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1058.0,8
+Python,Kozea,2012-05-24,5,1,"#{""simon.sapin@exyr.org""}",1063.0,8
+Python,Kozea,2012-05-25,10,1,"#{""simon.sapin@exyr.org""}",1073.0,8
+Python,Kozea,2012-05-28,2,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1075.0,8
+Python,Kozea,2012-05-29,10,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1085.0,8
+Python,Kozea,2012-05-30,13,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1098.0,8
+Python,Kozea,2012-05-31,21,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1119.0,8
+Python,Kozea,2012-06-01,10,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1129.0,8
+Python,Kozea,2012-06-02,11,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1140.0,8
+Python,Kozea,2012-06-04,20,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1160.0,8
+Python,Kozea,2012-06-05,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1165.0,8
+Python,Kozea,2012-06-06,9,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1174.0,8
+Python,Kozea,2012-06-08,6,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1180.0,8
+Python,Kozea,2012-06-11,1,1,"#{""simon.sapin@exyr.org""}",1181.0,8
+Python,Kozea,2012-06-14,8,1,"#{""simon.sapin@exyr.org""}",1189.0,8
+Python,Kozea,2012-06-15,6,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1195.0,8
+Python,Kozea,2012-06-16,1,1,"#{""simon.sapin@exyr.org""}",1196.0,8
+Python,Kozea,2012-06-18,5,1,"#{""guillaume.ayoub@kozea.fr""}",1201.0,8
+Python,Kozea,2012-06-19,4,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1205.0,8
+Python,Kozea,2012-06-20,7,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1212.0,8
+Python,Kozea,2012-06-21,11,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1223.0,8
+Python,Kozea,2012-06-22,7,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1230.0,8
+Python,Kozea,2012-06-23,9,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1239.0,8
+Python,Kozea,2012-06-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",1240.0,8
+Python,Kozea,2012-06-25,16,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1256.0,8
+Python,Kozea,2012-06-26,1,1,"#{""guillaume.ayoub@kozea.fr""}",1257.0,8
+Python,Kozea,2012-06-28,13,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1270.0,8
+Python,Kozea,2012-06-29,3,1,"#{""simon.sapin@exyr.org""}",1273.0,8
+Python,Kozea,2012-07-01,1,1,"#{""simon.sapin@exyr.org""}",1274.0,8
+Python,Kozea,2012-07-02,2,1,"#{""simon.sapin@exyr.org""}",1276.0,8
+Python,Kozea,2012-07-03,5,1,"#{""simon.sapin@exyr.org""}",1281.0,8
+Python,Kozea,2012-07-04,7,1,"#{""simon.sapin@exyr.org""}",1288.0,8
+Python,Kozea,2012-07-05,3,1,"#{""guillaume.ayoub@kozea.fr""}",1291.0,8
+Python,Kozea,2012-07-06,3,1,"#{""simon.sapin@exyr.org""}",1294.0,8
+Python,Kozea,2012-07-09,1,1,"#{""simon.sapin@exyr.org""}",1295.0,8
+Python,Kozea,2012-07-10,1,1,"#{""simon.sapin@exyr.org""}",1296.0,8
+Python,Kozea,2012-07-11,6,1,"#{""simon.sapin@exyr.org""}",1302.0,8
+Python,Kozea,2012-07-12,6,1,"#{""simon.sapin@exyr.org""}",1308.0,8
+Python,Kozea,2012-07-13,2,1,"#{""simon.sapin@exyr.org""}",1310.0,8
+Python,Kozea,2012-07-17,1,1,"#{""simon.sapin@exyr.org""}",1311.0,8
+Python,Kozea,2012-07-18,4,1,"#{""simon.sapin@exyr.org""}",1315.0,8
+Python,Kozea,2012-07-19,5,1,"#{""simon.sapin@exyr.org""}",1320.0,8
+Python,Kozea,2012-07-23,8,1,"#{""simon.sapin@exyr.org""}",1328.0,8
+Python,Kozea,2012-07-24,5,1,"#{""simon.sapin@exyr.org""}",1333.0,8
+Python,Kozea,2012-07-26,1,1,"#{""simon.sapin@exyr.org""}",1334.0,8
+Python,Kozea,2012-07-27,10,1,"#{""simon.sapin@exyr.org""}",1344.0,8
+Python,Kozea,2012-07-28,11,1,"#{""simon.sapin@exyr.org""}",1355.0,8
+Python,Kozea,2012-07-29,15,2,"#{""simon.sapin@exyr.org"" ""gregory.t.brown@gmail.com""}",1370.0,9
+Python,Kozea,2012-07-30,3,1,"#{""simon.sapin@exyr.org""}",1373.0,9
+Python,Kozea,2012-07-31,9,1,"#{""simon.sapin@exyr.org""}",1382.0,9
+Python,Kozea,2012-08-01,1,1,"#{""chungwu@slice-data.com""}",1383.0,10
+Python,Kozea,2012-08-02,6,1,"#{""simon.sapin@exyr.org""}",1389.0,10
+Python,Kozea,2012-08-03,11,1,"#{""simon.sapin@exyr.org""}",1400.0,10
+Python,Kozea,2012-08-11,3,1,"#{""simon.sapin@exyr.org""}",1403.0,10
+Python,Kozea,2012-08-14,1,1,"#{""simon.sapin@exyr.org""}",1404.0,10
+Python,Kozea,2012-08-17,1,1,"#{""simon.sapin@exyr.org""}",1405.0,10
+Python,Kozea,2012-08-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",1406.0,10
+Python,Kozea,2012-08-27,1,1,"#{""guillaume.ayoub@kozea.fr""}",1407.0,10
+Python,Kozea,2012-09-11,1,1,"#{""simon.sapin@exyr.org""}",1408.0,10
+Python,Kozea,2012-09-12,7,2,"#{""johan@gnome.org"" ""simon.sapin@exyr.org""}",1415.0,11
+Python,Kozea,2012-09-13,3,1,"#{""simon.sapin@exyr.org""}",1418.0,11
+Python,Kozea,2012-09-14,1,1,"#{""simon.sapin@exyr.org""}",1419.0,11
+Python,Kozea,2012-09-16,1,1,"#{""simon.sapin@exyr.org""}",1420.0,11
+Python,Kozea,2012-09-17,1,1,"#{""simon.sapin@exyr.org""}",1421.0,11
+Python,Kozea,2012-09-18,1,1,"#{""simon.sapin@exyr.org""}",1422.0,11
+Python,Kozea,2012-09-19,5,1,"#{""simon.sapin@exyr.org""}",1427.0,11
+Python,Kozea,2012-09-20,7,1,"#{""simon.sapin@exyr.org""}",1434.0,11
+Python,Kozea,2012-09-24,2,1,"#{""simon.sapin@exyr.org""}",1436.0,11
+Python,Kozea,2012-09-25,5,1,"#{""simon.sapin@exyr.org""}",1441.0,11
+Python,Kozea,2012-09-26,3,1,"#{""simon.sapin@exyr.org""}",1444.0,11
+Python,Kozea,2012-10-01,1,1,"#{""simon.sapin@exyr.org""}",1445.0,11
+Python,Kozea,2012-10-02,4,1,"#{""simon.sapin@exyr.org""}",1449.0,11
+Python,Kozea,2012-10-04,4,1,"#{""simon.sapin@exyr.org""}",1453.0,11
+Python,Kozea,2012-10-05,8,1,"#{""simon.sapin@exyr.org""}",1461.0,11
+Python,Kozea,2012-10-06,2,1,"#{""simon.sapin@exyr.org""}",1463.0,11
+Python,Kozea,2012-10-07,5,1,"#{""simon.sapin@exyr.org""}",1468.0,11
+Python,Kozea,2012-10-08,4,1,"#{""simon.sapin@exyr.org""}",1472.0,11
+Python,Kozea,2012-10-09,3,1,"#{""simon.sapin@exyr.org""}",1475.0,11
+Python,Kozea,2012-10-10,2,1,"#{""simon.sapin@exyr.org""}",1477.0,11
+Python,Kozea,2012-10-19,2,1,"#{""simon.sapin@exyr.org""}",1479.0,11
+Python,Kozea,2012-10-22,1,1,"#{""simon.sapin@exyr.org""}",1480.0,11
+Python,Kozea,2012-10-28,1,1,"#{""simon.sapin@exyr.org""}",1481.0,11
+Python,Kozea,2012-10-31,1,1,"#{""simon.sapin@exyr.org""}",1482.0,11
+Python,Kozea,2012-11-06,1,1,"#{""simon.sapin@exyr.org""}",1483.0,11
+Python,Kozea,2012-11-07,2,2,"#{""kaikuehne@gmail.com"" ""simon.sapin@exyr.org""}",1485.0,12
+Python,Kozea,2012-11-15,1,1,"#{""guillaume.ayoub@kozea.fr""}",1486.0,12
+Python,Kozea,2012-11-22,11,3,"#{""guillaume.ayoub@kozea.fr"" ""mbarkhau@gmail.com"" ""simon.sapin@exyr.org""}",1497.0,13
+Python,Kozea,2012-11-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",1498.0,13
+Python,Kozea,2012-12-08,2,1,"#{""guillaume.ayoub@kozea.fr""}",1500.0,13
+Python,Kozea,2012-12-09,1,1,"#{""guillaume.ayoub@kozea.fr""}",1501.0,13
+Python,Kozea,2012-12-12,4,1,"#{""simon.sapin@exyr.org""}",1505.0,13
+Python,Kozea,2012-12-13,1,1,"#{""simon.sapin@exyr.org""}",1506.0,13
+Python,Kozea,2012-12-14,1,1,"#{""guillaume.ayoub@kozea.fr""}",1507.0,13
+Python,Kozea,2012-12-20,2,1,"#{""simon.sapin@exyr.org""}",1509.0,13
+Python,Kozea,2012-12-26,8,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1517.0,13
+Python,Kozea,2012-12-28,3,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1520.0,13
+Python,Kozea,2012-12-29,5,1,"#{""simon.sapin@exyr.org""}",1525.0,13
+Python,Kozea,2012-12-30,1,1,"#{""simon.sapin@exyr.org""}",1526.0,13
+Python,Kozea,2013-01-01,1,1,"#{""simon.sapin@exyr.org""}",1527.0,13
+Python,Kozea,2013-01-23,2,1,"#{""simon.sapin@exyr.org""}",1529.0,13
+Python,Kozea,2013-02-01,1,1,"#{""guillaume.ayoub@kozea.fr""}",1530.0,13
+Python,Kozea,2013-02-25,10,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1540.0,13
+Python,Kozea,2013-02-26,9,1,"#{""simon.sapin@exyr.org""}",1549.0,13
+Python,Kozea,2013-02-27,5,1,"#{""simon.sapin@exyr.org""}",1554.0,13
+Python,Kozea,2013-02-28,2,1,"#{""simon.sapin@exyr.org""}",1556.0,13
+Python,Kozea,2013-03-02,4,1,"#{""guillaume.ayoub@kozea.fr""}",1560.0,13
+Python,Kozea,2013-03-06,1,1,"#{""guillaume.ayoub@kozea.fr""}",1561.0,13
+Python,Kozea,2013-03-08,1,1,"#{""simon.sapin@exyr.org""}",1562.0,13
+Python,Kozea,2013-03-11,4,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1566.0,13
+Python,Kozea,2013-03-12,2,1,"#{""guillaume.ayoub@kozea.fr""}",1568.0,13
+Python,Kozea,2013-03-13,6,3,"#{""guillaume.ayoub@kozea.fr"" ""Smylers@stripey.com"" ""simon.sapin@exyr.org""}",1574.0,14
+Python,Kozea,2013-03-14,3,3,"#{""guillaume.ayoub@kozea.fr"" ""Smylers@stripey.com"" ""simon.sapin@exyr.org""}",1577.0,14
+Python,Kozea,2013-03-15,2,1,"#{""simon.sapin@exyr.org""}",1579.0,14
+Python,Kozea,2013-03-18,4,1,"#{""simon.sapin@exyr.org""}",1583.0,14
+Python,Kozea,2013-03-19,1,1,"#{""simon.sapin@exyr.org""}",1584.0,14
+Python,Kozea,2013-03-20,3,1,"#{""simon.sapin@exyr.org""}",1587.0,14
+Python,Kozea,2013-03-21,3,1,"#{""simon.sapin@exyr.org""}",1590.0,14
+Python,Kozea,2013-03-25,3,1,"#{""simon.sapin@exyr.org""}",1593.0,14
+Python,Kozea,2013-03-26,3,1,"#{""simon.sapin@exyr.org""}",1596.0,14
+Python,Kozea,2013-03-28,5,1,"#{""simon.sapin@exyr.org""}",1601.0,14
+Python,Kozea,2013-03-30,5,1,"#{""simon.sapin@exyr.org""}",1606.0,14
+Python,Kozea,2013-04-02,4,1,"#{""simon.sapin@exyr.org""}",1610.0,14
+Python,Kozea,2013-04-03,6,1,"#{""simon.sapin@exyr.org""}",1616.0,14
+Python,Kozea,2013-04-04,6,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1622.0,14
+Python,Kozea,2013-04-05,1,1,"#{""simon.sapin@exyr.org""}",1623.0,14
+Python,Kozea,2013-04-07,1,1,"#{""guillaume.ayoub@kozea.fr""}",1624.0,14
+Python,Kozea,2013-04-08,10,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1634.0,14
+Python,Kozea,2013-04-09,3,1,"#{""guillaume.ayoub@kozea.fr""}",1637.0,14
+Python,Kozea,2013-04-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",1638.0,14
+Python,Kozea,2013-04-11,6,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1644.0,14
+Python,Kozea,2013-04-12,7,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1651.0,14
+Python,Kozea,2013-04-15,4,1,"#{""guillaume.ayoub@kozea.fr""}",1655.0,14
+Python,Kozea,2013-04-16,3,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1658.0,14
+Python,Kozea,2013-04-17,2,1,"#{""simon.sapin@exyr.org""}",1660.0,14
+Python,Kozea,2013-04-18,2,1,"#{""simon.sapin@exyr.org""}",1662.0,14
+Python,Kozea,2013-04-22,1,1,"#{""simon.sapin@exyr.org""}",1663.0,14
+Python,Kozea,2013-04-23,5,1,"#{""simon.sapin@exyr.org""}",1668.0,14
+Python,Kozea,2013-04-26,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1673.0,14
+Python,Kozea,2013-04-30,3,1,"#{""simon.sapin@exyr.org""}",1676.0,14
+Python,Kozea,2013-05-02,1,1,"#{""clement.plasse@kozea.fr""}",1677.0,15
+Python,Kozea,2013-05-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",1678.0,15
+Python,Kozea,2013-05-16,1,1,"#{""riofrios@gmail.com""}",1679.0,16
+Python,Kozea,2013-05-17,4,2,"#{""riofrios@gmail.com"" ""simon.sapin@exyr.org""}",1683.0,16
+Python,Kozea,2013-05-24,5,2,"#{""guillaume.ayoub@kozea.fr"" ""clement.plasse@kozea.fr""}",1688.0,16
+Python,Kozea,2013-06-03,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1693.0,16
+Python,Kozea,2013-06-05,2,1,"#{""guillaume.ayoub@kozea.fr""}",1695.0,16
+Python,Kozea,2013-06-06,2,1,"#{""guillaume.ayoub@kozea.fr""}",1697.0,16
+Python,Kozea,2013-06-07,9,1,"#{""guillaume.ayoub@kozea.fr""}",1706.0,16
+Python,Kozea,2013-06-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",1707.0,16
+Python,Kozea,2013-06-12,1,1,"#{""guillaume.ayoub@kozea.fr""}",1708.0,16
+Python,Kozea,2013-06-13,2,1,"#{""guillaume.ayoub@kozea.fr""}",1710.0,16
+Python,Kozea,2013-06-14,1,1,"#{""pikhovkin@gmail.com""}",1711.0,17
+Python,Kozea,2013-06-18,7,2,"#{""pikhovkin@gmail.com"" ""simon.sapin@exyr.org""}",1718.0,17
+Python,Kozea,2013-06-19,1,1,"#{""simon.sapin@exyr.org""}",1719.0,17
+Python,Kozea,2013-06-20,6,1,"#{""simon.sapin@exyr.org""}",1725.0,17
+Python,Kozea,2013-06-28,2,2,"#{""me@pamignot.org"" ""simon.sapin@exyr.org""}",1727.0,18
+Python,Kozea,2013-06-29,1,1,"#{""me@pamignot.org""}",1728.0,18
+Python,Kozea,2013-07-11,1,1,"#{""simon.sapin@exyr.org""}",1729.0,18
+Python,Kozea,2013-07-14,2,1,"#{""simon.sapin@exyr.org""}",1731.0,18
+Python,Kozea,2013-07-22,3,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1734.0,18
+Python,Kozea,2013-07-26,2,1,"#{""simon.sapin@exyr.org""}",1736.0,18
+Python,Kozea,2013-08-02,2,1,"#{""guillaume.ayoub@kozea.fr""}",1738.0,18
+Python,Kozea,2013-08-03,1,1,"#{""guillaume.ayoub@kozea.fr""}",1739.0,18
+Python,Kozea,2013-08-04,1,1,"#{""guillaume.ayoub@kozea.fr""}",1740.0,18
+Python,Kozea,2013-08-07,1,1,"#{""clement.plasse@kozea.fr""}",1741.0,18
+Python,Kozea,2013-08-12,1,1,"#{""guillaume.ayoub@kozea.fr""}",1742.0,18
+Python,Kozea,2013-08-14,1,1,"#{""guillaume.ayoub@kozea.fr""}",1743.0,18
+Python,Kozea,2013-08-19,2,1,"#{""florian.mounier@kozea.fr""}",1745.0,19
+Python,Kozea,2013-09-09,1,1,"#{""simon.sapin@exyr.org""}",1746.0,19
+Python,Kozea,2013-09-10,2,2,"#{""theakx@gmail.com"" ""simon.sapin@exyr.org""}",1748.0,20
+Python,Kozea,2013-09-12,3,1,"#{""guillaume.ayoub@kozea.fr""}",1751.0,20
+Python,Kozea,2013-09-14,3,1,"#{""guillaume.ayoub@kozea.fr""}",1754.0,20
+Python,Kozea,2013-09-17,3,1,"#{""guillaume.ayoub@kozea.fr""}",1757.0,20
+Python,Kozea,2013-09-30,1,1,"#{""entiteefred@gmail.com""}",1758.0,21
+Python,Kozea,2013-10-01,3,2,"#{""entiteefred@gmail.com"" ""entiteefred@hotmail.com""}",1761.0,22
+Python,Kozea,2013-10-14,1,1,"#{""simon.sapin@exyr.org""}",1762.0,22
+Python,Kozea,2013-10-17,4,1,"#{""guillaume.ayoub@kozea.fr""}",1766.0,22
+Python,Kozea,2013-10-31,2,2,"#{""i@sapika.ch"" ""simon.sapin@exyr.org""}",1768.0,23
+Python,Kozea,2013-11-19,2,1,"#{""guillaume.ayoub@kozea.fr""}",1770.0,23
+Python,Kozea,2013-12-02,1,1,"#{""simon.sapin@exyr.org""}",1771.0,23
+Python,Kozea,2013-12-06,5,2,"#{""guillaume.ayoub@kozea.fr"" ""clement.plasse@kozea.fr""}",1776.0,23
+Python,Kozea,2013-12-07,1,1,"#{""guillaume.ayoub@kozea.fr""}",1777.0,23
+Python,Kozea,2013-12-09,6,1,"#{""guillaume.ayoub@kozea.fr""}",1783.0,23
+Python,Kozea,2013-12-10,13,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1796.0,23
+Python,Kozea,2013-12-13,2,2,"#{""guillaume.ayoub@kozea.fr"" ""clement.plasse@kozea.fr""}",1798.0,23
+Python,Kozea,2013-12-14,3,1,"#{""guillaume.ayoub@kozea.fr""}",1801.0,23
+Python,Kozea,2013-12-16,3,1,"#{""guillaume.ayoub@kozea.fr""}",1804.0,23
+Python,Kozea,2013-12-17,1,1,"#{""guillaume.ayoub@kozea.fr""}",1805.0,23
+Python,Kozea,2013-12-18,4,2,"#{""guillaume.ayoub@kozea.fr"" ""clement.plasse@kozea.fr""}",1809.0,23
+Python,Kozea,2013-12-23,1,1,"#{""simon.sapin@exyr.org""}",1810.0,23
+Python,Kozea,2013-12-27,7,1,"#{""guillaume.ayoub@kozea.fr""}",1817.0,23
+Python,Kozea,2013-12-30,2,1,"#{""guillaume.ayoub@kozea.fr""}",1819.0,23
+Python,Kozea,2013-12-31,3,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1822.0,23
+Python,Kozea,2014-01-07,6,3,"#{""tagrain@gmail.com"" ""jd@nexxar.com"" ""simon.sapin@exyr.org""}",1828.0,25
+Python,Kozea,2014-01-08,2,1,"#{""simon.sapin@exyr.org""}",1830.0,25
+Python,Kozea,2014-01-10,1,1,"#{""simon.sapin@exyr.org""}",1831.0,25
+Python,Kozea,2014-01-11,1,1,"#{""simon.sapin@exyr.org""}",1832.0,25
+Python,Kozea,2014-01-21,2,2,"#{""ronan.guilloux@gmail.com"" ""simon.sapin@exyr.org""}",1834.0,26
+Python,Kozea,2014-01-22,2,1,"#{""guillaume.ayoub@kozea.fr""}",1836.0,26
+Python,Kozea,2014-02-07,1,1,"#{""simon.sapin@exyr.org""}",1837.0,26
+Python,Kozea,2014-02-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",1839.0,26
+Python,Kozea,2014-03-18,1,1,"#{""commx@commx.ws""}",1840.0,27
+Python,Kozea,2014-03-19,1,1,"#{""simon.sapin@exyr.org""}",1841.0,27
+Python,Kozea,2014-04-04,2,1,"#{""colin.leitner@gmail.com""}",1843.0,28
+Python,Kozea,2014-04-06,1,1,"#{""colin.leitner@gmail.com""}",1844.0,28
+Python,Kozea,2014-04-07,11,3,"#{""colin.leitner@gmail.com"" ""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",1855.0,28
+Python,Kozea,2014-04-17,1,1,"#{""apasotti@gmail.com""}",1856.0,29
+Python,Kozea,2014-04-18,3,1,"#{""colin.leitner@gmail.com""}",1859.0,29
+Python,Kozea,2014-04-21,2,1,"#{""simon.sapin@exyr.org""}",1861.0,29
+Python,Kozea,2014-04-22,7,2,"#{""colin.leitner@gmail.com"" ""simon.sapin@exyr.org""}",1868.0,29
+Python,Kozea,2014-04-23,6,1,"#{""colin.leitner@gmail.com""}",1874.0,29
+Python,Kozea,2014-04-25,2,1,"#{""colin.leitner@gmail.com""}",1876.0,29
+Python,Kozea,2014-04-27,11,2,"#{""apasotti@gmail.com"" ""simon.sapin@exyr.org""}",1887.0,29
+Python,Kozea,2014-04-28,1,1,"#{""simon.sapin@exyr.org""}",1888.0,29
+Python,Kozea,2014-05-05,2,1,"#{""simon.sapin@exyr.org""}",1890.0,29
+Python,Kozea,2014-05-20,1,1,"#{""marco.mariani@nexedi.com""}",1891.0,30
+Python,Kozea,2014-05-23,5,2,"#{""jd@nexxar.com"" ""simon.sapin@exyr.org""}",1896.0,30
+Python,Kozea,2014-05-27,5,1,"#{""jd@nexxar.com""}",1901.0,30
+Python,Kozea,2014-05-28,1,1,"#{""jd@nexxar.com""}",1902.0,30
+Python,Kozea,2014-06-04,2,1,"#{""jd@nexxar.com""}",1904.0,30
+Python,Kozea,2014-06-19,1,1,"#{""simon.sapin@exyr.org""}",1905.0,30
+Python,Kozea,2014-06-24,1,1,"#{""coreyf@rwell.org""}",1906.0,31
+Python,Kozea,2014-06-25,2,2,"#{""jd@nexxar.com"" ""simon.sapin@exyr.org""}",1908.0,31
+Python,Kozea,2014-07-14,1,1,"#{""morlandi@brainstorm.it""}",1909.0,32
+Python,Kozea,2014-09-16,3,1,"#{""simon.sapin@exyr.org""}",1912.0,32
+Python,Kozea,2014-11-01,1,1,"#{""guillaume.ayoub@kozea.fr""}",1913.0,32
+Python,Kozea,2015-01-29,1,1,"#{""guillaume.ayoub@kozea.fr""}",1914.0,32
+Python,Kozea,2015-03-08,1,1,"#{""Salem.Mike.Z@gmail.com""}",1915.0,33
+Python,Kozea,2015-03-18,1,1,"#{""Salem.Mike.Z@gmail.com""}",1916.0,33
+Python,Kozea,2015-03-19,1,1,"#{""Salem.Mike.Z@gmail.com""}",1917.0,33
+Python,Kozea,2015-03-21,4,1,"#{""Salem.Mike.Z@gmail.com""}",1921.0,33
+Python,Kozea,2015-03-22,1,1,"#{""Salem.Mike.Z@gmail.com""}",1922.0,33
+Python,Kozea,2015-04-24,3,1,"#{""guillaume.ayoub@kozea.fr""}",1925.0,33
+Python,Kozea,2015-04-25,8,1,"#{""guillaume.ayoub@kozea.fr""}",1933.0,33
+Python,Kozea,2015-04-28,4,1,"#{""guillaume.ayoub@kozea.fr""}",1937.0,33
+Python,Kozea,2015-04-29,2,1,"#{""guillaume.ayoub@kozea.fr""}",1939.0,33
+Python,Kozea,2015-04-30,5,1,"#{""guillaume.ayoub@kozea.fr""}",1944.0,33
+Python,Kozea,2015-05-01,6,1,"#{""guillaume.ayoub@kozea.fr""}",1950.0,33
+Python,Kozea,2015-05-31,1,1,"#{""guillaume.ayoub@kozea.fr""}",1951.0,33
+Python,Kozea,2015-07-01,2,2,"#{""tagrain@gmail.com"" ""simon.sapin@exyr.org""}",1953.0,33
+Python,Kozea,2015-08-04,1,1,"#{""simon.sapin@exyr.org""}",1954.0,33
+Python,Kozea,2015-08-13,1,1,"#{""guillaume.ayoub@kozea.fr""}",1955.0,33
+Python,Kozea,2015-08-14,2,1,"#{""guillaume.ayoub@kozea.fr""}",1957.0,33
+Python,Kozea,2015-08-18,1,1,"#{""joel@ymobility.com""}",1958.0,34
+Python,Kozea,2015-09-02,1,1,"#{""joel@ymobility.com""}",1959.0,34
+Python,Kozea,2015-09-03,2,2,"#{""marc@laporte.name"" ""simon.sapin@exyr.org""}",1961.0,35
+Python,Kozea,2015-09-13,1,1,"#{""guillaume.ayoub@kozea.fr""}",1962.0,35
+Python,Kozea,2015-09-25,1,1,"#{""coronasensei@gmail.com""}",1963.0,36
+Python,Kozea,2015-09-28,2,2,"#{""anl@planetinnovation.com.au"" ""simon.sapin@exyr.org""}",1965.0,37
+Python,Kozea,2015-11-18,1,1,"#{""guillaume.ayoub@kozea.fr""}",1966.0,37
+Python,Kozea,2015-11-20,2,1,"#{""guillaume.ayoub@kozea.fr""}",1968.0,37
+Python,Kozea,2015-11-21,1,1,"#{""guillaume.ayoub@kozea.fr""}",1969.0,37
+Python,Kozea,2015-11-25,2,2,"#{""alex@eftimie.ro"" ""simon.sapin@exyr.org""}",1971.0,38
+Python,Kozea,2015-12-16,5,1,"#{""guillaume.ayoub@kozea.fr""}",1976.0,38
+Python,Kozea,2015-12-17,2,1,"#{""guillaume.ayoub@kozea.fr""}",1978.0,38
+Python,Kozea,2015-12-31,1,1,"#{""guillaume.ayoub@kozea.fr""}",1979.0,38
+Python,Kozea,2016-01-01,2,1,"#{""guillaume.ayoub@kozea.fr""}",1981.0,38
+Python,Kozea,2016-01-09,1,1,"#{""guillaume.ayoub@kozea.fr""}",1982.0,38
+Python,Kozea,2016-01-11,3,1,"#{""guillaume.ayoub@kozea.fr""}",1985.0,38
+Python,Kozea,2016-01-12,2,1,"#{""guillaume.ayoub@kozea.fr""}",1987.0,38
+Python,Kozea,2016-01-14,1,1,"#{""guillaume.ayoub@kozea.fr""}",1988.0,38
+Python,Kozea,2016-01-15,3,1,"#{""guillaume.ayoub@kozea.fr""}",1991.0,38
+Python,Kozea,2016-01-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",1992.0,38
+Python,Kozea,2016-01-17,1,1,"#{""guillaume.ayoub@kozea.fr""}",1993.0,38
+Python,Kozea,2016-01-18,1,1,"#{""guillaume.ayoub@kozea.fr""}",1994.0,38
+Python,Kozea,2016-01-21,3,1,"#{""guillaume.ayoub@kozea.fr""}",1997.0,38
+Python,Kozea,2016-01-22,2,1,"#{""guillaume.ayoub@kozea.fr""}",1999.0,38
+Python,Kozea,2016-01-24,3,1,"#{""guillaume.ayoub@kozea.fr""}",2002.0,38
+Python,Kozea,2016-01-25,1,1,"#{""guillaume.ayoub@kozea.fr""}",2003.0,38
+Python,Kozea,2016-01-29,7,1,"#{""guillaume.ayoub@kozea.fr""}",2010.0,38
+Python,Kozea,2016-02-05,2,1,"#{""morgan.aubert@savoirfairelinux.com""}",2012.0,39
+Python,Kozea,2016-02-09,1,1,"#{""simon.sapin@exyr.org""}",2013.0,39
+Python,Kozea,2016-02-11,3,1,"#{""guillaume.ayoub@kozea.fr""}",2016.0,39
+Python,Kozea,2016-02-21,8,1,"#{""guillaume.ayoub@kozea.fr""}",2024.0,39
+Python,Kozea,2016-02-25,2,1,"#{""guillaume.ayoub@kozea.fr""}",2026.0,39
+Python,Kozea,2016-02-26,7,1,"#{""guillaume.ayoub@kozea.fr""}",2033.0,39
+Python,Kozea,2016-03-08,1,1,"#{""guillaume.ayoub@kozea.fr""}",2034.0,39
+Python,Kozea,2016-03-14,3,1,"#{""guillaume.ayoub@kozea.fr""}",2037.0,39
+Python,Kozea,2016-04-01,1,1,"#{""guillaume.ayoub@kozea.fr""}",2038.0,39
+Python,Kozea,2016-04-04,2,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",2040.0,39
+Python,Kozea,2016-04-05,4,1,"#{""guillaume.ayoub@kozea.fr""}",2044.0,39
+Python,Kozea,2016-04-08,1,1,"#{""guillaume.ayoub@kozea.fr""}",2045.0,39
+Python,Kozea,2016-04-12,1,1,"#{""guillaume.ayoub@kozea.fr""}",2046.0,39
+Python,Kozea,2016-04-25,2,1,"#{""guillaume.ayoub@kozea.fr""}",2048.0,39
+Python,Kozea,2016-05-08,3,1,"#{""guillaume.ayoub@kozea.fr""}",2051.0,39
+Python,Kozea,2016-05-13,3,1,"#{""guillaume.ayoub@kozea.fr""}",2054.0,39
+Python,Kozea,2016-05-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",2056.0,39
+Python,Kozea,2016-05-30,2,2,"#{""guillaume.ayoub@kozea.fr"" ""fedoseev.sergey@gmail.com""}",2058.0,40
+Python,Kozea,2016-06-07,2,2,"#{""guillaume.ayoub@kozea.fr"" ""niosega@users.noreply.github.com""}",2060.0,41
+Python,Kozea,2016-06-17,4,3,"#{""joel@ymobility.com"" ""guillaume.ayoub@kozea.fr"" ""kdeldycke@scaleway.com""}",2064.0,42
+Python,Kozea,2016-06-24,3,1,"#{""guillaume.ayoub@kozea.fr""}",2067.0,42
+Python,Kozea,2016-06-25,2,1,"#{""guillaume.ayoub@kozea.fr""}",2069.0,42
+Python,Kozea,2016-07-15,4,1,"#{""guillaume.ayoub@kozea.fr""}",2073.0,42
+Python,Kozea,2016-07-18,2,1,"#{""guillaume.ayoub@kozea.fr""}",2075.0,42
+Python,Kozea,2016-07-19,2,2,"#{""guillaume.ayoub@kozea.fr"" ""tagrain@gmail.com""}",2077.0,42
+Python,Kozea,2016-07-28,3,1,"#{""guillaume.ayoub@kozea.fr""}",2080.0,42
+Python,Kozea,2016-07-29,2,1,"#{""guillaume.ayoub@kozea.fr""}",2082.0,42
+Python,Kozea,2016-08-04,2,2,"#{""joel@ymobility.com"" ""guillaume.ayoub@kozea.fr""}",2084.0,42
+Python,Kozea,2016-08-14,1,1,"#{""guillaume.ayoub@kozea.fr""}",2085.0,42
+Python,Kozea,2016-08-15,11,1,"#{""guillaume.ayoub@kozea.fr""}",2096.0,42
+Python,Kozea,2016-08-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",2098.0,42
+Python,Kozea,2016-08-17,9,1,"#{""guillaume.ayoub@kozea.fr""}",2107.0,42
+Python,Kozea,2016-08-19,4,1,"#{""guillaume.ayoub@kozea.fr""}",2111.0,42
+Python,Kozea,2016-08-20,10,1,"#{""guillaume.ayoub@kozea.fr""}",2121.0,42
+Python,Kozea,2016-08-21,3,1,"#{""guillaume.ayoub@kozea.fr""}",2124.0,42
+Python,Kozea,2016-08-24,4,1,"#{""guillaume.ayoub@kozea.fr""}",2128.0,42
+Python,Kozea,2016-08-26,3,1,"#{""guillaume.ayoub@kozea.fr""}",2131.0,42
+Python,Kozea,2016-08-28,3,1,"#{""guillaume.ayoub@kozea.fr""}",2134.0,42
+Python,Kozea,2016-08-29,2,1,"#{""guillaume.ayoub@kozea.fr""}",2136.0,42
+Python,Kozea,2016-08-30,7,1,"#{""guillaume.ayoub@kozea.fr""}",2143.0,42
+Python,Kozea,2016-08-31,1,1,"#{""guillaume.ayoub@kozea.fr""}",2144.0,42
+Python,Kozea,2016-09-01,4,1,"#{""guillaume.ayoub@kozea.fr""}",2148.0,42
+Python,Kozea,2016-09-04,3,2,"#{""john.l.bell@gmail.com"" ""guillaume.ayoub@kozea.fr""}",2151.0,43
+Python,Kozea,2016-09-07,1,1,"#{""guillaume.ayoub@kozea.fr""}",2152.0,43
+Python,Kozea,2016-09-12,2,1,"#{""guillaume.ayoub@kozea.fr""}",2154.0,43
+Python,Kozea,2016-09-13,2,1,"#{""guillaume.ayoub@kozea.fr""}",2156.0,43
+Python,Kozea,2016-09-23,1,1,"#{""guillaume.ayoub@kozea.fr""}",2157.0,43
+Python,Kozea,2016-09-24,2,1,"#{""guillaume.ayoub@kozea.fr""}",2159.0,43
+Python,Kozea,2016-09-26,3,1,"#{""guillaume.ayoub@kozea.fr""}",2162.0,43
+Python,Kozea,2016-09-28,2,2,"#{""jeremy.bethmont@gmail.com"" ""guillaume.ayoub@kozea.fr""}",2164.0,44
+Python,Kozea,2016-10-01,1,1,"#{""guillaume.ayoub@kozea.fr""}",2165.0,44
+Python,Kozea,2016-10-07,7,1,"#{""guillaume.ayoub@kozea.fr""}",2172.0,44
+Python,Kozea,2016-10-21,1,1,"#{""guillaume.ayoub@kozea.fr""}",2173.0,44
+Python,Kozea,2016-10-25,5,2,"#{""guillaume.ayoub@kozea.fr"" ""asbjorn@trollweb.no""}",2178.0,45
+Python,Kozea,2016-10-26,6,1,"#{""guillaume.ayoub@kozea.fr""}",2184.0,45
+Python,Kozea,2016-10-27,3,1,"#{""guillaume.ayoub@kozea.fr""}",2187.0,45
+Python,Kozea,2016-10-28,4,1,"#{""guillaume.ayoub@kozea.fr""}",2191.0,45
+Python,Kozea,2016-10-30,2,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",2193.0,45
+Python,Kozea,2016-10-31,1,1,"#{""guillaume.ayoub@kozea.fr""}",2194.0,45
+Python,Kozea,2016-11-01,5,1,"#{""guillaume.ayoub@kozea.fr""}",2199.0,45
+Python,Kozea,2016-11-02,4,1,"#{""guillaume.ayoub@kozea.fr""}",2203.0,45
+Python,Kozea,2016-11-03,3,1,"#{""guillaume.ayoub@kozea.fr""}",2206.0,45
+Python,Kozea,2016-11-05,2,1,"#{""guillaume.ayoub@kozea.fr""}",2208.0,45
+Python,Kozea,2016-11-10,3,1,"#{""guillaume.ayoub@kozea.fr""}",2211.0,45
+Python,Kozea,2016-11-13,1,1,"#{""guillaume.ayoub@kozea.fr""}",2212.0,45
+Python,Kozea,2016-11-17,7,2,"#{""guillaume.ayoub@kozea.fr"" ""keithcallenberg@gmail.com""}",2219.0,46
+Python,Kozea,2016-11-18,1,1,"#{""guillaume.ayoub@kozea.fr""}",2220.0,46
+Python,Kozea,2016-11-19,9,1,"#{""guillaume.ayoub@kozea.fr""}",2229.0,46
+Python,Kozea,2016-11-20,13,1,"#{""guillaume.ayoub@kozea.fr""}",2242.0,46
+Python,Kozea,2016-11-21,3,1,"#{""guillaume.ayoub@kozea.fr""}",2245.0,46
+Python,Kozea,2016-11-22,2,1,"#{""guillaume.ayoub@kozea.fr""}",2247.0,46
+Python,Kozea,2016-11-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",2248.0,46
+Python,Kozea,2016-11-25,1,1,"#{""guillaume.ayoub@kozea.fr""}",2249.0,46
+Python,Kozea,2016-11-27,2,1,"#{""guillaume.ayoub@kozea.fr""}",2251.0,46
+Python,Kozea,2016-11-28,2,1,"#{""guillaume.ayoub@kozea.fr""}",2253.0,46
+Python,Kozea,2016-12-04,4,1,"#{""guillaume.ayoub@kozea.fr""}",2257.0,46
+Python,Kozea,2016-12-06,4,2,"#{""guillaume.ayoub@kozea.fr"" ""ilya.konstantinov@gmail.com""}",2261.0,47
+Python,Kozea,2016-12-07,2,1,"#{""guillaume.ayoub@kozea.fr""}",2263.0,47
+Python,Kozea,2016-12-15,1,1,"#{""guillaume.ayoub@kozea.fr""}",2264.0,47
+Python,Kozea,2016-12-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",2265.0,47
+Python,Kozea,2016-12-17,1,1,"#{""guillaume.ayoub@kozea.fr""}",2266.0,47
+Python,Kozea,2016-12-21,1,1,"#{""guillaume.ayoub@kozea.fr""}",2267.0,47
+Python,Kozea,2017-01-02,3,1,"#{""guillaume.ayoub@kozea.fr""}",2270.0,47
+Python,Kozea,2017-01-11,3,2,"#{""guillaume.ayoub@kozea.fr"" ""natano@natano.net""}",2273.0,48
+Python,Kozea,2017-01-15,1,1,"#{""kyle.gibson@frozenonline.com""}",2274.0,49
+Python,Kozea,2017-01-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",2275.0,49
+Python,Kozea,2017-02-06,1,1,"#{""dev@admin4.org""}",2276.0,50
+Python,Kozea,2017-02-07,1,1,"#{""guillaume.ayoub@kozea.fr""}",2277.0,50
+Python,Kozea,2017-02-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",2278.0,50
+Python,Kozea,2017-02-25,4,1,"#{""guillaume.ayoub@kozea.fr""}",2282.0,50
+Python,Kozea,2017-03-24,2,1,"#{""guillaume.ayoub@kozea.fr""}",2284.0,50
+Python,Kozea,2017-03-25,11,1,"#{""guillaume.ayoub@kozea.fr""}",2295.0,50
+Python,Kozea,2017-03-26,5,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.sapin@exyr.org""}",2300.0,50
+Python,Kozea,2017-03-28,2,2,"#{""guillaume.ayoub@kozea.fr"" ""sunu0000@gmail.com""}",2302.0,51
+Python,Kozea,2017-04-01,2,1,"#{""guillaume.ayoub@kozea.fr""}",2304.0,51
+Python,Kozea,2017-04-28,3,2,"#{""guillaume.ayoub@kozea.fr"" ""hsw@hodain.net""}",2307.0,52
+Python,Kozea,2017-04-29,5,2,"#{""guillaume.ayoub@kozea.fr"" ""hsw@hodain.net""}",2312.0,52
+Python,Kozea,2017-05-01,2,1,"#{""hsw@hodain.net""}",2314.0,52
+Python,Kozea,2017-05-02,3,1,"#{""guillaume.ayoub@kozea.fr""}",2317.0,52
+Python,Kozea,2017-05-03,2,1,"#{""guillaume.ayoub@kozea.fr""}",2319.0,52
+Python,Kozea,2017-05-14,2,1,"#{""guillaume.ayoub@kozea.fr""}",2321.0,52
+Python,Kozea,2017-06-03,5,1,"#{""guillaume.ayoub@kozea.fr""}",2326.0,52
+Python,Kozea,2017-06-07,1,1,"#{""guillaume.ayoub@kozea.fr""}",2327.0,52
+Python,Kozea,2017-06-15,3,1,"#{""guillaume.ayoub@kozea.fr""}",2330.0,52
+Python,Kozea,2017-06-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",2332.0,52
+Python,Kozea,2017-06-17,1,1,"#{""guillaume.ayoub@kozea.fr""}",2333.0,52
+Python,Kozea,2017-06-23,1,1,"#{""guillaume.ayoub@kozea.fr""}",2334.0,52
+Python,Kozea,2017-06-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",2335.0,52
+Python,Kozea,2017-06-30,5,1,"#{""guillaume.ayoub@kozea.fr""}",2340.0,52
+Python,Kozea,2017-07-01,4,1,"#{""guillaume.ayoub@kozea.fr""}",2344.0,52
+Python,Kozea,2017-07-03,2,1,"#{""guillaume.ayoub@kozea.fr""}",2346.0,52
+Python,Kozea,2017-07-07,6,1,"#{""guillaume.ayoub@kozea.fr""}",2352.0,52
+Python,Kozea,2017-07-11,1,1,"#{""guillaume.ayoub@kozea.fr""}",2353.0,52
+Python,Kozea,2017-07-13,2,1,"#{""guillaume.ayoub@kozea.fr""}",2355.0,52
+Python,Kozea,2017-07-17,2,1,"#{""guillaume.ayoub@kozea.fr""}",2357.0,52
+Python,Kozea,2017-07-18,4,1,"#{""guillaume.ayoub@kozea.fr""}",2361.0,52
+Python,Kozea,2017-07-20,2,1,"#{""guillaume.ayoub@kozea.fr""}",2363.0,52
+Python,Kozea,2017-07-22,1,1,"#{""guillaume.ayoub@kozea.fr""}",2364.0,52
+Python,Kozea,2017-07-23,3,1,"#{""guillaume.ayoub@kozea.fr""}",2367.0,52
+Python,Kozea,2017-07-25,4,1,"#{""guillaume.ayoub@kozea.fr""}",2371.0,52
+Python,Kozea,2017-07-28,5,1,"#{""guillaume.ayoub@kozea.fr""}",2376.0,52
+Python,Kozea,2017-07-30,3,1,"#{""guillaume.ayoub@kozea.fr""}",2379.0,52
+Python,Kozea,2017-07-31,3,1,"#{""guillaume.ayoub@kozea.fr""}",2382.0,52
+Python,Kozea,2017-08-01,3,1,"#{""guillaume.ayoub@kozea.fr""}",2385.0,52
+Python,Kozea,2017-08-02,5,1,"#{""guillaume.ayoub@kozea.fr""}",2390.0,52
+Python,Kozea,2017-08-03,1,1,"#{""guillaume.ayoub@kozea.fr""}",2391.0,52
+Python,Kozea,2017-08-04,7,1,"#{""guillaume.ayoub@kozea.fr""}",2398.0,52
+Python,Kozea,2017-08-05,4,1,"#{""guillaume.ayoub@kozea.fr""}",2402.0,52
+Python,Kozea,2017-08-07,1,1,"#{""guillaume.ayoub@kozea.fr""}",2403.0,52
+Python,Kozea,2017-08-09,1,1,"#{""guillaume.ayoub@kozea.fr""}",2404.0,52
+Python,Kozea,2017-08-10,2,1,"#{""guillaume.ayoub@kozea.fr""}",2406.0,52
+Python,Kozea,2017-08-14,6,1,"#{""guillaume.ayoub@kozea.fr""}",2412.0,52
+Python,Kozea,2017-08-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",2413.0,52
+Python,Kozea,2017-08-17,9,1,"#{""guillaume.ayoub@kozea.fr""}",2422.0,52
+Python,Kozea,2017-08-18,1,1,"#{""guillaume.ayoub@kozea.fr""}",2423.0,52
+Python,Kozea,2017-08-23,1,1,"#{""filip.m.kucharczyk@gmail.com""}",2424.0,53
+Python,Kozea,2017-08-26,1,1,"#{""guillaume.ayoub@kozea.fr""}",2425.0,53
+Python,Kozea,2017-08-31,1,1,"#{""guillaume.ayoub@kozea.fr""}",2426.0,53
+Python,Kozea,2017-09-04,1,1,"#{""guillaume.ayoub@kozea.fr""}",2427.0,53
+Python,Kozea,2017-09-05,4,1,"#{""guillaume.ayoub@kozea.fr""}",2431.0,53
+Python,Kozea,2017-09-06,5,1,"#{""guillaume.ayoub@kozea.fr""}",2436.0,53
+Python,Kozea,2017-09-11,1,1,"#{""guillaume.ayoub@kozea.fr""}",2437.0,53
+Python,Kozea,2017-09-15,2,2,"#{""tsfdye@gmail.com"" ""guillaume.ayoub@kozea.fr""}",2439.0,54
+Python,Kozea,2017-09-19,2,2,"#{""jonas@lophus.org"" ""guillaume.ayoub@kozea.fr""}",2441.0,55
+Python,Kozea,2017-09-21,1,1,"#{""vaclav.pokluda@grandit.cz""}",2442.0,56
+Python,Kozea,2017-09-30,2,1,"#{""guillaume.ayoub@kozea.fr""}",2444.0,56
+Python,Kozea,2017-10-01,3,1,"#{""guillaume.ayoub@kozea.fr""}",2447.0,56
+Python,Kozea,2017-10-04,6,1,"#{""guillaume.ayoub@kozea.fr""}",2453.0,56
+Python,Kozea,2017-10-05,8,1,"#{""guillaume.ayoub@kozea.fr""}",2461.0,56
+Python,Kozea,2017-10-06,1,1,"#{""guillaume.ayoub@kozea.fr""}",2462.0,56
+Python,Kozea,2017-10-09,1,1,"#{""guillaume.ayoub@kozea.fr""}",2463.0,56
+Python,Kozea,2017-10-11,1,1,"#{""guillaume.ayoub@kozea.fr""}",2464.0,56
+Python,Kozea,2017-10-13,1,1,"#{""guillaume.ayoub@kozea.fr""}",2465.0,56
+Python,Kozea,2017-10-19,1,1,"#{""guillaume.ayoub@kozea.fr""}",2466.0,56
+Python,Kozea,2017-10-21,4,1,"#{""guillaume.ayoub@kozea.fr""}",2470.0,56
+Python,Kozea,2017-10-23,1,1,"#{""guillaume.ayoub@kozea.fr""}",2471.0,56
+Python,Kozea,2017-10-24,4,1,"#{""guillaume.ayoub@kozea.fr""}",2475.0,56
+Python,Kozea,2017-11-11,1,1,"#{""martijn.the@intel.com""}",2476.0,57
+Python,Kozea,2017-11-15,1,1,"#{""jcmetz21@gmail.com""}",2477.0,58
+Python,Kozea,2017-11-16,7,1,"#{""guillaume.ayoub@kozea.fr""}",2484.0,58
+Python,Kozea,2017-11-17,4,1,"#{""guillaume.ayoub@kozea.fr""}",2488.0,58
+Python,Kozea,2017-11-19,1,1,"#{""guillaume.ayoub@kozea.fr""}",2489.0,58
+Python,Kozea,2017-11-20,1,1,"#{""guillaume.ayoub@kozea.fr""}",2490.0,58
+Python,Kozea,2017-12-07,3,2,"#{""guillaume.ayoub@kozea.fr"" ""lucien@hashbang.fr""}",2493.0,59
+Python,Kozea,2017-12-08,1,1,"#{""guillaume.ayoub@kozea.fr""}",2494.0,59
+Python,Kozea,2017-12-09,3,1,"#{""guillaume.ayoub@kozea.fr""}",2497.0,59
+Python,Kozea,2017-12-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",2498.0,59
+Python,Kozea,2017-12-11,7,1,"#{""guillaume.ayoub@kozea.fr""}",2505.0,59
+Python,Kozea,2017-12-12,3,1,"#{""guillaume.ayoub@kozea.fr""}",2508.0,59
+Python,Kozea,2017-12-13,2,1,"#{""guillaume.ayoub@kozea.fr""}",2510.0,59
+Python,Kozea,2017-12-21,1,1,"#{""lucien@hashbang.fr""}",2511.0,59
+Python,Kozea,2017-12-23,8,1,"#{""guillaume.ayoub@kozea.fr""}",2519.0,59
+Python,Kozea,2017-12-26,4,1,"#{""guillaume.ayoub@kozea.fr""}",2523.0,59
+Python,Kozea,2017-12-27,1,1,"#{""guillaume.ayoub@kozea.fr""}",2524.0,59
+Python,Kozea,2017-12-29,1,1,"#{""guillaume.ayoub@kozea.fr""}",2525.0,59
+Python,Kozea,2018-01-05,1,1,"#{""guillaume.ayoub@kozea.fr""}",2526.0,59
+Python,Kozea,2018-01-06,1,1,"#{""guillaume.ayoub@kozea.fr""}",2527.0,59
+Python,Kozea,2018-01-07,6,1,"#{""guillaume.ayoub@kozea.fr""}",2533.0,59
+Python,Kozea,2018-01-09,16,1,"#{""guillaume.ayoub@kozea.fr""}",2549.0,59
+Python,Kozea,2018-01-11,4,1,"#{""guillaume.ayoub@kozea.fr""}",2553.0,59
+Python,Kozea,2018-01-12,2,1,"#{""guillaume.ayoub@kozea.fr""}",2555.0,59
+Python,Kozea,2018-01-13,3,1,"#{""guillaume.ayoub@kozea.fr""}",2558.0,59
+Python,Kozea,2018-01-14,4,1,"#{""guillaume.ayoub@kozea.fr""}",2562.0,59
+Python,Kozea,2018-01-18,1,1,"#{""guillaume.ayoub@kozea.fr""}",2563.0,59
+Python,Kozea,2018-01-21,4,1,"#{""guillaume.ayoub@kozea.fr""}",2567.0,59
+Python,Kozea,2018-01-23,4,1,"#{""guillaume.ayoub@kozea.fr""}",2571.0,59
+Python,Kozea,2018-01-27,1,1,"#{""guillaume.ayoub@kozea.fr""}",2572.0,59
+Python,Kozea,2018-01-28,6,1,"#{""guillaume.ayoub@kozea.fr""}",2578.0,59
+Python,Kozea,2018-01-29,3,1,"#{""guillaume.ayoub@kozea.fr""}",2581.0,59
+Python,Kozea,2018-01-31,1,1,"#{""lucien@hashbang.fr""}",2582.0,59
+Python,Kozea,2018-02-01,1,1,"#{""guillaume.ayoub@kozea.fr""}",2583.0,59
+Python,Kozea,2018-02-03,1,1,"#{""guillaume.ayoub@kozea.fr""}",2584.0,59
+Python,Kozea,2018-02-04,3,1,"#{""guillaume.ayoub@kozea.fr""}",2587.0,59
+Python,Kozea,2018-02-11,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2588.0,60
+Python,Kozea,2018-02-12,1,1,"#{""guillaume.ayoub@kozea.fr""}",2589.0,60
+Python,Kozea,2018-02-13,1,1,"#{""guillaume.ayoub@kozea.fr""}",2590.0,60
+Python,Kozea,2018-02-16,3,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2593.0,60
+Python,Kozea,2018-02-17,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2594.0,60
+Python,Kozea,2018-02-19,2,1,"#{""guillaume.ayoub@kozea.fr""}",2596.0,60
+Python,Kozea,2018-02-20,2,1,"#{""guillaume.ayoub@kozea.fr""}",2598.0,60
+Python,Kozea,2018-02-21,1,1,"#{""guillaume.ayoub@kozea.fr""}",2599.0,60
+Python,Kozea,2018-02-22,2,1,"#{""guillaume.ayoub@kozea.fr""}",2601.0,60
+Python,Kozea,2018-02-24,4,1,"#{""guillaume.ayoub@kozea.fr""}",2605.0,60
+Python,Kozea,2018-02-25,9,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2614.0,60
+Python,Kozea,2018-02-26,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2616.0,60
+Python,Kozea,2018-02-27,1,1,"#{""guillaume.ayoub@kozea.fr""}",2617.0,60
+Python,Kozea,2018-03-01,2,1,"#{""guillaume.ayoub@kozea.fr""}",2619.0,60
+Python,Kozea,2018-03-02,2,1,"#{""guillaume.ayoub@kozea.fr""}",2621.0,60
+Python,Kozea,2018-03-03,7,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2628.0,60
+Python,Kozea,2018-03-04,1,1,"#{""guillaume.ayoub@kozea.fr""}",2629.0,60
+Python,Kozea,2018-03-05,4,1,"#{""guillaume.ayoub@kozea.fr""}",2633.0,60
+Python,Kozea,2018-03-06,3,1,"#{""guillaume.ayoub@kozea.fr""}",2636.0,60
+Python,Kozea,2018-03-07,2,1,"#{""guillaume.ayoub@kozea.fr""}",2638.0,60
+Python,Kozea,2018-03-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",2639.0,60
+Python,Kozea,2018-03-11,2,1,"#{""guillaume.ayoub@kozea.fr""}",2641.0,60
+Python,Kozea,2018-03-12,7,1,"#{""guillaume.ayoub@kozea.fr""}",2648.0,60
+Python,Kozea,2018-03-14,7,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2655.0,60
+Python,Kozea,2018-03-15,5,1,"#{""guillaume.ayoub@kozea.fr""}",2660.0,60
+Python,Kozea,2018-03-16,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2662.0,60
+Python,Kozea,2018-03-18,4,1,"#{""guillaume.ayoub@kozea.fr""}",2666.0,60
+Python,Kozea,2018-03-19,3,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2669.0,60
+Python,Kozea,2018-03-20,7,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2676.0,60
+Python,Kozea,2018-03-21,1,1,"#{""guillaume.ayoub@kozea.fr""}",2677.0,60
+Python,Kozea,2018-03-22,4,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2681.0,60
+Python,Kozea,2018-03-23,3,1,"#{""guillaume.ayoub@kozea.fr""}",2684.0,60
+Python,Kozea,2018-03-25,7,1,"#{""guillaume.ayoub@kozea.fr""}",2691.0,60
+Python,Kozea,2018-03-26,4,1,"#{""guillaume.ayoub@kozea.fr""}",2695.0,60
+Python,Kozea,2018-03-27,9,1,"#{""guillaume.ayoub@kozea.fr""}",2704.0,60
+Python,Kozea,2018-03-28,4,1,"#{""guillaume.ayoub@kozea.fr""}",2708.0,60
+Python,Kozea,2018-03-30,4,1,"#{""guillaume.ayoub@kozea.fr""}",2712.0,60
+Python,Kozea,2018-03-31,5,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2717.0,60
+Python,Kozea,2018-04-01,1,1,"#{""guillaume.ayoub@kozea.fr""}",2718.0,60
+Python,Kozea,2018-04-02,1,1,"#{""guillaume.ayoub@kozea.fr""}",2719.0,60
+Python,Kozea,2018-04-03,6,1,"#{""guillaume.ayoub@kozea.fr""}",2725.0,60
+Python,Kozea,2018-04-04,1,1,"#{""guillaume.ayoub@kozea.fr""}",2726.0,60
+Python,Kozea,2018-04-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",2727.0,60
+Python,Kozea,2018-04-12,1,1,"#{""guillaume.ayoub@kozea.fr""}",2728.0,60
+Python,Kozea,2018-04-13,2,1,"#{""guillaume.ayoub@kozea.fr""}",2730.0,60
+Python,Kozea,2018-04-14,1,1,"#{""guillaume.ayoub@kozea.fr""}",2731.0,60
+Python,Kozea,2018-04-15,3,1,"#{""guillaume.ayoub@kozea.fr""}",2734.0,60
+Python,Kozea,2018-04-16,5,1,"#{""guillaume.ayoub@kozea.fr""}",2739.0,60
+Python,Kozea,2018-04-18,1,1,"#{""guillaume.ayoub@kozea.fr""}",2740.0,60
+Python,Kozea,2018-04-19,6,2,"#{""guillaume.ayoub@kozea.fr"" ""luisvelasquez@openmailbox.org""}",2746.0,61
+Python,Kozea,2018-04-22,2,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2748.0,61
+Python,Kozea,2018-04-23,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2749.0,61
+Python,Kozea,2018-04-30,7,1,"#{""guillaume.ayoub@kozea.fr""}",2756.0,61
+Python,Kozea,2018-05-01,3,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2759.0,61
+Python,Kozea,2018-05-02,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2760.0,61
+Python,Kozea,2018-05-03,2,1,"#{""guillaume.ayoub@kozea.fr""}",2762.0,61
+Python,Kozea,2018-05-05,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2763.0,61
+Python,Kozea,2018-05-17,1,1,"#{""guillaume.ayoub@kozea.fr""}",2764.0,61
+Python,Kozea,2018-05-18,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2765.0,61
+Python,Kozea,2018-05-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",2766.0,61
+Python,Kozea,2018-05-26,1,1,"#{""guillaume.ayoub@kozea.fr""}",2767.0,61
+Python,Kozea,2018-06-10,1,1,"#{""chancykennedy@gmail.com""}",2768.0,62
+Python,Kozea,2018-06-13,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2769.0,62
+Python,Kozea,2018-06-15,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2771.0,62
+Python,Kozea,2018-06-17,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2772.0,62
+Python,Kozea,2018-06-19,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2773.0,62
+Python,Kozea,2018-06-20,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2774.0,62
+Python,Kozea,2018-06-23,1,1,"#{""guillaume.ayoub@kozea.fr""}",2775.0,62
+Python,Kozea,2018-06-24,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2777.0,62
+Python,Kozea,2018-06-28,4,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2781.0,62
+Python,Kozea,2018-06-29,1,1,"#{""guillaume.ayoub@kozea.fr""}",2782.0,62
+Python,Kozea,2018-06-30,5,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2787.0,62
+Python,Kozea,2018-07-01,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2788.0,62
+Python,Kozea,2018-07-02,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2789.0,62
+Python,Kozea,2018-07-07,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2790.0,62
+Python,Kozea,2018-07-08,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2791.0,62
+Python,Kozea,2018-07-19,2,1,"#{""guillaume.ayoub@kozea.fr""}",2793.0,62
+Python,Kozea,2018-07-29,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2795.0,62
+Python,Kozea,2018-07-30,2,1,"#{""guillaume.ayoub@kozea.fr""}",2797.0,62
+Python,Kozea,2018-07-31,3,1,"#{""guillaume.ayoub@kozea.fr""}",2800.0,62
+Python,Kozea,2018-08-01,3,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2803.0,62
+Python,Kozea,2018-08-02,6,1,"#{""guillaume.ayoub@kozea.fr""}",2809.0,62
+Python,Kozea,2018-08-03,6,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2815.0,62
+Python,Kozea,2018-08-06,8,1,"#{""guillaume.ayoub@kozea.fr""}",2823.0,62
+Python,Kozea,2018-08-07,3,1,"#{""guillaume.ayoub@kozea.fr""}",2826.0,62
+Python,Kozea,2018-08-08,4,1,"#{""guillaume.ayoub@kozea.fr""}",2830.0,62
+Python,Kozea,2018-08-09,1,1,"#{""guillaume.ayoub@kozea.fr""}",2831.0,62
+Python,Kozea,2018-08-10,4,1,"#{""guillaume.ayoub@kozea.fr""}",2835.0,62
+Python,Kozea,2018-08-12,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2836.0,62
+Python,Kozea,2018-08-13,2,1,"#{""guillaume.ayoub@kozea.fr""}",2838.0,62
+Python,Kozea,2018-08-17,5,1,"#{""guillaume.ayoub@kozea.fr""}",2843.0,62
+Python,Kozea,2018-08-21,2,1,"#{""guillaume.ayoub@kozea.fr""}",2845.0,62
+Python,Kozea,2018-08-22,8,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2853.0,62
+Python,Kozea,2018-08-23,7,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2860.0,62
+Python,Kozea,2018-08-24,3,1,"#{""guillaume.ayoub@kozea.fr""}",2863.0,62
+Python,Kozea,2018-08-25,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2865.0,62
+Python,Kozea,2018-08-29,8,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2873.0,62
+Python,Kozea,2018-08-30,2,1,"#{""guillaume.ayoub@kozea.fr""}",2875.0,62
+Python,Kozea,2018-09-01,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2876.0,62
+Python,Kozea,2018-09-02,2,1,"#{""josefduchesne@gmail.com""}",2878.0,63
+Python,Kozea,2018-09-03,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",2880.0,63
+Python,Kozea,2018-09-17,6,1,"#{""guillaume.ayoub@kozea.fr""}",2886.0,63
+Python,Kozea,2018-09-18,5,1,"#{""guillaume.ayoub@kozea.fr""}",2891.0,63
+Python,Kozea,2018-09-19,1,1,"#{""guillaume.ayoub@kozea.fr""}",2892.0,63
+Python,Kozea,2018-09-20,3,1,"#{""guillaume.ayoub@kozea.fr""}",2895.0,63
+Python,Kozea,2018-09-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",2896.0,63
+Python,Kozea,2018-09-29,1,1,"#{""guillaume.ayoub@kozea.fr""}",2897.0,63
+Python,Kozea,2018-10-10,2,1,"#{""guillaume.ayoub@kozea.fr""}",2899.0,63
+Python,Kozea,2018-10-11,7,1,"#{""guillaume.ayoub@kozea.fr""}",2906.0,63
+Python,Kozea,2018-10-15,1,1,"#{""guillaume.ayoub@kozea.fr""}",2907.0,63
+Python,Kozea,2018-10-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",2909.0,63
+Python,Kozea,2018-10-21,1,1,"#{""guillaume.ayoub@kozea.fr""}",2910.0,63
+Python,Kozea,2018-10-26,12,1,"#{""guillaume.ayoub@kozea.fr""}",2922.0,63
+Python,Kozea,2018-10-29,3,1,"#{""guillaume.ayoub@kozea.fr""}",2925.0,63
+Python,Kozea,2018-10-31,1,1,"#{""guillaume.ayoub@kozea.fr""}",2926.0,63
+Python,Kozea,2018-11-02,4,1,"#{""guillaume.ayoub@kozea.fr""}",2930.0,63
+Python,Kozea,2018-11-08,1,1,"#{""guillaume.ayoub@kozea.fr""}",2931.0,63
+Python,Kozea,2018-11-09,1,1,"#{""guillaume.ayoub@kozea.fr""}",2932.0,63
+Python,Kozea,2018-11-10,3,2,"#{""guillaume.ayoub@kozea.fr"" ""37541513+TimotheeGerber@users.noreply.github.com""}",2935.0,64
+Python,Kozea,2018-11-12,2,2,"#{""guillaume.ayoub@kozea.fr"" ""daniel.himmelstein@gmail.com""}",2937.0,65
+Python,Kozea,2018-11-13,1,1,"#{""guillaume.ayoub@kozea.fr""}",2938.0,65
+Python,Kozea,2018-11-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",2939.0,65
+Python,Kozea,2018-11-17,3,1,"#{""guillaume.ayoub@kozea.fr""}",2942.0,65
+Python,Kozea,2018-11-20,2,1,"#{""guillaume.ayoub@kozea.fr""}",2944.0,65
+Python,Kozea,2018-11-21,2,1,"#{""guillaume.ayoub@kozea.fr""}",2946.0,65
+Python,Kozea,2018-11-22,2,1,"#{""guillaume.ayoub@kozea.fr""}",2948.0,65
+Python,Kozea,2018-12-03,1,1,"#{""guillaume.ayoub@kozea.fr""}",2949.0,65
+Python,Kozea,2018-12-04,1,1,"#{""github@naddiseo.ca""}",2950.0,66
+Python,Kozea,2018-12-05,1,1,"#{""guillaume.ayoub@kozea.fr""}",2951.0,66
+Python,Kozea,2018-12-14,1,1,"#{""guillaume.ayoub@kozea.fr""}",2952.0,66
+Python,Kozea,2018-12-27,3,1,"#{""guillaume.ayoub@kozea.fr""}",2955.0,66
+Python,Kozea,2018-12-29,5,1,"#{""guillaume.ayoub@kozea.fr""}",2960.0,66
+Python,Kozea,2019-01-02,2,1,"#{""guillaume.ayoub@kozea.fr""}",2962.0,66
+Python,Kozea,2019-01-03,2,1,"#{""guillaume.ayoub@kozea.fr""}",2964.0,66
+Python,Kozea,2019-01-04,1,1,"#{""guillaume.ayoub@kozea.fr""}",2965.0,66
+Python,Kozea,2019-01-05,3,2,"#{""kevin@kevin-brown.com"" ""guillaume.ayoub@kozea.fr""}",2968.0,67
+Python,Kozea,2019-01-06,1,1,"#{""guillaume.ayoub@kozea.fr""}",2969.0,67
+Python,Kozea,2019-01-07,2,2,"#{""guillaume.ayoub@kozea.fr"" ""antoine.precigout@gmail.com""}",2971.0,68
+Python,Kozea,2019-01-17,2,1,"#{""guillaume.ayoub@kozea.fr""}",2973.0,68
+Python,Kozea,2019-01-21,2,1,"#{""guillaume.ayoub@kozea.fr""}",2975.0,68
+Python,Kozea,2019-01-22,3,2,"#{""guillaume.ayoub@kozea.fr"" ""pyro4hell@gmail.com""}",2978.0,69
+Python,Kozea,2019-01-23,3,1,"#{""guillaume.ayoub@kozea.fr""}",2981.0,69
+Python,Kozea,2019-01-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",2982.0,69
+Python,Kozea,2019-01-30,2,1,"#{""guillaume.ayoub@kozea.fr""}",2984.0,69
+Python,Kozea,2019-02-01,2,2,"#{""guillaume.ayoub@kozea.fr"" ""florijanh@gmail.com""}",2986.0,70
+Python,Kozea,2019-02-05,7,3,"#{""guillaume.ayoub@kozea.fr"" ""sklist@kitterman.com"" ""35614937+Tontyna@users.noreply.github.com""}",2993.0,71
+Python,Kozea,2019-02-06,6,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",2999.0,71
+Python,Kozea,2019-02-07,3,1,"#{""guillaume.ayoub@kozea.fr""}",3002.0,71
+Python,Kozea,2019-02-08,3,2,"#{""guillaume.ayoub@kozea.fr"" ""Smylers@stripey.com""}",3005.0,71
+Python,Kozea,2019-02-09,1,1,"#{""ben.zichri@gmail.com""}",3006.0,72
+Python,Kozea,2019-02-10,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3007.0,72
+Python,Kozea,2019-02-11,2,1,"#{""guillaume.ayoub@kozea.fr""}",3009.0,72
+Python,Kozea,2019-02-15,2,2,"#{""guillaume.ayoub@kozea.fr"" ""xus@zoyolabs.com""}",3011.0,73
+Python,Kozea,2019-02-17,3,1,"#{""guillaume.ayoub@kozea.fr""}",3014.0,73
+Python,Kozea,2019-02-18,1,1,"#{""guillaume.ayoub@kozea.fr""}",3015.0,73
+Python,Kozea,2019-02-20,1,1,"#{""guillaume.ayoub@kozea.fr""}",3016.0,73
+Python,Kozea,2019-02-21,3,1,"#{""guillaume.ayoub@kozea.fr""}",3019.0,73
+Python,Kozea,2019-02-22,1,1,"#{""guillaume.ayoub@kozea.fr""}",3020.0,73
+Python,Kozea,2019-02-27,7,2,"#{""guillaume.ayoub@kozea.fr"" ""seb.corbin@gmail.com""}",3027.0,74
+Python,Kozea,2019-02-28,6,1,"#{""guillaume.ayoub@kozea.fr""}",3033.0,74
+Python,Kozea,2019-03-01,4,1,"#{""guillaume.ayoub@kozea.fr""}",3037.0,74
+Python,Kozea,2019-03-04,2,1,"#{""guillaume.ayoub@kozea.fr""}",3039.0,74
+Python,Kozea,2019-03-06,4,1,"#{""guillaume.ayoub@kozea.fr""}",3043.0,74
+Python,Kozea,2019-03-07,11,1,"#{""guillaume.ayoub@kozea.fr""}",3054.0,74
+Python,Kozea,2019-03-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",3055.0,74
+Python,Kozea,2019-03-12,2,1,"#{""guillaume.ayoub@kozea.fr""}",3057.0,74
+Python,Kozea,2019-03-13,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3058.0,74
+Python,Kozea,2019-03-14,4,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",3062.0,74
+Python,Kozea,2019-03-15,4,1,"#{""guillaume.ayoub@kozea.fr""}",3066.0,74
+Python,Kozea,2019-03-16,3,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3069.0,74
+Python,Kozea,2019-03-18,10,1,"#{""guillaume.ayoub@kozea.fr""}",3079.0,74
+Python,Kozea,2019-03-19,5,1,"#{""guillaume.ayoub@kozea.fr""}",3084.0,74
+Python,Kozea,2019-03-20,3,1,"#{""guillaume.ayoub@kozea.fr""}",3087.0,74
+Python,Kozea,2019-03-21,1,1,"#{""guillaume.ayoub@kozea.fr""}",3088.0,74
+Python,Kozea,2019-03-22,2,1,"#{""guillaume.ayoub@kozea.fr""}",3090.0,74
+Python,Kozea,2019-03-27,2,1,"#{""guillaume.ayoub@kozea.fr""}",3092.0,74
+Python,Kozea,2019-04-01,9,1,"#{""guillaume.ayoub@kozea.fr""}",3101.0,74
+Python,Kozea,2019-04-02,16,1,"#{""guillaume.ayoub@kozea.fr""}",3117.0,74
+Python,Kozea,2019-04-03,1,1,"#{""guillaume.ayoub@kozea.fr""}",3118.0,74
+Python,Kozea,2019-04-04,6,2,"#{""guillaume.ayoub@kozea.fr"" ""15247545+mohdnajdy@users.noreply.github.com""}",3124.0,75
+Python,Kozea,2019-04-10,2,1,"#{""guillaume.ayoub@kozea.fr""}",3126.0,75
+Python,Kozea,2019-04-12,6,1,"#{""guillaume.ayoub@kozea.fr""}",3132.0,75
+Python,Kozea,2019-04-20,2,2,"#{""gabriel.corona@enst-bretagne.fr"" ""nathan.demaestri@gmail.com""}",3134.0,77
+Python,Kozea,2019-04-29,1,1,"#{""gabriel.corona@enst-bretagne.fr""}",3135.0,77
+Python,Kozea,2019-05-14,7,1,"#{""guillaume.ayoub@kozea.fr""}",3142.0,77
+Python,Kozea,2019-05-15,2,1,"#{""guillaume.ayoub@kozea.fr""}",3144.0,77
+Python,Kozea,2019-05-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",3145.0,77
+Python,Kozea,2019-05-17,3,1,"#{""guillaume.ayoub@kozea.fr""}",3148.0,77
+Python,Kozea,2019-05-18,1,1,"#{""gabriel.corona@enst-bretagne.fr""}",3149.0,77
+Python,Kozea,2019-05-20,2,1,"#{""guillaume.ayoub@kozea.fr""}",3151.0,77
+Python,Kozea,2019-05-23,2,1,"#{""guillaume.ayoub@kozea.fr""}",3153.0,77
+Python,Kozea,2019-05-27,1,1,"#{""gabriel.corona@enst-bretagne.fr""}",3154.0,77
+Python,Kozea,2019-05-31,4,1,"#{""guillaume.ayoub@kozea.fr""}",3158.0,77
+Python,Kozea,2019-06-01,3,1,"#{""mbarkhau@gmail.com""}",3161.0,77
+Python,Kozea,2019-06-02,10,2,"#{""guillaume.ayoub@kozea.fr"" ""mbarkhau@gmail.com""}",3171.0,77
+Python,Kozea,2019-06-03,1,1,"#{""github@theopeek.nl""}",3172.0,78
+Python,Kozea,2019-06-04,1,1,"#{""lucie.anglade@kozea.fr""}",3173.0,79
+Python,Kozea,2019-06-05,1,1,"#{""guillaume.ayoub@kozea.fr""}",3174.0,79
+Python,Kozea,2019-06-06,1,1,"#{""lucie.anglade@kozea.fr""}",3175.0,79
+Python,Kozea,2019-06-17,1,1,"#{""hbrunn@therp.nl""}",3176.0,80
+Python,Kozea,2019-06-22,6,1,"#{""guillaume.ayoub@kozea.fr""}",3182.0,80
+Python,Kozea,2019-06-25,2,1,"#{""guillaume.ayoub@kozea.fr""}",3184.0,80
+Python,Kozea,2019-06-28,2,1,"#{""guillaume.ayoub@kozea.fr""}",3186.0,80
+Python,Kozea,2019-07-03,3,1,"#{""guillaume.ayoub@kozea.fr""}",3189.0,80
+Python,Kozea,2019-07-04,4,1,"#{""guillaume.ayoub@kozea.fr""}",3193.0,80
+Python,Kozea,2019-07-05,2,1,"#{""guillaume.ayoub@kozea.fr""}",3195.0,80
+Python,Kozea,2019-07-08,8,1,"#{""guillaume.ayoub@kozea.fr""}",3203.0,80
+Python,Kozea,2019-07-09,8,2,"#{""guillaume.ayoub@kozea.fr"" ""simon.zielinski@gmail.com""}",3211.0,81
+Python,Kozea,2019-07-10,1,1,"#{""guillaume.ayoub@kozea.fr""}",3212.0,81
+Python,Kozea,2019-07-11,5,1,"#{""guillaume.ayoub@kozea.fr""}",3217.0,81
+Python,Kozea,2019-07-12,1,1,"#{""t.dextrous@gmail.com""}",3218.0,82
+Python,Kozea,2019-07-13,1,1,"#{""guillaume.ayoub@kozea.fr""}",3219.0,82
+Python,Kozea,2019-07-15,1,1,"#{""spe.stani.be@gmail.com""}",3220.0,83
+Python,Kozea,2019-07-16,1,1,"#{""guillaume.ayoub@kozea.fr""}",3221.0,83
+Python,Kozea,2019-07-17,2,1,"#{""guillaume.ayoub@kozea.fr""}",3223.0,83
+Python,Kozea,2019-07-18,6,2,"#{""guillaume.ayoub@kozea.fr"" ""lucie.anglade@kozea.fr""}",3229.0,83
+Python,Kozea,2019-07-19,1,1,"#{""lucie.anglade@kozea.fr""}",3230.0,83
+Python,Kozea,2019-07-23,3,2,"#{""guillaume.ayoub@kozea.fr"" ""raphael@rtpg.co""}",3233.0,84
+Python,Kozea,2019-07-24,3,1,"#{""guillaume.ayoub@kozea.fr""}",3236.0,84
+Python,Kozea,2019-07-25,3,1,"#{""guillaume.ayoub@kozea.fr""}",3239.0,84
+Python,Kozea,2019-07-26,2,1,"#{""guillaume.ayoub@kozea.fr""}",3241.0,84
+Python,Kozea,2019-08-07,1,1,"#{""guillaume.ayoub@kozea.fr""}",3242.0,84
+Python,Kozea,2019-08-08,2,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",3244.0,84
+Python,Kozea,2019-08-14,9,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",3253.0,84
+Python,Kozea,2019-08-15,2,1,"#{""guillaume.ayoub@kozea.fr""}",3255.0,84
+Python,Kozea,2019-08-16,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3256.0,84
+Python,Kozea,2019-08-17,3,1,"#{""guillaume.ayoub@kozea.fr""}",3259.0,84
+Python,Kozea,2019-08-19,1,1,"#{""guillaume.ayoub@kozea.fr""}",3260.0,84
+Python,Kozea,2019-08-20,4,1,"#{""lucie.anglade@kozea.fr""}",3264.0,84
+Python,Kozea,2019-08-21,1,1,"#{""lucie.anglade@kozea.fr""}",3265.0,84
+Python,Kozea,2019-08-23,2,1,"#{""lucie.anglade@kozea.fr""}",3267.0,84
+Python,Kozea,2019-08-26,2,2,"#{""guillaume.ayoub@kozea.fr"" ""35614937+Tontyna@users.noreply.github.com""}",3269.0,84
+Python,Kozea,2019-08-30,2,1,"#{""lucie.anglade@kozea.fr""}",3271.0,84
+Python,Kozea,2019-09-03,2,1,"#{""guillaume.ayoub@kozea.fr""}",3273.0,84
+Python,Kozea,2019-09-04,2,1,"#{""guillaume.ayoub@kozea.fr""}",3275.0,84
+Python,Kozea,2019-09-05,5,1,"#{""guillaume.ayoub@kozea.fr""}",3280.0,84
+Python,Kozea,2019-09-06,3,1,"#{""guillaume.ayoub@kozea.fr""}",3283.0,84
+Python,Kozea,2019-09-09,3,1,"#{""lucie.anglade@kozea.fr""}",3286.0,84
+Python,Kozea,2019-09-10,9,2,"#{""guillaume.ayoub@kozea.fr"" ""lucie.anglade@kozea.fr""}",3295.0,84
+Python,Kozea,2019-09-11,4,2,"#{""guillaume.ayoub@kozea.fr"" ""lucie.anglade@kozea.fr""}",3299.0,84
+Python,Kozea,2019-09-12,1,1,"#{""lucie.anglade@kozea.fr""}",3300.0,84
+Python,Kozea,2019-09-13,5,1,"#{""guillaume.ayoub@kozea.fr""}",3305.0,84
+Python,Kozea,2019-09-16,1,1,"#{""lucie.anglade@kozea.fr""}",3306.0,84
+Python,Kozea,2019-09-18,3,1,"#{""guillaume.ayoub@kozea.fr""}",3309.0,84
+Python,Kozea,2019-09-19,1,1,"#{""guillaume.ayoub@kozea.fr""}",3310.0,84
+Python,Kozea,2019-09-20,3,1,"#{""guillaume.ayoub@kozea.fr""}",3313.0,84
+Python,Kozea,2019-09-23,3,2,"#{""guillaume.ayoub@kozea.fr"" ""hbrunn@therp.nl""}",3316.0,84
+Python,Kozea,2019-09-24,3,1,"#{""guillaume.ayoub@kozea.fr""}",3319.0,84
+Python,Kozea,2019-09-26,1,1,"#{""guillaume.ayoub@kozea.fr""}",3320.0,84
+Python,Kozea,2019-09-27,5,1,"#{""guillaume.ayoub@kozea.fr""}",3325.0,84
+Python,Kozea,2019-10-03,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3326.0,84
+Python,Kozea,2019-10-04,3,2,"#{""35614937+Tontyna@users.noreply.github.com"" ""lucie.anglade@kozea.fr""}",3329.0,84
+Python,Kozea,2019-10-05,2,1,"#{""lucie.anglade@kozea.fr""}",3331.0,84
+Python,Kozea,2019-10-17,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3332.0,84
+Python,Kozea,2019-10-23,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3333.0,84
+Python,Kozea,2019-10-24,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3334.0,84
+Python,Kozea,2019-11-07,12,2,"#{""guillaume.ayoub@kozea.fr"" ""felix.schwarz@oss.schwarz.eu""}",3346.0,85
+Python,Kozea,2019-11-08,2,1,"#{""guillaume.ayoub@kozea.fr""}",3348.0,85
+Python,Kozea,2019-11-26,1,1,"#{""gbonvehi@mpf.gov.ar""}",3349.0,86
+Python,Kozea,2019-12-15,5,1,"#{""guillaume.ayoub@kozea.fr""}",3354.0,86
+Python,Kozea,2019-12-17,1,1,"#{""lucie.anglade@kozea.fr""}",3355.0,86
+Python,Kozea,2019-12-18,7,2,"#{""guillaume.ayoub@kozea.fr"" ""lucie.anglade@kozea.fr""}",3362.0,86
+Python,Kozea,2019-12-19,5,1,"#{""guillaume.ayoub@kozea.fr""}",3367.0,86
+Python,Kozea,2019-12-20,3,2,"#{""guillaume.ayoub@kozea.fr"" ""lucie.anglade@kozea.fr""}",3370.0,86
+Python,Kozea,2019-12-22,10,1,"#{""guillaume.ayoub@kozea.fr""}",3380.0,86
+Python,Kozea,2019-12-23,7,1,"#{""guillaume.ayoub@kozea.fr""}",3387.0,86
+Python,Kozea,2019-12-24,6,1,"#{""guillaume.ayoub@kozea.fr""}",3393.0,86
+Python,Kozea,2019-12-27,15,1,"#{""guillaume.ayoub@kozea.fr""}",3408.0,86
+Python,Kozea,2019-12-28,2,1,"#{""guillaume.ayoub@kozea.fr""}",3410.0,86
+Python,Kozea,2019-12-30,11,1,"#{""guillaume.ayoub@kozea.fr""}",3421.0,86
+Python,Kozea,2019-12-31,1,1,"#{""guillaume.ayoub@kozea.fr""}",3422.0,86
+Python,Kozea,2020-01-01,2,1,"#{""guillaume.ayoub@kozea.fr""}",3424.0,86
+Python,Kozea,2020-01-02,7,1,"#{""guillaume.ayoub@kozea.fr""}",3431.0,86
+Python,Kozea,2020-01-06,3,1,"#{""guillaume.ayoub@kozea.fr""}",3434.0,86
+Python,Kozea,2020-01-07,3,1,"#{""guillaume.ayoub@kozea.fr""}",3437.0,86
+Python,Kozea,2020-01-08,1,1,"#{""guillaume.ayoub@kozea.fr""}",3438.0,86
+Python,Kozea,2020-01-09,2,1,"#{""guillaume.ayoub@kozea.fr""}",3440.0,86
+Python,Kozea,2020-01-10,1,1,"#{""eb808826@gmail.com""}",3441.0,87
+Python,Kozea,2020-01-11,1,1,"#{""guillaume.ayoub@kozea.fr""}",3442.0,87
+Python,Kozea,2020-01-13,4,1,"#{""guillaume.ayoub@kozea.fr""}",3446.0,87
+Python,Kozea,2020-01-14,2,2,"#{""guillaume.ayoub@kozea.fr"" ""saddy001@users.noreply.github.com""}",3448.0,88
+Python,Kozea,2020-01-15,2,2,"#{""guillaume.ayoub@kozea.fr"" ""nhart@fdsea51.fr""}",3450.0,89
+Python,Kozea,2020-01-25,3,1,"#{""guillaume.ayoub@kozea.fr""}",3453.0,89
+Python,Kozea,2020-01-29,1,1,"#{""guillaume.ayoub@kozea.fr""}",3454.0,89
+Python,Kozea,2020-02-10,2,1,"#{""guillaume.ayoub@kozea.fr""}",3456.0,89
+Python,Kozea,2020-02-14,1,1,"#{""oostoya2@yahoo.com""}",3457.0,90
+Python,Kozea,2020-02-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",3459.0,90
+Python,Kozea,2020-02-21,1,1,"#{""capo@coder-nostra.com""}",3460.0,91
+Python,Kozea,2020-02-22,1,1,"#{""guillaume.ayoub@kozea.fr""}",3461.0,91
+Python,Kozea,2020-02-24,1,1,"#{""guillaume.ayoub@kozea.fr""}",3462.0,91
+Python,Kozea,2020-02-26,3,2,"#{""modhnagfy@gmail.com"" ""julien.sanchez@kozea.fr""}",3465.0,93
+Python,Kozea,2020-03-14,15,1,"#{""guillaume.ayoub@kozea.fr""}",3480.0,93
+Python,Kozea,2020-03-15,2,1,"#{""guillaume.ayoub@kozea.fr""}",3482.0,93
+Python,Kozea,2020-03-16,2,1,"#{""guillaume.ayoub@kozea.fr""}",3484.0,93
+Python,Kozea,2020-03-19,1,1,"#{""hr.bjarni@gmail.com""}",3485.0,94
+Python,Kozea,2020-03-22,5,2,"#{""guillaume.ayoub@kozea.fr"" ""felix.schwarz@oss.schwarz.eu""}",3490.0,94
+Python,Kozea,2020-03-25,1,1,"#{""2715782+bartbroere@users.noreply.github.com""}",3491.0,95
+Python,Kozea,2020-03-27,1,1,"#{""guillaume.ayoub@kozea.fr""}",3492.0,95
+Python,Kozea,2020-04-02,3,2,"#{""guillaume.ayoub@kozea.fr"" ""guillaume+github@yabz.fr""}",3495.0,96
+Python,Kozea,2020-04-03,2,1,"#{""guillaume+github@yabz.fr""}",3497.0,96
+Python,Kozea,2020-04-04,5,1,"#{""lucie.anglade@kozea.fr""}",3502.0,96
+Python,Kozea,2020-04-05,37,2,"#{""lucie.anglade@kozea.fr"" ""guillaume+github@yabz.fr""}",3539.0,96
+Python,Kozea,2020-04-06,18,2,"#{""lucie.anglade@kozea.fr"" ""guillaume+github@yabz.fr""}",3557.0,96
+Python,Kozea,2020-04-07,2,2,"#{""guillaume.ayoub@kozea.fr"" ""malnajdi@malnajdi-laptop.kfupm.edu.sa""}",3559.0,97
+Python,Kozea,2020-04-08,4,2,"#{""hr.bjarni@gmail.com"" ""guillaume+github@yabz.fr""}",3563.0,97
+Python,Kozea,2020-04-09,2,2,"#{""guillaume.ayoub@kozea.fr"" ""hr.bjarni@gmail.com""}",3565.0,97
+Python,Kozea,2020-04-10,4,2,"#{""thomas.lampoltshammer@donau-uni.ac.at"" ""guillaume+github@yabz.fr""}",3569.0,98
+Python,Kozea,2020-04-13,1,1,"#{""guillaume+github@yabz.fr""}",3570.0,98
+Python,Kozea,2020-04-18,3,1,"#{""guillaume+github@yabz.fr""}",3573.0,98
+Python,Kozea,2020-04-19,8,1,"#{""guillaume+github@yabz.fr""}",3581.0,98
+Python,Kozea,2020-04-21,3,1,"#{""guillaume+github@yabz.fr""}",3584.0,98
+Python,Kozea,2020-04-26,2,1,"#{""guillaume+github@yabz.fr""}",3586.0,98
+Python,Kozea,2020-05-03,1,1,"#{""mail@kalekseev.com""}",3587.0,99
+Python,Kozea,2020-05-06,2,2,"#{""lucieanglade.gm@gmail.com"" ""guillaume+github@yabz.fr""}",3589.0,100
+Python,Kozea,2020-05-07,4,2,"#{""lucieanglade.gm@gmail.com"" ""guillaume+github@yabz.fr""}",3593.0,100
+Python,Kozea,2020-05-08,18,2,"#{""lucieanglade.gm@gmail.com"" ""guillaume+github@yabz.fr""}",3611.0,100
+Python,Kozea,2020-05-09,5,1,"#{""guillaume+github@yabz.fr""}",3616.0,100
+Python,Kozea,2020-05-10,4,1,"#{""guillaume+github@yabz.fr""}",3620.0,100
+Python,Kozea,2020-05-12,11,2,"#{""lucieanglade.gm@gmail.com"" ""guillaume+github@yabz.fr""}",3631.0,100
+Python,Kozea,2020-05-13,5,2,"#{""lucieanglade.gm@gmail.com"" ""guillaume+github@yabz.fr""}",3636.0,100
+Python,Kozea,2020-05-15,2,1,"#{""guillaume+github@yabz.fr""}",3638.0,100
+Python,Kozea,2020-05-16,15,2,"#{""balazs.dukai@gmail.com"" ""guillaume+github@yabz.fr""}",3653.0,101
+Python,Kozea,2020-05-17,17,1,"#{""guillaume+github@yabz.fr""}",3670.0,101
+Python,Kozea,2020-05-18,9,1,"#{""guillaume+github@yabz.fr""}",3679.0,101
+Python,Kozea,2020-05-20,1,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3680.0,101
+Python,Kozea,2020-05-21,3,1,"#{""guillaume+github@yabz.fr""}",3683.0,101
+Python,Kozea,2020-05-22,3,1,"#{""guillaume+github@yabz.fr""}",3686.0,101
+Python,Kozea,2020-05-23,5,1,"#{""guillaume+github@yabz.fr""}",3691.0,101
+Python,Kozea,2020-05-24,1,1,"#{""guillaume+github@yabz.fr""}",3692.0,101
+Python,Kozea,2020-05-26,2,2,"#{""muna.no4ma@gmail.com"" ""guillaume+github@yabz.fr""}",3694.0,102
+Python,Kozea,2020-05-29,3,1,"#{""guillaume+github@yabz.fr""}",3697.0,102
+Python,Kozea,2020-05-30,9,1,"#{""guillaume+github@yabz.fr""}",3706.0,102
+Python,Kozea,2020-05-31,1,1,"#{""guillaume+github@yabz.fr""}",3707.0,102
+Python,Kozea,2020-06-01,4,1,"#{""guillaume+github@yabz.fr""}",3711.0,102
+Python,Kozea,2020-06-02,5,1,"#{""guillaume+github@yabz.fr""}",3716.0,102
+Python,Kozea,2020-06-03,4,1,"#{""lucieanglade.gm@gmail.com""}",3720.0,102
+Python,Kozea,2020-06-04,1,1,"#{""guillaume+github@yabz.fr""}",3721.0,102
+Python,Kozea,2020-06-06,1,1,"#{""guillaume+github@yabz.fr""}",3722.0,102
+Python,Kozea,2020-06-07,14,2,"#{""lucieanglade.gm@gmail.com"" ""guillaume+github@yabz.fr""}",3736.0,102
+Python,Kozea,2020-06-08,6,1,"#{""guillaume+github@yabz.fr""}",3742.0,102
+Python,Kozea,2020-06-14,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3744.0,102
+Python,Kozea,2020-06-18,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3746.0,102
+Python,Kozea,2020-06-19,4,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3750.0,102
+Python,Kozea,2020-06-21,2,1,"#{""35614937+Tontyna@users.noreply.github.com""}",3752.0,102
+Python,Kozea,2020-06-22,4,1,"#{""guillaume+github@yabz.fr""}",3756.0,102
+Python,Kozea,2020-06-23,3,1,"#{""guillaume+github@yabz.fr""}",3759.0,102
+Python,Kozea,2020-07-17,3,1,"#{""mike.voets@author-it.com""}",3762.0,103
+Python,Kozea,2020-07-20,3,1,"#{""mike.voets@author-it.com""}",3765.0,103
+Python,Kozea,2020-07-31,1,1,"#{""guillaume+github@yabz.fr""}",3766.0,103
+Python,Kozea,2020-08-01,9,1,"#{""guillaume+github@yabz.fr""}",3775.0,103
+Python,Kozea,2020-08-02,2,1,"#{""guillaume+github@yabz.fr""}",3777.0,103
+Python,Kozea,2020-08-03,1,1,"#{""guillaume+github@yabz.fr""}",3778.0,103
+Python,Kozea,2020-08-25,5,1,"#{""guillaume+github@yabz.fr""}",3783.0,103
+Python,Kozea,2020-09-01,1,1,"#{""guillaume+github@yabz.fr""}",3784.0,103
+Python,Kozea,2020-09-04,3,1,"#{""guillaume+github@yabz.fr""}",3787.0,103
+Python,Kozea,2020-09-08,2,2,"#{""lucie@courtbouillon.org"" ""guillaume+github@yabz.fr""}",3789.0,104
+Python,Kozea,2020-09-10,9,2,"#{""lucie@courtbouillon.org"" ""guillaume+github@yabz.fr""}",3798.0,104
+Python,Kozea,2020-09-13,2,2,"#{""lucie@courtbouillon.org"" ""guillaume+github@yabz.fr""}",3800.0,104
+Python,Kozea,2020-09-21,2,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",3802.0,105
+Python,Kozea,2020-09-22,1,1,"#{""guillaume@courtbouillon.org""}",3803.0,105
+Python,Kozea,2020-09-23,1,1,"#{""guillaume@courtbouillon.org""}",3804.0,105
+Python,Kozea,2020-09-28,2,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",3806.0,105
+Python,Kozea,2020-10-03,2,1,"#{""mohdnagfy@gmail.com""}",3808.0,106
+Python,Kozea,2020-10-08,5,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",3813.0,106
+Python,Kozea,2020-10-10,3,1,"#{""mohdnagfy@gmail.com""}",3816.0,106
+Python,Kozea,2020-10-11,1,1,"#{""mohdnagfy@gmail.com""}",3817.0,106
+Python,Kozea,2020-10-12,1,1,"#{""lucie@courtbouillon.org""}",3818.0,106
+Python,Kozea,2020-10-21,3,1,"#{""guillaume@courtbouillon.org""}",3821.0,106
+Python,Kozea,2020-10-23,3,1,"#{""guillaume@courtbouillon.org""}",3824.0,106
+Python,Kozea,2020-10-24,8,1,"#{""guillaume@courtbouillon.org""}",3832.0,106
+Python,Kozea,2020-10-25,6,1,"#{""guillaume@courtbouillon.org""}",3838.0,106
+Python,Kozea,2020-10-26,5,1,"#{""guillaume@courtbouillon.org""}",3843.0,106
+Python,Kozea,2020-10-27,5,1,"#{""guillaume@courtbouillon.org""}",3848.0,106
+Python,Kozea,2020-10-30,9,1,"#{""guillaume@courtbouillon.org""}",3857.0,106
+Python,Kozea,2020-11-02,1,1,"#{""guillaume@courtbouillon.org""}",3858.0,106
+Python,Kozea,2020-11-08,2,1,"#{""felix.schwarz@oss.schwarz.eu""}",3860.0,106
+Python,Kozea,2020-11-21,3,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",3863.0,106
+Python,Kozea,2020-11-23,5,1,"#{""guillaume@courtbouillon.org""}",3868.0,106
+Python,Kozea,2020-11-28,1,1,"#{""guillaume@courtbouillon.org""}",3869.0,106
+Python,Kozea,2020-11-29,1,1,"#{""lucie@courtbouillon.org""}",3870.0,106
+Python,Kozea,2020-11-30,4,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",3874.0,106
+Python,Kozea,2020-12-01,9,1,"#{""guillaume@courtbouillon.org""}",3883.0,106
+Python,Kozea,2020-12-02,7,1,"#{""guillaume@courtbouillon.org""}",3890.0,106
+Python,Kozea,2020-12-06,12,1,"#{""guillaume@courtbouillon.org""}",3902.0,106
+Python,Kozea,2020-12-07,2,1,"#{""guillaume@courtbouillon.org""}",3904.0,106
+Python,Kozea,2020-12-08,2,1,"#{""guillaume@courtbouillon.org""}",3906.0,106
+Python,Kozea,2020-12-10,2,1,"#{""guillaume@courtbouillon.org""}",3908.0,106
+Python,Kozea,2020-12-11,5,1,"#{""guillaume@courtbouillon.org""}",3913.0,106
+Python,Kozea,2020-12-12,17,1,"#{""guillaume@courtbouillon.org""}",3930.0,106
+Python,Kozea,2020-12-13,4,1,"#{""guillaume@courtbouillon.org""}",3934.0,106
+Python,Kozea,2020-12-14,3,2,"#{""naveen@syrusdark.website"" ""guillaume@courtbouillon.org""}",3937.0,107
+Python,Kozea,2020-12-19,3,1,"#{""guillaume@courtbouillon.org""}",3940.0,107
+Python,Kozea,2020-12-20,2,1,"#{""guillaume@courtbouillon.org""}",3942.0,107
+Python,Kozea,2020-12-21,2,1,"#{""guillaume@courtbouillon.org""}",3944.0,107
+Python,Kozea,2020-12-22,5,1,"#{""guillaume@courtbouillon.org""}",3949.0,107
+Python,Kozea,2020-12-24,1,1,"#{""guillaume@courtbouillon.org""}",3950.0,107
+Python,Kozea,2020-12-31,2,1,"#{""guillaume@courtbouillon.org""}",3952.0,107
+Python,Kozea,2021-01-06,1,1,"#{""lucie@courtbouillon.org""}",3953.0,107
+Python,Kozea,2021-01-09,6,1,"#{""guillaume@courtbouillon.org""}",3959.0,107
+Python,Kozea,2021-01-11,1,1,"#{""guillaume@courtbouillon.org""}",3960.0,107
+Python,Kozea,2021-01-18,4,1,"#{""guillaume@courtbouillon.org""}",3964.0,107
+Python,Kozea,2021-01-20,4,1,"#{""guillaume@courtbouillon.org""}",3968.0,107
+Python,Kozea,2021-01-21,1,1,"#{""guillaume@courtbouillon.org""}",3969.0,107
+Python,Kozea,2021-01-22,7,1,"#{""guillaume@courtbouillon.org""}",3976.0,107
+Python,Kozea,2021-01-23,1,1,"#{""guillaume@courtbouillon.org""}",3977.0,107
+Python,Kozea,2021-01-24,3,1,"#{""guillaume@courtbouillon.org""}",3980.0,107
+Python,Kozea,2021-01-28,1,1,"#{""guillaume@courtbouillon.org""}",3981.0,107
+Python,Kozea,2021-02-01,2,1,"#{""guillaume@courtbouillon.org""}",3983.0,107
+Python,Kozea,2021-02-02,4,1,"#{""guillaume@courtbouillon.org""}",3987.0,107
+Python,Kozea,2021-02-04,1,1,"#{""guillaume@courtbouillon.org""}",3988.0,107
+Python,Kozea,2021-02-05,1,1,"#{""guillaume@courtbouillon.org""}",3989.0,107
+Python,Kozea,2021-02-06,1,1,"#{""guillaume@courtbouillon.org""}",3990.0,107
+Python,Kozea,2021-02-07,1,1,"#{""guillaume@courtbouillon.org""}",3991.0,107
+Python,Kozea,2021-02-08,2,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",3993.0,107
+Python,Kozea,2021-02-13,1,1,"#{""guillaume@courtbouillon.org""}",3994.0,107
+Python,Kozea,2021-02-14,5,1,"#{""lucie@courtbouillon.org""}",3999.0,107
+Python,Kozea,2021-02-17,1,1,"#{""guillaume@courtbouillon.org""}",4000.0,107
+Python,Kozea,2021-02-18,8,1,"#{""guillaume@courtbouillon.org""}",4008.0,107
+Python,Kozea,2021-02-21,2,1,"#{""guillaume@courtbouillon.org""}",4010.0,107
+Python,Kozea,2021-02-22,1,1,"#{""guillaume@courtbouillon.org""}",4011.0,107
+Python,Kozea,2021-02-23,3,1,"#{""guillaume@courtbouillon.org""}",4014.0,107
+Python,Kozea,2021-03-02,6,1,"#{""guillaume@courtbouillon.org""}",4020.0,107
+Python,Kozea,2021-03-06,3,1,"#{""guillaume@courtbouillon.org""}",4023.0,107
+Python,Kozea,2021-03-07,1,1,"#{""guillaume@courtbouillon.org""}",4024.0,107
+Python,Kozea,2021-03-11,3,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4027.0,107
+Python,Kozea,2021-03-12,5,1,"#{""guillaume@courtbouillon.org""}",4032.0,107
+Python,Kozea,2021-03-13,7,1,"#{""guillaume@courtbouillon.org""}",4039.0,107
+Python,Kozea,2021-03-14,1,1,"#{""guillaume@courtbouillon.org""}",4040.0,107
+Python,Kozea,2021-03-15,1,1,"#{""guillaume@courtbouillon.org""}",4041.0,107
+Python,Kozea,2021-03-16,1,1,"#{""guillaume@courtbouillon.org""}",4042.0,107
+Python,Kozea,2021-03-17,1,1,"#{""guillaume@courtbouillon.org""}",4043.0,107
+Python,Kozea,2021-03-18,1,1,"#{""guillaume@courtbouillon.org""}",4044.0,107
+Python,Kozea,2021-03-19,1,1,"#{""guillaume@courtbouillon.org""}",4045.0,107
+Python,Kozea,2021-03-20,1,1,"#{""guillaume@courtbouillon.org""}",4046.0,107
+Python,Kozea,2021-03-23,4,1,"#{""guillaume@courtbouillon.org""}",4050.0,107
+Python,Kozea,2021-03-24,1,1,"#{""guillaume@courtbouillon.org""}",4051.0,107
+Python,Kozea,2021-03-25,2,1,"#{""guillaume@courtbouillon.org""}",4053.0,107
+Python,Kozea,2021-03-29,2,1,"#{""lucie@courtbouillon.org""}",4055.0,107
+Python,Kozea,2021-03-31,3,1,"#{""guillaume@courtbouillon.org""}",4058.0,107
+Python,Kozea,2021-04-02,5,2,"#{""guillaume@courtbouillon.org"" ""bugzilla@crissov.de""}",4063.0,108
+Python,Kozea,2021-04-04,5,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4068.0,108
+Python,Kozea,2021-04-05,2,1,"#{""guillaume@courtbouillon.org""}",4070.0,108
+Python,Kozea,2021-04-10,1,1,"#{""guillaume@courtbouillon.org""}",4071.0,108
+Python,Kozea,2021-04-11,2,1,"#{""guillaume@courtbouillon.org""}",4073.0,108
+Python,Kozea,2021-04-12,15,1,"#{""guillaume@courtbouillon.org""}",4088.0,108
+Python,Kozea,2021-04-13,3,1,"#{""lucie@courtbouillon.org""}",4091.0,108
+Python,Kozea,2021-04-14,19,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4110.0,108
+Python,Kozea,2021-04-15,4,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4114.0,108
+Python,Kozea,2021-04-16,2,1,"#{""guillaume@courtbouillon.org""}",4116.0,108
+Python,Kozea,2021-04-17,16,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4132.0,108
+Python,Kozea,2021-04-18,8,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4140.0,108
+Python,Kozea,2021-04-19,2,1,"#{""guillaume@courtbouillon.org""}",4142.0,108
+Python,Kozea,2021-04-20,8,1,"#{""guillaume@courtbouillon.org""}",4150.0,108
+Python,Kozea,2021-04-22,4,2,"#{""john.jackson@jitterbit.com"" ""guillaume@courtbouillon.org""}",4154.0,109
+Python,Kozea,2021-04-23,1,1,"#{""lucie@courtbouillon.org""}",4155.0,109
+Python,Kozea,2021-04-26,7,1,"#{""guillaume@courtbouillon.org""}",4162.0,109
+Python,Kozea,2021-04-27,2,1,"#{""guillaume@courtbouillon.org""}",4164.0,109
+Python,Kozea,2021-04-28,5,1,"#{""guillaume@courtbouillon.org""}",4169.0,109
+Python,Kozea,2021-04-29,5,2,"#{""guillaume@courtbouillon.org"" ""pbregener@users.noreply.github.com""}",4174.0,110
+Python,Kozea,2021-04-30,1,1,"#{""guillaume@courtbouillon.org""}",4175.0,110
+Python,Kozea,2021-05-06,1,1,"#{""guillaume@courtbouillon.org""}",4176.0,110
+Python,Kozea,2021-05-07,3,1,"#{""guillaume@courtbouillon.org""}",4179.0,110
+Python,Kozea,2021-05-08,2,1,"#{""guillaume@courtbouillon.org""}",4181.0,110
+Python,Kozea,2021-05-09,3,1,"#{""guillaume@courtbouillon.org""}",4184.0,110
+Python,Kozea,2021-05-10,1,1,"#{""guillaume@courtbouillon.org""}",4185.0,110
+Python,Kozea,2021-05-12,2,1,"#{""guillaume@courtbouillon.org""}",4187.0,110
+Python,Kozea,2021-05-18,1,1,"#{""guillaume@courtbouillon.org""}",4188.0,110
+Python,Kozea,2021-05-19,2,1,"#{""29508+aschmitz@users.noreply.github.com""}",4190.0,111
+Python,Kozea,2021-05-25,4,1,"#{""guillaume@courtbouillon.org""}",4194.0,111
+Python,Kozea,2021-05-27,2,1,"#{""guillaume@courtbouillon.org""}",4196.0,111
+Python,Kozea,2021-05-30,6,1,"#{""guillaume@courtbouillon.org""}",4202.0,111
+Python,Kozea,2021-05-31,1,1,"#{""guillaume@courtbouillon.org""}",4203.0,111
+Python,Kozea,2021-06-01,2,1,"#{""guillaume@courtbouillon.org""}",4205.0,111
+Python,Kozea,2021-06-02,1,1,"#{""guillaume@courtbouillon.org""}",4206.0,111
+Python,Kozea,2021-06-13,2,1,"#{""guillaume@courtbouillon.org""}",4208.0,111
+Python,Kozea,2021-07-06,1,1,"#{""colin@kinlo.ch""}",4209.0,112
+Python,Kozea,2021-07-11,1,1,"#{""guillaume@courtbouillon.org""}",4210.0,112
+Python,Kozea,2021-07-12,7,1,"#{""guillaume@courtbouillon.org""}",4217.0,112
+Python,Kozea,2021-07-13,4,1,"#{""guillaume@courtbouillon.org""}",4221.0,112
+Python,Kozea,2021-07-16,2,1,"#{""guillaume@courtbouillon.org""}",4223.0,112
+Python,Kozea,2021-07-17,3,1,"#{""guillaume@courtbouillon.org""}",4226.0,112
+Python,Kozea,2021-07-18,5,1,"#{""guillaume@courtbouillon.org""}",4231.0,112
+Python,Kozea,2021-07-19,1,1,"#{""guillaume@courtbouillon.org""}",4232.0,112
+Python,Kozea,2021-07-20,1,1,"#{""pbregener@users.noreply.github.com""}",4233.0,112
+Python,Kozea,2021-07-23,6,1,"#{""guillaume@courtbouillon.org""}",4239.0,112
+Python,Kozea,2021-07-25,1,1,"#{""guillaume@courtbouillon.org""}",4240.0,112
+Python,Kozea,2021-07-27,4,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4244.0,112
+Python,Kozea,2021-07-28,3,1,"#{""guillaume@courtbouillon.org""}",4247.0,112
+Python,Kozea,2021-07-29,1,1,"#{""guillaume@courtbouillon.org""}",4248.0,112
+Python,Kozea,2021-07-30,11,1,"#{""lucie@courtbouillon.org""}",4259.0,112
+Python,Kozea,2021-07-31,6,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4265.0,112
+Python,Kozea,2021-08-01,1,1,"#{""guillaume@courtbouillon.org""}",4266.0,112
+Python,Kozea,2021-08-03,2,1,"#{""guillaume@courtbouillon.org""}",4268.0,112
+Python,Kozea,2021-08-04,3,1,"#{""guillaume@courtbouillon.org""}",4271.0,112
+Python,Kozea,2021-08-06,6,1,"#{""guillaume@courtbouillon.org""}",4277.0,112
+Python,Kozea,2021-08-13,2,1,"#{""guillaume@courtbouillon.org""}",4279.0,112
+Python,Kozea,2021-08-17,1,1,"#{""guillaume@courtbouillon.org""}",4280.0,112
+Python,Kozea,2021-08-21,1,1,"#{""guillaume@courtbouillon.org""}",4281.0,112
+Python,Kozea,2021-08-22,3,1,"#{""guillaume@courtbouillon.org""}",4284.0,112
+Python,Kozea,2021-08-23,3,1,"#{""guillaume@courtbouillon.org""}",4287.0,112
+Python,Kozea,2021-08-24,3,1,"#{""guillaume@courtbouillon.org""}",4290.0,112
+Python,Kozea,2021-08-27,9,1,"#{""guillaume@courtbouillon.org""}",4299.0,112
+Python,Kozea,2021-08-29,1,1,"#{""guillaume@courtbouillon.org""}",4300.0,112
+Python,Kozea,2021-08-30,2,1,"#{""guillaume@courtbouillon.org""}",4302.0,112
+Python,Kozea,2021-08-31,3,1,"#{""guillaume@courtbouillon.org""}",4305.0,112
+Python,Kozea,2021-09-01,3,2,"#{""lucie@courtbouillon.org"" ""rian@rian.id.au""}",4308.0,113
+Python,Kozea,2021-09-05,8,1,"#{""guillaume@courtbouillon.org""}",4316.0,113
+Python,Kozea,2021-09-06,2,1,"#{""guillaume@courtbouillon.org""}",4318.0,113
+Python,Kozea,2021-09-07,5,1,"#{""guillaume@courtbouillon.org""}",4323.0,113
+Python,Kozea,2021-09-10,3,1,"#{""guillaume@courtbouillon.org""}",4326.0,113
+Python,Kozea,2021-09-11,1,1,"#{""guillaume@courtbouillon.org""}",4327.0,113
+Python,Kozea,2021-09-12,2,1,"#{""guillaume@courtbouillon.org""}",4329.0,113
+Python,Kozea,2021-09-13,3,1,"#{""guillaume@courtbouillon.org""}",4332.0,113
+Python,Kozea,2021-09-18,2,1,"#{""guillaume@courtbouillon.org""}",4334.0,113
+Python,Kozea,2021-09-20,6,1,"#{""guillaume@courtbouillon.org""}",4340.0,113
+Python,Kozea,2021-09-22,1,1,"#{""guillaume@courtbouillon.org""}",4341.0,113
+Python,Kozea,2021-10-02,2,1,"#{""guillaume@courtbouillon.org""}",4343.0,113
+Python,Kozea,2021-10-03,2,1,"#{""guillaume@courtbouillon.org""}",4345.0,113
+Python,Kozea,2021-10-04,1,1,"#{""guillaume@courtbouillon.org""}",4346.0,113
+Python,Kozea,2021-10-12,1,1,"#{""guillaume@courtbouillon.org""}",4347.0,113
+Python,Kozea,2021-10-13,4,1,"#{""guillaume@courtbouillon.org""}",4351.0,113
+Python,Kozea,2021-10-14,2,1,"#{""guillaume@courtbouillon.org""}",4353.0,113
+Python,Kozea,2021-10-28,1,1,"#{""lucie@courtbouillon.org""}",4354.0,113
+Python,Kozea,2021-10-29,3,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4357.0,113
+Python,Kozea,2021-10-30,3,1,"#{""guillaume@courtbouillon.org""}",4360.0,113
+Python,Kozea,2021-11-02,1,1,"#{""guillaume@courtbouillon.org""}",4361.0,113
+Python,Kozea,2021-11-04,4,1,"#{""guillaume@courtbouillon.org""}",4365.0,113
+Python,Kozea,2021-11-05,5,1,"#{""guillaume@courtbouillon.org""}",4370.0,113
+Python,Kozea,2021-11-06,1,1,"#{""guillaume@courtbouillon.org""}",4371.0,113
+Python,Kozea,2021-11-10,2,2,"#{""guillaume@courtbouillon.org"" ""pablodgonzalez@gmail.com""}",4373.0,114
+Python,Kozea,2021-11-13,6,1,"#{""guillaume@courtbouillon.org""}",4379.0,114
+Python,Kozea,2021-11-14,6,1,"#{""guillaume@courtbouillon.org""}",4385.0,114
+Python,Kozea,2021-11-15,5,1,"#{""guillaume@courtbouillon.org""}",4390.0,114
+Python,Kozea,2021-11-18,1,1,"#{""lucie@courtbouillon.org""}",4391.0,114
+Python,Kozea,2021-11-19,3,1,"#{""guillaume@courtbouillon.org""}",4394.0,114
+Python,Kozea,2021-11-23,6,2,"#{""colin@kinlo.ch"" ""guillaume@courtbouillon.org""}",4400.0,114
+Python,Kozea,2021-11-24,1,1,"#{""colin@kinlo.ch""}",4401.0,114
+Python,Kozea,2021-11-26,1,1,"#{""guillaume@courtbouillon.org""}",4402.0,114
+Python,Kozea,2021-11-27,3,1,"#{""guillaume@courtbouillon.org""}",4405.0,114
+Python,Kozea,2021-11-28,4,2,"#{""colin@kinlo.ch"" ""guillaume@courtbouillon.org""}",4409.0,114
+Python,Kozea,2021-11-29,8,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4417.0,114
+Python,Kozea,2021-11-30,1,1,"#{""lucie@courtbouillon.org""}",4418.0,114
+Python,Kozea,2021-12-04,9,1,"#{""lucie@courtbouillon.org""}",4427.0,114
+Python,Kozea,2021-12-05,4,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4431.0,114
+Python,Kozea,2021-12-06,3,1,"#{""guillaume@courtbouillon.org""}",4434.0,114
+Python,Kozea,2021-12-07,4,1,"#{""guillaume@courtbouillon.org""}",4438.0,114
+Python,Kozea,2021-12-08,6,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4444.0,114
+Python,Kozea,2021-12-09,3,1,"#{""guillaume@courtbouillon.org""}",4447.0,114
+Python,Kozea,2021-12-10,1,1,"#{""guillaume@courtbouillon.org""}",4448.0,114
+Python,Kozea,2021-12-11,9,1,"#{""guillaume@courtbouillon.org""}",4457.0,114
+Python,Kozea,2021-12-12,1,1,"#{""guillaume@courtbouillon.org""}",4458.0,114
+Python,Kozea,2021-12-13,10,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4468.0,114
+Python,Kozea,2021-12-14,5,2,"#{""guillaume@courtbouillon.org"" ""christoph.kepper@pediapress.com""}",4473.0,115
+Python,Kozea,2021-12-18,1,1,"#{""guillaume@courtbouillon.org""}",4474.0,115
+Python,Kozea,2021-12-20,2,1,"#{""guillaume@courtbouillon.org""}",4476.0,115
+Python,Kozea,2021-12-21,1,1,"#{""guillaume@courtbouillon.org""}",4477.0,115
+Python,Kozea,2021-12-27,1,1,"#{""guillaume@courtbouillon.org""}",4478.0,115
+Python,Kozea,2021-12-28,8,1,"#{""guillaume@courtbouillon.org""}",4486.0,115
+Python,Kozea,2022-01-03,3,1,"#{""guillaume@courtbouillon.org""}",4489.0,115
+Python,Kozea,2022-01-04,2,1,"#{""29508+aschmitz@users.noreply.github.com""}",4491.0,115
+Python,Kozea,2022-01-08,2,1,"#{""guillaume@courtbouillon.org""}",4493.0,115
+Python,Kozea,2022-01-10,2,1,"#{""guillaume@courtbouillon.org""}",4495.0,115
+Python,Kozea,2022-01-12,1,1,"#{""lucie@courtbouillon.org""}",4496.0,115
+Python,Kozea,2022-01-14,2,1,"#{""lucie@courtbouillon.org""}",4498.0,115
+Python,Kozea,2022-01-16,4,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4502.0,115
+Python,Kozea,2022-01-17,1,1,"#{""guillaume@courtbouillon.org""}",4503.0,115
+Python,Kozea,2022-01-23,3,1,"#{""guillaume@courtbouillon.org""}",4506.0,115
+Python,Kozea,2022-01-24,9,1,"#{""guillaume@courtbouillon.org""}",4515.0,115
+Python,Kozea,2022-01-25,4,1,"#{""guillaume@courtbouillon.org""}",4519.0,115
+Python,Kozea,2022-01-26,2,1,"#{""guillaume@courtbouillon.org""}",4521.0,115
+Python,Kozea,2022-01-27,1,1,"#{""rian@rian.id.au""}",4522.0,115
+Python,Kozea,2022-01-30,2,1,"#{""guillaume@courtbouillon.org""}",4524.0,115
+Python,Kozea,2022-01-31,4,1,"#{""guillaume@courtbouillon.org""}",4528.0,115
+Python,Kozea,2022-02-01,2,1,"#{""29508+aschmitz@users.noreply.github.com""}",4530.0,115
+Python,Kozea,2022-02-06,4,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4534.0,115
+Python,Kozea,2022-02-07,2,1,"#{""guillaume@courtbouillon.org""}",4536.0,115
+Python,Kozea,2022-02-08,3,1,"#{""guillaume@courtbouillon.org""}",4539.0,115
+Python,Kozea,2022-02-10,1,1,"#{""29508+aschmitz@users.noreply.github.com""}",4540.0,115
+Python,Kozea,2022-02-12,3,2,"#{""lucie@courtbouillon.org"" ""jlin@castlighthealth.com""}",4543.0,116
+Python,Kozea,2022-02-13,6,1,"#{""guillaume@courtbouillon.org""}",4549.0,116
+Python,Kozea,2022-02-14,11,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4560.0,116
+Python,Kozea,2022-02-17,3,1,"#{""guillaume@courtbouillon.org""}",4563.0,116
+Python,Kozea,2022-02-20,6,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4569.0,116
+Python,Kozea,2022-02-21,2,1,"#{""guillaume@courtbouillon.org""}",4571.0,116
+Python,Kozea,2022-02-23,11,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4582.0,116
+Python,Kozea,2022-02-26,1,1,"#{""guillaume@courtbouillon.org""}",4583.0,116
+Python,Kozea,2022-02-27,1,1,"#{""guillaume@courtbouillon.org""}",4584.0,116
+Python,Kozea,2022-03-02,3,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4587.0,116
+Python,Kozea,2022-03-03,2,1,"#{""29508+aschmitz@users.noreply.github.com""}",4589.0,116
+Python,Kozea,2022-03-06,3,1,"#{""guillaume@courtbouillon.org""}",4592.0,116
+Python,Kozea,2022-03-07,2,1,"#{""guillaume@courtbouillon.org""}",4594.0,116
+Python,Kozea,2022-03-17,3,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4597.0,116
+Python,Kozea,2022-03-19,11,1,"#{""guillaume@courtbouillon.org""}",4608.0,116
+Python,Kozea,2022-03-22,5,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4613.0,116
+Python,Kozea,2022-03-23,2,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4615.0,116
+Python,Kozea,2022-03-24,1,1,"#{""guillaume@courtbouillon.org""}",4616.0,116
+Python,Kozea,2022-03-25,6,1,"#{""guillaume@courtbouillon.org""}",4622.0,116
+Python,Kozea,2022-03-27,4,1,"#{""guillaume@courtbouillon.org""}",4626.0,116
+Python,Kozea,2022-04-02,1,1,"#{""guillaume@courtbouillon.org""}",4627.0,116
+Python,Kozea,2022-04-03,8,1,"#{""guillaume@courtbouillon.org""}",4635.0,116
+Python,Kozea,2022-04-04,3,1,"#{""guillaume@courtbouillon.org""}",4638.0,116
+Python,Kozea,2022-04-05,1,1,"#{""guillaume@courtbouillon.org""}",4639.0,116
+Python,Kozea,2022-04-09,1,1,"#{""guillaume@courtbouillon.org""}",4640.0,116
+Python,Kozea,2022-04-12,1,1,"#{""guillaume@courtbouillon.org""}",4641.0,116
+Python,Kozea,2022-04-13,5,1,"#{""guillaume@courtbouillon.org""}",4646.0,116
+Python,Kozea,2022-04-14,2,1,"#{""guillaume@courtbouillon.org""}",4648.0,116
+Python,Kozea,2022-04-15,8,1,"#{""guillaume@courtbouillon.org""}",4656.0,116
+Python,Kozea,2022-04-16,5,1,"#{""guillaume@courtbouillon.org""}",4661.0,116
+Python,Kozea,2022-04-17,3,1,"#{""guillaume@courtbouillon.org""}",4664.0,116
+Python,Kozea,2022-04-18,6,1,"#{""guillaume@courtbouillon.org""}",4670.0,116
+Python,Kozea,2022-04-19,3,1,"#{""guillaume@courtbouillon.org""}",4673.0,116
+Python,Kozea,2022-04-21,1,1,"#{""guillaume@courtbouillon.org""}",4674.0,116
+Python,Kozea,2022-04-25,9,1,"#{""guillaume@courtbouillon.org""}",4683.0,116
+Python,Kozea,2022-04-27,1,1,"#{""guillaume@courtbouillon.org""}",4684.0,116
+Python,Kozea,2022-04-28,12,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4696.0,116
+Python,Kozea,2022-05-02,6,2,"#{""29508+aschmitz@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",4702.0,116
+Python,Kozea,2022-05-03,2,1,"#{""guillaume@courtbouillon.org""}",4704.0,116
+Python,Kozea,2022-05-04,3,1,"#{""guillaume@courtbouillon.org""}",4707.0,116
+Python,Kozea,2022-05-05,4,1,"#{""guillaume@courtbouillon.org""}",4711.0,116
+Python,Kozea,2022-05-06,2,1,"#{""guillaume@courtbouillon.org""}",4713.0,116
+Python,Kozea,2022-05-07,2,1,"#{""guillaume@courtbouillon.org""}",4715.0,116
+Python,Kozea,2022-05-08,1,1,"#{""guillaume@courtbouillon.org""}",4716.0,116
+Python,Kozea,2022-05-09,1,1,"#{""guillaume@courtbouillon.org""}",4717.0,116
+Python,Kozea,2022-05-10,4,1,"#{""guillaume@courtbouillon.org""}",4721.0,116
+Python,Kozea,2022-05-11,1,1,"#{""guillaume@courtbouillon.org""}",4722.0,116
+Python,Kozea,2022-05-12,2,1,"#{""guillaume@courtbouillon.org""}",4724.0,116
+Python,Kozea,2022-05-13,2,1,"#{""guillaume@courtbouillon.org""}",4726.0,116
+Python,Kozea,2022-05-16,1,1,"#{""guillaume@courtbouillon.org""}",4727.0,116
+Python,Kozea,2022-05-17,5,1,"#{""guillaume@courtbouillon.org""}",4732.0,116
+Python,Kozea,2022-05-19,1,1,"#{""guillaume@courtbouillon.org""}",4733.0,116
+Python,Kozea,2022-05-20,2,1,"#{""guillaume@courtbouillon.org""}",4735.0,116
+Python,Kozea,2022-05-22,1,1,"#{""guillaume@courtbouillon.org""}",4736.0,116
+Python,Kozea,2022-05-23,9,1,"#{""guillaume@courtbouillon.org""}",4745.0,116
+Python,Kozea,2022-05-24,1,1,"#{""guillaume@courtbouillon.org""}",4746.0,116
+Python,Kozea,2022-05-26,4,1,"#{""guillaume@courtbouillon.org""}",4750.0,116
+Python,Kozea,2022-05-27,3,1,"#{""guillaume@courtbouillon.org""}",4753.0,116
+Python,Kozea,2022-05-30,2,1,"#{""guillaume@courtbouillon.org""}",4755.0,116
+Python,Kozea,2022-06-01,1,1,"#{""guillaume@courtbouillon.org""}",4756.0,116
+Python,Kozea,2022-06-06,1,1,"#{""guillaume@courtbouillon.org""}",4757.0,116
+Python,Kozea,2022-06-08,1,1,"#{""guillaume@courtbouillon.org""}",4758.0,116
+Python,Kozea,2022-06-10,1,1,"#{""guillaume@courtbouillon.org""}",4759.0,116
+Python,Kozea,2022-06-11,1,1,"#{""guillaume@courtbouillon.org""}",4760.0,116
+Python,Kozea,2022-06-13,2,1,"#{""guillaume@courtbouillon.org""}",4762.0,116
+Python,Kozea,2022-06-16,3,1,"#{""guillaume@courtbouillon.org""}",4765.0,116
+Python,Kozea,2022-06-17,5,1,"#{""guillaume@courtbouillon.org""}",4770.0,116
+Python,Kozea,2022-06-20,2,1,"#{""guillaume@courtbouillon.org""}",4772.0,116
+Python,Kozea,2022-06-26,2,1,"#{""guillaume@courtbouillon.org""}",4774.0,116
+Python,Kozea,2022-06-28,2,1,"#{""guillaume@courtbouillon.org""}",4776.0,116
+Python,Kozea,2022-06-29,2,1,"#{""guillaume@courtbouillon.org""}",4778.0,116
+Python,Kozea,2022-06-30,5,1,"#{""guillaume@courtbouillon.org""}",4783.0,116
+Python,Kozea,2022-07-01,3,1,"#{""guillaume@courtbouillon.org""}",4786.0,116
+Python,Kozea,2022-07-02,1,1,"#{""guillaume@courtbouillon.org""}",4787.0,116
+Python,Kozea,2022-07-05,2,1,"#{""guillaume@courtbouillon.org""}",4789.0,116
+Python,Kozea,2022-07-07,7,1,"#{""guillaume@courtbouillon.org""}",4796.0,116
+Python,Kozea,2022-07-10,2,1,"#{""guillaume@courtbouillon.org""}",4798.0,116
+Python,Kozea,2022-07-11,1,1,"#{""guillaume@courtbouillon.org""}",4799.0,116
+Python,Kozea,2022-07-13,4,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4803.0,116
+Python,Kozea,2022-07-18,4,1,"#{""guillaume@courtbouillon.org""}",4807.0,116
+Python,Kozea,2022-07-21,5,1,"#{""guillaume@courtbouillon.org""}",4812.0,116
+Python,Kozea,2022-07-22,5,2,"#{""guillaume@courtbouillon.org"" ""konstantin@skathi.net""}",4817.0,117
+Python,Kozea,2022-07-23,2,1,"#{""guillaume@courtbouillon.org""}",4819.0,117
+Python,Kozea,2022-07-24,2,1,"#{""guillaume@courtbouillon.org""}",4821.0,117
+Python,Kozea,2022-08-07,1,1,"#{""35371901+VeteraNovis@users.noreply.github.com""}",4822.0,118
+Python,Kozea,2022-08-10,1,1,"#{""35371901+VeteraNovis@users.noreply.github.com""}",4823.0,118
+Python,Kozea,2022-08-15,6,1,"#{""guillaume@courtbouillon.org""}",4829.0,118
+Python,Kozea,2022-08-18,6,1,"#{""guillaume@courtbouillon.org""}",4835.0,118
+Python,Kozea,2022-08-19,1,1,"#{""guillaume@courtbouillon.org""}",4836.0,118
+Python,Kozea,2022-08-20,2,1,"#{""guillaume@courtbouillon.org""}",4838.0,118
+Python,Kozea,2022-08-29,1,1,"#{""guillaume@courtbouillon.org""}",4839.0,118
+Python,Kozea,2022-08-30,2,1,"#{""guillaume@courtbouillon.org""}",4841.0,118
+Python,Kozea,2022-09-01,1,1,"#{""guillaume@courtbouillon.org""}",4842.0,118
+Python,Kozea,2022-09-02,7,2,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org""}",4849.0,118
+Python,Kozea,2022-09-04,1,1,"#{""guillaume@courtbouillon.org""}",4850.0,118
+Python,Kozea,2022-09-05,2,1,"#{""guillaume@courtbouillon.org""}",4852.0,118
+Python,Kozea,2022-09-06,4,1,"#{""guillaume@courtbouillon.org""}",4856.0,118
+Python,Kozea,2022-09-07,2,1,"#{""guillaume@courtbouillon.org""}",4858.0,118
+Python,Kozea,2022-09-12,2,1,"#{""guillaume@courtbouillon.org""}",4860.0,118
+Python,Kozea,2022-09-13,5,1,"#{""guillaume@courtbouillon.org""}",4865.0,118
+Python,Kozea,2022-09-15,1,1,"#{""guillaume@courtbouillon.org""}",4866.0,118
+Python,Kozea,2022-09-17,3,1,"#{""guillaume@courtbouillon.org""}",4869.0,118
+Python,Kozea,2022-09-19,1,1,"#{""guillaume@courtbouillon.org""}",4870.0,118
+Python,Kozea,2022-09-21,1,1,"#{""guillaume@courtbouillon.org""}",4871.0,118
+Python,Kozea,2022-09-22,4,1,"#{""guillaume@courtbouillon.org""}",4875.0,118
+Python,Kozea,2022-09-23,1,1,"#{""guillaume@courtbouillon.org""}",4876.0,118
+Python,Kozea,2022-09-24,2,1,"#{""guillaume@courtbouillon.org""}",4878.0,118
+Python,Kozea,2022-09-26,1,1,"#{""guillaume@courtbouillon.org""}",4879.0,118
+Python,Kozea,2022-09-27,2,1,"#{""guillaume@courtbouillon.org""}",4881.0,118
+Python,Kozea,2022-09-30,6,1,"#{""guillaume@courtbouillon.org""}",4887.0,118
+Python,Kozea,2022-10-01,15,1,"#{""guillaume@courtbouillon.org""}",4902.0,118
+Python,Kozea,2022-10-03,5,1,"#{""guillaume@courtbouillon.org""}",4907.0,118
+Python,Kozea,2022-10-04,2,1,"#{""guillaume@courtbouillon.org""}",4909.0,118
+Python,Kozea,2022-10-05,2,1,"#{""guillaume@courtbouillon.org""}",4911.0,118
+Python,Kozea,2022-10-09,1,1,"#{""guillaume@courtbouillon.org""}",4912.0,118
+Python,Kozea,2022-10-10,2,1,"#{""guillaume@courtbouillon.org""}",4914.0,118
+Python,Kozea,2022-10-11,6,1,"#{""guillaume@courtbouillon.org""}",4920.0,118
+Python,Kozea,2022-10-15,1,1,"#{""guillaume@courtbouillon.org""}",4921.0,118
+Python,Kozea,2022-10-16,1,1,"#{""guillaume@courtbouillon.org""}",4922.0,118
+Python,Kozea,2022-10-18,1,1,"#{""guillaume@courtbouillon.org""}",4923.0,118
+Python,Kozea,2022-10-21,3,2,"#{""guillaume@courtbouillon.org"" ""scott@kitterman.com""}",4926.0,119
+Python,Kozea,2022-10-22,1,1,"#{""guillaume@courtbouillon.org""}",4927.0,119
+Python,Kozea,2022-10-24,3,1,"#{""guillaume@courtbouillon.org""}",4930.0,119
+Python,Kozea,2022-10-25,1,1,"#{""guillaume@courtbouillon.org""}",4931.0,119
+Python,Kozea,2022-10-26,7,2,"#{""eschwartz93@gmail.com"" ""guillaume@courtbouillon.org""}",4938.0,120
+Python,Kozea,2022-10-27,3,2,"#{""anikin.mikhail.d@gmail.com"" ""guillaume@courtbouillon.org""}",4941.0,121
+Python,Kozea,2022-11-04,1,1,"#{""guillaume@courtbouillon.org""}",4942.0,121
+Python,Kozea,2022-11-12,1,1,"#{""guillaume@courtbouillon.org""}",4943.0,121
+Python,Kozea,2022-11-13,2,1,"#{""guillaume@courtbouillon.org""}",4945.0,121
+Python,Kozea,2022-11-14,5,1,"#{""guillaume@courtbouillon.org""}",4950.0,121
+Python,Kozea,2022-11-18,1,1,"#{""guillaume@courtbouillon.org""}",4951.0,121
+Python,Kozea,2022-12-02,4,1,"#{""guillaume@courtbouillon.org""}",4955.0,121
+Python,Kozea,2022-12-09,2,1,"#{""guillaume@courtbouillon.org""}",4957.0,121
+Python,Kozea,2022-12-10,2,1,"#{""guillaume@courtbouillon.org""}",4959.0,121
+Python,Kozea,2022-12-20,2,1,"#{""guillaume@courtbouillon.org""}",4961.0,121
+Python,Kozea,2022-12-23,2,1,"#{""guillaume@courtbouillon.org""}",4963.0,121
+Python,Kozea,2022-12-27,1,1,"#{""guillaume@courtbouillon.org""}",4964.0,121
+Python,Kozea,2022-12-28,1,1,"#{""guillaume@courtbouillon.org""}",4965.0,121
+Python,Kozea,2023-01-10,1,1,"#{""guillaume@courtbouillon.org""}",4966.0,121
+Python,Kozea,2023-01-15,3,1,"#{""guillaume@courtbouillon.org""}",4969.0,121
+Python,Kozea,2023-01-17,6,1,"#{""guillaume@courtbouillon.org""}",4975.0,121
+Python,Kozea,2023-01-19,1,1,"#{""lucie@courtbouillon.org""}",4976.0,121
+Python,Kozea,2023-01-20,6,1,"#{""guillaume@courtbouillon.org""}",4982.0,121
+Python,Kozea,2023-01-23,4,1,"#{""guillaume@courtbouillon.org""}",4986.0,121
+Python,Kozea,2023-01-24,5,1,"#{""guillaume@courtbouillon.org""}",4991.0,121
+Python,Kozea,2023-01-25,1,1,"#{""guillaume@courtbouillon.org""}",4992.0,121
+Python,Kozea,2023-01-27,4,1,"#{""guillaume@courtbouillon.org""}",4996.0,121
+Python,Kozea,2023-02-03,4,1,"#{""guillaume@courtbouillon.org""}",5000.0,121
+Python,Kozea,2023-02-10,1,1,"#{""guillaume@courtbouillon.org""}",5001.0,121
+Python,Kozea,2023-02-13,1,1,"#{""guillaume@courtbouillon.org""}",5002.0,121
+Python,Kozea,2023-02-16,1,1,"#{""guillaume@courtbouillon.org""}",5003.0,121
+Python,Kozea,2023-02-17,1,1,"#{""guillaume@courtbouillon.org""}",5004.0,121
+Python,Kozea,2023-02-19,1,1,"#{""menelaos@seafair.io""}",5005.0,122
+Python,Kozea,2023-02-20,2,1,"#{""lucie@courtbouillon.org""}",5007.0,122
+Python,Kozea,2023-02-23,1,1,"#{""guillaume@courtbouillon.org""}",5008.0,122
+Python,Kozea,2023-02-26,2,1,"#{""jonasalves15@live.com""}",5010.0,123
+Python,Kozea,2023-02-27,2,1,"#{""guillaume@courtbouillon.org""}",5012.0,123
+Python,Kozea,2023-03-02,1,1,"#{""survtur@yandex.ru""}",5013.0,124
+Python,Kozea,2023-03-03,1,1,"#{""survtur@yandex.ru""}",5014.0,124
+Python,Kozea,2023-03-04,1,1,"#{""guillaume@courtbouillon.org""}",5015.0,124
+Python,Kozea,2023-03-05,2,1,"#{""guillaume@courtbouillon.org""}",5017.0,124
+Python,Kozea,2023-03-06,1,1,"#{""guillaume@courtbouillon.org""}",5018.0,124
+Python,Kozea,2023-03-07,2,2,"#{""guillaume@courtbouillon.org"" ""jonasalves15@live.com""}",5020.0,124
+Python,Kozea,2023-03-11,2,1,"#{""guillaume@courtbouillon.org""}",5022.0,124
+Python,Kozea,2023-03-13,1,1,"#{""guillaume@courtbouillon.org""}",5023.0,124
+Python,Kozea,2023-03-15,2,2,"#{""81570596+whinee@users.noreply.github.com"" ""guillaume@courtbouillon.org""}",5025.0,125
+Python,Kozea,2023-03-16,1,1,"#{""lucie@courtbouillon.org""}",5026.0,125
+Python,Kozea,2023-03-17,1,1,"#{""lucie@courtbouillon.org""}",5027.0,125
+Python,Kozea,2023-03-21,5,1,"#{""guillaume@courtbouillon.org""}",5032.0,125
+Python,Kozea,2023-03-26,3,1,"#{""guillaume@courtbouillon.org""}",5035.0,125
+Python,Kozea,2023-03-28,1,1,"#{""guillaume@courtbouillon.org""}",5036.0,125
+Python,Kozea,2023-03-29,3,1,"#{""guillaume@courtbouillon.org""}",5039.0,125
+Python,Kozea,2023-04-02,1,1,"#{""guillaume@courtbouillon.org""}",5040.0,125
+Python,Kozea,2023-04-03,1,1,"#{""guillaume@courtbouillon.org""}",5041.0,125
+Python,Kozea,2023-04-04,1,1,"#{""guillaume@courtbouillon.org""}",5042.0,125
+Python,Kozea,2023-04-05,3,1,"#{""guillaume@courtbouillon.org""}",5045.0,125
+Python,Kozea,2023-04-06,1,1,"#{""guillaume@courtbouillon.org""}",5046.0,125
+Python,Kozea,2023-04-07,3,1,"#{""guillaume@courtbouillon.org""}",5049.0,125
+Python,Kozea,2023-04-09,1,1,"#{""guillaume@courtbouillon.org""}",5050.0,125
+Python,Kozea,2023-04-12,2,1,"#{""guillaume@courtbouillon.org""}",5052.0,125
+Python,Kozea,2023-04-13,1,1,"#{""guillaume@courtbouillon.org""}",5053.0,125
+Python,Kozea,2023-04-14,6,1,"#{""guillaume@courtbouillon.org""}",5059.0,125
+Python,Kozea,2023-04-18,1,1,"#{""guillaume@courtbouillon.org""}",5060.0,125
+Python,Kozea,2023-04-24,2,1,"#{""timo.ramsauer@airbus.com""}",5062.0,126
+Python,Kozea,2023-04-26,2,2,"#{""guillaume@courtbouillon.org"" ""timo.ramsauer@airbus.com""}",5064.0,126
+Python,Kozea,2023-04-29,2,1,"#{""guillaume@courtbouillon.org""}",5066.0,126
+Python,Kozea,2023-05-06,1,1,"#{""guillaume@courtbouillon.org""}",5067.0,126
+Python,Kozea,2023-05-08,2,1,"#{""guillaume@courtbouillon.org""}",5069.0,126
+Python,Kozea,2023-05-09,1,1,"#{""alex+github@pointless.one""}",5070.0,127
+Python,Kozea,2023-05-10,1,1,"#{""guillaume@courtbouillon.org""}",5071.0,127
+Python,Kozea,2023-05-11,3,1,"#{""guillaume@courtbouillon.org""}",5074.0,127
+Python,Kozea,2023-05-15,3,1,"#{""guillaume@courtbouillon.org""}",5077.0,127
+Python,Kozea,2023-05-21,1,1,"#{""guillaume@courtbouillon.org""}",5078.0,127
+Python,Kozea,2023-05-24,2,2,"#{""michael@syslifters.com"" ""guillaume@courtbouillon.org""}",5080.0,128
+Python,Kozea,2023-05-28,2,1,"#{""gohkengyew@gmail.com""}",5082.0,129
+Python,Kozea,2023-05-29,2,1,"#{""guillaume@courtbouillon.org""}",5084.0,129
+Python,Kozea,2023-06-02,2,1,"#{""guillaume@courtbouillon.org""}",5086.0,129
+Python,Kozea,2023-06-07,2,1,"#{""gohkengyew@gmail.com""}",5088.0,129
+Python,Kozea,2023-06-20,1,1,"#{""michael@syslifters.com""}",5089.0,129
+Python,Kozea,2023-06-29,1,1,"#{""michael@syslifters.com""}",5090.0,129
+Python,Kozea,2023-07-02,1,1,"#{""guillaume@courtbouillon.org""}",5091.0,129
+Python,Kozea,2023-07-09,2,1,"#{""guillaume@courtbouillon.org""}",5093.0,129
+Python,Kozea,2023-07-11,1,1,"#{""evgeniy.krysanov@gmail.com""}",5094.0,130
+Python,Kozea,2023-07-12,2,1,"#{""guillaume@courtbouillon.org""}",5096.0,130
+Python,Kozea,2023-07-13,1,1,"#{""guillaume@courtbouillon.org""}",5097.0,130
+Python,Kozea,2023-07-16,2,1,"#{""imsahilrl@gmail.com""}",5099.0,131
+Python,Kozea,2023-07-22,2,1,"#{""guillaume@courtbouillon.org""}",5101.0,131
+Python,Kozea,2023-07-25,6,2,"#{""guillaume@courtbouillon.org"" ""2135622+oshmoun@users.noreply.github.com""}",5107.0,132
+Python,Kozea,2023-07-29,1,1,"#{""2135622+oshmoun@users.noreply.github.com""}",5108.0,132
+Python,Kozea,2023-08-03,3,2,"#{""55531359+sahilrl@users.noreply.github.com"" ""imsahilrl@gmail.com""}",5111.0,133
+Python,Kozea,2023-08-04,4,2,"#{""imsahilrl@gmail.com"" ""alenards@corvusinsurance.com""}",5115.0,134
+Python,Kozea,2023-08-05,3,1,"#{""lucie@courtbouillon.org""}",5118.0,134
+Python,Kozea,2023-08-06,4,2,"#{""imsahilrl@gmail.com"" ""guillaume@courtbouillon.org""}",5122.0,134
+Python,Kozea,2023-08-08,1,1,"#{""55531359+sahilrl@users.noreply.github.com""}",5123.0,134
+Python,Kozea,2023-08-09,1,1,"#{""guillaume@courtbouillon.org""}",5124.0,134
+Python,Kozea,2023-08-19,5,1,"#{""guillaume@courtbouillon.org""}",5129.0,134
+Python,Kozea,2023-08-20,2,1,"#{""guillaume@courtbouillon.org""}",5131.0,134
+Python,Kozea,2023-08-24,1,1,"#{""guillaume@courtbouillon.org""}",5132.0,134
+Python,Kozea,2023-08-25,1,1,"#{""guillaume@courtbouillon.org""}",5133.0,134
+Python,Kozea,2023-08-31,1,1,"#{""guillaume@courtbouillon.org""}",5134.0,134
+Python,Kozea,2023-09-04,1,1,"#{""guillaume@courtbouillon.org""}",5135.0,134
+Python,Kozea,2023-09-14,1,1,"#{""guillaume@courtbouillon.org""}",5136.0,134
+Python,Kozea,2023-09-18,1,1,"#{""guillaume@courtbouillon.org""}",5137.0,134
+Python,Kozea,2023-09-24,3,1,"#{""60246931+gauravsamudra@users.noreply.github.com""}",5140.0,135
+Python,Kozea,2023-09-25,11,3,"#{""guillaume@courtbouillon.org"" ""lucie@courtbouillon.org"" ""sayed.azharudin@gmail.com""}",5151.0,136
+Python,Kozea,2023-09-28,1,1,"#{""guillaume@courtbouillon.org""}",5152.0,136
+Python,Kozea,2023-09-29,1,1,"#{""guillaume@courtbouillon.org""}",5153.0,136
+Python,Kozea,2023-10-03,1,1,"#{""guillaume@courtbouillon.org""}",5154.0,136
+Python,Kozea,2023-10-11,1,1,"#{""guillaume@courtbouillon.org""}",5155.0,136
+Python,Kozea,2023-10-15,1,1,"#{""pmjdebruijn@pcode.nl""}",5156.0,137
+Python,Kozea,2023-10-16,4,1,"#{""guillaume@courtbouillon.org""}",5160.0,137
+Python,Kozea,2023-10-17,1,1,"#{""guillaume@courtbouillon.org""}",5161.0,137
+Python,Kozea,2023-10-24,1,1,"#{""guillaume@courtbouillon.org""}",5162.0,137
+Python,Kozea,2023-11-01,1,1,"#{""guillaume@courtbouillon.org""}",5163.0,137
+Python,Kozea,2023-11-07,1,1,"#{""guillaume@courtbouillon.org""}",5164.0,137
+Python,Kozea,2023-11-09,1,1,"#{""guillaume@courtbouillon.org""}",5165.0,137
+Python,Kozea,2023-11-22,2,2,"#{""vagnernico@gmail.com"" ""guillaume@courtbouillon.org""}",5167.0,138
+Python,Kozea,2023-11-25,9,1,"#{""guillaume@courtbouillon.org""}",5176.0,138
+Python,Kozea,2023-11-30,1,1,"#{""guillaume@courtbouillon.org""}",5177.0,138
+Python,Kozea,2023-12-02,1,1,"#{""guillaume@courtbouillon.org""}",5178.0,138
+Python,Kozea,2023-12-04,3,1,"#{""guillaume@courtbouillon.org""}",5181.0,138

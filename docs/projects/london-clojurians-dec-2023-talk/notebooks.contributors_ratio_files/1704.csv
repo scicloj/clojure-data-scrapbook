@@ -1,0 +1,61 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-03,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com]",6.0,[{0 6}],0,6,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[harry.park@gmail.com, harry.park@gmail.com]",8.0,"[{0 6, ""other"" 2}]",2,6,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com]",12.0,"[{0 10, ""other"" 2}]",2,10,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-08,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com]",18.0,"[{0 16, ""other"" 2}]",2,16,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com]",22.0,"[{0 20, ""other"" 2}]",2,20,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-12,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com]",32.0,"[{0 30, ""other"" 2}]",2,30,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-13,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[sam@sammachin.com, sam@sammachin.com, me@iroller.ru, sam@sammachin.com, sam@sammachin.com, me@iroller.ru]",38.0,"[{0 34, ""other"" 4}]",4,34,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com]",42.0,"[{0 38, ""other"" 4}]",4,38,0,0,0,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-01-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[schubert.konstantin@gmail.com, schubert.konstantin@gmail.com, schubert.konstantin@gmail.com, schubert.konstantin@gmail.com]",46.0,"[{0 38, ""other"" 4, 3 4}]",4,38,0,0,4,0
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-03-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ircmaster@hotmail.com, ircmaster@hotmail.com, ircmaster@hotmail.com, ircmaster@hotmail.com]",50.0,"[{0 38, ""other"" 4, 3 4, 4 4}]",4,38,0,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-04-13,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[chrisken@gmail.com, donald.starquality@gmail.com, donald.starquality@gmail.com, chrisken@gmail.com, donald.starquality@gmail.com, donald.starquality@gmail.com]",56.0,"[{0 38, ""other"" 6, 3 4, 4 4, 1 4}]",6,38,4,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-04-18,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[donald.starquality@gmail.com, donald.starquality@gmail.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, donald.starquality@gmail.com, donald.starquality@gmail.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com, sam@sammachin.com]",70.0,"[{0 48, ""other"" 6, 3 4, 4 4, 1 8}]",6,48,8,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-04-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sam@sammachin.com, sam@sammachin.com]",72.0,"[{0 50, ""other"" 6, 3 4, 4 4, 1 8}]",6,50,8,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-04-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sam@sammachin.com, sam@sammachin.com]",74.0,"[{0 52, ""other"" 6, 3 4, 4 4, 1 8}]",6,52,8,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-07-26,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[lijiarong@sunfounder.com, cavonxx@gmail.com, lijiarong@sunfounder.com, cavonxx@gmail.com]",78.0,"[{0 52, ""other"" 10, 3 4, 4 4, 1 8}]",10,52,8,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-08-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sam@sammachin.com, sam@sammachin.com]",80.0,"[{0 54, ""other"" 10, 3 4, 4 4, 1 8}]",10,54,8,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-09-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sam@sammachin.com, sam@sammachin.com]",82.0,"[{0 56, ""other"" 10, 3 4, 4 4, 1 8}]",10,56,8,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-10-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[melashkov@users.noreply.github.com, melashkov@users.noreply.github.com]",84.0,"[{0 56, ""other"" 12, 3 4, 4 4, 1 8}]",12,56,8,0,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2016-10-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[rene@renekliment.cz, rene@renekliment.cz, rene@renekliment.cz, rene@renekliment.cz]",88.0,"[{0 56, ""other"" 12, 3 4, 4 4, 1 8, 2 4}]",12,56,8,4,4,4
+Python,https://github.com/alexa-pi/AlexaPiDEPRECATED,2017-03-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rene@renekliment.cz, rene@renekliment.cz]",90.0,"[{0 56, ""other"" 12, 3 4, 4 4, 1 8, 2 6}]",12,56,8,6,4,4

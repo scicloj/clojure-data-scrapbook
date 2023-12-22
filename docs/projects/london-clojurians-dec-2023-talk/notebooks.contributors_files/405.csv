@@ -1,0 +1,223 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,pyr,2013-12-04,3,1,"#{""pyr@spootnik.org""}",3.0,1
+Clojure,pyr,2013-12-05,2,1,"#{""pyr@spootnik.org""}",5.0,1
+Clojure,pyr,2013-12-07,1,1,"#{""pyr@spootnik.org""}",6.0,1
+Clojure,pyr,2013-12-08,7,1,"#{""pyr@spootnik.org""}",13.0,1
+Clojure,pyr,2013-12-09,4,1,"#{""pyr@spootnik.org""}",17.0,1
+Clojure,pyr,2013-12-10,6,1,"#{""pyr@spootnik.org""}",23.0,1
+Clojure,pyr,2013-12-31,1,1,"#{""brad@fewerhassles.com""}",24.0,2
+Clojure,pyr,2014-01-06,1,1,"#{""pyr@spootnik.org""}",25.0,2
+Clojure,pyr,2014-02-21,2,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",27.0,3
+Clojure,pyr,2014-03-11,2,1,"#{""pyr@spootnik.org""}",29.0,3
+Clojure,pyr,2014-03-12,2,1,"#{""pyr@spootnik.org""}",31.0,3
+Clojure,pyr,2014-03-13,3,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",34.0,3
+Clojure,pyr,2014-03-14,4,2,"#{""pyr@spootnik.org"" ""brutasse@gmail.com""}",38.0,3
+Clojure,pyr,2014-03-23,2,1,"#{""neil.prosser@gmail.com""}",40.0,4
+Clojure,pyr,2014-03-24,2,1,"#{""pyr@spootnik.org""}",42.0,4
+Clojure,pyr,2014-03-25,4,2,"#{""neil.prosser@gmail.com"" ""pyr@spootnik.org""}",46.0,4
+Clojure,pyr,2014-03-26,5,1,"#{""pyr@spootnik.org""}",51.0,4
+Clojure,pyr,2014-03-27,1,1,"#{""pyr@spootnik.org""}",52.0,4
+Clojure,pyr,2014-04-02,7,1,"#{""pyr@spootnik.org""}",59.0,4
+Clojure,pyr,2014-04-18,1,1,"#{""m@qbits.cc""}",60.0,5
+Clojure,pyr,2014-04-22,1,1,"#{""pyr@spootnik.org""}",61.0,5
+Clojure,pyr,2014-04-27,11,1,"#{""pyr@spootnik.org""}",72.0,5
+Clojure,pyr,2014-05-05,1,1,"#{""addisonj@gmail.com""}",73.0,6
+Clojure,pyr,2014-05-06,2,1,"#{""addisonj@gmail.com""}",75.0,6
+Clojure,pyr,2014-05-07,1,1,"#{""pyr@spootnik.org""}",76.0,6
+Clojure,pyr,2014-05-12,2,1,"#{""addisonj@gmail.com""}",78.0,6
+Clojure,pyr,2014-05-13,2,1,"#{""addisonj@gmail.com""}",80.0,6
+Clojure,pyr,2014-05-20,1,1,"#{""tcoupland@gmail.com""}",81.0,7
+Clojure,pyr,2014-05-21,1,1,"#{""tom.coupland@nokia.com""}",82.0,8
+Clojure,pyr,2014-05-27,1,1,"#{""tom.coupland@nokia.com""}",83.0,8
+Clojure,pyr,2014-05-28,1,1,"#{""tom.coupland@microsoft.com""}",84.0,9
+Clojure,pyr,2014-05-29,1,1,"#{""tom.coupland@nokia.com""}",85.0,9
+Clojure,pyr,2014-05-30,1,1,"#{""tom.coupland@nokia.com""}",86.0,9
+Clojure,pyr,2014-06-09,2,1,"#{""addisonj@gmail.com""}",88.0,9
+Clojure,pyr,2014-07-01,1,1,"#{""tom.coupland@nokia.com""}",89.0,9
+Clojure,pyr,2014-07-02,2,2,"#{""pyr@spootnik.org"" ""tom.coupland@nokia.com""}",91.0,9
+Clojure,pyr,2014-07-03,1,1,"#{""tom.coupland@nokia.com""}",92.0,9
+Clojure,pyr,2014-07-04,3,1,"#{""tom.coupland@nokia.com""}",95.0,9
+Clojure,pyr,2014-07-08,1,1,"#{""tom.coupland@nokia.com""}",96.0,9
+Clojure,pyr,2014-07-09,1,1,"#{""tom.coupland@nokia.com""}",97.0,9
+Clojure,pyr,2014-07-15,1,1,"#{""tom.coupland@nokia.com""}",98.0,9
+Clojure,pyr,2014-07-16,2,1,"#{""tom.coupland@nokia.com""}",100.0,9
+Clojure,pyr,2014-07-23,5,2,"#{""tom.coupland@microsoft.com"" ""pyr@spootnik.org""}",105.0,9
+Clojure,pyr,2014-07-24,2,1,"#{""tom.coupland@nokia.com""}",107.0,9
+Clojure,pyr,2014-09-05,1,1,"#{""pyr@spootnik.org""}",108.0,9
+Clojure,pyr,2014-09-25,4,1,"#{""pyr@spootnik.org""}",112.0,9
+Clojure,pyr,2014-09-26,5,1,"#{""pyr@spootnik.org""}",117.0,9
+Clojure,pyr,2014-09-27,3,1,"#{""pyr@spootnik.org""}",120.0,9
+Clojure,pyr,2014-09-29,2,2,"#{""_@sebastien-fievet.fr"" ""pyr@spootnik.org""}",122.0,10
+Clojure,pyr,2014-10-02,2,1,"#{""pyr@spootnik.org""}",124.0,10
+Clojure,pyr,2014-10-03,1,1,"#{""pyr@spootnik.org""}",125.0,10
+Clojure,pyr,2014-10-05,1,1,"#{""pyr@spootnik.org""}",126.0,10
+Clojure,pyr,2014-10-06,2,2,"#{""cybem@cybem.info"" ""pyr@spootnik.org""}",128.0,11
+Clojure,pyr,2014-10-07,3,2,"#{""cybem@cybem.info"" ""pyr@spootnik.org""}",131.0,11
+Clojure,pyr,2014-10-08,2,1,"#{""cybem@cybem.info""}",133.0,11
+Clojure,pyr,2014-10-14,10,1,"#{""pyr@spootnik.org""}",143.0,11
+Clojure,pyr,2014-10-15,7,1,"#{""pyr@spootnik.org""}",150.0,11
+Clojure,pyr,2014-10-16,1,1,"#{""pyr@spootnik.org""}",151.0,11
+Clojure,pyr,2014-10-21,3,1,"#{""pyr@spootnik.org""}",154.0,11
+Clojure,pyr,2014-11-02,1,1,"#{""rrudduck@ambitenergy.com""}",155.0,12
+Clojure,pyr,2014-11-03,1,1,"#{""pyr@spootnik.org""}",156.0,12
+Clojure,pyr,2014-11-04,1,1,"#{""michael@hierweck.de""}",157.0,13
+Clojure,pyr,2014-11-06,2,1,"#{""cybem@cybem.info""}",159.0,13
+Clojure,pyr,2014-11-10,2,1,"#{""pyr@spootnik.org""}",161.0,13
+Clojure,pyr,2014-12-04,1,1,"#{""gmo@Garys-MacBook-Pro.local""}",162.0,14
+Clojure,pyr,2014-12-05,3,1,"#{""gogden@gmail.com""}",165.0,15
+Clojure,pyr,2014-12-10,1,1,"#{""pyr@spootnik.org""}",166.0,15
+Clojure,pyr,2015-02-12,1,1,"#{""ryan.blake.williams@gmail.com""}",167.0,16
+Clojure,pyr,2015-02-13,1,1,"#{""pyr@spootnik.org""}",168.0,16
+Clojure,pyr,2015-02-27,1,1,"#{""pyr@spootnik.org""}",169.0,16
+Clojure,pyr,2015-05-06,1,1,"#{""pyr@spootnik.org""}",170.0,16
+Clojure,pyr,2015-06-04,10,1,"#{""pyr@spootnik.org""}",180.0,16
+Clojure,pyr,2015-06-05,4,1,"#{""pyr@spootnik.org""}",184.0,16
+Clojure,pyr,2015-06-16,1,1,"#{""pyr@spootnik.org""}",185.0,16
+Clojure,pyr,2015-06-30,1,1,"#{""pyr@spootnik.org""}",186.0,16
+Clojure,pyr,2015-07-20,3,1,"#{""crockabiscuit@gmail.com""}",189.0,17
+Clojure,pyr,2015-07-21,1,1,"#{""pyr@spootnik.org""}",190.0,17
+Clojure,pyr,2015-07-22,13,2,"#{""crockabiscuit@gmail.com"" ""pyr@spootnik.org""}",203.0,17
+Clojure,pyr,2015-07-23,23,2,"#{""crockabiscuit@gmail.com"" ""pyr@spootnik.org""}",226.0,17
+Clojure,pyr,2015-07-24,1,1,"#{""crockabiscuit@gmail.com""}",227.0,17
+Clojure,pyr,2015-07-27,8,1,"#{""pyr@spootnik.org""}",235.0,17
+Clojure,pyr,2015-07-28,9,2,"#{""crockabiscuit@gmail.com"" ""pyr@spootnik.org""}",244.0,17
+Clojure,pyr,2015-07-29,13,2,"#{""pyr@spootnik.org"" ""petecheslock@gmail.com""}",257.0,18
+Clojure,pyr,2015-07-30,1,1,"#{""pyr@spootnik.org""}",258.0,18
+Clojure,pyr,2015-07-31,12,2,"#{""crockabiscuit@gmail.com"" ""pyr@spootnik.org""}",270.0,18
+Clojure,pyr,2015-08-02,1,1,"#{""pyr@spootnik.org""}",271.0,18
+Clojure,pyr,2015-08-20,1,1,"#{""contact@stephaneckardt.com""}",272.0,19
+Clojure,pyr,2015-09-07,1,1,"#{""emanuelis@users.noreply.github.com""}",273.0,20
+Clojure,pyr,2015-10-01,3,1,"#{""pyr@spootnik.org""}",276.0,20
+Clojure,pyr,2015-10-02,8,1,"#{""pyr@spootnik.org""}",284.0,20
+Clojure,pyr,2015-10-05,1,1,"#{""pyr@spootnik.org""}",285.0,20
+Clojure,pyr,2015-10-06,4,1,"#{""pyr@spootnik.org""}",289.0,20
+Clojure,pyr,2015-10-15,1,1,"#{""pyr@spootnik.org""}",290.0,20
+Clojure,pyr,2015-10-16,24,1,"#{""pyr@spootnik.org""}",314.0,20
+Clojure,pyr,2015-10-17,9,1,"#{""pyr@spootnik.org""}",323.0,20
+Clojure,pyr,2015-10-19,1,1,"#{""pyr@spootnik.org""}",324.0,20
+Clojure,pyr,2015-10-20,3,1,"#{""pyr@spootnik.org""}",327.0,20
+Clojure,pyr,2015-10-23,1,1,"#{""jshook@gmail.com""}",328.0,21
+Clojure,pyr,2015-10-26,3,2,"#{""jshook@gmail.com"" ""pyr@spootnik.org""}",331.0,21
+Clojure,pyr,2015-10-27,2,1,"#{""pyr@spootnik.org""}",333.0,21
+Clojure,pyr,2015-11-10,4,2,"#{""coda.hale@gmail.com"" ""pyr@spootnik.org""}",337.0,22
+Clojure,pyr,2015-11-12,2,1,"#{""pyr@spootnik.org""}",339.0,22
+Clojure,pyr,2015-11-15,2,1,"#{""pyr@spootnik.org""}",341.0,22
+Clojure,pyr,2015-11-16,1,1,"#{""zheng.z.aa@gmail.com""}",342.0,23
+Clojure,pyr,2016-01-04,2,1,"#{""pyr@spootnik.org""}",344.0,23
+Clojure,pyr,2016-01-07,12,2,"#{""pyr@spootnik.org"" ""eckardt@users.noreply.github.com""}",356.0,24
+Clojure,pyr,2016-01-08,1,1,"#{""pyr@spootnik.org""}",357.0,24
+Clojure,pyr,2016-01-11,4,1,"#{""pyr@spootnik.org""}",361.0,24
+Clojure,pyr,2016-01-22,2,2,"#{""rauhs@users.noreply.github.com"" ""pyr@spootnik.org""}",363.0,25
+Clojure,pyr,2016-01-24,2,2,"#{""jeffecu88@gmail.com"" ""pyr@spootnik.org""}",365.0,26
+Clojure,pyr,2016-01-28,2,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",367.0,27
+Clojure,pyr,2016-01-29,3,1,"#{""oleksandr.petrov@gmail.com""}",370.0,27
+Clojure,pyr,2016-01-30,3,3,"#{""luckyswede@gmail.com"" ""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",373.0,28
+Clojure,pyr,2016-01-31,2,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",375.0,28
+Clojure,pyr,2016-02-02,6,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",381.0,28
+Clojure,pyr,2016-02-03,1,1,"#{""oleksandr.petrov@gmail.com""}",382.0,28
+Clojure,pyr,2016-02-04,3,1,"#{""oleksandr.petrov@gmail.com""}",385.0,28
+Clojure,pyr,2016-02-05,22,3,"#{""oleksandr.petrov@gmail.com"" ""alexp@coffeenco.de"" ""pyr@spootnik.org""}",407.0,29
+Clojure,pyr,2016-02-06,3,1,"#{""oleksandr.petrov@gmail.com""}",410.0,29
+Clojure,pyr,2016-02-07,2,1,"#{""oleksandr.petrov@gmail.com""}",412.0,29
+Clojure,pyr,2016-02-08,5,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",417.0,29
+Clojure,pyr,2016-02-09,7,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",424.0,29
+Clojure,pyr,2016-02-10,17,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",441.0,29
+Clojure,pyr,2016-02-11,17,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",458.0,29
+Clojure,pyr,2016-02-12,6,2,"#{""oleksandr.petrov@gmail.com"" ""pyr@spootnik.org""}",464.0,29
+Clojure,pyr,2016-02-16,6,1,"#{""oleksandr.petrov@gmail.com""}",470.0,29
+Clojure,pyr,2016-02-20,2,1,"#{""oleksandr.petrov@gmail.com""}",472.0,29
+Clojure,pyr,2016-03-10,2,1,"#{""pyr@spootnik.org""}",474.0,29
+Clojure,pyr,2016-03-16,1,1,"#{""oleksandr.petrov@gmail.com""}",475.0,29
+Clojure,pyr,2016-03-26,4,1,"#{""oleksandr.petrov@gmail.com""}",479.0,29
+Clojure,pyr,2016-03-27,1,1,"#{""oleksandr.petrov@gmail.com""}",480.0,29
+Clojure,pyr,2016-03-28,1,1,"#{""oleksandr.petrov@gmail.com""}",481.0,29
+Clojure,pyr,2016-03-30,3,1,"#{""pyr@spootnik.org""}",484.0,29
+Clojure,pyr,2016-04-03,1,1,"#{""oleksandr.petrov@gmail.com""}",485.0,29
+Clojure,pyr,2016-04-17,1,1,"#{""pyr@spootnik.org""}",486.0,29
+Clojure,pyr,2016-05-01,1,1,"#{""oleksandr.petrov@gmail.com""}",487.0,29
+Clojure,pyr,2016-05-02,1,1,"#{""pyr@spootnik.org""}",488.0,29
+Clojure,pyr,2016-05-24,1,1,"#{""alexp@coffeenco.de""}",489.0,29
+Clojure,pyr,2016-06-15,2,2,"#{""alexp@coffeenco.de"" ""pyr@spootnik.org""}",491.0,29
+Clojure,pyr,2016-08-07,3,1,"#{""oleksandr.petrov@gmail.com""}",494.0,29
+Clojure,pyr,2016-08-11,4,2,"#{""pyr@spootnik.org"" ""malex@calclab.com""}",498.0,30
+Clojure,pyr,2016-08-12,1,1,"#{""pyr@spootnik.org""}",499.0,30
+Clojure,pyr,2016-08-14,1,1,"#{""oleksandr.petrov@gmail.com""}",500.0,30
+Clojure,pyr,2016-08-15,6,3,"#{""zbintliff@users.noreply.github.com"" ""oleksandr.petrov@gmail.com"" ""alexp@coffeenco.de""}",506.0,31
+Clojure,pyr,2016-08-18,11,1,"#{""pyr@spootnik.org""}",517.0,31
+Clojure,pyr,2016-08-19,4,2,"#{""alexp@coffeenco.de"" ""Tim.Ehlers@orbitz.com""}",521.0,32
+Clojure,pyr,2016-08-20,3,3,"#{""oleksandr.petrov@gmail.com"" ""coda.hale@gmail.com"" ""alexp@coffeenco.de""}",524.0,32
+Clojure,pyr,2016-08-21,1,1,"#{""oleksandr.petrov@gmail.com""}",525.0,32
+Clojure,pyr,2016-08-26,1,1,"#{""alexp@coffeenco.de""}",526.0,32
+Clojure,pyr,2016-08-29,6,1,"#{""pyr@spootnik.org""}",532.0,32
+Clojure,pyr,2016-08-30,4,2,"#{""jrichard@stinkpad.7236.net"" ""pyr@spootnik.org""}",536.0,33
+Clojure,pyr,2016-08-31,2,1,"#{""pyr@spootnik.org""}",538.0,33
+Clojure,pyr,2016-09-01,2,2,"#{""oleksandr.petrov@gmail.com"" ""alexp@coffeenco.de""}",540.0,33
+Clojure,pyr,2016-09-08,1,1,"#{""alexp@coffeenco.de""}",541.0,33
+Clojure,pyr,2016-09-23,2,2,"#{""tehlers@expedia.com"" ""jacob.richard@orbitz.com""}",543.0,35
+Clojure,pyr,2016-09-24,2,1,"#{""alexp@coffeenco.de""}",545.0,35
+Clojure,pyr,2016-10-01,2,2,"#{""oleksandr.petrov@gmail.com"" ""alexp@coffeenco.de""}",547.0,35
+Clojure,pyr,2016-10-03,1,1,"#{""oleksandr.petrov@gmail.com""}",548.0,35
+Clojure,pyr,2016-10-22,1,1,"#{""alexp@coffeenco.de""}",549.0,35
+Clojure,pyr,2016-10-23,1,1,"#{""oleksandr.petrov@gmail.com""}",550.0,35
+Clojure,pyr,2016-11-04,1,1,"#{""oleksandr.petrov@gmail.com""}",551.0,35
+Clojure,pyr,2016-11-06,1,1,"#{""oleksandr.petrov@gmail.com""}",552.0,35
+Clojure,pyr,2016-11-26,1,1,"#{""alexp@coffeenco.de""}",553.0,35
+Clojure,pyr,2016-12-03,1,1,"#{""alexp@coffeenco.de""}",554.0,35
+Clojure,pyr,2016-12-22,1,1,"#{""coda.hale@gmail.com""}",555.0,35
+Clojure,pyr,2016-12-23,6,1,"#{""pyr@spootnik.org""}",561.0,35
+Clojure,pyr,2016-12-31,1,1,"#{""henrik.lundahl@gmail.com""}",562.0,36
+Clojure,pyr,2017-01-02,1,1,"#{""alexp@coffeenco.de""}",563.0,36
+Clojure,pyr,2017-01-10,11,3,"#{""henrik.lundahl@gmail.com"" ""jmglov@gmail.com"" ""pyr@spootnik.org""}",574.0,37
+Clojure,pyr,2017-02-09,1,1,"#{""pyr@spootnik.org""}",575.0,37
+Clojure,pyr,2017-02-10,1,1,"#{""pyr@spootnik.org""}",576.0,37
+Clojure,pyr,2017-02-11,2,1,"#{""pyr@spootnik.org""}",578.0,37
+Clojure,pyr,2017-02-12,6,1,"#{""pyr@spootnik.org""}",584.0,37
+Clojure,pyr,2017-03-02,4,2,"#{""alexp@coffeenco.de"" ""pyr@spootnik.org""}",588.0,37
+Clojure,pyr,2017-03-07,2,1,"#{""m@qbits.cc""}",590.0,37
+Clojure,pyr,2017-03-15,1,1,"#{""coda.hale@gmail.com""}",591.0,37
+Clojure,pyr,2017-03-19,1,1,"#{""oleksandr.petrov@gmail.com""}",592.0,37
+Clojure,pyr,2017-03-21,1,1,"#{""pkova@users.noreply.github.com""}",593.0,38
+Clojure,pyr,2017-03-26,1,1,"#{""oleksandr.petrov@gmail.com""}",594.0,38
+Clojure,pyr,2017-03-28,2,1,"#{""pyr@spootnik.org""}",596.0,38
+Clojure,pyr,2017-04-04,1,1,"#{""alexp@coffeenco.de""}",597.0,38
+Clojure,pyr,2017-05-22,1,1,"#{""agarman@users.noreply.github.com""}",598.0,39
+Clojure,pyr,2017-05-24,2,2,"#{""alexp@coffeenco.de"" ""alexey@kopytko.com""}",600.0,40
+Clojure,pyr,2017-05-26,1,1,"#{""alexp@coffeenco.de""}",601.0,40
+Clojure,pyr,2017-06-14,1,1,"#{""hackbert@users.noreply.github.com""}",602.0,41
+Clojure,pyr,2017-06-26,1,1,"#{""alexp@coffeenco.de""}",603.0,41
+Clojure,pyr,2017-07-03,3,1,"#{""pyr@spootnik.org""}",606.0,41
+Clojure,pyr,2017-12-11,5,4,"#{""martino.visintin+github@ovoenergy.com"" ""truemped@gmail.com"" ""luhhujbb@aol.com"" ""pyr@spootnik.org""}",611.0,44
+Clojure,pyr,2017-12-12,2,1,"#{""pyr@spootnik.org""}",613.0,44
+Clojure,pyr,2017-12-14,3,1,"#{""pyr@spootnik.org""}",616.0,44
+Clojure,pyr,2017-12-19,5,1,"#{""pyr@spootnik.org""}",621.0,44
+Clojure,pyr,2018-02-14,3,1,"#{""pyr@spootnik.org""}",624.0,44
+Clojure,pyr,2018-04-16,1,1,"#{""pyr@spootnik.org""}",625.0,44
+Clojure,pyr,2018-05-28,1,1,"#{""dev@masking.work""}",626.0,45
+Clojure,pyr,2018-06-05,1,1,"#{""kartthikspiky@gmail.com""}",627.0,46
+Clojure,pyr,2018-11-05,6,1,"#{""pyr@spootnik.org""}",633.0,46
+Clojure,pyr,2019-01-08,9,5,"#{""eli.sorey@gmail.com"" ""489016+fmjrey@users.noreply.github.com"" ""63618+truemped@users.noreply.github.com"" ""mathieu.viel@gmail.com"" ""pyr@spootnik.org""}",642.0,50
+Clojure,pyr,2019-01-09,1,1,"#{""kanumaiku@gmail.com""}",643.0,51
+Clojure,pyr,2019-01-10,2,1,"#{""pyr@spootnik.org""}",645.0,51
+Clojure,pyr,2019-03-21,1,1,"#{""deonjtan@gmail.com""}",646.0,52
+Clojure,pyr,2019-08-26,1,1,"#{""m@qbits.cc""}",647.0,52
+Clojure,pyr,2019-09-06,1,1,"#{""fh562u@att.com""}",648.0,53
+Clojure,pyr,2019-09-09,1,1,"#{""fhitchen@users.noreply.github.com""}",649.0,54
+Clojure,pyr,2019-10-04,4,2,"#{""max.penet@exoscale.ch"" ""pyr@spootnik.org""}",653.0,55
+Clojure,pyr,2019-10-31,4,1,"#{""pyr@spootnik.org""}",657.0,55
+Clojure,pyr,2019-11-14,1,1,"#{""re.vkolesnikov@gmail.com""}",658.0,56
+Clojure,pyr,2020-01-06,3,1,"#{""pyr@spootnik.org""}",661.0,56
+Clojure,pyr,2020-09-03,3,1,"#{""pyr@spootnik.org""}",664.0,56
+Clojure,pyr,2020-10-31,11,1,"#{""pyr@spootnik.org""}",675.0,56
+Clojure,pyr,2020-11-09,1,1,"#{""miguel.ping@exoscale.ch""}",676.0,57
+Clojure,pyr,2020-11-17,1,1,"#{""brutasse@users.noreply.github.com""}",677.0,58
+Clojure,pyr,2020-11-18,4,1,"#{""pyr@spootnik.org""}",681.0,58
+Clojure,pyr,2021-06-21,1,1,"#{""reynald.borer@gmail.com""}",682.0,59
+Clojure,pyr,2021-10-06,6,3,"#{""arnaud.geiser@exoscale.ch"" ""arnaudgeiser@gmail.com"" ""pyr@spootnik.org""}",688.0,61
+Clojure,pyr,2021-11-07,1,1,"#{""jeremyvdw@protonmail.com""}",689.0,62
+Clojure,pyr,2021-11-10,1,1,"#{""jeremyvdw@protonmail.com""}",690.0,62
+Clojure,pyr,2021-12-15,4,2,"#{""liquidz.uo@gmail.com"" ""pyr@spootnik.org""}",694.0,63
+Clojure,pyr,2022-01-26,1,1,"#{""jeremy.vandewyngaert@exoscale.com""}",695.0,64
+Clojure,pyr,2022-02-28,1,1,"#{""wouter.dullaert@exoscale.ch""}",696.0,65
+Clojure,pyr,2022-03-01,2,1,"#{""pyr@spootnik.org""}",698.0,65
+Clojure,pyr,2022-05-28,3,1,"#{""pyr@spootnik.org""}",701.0,65
+Clojure,pyr,2022-10-12,3,1,"#{""pyr@spootnik.org""}",704.0,65

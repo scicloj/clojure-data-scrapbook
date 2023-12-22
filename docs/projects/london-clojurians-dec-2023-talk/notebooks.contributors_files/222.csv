@@ -1,0 +1,101 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,reifyhealth,2016-12-08,8,1,"#{""daniel@flyingmachinestudios.com""}",8.0,1
+Clojure,reifyhealth,2016-12-09,2,1,"#{""daniel@flyingmachinestudios.com""}",10.0,1
+Clojure,reifyhealth,2016-12-12,1,1,"#{""daniel@flyingmachinestudios.com""}",11.0,1
+Clojure,reifyhealth,2016-12-13,7,2,"#{""daniel@flyingmachinestudios.com"" ""khiem@reifyhealth.com""}",18.0,2
+Clojure,reifyhealth,2016-12-16,4,1,"#{""daniel@flyingmachinestudios.com""}",22.0,2
+Clojure,reifyhealth,2016-12-19,1,1,"#{""daniel@flyingmachinestudios.com""}",23.0,2
+Clojure,reifyhealth,2016-12-21,2,1,"#{""daniel@flyingmachinestudios.com""}",25.0,2
+Clojure,reifyhealth,2016-12-22,10,2,"#{""alan@dipert.org"" ""daniel@flyingmachinestudios.com""}",35.0,3
+Clojure,reifyhealth,2016-12-23,8,1,"#{""daniel@flyingmachinestudios.com""}",43.0,3
+Clojure,reifyhealth,2017-03-07,2,1,"#{""daniel@flyingmachinestudios.com""}",45.0,3
+Clojure,reifyhealth,2017-03-08,1,1,"#{""daniel@flyingmachinestudios.com""}",46.0,3
+Clojure,reifyhealth,2017-03-09,1,1,"#{""daniel@flyingmachinestudios.com""}",47.0,3
+Clojure,reifyhealth,2017-04-23,3,1,"#{""daniel@flyingmachinestudios.com""}",50.0,3
+Clojure,reifyhealth,2017-04-25,5,1,"#{""daniel@flyingmachinestudios.com""}",55.0,3
+Clojure,reifyhealth,2017-04-26,2,1,"#{""daniel@flyingmachinestudios.com""}",57.0,3
+Clojure,reifyhealth,2017-04-27,1,1,"#{""daniel@flyingmachinestudios.com""}",58.0,3
+Clojure,reifyhealth,2017-05-17,4,1,"#{""daniel@flyingmachinestudios.com""}",62.0,3
+Clojure,reifyhealth,2017-05-18,2,1,"#{""daniel@flyingmachinestudios.com""}",64.0,3
+Clojure,reifyhealth,2017-05-22,2,1,"#{""daniel@flyingmachinestudios.com""}",66.0,3
+Clojure,reifyhealth,2017-05-30,1,1,"#{""daniel@flyingmachinestudios.com""}",67.0,3
+Clojure,reifyhealth,2017-06-02,9,2,"#{""christian@reifyhealth.com"" ""daniel@flyingmachinestudios.com""}",76.0,4
+Clojure,reifyhealth,2017-06-05,5,1,"#{""daniel@flyingmachinestudios.com""}",81.0,4
+Clojure,reifyhealth,2017-06-06,1,1,"#{""daniel@flyingmachinestudios.com""}",82.0,4
+Clojure,reifyhealth,2017-07-22,3,1,"#{""gabriel.horner@gmail.com""}",85.0,5
+Clojure,reifyhealth,2017-07-26,2,1,"#{""daniel@flyingmachinestudios.com""}",87.0,5
+Clojure,reifyhealth,2017-07-27,4,1,"#{""daniel@flyingmachinestudios.com""}",91.0,5
+Clojure,reifyhealth,2018-04-04,1,1,"#{""daniel@flyingmachinestudios.com""}",92.0,5
+Clojure,reifyhealth,2018-04-08,5,1,"#{""daniel@flyingmachinestudios.com""}",97.0,5
+Clojure,reifyhealth,2018-04-10,2,1,"#{""daniel@flyingmachinestudios.com""}",99.0,5
+Clojure,reifyhealth,2018-04-14,6,1,"#{""daniel@flyingmachinestudios.com""}",105.0,5
+Clojure,reifyhealth,2018-04-15,4,1,"#{""daniel@flyingmachinestudios.com""}",109.0,5
+Clojure,reifyhealth,2018-04-18,1,1,"#{""daniel@flyingmachinestudios.com""}",110.0,5
+Clojure,reifyhealth,2018-04-20,2,1,"#{""daniel@flyingmachinestudios.com""}",112.0,5
+Clojure,reifyhealth,2018-04-22,1,1,"#{""daniel@flyingmachinestudios.com""}",113.0,5
+Clojure,reifyhealth,2018-04-23,1,1,"#{""daniel@flyingmachinestudios.com""}",114.0,5
+Clojure,reifyhealth,2018-04-25,6,1,"#{""daniel@flyingmachinestudios.com""}",120.0,5
+Clojure,reifyhealth,2018-06-18,2,1,"#{""daniel@flyingmachinestudios.com""}",122.0,5
+Clojure,reifyhealth,2018-06-19,6,1,"#{""daniel@flyingmachinestudios.com""}",128.0,5
+Clojure,reifyhealth,2018-06-20,9,1,"#{""daniel@flyingmachinestudios.com""}",137.0,5
+Clojure,reifyhealth,2018-06-21,1,1,"#{""daniel@flyingmachinestudios.com""}",138.0,5
+Clojure,reifyhealth,2018-06-22,2,1,"#{""daniel@flyingmachinestudios.com""}",140.0,5
+Clojure,reifyhealth,2018-06-23,2,1,"#{""daniel@flyingmachinestudios.com""}",142.0,5
+Clojure,reifyhealth,2018-06-26,3,2,"#{""chris@reifyhealth.com"" ""daniel@flyingmachinestudios.com""}",145.0,6
+Clojure,reifyhealth,2018-06-27,13,3,"#{""34136145+codonnell-reify@users.noreply.github.com"" ""chris@reifyhealth.com"" ""daniel@flyingmachinestudios.com""}",158.0,7
+Clojure,reifyhealth,2018-06-28,7,1,"#{""daniel@flyingmachinestudios.com""}",165.0,7
+Clojure,reifyhealth,2018-06-29,2,1,"#{""daniel@flyingmachinestudios.com""}",167.0,7
+Clojure,reifyhealth,2018-07-01,1,1,"#{""daniel@flyingmachinestudios.com""}",168.0,7
+Clojure,reifyhealth,2018-07-10,1,1,"#{""daniel@flyingmachinestudios.com""}",169.0,7
+Clojure,reifyhealth,2018-07-16,1,1,"#{""daniel@flyingmachinestudios.com""}",170.0,7
+Clojure,reifyhealth,2018-07-25,1,1,"#{""matt@reifyhealth.com""}",171.0,8
+Clojure,reifyhealth,2018-07-26,2,1,"#{""matt@reifyhealth.com""}",173.0,8
+Clojure,reifyhealth,2018-07-27,2,1,"#{""matt@reifyhealth.com""}",175.0,8
+Clojure,reifyhealth,2018-07-28,3,1,"#{""daniel@flyingmachinestudios.com""}",178.0,8
+Clojure,reifyhealth,2018-07-29,3,1,"#{""daniel@flyingmachinestudios.com""}",181.0,8
+Clojure,reifyhealth,2018-07-30,6,2,"#{""manderson202@gmail.com"" ""daniel@flyingmachinestudios.com""}",187.0,9
+Clojure,reifyhealth,2018-07-31,1,1,"#{""daniel@flyingmachinestudios.com""}",188.0,9
+Clojure,reifyhealth,2018-08-02,2,1,"#{""daniel@flyingmachinestudios.com""}",190.0,9
+Clojure,reifyhealth,2018-08-04,1,1,"#{""daniel@flyingmachinestudios.com""}",191.0,9
+Clojure,reifyhealth,2018-08-12,3,1,"#{""daniel@flyingmachinestudios.com""}",194.0,9
+Clojure,reifyhealth,2018-08-13,1,1,"#{""daniel@flyingmachinestudios.com""}",195.0,9
+Clojure,reifyhealth,2018-08-15,1,1,"#{""arsenerei@users.noreply.github.com""}",196.0,10
+Clojure,reifyhealth,2018-08-20,1,1,"#{""khiem@reifyhealth.com""}",197.0,10
+Clojure,reifyhealth,2018-08-31,7,2,"#{""tom@reifyhealth.com"" ""tomjkidd@gmail.com""}",204.0,12
+Clojure,reifyhealth,2018-09-10,1,1,"#{""daniel@flyingmachinestudios.com""}",205.0,12
+Clojure,reifyhealth,2018-09-30,1,1,"#{""taylorwood@me.com""}",206.0,13
+Clojure,reifyhealth,2018-10-01,1,1,"#{""gabriel.horner@gmail.com""}",207.0,13
+Clojure,reifyhealth,2018-10-06,3,1,"#{""natxo.cabre@gmail.com""}",210.0,14
+Clojure,reifyhealth,2018-10-08,1,1,"#{""gabriel.horner@gmail.com""}",211.0,14
+Clojure,reifyhealth,2018-10-23,4,1,"#{""daniel@flyingmachinestudios.com""}",215.0,14
+Clojure,reifyhealth,2019-02-05,2,1,"#{""daniel@flyingmachinestudios.com""}",217.0,14
+Clojure,reifyhealth,2019-02-06,8,1,"#{""daniel@flyingmachinestudios.com""}",225.0,14
+Clojure,reifyhealth,2019-02-19,1,1,"#{""dchelimsky@gmail.com""}",226.0,15
+Clojure,reifyhealth,2019-02-20,1,1,"#{""dchelimsky@gmail.com""}",227.0,15
+Clojure,reifyhealth,2019-02-27,1,1,"#{""daniel@flyingmachinestudios.com""}",228.0,15
+Clojure,reifyhealth,2019-03-08,1,1,"#{""andrea.crotti.0@gmail.com""}",229.0,16
+Clojure,reifyhealth,2019-04-11,1,1,"#{""khiem@reifyhealth.com""}",230.0,16
+Clojure,reifyhealth,2019-04-17,1,1,"#{""daniel@flyingmachinestudios.com""}",231.0,16
+Clojure,reifyhealth,2019-05-18,4,1,"#{""daniel@flyingmachinestudios.com""}",235.0,16
+Clojure,reifyhealth,2019-05-21,1,1,"#{""daniel@flyingmachinestudios.com""}",236.0,16
+Clojure,reifyhealth,2019-05-22,1,1,"#{""manderson202@gmail.com""}",237.0,16
+Clojure,reifyhealth,2019-05-23,3,1,"#{""daniel@flyingmachinestudios.com""}",240.0,16
+Clojure,reifyhealth,2019-06-14,1,1,"#{""jakubholy@jakubholy.net""}",241.0,17
+Clojure,reifyhealth,2019-09-05,1,1,"#{""daniel@flyingmachinestudios.com""}",242.0,17
+Clojure,reifyhealth,2019-09-06,2,1,"#{""daniel@flyingmachinestudios.com""}",244.0,17
+Clojure,reifyhealth,2019-09-07,3,1,"#{""daniel@flyingmachinestudios.com""}",247.0,17
+Clojure,reifyhealth,2019-09-08,10,1,"#{""daniel@flyingmachinestudios.com""}",257.0,17
+Clojure,reifyhealth,2019-09-09,1,1,"#{""daniel@flyingmachinestudios.com""}",258.0,17
+Clojure,reifyhealth,2019-09-10,7,1,"#{""daniel@flyingmachinestudios.com""}",265.0,17
+Clojure,reifyhealth,2019-09-14,1,1,"#{""daniel@flyingmachinestudios.com""}",266.0,17
+Clojure,reifyhealth,2019-09-18,3,1,"#{""daniel@flyingmachinestudios.com""}",269.0,17
+Clojure,reifyhealth,2019-09-21,1,1,"#{""daniel@flyingmachinestudios.com""}",270.0,17
+Clojure,reifyhealth,2019-09-22,4,1,"#{""daniel@flyingmachinestudios.com""}",274.0,17
+Clojure,reifyhealth,2019-09-25,3,1,"#{""daniel@flyingmachinestudios.com""}",277.0,17
+Clojure,reifyhealth,2019-09-26,2,2,"#{""gabriel.horner@gmail.com"" ""daniel@flyingmachinestudios.com""}",279.0,17
+Clojure,reifyhealth,2019-11-05,3,1,"#{""daniel@flyingmachinestudios.com""}",282.0,17
+Clojure,reifyhealth,2021-12-16,1,1,"#{""gabriel.horner@gmail.com""}",283.0,17
+Clojure,reifyhealth,2022-04-09,1,1,"#{""daniel@flyingmachinestudios.com""}",284.0,17
+Clojure,reifyhealth,2022-04-11,1,1,"#{""daniel@flyingmachinestudios.com""}",285.0,17
+Clojure,reifyhealth,2022-10-07,4,2,"#{""mitchell.kyle@reifyhealth.com"" ""93538420+mitchkyle-reify@users.noreply.github.com""}",289.0,19
+Clojure,reifyhealth,2023-09-14,5,1,"#{""tom.weeks@reifyhealth.com""}",294.0,20

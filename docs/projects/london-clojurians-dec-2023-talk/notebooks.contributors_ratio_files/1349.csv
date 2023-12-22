@@ -1,0 +1,406 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/otto-de/tesla-microservice,2015-01-22,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[chstamm@gmail.com, christian.stamm@otto.de, guido.steinacker@gmail.com]",3.0,"[{""other"" 2, 1 1}]",2,0,1,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chstamm@gmail.com]",4.0,"[{""other"" 3, 1 1}]",3,0,1,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-01-26,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[chstamm@gmail.com, christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",8.0,"[{""other"" 4, 1 4}]",4,0,4,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-01-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[berg.christian@gmail.com, berg.christian@gmail.com]",10.0,"[{""other"" 6, 1 4}]",6,0,4,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-01-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chstamm@gmail.com]",11.0,"[{""other"" 7, 1 4}]",7,0,4,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[wpdutoit@gmail.com]",12.0,"[{""other"" 8, 1 4}]",8,0,4,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-02,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[f@ub0r.de, f@ub0r.de, chstamm@gmail.com, christian.stamm@otto.de]",16.0,"[{""other"" 11, 1 5}]",11,0,5,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[chstamm@gmail.com, christian.stamm@otto.de]",18.0,"[{""other"" 12, 1 6}]",12,0,6,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",22.0,"[{""other"" 12, 1 10}]",12,0,10,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[wpdutoit@gmail.com]",23.0,"[{""other"" 13, 1 10}]",13,0,10,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de]",25.0,"[{""other"" 13, 1 12}]",13,0,12,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de]",27.0,"[{""other"" 13, 1 14}]",13,0,14,0,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-12,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",36.0,"[{""other"" 13, 1 14, 2 9}]",13,0,14,9,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",37.0,"[{""other"" 13, 1 15, 2 9}]",13,0,15,9,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-18,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[kai.brandes@otto.de, kai.brandes@otto.de, christian.stamm@otto.de, robert.breetzmann@otto.de]",41.0,"[{""other"" 14, 1 16, 2 11}]",14,0,16,11,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chstamm@gmail.com]",42.0,"[{""other"" 15, 1 16, 2 11}]",15,0,16,11,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-02-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chstamm@gmail.com, chstamm@gmail.com]",44.0,"[{""other"" 17, 1 16, 2 11}]",17,0,16,11,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-03-01,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[chstamm@gmail.com, christian.stamm@otto.de, christian.stamm@otto.de, happylomin@googlemail.com]",48.0,"[{""other"" 19, 1 18, 2 11}]",19,0,18,11,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kai.brandes@otto.de]",49.0,"[{""other"" 19, 1 18, 2 12}]",19,0,18,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-03-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",50.0,"[{""other"" 19, 1 19, 2 12}]",19,0,19,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-03-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",53.0,"[{""other"" 19, 1 22, 2 12}]",19,0,22,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",54.0,"[{""other"" 19, 1 23, 2 12}]",19,0,23,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-04-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",57.0,"[{""other"" 19, 1 26, 2 12}]",19,0,26,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",58.0,"[{""other"" 19, 1 27, 2 12}]",19,0,27,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-05-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",59.0,"[{""other"" 19, 1 28, 2 12}]",19,0,28,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-05-31,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[chstamm@gmail.com, chstamm@gmail.com, chstamm@gmail.com, chstamm@gmail.com, christian.stamm@otto.de, chstamm@gmail.com]",65.0,"[{""other"" 24, 1 29, 2 12}]",24,0,29,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[christian.betz@performance-media.de, christian.betz@performance-media.de, christian.betz@performance-media.de]",68.0,"[{""other"" 27, 1 29, 2 12}]",27,0,29,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.betz@performance-media.de]",71.0,"[{""other"" 28, 1 31, 2 12}]",28,0,31,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.betz@performance-media.de]",72.0,"[{""other"" 29, 1 31, 2 12}]",29,0,31,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-04,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[chstamm@gmail.com, christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",77.0,"[{""other"" 30, 1 35, 2 12}]",30,0,35,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, chstamm@gmail.com]",79.0,"[{""other"" 31, 1 36, 2 12}]",31,0,36,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",80.0,"[{""other"" 31, 1 37, 2 12}]",31,0,37,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chstamm@gmail.com, chstamm@gmail.com]",82.0,"[{""other"" 33, 1 37, 2 12}]",33,0,37,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.betz@performance-media.de]",83.0,"[{""other"" 34, 1 37, 2 12}]",34,0,37,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chstamm@gmail.com, chstamm@gmail.com]",85.0,"[{""other"" 36, 1 37, 2 12}]",36,0,37,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de]",87.0,"[{""other"" 36, 1 39, 2 12}]",36,0,39,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-07-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de]",89.0,"[{""other"" 36, 1 41, 2 12}]",36,0,41,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",90.0,"[{""other"" 36, 1 42, 2 12}]",36,0,42,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-11-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[manan.bharara@gmail.com, manan.bharara@gmail.com]",92.0,"[{""other"" 38, 1 42, 2 12}]",38,0,42,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[manan.bharara@gmail.com]",93.0,"[{""other"" 39, 1 42, 2 12}]",39,0,42,12,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-11-24,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[manan.bharara@gmail.com, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",98.0,"[{""other"" 40, 1 42, 2 16}]",40,0,42,16,0,0
+Clojure,https://github.com/otto-de/tesla-microservice,2015-11-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tmangner@inoxio.de, tmangner@inoxio.de, tmangner@inoxio.de]",101.0,"[{""other"" 40, 1 42, 2 16, 4 3}]",40,0,42,16,0,3
+Clojure,https://github.com/otto-de/tesla-microservice,2015-11-26,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[tmangner@inoxio.de, tmangner@inoxio.de, tmangner@inoxio.de, tmangner@inoxio.de, tmangner@inoxio.de, tmangner@inoxio.de]",107.0,"[{""other"" 40, 1 42, 2 16, 4 9}]",40,0,42,16,0,9
+Clojure,https://github.com/otto-de/tesla-microservice,2015-11-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tmangner@inoxio.de]",108.0,"[{""other"" 40, 1 42, 2 16, 4 10}]",40,0,42,16,0,10
+Clojure,https://github.com/otto-de/tesla-microservice,2016-01-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tesla@dv.otto.de, tesla@dv.otto.de]",110.0,"[{""other"" 40, 1 42, 2 16, 4 10, 3 2}]",40,0,42,16,2,10
+Clojure,https://github.com/otto-de/tesla-microservice,2016-01-21,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de]",115.0,"[{""other"" 40, 1 42, 2 16, 4 10, 3 7}]",40,0,42,16,7,10
+Clojure,https://github.com/otto-de/tesla-microservice,2016-02-02,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, chstamm@gmail.com, happylomin@gmail.com, happylomin@gmail.com]",120.0,"[{""other"" 43, 1 44, 2 16, 4 10, 3 7}]",43,0,44,16,7,10
+Clojure,https://github.com/otto-de/tesla-microservice,2016-02-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tmangner@inoxio.de, tmangner@inoxio.de]",122.0,"[{""other"" 43, 1 44, 2 16, 4 12, 3 7}]",43,0,44,16,7,12
+Clojure,https://github.com/otto-de/tesla-microservice,2016-04-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tmangner@inoxio.de, tmangner@inoxio.de, tmangner@inoxio.de, tmangner@inoxio.de]",126.0,"[{""other"" 43, 1 44, 2 16, 4 16, 3 7}]",43,0,44,16,7,16
+Clojure,https://github.com/otto-de/tesla-microservice,2016-06-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de]",130.0,"[{""other"" 43, 1 44, 2 16, 4 16, 3 11}]",43,0,44,16,11,16
+Clojure,https://github.com/otto-de/tesla-microservice,2016-06-15,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[carl.duevel@holisticon.de, carl.duevel@holisticon.de, tmangner@inoxio.de, tesla@dv.otto.de]",134.0,"[{""other"" 45, 1 44, 2 16, 4 17, 3 12}]",45,0,44,16,12,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hackbert@users.noreply.github.com]",135.0,"[{""other"" 46, 1 44, 2 16, 4 17, 3 12}]",46,0,44,16,12,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-07-19,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de]",141.0,"[{""other"" 46, 1 44, 2 16, 4 17, 3 18}]",46,0,44,16,18,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-07-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[a.steffan@contentreich.de]",142.0,"[{""other"" 47, 1 44, 2 16, 4 17, 3 18}]",47,0,44,16,18,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-07-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[danielschruhl@gmail.com]",143.0,"[{""other"" 48, 1 44, 2 16, 4 17, 3 18}]",48,0,44,16,18,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-07-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[istanke@thoughtworks.com]",144.0,"[{""other"" 49, 1 44, 2 16, 4 17, 3 18}]",49,0,44,16,18,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[danielschruhl@gmail.com]",145.0,"[{""other"" 50, 1 44, 2 16, 4 17, 3 18}]",50,0,44,16,18,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-08-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de]",148.0,"[{""other"" 50, 1 44, 2 16, 4 17, 3 21}]",50,0,44,16,21,17
+Clojure,https://github.com/otto-de/tesla-microservice,2016-08-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[tmangner@inoxio.de, carl.duevel@holisticon.de]",150.0,"[{""other"" 51, 1 44, 2 16, 4 18, 3 21}]",51,0,44,16,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@alphaone.de]",151.0,"[{""other"" 52, 1 44, 2 16, 4 18, 3 21}]",52,0,44,16,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kai.brandes@otto.de]",152.0,"[{""other"" 52, 1 44, 2 17, 4 18, 3 21}]",52,0,44,17,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stefan.schmidt@otto.de]",153.0,"[{""other"" 53, 1 44, 2 17, 4 18, 3 21}]",53,0,44,17,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-09-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[istanke@thoughtworks.com]",154.0,"[{""other"" 54, 1 44, 2 17, 4 18, 3 21}]",54,0,44,17,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[carl.duevel@holisticon.de]",155.0,"[{""other"" 55, 1 44, 2 17, 4 18, 3 21}]",55,0,44,17,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-10-21,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",170.0,"[{""other"" 55, 1 44, 2 32, 4 18, 3 21}]",55,0,44,32,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-10-24,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",178.0,"[{""other"" 55, 1 44, 2 40, 4 18, 3 21}]",55,0,44,40,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-10-25,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",185.0,"[{""other"" 55, 1 44, 2 47, 4 18, 3 21}]",55,0,44,47,21,18
+Clojure,https://github.com/otto-de/tesla-microservice,2016-10-26,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[tmangner@inoxio.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",191.0,"[{""other"" 55, 1 44, 2 52, 4 19, 3 21}]",55,0,44,52,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2016-10-27,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",201.0,"[{""other"" 55, 1 44, 2 62, 4 19, 3 21}]",55,0,44,62,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2016-10-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[kaibra@users.noreply.github.com, mn@nehlsen-edv.de]",203.0,"[{""other"" 57, 1 44, 2 62, 4 19, 3 21}]",57,0,44,62,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2016-11-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de, kai.brandes@otto.de]",207.0,"[{""other"" 57, 1 44, 2 66, 4 19, 3 21}]",57,0,44,66,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2016-11-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",210.0,"[{""other"" 57, 1 47, 2 66, 4 19, 3 21}]",57,0,47,66,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2017-01-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de]",212.0,"[{""other"" 57, 1 49, 2 66, 4 19, 3 21}]",57,0,49,66,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2017-01-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, matthias.nehlsen@gmail.com]",214.0,"[{""other"" 58, 1 50, 2 66, 4 19, 3 21}]",58,0,50,66,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2017-01-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[carl.duevel@otto.de]",215.0,"[{""other"" 58, 1 50, 2 66, 4 19, 3 21, 0 1}]",58,1,50,66,21,19
+Clojure,https://github.com/otto-de/tesla-microservice,2017-04-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tmangner@inoxio.de, tmangner@inoxio.de]",217.0,"[{""other"" 58, 1 50, 2 66, 4 21, 3 21, 0 1}]",58,1,50,66,21,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",218.0,"[{""other"" 58, 1 51, 2 66, 4 21, 3 21, 0 1}]",58,1,51,66,21,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-05-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[danielschruhl@gmail.com, tjark.smalla@otto.de]",220.0,"[{""other"" 60, 1 51, 2 66, 4 21, 3 21, 0 1}]",60,1,51,66,21,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-05-17,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[tjark.smalla@otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de, christian.stamm@otto.de, danielschruhl@gmail.com]",225.0,"[{""other"" 64, 1 52, 2 66, 4 21, 3 21, 0 1}]",64,1,52,66,21,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tjark.smalla@otto.de]",226.0,"[{""other"" 65, 1 52, 2 66, 4 21, 3 21, 0 1}]",65,1,52,66,21,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-06-19,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, tesla@dv.otto.de, tesla@dv.otto.de, tesla@dv.otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",236.0,"[{""other"" 65, 1 52, 2 66, 4 21, 3 24, 0 8}]",65,8,52,66,24,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tjark.smalla@otto.de]",237.0,"[{""other"" 66, 1 52, 2 66, 4 21, 3 24, 0 8}]",66,8,52,66,24,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-06-26,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[tesla@dv.otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de]",241.0,"[{""other"" 69, 1 52, 2 66, 4 21, 3 25, 0 8}]",69,8,52,66,25,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-06-27,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[tjark.smalla@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",244.0,"[{""other"" 70, 1 52, 2 66, 4 21, 3 25, 0 10}]",70,10,52,66,25,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-07-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[tjark.smalla@otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de]",248.0,"[{""other"" 74, 1 52, 2 66, 4 21, 3 25, 0 10}]",74,10,52,66,25,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-07-06,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de, tjark.smalla@otto.de]",255.0,"[{""other"" 78, 1 52, 2 66, 4 21, 3 25, 0 13}]",78,13,52,66,25,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-07-11,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, tesla@dv.otto.de]",258.0,"[{""other"" 78, 1 52, 2 66, 4 21, 3 26, 0 15}]",78,15,52,66,26,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-07-12,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, daniel.rolfes@otto.de]",261.0,"[{""other"" 79, 1 52, 2 66, 4 21, 3 26, 0 17}]",79,17,52,66,26,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-07-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",264.0,"[{""other"" 79, 1 52, 2 66, 4 21, 3 26, 0 20}]",79,20,52,66,26,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-07-31,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, tjark.smalla@otto.de]",267.0,"[{""other"" 80, 1 52, 2 66, 4 21, 3 26, 0 22}]",80,22,52,66,26,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-08-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, tjark.smalla@otto.de]",269.0,"[{""other"" 81, 1 53, 2 66, 4 21, 3 26, 0 22}]",81,22,53,66,26,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-08-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[carl.duevel@otto.de]",270.0,"[{""other"" 81, 1 53, 2 66, 4 21, 3 26, 0 23}]",81,23,53,66,26,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-08-08,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",275.0,"[{""other"" 81, 1 53, 2 66, 4 21, 3 26, 0 28}]",81,28,53,66,26,21
+Clojure,https://github.com/otto-de/tesla-microservice,2017-09-04,10,4,"#tech.v3.dataset.column<string>[10]
+:email
+[hackbert@users.noreply.github.com, danielschruhl@gmail.com, danielschruhl@gmail.com, carl.duevel@otto.de, carl.duevel@otto.de, tmangner@inoxio.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",285.0,"[{""other"" 84, 1 53, 2 66, 4 22, 3 26, 0 34}]",84,34,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-09-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",288.0,"[{""other"" 84, 1 53, 2 66, 4 22, 3 26, 0 37}]",84,37,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-10-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",291.0,"[{""other"" 84, 1 53, 2 66, 4 22, 3 26, 0 40}]",84,40,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-11-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[tjark.smalla@gmx.de, tjark.smalla@gmx.de, tjark.smalla@gmx.de]",294.0,"[{""other"" 87, 1 53, 2 66, 4 22, 3 26, 0 40}]",87,40,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-11-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",297.0,"[{""other"" 87, 1 53, 2 66, 4 22, 3 26, 0 43}]",87,43,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[carl.duevel@otto.de]",298.0,"[{""other"" 87, 1 53, 2 66, 4 22, 3 26, 0 44}]",87,44,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-12-04,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",306.0,"[{""other"" 87, 1 53, 2 66, 4 22, 3 26, 0 52}]",87,52,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-12-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",310.0,"[{""other"" 87, 1 53, 2 66, 4 22, 3 26, 0 56}]",87,56,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[carl.duevel@otto.de]",311.0,"[{""other"" 87, 1 53, 2 66, 4 22, 3 26, 0 57}]",87,57,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-12-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",315.0,"[{""other"" 87, 1 53, 2 66, 4 22, 3 26, 0 61}]",87,61,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2017-12-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[daniel.rolfes@otto.de, daniel.rolfes@otto.de, daniel.rolfes@otto.de]",318.0,"[{""other"" 90, 1 53, 2 66, 4 22, 3 26, 0 61}]",90,61,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-01-04,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",328.0,"[{""other"" 90, 1 53, 2 66, 4 22, 3 26, 0 71}]",90,71,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-01-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",331.0,"[{""other"" 90, 1 53, 2 66, 4 22, 3 26, 0 74}]",90,74,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-02-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[daniel.rolfes@otto.de, daniel.rolfes@otto.de, florian.weyandt@otto.de]",334.0,"[{""other"" 93, 1 53, 2 66, 4 22, 3 26, 0 74}]",93,74,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-02-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",340.0,"[{""other"" 93, 1 53, 2 66, 4 22, 3 26, 0 80}]",93,80,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-02-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de, carl.duevel@otto.de]",345.0,"[{""other"" 93, 1 53, 2 66, 4 22, 3 26, 0 85}]",93,85,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[danielschruhl@gmail.com]",346.0,"[{""other"" 94, 1 53, 2 66, 4 22, 3 26, 0 85}]",94,85,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-04-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@alphaone.de]",347.0,"[{""other"" 95, 1 53, 2 66, 4 22, 3 26, 0 85}]",95,85,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-06-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com]",352.0,"[{""other"" 100, 1 53, 2 66, 4 22, 3 26, 0 85}]",100,85,53,66,26,22
+Clojure,https://github.com/otto-de/tesla-microservice,2018-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tmangner@inoxio.de]",353.0,"[{""other"" 100, 1 53, 2 66, 4 23, 3 26, 0 85}]",100,85,53,66,26,23
+Clojure,https://github.com/otto-de/tesla-microservice,2018-08-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[tmangner@inoxio.de, tmangner@inoxio.de]",355.0,"[{""other"" 100, 1 53, 2 66, 4 25, 3 26, 0 85}]",100,85,53,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2018-11-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",359.0,"[{""other"" 100, 1 57, 2 66, 4 25, 3 26, 0 85}]",100,85,57,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2019-09-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de]",361.0,"[{""other"" 100, 1 59, 2 66, 4 25, 3 26, 0 85}]",100,85,59,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-01-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com]",364.0,"[{""other"" 103, 1 59, 2 66, 4 25, 3 26, 0 85}]",103,85,59,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[daniel.rolfes@otto.de]",365.0,"[{""other"" 104, 1 59, 2 66, 4 25, 3 26, 0 85}]",104,85,59,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[daniel.rolfes@otto.de]",366.0,"[{""other"" 105, 1 59, 2 66, 4 25, 3 26, 0 85}]",105,85,59,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-02-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",369.0,"[{""other"" 105, 1 62, 2 66, 4 25, 3 26, 0 85}]",105,85,62,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.stamm@otto.de]",370.0,"[{""other"" 105, 1 63, 2 66, 4 25, 3 26, 0 85}]",105,85,63,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-03-23,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",375.0,"[{""other"" 105, 1 68, 2 66, 4 25, 3 26, 0 85}]",105,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[daniel.rolfes@otto.de]",376.0,"[{""other"" 106, 1 68, 2 66, 4 25, 3 26, 0 85}]",106,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-03-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[daniel.rolfes@otto.de, daniel.rolfes@otto.de, daniel.rolfes@otto.de]",379.0,"[{""other"" 109, 1 68, 2 66, 4 25, 3 26, 0 85}]",109,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[daniel.rolfes@otto.de, daniel.rolfes@otto.de]",381.0,"[{""other"" 111, 1 68, 2 66, 4 25, 3 26, 0 85}]",111,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2020-04-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[daniel.rolfes@otto.de, daniel.rolfes@otto.de]",383.0,"[{""other"" 113, 1 68, 2 66, 4 25, 3 26, 0 85}]",113,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2021-01-23,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com]",388.0,"[{""other"" 118, 1 68, 2 66, 4 25, 3 26, 0 85}]",118,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2021-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[c.a.duevel@gmail.com]",389.0,"[{""other"" 119, 1 68, 2 66, 4 25, 3 26, 0 85}]",119,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2021-02-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[c.a.duevel@gmail.com, c.a.duevel@gmail.com]",391.0,"[{""other"" 121, 1 68, 2 66, 4 25, 3 26, 0 85}]",121,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2021-02-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com]",394.0,"[{""other"" 124, 1 68, 2 66, 4 25, 3 26, 0 85}]",124,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2021-03-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com, c.a.duevel@gmail.com]",399.0,"[{""other"" 129, 1 68, 2 66, 4 25, 3 26, 0 85}]",129,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2022-03-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[43983509+davidmuenchow3141@users.noreply.github.com]",400.0,"[{""other"" 130, 1 68, 2 66, 4 25, 3 26, 0 85}]",130,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2022-03-15,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[daniel.rolfes@otto.de, daniel.rolfes@otto.de, rolfes.daniel@web.de]",403.0,"[{""other"" 133, 1 68, 2 66, 4 25, 3 26, 0 85}]",133,85,68,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2022-11-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[christian.stamm@otto.de, christian.stamm@otto.de, christian.stamm@otto.de]",406.0,"[{""other"" 133, 1 71, 2 66, 4 25, 3 26, 0 85}]",133,85,71,66,26,25
+Clojure,https://github.com/otto-de/tesla-microservice,2023-01-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[paul-vincent.kobow@otto.de, paul-vincent.kobow@otto.de, paul-vincent.kobow@otto.de]",409.0,"[{""other"" 136, 1 71, 2 66, 4 25, 3 26, 0 85}]",136,85,71,66,26,25

@@ -1,0 +1,125 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,xeqi,2012-02-20,3,1,"#{""nmorris@nelsonmorris.net""}",3.0,1
+Clojure,xeqi,2012-02-21,2,1,"#{""nmorris@nelsonmorris.net""}",5.0,1
+Clojure,xeqi,2012-02-27,1,1,"#{""nmorris@nelsonmorris.net""}",6.0,1
+Clojure,xeqi,2012-03-01,2,1,"#{""nmorris@nelsonmorris.net""}",8.0,1
+Clojure,xeqi,2012-03-02,7,1,"#{""nmorris@nelsonmorris.net""}",15.0,1
+Clojure,xeqi,2012-03-03,4,1,"#{""nmorris@nelsonmorris.net""}",19.0,1
+Clojure,xeqi,2012-03-05,7,1,"#{""nmorris@nelsonmorris.net""}",26.0,1
+Clojure,xeqi,2012-03-10,9,1,"#{""nmorris@nelsonmorris.net""}",35.0,1
+Clojure,xeqi,2012-03-16,6,1,"#{""nmorris@nelsonmorris.net""}",41.0,1
+Clojure,xeqi,2012-03-18,2,1,"#{""nmorris@nelsonmorris.net""}",43.0,1
+Clojure,xeqi,2012-03-19,3,1,"#{""nmorris@nelsonmorris.net""}",46.0,1
+Clojure,xeqi,2012-03-20,9,1,"#{""nmorris@nelsonmorris.net""}",55.0,1
+Clojure,xeqi,2012-03-21,3,1,"#{""nmorris@nelsonmorris.net""}",58.0,1
+Clojure,xeqi,2012-03-22,1,1,"#{""nmorris@nelsonmorris.net""}",59.0,1
+Clojure,xeqi,2012-03-23,1,1,"#{""nmorris@nelsonmorris.net""}",60.0,1
+Clojure,xeqi,2012-04-01,7,1,"#{""nmorris@nelsonmorris.net""}",67.0,1
+Clojure,xeqi,2012-05-15,2,1,"#{""willroe@gmail.com""}",69.0,2
+Clojure,xeqi,2012-07-31,9,2,"#{""nmorris@nelsonmorris.net"" ""willroe@gmail.com""}",78.0,2
+Clojure,xeqi,2012-08-07,2,1,"#{""nmorris@nelsonmorris.net""}",80.0,2
+Clojure,xeqi,2012-08-10,11,3,"#{""nmorris@nelsonmorris.net"" ""alex.redington@thinkrelevance.com"" ""gijsstuurman@hotmail.com""}",91.0,4
+Clojure,xeqi,2012-09-18,1,1,"#{""nmorris@nelsonmorris.net""}",92.0,4
+Clojure,xeqi,2012-09-19,3,1,"#{""nmorris@nelsonmorris.net""}",95.0,4
+Clojure,xeqi,2012-12-22,1,1,"#{""travis@copious.com""}",96.0,5
+Clojure,xeqi,2012-12-23,1,1,"#{""nmorris@nelsonmorris.net""}",97.0,5
+Clojure,xeqi,2013-01-09,2,1,"#{""nmorris@nelsonmorris.net""}",99.0,5
+Clojure,xeqi,2013-01-12,4,1,"#{""nmorris@nelsonmorris.net""}",103.0,5
+Clojure,xeqi,2013-01-15,1,1,"#{""nmorris@nelsonmorris.net""}",104.0,5
+Clojure,xeqi,2013-01-16,3,1,"#{""nmorris@nelsonmorris.net""}",107.0,5
+Clojure,xeqi,2013-02-17,2,1,"#{""travis@copious.com""}",109.0,5
+Clojure,xeqi,2013-02-19,7,1,"#{""nmorris@nelsonmorris.net""}",116.0,5
+Clojure,xeqi,2013-03-24,2,1,"#{""nmorris@nelsonmorris.net""}",118.0,5
+Clojure,xeqi,2013-03-31,2,1,"#{""glenjamin@gmail.com""}",120.0,6
+Clojure,xeqi,2013-04-04,2,1,"#{""nmorris@nelsonmorris.net""}",122.0,6
+Clojure,xeqi,2013-05-01,2,1,"#{""glenjamin@gmail.com""}",124.0,6
+Clojure,xeqi,2013-05-07,2,1,"#{""glenjamin@gmail.com""}",126.0,6
+Clojure,xeqi,2013-05-08,1,1,"#{""glenjamin@gmail.com""}",127.0,6
+Clojure,xeqi,2013-05-09,1,1,"#{""glenjamin@gmail.com""}",128.0,6
+Clojure,xeqi,2013-05-12,2,1,"#{""glenjamin@gmail.com""}",130.0,6
+Clojure,xeqi,2013-05-14,1,1,"#{""glenjamin@gmail.com""}",131.0,6
+Clojure,xeqi,2013-05-29,6,1,"#{""nmorris@nelsonmorris.net""}",137.0,6
+Clojure,xeqi,2013-06-12,1,1,"#{""glenjamin@gmail.com""}",138.0,6
+Clojure,xeqi,2013-06-21,2,1,"#{""nmorris@nelsonmorris.net""}",140.0,6
+Clojure,xeqi,2013-07-02,1,1,"#{""glenjamin@gmail.com""}",141.0,6
+Clojure,xeqi,2013-07-10,1,1,"#{""glenjamin@gmail.com""}",142.0,6
+Clojure,xeqi,2013-08-26,1,1,"#{""silvia.schreier@innoq.com""}",143.0,7
+Clojure,xeqi,2013-11-03,1,1,"#{""glenjamin@gmail.com""}",144.0,7
+Clojure,xeqi,2013-11-26,2,2,"#{""tobias.bayer@inovex.de"" ""nmorris@nelsonmorris.net""}",146.0,8
+Clojure,xeqi,2013-11-27,3,2,"#{""tobayer@googlemail.com"" ""glenjamin@gmail.com""}",149.0,9
+Clojure,xeqi,2013-12-03,1,1,"#{""Nathan.Clark@nasa.gov""}",150.0,10
+Clojure,xeqi,2013-12-04,3,1,"#{""Nathan.Clark@nasa.gov""}",153.0,10
+Clojure,xeqi,2013-12-05,1,1,"#{""Nathan.Clark@tokenshift.com""}",154.0,11
+Clojure,xeqi,2013-12-19,1,1,"#{""glenjamin@gmail.com""}",155.0,11
+Clojure,xeqi,2014-01-25,2,1,"#{""nmorris@nelsonmorris.net""}",157.0,11
+Clojure,xeqi,2014-04-16,1,1,"#{""frozenlock@gmail.com""}",158.0,12
+Clojure,xeqi,2014-04-30,2,1,"#{""frozenlock@gmail.com""}",160.0,12
+Clojure,xeqi,2014-05-02,2,1,"#{""roland@firstlinq.com""}",162.0,13
+Clojure,xeqi,2014-05-03,2,2,"#{""glenjamin@gmail.com"" ""roland@firstlinq.com""}",164.0,13
+Clojure,xeqi,2014-05-11,3,1,"#{""glenjamin@gmail.com""}",167.0,13
+Clojure,xeqi,2014-05-15,2,1,"#{""glenjamin@gmail.com""}",169.0,13
+Clojure,xeqi,2014-05-19,1,1,"#{""glenjamin@gmail.com""}",170.0,13
+Clojure,xeqi,2014-05-20,1,1,"#{""glen.mailer@bskyb.com""}",171.0,14
+Clojure,xeqi,2014-05-29,2,2,"#{""glenjamin@gmail.com"" ""philip.potter@digital.cabinet-office.gov.uk""}",173.0,15
+Clojure,xeqi,2014-06-08,4,1,"#{""glenjamin@gmail.com""}",177.0,15
+Clojure,xeqi,2014-06-09,2,1,"#{""glenjamin@gmail.com""}",179.0,15
+Clojure,xeqi,2014-09-06,3,1,"#{""nmorris@nelsonmorris.net""}",182.0,15
+Clojure,xeqi,2014-10-12,1,1,"#{""john.a.cowie@gmail.com""}",183.0,16
+Clojure,xeqi,2014-10-29,1,1,"#{""john.a.cowie@gmail.com""}",184.0,16
+Clojure,xeqi,2014-10-30,3,1,"#{""john.a.cowie@gmail.com""}",187.0,16
+Clojure,xeqi,2014-11-08,2,1,"#{""glenjamin@gmail.com""}",189.0,16
+Clojure,xeqi,2014-11-27,4,1,"#{""glenjamin@gmail.com""}",193.0,16
+Clojure,xeqi,2014-12-03,3,1,"#{""glenjamin@gmail.com""}",196.0,16
+Clojure,xeqi,2014-12-14,5,3,"#{""glenjamin@gmail.com"" ""jay@patel.org.in"" ""sean@seanhussey.com""}",201.0,18
+Clojure,xeqi,2015-01-10,1,1,"#{""glenjamin@gmail.com""}",202.0,18
+Clojure,xeqi,2015-04-04,3,2,"#{""glenjamin@gmail.com"" ""thegeez@users.noreply.github.com""}",205.0,19
+Clojure,xeqi,2015-05-03,3,1,"#{""glenjamin@gmail.com""}",208.0,19
+Clojure,xeqi,2015-05-04,9,1,"#{""glenjamin@gmail.com""}",217.0,19
+Clojure,xeqi,2015-08-14,10,2,"#{""glenjamin@gmail.com"" ""cgore@cgore.com""}",227.0,20
+Clojure,xeqi,2015-08-16,5,1,"#{""glenjamin@gmail.com""}",232.0,20
+Clojure,xeqi,2015-08-23,4,1,"#{""glenjamin@gmail.com""}",236.0,20
+Clojure,xeqi,2015-12-01,6,3,"#{""arttukaipiainen@gmail.com"" ""glenjamin@gmail.com"" ""phillmv@okayfail.com""}",242.0,22
+Clojure,xeqi,2016-01-14,1,1,"#{""glenjamin@gmail.com""}",243.0,22
+Clojure,xeqi,2016-04-01,5,2,"#{""glenjamin@gmail.com"" ""chris.gore@climate.com""}",248.0,23
+Clojure,xeqi,2016-04-02,2,1,"#{""glenjamin@gmail.com""}",250.0,23
+Clojure,xeqi,2016-04-05,1,1,"#{""chris.gore@climate.com""}",251.0,23
+Clojure,xeqi,2016-04-06,1,1,"#{""glenjamin@gmail.com""}",252.0,23
+Clojure,xeqi,2016-04-11,3,2,"#{""ayato.skycrawlers@gmail.com"" ""glenjamin@gmail.com""}",255.0,24
+Clojure,xeqi,2016-04-12,6,2,"#{""glenjamin@gmail.com"" ""chris.gore@climate.com""}",261.0,24
+Clojure,xeqi,2016-06-03,1,1,"#{""jnape09@gmail.com""}",262.0,25
+Clojure,xeqi,2016-06-04,1,1,"#{""glenjamin@gmail.com""}",263.0,25
+Clojure,xeqi,2016-06-05,1,1,"#{""glenjamin@gmail.com""}",264.0,25
+Clojure,xeqi,2016-06-06,2,1,"#{""jbswetnam@gmail.com""}",266.0,26
+Clojure,xeqi,2016-06-11,1,1,"#{""jbswetnam@gmail.com""}",267.0,26
+Clojure,xeqi,2016-06-12,2,1,"#{""glenjamin@gmail.com""}",269.0,26
+Clojure,xeqi,2016-09-07,5,2,"#{""glenjamin@gmail.com"" ""asimic@gmail.com""}",274.0,27
+Clojure,xeqi,2016-09-10,2,2,"#{""glenjamin@gmail.com"" ""grzm@seespotcode.net""}",276.0,28
+Clojure,xeqi,2016-10-06,2,2,"#{""glenjamin@gmail.com"" ""chris.gore@climate.com""}",278.0,28
+Clojure,xeqi,2017-01-20,1,1,"#{""daniel@solanogomez.org""}",279.0,29
+Clojure,xeqi,2017-01-21,1,1,"#{""glenjamin@gmail.com""}",280.0,29
+Clojure,xeqi,2017-09-16,1,1,"#{""desk@danielcompton.net""}",281.0,30
+Clojure,xeqi,2017-09-17,2,2,"#{""glenjamin@gmail.com"" ""desk@danielcompton.net""}",283.0,30
+Clojure,xeqi,2017-09-18,1,1,"#{""desk@danielcompton.net""}",284.0,30
+Clojure,xeqi,2017-09-21,4,1,"#{""desk@danielcompton.net""}",288.0,30
+Clojure,xeqi,2017-09-23,6,1,"#{""desk@danielcompton.net""}",294.0,30
+Clojure,xeqi,2017-09-25,2,1,"#{""desk@danielcompton.net""}",296.0,30
+Clojure,xeqi,2017-11-12,1,1,"#{""desk@danielcompton.net""}",297.0,30
+Clojure,xeqi,2018-03-13,1,1,"#{""lukas.rychtecky@gmail.com""}",298.0,31
+Clojure,xeqi,2018-03-14,1,1,"#{""desk@danielcompton.net""}",299.0,31
+Clojure,xeqi,2018-05-04,9,1,"#{""desk@danielcompton.net""}",308.0,31
+Clojure,xeqi,2018-05-07,1,1,"#{""desk@danielcompton.net""}",309.0,31
+Clojure,xeqi,2018-05-09,1,1,"#{""lukas.rychtecky@gmail.com""}",310.0,31
+Clojure,xeqi,2018-05-10,1,1,"#{""desk@danielcompton.net""}",311.0,31
+Clojure,xeqi,2018-05-31,5,1,"#{""desk@danielcompton.net""}",316.0,31
+Clojure,xeqi,2018-06-07,5,1,"#{""desk@danielcompton.net""}",321.0,31
+Clojure,xeqi,2018-06-09,4,1,"#{""desk@danielcompton.net""}",325.0,31
+Clojure,xeqi,2019-01-21,2,1,"#{""desk@danielcompton.net""}",327.0,31
+Clojure,xeqi,2019-01-22,1,1,"#{""desk@danielcompton.net""}",328.0,31
+Clojure,xeqi,2019-07-11,8,1,"#{""desk@danielcompton.net""}",336.0,31
+Clojure,xeqi,2019-11-18,5,1,"#{""desk@danielcompton.net""}",341.0,31
+Clojure,xeqi,2020-03-30,3,1,"#{""desk@danielcompton.net""}",344.0,31
+Clojure,xeqi,2021-08-18,1,1,"#{""desk@danielcompton.net""}",345.0,31
+Clojure,xeqi,2021-12-08,2,1,"#{""desk@danielcompton.net""}",347.0,31
+Clojure,xeqi,2022-05-06,2,1,"#{""desk@danielcompton.net""}",349.0,31
+Clojure,xeqi,2023-11-13,4,2,"#{""desk@danielcompton.net"" ""frozenlock@gmail.com""}",353.0,31
+Clojure,xeqi,2023-11-15,1,1,"#{""desk@danielcompton.net""}",354.0,31

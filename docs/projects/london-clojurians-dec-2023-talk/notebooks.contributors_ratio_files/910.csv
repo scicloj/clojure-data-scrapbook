@@ -1,0 +1,439 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/dvcrn/proton,2015-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",2.0,[{0 2}],0,2,0,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-11-25,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",8.0,[{0 8}],0,8,0,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-11-26,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-11-27,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",24.0,[{0 24}],0,24,0,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",25.0,[{0 25}],0,25,0,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-11-30,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",31.0,[{0 31}],0,31,0,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-01,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",41.0,"[{0 39, 1 2}]",0,39,2,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-02,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[me@dave.cx, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",54.0,"[{0 51, 1 3}]",0,51,3,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx]",57.0,"[{0 54, 1 3}]",0,54,3,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",58.0,"[{0 55, 1 3}]",0,55,3,0,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-07,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[me@dave.cx, spencerlyon2@gmail.com, spencerlyon2@gmail.com, me@dave.cx, me@dave.cx]",63.0,"[{0 58, 1 3, 2 2}]",0,58,3,2,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-08,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",74.0,"[{0 69, 1 3, 2 2}]",0,69,3,2,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-09,13,3,"#tech.v3.dataset.column<string>[13]
+:email
+[spencerlyon2@gmail.com, spencerlyon2@gmail.com, info@zilence.net, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",87.0,"[{0 79, 1 3, 2 4, ""other"" 1}]",1,79,3,4,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-10,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",100.0,"[{0 92, 1 3, 2 4, ""other"" 1}]",1,92,3,4,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-11,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",109.0,"[{0 97, 1 7, 2 4, ""other"" 1}]",1,97,7,4,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[spencerlyon2@gmail.com]",110.0,"[{0 97, 1 7, 2 5, ""other"" 1}]",1,97,7,5,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",111.0,"[{0 98, 1 7, 2 5, ""other"" 1}]",1,98,7,5,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-14,16,3,"#tech.v3.dataset.column<string>[16]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, srijs@airpost.net, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",127.0,"[{0 110, 1 10, 2 5, ""other"" 2}]",2,110,10,5,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-15,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",136.0,"[{0 117, 1 12, 2 5, ""other"" 2}]",2,117,12,5,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-16,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[me@dave.cx, spencerlyon2@gmail.com, me@dave.cx, me@dave.cx]",140.0,"[{0 120, 1 12, 2 6, ""other"" 2}]",2,120,12,6,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-17,18,3,"#tech.v3.dataset.column<string>[18]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, spencerlyon2@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",158.0,"[{0 136, 1 13, 2 7, ""other"" 2}]",2,136,13,7,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-18,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[me@dave.cx, me@dave.cx, spencerlyon2@gmail.com, spencerlyon2@gmail.com, buzhordenis@gmail.com, spencerlyon2@gmail.com, spencerlyon2@gmail.com, spencerlyon2@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx]",169.0,"[{0 141, 1 14, 2 12, ""other"" 2}]",2,141,14,12,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-19,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[spencerlyon2@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",176.0,"[{0 147, 1 14, 2 13, ""other"" 2}]",2,147,14,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",177.0,"[{0 148, 1 14, 2 13, ""other"" 2}]",2,148,14,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",178.0,"[{0 149, 1 14, 2 13, ""other"" 2}]",2,149,14,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[buzhordenis@gmail.com, me@dave.cx, buzhordenis@gmail.com]",181.0,"[{0 150, 1 16, 2 13, ""other"" 2}]",2,150,16,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-23,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",187.0,"[{0 155, 1 17, 2 13, ""other"" 2}]",2,155,17,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-24,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",193.0,"[{0 159, 1 19, 2 13, ""other"" 2}]",2,159,19,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[buzhordenis@gmail.com, me@dave.cx]",195.0,"[{0 160, 1 20, 2 13, ""other"" 2}]",2,160,20,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",196.0,"[{0 161, 1 20, 2 13, ""other"" 2}]",2,161,20,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",197.0,"[{0 162, 1 20, 2 13, ""other"" 2}]",2,162,20,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-28,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx]",200.0,"[{0 163, 1 22, 2 13, ""other"" 2}]",2,163,22,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, buzhordenis@gmail.com]",204.0,"[{0 164, 1 25, 2 13, ""other"" 2}]",2,164,25,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-30,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, buzhordenis@gmail.com]",209.0,"[{0 166, 1 28, 2 13, ""other"" 2}]",2,166,28,13,0,0
+Clojure,https://github.com/dvcrn/proton,2015-12-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, buzhordenis@gmail.com]",211.0,"[{0 167, 1 29, 2 13, ""other"" 2}]",2,167,29,13,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",212.0,"[{0 168, 1 29, 2 13, ""other"" 2}]",2,168,29,13,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",213.0,"[{0 169, 1 29, 2 13, ""other"" 2}]",2,169,29,13,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",214.0,"[{0 170, 1 29, 2 13, ""other"" 2}]",2,170,29,13,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-04,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[me@dave.cx, spencerlyon2@gmail.com, buzhordenis@gmail.com]",217.0,"[{0 171, 1 30, 2 14, ""other"" 2}]",2,171,30,14,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-05,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[buzhordenis@gmail.com, spencerlyon2@gmail.com, spencerlyon2@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx]",223.0,"[{0 174, 1 31, 2 16, ""other"" 2}]",2,174,31,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx]",227.0,"[{0 176, 1 33, 2 16, ""other"" 2}]",2,176,33,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx]",230.0,"[{0 179, 1 33, 2 16, ""other"" 2}]",2,179,33,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",231.0,"[{0 180, 1 33, 2 16, ""other"" 2}]",2,180,33,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-09,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",239.0,"[{0 188, 1 33, 2 16, ""other"" 2}]",2,188,33,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[buzhordenis@gmail.com, me@dave.cx]",241.0,"[{0 189, 1 34, 2 16, ""other"" 2}]",2,189,34,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, buzhordenis@gmail.com]",243.0,"[{0 190, 1 35, 2 16, ""other"" 2}]",2,190,35,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-12,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, buzhordenis@gmail.com]",252.0,"[{0 192, 1 42, 2 16, ""other"" 2}]",2,192,42,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",253.0,"[{0 193, 1 42, 2 16, ""other"" 2}]",2,193,42,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-14,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx]",260.0,"[{0 195, 1 47, 2 16, ""other"" 2}]",2,195,47,16,0,0
+Clojure,https://github.com/dvcrn/proton,2016-01-15,8,4,"#tech.v3.dataset.column<string>[8]
+:email
+[austincrft@gmail.com, spencerlyon2@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",268.0,"[{0 200, 1 48, 2 17, ""other"" 2, 3 1}]",2,200,48,17,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-16,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[spencerlyon2@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",273.0,"[{0 204, 1 48, 2 18, ""other"" 2, 3 1}]",2,204,48,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",274.0,"[{0 205, 1 48, 2 18, ""other"" 2, 3 1}]",2,205,48,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",278.0,"[{0 209, 1 48, 2 18, ""other"" 2, 3 1}]",2,209,48,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-19,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, buzhordenis@gmail.com]",288.0,"[{0 217, 1 50, 2 18, ""other"" 2, 3 1}]",2,217,50,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-20,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",296.0,"[{0 225, 1 50, 2 18, ""other"" 2, 3 1}]",2,225,50,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, buzhordenis@gmail.com]",298.0,"[{0 226, 1 51, 2 18, ""other"" 2, 3 1}]",2,226,51,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-22,17,2,"#tech.v3.dataset.column<string>[17]
+:email
+[me@dave.cx, me@dave.cx, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, buzhordenis@gmail.com, buzhordenis@gmail.com]",315.0,"[{0 230, 1 64, 2 18, ""other"" 2, 3 1}]",2,230,64,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-23,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[buzhordenis@gmail.com, me@dave.cx, me@dave.cx]",318.0,"[{0 232, 1 65, 2 18, ""other"" 2, 3 1}]",2,232,65,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx]",321.0,"[{0 235, 1 65, 2 18, ""other"" 2, 3 1}]",2,235,65,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",323.0,"[{0 237, 1 65, 2 18, ""other"" 2, 3 1}]",2,237,65,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[austin.craft@tylertech.com, austin.craft@tylertech.com, buzhordenis@gmail.com]",326.0,"[{0 237, 1 66, 2 18, ""other"" 4, 3 1}]",4,237,66,18,1,0
+Clojure,https://github.com/dvcrn/proton,2016-01-27,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[austincrft@gmail.com, austincrft@gmail.com, austin.craft@tylertech.com, austin.craft@tylertech.com, me@dave.cx]",331.0,"[{0 238, 1 66, 2 18, ""other"" 6, 3 3}]",6,238,66,18,3,0
+Clojure,https://github.com/dvcrn/proton,2016-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[austin.craft@tylertech.com]",332.0,"[{0 238, 1 66, 2 18, ""other"" 7, 3 3}]",7,238,66,18,3,0
+Clojure,https://github.com/dvcrn/proton,2016-01-29,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[austincrft@gmail.com, austincrft@gmail.com, austincrft@gmail.com, buzhordenis@gmail.com, me@dave.cx]",337.0,"[{0 239, 1 67, 2 18, ""other"" 7, 3 6}]",7,239,67,18,6,0
+Clojure,https://github.com/dvcrn/proton,2016-01-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[austincrft@gmail.com, me@dave.cx]",339.0,"[{0 240, 1 67, 2 18, ""other"" 7, 3 7}]",7,240,67,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",341.0,"[{0 242, 1 67, 2 18, ""other"" 7, 3 7}]",7,242,67,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-02,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx]",346.0,"[{0 245, 1 69, 2 18, ""other"" 7, 3 7}]",7,245,69,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[buzhordenis@gmail.com, me@dave.cx, me@dave.cx]",349.0,"[{0 247, 1 70, 2 18, ""other"" 7, 3 7}]",7,247,70,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[me@dave.cx, me@dave.cx, buzhordenis@gmail.com]",352.0,"[{0 249, 1 71, 2 18, ""other"" 7, 3 7}]",7,249,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",354.0,"[{0 251, 1 71, 2 18, ""other"" 7, 3 7}]",7,251,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",355.0,"[{0 252, 1 71, 2 18, ""other"" 7, 3 7}]",7,252,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",356.0,"[{0 253, 1 71, 2 18, ""other"" 7, 3 7}]",7,253,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dlpolanco05@gmail.com, dlpolanco05@gmail.com]",358.0,"[{0 253, 1 71, 2 18, ""other"" 9, 3 7}]",9,253,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-11,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[jessejanderson@gmail.com, me@dave.cx, me@dave.cx]",361.0,"[{0 255, 1 71, 2 18, ""other"" 10, 3 7}]",10,255,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-12,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[jessejanderson@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, jessejanderson@gmail.com, jessejanderson@gmail.com, me@dave.cx, me@dave.cx]",369.0,"[{0 260, 1 71, 2 18, ""other"" 13, 3 7}]",13,260,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-13,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[me@dave.cx, me@dave.cx, jessejanderson@gmail.com, me@dave.cx, robby.oconnor@gmail.com, me@dave.cx]",375.0,"[{0 264, 1 71, 2 18, ""other"" 15, 3 7}]",15,264,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-14,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[dlpolanco05@gmail.com, garrett@gingerlabs.com, me@dave.cx, garrett@gingerlabs.com, me@dave.cx]",380.0,"[{0 266, 1 71, 2 18, ""other"" 18, 3 7}]",18,266,71,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-15,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx, buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx, buzhordenis@gmail.com, me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",392.0,"[{0 275, 1 74, 2 18, ""other"" 18, 3 7}]",18,275,74,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",393.0,"[{0 276, 1 74, 2 18, ""other"" 18, 3 7}]",18,276,74,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",395.0,"[{0 278, 1 74, 2 18, ""other"" 18, 3 7}]",18,278,74,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-18,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[buzhordenis@gmail.com, lknechtli@azavea.com, me@dave.cx, lknechtli@azavea.com]",399.0,"[{0 279, 1 75, 2 18, ""other"" 20, 3 7}]",20,279,75,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, me@dave.cx]",402.0,"[{0 280, 1 77, 2 18, ""other"" 20, 3 7}]",20,280,77,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",403.0,"[{0 281, 1 77, 2 18, ""other"" 20, 3 7}]",20,281,77,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dlpolanco05@gmail.com, me@dave.cx]",405.0,"[{0 282, 1 77, 2 18, ""other"" 21, 3 7}]",21,282,77,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com, buzhordenis@gmail.com]",408.0,"[{0 282, 1 80, 2 18, ""other"" 21, 3 7}]",21,282,80,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",409.0,"[{0 283, 1 80, 2 18, ""other"" 21, 3 7}]",21,283,80,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",411.0,"[{0 285, 1 80, 2 18, ""other"" 21, 3 7}]",21,285,80,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",413.0,"[{0 287, 1 80, 2 18, ""other"" 21, 3 7}]",21,287,80,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",414.0,"[{0 288, 1 80, 2 18, ""other"" 21, 3 7}]",21,288,80,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-02-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buzhordenis@gmail.com]",415.0,"[{0 288, 1 81, 2 18, ""other"" 21, 3 7}]",21,288,81,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",416.0,"[{0 289, 1 81, 2 18, ""other"" 21, 3 7}]",21,289,81,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[buzhordenis@gmail.com, me@dave.cx]",418.0,"[{0 290, 1 82, 2 18, ""other"" 21, 3 7}]",21,290,82,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",420.0,"[{0 292, 1 82, 2 18, ""other"" 21, 3 7}]",21,292,82,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",421.0,"[{0 293, 1 82, 2 18, ""other"" 21, 3 7}]",21,293,82,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",423.0,"[{0 295, 1 82, 2 18, ""other"" 21, 3 7}]",21,295,82,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[buzhordenis@gmail.com, me@dave.cx]",425.0,"[{0 296, 1 83, 2 18, ""other"" 21, 3 7}]",21,296,83,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",426.0,"[{0 297, 1 83, 2 18, ""other"" 21, 3 7}]",21,297,83,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, buzhordenis@gmail.com]",428.0,"[{0 298, 1 84, 2 18, ""other"" 21, 3 7}]",21,298,84,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",429.0,"[{0 299, 1 84, 2 18, ""other"" 21, 3 7}]",21,299,84,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",430.0,"[{0 300, 1 84, 2 18, ""other"" 21, 3 7}]",21,300,84,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eric.fode@autodesk.com]",431.0,"[{0 300, 1 84, 2 18, ""other"" 22, 3 7}]",22,300,84,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@zilence.net]",432.0,"[{0 300, 1 84, 2 18, ""other"" 23, 3 7}]",23,300,84,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-04-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[henk.exe@gmail.com, henk.exe@gmail.com]",434.0,"[{0 300, 1 84, 2 18, ""other"" 25, 3 7}]",25,300,84,18,7,0
+Clojure,https://github.com/dvcrn/proton,2016-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[christian.wesselhoeft@gmail.com]",435.0,"[{0 300, 1 84, 2 18, ""other"" 25, 3 7, 4 1}]",25,300,84,18,7,1
+Clojure,https://github.com/dvcrn/proton,2016-04-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[mattyb1000@gmail.com, christian.wesselhoeft@gmail.com, christian.wesselhoeft@gmail.com, christian.wesselhoeft@gmail.com]",439.0,"[{0 300, 1 84, 2 18, ""other"" 26, 3 7, 4 4}]",26,300,84,18,7,4
+Clojure,https://github.com/dvcrn/proton,2016-04-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[me@dave.cx, me@dave.cx, me@dave.cx, me@dave.cx]",443.0,"[{0 304, 1 84, 2 18, ""other"" 26, 3 7, 4 4}]",26,304,84,18,7,4
+Clojure,https://github.com/dvcrn/proton,2016-04-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[christian.wesselhoeft@gmail.com, me@dave.cx]",445.0,"[{0 305, 1 84, 2 18, ""other"" 26, 3 7, 4 5}]",26,305,84,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-04-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",446.0,"[{0 306, 1 84, 2 18, ""other"" 26, 3 7, 4 5}]",26,306,84,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-04-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buzhordenis@gmail.com]",447.0,"[{0 306, 1 85, 2 18, ""other"" 26, 3 7, 4 5}]",26,306,85,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",449.0,"[{0 308, 1 85, 2 18, ""other"" 26, 3 7, 4 5}]",26,308,85,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-06-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[buzhordenis@gmail.com, paulombcosta@gmail.com]",451.0,"[{0 308, 1 86, 2 18, ""other"" 27, 3 7, 4 5}]",27,308,86,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[robby.oconnor@gmail.com]",452.0,"[{0 308, 1 86, 2 18, ""other"" 28, 3 7, 4 5}]",28,308,86,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-06-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[buzhordenis@gmail.com, buzhordenis@gmail.com]",454.0,"[{0 308, 1 88, 2 18, ""other"" 28, 3 7, 4 5}]",28,308,88,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-07-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, me@dave.cx]",456.0,"[{0 310, 1 88, 2 18, ""other"" 28, 3 7, 4 5}]",28,310,88,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tim.g.greene@gmail.com]",457.0,"[{0 310, 1 88, 2 18, ""other"" 29, 3 7, 4 5}]",29,310,88,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tim.g.greene@gmail.com]",458.0,"[{0 310, 1 88, 2 18, ""other"" 30, 3 7, 4 5}]",30,310,88,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buzhordenis@gmail.com]",459.0,"[{0 310, 1 89, 2 18, ""other"" 30, 3 7, 4 5}]",30,310,89,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-08-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mendelowski@gmail.com]",460.0,"[{0 310, 1 89, 2 18, ""other"" 31, 3 7, 4 5}]",31,310,89,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-08-24,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[me@dave.cx, me@dave.cx, buzhordenis@gmail.com, me@dave.cx]",464.0,"[{0 313, 1 90, 2 18, ""other"" 31, 3 7, 4 5}]",31,313,90,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",465.0,"[{0 314, 1 90, 2 18, ""other"" 31, 3 7, 4 5}]",31,314,90,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",466.0,"[{0 315, 1 90, 2 18, ""other"" 31, 3 7, 4 5}]",31,315,90,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-09-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fastmoverr@gmail.com]",467.0,"[{0 315, 1 90, 2 18, ""other"" 32, 3 7, 4 5}]",32,315,90,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buzhordenis@gmail.com]",468.0,"[{0 315, 1 91, 2 18, ""other"" 32, 3 7, 4 5}]",32,315,91,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-09-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[swt30@users.noreply.github.com, buzhordenis@gmail.com]",470.0,"[{0 315, 1 92, 2 18, ""other"" 33, 3 7, 4 5}]",33,315,92,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-09-26,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, buzhordenis@gmail.com]",472.0,"[{0 316, 1 93, 2 18, ""other"" 33, 3 7, 4 5}]",33,316,93,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",473.0,"[{0 317, 1 93, 2 18, ""other"" 33, 3 7, 4 5}]",33,317,93,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swt30@users.noreply.github.com]",474.0,"[{0 317, 1 93, 2 18, ""other"" 34, 3 7, 4 5}]",34,317,93,18,7,5
+Clojure,https://github.com/dvcrn/proton,2016-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[beetlefeet@gmail.com]",475.0,"[{0 317, 1 93, 2 18, ""other"" 35, 3 7, 4 5}]",35,317,93,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-01-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[me@dave.cx, buzhordenis@gmail.com]",477.0,"[{0 318, 1 94, 2 18, ""other"" 35, 3 7, 4 5}]",35,318,94,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",478.0,"[{0 319, 1 94, 2 18, ""other"" 35, 3 7, 4 5}]",35,319,94,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[beetlefeet@gmail.com]",479.0,"[{0 319, 1 94, 2 18, ""other"" 36, 3 7, 4 5}]",36,319,94,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",480.0,"[{0 320, 1 94, 2 18, ""other"" 36, 3 7, 4 5}]",36,320,94,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-03-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buzhordenis@gmail.com]",481.0,"[{0 320, 1 95, 2 18, ""other"" 36, 3 7, 4 5}]",36,320,95,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-03-27,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[me@dave.cx, me@dave.cx, github@davemail.io, github@davemail.io, buzhordenis@gmail.com]",486.0,"[{0 322, 1 96, 2 18, ""other"" 38, 3 7, 4 5}]",38,322,96,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agustif@users.noreply.github.com]",487.0,"[{0 322, 1 96, 2 18, ""other"" 39, 3 7, 4 5}]",39,322,96,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bbugarschi@gmail.com]",488.0,"[{0 322, 1 96, 2 18, ""other"" 40, 3 7, 4 5}]",40,322,96,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-06-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[me@dave.cx]",489.0,"[{0 323, 1 96, 2 18, ""other"" 40, 3 7, 4 5}]",40,323,96,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-08-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jamrizzi@users.noreply.github.com]",490.0,"[{0 323, 1 96, 2 18, ""other"" 41, 3 7, 4 5}]",41,323,96,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buzhordenis@gmail.com]",491.0,"[{0 323, 1 97, 2 18, ""other"" 41, 3 7, 4 5}]",41,323,97,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-09-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buzhordenis@gmail.com]",492.0,"[{0 323, 1 98, 2 18, ""other"" 41, 3 7, 4 5}]",41,323,98,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-09-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bbugarschi@gmail.com]",493.0,"[{0 323, 1 98, 2 18, ""other"" 42, 3 7, 4 5}]",42,323,98,18,7,5
+Clojure,https://github.com/dvcrn/proton,2017-12-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@davemail.io]",494.0,"[{0 323, 1 98, 2 18, ""other"" 43, 3 7, 4 5}]",43,323,98,18,7,5
+Clojure,https://github.com/dvcrn/proton,2018-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[beetlefeet@gmail.com]",495.0,"[{0 323, 1 98, 2 18, ""other"" 44, 3 7, 4 5}]",44,323,98,18,7,5
+Clojure,https://github.com/dvcrn/proton,2018-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jpinnix@pixelgrazer.com]",496.0,"[{0 323, 1 98, 2 18, ""other"" 45, 3 7, 4 5}]",45,323,98,18,7,5
+Clojure,https://github.com/dvcrn/proton,2018-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joseph.method@appfolio.com]",497.0,"[{0 323, 1 98, 2 18, ""other"" 46, 3 7, 4 5}]",46,323,98,18,7,5

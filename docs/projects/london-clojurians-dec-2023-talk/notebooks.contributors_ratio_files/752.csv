@@ -1,0 +1,139 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-11-23,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[henrikj@amazon.com, henrikj@amazon.com, rdbarnes@amazon.com]",3.0,"[{0 2, 1 1}]",0,2,1,0,0,0
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-11-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hyandell@users.noreply.github.com, hyandell@users.noreply.github.com]",5.0,"[{0 2, 1 1, ""other"" 2}]",2,2,1,0,0,0
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-11-29,17,2,"#tech.v3.dataset.column<string>[17]
+:email
+[barnesrobert@users.noreply.github.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, barnesrobert@users.noreply.github.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com]",22.0,"[{0 17, 1 1, ""other"" 2, 2 2}]",2,17,1,2,0,0
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-11-30,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[rdbarnes@amazon.com, rdbarnes@amazon.com, henrikj@amazon.com, rdbarnes@amazon.com]",26.0,"[{0 18, 1 4, ""other"" 2, 2 2}]",2,18,4,2,0,0
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-01,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[rdbarnes@amazon.com, henrikj@amazon.com, henrikj@amazon.com]",29.0,"[{0 20, 1 5, ""other"" 2, 2 2}]",2,20,5,2,0,0
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[henrikj@amazon.com]",30.0,"[{0 21, 1 5, ""other"" 2, 2 2}]",2,21,5,2,0,0
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-07,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[andy.boutte@reancloud.com, andy.boutte@reancloud.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com]",39.0,"[{0 28, 1 5, ""other"" 2, 2 2, 4 2}]",2,28,5,2,0,2
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-08,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, lukasz.budnik@gmail.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, lukasz.budnik@gmail.com]",50.0,"[{0 37, 1 5, ""other"" 2, 2 2, 4 2, 3 2}]",2,37,5,2,2,2
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[lukasz.budnik@gmail.com, henrikj@amazon.com, lukasz.budnik@gmail.com]",53.0,"[{0 38, 1 5, ""other"" 2, 2 2, 4 2, 3 4}]",2,38,5,2,4,2
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-10,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, hosfordm@acbc32cc27dd.ant.amazon.com]",57.0,"[{0 41, 1 5, ""other"" 3, 2 2, 4 2, 3 4}]",3,41,5,2,4,2
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[henrikj@amazon.com, henrikj@amazon.com, andy.boutte@reancloud.com, henrikj@amazon.com]",61.0,"[{0 44, 1 5, ""other"" 3, 2 2, 4 3, 3 4}]",3,44,5,2,4,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-14,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[rdbarnes@amazon.com, barnesrobert@users.noreply.github.com, rdbarnes@amazon.com, rdbarnes@amazon.com, rdbarnes@amazon.com, rdbarnes@amazon.com]",67.0,"[{0 44, 1 10, ""other"" 3, 2 3, 4 3, 3 4}]",3,44,10,3,4,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-15,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com, rdbarnes@amazon.com]",74.0,"[{0 50, 1 11, ""other"" 3, 2 3, 4 3, 3 4}]",3,50,11,3,4,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rdbarnes@amazon.com, rdbarnes@amazon.com]",76.0,"[{0 50, 1 13, ""other"" 3, 2 3, 4 3, 3 4}]",3,50,13,3,4,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[barnesrobert@users.noreply.github.com, rdbarnes@amazon.com]",78.0,"[{0 50, 1 14, ""other"" 3, 2 4, 4 3, 3 4}]",3,50,14,4,4,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lukasz.budnik@gmail.com]",79.0,"[{0 50, 1 14, ""other"" 3, 2 4, 4 3, 3 5}]",3,50,14,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rdbarnes@amazon.com]",80.0,"[{0 50, 1 15, ""other"" 3, 2 4, 4 3, 3 5}]",3,50,15,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[henrikj@amazon.com, henrikj@amazon.com]",82.0,"[{0 52, 1 15, ""other"" 3, 2 4, 4 3, 3 5}]",3,52,15,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2016-12-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com]",85.0,"[{0 55, 1 15, ""other"" 3, 2 4, 4 3, 3 5}]",3,55,15,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-01-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[rdbarnes@amazon.com, rdbarnes@amazon.com]",87.0,"[{0 55, 1 17, ""other"" 3, 2 4, 4 3, 3 5}]",3,55,17,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-01-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[grettir@tinypineapple.com]",88.0,"[{0 55, 1 17, ""other"" 4, 2 4, 4 3, 3 5}]",4,55,17,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[henrikj@amazon.com]",89.0,"[{0 56, 1 17, ""other"" 4, 2 4, 4 3, 3 5}]",4,56,17,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-01-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[henrikj@amazon.com, henrikj@amazon.com, henrikj@amazon.com]",92.0,"[{0 59, 1 17, ""other"" 4, 2 4, 4 3, 3 5}]",4,59,17,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-03-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[henrikj@amazon.com]",93.0,"[{0 60, 1 17, ""other"" 4, 2 4, 4 3, 3 5}]",4,60,17,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-03-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[henrikj@amazon.com, rdbarnes@amazon.com]",95.0,"[{0 61, 1 18, ""other"" 4, 2 4, 4 3, 3 5}]",4,61,18,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-03-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[henrikj@amazon.com, henrikj@amazon.com]",97.0,"[{0 63, 1 18, ""other"" 4, 2 4, 4 3, 3 5}]",4,63,18,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-04-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rdbarnes@amazon.com]",98.0,"[{0 63, 1 19, ""other"" 4, 2 4, 4 3, 3 5}]",4,63,19,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[henrikj@amazon.com]",99.0,"[{0 64, 1 19, ""other"" 4, 2 4, 4 3, 3 5}]",4,64,19,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lcymburajr@ljcdesign.com]",100.0,"[{0 64, 1 19, ""other"" 5, 2 4, 4 3, 3 5}]",5,64,19,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-06-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@easyecho.com]",101.0,"[{0 64, 1 19, ""other"" 6, 2 4, 4 3, 3 5}]",6,64,19,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-06-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[henrikj@amazon.com, henrikj@amazon.com]",103.0,"[{0 66, 1 19, ""other"" 6, 2 4, 4 3, 3 5}]",6,66,19,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-07-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[777rip777@gmail.com, 777rip777@gmail.com]",105.0,"[{0 66, 1 19, ""other"" 8, 2 4, 4 3, 3 5}]",8,66,19,4,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[barnesrobert@users.noreply.github.com]",106.0,"[{0 66, 1 19, ""other"" 8, 2 5, 4 3, 3 5}]",8,66,19,5,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[barnesrobert@users.noreply.github.com]",107.0,"[{0 66, 1 19, ""other"" 8, 2 6, 4 3, 3 5}]",8,66,19,6,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-08-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asagage@gmail.com]",108.0,"[{0 66, 1 19, ""other"" 9, 2 6, 4 3, 3 5}]",9,66,19,6,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asagage@gmail.com]",109.0,"[{0 66, 1 19, ""other"" 10, 2 6, 4 3, 3 5}]",10,66,19,6,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[johnb0011@gmail.com]",110.0,"[{0 66, 1 19, ""other"" 11, 2 6, 4 3, 3 5}]",11,66,19,6,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-08-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[barnesrobert@users.noreply.github.com, barnesrobert@users.noreply.github.com]",112.0,"[{0 66, 1 19, ""other"" 11, 2 8, 4 3, 3 5}]",11,66,19,8,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[31252622+vijayarv@users.noreply.github.com]",113.0,"[{0 66, 1 19, ""other"" 12, 2 8, 4 3, 3 5}]",12,66,19,8,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[henrikj@amazon.com]",114.0,"[{0 67, 1 19, ""other"" 12, 2 8, 4 3, 3 5}]",12,67,19,8,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[barnesrobert@users.noreply.github.com]",115.0,"[{0 67, 1 19, ""other"" 12, 2 9, 4 3, 3 5}]",12,67,19,9,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-09-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[henrikj@amazon.com]",116.0,"[{0 68, 1 19, ""other"" 12, 2 9, 4 3, 3 5}]",12,68,19,9,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-09-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jim.razmus@code42.com, jim.razmus@code42.com]",118.0,"[{0 68, 1 19, ""other"" 14, 2 9, 4 3, 3 5}]",14,68,19,9,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2017-10-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[henrikj@amazon.com, henrikj@amazon.com]",120.0,"[{0 70, 1 19, ""other"" 14, 2 9, 4 3, 3 5}]",14,70,19,9,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2018-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[barnesrobert@users.noreply.github.com]",121.0,"[{0 70, 1 19, ""other"" 14, 2 10, 4 3, 3 5}]",14,70,19,10,5,3
+Python,https://github.com/amazon-archives/aws-security-benchmark,2019-09-13,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[barnesrobert@users.noreply.github.com, erynsaw@amazon.com]",123.0,"[{0 70, 1 19, ""other"" 15, 2 11, 4 3, 3 5}]",15,70,19,11,5,3

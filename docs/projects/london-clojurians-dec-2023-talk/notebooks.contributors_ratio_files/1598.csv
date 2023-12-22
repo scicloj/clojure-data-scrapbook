@@ -1,0 +1,73 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/timClicks/slate,2010-11-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz]",4.0,[{0 4}],0,4,0,0,0,0
+Python,https://github.com/timClicks/slate,2010-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@timmcnamara.co.nz]",5.0,[{0 5}],0,5,0,0,0,0
+Python,https://github.com/timClicks/slate,2010-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@timmcnamara.co.nz]",6.0,[{0 6}],0,6,0,0,0,0
+Python,https://github.com/timClicks/slate,2010-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@timmcnamara.co.nz]",7.0,[{0 7}],0,7,0,0,0,0
+Python,https://github.com/timClicks/slate,2010-11-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[paperless@timmcnamara.co.nz, paperless@timmcnamara.co.nz, paperless@timmcnamara.co.nz, paperless@timmcnamara.co.nz]",11.0,"[{0 7, 1 4}]",0,7,4,0,0,0
+Python,https://github.com/timClicks/slate,2010-11-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paperless@timmcnamara.co.nz]",12.0,"[{0 7, 1 5}]",0,7,5,0,0,0
+Python,https://github.com/timClicks/slate,2013-11-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[c.bailey@bristol.ac.uk, c.bailey@bristol.ac.uk]",14.0,"[{0 7, 1 5, 2 2}]",0,7,5,2,0,0
+Python,https://github.com/timClicks/slate,2013-11-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agrothberg@gmail.com]",15.0,"[{0 7, 1 5, 2 2, ""other"" 1}]",1,7,5,2,0,0
+Python,https://github.com/timClicks/slate,2013-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@timmcnamara.co.nz]",16.0,"[{0 8, 1 5, 2 2, ""other"" 1}]",1,8,5,2,0,0
+Python,https://github.com/timClicks/slate,2013-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[c.bailey@bristol.ac.uk]",17.0,"[{0 8, 1 5, 2 3, ""other"" 1}]",1,8,5,3,0,0
+Python,https://github.com/timClicks/slate,2014-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[c.bailey@bristol.ac.uk]",18.0,"[{0 8, 1 5, 2 4, ""other"" 1}]",1,8,5,4,0,0
+Python,https://github.com/timClicks/slate,2014-06-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz]",21.0,"[{0 11, 1 5, 2 4, ""other"" 1}]",1,11,5,4,0,0
+Python,https://github.com/timClicks/slate,2014-08-27,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[paperless@timmcnamara.co.nz, paperless@timmcnamara.co.nz, code@timmcnamara.co.nz]",24.0,"[{0 12, 1 7, 2 4, ""other"" 1}]",1,12,7,4,0,0
+Python,https://github.com/timClicks/slate,2014-11-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz]",29.0,"[{0 17, 1 7, 2 4, ""other"" 1}]",1,17,7,4,0,0
+Python,https://github.com/timClicks/slate,2015-05-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pecos@sqleb.de, pecos@sqleb.de]",31.0,"[{0 17, 1 7, 2 4, ""other"" 1, 4 2}]",1,17,7,4,0,2
+Python,https://github.com/timClicks/slate,2015-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erick.peirson@asu.edu]",32.0,"[{0 17, 1 7, 2 4, ""other"" 1, 4 2, 3 1}]",1,17,7,4,1,2
+Python,https://github.com/timClicks/slate,2015-10-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erick.peirson@asu.edu]",33.0,"[{0 17, 1 7, 2 4, ""other"" 1, 4 2, 3 2}]",1,17,7,4,2,2
+Python,https://github.com/timClicks/slate,2015-11-03,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[Stumpy@clarmitage.ca, code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz]",39.0,"[{0 22, 1 7, 2 4, ""other"" 2, 4 2, 3 2}]",2,22,7,4,2,2
+Python,https://github.com/timClicks/slate,2015-11-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@timmcnamara.co.nz]",40.0,"[{0 23, 1 7, 2 4, ""other"" 2, 4 2, 3 2}]",2,23,7,4,2,2
+Python,https://github.com/timClicks/slate,2015-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[joel@ymobility.com]",41.0,"[{0 23, 1 7, 2 4, ""other"" 3, 4 2, 3 2}]",3,23,7,4,2,2
+Python,https://github.com/timClicks/slate,2015-11-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[code@timmcnamara.co.nz, code@timmcnamara.co.nz, code@timmcnamara.co.nz]",44.0,"[{0 26, 1 7, 2 4, ""other"" 3, 4 2, 3 2}]",3,26,7,4,2,2
+Python,https://github.com/timClicks/slate,2016-02-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tim@dotlovesdata.com]",45.0,"[{0 26, 1 7, 2 4, ""other"" 4, 4 2, 3 2}]",4,26,7,4,2,2
+Python,https://github.com/timClicks/slate,2017-03-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[anthony.garvan@gmail.com]",46.0,"[{0 26, 1 7, 2 4, ""other"" 5, 4 2, 3 2}]",5,26,7,4,2,2
+Python,https://github.com/timClicks/slate,2017-04-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@timmcnamara.co.nz]",47.0,"[{0 27, 1 7, 2 4, ""other"" 5, 4 2, 3 2}]",5,27,7,4,2,2

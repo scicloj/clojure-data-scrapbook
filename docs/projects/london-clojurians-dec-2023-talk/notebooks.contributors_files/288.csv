@@ -1,0 +1,180 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,functional-koans,2010-01-14,2,1,"#{""aaron@aaronbedra.com""}",2.0,1
+Clojure,functional-koans,2010-01-23,1,1,"#{""aaron@aaronbedra.com""}",3.0,1
+Clojure,functional-koans,2010-01-24,2,1,"#{""aaron@aaronbedra.com""}",5.0,1
+Clojure,functional-koans,2010-01-31,1,1,"#{""aaron@aaronbedra.com""}",6.0,1
+Clojure,functional-koans,2010-02-05,1,1,"#{""aaron@aaronbedra.com""}",7.0,1
+Clojure,functional-koans,2010-02-06,3,1,"#{""aaron@aaronbedra.com""}",10.0,1
+Clojure,functional-koans,2010-02-07,2,2,"#{""trptcolin@gmail.com"" ""aaron@aaronbedra.com""}",12.0,2
+Clojure,functional-koans,2010-02-08,5,3,"#{""lavigne.eric@gmail.com"" ""trptcolin@gmail.com"" ""aaron@aaronbedra.com""}",17.0,3
+Clojure,functional-koans,2010-02-09,5,2,"#{""trptcolin@gmail.com"" ""aaron@aaronbedra.com""}",22.0,3
+Clojure,functional-koans,2010-02-10,2,1,"#{""trptcolin@gmail.com""}",24.0,3
+Clojure,functional-koans,2010-02-11,1,1,"#{""trptcolin@gmail.com""}",25.0,3
+Clojure,functional-koans,2010-02-13,1,1,"#{""trptcolin@gmail.com""}",26.0,3
+Clojure,functional-koans,2010-02-14,1,1,"#{""trptcolin@gmail.com""}",27.0,3
+Clojure,functional-koans,2010-02-15,1,1,"#{""trptcolin@gmail.com""}",28.0,3
+Clojure,functional-koans,2010-02-19,1,1,"#{""trptcolin@gmail.com""}",29.0,3
+Clojure,functional-koans,2010-02-20,1,1,"#{""trptcolin@gmail.com""}",30.0,3
+Clojure,functional-koans,2010-03-24,1,1,"#{""trptcolin@gmail.com""}",31.0,3
+Clojure,functional-koans,2010-03-25,1,1,"#{""trptcolin@gmail.com""}",32.0,3
+Clojure,functional-koans,2010-04-02,2,1,"#{""trptcolin@gmail.com""}",34.0,3
+Clojure,functional-koans,2010-05-06,3,1,"#{""trptcolin@gmail.com""}",37.0,3
+Clojure,functional-koans,2010-05-26,2,1,"#{""trptcolin@gmail.com""}",39.0,3
+Clojure,functional-koans,2010-05-27,1,1,"#{""trptcolin@gmail.com""}",40.0,3
+Clojure,functional-koans,2010-07-11,1,1,"#{""trptcolin@gmail.com""}",41.0,3
+Clojure,functional-koans,2010-07-12,5,1,"#{""trptcolin@gmail.com""}",46.0,3
+Clojure,functional-koans,2010-07-13,1,1,"#{""trptcolin@gmail.com""}",47.0,3
+Clojure,functional-koans,2010-07-17,2,1,"#{""trptcolin@gmail.com""}",49.0,3
+Clojure,functional-koans,2010-07-18,4,1,"#{""trptcolin@gmail.com""}",53.0,3
+Clojure,functional-koans,2010-07-26,3,1,"#{""trptcolin@gmail.com""}",56.0,3
+Clojure,functional-koans,2010-07-27,2,1,"#{""trptcolin@gmail.com""}",58.0,3
+Clojure,functional-koans,2010-08-03,1,1,"#{""trptcolin@gmail.com""}",59.0,3
+Clojure,functional-koans,2010-08-08,2,1,"#{""trptcolin@gmail.com""}",61.0,3
+Clojure,functional-koans,2010-09-29,1,1,"#{""nuno@platogo.com""}",62.0,4
+Clojure,functional-koans,2010-09-30,2,1,"#{""nuno@platogo.com""}",64.0,4
+Clojure,functional-koans,2010-10-01,1,1,"#{""nuno@platogo.com""}",65.0,4
+Clojure,functional-koans,2010-10-27,3,1,"#{""trptcolin@gmail.com""}",68.0,4
+Clojure,functional-koans,2010-10-29,5,1,"#{""trptcolin@gmail.com""}",73.0,4
+Clojure,functional-koans,2010-11-01,7,1,"#{""trptcolin@gmail.com""}",80.0,4
+Clojure,functional-koans,2010-11-02,3,1,"#{""trptcolin@gmail.com""}",83.0,4
+Clojure,functional-koans,2010-11-03,1,1,"#{""trptcolin@gmail.com""}",84.0,4
+Clojure,functional-koans,2010-11-04,2,1,"#{""trptcolin@gmail.com""}",86.0,4
+Clojure,functional-koans,2010-11-05,1,1,"#{""trptcolin@gmail.com""}",87.0,4
+Clojure,functional-koans,2010-11-06,1,1,"#{""trptcolin@gmail.com""}",88.0,4
+Clojure,functional-koans,2010-11-07,2,1,"#{""trptcolin@gmail.com""}",90.0,4
+Clojure,functional-koans,2010-11-08,2,1,"#{""trptcolin@gmail.com""}",92.0,4
+Clojure,functional-koans,2010-11-09,3,1,"#{""trptcolin@gmail.com""}",95.0,4
+Clojure,functional-koans,2010-11-10,2,1,"#{""trptcolin@gmail.com""}",97.0,4
+Clojure,functional-koans,2010-11-11,1,1,"#{""trptcolin@gmail.com""}",98.0,4
+Clojure,functional-koans,2010-11-14,1,1,"#{""trptcolin@gmail.com""}",99.0,4
+Clojure,functional-koans,2010-11-16,1,1,"#{""micah@8thlight.com""}",100.0,5
+Clojure,functional-koans,2010-11-17,2,1,"#{""trptcolin@gmail.com""}",102.0,5
+Clojure,functional-koans,2011-01-03,2,2,"#{""trptcolin@gmail.com"" ""citizen428@gmail.com""}",104.0,6
+Clojure,functional-koans,2011-01-06,1,1,"#{""trptcolin@gmail.com""}",105.0,6
+Clojure,functional-koans,2011-01-11,1,1,"#{""blickly@eecs""}",106.0,7
+Clojure,functional-koans,2011-01-12,2,1,"#{""trptcolin@gmail.com""}",108.0,7
+Clojure,functional-koans,2011-02-03,4,2,"#{""alexander.j.robbins@gmail.com"" ""trptcolin@gmail.com""}",112.0,8
+Clojure,functional-koans,2011-02-08,9,2,"#{""trptcolin@gmail.com"" ""me@jaskirat.info""}",121.0,9
+Clojure,functional-koans,2011-02-10,7,1,"#{""trptcolin@gmail.com""}",128.0,9
+Clojure,functional-koans,2011-02-13,3,2,"#{""alexander.j.robbins@gmail.com"" ""trptcolin@gmail.com""}",131.0,9
+Clojure,functional-koans,2011-02-19,1,1,"#{""trptcolin@gmail.com""}",132.0,9
+Clojure,functional-koans,2011-03-29,3,2,"#{""trptcolin@gmail.com"" ""verdammelt@gmail.com""}",135.0,10
+Clojure,functional-koans,2011-03-31,4,1,"#{""trptcolin@gmail.com""}",139.0,10
+Clojure,functional-koans,2011-04-09,3,1,"#{""trptcolin@gmail.com""}",142.0,10
+Clojure,functional-koans,2011-04-13,1,1,"#{""trptcolin@gmail.com""}",143.0,10
+Clojure,functional-koans,2011-04-19,1,1,"#{""trptcolin@gmail.com""}",144.0,10
+Clojure,functional-koans,2011-04-29,4,2,"#{""trptcolin@gmail.com"" ""pair@8thlight.com""}",148.0,11
+Clojure,functional-koans,2011-04-30,1,1,"#{""aaron@aaronbedra.com""}",149.0,11
+Clojure,functional-koans,2011-05-11,1,1,"#{""trptcolin@gmail.com""}",150.0,11
+Clojure,functional-koans,2011-06-09,2,2,"#{""caleb.phillips@gmail.com"" ""trptcolin@gmail.com""}",152.0,12
+Clojure,functional-koans,2011-06-10,2,1,"#{""trptcolin@gmail.com""}",154.0,12
+Clojure,functional-koans,2011-06-16,4,1,"#{""trptcolin@gmail.com""}",158.0,12
+Clojure,functional-koans,2011-06-17,1,1,"#{""trptcolin@gmail.com""}",159.0,12
+Clojure,functional-koans,2011-07-08,1,1,"#{""trptcolin@gmail.com""}",160.0,12
+Clojure,functional-koans,2011-08-01,1,1,"#{""trptcolin@gmail.com""}",161.0,12
+Clojure,functional-koans,2011-08-13,2,1,"#{""trptcolin@gmail.com""}",163.0,12
+Clojure,functional-koans,2011-08-14,1,1,"#{""trptcolin@gmail.com""}",164.0,12
+Clojure,functional-koans,2011-08-29,1,1,"#{""aaron@aaronbedra.com""}",165.0,12
+Clojure,functional-koans,2011-09-14,1,1,"#{""trptcolin@gmail.com""}",166.0,12
+Clojure,functional-koans,2011-09-23,7,2,"#{""trptcolin@gmail.com"" ""doug.south@gmail.com""}",173.0,13
+Clojure,functional-koans,2011-09-24,4,1,"#{""trptcolin@gmail.com""}",177.0,13
+Clojure,functional-koans,2011-09-28,1,1,"#{""trptcolin@gmail.com""}",178.0,13
+Clojure,functional-koans,2011-10-25,3,1,"#{""aaron@aaronbedra.com""}",181.0,13
+Clojure,functional-koans,2011-11-27,2,2,"#{""trptcolin@gmail.com"" ""sritchie09@gmail.com""}",183.0,14
+Clojure,functional-koans,2011-11-28,5,1,"#{""trptcolin@gmail.com""}",188.0,14
+Clojure,functional-koans,2011-11-29,1,1,"#{""trptcolin@gmail.com""}",189.0,14
+Clojure,functional-koans,2012-01-13,2,2,"#{""luke.arno@gmail.com"" ""aaron@aaronbedra.com""}",191.0,15
+Clojure,functional-koans,2012-03-02,1,1,"#{""trptcolin@gmail.com""}",192.0,15
+Clojure,functional-koans,2012-03-03,1,1,"#{""trptcolin@gmail.com""}",193.0,15
+Clojure,functional-koans,2012-04-25,1,1,"#{""merely.semantics@gmail.com""}",194.0,16
+Clojure,functional-koans,2012-04-27,1,1,"#{""trptcolin@gmail.com""}",195.0,16
+Clojure,functional-koans,2012-06-07,1,1,"#{""noamraph@gmail.com""}",196.0,17
+Clojure,functional-koans,2012-06-08,1,1,"#{""trptcolin@gmail.com""}",197.0,17
+Clojure,functional-koans,2012-08-03,1,1,"#{""russ@russmiles.com""}",198.0,18
+Clojure,functional-koans,2012-08-04,3,2,"#{""imoryc@gmail.com"" ""trptcolin@gmail.com""}",201.0,19
+Clojure,functional-koans,2012-09-30,2,1,"#{""trptcolin@gmail.com""}",203.0,19
+Clojure,functional-koans,2012-10-18,1,1,"#{""trptcolin@gmail.com""}",204.0,19
+Clojure,functional-koans,2012-10-23,1,1,"#{""trptcolin@gmail.com""}",205.0,19
+Clojure,functional-koans,2012-11-10,2,2,"#{""trptcolin@gmail.com"" ""felipeelias@gmail.com""}",207.0,20
+Clojure,functional-koans,2012-12-30,1,1,"#{""trptcolin@gmail.com""}",208.0,20
+Clojure,functional-koans,2012-12-31,1,1,"#{""mark.veronda@gmail.com""}",209.0,21
+Clojure,functional-koans,2013-01-05,1,1,"#{""trptcolin@gmail.com""}",210.0,21
+Clojure,functional-koans,2013-01-26,1,1,"#{""brian@troutwine.us""}",211.0,22
+Clojure,functional-koans,2013-01-27,1,1,"#{""trptcolin@gmail.com""}",212.0,22
+Clojure,functional-koans,2013-02-25,2,1,"#{""trptcolin@gmail.com""}",214.0,22
+Clojure,functional-koans,2013-03-01,2,2,"#{""esmith@8thlight.com"" ""trptcolin@gmail.com""}",216.0,23
+Clojure,functional-koans,2013-03-02,3,2,"#{""skim.la@gmail.com"" ""trptcolin@gmail.com""}",219.0,24
+Clojure,functional-koans,2013-03-03,2,2,"#{""trptcolin@gmail.com"" ""powerslave12r@gmail.com""}",221.0,25
+Clojure,functional-koans,2013-03-04,9,2,"#{""dev+slagyr+trptcolin@8thlight.com"" ""trptcolin@gmail.com""}",230.0,26
+Clojure,functional-koans,2013-03-15,2,2,"#{""trptcolin@gmail.com"" ""wishpishh@gmail.com""}",232.0,27
+Clojure,functional-koans,2013-05-03,1,1,"#{""trptcolin@gmail.com""}",233.0,27
+Clojure,functional-koans,2013-07-22,3,2,"#{""trptcolin@gmail.com"" ""mshen@groupon.com""}",236.0,28
+Clojure,functional-koans,2013-07-24,1,1,"#{""trptcolin@gmail.com""}",237.0,28
+Clojure,functional-koans,2013-08-03,1,1,"#{""trptcolin@gmail.com""}",238.0,28
+Clojure,functional-koans,2013-08-04,1,1,"#{""dtkinzer@gmail.com""}",239.0,29
+Clojure,functional-koans,2013-09-02,1,1,"#{""laurabrown1113@gmail.com""}",240.0,30
+Clojure,functional-koans,2013-09-03,1,1,"#{""laurabrown1113@gmail.com""}",241.0,30
+Clojure,functional-koans,2013-09-16,1,1,"#{""tak.yuki@gmail.com""}",242.0,31
+Clojure,functional-koans,2013-09-18,2,2,"#{""bobwilliams.ii@gmail.com"" ""trptcolin@gmail.com""}",244.0,32
+Clojure,functional-koans,2013-10-26,1,1,"#{""tobias.pfeiffer@student.hpi.uni-potsdam.de""}",245.0,33
+Clojure,functional-koans,2013-11-18,2,2,"#{""sjm@sjm.io"" ""trptcolin@gmail.com""}",247.0,34
+Clojure,functional-koans,2013-11-22,2,1,"#{""adomokos@gmail.com""}",249.0,35
+Clojure,functional-koans,2013-12-03,1,1,"#{""kylev@kylev.com""}",250.0,36
+Clojure,functional-koans,2014-01-09,2,2,"#{""chrisc.101@gmail.com"" ""trptcolin@gmail.com""}",252.0,37
+Clojure,functional-koans,2014-01-21,5,1,"#{""trptcolin@gmail.com""}",257.0,37
+Clojure,functional-koans,2014-01-25,1,1,"#{""dtkinzer@gmail.com""}",258.0,37
+Clojure,functional-koans,2014-01-27,2,2,"#{""trptcolin@gmail.com"" ""gunnlaugur@gmail.com""}",260.0,38
+Clojure,functional-koans,2014-02-23,1,1,"#{""trptcolin@gmail.com""}",261.0,38
+Clojure,functional-koans,2014-03-19,1,1,"#{""andrew@ajmccluskey.com""}",262.0,39
+Clojure,functional-koans,2014-04-25,3,2,"#{""colin@8thlight.com"" ""mjansen401@gmail.com""}",265.0,41
+Clojure,functional-koans,2014-05-02,1,1,"#{""trptcolin@gmail.com""}",266.0,41
+Clojure,functional-koans,2014-06-13,1,1,"#{""trptcolin@gmail.com""}",267.0,41
+Clojure,functional-koans,2014-06-27,1,1,"#{""trptcolin@gmail.com""}",268.0,41
+Clojure,functional-koans,2014-10-09,2,1,"#{""trptcolin@gmail.com""}",270.0,41
+Clojure,functional-koans,2014-11-26,1,1,"#{""mjansen401@gmail.com""}",271.0,41
+Clojure,functional-koans,2014-12-06,1,1,"#{""trptcolin@gmail.com""}",272.0,41
+Clojure,functional-koans,2015-03-03,2,2,"#{""piotr@bzdyl.net"" ""trptcolin@gmail.com""}",274.0,42
+Clojure,functional-koans,2015-06-14,8,4,"#{""brian.t.dawn@gmail.com"" ""trptcolin@gmail.com"" ""tmarble@info9.net"" ""elenam@morris.umn.edu""}",282.0,45
+Clojure,functional-koans,2015-06-15,1,1,"#{""hatemogi@gmail.com""}",283.0,46
+Clojure,functional-koans,2015-06-22,3,1,"#{""tmarble@info9.net""}",286.0,46
+Clojure,functional-koans,2015-06-24,6,2,"#{""tmarble@info9.net"" ""elenam@morris.umn.edu""}",292.0,46
+Clojure,functional-koans,2015-07-06,2,1,"#{""trptcolin@gmail.com""}",294.0,46
+Clojure,functional-koans,2015-07-12,3,2,"#{""brymaven@gmail.com"" ""trptcolin@gmail.com""}",297.0,47
+Clojure,functional-koans,2015-07-14,2,2,"#{""trptcolin@gmail.com"" ""juliakbln@gmail.com""}",299.0,48
+Clojure,functional-koans,2015-07-19,2,1,"#{""oemmerson@gmx.com""}",301.0,49
+Clojure,functional-koans,2015-07-20,4,1,"#{""trptcolin@gmail.com""}",305.0,49
+Clojure,functional-koans,2015-09-13,5,1,"#{""Strikingwolf2012@gmail.com""}",310.0,50
+Clojure,functional-koans,2015-10-02,3,2,"#{""trptcolin@gmail.com"" ""Strikingwolf2012@gmail.com""}",313.0,50
+Clojure,functional-koans,2015-10-17,1,1,"#{""SuperStevenZ@users.noreply.github.com""}",314.0,51
+Clojure,functional-koans,2015-10-18,1,1,"#{""trptcolin@gmail.com""}",315.0,51
+Clojure,functional-koans,2016-01-13,1,1,"#{""trptcolin@gmail.com""}",316.0,51
+Clojure,functional-koans,2016-01-14,1,1,"#{""michael.perez@chatid.com""}",317.0,52
+Clojure,functional-koans,2016-01-25,3,2,"#{""djniemczyk7@googlemail.com"" ""trptcolin@gmail.com""}",320.0,53
+Clojure,functional-koans,2016-02-22,1,1,"#{""416521842@qq.com""}",321.0,54
+Clojure,functional-koans,2016-03-25,2,1,"#{""pascal@alseyn.net""}",323.0,55
+Clojure,functional-koans,2016-05-12,4,2,"#{""fordjm@users.noreply.github.com"" ""trptcolin@gmail.com""}",327.0,56
+Clojure,functional-koans,2016-05-23,1,1,"#{""trptcolin@gmail.com""}",328.0,56
+Clojure,functional-koans,2016-09-25,1,1,"#{""Futurile@users.noreply.github.com""}",329.0,57
+Clojure,functional-koans,2016-10-02,1,1,"#{""rafik.naccache@gmail.com""}",330.0,58
+Clojure,functional-koans,2016-10-06,1,1,"#{""trptcolin@gmail.com""}",331.0,58
+Clojure,functional-koans,2016-10-26,1,1,"#{""ken.smith@2scientists.net""}",332.0,59
+Clojure,functional-koans,2016-11-12,1,1,"#{""developer@fernandopradas.com""}",333.0,60
+Clojure,functional-koans,2016-11-29,1,1,"#{""saraines.calderon@gmail.com""}",334.0,61
+Clojure,functional-koans,2017-02-07,2,2,"#{""jeroendedauw@gmail.com"" ""trptcolin@gmail.com""}",336.0,62
+Clojure,functional-koans,2017-02-10,2,1,"#{""trptcolin@gmail.com""}",338.0,62
+Clojure,functional-koans,2017-05-03,1,1,"#{""trptcolin@gmail.com""}",339.0,62
+Clojure,functional-koans,2017-05-05,1,1,"#{""trptcolin@gmail.com""}",340.0,62
+Clojure,functional-koans,2017-05-10,1,1,"#{""trptcolin@gmail.com""}",341.0,62
+Clojure,functional-koans,2017-10-09,1,1,"#{""trptcolin@gmail.com""}",342.0,62
+Clojure,functional-koans,2017-10-24,2,1,"#{""trptcolin@gmail.com""}",344.0,62
+Clojure,functional-koans,2018-04-09,1,1,"#{""trptcolin@gmail.com""}",345.0,62
+Clojure,functional-koans,2018-12-31,3,1,"#{""trptcolin@gmail.com""}",348.0,62
+Clojure,functional-koans,2019-06-10,1,1,"#{""11434205+dijonkitchen@users.noreply.github.com""}",349.0,63
+Clojure,functional-koans,2019-09-23,2,1,"#{""alex@lynh.am""}",351.0,64
+Clojure,functional-koans,2019-10-27,1,1,"#{""spensertruexonline@gmail.com""}",352.0,65
+Clojure,functional-koans,2019-10-28,1,1,"#{""alex@lynh.am""}",353.0,65
+Clojure,functional-koans,2019-12-02,2,1,"#{""neta.ked@gmail.com""}",355.0,66
+Clojure,functional-koans,2020-07-07,1,1,"#{""nreiling@bard.edu""}",356.0,67
+Clojure,functional-koans,2022-01-29,1,1,"#{""vaughnwilld@gmail.com""}",357.0,68
+Clojure,functional-koans,2022-09-17,1,1,"#{""ivanbilous2000@gmail.com""}",358.0,69
+Clojure,functional-koans,2022-12-16,1,1,"#{""harleymack@mail.ru""}",359.0,70

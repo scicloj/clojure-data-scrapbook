@@ -1,0 +1,103 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/ztellman/rhizome,2013-05-03,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-05-04,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",12.0,[{0 12}],0,12,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-05-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ztellman@gmail.com, ztellman@gmail.com]",14.0,[{0 14}],0,14,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zack@zacharymaril.com]",16.0,"[{0 15, ""other"" 1}]",1,15,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-05-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",17.0,"[{0 16, ""other"" 1}]",1,16,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",18.0,"[{0 17, ""other"" 1}]",1,17,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-06-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",19.0,"[{0 18, ""other"" 1}]",1,18,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-07-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ztellman@gmail.com, ztellman@gmail.com]",21.0,"[{0 20, ""other"" 1}]",1,20,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-12-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",22.0,"[{0 21, ""other"" 1}]",1,21,0,0,0,0
+Clojure,https://github.com/ztellman/rhizome,2013-12-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ztellman@gmail.com, maxc@me.com]",24.0,"[{0 22, ""other"" 1, 2 1}]",1,22,0,1,0,0
+Clojure,https://github.com/ztellman/rhizome,2014-02-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ztellman@gmail.com, ztellman@gmail.com]",26.0,"[{0 24, ""other"" 1, 2 1}]",1,24,0,1,0,0
+Clojure,https://github.com/ztellman/rhizome,2014-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brandon@brandonbloom.name, brandon@brandonbloom.name]",28.0,"[{0 24, ""other"" 1, 2 1, 3 2}]",1,24,0,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2014-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",29.0,"[{0 25, ""other"" 1, 2 1, 3 2}]",1,25,0,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2014-06-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ztellman@gmail.com, ztellman@gmail.com]",31.0,"[{0 27, ""other"" 1, 2 1, 3 2}]",1,27,0,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2014-06-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ztellman@gmail.com, ztellman@gmail.com]",33.0,"[{0 29, ""other"" 1, 2 1, 3 2}]",1,29,0,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2014-11-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@malloys.org]",34.0,"[{0 29, ""other"" 1, 2 1, 3 2, 1 1}]",1,29,1,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2014-12-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",35.0,"[{0 30, ""other"" 1, 2 1, 3 2, 1 1}]",1,30,1,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2014-12-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alejandro@atienzaramos.com]",36.0,"[{0 30, ""other"" 2, 2 1, 3 2, 1 1}]",2,30,1,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-01-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com]",40.0,"[{0 34, ""other"" 2, 2 1, 3 2, 1 1}]",2,34,1,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-02-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com]",44.0,"[{0 38, ""other"" 2, 2 1, 3 2, 1 1}]",2,38,1,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@malloys.org]",45.0,"[{0 38, ""other"" 2, 2 1, 3 2, 1 2}]",2,38,2,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alan@malloys.org]",46.0,"[{0 38, ""other"" 2, 2 1, 3 2, 1 3}]",2,38,3,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mark.engelberg@gmail.com]",47.0,"[{0 38, ""other"" 3, 2 1, 3 2, 1 3}]",3,38,3,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-04-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com]",50.0,"[{0 41, ""other"" 3, 2 1, 3 2, 1 3}]",3,41,3,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",51.0,"[{0 42, ""other"" 3, 2 1, 3 2, 1 3}]",3,42,3,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2015-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",52.0,"[{0 43, ""other"" 3, 2 1, 3 2, 1 3}]",3,43,3,1,2,0
+Clojure,https://github.com/ztellman/rhizome,2016-02-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ztellman@gmail.com, maxc@me.com]",54.0,"[{0 44, ""other"" 3, 2 2, 3 2, 1 3}]",3,44,3,2,2,0
+Clojure,https://github.com/ztellman/rhizome,2016-07-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com]",57.0,"[{0 47, ""other"" 3, 2 2, 3 2, 1 3}]",3,47,3,2,2,0
+Clojure,https://github.com/ztellman/rhizome,2016-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[whamtet@gmail.com]",58.0,"[{0 47, ""other"" 4, 2 2, 3 2, 1 3}]",4,47,3,2,2,0
+Clojure,https://github.com/ztellman/rhizome,2017-05-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ztellman@gmail.com]",59.0,"[{0 48, ""other"" 4, 2 2, 3 2, 1 3}]",4,48,3,2,2,0
+Clojure,https://github.com/ztellman/rhizome,2017-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[scottnielsen5@gmail.com]",60.0,"[{0 48, ""other"" 4, 2 2, 3 2, 1 3, 4 1}]",4,48,3,2,2,1
+Clojure,https://github.com/ztellman/rhizome,2017-09-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com, ztellman@gmail.com]",65.0,"[{0 53, ""other"" 4, 2 2, 3 2, 1 3, 4 1}]",4,53,3,2,2,1

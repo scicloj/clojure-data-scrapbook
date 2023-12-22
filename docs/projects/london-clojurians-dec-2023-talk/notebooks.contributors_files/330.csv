@@ -1,0 +1,463 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,arcadia-unity,2014-04-17,1,1,"#{""ram@nas.sr""}",1.0,1
+Clojure,arcadia-unity,2014-04-25,2,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",3.0,2
+Clojure,arcadia-unity,2014-04-30,6,1,"#{""timsgardner@gmail.com""}",9.0,2
+Clojure,arcadia-unity,2014-05-02,4,1,"#{""ram@nas.sr""}",13.0,2
+Clojure,arcadia-unity,2014-07-01,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",17.0,2
+Clojure,arcadia-unity,2014-07-02,13,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",30.0,2
+Clojure,arcadia-unity,2014-07-03,4,1,"#{""ram@nas.sr""}",34.0,2
+Clojure,arcadia-unity,2014-07-06,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",44.0,2
+Clojure,arcadia-unity,2014-07-09,3,1,"#{""ram@nas.sr""}",47.0,2
+Clojure,arcadia-unity,2014-07-10,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",53.0,2
+Clojure,arcadia-unity,2014-07-11,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",59.0,2
+Clojure,arcadia-unity,2014-07-19,6,1,"#{""timsgardner@gmail.com""}",65.0,2
+Clojure,arcadia-unity,2014-08-06,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",71.0,2
+Clojure,arcadia-unity,2014-08-07,9,1,"#{""timsgardner@gmail.com""}",80.0,2
+Clojure,arcadia-unity,2014-08-08,2,1,"#{""timsgardner@gmail.com""}",82.0,2
+Clojure,arcadia-unity,2014-08-09,8,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",90.0,2
+Clojure,arcadia-unity,2014-08-10,18,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",108.0,2
+Clojure,arcadia-unity,2014-08-11,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",112.0,2
+Clojure,arcadia-unity,2014-08-12,9,1,"#{""timsgardner@gmail.com""}",121.0,2
+Clojure,arcadia-unity,2014-08-13,3,1,"#{""timsgardner@gmail.com""}",124.0,2
+Clojure,arcadia-unity,2014-08-14,14,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",138.0,2
+Clojure,arcadia-unity,2014-08-15,10,1,"#{""timsgardner@gmail.com""}",148.0,2
+Clojure,arcadia-unity,2014-08-16,1,1,"#{""timsgardner@gmail.com""}",149.0,2
+Clojure,arcadia-unity,2014-08-19,1,1,"#{""timsgardner@gmail.com""}",150.0,2
+Clojure,arcadia-unity,2014-08-20,8,1,"#{""timsgardner@gmail.com""}",158.0,2
+Clojure,arcadia-unity,2014-08-21,2,1,"#{""timsgardner@gmail.com""}",160.0,2
+Clojure,arcadia-unity,2014-08-22,1,1,"#{""timsgardner@gmail.com""}",161.0,2
+Clojure,arcadia-unity,2014-08-23,2,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",163.0,2
+Clojure,arcadia-unity,2014-08-24,2,1,"#{""ram@nas.sr""}",165.0,2
+Clojure,arcadia-unity,2014-08-25,1,1,"#{""timsgardner@gmail.com""}",166.0,2
+Clojure,arcadia-unity,2014-08-26,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",170.0,2
+Clojure,arcadia-unity,2014-08-31,5,1,"#{""timsgardner@gmail.com""}",175.0,2
+Clojure,arcadia-unity,2014-09-02,16,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",191.0,2
+Clojure,arcadia-unity,2014-09-03,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",198.0,2
+Clojure,arcadia-unity,2014-09-04,4,1,"#{""ram@nas.sr""}",202.0,2
+Clojure,arcadia-unity,2014-09-06,6,1,"#{""timsgardner@gmail.com""}",208.0,2
+Clojure,arcadia-unity,2014-09-07,5,1,"#{""timsgardner@gmail.com""}",213.0,2
+Clojure,arcadia-unity,2014-09-10,1,1,"#{""ram@nas.sr""}",214.0,2
+Clojure,arcadia-unity,2014-09-11,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",224.0,2
+Clojure,arcadia-unity,2014-09-12,1,1,"#{""timsgardner@gmail.com""}",225.0,2
+Clojure,arcadia-unity,2014-09-13,2,1,"#{""ram@nas.sr""}",227.0,2
+Clojure,arcadia-unity,2014-09-14,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",231.0,2
+Clojure,arcadia-unity,2014-09-15,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",235.0,2
+Clojure,arcadia-unity,2014-09-16,1,1,"#{""timsgardner@gmail.com""}",236.0,2
+Clojure,arcadia-unity,2014-09-19,4,1,"#{""ram@nas.sr""}",240.0,2
+Clojure,arcadia-unity,2014-09-27,1,1,"#{""timsgardner@gmail.com""}",241.0,2
+Clojure,arcadia-unity,2014-09-28,1,1,"#{""timsgardner@gmail.com""}",242.0,2
+Clojure,arcadia-unity,2014-09-29,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",248.0,2
+Clojure,arcadia-unity,2014-09-30,1,1,"#{""ram@nas.sr""}",249.0,2
+Clojure,arcadia-unity,2014-10-02,3,1,"#{""ram@nas.sr""}",252.0,2
+Clojure,arcadia-unity,2014-10-03,2,1,"#{""timsgardner@gmail.com""}",254.0,2
+Clojure,arcadia-unity,2014-10-04,2,1,"#{""timsgardner@gmail.com""}",256.0,2
+Clojure,arcadia-unity,2014-10-05,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",266.0,2
+Clojure,arcadia-unity,2014-10-06,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",276.0,2
+Clojure,arcadia-unity,2014-10-07,1,1,"#{""timsgardner@gmail.com""}",277.0,2
+Clojure,arcadia-unity,2014-10-09,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",281.0,2
+Clojure,arcadia-unity,2014-10-10,2,1,"#{""timsgardner@gmail.com""}",283.0,2
+Clojure,arcadia-unity,2014-10-11,11,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",294.0,2
+Clojure,arcadia-unity,2014-10-12,2,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",296.0,2
+Clojure,arcadia-unity,2014-10-13,6,1,"#{""timsgardner@gmail.com""}",302.0,2
+Clojure,arcadia-unity,2014-10-14,13,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",315.0,2
+Clojure,arcadia-unity,2014-10-15,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",321.0,2
+Clojure,arcadia-unity,2014-10-16,4,1,"#{""timsgardner@gmail.com""}",325.0,2
+Clojure,arcadia-unity,2014-10-17,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",329.0,2
+Clojure,arcadia-unity,2014-10-24,2,1,"#{""timsgardner@gmail.com""}",331.0,2
+Clojure,arcadia-unity,2014-10-31,4,1,"#{""ram@nas.sr""}",335.0,2
+Clojure,arcadia-unity,2014-11-08,1,1,"#{""ram@nas.sr""}",336.0,2
+Clojure,arcadia-unity,2014-11-09,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",342.0,2
+Clojure,arcadia-unity,2014-11-10,2,1,"#{""timsgardner@gmail.com""}",344.0,2
+Clojure,arcadia-unity,2014-11-12,2,1,"#{""ram@nas.sr""}",346.0,2
+Clojure,arcadia-unity,2014-11-13,1,1,"#{""ram@nas.sr""}",347.0,2
+Clojure,arcadia-unity,2014-11-24,1,1,"#{""timsgardner@gmail.com""}",348.0,2
+Clojure,arcadia-unity,2014-11-28,7,1,"#{""ram@nas.sr""}",355.0,2
+Clojure,arcadia-unity,2014-12-07,1,1,"#{""timsgardner@gmail.com""}",356.0,2
+Clojure,arcadia-unity,2015-01-11,9,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",365.0,2
+Clojure,arcadia-unity,2015-01-12,2,1,"#{""badger@gitter.im""}",367.0,3
+Clojure,arcadia-unity,2015-01-22,5,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",372.0,3
+Clojure,arcadia-unity,2015-01-24,5,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",377.0,3
+Clojure,arcadia-unity,2015-01-26,1,1,"#{""ram@nas.sr""}",378.0,3
+Clojure,arcadia-unity,2015-01-27,6,1,"#{""ram@nas.sr""}",384.0,3
+Clojure,arcadia-unity,2015-01-28,18,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",402.0,3
+Clojure,arcadia-unity,2015-01-29,3,1,"#{""timsgardner@gmail.com""}",405.0,3
+Clojure,arcadia-unity,2015-01-30,1,1,"#{""timsgardner@gmail.com""}",406.0,3
+Clojure,arcadia-unity,2015-01-31,4,1,"#{""ram@nas.sr""}",410.0,3
+Clojure,arcadia-unity,2015-02-02,2,1,"#{""ram@nas.sr""}",412.0,3
+Clojure,arcadia-unity,2015-02-04,1,1,"#{""timsgardner@gmail.com""}",413.0,3
+Clojure,arcadia-unity,2015-02-05,4,1,"#{""timsgardner@gmail.com""}",417.0,3
+Clojure,arcadia-unity,2015-02-07,1,1,"#{""timsgardner@gmail.com""}",418.0,3
+Clojure,arcadia-unity,2015-03-20,1,1,"#{""timsgardner@gmail.com""}",419.0,3
+Clojure,arcadia-unity,2015-03-30,1,1,"#{""timsgardner@gmail.com""}",420.0,3
+Clojure,arcadia-unity,2015-03-31,1,1,"#{""ram@nas.sr""}",421.0,3
+Clojure,arcadia-unity,2015-04-10,1,1,"#{""timsgardner@gmail.com""}",422.0,3
+Clojure,arcadia-unity,2015-04-13,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",432.0,3
+Clojure,arcadia-unity,2015-04-14,4,1,"#{""timsgardner@gmail.com""}",436.0,3
+Clojure,arcadia-unity,2015-04-15,1,1,"#{""timsgardner@gmail.com""}",437.0,3
+Clojure,arcadia-unity,2015-04-18,3,1,"#{""timsgardner@gmail.com""}",440.0,3
+Clojure,arcadia-unity,2015-04-19,2,1,"#{""ram@nas.sr""}",442.0,3
+Clojure,arcadia-unity,2015-04-20,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",452.0,3
+Clojure,arcadia-unity,2015-04-21,3,1,"#{""timsgardner@gmail.com""}",455.0,3
+Clojure,arcadia-unity,2015-04-24,1,1,"#{""timsgardner@gmail.com""}",456.0,3
+Clojure,arcadia-unity,2015-04-28,4,1,"#{""timsgardner@gmail.com""}",460.0,3
+Clojure,arcadia-unity,2015-05-01,1,1,"#{""timsgardner@gmail.com""}",461.0,3
+Clojure,arcadia-unity,2015-05-02,2,1,"#{""timsgardner@gmail.com""}",463.0,3
+Clojure,arcadia-unity,2015-05-03,2,1,"#{""timsgardner@gmail.com""}",465.0,3
+Clojure,arcadia-unity,2015-05-06,8,1,"#{""timsgardner@gmail.com""}",473.0,3
+Clojure,arcadia-unity,2015-05-13,1,1,"#{""timsgardner@gmail.com""}",474.0,3
+Clojure,arcadia-unity,2015-05-15,1,1,"#{""ram@nas.sr""}",475.0,3
+Clojure,arcadia-unity,2015-05-17,3,1,"#{""ram@nas.sr""}",478.0,3
+Clojure,arcadia-unity,2015-05-25,4,1,"#{""timsgardner@gmail.com""}",482.0,3
+Clojure,arcadia-unity,2015-05-26,1,1,"#{""timsgardner@gmail.com""}",483.0,3
+Clojure,arcadia-unity,2015-05-27,1,1,"#{""ram@nas.sr""}",484.0,3
+Clojure,arcadia-unity,2015-05-28,1,1,"#{""timsgardner@gmail.com""}",485.0,3
+Clojure,arcadia-unity,2015-06-06,4,1,"#{""timsgardner@gmail.com""}",489.0,3
+Clojure,arcadia-unity,2015-06-07,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",493.0,3
+Clojure,arcadia-unity,2015-06-08,1,1,"#{""ram@nas.sr""}",494.0,3
+Clojure,arcadia-unity,2015-06-15,2,1,"#{""timsgardner@gmail.com""}",496.0,3
+Clojure,arcadia-unity,2015-06-16,4,1,"#{""timsgardner@gmail.com""}",500.0,3
+Clojure,arcadia-unity,2015-06-18,1,1,"#{""timsgardner@gmail.com""}",501.0,3
+Clojure,arcadia-unity,2015-06-23,1,1,"#{""ram@nas.sr""}",502.0,3
+Clojure,arcadia-unity,2015-06-24,1,1,"#{""timsgardner@gmail.com""}",503.0,3
+Clojure,arcadia-unity,2015-06-25,6,1,"#{""timsgardner@gmail.com""}",509.0,3
+Clojure,arcadia-unity,2015-07-05,2,1,"#{""timsgardner@gmail.com""}",511.0,3
+Clojure,arcadia-unity,2015-07-06,2,1,"#{""timsgardner@gmail.com""}",513.0,3
+Clojure,arcadia-unity,2015-07-21,2,1,"#{""timsgardner@gmail.com""}",515.0,3
+Clojure,arcadia-unity,2015-07-31,1,1,"#{""timsgardner@gmail.com""}",516.0,3
+Clojure,arcadia-unity,2015-08-03,10,1,"#{""timsgardner@gmail.com""}",526.0,3
+Clojure,arcadia-unity,2015-08-04,8,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",534.0,3
+Clojure,arcadia-unity,2015-08-05,1,1,"#{""ram@nas.sr""}",535.0,3
+Clojure,arcadia-unity,2015-08-06,2,1,"#{""ram@nas.sr""}",537.0,3
+Clojure,arcadia-unity,2015-08-14,1,1,"#{""timsgardner@gmail.com""}",538.0,3
+Clojure,arcadia-unity,2015-08-28,1,1,"#{""timsgardner@gmail.com""}",539.0,3
+Clojure,arcadia-unity,2015-09-14,2,1,"#{""nasser@Ramseys-MacBook-Pro.local""}",541.0,4
+Clojure,arcadia-unity,2015-09-15,1,1,"#{""ram@nas.sr""}",542.0,4
+Clojure,arcadia-unity,2015-11-23,1,1,"#{""ram@nas.sr""}",543.0,4
+Clojure,arcadia-unity,2016-03-22,2,1,"#{""ram@nas.sr""}",545.0,4
+Clojure,arcadia-unity,2016-03-23,2,1,"#{""timsgardner@gmail.com""}",547.0,4
+Clojure,arcadia-unity,2016-03-28,4,1,"#{""timsgardner@gmail.com""}",551.0,4
+Clojure,arcadia-unity,2016-03-30,2,1,"#{""timsgardner@gmail.com""}",553.0,4
+Clojure,arcadia-unity,2016-03-31,1,1,"#{""timsgardner@gmail.com""}",554.0,4
+Clojure,arcadia-unity,2016-04-11,2,1,"#{""timsgardner@gmail.com""}",556.0,4
+Clojure,arcadia-unity,2016-04-13,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",563.0,4
+Clojure,arcadia-unity,2016-04-22,14,1,"#{""ram@nas.sr""}",577.0,4
+Clojure,arcadia-unity,2016-04-23,8,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",585.0,4
+Clojure,arcadia-unity,2016-04-25,9,1,"#{""ram@nas.sr""}",594.0,4
+Clojure,arcadia-unity,2016-04-26,11,1,"#{""ram@nas.sr""}",605.0,4
+Clojure,arcadia-unity,2016-04-27,1,1,"#{""ram@nas.sr""}",606.0,4
+Clojure,arcadia-unity,2016-04-28,2,1,"#{""timsgardner@gmail.com""}",608.0,4
+Clojure,arcadia-unity,2016-05-15,3,1,"#{""ram@nas.sr""}",611.0,4
+Clojure,arcadia-unity,2016-05-16,6,1,"#{""ram@nas.sr""}",617.0,4
+Clojure,arcadia-unity,2016-05-24,3,1,"#{""ram@nas.sr""}",620.0,4
+Clojure,arcadia-unity,2016-05-28,2,1,"#{""ram@nas.sr""}",622.0,4
+Clojure,arcadia-unity,2016-05-29,1,1,"#{""ram@nas.sr""}",623.0,4
+Clojure,arcadia-unity,2016-05-30,4,1,"#{""ram@nas.sr""}",627.0,4
+Clojure,arcadia-unity,2016-06-08,1,1,"#{""ram@nas.sr""}",628.0,4
+Clojure,arcadia-unity,2016-06-18,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",635.0,4
+Clojure,arcadia-unity,2016-06-19,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",641.0,4
+Clojure,arcadia-unity,2016-06-22,1,1,"#{""timsgardner@gmail.com""}",642.0,4
+Clojure,arcadia-unity,2016-06-26,14,1,"#{""ram@nas.sr""}",656.0,4
+Clojure,arcadia-unity,2016-06-27,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",662.0,4
+Clojure,arcadia-unity,2016-07-02,2,1,"#{""ram@nas.sr""}",664.0,4
+Clojure,arcadia-unity,2016-07-03,1,1,"#{""ram@nas.sr""}",665.0,4
+Clojure,arcadia-unity,2016-07-13,2,1,"#{""ram@nas.sr""}",667.0,4
+Clojure,arcadia-unity,2016-07-14,5,1,"#{""timsgardner@gmail.com""}",672.0,4
+Clojure,arcadia-unity,2016-07-17,4,1,"#{""ram@nas.sr""}",676.0,4
+Clojure,arcadia-unity,2016-07-18,1,1,"#{""timsgardner@gmail.com""}",677.0,4
+Clojure,arcadia-unity,2016-07-19,2,1,"#{""timsgardner@gmail.com""}",679.0,4
+Clojure,arcadia-unity,2016-07-22,4,1,"#{""timsgardner@gmail.com""}",683.0,4
+Clojure,arcadia-unity,2016-07-23,2,1,"#{""timsgardner@gmail.com""}",685.0,4
+Clojure,arcadia-unity,2016-07-27,3,1,"#{""ram@nas.sr""}",688.0,4
+Clojure,arcadia-unity,2016-07-31,3,1,"#{""ram@nas.sr""}",691.0,4
+Clojure,arcadia-unity,2016-08-01,9,1,"#{""timsgardner@gmail.com""}",700.0,4
+Clojure,arcadia-unity,2016-08-03,9,1,"#{""timsgardner@gmail.com""}",709.0,4
+Clojure,arcadia-unity,2016-08-04,12,1,"#{""timsgardner@gmail.com""}",721.0,4
+Clojure,arcadia-unity,2016-08-07,4,1,"#{""timsgardner@gmail.com""}",725.0,4
+Clojure,arcadia-unity,2016-08-08,4,1,"#{""timsgardner@gmail.com""}",729.0,4
+Clojure,arcadia-unity,2016-08-09,15,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",744.0,4
+Clojure,arcadia-unity,2016-08-10,13,1,"#{""timsgardner@gmail.com""}",757.0,4
+Clojure,arcadia-unity,2016-08-15,4,1,"#{""timsgardner@gmail.com""}",761.0,4
+Clojure,arcadia-unity,2016-08-16,5,1,"#{""timsgardner@gmail.com""}",766.0,4
+Clojure,arcadia-unity,2016-08-17,4,1,"#{""timsgardner@gmail.com""}",770.0,4
+Clojure,arcadia-unity,2016-08-18,6,1,"#{""timsgardner@gmail.com""}",776.0,4
+Clojure,arcadia-unity,2016-08-19,3,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",779.0,4
+Clojure,arcadia-unity,2016-08-23,2,1,"#{""ram@nas.sr""}",781.0,4
+Clojure,arcadia-unity,2016-08-24,2,1,"#{""timsgardner@gmail.com""}",783.0,4
+Clojure,arcadia-unity,2016-08-29,3,1,"#{""timsgardner@gmail.com""}",786.0,4
+Clojure,arcadia-unity,2016-09-02,2,1,"#{""ram@nas.sr""}",788.0,4
+Clojure,arcadia-unity,2016-09-03,3,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",791.0,4
+Clojure,arcadia-unity,2016-09-06,1,1,"#{""ram@nas.sr""}",792.0,4
+Clojure,arcadia-unity,2016-09-07,10,1,"#{""timsgardner@gmail.com""}",802.0,4
+Clojure,arcadia-unity,2016-09-08,6,1,"#{""timsgardner@gmail.com""}",808.0,4
+Clojure,arcadia-unity,2016-09-09,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",814.0,4
+Clojure,arcadia-unity,2016-09-11,1,1,"#{""ram@nas.sr""}",815.0,4
+Clojure,arcadia-unity,2016-09-12,2,1,"#{""ram@nas.sr""}",817.0,4
+Clojure,arcadia-unity,2016-09-17,1,1,"#{""ram@nas.sr""}",818.0,4
+Clojure,arcadia-unity,2016-09-18,5,1,"#{""timsgardner@gmail.com""}",823.0,4
+Clojure,arcadia-unity,2016-09-19,3,1,"#{""timsgardner@gmail.com""}",826.0,4
+Clojure,arcadia-unity,2016-09-20,5,1,"#{""ram@nas.sr""}",831.0,4
+Clojure,arcadia-unity,2016-09-21,1,1,"#{""ram@nas.sr""}",832.0,4
+Clojure,arcadia-unity,2016-09-23,1,1,"#{""ryan.joshua.jones@gmail.com""}",833.0,5
+Clojure,arcadia-unity,2016-09-29,9,1,"#{""timsgardner@gmail.com""}",842.0,5
+Clojure,arcadia-unity,2016-10-03,1,1,"#{""timsgardner@gmail.com""}",843.0,5
+Clojure,arcadia-unity,2016-10-07,3,1,"#{""ram@nas.sr""}",846.0,5
+Clojure,arcadia-unity,2016-10-10,1,1,"#{""ram@nas.sr""}",847.0,5
+Clojure,arcadia-unity,2016-10-12,2,1,"#{""ram@nas.sr""}",849.0,5
+Clojure,arcadia-unity,2016-10-16,2,1,"#{""ram@nas.sr""}",851.0,5
+Clojure,arcadia-unity,2016-10-26,1,1,"#{""ram@nas.sr""}",852.0,5
+Clojure,arcadia-unity,2016-12-18,1,1,"#{""oscar.morante@mirada.tv""}",853.0,6
+Clojure,arcadia-unity,2017-01-03,1,1,"#{""ram@nas.sr""}",854.0,6
+Clojure,arcadia-unity,2017-01-05,2,1,"#{""ram@nas.sr""}",856.0,6
+Clojure,arcadia-unity,2017-01-21,1,1,"#{""ram@nas.sr""}",857.0,6
+Clojure,arcadia-unity,2017-01-28,3,1,"#{""ram@nas.sr""}",860.0,6
+Clojure,arcadia-unity,2017-02-08,1,1,"#{""timsgardner@gmail.com""}",861.0,6
+Clojure,arcadia-unity,2017-02-09,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",865.0,6
+Clojure,arcadia-unity,2017-02-10,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",871.0,6
+Clojure,arcadia-unity,2017-02-12,15,3,"#{""timsgardner@gmail.com"" ""ram@nas.sr"" ""joseph.parker.1@gmail.com""}",886.0,7
+Clojure,arcadia-unity,2017-02-13,8,4,"#{""timsgardner@gmail.com"" ""ram@nas.sr"" ""joseph.parker.1@gmail.com"" ""oscar@mooistudios.com""}",894.0,8
+Clojure,arcadia-unity,2017-02-14,4,2,"#{""ram@nas.sr"" ""joseph.parker.1@gmail.com""}",898.0,8
+Clojure,arcadia-unity,2017-02-17,1,1,"#{""ram@nas.sr""}",899.0,8
+Clojure,arcadia-unity,2017-02-25,6,1,"#{""timsgardner@gmail.com""}",905.0,8
+Clojure,arcadia-unity,2017-02-28,8,1,"#{""timsgardner@gmail.com""}",913.0,8
+Clojure,arcadia-unity,2017-03-01,2,1,"#{""timsgardner@gmail.com""}",915.0,8
+Clojure,arcadia-unity,2017-03-03,6,1,"#{""timsgardner@gmail.com""}",921.0,8
+Clojure,arcadia-unity,2017-03-08,1,1,"#{""timsgardner@gmail.com""}",922.0,8
+Clojure,arcadia-unity,2017-03-11,8,2,"#{""ram@nas.sr"" ""joseph.parker.1@gmail.com""}",930.0,8
+Clojure,arcadia-unity,2017-03-12,1,1,"#{""ram@nas.sr""}",931.0,8
+Clojure,arcadia-unity,2017-03-14,9,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",940.0,8
+Clojure,arcadia-unity,2017-03-15,2,1,"#{""ram@nas.sr""}",942.0,8
+Clojure,arcadia-unity,2017-03-18,2,1,"#{""contact@jeaye.com""}",944.0,9
+Clojure,arcadia-unity,2017-03-19,1,1,"#{""ram@nas.sr""}",945.0,9
+Clojure,arcadia-unity,2017-03-21,5,1,"#{""timsgardner@gmail.com""}",950.0,9
+Clojure,arcadia-unity,2017-03-23,1,1,"#{""ram@nas.sr""}",951.0,9
+Clojure,arcadia-unity,2017-03-24,2,2,"#{""ram@nas.sr"" ""joseph.parker.1@gmail.com""}",953.0,9
+Clojure,arcadia-unity,2017-04-03,18,3,"#{""timsgardner@gmail.com"" ""ram@nas.sr"" ""joseph.parker.1@gmail.com""}",971.0,9
+Clojure,arcadia-unity,2017-04-06,1,1,"#{""ram@nas.sr""}",972.0,9
+Clojure,arcadia-unity,2017-04-09,6,1,"#{""timsgardner@gmail.com""}",978.0,9
+Clojure,arcadia-unity,2017-04-10,4,1,"#{""timsgardner@gmail.com""}",982.0,9
+Clojure,arcadia-unity,2017-04-11,1,1,"#{""timsgardner@gmail.com""}",983.0,9
+Clojure,arcadia-unity,2017-04-12,5,1,"#{""timsgardner@gmail.com""}",988.0,9
+Clojure,arcadia-unity,2017-04-13,1,1,"#{""timsgardner@gmail.com""}",989.0,9
+Clojure,arcadia-unity,2017-04-14,2,1,"#{""timsgardner@gmail.com""}",991.0,9
+Clojure,arcadia-unity,2017-04-17,3,1,"#{""timsgardner@gmail.com""}",994.0,9
+Clojure,arcadia-unity,2017-04-18,3,1,"#{""timsgardner@gmail.com""}",997.0,9
+Clojure,arcadia-unity,2017-04-23,2,1,"#{""ram@nas.sr""}",999.0,9
+Clojure,arcadia-unity,2017-04-24,3,1,"#{""timsgardner@gmail.com""}",1002.0,9
+Clojure,arcadia-unity,2017-04-25,8,1,"#{""timsgardner@gmail.com""}",1010.0,9
+Clojure,arcadia-unity,2017-05-02,2,1,"#{""timsgardner@gmail.com""}",1012.0,9
+Clojure,arcadia-unity,2017-05-03,11,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1023.0,9
+Clojure,arcadia-unity,2017-05-04,1,1,"#{""timsgardner@gmail.com""}",1024.0,9
+Clojure,arcadia-unity,2017-05-07,3,1,"#{""timsgardner@gmail.com""}",1027.0,9
+Clojure,arcadia-unity,2017-05-11,3,1,"#{""2048terrabit@gmail.com""}",1030.0,10
+Clojure,arcadia-unity,2017-05-18,1,1,"#{""ram@nas.sr""}",1031.0,10
+Clojure,arcadia-unity,2017-05-19,1,1,"#{""timsgardner@gmail.com""}",1032.0,10
+Clojure,arcadia-unity,2017-05-21,1,1,"#{""2048terrabit@gmail.com""}",1033.0,10
+Clojure,arcadia-unity,2017-05-23,1,1,"#{""ram@nas.sr""}",1034.0,10
+Clojure,arcadia-unity,2017-06-03,3,1,"#{""timsgardner@gmail.com""}",1037.0,10
+Clojure,arcadia-unity,2017-06-04,2,1,"#{""timsgardner@gmail.com""}",1039.0,10
+Clojure,arcadia-unity,2017-06-08,3,1,"#{""timsgardner@gmail.com""}",1042.0,10
+Clojure,arcadia-unity,2017-06-15,1,1,"#{""timsgardner@gmail.com""}",1043.0,10
+Clojure,arcadia-unity,2017-06-23,1,1,"#{""timsgardner@gmail.com""}",1044.0,10
+Clojure,arcadia-unity,2017-06-26,2,1,"#{""timsgardner@gmail.com""}",1046.0,10
+Clojure,arcadia-unity,2017-06-29,10,1,"#{""timsgardner@gmail.com""}",1056.0,10
+Clojure,arcadia-unity,2017-06-30,1,1,"#{""timsgardner@gmail.com""}",1057.0,10
+Clojure,arcadia-unity,2017-07-05,3,1,"#{""timsgardner@gmail.com""}",1060.0,10
+Clojure,arcadia-unity,2017-07-06,1,1,"#{""timsgardner@gmail.com""}",1061.0,10
+Clojure,arcadia-unity,2017-07-07,2,1,"#{""timsgardner@gmail.com""}",1063.0,10
+Clojure,arcadia-unity,2017-07-09,1,1,"#{""timsgardner@gmail.com""}",1064.0,10
+Clojure,arcadia-unity,2017-07-10,2,1,"#{""timsgardner@gmail.com""}",1066.0,10
+Clojure,arcadia-unity,2017-07-11,1,1,"#{""timsgardner@gmail.com""}",1067.0,10
+Clojure,arcadia-unity,2017-07-12,2,1,"#{""timsgardner@gmail.com""}",1069.0,10
+Clojure,arcadia-unity,2017-07-13,2,1,"#{""timsgardner@gmail.com""}",1071.0,10
+Clojure,arcadia-unity,2017-07-19,9,1,"#{""timsgardner@gmail.com""}",1080.0,10
+Clojure,arcadia-unity,2017-07-20,6,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1086.0,10
+Clojure,arcadia-unity,2017-07-30,2,1,"#{""timsgardner@gmail.com""}",1088.0,10
+Clojure,arcadia-unity,2017-08-01,3,1,"#{""timsgardner@gmail.com""}",1091.0,10
+Clojure,arcadia-unity,2017-08-05,6,1,"#{""joseph.parker.1@gmail.com""}",1097.0,10
+Clojure,arcadia-unity,2017-08-13,3,1,"#{""ram@nas.sr""}",1100.0,10
+Clojure,arcadia-unity,2017-08-20,1,1,"#{""ram@nas.sr""}",1101.0,10
+Clojure,arcadia-unity,2017-08-22,3,1,"#{""2048terrabit@gmail.com""}",1104.0,10
+Clojure,arcadia-unity,2017-08-24,9,1,"#{""ram@nas.sr""}",1113.0,10
+Clojure,arcadia-unity,2017-09-01,4,1,"#{""ram@nas.sr""}",1117.0,10
+Clojure,arcadia-unity,2017-09-04,1,1,"#{""ram@nas.sr""}",1118.0,10
+Clojure,arcadia-unity,2017-09-08,2,1,"#{""timsgardner@gmail.com""}",1120.0,10
+Clojure,arcadia-unity,2017-09-14,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1127.0,10
+Clojure,arcadia-unity,2017-09-15,5,1,"#{""timsgardner@gmail.com""}",1132.0,10
+Clojure,arcadia-unity,2017-09-17,5,1,"#{""timsgardner@gmail.com""}",1137.0,10
+Clojure,arcadia-unity,2017-09-18,2,1,"#{""timsgardner@gmail.com""}",1139.0,10
+Clojure,arcadia-unity,2017-09-20,7,1,"#{""timsgardner@gmail.com""}",1146.0,10
+Clojure,arcadia-unity,2017-09-21,4,1,"#{""timsgardner@gmail.com""}",1150.0,10
+Clojure,arcadia-unity,2017-09-23,1,1,"#{""timsgardner@gmail.com""}",1151.0,10
+Clojure,arcadia-unity,2017-09-25,8,1,"#{""timsgardner@gmail.com""}",1159.0,10
+Clojure,arcadia-unity,2017-09-26,5,1,"#{""timsgardner@gmail.com""}",1164.0,10
+Clojure,arcadia-unity,2017-09-27,5,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1169.0,10
+Clojure,arcadia-unity,2017-09-28,1,1,"#{""timsgardner@gmail.com""}",1170.0,10
+Clojure,arcadia-unity,2017-10-21,2,1,"#{""ram@nas.sr""}",1172.0,10
+Clojure,arcadia-unity,2017-10-30,1,1,"#{""timsgardner@gmail.com""}",1173.0,10
+Clojure,arcadia-unity,2017-11-04,7,3,"#{""JZSuskalo@FullSail.edu"" ""ram@nas.sr"" ""symbolics@lisp.engineer""}",1180.0,12
+Clojure,arcadia-unity,2017-11-09,3,1,"#{""timsgardner@gmail.com""}",1183.0,12
+Clojure,arcadia-unity,2017-11-15,1,1,"#{""timsgardner@gmail.com""}",1184.0,12
+Clojure,arcadia-unity,2017-11-16,6,1,"#{""timsgardner@gmail.com""}",1190.0,12
+Clojure,arcadia-unity,2017-11-17,3,1,"#{""joseph.parker.1@gmail.com""}",1193.0,12
+Clojure,arcadia-unity,2017-11-20,1,1,"#{""timsgardner@gmail.com""}",1194.0,12
+Clojure,arcadia-unity,2017-11-29,1,1,"#{""timsgardner@gmail.com""}",1195.0,12
+Clojure,arcadia-unity,2017-12-01,2,1,"#{""timsgardner@gmail.com""}",1197.0,12
+Clojure,arcadia-unity,2017-12-05,1,1,"#{""timsgardner@gmail.com""}",1198.0,12
+Clojure,arcadia-unity,2017-12-09,4,1,"#{""ram@nas.sr""}",1202.0,12
+Clojure,arcadia-unity,2017-12-10,1,1,"#{""timsgardner@gmail.com""}",1203.0,12
+Clojure,arcadia-unity,2017-12-16,1,1,"#{""timsgardner@gmail.com""}",1204.0,12
+Clojure,arcadia-unity,2017-12-19,1,1,"#{""timsgardner@gmail.com""}",1205.0,12
+Clojure,arcadia-unity,2017-12-27,4,1,"#{""timsgardner@gmail.com""}",1209.0,12
+Clojure,arcadia-unity,2018-01-02,1,1,"#{""timsgardner@gmail.com""}",1210.0,12
+Clojure,arcadia-unity,2018-03-07,1,1,"#{""pedro.m4rtins@gmail.com""}",1211.0,13
+Clojure,arcadia-unity,2018-03-13,1,1,"#{""pedro.m4rtins@gmail.com""}",1212.0,13
+Clojure,arcadia-unity,2018-03-20,1,1,"#{""ram@nas.sr""}",1213.0,13
+Clojure,arcadia-unity,2018-03-23,1,1,"#{""timsgardner@gmail.com""}",1214.0,13
+Clojure,arcadia-unity,2018-03-30,1,1,"#{""pedro.m4rtins@gmail.com""}",1215.0,13
+Clojure,arcadia-unity,2018-04-04,5,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1220.0,13
+Clojure,arcadia-unity,2018-04-06,3,1,"#{""timsgardner@gmail.com""}",1223.0,13
+Clojure,arcadia-unity,2018-04-09,1,1,"#{""timsgardner@gmail.com""}",1224.0,13
+Clojure,arcadia-unity,2018-04-10,1,1,"#{""ram@nas.sr""}",1225.0,13
+Clojure,arcadia-unity,2018-04-11,2,1,"#{""timsgardner@gmail.com""}",1227.0,13
+Clojure,arcadia-unity,2018-04-12,6,1,"#{""timsgardner@gmail.com""}",1233.0,13
+Clojure,arcadia-unity,2018-04-13,3,1,"#{""timsgardner@gmail.com""}",1236.0,13
+Clojure,arcadia-unity,2018-04-14,1,1,"#{""timsgardner@gmail.com""}",1237.0,13
+Clojure,arcadia-unity,2018-04-15,6,1,"#{""timsgardner@gmail.com""}",1243.0,13
+Clojure,arcadia-unity,2018-04-16,8,2,"#{""pedro.m4rtins@gmail.com"" ""timsgardner@gmail.com""}",1251.0,13
+Clojure,arcadia-unity,2018-04-20,1,1,"#{""pedro.m4rtins@gmail.com""}",1252.0,13
+Clojure,arcadia-unity,2018-04-25,1,1,"#{""ram@nas.sr""}",1253.0,13
+Clojure,arcadia-unity,2018-04-28,1,1,"#{""vincent.cantin@le-moulin-studio.com""}",1254.0,14
+Clojure,arcadia-unity,2018-04-30,1,1,"#{""pedro.m4rtins@gmail.com""}",1255.0,14
+Clojure,arcadia-unity,2018-05-02,3,1,"#{""ram@nas.sr""}",1258.0,14
+Clojure,arcadia-unity,2018-05-14,2,2,"#{""saikyun@gmail.com"" ""arturdebkowski@gmail.com""}",1260.0,16
+Clojure,arcadia-unity,2018-05-15,1,1,"#{""arturdebkowski@gmail.com""}",1261.0,16
+Clojure,arcadia-unity,2018-06-19,1,1,"#{""me@jeremykross.com""}",1262.0,17
+Clojure,arcadia-unity,2018-06-20,1,1,"#{""me@jeremykross.com""}",1263.0,17
+Clojure,arcadia-unity,2018-08-01,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1273.0,17
+Clojure,arcadia-unity,2018-08-06,7,1,"#{""timsgardner@gmail.com""}",1280.0,17
+Clojure,arcadia-unity,2018-08-15,1,1,"#{""timsgardner@gmail.com""}",1281.0,17
+Clojure,arcadia-unity,2018-08-27,4,1,"#{""timsgardner@gmail.com""}",1285.0,17
+Clojure,arcadia-unity,2018-08-29,2,1,"#{""timsgardner@gmail.com""}",1287.0,17
+Clojure,arcadia-unity,2018-08-31,1,1,"#{""timsgardner@gmail.com""}",1288.0,17
+Clojure,arcadia-unity,2018-09-05,7,1,"#{""timsgardner@gmail.com""}",1295.0,17
+Clojure,arcadia-unity,2018-09-06,5,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1300.0,17
+Clojure,arcadia-unity,2018-09-07,4,1,"#{""timsgardner@gmail.com""}",1304.0,17
+Clojure,arcadia-unity,2018-10-01,9,1,"#{""timsgardner@gmail.com""}",1313.0,17
+Clojure,arcadia-unity,2018-10-03,2,1,"#{""timsgardner@gmail.com""}",1315.0,17
+Clojure,arcadia-unity,2018-10-05,1,1,"#{""timsgardner@gmail.com""}",1316.0,17
+Clojure,arcadia-unity,2018-10-08,3,1,"#{""timsgardner@gmail.com""}",1319.0,17
+Clojure,arcadia-unity,2018-10-09,7,1,"#{""timsgardner@gmail.com""}",1326.0,17
+Clojure,arcadia-unity,2018-10-10,2,1,"#{""timsgardner@gmail.com""}",1328.0,17
+Clojure,arcadia-unity,2018-10-11,1,1,"#{""timsgardner@gmail.com""}",1329.0,17
+Clojure,arcadia-unity,2018-10-15,8,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1337.0,17
+Clojure,arcadia-unity,2018-10-16,3,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1340.0,17
+Clojure,arcadia-unity,2018-10-17,2,1,"#{""timsgardner@gmail.com""}",1342.0,17
+Clojure,arcadia-unity,2018-10-18,2,1,"#{""timsgardner@gmail.com""}",1344.0,17
+Clojure,arcadia-unity,2018-10-20,3,1,"#{""timsgardner@gmail.com""}",1347.0,17
+Clojure,arcadia-unity,2018-10-21,1,1,"#{""timsgardner@gmail.com""}",1348.0,17
+Clojure,arcadia-unity,2018-10-22,1,1,"#{""timsgardner@gmail.com""}",1349.0,17
+Clojure,arcadia-unity,2018-10-25,4,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1353.0,17
+Clojure,arcadia-unity,2018-10-26,3,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1356.0,17
+Clojure,arcadia-unity,2018-10-30,2,1,"#{""ram@nas.sr""}",1358.0,17
+Clojure,arcadia-unity,2018-11-02,1,1,"#{""timsgardner@gmail.com""}",1359.0,17
+Clojure,arcadia-unity,2018-11-06,1,1,"#{""hi.teresy@gmail.com""}",1360.0,18
+Clojure,arcadia-unity,2018-11-07,1,1,"#{""ram@nas.sr""}",1361.0,18
+Clojure,arcadia-unity,2018-11-08,2,1,"#{""timsgardner@gmail.com""}",1363.0,18
+Clojure,arcadia-unity,2018-11-13,8,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1371.0,18
+Clojure,arcadia-unity,2018-11-14,5,1,"#{""timsgardner@gmail.com""}",1376.0,18
+Clojure,arcadia-unity,2018-11-15,3,1,"#{""timsgardner@gmail.com""}",1379.0,18
+Clojure,arcadia-unity,2018-11-16,9,1,"#{""timsgardner@gmail.com""}",1388.0,18
+Clojure,arcadia-unity,2018-11-18,5,1,"#{""timsgardner@gmail.com""}",1393.0,18
+Clojure,arcadia-unity,2018-11-19,1,1,"#{""timsgardner@gmail.com""}",1394.0,18
+Clojure,arcadia-unity,2018-11-21,10,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1404.0,18
+Clojure,arcadia-unity,2018-11-23,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1411.0,18
+Clojure,arcadia-unity,2018-11-24,1,1,"#{""timsgardner@gmail.com""}",1412.0,18
+Clojure,arcadia-unity,2018-11-26,6,1,"#{""ram@nas.sr""}",1418.0,18
+Clojure,arcadia-unity,2018-11-27,2,1,"#{""ram@nas.sr""}",1420.0,18
+Clojure,arcadia-unity,2018-11-28,2,1,"#{""ram@nas.sr""}",1422.0,18
+Clojure,arcadia-unity,2018-11-29,6,1,"#{""timsgardner@gmail.com""}",1428.0,18
+Clojure,arcadia-unity,2018-11-30,17,1,"#{""timsgardner@gmail.com""}",1445.0,18
+Clojure,arcadia-unity,2018-12-03,8,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1453.0,18
+Clojure,arcadia-unity,2018-12-04,5,1,"#{""ram@nas.sr""}",1458.0,18
+Clojure,arcadia-unity,2018-12-05,4,1,"#{""ram@nas.sr""}",1462.0,18
+Clojure,arcadia-unity,2018-12-06,23,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1485.0,18
+Clojure,arcadia-unity,2018-12-07,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1492.0,18
+Clojure,arcadia-unity,2018-12-10,9,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1501.0,18
+Clojure,arcadia-unity,2018-12-11,17,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1518.0,18
+Clojure,arcadia-unity,2018-12-12,44,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1562.0,18
+Clojure,arcadia-unity,2018-12-13,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1569.0,18
+Clojure,arcadia-unity,2018-12-15,14,1,"#{""timsgardner@gmail.com""}",1583.0,18
+Clojure,arcadia-unity,2018-12-16,5,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1588.0,18
+Clojure,arcadia-unity,2018-12-17,17,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1605.0,18
+Clojure,arcadia-unity,2018-12-18,33,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1638.0,18
+Clojure,arcadia-unity,2018-12-19,1,1,"#{""ram@nas.sr""}",1639.0,18
+Clojure,arcadia-unity,2018-12-20,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1646.0,18
+Clojure,arcadia-unity,2018-12-21,1,1,"#{""ram@nas.sr""}",1647.0,18
+Clojure,arcadia-unity,2019-01-08,1,1,"#{""ram@nas.sr""}",1648.0,18
+Clojure,arcadia-unity,2019-01-09,2,1,"#{""ram@nas.sr""}",1650.0,18
+Clojure,arcadia-unity,2019-01-11,1,1,"#{""ram@nas.sr""}",1651.0,18
+Clojure,arcadia-unity,2019-01-15,2,1,"#{""ram@nas.sr""}",1653.0,18
+Clojure,arcadia-unity,2019-02-13,2,1,"#{""timsgardner@gmail.com""}",1655.0,18
+Clojure,arcadia-unity,2019-02-15,1,1,"#{""timsgardner@gmail.com""}",1656.0,18
+Clojure,arcadia-unity,2019-02-17,1,1,"#{""timsgardner@gmail.com""}",1657.0,18
+Clojure,arcadia-unity,2019-02-18,4,1,"#{""timsgardner@gmail.com""}",1661.0,18
+Clojure,arcadia-unity,2019-02-26,1,1,"#{""timsgardner@gmail.com""}",1662.0,18
+Clojure,arcadia-unity,2019-03-04,3,1,"#{""timsgardner@gmail.com""}",1665.0,18
+Clojure,arcadia-unity,2019-03-29,1,1,"#{""jsanchezfsms@gmail.com""}",1666.0,19
+Clojure,arcadia-unity,2019-03-31,1,1,"#{""jsanchezfsms@gmail.com""}",1667.0,19
+Clojure,arcadia-unity,2019-04-04,1,1,"#{""jsanchezfsms@gmail.com""}",1668.0,19
+Clojure,arcadia-unity,2019-04-05,3,1,"#{""ram@nas.sr""}",1671.0,19
+Clojure,arcadia-unity,2019-05-01,2,1,"#{""ram@nas.sr""}",1673.0,19
+Clojure,arcadia-unity,2019-05-02,2,1,"#{""joseph.parker.1@gmail.com""}",1675.0,19
+Clojure,arcadia-unity,2019-05-03,7,1,"#{""timsgardner@gmail.com""}",1682.0,19
+Clojure,arcadia-unity,2019-05-04,3,1,"#{""joseph.parker.1@gmail.com""}",1685.0,19
+Clojure,arcadia-unity,2019-05-06,1,1,"#{""joseph.parker.1@gmail.com""}",1686.0,19
+Clojure,arcadia-unity,2019-06-04,1,1,"#{""ram@nas.sr""}",1687.0,19
+Clojure,arcadia-unity,2019-07-30,1,1,"#{""timsgardner@gmail.com""}",1688.0,19
+Clojure,arcadia-unity,2019-08-28,1,1,"#{""timsgardner@gmail.com""}",1689.0,19
+Clojure,arcadia-unity,2019-08-29,3,1,"#{""ram@nas.sr""}",1692.0,19
+Clojure,arcadia-unity,2019-08-30,4,1,"#{""ram@nas.sr""}",1696.0,19
+Clojure,arcadia-unity,2019-09-03,2,1,"#{""ram@nas.sr""}",1698.0,19
+Clojure,arcadia-unity,2019-09-09,1,1,"#{""ram@nas.sr""}",1699.0,19
+Clojure,arcadia-unity,2019-09-10,2,1,"#{""ram@nas.sr""}",1701.0,19
+Clojure,arcadia-unity,2019-09-11,4,1,"#{""ram@nas.sr""}",1705.0,19
+Clojure,arcadia-unity,2019-09-13,4,1,"#{""ram@nas.sr""}",1709.0,19
+Clojure,arcadia-unity,2019-09-16,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1716.0,19
+Clojure,arcadia-unity,2019-09-17,1,1,"#{""ram@nas.sr""}",1717.0,19
+Clojure,arcadia-unity,2019-09-19,7,2,"#{""timsgardner@gmail.com"" ""ram@nas.sr""}",1724.0,19
+Clojure,arcadia-unity,2019-10-20,2,2,"#{""ulysses.popple@gmail.com"" ""ram@nas.sr""}",1726.0,20
+Clojure,arcadia-unity,2020-02-26,4,1,"#{""timsgardner@gmail.com""}",1730.0,20
+Clojure,arcadia-unity,2020-03-06,2,1,"#{""timsgardner@gmail.com""}",1732.0,20
+Clojure,arcadia-unity,2020-03-26,1,1,"#{""jsanchezfsms@gmail.com""}",1733.0,20
+Clojure,arcadia-unity,2020-03-27,5,1,"#{""jsanchezfsms@gmail.com""}",1738.0,20
+Clojure,arcadia-unity,2020-03-28,1,1,"#{""jsanchezfsms@gmail.com""}",1739.0,20
+Clojure,arcadia-unity,2020-04-01,3,1,"#{""jsanchezfsms@gmail.com""}",1742.0,20
+Clojure,arcadia-unity,2020-04-02,2,1,"#{""jsanchezfsms@gmail.com""}",1744.0,20
+Clojure,arcadia-unity,2020-04-09,1,1,"#{""jsanchezfsms@gmail.com""}",1745.0,20
+Clojure,arcadia-unity,2020-04-10,1,1,"#{""jsanchezfsms@gmail.com""}",1746.0,20
+Clojure,arcadia-unity,2020-04-13,2,1,"#{""ram@nas.sr""}",1748.0,20
+Clojure,arcadia-unity,2020-09-14,1,1,"#{""joseph.parker.1@gmail.com""}",1749.0,20
+Clojure,arcadia-unity,2020-09-15,1,1,"#{""joseph.parker.1@gmail.com""}",1750.0,20
+Clojure,arcadia-unity,2020-09-16,2,1,"#{""joseph.parker.1@gmail.com""}",1752.0,20
+Clojure,arcadia-unity,2020-09-17,1,1,"#{""joseph.parker.1@gmail.com""}",1753.0,20
+Clojure,arcadia-unity,2020-09-19,4,1,"#{""joseph.parker.1@gmail.com""}",1757.0,20
+Clojure,arcadia-unity,2020-09-20,1,1,"#{""joseph.parker.1@gmail.com""}",1758.0,20
+Clojure,arcadia-unity,2020-09-21,1,1,"#{""joseph.parker.1@gmail.com""}",1759.0,20
+Clojure,arcadia-unity,2020-09-24,1,1,"#{""joseph.parker.1@gmail.com""}",1760.0,20
+Clojure,arcadia-unity,2020-09-27,1,1,"#{""joseph.parker.1@gmail.com""}",1761.0,20
+Clojure,arcadia-unity,2020-09-30,1,1,"#{""joseph.parker.1@gmail.com""}",1762.0,20
+Clojure,arcadia-unity,2020-10-06,1,1,"#{""joseph.parker.1@gmail.com""}",1763.0,20
+Clojure,arcadia-unity,2020-10-13,1,1,"#{""joseph.parker.1@gmail.com""}",1764.0,20
+Clojure,arcadia-unity,2020-11-03,1,1,"#{""joseph.parker.1@gmail.com""}",1765.0,20
+Clojure,arcadia-unity,2020-11-13,4,2,"#{""5009316+bfollington@users.noreply.github.com"" ""joseph.parker.1@gmail.com""}",1769.0,21
+Clojure,arcadia-unity,2020-12-01,6,1,"#{""arundilipan@gmail.com""}",1775.0,22
+Clojure,arcadia-unity,2021-01-03,3,1,"#{""joseph.parker.1@gmail.com""}",1778.0,22
+Clojure,arcadia-unity,2021-01-16,1,1,"#{""joseph.parker.1@gmail.com""}",1779.0,22
+Clojure,arcadia-unity,2021-01-17,2,1,"#{""joseph.parker.1@gmail.com""}",1781.0,22
+Clojure,arcadia-unity,2021-01-19,1,1,"#{""joseph.parker.1@gmail.com""}",1782.0,22
+Clojure,arcadia-unity,2021-01-20,1,1,"#{""joseph.parker.1@gmail.com""}",1783.0,22
+Clojure,arcadia-unity,2021-06-16,1,1,"#{""kevin.van.rooijen@protonmail.com""}",1784.0,23
+Clojure,arcadia-unity,2021-06-17,1,1,"#{""kevin.van.rooijen@protonmail.com""}",1785.0,23
+Clojure,arcadia-unity,2021-06-19,1,1,"#{""kevin.van.rooijen@protonmail.com""}",1786.0,23
+Clojure,arcadia-unity,2021-06-25,3,1,"#{""joseph.parker.1@gmail.com""}",1789.0,23
+Clojure,arcadia-unity,2021-06-30,1,1,"#{""joseph.parker.1@gmail.com""}",1790.0,23

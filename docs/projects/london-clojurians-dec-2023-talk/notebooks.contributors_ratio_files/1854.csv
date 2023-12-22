@@ -1,0 +1,328 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/funcool/buddy-auth,2014-12-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",3.0,[{1 3}],0,0,3,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-01-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.be, niwi@niwi.be]",5.0,[{1 5}],0,0,5,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-01-18,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",20.0,[{1 20}],0,0,20,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-01-19,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",31.0,[{1 31}],0,0,31,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-01-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.be, niwi@niwi.be]",33.0,[{1 33}],0,0,33,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-01-24,16,1,"#tech.v3.dataset.column<string>[16]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",49.0,[{1 49}],0,0,49,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-02-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[mrundberget@hotmail.com, mrundberget@hotmail.com]",51.0,"[{1 49, ""other"" 2}]",2,0,49,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.be]",52.0,"[{1 50, ""other"" 2}]",2,0,50,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-02-15,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",61.0,"[{1 59, ""other"" 2}]",2,0,59,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-02-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",64.0,"[{1 62, ""other"" 2}]",2,0,62,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.be]",65.0,"[{1 63, ""other"" 2}]",2,0,63,0,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-01,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[benjamin.l.cordes@gmail.com, benjamin.l.cordes@gmail.com, benjamin.l.cordes@gmail.com, niwi@niwi.be, me@jessekeane.me]",70.0,"[{1 64, ""other"" 3, 2 3}]",3,0,64,3,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[benjamin.l.cordes@gmail.com, benjamin.l.cordes@gmail.com, benjamin.l.cordes@gmail.com]",73.0,"[{1 64, ""other"" 3, 2 6}]",3,0,64,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-10,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, niwi@niwi.be, david@orphid.com]",76.0,"[{1 66, ""other"" 4, 2 6}]",4,0,66,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[federkasten@me.com]",77.0,"[{1 66, ""other"" 5, 2 6}]",5,0,66,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.be]",78.0,"[{1 67, ""other"" 5, 2 6}]",5,0,67,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-14,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",85.0,"[{1 74, ""other"" 5, 2 6}]",5,0,74,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-25,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, niwi@niwi.be, kennyliu@deadgho.st]",88.0,"[{1 76, ""other"" 6, 2 6}]",6,0,76,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.be, kennyliu@deadgho.st, kennyliu@deadgho.st]",91.0,"[{1 77, ""other"" 8, 2 6}]",8,0,77,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-03-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.be, niwi@niwi.be]",93.0,"[{1 79, ""other"" 8, 2 6}]",8,0,79,6,0,0
+Clojure,https://github.com/funcool/buddy-auth,2015-04-02,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, roman@burningswell.com, niwi@niwi.be, roman@burningswell.com]",99.0,"[{1 83, ""other"" 8, 2 6, 4 2}]",8,0,83,6,0,2
+Clojure,https://github.com/funcool/buddy-auth,2015-04-03,35,2,"#tech.v3.dataset.column<string>[35]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be...]",134.0,"[{1 117, ""other"" 8, 2 6, 4 3}]",8,0,117,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-04-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",138.0,"[{1 121, ""other"" 8, 2 6, 4 3}]",8,0,121,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.be]",139.0,"[{1 122, ""other"" 8, 2 6, 4 3}]",8,0,122,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-05-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be, niwi@niwi.be]",145.0,"[{1 128, ""other"" 8, 2 6, 4 3}]",8,0,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-05-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",148.0,"[{1 128, ""other"" 8, 2 6, 4 3, 0 3}]",8,3,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-06-28,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",160.0,"[{1 128, ""other"" 8, 2 6, 4 3, 0 15}]",8,15,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-06-30,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",168.0,"[{1 128, ""other"" 8, 2 6, 4 3, 0 23}]",8,23,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",169.0,"[{1 128, ""other"" 8, 2 6, 4 3, 0 24}]",8,24,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ricardo@numergent.com]",170.0,"[{1 128, ""other"" 9, 2 6, 4 3, 0 24}]",9,24,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",171.0,"[{1 128, ""other"" 9, 2 6, 4 3, 0 25}]",9,25,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ryanwilson.m@gmail.com]",172.0,"[{1 128, ""other"" 10, 2 6, 4 3, 0 25}]",10,25,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",173.0,"[{1 128, ""other"" 10, 2 6, 4 3, 0 26}]",10,26,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-08-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",176.0,"[{1 128, ""other"" 10, 2 6, 4 3, 0 29}]",10,29,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-08-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",180.0,"[{1 128, ""other"" 10, 2 6, 4 3, 0 33}]",10,33,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-08-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",183.0,"[{1 128, ""other"" 10, 2 6, 4 3, 0 36}]",10,36,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-09-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jon.pither@gmail.com, jon.pither@gmail.com]",185.0,"[{1 128, ""other"" 12, 2 6, 4 3, 0 36}]",12,36,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-09-05,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",192.0,"[{1 128, ""other"" 12, 2 6, 4 3, 0 43}]",12,43,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-09-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, niwi@niwi.nz]",194.0,"[{1 128, ""other"" 12, 2 6, 4 3, 0 45}]",12,45,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-09-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",197.0,"[{1 128, ""other"" 12, 2 6, 4 3, 0 48}]",12,48,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@philippkueng.ch]",198.0,"[{1 128, ""other"" 13, 2 6, 4 3, 0 48}]",13,48,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-09-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",199.0,"[{1 128, ""other"" 13, 2 6, 4 3, 0 49}]",13,49,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-10-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",200.0,"[{1 128, ""other"" 13, 2 6, 4 3, 0 50}]",13,50,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-10-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, niwi@niwi.nz]",202.0,"[{1 128, ""other"" 13, 2 6, 4 3, 0 52}]",13,52,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-11-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, niwi@niwi.nz]",204.0,"[{1 128, ""other"" 13, 2 6, 4 3, 0 54}]",13,54,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-11-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, niwi@niwi.nz]",206.0,"[{1 128, ""other"" 13, 2 6, 4 3, 0 56}]",13,56,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-12-08,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, mkyle@liveops.com]",209.0,"[{1 128, ""other"" 14, 2 6, 4 3, 0 58}]",14,58,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2015-12-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, ulrik.sandberg@jayway.com]",211.0,"[{1 128, ""other"" 15, 2 6, 4 3, 0 59}]",15,59,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",212.0,"[{1 128, ""other"" 15, 2 6, 4 3, 0 60}]",15,60,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-01-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",216.0,"[{1 128, ""other"" 15, 2 6, 4 3, 0 64}]",15,64,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-01-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, krivachy@users.noreply.github.com, krivachy@users.noreply.github.com]",219.0,"[{1 128, ""other"" 17, 2 6, 4 3, 0 65}]",17,65,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-02-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[nzaporojan@gmail.com]",220.0,"[{1 128, ""other"" 18, 2 6, 4 3, 0 65}]",18,65,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-02-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nzaporojan@gmail.com, nzaporojan@gmail.com]",222.0,"[{1 128, ""other"" 20, 2 6, 4 3, 0 65}]",20,65,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",223.0,"[{1 128, ""other"" 20, 2 6, 4 3, 0 66}]",20,66,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-02-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, stig@brautaset.org]",225.0,"[{1 128, ""other"" 21, 2 6, 4 3, 0 67}]",21,67,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-02-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dsvojanovsky@gmail.com, dsvojanovsky@gmail.com]",227.0,"[{1 128, ""other"" 23, 2 6, 4 3, 0 67}]",23,67,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-02-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",228.0,"[{1 128, ""other"" 23, 2 6, 4 3, 0 68}]",23,68,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ericwnormand@gmail.com]",229.0,"[{1 128, ""other"" 24, 2 6, 4 3, 0 68}]",24,68,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-03-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",230.0,"[{1 128, ""other"" 24, 2 6, 4 3, 0 69}]",24,69,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-03-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",234.0,"[{1 128, ""other"" 24, 2 6, 4 3, 0 73}]",24,73,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-03-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",238.0,"[{1 128, ""other"" 24, 2 6, 4 3, 0 77}]",24,77,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-04-09,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",244.0,"[{1 128, ""other"" 24, 2 6, 4 3, 0 83}]",24,83,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-04-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",248.0,"[{1 128, ""other"" 24, 2 6, 4 3, 0 87}]",24,87,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-05-21,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",255.0,"[{1 128, ""other"" 24, 2 6, 4 3, 0 94}]",24,94,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-05-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, yzernik@gmail.com]",257.0,"[{1 128, ""other"" 25, 2 6, 4 3, 0 95}]",25,95,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-06-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, huu2uan@gmail.com]",259.0,"[{1 128, ""other"" 26, 2 6, 4 3, 0 96}]",26,96,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",260.0,"[{1 128, ""other"" 26, 2 6, 4 3, 0 97}]",26,97,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-06-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dijonkitchen@users.noreply.github.com, dijonkitchen@users.noreply.github.com]",262.0,"[{1 128, ""other"" 28, 2 6, 4 3, 0 97}]",28,97,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",263.0,"[{1 128, ""other"" 28, 2 6, 4 3, 0 98}]",28,98,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-07-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adam@adamfrey.me]",264.0,"[{1 128, ""other"" 29, 2 6, 4 3, 0 98}]",29,98,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-07-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",265.0,"[{1 128, ""other"" 29, 2 6, 4 3, 0 99}]",29,99,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-09-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",268.0,"[{1 128, ""other"" 29, 2 6, 4 3, 0 102}]",29,102,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erik@assum.net]",269.0,"[{1 128, ""other"" 30, 2 6, 4 3, 0 102}]",30,102,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",270.0,"[{1 128, ""other"" 30, 2 6, 4 3, 0 103}]",30,103,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2016-11-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",275.0,"[{1 128, ""other"" 30, 2 6, 4 3, 0 108}]",30,108,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[raymond.huang@unbounce.com]",276.0,"[{1 128, ""other"" 31, 2 6, 4 3, 0 108}]",31,108,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",277.0,"[{1 128, ""other"" 31, 2 6, 4 3, 0 109}]",31,109,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-01-24,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",282.0,"[{1 128, ""other"" 31, 2 6, 4 3, 0 114}]",31,114,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-01-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",285.0,"[{1 128, ""other"" 31, 2 6, 4 3, 0 117}]",31,117,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",286.0,"[{1 128, ""other"" 31, 2 6, 4 3, 0 118}]",31,118,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[erik@assum.net]",287.0,"[{1 128, ""other"" 32, 2 6, 4 3, 0 118}]",32,118,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-05-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",288.0,"[{1 128, ""other"" 32, 2 6, 4 3, 0 119}]",32,119,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mike706574@users.noreply.github.com]",289.0,"[{1 128, ""other"" 33, 2 6, 4 3, 0 119}]",33,119,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-07-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",290.0,"[{1 128, ""other"" 33, 2 6, 4 3, 0 120}]",33,120,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",291.0,"[{1 128, ""other"" 34, 2 6, 4 3, 0 120}]",34,120,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-08-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",292.0,"[{1 128, ""other"" 34, 2 6, 4 3, 0 121}]",34,121,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[josh@grahamis.com]",293.0,"[{1 128, ""other"" 35, 2 6, 4 3, 0 121}]",35,121,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",294.0,"[{1 128, ""other"" 35, 2 6, 4 3, 0 122}]",35,122,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-08-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",297.0,"[{1 128, ""other"" 35, 2 6, 4 3, 0 125}]",35,125,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dimovich@gmail.com]",298.0,"[{1 128, ""other"" 36, 2 6, 4 3, 0 125}]",36,125,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tirkarthi@users.noreply.github.com]",299.0,"[{1 128, ""other"" 37, 2 6, 4 3, 0 125}]",37,125,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2017-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[niwi@niwi.nz]",300.0,"[{1 128, ""other"" 37, 2 6, 4 3, 0 126}]",37,126,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2018-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tir.karthi@gmail.com]",301.0,"[{1 128, ""other"" 38, 2 6, 4 3, 0 126}]",38,126,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2018-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mping@equalexperts.com]",302.0,"[{1 128, ""other"" 39, 2 6, 4 3, 0 126}]",39,126,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2018-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miguel.ping@gmail.com]",303.0,"[{1 128, ""other"" 40, 2 6, 4 3, 0 126}]",40,126,128,6,0,3
+Clojure,https://github.com/funcool/buddy-auth,2018-06-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[burhan_loey@yahoo.com.my, burhan_loey@yahoo.com.my, burhan_loey@yahoo.com.my]",306.0,"[{1 128, ""other"" 40, 2 6, 4 3, 0 126, 3 3}]",40,126,128,6,3,3
+Clojure,https://github.com/funcool/buddy-auth,2018-06-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[burhan_loey@yahoo.com.my, burhan_loey@yahoo.com.my]",308.0,"[{1 128, ""other"" 40, 2 6, 4 3, 0 126, 3 5}]",40,126,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2018-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tero.paloheimo@iki.fi]",309.0,"[{1 128, ""other"" 41, 2 6, 4 3, 0 126, 3 5}]",41,126,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2019-06-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, niwi@niwi.nz]",311.0,"[{1 128, ""other"" 41, 2 6, 4 3, 0 128, 3 5}]",41,128,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2019-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alexanderkiel@gmx.net]",312.0,"[{1 128, ""other"" 42, 2 6, 4 3, 0 128, 3 5}]",42,128,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2020-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[t@avelino.xxx]",313.0,"[{1 128, ""other"" 43, 2 6, 4 3, 0 128, 3 5}]",43,128,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2021-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[voltecrus@gmail.com]",314.0,"[{1 128, ""other"" 44, 2 6, 4 3, 0 128, 3 5}]",44,128,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2021-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[voltecrus@gmail.com]",315.0,"[{1 128, ""other"" 45, 2 6, 4 3, 0 128, 3 5}]",45,128,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2021-04-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tero.paloheimo@iki.fi]",316.0,"[{1 128, ""other"" 46, 2 6, 4 3, 0 128, 3 5}]",46,128,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2021-05-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[niwi@niwi.nz, niwi@niwi.nz, niwi@niwi.nz]",319.0,"[{1 128, ""other"" 46, 2 6, 4 3, 0 131, 3 5}]",46,131,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2021-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[admin@prestance-informatique.fr]",320.0,"[{1 128, ""other"" 47, 2 6, 4 3, 0 131, 3 5}]",47,131,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2021-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[admin@prestance-informatique.fr]",321.0,"[{1 128, ""other"" 48, 2 6, 4 3, 0 131, 3 5}]",48,131,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2022-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[6143833+rgkirch@users.noreply.github.com]",322.0,"[{1 128, ""other"" 49, 2 6, 4 3, 0 131, 3 5}]",49,131,128,6,5,3
+Clojure,https://github.com/funcool/buddy-auth,2022-01-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[niwi@niwi.nz, niwi@niwi.nz]",324.0,"[{1 128, ""other"" 49, 2 6, 4 3, 0 133, 3 5}]",49,133,128,6,5,3

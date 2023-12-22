@@ -1,0 +1,193 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/InternLM/xtuner,2023-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gjf_mail@126.com]",1.0,[{2 1}],0,0,0,1,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[gjf_mail@126.com, gjf_mail@126.com, gjf_mail@126.com, gjf_mail@126.com]",5.0,[{2 5}],0,0,0,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[humu@pjlab.org.cn, humu@pjlab.org.cn]",7.0,"[{2 5, ""other"" 2}]",2,0,0,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",8.0,"[{2 5, ""other"" 2, 0 1}]",2,1,0,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",10.0,"[{2 5, ""other"" 2, 0 3}]",2,3,0,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",11.0,"[{2 5, ""other"" 2, 0 4}]",2,4,0,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",13.0,"[{2 5, ""other"" 2, 0 6}]",2,6,0,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com]",15.0,"[{2 5, ""other"" 2, 0 7, 1 1}]",2,7,1,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41630003+HIT-cwh@users.noreply.github.com]",16.0,"[{2 5, ""other"" 2, 0 7, 1 2}]",2,7,2,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",17.0,"[{2 5, ""other"" 2, 0 8, 1 2}]",2,8,2,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[88702197+humu789@users.noreply.github.com]",18.0,"[{2 5, ""other"" 3, 0 8, 1 2}]",3,8,2,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-08-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[41630003+HIT-cwh@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com]",20.0,"[{2 5, ""other"" 3, 0 8, 1 4}]",3,8,4,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-08-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",21.0,"[{2 5, ""other"" 3, 0 9, 1 4}]",3,9,4,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",22.0,"[{2 5, ""other"" 3, 0 10, 1 4}]",3,10,4,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-08-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41630003+HIT-cwh@users.noreply.github.com]",23.0,"[{2 5, ""other"" 3, 0 10, 1 5}]",3,10,5,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-08-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",25.0,"[{2 5, ""other"" 3, 0 12, 1 5}]",3,12,5,5,0,0
+Python,https://github.com/InternLM/xtuner,2023-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[khj.application@aliyun.com]",26.0,"[{2 5, ""other"" 3, 0 12, 1 5, 4 1}]",3,12,5,5,0,1
+Python,https://github.com/InternLM/xtuner,2023-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[khj.application@aliyun.com]",27.0,"[{2 5, ""other"" 3, 0 12, 1 5, 4 2}]",3,12,5,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",28.0,"[{2 5, ""other"" 3, 0 13, 1 5, 4 2}]",3,13,5,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com]",30.0,"[{2 5, ""other"" 3, 0 14, 1 6, 4 2}]",3,14,6,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-16,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",33.0,"[{2 5, ""other"" 3, 0 16, 1 7, 4 2}]",3,16,7,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-17,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",38.0,"[{2 5, ""other"" 3, 0 21, 1 7, 4 2}]",3,21,7,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",41.0,"[{2 5, ""other"" 3, 0 23, 1 8, 4 2}]",3,23,8,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",44.0,"[{2 5, ""other"" 3, 0 26, 1 8, 4 2}]",3,26,8,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",46.0,"[{2 5, ""other"" 3, 0 28, 1 8, 4 2}]",3,28,8,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",49.0,"[{2 5, ""other"" 3, 0 31, 1 8, 4 2}]",3,31,8,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",53.0,"[{2 5, ""other"" 3, 0 35, 1 8, 4 2}]",3,35,8,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-28,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[41630003+HIT-cwh@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",58.0,"[{2 5, ""other"" 3, 0 38, 1 10, 4 2}]",3,38,10,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-29,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 88702197+humu789@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",65.0,"[{2 5, ""other"" 4, 0 43, 1 11, 4 2}]",4,43,11,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-30,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",74.0,"[{2 5, ""other"" 4, 0 50, 1 13, 4 2}]",4,50,13,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-08-31,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, dele.zhenwu@gmail.com]",79.0,"[{2 5, ""other"" 5, 0 52, 1 15, 4 2}]",5,52,15,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41630003+HIT-cwh@users.noreply.github.com]",80.0,"[{2 5, ""other"" 5, 0 52, 1 16, 4 2}]",5,52,16,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com]",82.0,"[{2 5, ""other"" 5, 0 53, 1 17, 4 2}]",5,53,17,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[41630003+HIT-cwh@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",84.0,"[{2 5, ""other"" 5, 0 54, 1 18, 4 2}]",5,54,18,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",86.0,"[{2 5, ""other"" 5, 0 56, 1 18, 4 2}]",5,56,18,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",88.0,"[{2 5, ""other"" 5, 0 58, 1 18, 4 2}]",5,58,18,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[41630003+HIT-cwh@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com]",91.0,"[{2 5, ""other"" 5, 0 58, 1 21, 4 2}]",5,58,21,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[wolfsonliu@163.com]",92.0,"[{2 5, ""other"" 6, 0 58, 1 21, 4 2}]",6,58,21,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41630003+HIT-cwh@users.noreply.github.com]",93.0,"[{2 5, ""other"" 6, 0 58, 1 22, 4 2}]",6,58,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",95.0,"[{2 5, ""other"" 6, 0 60, 1 22, 4 2}]",6,60,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",96.0,"[{2 5, ""other"" 6, 0 61, 1 22, 4 2}]",6,61,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",97.0,"[{2 5, ""other"" 6, 0 62, 1 22, 4 2}]",6,62,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-09-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",99.0,"[{2 5, ""other"" 6, 0 64, 1 22, 4 2}]",6,64,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[wangnu_043@126.com]",100.0,"[{2 5, ""other"" 7, 0 64, 1 22, 4 2}]",7,64,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",101.0,"[{2 5, ""other"" 7, 0 65, 1 22, 4 2}]",7,65,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",102.0,"[{2 5, ""other"" 7, 0 66, 1 22, 4 2}]",7,66,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-10-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",106.0,"[{2 5, ""other"" 7, 0 70, 1 22, 4 2}]",7,70,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-10-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",107.0,"[{2 5, ""other"" 7, 0 71, 1 22, 4 2}]",7,71,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-10-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",109.0,"[{2 5, ""other"" 7, 0 73, 1 22, 4 2}]",7,73,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[85681332+maxchiron@users.noreply.github.com]",110.0,"[{2 5, ""other"" 8, 0 73, 1 22, 4 2}]",8,73,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",111.0,"[{2 5, ""other"" 8, 0 74, 1 22, 4 2}]",8,74,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",113.0,"[{2 5, ""other"" 8, 0 76, 1 22, 4 2}]",8,76,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ws11579@gmail.com]",114.0,"[{2 5, ""other"" 9, 0 76, 1 22, 4 2}]",9,76,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[121340550+amulil@users.noreply.github.com]",115.0,"[{2 5, ""other"" 10, 0 76, 1 22, 4 2}]",10,76,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",118.0,"[{2 5, ""other"" 10, 0 79, 1 22, 4 2}]",10,79,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",120.0,"[{2 5, ""other"" 10, 0 81, 1 22, 4 2}]",10,81,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com, 36994684+LZHgrla@users.noreply.github.com]",123.0,"[{2 5, ""other"" 10, 0 84, 1 22, 4 2}]",10,84,22,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[41630003+HIT-cwh@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com]",125.0,"[{2 5, ""other"" 10, 0 84, 1 24, 4 2}]",10,84,24,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[36994684+LZHgrla@users.noreply.github.com]",126.0,"[{2 5, ""other"" 10, 0 85, 1 24, 4 2}]",10,85,24,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41630003+HIT-cwh@users.noreply.github.com]",127.0,"[{2 5, ""other"" 10, 0 85, 1 25, 4 2}]",10,85,25,5,0,2
+Python,https://github.com/InternLM/xtuner,2023-11-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[72799392+xiaohangguo@users.noreply.github.com, 41630003+HIT-cwh@users.noreply.github.com]",129.0,"[{2 5, ""other"" 10, 0 85, 1 26, 4 2, 3 1}]",10,85,26,5,1,2
+Python,https://github.com/InternLM/xtuner,2023-11-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[72799392+xiaohangguo@users.noreply.github.com]",130.0,"[{2 5, ""other"" 10, 0 85, 1 26, 4 2, 3 2}]",10,85,26,5,2,2
+Python,https://github.com/InternLM/xtuner,2023-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[41630003+HIT-cwh@users.noreply.github.com]",131.0,"[{2 5, ""other"" 10, 0 85, 1 27, 4 2, 3 2}]",10,85,27,5,2,2
+Python,https://github.com/InternLM/xtuner,2023-12-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[72799392+xiaohangguo@users.noreply.github.com, 72799392+xiaohangguo@users.noreply.github.com]",133.0,"[{2 5, ""other"" 10, 0 85, 1 27, 4 2, 3 4}]",10,85,27,5,4,2

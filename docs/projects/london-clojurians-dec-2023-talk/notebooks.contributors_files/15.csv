@@ -1,0 +1,625 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,pallet,2010-02-17,2,1,"#{""hugo_duncan@yahoo.com""}",2.0,1
+Clojure,pallet,2010-02-18,3,1,"#{""hugo_duncan@yahoo.com""}",5.0,1
+Clojure,pallet,2010-02-19,1,1,"#{""hugo_duncan@yahoo.com""}",6.0,1
+Clojure,pallet,2010-02-21,2,1,"#{""hugo_duncan@yahoo.com""}",8.0,1
+Clojure,pallet,2010-02-22,1,1,"#{""hugo_duncan@yahoo.com""}",9.0,1
+Clojure,pallet,2010-02-24,2,1,"#{""hugo_duncan@yahoo.com""}",11.0,1
+Clojure,pallet,2010-02-25,3,1,"#{""hugo_duncan@yahoo.com""}",14.0,1
+Clojure,pallet,2010-03-02,4,1,"#{""hugo_duncan@yahoo.com""}",18.0,1
+Clojure,pallet,2010-03-03,3,1,"#{""hugo_duncan@yahoo.com""}",21.0,1
+Clojure,pallet,2010-03-04,2,1,"#{""hugo_duncan@yahoo.com""}",23.0,1
+Clojure,pallet,2010-03-10,1,1,"#{""hugo_duncan@yahoo.com""}",24.0,1
+Clojure,pallet,2010-03-15,2,1,"#{""hugo_duncan@yahoo.com""}",26.0,1
+Clojure,pallet,2010-03-17,2,1,"#{""hugo_duncan@yahoo.com""}",28.0,1
+Clojure,pallet,2010-03-26,5,1,"#{""hugo_duncan@yahoo.com""}",33.0,1
+Clojure,pallet,2010-03-29,2,1,"#{""hugo_duncan@yahoo.com""}",35.0,1
+Clojure,pallet,2010-03-30,1,1,"#{""hugo_duncan@yahoo.com""}",36.0,1
+Clojure,pallet,2010-04-02,3,1,"#{""hugo_duncan@yahoo.com""}",39.0,1
+Clojure,pallet,2010-04-05,1,1,"#{""hugo_duncan@yahoo.com""}",40.0,1
+Clojure,pallet,2010-04-07,7,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",47.0,2
+Clojure,pallet,2010-04-08,1,1,"#{""hugo_duncan@yahoo.com""}",48.0,2
+Clojure,pallet,2010-04-10,7,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",55.0,2
+Clojure,pallet,2010-04-11,1,1,"#{""hugo_duncan@yahoo.com""}",56.0,2
+Clojure,pallet,2010-04-12,1,1,"#{""hugo_duncan@yahoo.com""}",57.0,2
+Clojure,pallet,2010-04-13,1,1,"#{""hugo_duncan@yahoo.com""}",58.0,2
+Clojure,pallet,2010-04-15,12,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",70.0,2
+Clojure,pallet,2010-04-16,8,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",78.0,2
+Clojure,pallet,2010-04-17,11,1,"#{""hugo_duncan@yahoo.com""}",89.0,2
+Clojure,pallet,2010-04-18,10,1,"#{""hugo_duncan@yahoo.com""}",99.0,2
+Clojure,pallet,2010-04-19,7,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",106.0,2
+Clojure,pallet,2010-04-20,2,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",108.0,2
+Clojure,pallet,2010-04-22,10,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",118.0,2
+Clojure,pallet,2010-04-23,3,1,"#{""hugo_duncan@yahoo.com""}",121.0,2
+Clojure,pallet,2010-04-25,4,1,"#{""hugo_duncan@yahoo.com""}",125.0,2
+Clojure,pallet,2010-04-26,4,1,"#{""hugo_duncan@yahoo.com""}",129.0,2
+Clojure,pallet,2010-04-27,3,1,"#{""hugo_duncan@yahoo.com""}",132.0,2
+Clojure,pallet,2010-04-28,2,1,"#{""hugo_duncan@yahoo.com""}",134.0,2
+Clojure,pallet,2010-04-29,7,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",141.0,2
+Clojure,pallet,2010-04-30,5,1,"#{""hugo_duncan@yahoo.com""}",146.0,2
+Clojure,pallet,2010-05-01,7,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",153.0,2
+Clojure,pallet,2010-05-02,2,1,"#{""hugo_duncan@yahoo.com""}",155.0,2
+Clojure,pallet,2010-05-03,13,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",168.0,2
+Clojure,pallet,2010-05-04,12,3,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com"" ""mordred@inaugust.com""}",180.0,3
+Clojure,pallet,2010-05-05,12,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",192.0,3
+Clojure,pallet,2010-05-06,4,1,"#{""hugo_duncan@yahoo.com""}",196.0,3
+Clojure,pallet,2010-05-07,7,1,"#{""hugo_duncan@yahoo.com""}",203.0,3
+Clojure,pallet,2010-05-10,3,1,"#{""hugo_duncan@yahoo.com""}",206.0,3
+Clojure,pallet,2010-05-13,2,1,"#{""hugo_duncan@yahoo.com""}",208.0,3
+Clojure,pallet,2010-05-14,7,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",215.0,3
+Clojure,pallet,2010-05-15,2,1,"#{""cemerick@snowtide.com""}",217.0,3
+Clojure,pallet,2010-05-17,3,2,"#{""hugo_duncan@yahoo.com"" ""cemerick@snowtide.com""}",220.0,3
+Clojure,pallet,2010-05-19,3,1,"#{""hugo_duncan@yahoo.com""}",223.0,3
+Clojure,pallet,2010-05-21,3,1,"#{""hugo_duncan@yahoo.com""}",226.0,3
+Clojure,pallet,2010-05-24,3,1,"#{""hugo_duncan@yahoo.com""}",229.0,3
+Clojure,pallet,2010-05-25,8,2,"#{""hugo_duncan@yahoo.com"" ""adrian@jclouds.org""}",237.0,4
+Clojure,pallet,2010-05-26,1,1,"#{""hugo_duncan@yahoo.com""}",238.0,4
+Clojure,pallet,2010-05-31,1,1,"#{""hugo_duncan@yahoo.com""}",239.0,4
+Clojure,pallet,2010-06-03,2,1,"#{""hugo_duncan@yahoo.com""}",241.0,4
+Clojure,pallet,2010-06-09,2,1,"#{""hugo_duncan@yahoo.com""}",243.0,4
+Clojure,pallet,2010-06-17,5,1,"#{""hugo_duncan@yahoo.com""}",248.0,4
+Clojure,pallet,2010-06-18,4,1,"#{""hugo_duncan@yahoo.com""}",252.0,4
+Clojure,pallet,2010-06-20,2,1,"#{""hugo_duncan@yahoo.com""}",254.0,4
+Clojure,pallet,2010-06-21,1,1,"#{""hugo_duncan@yahoo.com""}",255.0,4
+Clojure,pallet,2010-06-22,7,1,"#{""hugo_duncan@yahoo.com""}",262.0,4
+Clojure,pallet,2010-06-24,3,1,"#{""hugo_duncan@yahoo.com""}",265.0,4
+Clojure,pallet,2010-06-29,1,1,"#{""hugo_duncan@yahoo.com""}",266.0,4
+Clojure,pallet,2010-07-10,1,1,"#{""hugo_duncan@yahoo.com""}",267.0,4
+Clojure,pallet,2010-07-16,15,1,"#{""hugo_duncan@yahoo.com""}",282.0,4
+Clojure,pallet,2010-07-19,1,1,"#{""hugo_duncan@yahoo.com""}",283.0,4
+Clojure,pallet,2010-07-20,10,1,"#{""hugo_duncan@yahoo.com""}",293.0,4
+Clojure,pallet,2010-07-21,1,1,"#{""hugo_duncan@yahoo.com""}",294.0,4
+Clojure,pallet,2010-07-23,1,1,"#{""hugo_duncan@yahoo.com""}",295.0,4
+Clojure,pallet,2010-07-25,1,1,"#{""hugo_duncan@yahoo.com""}",296.0,4
+Clojure,pallet,2010-07-26,4,2,"#{""bld@otfrom.com"" ""hugo_duncan@yahoo.com""}",300.0,5
+Clojure,pallet,2010-07-30,2,2,"#{""hugo_duncan@yahoo.com"" ""adrian@jclouds.org""}",302.0,5
+Clojure,pallet,2010-08-02,5,1,"#{""hugo_duncan@yahoo.com""}",307.0,5
+Clojure,pallet,2010-08-06,4,1,"#{""hugo_duncan@yahoo.com""}",311.0,5
+Clojure,pallet,2010-08-10,4,1,"#{""hugo_duncan@yahoo.com""}",315.0,5
+Clojure,pallet,2010-08-11,1,1,"#{""hugo_duncan@yahoo.com""}",316.0,5
+Clojure,pallet,2010-08-18,4,1,"#{""hugo_duncan@yahoo.com""}",320.0,5
+Clojure,pallet,2010-08-19,2,1,"#{""hugo_duncan@yahoo.com""}",322.0,5
+Clojure,pallet,2010-08-27,8,1,"#{""hugo_duncan@yahoo.com""}",330.0,5
+Clojure,pallet,2010-08-28,1,1,"#{""hugo_duncan@yahoo.com""}",331.0,5
+Clojure,pallet,2010-08-29,2,1,"#{""hugo_duncan@yahoo.com""}",333.0,5
+Clojure,pallet,2010-08-30,6,1,"#{""hugo_duncan@yahoo.com""}",339.0,5
+Clojure,pallet,2010-08-31,7,1,"#{""hugo_duncan@yahoo.com""}",346.0,5
+Clojure,pallet,2010-09-01,6,1,"#{""hugo_duncan@yahoo.com""}",352.0,5
+Clojure,pallet,2010-09-07,2,1,"#{""hugo_duncan@yahoo.com""}",354.0,5
+Clojure,pallet,2010-09-09,7,1,"#{""hugo_duncan@yahoo.com""}",361.0,5
+Clojure,pallet,2010-09-10,3,1,"#{""hugo_duncan@yahoo.com""}",364.0,5
+Clojure,pallet,2010-09-11,15,1,"#{""hugo_duncan@yahoo.com""}",379.0,5
+Clojure,pallet,2010-09-12,1,1,"#{""hugo_duncan@yahoo.com""}",380.0,5
+Clojure,pallet,2010-09-13,8,1,"#{""hugo_duncan@yahoo.com""}",388.0,5
+Clojure,pallet,2010-09-14,1,1,"#{""hugo_duncan@yahoo.com""}",389.0,5
+Clojure,pallet,2010-09-15,12,1,"#{""hugo_duncan@yahoo.com""}",401.0,5
+Clojure,pallet,2010-09-16,7,1,"#{""hugo_duncan@yahoo.com""}",408.0,5
+Clojure,pallet,2010-09-17,22,1,"#{""hugo_duncan@yahoo.com""}",430.0,5
+Clojure,pallet,2010-09-18,4,1,"#{""hugo_duncan@yahoo.com""}",434.0,5
+Clojure,pallet,2010-09-19,7,1,"#{""hugo_duncan@yahoo.com""}",441.0,5
+Clojure,pallet,2010-09-20,8,1,"#{""hugo_duncan@yahoo.com""}",449.0,5
+Clojure,pallet,2010-09-21,7,1,"#{""hugo_duncan@yahoo.com""}",456.0,5
+Clojure,pallet,2010-09-22,11,1,"#{""hugo_duncan@yahoo.com""}",467.0,5
+Clojure,pallet,2010-09-23,10,2,"#{""hugo_duncan@yahoo.com"" ""tbatchelli@acm.org""}",477.0,6
+Clojure,pallet,2010-09-24,5,1,"#{""hugo_duncan@yahoo.com""}",482.0,6
+Clojure,pallet,2010-09-25,8,1,"#{""hugo_duncan@yahoo.com""}",490.0,6
+Clojure,pallet,2010-09-27,1,1,"#{""hugo_duncan@yahoo.com""}",491.0,6
+Clojure,pallet,2010-10-05,6,1,"#{""hugo_duncan@yahoo.com""}",497.0,6
+Clojure,pallet,2010-10-07,2,1,"#{""hugo_duncan@yahoo.com""}",499.0,6
+Clojure,pallet,2010-10-08,5,1,"#{""hugo_duncan@yahoo.com""}",504.0,6
+Clojure,pallet,2010-10-11,3,1,"#{""hugo_duncan@yahoo.com""}",507.0,6
+Clojure,pallet,2010-10-12,21,1,"#{""hugo_duncan@yahoo.com""}",528.0,6
+Clojure,pallet,2010-10-13,2,1,"#{""hugo_duncan@yahoo.com""}",530.0,6
+Clojure,pallet,2010-10-14,3,1,"#{""hugo_duncan@yahoo.com""}",533.0,6
+Clojure,pallet,2010-10-15,6,1,"#{""hugo_duncan@yahoo.com""}",539.0,6
+Clojure,pallet,2010-10-16,4,1,"#{""hugo_duncan@yahoo.com""}",543.0,6
+Clojure,pallet,2010-10-17,3,1,"#{""hugo_duncan@yahoo.com""}",546.0,6
+Clojure,pallet,2010-10-18,5,2,"#{""hugo_duncan@yahoo.com"" ""david.santiago@gmail.com""}",551.0,7
+Clojure,pallet,2010-10-19,10,2,"#{""hugo_duncan@yahoo.com"" ""david.santiago@gmail.com""}",561.0,7
+Clojure,pallet,2010-10-20,14,1,"#{""hugo_duncan@yahoo.com""}",575.0,7
+Clojure,pallet,2010-10-24,2,1,"#{""hugo_duncan@yahoo.com""}",577.0,7
+Clojure,pallet,2010-10-26,1,1,"#{""hugo_duncan@yahoo.com""}",578.0,7
+Clojure,pallet,2010-10-27,8,1,"#{""hugo_duncan@yahoo.com""}",586.0,7
+Clojure,pallet,2010-10-28,4,2,"#{""hugo_duncan@yahoo.com"" ""charles@tippr.com""}",590.0,8
+Clojure,pallet,2010-10-29,1,1,"#{""hugo_duncan@yahoo.com""}",591.0,8
+Clojure,pallet,2010-10-30,1,1,"#{""hugo_duncan@yahoo.com""}",592.0,8
+Clojure,pallet,2010-10-31,2,1,"#{""hugo_duncan@yahoo.com""}",594.0,8
+Clojure,pallet,2010-11-01,2,1,"#{""hugo_duncan@yahoo.com""}",596.0,8
+Clojure,pallet,2010-11-02,2,2,"#{""hugo_duncan@yahoo.com"" ""david.santiago@gmail.com""}",598.0,8
+Clojure,pallet,2010-11-03,6,1,"#{""hugo_duncan@yahoo.com""}",604.0,8
+Clojure,pallet,2010-11-06,9,2,"#{""hugo_duncan@yahoo.com"" ""david.santiago@gmail.com""}",613.0,8
+Clojure,pallet,2010-11-07,4,2,"#{""hugo_duncan@yahoo.com"" ""david.santiago@gmail.com""}",617.0,8
+Clojure,pallet,2010-11-08,11,2,"#{""hugo_duncan@yahoo.com"" ""juergen@archlinux.org""}",628.0,9
+Clojure,pallet,2010-11-09,4,2,"#{""hugo_duncan@yahoo.com"" ""david.santiago@gmail.com""}",632.0,9
+Clojure,pallet,2010-11-10,8,1,"#{""hugo_duncan@yahoo.com""}",640.0,9
+Clojure,pallet,2010-11-11,5,1,"#{""hugo_duncan@yahoo.com""}",645.0,9
+Clojure,pallet,2010-11-14,3,1,"#{""hugo_duncan@yahoo.com""}",648.0,9
+Clojure,pallet,2010-11-15,7,2,"#{""hugo_duncan@yahoo.com"" ""juergen@archlinux.org""}",655.0,9
+Clojure,pallet,2010-11-16,3,1,"#{""hugo_duncan@yahoo.com""}",658.0,9
+Clojure,pallet,2010-11-17,2,1,"#{""hugo_duncan@yahoo.com""}",660.0,9
+Clojure,pallet,2010-11-18,6,1,"#{""hugo_duncan@yahoo.com""}",666.0,9
+Clojure,pallet,2010-11-19,3,1,"#{""hugo_duncan@yahoo.com""}",669.0,9
+Clojure,pallet,2010-11-22,2,1,"#{""hugo_duncan@yahoo.com""}",671.0,9
+Clojure,pallet,2010-11-23,6,1,"#{""hugo_duncan@yahoo.com""}",677.0,9
+Clojure,pallet,2010-11-24,1,1,"#{""hugo_duncan@yahoo.com""}",678.0,9
+Clojure,pallet,2010-11-29,1,1,"#{""hugo_duncan@yahoo.com""}",679.0,9
+Clojure,pallet,2010-11-30,2,1,"#{""hugo_duncan@yahoo.com""}",681.0,9
+Clojure,pallet,2010-12-06,2,1,"#{""hugo_duncan@yahoo.com""}",683.0,9
+Clojure,pallet,2010-12-09,1,1,"#{""hugo_duncan@yahoo.com""}",684.0,9
+Clojure,pallet,2010-12-14,1,1,"#{""hugo_duncan@yahoo.com""}",685.0,9
+Clojure,pallet,2010-12-19,1,1,"#{""hugo_duncan@yahoo.com""}",686.0,9
+Clojure,pallet,2010-12-20,5,1,"#{""hugo_duncan@yahoo.com""}",691.0,9
+Clojure,pallet,2010-12-21,1,1,"#{""hugo_duncan@yahoo.com""}",692.0,9
+Clojure,pallet,2010-12-29,4,2,"#{""david.santiago@gmail.com"" ""hugo@hugoduncan.org""}",696.0,10
+Clojure,pallet,2011-01-03,4,1,"#{""hugo@hugoduncan.org""}",700.0,10
+Clojure,pallet,2011-01-04,2,1,"#{""hugo@hugoduncan.org""}",702.0,10
+Clojure,pallet,2011-01-05,1,1,"#{""hugo@hugoduncan.org""}",703.0,10
+Clojure,pallet,2011-01-06,9,1,"#{""hugo@hugoduncan.org""}",712.0,10
+Clojure,pallet,2011-01-07,6,2,"#{""juergen@archlinux.org"" ""hugo@hugoduncan.org""}",718.0,10
+Clojure,pallet,2011-01-08,5,2,"#{""juergen@archlinux.org"" ""hugo@hugoduncan.org""}",723.0,10
+Clojure,pallet,2011-01-09,1,1,"#{""hugo@hugoduncan.org""}",724.0,10
+Clojure,pallet,2011-01-10,9,1,"#{""hugo@hugoduncan.org""}",733.0,10
+Clojure,pallet,2011-01-11,5,1,"#{""hugo@hugoduncan.org""}",738.0,10
+Clojure,pallet,2011-01-12,2,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",740.0,10
+Clojure,pallet,2011-01-13,7,1,"#{""hugo@hugoduncan.org""}",747.0,10
+Clojure,pallet,2011-01-14,3,1,"#{""hugo@hugoduncan.org""}",750.0,10
+Clojure,pallet,2011-01-15,1,1,"#{""hugo@hugoduncan.org""}",751.0,10
+Clojure,pallet,2011-01-18,3,1,"#{""hugo@hugoduncan.org""}",754.0,10
+Clojure,pallet,2011-01-19,3,1,"#{""hugo@hugoduncan.org""}",757.0,10
+Clojure,pallet,2011-01-20,1,1,"#{""hugo@hugoduncan.org""}",758.0,10
+Clojure,pallet,2011-01-21,16,1,"#{""hugo@hugoduncan.org""}",774.0,10
+Clojure,pallet,2011-01-23,1,1,"#{""hugo@hugoduncan.org""}",775.0,10
+Clojure,pallet,2011-01-25,4,1,"#{""hugo@hugoduncan.org""}",779.0,10
+Clojure,pallet,2011-01-26,1,1,"#{""hugo@hugoduncan.org""}",780.0,10
+Clojure,pallet,2011-01-27,5,2,"#{""hugo@hugoduncan.org"" ""jason@cvk.ca""}",785.0,11
+Clojure,pallet,2011-01-28,2,1,"#{""hugo@hugoduncan.org""}",787.0,11
+Clojure,pallet,2011-01-29,3,1,"#{""hugo@hugoduncan.org""}",790.0,11
+Clojure,pallet,2011-01-30,1,1,"#{""david.santiago@gmail.com""}",791.0,11
+Clojure,pallet,2011-01-31,3,1,"#{""hugo@hugoduncan.org""}",794.0,11
+Clojure,pallet,2011-02-01,6,1,"#{""hugo@hugoduncan.org""}",800.0,11
+Clojure,pallet,2011-02-04,4,1,"#{""hugo@hugoduncan.org""}",804.0,11
+Clojure,pallet,2011-02-05,1,1,"#{""hugo@hugoduncan.org""}",805.0,11
+Clojure,pallet,2011-02-06,2,1,"#{""hugo@hugoduncan.org""}",807.0,11
+Clojure,pallet,2011-02-07,5,1,"#{""hugo@hugoduncan.org""}",812.0,11
+Clojure,pallet,2011-02-09,11,1,"#{""hugo@hugoduncan.org""}",823.0,11
+Clojure,pallet,2011-02-10,1,1,"#{""hugo@hugoduncan.org""}",824.0,11
+Clojure,pallet,2011-02-11,1,1,"#{""hugo@hugoduncan.org""}",825.0,11
+Clojure,pallet,2011-02-12,1,1,"#{""tbatchelli@acm.org""}",826.0,11
+Clojure,pallet,2011-02-14,5,1,"#{""hugo@hugoduncan.org""}",831.0,11
+Clojure,pallet,2011-02-15,6,1,"#{""hugo@hugoduncan.org""}",837.0,11
+Clojure,pallet,2011-02-16,13,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",850.0,11
+Clojure,pallet,2011-02-17,15,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",865.0,11
+Clojure,pallet,2011-02-18,8,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",873.0,11
+Clojure,pallet,2011-02-19,2,1,"#{""hugo@hugoduncan.org""}",875.0,11
+Clojure,pallet,2011-02-20,8,1,"#{""hugo@hugoduncan.org""}",883.0,11
+Clojure,pallet,2011-02-21,10,1,"#{""hugo@hugoduncan.org""}",893.0,11
+Clojure,pallet,2011-02-22,7,1,"#{""hugo@hugoduncan.org""}",900.0,11
+Clojure,pallet,2011-02-25,5,2,"#{""juergen@archlinux.org"" ""hugo@hugoduncan.org""}",905.0,11
+Clojure,pallet,2011-02-27,1,1,"#{""hugo@hugoduncan.org""}",906.0,11
+Clojure,pallet,2011-02-28,1,1,"#{""hugo@hugoduncan.org""}",907.0,11
+Clojure,pallet,2011-03-01,9,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",916.0,11
+Clojure,pallet,2011-03-03,10,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",926.0,11
+Clojure,pallet,2011-03-04,16,1,"#{""hugo@hugoduncan.org""}",942.0,11
+Clojure,pallet,2011-03-05,1,1,"#{""hugo@hugoduncan.org""}",943.0,11
+Clojure,pallet,2011-03-06,8,1,"#{""hugo@hugoduncan.org""}",951.0,11
+Clojure,pallet,2011-03-07,2,1,"#{""hugo@hugoduncan.org""}",953.0,11
+Clojure,pallet,2011-03-08,9,1,"#{""hugo@hugoduncan.org""}",962.0,11
+Clojure,pallet,2011-03-09,14,1,"#{""hugo@hugoduncan.org""}",976.0,11
+Clojure,pallet,2011-03-11,2,1,"#{""hugo@hugoduncan.org""}",978.0,11
+Clojure,pallet,2011-03-13,2,1,"#{""hugo@hugoduncan.org""}",980.0,11
+Clojure,pallet,2011-03-14,15,1,"#{""hugo@hugoduncan.org""}",995.0,11
+Clojure,pallet,2011-03-15,2,1,"#{""tbatchelli@acm.org""}",997.0,11
+Clojure,pallet,2011-03-16,8,1,"#{""hugo@hugoduncan.org""}",1005.0,11
+Clojure,pallet,2011-03-20,1,1,"#{""hugo@hugoduncan.org""}",1006.0,11
+Clojure,pallet,2011-03-21,1,1,"#{""hugo@hugoduncan.org""}",1007.0,11
+Clojure,pallet,2011-03-22,2,1,"#{""hugo@hugoduncan.org""}",1009.0,11
+Clojure,pallet,2011-03-23,13,2,"#{""david.santiago@gmail.com"" ""hugo@hugoduncan.org""}",1022.0,11
+Clojure,pallet,2011-03-24,2,1,"#{""hugo@hugoduncan.org""}",1024.0,11
+Clojure,pallet,2011-03-25,4,1,"#{""hugo@hugoduncan.org""}",1028.0,11
+Clojure,pallet,2011-03-27,1,1,"#{""hugo@hugoduncan.org""}",1029.0,11
+Clojure,pallet,2011-03-28,3,2,"#{""hugo@hugoduncan.org"" ""sritchie09@gmail.com""}",1032.0,12
+Clojure,pallet,2011-03-29,4,1,"#{""hugo@hugoduncan.org""}",1036.0,12
+Clojure,pallet,2011-03-30,7,1,"#{""hugo@hugoduncan.org""}",1043.0,12
+Clojure,pallet,2011-03-31,9,1,"#{""hugo@hugoduncan.org""}",1052.0,12
+Clojure,pallet,2011-04-02,13,1,"#{""hugo@hugoduncan.org""}",1065.0,12
+Clojure,pallet,2011-04-04,4,1,"#{""sritchie09@gmail.com""}",1069.0,12
+Clojure,pallet,2011-04-05,1,1,"#{""ilikecandy7@gmail.com""}",1070.0,13
+Clojure,pallet,2011-04-07,1,1,"#{""david.santiago@gmail.com""}",1071.0,13
+Clojure,pallet,2011-04-11,1,1,"#{""hugo@hugoduncan.org""}",1072.0,13
+Clojure,pallet,2011-04-12,1,1,"#{""hugo@hugoduncan.org""}",1073.0,13
+Clojure,pallet,2011-04-13,2,1,"#{""hugo@hugoduncan.org""}",1075.0,13
+Clojure,pallet,2011-04-14,1,1,"#{""hugo@hugoduncan.org""}",1076.0,13
+Clojure,pallet,2011-04-15,14,1,"#{""hugo@hugoduncan.org""}",1090.0,13
+Clojure,pallet,2011-04-19,8,1,"#{""hugo@hugoduncan.org""}",1098.0,13
+Clojure,pallet,2011-04-21,21,1,"#{""hugo@hugoduncan.org""}",1119.0,13
+Clojure,pallet,2011-04-23,1,1,"#{""hugo@hugoduncan.org""}",1120.0,13
+Clojure,pallet,2011-04-26,5,1,"#{""hugo@hugoduncan.org""}",1125.0,13
+Clojure,pallet,2011-04-27,1,1,"#{""hugo@hugoduncan.org""}",1126.0,13
+Clojure,pallet,2011-05-12,6,1,"#{""hugo@hugoduncan.org""}",1132.0,13
+Clojure,pallet,2011-05-20,4,1,"#{""hugo@hugoduncan.org""}",1136.0,13
+Clojure,pallet,2011-05-25,4,1,"#{""hugo@hugoduncan.org""}",1140.0,13
+Clojure,pallet,2011-05-27,2,1,"#{""hugo@hugoduncan.org""}",1142.0,13
+Clojure,pallet,2011-06-01,1,1,"#{""hugo@hugoduncan.org""}",1143.0,13
+Clojure,pallet,2011-06-02,11,1,"#{""hugo@hugoduncan.org""}",1154.0,13
+Clojure,pallet,2011-06-03,2,1,"#{""hugo@hugoduncan.org""}",1156.0,13
+Clojure,pallet,2011-06-06,1,1,"#{""hugo@hugoduncan.org""}",1157.0,13
+Clojure,pallet,2011-06-07,17,1,"#{""hugo@hugoduncan.org""}",1174.0,13
+Clojure,pallet,2011-06-08,14,1,"#{""hugo@hugoduncan.org""}",1188.0,13
+Clojure,pallet,2011-06-09,7,1,"#{""hugo@hugoduncan.org""}",1195.0,13
+Clojure,pallet,2011-06-10,7,1,"#{""hugo@hugoduncan.org""}",1202.0,13
+Clojure,pallet,2011-06-14,5,1,"#{""hugo@hugoduncan.org""}",1207.0,13
+Clojure,pallet,2011-06-15,1,1,"#{""hugo@hugoduncan.org""}",1208.0,13
+Clojure,pallet,2011-06-16,5,2,"#{""david@cloudartisan.com"" ""hugo@hugoduncan.org""}",1213.0,14
+Clojure,pallet,2011-06-17,3,1,"#{""hugo@hugoduncan.org""}",1216.0,14
+Clojure,pallet,2011-06-19,2,1,"#{""hugo@hugoduncan.org""}",1218.0,14
+Clojure,pallet,2011-06-22,9,1,"#{""hugo@hugoduncan.org""}",1227.0,14
+Clojure,pallet,2011-06-23,4,1,"#{""hugo@hugoduncan.org""}",1231.0,14
+Clojure,pallet,2011-06-24,3,1,"#{""hugo@hugoduncan.org""}",1234.0,14
+Clojure,pallet,2011-06-26,1,1,"#{""hugo@hugoduncan.org""}",1235.0,14
+Clojure,pallet,2011-06-27,6,1,"#{""hugo@hugoduncan.org""}",1241.0,14
+Clojure,pallet,2011-06-28,3,2,"#{""david.santiago@gmail.com"" ""hugo@hugoduncan.org""}",1244.0,14
+Clojure,pallet,2011-06-29,4,1,"#{""hugo@hugoduncan.org""}",1248.0,14
+Clojure,pallet,2011-07-02,1,1,"#{""hugo@hugoduncan.org""}",1249.0,14
+Clojure,pallet,2011-07-04,1,1,"#{""hugo@hugoduncan.org""}",1250.0,14
+Clojure,pallet,2011-07-05,3,1,"#{""hugo@hugoduncan.org""}",1253.0,14
+Clojure,pallet,2011-07-13,1,1,"#{""hugo@hugoduncan.org""}",1254.0,14
+Clojure,pallet,2011-07-26,9,1,"#{""hugo@hugoduncan.org""}",1263.0,14
+Clojure,pallet,2011-07-27,1,1,"#{""hugo@hugoduncan.org""}",1264.0,14
+Clojure,pallet,2011-08-03,2,1,"#{""hugo@hugoduncan.org""}",1266.0,14
+Clojure,pallet,2011-08-04,1,1,"#{""pupeno@pupeno.com""}",1267.0,15
+Clojure,pallet,2011-08-05,1,1,"#{""hugo@hugoduncan.org""}",1268.0,15
+Clojure,pallet,2011-08-09,4,1,"#{""hugo@hugoduncan.org""}",1272.0,15
+Clojure,pallet,2011-08-10,1,1,"#{""hugo@hugoduncan.org""}",1273.0,15
+Clojure,pallet,2011-08-11,1,1,"#{""hugo@hugoduncan.org""}",1274.0,15
+Clojure,pallet,2011-08-12,2,1,"#{""hugo@hugoduncan.org""}",1276.0,15
+Clojure,pallet,2011-08-13,2,1,"#{""david.santiago@gmail.com""}",1278.0,15
+Clojure,pallet,2011-08-24,5,1,"#{""hugo@hugoduncan.org""}",1283.0,15
+Clojure,pallet,2011-08-25,2,1,"#{""hugo@hugoduncan.org""}",1285.0,15
+Clojure,pallet,2011-08-26,9,1,"#{""hugo@hugoduncan.org""}",1294.0,15
+Clojure,pallet,2011-08-28,8,1,"#{""hugo@hugoduncan.org""}",1302.0,15
+Clojure,pallet,2011-08-31,1,1,"#{""hugo@hugoduncan.org""}",1303.0,15
+Clojure,pallet,2011-09-01,3,1,"#{""hugo@hugoduncan.org""}",1306.0,15
+Clojure,pallet,2011-09-02,1,1,"#{""hugo@hugoduncan.org""}",1307.0,15
+Clojure,pallet,2011-09-06,16,1,"#{""hugo@hugoduncan.org""}",1323.0,15
+Clojure,pallet,2011-09-07,1,1,"#{""tbatchelli@acm.org""}",1324.0,15
+Clojure,pallet,2011-09-08,3,2,"#{""hugo@hugoduncan.org"" ""pyr@spootnik.org""}",1327.0,16
+Clojure,pallet,2011-09-09,1,1,"#{""hugo@hugoduncan.org""}",1328.0,16
+Clojure,pallet,2011-09-13,1,1,"#{""hugo@hugoduncan.org""}",1329.0,16
+Clojure,pallet,2011-09-19,1,1,"#{""hugo@hugoduncan.org""}",1330.0,16
+Clojure,pallet,2011-09-20,1,1,"#{""hugo@hugoduncan.org""}",1331.0,16
+Clojure,pallet,2011-09-23,2,1,"#{""hugo@hugoduncan.org""}",1333.0,16
+Clojure,pallet,2011-09-27,3,1,"#{""hugo@hugoduncan.org""}",1336.0,16
+Clojure,pallet,2011-09-28,1,1,"#{""hugo@hugoduncan.org""}",1337.0,16
+Clojure,pallet,2011-09-29,9,1,"#{""hugo@hugoduncan.org""}",1346.0,16
+Clojure,pallet,2011-09-30,1,1,"#{""hugo@hugoduncan.org""}",1347.0,16
+Clojure,pallet,2011-10-04,5,1,"#{""hugo@hugoduncan.org""}",1352.0,16
+Clojure,pallet,2011-10-06,1,1,"#{""hugo@hugoduncan.org""}",1353.0,16
+Clojure,pallet,2011-10-07,1,1,"#{""hugo@hugoduncan.org""}",1354.0,16
+Clojure,pallet,2011-10-11,4,1,"#{""hugo@hugoduncan.org""}",1358.0,16
+Clojure,pallet,2011-10-12,1,1,"#{""hugo@hugoduncan.org""}",1359.0,16
+Clojure,pallet,2011-10-13,7,1,"#{""hugo@hugoduncan.org""}",1366.0,16
+Clojure,pallet,2011-10-15,1,1,"#{""hugo@hugoduncan.org""}",1367.0,16
+Clojure,pallet,2011-10-16,3,1,"#{""hugo@hugoduncan.org""}",1370.0,16
+Clojure,pallet,2011-10-18,2,1,"#{""hugo@hugoduncan.org""}",1372.0,16
+Clojure,pallet,2011-10-20,1,1,"#{""hugo@hugoduncan.org""}",1373.0,16
+Clojure,pallet,2011-10-21,1,1,"#{""hugo@hugoduncan.org""}",1374.0,16
+Clojure,pallet,2011-10-25,5,1,"#{""hugo@hugoduncan.org""}",1379.0,16
+Clojure,pallet,2011-10-27,4,1,"#{""hugo@hugoduncan.org""}",1383.0,16
+Clojure,pallet,2011-10-31,1,1,"#{""tbatchelli@acm.org""}",1384.0,16
+Clojure,pallet,2011-11-01,1,1,"#{""tbatchelli@acm.org""}",1385.0,16
+Clojure,pallet,2011-11-03,3,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",1388.0,16
+Clojure,pallet,2011-11-18,1,1,"#{""tbatchelli@acm.org""}",1389.0,16
+Clojure,pallet,2011-11-22,2,1,"#{""hugo@hugoduncan.org""}",1391.0,16
+Clojure,pallet,2011-11-29,3,1,"#{""hugo@hugoduncan.org""}",1394.0,16
+Clojure,pallet,2011-11-30,1,1,"#{""hugo@hugoduncan.org""}",1395.0,16
+Clojure,pallet,2011-12-01,2,1,"#{""hugo@hugoduncan.org""}",1397.0,16
+Clojure,pallet,2011-12-02,4,1,"#{""hugo@hugoduncan.org""}",1401.0,16
+Clojure,pallet,2011-12-04,1,1,"#{""hugo@hugoduncan.org""}",1402.0,16
+Clojure,pallet,2011-12-05,1,1,"#{""hugo@hugoduncan.org""}",1403.0,16
+Clojure,pallet,2011-12-06,4,1,"#{""hugo@hugoduncan.org""}",1407.0,16
+Clojure,pallet,2011-12-07,2,1,"#{""hugo@hugoduncan.org""}",1409.0,16
+Clojure,pallet,2011-12-08,3,1,"#{""hugo@hugoduncan.org""}",1412.0,16
+Clojure,pallet,2011-12-15,1,1,"#{""arthur@ulfeldt.com""}",1413.0,17
+Clojure,pallet,2011-12-17,1,1,"#{""tbatchelli@acm.org""}",1414.0,17
+Clojure,pallet,2012-01-05,1,1,"#{""hugo@hugoduncan.org""}",1415.0,17
+Clojure,pallet,2012-01-09,1,1,"#{""hugo@hugoduncan.org""}",1416.0,17
+Clojure,pallet,2012-01-10,2,1,"#{""hugo@hugoduncan.org""}",1418.0,17
+Clojure,pallet,2012-01-18,1,1,"#{""hugo@hugoduncan.org""}",1419.0,17
+Clojure,pallet,2012-01-19,4,1,"#{""hugo@hugoduncan.org""}",1423.0,17
+Clojure,pallet,2012-01-23,5,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",1428.0,17
+Clojure,pallet,2012-01-24,2,1,"#{""hugo@hugoduncan.org""}",1430.0,17
+Clojure,pallet,2012-01-28,1,1,"#{""hugo@hugoduncan.org""}",1431.0,17
+Clojure,pallet,2012-01-31,3,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",1434.0,17
+Clojure,pallet,2012-02-01,2,1,"#{""hugo@hugoduncan.org""}",1436.0,17
+Clojure,pallet,2012-02-08,1,1,"#{""hugo@hugoduncan.org""}",1437.0,17
+Clojure,pallet,2012-02-12,3,1,"#{""hugo@hugoduncan.org""}",1440.0,17
+Clojure,pallet,2012-02-15,7,1,"#{""hugo@hugoduncan.org""}",1447.0,17
+Clojure,pallet,2012-02-16,6,1,"#{""hugo@hugoduncan.org""}",1453.0,17
+Clojure,pallet,2012-03-01,5,1,"#{""hugo@hugoduncan.org""}",1458.0,17
+Clojure,pallet,2012-03-05,1,1,"#{""fabian@doo.net""}",1459.0,18
+Clojure,pallet,2012-03-07,1,1,"#{""hugo@hugoduncan.org""}",1460.0,18
+Clojure,pallet,2012-03-08,5,1,"#{""hugo@hugoduncan.org""}",1465.0,18
+Clojure,pallet,2012-03-09,3,1,"#{""hugo@hugoduncan.org""}",1468.0,18
+Clojure,pallet,2012-03-10,1,1,"#{""hugo@hugoduncan.org""}",1469.0,18
+Clojure,pallet,2012-03-11,7,1,"#{""hugo@hugoduncan.org""}",1476.0,18
+Clojure,pallet,2012-03-12,1,1,"#{""hugo@hugoduncan.org""}",1477.0,18
+Clojure,pallet,2012-04-03,7,1,"#{""hugo@hugoduncan.org""}",1484.0,18
+Clojure,pallet,2012-04-05,1,1,"#{""hugo@hugoduncan.org""}",1485.0,18
+Clojure,pallet,2012-04-07,6,1,"#{""hugo@hugoduncan.org""}",1491.0,18
+Clojure,pallet,2012-04-08,1,1,"#{""hugo@hugoduncan.org""}",1492.0,18
+Clojure,pallet,2012-04-09,2,1,"#{""hugo@hugoduncan.org""}",1494.0,18
+Clojure,pallet,2012-04-10,3,1,"#{""hugo@hugoduncan.org""}",1497.0,18
+Clojure,pallet,2012-04-11,2,1,"#{""hugo@hugoduncan.org""}",1499.0,18
+Clojure,pallet,2012-04-22,1,1,"#{""hugo@hugoduncan.org""}",1500.0,18
+Clojure,pallet,2012-04-24,1,1,"#{""hugo@hugoduncan.org""}",1501.0,18
+Clojure,pallet,2012-04-26,2,1,"#{""hugo@hugoduncan.org""}",1503.0,18
+Clojure,pallet,2012-04-27,1,1,"#{""hugo@hugoduncan.org""}",1504.0,18
+Clojure,pallet,2012-05-01,1,1,"#{""hugo@hugoduncan.org""}",1505.0,18
+Clojure,pallet,2012-05-02,3,1,"#{""hugo@hugoduncan.org""}",1508.0,18
+Clojure,pallet,2012-05-03,2,1,"#{""hugo@hugoduncan.org""}",1510.0,18
+Clojure,pallet,2012-05-07,2,1,"#{""hugo@hugoduncan.org""}",1512.0,18
+Clojure,pallet,2012-05-09,2,1,"#{""hugo@hugoduncan.org""}",1514.0,18
+Clojure,pallet,2012-05-18,1,1,"#{""hugo@hugoduncan.org""}",1515.0,18
+Clojure,pallet,2012-06-18,1,1,"#{""hugo@hugoduncan.org""}",1516.0,18
+Clojure,pallet,2012-07-03,9,1,"#{""hugo@hugoduncan.org""}",1525.0,18
+Clojure,pallet,2012-07-05,2,1,"#{""hugo@hugoduncan.org""}",1527.0,18
+Clojure,pallet,2012-07-09,3,1,"#{""hugo@hugoduncan.org""}",1530.0,18
+Clojure,pallet,2012-07-10,2,1,"#{""hugo@hugoduncan.org""}",1532.0,18
+Clojure,pallet,2012-07-11,2,1,"#{""hugo@hugoduncan.org""}",1534.0,18
+Clojure,pallet,2012-07-12,1,1,"#{""hugo@hugoduncan.org""}",1535.0,18
+Clojure,pallet,2012-07-16,20,1,"#{""hugo@hugoduncan.org""}",1555.0,18
+Clojure,pallet,2012-07-17,2,1,"#{""hugo@hugoduncan.org""}",1557.0,18
+Clojure,pallet,2012-07-18,3,1,"#{""hugo@hugoduncan.org""}",1560.0,18
+Clojure,pallet,2012-07-19,7,1,"#{""hugo@hugoduncan.org""}",1567.0,18
+Clojure,pallet,2012-07-26,5,1,"#{""hugo@hugoduncan.org""}",1572.0,18
+Clojure,pallet,2012-08-02,6,2,"#{""juergen@archlinux.org"" ""hugo@hugoduncan.org""}",1578.0,18
+Clojure,pallet,2012-08-09,4,1,"#{""hugo@hugoduncan.org""}",1582.0,18
+Clojure,pallet,2012-08-13,3,1,"#{""hugo@hugoduncan.org""}",1585.0,18
+Clojure,pallet,2012-08-17,3,1,"#{""hugo@hugoduncan.org""}",1588.0,18
+Clojure,pallet,2012-08-18,1,1,"#{""hugo@hugoduncan.org""}",1589.0,18
+Clojure,pallet,2012-08-23,1,1,"#{""hugo@hugoduncan.org""}",1590.0,18
+Clojure,pallet,2012-08-24,1,1,"#{""hugo@hugoduncan.org""}",1591.0,18
+Clojure,pallet,2012-08-28,6,1,"#{""hugo@hugoduncan.org""}",1597.0,18
+Clojure,pallet,2012-08-29,1,1,"#{""hugo@hugoduncan.org""}",1598.0,18
+Clojure,pallet,2012-08-30,3,1,"#{""hugo@hugoduncan.org""}",1601.0,18
+Clojure,pallet,2012-09-04,6,1,"#{""hugo@hugoduncan.org""}",1607.0,18
+Clojure,pallet,2012-09-06,2,1,"#{""hugo@hugoduncan.org""}",1609.0,18
+Clojure,pallet,2012-10-01,1,1,"#{""MerelyAPseudonym@gmail.com""}",1610.0,19
+Clojure,pallet,2012-10-04,5,2,"#{""hugo@hugoduncan.org"" ""pyr@spootnik.org""}",1615.0,19
+Clojure,pallet,2012-10-05,10,1,"#{""hugo@hugoduncan.org""}",1625.0,19
+Clojure,pallet,2012-10-06,5,1,"#{""hugo@hugoduncan.org""}",1630.0,19
+Clojure,pallet,2012-10-12,3,1,"#{""hugo@hugoduncan.org""}",1633.0,19
+Clojure,pallet,2012-10-16,2,1,"#{""MerelyAPseudonym@gmail.com""}",1635.0,19
+Clojure,pallet,2012-10-17,1,1,"#{""hugo@hugoduncan.org""}",1636.0,19
+Clojure,pallet,2012-10-18,7,2,"#{""MerelyAPseudonym@gmail.com"" ""hugo@hugoduncan.org""}",1643.0,19
+Clojure,pallet,2012-10-25,1,1,"#{""hugo@hugoduncan.org""}",1644.0,19
+Clojure,pallet,2012-10-26,5,1,"#{""hugo@hugoduncan.org""}",1649.0,19
+Clojure,pallet,2012-10-27,3,1,"#{""hugo@hugoduncan.org""}",1652.0,19
+Clojure,pallet,2012-10-30,9,1,"#{""hugo@hugoduncan.org""}",1661.0,19
+Clojure,pallet,2012-11-01,7,1,"#{""hugo@hugoduncan.org""}",1668.0,19
+Clojure,pallet,2012-11-05,1,1,"#{""hugo@hugoduncan.org""}",1669.0,19
+Clojure,pallet,2012-11-09,5,1,"#{""hugo@hugoduncan.org""}",1674.0,19
+Clojure,pallet,2012-11-12,1,1,"#{""hugo@hugoduncan.org""}",1675.0,19
+Clojure,pallet,2012-11-20,1,1,"#{""hugo@hugoduncan.org""}",1676.0,19
+Clojure,pallet,2012-11-28,10,1,"#{""hugo@hugoduncan.org""}",1686.0,19
+Clojure,pallet,2012-12-01,1,1,"#{""hugo@hugoduncan.org""}",1687.0,19
+Clojure,pallet,2012-12-02,3,1,"#{""hugo@hugoduncan.org""}",1690.0,19
+Clojure,pallet,2012-12-04,9,1,"#{""hugo@hugoduncan.org""}",1699.0,19
+Clojure,pallet,2012-12-06,1,1,"#{""hugo@hugoduncan.org""}",1700.0,19
+Clojure,pallet,2012-12-08,2,1,"#{""hugo@hugoduncan.org""}",1702.0,19
+Clojure,pallet,2012-12-13,7,1,"#{""hugo@hugoduncan.org""}",1709.0,19
+Clojure,pallet,2012-12-15,1,1,"#{""hugo@hugoduncan.org""}",1710.0,19
+Clojure,pallet,2012-12-19,1,1,"#{""hugo@hugoduncan.org""}",1711.0,19
+Clojure,pallet,2012-12-22,1,1,"#{""hugo@hugoduncan.org""}",1712.0,19
+Clojure,pallet,2013-01-02,1,1,"#{""hugo@hugoduncan.org""}",1713.0,19
+Clojure,pallet,2013-01-04,3,2,"#{""ryan.stradling@fiveoneninegames.com"" ""hugo@hugoduncan.org""}",1716.0,20
+Clojure,pallet,2013-01-06,3,1,"#{""hugo@hugoduncan.org""}",1719.0,20
+Clojure,pallet,2013-01-07,5,1,"#{""hugo@hugoduncan.org""}",1724.0,20
+Clojure,pallet,2013-01-08,1,1,"#{""hugo@hugoduncan.org""}",1725.0,20
+Clojure,pallet,2013-01-09,5,1,"#{""hugo@hugoduncan.org""}",1730.0,20
+Clojure,pallet,2013-01-10,1,1,"#{""hugo@hugoduncan.org""}",1731.0,20
+Clojure,pallet,2013-01-14,3,1,"#{""hugo@hugoduncan.org""}",1734.0,20
+Clojure,pallet,2013-01-15,1,1,"#{""hugo@hugoduncan.org""}",1735.0,20
+Clojure,pallet,2013-01-17,6,1,"#{""hugo@hugoduncan.org""}",1741.0,20
+Clojure,pallet,2013-01-18,2,1,"#{""hugo@hugoduncan.org""}",1743.0,20
+Clojure,pallet,2013-01-20,2,1,"#{""hugo@hugoduncan.org""}",1745.0,20
+Clojure,pallet,2013-01-21,1,1,"#{""hugo@hugoduncan.org""}",1746.0,20
+Clojure,pallet,2013-01-22,3,1,"#{""hugo@hugoduncan.org""}",1749.0,20
+Clojure,pallet,2013-01-23,1,1,"#{""hugo@hugoduncan.org""}",1750.0,20
+Clojure,pallet,2013-01-25,1,1,"#{""hugo@hugoduncan.org""}",1751.0,20
+Clojure,pallet,2013-01-27,1,1,"#{""hugo@hugoduncan.org""}",1752.0,20
+Clojure,pallet,2013-01-29,4,1,"#{""hugo@hugoduncan.org""}",1756.0,20
+Clojure,pallet,2013-01-31,3,1,"#{""hugo@hugoduncan.org""}",1759.0,20
+Clojure,pallet,2013-02-04,10,1,"#{""hugo@hugoduncan.org""}",1769.0,20
+Clojure,pallet,2013-02-05,7,1,"#{""hugo@hugoduncan.org""}",1776.0,20
+Clojure,pallet,2013-02-06,11,1,"#{""hugo@hugoduncan.org""}",1787.0,20
+Clojure,pallet,2013-02-07,2,1,"#{""hugo@hugoduncan.org""}",1789.0,20
+Clojure,pallet,2013-02-08,6,1,"#{""hugo@hugoduncan.org""}",1795.0,20
+Clojure,pallet,2013-02-10,1,1,"#{""colazero0@gmail.com""}",1796.0,21
+Clojure,pallet,2013-02-12,5,1,"#{""hugo@hugoduncan.org""}",1801.0,21
+Clojure,pallet,2013-02-13,12,1,"#{""hugo@hugoduncan.org""}",1813.0,21
+Clojure,pallet,2013-02-14,1,1,"#{""hugo@hugoduncan.org""}",1814.0,21
+Clojure,pallet,2013-02-16,8,1,"#{""hugo@hugoduncan.org""}",1822.0,21
+Clojure,pallet,2013-02-17,7,1,"#{""hugo@hugoduncan.org""}",1829.0,21
+Clojure,pallet,2013-02-19,2,1,"#{""hugo@hugoduncan.org""}",1831.0,21
+Clojure,pallet,2013-02-20,3,1,"#{""hugo@hugoduncan.org""}",1834.0,21
+Clojure,pallet,2013-02-21,3,1,"#{""hugo@hugoduncan.org""}",1837.0,21
+Clojure,pallet,2013-02-22,6,1,"#{""hugo@hugoduncan.org""}",1843.0,21
+Clojure,pallet,2013-02-25,1,1,"#{""hugo@hugoduncan.org""}",1844.0,21
+Clojure,pallet,2013-02-27,3,1,"#{""hugo@hugoduncan.org""}",1847.0,21
+Clojure,pallet,2013-03-02,7,1,"#{""hugo@hugoduncan.org""}",1854.0,21
+Clojure,pallet,2013-03-04,8,1,"#{""hugo@hugoduncan.org""}",1862.0,21
+Clojure,pallet,2013-03-05,4,2,"#{""jon.pither@gmail.com"" ""hugo@hugoduncan.org""}",1866.0,22
+Clojure,pallet,2013-03-06,1,1,"#{""hugo@hugoduncan.org""}",1867.0,22
+Clojure,pallet,2013-03-07,6,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",1873.0,22
+Clojure,pallet,2013-03-08,5,1,"#{""hugo@hugoduncan.org""}",1878.0,22
+Clojure,pallet,2013-03-09,2,2,"#{""hugo@hugoduncan.org"" ""technomancy@gmail.com""}",1880.0,23
+Clojure,pallet,2013-03-10,9,1,"#{""hugo@hugoduncan.org""}",1889.0,23
+Clojure,pallet,2013-03-11,3,1,"#{""hugo@hugoduncan.org""}",1892.0,23
+Clojure,pallet,2013-03-13,19,1,"#{""hugo@hugoduncan.org""}",1911.0,23
+Clojure,pallet,2013-03-14,1,1,"#{""pepijndevos@gmail.com""}",1912.0,24
+Clojure,pallet,2013-03-15,11,1,"#{""hugo@hugoduncan.org""}",1923.0,24
+Clojure,pallet,2013-03-16,1,1,"#{""hugo@hugoduncan.org""}",1924.0,24
+Clojure,pallet,2013-03-18,1,1,"#{""hugo@hugoduncan.org""}",1925.0,24
+Clojure,pallet,2013-03-22,3,1,"#{""hugo@hugoduncan.org""}",1928.0,24
+Clojure,pallet,2013-03-23,2,1,"#{""hugo@hugoduncan.org""}",1930.0,24
+Clojure,pallet,2013-03-24,1,1,"#{""hugo@hugoduncan.org""}",1931.0,24
+Clojure,pallet,2013-03-25,3,1,"#{""hugo@hugoduncan.org""}",1934.0,24
+Clojure,pallet,2013-03-26,8,1,"#{""hugo@hugoduncan.org""}",1942.0,24
+Clojure,pallet,2013-03-27,2,1,"#{""tbatchelli@acm.org""}",1944.0,24
+Clojure,pallet,2013-03-28,1,1,"#{""hugo@hugoduncan.org""}",1945.0,24
+Clojure,pallet,2013-04-02,7,1,"#{""hugo@hugoduncan.org""}",1952.0,24
+Clojure,pallet,2013-04-03,3,1,"#{""hugo@hugoduncan.org""}",1955.0,24
+Clojure,pallet,2013-04-04,4,1,"#{""hugo@hugoduncan.org""}",1959.0,24
+Clojure,pallet,2013-04-05,12,2,"#{""guillermo.winkler@gmail.com"" ""hugo@hugoduncan.org""}",1971.0,25
+Clojure,pallet,2013-04-06,3,1,"#{""hugo@hugoduncan.org""}",1974.0,25
+Clojure,pallet,2013-04-07,4,1,"#{""hugo@hugoduncan.org""}",1978.0,25
+Clojure,pallet,2013-04-08,3,1,"#{""hugo@hugoduncan.org""}",1981.0,25
+Clojure,pallet,2013-04-09,2,2,"#{""hugo@hugoduncan.org"" ""pepijndevos@gmail.com""}",1983.0,25
+Clojure,pallet,2013-04-10,6,1,"#{""hugo@hugoduncan.org""}",1989.0,25
+Clojure,pallet,2013-04-11,2,1,"#{""hugo@hugoduncan.org""}",1991.0,25
+Clojure,pallet,2013-04-12,3,1,"#{""hugo@hugoduncan.org""}",1994.0,25
+Clojure,pallet,2013-04-13,6,1,"#{""hugo@hugoduncan.org""}",2000.0,25
+Clojure,pallet,2013-04-15,2,1,"#{""hugo@hugoduncan.org""}",2002.0,25
+Clojure,pallet,2013-04-16,5,1,"#{""hugo@hugoduncan.org""}",2007.0,25
+Clojure,pallet,2013-04-18,3,1,"#{""hugo@hugoduncan.org""}",2010.0,25
+Clojure,pallet,2013-04-21,7,1,"#{""hugo@hugoduncan.org""}",2017.0,25
+Clojure,pallet,2013-04-22,6,1,"#{""hugo@hugoduncan.org""}",2023.0,25
+Clojure,pallet,2013-04-25,4,1,"#{""hugo@hugoduncan.org""}",2027.0,25
+Clojure,pallet,2013-04-28,7,1,"#{""hugo@hugoduncan.org""}",2034.0,25
+Clojure,pallet,2013-04-29,5,2,"#{""laurent.petit@gmail.com"" ""hugo@hugoduncan.org""}",2039.0,26
+Clojure,pallet,2013-04-30,19,1,"#{""hugo@hugoduncan.org""}",2058.0,26
+Clojure,pallet,2013-05-01,1,1,"#{""hugo@hugoduncan.org""}",2059.0,26
+Clojure,pallet,2013-05-02,5,1,"#{""hugo@hugoduncan.org""}",2064.0,26
+Clojure,pallet,2013-05-03,1,1,"#{""hugo@hugoduncan.org""}",2065.0,26
+Clojure,pallet,2013-05-07,9,1,"#{""hugo@hugoduncan.org""}",2074.0,26
+Clojure,pallet,2013-05-08,2,1,"#{""hugo@hugoduncan.org""}",2076.0,26
+Clojure,pallet,2013-05-09,10,1,"#{""hugo@hugoduncan.org""}",2086.0,26
+Clojure,pallet,2013-05-10,3,1,"#{""hugo@hugoduncan.org""}",2089.0,26
+Clojure,pallet,2013-05-11,1,1,"#{""hugo@hugoduncan.org""}",2090.0,26
+Clojure,pallet,2013-05-14,8,1,"#{""hugo@hugoduncan.org""}",2098.0,26
+Clojure,pallet,2013-05-16,1,1,"#{""hugo@hugoduncan.org""}",2099.0,26
+Clojure,pallet,2013-05-17,5,1,"#{""hugo@hugoduncan.org""}",2104.0,26
+Clojure,pallet,2013-05-20,3,1,"#{""hugo@hugoduncan.org""}",2107.0,26
+Clojure,pallet,2013-05-21,8,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",2115.0,26
+Clojure,pallet,2013-05-23,9,1,"#{""hugo@hugoduncan.org""}",2124.0,26
+Clojure,pallet,2013-05-24,6,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",2130.0,26
+Clojure,pallet,2013-05-25,1,1,"#{""hugo@hugoduncan.org""}",2131.0,26
+Clojure,pallet,2013-05-26,4,1,"#{""tbatchelli@acm.org""}",2135.0,26
+Clojure,pallet,2013-05-27,5,1,"#{""hugo@hugoduncan.org""}",2140.0,26
+Clojure,pallet,2013-05-28,9,3,"#{""valerii.hiora@gmail.com"" ""me@andrewmcveigh.com"" ""hugo@hugoduncan.org""}",2149.0,28
+Clojure,pallet,2013-05-30,7,1,"#{""hugo@hugoduncan.org""}",2156.0,28
+Clojure,pallet,2013-06-02,2,2,"#{""hugo@hugoduncan.org"" ""pyr@spootnik.org""}",2158.0,28
+Clojure,pallet,2013-06-04,19,2,"#{""hugo@hugoduncan.org"" ""pyr@spootnik.org""}",2177.0,28
+Clojure,pallet,2013-06-06,6,2,"#{""gabriel.horner@gmail.com"" ""hugo@hugoduncan.org""}",2183.0,29
+Clojure,pallet,2013-06-07,6,2,"#{""crane.jin.l@gmail.com"" ""hugo@hugoduncan.org""}",2189.0,30
+Clojure,pallet,2013-06-08,8,1,"#{""hugo@hugoduncan.org""}",2197.0,30
+Clojure,pallet,2013-06-11,4,2,"#{""hugo@hugoduncan.org"" ""jed.clinger@buildingenergy.com""}",2201.0,31
+Clojure,pallet,2013-06-12,1,1,"#{""valerii.hiora@gmail.com""}",2202.0,31
+Clojure,pallet,2013-06-13,3,2,"#{""bld@otfrom.com"" ""hugo@hugoduncan.org""}",2205.0,31
+Clojure,pallet,2013-06-14,1,1,"#{""hugo@hugoduncan.org""}",2206.0,31
+Clojure,pallet,2013-06-17,1,1,"#{""me@andrewmcveigh.com""}",2207.0,31
+Clojure,pallet,2013-06-21,1,1,"#{""david.jacot@gmail.com""}",2208.0,32
+Clojure,pallet,2013-06-28,3,1,"#{""hugo@hugoduncan.org""}",2211.0,32
+Clojure,pallet,2013-06-29,7,1,"#{""hugo@hugoduncan.org""}",2218.0,32
+Clojure,pallet,2013-06-30,1,1,"#{""hugo@hugoduncan.org""}",2219.0,32
+Clojure,pallet,2013-07-01,1,1,"#{""gabriel.horner@gmail.com""}",2220.0,32
+Clojure,pallet,2013-07-10,3,1,"#{""hugo@hugoduncan.org""}",2223.0,32
+Clojure,pallet,2013-07-17,1,1,"#{""roman.scherer@nugg.ad""}",2224.0,33
+Clojure,pallet,2013-07-19,2,1,"#{""david.jacot@gmail.com""}",2226.0,33
+Clojure,pallet,2013-07-24,1,1,"#{""david.jacot@gmail.com""}",2227.0,33
+Clojure,pallet,2013-07-26,1,1,"#{""alexander.baranosky@gmail.com""}",2228.0,34
+Clojure,pallet,2013-08-01,3,2,"#{""linkadmin@gmail.com"" ""hugo@hugoduncan.org""}",2231.0,35
+Clojure,pallet,2013-08-20,1,1,"#{""hugo@hugoduncan.org""}",2232.0,35
+Clojure,pallet,2013-08-21,2,1,"#{""hugo@hugoduncan.org""}",2234.0,35
+Clojure,pallet,2013-08-24,2,1,"#{""hugo@hugoduncan.org""}",2236.0,35
+Clojure,pallet,2013-08-25,1,1,"#{""tbatchelli@acm.org""}",2237.0,35
+Clojure,pallet,2013-08-27,5,1,"#{""hugo@hugoduncan.org""}",2242.0,35
+Clojure,pallet,2013-08-28,7,1,"#{""hugo@hugoduncan.org""}",2249.0,35
+Clojure,pallet,2013-08-29,4,1,"#{""hugo@hugoduncan.org""}",2253.0,35
+Clojure,pallet,2013-08-30,3,1,"#{""hugo@hugoduncan.org""}",2256.0,35
+Clojure,pallet,2013-09-05,2,1,"#{""hugo@hugoduncan.org""}",2258.0,35
+Clojure,pallet,2013-09-07,2,1,"#{""hugo@hugoduncan.org""}",2260.0,35
+Clojure,pallet,2013-09-10,1,1,"#{""hugo@hugoduncan.org""}",2261.0,35
+Clojure,pallet,2013-09-11,1,1,"#{""hugo@hugoduncan.org""}",2262.0,35
+Clojure,pallet,2013-09-12,6,1,"#{""hugo@hugoduncan.org""}",2268.0,35
+Clojure,pallet,2013-09-13,1,1,"#{""hugo@hugoduncan.org""}",2269.0,35
+Clojure,pallet,2013-09-14,3,1,"#{""hugo@hugoduncan.org""}",2272.0,35
+Clojure,pallet,2013-09-20,6,1,"#{""hugo@hugoduncan.org""}",2278.0,35
+Clojure,pallet,2013-09-26,1,1,"#{""hugo@hugoduncan.org""}",2279.0,35
+Clojure,pallet,2013-10-02,2,2,"#{""hugo@hugoduncan.org"" ""sritchie09@gmail.com""}",2281.0,35
+Clojure,pallet,2013-10-08,1,1,"#{""hugo@hugoduncan.org""}",2282.0,35
+Clojure,pallet,2013-10-13,1,1,"#{""hugo@hugoduncan.org""}",2283.0,35
+Clojure,pallet,2013-10-14,4,1,"#{""hugo@hugoduncan.org""}",2287.0,35
+Clojure,pallet,2013-10-16,7,2,"#{""hugo@hugoduncan.org"" ""amarcar@walmartlabs.com""}",2294.0,36
+Clojure,pallet,2013-10-21,3,1,"#{""hugo@hugoduncan.org""}",2297.0,36
+Clojure,pallet,2013-10-22,3,1,"#{""hugo@hugoduncan.org""}",2300.0,36
+Clojure,pallet,2013-10-28,5,1,"#{""hugo@hugoduncan.org""}",2305.0,36
+Clojure,pallet,2013-10-29,3,1,"#{""hugo@hugoduncan.org""}",2308.0,36
+Clojure,pallet,2013-10-31,9,1,"#{""hugo@hugoduncan.org""}",2317.0,36
+Clojure,pallet,2013-11-07,8,2,"#{""hugo@hugoduncan.org"" ""tbatchelli@acm.org""}",2325.0,36
+Clojure,pallet,2013-11-08,6,2,"#{""david.jacot@gmail.com"" ""hugo@hugoduncan.org""}",2331.0,36
+Clojure,pallet,2013-11-12,3,1,"#{""hugo@hugoduncan.org""}",2334.0,36
+Clojure,pallet,2013-11-13,3,1,"#{""hugo@hugoduncan.org""}",2337.0,36
+Clojure,pallet,2013-11-14,2,1,"#{""hugo@hugoduncan.org""}",2339.0,36
+Clojure,pallet,2013-11-17,2,1,"#{""hugo@hugoduncan.org""}",2341.0,36
+Clojure,pallet,2013-11-20,2,1,"#{""hugo@hugoduncan.org""}",2343.0,36
+Clojure,pallet,2013-11-26,1,1,"#{""hugo@hugoduncan.org""}",2344.0,36
+Clojure,pallet,2013-11-27,1,1,"#{""hugo@hugoduncan.org""}",2345.0,36
+Clojure,pallet,2013-11-28,2,1,"#{""hugo@hugoduncan.org""}",2347.0,36
+Clojure,pallet,2013-12-02,3,1,"#{""hugo@hugoduncan.org""}",2350.0,36
+Clojure,pallet,2013-12-05,1,1,"#{""hugo@hugoduncan.org""}",2351.0,36
+Clojure,pallet,2013-12-06,2,1,"#{""hugo@hugoduncan.org""}",2353.0,36
+Clojure,pallet,2013-12-09,1,1,"#{""hugo@hugoduncan.org""}",2354.0,36
+Clojure,pallet,2013-12-12,1,1,"#{""hugo@hugoduncan.org""}",2355.0,36
+Clojure,pallet,2013-12-13,3,1,"#{""hugo@hugoduncan.org""}",2358.0,36
+Clojure,pallet,2014-01-08,3,1,"#{""hugo@hugoduncan.org""}",2361.0,36
+Clojure,pallet,2014-01-10,4,2,"#{""david.jacot@gmail.com"" ""hugo@hugoduncan.org""}",2365.0,36
+Clojure,pallet,2014-01-14,2,2,"#{""hugo@hugoduncan.org"" ""roman.scherer@nugg.ad""}",2367.0,36
+Clojure,pallet,2014-01-15,2,2,"#{""carsten.behring@gmail.com"" ""hugo@hugoduncan.org""}",2369.0,37
+Clojure,pallet,2014-01-16,3,1,"#{""hugo@hugoduncan.org""}",2372.0,37
+Clojure,pallet,2014-01-17,1,1,"#{""hugo@hugoduncan.org""}",2373.0,37
+Clojure,pallet,2014-01-22,8,1,"#{""hugo@hugoduncan.org""}",2381.0,37
+Clojure,pallet,2014-01-23,5,1,"#{""hugo@hugoduncan.org""}",2386.0,37
+Clojure,pallet,2014-01-25,1,1,"#{""hugo@hugoduncan.org""}",2387.0,37
+Clojure,pallet,2014-01-27,2,1,"#{""hugo@hugoduncan.org""}",2389.0,37
+Clojure,pallet,2014-01-31,1,1,"#{""fernando@code54.com""}",2390.0,38
+Clojure,pallet,2014-02-03,1,1,"#{""hugo@hugoduncan.org""}",2391.0,38
+Clojure,pallet,2014-02-06,2,1,"#{""hugo@hugoduncan.org""}",2393.0,38
+Clojure,pallet,2014-02-28,3,1,"#{""hugo@hugoduncan.org""}",2396.0,38
+Clojure,pallet,2014-03-05,4,1,"#{""hugo@hugoduncan.org""}",2400.0,38
+Clojure,pallet,2014-03-10,1,1,"#{""hugo@hugoduncan.org""}",2401.0,38
+Clojure,pallet,2014-03-11,2,1,"#{""tbatchelli@acm.org""}",2403.0,38
+Clojure,pallet,2014-03-13,5,2,"#{""arnaud.bos@datasio.com"" ""hugo@hugoduncan.org""}",2408.0,39
+Clojure,pallet,2014-03-19,2,1,"#{""hugo@hugoduncan.org""}",2410.0,39
+Clojure,pallet,2014-03-20,6,1,"#{""hugo@palletops.com""}",2416.0,40
+Clojure,pallet,2014-04-08,1,1,"#{""hugo@hugoduncan.org""}",2417.0,40
+Clojure,pallet,2014-04-15,3,1,"#{""hugo@hugoduncan.org""}",2420.0,40
+Clojure,pallet,2014-04-16,1,1,"#{""hugo@hugoduncan.org""}",2421.0,40
+Clojure,pallet,2014-05-02,1,1,"#{""hugo@hugoduncan.org""}",2422.0,40
+Clojure,pallet,2014-05-29,2,1,"#{""tbatchelli@acm.org""}",2424.0,40
+Clojure,pallet,2014-08-08,2,2,"#{""zaargy@gmail.com"" ""tbatchelli@acm.org""}",2426.0,41
+Clojure,pallet,2014-09-19,7,1,"#{""hugo@hugoduncan.org""}",2433.0,41
+Clojure,pallet,2014-09-20,6,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2439.0,41
+Clojure,pallet,2014-09-23,7,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2446.0,41
+Clojure,pallet,2014-09-24,1,1,"#{""hugo@hugoduncan.org""}",2447.0,41
+Clojure,pallet,2014-10-24,4,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2451.0,41
+Clojure,pallet,2014-11-06,3,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2454.0,41
+Clojure,pallet,2015-06-05,1,1,"#{""hugo@hugoduncan.org""}",2455.0,41
+Clojure,pallet,2015-06-09,4,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2459.0,41
+Clojure,pallet,2015-06-16,3,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2462.0,41
+Clojure,pallet,2015-07-07,5,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2467.0,41
+Clojure,pallet,2015-08-06,4,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2471.0,41
+Clojure,pallet,2015-08-12,4,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2475.0,41
+Clojure,pallet,2015-10-08,5,1,"#{""hugo@hugoduncan.org""}",2480.0,41
+Clojure,pallet,2015-10-16,2,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2482.0,41
+Clojure,pallet,2015-12-03,3,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2485.0,41
+Clojure,pallet,2015-12-12,3,1,"#{""hugo@hugoduncan.org""}",2488.0,41
+Clojure,pallet,2015-12-13,1,1,"#{""hugo@palletops.com""}",2489.0,41
+Clojure,pallet,2016-01-27,4,1,"#{""hugo@hugoduncan.org""}",2493.0,41
+Clojure,pallet,2016-01-28,4,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2497.0,41
+Clojure,pallet,2016-01-29,3,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2500.0,41
+Clojure,pallet,2016-02-18,4,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2504.0,41
+Clojure,pallet,2016-03-22,1,1,"#{""hugo@hugoduncan.org""}",2505.0,41
+Clojure,pallet,2016-04-22,1,1,"#{""hugo@hugoduncan.org""}",2506.0,41
+Clojure,pallet,2016-04-27,4,2,"#{""hugo@palletops.com"" ""hugo@hugoduncan.org""}",2510.0,41

@@ -1,0 +1,586 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2011-12-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@meebo-inc.com, evan@meebo-inc.com]",2.0,[{3 2}],0,0,0,0,2,0
+Clojure,https://github.com/emezeske/lein-cljsbuild,2011-12-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[evan@meebo-inc.com]",3.0,[{3 3}],0,0,0,0,3,0
+Clojure,https://github.com/emezeske/lein-cljsbuild,2011-12-30,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com]",17.0,[{3 17}],0,0,0,0,17,0
+Clojure,https://github.com/emezeske/lein-cljsbuild,2011-12-31,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com]",22.0,[{3 22}],0,0,0,0,22,0
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com]",25.0,[{3 25}],0,0,0,0,25,0
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[evan@meebo-inc.com]",26.0,[{3 26}],0,0,0,0,26,0
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@meebo-inc.com, emezeske@gmail.com]",28.0,"[{3 27, 4 1}]",0,0,0,0,27,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kumar.shantanu@gmail.com]",29.0,"[{3 27, 4 1, ""other"" 1}]",1,0,0,0,27,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-15,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com, evan@meebo-inc.com]",34.0,"[{3 31, 4 1, ""other"" 1, 0 1}]",1,1,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",38.0,"[{3 31, 4 1, ""other"" 1, 0 5}]",1,5,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",42.0,"[{3 31, 4 1, ""other"" 1, 0 9}]",1,9,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-20,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, luke@thinkrelevance.com, evan@mezeske.com]",51.0,"[{3 31, 4 1, ""other"" 2, 0 17}]",2,17,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[luke@thinkrelevance.com]",52.0,"[{3 31, 4 1, ""other"" 3, 0 17}]",3,17,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-01-26,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",58.0,"[{3 31, 4 1, ""other"" 3, 0 23}]",3,23,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",61.0,"[{3 31, 4 1, ""other"" 3, 0 26}]",3,26,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",64.0,"[{3 31, 4 1, ""other"" 3, 0 29}]",3,29,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-08,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[evan@mezeske.com, evan@mezeske.com, luke@thinkrelevance.com]",67.0,"[{3 31, 4 1, ""other"" 4, 0 31}]",4,31,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",70.0,"[{3 31, 4 1, ""other"" 4, 0 34}]",4,34,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[evan@mezeske.com]",71.0,"[{3 31, 4 1, ""other"" 4, 0 35}]",4,35,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[evan@mezeske.com]",72.0,"[{3 31, 4 1, ""other"" 4, 0 36}]",4,36,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",76.0,"[{3 31, 4 1, ""other"" 4, 0 40}]",4,40,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-18,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",87.0,"[{3 31, 4 1, ""other"" 4, 0 51}]",4,51,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-20,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",98.0,"[{3 31, 4 1, ""other"" 4, 0 62}]",4,62,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@mezeske.com, evan@mezeske.com]",100.0,"[{3 31, 4 1, ""other"" 4, 0 64}]",4,64,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-22,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, technomancy@gmail.com, evan@mezeske.com]",105.0,"[{3 31, 4 1, ""other"" 5, 0 68}]",5,68,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-23,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, duck@kronkltd.net, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",112.0,"[{3 31, 4 1, ""other"" 6, 0 74}]",6,74,0,0,31,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@meebo-inc.com, evan@mezeske.com]",114.0,"[{3 32, 4 1, ""other"" 6, 0 75}]",6,75,0,0,32,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-25,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@meebo-inc.com, djharperuk@gmail.com, evan@meebo-inc.com, evan@meebo-inc.com]",118.0,"[{3 35, 4 1, ""other"" 7, 0 75}]",7,75,0,0,35,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@meebo-inc.com, evan@meebo-inc.com]",120.0,"[{3 37, 4 1, ""other"" 7, 0 75}]",7,75,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-02-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",124.0,"[{3 37, 4 1, ""other"" 7, 0 79}]",7,79,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-03-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[pk@harmonious.at, pk@harmonious.at]",126.0,"[{3 37, 4 1, ""other"" 9, 0 79}]",9,79,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pk@harmonious.at]",127.0,"[{3 37, 4 1, ""other"" 10, 0 79}]",10,79,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-03-17,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",134.0,"[{3 37, 4 1, ""other"" 10, 0 86}]",10,86,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-03-19,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",138.0,"[{3 37, 4 1, ""other"" 10, 0 90}]",10,90,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-03-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jenan@counsyl.com]",139.0,"[{3 37, 4 1, ""other"" 11, 0 90}]",11,90,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-03-29,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[jenanwise@gmail.com, fhd@ubercode.de, fhd@ubercode.de]",142.0,"[{3 37, 4 1, ""other"" 14, 0 90}]",14,90,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-03-30,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[evan@mezeske.com, jenanwise@gmail.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",152.0,"[{3 37, 4 1, ""other"" 15, 0 99}]",15,99,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-03,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",157.0,"[{3 37, 4 1, ""other"" 15, 0 104}]",15,104,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-07,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",172.0,"[{3 37, 4 1, ""other"" 15, 0 119}]",15,119,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@mezeske.com, evan@mezeske.com]",174.0,"[{3 37, 4 1, ""other"" 15, 0 121}]",15,121,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[evan@mezeske.com]",175.0,"[{3 37, 4 1, ""other"" 15, 0 122}]",15,122,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",179.0,"[{3 37, 4 1, ""other"" 15, 0 126}]",15,126,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",184.0,"[{3 37, 4 1, ""other"" 15, 0 131}]",15,131,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",188.0,"[{3 37, 4 1, ""other"" 15, 0 135}]",15,135,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[evan@mezeske.com]",189.0,"[{3 37, 4 1, ""other"" 15, 0 136}]",15,136,0,0,37,1
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-04-27,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[emezeske@gmail.com, emezeske@gmail.com, krisajenkins@gmail.com]",192.0,"[{3 37, 4 3, ""other"" 16, 0 136}]",16,136,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-05-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",197.0,"[{3 37, 4 3, ""other"" 16, 0 141}]",16,141,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-05-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",202.0,"[{3 37, 4 3, ""other"" 16, 0 146}]",16,146,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-05-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",207.0,"[{3 37, 4 3, ""other"" 16, 0 151}]",16,151,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-05-26,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",212.0,"[{3 37, 4 3, ""other"" 16, 0 156}]",16,156,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-05-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",216.0,"[{3 37, 4 3, ""other"" 16, 0 160}]",16,160,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-05-30,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, turczanski@gmail.com]",220.0,"[{3 37, 4 3, ""other"" 17, 0 163}]",17,163,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-06-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bhenry@notifymd.com, bhenry@notifymd.com]",222.0,"[{3 37, 4 3, ""other"" 19, 0 163}]",19,163,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-06-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",226.0,"[{3 37, 4 3, ""other"" 19, 0 167}]",19,167,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-07-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@mezeske.com, evan@mezeske.com]",228.0,"[{3 37, 4 3, ""other"" 19, 0 169}]",19,169,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-07-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",232.0,"[{3 37, 4 3, ""other"" 19, 0 173}]",19,173,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-08-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@mezeske.com, evan@mezeske.com]",234.0,"[{3 37, 4 3, ""other"" 19, 0 175}]",19,175,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-08-22,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, daniel.l.gregoire@gmail.com]",246.0,"[{3 37, 4 3, ""other"" 20, 0 186}]",20,186,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-08-27,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",253.0,"[{3 37, 4 3, ""other"" 20, 0 193}]",20,193,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-08-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[evan@mezeske.com]",254.0,"[{3 37, 4 3, ""other"" 20, 0 194}]",20,194,0,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",255.0,"[{3 37, 4 3, ""other"" 20, 0 194, 1 1}]",20,194,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-09-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@mezeske.com, evan@mezeske.com]",257.0,"[{3 37, 4 3, ""other"" 20, 0 196, 1 1}]",20,196,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-10-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",261.0,"[{3 37, 4 3, ""other"" 20, 0 200, 1 1}]",20,200,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-10-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",264.0,"[{3 37, 4 3, ""other"" 20, 0 203, 1 1}]",20,203,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-10-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",269.0,"[{3 37, 4 3, ""other"" 20, 0 208, 1 1}]",20,208,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brandon@brandonbloom.name]",270.0,"[{3 37, 4 3, ""other"" 21, 0 208, 1 1}]",21,208,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-11-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",273.0,"[{3 37, 4 3, ""other"" 21, 0 211, 1 1}]",21,211,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[geoff.salmon@gmail.com]",274.0,"[{3 37, 4 3, ""other"" 22, 0 211, 1 1}]",22,211,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-11-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dirklectisch@mac.com]",275.0,"[{3 37, 4 3, ""other"" 23, 0 211, 1 1}]",23,211,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dspiteself@gmail.com]",276.0,"[{3 37, 4 3, ""other"" 24, 0 211, 1 1}]",24,211,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-12-16,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",286.0,"[{3 37, 4 3, ""other"" 24, 0 221, 1 1}]",24,221,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2012-12-31,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[cma@bitemyapp.com, evan@mezeske.com, cma@bitemyapp.com]",289.0,"[{3 37, 4 3, ""other"" 26, 0 222, 1 1}]",26,222,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-01-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[info@zilence.net]",290.0,"[{3 37, 4 3, ""other"" 27, 0 222, 1 1}]",27,222,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[s@bushi.do]",291.0,"[{3 37, 4 3, ""other"" 28, 0 222, 1 1}]",28,222,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-01-20,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, s@bushi.do]",305.0,"[{3 37, 4 3, ""other"" 29, 0 235, 1 1}]",29,235,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-01-21,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",312.0,"[{3 37, 4 3, ""other"" 29, 0 242, 1 1}]",29,242,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-01-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hsalokor@iki.fi, hsalokor@iki.fi, hsalokor@iki.fi, hsalokor@iki.fi]",316.0,"[{3 37, 4 3, ""other"" 33, 0 242, 1 1}]",33,242,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[harri.salokorpi@reaktor.fi]",317.0,"[{3 37, 4 3, ""other"" 34, 0 242, 1 1}]",34,242,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[micahmartin@gmail.com]",318.0,"[{3 37, 4 3, ""other"" 35, 0 242, 1 1}]",35,242,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-05-11,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com, evan@mezeske.com]",329.0,"[{3 37, 4 3, ""other"" 35, 0 253, 1 1}]",35,253,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-05-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[evan@mezeske.com, evan@mezeske.com]",331.0,"[{3 37, 4 3, ""other"" 35, 0 255, 1 1}]",35,255,1,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-06-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",332.0,"[{3 37, 4 3, ""other"" 35, 0 255, 1 2}]",35,255,2,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-07-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[julien.eluard@gmail.com, julien.eluard@gmail.com]",334.0,"[{3 37, 4 3, ""other"" 37, 0 255, 1 2}]",37,255,2,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[connect@bltavares.com]",335.0,"[{3 37, 4 3, ""other"" 38, 0 255, 1 2}]",38,255,2,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cma@bitemyapp.com]",336.0,"[{3 37, 4 3, ""other"" 39, 0 255, 1 2}]",39,255,2,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-08-29,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[chas@cemerick.com, chas@cemerick.com, brian@brianmaddy.com, chas@cemerick.com, chas@cemerick.com]",341.0,"[{3 37, 4 3, ""other"" 40, 0 255, 1 6}]",40,255,6,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-08-30,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",349.0,"[{3 37, 4 3, ""other"" 40, 0 255, 1 14}]",40,255,14,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-09-13,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",354.0,"[{3 37, 4 3, ""other"" 40, 0 255, 1 19}]",40,255,19,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cjholdbrooks@gmail.com]",355.0,"[{3 37, 4 3, ""other"" 41, 0 255, 1 19}]",41,255,19,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-10-10,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, kimmo.koskinen@ekahau.com]",363.0,"[{3 37, 4 3, ""other"" 42, 0 255, 1 26}]",42,255,26,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-10-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",365.0,"[{3 37, 4 3, ""other"" 42, 0 255, 1 28}]",42,255,28,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-10-13,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[kumar.shantanu@gmail.com, kumar.shantanu@gmail.com, chas@cemerick.com, chas@cemerick.com]",369.0,"[{3 37, 4 3, ""other"" 44, 0 255, 1 30}]",44,255,30,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-10-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",372.0,"[{3 37, 4 3, ""other"" 44, 0 255, 1 33}]",44,255,33,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",373.0,"[{3 37, 4 3, ""other"" 44, 0 255, 1 34}]",44,255,34,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-10-31,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[chas@cemerick.com, mimmo.cosenza@gmail.com, mimmo.cosenza@gmail.com, mimmo.cosenza@gmail.com, mimmo.cosenza@gmail.com]",378.0,"[{3 37, 4 3, ""other"" 48, 0 255, 1 35}]",48,255,35,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-11-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",379.0,"[{3 37, 4 3, ""other"" 48, 0 255, 1 36}]",48,255,36,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-11-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",381.0,"[{3 37, 4 3, ""other"" 48, 0 255, 1 38}]",48,255,38,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-11-07,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",387.0,"[{3 37, 4 3, ""other"" 48, 0 255, 1 44}]",48,255,44,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jeannikl@hypirion.com]",388.0,"[{3 37, 4 3, ""other"" 49, 0 255, 1 44}]",49,255,44,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-11-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",390.0,"[{3 37, 4 3, ""other"" 49, 0 255, 1 46}]",49,255,46,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-11-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",392.0,"[{3 37, 4 3, ""other"" 49, 0 255, 1 48}]",49,255,48,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ericwnormand@gmail.com]",393.0,"[{3 37, 4 3, ""other"" 50, 0 255, 1 48}]",50,255,48,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-12-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",395.0,"[{3 37, 4 3, ""other"" 50, 0 255, 1 50}]",50,255,50,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2013-12-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",397.0,"[{3 37, 4 3, ""other"" 50, 0 255, 1 52}]",50,255,52,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-01-10,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, edbond@gmail.com]",401.0,"[{3 37, 4 3, ""other"" 51, 0 255, 1 55}]",51,255,55,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-01-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",406.0,"[{3 37, 4 3, ""other"" 51, 0 255, 1 60}]",51,255,60,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[edwin.park@rbccm.com]",407.0,"[{3 37, 4 3, ""other"" 52, 0 255, 1 60}]",52,255,60,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",408.0,"[{3 37, 4 3, ""other"" 52, 0 255, 1 61}]",52,255,61,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-02-12,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[hura@users.noreply.github.com, chas@cemerick.com, hura@users.noreply.github.com]",411.0,"[{3 37, 4 3, ""other"" 54, 0 255, 1 62}]",54,255,62,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",412.0,"[{3 37, 4 3, ""other"" 54, 0 255, 1 63}]",54,255,63,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",413.0,"[{3 37, 4 3, ""other"" 54, 0 255, 1 64}]",54,255,64,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-04-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",416.0,"[{3 37, 4 3, ""other"" 54, 0 255, 1 67}]",54,255,67,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-04-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",420.0,"[{3 37, 4 3, ""other"" 54, 0 255, 1 71}]",54,255,71,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@paulbutcher.com]",421.0,"[{3 37, 4 3, ""other"" 55, 0 255, 1 71}]",55,255,71,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-05-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@paulbutcher.com]",422.0,"[{3 37, 4 3, ""other"" 56, 0 255, 1 71}]",56,255,71,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",423.0,"[{3 37, 4 3, ""other"" 56, 0 255, 1 72}]",56,255,72,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[wfleming77@gmail.com]",424.0,"[{3 37, 4 3, ""other"" 57, 0 255, 1 72}]",57,255,72,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-05-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",425.0,"[{3 37, 4 3, ""other"" 57, 0 255, 1 73}]",57,255,73,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-06-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, paul@paulbutcher.com]",427.0,"[{3 37, 4 3, ""other"" 58, 0 255, 1 74}]",58,255,74,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-06-07,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, jestinepaul@users.noreply.github.com]",429.0,"[{3 37, 4 3, ""other"" 59, 0 255, 1 75}]",59,255,75,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@paulbutcher.com]",430.0,"[{3 37, 4 3, ""other"" 60, 0 255, 1 75}]",60,255,75,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swilliams@pros.com]",431.0,"[{3 37, 4 3, ""other"" 61, 0 255, 1 75}]",61,255,75,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[throwable42@gmail.com]",432.0,"[{3 37, 4 3, ""other"" 62, 0 255, 1 75}]",62,255,75,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-11-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gary.verhaegen@gmail.com]",433.0,"[{3 37, 4 3, ""other"" 63, 0 255, 1 75}]",63,255,75,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-11-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gary.verhaegen@gmail.com]",434.0,"[{3 37, 4 3, ""other"" 64, 0 255, 1 75}]",64,255,75,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-12-08,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",438.0,"[{3 37, 4 3, ""other"" 64, 0 255, 1 79}]",64,255,79,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-12-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[luke@vanderhart.net, luke@vanderhart.net]",440.0,"[{3 37, 4 3, ""other"" 66, 0 255, 1 79}]",66,255,79,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-12-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bhauman@gmail.com, bhauman@gmail.com, bhauman@gmail.com]",443.0,"[{3 37, 4 3, ""other"" 69, 0 255, 1 79}]",69,255,79,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-12-15,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",448.0,"[{3 37, 4 3, ""other"" 69, 0 255, 1 84}]",69,255,84,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",449.0,"[{3 37, 4 3, ""other"" 69, 0 255, 1 85}]",69,255,85,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2014-12-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",452.0,"[{3 37, 4 3, ""other"" 69, 0 255, 1 88}]",69,255,88,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[matthew.boston@gmail.com]",453.0,"[{3 37, 4 3, ""other"" 70, 0 255, 1 88}]",70,255,88,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-01-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, prokopov@gmail.com]",455.0,"[{3 37, 4 3, ""other"" 71, 0 255, 1 89}]",71,255,89,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-02-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[s@bushi.do]",456.0,"[{3 37, 4 3, ""other"" 72, 0 255, 1 89}]",72,255,89,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-02-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vaseninlol@gmail.com]",457.0,"[{3 37, 4 3, ""other"" 73, 0 255, 1 89}]",73,255,89,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-02-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",462.0,"[{3 37, 4 3, ""other"" 73, 0 255, 1 94}]",73,255,94,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",463.0,"[{3 37, 4 3, ""other"" 73, 0 255, 1 95}]",73,255,95,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vaseninlol@gmail.com]",464.0,"[{3 37, 4 3, ""other"" 74, 0 255, 1 95}]",74,255,95,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[peter.westmacott@gmail.com]",465.0,"[{3 37, 4 3, ""other"" 75, 0 255, 1 95}]",75,255,95,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-03-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mike@fikesfarm.com]",466.0,"[{3 37, 4 3, ""other"" 76, 0 255, 1 95}]",76,255,95,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-04-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jake@mojotech.com]",467.0,"[{3 37, 4 3, ""other"" 77, 0 255, 1 95}]",77,255,95,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-05-04,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[ericwnormand@gmail.com, chas@cemerick.com, chas@cemerick.com, roman@burningswell.com]",471.0,"[{3 37, 4 3, ""other"" 79, 0 255, 1 97}]",79,255,97,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-05-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",472.0,"[{3 37, 4 3, ""other"" 79, 0 255, 1 98}]",79,255,98,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-05-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",475.0,"[{3 37, 4 3, ""other"" 79, 0 255, 1 101}]",79,255,101,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-05-14,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[chas@cemerick.com, cjholdbrooks@gmail.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",481.0,"[{3 37, 4 3, ""other"" 80, 0 255, 1 106}]",80,255,106,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chas@cemerick.com]",482.0,"[{3 37, 4 3, ""other"" 80, 0 255, 1 107}]",80,255,107,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-08-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",484.0,"[{3 37, 4 3, ""other"" 80, 0 255, 1 109}]",80,255,109,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-08-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vaseninlol@gmail.com, vaseninlol@gmail.com]",486.0,"[{3 37, 4 3, ""other"" 82, 0 255, 1 109}]",82,255,109,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-08-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chas@cemerick.com, chas@cemerick.com]",488.0,"[{3 37, 4 3, ""other"" 82, 0 255, 1 111}]",82,255,111,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-08-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[chas@cemerick.com, chas@cemerick.com, chas@cemerick.com, chas@cemerick.com]",492.0,"[{3 37, 4 3, ""other"" 82, 0 255, 1 115}]",82,255,115,0,37,3
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[emezeske@gmail.com]",493.0,"[{3 37, 4 4, ""other"" 82, 0 255, 1 115}]",82,255,115,0,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[a.richiardi.work@gmail.com]",494.0,"[{3 37, 4 4, ""other"" 83, 0 255, 1 115}]",83,255,115,0,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",495.0,"[{3 37, 4 4, ""other"" 84, 0 255, 1 115}]",84,255,115,0,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-09-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[maria.geller2@gmail.com, maria.geller2@gmail.com]",497.0,"[{3 37, 4 4, ""other"" 84, 0 255, 1 115, 2 2}]",84,255,115,2,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",498.0,"[{3 37, 4 4, ""other"" 84, 0 255, 1 115, 2 3}]",84,255,115,3,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-10-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",500.0,"[{3 37, 4 4, ""other"" 86, 0 255, 1 115, 2 3}]",86,255,115,3,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-10-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[juho.teperi@iki.fi, juho.teperi@iki.fi]",502.0,"[{3 37, 4 4, ""other"" 88, 0 255, 1 115, 2 3}]",88,255,115,3,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[psalaberria002@gmail.com]",503.0,"[{3 37, 4 4, ""other"" 89, 0 255, 1 115, 2 3}]",89,255,115,3,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-10-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[maria.geller2@gmail.com, maria.geller2@gmail.com, maria.geller2@gmail.com, maria.geller2@gmail.com]",507.0,"[{3 37, 4 4, ""other"" 89, 0 255, 1 115, 2 7}]",89,255,115,7,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-11-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[maria.geller2@gmail.com, maria.geller2@gmail.com]",509.0,"[{3 37, 4 4, ""other"" 89, 0 255, 1 115, 2 9}]",89,255,115,9,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmichulke@gmail.com]",510.0,"[{3 37, 4 4, ""other"" 90, 0 255, 1 115, 2 9}]",90,255,115,9,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-11-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",511.0,"[{3 37, 4 4, ""other"" 90, 0 255, 1 115, 2 10}]",90,255,115,10,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-11-07,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[maria.geller2@gmail.com, maria.geller2@gmail.com, maria.geller2@gmail.com, maria.geller2@gmail.com]",515.0,"[{3 37, 4 4, ""other"" 90, 0 255, 1 115, 2 14}]",90,255,115,14,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-12-04,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[maria.geller2@gmail.com, mn@nehlsen-edv.de, prokopov@gmail.com]",518.0,"[{3 37, 4 4, ""other"" 92, 0 255, 1 115, 2 15}]",92,255,115,15,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2015-12-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[maria.geller2@gmail.com, maria.geller2@gmail.com, maria.geller2@gmail.com]",521.0,"[{3 37, 4 4, ""other"" 92, 0 255, 1 115, 2 18}]",92,255,115,18,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",522.0,"[{3 37, 4 4, ""other"" 92, 0 255, 1 115, 2 19}]",92,255,115,19,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-02-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[chris@puppetlabs.com, chris@puppetlabs.com]",524.0,"[{3 37, 4 4, ""other"" 94, 0 255, 1 115, 2 19}]",94,255,115,19,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",525.0,"[{3 37, 4 4, ""other"" 94, 0 255, 1 115, 2 20}]",94,255,115,20,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-03-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mneise@liveops.com]",526.0,"[{3 37, 4 4, ""other"" 95, 0 255, 1 115, 2 20}]",95,255,115,20,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mneise@liveops.com]",527.0,"[{3 37, 4 4, ""other"" 96, 0 255, 1 115, 2 20}]",96,255,115,20,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-08-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[alex@puredanger.com, alex@puredanger.com]",529.0,"[{3 37, 4 4, ""other"" 98, 0 255, 1 115, 2 20}]",98,255,115,20,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-08-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[maria.geller2@gmail.com, maria.geller2@gmail.com, maria.geller2@gmail.com]",532.0,"[{3 37, 4 4, ""other"" 98, 0 255, 1 115, 2 23}]",98,255,115,23,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chris@puppetlabs.com]",533.0,"[{3 37, 4 4, ""other"" 99, 0 255, 1 115, 2 23}]",99,255,115,23,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-11-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",534.0,"[{3 37, 4 4, ""other"" 99, 0 255, 1 115, 2 24}]",99,255,115,24,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",535.0,"[{3 37, 4 4, ""other"" 99, 0 255, 1 115, 2 25}]",99,255,115,25,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",536.0,"[{3 37, 4 4, ""other"" 99, 0 255, 1 115, 2 26}]",99,255,115,26,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-12-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[helena.josol@gmail.com]",537.0,"[{3 37, 4 4, ""other"" 100, 0 255, 1 115, 2 26}]",100,255,115,26,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2016-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",538.0,"[{3 37, 4 4, ""other"" 100, 0 255, 1 115, 2 27}]",100,255,115,27,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stephen@montoux.com]",539.0,"[{3 37, 4 4, ""other"" 101, 0 255, 1 115, 2 27}]",101,255,115,27,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lars@trieloff.net]",540.0,"[{3 37, 4 4, ""other"" 102, 0 255, 1 115, 2 27}]",102,255,115,27,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[santi.1410@hotmail.com]",541.0,"[{3 37, 4 4, ""other"" 103, 0 255, 1 115, 2 27}]",103,255,115,27,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",542.0,"[{3 37, 4 4, ""other"" 103, 0 255, 1 115, 2 28}]",103,255,115,28,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-04-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[maria.geller2@gmail.com, maria.geller2@gmail.com, maria.geller2@gmail.com]",545.0,"[{3 37, 4 4, ""other"" 103, 0 255, 1 115, 2 31}]",103,255,115,31,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",546.0,"[{3 37, 4 4, ""other"" 103, 0 255, 1 115, 2 32}]",103,255,115,32,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",547.0,"[{3 37, 4 4, ""other"" 103, 0 255, 1 115, 2 33}]",103,255,115,33,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-07-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",548.0,"[{3 37, 4 4, ""other"" 103, 0 255, 1 115, 2 34}]",103,255,115,34,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",549.0,"[{3 37, 4 4, ""other"" 103, 0 255, 1 115, 2 35}]",103,255,115,35,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[corin@responsight.com]",550.0,"[{3 37, 4 4, ""other"" 104, 0 255, 1 115, 2 35}]",104,255,115,35,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2017-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",551.0,"[{3 37, 4 4, ""other"" 104, 0 255, 1 115, 2 36}]",104,255,115,36,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2018-07-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",552.0,"[{3 37, 4 4, ""other"" 104, 0 255, 1 115, 2 37}]",104,255,115,37,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2019-10-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[carlo.sciolla@gmail.com, carlo.sciolla@gmail.com, carlo.sciolla@gmail.com]",555.0,"[{3 37, 4 4, ""other"" 107, 0 255, 1 115, 2 37}]",107,255,115,37,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2020-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",556.0,"[{3 37, 4 4, ""other"" 107, 0 255, 1 115, 2 38}]",107,255,115,38,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2020-04-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",557.0,"[{3 37, 4 4, ""other"" 107, 0 255, 1 115, 2 39}]",107,255,115,39,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2020-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",558.0,"[{3 37, 4 4, ""other"" 107, 0 255, 1 115, 2 40}]",107,255,115,40,37,4
+Clojure,https://github.com/emezeske/lein-cljsbuild,2021-03-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[maria.geller2@gmail.com]",559.0,"[{3 37, 4 4, ""other"" 107, 0 255, 1 115, 2 41}]",107,255,115,41,37,4

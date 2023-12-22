@@ -1,0 +1,88 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/jfilter/clean-text,2018-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi+github@jfilter.de]",1.0,[{1 1}],0,0,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2018-12-21,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",8.0,"[{1 1, 0 7}]",0,7,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",9.0,"[{1 1, 0 8}]",0,8,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",10.0,"[{1 1, 0 9}]",0,9,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",11.0,"[{1 1, 0 10}]",0,10,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hi@jfilter.de, hi@jfilter.de]",13.0,"[{1 1, 0 12}]",0,12,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-03-22,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",22.0,"[{1 1, 0 21}]",0,21,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-03-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",23.0,"[{1 1, 0 22}]",0,22,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-04-24,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",32.0,"[{1 1, 0 31}]",0,31,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-04-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",33.0,"[{1 1, 0 32}]",0,32,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2019-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",34.0,"[{1 1, 0 33}]",0,33,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2020-07-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hi@jfilter.de, hi@jfilter.de]",36.0,"[{1 1, 0 35}]",0,35,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2020-07-24,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",45.0,"[{1 1, 0 44}]",0,44,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2020-10-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",48.0,"[{1 1, 0 47}]",0,47,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2020-10-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hi@jfilter.de, hi@jfilter.de]",50.0,"[{1 1, 0 49}]",0,49,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2020-10-18,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",57.0,"[{1 1, 0 56}]",0,56,1,0,0,0
+Python,https://github.com/jfilter/clean-text,2020-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi+github@jfilter.de]",58.0,"[{1 2, 0 56}]",0,56,2,0,0,0
+Python,https://github.com/jfilter/clean-text,2020-11-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi+github@jfilter.de]",59.0,"[{1 3, 0 56}]",0,56,3,0,0,0
+Python,https://github.com/jfilter/clean-text,2021-02-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",62.0,"[{1 3, 0 59}]",0,59,3,0,0,0
+Python,https://github.com/jfilter/clean-text,2021-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",63.0,"[{1 3, 0 60}]",0,60,3,0,0,0
+Python,https://github.com/jfilter/clean-text,2021-04-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",67.0,"[{1 3, 0 64}]",0,64,3,0,0,0
+Python,https://github.com/jfilter/clean-text,2021-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",68.0,"[{1 3, 0 65}]",0,65,3,0,0,0
+Python,https://github.com/jfilter/clean-text,2021-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",69.0,"[{1 3, 0 66}]",0,66,3,0,0,0
+Python,https://github.com/jfilter/clean-text,2021-08-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",72.0,"[{1 3, 0 69}]",0,69,3,0,0,0
+Python,https://github.com/jfilter/clean-text,2022-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sadraqazvin1@yahoo.com]",73.0,"[{1 3, 0 69, 2 1}]",0,69,3,1,0,0
+Python,https://github.com/jfilter/clean-text,2022-01-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hi@jfilter.de, hi@jfilter.de]",75.0,"[{1 3, 0 71, 2 1}]",0,71,3,1,0,0
+Python,https://github.com/jfilter/clean-text,2022-01-29,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de, hi@jfilter.de]",81.0,"[{1 3, 0 77, 2 1}]",0,77,3,1,0,0
+Python,https://github.com/jfilter/clean-text,2022-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",82.0,"[{1 3, 0 78, 2 1}]",0,78,3,1,0,0
+Python,https://github.com/jfilter/clean-text,2022-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@jfilter.de]",83.0,"[{1 3, 0 79, 2 1}]",0,79,3,1,0,0

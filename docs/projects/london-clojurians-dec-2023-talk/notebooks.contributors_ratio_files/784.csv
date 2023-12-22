@@ -1,0 +1,274 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/green-coder/girouette,2020-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/green-coder/girouette,2020-12-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",2.0,[{0 2}],0,2,0,0,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-02,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[598193+green-coder@users.noreply.github.com, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, vincent@404.taipei, vincent@404.taipei]",14.0,"[{0 11, 2 3}]",0,11,0,3,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",19.0,"[{0 16, 2 3}]",0,16,0,3,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-10,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[598193+green-coder@users.noreply.github.com, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",26.0,"[{0 21, 2 5}]",0,21,0,5,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",27.0,"[{0 22, 2 5}]",0,22,0,5,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",28.0,"[{0 23, 2 5}]",0,23,0,5,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-13,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[vincent@404.taipei, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, vincent@404.taipei]",32.0,"[{0 26, 2 6}]",0,26,0,6,0,0
+Clojure,https://github.com/green-coder/girouette,2021-01-15,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[raphael.saunier@gmail.com, raphael.saunier@gmail.com, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, vincent@404.taipei]",37.0,"[{0 28, 2 7, 3 2}]",0,28,0,7,2,0
+Clojure,https://github.com/green-coder/girouette,2021-01-16,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[raphael.saunier@gmail.com, raphael.saunier@gmail.com, raphael.saunier@gmail.com, raphael.saunier@gmail.com, raphael.saunier@gmail.com, vincent@404.taipei]",43.0,"[{0 29, 2 7, 3 7}]",0,29,0,7,7,0
+Clojure,https://github.com/green-coder/girouette,2021-01-17,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[raphael.saunier@gmail.com, raphael.saunier@gmail.com, 598193+green-coder@users.noreply.github.com, vincent@404.taipei]",47.0,"[{0 30, 2 8, 3 9}]",0,30,0,8,9,0
+Clojure,https://github.com/green-coder/girouette,2021-01-18,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[598193+green-coder@users.noreply.github.com, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",53.0,"[{0 35, 2 9, 3 9}]",0,35,0,9,9,0
+Clojure,https://github.com/green-coder/girouette,2021-01-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[raphael.saunier@gmail.com, raphael.saunier@gmail.com, raphael.saunier@gmail.com]",56.0,"[{0 35, 2 9, 3 12}]",0,35,0,9,12,0
+Clojure,https://github.com/green-coder/girouette,2021-01-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, raphael.saunier@gmail.com]",58.0,"[{0 36, 2 9, 3 13}]",0,36,0,9,13,0
+Clojure,https://github.com/green-coder/girouette,2021-01-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, 598193+green-coder@users.noreply.github.com]",60.0,"[{0 37, 2 10, 3 13}]",0,37,0,10,13,0
+Clojure,https://github.com/green-coder/girouette,2021-01-28,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, 598193+green-coder@users.noreply.github.com]",66.0,"[{0 42, 2 11, 3 13}]",0,42,0,11,13,0
+Clojure,https://github.com/green-coder/girouette,2021-01-29,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",74.0,"[{0 50, 2 11, 3 13}]",0,50,0,11,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[598193+green-coder@users.noreply.github.com]",75.0,"[{0 50, 2 12, 3 13}]",0,50,0,12,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, vincent@404.taipei]",77.0,"[{0 52, 2 12, 3 13}]",0,52,0,12,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, 598193+green-coder@users.noreply.github.com]",80.0,"[{0 54, 2 13, 3 13}]",0,54,0,13,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",83.0,"[{0 57, 2 13, 3 13}]",0,57,0,13,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-24,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, vincent@404.taipei, vincent@404.taipei]",89.0,"[{0 62, 2 14, 3 13}]",0,62,0,14,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",94.0,"[{0 67, 2 14, 3 13}]",0,67,0,14,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, vincent@404.taipei]",96.0,"[{0 69, 2 14, 3 13}]",0,69,0,14,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",99.0,"[{0 72, 2 14, 3 13}]",0,72,0,14,13,0
+Clojure,https://github.com/green-coder/girouette,2021-02-28,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[598193+green-coder@users.noreply.github.com, vincent@404.taipei, vincent@404.taipei]",102.0,"[{0 74, 2 15, 3 13}]",0,74,0,15,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-01,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, y.hysenbug@gmail.com]",108.0,"[{0 78, 2 16, 3 13, ""other"" 1}]",1,78,0,16,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",109.0,"[{0 79, 2 16, 3 13, ""other"" 1}]",1,79,0,16,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",113.0,"[{0 83, 2 16, 3 13, ""other"" 1}]",1,83,0,16,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-06,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[598193+green-coder@users.noreply.github.com, vincent@404.taipei]",115.0,"[{0 84, 2 17, 3 13, ""other"" 1}]",1,84,0,17,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-17,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jcoyle@gmail.com, vincent@404.taipei]",117.0,"[{0 85, 2 17, 3 13, ""other"" 2}]",2,85,0,17,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",118.0,"[{0 86, 2 17, 3 13, ""other"" 2}]",2,86,0,17,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",119.0,"[{0 87, 2 17, 3 13, ""other"" 2}]",2,87,0,17,13,0
+Clojure,https://github.com/green-coder/girouette,2021-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[598193+green-coder@users.noreply.github.com]",120.0,"[{0 87, 2 18, 3 13, ""other"" 2}]",2,87,0,18,13,0
+Clojure,https://github.com/green-coder/girouette,2021-04-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",121.0,"[{0 88, 2 18, 3 13, ""other"" 2}]",2,88,0,18,13,0
+Clojure,https://github.com/green-coder/girouette,2021-04-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",125.0,"[{0 92, 2 18, 3 13, ""other"" 2}]",2,92,0,18,13,0
+Clojure,https://github.com/green-coder/girouette,2021-04-11,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",130.0,"[{0 97, 2 18, 3 13, ""other"" 2}]",2,97,0,18,13,0
+Clojure,https://github.com/green-coder/girouette,2021-04-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[c.westrom@westrom.xyz]",131.0,"[{0 97, 2 18, 3 13, ""other"" 3}]",3,97,0,18,13,0
+Clojure,https://github.com/green-coder/girouette,2021-04-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[598193+green-coder@users.noreply.github.com, admin@prestance-informatique.fr]",133.0,"[{0 97, 2 19, 3 13, ""other"" 4}]",4,97,0,19,13,0
+Clojure,https://github.com/green-coder/girouette,2021-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",134.0,"[{0 98, 2 19, 3 13, ""other"" 4}]",4,98,0,19,13,0
+Clojure,https://github.com/green-coder/girouette,2021-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zolazhou@gmail.com]",135.0,"[{0 98, 2 19, 3 13, ""other"" 5}]",5,98,0,19,13,0
+Clojure,https://github.com/green-coder/girouette,2021-05-20,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[git@jacobobryant.com, git@jacobobryant.com, 598193+green-coder@users.noreply.github.com]",138.0,"[{0 98, 2 20, 3 13, ""other"" 7}]",7,98,0,20,13,0
+Clojure,https://github.com/green-coder/girouette,2021-05-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[598193+green-coder@users.noreply.github.com]",139.0,"[{0 98, 2 21, 3 13, ""other"" 7}]",7,98,0,21,13,0
+Clojure,https://github.com/green-coder/girouette,2021-05-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, vincent@404.taipei]",141.0,"[{0 100, 2 21, 3 13, ""other"" 7}]",7,100,0,21,13,0
+Clojure,https://github.com/green-coder/girouette,2021-05-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[598193+green-coder@users.noreply.github.com, vincent@404.taipei]",143.0,"[{0 101, 2 22, 3 13, ""other"" 7}]",7,101,0,22,13,0
+Clojure,https://github.com/green-coder/girouette,2021-06-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james.nvc@gmail.com]",144.0,"[{0 101, 2 22, 3 13, ""other"" 7, 1 1}]",7,101,1,22,13,0
+Clojure,https://github.com/green-coder/girouette,2021-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james.nvc@gmail.com]",145.0,"[{0 101, 2 22, 3 13, ""other"" 7, 1 2}]",7,101,2,22,13,0
+Clojure,https://github.com/green-coder/girouette,2021-06-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[598193+green-coder@users.noreply.github.com]",146.0,"[{0 101, 2 23, 3 13, ""other"" 7, 1 2}]",7,101,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-07-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",150.0,"[{0 105, 2 23, 3 13, ""other"" 7, 1 2}]",7,105,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-07-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",153.0,"[{0 108, 2 23, 3 13, ""other"" 7, 1 2}]",7,108,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-08-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[philippa@markovics.com]",154.0,"[{0 108, 2 23, 3 13, ""other"" 8, 1 2}]",8,108,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-08-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[philippa@markovics.com]",155.0,"[{0 108, 2 23, 3 13, ""other"" 9, 1 2}]",9,108,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-08-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",156.0,"[{0 109, 2 23, 3 13, ""other"" 9, 1 2}]",9,109,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-08-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",159.0,"[{0 112, 2 23, 3 13, ""other"" 9, 1 2}]",9,112,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jschoffen.dev@gmail.com]",160.0,"[{0 112, 2 23, 3 13, ""other"" 10, 1 2}]",10,112,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",161.0,"[{0 113, 2 23, 3 13, ""other"" 10, 1 2}]",10,113,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adrian.aleixandre@gmail.com]",162.0,"[{0 113, 2 23, 3 13, ""other"" 11, 1 2}]",11,113,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[adrian.aleixandre@gmail.com]",163.0,"[{0 113, 2 23, 3 13, ""other"" 12, 1 2}]",12,113,2,23,13,0
+Clojure,https://github.com/green-coder/girouette,2021-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[598193+green-coder@users.noreply.github.com]",164.0,"[{0 113, 2 24, 3 13, ""other"" 12, 1 2}]",12,113,2,24,13,0
+Clojure,https://github.com/green-coder/girouette,2021-11-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, vincent@404.taipei]",166.0,"[{0 115, 2 24, 3 13, ""other"" 12, 1 2}]",12,115,2,24,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james.nvc@gmail.com]",167.0,"[{0 115, 2 24, 3 13, ""other"" 12, 1 3}]",12,115,3,24,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james.nvc@gmail.com]",168.0,"[{0 115, 2 24, 3 13, ""other"" 12, 1 4}]",12,115,4,24,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[598193+green-coder@users.noreply.github.com, 598193+green-coder@users.noreply.github.com]",170.0,"[{0 115, 2 26, 3 13, ""other"" 12, 1 4}]",12,115,4,26,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[james.nvc@gmail.com, james.nvc@gmail.com]",172.0,"[{0 115, 2 26, 3 13, ""other"" 12, 1 6}]",12,115,6,26,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[james.nvc@gmail.com]",173.0,"[{0 115, 2 26, 3 13, ""other"" 12, 1 7}]",12,115,7,26,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-29,23,1,"#tech.v3.dataset.column<string>[23]
+:email
+[james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com...]",196.0,"[{0 115, 2 26, 3 13, ""other"" 12, 1 30}]",12,115,30,26,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-30,13,3,"#tech.v3.dataset.column<string>[13]
+:email
+[james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, 598193+green-coder@users.noreply.github.com, vincent@404.taipei]",209.0,"[{0 116, 2 27, 3 13, ""other"" 12, 1 41}]",12,116,41,27,13,0
+Clojure,https://github.com/green-coder/girouette,2022-01-31,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com]",224.0,"[{0 116, 2 27, 3 13, ""other"" 12, 1 56}]",12,116,56,27,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-01,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[james.nvc@gmail.com, james.nvc@gmail.com, james.nvc@gmail.com, vincent@404.taipei]",228.0,"[{0 117, 2 27, 3 13, ""other"" 12, 1 59}]",12,117,59,27,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[598193+green-coder@users.noreply.github.com, vincent@404.taipei, vincent@404.taipei]",231.0,"[{0 119, 2 28, 3 13, ""other"" 12, 1 59}]",12,119,59,28,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",232.0,"[{0 120, 2 28, 3 13, ""other"" 12, 1 59}]",12,120,59,28,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dpassen1@gmail.com, daniel@flyingmachinestudios.com]",234.0,"[{0 120, 2 28, 3 13, ""other"" 14, 1 59}]",14,120,59,28,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, 598193+green-coder@users.noreply.github.com]",236.0,"[{0 121, 2 29, 3 13, ""other"" 14, 1 59}]",14,121,59,29,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-21,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",240.0,"[{0 125, 2 29, 3 13, ""other"" 14, 1 59}]",14,125,59,29,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, 598193+green-coder@users.noreply.github.com]",242.0,"[{0 126, 2 30, 3 13, ""other"" 14, 1 59}]",14,126,59,30,13,0
+Clojure,https://github.com/green-coder/girouette,2022-02-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",243.0,"[{0 127, 2 30, 3 13, ""other"" 14, 1 59}]",14,127,59,30,13,0
+Clojure,https://github.com/green-coder/girouette,2022-06-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, vincent@404.taipei]",245.0,"[{0 129, 2 30, 3 13, ""other"" 14, 1 59}]",14,129,59,30,13,0
+Clojure,https://github.com/green-coder/girouette,2022-06-02,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",251.0,"[{0 135, 2 30, 3 13, ""other"" 14, 1 59}]",14,135,59,30,13,0
+Clojure,https://github.com/green-coder/girouette,2022-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",252.0,"[{0 136, 2 30, 3 13, ""other"" 14, 1 59}]",14,136,59,30,13,0
+Clojure,https://github.com/green-coder/girouette,2022-06-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",255.0,"[{0 139, 2 30, 3 13, ""other"" 14, 1 59}]",14,139,59,30,13,0
+Clojure,https://github.com/green-coder/girouette,2022-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",256.0,"[{0 140, 2 30, 3 13, ""other"" 14, 1 59}]",14,140,59,30,13,0
+Clojure,https://github.com/green-coder/girouette,2022-06-08,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei, 598193+green-coder@users.noreply.github.com, zolazhou@gmail.com]",261.0,"[{0 143, 2 31, 3 13, ""other"" 15, 1 59}]",15,143,59,31,13,0
+Clojure,https://github.com/green-coder/girouette,2022-06-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[andrei@zhidkov.online, andrei@zhidkov.online, vincent@404.taipei]",264.0,"[{0 144, 2 31, 3 13, ""other"" 15, 1 59, 4 2}]",15,144,59,31,13,2
+Clojure,https://github.com/green-coder/girouette,2022-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[andrei@zhidkov.online]",265.0,"[{0 144, 2 31, 3 13, ""other"" 15, 1 59, 4 3}]",15,144,59,31,13,3
+Clojure,https://github.com/green-coder/girouette,2022-06-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[vincent@404.taipei, 598193+green-coder@users.noreply.github.com]",267.0,"[{0 145, 2 32, 3 13, ""other"" 15, 1 59, 4 3}]",15,145,59,32,13,3
+Clojure,https://github.com/green-coder/girouette,2022-06-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[598193+green-coder@users.noreply.github.com, zolazhou@gmail.com]",269.0,"[{0 145, 2 33, 3 13, ""other"" 16, 1 59, 4 3}]",16,145,59,33,13,3
+Clojure,https://github.com/green-coder/girouette,2022-07-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[vincent@404.taipei, vincent@404.taipei, vincent@404.taipei]",272.0,"[{0 148, 2 33, 3 13, ""other"" 16, 1 59, 4 3}]",16,148,59,33,13,3
+Clojure,https://github.com/green-coder/girouette,2022-10-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",273.0,"[{0 149, 2 33, 3 13, ""other"" 16, 1 59, 4 3}]",16,149,59,33,13,3
+Clojure,https://github.com/green-coder/girouette,2023-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vincent@404.taipei]",274.0,"[{0 150, 2 33, 3 13, ""other"" 16, 1 59, 4 3}]",16,150,59,33,13,3
+Clojure,https://github.com/green-coder/girouette,2023-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[598193+green-coder@users.noreply.github.com]",275.0,"[{0 150, 2 34, 3 13, ""other"" 16, 1 59, 4 3}]",16,150,59,34,13,3

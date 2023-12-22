@@ -1,0 +1,532 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-04-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",2.0,[{0 2}],0,2,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-04-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",6.0,[{0 6}],0,6,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-04-12,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-04-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-04-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",18.0,[{0 18}],0,18,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-04-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimmy@trabian.com]",19.0,"[{0 18, ""other"" 1}]",1,18,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-05-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",21.0,"[{0 20, ""other"" 1}]",1,20,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[thorstadt@users.noreply.github.com]",22.0,"[{0 20, ""other"" 2}]",2,20,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-05-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimmy@trabian.com]",23.0,"[{0 20, ""other"" 3}]",3,20,0,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-05-16,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@gmail.com, jimmy@trabian.com, jimmy@trabian.com]",26.0,"[{0 20, ""other"" 5, 1 1}]",5,20,1,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-05-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",30.0,"[{0 24, ""other"" 5, 1 1}]",5,24,1,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-05-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[will@willacton.com, hlship@walmartlabs.com]",32.0,"[{0 25, ""other"" 6, 1 1}]",6,25,1,0,0,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-06-01,10,5,"#tech.v3.dataset.column<string>[10]
+:email
+[will@willacton.com, will@willacton.com, will@willacton.com, will@willacton.com, will@willacton.com, hlship@walmartlabs.com, nothsaevets@gmail.com, brandoncarrell@gmail.com, brandoncarrell@gmail.com, hlship@gmail.com]",42.0,"[{0 26, ""other"" 12, 1 2, 3 2}]",12,26,2,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-06-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@gmail.com, hlship@gmail.com, will@willacton.com]",45.0,"[{0 26, ""other"" 13, 1 4, 3 2}]",13,26,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",46.0,"[{0 27, ""other"" 13, 1 4, 3 2}]",13,27,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-06-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",48.0,"[{0 29, ""other"" 13, 1 4, 3 2}]",13,29,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",49.0,"[{0 30, ""other"" 13, 1 4, 3 2}]",13,30,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",51.0,"[{0 32, ""other"" 13, 1 4, 3 2}]",13,32,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",52.0,"[{0 33, ""other"" 13, 1 4, 3 2}]",13,33,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",53.0,"[{0 34, ""other"" 13, 1 4, 3 2}]",13,34,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",57.0,"[{0 38, ""other"" 13, 1 4, 3 2}]",13,38,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-12,18,1,"#tech.v3.dataset.column<string>[18]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",75.0,"[{0 56, ""other"" 13, 1 4, 3 2}]",13,56,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",78.0,"[{0 59, ""other"" 13, 1 4, 3 2}]",13,59,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",80.0,"[{0 61, ""other"" 13, 1 4, 3 2}]",13,61,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hi@annapawlicka.com]",81.0,"[{0 61, ""other"" 14, 1 4, 3 2}]",14,61,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-07-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",85.0,"[{0 65, ""other"" 14, 1 4, 3 2}]",14,65,4,0,2,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-08-01,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, brandoncarrell@gmail.com]",90.0,"[{0 69, ""other"" 14, 1 4, 3 3}]",14,69,4,0,3,0
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-08-02,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[teemu@emblica.fi, teemu@emblica.fi, hlship@gmail.com, hlship@gmail.com, gamell@users.noreply.github.com, teemu@emblica.fi, teemu@emblica.fi, teemu@emblica.fi, teemu@emblica.fi, teemu@emblica.fi, teemu@emblica.fi]",101.0,"[{0 69, ""other"" 15, 1 6, 3 3, 4 8}]",15,69,6,0,3,8
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-08-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[teemu@emblica.fi, sienikasvusto@pistoke.org]",103.0,"[{0 69, ""other"" 16, 1 6, 3 3, 4 9}]",16,69,6,0,3,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-08-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@gmail.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",106.0,"[{0 71, ""other"" 16, 1 7, 3 3, 4 9}]",16,71,7,0,3,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-08-07,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, brandoncarrell@gmail.com, brandoncarrell@gmail.com, brandoncarrell@gmail.com]",110.0,"[{0 72, ""other"" 16, 1 7, 3 6, 4 9}]",16,72,7,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[Michael-Frericks@web.de]",111.0,"[{0 72, ""other"" 17, 1 7, 3 6, 4 9}]",17,72,7,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",112.0,"[{0 72, ""other"" 17, 1 8, 3 6, 4 9}]",17,72,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-10-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",116.0,"[{0 76, ""other"" 17, 1 8, 3 6, 4 9}]",17,76,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-10-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hi@annapawlicka.com, hlship@walmartlabs.com]",118.0,"[{0 77, ""other"" 18, 1 8, 3 6, 4 9}]",18,77,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-10-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[ryan.j.crum@gmail.com, hlship@walmartlabs.com]",120.0,"[{0 78, ""other"" 19, 1 8, 3 6, 4 9}]",19,78,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",121.0,"[{0 79, ""other"" 19, 1 8, 3 6, 4 9}]",19,79,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-10-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",123.0,"[{0 81, ""other"" 19, 1 8, 3 6, 4 9}]",19,81,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-10-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",126.0,"[{0 84, ""other"" 19, 1 8, 3 6, 4 9}]",19,84,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",127.0,"[{0 85, ""other"" 19, 1 8, 3 6, 4 9}]",19,85,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-11-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",130.0,"[{0 88, ""other"" 19, 1 8, 3 6, 4 9}]",19,88,8,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-11-17,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@gmail.com]",134.0,"[{0 91, ""other"" 19, 1 9, 3 6, 4 9}]",19,91,9,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",135.0,"[{0 91, ""other"" 20, 1 9, 3 6, 4 9}]",20,91,9,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-12-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",137.0,"[{0 93, ""other"" 20, 1 9, 3 6, 4 9}]",20,93,9,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",138.0,"[{0 93, ""other"" 21, 1 9, 3 6, 4 9}]",21,93,9,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rcrum@walmartlabs.com]",139.0,"[{0 93, ""other"" 22, 1 9, 3 6, 4 9}]",22,93,9,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-12-22,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@gmail.com, hlship@gmail.com]",148.0,"[{0 100, ""other"" 22, 1 11, 3 6, 4 9}]",22,100,11,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2017-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",149.0,"[{0 101, ""other"" 22, 1 11, 3 6, 4 9}]",22,101,11,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",150.0,"[{0 102, ""other"" 22, 1 11, 3 6, 4 9}]",22,102,11,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-05,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@gmail.com, hlship@gmail.com, hlship@gmail.com]",154.0,"[{0 103, ""other"" 22, 1 14, 3 6, 4 9}]",22,103,14,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[timgilbert@gmail.com]",155.0,"[{0 103, ""other"" 23, 1 14, 3 6, 4 9}]",23,103,14,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",156.0,"[{0 103, ""other"" 23, 1 15, 3 6, 4 9}]",23,103,15,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",157.0,"[{0 104, ""other"" 23, 1 15, 3 6, 4 9}]",23,104,15,0,6,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-10,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, brandoncarrell@gmail.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",161.0,"[{0 107, ""other"" 23, 1 15, 3 7, 4 9}]",23,107,15,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",162.0,"[{0 108, ""other"" 23, 1 15, 3 7, 4 9}]",23,108,15,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",163.0,"[{0 109, ""other"" 23, 1 15, 3 7, 4 9}]",23,109,15,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",164.0,"[{0 110, ""other"" 23, 1 15, 3 7, 4 9}]",23,110,15,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",165.0,"[{0 111, ""other"" 23, 1 15, 3 7, 4 9}]",23,111,15,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",166.0,"[{0 112, ""other"" 23, 1 15, 3 7, 4 9}]",23,112,15,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",167.0,"[{0 112, ""other"" 24, 1 15, 3 7, 4 9}]",24,112,15,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-02-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@gmail.com, hlship@gmail.com]",169.0,"[{0 112, ""other"" 24, 1 17, 3 7, 4 9}]",24,112,17,0,7,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-02-06,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[brandoncarrell@gmail.com, brandoncarrell@gmail.com, brandoncarrell@gmail.com, fran.sardo@gmail.com, fran.sardo@gmail.com]",174.0,"[{0 112, ""other"" 26, 1 17, 3 10, 4 9}]",26,112,17,0,10,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-02-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",175.0,"[{0 113, ""other"" 26, 1 17, 3 10, 4 9}]",26,113,17,0,10,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-02-15,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, brandoncarrell@gmail.com]",181.0,"[{0 118, ""other"" 26, 1 17, 3 11, 4 9}]",26,118,17,0,11,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-02-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[brandoncarrell@gmail.com, brandoncarrell@gmail.com]",183.0,"[{0 118, ""other"" 26, 1 17, 3 13, 4 9}]",26,118,17,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",184.0,"[{0 119, ""other"" 26, 1 17, 3 13, 4 9}]",26,119,17,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",185.0,"[{0 120, ""other"" 26, 1 17, 3 13, 4 9}]",26,120,17,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dougdroper@gmail.com]",186.0,"[{0 120, ""other"" 27, 1 17, 3 13, 4 9}]",27,120,17,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-03-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",187.0,"[{0 121, ""other"" 27, 1 17, 3 13, 4 9}]",27,121,17,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@oliy.co.uk]",188.0,"[{0 121, ""other"" 28, 1 17, 3 13, 4 9}]",28,121,17,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-03-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@gmail.com, hlship@gmail.com]",190.0,"[{0 121, ""other"" 28, 1 19, 3 13, 4 9}]",28,121,19,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gabriel.nau@gmail.com]",191.0,"[{0 121, ""other"" 29, 1 19, 3 13, 4 9}]",29,121,19,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-04-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[gabriel.nau@gmail.com, gabriel.nau@gmail.com]",193.0,"[{0 121, ""other"" 31, 1 19, 3 13, 4 9}]",31,121,19,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-04-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@gmail.com]",195.0,"[{0 122, ""other"" 31, 1 20, 3 13, 4 9}]",31,122,20,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-05-16,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",199.0,"[{0 126, ""other"" 31, 1 20, 3 13, 4 9}]",31,126,20,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",200.0,"[{0 127, ""other"" 31, 1 20, 3 13, 4 9}]",31,127,20,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",201.0,"[{0 128, ""other"" 31, 1 20, 3 13, 4 9}]",31,128,20,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-05-25,9,3,"#tech.v3.dataset.column<string>[9]
+:email
+[hlship@gmail.com, hlship@gmail.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@gmail.com, hlship@gmail.com, gabriel.nau@gmail.com, gabriel.nau@gmail.com, gabriel.nau@gmail.com]",210.0,"[{0 130, ""other"" 34, 1 24, 3 13, 4 9}]",34,130,24,0,13,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-05-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[brandoncarrell@gmail.com, brandoncarrell@gmail.com, brandoncarrell@gmail.com]",213.0,"[{0 130, ""other"" 34, 1 24, 3 16, 4 9}]",34,130,24,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-05-30,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[hlship@walmartlabs.com, hi@annapawlicka.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",218.0,"[{0 134, ""other"" 35, 1 24, 3 16, 4 9}]",35,134,24,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",219.0,"[{0 135, ""other"" 35, 1 24, 3 16, 4 9}]",35,135,24,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",220.0,"[{0 136, ""other"" 35, 1 24, 3 16, 4 9}]",35,136,24,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roman@bataev.me]",221.0,"[{0 136, ""other"" 36, 1 24, 3 16, 4 9}]",36,136,24,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@gmail.com]",223.0,"[{0 137, ""other"" 36, 1 25, 3 16, 4 9}]",36,137,25,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",225.0,"[{0 139, ""other"" 36, 1 25, 3 16, 4 9}]",36,139,25,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-21,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@gmail.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",230.0,"[{0 143, ""other"" 36, 1 26, 3 16, 4 9}]",36,143,26,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",234.0,"[{0 147, ""other"" 36, 1 26, 3 16, 4 9}]",36,147,26,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",235.0,"[{0 148, ""other"" 36, 1 26, 3 16, 4 9}]",36,148,26,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",236.0,"[{0 148, ""other"" 36, 1 27, 3 16, 4 9}]",36,148,27,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-07-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",239.0,"[{0 151, ""other"" 36, 1 27, 3 16, 4 9}]",36,151,27,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-07-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",241.0,"[{0 153, ""other"" 36, 1 27, 3 16, 4 9}]",36,153,27,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-07-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",242.0,"[{0 154, ""other"" 36, 1 27, 3 16, 4 9}]",36,154,27,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-07-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",244.0,"[{0 156, ""other"" 36, 1 27, 3 16, 4 9}]",36,156,27,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-07-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",246.0,"[{0 158, ""other"" 36, 1 27, 3 16, 4 9}]",36,158,27,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-07-27,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@gmail.com, hlship@gmail.com]",250.0,"[{0 160, ""other"" 36, 1 29, 3 16, 4 9}]",36,160,29,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-08-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@gmail.com, nothsaevets@gmail.com]",252.0,"[{0 160, ""other"" 37, 1 30, 3 16, 4 9}]",37,160,30,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-09-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",254.0,"[{0 162, ""other"" 37, 1 30, 3 16, 4 9}]",37,162,30,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",255.0,"[{0 163, ""other"" 37, 1 30, 3 16, 4 9}]",37,163,30,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-11-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",257.0,"[{0 165, ""other"" 37, 1 30, 3 16, 4 9}]",37,165,30,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-11-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",259.0,"[{0 167, ""other"" 37, 1 30, 3 16, 4 9}]",37,167,30,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-11-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",261.0,"[{0 169, ""other"" 37, 1 30, 3 16, 4 9}]",37,169,30,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@invetica.co.uk]",262.0,"[{0 169, ""other"" 38, 1 30, 3 16, 4 9}]",38,169,30,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",263.0,"[{0 169, ""other"" 38, 1 31, 3 16, 4 9}]",38,169,31,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-12-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",264.0,"[{0 169, ""other"" 38, 1 32, 3 16, 4 9}]",38,169,32,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-12-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",268.0,"[{0 173, ""other"" 38, 1 32, 3 16, 4 9}]",38,173,32,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2018-12-06,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@gmail.com, kylegann@gmail.com]",271.0,"[{0 174, ""other"" 39, 1 33, 3 16, 4 9}]",39,174,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",273.0,"[{0 176, ""other"" 39, 1 33, 3 16, 4 9}]",39,176,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",274.0,"[{0 177, ""other"" 39, 1 33, 3 16, 4 9}]",39,177,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-05-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, nothsaevets@gmail.com]",276.0,"[{0 178, ""other"" 40, 1 33, 3 16, 4 9}]",40,178,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-05-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",277.0,"[{0 179, ""other"" 40, 1 33, 3 16, 4 9}]",40,179,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-05-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",278.0,"[{0 180, ""other"" 40, 1 33, 3 16, 4 9}]",40,180,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-09-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[erwin@rooijakkers.software, erwin@rooijakkers.software, erwin@rooijakkers.software]",281.0,"[{0 180, ""other"" 43, 1 33, 3 16, 4 9}]",43,180,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-10-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ignorantia.juris.non.excusa@gmail.com]",282.0,"[{0 180, ""other"" 44, 1 33, 3 16, 4 9}]",44,180,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",283.0,"[{0 181, ""other"" 44, 1 33, 3 16, 4 9}]",44,181,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-10-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",286.0,"[{0 184, ""other"" 44, 1 33, 3 16, 4 9}]",44,184,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",287.0,"[{0 185, ""other"" 44, 1 33, 3 16, 4 9}]",44,185,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",288.0,"[{0 186, ""other"" 44, 1 33, 3 16, 4 9}]",44,186,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-11-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",290.0,"[{0 188, ""other"" 44, 1 33, 3 16, 4 9}]",44,188,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",291.0,"[{0 189, ""other"" 44, 1 33, 3 16, 4 9}]",44,189,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2019-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",293.0,"[{0 191, ""other"" 44, 1 33, 3 16, 4 9}]",44,191,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",294.0,"[{0 192, ""other"" 44, 1 33, 3 16, 4 9}]",44,192,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-01-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",297.0,"[{0 195, ""other"" 44, 1 33, 3 16, 4 9}]",44,195,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",298.0,"[{0 196, ""other"" 44, 1 33, 3 16, 4 9}]",44,196,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",299.0,"[{0 197, ""other"" 44, 1 33, 3 16, 4 9}]",44,197,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-04-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[snyk-bot@snyk.io, snyk-bot@snyk.io, snyk-bot@snyk.io, snyk-bot@snyk.io]",303.0,"[{0 197, ""other"" 48, 1 33, 3 16, 4 9}]",48,197,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-05-08,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",315.0,"[{0 209, ""other"" 48, 1 33, 3 16, 4 9}]",48,209,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lennart.buit@nedap.com]",316.0,"[{0 209, ""other"" 49, 1 33, 3 16, 4 9}]",49,209,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-05-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",317.0,"[{0 210, ""other"" 49, 1 33, 3 16, 4 9}]",49,210,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-05-15,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",323.0,"[{0 216, ""other"" 49, 1 33, 3 16, 4 9}]",49,216,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lennart.buit@nedap.com]",324.0,"[{0 216, ""other"" 50, 1 33, 3 16, 4 9}]",50,216,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-05-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lennart.buit@nedap.com, lennart.buit@nedap.com]",326.0,"[{0 216, ""other"" 52, 1 33, 3 16, 4 9}]",52,216,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-06-04,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, lennart.buit@nedap.com, lennart.buit@nedap.com]",333.0,"[{0 221, ""other"" 54, 1 33, 3 16, 4 9}]",54,221,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-06-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[nate.young@walmartlabs.com, nate.young@walmartlabs.com]",335.0,"[{0 221, ""other"" 56, 1 33, 3 16, 4 9}]",56,221,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-06-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",337.0,"[{0 223, ""other"" 56, 1 33, 3 16, 4 9}]",56,223,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",338.0,"[{0 224, ""other"" 56, 1 33, 3 16, 4 9}]",56,224,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",339.0,"[{0 225, ""other"" 56, 1 33, 3 16, 4 9}]",56,225,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-07-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com]",340.0,"[{0 225, ""other"" 57, 1 33, 3 16, 4 9}]",57,225,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-08-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",341.0,"[{0 226, ""other"" 57, 1 33, 3 16, 4 9}]",57,226,33,0,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-08-28,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[h@lewisship.net, hlship@walmartlabs.com, rbataev@walmartlabs.com]",344.0,"[{0 227, ""other"" 58, 1 33, 3 16, 4 9, 2 1}]",58,227,33,1,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",345.0,"[{0 228, ""other"" 58, 1 33, 3 16, 4 9, 2 1}]",58,228,33,1,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-09-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[h@lewisship.net, h@lewisship.net, h@lewisship.net, h@lewisship.net]",349.0,"[{0 228, ""other"" 58, 1 33, 3 16, 4 9, 2 5}]",58,228,33,5,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-09-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[h@lewisship.net, hlship@walmartlabs.com]",351.0,"[{0 229, ""other"" 58, 1 33, 3 16, 4 9, 2 6}]",58,229,33,6,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[iagwanderson@gmail.com]",352.0,"[{0 229, ""other"" 59, 1 33, 3 16, 4 9, 2 6}]",59,229,33,6,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-09-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",354.0,"[{0 231, ""other"" 59, 1 33, 3 16, 4 9, 2 6}]",59,231,33,6,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-11-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[h@lewisship.net]",355.0,"[{0 231, ""other"" 59, 1 33, 3 16, 4 9, 2 7}]",59,231,33,7,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-11-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[h@lewisship.net, hlship@walmartlabs.com, h@lewisship.net]",358.0,"[{0 232, ""other"" 59, 1 33, 3 16, 4 9, 2 9}]",59,232,33,9,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2020-12-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[h@lewisship.net]",359.0,"[{0 232, ""other"" 59, 1 33, 3 16, 4 9, 2 10}]",59,232,33,10,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-01-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, h@lewisship.net]",361.0,"[{0 233, ""other"" 59, 1 33, 3 16, 4 9, 2 11}]",59,233,33,11,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-06-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brettadams@fastmail.com]",362.0,"[{0 233, ""other"" 60, 1 33, 3 16, 4 9, 2 11}]",60,233,33,11,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-06-18,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[h@lewisship.net, h@lewisship.net, hlship@walmartlabs.com]",365.0,"[{0 234, ""other"" 60, 1 33, 3 16, 4 9, 2 13}]",60,234,33,13,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-07-01,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[h@lewisship.net, h@lewisship.net, hlship@walmartlabs.com, h@lewisship.net]",369.0,"[{0 235, ""other"" 60, 1 33, 3 16, 4 9, 2 16}]",60,235,33,16,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[atsfour@users.noreply.github.com]",370.0,"[{0 235, ""other"" 61, 1 33, 3 16, 4 9, 2 16}]",61,235,33,16,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",371.0,"[{0 236, ""other"" 61, 1 33, 3 16, 4 9, 2 16}]",61,236,33,16,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[h@lewisship.net]",372.0,"[{0 236, ""other"" 61, 1 33, 3 16, 4 9, 2 17}]",61,236,33,17,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com]",373.0,"[{0 236, ""other"" 62, 1 33, 3 16, 4 9, 2 17}]",62,236,33,17,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-11-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",374.0,"[{0 237, ""other"" 62, 1 33, 3 16, 4 9, 2 17}]",62,237,33,17,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lennart.buit@nedap.com]",375.0,"[{0 237, ""other"" 63, 1 33, 3 16, 4 9, 2 17}]",63,237,33,17,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-11-17,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[h@lewisship.net, h@lewisship.net, hlship@walmartlabs.com]",378.0,"[{0 238, ""other"" 63, 1 33, 3 16, 4 9, 2 19}]",63,238,33,19,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-11-18,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[h@lewisship.net, hlship@walmartlabs.com, h@lewisship.net, h@lewisship.net, h@lewisship.net, hlship@walmartlabs.com, h@lewisship.net]",385.0,"[{0 240, ""other"" 63, 1 33, 3 16, 4 9, 2 24}]",63,240,33,24,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2021-12-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[h@lewisship.net, h@lewisship.net, h@lewisship.net, h@lewisship.net]",389.0,"[{0 240, ""other"" 63, 1 33, 3 16, 4 9, 2 28}]",63,240,33,28,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-01-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[h@lewisship.net, h@lewisship.net]",391.0,"[{0 240, ""other"" 63, 1 33, 3 16, 4 9, 2 30}]",63,240,33,30,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-01-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[h@lewisship.net, h@lewisship.net]",393.0,"[{0 240, ""other"" 63, 1 33, 3 16, 4 9, 2 32}]",63,240,33,32,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[atsfour@users.noreply.github.com]",394.0,"[{0 240, ""other"" 64, 1 33, 3 16, 4 9, 2 32}]",64,240,33,32,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[h@lewisship.net]",395.0,"[{0 240, ""other"" 64, 1 33, 3 16, 4 9, 2 33}]",64,240,33,33,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com]",396.0,"[{0 240, ""other"" 65, 1 33, 3 16, 4 9, 2 33}]",65,240,33,33,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-05-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[h@lewisship.net]",397.0,"[{0 240, ""other"" 65, 1 33, 3 16, 4 9, 2 34}]",65,240,33,34,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[souenzzo@gmail.com]",398.0,"[{0 240, ""other"" 66, 1 33, 3 16, 4 9, 2 34}]",66,240,33,34,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-08-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[greg@manetu.com, greg@manetu.com]",400.0,"[{0 240, ""other"" 68, 1 33, 3 16, 4 9, 2 34}]",68,240,33,34,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-08-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[howard.lewisship@nubank.com.br, h@lewisship.net]",402.0,"[{0 240, ""other"" 69, 1 33, 3 16, 4 9, 2 35}]",69,240,33,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2022-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[howard.lewisship@nubank.com.br]",403.0,"[{0 240, ""other"" 70, 1 33, 3 16, 4 9, 2 35}]",70,240,33,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2023-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",404.0,"[{0 240, ""other"" 70, 1 34, 3 16, 4 9, 2 35}]",70,240,34,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2023-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",405.0,"[{0 240, ""other"" 70, 1 35, 3 16, 4 9, 2 35}]",70,240,35,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2023-04-05,9,3,"#tech.v3.dataset.column<string>[9]
+:email
+[howard.lewisship@nubank.com.br, howard.lewisship@nubank.com.br, hlship@gmail.com, 49699333+dependabot[bot]@users.noreply.github.com, howard.lewisship@nubank.com.br, hlship@gmail.com, hlship@gmail.com, hlship@gmail.com, hlship@gmail.com]",414.0,"[{0 240, ""other"" 74, 1 40, 3 16, 4 9, 2 35}]",74,240,40,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2023-04-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com]",415.0,"[{0 240, ""other"" 75, 1 40, 3 16, 4 9, 2 35}]",75,240,40,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2023-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",416.0,"[{0 240, ""other"" 75, 1 41, 3 16, 4 9, 2 35}]",75,240,41,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2023-06-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@gmail.com, hlship@gmail.com]",418.0,"[{0 240, ""other"" 75, 1 43, 3 16, 4 9, 2 35}]",75,240,43,35,16,9
+Clojure,https://github.com/walmartlabs/lacinia-pedestal,2023-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",419.0,"[{0 240, ""other"" 75, 1 44, 3 16, 4 9, 2 35}]",75,240,44,35,16,9

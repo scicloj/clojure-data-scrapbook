@@ -1,0 +1,502 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/seancorfield/dot-clojure,2018-03-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-05-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",7.0,[{0 7}],0,7,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-06-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",8.0,[{0 8}],0,8,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-09-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",9.0,[{0 9}],0,9,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",10.0,[{0 10}],0,10,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-09-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",12.0,[{0 12}],0,12,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-10-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-10-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-10-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",17.0,[{0 17}],0,17,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-10-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",20.0,[{0 20}],0,20,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-10-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",23.0,[{0 23}],0,23,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",24.0,[{0 24}],0,24,0,0,0,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-11-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, erik@assum.net]",26.0,"[{0 25, 3 1}]",0,25,0,0,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-11-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",29.0,"[{0 28, 3 1}]",0,28,0,0,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-11-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",30.0,"[{0 29, 3 1}]",0,29,0,0,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",31.0,"[{0 30, 3 1}]",0,30,0,0,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-11-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",32.0,"[{0 31, 3 1}]",0,31,0,0,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-12-07,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, khalid.jebbari@gmail.com]",35.0,"[{0 33, 3 1, 2 1}]",0,33,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",36.0,"[{0 34, 3 1, 2 1}]",0,34,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",37.0,"[{0 35, 3 1, 2 1}]",0,35,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2018-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",39.0,"[{0 37, 3 1, 2 1}]",0,37,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",40.0,"[{0 38, 3 1, 2 1}]",0,38,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",41.0,"[{0 39, 3 1, 2 1}]",0,39,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-02-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",42.0,"[{0 40, 3 1, 2 1}]",0,40,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-02-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",43.0,"[{0 41, 3 1, 2 1}]",0,41,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",44.0,"[{0 42, 3 1, 2 1}]",0,42,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-04-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",46.0,"[{0 44, 3 1, 2 1}]",0,44,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-04-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",47.0,"[{0 45, 3 1, 2 1}]",0,45,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-06-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",48.0,"[{0 46, 3 1, 2 1}]",0,46,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",49.0,"[{0 47, 3 1, 2 1}]",0,47,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-08-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",50.0,"[{0 48, 3 1, 2 1}]",0,48,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",51.0,"[{0 49, 3 1, 2 1}]",0,49,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-09-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",52.0,"[{0 50, 3 1, 2 1}]",0,50,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-10-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",53.0,"[{0 51, 3 1, 2 1}]",0,51,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",54.0,"[{0 52, 3 1, 2 1}]",0,52,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-11-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",55.0,"[{0 53, 3 1, 2 1}]",0,53,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",56.0,"[{0 54, 3 1, 2 1}]",0,54,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-11-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",57.0,"[{0 55, 3 1, 2 1}]",0,55,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-12-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",58.0,"[{0 56, 3 1, 2 1}]",0,56,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2019-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",59.0,"[{0 57, 3 1, 2 1}]",0,57,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",60.0,"[{0 58, 3 1, 2 1}]",0,58,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-01-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",63.0,"[{0 61, 3 1, 2 1}]",0,61,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",64.0,"[{0 62, 3 1, 2 1}]",0,62,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-03-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",66.0,"[{0 64, 3 1, 2 1}]",0,64,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-04-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",67.0,"[{0 65, 3 1, 2 1}]",0,65,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-05-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",68.0,"[{0 66, 3 1, 2 1}]",0,66,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",69.0,"[{0 67, 3 1, 2 1}]",0,67,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-06-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",70.0,"[{0 68, 3 1, 2 1}]",0,68,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-06-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",72.0,"[{0 70, 3 1, 2 1}]",0,70,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-07-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",74.0,"[{0 72, 3 1, 2 1}]",0,72,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",75.0,"[{0 73, 3 1, 2 1}]",0,73,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-08-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",76.0,"[{0 74, 3 1, 2 1}]",0,74,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",77.0,"[{0 75, 3 1, 2 1}]",0,75,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-08-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",78.0,"[{0 76, 3 1, 2 1}]",0,76,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-08-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",81.0,"[{0 79, 3 1, 2 1}]",0,79,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-08-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",82.0,"[{0 80, 3 1, 2 1}]",0,80,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",83.0,"[{0 81, 3 1, 2 1}]",0,81,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",84.0,"[{0 82, 3 1, 2 1}]",0,82,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",85.0,"[{0 83, 3 1, 2 1}]",0,83,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",87.0,"[{0 85, 3 1, 2 1}]",0,85,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",88.0,"[{0 86, 3 1, 2 1}]",0,86,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-10-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",90.0,"[{0 88, 3 1, 2 1}]",0,88,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-10-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",91.0,"[{0 89, 3 1, 2 1}]",0,89,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-11-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",92.0,"[{0 90, 3 1, 2 1}]",0,90,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",94.0,"[{0 92, 3 1, 2 1}]",0,92,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",96.0,"[{0 94, 3 1, 2 1}]",0,94,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",98.0,"[{0 96, 3 1, 2 1}]",0,96,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",102.0,"[{0 100, 3 1, 2 1}]",0,100,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",103.0,"[{0 101, 3 1, 2 1}]",0,101,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",105.0,"[{0 103, 3 1, 2 1}]",0,103,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",106.0,"[{0 104, 3 1, 2 1}]",0,104,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2020-12-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",107.0,"[{0 105, 3 1, 2 1}]",0,105,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",110.0,"[{0 108, 3 1, 2 1}]",0,108,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",111.0,"[{0 109, 3 1, 2 1}]",0,109,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",112.0,"[{0 110, 3 1, 2 1}]",0,110,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",113.0,"[{0 111, 3 1, 2 1}]",0,111,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",114.0,"[{0 112, 3 1, 2 1}]",0,112,0,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@worldsingles.com, sean@worldsingles.com, sean@worldsingles.com]",117.0,"[{0 112, 3 1, 2 1, 1 3}]",0,112,3,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@worldsingles.com]",118.0,"[{0 112, 3 1, 2 1, 1 4}]",0,112,4,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@worldsingles.com]",119.0,"[{0 112, 3 1, 2 1, 1 5}]",0,112,5,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",120.0,"[{0 113, 3 1, 2 1, 1 5}]",0,113,5,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@worldsingles.com]",121.0,"[{0 113, 3 1, 2 1, 1 6}]",0,113,6,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-02-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",122.0,"[{0 114, 3 1, 2 1, 1 6}]",0,114,6,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",123.0,"[{0 115, 3 1, 2 1, 1 6}]",0,115,6,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-02-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@worldsingles.com, sean@worldsingles.com]",125.0,"[{0 115, 3 1, 2 1, 1 8}]",0,115,8,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-03-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@worldsingles.com, sean@worldsingles.com]",127.0,"[{0 115, 3 1, 2 1, 1 10}]",0,115,10,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@worldsingles.com]",128.0,"[{0 115, 3 1, 2 1, 1 11}]",0,115,11,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-03-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",129.0,"[{0 116, 3 1, 2 1, 1 11}]",0,116,11,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-03-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@worldsingles.com, sean@worldsingles.com]",131.0,"[{0 116, 3 1, 2 1, 1 13}]",0,116,13,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-03-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@worldsingles.com, sean@worldsingles.com]",133.0,"[{0 116, 3 1, 2 1, 1 15}]",0,116,15,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-03-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@worldsingles.com, sean@corfield.org]",135.0,"[{0 117, 3 1, 2 1, 1 16}]",0,117,16,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-03-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@worldsingles.com]",136.0,"[{0 117, 3 1, 2 1, 1 17}]",0,117,17,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-04-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@worldsingles.com]",139.0,"[{0 119, 3 1, 2 1, 1 18}]",0,119,18,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-04-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",143.0,"[{0 123, 3 1, 2 1, 1 18}]",0,123,18,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",144.0,"[{0 124, 3 1, 2 1, 1 18}]",0,124,18,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@worldsingles.com]",145.0,"[{0 124, 3 1, 2 1, 1 19}]",0,124,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",146.0,"[{0 125, 3 1, 2 1, 1 19}]",0,125,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-06-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",147.0,"[{0 126, 3 1, 2 1, 1 19}]",0,126,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-07-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",151.0,"[{0 130, 3 1, 2 1, 1 19}]",0,130,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-07-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",154.0,"[{0 133, 3 1, 2 1, 1 19}]",0,133,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-07-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",158.0,"[{0 137, 3 1, 2 1, 1 19}]",0,137,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",159.0,"[{0 138, 3 1, 2 1, 1 19}]",0,138,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",160.0,"[{0 139, 3 1, 2 1, 1 19}]",0,139,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",161.0,"[{0 140, 3 1, 2 1, 1 19}]",0,140,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",162.0,"[{0 141, 3 1, 2 1, 1 19}]",0,141,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",163.0,"[{0 142, 3 1, 2 1, 1 19}]",0,142,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",166.0,"[{0 145, 3 1, 2 1, 1 19}]",0,145,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",167.0,"[{0 146, 3 1, 2 1, 1 19}]",0,146,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",169.0,"[{0 148, 3 1, 2 1, 1 19}]",0,148,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",170.0,"[{0 149, 3 1, 2 1, 1 19}]",0,149,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",171.0,"[{0 150, 3 1, 2 1, 1 19}]",0,150,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",173.0,"[{0 152, 3 1, 2 1, 1 19}]",0,152,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",174.0,"[{0 153, 3 1, 2 1, 1 19}]",0,153,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",176.0,"[{0 155, 3 1, 2 1, 1 19}]",0,155,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",177.0,"[{0 156, 3 1, 2 1, 1 19}]",0,156,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",178.0,"[{0 157, 3 1, 2 1, 1 19}]",0,157,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-21,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",182.0,"[{0 161, 3 1, 2 1, 1 19}]",0,161,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",185.0,"[{0 164, 3 1, 2 1, 1 19}]",0,164,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",187.0,"[{0 166, 3 1, 2 1, 1 19}]",0,166,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",188.0,"[{0 167, 3 1, 2 1, 1 19}]",0,167,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",189.0,"[{0 168, 3 1, 2 1, 1 19}]",0,168,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-10-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",191.0,"[{0 170, 3 1, 2 1, 1 19}]",0,170,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",192.0,"[{0 171, 3 1, 2 1, 1 19}]",0,171,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-10-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",195.0,"[{0 174, 3 1, 2 1, 1 19}]",0,174,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-10-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",198.0,"[{0 177, 3 1, 2 1, 1 19}]",0,177,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-10-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",199.0,"[{0 178, 3 1, 2 1, 1 19}]",0,178,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",200.0,"[{0 179, 3 1, 2 1, 1 19}]",0,179,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-11-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",204.0,"[{0 183, 3 1, 2 1, 1 19}]",0,183,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",205.0,"[{0 184, 3 1, 2 1, 1 19}]",0,184,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",206.0,"[{0 185, 3 1, 2 1, 1 19}]",0,185,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",207.0,"[{0 186, 3 1, 2 1, 1 19}]",0,186,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-12-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",208.0,"[{0 187, 3 1, 2 1, 1 19}]",0,187,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",209.0,"[{0 188, 3 1, 2 1, 1 19}]",0,188,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-12-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",211.0,"[{0 190, 3 1, 2 1, 1 19}]",0,190,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2021-12-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",214.0,"[{0 193, 3 1, 2 1, 1 19}]",0,193,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",215.0,"[{0 194, 3 1, 2 1, 1 19}]",0,194,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-01-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",216.0,"[{0 195, 3 1, 2 1, 1 19}]",0,195,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",217.0,"[{0 196, 3 1, 2 1, 1 19}]",0,196,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-02-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",218.0,"[{0 197, 3 1, 2 1, 1 19}]",0,197,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-02-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",220.0,"[{0 199, 3 1, 2 1, 1 19}]",0,199,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",221.0,"[{0 200, 3 1, 2 1, 1 19}]",0,200,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-03-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",223.0,"[{0 202, 3 1, 2 1, 1 19}]",0,202,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",224.0,"[{0 203, 3 1, 2 1, 1 19}]",0,203,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",225.0,"[{0 204, 3 1, 2 1, 1 19}]",0,204,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-05-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",227.0,"[{0 206, 3 1, 2 1, 1 19}]",0,206,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-06-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",228.0,"[{0 207, 3 1, 2 1, 1 19}]",0,207,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",229.0,"[{0 208, 3 1, 2 1, 1 19}]",0,208,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-06-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",232.0,"[{0 211, 3 1, 2 1, 1 19}]",0,211,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",233.0,"[{0 212, 3 1, 2 1, 1 19}]",0,212,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",234.0,"[{0 213, 3 1, 2 1, 1 19}]",0,213,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-10-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",235.0,"[{0 214, 3 1, 2 1, 1 19}]",0,214,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2022-10-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",237.0,"[{0 216, 3 1, 2 1, 1 19}]",0,216,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",238.0,"[{0 217, 3 1, 2 1, 1 19}]",0,217,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",239.0,"[{0 218, 3 1, 2 1, 1 19}]",0,218,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-03-31,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",246.0,"[{0 225, 3 1, 2 1, 1 19}]",0,225,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-04-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",249.0,"[{0 228, 3 1, 2 1, 1 19}]",0,228,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",250.0,"[{0 229, 3 1, 2 1, 1 19}]",0,229,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",251.0,"[{0 230, 3 1, 2 1, 1 19}]",0,230,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-05-31,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",255.0,"[{0 234, 3 1, 2 1, 1 19}]",0,234,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",256.0,"[{0 235, 3 1, 2 1, 1 19}]",0,235,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-06-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",258.0,"[{0 237, 3 1, 2 1, 1 19}]",0,237,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",259.0,"[{0 238, 3 1, 2 1, 1 19}]",0,238,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",260.0,"[{0 239, 3 1, 2 1, 1 19}]",0,239,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",262.0,"[{0 241, 3 1, 2 1, 1 19}]",0,241,19,1,1,0
+Clojure,https://github.com/seancorfield/dot-clojure,2023-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",263.0,"[{0 242, 3 1, 2 1, 1 19}]",0,242,19,1,1,0

@@ -1,0 +1,231 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,gorillalabs,2011-12-03,7,3,"#{""michael@novemberain.com"" ""oleksandr.petrov@gmail.com"" ""michaelklishin@me.com""}",7.0,3
+Clojure,gorillalabs,2011-12-23,1,1,"#{""oleksandr.petrov@gmail.com""}",8.0,3
+Clojure,gorillalabs,2012-01-08,2,1,"#{""michael@novemberain.com""}",10.0,3
+Clojure,gorillalabs,2012-04-28,3,1,"#{""oleksandr.petrov@gmail.com""}",13.0,3
+Clojure,gorillalabs,2012-04-29,6,1,"#{""michael@novemberain.com""}",19.0,3
+Clojure,gorillalabs,2012-05-24,1,1,"#{""michael@novemberain.com""}",20.0,3
+Clojure,gorillalabs,2012-05-27,3,1,"#{""michael@novemberain.com""}",23.0,3
+Clojure,gorillalabs,2012-06-01,1,1,"#{""michael@novemberain.com""}",24.0,3
+Clojure,gorillalabs,2012-07-05,2,1,"#{""michael@novemberain.com""}",26.0,3
+Clojure,gorillalabs,2012-08-19,1,1,"#{""michael@novemberain.com""}",27.0,3
+Clojure,gorillalabs,2012-09-20,2,1,"#{""michael@novemberain.com""}",29.0,3
+Clojure,gorillalabs,2012-09-27,1,1,"#{""oleksandr.petrov@gmail.com""}",30.0,3
+Clojure,gorillalabs,2012-10-05,1,1,"#{""michael@novemberain.com""}",31.0,3
+Clojure,gorillalabs,2012-11-10,1,1,"#{""michael@novemberain.com""}",32.0,3
+Clojure,gorillalabs,2012-11-29,1,1,"#{""michael@defprotocol.org""}",33.0,4
+Clojure,gorillalabs,2013-02-11,1,1,"#{""michael@defprotocol.org""}",34.0,4
+Clojure,gorillalabs,2013-02-24,1,1,"#{""oleksandr.petrov@gmail.com""}",35.0,4
+Clojure,gorillalabs,2013-03-16,1,1,"#{""michael@defprotocol.org""}",36.0,4
+Clojure,gorillalabs,2013-03-28,2,1,"#{""michael@defprotocol.org""}",38.0,4
+Clojure,gorillalabs,2013-04-04,3,2,"#{""paul@quantisan.com"" ""michael@defprotocol.org""}",41.0,5
+Clojure,gorillalabs,2013-04-07,1,1,"#{""michael@defprotocol.org""}",42.0,5
+Clojure,gorillalabs,2013-04-27,2,1,"#{""michael@defprotocol.org""}",44.0,5
+Clojure,gorillalabs,2013-05-01,1,1,"#{""michael@defprotocol.org""}",45.0,5
+Clojure,gorillalabs,2013-06-15,1,1,"#{""michael@defprotocol.org""}",46.0,5
+Clojure,gorillalabs,2013-06-16,1,1,"#{""michael@defprotocol.org""}",47.0,5
+Clojure,gorillalabs,2013-06-28,1,1,"#{""oleksandr.petrov@gmail.com""}",48.0,5
+Clojure,gorillalabs,2013-08-14,3,1,"#{""michael@defprotocol.org""}",51.0,5
+Clojure,gorillalabs,2013-09-16,2,1,"#{""alexp@coffeenco.de""}",53.0,6
+Clojure,gorillalabs,2013-09-17,1,1,"#{""alexp@coffeenco.de""}",54.0,6
+Clojure,gorillalabs,2013-09-22,1,1,"#{""michael@defprotocol.org""}",55.0,6
+Clojure,gorillalabs,2013-10-17,2,1,"#{""alexp@coffeenco.de""}",57.0,6
+Clojure,gorillalabs,2013-10-19,1,1,"#{""michael@clojurewerkz.org""}",58.0,7
+Clojure,gorillalabs,2013-11-07,1,1,"#{""alexp@coffeenco.de""}",59.0,7
+Clojure,gorillalabs,2013-12-31,1,1,"#{""michael@clojurewerkz.org""}",60.0,7
+Clojure,gorillalabs,2014-01-07,2,1,"#{""soren@dopeness.org""}",62.0,8
+Clojure,gorillalabs,2014-01-08,5,1,"#{""soren@dopeness.org""}",67.0,8
+Clojure,gorillalabs,2014-01-15,3,2,"#{""jdunn@yieldbot.com"" ""soren@dopeness.org""}",70.0,9
+Clojure,gorillalabs,2014-01-16,7,2,"#{""jdunn@yieldbot.com"" ""soren@dopeness.org""}",77.0,9
+Clojure,gorillalabs,2014-01-28,1,1,"#{""jdunn@yieldbot.com""}",78.0,9
+Clojure,gorillalabs,2014-02-15,11,1,"#{""soren@dopeness.org""}",89.0,9
+Clojure,gorillalabs,2014-02-26,1,1,"#{""jdunn@yieldbot.com""}",90.0,9
+Clojure,gorillalabs,2014-03-18,2,1,"#{""soren@dopeness.org""}",92.0,9
+Clojure,gorillalabs,2014-03-19,2,1,"#{""soren@dopeness.org""}",94.0,9
+Clojure,gorillalabs,2014-03-21,1,1,"#{""soren@dopeness.org""}",95.0,9
+Clojure,gorillalabs,2014-03-24,7,2,"#{""b@b3k.us"" ""soren@dopeness.org""}",102.0,10
+Clojure,gorillalabs,2014-04-22,6,1,"#{""soren@dopeness.org""}",108.0,10
+Clojure,gorillalabs,2014-04-23,10,1,"#{""soren@dopeness.org""}",118.0,10
+Clojure,gorillalabs,2014-04-26,1,1,"#{""soren@dopeness.org""}",119.0,10
+Clojure,gorillalabs,2014-04-27,1,1,"#{""soren@dopeness.org""}",120.0,10
+Clojure,gorillalabs,2014-05-02,3,1,"#{""soren@dopeness.org""}",123.0,10
+Clojure,gorillalabs,2014-05-03,2,1,"#{""soren@dopeness.org""}",125.0,10
+Clojure,gorillalabs,2014-05-12,4,1,"#{""soren@dopeness.org""}",129.0,10
+Clojure,gorillalabs,2014-05-21,1,1,"#{""jdunn@yieldbot.com""}",130.0,10
+Clojure,gorillalabs,2014-05-23,1,1,"#{""jdunn@yieldbot.com""}",131.0,10
+Clojure,gorillalabs,2014-05-29,1,1,"#{""soren@dopeness.org""}",132.0,10
+Clojure,gorillalabs,2014-06-01,3,1,"#{""soren@dopeness.org""}",135.0,10
+Clojure,gorillalabs,2014-06-08,1,1,"#{""jdunn@yieldbot.com""}",136.0,10
+Clojure,gorillalabs,2014-06-13,2,1,"#{""jdunn@yieldbot.com""}",138.0,10
+Clojure,gorillalabs,2014-06-16,12,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",150.0,11
+Clojure,gorillalabs,2014-06-17,2,1,"#{""soren@dopeness.org""}",152.0,11
+Clojure,gorillalabs,2014-06-18,4,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",156.0,11
+Clojure,gorillalabs,2014-06-19,1,1,"#{""soren@dopeness.org""}",157.0,11
+Clojure,gorillalabs,2014-06-20,8,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",165.0,11
+Clojure,gorillalabs,2014-06-23,2,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",167.0,11
+Clojure,gorillalabs,2014-06-24,5,1,"#{""soren@dopeness.org""}",172.0,11
+Clojure,gorillalabs,2014-06-25,3,1,"#{""jdunn@yieldbot.com""}",175.0,11
+Clojure,gorillalabs,2014-06-26,7,1,"#{""soren@dopeness.org""}",182.0,11
+Clojure,gorillalabs,2014-06-27,9,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",191.0,11
+Clojure,gorillalabs,2014-06-28,1,1,"#{""jdunn@yieldbot.com""}",192.0,11
+Clojure,gorillalabs,2014-06-29,1,1,"#{""mbaig@yieldbot.com""}",193.0,11
+Clojure,gorillalabs,2014-06-30,8,4,"#{""jdunn@yieldbot.com"" ""mbaig@yieldbot.com"" ""homer.strong@gmail.com"" ""soren@dopeness.org""}",201.0,12
+Clojure,gorillalabs,2014-07-01,9,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",210.0,12
+Clojure,gorillalabs,2014-07-03,2,1,"#{""soren@dopeness.org""}",212.0,12
+Clojure,gorillalabs,2014-07-09,3,1,"#{""mbaig@yieldbot.com""}",215.0,12
+Clojure,gorillalabs,2014-07-10,5,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",220.0,12
+Clojure,gorillalabs,2014-07-11,1,1,"#{""soren@dopeness.org""}",221.0,12
+Clojure,gorillalabs,2014-07-14,1,1,"#{""mbaig@yieldbot.com""}",222.0,12
+Clojure,gorillalabs,2014-07-15,1,1,"#{""mbaig@yieldbot.com""}",223.0,12
+Clojure,gorillalabs,2014-07-16,17,3,"#{""jdunn@yieldbot.com"" ""mbaig@yieldbot.com"" ""soren@dopeness.org""}",240.0,12
+Clojure,gorillalabs,2014-07-17,4,1,"#{""mbaig@yieldbot.com""}",244.0,12
+Clojure,gorillalabs,2014-07-21,2,2,"#{""jdunn@yieldbot.com"" ""mbaig@yieldbot.com""}",246.0,12
+Clojure,gorillalabs,2014-07-22,5,1,"#{""mbaig@yieldbot.com""}",251.0,12
+Clojure,gorillalabs,2014-08-02,6,1,"#{""soren@dopeness.org""}",257.0,12
+Clojure,gorillalabs,2014-08-30,1,1,"#{""soren@dopeness.org""}",258.0,12
+Clojure,gorillalabs,2014-09-03,1,1,"#{""mbaig@yieldbot.com""}",259.0,12
+Clojure,gorillalabs,2014-09-04,1,1,"#{""mthomure@gmail.com""}",260.0,13
+Clojure,gorillalabs,2014-09-05,2,2,"#{""mthomure@gmail.com"" ""soren@dopeness.org""}",262.0,13
+Clojure,gorillalabs,2014-09-08,4,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",266.0,13
+Clojure,gorillalabs,2014-09-09,2,1,"#{""soren@dopeness.org""}",268.0,13
+Clojure,gorillalabs,2014-09-10,3,1,"#{""soren@dopeness.org""}",271.0,13
+Clojure,gorillalabs,2014-09-11,5,2,"#{""mbaig@yieldbot.com"" ""soren@dopeness.org""}",276.0,13
+Clojure,gorillalabs,2014-09-12,6,1,"#{""soren@dopeness.org""}",282.0,13
+Clojure,gorillalabs,2014-09-16,3,1,"#{""soren@dopeness.org""}",285.0,13
+Clojure,gorillalabs,2014-10-08,1,1,"#{""arnaudsj@gmail.com""}",286.0,14
+Clojure,gorillalabs,2014-10-26,2,1,"#{""paul@quantisan.com""}",288.0,14
+Clojure,gorillalabs,2014-10-27,3,1,"#{""paul@quantisan.com""}",291.0,14
+Clojure,gorillalabs,2014-10-28,1,1,"#{""michael@novemberain.com""}",292.0,14
+Clojure,gorillalabs,2014-10-29,7,1,"#{""christian.betz@performance-media.de""}",299.0,15
+Clojure,gorillalabs,2014-10-30,7,1,"#{""christian.betz@performance-media.de""}",306.0,15
+Clojure,gorillalabs,2014-10-31,9,2,"#{""christian.betz@performance-media.de"" ""michael@clojurewerkz.org""}",315.0,15
+Clojure,gorillalabs,2014-11-03,3,2,"#{""soren@dopeness.org"" ""kuldeep.bora@gmail.com""}",318.0,16
+Clojure,gorillalabs,2014-11-04,3,3,"#{""viksit@bloomreach.com"" ""david.jacot@gmail.com"" ""soren@dopeness.org""}",321.0,18
+Clojure,gorillalabs,2014-11-05,3,2,"#{""john.chapin@gmail.com"" ""christian.betz@performance-media.de""}",324.0,19
+Clojure,gorillalabs,2014-11-06,1,1,"#{""soren@dopeness.org""}",325.0,19
+Clojure,gorillalabs,2014-11-07,1,1,"#{""jayraj@bittorrent.com""}",326.0,20
+Clojure,gorillalabs,2014-11-08,1,1,"#{""soren@dopeness.org""}",327.0,20
+Clojure,gorillalabs,2014-11-10,2,2,"#{""jayraj@bittorrent.com"" ""michael@clojurewerkz.org""}",329.0,20
+Clojure,gorillalabs,2014-11-11,2,2,"#{""mthomure@gmail.com"" ""soren@dopeness.org""}",331.0,20
+Clojure,gorillalabs,2014-11-12,8,2,"#{""mthomure@gmail.com"" ""soren@dopeness.org""}",339.0,20
+Clojure,gorillalabs,2014-11-15,2,1,"#{""soren@dopeness.org""}",341.0,20
+Clojure,gorillalabs,2014-11-17,4,3,"#{""soren@dopeness.org"" ""r.zeigler@hotmail.com"" ""dselph@gmail.com""}",345.0,22
+Clojure,gorillalabs,2014-11-19,4,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",349.0,23
+Clojure,gorillalabs,2014-11-20,2,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",351.0,23
+Clojure,gorillalabs,2014-11-26,1,1,"#{""christian.betz@performance-media.de""}",352.0,23
+Clojure,gorillalabs,2014-11-27,2,1,"#{""christian.betz@performance-media.de""}",354.0,23
+Clojure,gorillalabs,2014-11-28,1,1,"#{""christian.betz@performance-media.de""}",355.0,23
+Clojure,gorillalabs,2014-12-01,2,1,"#{""christian.betz@performance-media.de""}",357.0,23
+Clojure,gorillalabs,2014-12-02,1,1,"#{""christian.betz@performance-media.de""}",358.0,23
+Clojure,gorillalabs,2014-12-03,6,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",364.0,23
+Clojure,gorillalabs,2014-12-04,3,1,"#{""christian.betz@performance-media.de""}",367.0,23
+Clojure,gorillalabs,2014-12-05,1,1,"#{""christian.betz@performance-media.de""}",368.0,23
+Clojure,gorillalabs,2014-12-08,1,1,"#{""christian.betz@performance-media.de""}",369.0,23
+Clojure,gorillalabs,2014-12-09,1,1,"#{""christian.betz@performance-media.de""}",370.0,23
+Clojure,gorillalabs,2014-12-10,3,1,"#{""christian.betz@performance-media.de""}",373.0,23
+Clojure,gorillalabs,2014-12-16,1,1,"#{""christian.betz@performance-media.de""}",374.0,23
+Clojure,gorillalabs,2014-12-19,4,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",378.0,23
+Clojure,gorillalabs,2014-12-22,1,1,"#{""christian.betz@performance-media.de""}",379.0,23
+Clojure,gorillalabs,2014-12-28,3,1,"#{""michael@clojurewerkz.org""}",382.0,23
+Clojure,gorillalabs,2015-01-02,9,2,"#{""christian.betz@performance-media.de"" ""michael@clojurewerkz.org""}",391.0,23
+Clojure,gorillalabs,2015-01-05,4,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",395.0,23
+Clojure,gorillalabs,2015-01-06,9,1,"#{""christian.betz@performance-media.de""}",404.0,23
+Clojure,gorillalabs,2015-01-07,13,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",417.0,23
+Clojure,gorillalabs,2015-01-12,1,1,"#{""christian.betz@performance-media.de""}",418.0,23
+Clojure,gorillalabs,2015-01-20,2,1,"#{""christian.betz@performance-media.de""}",420.0,23
+Clojure,gorillalabs,2015-02-02,2,2,"#{""chrisbetz@users.noreply.github.com"" ""dselph@gmail.com""}",422.0,24
+Clojure,gorillalabs,2015-02-03,4,1,"#{""christian.betz@performance-media.de""}",426.0,24
+Clojure,gorillalabs,2015-02-11,2,1,"#{""christian.betz@performance-media.de""}",428.0,24
+Clojure,gorillalabs,2015-02-13,1,1,"#{""cb.betz@gmail.com""}",429.0,24
+Clojure,gorillalabs,2015-02-16,4,1,"#{""christian.betz@performance-media.de""}",433.0,24
+Clojure,gorillalabs,2015-02-17,4,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",437.0,24
+Clojure,gorillalabs,2015-02-18,7,1,"#{""christian.betz@performance-media.de""}",444.0,24
+Clojure,gorillalabs,2015-02-19,4,2,"#{""christian.betz@performance-media.de"" ""chrisbetz@users.noreply.github.com""}",448.0,24
+Clojure,gorillalabs,2015-02-20,4,1,"#{""christian.betz@performance-media.de""}",452.0,24
+Clojure,gorillalabs,2015-02-22,1,1,"#{""christian.betz@performance-media.de""}",453.0,24
+Clojure,gorillalabs,2015-02-23,3,1,"#{""christian.betz@performance-media.de""}",456.0,24
+Clojure,gorillalabs,2015-02-24,3,1,"#{""christian.betz@performance-media.de""}",459.0,24
+Clojure,gorillalabs,2015-03-16,4,3,"#{""bld@otfrom.com"" ""christian.betz@performance-media.de"" ""chrisbetz@users.noreply.github.com""}",463.0,25
+Clojure,gorillalabs,2015-03-26,1,1,"#{""christian.betz@performance-media.de""}",464.0,25
+Clojure,gorillalabs,2015-04-02,5,2,"#{""oleg.smirnov@gmail.com"" ""chrisbetz@users.noreply.github.com""}",469.0,26
+Clojure,gorillalabs,2015-04-09,5,1,"#{""christian.betz@performance-media.de""}",474.0,26
+Clojure,gorillalabs,2015-04-10,1,1,"#{""christian.betz@performance-media.de""}",475.0,26
+Clojure,gorillalabs,2015-04-15,2,1,"#{""christian.betz@performance-media.de""}",477.0,26
+Clojure,gorillalabs,2015-04-16,2,1,"#{""christian.betz@performance-media.de""}",479.0,26
+Clojure,gorillalabs,2015-04-17,3,1,"#{""christian.betz@performance-media.de""}",482.0,26
+Clojure,gorillalabs,2015-04-19,1,1,"#{""christian.betz@performance-media.de""}",483.0,26
+Clojure,gorillalabs,2015-04-20,3,1,"#{""christian.betz@performance-media.de""}",486.0,26
+Clojure,gorillalabs,2015-04-21,10,2,"#{""christian.betz@performance-media.de"" ""cb.betz@gmail.com""}",496.0,26
+Clojure,gorillalabs,2015-04-22,5,1,"#{""christian.betz@performance-media.de""}",501.0,26
+Clojure,gorillalabs,2015-04-30,1,1,"#{""chrisbetz@users.noreply.github.com""}",502.0,26
+Clojure,gorillalabs,2015-05-12,5,1,"#{""christian.betz@performance-media.de""}",507.0,26
+Clojure,gorillalabs,2015-05-20,2,2,"#{""tommi@iki.fi"" ""chrisbetz@users.noreply.github.com""}",509.0,27
+Clojure,gorillalabs,2015-06-07,1,1,"#{""jstokes@appia.com""}",510.0,28
+Clojure,gorillalabs,2015-06-09,1,1,"#{""chrisbetz@users.noreply.github.com""}",511.0,28
+Clojure,gorillalabs,2015-06-19,1,1,"#{""jasebell@gmail.com""}",512.0,29
+Clojure,gorillalabs,2015-06-22,5,2,"#{""christian.betz@performance-media.de"" ""chrisbetz@users.noreply.github.com""}",517.0,29
+Clojure,gorillalabs,2015-07-06,1,1,"#{""christian.betz@performance-media.de""}",518.0,29
+Clojure,gorillalabs,2015-07-07,1,1,"#{""christian.betz@performance-media.de""}",519.0,29
+Clojure,gorillalabs,2015-07-15,1,1,"#{""christian.betz@performance-media.de""}",520.0,29
+Clojure,gorillalabs,2015-07-17,1,1,"#{""christian.betz@performance-media.de""}",521.0,29
+Clojure,gorillalabs,2015-07-23,1,1,"#{""christian.betz@performance-media.de""}",522.0,29
+Clojure,gorillalabs,2015-08-11,3,1,"#{""christian.betz@performance-media.de""}",525.0,29
+Clojure,gorillalabs,2015-08-13,1,1,"#{""jstokes@appia.com""}",526.0,29
+Clojure,gorillalabs,2015-08-14,4,3,"#{""christian.betz@performance-media.de"" ""jstokes@appia.com"" ""chrisbetz@users.noreply.github.com""}",530.0,29
+Clojure,gorillalabs,2015-08-16,1,1,"#{""jstokes@appia.com""}",531.0,29
+Clojure,gorillalabs,2015-08-19,4,2,"#{""christian.betz@performance-media.de"" ""chrisbetz@users.noreply.github.com""}",535.0,29
+Clojure,gorillalabs,2015-09-15,1,1,"#{""christian.betz@performance-media.de""}",536.0,29
+Clojure,gorillalabs,2015-12-15,6,1,"#{""blak3mill3r@gmail.com""}",542.0,30
+Clojure,gorillalabs,2015-12-17,1,1,"#{""chrisbetz@users.noreply.github.com""}",543.0,30
+Clojure,gorillalabs,2016-01-04,1,1,"#{""hunter.kelly@zalando.ie""}",544.0,31
+Clojure,gorillalabs,2016-01-05,2,1,"#{""hunter.kelly@zalando.ie""}",546.0,31
+Clojure,gorillalabs,2016-01-14,1,1,"#{""kkarkera@eyeota.com""}",547.0,32
+Clojure,gorillalabs,2016-01-27,3,1,"#{""blak3mill3r@gmail.com""}",550.0,32
+Clojure,gorillalabs,2016-01-28,1,1,"#{""hunter.kelly@zalando.ie""}",551.0,32
+Clojure,gorillalabs,2016-01-29,7,3,"#{""blak3mill3r@gmail.com"" ""christian.betz@performance-media.de"" ""chrisbetz@users.noreply.github.com""}",558.0,32
+Clojure,gorillalabs,2016-02-01,1,1,"#{""chrisbetz@users.noreply.github.com""}",559.0,32
+Clojure,gorillalabs,2016-02-12,5,1,"#{""kiran.karkera@gmail.com""}",564.0,33
+Clojure,gorillalabs,2016-02-16,5,1,"#{""kiran.karkera@gmail.com""}",569.0,33
+Clojure,gorillalabs,2016-02-18,1,1,"#{""derekslager@gmail.com""}",570.0,34
+Clojure,gorillalabs,2016-03-04,2,1,"#{""kiran.karkera@gmail.com""}",572.0,34
+Clojure,gorillalabs,2016-03-07,11,1,"#{""kiran.karkera@gmail.com""}",583.0,34
+Clojure,gorillalabs,2016-03-08,4,1,"#{""kiran.karkera@gmail.com""}",587.0,34
+Clojure,gorillalabs,2016-03-10,1,1,"#{""kiran.karkera@gmail.com""}",588.0,34
+Clojure,gorillalabs,2016-03-11,1,1,"#{""chrisbetz@users.noreply.github.com""}",589.0,34
+Clojure,gorillalabs,2016-04-11,6,3,"#{""kiran.karkera@gmail.com"" ""cb.betz@gmail.com"" ""chrisbetz@users.noreply.github.com""}",595.0,34
+Clojure,gorillalabs,2016-04-17,1,1,"#{""jstokes@appia.com""}",596.0,34
+Clojure,gorillalabs,2016-05-12,3,2,"#{""cb.betz@gmail.com"" ""chrisbetz@users.noreply.github.com""}",599.0,34
+Clojure,gorillalabs,2016-06-23,1,1,"#{""march.liu@gmail.com""}",600.0,35
+Clojure,gorillalabs,2016-07-05,1,1,"#{""march.liu@gmail.com""}",601.0,35
+Clojure,gorillalabs,2016-07-06,1,1,"#{""march.liu@gmail.com""}",602.0,35
+Clojure,gorillalabs,2016-07-07,1,1,"#{""march.liu@gmail.com""}",603.0,35
+Clojure,gorillalabs,2016-07-08,4,1,"#{""march.liu@gmail.com""}",607.0,35
+Clojure,gorillalabs,2017-01-04,1,1,"#{""jbrown@luc.id""}",608.0,36
+Clojure,gorillalabs,2017-01-05,3,2,"#{""luke.defeo@thetrainline.com"" ""chrisbetz@users.noreply.github.com""}",611.0,37
+Clojure,gorillalabs,2017-01-06,1,1,"#{""chrisbetz@users.noreply.github.com""}",612.0,37
+Clojure,gorillalabs,2017-01-13,7,1,"#{""luke.defeo@thetrainline.com""}",619.0,37
+Clojure,gorillalabs,2017-01-16,2,1,"#{""luke.defeo@thetrainline.com""}",621.0,37
+Clojure,gorillalabs,2017-01-17,1,1,"#{""luke.defeo@thetrainline.com""}",622.0,37
+Clojure,gorillalabs,2017-03-01,1,1,"#{""luke.defeo@thetrainline.com""}",623.0,37
+Clojure,gorillalabs,2017-03-02,2,2,"#{""cb@cypp.hamburg"" ""cb.betz@gmail.com""}",625.0,38
+Clojure,gorillalabs,2017-03-07,2,1,"#{""luke.defeo@thetrainline.com""}",627.0,38
+Clojure,gorillalabs,2017-03-15,1,1,"#{""luke.defeo@thetrainline.com""}",628.0,38
+Clojure,gorillalabs,2017-04-06,1,1,"#{""bruno.bonacci@thetrainline.com""}",629.0,39
+Clojure,gorillalabs,2017-04-11,1,1,"#{""rohit.aggarwal@gmail.com""}",630.0,40
+Clojure,gorillalabs,2017-07-20,8,2,"#{""cb.betz@gmail.com"" ""chrisbetz@users.noreply.github.com""}",638.0,40
+Clojure,gorillalabs,2017-07-21,8,3,"#{""cb.betz@gmail.com"" ""zzh_621@yahoo.com"" ""chrisbetz@users.noreply.github.com""}",646.0,41
+Clojure,gorillalabs,2017-08-28,1,1,"#{""guy@cognician.com""}",647.0,42
+Clojure,gorillalabs,2017-09-04,1,1,"#{""chrisbetz@users.noreply.github.com""}",648.0,42
+Clojure,gorillalabs,2017-09-11,1,1,"#{""cb@cypp.hamburg""}",649.0,42
+Clojure,gorillalabs,2017-11-27,1,1,"#{""miles@databricks.com""}",650.0,43
+Clojure,gorillalabs,2017-11-28,1,1,"#{""chrisbetz@users.noreply.github.com""}",651.0,43
+Clojure,gorillalabs,2018-01-11,1,1,"#{""olivier.bohrer@gmail.com""}",652.0,44
+Clojure,gorillalabs,2018-04-07,1,1,"#{""olivier.bohrer@gmail.com""}",653.0,44
+Clojure,gorillalabs,2018-04-09,1,1,"#{""olivier.bohrer@gmail.com""}",654.0,44
+Clojure,gorillalabs,2018-04-10,3,2,"#{""cb@cypp.hamburg"" ""chrisbetz@users.noreply.github.com""}",657.0,44
+Clojure,gorillalabs,2018-04-16,1,1,"#{""cb@cypp.hamburg""}",658.0,44
+Clojure,gorillalabs,2018-12-12,1,1,"#{""thomas@gebert.app""}",659.0,45
+Clojure,gorillalabs,2018-12-14,1,1,"#{""chrisbetz@users.noreply.github.com""}",660.0,45
+Clojure,gorillalabs,2020-03-03,1,1,"#{""chrisbetz@users.noreply.github.com""}",661.0,45
+Clojure,gorillalabs,2022-02-24,1,1,"#{""olivier.bohrer@onthemarket.com""}",662.0,46
+Clojure,gorillalabs,2022-03-10,1,1,"#{""chrisbetz@users.noreply.github.com""}",663.0,46

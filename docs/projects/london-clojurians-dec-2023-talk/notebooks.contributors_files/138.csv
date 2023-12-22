@@ -1,0 +1,402 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,magomimmo,2012-11-03,20,1,"#{""mimmo.cosenza@gmail.com""}",20.0,1
+Clojure,magomimmo,2012-11-04,4,1,"#{""mimmo.cosenza@gmail.com""}",24.0,1
+Clojure,magomimmo,2012-11-05,2,1,"#{""mimmo.cosenza@gmail.com""}",26.0,1
+Clojure,magomimmo,2012-11-06,1,1,"#{""mimmo.cosenza@gmail.com""}",27.0,1
+Clojure,magomimmo,2012-11-07,14,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",41.0,2
+Clojure,magomimmo,2012-11-08,3,2,"#{""rbxbxdev@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",44.0,3
+Clojure,magomimmo,2012-11-09,1,1,"#{""mimmo.cosenza@gmail.com""}",45.0,3
+Clojure,magomimmo,2012-11-10,4,2,"#{""mimmo.cosenza@gmail.com"" ""rbxbxdev@gmail.com""}",49.0,3
+Clojure,magomimmo,2012-11-11,5,1,"#{""mimmo.cosenza@gmail.com""}",54.0,3
+Clojure,magomimmo,2012-11-12,5,1,"#{""mimmo.cosenza@gmail.com""}",59.0,3
+Clojure,magomimmo,2012-11-13,6,1,"#{""giacomo.cosenza@sinapsi.com""}",65.0,3
+Clojure,magomimmo,2012-11-15,2,1,"#{""giacomo.cosenza@sinapsi.com""}",67.0,3
+Clojure,magomimmo,2012-11-16,3,1,"#{""giacomo.cosenza@sinapsi.com""}",70.0,3
+Clojure,magomimmo,2012-11-17,3,1,"#{""mimmo.cosenza@gmail.com""}",73.0,3
+Clojure,magomimmo,2012-11-18,7,1,"#{""mimmo.cosenza@gmail.com""}",80.0,3
+Clojure,magomimmo,2012-11-19,4,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",84.0,3
+Clojure,magomimmo,2012-11-27,5,2,"#{""rbxbxdev@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",89.0,3
+Clojure,magomimmo,2012-11-28,2,1,"#{""mimmo.cosenza@gmail.com""}",91.0,3
+Clojure,magomimmo,2012-11-30,5,1,"#{""mimmo.cosenza@gmail.com""}",96.0,3
+Clojure,magomimmo,2012-12-02,8,1,"#{""mimmo.cosenza@gmail.com""}",104.0,3
+Clojure,magomimmo,2012-12-03,2,1,"#{""mimmo.cosenza@gmail.com""}",106.0,3
+Clojure,magomimmo,2012-12-04,5,1,"#{""mimmo.cosenza@gmail.com""}",111.0,3
+Clojure,magomimmo,2012-12-05,5,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",116.0,3
+Clojure,magomimmo,2012-12-06,1,1,"#{""mimmo.cosenza@gmail.com""}",117.0,3
+Clojure,magomimmo,2012-12-07,1,1,"#{""mimmo.cosenza@gmail.com""}",118.0,3
+Clojure,magomimmo,2012-12-08,2,1,"#{""mimmo.cosenza@gmail.com""}",120.0,3
+Clojure,magomimmo,2012-12-09,1,1,"#{""mimmo.cosenza@gmail.com""}",121.0,3
+Clojure,magomimmo,2012-12-10,1,1,"#{""mimmo.cosenza@gmail.com""}",122.0,3
+Clojure,magomimmo,2012-12-31,1,1,"#{""giacomo.cosenza@sinapsi.com""}",123.0,3
+Clojure,magomimmo,2013-01-02,12,1,"#{""mimmo.cosenza@gmail.com""}",135.0,3
+Clojure,magomimmo,2013-01-03,14,1,"#{""mimmo.cosenza@gmail.com""}",149.0,3
+Clojure,magomimmo,2013-01-07,12,3,"#{""mimmo.cosenza@gmail.com"" ""tony.pitluga@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",161.0,4
+Clojure,magomimmo,2013-01-08,6,1,"#{""giacomo.cosenza@sinapsi.com""}",167.0,4
+Clojure,magomimmo,2013-01-09,1,1,"#{""giacomo.cosenza@sinapsi.com""}",168.0,4
+Clojure,magomimmo,2013-01-11,5,1,"#{""giacomo.cosenza@sinapsi.com""}",173.0,4
+Clojure,magomimmo,2013-01-12,1,1,"#{""mimmo.cosenza@gmail.com""}",174.0,4
+Clojure,magomimmo,2013-01-13,10,1,"#{""mimmo.cosenza@gmail.com""}",184.0,4
+Clojure,magomimmo,2013-01-14,18,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",202.0,4
+Clojure,magomimmo,2013-01-15,8,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",210.0,4
+Clojure,magomimmo,2013-01-16,13,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",223.0,4
+Clojure,magomimmo,2013-01-17,7,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",230.0,4
+Clojure,magomimmo,2013-01-18,11,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",241.0,4
+Clojure,magomimmo,2013-01-19,13,1,"#{""mimmo.cosenza@gmail.com""}",254.0,4
+Clojure,magomimmo,2013-01-20,12,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",266.0,4
+Clojure,magomimmo,2013-01-21,1,1,"#{""giacomo.cosenza@sinapsi.com""}",267.0,4
+Clojure,magomimmo,2013-01-22,5,3,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com"" ""erik.bakstad@gmail.com""}",272.0,5
+Clojure,magomimmo,2013-01-23,6,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",278.0,5
+Clojure,magomimmo,2013-01-24,11,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",289.0,5
+Clojure,magomimmo,2013-01-25,2,1,"#{""giacomo.cosenza@sinapsi.com""}",291.0,5
+Clojure,magomimmo,2013-01-26,9,1,"#{""mimmo.cosenza@gmail.com""}",300.0,5
+Clojure,magomimmo,2013-01-27,9,1,"#{""mimmo.cosenza@gmail.com""}",309.0,5
+Clojure,magomimmo,2013-01-28,11,3,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com"" ""francesco.agozzino86@gmail.com""}",320.0,6
+Clojure,magomimmo,2013-01-29,6,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",326.0,6
+Clojure,magomimmo,2013-01-30,1,1,"#{""mimmo.cosenza@gmail.com""}",327.0,6
+Clojure,magomimmo,2013-01-31,1,1,"#{""mimmo.cosenza@gmail.com""}",328.0,6
+Clojure,magomimmo,2013-02-05,1,1,"#{""ben@mossity.com""}",329.0,7
+Clojure,magomimmo,2013-02-06,3,2,"#{""dw@xnlogic.com"" ""giacomo.cosenza@sinapsi.com""}",332.0,8
+Clojure,magomimmo,2013-02-07,1,1,"#{""giacomo.cosenza@sinapsi.com""}",333.0,8
+Clojure,magomimmo,2013-02-08,3,2,"#{""oliverpowell84@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",336.0,9
+Clojure,magomimmo,2013-02-10,2,1,"#{""giacomo.cosenza@sinapsi.com""}",338.0,9
+Clojure,magomimmo,2013-02-11,1,1,"#{""giacomo.cosenza@sinapsi.com""}",339.0,9
+Clojure,magomimmo,2013-02-12,1,1,"#{""nchubrich@gmail.com""}",340.0,10
+Clojure,magomimmo,2013-02-13,6,3,"#{""james.r.campos@gmail.com"" ""giacomo.cosenza@sinapsi.com"" ""nchubrich@gmail.com""}",346.0,11
+Clojure,magomimmo,2013-02-14,15,3,"#{""jadeshade@gmail.com"" ""james.r.campos@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",361.0,12
+Clojure,magomimmo,2013-02-16,6,4,"#{""mimmo.cosenza@gmail.com"" ""public-code@bernard-hugueney.org"" ""giacomo.cosenza@sinapsi.com"" ""nchubrich@gmail.com""}",367.0,13
+Clojure,magomimmo,2013-02-20,3,1,"#{""nchubrich@gmail.com""}",370.0,13
+Clojure,magomimmo,2013-02-21,8,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",378.0,13
+Clojure,magomimmo,2013-02-27,2,1,"#{""chris@chrisk.com""}",380.0,14
+Clojure,magomimmo,2013-03-02,1,1,"#{""mimmo.cosenza@gmail.com""}",381.0,14
+Clojure,magomimmo,2013-03-03,15,1,"#{""mimmo.cosenza@gmail.com""}",396.0,14
+Clojure,magomimmo,2013-03-04,14,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",410.0,14
+Clojure,magomimmo,2013-03-08,1,1,"#{""giacomo.cosenza@sinapsi.com""}",411.0,14
+Clojure,magomimmo,2013-03-09,1,1,"#{""jadeshade@gmail.com""}",412.0,14
+Clojure,magomimmo,2013-03-10,1,1,"#{""mimmo.cosenza@gmail.com""}",413.0,14
+Clojure,magomimmo,2013-03-11,2,1,"#{""giacomo.cosenza@sinapsi.com""}",415.0,14
+Clojure,magomimmo,2013-03-15,1,1,"#{""giacomo.cosenza@sinapsi.com""}",416.0,14
+Clojure,magomimmo,2013-04-12,3,1,"#{""deg@degel.com""}",419.0,15
+Clojure,magomimmo,2013-04-14,1,1,"#{""deg@degel.com""}",420.0,15
+Clojure,magomimmo,2013-04-15,1,1,"#{""deg@degel.com""}",421.0,15
+Clojure,magomimmo,2013-04-20,1,1,"#{""mimmo.cosenza@gmail.com""}",422.0,15
+Clojure,magomimmo,2013-04-21,2,2,"#{""mimmo.cosenza@gmail.com"" ""maxc@me.com""}",424.0,16
+Clojure,magomimmo,2013-05-10,2,2,"#{""bishop14@gmail.com"" ""mimmo.cosenza@gmail.com""}",426.0,17
+Clojure,magomimmo,2013-05-25,2,2,"#{""mimmo.cosenza@gmail.com"" ""franciswolke@gmail.com""}",428.0,18
+Clojure,magomimmo,2013-06-10,1,1,"#{""federkasten@me.com""}",429.0,19
+Clojure,magomimmo,2013-06-11,1,1,"#{""mimmo.cosenza@gmail.com""}",430.0,19
+Clojure,magomimmo,2013-06-12,2,2,"#{""mimmo.cosenza@gmail.com"" ""serialhex@gmail.com""}",432.0,20
+Clojure,magomimmo,2013-06-15,2,1,"#{""mimmo.cosenza@gmail.com""}",434.0,20
+Clojure,magomimmo,2013-06-18,2,2,"#{""mimmo.cosenza@gmail.com"" ""serialhex@gmail.com""}",436.0,20
+Clojure,magomimmo,2013-06-20,5,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",441.0,20
+Clojure,magomimmo,2013-06-21,2,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",443.0,20
+Clojure,magomimmo,2013-06-24,2,1,"#{""mimmo.cosenza@gmail.com""}",445.0,20
+Clojure,magomimmo,2013-06-25,5,3,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com"" ""contact@taoeffect.com""}",450.0,21
+Clojure,magomimmo,2013-06-26,16,3,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com"" ""contact@taoeffect.com""}",466.0,21
+Clojure,magomimmo,2013-06-27,17,3,"#{""mimmo.cosenza@gmail.com"" ""deg@degel.com"" ""giacomo.cosenza@sinapsi.com""}",483.0,21
+Clojure,magomimmo,2013-06-28,1,1,"#{""mimmo.cosenza@gmail.com""}",484.0,21
+Clojure,magomimmo,2013-06-29,1,1,"#{""mimmo.cosenza@gmail.com""}",485.0,21
+Clojure,magomimmo,2013-07-01,13,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",498.0,21
+Clojure,magomimmo,2013-07-05,10,3,"#{""mimmo.cosenza@gmail.com"" ""benkay@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",508.0,22
+Clojure,magomimmo,2013-07-06,1,1,"#{""mimmo.cosenza@gmail.com""}",509.0,22
+Clojure,magomimmo,2013-07-08,11,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",520.0,22
+Clojure,magomimmo,2013-07-09,2,1,"#{""giacomo.cosenza@sinapsi.com""}",522.0,22
+Clojure,magomimmo,2013-07-14,8,1,"#{""mimmo.cosenza@gmail.com""}",530.0,22
+Clojure,magomimmo,2013-07-15,9,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",539.0,22
+Clojure,magomimmo,2013-07-16,3,2,"#{""mimmo.cosenza@gmail.com"" ""giacomo.cosenza@sinapsi.com""}",542.0,22
+Clojure,magomimmo,2013-07-17,2,1,"#{""mimmo.cosenza@gmail.com""}",544.0,22
+Clojure,magomimmo,2013-07-18,7,3,"#{""mimmo.cosenza@gmail.com"" ""samy@dindane.com"" ""giacomo.cosenza@sinapsi.com""}",551.0,23
+Clojure,magomimmo,2013-07-19,10,3,"#{""mimmo.cosenza@gmail.com"" ""deg@degel.com"" ""astoon@spacta.com""}",561.0,24
+Clojure,magomimmo,2013-07-20,4,1,"#{""mimmo.cosenza@gmail.com""}",565.0,24
+Clojure,magomimmo,2013-07-22,5,2,"#{""mimmo.cosenza@gmail.com"" ""noodlewiz@gmail.com""}",570.0,25
+Clojure,magomimmo,2013-07-23,4,1,"#{""mimmo.cosenza@gmail.com""}",574.0,25
+Clojure,magomimmo,2013-07-26,20,1,"#{""mimmo.cosenza@gmail.com""}",594.0,25
+Clojure,magomimmo,2013-07-27,1,1,"#{""mimmo.cosenza@gmail.com""}",595.0,25
+Clojure,magomimmo,2013-07-28,2,1,"#{""deg@degel.com""}",597.0,25
+Clojure,magomimmo,2013-07-29,1,1,"#{""mimmo.cosenza@gmail.com""}",598.0,25
+Clojure,magomimmo,2013-07-31,2,2,"#{""mimmo.cosenza@gmail.com"" ""marcus@creoagency.com""}",600.0,26
+Clojure,magomimmo,2013-08-17,1,1,"#{""dev@ryankaskel.com""}",601.0,27
+Clojure,magomimmo,2013-08-18,1,1,"#{""mimmo.cosenza@gmail.com""}",602.0,27
+Clojure,magomimmo,2013-08-27,1,1,"#{""marcus@creoagency.com""}",603.0,27
+Clojure,magomimmo,2013-08-28,1,1,"#{""mimmo.cosenza@gmail.com""}",604.0,27
+Clojure,magomimmo,2013-09-04,5,2,"#{""mimmo.cosenza@gmail.com"" ""michael.o.church@gmail.com""}",609.0,28
+Clojure,magomimmo,2013-09-05,11,1,"#{""mimmo.cosenza@gmail.com""}",620.0,28
+Clojure,magomimmo,2013-09-06,1,1,"#{""mimmo.cosenza@gmail.com""}",621.0,28
+Clojure,magomimmo,2013-09-08,3,2,"#{""mimmo.cosenza@gmail.com"" ""lischenko@gmail.com""}",624.0,29
+Clojure,magomimmo,2013-09-09,15,2,"#{""mimmo.cosenza@gmail.com"" ""lischenko@gmail.com""}",639.0,29
+Clojure,magomimmo,2013-09-10,3,1,"#{""mimmo.cosenza@gmail.com""}",642.0,29
+Clojure,magomimmo,2013-09-11,2,2,"#{""mimmo.cosenza@gmail.com"" ""jwt@onjapan.net""}",644.0,30
+Clojure,magomimmo,2013-09-12,15,1,"#{""mimmo.cosenza@gmail.com""}",659.0,30
+Clojure,magomimmo,2013-09-13,6,1,"#{""mimmo.cosenza@gmail.com""}",665.0,30
+Clojure,magomimmo,2013-09-14,10,1,"#{""mimmo.cosenza@gmail.com""}",675.0,30
+Clojure,magomimmo,2013-09-15,11,1,"#{""mimmo.cosenza@gmail.com""}",686.0,30
+Clojure,magomimmo,2013-09-16,6,1,"#{""mimmo.cosenza@gmail.com""}",692.0,30
+Clojure,magomimmo,2013-09-17,4,1,"#{""mimmo.cosenza@gmail.com""}",696.0,30
+Clojure,magomimmo,2013-09-18,1,1,"#{""mimmo.cosenza@gmail.com""}",697.0,30
+Clojure,magomimmo,2013-09-19,2,2,"#{""mimmo.cosenza@gmail.com"" ""sean@snootymonkey.com""}",699.0,31
+Clojure,magomimmo,2013-09-20,3,1,"#{""mimmo.cosenza@gmail.com""}",702.0,31
+Clojure,magomimmo,2013-09-21,1,1,"#{""mimmo.cosenza@gmail.com""}",703.0,31
+Clojure,magomimmo,2013-09-23,4,1,"#{""mimmo.cosenza@gmail.com""}",707.0,31
+Clojure,magomimmo,2013-09-24,6,2,"#{""mimmo.cosenza@gmail.com"" ""deg@degel.com""}",713.0,31
+Clojure,magomimmo,2013-09-25,13,1,"#{""mimmo.cosenza@gmail.com""}",726.0,31
+Clojure,magomimmo,2013-09-26,1,1,"#{""mimmo.cosenza@gmail.com""}",727.0,31
+Clojure,magomimmo,2013-09-27,2,1,"#{""mimmo.cosenza@gmail.com""}",729.0,31
+Clojure,magomimmo,2013-09-28,4,1,"#{""mimmo.cosenza@gmail.com""}",733.0,31
+Clojure,magomimmo,2013-09-30,3,1,"#{""mimmo.cosenza@gmail.com""}",736.0,31
+Clojure,magomimmo,2013-10-01,1,1,"#{""mimmo.cosenza@gmail.com""}",737.0,31
+Clojure,magomimmo,2013-10-03,1,1,"#{""mimmo.cosenza@gmail.com""}",738.0,31
+Clojure,magomimmo,2013-10-04,3,1,"#{""mimmo.cosenza@gmail.com""}",741.0,31
+Clojure,magomimmo,2013-10-06,7,1,"#{""mimmo.cosenza@gmail.com""}",748.0,31
+Clojure,magomimmo,2013-10-07,10,1,"#{""mimmo.cosenza@gmail.com""}",758.0,31
+Clojure,magomimmo,2013-10-08,3,1,"#{""mimmo.cosenza@gmail.com""}",761.0,31
+Clojure,magomimmo,2013-10-09,4,2,"#{""mimmo.cosenza@gmail.com"" ""johann.bestowrous@gmail.com""}",765.0,32
+Clojure,magomimmo,2013-10-10,8,2,"#{""mimmo.cosenza@gmail.com"" ""olivergeorge@gmail.com""}",773.0,33
+Clojure,magomimmo,2013-10-11,7,2,"#{""mimmo.cosenza@gmail.com"" ""olivergeorge@gmail.com""}",780.0,33
+Clojure,magomimmo,2013-10-12,15,1,"#{""mimmo.cosenza@gmail.com""}",795.0,33
+Clojure,magomimmo,2013-10-13,7,1,"#{""mimmo.cosenza@gmail.com""}",802.0,33
+Clojure,magomimmo,2013-10-16,12,1,"#{""mimmo.cosenza@gmail.com""}",814.0,33
+Clojure,magomimmo,2013-10-17,1,1,"#{""mimmo.cosenza@gmail.com""}",815.0,33
+Clojure,magomimmo,2013-10-22,4,1,"#{""mimmo.cosenza@gmail.com""}",819.0,33
+Clojure,magomimmo,2013-10-24,1,1,"#{""mimmo.cosenza@gmail.com""}",820.0,33
+Clojure,magomimmo,2013-10-25,7,1,"#{""mimmo.cosenza@gmail.com""}",827.0,33
+Clojure,magomimmo,2013-10-26,2,1,"#{""mimmo.cosenza@gmail.com""}",829.0,33
+Clojure,magomimmo,2013-10-27,1,1,"#{""mimmo.cosenza@gmail.com""}",830.0,33
+Clojure,magomimmo,2013-10-29,6,1,"#{""mimmo.cosenza@gmail.com""}",836.0,33
+Clojure,magomimmo,2013-10-30,4,1,"#{""mimmo.cosenza@gmail.com""}",840.0,33
+Clojure,magomimmo,2013-10-31,9,1,"#{""mimmo.cosenza@gmail.com""}",849.0,33
+Clojure,magomimmo,2013-11-01,2,1,"#{""mimmo.cosenza@gmail.com""}",851.0,33
+Clojure,magomimmo,2013-11-02,4,1,"#{""mimmo.cosenza@gmail.com""}",855.0,33
+Clojure,magomimmo,2013-11-03,2,1,"#{""mimmo.cosenza@gmail.com""}",857.0,33
+Clojure,magomimmo,2013-11-11,2,2,"#{""mimmo.cosenza@gmail.com"" ""james.nvc@gmail.com""}",859.0,34
+Clojure,magomimmo,2013-11-19,1,1,"#{""mimmo.cosenza@gmail.com""}",860.0,34
+Clojure,magomimmo,2013-11-20,13,1,"#{""mimmo.cosenza@gmail.com""}",873.0,34
+Clojure,magomimmo,2013-11-21,5,1,"#{""mimmo.cosenza@gmail.com""}",878.0,34
+Clojure,magomimmo,2013-11-22,3,1,"#{""mimmo.cosenza@gmail.com""}",881.0,34
+Clojure,magomimmo,2013-11-23,5,1,"#{""mimmo.cosenza@gmail.com""}",886.0,34
+Clojure,magomimmo,2013-11-26,1,1,"#{""mimmo.cosenza@gmail.com""}",887.0,34
+Clojure,magomimmo,2013-11-27,3,2,"#{""mimmo.cosenza@gmail.com"" ""bzg@altern.org""}",890.0,35
+Clojure,magomimmo,2013-12-02,1,1,"#{""mimmo.cosenza@gmail.com""}",891.0,35
+Clojure,magomimmo,2013-12-05,2,1,"#{""sean@snootymonkey.com""}",893.0,35
+Clojure,magomimmo,2013-12-06,1,1,"#{""mimmo.cosenza@gmail.com""}",894.0,35
+Clojure,magomimmo,2013-12-10,2,1,"#{""sean@snootymonkey.com""}",896.0,35
+Clojure,magomimmo,2013-12-12,6,2,"#{""moquist@majen.net"" ""mimmo.cosenza@gmail.com""}",902.0,36
+Clojure,magomimmo,2013-12-13,18,2,"#{""moquist@majen.net"" ""mimmo.cosenza@gmail.com""}",920.0,36
+Clojure,magomimmo,2013-12-14,10,2,"#{""moquist@majen.net"" ""mimmo.cosenza@gmail.com""}",930.0,36
+Clojure,magomimmo,2013-12-16,2,2,"#{""mimmo.cosenza@gmail.com"" ""faebu3007@gmail.com""}",932.0,37
+Clojure,magomimmo,2013-12-17,2,2,"#{""moquist@majen.net"" ""mimmo.cosenza@gmail.com""}",934.0,37
+Clojure,magomimmo,2013-12-18,8,1,"#{""moquist@majen.net""}",942.0,37
+Clojure,magomimmo,2013-12-19,8,1,"#{""mimmo.cosenza@gmail.com""}",950.0,37
+Clojure,magomimmo,2013-12-21,6,3,"#{""mimmo.cosenza@gmail.com"" ""neverov.and@gmail.com"" ""chef@bitdeli.com""}",956.0,39
+Clojure,magomimmo,2014-01-06,1,1,"#{""sean@snootymonkey.com""}",957.0,39
+Clojure,magomimmo,2014-01-17,2,1,"#{""mimmo.cosenza@gmail.com""}",959.0,39
+Clojure,magomimmo,2014-01-18,8,1,"#{""mimmo.cosenza@gmail.com""}",967.0,39
+Clojure,magomimmo,2014-01-19,4,2,"#{""mimmo.cosenza@gmail.com"" ""poppingtonic@gmail.com""}",971.0,40
+Clojure,magomimmo,2014-01-21,1,1,"#{""mimmo.cosenza@gmail.com""}",972.0,40
+Clojure,magomimmo,2014-01-22,2,1,"#{""mimmo.cosenza@gmail.com""}",974.0,40
+Clojure,magomimmo,2014-01-23,3,1,"#{""mimmo.cosenza@gmail.com""}",977.0,40
+Clojure,magomimmo,2014-01-30,1,1,"#{""moquist@majen.net""}",978.0,40
+Clojure,magomimmo,2014-01-31,1,1,"#{""mimmo.cosenza@gmail.com""}",979.0,40
+Clojure,magomimmo,2014-03-13,1,1,"#{""mimmo.cosenza@gmail.com""}",980.0,40
+Clojure,magomimmo,2014-05-24,3,2,"#{""mimmo.cosenza@gmail.com"" ""mika.vilpas@gmail.com""}",983.0,41
+Clojure,magomimmo,2014-08-18,4,1,"#{""verdammelt@gmail.com""}",987.0,42
+Clojure,magomimmo,2014-08-19,1,1,"#{""verdammelt@gmail.com""}",988.0,42
+Clojure,magomimmo,2014-10-03,1,1,"#{""mika.vilpas@gmail.com""}",989.0,42
+Clojure,magomimmo,2014-10-04,1,1,"#{""mimmo.cosenza@gmail.com""}",990.0,42
+Clojure,magomimmo,2014-10-07,2,2,"#{""mimmo.cosenza@gmail.com"" ""mika.vilpas@gmail.com""}",992.0,42
+Clojure,magomimmo,2014-11-01,5,1,"#{""mimmo.cosenza@gmail.com""}",997.0,42
+Clojure,magomimmo,2014-11-05,2,1,"#{""stefano.pugnetti@sinapsi.com""}",999.0,43
+Clojure,magomimmo,2014-11-06,1,1,"#{""stefano.pugnetti@sinapsi.com""}",1000.0,43
+Clojure,magomimmo,2014-11-12,1,1,"#{""mimmo.cosenza@gmail.com""}",1001.0,43
+Clojure,magomimmo,2014-11-13,3,1,"#{""stefano.pugnetti@sinapsi.com""}",1004.0,43
+Clojure,magomimmo,2014-11-14,3,1,"#{""stefano.pugnetti@sinapsi.com""}",1007.0,43
+Clojure,magomimmo,2014-11-17,3,1,"#{""stefano.pugnetti@sinapsi.com""}",1010.0,43
+Clojure,magomimmo,2014-11-19,3,1,"#{""stefano.pugnetti@sinapsi.com""}",1013.0,43
+Clojure,magomimmo,2014-11-20,2,1,"#{""stefano.pugnetti@sinapsi.com""}",1015.0,43
+Clojure,magomimmo,2015-01-05,2,2,"#{""mimmo.cosenza@gmail.com"" ""PetrGlad@gmail.com""}",1017.0,44
+Clojure,magomimmo,2015-03-02,1,1,"#{""willson.mock@gmail.com""}",1018.0,45
+Clojure,magomimmo,2015-03-03,1,1,"#{""mimmo.cosenza@gmail.com""}",1019.0,45
+Clojure,magomimmo,2015-03-29,6,1,"#{""samumbach@gmail.com""}",1025.0,46
+Clojure,magomimmo,2015-03-30,4,1,"#{""samumbach@gmail.com""}",1029.0,46
+Clojure,magomimmo,2015-03-31,3,1,"#{""samumbach@gmail.com""}",1032.0,46
+Clojure,magomimmo,2015-04-01,13,1,"#{""mimmo.cosenza@gmail.com""}",1045.0,46
+Clojure,magomimmo,2015-10-01,2,1,"#{""ZacharySmith4989@gmail.com""}",1047.0,47
+Clojure,magomimmo,2015-10-18,1,1,"#{""mimmo.cosenza@gmail.com""}",1048.0,47
+Clojure,magomimmo,2015-10-19,13,1,"#{""mimmo.cosenza@gmail.com""}",1061.0,47
+Clojure,magomimmo,2015-10-20,9,1,"#{""mimmo.cosenza@gmail.com""}",1070.0,47
+Clojure,magomimmo,2015-10-23,1,1,"#{""mimmo.cosenza@gmail.com""}",1071.0,47
+Clojure,magomimmo,2015-10-24,3,1,"#{""mimmo.cosenza@gmail.com""}",1074.0,47
+Clojure,magomimmo,2015-10-25,7,2,"#{""mimmo.cosenza@gmail.com"" ""magopian@users.noreply.github.com""}",1081.0,48
+Clojure,magomimmo,2015-10-26,6,1,"#{""mimmo.cosenza@gmail.com""}",1087.0,48
+Clojure,magomimmo,2015-10-28,1,1,"#{""mimmo.cosenza@gmail.com""}",1088.0,48
+Clojure,magomimmo,2015-10-30,2,1,"#{""magopian@users.noreply.github.com""}",1090.0,48
+Clojure,magomimmo,2015-11-01,5,1,"#{""mimmo.cosenza@gmail.com""}",1095.0,48
+Clojure,magomimmo,2015-11-02,2,1,"#{""mimmo.cosenza@gmail.com""}",1097.0,48
+Clojure,magomimmo,2015-11-03,2,1,"#{""mimmo.cosenza@gmail.com""}",1099.0,48
+Clojure,magomimmo,2015-11-04,5,2,"#{""mimmo.cosenza@gmail.com"" ""magopian@users.noreply.github.com""}",1104.0,48
+Clojure,magomimmo,2015-11-05,4,1,"#{""mimmo.cosenza@gmail.com""}",1108.0,48
+Clojure,magomimmo,2015-11-06,3,1,"#{""mimmo.cosenza@gmail.com""}",1111.0,48
+Clojure,magomimmo,2015-11-08,3,1,"#{""mimmo.cosenza@gmail.com""}",1114.0,48
+Clojure,magomimmo,2015-11-09,4,1,"#{""mimmo.cosenza@gmail.com""}",1118.0,48
+Clojure,magomimmo,2015-11-13,1,1,"#{""mimmo.cosenza@gmail.com""}",1119.0,48
+Clojure,magomimmo,2015-11-14,2,1,"#{""mimmo.cosenza@gmail.com""}",1121.0,48
+Clojure,magomimmo,2015-11-15,3,1,"#{""mimmo.cosenza@gmail.com""}",1124.0,48
+Clojure,magomimmo,2015-11-16,6,1,"#{""mimmo.cosenza@gmail.com""}",1130.0,48
+Clojure,magomimmo,2015-11-17,5,1,"#{""mimmo.cosenza@gmail.com""}",1135.0,48
+Clojure,magomimmo,2015-11-18,6,1,"#{""mimmo.cosenza@gmail.com""}",1141.0,48
+Clojure,magomimmo,2015-11-19,6,1,"#{""mimmo.cosenza@gmail.com""}",1147.0,48
+Clojure,magomimmo,2015-11-20,1,1,"#{""mimmo.cosenza@gmail.com""}",1148.0,48
+Clojure,magomimmo,2015-11-22,1,1,"#{""mimmo.cosenza@gmail.com""}",1149.0,48
+Clojure,magomimmo,2015-11-25,22,1,"#{""mimmo.cosenza@gmail.com""}",1171.0,48
+Clojure,magomimmo,2015-11-26,9,1,"#{""mimmo.cosenza@gmail.com""}",1180.0,48
+Clojure,magomimmo,2015-11-27,9,1,"#{""mimmo.cosenza@gmail.com""}",1189.0,48
+Clojure,magomimmo,2015-11-29,1,1,"#{""mimmo.cosenza@gmail.com""}",1190.0,48
+Clojure,magomimmo,2015-11-30,5,1,"#{""mimmo.cosenza@gmail.com""}",1195.0,48
+Clojure,magomimmo,2015-12-01,5,1,"#{""mimmo.cosenza@gmail.com""}",1200.0,48
+Clojure,magomimmo,2015-12-02,4,1,"#{""mimmo.cosenza@gmail.com""}",1204.0,48
+Clojure,magomimmo,2015-12-03,1,1,"#{""mimmo.cosenza@gmail.com""}",1205.0,48
+Clojure,magomimmo,2015-12-04,4,1,"#{""mimmo.cosenza@gmail.com""}",1209.0,48
+Clojure,magomimmo,2015-12-05,3,1,"#{""mimmo.cosenza@gmail.com""}",1212.0,48
+Clojure,magomimmo,2015-12-06,5,1,"#{""mimmo.cosenza@gmail.com""}",1217.0,48
+Clojure,magomimmo,2015-12-07,1,1,"#{""mimmo.cosenza@gmail.com""}",1218.0,48
+Clojure,magomimmo,2015-12-08,1,1,"#{""mimmo.cosenza@gmail.com""}",1219.0,48
+Clojure,magomimmo,2015-12-09,3,1,"#{""mimmo.cosenza@gmail.com""}",1222.0,48
+Clojure,magomimmo,2015-12-10,3,1,"#{""mimmo.cosenza@gmail.com""}",1225.0,48
+Clojure,magomimmo,2015-12-11,2,2,"#{""mimmo.cosenza@gmail.com"" ""bananaoat@protonmail.com""}",1227.0,49
+Clojure,magomimmo,2015-12-12,1,1,"#{""mimmo.cosenza@gmail.com""}",1228.0,49
+Clojure,magomimmo,2015-12-13,9,2,"#{""mimmo.cosenza@gmail.com"" ""adamgsteel@gmail.com""}",1237.0,50
+Clojure,magomimmo,2015-12-14,8,1,"#{""mimmo.cosenza@gmail.com""}",1245.0,50
+Clojure,magomimmo,2015-12-15,4,1,"#{""mimmo.cosenza@gmail.com""}",1249.0,50
+Clojure,magomimmo,2015-12-17,11,1,"#{""mimmo.cosenza@gmail.com""}",1260.0,50
+Clojure,magomimmo,2015-12-18,10,2,"#{""mimmo.cosenza@gmail.com"" ""adamgsteel@gmail.com""}",1270.0,50
+Clojure,magomimmo,2015-12-19,1,1,"#{""mimmo.cosenza@gmail.com""}",1271.0,50
+Clojure,magomimmo,2015-12-20,7,1,"#{""mimmo.cosenza@gmail.com""}",1278.0,50
+Clojure,magomimmo,2015-12-21,2,1,"#{""mimmo.cosenza@gmail.com""}",1280.0,50
+Clojure,magomimmo,2015-12-23,2,1,"#{""mimmo.cosenza@gmail.com""}",1282.0,50
+Clojure,magomimmo,2015-12-24,3,1,"#{""mimmo.cosenza@gmail.com""}",1285.0,50
+Clojure,magomimmo,2015-12-25,3,1,"#{""mimmo.cosenza@gmail.com""}",1288.0,50
+Clojure,magomimmo,2015-12-26,3,1,"#{""mimmo.cosenza@gmail.com""}",1291.0,50
+Clojure,magomimmo,2015-12-27,1,1,"#{""mimmo.cosenza@gmail.com""}",1292.0,50
+Clojure,magomimmo,2015-12-28,1,1,"#{""mimmo.cosenza@gmail.com""}",1293.0,50
+Clojure,magomimmo,2015-12-29,3,1,"#{""mimmo.cosenza@gmail.com""}",1296.0,50
+Clojure,magomimmo,2015-12-30,6,1,"#{""mimmo.cosenza@gmail.com""}",1302.0,50
+Clojure,magomimmo,2015-12-31,2,1,"#{""adamgsteel@gmail.com""}",1304.0,50
+Clojure,magomimmo,2016-01-01,5,1,"#{""mimmo.cosenza@gmail.com""}",1309.0,50
+Clojure,magomimmo,2016-01-02,3,1,"#{""mimmo.cosenza@gmail.com""}",1312.0,50
+Clojure,magomimmo,2016-01-03,8,1,"#{""mimmo.cosenza@gmail.com""}",1320.0,50
+Clojure,magomimmo,2016-01-04,1,1,"#{""mimmo.cosenza@gmail.com""}",1321.0,50
+Clojure,magomimmo,2016-01-05,2,1,"#{""mimmo.cosenza@gmail.com""}",1323.0,50
+Clojure,magomimmo,2016-01-07,7,1,"#{""mimmo.cosenza@gmail.com""}",1330.0,50
+Clojure,magomimmo,2016-01-08,2,1,"#{""mimmo.cosenza@gmail.com""}",1332.0,50
+Clojure,magomimmo,2016-01-09,23,1,"#{""mimmo.cosenza@gmail.com""}",1355.0,50
+Clojure,magomimmo,2016-01-10,3,1,"#{""mimmo.cosenza@gmail.com""}",1358.0,50
+Clojure,magomimmo,2016-01-11,6,1,"#{""mimmo.cosenza@gmail.com""}",1364.0,50
+Clojure,magomimmo,2016-01-12,6,3,"#{""dtkinzer@gmail.com"" ""mimmo.cosenza@gmail.com"" ""github@rennert.io""}",1370.0,52
+Clojure,magomimmo,2016-01-13,1,1,"#{""mimmo.cosenza@gmail.com""}",1371.0,52
+Clojure,magomimmo,2016-01-14,3,1,"#{""mimmo.cosenza@gmail.com""}",1374.0,52
+Clojure,magomimmo,2016-01-16,5,2,"#{""mimmo.cosenza@gmail.com"" ""tajemniczychlopiec@gmail.com""}",1379.0,53
+Clojure,magomimmo,2016-01-18,2,1,"#{""mimmo.cosenza@gmail.com""}",1381.0,53
+Clojure,magomimmo,2016-01-19,2,1,"#{""mimmo.cosenza@gmail.com""}",1383.0,53
+Clojure,magomimmo,2016-01-21,2,2,"#{""mimmo.cosenza@gmail.com"" ""ks@mocker.org""}",1385.0,54
+Clojure,magomimmo,2016-01-26,2,1,"#{""mimmo.cosenza@gmail.com""}",1387.0,54
+Clojure,magomimmo,2016-02-02,2,1,"#{""cloojure@gmail.com""}",1389.0,55
+Clojure,magomimmo,2016-02-03,7,3,"#{""mimmo.cosenza@gmail.com"" ""cloojure@gmail.com"" ""github@rennert.io""}",1396.0,55
+Clojure,magomimmo,2016-02-04,3,1,"#{""mimmo.cosenza@gmail.com""}",1399.0,55
+Clojure,magomimmo,2016-02-07,1,1,"#{""cloojure@gmail.com""}",1400.0,55
+Clojure,magomimmo,2016-02-08,3,2,"#{""mimmo.cosenza@gmail.com"" ""cloojure@gmail.com""}",1403.0,55
+Clojure,magomimmo,2016-02-09,5,2,"#{""mimmo.cosenza@gmail.com"" ""sahil29@gmail.com""}",1408.0,56
+Clojure,magomimmo,2016-02-14,1,1,"#{""mimmo.cosenza@gmail.com""}",1409.0,56
+Clojure,magomimmo,2016-02-22,1,1,"#{""ryoung786@gmail.com""}",1410.0,57
+Clojure,magomimmo,2016-02-23,1,1,"#{""mimmo.cosenza@gmail.com""}",1411.0,57
+Clojure,magomimmo,2016-02-26,3,2,"#{""mimmo.cosenza@gmail.com"" ""indlin@gmail.com""}",1414.0,58
+Clojure,magomimmo,2016-03-08,1,1,"#{""jdws.dev@gmail.com""}",1415.0,59
+Clojure,magomimmo,2016-03-09,1,1,"#{""mimmo.cosenza@gmail.com""}",1416.0,59
+Clojure,magomimmo,2016-03-20,3,2,"#{""deg@degel.com"" ""daplay@gmail.com""}",1419.0,60
+Clojure,magomimmo,2016-03-23,3,1,"#{""learningcljs@users.noreply.github.com""}",1422.0,61
+Clojure,magomimmo,2016-03-25,26,1,"#{""learningcljs@users.noreply.github.com""}",1448.0,61
+Clojure,magomimmo,2016-03-26,11,1,"#{""learningcljs@users.noreply.github.com""}",1459.0,61
+Clojure,magomimmo,2016-03-27,22,2,"#{""cloojure@gmail.com"" ""learningcljs@users.noreply.github.com""}",1481.0,61
+Clojure,magomimmo,2016-03-28,27,2,"#{""mimmo.cosenza@gmail.com"" ""cloojure@gmail.com""}",1508.0,61
+Clojure,magomimmo,2016-03-29,17,2,"#{""mimmo.cosenza@gmail.com"" ""cloojure@gmail.com""}",1525.0,61
+Clojure,magomimmo,2016-03-30,3,2,"#{""mimmo.cosenza@gmail.com"" ""cloojure@gmail.com""}",1528.0,61
+Clojure,magomimmo,2016-03-31,18,3,"#{""mimmo.cosenza@gmail.com"" ""cloojure@gmail.com"" ""learningcljs@users.noreply.github.com""}",1546.0,61
+Clojure,magomimmo,2016-04-01,20,3,"#{""mimmo.cosenza@gmail.com"" ""cloojure@gmail.com"" ""learningcljs@users.noreply.github.com""}",1566.0,61
+Clojure,magomimmo,2016-04-02,7,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1573.0,61
+Clojure,magomimmo,2016-04-03,3,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1576.0,61
+Clojure,magomimmo,2016-04-04,6,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1582.0,61
+Clojure,magomimmo,2016-04-05,14,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1596.0,61
+Clojure,magomimmo,2016-04-06,6,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1602.0,61
+Clojure,magomimmo,2016-04-07,7,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1609.0,61
+Clojure,magomimmo,2016-04-08,5,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1614.0,61
+Clojure,magomimmo,2016-04-11,1,1,"#{""dave.yarwood@gmail.com""}",1615.0,62
+Clojure,magomimmo,2016-04-13,12,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1627.0,62
+Clojure,magomimmo,2016-04-16,1,1,"#{""learningcljs@users.noreply.github.com""}",1628.0,62
+Clojure,magomimmo,2016-04-17,3,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1631.0,62
+Clojure,magomimmo,2016-04-20,11,1,"#{""mimmo.cosenza@gmail.com""}",1642.0,62
+Clojure,magomimmo,2016-04-21,17,1,"#{""mimmo.cosenza@gmail.com""}",1659.0,62
+Clojure,magomimmo,2016-04-22,5,1,"#{""mimmo.cosenza@gmail.com""}",1664.0,62
+Clojure,magomimmo,2016-04-23,4,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1668.0,62
+Clojure,magomimmo,2016-04-24,2,1,"#{""mimmo.cosenza@gmail.com""}",1670.0,62
+Clojure,magomimmo,2016-04-25,4,1,"#{""mimmo.cosenza@gmail.com""}",1674.0,62
+Clojure,magomimmo,2016-04-26,6,1,"#{""mimmo.cosenza@gmail.com""}",1680.0,62
+Clojure,magomimmo,2016-04-27,10,1,"#{""mimmo.cosenza@gmail.com""}",1690.0,62
+Clojure,magomimmo,2016-04-28,2,2,"#{""mimmo.cosenza@gmail.com"" ""jim@j1mr10rd4n.info""}",1692.0,63
+Clojure,magomimmo,2016-04-29,7,1,"#{""jim@j1mr10rd4n.info""}",1699.0,63
+Clojure,magomimmo,2016-04-30,12,2,"#{""learningcljs@users.noreply.github.com"" ""jim@j1mr10rd4n.info""}",1711.0,63
+Clojure,magomimmo,2016-05-01,9,2,"#{""mimmo.cosenza@gmail.com"" ""jim@j1mr10rd4n.info""}",1720.0,63
+Clojure,magomimmo,2016-05-02,116,2,"#{""mimmo.cosenza@gmail.com"" ""jim@j1mr10rd4n.info""}",1836.0,63
+Clojure,magomimmo,2016-05-03,24,2,"#{""mimmo.cosenza@gmail.com"" ""jim@j1mr10rd4n.info""}",1860.0,63
+Clojure,magomimmo,2016-05-04,6,1,"#{""mimmo.cosenza@gmail.com""}",1866.0,63
+Clojure,magomimmo,2016-05-05,7,1,"#{""mimmo.cosenza@gmail.com""}",1873.0,63
+Clojure,magomimmo,2016-05-06,4,2,"#{""mimmo.cosenza@gmail.com"" ""learningcljs@users.noreply.github.com""}",1877.0,63
+Clojure,magomimmo,2016-05-07,1,1,"#{""lewis.dackam@gmail.com""}",1878.0,64
+Clojure,magomimmo,2016-05-08,3,1,"#{""mimmo.cosenza@gmail.com""}",1881.0,64
+Clojure,magomimmo,2016-05-09,1,1,"#{""mimmo.cosenza@gmail.com""}",1882.0,64
+Clojure,magomimmo,2016-05-12,1,1,"#{""mimmo.cosenza@gmail.com""}",1883.0,64
+Clojure,magomimmo,2016-05-14,1,1,"#{""mimmo.cosenza@gmail.com""}",1884.0,64
+Clojure,magomimmo,2016-05-20,1,1,"#{""bananaoat@protonmail.com""}",1885.0,64
+Clojure,magomimmo,2016-05-23,1,1,"#{""mimmo.cosenza@gmail.com""}",1886.0,64
+Clojure,magomimmo,2016-06-02,2,2,"#{""dijonkitchen@users.noreply.github.com"" ""mimmo.cosenza@gmail.com""}",1888.0,65
+Clojure,magomimmo,2016-06-28,1,1,"#{""davezuko@users.noreply.github.com""}",1889.0,66
+Clojure,magomimmo,2016-06-30,1,1,"#{""mimmo.cosenza@gmail.com""}",1890.0,66
+Clojure,magomimmo,2016-07-07,2,2,"#{""gio.borghi@gmail.com"" ""mimmo.cosenza@gmail.com""}",1892.0,67
+Clojure,magomimmo,2016-07-12,3,2,"#{""gio.borghi@gmail.com"" ""mimmo.cosenza@gmail.com""}",1895.0,67
+Clojure,magomimmo,2016-07-19,2,2,"#{""mimmo.cosenza@gmail.com"" ""sam@samestep.com""}",1897.0,68
+Clojure,magomimmo,2016-08-24,2,2,"#{""mimmo.cosenza@gmail.com"" ""punchagan@muse-amuse.in""}",1899.0,69
+Clojure,magomimmo,2016-09-11,2,2,"#{""mimmo.cosenza@gmail.com"" ""b6tyger@gmail.com""}",1901.0,70
+Clojure,magomimmo,2016-09-12,1,1,"#{""b6tyger@gmail.com""}",1902.0,70
+Clojure,magomimmo,2016-09-14,1,1,"#{""mimmo.cosenza@gmail.com""}",1903.0,70
+Clojure,magomimmo,2016-09-17,2,1,"#{""b6tyger@gmail.com""}",1905.0,70
+Clojure,magomimmo,2016-09-18,1,1,"#{""mimmo.cosenza@gmail.com""}",1906.0,70
+Clojure,magomimmo,2016-10-25,2,2,"#{""kevgathuku@users.noreply.github.com"" ""mimmo.cosenza@gmail.com""}",1908.0,71
+Clojure,magomimmo,2016-10-30,4,3,"#{""kevgathuku@users.noreply.github.com"" ""mimmo.cosenza@gmail.com"" ""lucas.tadeuteixeira@gmail.com""}",1912.0,72
+Clojure,magomimmo,2016-11-01,5,2,"#{""mimmo.cosenza@gmail.com"" ""lucas@fastmail.nl""}",1917.0,73
+Clojure,magomimmo,2016-12-27,2,2,"#{""mimmo.cosenza@gmail.com"" ""chetlin.d@gmail.com""}",1919.0,74
+Clojure,magomimmo,2017-01-08,2,2,"#{""mimmo.cosenza@gmail.com"" ""kaweston@hotmail.com""}",1921.0,75
+Clojure,magomimmo,2017-02-02,1,1,"#{""ferrarigiovanni555@gmail.com""}",1922.0,76
+Clojure,magomimmo,2017-02-06,1,1,"#{""ferrarigiovanni555@gmail.com""}",1923.0,76
+Clojure,magomimmo,2017-02-07,1,1,"#{""ferrarigiovanni555@gmail.com""}",1924.0,76
+Clojure,magomimmo,2017-02-08,2,1,"#{""ferrarigiovanni555@gmail.com""}",1926.0,76
+Clojure,magomimmo,2017-02-22,3,2,"#{""elena.canovi@gmail.com"" ""ferrarigiovanni555@gmail.com""}",1929.0,77
+Clojure,magomimmo,2017-02-23,1,1,"#{""ferrarigiovanni555@gmail.com""}",1930.0,77
+Clojure,magomimmo,2017-02-24,1,1,"#{""ferrarigiovanni555@gmail.com""}",1931.0,77
+Clojure,magomimmo,2017-02-27,2,1,"#{""ferrarigiovanni555@gmail.com""}",1933.0,77
+Clojure,magomimmo,2017-02-28,2,1,"#{""ferrarigiovanni555@gmail.com""}",1935.0,77
+Clojure,magomimmo,2017-03-06,25,3,"#{""elena.canovi@gmail.com"" ""manuela.trotti@sinapsi.com"" ""ferrarigiovanni555@gmail.com""}",1960.0,78
+Clojure,magomimmo,2017-03-07,11,3,"#{""elena.canovi@gmail.com"" ""manuela.trotti@sinapsi.com"" ""ferrarigiovanni555@gmail.com""}",1971.0,78
+Clojure,magomimmo,2017-03-08,9,2,"#{""elena.canovi@gmail.com"" ""manuela.trotti@sinapsi.com""}",1980.0,78
+Clojure,magomimmo,2017-03-09,4,1,"#{""mimmo.cosenza@gmail.com""}",1984.0,78
+Clojure,magomimmo,2017-03-11,2,1,"#{""mimmo.cosenza@gmail.com""}",1986.0,78
+Clojure,magomimmo,2017-03-22,2,2,"#{""mimmo.cosenza@gmail.com"" ""ben.coste@gmail.com""}",1988.0,79
+Clojure,magomimmo,2017-03-25,3,2,"#{""mimmo.cosenza@gmail.com"" ""ruby.object@googlemail.com""}",1991.0,80
+Clojure,magomimmo,2017-03-27,2,2,"#{""mimmo.cosenza@gmail.com"" ""ruby.object@googlemail.com""}",1993.0,80
+Clojure,magomimmo,2017-04-17,2,2,"#{""mimmo.cosenza@gmail.com"" ""henry@isagoddamn.ninja""}",1995.0,81
+Clojure,magomimmo,2017-05-16,1,1,"#{""russell@valuepotion.com""}",1996.0,82
+Clojure,magomimmo,2017-05-17,1,1,"#{""mimmo.cosenza@gmail.com""}",1997.0,82
+Clojure,magomimmo,2017-06-09,1,1,"#{""dfornika@gmail.com""}",1998.0,83
+Clojure,magomimmo,2017-06-10,1,1,"#{""mimmo.cosenza@gmail.com""}",1999.0,83
+Clojure,magomimmo,2017-07-08,1,1,"#{""andre.netvision.com.br@gmail.com""}",2000.0,84
+Clojure,magomimmo,2017-07-13,3,2,"#{""mimmo.cosenza@gmail.com"" ""ferrarigiovanni555@gmail.com""}",2003.0,84
+Clojure,magomimmo,2017-08-24,1,1,"#{""ferrarigiovanni555@gmail.com""}",2004.0,84
+Clojure,magomimmo,2017-10-27,1,1,"#{""maxfieldlehman@gmail.com""}",2005.0,85
+Clojure,magomimmo,2017-12-26,2,2,"#{""teodor@teodorheggelund.com"" ""mimmo.cosenza@gmail.com""}",2007.0,86
+Clojure,magomimmo,2017-12-27,1,1,"#{""mimmo.cosenza@gmail.com""}",2008.0,86
+Clojure,magomimmo,2018-02-17,2,2,"#{""teodor@teodorheggelund.com"" ""mimmo.cosenza@gmail.com""}",2010.0,86

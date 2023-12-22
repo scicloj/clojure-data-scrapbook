@@ -1,0 +1,41 @@
+
+---
+format:
+  revealjs:
+    theme: [default, src/notebooks/custom.scss]
+    include-in-header: [text, <link rel="shortcut icon" href="Cookbook.svg" />]
+    navigation-mode: vertical
+    transition: slide
+    background-transition: fade
+    incremental: true
+    output-file: notebooks.exploring_commit_logs-revealjs.html
+highlight-style: solarized
+
+---
+<style>table {
+  border-style: thin;
+}
+th, td {
+  padding: 6px;
+}
+td {
+  text-align: left;
+}
+th {
+  text-align: center;
+  background-color: #ddd;
+}
+tr:nth-child(even) {
+  background-color: #f6f6f6;
+}
+</style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style>
+<script src="notebooks.exploring_commit_logs-revealjs_files/md-default0.js" type="text/javascript"></script><script src="notebooks.exploring_commit_logs-revealjs_files/md-default1.js" type="text/javascript"></script>
+# Exploring commit logs
+
+<div style="background-color:grey;height:2px;width:100%;"></div>
+
+<div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/london-clojurians-talk/projects/london-clojurians-dec-2023-talk/src/notebooks/exploring_commit_logs.clj">projects/london-clojurians-dec-2023-talk/src/notebooks/exploring_commit_logs.clj</a></small></small></pre></div>

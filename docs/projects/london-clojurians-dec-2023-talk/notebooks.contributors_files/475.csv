@@ -1,0 +1,312 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,nubank,2017-08-12,3,1,"#{""rafael@rafaelferreira.net""}",3.0,1
+Clojure,nubank,2017-08-14,4,1,"#{""rafael@rafaelferreira.net""}",7.0,1
+Clojure,nubank,2017-08-16,6,1,"#{""rafael@rafaelferreira.net""}",13.0,1
+Clojure,nubank,2017-08-20,1,1,"#{""rafael@rafaelferreira.net""}",14.0,1
+Clojure,nubank,2017-09-10,1,1,"#{""rafael@rafaelferreira.net""}",15.0,1
+Clojure,nubank,2017-09-23,6,1,"#{""rafael@rafaelferreira.net""}",21.0,1
+Clojure,nubank,2017-11-07,1,1,"#{""rafael@rafaelferreira.net""}",22.0,1
+Clojure,nubank,2017-11-14,3,1,"#{""phillip.mates@nubank.com.br""}",25.0,2
+Clojure,nubank,2017-11-15,9,1,"#{""phillip.mates@nubank.com.br""}",34.0,2
+Clojure,nubank,2017-11-16,1,1,"#{""phillip.mates@nubank.com.br""}",35.0,2
+Clojure,nubank,2017-11-17,4,1,"#{""phillip.mates@nubank.com.br""}",39.0,2
+Clojure,nubank,2017-11-20,3,1,"#{""phillip.mates@nubank.com.br""}",42.0,2
+Clojure,nubank,2017-12-01,4,1,"#{""phillip.mates@nubank.com.br""}",46.0,2
+Clojure,nubank,2017-12-04,2,1,"#{""phillip.mates@nubank.com.br""}",48.0,2
+Clojure,nubank,2017-12-07,2,1,"#{""phillip.mates@nubank.com.br""}",50.0,2
+Clojure,nubank,2017-12-08,3,1,"#{""phillip.mates@nubank.com.br""}",53.0,2
+Clojure,nubank,2017-12-11,1,1,"#{""public@rafaelferreira.net""}",54.0,3
+Clojure,nubank,2017-12-19,1,1,"#{""rafael@rafaelferreira.net""}",55.0,3
+Clojure,nubank,2017-12-20,5,1,"#{""phillip.mates@nubank.com.br""}",60.0,3
+Clojure,nubank,2017-12-21,2,1,"#{""phillip.mates@nubank.com.br""}",62.0,3
+Clojure,nubank,2017-12-24,4,2,"#{""phillipmates@gmail.com"" ""phillip.mates@nubank.com.br""}",66.0,4
+Clojure,nubank,2017-12-27,5,2,"#{""rafael@rafaelferreira.net"" ""phillip.mates@nubank.com.br""}",71.0,4
+Clojure,nubank,2017-12-28,4,2,"#{""rafael@rafaelferreira.net"" ""phillip.mates@nubank.com.br""}",75.0,4
+Clojure,nubank,2017-12-29,1,1,"#{""public@rafaelferreira.net""}",76.0,4
+Clojure,nubank,2018-01-03,1,1,"#{""phillip.mates@nubank.com.br""}",77.0,4
+Clojure,nubank,2018-01-08,1,1,"#{""phillip.mates@nubank.com.br""}",78.0,4
+Clojure,nubank,2018-01-24,1,1,"#{""phillip.mates@nubank.com.br""}",79.0,4
+Clojure,nubank,2018-01-29,2,1,"#{""phillip.mates@nubank.com.br""}",81.0,4
+Clojure,nubank,2018-02-06,4,1,"#{""phillip.mates@nubank.com.br""}",85.0,4
+Clojure,nubank,2018-02-08,2,1,"#{""phillip.mates@nubank.com.br""}",87.0,4
+Clojure,nubank,2018-02-09,2,1,"#{""phillip.mates@nubank.com.br""}",89.0,4
+Clojure,nubank,2018-02-22,3,1,"#{""phillip.mates@nubank.com.br""}",92.0,4
+Clojure,nubank,2018-02-23,5,2,"#{""mdibjorge@gmail.com"" ""phillip.mates@nubank.com.br""}",97.0,5
+Clojure,nubank,2018-03-23,1,1,"#{""phillip.mates@nubank.com.br""}",98.0,5
+Clojure,nubank,2018-04-20,1,1,"#{""phillip.mates@nubank.com.br""}",99.0,5
+Clojure,nubank,2018-04-21,1,1,"#{""phillip.mates@nubank.com.br""}",100.0,5
+Clojure,nubank,2018-04-30,4,2,"#{""arne.brasseur@gmail.com"" ""phillip.mates@nubank.com.br""}",104.0,6
+Clojure,nubank,2018-05-16,1,1,"#{""phillip.mates@nubank.com.br""}",105.0,6
+Clojure,nubank,2018-06-30,1,1,"#{""wilkerlucio@gmail.com""}",106.0,7
+Clojure,nubank,2018-07-01,6,1,"#{""wilkerlucio@gmail.com""}",112.0,7
+Clojure,nubank,2018-07-02,1,1,"#{""wilkerlucio@gmail.com""}",113.0,7
+Clojure,nubank,2018-07-03,1,1,"#{""wilkerlucio@users.noreply.github.com""}",114.0,8
+Clojure,nubank,2018-07-13,9,1,"#{""wilkerlucio@gmail.com""}",123.0,8
+Clojure,nubank,2018-07-14,8,1,"#{""wilkerlucio@gmail.com""}",131.0,8
+Clojure,nubank,2018-07-15,7,1,"#{""wilkerlucio@gmail.com""}",138.0,8
+Clojure,nubank,2018-07-16,3,1,"#{""wilkerlucio@gmail.com""}",141.0,8
+Clojure,nubank,2018-07-17,17,1,"#{""wilkerlucio@gmail.com""}",158.0,8
+Clojure,nubank,2018-07-18,2,1,"#{""wilkerlucio@gmail.com""}",160.0,8
+Clojure,nubank,2018-07-19,1,1,"#{""wilkerlucio@gmail.com""}",161.0,8
+Clojure,nubank,2018-07-23,10,1,"#{""wilkerlucio@gmail.com""}",171.0,8
+Clojure,nubank,2018-07-24,13,2,"#{""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",184.0,8
+Clojure,nubank,2018-07-25,2,1,"#{""phillip.mates@nubank.com.br""}",186.0,8
+Clojure,nubank,2018-07-27,3,1,"#{""wilkerlucio@gmail.com""}",189.0,8
+Clojure,nubank,2018-08-04,5,1,"#{""wilkerlucio@gmail.com""}",194.0,8
+Clojure,nubank,2018-08-05,8,2,"#{""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",202.0,8
+Clojure,nubank,2018-08-06,15,2,"#{""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",217.0,8
+Clojure,nubank,2018-08-07,2,1,"#{""wilkerlucio@users.noreply.github.com""}",219.0,8
+Clojure,nubank,2018-08-09,3,1,"#{""wilkerlucio@gmail.com""}",222.0,8
+Clojure,nubank,2018-08-12,1,1,"#{""wilkerlucio@gmail.com""}",223.0,8
+Clojure,nubank,2018-08-20,2,1,"#{""wilkerlucio@gmail.com""}",225.0,8
+Clojure,nubank,2018-09-06,1,1,"#{""phillip.mates@nubank.com.br""}",226.0,8
+Clojure,nubank,2018-09-10,1,1,"#{""wilkerlucio@gmail.com""}",227.0,8
+Clojure,nubank,2018-09-13,2,2,"#{""phillip.mates@nubank.com.br"" ""martinklepsch@googlemail.com""}",229.0,9
+Clojure,nubank,2018-09-14,2,1,"#{""phillip.mates@nubank.com.br""}",231.0,9
+Clojure,nubank,2018-09-18,1,1,"#{""arne@arnebrasseur.net""}",232.0,10
+Clojure,nubank,2018-09-28,2,1,"#{""phillip.mates@nubank.com.br""}",234.0,10
+Clojure,nubank,2018-10-09,2,1,"#{""phillip.mates@nubank.com.br""}",236.0,10
+Clojure,nubank,2018-10-16,3,1,"#{""wilkerlucio@gmail.com""}",239.0,10
+Clojure,nubank,2018-10-17,2,1,"#{""erich.oliphant@gmail.com""}",241.0,11
+Clojure,nubank,2018-10-18,4,3,"#{""wilkerlucio@users.noreply.github.com"" ""phillip.mates@nubank.com.br"" ""gbrmachado@gmail.com""}",245.0,12
+Clojure,nubank,2018-11-25,26,2,"#{""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",271.0,12
+Clojure,nubank,2018-11-26,3,1,"#{""wilkerlucio@gmail.com""}",274.0,12
+Clojure,nubank,2018-12-18,1,1,"#{""wilkerlucio@gmail.com""}",275.0,12
+Clojure,nubank,2018-12-23,1,1,"#{""wilkerlucio@users.noreply.github.com""}",276.0,12
+Clojure,nubank,2019-01-08,1,1,"#{""phillip.mates@nubank.com.br""}",277.0,12
+Clojure,nubank,2019-01-10,2,1,"#{""tony.kay@gmail.com""}",279.0,13
+Clojure,nubank,2019-01-11,3,2,"#{""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",282.0,13
+Clojure,nubank,2019-01-14,1,1,"#{""eric.velten@nubank.com.br""}",283.0,14
+Clojure,nubank,2019-01-15,4,1,"#{""ericvm@users.noreply.github.com""}",287.0,15
+Clojure,nubank,2019-01-17,3,1,"#{""mdibjorge@gmail.com""}",290.0,15
+Clojure,nubank,2019-01-19,1,1,"#{""wilkerlucio@gmail.com""}",291.0,15
+Clojure,nubank,2019-01-25,3,2,"#{""WhittlesJr@users.noreply.github.com"" ""phillip.mates@nubank.com.br""}",294.0,16
+Clojure,nubank,2019-01-27,1,1,"#{""wilkerlucio@gmail.com""}",295.0,16
+Clojure,nubank,2019-01-28,1,1,"#{""ericvm@users.noreply.github.com""}",296.0,16
+Clojure,nubank,2019-01-29,1,1,"#{""ericvm@users.noreply.github.com""}",297.0,16
+Clojure,nubank,2019-02-01,2,1,"#{""caioaao@users.noreply.github.com""}",299.0,17
+Clojure,nubank,2019-02-02,1,1,"#{""phillip.mates@nubank.com.br""}",300.0,17
+Clojure,nubank,2019-02-24,1,1,"#{""wilkerlucio@gmail.com""}",301.0,17
+Clojure,nubank,2019-02-27,3,1,"#{""wilkerlucio@gmail.com""}",304.0,17
+Clojure,nubank,2019-02-28,3,1,"#{""wilkerlucio@gmail.com""}",307.0,17
+Clojure,nubank,2019-03-09,4,1,"#{""wilkerlucio@gmail.com""}",311.0,17
+Clojure,nubank,2019-03-13,1,1,"#{""phillip.mates@nubank.com.br""}",312.0,17
+Clojure,nubank,2019-03-17,1,1,"#{""wilkerlucio@gmail.com""}",313.0,17
+Clojure,nubank,2019-03-24,1,1,"#{""phillip.mates@nubank.com.br""}",314.0,17
+Clojure,nubank,2019-03-26,1,1,"#{""caioaao@users.noreply.github.com""}",315.0,17
+Clojure,nubank,2019-03-27,1,1,"#{""phillip.mates@nubank.com.br""}",316.0,17
+Clojure,nubank,2019-04-01,2,1,"#{""wilkerlucio@gmail.com""}",318.0,17
+Clojure,nubank,2019-04-03,1,1,"#{""wilkerlucio@gmail.com""}",319.0,17
+Clojure,nubank,2019-04-07,1,1,"#{""phillip.mates@nubank.com.br""}",320.0,17
+Clojure,nubank,2019-04-08,7,4,"#{""ericvm@users.noreply.github.com"" ""mauricioszabo@users.noreply.github.com"" ""phillip.mates@nubank.com.br"" ""wilkerlucio@gmail.com""}",327.0,18
+Clojure,nubank,2019-04-09,1,1,"#{""phillip.mates@nubank.com.br""}",328.0,18
+Clojure,nubank,2019-04-17,1,1,"#{""ericvm@users.noreply.github.com""}",329.0,18
+Clojure,nubank,2019-04-25,2,1,"#{""thiago.okada@nubank.com.br""}",331.0,19
+Clojure,nubank,2019-05-08,1,1,"#{""ericvm@users.noreply.github.com""}",332.0,19
+Clojure,nubank,2019-05-27,1,1,"#{""ericvm@users.noreply.github.com""}",333.0,19
+Clojure,nubank,2019-06-20,1,1,"#{""marcelo.piva@nubank.com.br""}",334.0,20
+Clojure,nubank,2019-06-27,1,1,"#{""phillip.mates@nubank.com.br""}",335.0,20
+Clojure,nubank,2019-06-30,3,1,"#{""wilkerlucio@gmail.com""}",338.0,20
+Clojure,nubank,2019-07-02,3,1,"#{""wilkerlucio@gmail.com""}",341.0,20
+Clojure,nubank,2019-07-07,3,2,"#{""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",344.0,20
+Clojure,nubank,2019-08-01,4,1,"#{""phillipmates@gmail.com""}",348.0,20
+Clojure,nubank,2019-08-03,4,3,"#{""wilkerlucio@users.noreply.github.com"" ""abhi18av@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",352.0,21
+Clojure,nubank,2019-08-06,1,1,"#{""phillip.mates@nubank.com.br""}",353.0,21
+Clojure,nubank,2019-08-08,1,1,"#{""wilkerlucio@gmail.com""}",354.0,21
+Clojure,nubank,2019-08-13,1,1,"#{""phillip.mates@nubank.com.br""}",355.0,21
+Clojure,nubank,2019-08-14,2,1,"#{""phillip.mates@nubank.com.br""}",357.0,21
+Clojure,nubank,2019-08-18,1,1,"#{""wilkerlucio@users.noreply.github.com""}",358.0,21
+Clojure,nubank,2019-08-25,3,2,"#{""wilkerlucio@users.noreply.github.com"" ""wilkerlucio@gmail.com""}",361.0,21
+Clojure,nubank,2019-08-29,1,1,"#{""phillip.mates@nubank.com.br""}",362.0,21
+Clojure,nubank,2019-08-30,1,1,"#{""ericvm@users.noreply.github.com""}",363.0,21
+Clojure,nubank,2019-08-31,1,1,"#{""ericvm@users.noreply.github.com""}",364.0,21
+Clojure,nubank,2019-09-01,1,1,"#{""ericvm@users.noreply.github.com""}",365.0,21
+Clojure,nubank,2019-09-03,2,1,"#{""phillip.mates@nubank.com.br""}",367.0,21
+Clojure,nubank,2019-09-05,1,1,"#{""wilkerlucio@gmail.com""}",368.0,21
+Clojure,nubank,2019-10-07,1,1,"#{""phillip.mates@nubank.com.br""}",369.0,21
+Clojure,nubank,2019-10-08,1,1,"#{""phillip.mates@nubank.com.br""}",370.0,21
+Clojure,nubank,2019-10-09,1,1,"#{""eu@euandre.org""}",371.0,22
+Clojure,nubank,2019-10-18,1,1,"#{""wilkerlucio@gmail.com""}",372.0,22
+Clojure,nubank,2019-10-26,1,1,"#{""git@johannesloetzsch.de""}",373.0,23
+Clojure,nubank,2019-10-30,2,2,"#{""wilkerlucio@users.noreply.github.com"" ""tony.kay@gmail.com""}",375.0,23
+Clojure,nubank,2019-11-13,1,1,"#{""7022879+sovelten@users.noreply.github.com""}",376.0,24
+Clojure,nubank,2019-11-20,1,1,"#{""phillip.mates@nubank.com.br""}",377.0,24
+Clojure,nubank,2019-12-17,10,3,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br"" ""caioaao@gmail.com""}",387.0,26
+Clojure,nubank,2019-12-18,1,1,"#{""caioaao@gmail.com""}",388.0,26
+Clojure,nubank,2019-12-19,3,3,"#{""edward.wible@nubank.com.br"" ""7022879+sovelten@users.noreply.github.com"" ""caioaao@gmail.com""}",391.0,27
+Clojure,nubank,2019-12-22,1,1,"#{""dchelimsky@gmail.com""}",392.0,27
+Clojure,nubank,2019-12-23,1,1,"#{""7022879+sovelten@users.noreply.github.com""}",393.0,27
+Clojure,nubank,2019-12-26,4,1,"#{""dchelimsky@gmail.com""}",397.0,27
+Clojure,nubank,2019-12-27,6,1,"#{""dchelimsky@gmail.com""}",403.0,27
+Clojure,nubank,2019-12-30,3,1,"#{""dchelimsky@gmail.com""}",406.0,27
+Clojure,nubank,2020-01-07,9,3,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br"" ""wilkerlucio@gmail.com""}",415.0,27
+Clojure,nubank,2020-01-08,2,1,"#{""dchelimsky@gmail.com""}",417.0,27
+Clojure,nubank,2020-01-09,10,2,"#{""dchelimsky@gmail.com"" ""diegospd@users.noreply.github.com""}",427.0,28
+Clojure,nubank,2020-01-13,6,2,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br""}",433.0,28
+Clojure,nubank,2020-01-14,4,1,"#{""dchelimsky@gmail.com""}",437.0,28
+Clojure,nubank,2020-01-15,5,2,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br""}",442.0,28
+Clojure,nubank,2020-01-16,6,3,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br"" ""caioaao@gmail.com""}",448.0,28
+Clojure,nubank,2020-01-17,1,1,"#{""caioaao@gmail.com""}",449.0,28
+Clojure,nubank,2020-01-20,7,3,"#{""caioaao@users.noreply.github.com"" ""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br""}",456.0,28
+Clojure,nubank,2020-01-21,5,1,"#{""dchelimsky@gmail.com""}",461.0,28
+Clojure,nubank,2020-01-28,1,1,"#{""caioaao@gmail.com""}",462.0,28
+Clojure,nubank,2020-01-29,1,1,"#{""dchelimsky@gmail.com""}",463.0,28
+Clojure,nubank,2020-02-03,1,1,"#{""dchelimsky@gmail.com""}",464.0,28
+Clojure,nubank,2020-02-04,5,1,"#{""caioaao@gmail.com""}",469.0,28
+Clojure,nubank,2020-02-06,6,1,"#{""dchelimsky@gmail.com""}",475.0,28
+Clojure,nubank,2020-02-10,5,2,"#{""dchelimsky@gmail.com"" ""7022879+sovelten@users.noreply.github.com""}",480.0,28
+Clojure,nubank,2020-02-11,5,2,"#{""dchelimsky@gmail.com"" ""7022879+sovelten@users.noreply.github.com""}",485.0,28
+Clojure,nubank,2020-02-12,7,1,"#{""dchelimsky@gmail.com""}",492.0,28
+Clojure,nubank,2020-02-13,7,2,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br""}",499.0,28
+Clojure,nubank,2020-02-15,2,1,"#{""dchelimsky@gmail.com""}",501.0,28
+Clojure,nubank,2020-02-17,4,2,"#{""fernando.oliveira@nubank.com.br"" ""dchelimsky@gmail.com""}",505.0,29
+Clojure,nubank,2020-02-18,8,1,"#{""dchelimsky@gmail.com""}",513.0,29
+Clojure,nubank,2020-02-19,2,1,"#{""dchelimsky@gmail.com""}",515.0,29
+Clojure,nubank,2020-02-20,4,2,"#{""38081789+fernando-nubank@users.noreply.github.com"" ""caioaao@gmail.com""}",519.0,30
+Clojure,nubank,2020-02-21,7,1,"#{""caioaao@gmail.com""}",526.0,30
+Clojure,nubank,2020-02-26,4,3,"#{""dchelimsky@gmail.com"" ""7022879+sovelten@users.noreply.github.com"" ""caioaao@gmail.com""}",530.0,30
+Clojure,nubank,2020-02-27,6,1,"#{""dchelimsky@gmail.com""}",536.0,30
+Clojure,nubank,2020-02-28,2,1,"#{""dchelimsky@gmail.com""}",538.0,30
+Clojure,nubank,2020-03-02,11,2,"#{""dchelimsky@gmail.com"" ""caioaao@gmail.com""}",549.0,30
+Clojure,nubank,2020-03-03,8,2,"#{""dchelimsky@gmail.com"" ""caioaao@gmail.com""}",557.0,30
+Clojure,nubank,2020-03-04,2,1,"#{""phillip.mates@nubank.com.br""}",559.0,30
+Clojure,nubank,2020-03-05,1,1,"#{""dchelimsky@gmail.com""}",560.0,30
+Clojure,nubank,2020-03-10,1,1,"#{""erich.oliphant@gmail.com""}",561.0,30
+Clojure,nubank,2020-03-11,7,2,"#{""wilkerlucio@users.noreply.github.com"" ""dchelimsky@gmail.com""}",568.0,30
+Clojure,nubank,2020-03-13,1,1,"#{""dchelimsky@gmail.com""}",569.0,30
+Clojure,nubank,2020-03-16,1,1,"#{""phillip.mates@nubank.com.br""}",570.0,30
+Clojure,nubank,2020-03-17,1,1,"#{""dchelimsky@gmail.com""}",571.0,30
+Clojure,nubank,2020-03-18,8,1,"#{""dchelimsky@gmail.com""}",579.0,30
+Clojure,nubank,2020-03-19,1,1,"#{""wilkerlucio@gmail.com""}",580.0,30
+Clojure,nubank,2020-03-20,1,1,"#{""dchelimsky@gmail.com""}",581.0,30
+Clojure,nubank,2020-03-23,1,1,"#{""dchelimsky@gmail.com""}",582.0,30
+Clojure,nubank,2020-03-30,1,1,"#{""dchelimsky@gmail.com""}",583.0,30
+Clojure,nubank,2020-03-31,2,1,"#{""dchelimsky@gmail.com""}",585.0,30
+Clojure,nubank,2020-04-06,7,1,"#{""dchelimsky@gmail.com""}",592.0,30
+Clojure,nubank,2020-04-07,10,1,"#{""dchelimsky@gmail.com""}",602.0,30
+Clojure,nubank,2020-04-08,1,1,"#{""dchelimsky@gmail.com""}",603.0,30
+Clojure,nubank,2020-04-15,2,1,"#{""dchelimsky@gmail.com""}",605.0,30
+Clojure,nubank,2020-04-16,7,1,"#{""dchelimsky@gmail.com""}",612.0,30
+Clojure,nubank,2020-04-21,1,1,"#{""marco.souza@nubank.com.br""}",613.0,31
+Clojure,nubank,2020-04-24,1,1,"#{""1324915+drayah@users.noreply.github.com""}",614.0,32
+Clojure,nubank,2020-04-27,6,1,"#{""dchelimsky@gmail.com""}",620.0,32
+Clojure,nubank,2020-04-28,1,1,"#{""dchelimsky@gmail.com""}",621.0,32
+Clojure,nubank,2020-04-30,1,1,"#{""markomafs@users.noreply.github.com""}",622.0,33
+Clojure,nubank,2020-05-11,2,2,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br""}",624.0,33
+Clojure,nubank,2020-05-12,1,1,"#{""dchelimsky@gmail.com""}",625.0,33
+Clojure,nubank,2020-05-13,3,1,"#{""dchelimsky@gmail.com""}",628.0,33
+Clojure,nubank,2020-05-14,5,1,"#{""dchelimsky@gmail.com""}",633.0,33
+Clojure,nubank,2020-05-18,11,4,"#{""fernando.oliveira@nubank.com.br"" ""38081789+fernando-nubank@users.noreply.github.com"" ""dchelimsky@gmail.com"" ""caioaao@gmail.com""}",644.0,33
+Clojure,nubank,2020-05-19,3,1,"#{""dchelimsky@gmail.com""}",647.0,33
+Clojure,nubank,2020-05-20,1,1,"#{""caioaao@gmail.com""}",648.0,33
+Clojure,nubank,2020-05-21,12,2,"#{""dchelimsky@gmail.com"" ""caioaao@gmail.com""}",660.0,33
+Clojure,nubank,2020-05-26,1,1,"#{""dchelimsky@gmail.com""}",661.0,33
+Clojure,nubank,2020-05-27,12,2,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br""}",673.0,33
+Clojure,nubank,2020-05-28,5,1,"#{""dchelimsky@gmail.com""}",678.0,33
+Clojure,nubank,2020-05-29,1,1,"#{""gabriel.giussi@nubank.com.br""}",679.0,34
+Clojure,nubank,2020-06-03,10,1,"#{""dchelimsky@gmail.com""}",689.0,34
+Clojure,nubank,2020-06-04,8,3,"#{""fernando.oliveira@nubank.com.br"" ""38081789+fernando-nubank@users.noreply.github.com"" ""dchelimsky@gmail.com""}",697.0,34
+Clojure,nubank,2020-06-08,3,1,"#{""dchelimsky@gmail.com""}",700.0,34
+Clojure,nubank,2020-06-10,1,1,"#{""jorgeviana@users.noreply.github.com""}",701.0,35
+Clojure,nubank,2020-06-11,2,1,"#{""dchelimsky@gmail.com""}",703.0,35
+Clojure,nubank,2020-06-12,1,1,"#{""dchelimsky@gmail.com""}",704.0,35
+Clojure,nubank,2020-06-15,1,1,"#{""dchelimsky@gmail.com""}",705.0,35
+Clojure,nubank,2020-06-16,3,1,"#{""dchelimsky@gmail.com""}",708.0,35
+Clojure,nubank,2020-06-17,1,1,"#{""SSYH@users.noreply.github.com""}",709.0,36
+Clojure,nubank,2020-06-22,6,2,"#{""dchelimsky@gmail.com"" ""phillip.mates@nubank.com.br""}",715.0,36
+Clojure,nubank,2020-06-24,1,1,"#{""dchelimsky@gmail.com""}",716.0,36
+Clojure,nubank,2020-06-25,1,1,"#{""dchelimsky@gmail.com""}",717.0,36
+Clojure,nubank,2020-06-26,3,1,"#{""dchelimsky@gmail.com""}",720.0,36
+Clojure,nubank,2020-06-27,4,1,"#{""dchelimsky@gmail.com""}",724.0,36
+Clojure,nubank,2020-06-29,10,1,"#{""dchelimsky@gmail.com""}",734.0,36
+Clojure,nubank,2020-06-30,10,1,"#{""dchelimsky@gmail.com""}",744.0,36
+Clojure,nubank,2020-07-01,13,3,"#{""fernando.oliveira@nubank.com.br"" ""github@lucasferreira.org"" ""dchelimsky@gmail.com""}",757.0,37
+Clojure,nubank,2020-07-02,2,1,"#{""dchelimsky@gmail.com""}",759.0,37
+Clojure,nubank,2020-07-07,1,1,"#{""dchelimsky@gmail.com""}",760.0,37
+Clojure,nubank,2020-07-13,3,1,"#{""dchelimsky@gmail.com""}",763.0,37
+Clojure,nubank,2020-07-14,1,1,"#{""dchelimsky@gmail.com""}",764.0,37
+Clojure,nubank,2020-07-15,1,1,"#{""dchelimsky@gmail.com""}",765.0,37
+Clojure,nubank,2020-07-30,4,2,"#{""dchelimsky@gmail.com"" ""daemianmack@gmail.com""}",769.0,38
+Clojure,nubank,2020-07-31,4,1,"#{""fernando.oliveira@nubank.com.br""}",773.0,38
+Clojure,nubank,2020-08-11,3,3,"#{""dchelimsky@gmail.com"" ""tibor@floatingpoint.io"" ""diegospd@users.noreply.github.com""}",776.0,39
+Clojure,nubank,2020-08-26,2,1,"#{""f.o.thome@gmail.com""}",778.0,40
+Clojure,nubank,2020-09-21,1,1,"#{""fsabe@users.noreply.github.com""}",779.0,41
+Clojure,nubank,2020-09-22,1,1,"#{""phillip.mates@nubank.com.br""}",780.0,41
+Clojure,nubank,2020-09-30,1,1,"#{""phillip.mates@nubank.com.br""}",781.0,41
+Clojure,nubank,2020-10-02,1,1,"#{""phillip.mates@nubank.com.br""}",782.0,41
+Clojure,nubank,2020-10-04,1,1,"#{""phillip.mates@nubank.com.br""}",783.0,41
+Clojure,nubank,2020-10-05,1,1,"#{""phillip.mates@nubank.com.br""}",784.0,41
+Clojure,nubank,2020-10-16,1,1,"#{""wilkerlucio@users.noreply.github.com""}",785.0,41
+Clojure,nubank,2020-10-29,5,1,"#{""dchelimsky@gmail.com""}",790.0,41
+Clojure,nubank,2020-11-03,1,1,"#{""7022879+sovelten@users.noreply.github.com""}",791.0,41
+Clojure,nubank,2020-11-04,3,2,"#{""dchelimsky@gmail.com"" ""andre.peric@nubank.com.br""}",794.0,42
+Clojure,nubank,2020-12-17,1,1,"#{""f.o.thome@gmail.com""}",795.0,42
+Clojure,nubank,2020-12-18,1,1,"#{""dchelimsky@gmail.com""}",796.0,42
+Clojure,nubank,2021-02-11,1,1,"#{""andre.peric@nubank.com.br""}",797.0,42
+Clojure,nubank,2021-02-16,2,1,"#{""phillip.mates@nubank.com.br""}",799.0,42
+Clojure,nubank,2021-02-18,1,1,"#{""phillip.mates@nubank.com.br""}",800.0,42
+Clojure,nubank,2021-02-28,35,1,"#{""f.o.thome@gmail.com""}",835.0,42
+Clojure,nubank,2021-03-04,6,1,"#{""ericdallo06@hotmail.com""}",841.0,43
+Clojure,nubank,2021-03-05,3,1,"#{""f.o.thome@gmail.com""}",844.0,43
+Clojure,nubank,2021-03-10,1,1,"#{""f.o.thome@gmail.com""}",845.0,43
+Clojure,nubank,2021-03-18,2,1,"#{""ericdallo06@hotmail.com""}",847.0,43
+Clojure,nubank,2021-03-19,1,1,"#{""fernando.oliveira@nubank.com.br""}",848.0,43
+Clojure,nubank,2021-04-06,12,2,"#{""49699333+dependabot[bot]@users.noreply.github.com"" ""f.o.thome@gmail.com""}",860.0,44
+Clojure,nubank,2021-04-07,11,1,"#{""f.o.thome@gmail.com""}",871.0,44
+Clojure,nubank,2021-04-08,3,2,"#{""dchelimsky@gmail.com"" ""andre.peric@nubank.com.br""}",874.0,44
+Clojure,nubank,2021-05-12,1,1,"#{""phillip.mates@nubank.com.br""}",875.0,44
+Clojure,nubank,2021-05-13,1,1,"#{""phillip.mates@nubank.com.br""}",876.0,44
+Clojure,nubank,2021-06-07,2,1,"#{""phillip.mates@nubank.com.br""}",878.0,44
+Clojure,nubank,2021-06-09,2,1,"#{""phillip.mates@nubank.com.br""}",880.0,44
+Clojure,nubank,2021-06-23,2,2,"#{""aeonax.liar@gmail.com"" ""phillip.mates@nubank.com.br""}",882.0,45
+Clojure,nubank,2021-07-15,1,1,"#{""phillip.mates@nubank.com.br""}",883.0,45
+Clojure,nubank,2021-07-29,2,1,"#{""phillip.mates@nubank.com.br""}",885.0,45
+Clojure,nubank,2021-08-09,3,1,"#{""ericdallo06@hotmail.com""}",888.0,45
+Clojure,nubank,2021-08-19,1,1,"#{""ericdallo06@hotmail.com""}",889.0,45
+Clojure,nubank,2021-08-20,2,1,"#{""ericdallo06@hotmail.com""}",891.0,45
+Clojure,nubank,2021-09-22,2,1,"#{""pedro.evangelista@gmail.com""}",893.0,46
+Clojure,nubank,2021-11-10,1,1,"#{""7022879+sovelten@users.noreply.github.com""}",894.0,46
+Clojure,nubank,2021-12-16,1,1,"#{""ericdallo06@hotmail.com""}",895.0,46
+Clojure,nubank,2021-12-17,3,1,"#{""ericdallo06@hotmail.com""}",898.0,46
+Clojure,nubank,2022-01-12,1,1,"#{""mynomoto@gmail.com""}",899.0,47
+Clojure,nubank,2022-01-18,1,1,"#{""ericdallo06@hotmail.com""}",900.0,47
+Clojure,nubank,2022-01-31,1,1,"#{""michael.weisser@nubank.com.br""}",901.0,48
+Clojure,nubank,2022-02-01,1,1,"#{""michael.weisser@nubank.com.br""}",902.0,48
+Clojure,nubank,2022-02-02,2,1,"#{""89259678+lednubr@users.noreply.github.com""}",904.0,49
+Clojure,nubank,2022-03-14,2,1,"#{""gianfranco.pennacchi@nubank.com.br""}",906.0,50
+Clojure,nubank,2022-03-15,1,1,"#{""gianfrancopen@gmail.com""}",907.0,51
+Clojure,nubank,2022-03-17,1,1,"#{""gianfrancopen@gmail.com""}",908.0,51
+Clojure,nubank,2022-03-28,6,1,"#{""dchelimsky@gmail.com""}",914.0,51
+Clojure,nubank,2022-04-08,2,1,"#{""dchelimsky@gmail.com""}",916.0,51
+Clojure,nubank,2022-07-26,1,1,"#{""phillipmates@gmail.com""}",917.0,51
+Clojure,nubank,2022-08-24,7,2,"#{""maria.crespo@alumni.usp.br"" ""dchelimsky@gmail.com""}",924.0,52
+Clojure,nubank,2022-08-25,7,1,"#{""dchelimsky@gmail.com""}",931.0,52
+Clojure,nubank,2022-08-26,1,1,"#{""dchelimsky@gmail.com""}",932.0,52
+Clojure,nubank,2022-09-07,1,1,"#{""dchelimsky@gmail.com""}",933.0,52
+Clojure,nubank,2022-10-08,2,1,"#{""sophia.velten@nubank.com.br""}",935.0,53
+Clojure,nubank,2022-11-09,4,2,"#{""dchelimsky@gmail.com"" ""phillipmates@gmail.com""}",939.0,53
+Clojure,nubank,2022-11-10,3,3,"#{""ericdallo06@hotmail.com"" ""dchelimsky@gmail.com"" ""lee@dlread.com""}",942.0,54
+Clojure,nubank,2022-11-11,2,1,"#{""dchelimsky@gmail.com""}",944.0,54
+Clojure,nubank,2022-11-17,3,1,"#{""phillipmates@gmail.com""}",947.0,54
+Clojure,nubank,2022-11-23,8,2,"#{""ivan.galban.smith@gmail.com"" ""ivan.galban@nubank.com.br""}",955.0,56
+Clojure,nubank,2022-11-28,4,2,"#{""ivan.galban.smith@gmail.com"" ""ivan.galban@nubank.com.br""}",959.0,56
+Clojure,nubank,2022-11-29,1,1,"#{""phillipmates@gmail.com""}",960.0,56
+Clojure,nubank,2022-12-12,2,1,"#{""dchelimsky@gmail.com""}",962.0,56
+Clojure,nubank,2022-12-14,3,1,"#{""phillipmates@gmail.com""}",965.0,56
+Clojure,nubank,2022-12-17,1,1,"#{""dpassen1@gmail.com""}",966.0,57
+Clojure,nubank,2023-01-30,2,2,"#{""ericdallo06@hotmail.com"" ""phillipmates@gmail.com""}",968.0,57
+Clojure,nubank,2023-01-31,10,2,"#{""dchelimsky@gmail.com"" ""phillipmates@gmail.com""}",978.0,57
+Clojure,nubank,2023-02-08,10,1,"#{""phillipmates@gmail.com""}",988.0,57
+Clojure,nubank,2023-02-09,2,1,"#{""karina.moreira@nubank.com.br""}",990.0,58
+Clojure,nubank,2023-02-14,1,1,"#{""karina.moreira@nubank.com.br""}",991.0,58
+Clojure,nubank,2023-02-23,1,1,"#{""60628865+kdmoreira@users.noreply.github.com""}",992.0,59
+Clojure,nubank,2023-03-06,1,1,"#{""dchelimsky@gmail.com""}",993.0,59
+Clojure,nubank,2023-03-07,1,1,"#{""dchelimsky@gmail.com""}",994.0,59
+Clojure,nubank,2023-03-24,3,2,"#{""phillipmates@gmail.com"" ""fb@fbeyer.com""}",997.0,60
+Clojure,nubank,2023-03-27,1,1,"#{""phillipmates@gmail.com""}",998.0,60
+Clojure,nubank,2023-04-12,1,1,"#{""hlship@gmail.com""}",999.0,61
+Clojure,nubank,2023-04-13,1,1,"#{""howard.lewisship@nubank.com.br""}",1000.0,62
+Clojure,nubank,2023-07-18,5,2,"#{""phillipmates@gmail.com"" ""60628865+kdmoreira@users.noreply.github.com""}",1005.0,62
+Clojure,nubank,2023-09-01,2,1,"#{""phillipmates@gmail.com""}",1007.0,62
+Clojure,nubank,2023-09-04,1,1,"#{""phillipmates@gmail.com""}",1008.0,62
+Clojure,nubank,2023-09-15,2,2,"#{""michielborkent@gmail.com"" ""ericdallo06@hotmail.com""}",1010.0,63

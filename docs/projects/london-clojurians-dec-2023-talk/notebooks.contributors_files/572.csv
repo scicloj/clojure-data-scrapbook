@@ -1,0 +1,107 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,LauJensen,2010-10-31,2,1,"#{""lau.jensen@bestinclass.dk""}",2.0,1
+Clojure,LauJensen,2010-11-01,1,1,"#{""lau.jensen@bestinclass.dk""}",3.0,1
+Clojure,LauJensen,2010-11-02,11,1,"#{""lau.jensen@bestinclass.dk""}",14.0,1
+Clojure,LauJensen,2010-11-03,10,1,"#{""lau.jensen@bestinclass.dk""}",24.0,1
+Clojure,LauJensen,2010-11-04,2,1,"#{""lau.jensen@bestinclass.dk""}",26.0,1
+Clojure,LauJensen,2010-11-05,1,1,"#{""lau.jensen@bestinclass.dk""}",27.0,1
+Clojure,LauJensen,2010-11-06,7,1,"#{""lau.jensen@bestinclass.dk""}",34.0,1
+Clojure,LauJensen,2010-11-07,8,1,"#{""lau.jensen@bestinclass.dk""}",42.0,1
+Clojure,LauJensen,2010-11-08,4,2,"#{""lau.jensen@bestinclass.dk"" ""git@justinbalthrop.com""}",46.0,2
+Clojure,LauJensen,2010-11-09,4,2,"#{""lau.jensen@bestinclass.dk"" ""git@justinbalthrop.com""}",50.0,2
+Clojure,LauJensen,2010-11-10,2,2,"#{""lau.jensen@bestinclass.dk"" ""git@justinbalthrop.com""}",52.0,2
+Clojure,LauJensen,2010-11-11,5,1,"#{""lau.jensen@bestinclass.dk""}",57.0,2
+Clojure,LauJensen,2010-11-12,4,1,"#{""lau.jensen@bestinclass.dk""}",61.0,2
+Clojure,LauJensen,2010-11-14,7,1,"#{""lau.jensen@bestinclass.dk""}",68.0,2
+Clojure,LauJensen,2010-11-15,4,2,"#{""lau.jensen@bestinclass.dk"" ""git@justinbalthrop.com""}",72.0,2
+Clojure,LauJensen,2010-11-16,4,1,"#{""lau.jensen@bestinclass.dk""}",76.0,2
+Clojure,LauJensen,2010-11-17,3,2,"#{""lau.jensen@bestinclass.dk"" ""git@justinbalthrop.com""}",79.0,2
+Clojure,LauJensen,2010-11-18,6,2,"#{""lau.jensen@bestinclass.dk"" ""git@justinbalthrop.com""}",85.0,2
+Clojure,LauJensen,2010-11-19,1,1,"#{""roman@burningswell.com""}",86.0,3
+Clojure,LauJensen,2010-11-20,8,2,"#{""roman@burningswell.com"" ""lau.jensen@bestinclass.dk""}",94.0,3
+Clojure,LauJensen,2010-11-21,4,1,"#{""lau.jensen@bestinclass.dk""}",98.0,3
+Clojure,LauJensen,2010-11-23,3,1,"#{""lau.jensen@bestinclass.dk""}",101.0,3
+Clojure,LauJensen,2010-11-24,5,1,"#{""lau.jensen@bestinclass.dk""}",106.0,3
+Clojure,LauJensen,2010-11-25,9,2,"#{""roman@burningswell.com"" ""lau.jensen@bestinclass.dk""}",115.0,3
+Clojure,LauJensen,2010-11-26,10,1,"#{""roman@burningswell.com""}",125.0,3
+Clojure,LauJensen,2010-11-27,6,2,"#{""roman@burningswell.com"" ""lau.jensen@bestinclass.dk""}",131.0,3
+Clojure,LauJensen,2010-11-28,8,1,"#{""roman@burningswell.com""}",139.0,3
+Clojure,LauJensen,2010-11-30,2,1,"#{""ckatgithub@gmail.com""}",141.0,4
+Clojure,LauJensen,2010-12-01,5,3,"#{""lau.jensen@bestinclass.dk"" ""ckatgithub@gmail.com"" ""hhochleitner@gmail.com""}",146.0,5
+Clojure,LauJensen,2010-12-02,9,2,"#{""lau.jensen@bestinclass.dk"" ""ckatgithub@gmail.com""}",155.0,5
+Clojure,LauJensen,2010-12-03,3,2,"#{""roman@burningswell.com"" ""ckatgithub@gmail.com""}",158.0,5
+Clojure,LauJensen,2010-12-05,1,1,"#{""ckatgithub@gmail.com""}",159.0,5
+Clojure,LauJensen,2010-12-06,2,2,"#{""lau.jensen@bestinclass.dk"" ""ckatgithub@gmail.com""}",161.0,5
+Clojure,LauJensen,2010-12-08,4,2,"#{""lau.jensen@bestinclass.dk"" ""ckatgithub@gmail.com""}",165.0,5
+Clojure,LauJensen,2010-12-12,4,1,"#{""matt.clark.1@gmail.com""}",169.0,6
+Clojure,LauJensen,2010-12-14,2,1,"#{""dandukeson@gmail.com""}",171.0,7
+Clojure,LauJensen,2010-12-15,2,1,"#{""lau.jensen@bestinclass.dk""}",173.0,7
+Clojure,LauJensen,2010-12-17,1,1,"#{""lau.jensen@bestinclass.dk""}",174.0,7
+Clojure,LauJensen,2010-12-20,3,2,"#{""lau.jensen@bestinclass.dk"" ""git@justinbalthrop.com""}",177.0,7
+Clojure,LauJensen,2010-12-21,10,1,"#{""lau.jensen@bestinclass.dk""}",187.0,7
+Clojure,LauJensen,2010-12-22,2,1,"#{""lau.jensen@bestinclass.dk""}",189.0,7
+Clojure,LauJensen,2010-12-23,4,2,"#{""lau.jensen@bestinclass.dk"" ""dandukeson@gmail.com""}",193.0,7
+Clojure,LauJensen,2010-12-24,2,1,"#{""lau.jensen@bestinclass.dk""}",195.0,7
+Clojure,LauJensen,2010-12-25,1,1,"#{""lau.jensen@bestinclass.dk""}",196.0,7
+Clojure,LauJensen,2010-12-26,2,2,"#{""roman@soundclaat.localdomain"" ""lau.jensen@bestinclass.dk""}",198.0,8
+Clojure,LauJensen,2010-12-28,1,1,"#{""roman@burningswell.com""}",199.0,8
+Clojure,LauJensen,2010-12-31,1,1,"#{""lau.jensen@bestinclass.dk""}",200.0,8
+Clojure,LauJensen,2011-01-02,8,2,"#{""lau.jensen@bestinclass.dk"" ""hhochleitner@gmail.com""}",208.0,8
+Clojure,LauJensen,2011-01-03,1,1,"#{""lau.jensen@bestinclass.dk""}",209.0,8
+Clojure,LauJensen,2011-01-04,4,2,"#{""lau.jensen@bestinclass.dk"" ""nbuduroi@gmail.com""}",213.0,9
+Clojure,LauJensen,2011-01-05,2,1,"#{""lau.jensen@bestinclass.dk""}",215.0,9
+Clojure,LauJensen,2011-01-06,1,1,"#{""roman@burningswell.com""}",216.0,9
+Clojure,LauJensen,2011-01-07,1,1,"#{""roman@burningswell.com""}",217.0,9
+Clojure,LauJensen,2011-01-09,1,1,"#{""nbuduroi@gmail.com""}",218.0,9
+Clojure,LauJensen,2011-01-11,2,1,"#{""lau.jensen@bestinclass.dk""}",220.0,9
+Clojure,LauJensen,2011-01-12,5,1,"#{""lau.jensen@bestinclass.dk""}",225.0,9
+Clojure,LauJensen,2011-01-13,2,1,"#{""lau.jensen@bestinclass.dk""}",227.0,9
+Clojure,LauJensen,2011-01-17,2,1,"#{""hhochleitner@gmail.com""}",229.0,9
+Clojure,LauJensen,2011-01-20,1,1,"#{""lau.jensen@bestinclass.dk""}",230.0,9
+Clojure,LauJensen,2011-01-21,3,1,"#{""lau.jensen@bestinclass.dk""}",233.0,9
+Clojure,LauJensen,2011-01-24,1,1,"#{""powertothepenguins@gmail.com""}",234.0,10
+Clojure,LauJensen,2011-01-25,2,1,"#{""powertothepenguins@gmail.com""}",236.0,10
+Clojure,LauJensen,2011-01-26,1,1,"#{""alan@malloys.org""}",237.0,11
+Clojure,LauJensen,2011-01-27,1,1,"#{""lau.jensen@bestinclass.dk""}",238.0,11
+Clojure,LauJensen,2011-01-28,1,1,"#{""dandukeson@gmail.com""}",239.0,11
+Clojure,LauJensen,2011-02-10,1,1,"#{""powertothepenguins@gmail.com""}",240.0,11
+Clojure,LauJensen,2011-02-24,1,1,"#{""lau.jensen@bestinclass.dk""}",241.0,11
+Clojure,LauJensen,2011-02-27,1,1,"#{""lau.jensen@bestinclass.dk""}",242.0,11
+Clojure,LauJensen,2011-03-01,1,1,"#{""git@justinbalthrop.com""}",243.0,11
+Clojure,LauJensen,2011-03-03,1,1,"#{""ed.bowler@gmail.com""}",244.0,12
+Clojure,LauJensen,2011-03-16,1,1,"#{""powertothepenguins@gmail.com""}",245.0,12
+Clojure,LauJensen,2011-03-22,1,1,"#{""lau.jensen@bestinclass.dk""}",246.0,12
+Clojure,LauJensen,2011-03-24,3,2,"#{""roman@burningswell.com"" ""lau.jensen@bestinclass.dk""}",249.0,12
+Clojure,LauJensen,2011-03-27,1,1,"#{""roman@burningswell.com""}",250.0,12
+Clojure,LauJensen,2011-03-30,3,1,"#{""sgalkin@grantaire.com.ar""}",253.0,13
+Clojure,LauJensen,2011-06-10,1,1,"#{""sgalkin@grantaire.com.ar""}",254.0,13
+Clojure,LauJensen,2011-06-29,1,1,"#{""ckatgithub@gmail.com""}",255.0,13
+Clojure,LauJensen,2011-07-12,1,1,"#{""sgalkin@grantaire.com.ar""}",256.0,13
+Clojure,LauJensen,2011-07-20,1,1,"#{""sgalkin@grantaire.com.ar""}",257.0,13
+Clojure,LauJensen,2011-07-21,1,1,"#{""hhochleitner@gmail.com""}",258.0,13
+Clojure,LauJensen,2011-07-28,1,1,"#{""hhochleitner@gmail.com""}",259.0,13
+Clojure,LauJensen,2011-07-29,4,1,"#{""hhochleitner@gmail.com""}",263.0,13
+Clojure,LauJensen,2011-08-07,1,1,"#{""kevin@keminglabs.com""}",264.0,14
+Clojure,LauJensen,2011-08-16,1,1,"#{""hhochleitner@gmail.com""}",265.0,14
+Clojure,LauJensen,2011-08-24,1,1,"#{""kevin@keminglabs.com""}",266.0,14
+Clojure,LauJensen,2011-08-25,1,1,"#{""hhochleitner@gmail.com""}",267.0,14
+Clojure,LauJensen,2011-09-01,2,1,"#{""andreas.wurzer@gmail.com""}",269.0,15
+Clojure,LauJensen,2011-09-02,3,1,"#{""hhochleitner@gmail.com""}",272.0,15
+Clojure,LauJensen,2011-09-24,1,1,"#{""mccraigmccraig@gmail.com""}",273.0,16
+Clojure,LauJensen,2011-09-27,1,1,"#{""hhochleitner@gmail.com""}",274.0,16
+Clojure,LauJensen,2011-09-28,1,1,"#{""mccraigmccraig@gmail.com""}",275.0,16
+Clojure,LauJensen,2011-09-29,1,1,"#{""mccraigmccraig@gmail.com""}",276.0,16
+Clojure,LauJensen,2011-09-30,1,1,"#{""mccraigmccraig@gmail.com""}",277.0,16
+Clojure,LauJensen,2011-10-05,3,1,"#{""hhochleitner@gmail.com""}",280.0,16
+Clojure,LauJensen,2011-12-06,1,1,"#{""hhochleitner@gmail.com""}",281.0,16
+Clojure,LauJensen,2011-12-20,1,1,"#{""hhochleitner@gmail.com""}",282.0,16
+Clojure,LauJensen,2012-01-14,1,1,"#{""lau.jensen@bestinclass.dk""}",283.0,16
+Clojure,LauJensen,2012-09-07,2,1,"#{""hhochleitner@gmail.com""}",285.0,16
+Clojure,LauJensen,2013-01-03,3,1,"#{""basavanagowda@gmail.com""}",288.0,17
+Clojure,LauJensen,2013-01-09,1,1,"#{""hhochleitner@gmail.com""}",289.0,17
+Clojure,LauJensen,2013-02-28,3,2,"#{""sduckett@gmail.com"" ""lau.jensen@bestinclass.dk""}",292.0,18
+Clojure,LauJensen,2013-07-08,1,1,"#{""thom@delver.io""}",293.0,19
+Clojure,LauJensen,2013-07-09,5,1,"#{""rm_hull@yahoo.co.uk""}",298.0,20
+Clojure,LauJensen,2013-07-12,1,1,"#{""lau.jensen@bestinclass.dk""}",299.0,20
+Clojure,LauJensen,2018-02-11,4,1,"#{""lau.jensen@bestinclass.dk""}",303.0,20
+Clojure,LauJensen,2018-02-12,2,1,"#{""lau.jensen@bestinclass.dk""}",305.0,20

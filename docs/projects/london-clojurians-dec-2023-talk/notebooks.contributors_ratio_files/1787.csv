@@ -1,0 +1,163 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clj-commons/humanize,2014-01-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[trhura@gmail.com, trhura@gmail.com]",2.0,[{1 2}],0,0,2,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2014-01-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[trhura@gmail.com, trhura@gmail.com, trhura@gmail.com, trhura@gmail.com]",6.0,[{1 6}],0,0,6,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2014-01-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[trhura@gmail.com, trhura@gmail.com, trhura@gmail.com, trhura@gmail.com]",10.0,[{1 10}],0,0,10,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2014-01-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[trhura@gmail.com, trhura@gmail.com, trhura@gmail.com]",13.0,[{1 13}],0,0,13,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2014-01-26,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[trhura@gmail.com, trhura@gmail.com, trhura@gmail.com, trhura@gmail.com, trhura@gmail.com, trhura@gmail.com]",19.0,[{1 19}],0,0,19,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2014-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",20.0,[{1 20}],0,0,20,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2014-02-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[trhura@gmail.com, trhura@gmail.com]",22.0,[{1 22}],0,0,22,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2014-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",23.0,[{1 23}],0,0,23,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",24.0,[{1 24}],0,0,24,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-01-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",25.0,[{1 25}],0,0,25,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[john@element84.com]",26.0,"[{1 25, ""other"" 1}]",1,0,25,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-03-03,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[john@element84.com, trhura@gmail.com]",28.0,"[{1 26, ""other"" 2}]",2,0,26,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",29.0,"[{1 27, ""other"" 2}]",2,0,27,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-05-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[martinb@criticue.com, martinb@criticue.com]",31.0,"[{1 27, ""other"" 4}]",4,0,27,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",32.0,"[{1 28, ""other"" 4}]",4,0,28,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2015-12-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[trhura@gmail.com, trhura@gmail.com, trhura@gmail.com]",35.0,"[{1 31, ""other"" 4}]",4,0,31,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2016-05-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kongeor@gmail.com, kongeor@gmail.com]",37.0,"[{1 31, ""other"" 4, 0 2}]",4,2,31,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2016-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kongeor@gmail.com]",38.0,"[{1 31, ""other"" 4, 0 3}]",4,3,31,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2016-05-21,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com]",43.0,"[{1 31, ""other"" 4, 0 8}]",4,8,31,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2016-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",44.0,"[{1 32, ""other"" 4, 0 8}]",4,8,32,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2016-06-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kongeor@gmail.com]",45.0,"[{1 32, ""other"" 4, 0 9}]",4,9,32,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2016-06-22,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[kongeor@gmail.com, trhura@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com]",50.0,"[{1 33, ""other"" 4, 0 13}]",4,13,33,0,0,0
+Clojure,https://github.com/clj-commons/humanize,2016-06-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",54.0,"[{1 33, ""other"" 4, 0 13, 3 4}]",4,13,33,0,4,0
+Clojure,https://github.com/clj-commons/humanize,2016-06-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",56.0,"[{1 33, ""other"" 4, 0 13, 3 6}]",4,13,33,0,6,0
+Clojure,https://github.com/clj-commons/humanize,2016-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",57.0,"[{1 33, ""other"" 4, 0 13, 3 7}]",4,13,33,0,7,0
+Clojure,https://github.com/clj-commons/humanize,2016-06-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[kongeor@gmail.com, hlship@walmartlabs.com]",59.0,"[{1 33, ""other"" 4, 0 14, 3 8}]",4,14,33,0,8,0
+Clojure,https://github.com/clj-commons/humanize,2016-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",60.0,"[{1 33, ""other"" 4, 0 14, 3 9}]",4,14,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2016-07-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kongeor@gmail.com]",61.0,"[{1 33, ""other"" 4, 0 15, 3 9}]",4,15,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2016-10-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kongeor@gmail.com, kongeor@gmail.com]",63.0,"[{1 33, ""other"" 4, 0 17, 3 9}]",4,17,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2016-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[athos0220@gmail.com]",64.0,"[{1 33, ""other"" 5, 0 17, 3 9}]",5,17,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2016-10-15,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com]",74.0,"[{1 33, ""other"" 5, 0 27, 3 9}]",5,27,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2017-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@jall.me]",75.0,"[{1 33, ""other"" 6, 0 27, 3 9}]",6,27,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2017-08-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[code@jall.me]",76.0,"[{1 33, ""other"" 7, 0 27, 3 9}]",7,27,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2021-10-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[abhinav.omprakash10@gmail.com, abhinav.omprakash10@gmail.com]",78.0,"[{1 33, ""other"" 9, 0 27, 3 9}]",9,27,33,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2021-10-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",79.0,"[{1 34, ""other"" 9, 0 27, 3 9}]",9,27,34,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2022-07-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[malex@calclab.com, malex@calclab.com, malex@calclab.com]",82.0,"[{1 34, ""other"" 12, 0 27, 3 9}]",12,27,34,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2022-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[malex@calclab.com]",83.0,"[{1 34, ""other"" 13, 0 27, 3 9}]",13,27,34,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2022-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[trhura@gmail.com]",84.0,"[{1 35, ""other"" 13, 0 27, 3 9}]",13,27,35,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2022-08-25,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com, kongeor@gmail.com]",90.0,"[{1 35, ""other"" 13, 0 33, 3 9}]",13,33,35,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2022-10-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kongeor@gmail.com]",91.0,"[{1 35, ""other"" 13, 0 34, 3 9}]",13,34,35,0,9,0
+Clojure,https://github.com/clj-commons/humanize,2023-02-25,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[hlship@gmail.com, hlship@gmail.com, hlship@gmail.com, hlship@walmartlabs.com]",95.0,"[{1 35, ""other"" 13, 0 34, 3 10, 2 3}]",13,34,35,3,10,0
+Clojure,https://github.com/clj-commons/humanize,2023-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[malex@calclab.com]",96.0,"[{1 35, ""other"" 14, 0 34, 3 10, 2 3}]",14,34,35,3,10,0
+Clojure,https://github.com/clj-commons/humanize,2023-03-22,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[hlship@gmail.com, hlship@gmail.com, hlship@gmail.com, hlship@gmail.com, hlship@gmail.com, hlship@gmail.com, hlship@gmail.com]",103.0,"[{1 35, ""other"" 14, 0 34, 3 10, 2 10}]",14,34,35,10,10,0
+Clojure,https://github.com/clj-commons/humanize,2023-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[howard.lewisship@nubank.com.br]",104.0,"[{1 35, ""other"" 14, 0 34, 3 10, 2 10, 4 1}]",14,34,35,10,10,1
+Clojure,https://github.com/clj-commons/humanize,2023-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stathis@pixelated-noise.com]",105.0,"[{1 35, ""other"" 15, 0 34, 3 10, 2 10, 4 1}]",15,34,35,10,10,1
+Clojure,https://github.com/clj-commons/humanize,2023-05-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[howard.lewisship@nubank.com.br, howard.lewisship@nubank.com.br]",107.0,"[{1 35, ""other"" 15, 0 34, 3 10, 2 10, 4 3}]",15,34,35,10,10,3
+Clojure,https://github.com/clj-commons/humanize,2023-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",108.0,"[{1 35, ""other"" 15, 0 34, 3 10, 2 11, 4 3}]",15,34,35,11,10,3
+Clojure,https://github.com/clj-commons/humanize,2023-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chris@oakmac.com]",109.0,"[{1 35, ""other"" 16, 0 34, 3 10, 2 11, 4 3}]",16,34,35,11,10,3
+Clojure,https://github.com/clj-commons/humanize,2023-07-06,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[hlship@gmail.com, hlship@gmail.com, howard.lewisship@nubank.com.br, hlship@gmail.com, hlship@gmail.com, howard.lewisship@nubank.com.br]",115.0,"[{1 35, ""other"" 16, 0 34, 3 10, 2 15, 4 5}]",16,34,35,15,10,5
+Clojure,https://github.com/clj-commons/humanize,2023-07-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@gmail.com, hlship@gmail.com, hlship@gmail.com]",118.0,"[{1 35, ""other"" 16, 0 34, 3 10, 2 18, 4 5}]",16,34,35,18,10,5
+Clojure,https://github.com/clj-commons/humanize,2023-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",119.0,"[{1 35, ""other"" 17, 0 34, 3 10, 2 18, 4 5}]",17,34,35,18,10,5
+Clojure,https://github.com/clj-commons/humanize,2023-10-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[desk@danielcompton.net]",120.0,"[{1 35, ""other"" 18, 0 34, 3 10, 2 18, 4 5}]",18,34,35,18,10,5
+Clojure,https://github.com/clj-commons/humanize,2023-10-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[howard.lewisship@nubank.com.br]",121.0,"[{1 35, ""other"" 18, 0 34, 3 10, 2 18, 4 6}]",18,34,35,18,10,6
+Clojure,https://github.com/clj-commons/humanize,2023-10-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[howard.lewisship@nubank.com.br, kongeor@gmail.com, kongeor@gmail.com]",124.0,"[{1 35, ""other"" 18, 0 36, 3 10, 2 18, 4 7}]",18,36,35,18,10,7

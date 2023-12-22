@@ -1,0 +1,110 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,pyrtlsdr,2012-04-21,1,1,"#{""Roger@Roger-C2Q.(none)""}",1.0,1
+Python,pyrtlsdr,2012-04-22,2,1,"#{""Roger@Roger-C2Q.(none)""}",3.0,1
+Python,pyrtlsdr,2012-04-23,7,1,"#{""rogerbrent@gmail.com""}",10.0,2
+Python,pyrtlsdr,2012-04-25,3,1,"#{""rogerbrent@gmail.com""}",13.0,2
+Python,pyrtlsdr,2012-04-26,1,1,"#{""Roger@Roger-C2Q.(none)""}",14.0,2
+Python,pyrtlsdr,2012-05-05,3,1,"#{""Roger@Roger-C2Q.(none)""}",17.0,2
+Python,pyrtlsdr,2012-05-20,5,2,"#{""Roger@Roger-C2Q.(none)"" ""rogerbrent@gmail.com""}",22.0,2
+Python,pyrtlsdr,2012-05-21,2,2,"#{""none@none.com"" ""xieyanbo@gmail.com""}",24.0,4
+Python,pyrtlsdr,2012-05-29,1,1,"#{""roger.dammit@gmail.com""}",25.0,5
+Python,pyrtlsdr,2012-08-21,2,1,"#{""roger.dammit@gmail.com""}",27.0,5
+Python,pyrtlsdr,2012-09-02,2,1,"#{""github@superkuh.com""}",29.0,6
+Python,pyrtlsdr,2013-02-04,1,1,"#{""roger.dammit@gmail.com""}",30.0,6
+Python,pyrtlsdr,2013-04-23,1,1,"#{""roger.dammit@gmail.com""}",31.0,6
+Python,pyrtlsdr,2013-04-25,1,1,"#{""roger.dammit@gmail.com""}",32.0,6
+Python,pyrtlsdr,2013-10-10,1,1,"#{""al@eartoearoak.com""}",33.0,7
+Python,pyrtlsdr,2013-10-11,1,1,"#{""al@eartoearoak.com""}",34.0,7
+Python,pyrtlsdr,2013-10-23,1,1,"#{""rogerbrent@gmail.com""}",35.0,7
+Python,pyrtlsdr,2013-12-06,1,1,"#{""al@eartoearoak.com""}",36.0,7
+Python,pyrtlsdr,2013-12-12,1,1,"#{""rogerbrent@gmail.com""}",37.0,7
+Python,pyrtlsdr,2014-01-22,2,2,"#{""al@eartoearoak.com"" ""rogerbrent@gmail.com""}",39.0,7
+Python,pyrtlsdr,2014-01-30,2,2,"#{""pbutler@killertux.org"" ""rogerbrent@gmail.com""}",41.0,8
+Python,pyrtlsdr,2014-02-07,2,1,"#{""dillonaumiller@gmail.com""}",43.0,9
+Python,pyrtlsdr,2014-02-09,6,3,"#{""al@eartoearoak.com"" ""rogerbrent@gmail.com"" ""rogerdammit@gmail.com""}",49.0,10
+Python,pyrtlsdr,2014-06-11,3,1,"#{""roger-@users.noreply.github.com""}",52.0,11
+Python,pyrtlsdr,2014-06-27,1,1,"#{""roger-@users.noreply.github.com""}",53.0,11
+Python,pyrtlsdr,2014-10-13,1,1,"#{""roger-@users.noreply.github.com""}",54.0,11
+Python,pyrtlsdr,2015-07-29,1,1,"#{""matt@nomadic-recording.com""}",55.0,12
+Python,pyrtlsdr,2015-07-31,1,1,"#{""matt@nomadic-recording.com""}",56.0,12
+Python,pyrtlsdr,2015-08-15,8,1,"#{""matt@nomadic-recording.com""}",64.0,12
+Python,pyrtlsdr,2015-08-16,10,1,"#{""matt@nomadic-recording.com""}",74.0,12
+Python,pyrtlsdr,2015-08-17,4,1,"#{""matt@nomadic-recording.com""}",78.0,12
+Python,pyrtlsdr,2015-08-18,3,2,"#{""matt@nomadic-recording.com"" ""roger-@users.noreply.github.com""}",81.0,12
+Python,pyrtlsdr,2015-08-19,1,1,"#{""matt@nomadic-recording.com""}",82.0,12
+Python,pyrtlsdr,2015-08-20,7,1,"#{""matt@nomadic-recording.com""}",89.0,12
+Python,pyrtlsdr,2015-08-22,2,1,"#{""matt@nomadic-recording.com""}",91.0,12
+Python,pyrtlsdr,2015-08-29,2,1,"#{""matt@nomadic-recording.com""}",93.0,12
+Python,pyrtlsdr,2015-08-30,2,1,"#{""matt@nomadic-recording.com""}",95.0,12
+Python,pyrtlsdr,2015-08-31,8,1,"#{""matt@nomadic-recording.com""}",103.0,12
+Python,pyrtlsdr,2015-09-02,2,1,"#{""roger-@users.noreply.github.com""}",105.0,12
+Python,pyrtlsdr,2015-10-01,2,1,"#{""roger-@users.noreply.github.com""}",107.0,12
+Python,pyrtlsdr,2015-10-02,3,1,"#{""roger-@users.noreply.github.com""}",110.0,12
+Python,pyrtlsdr,2015-10-03,3,2,"#{""matt@nomadic-recording.com"" ""roger-@users.noreply.github.com""}",113.0,12
+Python,pyrtlsdr,2016-02-11,11,1,"#{""matt@nomadic-recording.com""}",124.0,12
+Python,pyrtlsdr,2016-02-12,3,2,"#{""matt@nomadic-recording.com"" ""roger-@users.noreply.github.com""}",127.0,12
+Python,pyrtlsdr,2016-02-13,3,1,"#{""matt@nomadic-recording.com""}",130.0,12
+Python,pyrtlsdr,2016-02-15,18,1,"#{""matt@nomadic-recording.com""}",148.0,12
+Python,pyrtlsdr,2016-02-16,17,1,"#{""matt@nomadic-recording.com""}",165.0,12
+Python,pyrtlsdr,2016-02-18,3,1,"#{""matt@nomadic-recording.com""}",168.0,12
+Python,pyrtlsdr,2016-02-25,1,1,"#{""matt@nomadic-recording.com""}",169.0,12
+Python,pyrtlsdr,2016-02-26,7,1,"#{""matt@nomadic-recording.com""}",176.0,12
+Python,pyrtlsdr,2016-03-01,1,1,"#{""matt@nomadic-recording.com""}",177.0,12
+Python,pyrtlsdr,2016-03-02,4,1,"#{""matt@nomadic-recording.com""}",181.0,12
+Python,pyrtlsdr,2016-03-03,5,1,"#{""matt@nomadic-recording.com""}",186.0,12
+Python,pyrtlsdr,2016-03-14,4,1,"#{""matt@nomadic-recording.com""}",190.0,12
+Python,pyrtlsdr,2016-03-18,4,1,"#{""matt@nomadic-recording.com""}",194.0,12
+Python,pyrtlsdr,2016-03-23,2,1,"#{""matt@nomadic-recording.com""}",196.0,12
+Python,pyrtlsdr,2016-04-09,1,1,"#{""matt@nomadic-recording.com""}",197.0,12
+Python,pyrtlsdr,2016-04-11,2,1,"#{""matt@nomadic-recording.com""}",199.0,12
+Python,pyrtlsdr,2016-04-28,1,1,"#{""matt@nomadic-recording.com""}",200.0,12
+Python,pyrtlsdr,2016-04-30,3,1,"#{""matt@nomadic-recording.com""}",203.0,12
+Python,pyrtlsdr,2016-07-24,7,1,"#{""matt@nomadic-recording.com""}",210.0,12
+Python,pyrtlsdr,2016-07-25,6,1,"#{""matt@nomadic-recording.com""}",216.0,12
+Python,pyrtlsdr,2016-07-26,4,1,"#{""matt@nomadic-recording.com""}",220.0,12
+Python,pyrtlsdr,2016-07-27,1,1,"#{""matt@nomadic-recording.com""}",221.0,12
+Python,pyrtlsdr,2016-08-05,5,1,"#{""matt@nomadic-recording.com""}",226.0,12
+Python,pyrtlsdr,2016-08-18,3,1,"#{""matt@nomadic-recording.com""}",229.0,12
+Python,pyrtlsdr,2016-09-22,2,1,"#{""matt@nomadic-recording.com""}",231.0,12
+Python,pyrtlsdr,2016-09-23,10,1,"#{""matt@nomadic-recording.com""}",241.0,12
+Python,pyrtlsdr,2016-09-26,2,1,"#{""matt@nomadic-recording.com""}",243.0,12
+Python,pyrtlsdr,2016-11-09,3,1,"#{""matt@nomadic-recording.com""}",246.0,12
+Python,pyrtlsdr,2016-11-10,4,1,"#{""matt@nomadic-recording.com""}",250.0,12
+Python,pyrtlsdr,2016-11-11,1,1,"#{""matt@nomadic-recording.com""}",251.0,12
+Python,pyrtlsdr,2017-01-05,2,2,"#{""Atheros1@users.noreply.github.com"" ""matt@nomadic-recording.com""}",253.0,13
+Python,pyrtlsdr,2017-07-06,6,1,"#{""matt@nomadic-recording.com""}",259.0,13
+Python,pyrtlsdr,2017-07-07,6,1,"#{""matt@nomadic-recording.com""}",265.0,13
+Python,pyrtlsdr,2017-09-27,4,1,"#{""matt@nomadic-recording.com""}",269.0,13
+Python,pyrtlsdr,2017-09-30,7,1,"#{""matt@nomadic-recording.com""}",276.0,13
+Python,pyrtlsdr,2017-10-05,17,1,"#{""matt@nomadic-recording.com""}",293.0,13
+Python,pyrtlsdr,2018-01-06,2,1,"#{""itdaniher@gmail.com""}",295.0,14
+Python,pyrtlsdr,2018-01-19,1,1,"#{""matt@nomadic-recording.com""}",296.0,14
+Python,pyrtlsdr,2018-02-19,1,1,"#{""robert.schuetz@stud.uni-heidelberg.de""}",297.0,15
+Python,pyrtlsdr,2018-03-13,2,1,"#{""matt@nomadic-recording.com""}",299.0,15
+Python,pyrtlsdr,2018-05-03,7,1,"#{""matt@nomadic-recording.com""}",306.0,15
+Python,pyrtlsdr,2018-05-04,6,1,"#{""matt@nomadic-recording.com""}",312.0,15
+Python,pyrtlsdr,2018-06-08,4,1,"#{""matt@nomadic-recording.com""}",316.0,15
+Python,pyrtlsdr,2018-07-06,2,2,"#{""matt@nomadic-recording.com"" ""wernerkrippendorf@gmail.com""}",318.0,16
+Python,pyrtlsdr,2018-08-17,4,1,"#{""matt@nomadic-recording.com""}",322.0,16
+Python,pyrtlsdr,2018-12-15,9,2,"#{""matt@nomadic-recording.com"" ""itdaniher@gmail.com""}",331.0,16
+Python,pyrtlsdr,2019-12-27,16,2,"#{""matt@nomadic-recording.com"" ""jack9283@live.com""}",347.0,17
+Python,pyrtlsdr,2020-01-09,1,1,"#{""matt@nomadic-recording.com""}",348.0,17
+Python,pyrtlsdr,2020-03-05,4,1,"#{""matt@nomadic-recording.com""}",352.0,17
+Python,pyrtlsdr,2020-03-06,16,1,"#{""matt@nomadic-recording.com""}",368.0,17
+Python,pyrtlsdr,2021-02-15,1,1,"#{""1360812+xoolive@users.noreply.github.com""}",369.0,18
+Python,pyrtlsdr,2021-02-20,1,1,"#{""matt@nomadic-recording.com""}",370.0,18
+Python,pyrtlsdr,2021-08-04,2,1,"#{""bradylangdale@gmail.com""}",372.0,19
+Python,pyrtlsdr,2021-08-18,1,1,"#{""matt@nomadic-recording.com""}",373.0,19
+Python,pyrtlsdr,2021-09-04,2,2,"#{""tim.gates@iress.com"" ""matt@nomadic-recording.com""}",375.0,20
+Python,pyrtlsdr,2021-09-07,2,1,"#{""matt@nomadic-recording.com""}",377.0,20
+Python,pyrtlsdr,2022-01-25,2,2,"#{""iu5hkx@gmail.com"" ""matt@nomadic-recording.com""}",379.0,21
+Python,pyrtlsdr,2022-07-26,6,1,"#{""matt@nomadic-recording.com""}",385.0,21
+Python,pyrtlsdr,2022-08-01,9,1,"#{""matt@nomadic-recording.com""}",394.0,21
+Python,pyrtlsdr,2022-08-02,1,1,"#{""matt@nomadic-recording.com""}",395.0,21
+Python,pyrtlsdr,2023-05-07,1,1,"#{""matt@nomadic-recording.com""}",396.0,21
+Python,pyrtlsdr,2023-05-08,6,1,"#{""matt@nomadic-recording.com""}",402.0,21
+Python,pyrtlsdr,2023-06-24,3,1,"#{""matt@nomadic-recording.com""}",405.0,21
+Python,pyrtlsdr,2023-07-27,1,1,"#{""matt@nomadic-recording.com""}",406.0,21
+Python,pyrtlsdr,2023-07-30,11,1,"#{""matt@nomadic-recording.com""}",417.0,21
+Python,pyrtlsdr,2023-08-01,10,1,"#{""matt@nomadic-recording.com""}",427.0,21
+Python,pyrtlsdr,2023-08-02,3,1,"#{""matt@nomadic-recording.com""}",430.0,21

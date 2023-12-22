@@ -1,0 +1,40 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/walmartlabs/datascope,2016-05-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",3.0,[{0 3}],0,3,0,0,0,0
+Clojure,https://github.com/walmartlabs/datascope,2016-05-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/walmartlabs/datascope,2016-05-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",5.0,[{0 5}],0,5,0,0,0,0
+Clojure,https://github.com/walmartlabs/datascope,2016-06-03,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/walmartlabs/datascope,2016-06-17,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com, hlship@walmartlabs.com]",21.0,[{0 21}],0,21,0,0,0,0
+Clojure,https://github.com/walmartlabs/datascope,2016-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@gmail.com]",22.0,"[{0 21, 3 1}]",0,21,0,0,1,0
+Clojure,https://github.com/walmartlabs/datascope,2016-07-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",24.0,"[{0 23, 3 1}]",0,23,0,0,1,0
+Clojure,https://github.com/walmartlabs/datascope,2016-09-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",26.0,"[{0 25, 3 1}]",0,25,0,0,1,0
+Clojure,https://github.com/walmartlabs/datascope,2018-04-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ernst.roux@ilovezoona.com]",27.0,"[{0 25, 3 1, 2 1}]",0,25,0,1,1,0
+Clojure,https://github.com/walmartlabs/datascope,2018-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hlship@walmartlabs.com]",28.0,"[{0 26, 3 1, 2 1}]",0,26,0,1,1,0
+Clojure,https://github.com/walmartlabs/datascope,2020-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ivar.refsdal@nsd.no]",29.0,"[{0 26, 3 1, 2 1, 1 1}]",0,26,1,1,1,0
+Clojure,https://github.com/walmartlabs/datascope,2020-03-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ivar.refsdal@nsd.no]",30.0,"[{0 26, 3 1, 2 1, 1 2}]",0,26,2,1,1,0
+Clojure,https://github.com/walmartlabs/datascope,2020-04-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hlship@walmartlabs.com, hlship@walmartlabs.com]",32.0,"[{0 28, 3 1, 2 1, 1 2}]",0,28,2,1,1,0

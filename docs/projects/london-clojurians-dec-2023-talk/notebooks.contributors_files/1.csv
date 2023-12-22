@@ -1,0 +1,329 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,originrose,2014-02-07,1,1,"#{""rosejn@gmail.com""}",1.0,1
+Clojure,originrose,2014-02-10,5,1,"#{""rosejn@gmail.com""}",6.0,1
+Clojure,originrose,2014-02-26,2,1,"#{""rosejn@gmail.com""}",8.0,1
+Clojure,originrose,2014-05-30,1,1,"#{""rosejn@gmail.com""}",9.0,1
+Clojure,originrose,2015-01-23,1,1,"#{""rosejn@gmail.com""}",10.0,1
+Clojure,originrose,2015-01-24,1,1,"#{""rosejn@gmail.com""}",11.0,1
+Clojure,originrose,2015-10-07,1,1,"#{""jeff@thinktopic.com""}",12.0,2
+Clojure,originrose,2015-10-12,2,1,"#{""jeff@thinktopic.com""}",14.0,2
+Clojure,originrose,2015-10-13,1,1,"#{""rosejn@gmail.com""}",15.0,2
+Clojure,originrose,2015-10-19,2,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",17.0,2
+Clojure,originrose,2015-10-20,1,1,"#{""jeff@thinktopic.com""}",18.0,2
+Clojure,originrose,2015-10-21,3,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",21.0,2
+Clojure,originrose,2015-10-22,1,1,"#{""rosejn@gmail.com""}",22.0,2
+Clojure,originrose,2015-10-23,1,1,"#{""jeff@thinktopic.com""}",23.0,2
+Clojure,originrose,2015-10-26,2,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",25.0,2
+Clojure,originrose,2015-10-27,2,1,"#{""jeff@thinktopic.com""}",27.0,2
+Clojure,originrose,2015-10-28,1,1,"#{""jeff@thinktopic.com""}",28.0,2
+Clojure,originrose,2015-10-30,3,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",31.0,2
+Clojure,originrose,2015-11-01,1,1,"#{""rosejn@gmail.com""}",32.0,2
+Clojure,originrose,2015-11-02,3,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",35.0,2
+Clojure,originrose,2015-11-03,1,1,"#{""jeff@thinktopic.com""}",36.0,2
+Clojure,originrose,2015-11-04,3,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",39.0,2
+Clojure,originrose,2015-11-05,2,1,"#{""jeff@thinktopic.com""}",41.0,2
+Clojure,originrose,2015-11-06,1,1,"#{""jeff@thinktopic.com""}",42.0,2
+Clojure,originrose,2015-11-10,2,2,"#{""rosejn@gmail.com"" ""jeff@thinktopic.com""}",44.0,2
+Clojure,originrose,2015-11-12,4,1,"#{""mike.r.anderson.13@gmail.com""}",48.0,3
+Clojure,originrose,2015-11-13,1,1,"#{""mike.r.anderson.13@gmail.com""}",49.0,3
+Clojure,originrose,2015-11-30,2,1,"#{""wuilloud@gmail.com""}",51.0,4
+Clojure,originrose,2015-12-04,2,1,"#{""mike.r.anderson.13@gmail.com""}",53.0,4
+Clojure,originrose,2015-12-05,2,1,"#{""mike.r.anderson.13@gmail.com""}",55.0,4
+Clojure,originrose,2015-12-06,37,1,"#{""mike.r.anderson.13@gmail.com""}",92.0,4
+Clojure,originrose,2015-12-13,12,1,"#{""mike.r.anderson.13@gmail.com""}",104.0,4
+Clojure,originrose,2015-12-14,6,1,"#{""mike.r.anderson.13@gmail.com""}",110.0,4
+Clojure,originrose,2015-12-15,2,1,"#{""mike.r.anderson.13@gmail.com""}",112.0,4
+Clojure,originrose,2015-12-18,1,1,"#{""mike@mikera.net""}",113.0,5
+Clojure,originrose,2015-12-20,7,2,"#{""charles@thinktopic.com"" ""mike@mikera.net""}",120.0,6
+Clojure,originrose,2015-12-28,1,1,"#{""charles@thinktopic.com""}",121.0,6
+Clojure,originrose,2016-01-03,1,1,"#{""mike@mikera.net""}",122.0,6
+Clojure,originrose,2016-01-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",123.0,6
+Clojure,originrose,2016-01-11,7,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",130.0,7
+Clojure,originrose,2016-01-12,6,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",136.0,7
+Clojure,originrose,2016-01-13,4,1,"#{""chris@thinktopic.com""}",140.0,7
+Clojure,originrose,2016-01-14,2,1,"#{""chris@thinktopic.com""}",142.0,7
+Clojure,originrose,2016-01-16,8,1,"#{""mike.r.anderson.13@gmail.com""}",150.0,7
+Clojure,originrose,2016-01-18,2,1,"#{""chris@thinktopic.com""}",152.0,7
+Clojure,originrose,2016-01-20,3,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",155.0,7
+Clojure,originrose,2016-01-21,3,1,"#{""chris@thinktopic.com""}",158.0,7
+Clojure,originrose,2016-01-22,7,2,"#{""chris@thinktopic.com"" ""charles@thinktopic.com""}",165.0,7
+Clojure,originrose,2016-01-23,16,1,"#{""mike.r.anderson.13@gmail.com""}",181.0,7
+Clojure,originrose,2016-01-24,1,1,"#{""charles@thinktopic.com""}",182.0,7
+Clojure,originrose,2016-01-25,5,2,"#{""chris@thinktopic.com"" ""charles@thinktopic.com""}",187.0,7
+Clojure,originrose,2016-01-26,9,3,"#{""chris@thinktopic.com"" ""charles@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",196.0,7
+Clojure,originrose,2016-01-27,13,3,"#{""chris@thinktopic.com"" ""charles@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",209.0,7
+Clojure,originrose,2016-01-28,6,3,"#{""chris@thinktopic.com"" ""charles@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",215.0,7
+Clojure,originrose,2016-01-29,3,2,"#{""charles@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",218.0,7
+Clojure,originrose,2016-02-01,7,2,"#{""charles@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",225.0,7
+Clojure,originrose,2016-02-02,15,2,"#{""chris@thinktopic.com"" ""charles@thinktopic.com""}",240.0,7
+Clojure,originrose,2016-02-05,11,2,"#{""chris@thinktopic.com"" ""charles@thinktopic.com""}",251.0,7
+Clojure,originrose,2016-02-07,1,1,"#{""charles@thinktopic.com""}",252.0,7
+Clojure,originrose,2016-02-08,5,3,"#{""chris@thinktopic.com"" ""charles@thinktopic.com"" ""jeff@thinktopic.com""}",257.0,7
+Clojure,originrose,2016-02-10,1,1,"#{""pooja.sophia@gmail.com""}",258.0,8
+Clojure,originrose,2016-02-11,5,1,"#{""chris@thinktopic.com""}",263.0,8
+Clojure,originrose,2016-02-12,3,2,"#{""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",266.0,8
+Clojure,originrose,2016-02-16,1,1,"#{""chris@thinktopic.com""}",267.0,8
+Clojure,originrose,2016-02-23,5,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",272.0,8
+Clojure,originrose,2016-02-24,3,2,"#{""chris@thinktopic.com"" ""harold@thinktopic.com""}",275.0,9
+Clojure,originrose,2016-02-25,1,1,"#{""chris@thinktopic.com""}",276.0,9
+Clojure,originrose,2016-02-26,2,2,"#{""chris@thinktopic.com"" ""harold@thinktopic.com""}",278.0,9
+Clojure,originrose,2016-02-29,2,1,"#{""chris@thinktopic.com""}",280.0,9
+Clojure,originrose,2016-03-07,1,1,"#{""mike.r.anderson.13@gmail.com""}",281.0,9
+Clojure,originrose,2016-03-08,2,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",283.0,9
+Clojure,originrose,2016-03-09,2,1,"#{""mike.r.anderson.13@gmail.com""}",285.0,9
+Clojure,originrose,2016-03-10,4,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",289.0,9
+Clojure,originrose,2016-03-11,4,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",293.0,9
+Clojure,originrose,2016-03-12,1,1,"#{""chris@thinktopic.com""}",294.0,9
+Clojure,originrose,2016-03-13,4,1,"#{""chris@thinktopic.com""}",298.0,9
+Clojure,originrose,2016-03-14,1,1,"#{""chris@thinktopic.com""}",299.0,9
+Clojure,originrose,2016-03-16,6,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",305.0,9
+Clojure,originrose,2016-03-17,4,2,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com""}",309.0,9
+Clojure,originrose,2016-03-19,1,1,"#{""chris@thinktopic.com""}",310.0,9
+Clojure,originrose,2016-03-21,2,1,"#{""chris@thinktopic.com""}",312.0,9
+Clojure,originrose,2016-03-22,8,2,"#{""rosejn@gmail.com"" ""mike.r.anderson.13@gmail.com""}",320.0,9
+Clojure,originrose,2016-03-28,8,3,"#{""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com"" ""pooja.sophia@gmail.com""}",328.0,9
+Clojure,originrose,2016-03-29,2,1,"#{""mike.r.anderson.13@gmail.com""}",330.0,9
+Clojure,originrose,2016-03-30,8,1,"#{""mike.r.anderson.13@gmail.com""}",338.0,9
+Clojure,originrose,2016-04-01,3,1,"#{""mike.r.anderson.13@gmail.com""}",341.0,9
+Clojure,originrose,2016-04-03,2,1,"#{""mike.r.anderson.13@gmail.com""}",343.0,9
+Clojure,originrose,2016-04-04,1,1,"#{""harold@thinktopic.com""}",344.0,9
+Clojure,originrose,2016-04-05,8,4,"#{""radon.neon@gmail.com"" ""chris@thinktopic.com"" ""mike.r.anderson.13@gmail.com"" ""jeff@thinktopic.com""}",352.0,10
+Clojure,originrose,2016-04-06,5,3,"#{""radon.neon@gmail.com"" ""chris@thinktopic.com"" ""harold@thinktopic.com""}",357.0,10
+Clojure,originrose,2016-04-07,2,1,"#{""chris@thinktopic.com""}",359.0,10
+Clojure,originrose,2016-04-08,1,1,"#{""chris@thinktopic.com""}",360.0,10
+Clojure,originrose,2016-04-20,1,1,"#{""mike.r.anderson.13@gmail.com""}",361.0,10
+Clojure,originrose,2016-04-21,1,1,"#{""jeff@thinktopic.com""}",362.0,10
+Clojure,originrose,2016-04-22,1,1,"#{""jeff@thinktopic.com""}",363.0,10
+Clojure,originrose,2016-04-23,1,1,"#{""rosejn@gmail.com""}",364.0,10
+Clojure,originrose,2016-04-25,1,1,"#{""rosejn@gmail.com""}",365.0,10
+Clojure,originrose,2016-04-26,3,2,"#{""chris@thinktopic.com"" ""jeff@thinktopic.com""}",368.0,10
+Clojure,originrose,2016-04-28,1,1,"#{""mike.r.anderson.13@gmail.com""}",369.0,10
+Clojure,originrose,2016-05-11,2,1,"#{""jeff@thinktopic.com""}",371.0,10
+Clojure,originrose,2016-05-19,5,2,"#{""rosejn@gmail.com"" ""chris@thinktopic.com""}",376.0,10
+Clojure,originrose,2016-05-22,4,2,"#{""rosejn@gmail.com"" ""chris@thinktopic.com""}",380.0,10
+Clojure,originrose,2016-05-23,2,1,"#{""chris@thinktopic.com""}",382.0,10
+Clojure,originrose,2016-05-24,2,1,"#{""rosejn@gmail.com""}",384.0,10
+Clojure,originrose,2016-05-25,8,1,"#{""chris@thinktopic.com""}",392.0,10
+Clojure,originrose,2016-05-26,3,1,"#{""chris@thinktopic.com""}",395.0,10
+Clojure,originrose,2016-05-27,1,1,"#{""rosejn@gmail.com""}",396.0,10
+Clojure,originrose,2016-06-14,5,2,"#{""ben.kamphaus@gmail.com"" ""mike@mikera.net""}",401.0,11
+Clojure,originrose,2016-06-16,1,1,"#{""ben.kamphaus@gmail.com""}",402.0,11
+Clojure,originrose,2016-06-17,5,2,"#{""ben.kamphaus@gmail.com"" ""harold@thinktopic.com""}",407.0,11
+Clojure,originrose,2016-06-20,1,1,"#{""ben.kamphaus@gmail.com""}",408.0,11
+Clojure,originrose,2016-06-21,1,1,"#{""ben.kamphaus@gmail.com""}",409.0,11
+Clojure,originrose,2016-06-22,2,1,"#{""chris@thinktopic.com""}",411.0,11
+Clojure,originrose,2016-06-23,1,1,"#{""chris@thinktopic.com""}",412.0,11
+Clojure,originrose,2016-06-27,1,1,"#{""chris@thinktopic.com""}",413.0,11
+Clojure,originrose,2016-06-28,2,1,"#{""chris@thinktopic.com""}",415.0,11
+Clojure,originrose,2016-06-29,2,1,"#{""chris@thinktopic.com""}",417.0,11
+Clojure,originrose,2016-07-05,4,2,"#{""rosejn@gmail.com"" ""chris@thinktopic.com""}",421.0,11
+Clojure,originrose,2016-07-06,3,2,"#{""radon.neon@gmail.com"" ""rosejn@gmail.com""}",424.0,11
+Clojure,originrose,2016-07-07,5,2,"#{""radon.neon@gmail.com"" ""chris@thinktopic.com""}",429.0,11
+Clojure,originrose,2016-07-08,3,2,"#{""radon.neon@gmail.com"" ""chris@thinktopic.com""}",432.0,11
+Clojure,originrose,2016-07-11,4,2,"#{""radon.neon@gmail.com"" ""chris@thinktopic.com""}",436.0,11
+Clojure,originrose,2016-07-12,4,2,"#{""radon.neon@gmail.com"" ""chris@thinktopic.com""}",440.0,11
+Clojure,originrose,2016-07-13,9,1,"#{""radon.neon@gmail.com""}",449.0,11
+Clojure,originrose,2016-07-15,2,1,"#{""mike@mikera.net""}",451.0,11
+Clojure,originrose,2016-07-18,4,1,"#{""radon.neon@gmail.com""}",455.0,11
+Clojure,originrose,2016-07-19,6,1,"#{""radon.neon@gmail.com""}",461.0,11
+Clojure,originrose,2016-07-20,7,1,"#{""radon.neon@gmail.com""}",468.0,11
+Clojure,originrose,2016-07-21,5,1,"#{""radon.neon@gmail.com""}",473.0,11
+Clojure,originrose,2016-07-22,9,1,"#{""radon.neon@gmail.com""}",482.0,11
+Clojure,originrose,2016-07-25,2,1,"#{""radon.neon@gmail.com""}",484.0,11
+Clojure,originrose,2016-08-08,5,1,"#{""radon.neon@gmail.com""}",489.0,11
+Clojure,originrose,2016-08-09,4,1,"#{""radon.neon@gmail.com""}",493.0,11
+Clojure,originrose,2016-08-10,2,1,"#{""radon.neon@gmail.com""}",495.0,11
+Clojure,originrose,2016-08-11,6,2,"#{""radon.neon@gmail.com"" ""mike.r.anderson.13@gmail.com""}",501.0,11
+Clojure,originrose,2016-08-12,3,2,"#{""radon.neon@gmail.com"" ""mike.r.anderson.13@gmail.com""}",504.0,11
+Clojure,originrose,2016-08-22,4,1,"#{""mike.r.anderson.13@gmail.com""}",508.0,11
+Clojure,originrose,2016-08-25,2,1,"#{""mike.r.anderson.13@gmail.com""}",510.0,11
+Clojure,originrose,2016-08-30,1,1,"#{""mike.r.anderson.13@gmail.com""}",511.0,11
+Clojure,originrose,2016-09-01,13,1,"#{""mike.r.anderson.13@gmail.com""}",524.0,11
+Clojure,originrose,2016-09-02,2,1,"#{""mike.r.anderson.13@gmail.com""}",526.0,11
+Clojure,originrose,2016-09-12,2,1,"#{""mike.r.anderson.13@gmail.com""}",528.0,11
+Clojure,originrose,2016-09-13,2,1,"#{""mike.r.anderson.13@gmail.com""}",530.0,11
+Clojure,originrose,2016-09-27,5,1,"#{""chris@thinktopic.com""}",535.0,11
+Clojure,originrose,2016-09-28,8,1,"#{""chris@thinktopic.com""}",543.0,11
+Clojure,originrose,2016-10-04,1,1,"#{""pooja@thinktopic.com""}",544.0,12
+Clojure,originrose,2016-10-10,4,1,"#{""chris@thinktopic.com""}",548.0,12
+Clojure,originrose,2016-10-11,4,1,"#{""chris@thinktopic.com""}",552.0,12
+Clojure,originrose,2016-10-12,6,2,"#{""rosejn@gmail.com"" ""chris@thinktopic.com""}",558.0,12
+Clojure,originrose,2016-10-13,8,4,"#{""ben.kamphaus@gmail.com"" ""rosejn@gmail.com"" ""chris@thinktopic.com"" ""charles@thinktopic.com""}",566.0,12
+Clojure,originrose,2016-10-14,5,3,"#{""ben.kamphaus@gmail.com"" ""rafik.naccache@gmail.com"" ""kovas.boguta@gmail.com""}",571.0,14
+Clojure,originrose,2016-10-20,14,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",585.0,15
+Clojure,originrose,2016-10-24,1,1,"#{""chris@thinktopic.com""}",586.0,15
+Clojure,originrose,2016-10-25,1,1,"#{""chris@thinktopic.com""}",587.0,15
+Clojure,originrose,2016-10-26,1,1,"#{""ben.kamphaus@gmail.com""}",588.0,15
+Clojure,originrose,2016-10-28,1,1,"#{""chris@thinktopic.com""}",589.0,15
+Clojure,originrose,2016-10-31,2,1,"#{""chris@thinktopic.com""}",591.0,15
+Clojure,originrose,2016-11-01,1,1,"#{""hhausman@gmail.com""}",592.0,15
+Clojure,originrose,2016-11-02,1,1,"#{""chris@thinktopic.com""}",593.0,15
+Clojure,originrose,2016-11-04,5,3,"#{""ben.kamphaus@gmail.com"" ""chris@thinktopic.com"" ""charles@inboxapp.com""}",598.0,16
+Clojure,originrose,2016-11-05,2,2,"#{""ben.kamphaus@gmail.com"" ""charles@inboxapp.com""}",600.0,16
+Clojure,originrose,2016-11-06,2,2,"#{""chris@thinktopic.com"" ""charles@thinktopic.com""}",602.0,16
+Clojure,originrose,2016-11-07,6,1,"#{""chris@thinktopic.com""}",608.0,16
+Clojure,originrose,2016-11-08,11,1,"#{""chris@thinktopic.com""}",619.0,16
+Clojure,originrose,2016-11-09,3,1,"#{""chris@thinktopic.com""}",622.0,16
+Clojure,originrose,2016-11-10,1,1,"#{""charles@thinktopic.com""}",623.0,16
+Clojure,originrose,2016-11-11,2,2,"#{""chris@thinktopic.com"" ""charles@thinktopic.com""}",625.0,16
+Clojure,originrose,2016-11-14,1,1,"#{""chris@thinktopic.com""}",626.0,16
+Clojure,originrose,2016-11-15,4,1,"#{""ben.kamphaus@gmail.com""}",630.0,16
+Clojure,originrose,2016-11-16,7,3,"#{""chris@thinktopic.com"" ""hhausman@gmail.com"" ""john.c.madison@gmail.com""}",637.0,17
+Clojure,originrose,2016-11-17,10,3,"#{""ben.kamphaus@gmail.com"" ""chris@thinktopic.com"" ""hhausman@gmail.com""}",647.0,17
+Clojure,originrose,2016-11-18,13,1,"#{""ben.kamphaus@gmail.com""}",660.0,17
+Clojure,originrose,2016-11-19,1,1,"#{""hhausman@gmail.com""}",661.0,17
+Clojure,originrose,2016-11-20,2,2,"#{""ben.kamphaus@gmail.com"" ""chris@thinktopic.com""}",663.0,17
+Clojure,originrose,2016-11-22,2,1,"#{""mike.r.anderson.13@gmail.com""}",665.0,17
+Clojure,originrose,2016-11-26,1,1,"#{""chris@thinktopic.com""}",666.0,17
+Clojure,originrose,2016-11-28,2,1,"#{""mike.r.anderson.13@gmail.com""}",668.0,17
+Clojure,originrose,2016-11-30,6,1,"#{""chris@thinktopic.com""}",674.0,17
+Clojure,originrose,2016-12-01,4,1,"#{""chris@thinktopic.com""}",678.0,17
+Clojure,originrose,2016-12-04,1,1,"#{""chris@thinktopic.com""}",679.0,17
+Clojure,originrose,2016-12-05,1,1,"#{""chris@thinktopic.com""}",680.0,17
+Clojure,originrose,2016-12-06,1,1,"#{""chris@thinktopic.com""}",681.0,17
+Clojure,originrose,2016-12-09,2,2,"#{""chris@thinktopic.com"" ""cmeier@gigasquidsoftware.com""}",683.0,18
+Clojure,originrose,2016-12-11,1,1,"#{""chris@thinktopic.com""}",684.0,18
+Clojure,originrose,2016-12-12,1,1,"#{""chris@thinktopic.com""}",685.0,18
+Clojure,originrose,2016-12-14,1,1,"#{""chris@thinktopic.com""}",686.0,18
+Clojure,originrose,2016-12-29,4,1,"#{""jessica.appelbaum@thinktopic.com""}",690.0,19
+Clojure,originrose,2016-12-30,2,2,"#{""bburdette@users.noreply.github.com"" ""cmeier@gigasquidsoftware.com""}",692.0,20
+Clojure,originrose,2017-01-02,2,1,"#{""chris@thinktopic.com""}",694.0,20
+Clojure,originrose,2017-01-03,2,1,"#{""chris@thinktopic.com""}",696.0,20
+Clojure,originrose,2017-01-04,6,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",702.0,20
+Clojure,originrose,2017-01-05,3,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",705.0,20
+Clojure,originrose,2017-01-06,3,1,"#{""chris@thinktopic.com""}",708.0,20
+Clojure,originrose,2017-01-09,2,2,"#{""ben.kamphaus@gmail.com"" ""hhausman@gmail.com""}",710.0,20
+Clojure,originrose,2017-01-10,3,1,"#{""chris@thinktopic.com""}",713.0,20
+Clojure,originrose,2017-01-11,1,1,"#{""chris@thinktopic.com""}",714.0,20
+Clojure,originrose,2017-01-12,3,1,"#{""radon.neon@gmail.com""}",717.0,20
+Clojure,originrose,2017-01-13,9,2,"#{""radon.neon@gmail.com"" ""chris@thinktopic.com""}",726.0,20
+Clojure,originrose,2017-01-16,1,1,"#{""cmeier@gigasquidsoftware.com""}",727.0,20
+Clojure,originrose,2017-01-18,2,2,"#{""hhausman@gmail.com"" ""pooja.sophia@gmail.com""}",729.0,20
+Clojure,originrose,2017-01-22,3,3,"#{""chris@thinktopic.com"" ""cmeier@gigasquidsoftware.com"" ""kenbier@gmail.com""}",732.0,21
+Clojure,originrose,2017-01-23,1,1,"#{""sanat.gersappa@gmail.com""}",733.0,22
+Clojure,originrose,2017-01-24,1,1,"#{""shark8me@users.noreply.github.com""}",734.0,23
+Clojure,originrose,2017-01-26,2,1,"#{""chris@thinktopic.com""}",736.0,23
+Clojure,originrose,2017-01-27,4,2,"#{""jon@thinktopic.com"" ""pooja.sophia@gmail.com""}",740.0,24
+Clojure,originrose,2017-01-31,3,1,"#{""chris@thinktopic.com""}",743.0,24
+Clojure,originrose,2017-02-05,1,1,"#{""charles@thinktopic.com""}",744.0,24
+Clojure,originrose,2017-02-07,1,1,"#{""pooja.sophia@gmail.com""}",745.0,24
+Clojure,originrose,2017-02-08,10,3,"#{""chris@thinktopic.com"" ""charles@thinktopic.com"" ""hhausman@gmail.com""}",755.0,24
+Clojure,originrose,2017-02-09,3,1,"#{""chris@thinktopic.com""}",758.0,24
+Clojure,originrose,2017-02-19,2,2,"#{""ogeagla@gmail.com"" ""chris@thinktopic.com""}",760.0,25
+Clojure,originrose,2017-02-20,1,1,"#{""ogeagla@gmail.com""}",761.0,25
+Clojure,originrose,2017-02-22,1,1,"#{""chris@thinktopic.com""}",762.0,25
+Clojure,originrose,2017-02-23,1,1,"#{""chris@thinktopic.com""}",763.0,25
+Clojure,originrose,2017-02-25,2,2,"#{""rosejn@gmail.com"" ""chris@thinktopic.com""}",765.0,25
+Clojure,originrose,2017-02-28,1,1,"#{""chris@thinktopic.com""}",766.0,25
+Clojure,originrose,2017-03-03,2,2,"#{""shaaz.ahmed@hotmail.com"" ""hhausman@gmail.com""}",768.0,26
+Clojure,originrose,2017-03-05,3,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",771.0,26
+Clojure,originrose,2017-03-06,3,1,"#{""hhausman@gmail.com""}",774.0,26
+Clojure,originrose,2017-03-08,6,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",780.0,26
+Clojure,originrose,2017-03-09,1,1,"#{""rosejn@gmail.com""}",781.0,26
+Clojure,originrose,2017-03-11,2,1,"#{""chris@thinktopic.com""}",783.0,26
+Clojure,originrose,2017-03-13,2,1,"#{""charles@thinktopic.com""}",785.0,26
+Clojure,originrose,2017-03-15,8,2,"#{""rosejn@gmail.com"" ""chris@thinktopic.com""}",793.0,26
+Clojure,originrose,2017-03-16,1,1,"#{""chris@thinktopic.com""}",794.0,26
+Clojure,originrose,2017-03-19,1,1,"#{""rosejn@gmail.com""}",795.0,26
+Clojure,originrose,2017-03-22,2,1,"#{""chris@thinktopic.com""}",797.0,26
+Clojure,originrose,2017-03-23,1,1,"#{""rosejn@gmail.com""}",798.0,26
+Clojure,originrose,2017-03-31,1,1,"#{""hhausman@gmail.com""}",799.0,26
+Clojure,originrose,2017-04-03,1,1,"#{""hhausman@gmail.com""}",800.0,26
+Clojure,originrose,2017-04-04,1,1,"#{""hhausman@gmail.com""}",801.0,26
+Clojure,originrose,2017-04-06,7,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",808.0,26
+Clojure,originrose,2017-04-07,6,1,"#{""chris@thinktopic.com""}",814.0,26
+Clojure,originrose,2017-04-10,4,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",818.0,26
+Clojure,originrose,2017-04-11,2,1,"#{""chris@thinktopic.com""}",820.0,26
+Clojure,originrose,2017-04-13,1,1,"#{""chris@thinktopic.com""}",821.0,26
+Clojure,originrose,2017-04-14,2,2,"#{""charles@thinktopic.com"" ""hhausman@gmail.com""}",823.0,26
+Clojure,originrose,2017-04-17,1,1,"#{""hhausman@gmail.com""}",824.0,26
+Clojure,originrose,2017-04-18,9,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",833.0,26
+Clojure,originrose,2017-04-21,3,1,"#{""charles@thinktopic.com""}",836.0,26
+Clojure,originrose,2017-04-23,2,1,"#{""chris@thinktopic.com""}",838.0,26
+Clojure,originrose,2017-04-24,6,3,"#{""chris@thinktopic.com"" ""charles@thinktopic.com"" ""hhausman@gmail.com""}",844.0,26
+Clojure,originrose,2017-04-25,2,1,"#{""chris@thinktopic.com""}",846.0,26
+Clojure,originrose,2017-04-26,8,2,"#{""chris@thinktopic.com"" ""charles@thinktopic.com""}",854.0,26
+Clojure,originrose,2017-04-27,3,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",857.0,26
+Clojure,originrose,2017-04-28,5,2,"#{""chris@thinktopic.com"" ""hhausman@gmail.com""}",862.0,26
+Clojure,originrose,2017-05-02,1,1,"#{""calder@thinktopic.com""}",863.0,27
+Clojure,originrose,2017-05-03,4,1,"#{""chris@thinktopic.com""}",867.0,27
+Clojure,originrose,2017-05-04,5,1,"#{""chris@thinktopic.com""}",872.0,27
+Clojure,originrose,2017-05-17,1,1,"#{""calder@thinktopic.com""}",873.0,27
+Clojure,originrose,2017-05-19,1,1,"#{""calder@thinktopic.com""}",874.0,27
+Clojure,originrose,2017-05-30,2,1,"#{""hhausman@gmail.com""}",876.0,27
+Clojure,originrose,2017-05-31,1,1,"#{""charles@thinktopic.com""}",877.0,27
+Clojure,originrose,2017-06-01,2,1,"#{""charles@thinktopic.com""}",879.0,27
+Clojure,originrose,2017-06-05,2,2,"#{""calder@thinktopic.com"" ""shark8me@users.noreply.github.com""}",881.0,27
+Clojure,originrose,2017-06-07,1,1,"#{""hellonico@gmail.com""}",882.0,28
+Clojure,originrose,2017-06-08,3,1,"#{""chris@thinktopic.com""}",885.0,28
+Clojure,originrose,2017-06-12,1,1,"#{""chris@thinktopic.com""}",886.0,28
+Clojure,originrose,2017-06-13,1,1,"#{""shark8me@users.noreply.github.com""}",887.0,28
+Clojure,originrose,2017-06-14,1,1,"#{""charles@thinktopic.com""}",888.0,28
+Clojure,originrose,2017-06-16,1,1,"#{""hellonico@gmail.com""}",889.0,28
+Clojure,originrose,2017-06-26,5,1,"#{""chris@thinktopic.com""}",894.0,28
+Clojure,originrose,2017-06-27,3,1,"#{""chris@thinktopic.com""}",897.0,28
+Clojure,originrose,2017-06-28,1,1,"#{""joycexu128@gmail.com""}",898.0,29
+Clojure,originrose,2017-06-29,3,2,"#{""joycexu128@gmail.com"" ""hhausman@gmail.com""}",901.0,29
+Clojure,originrose,2017-06-30,1,1,"#{""joycexu128@gmail.com""}",902.0,29
+Clojure,originrose,2017-07-10,5,2,"#{""chris@thinktopic.com"" ""calder.daenzer@gmail.com""}",907.0,30
+Clojure,originrose,2017-07-11,1,1,"#{""chris@thinktopic.com""}",908.0,30
+Clojure,originrose,2017-07-13,2,2,"#{""joycexu128@gmail.com"" ""chris@thinktopic.com""}",910.0,30
+Clojure,originrose,2017-07-14,1,1,"#{""chris@thinktopic.com""}",911.0,30
+Clojure,originrose,2017-07-18,1,1,"#{""shark8me@users.noreply.github.com""}",912.0,30
+Clojure,originrose,2017-07-23,1,1,"#{""chris@thinktopic.com""}",913.0,30
+Clojure,originrose,2017-07-24,2,2,"#{""chris@thinktopic.com"" ""cmeier@gigasquidsoftware.com""}",915.0,30
+Clojure,originrose,2017-07-25,2,1,"#{""hhausman@gmail.com""}",917.0,30
+Clojure,originrose,2017-07-26,1,1,"#{""chris@thinktopic.com""}",918.0,30
+Clojure,originrose,2017-07-27,2,1,"#{""chris@thinktopic.com""}",920.0,30
+Clojure,originrose,2017-07-28,1,1,"#{""chris@thinktopic.com""}",921.0,30
+Clojure,originrose,2017-08-01,3,1,"#{""chris@thinktopic.com""}",924.0,30
+Clojure,originrose,2017-08-02,1,1,"#{""chris@thinktopic.com""}",925.0,30
+Clojure,originrose,2017-08-10,1,1,"#{""jon@thinktopic.com""}",926.0,30
+Clojure,originrose,2017-08-11,2,2,"#{""owengalenjones@gmail.com"" ""chris@thinktopic.com""}",928.0,31
+Clojure,originrose,2017-08-14,2,1,"#{""chris@thinktopic.com""}",930.0,31
+Clojure,originrose,2017-08-21,1,1,"#{""chris@thinktopic.com""}",931.0,31
+Clojure,originrose,2017-08-22,6,1,"#{""chris@thinktopic.com""}",937.0,31
+Clojure,originrose,2017-08-23,1,1,"#{""chris@thinktopic.com""}",938.0,31
+Clojure,originrose,2017-08-24,2,1,"#{""chris@thinktopic.com""}",940.0,31
+Clojure,originrose,2017-08-26,1,1,"#{""chris@thinktopic.com""}",941.0,31
+Clojure,originrose,2017-08-28,1,1,"#{""chris@thinktopic.com""}",942.0,31
+Clojure,originrose,2017-08-29,2,2,"#{""rosejn@gmail.com"" ""chris@thinktopic.com""}",944.0,31
+Clojure,originrose,2017-08-30,2,1,"#{""chris@thinktopic.com""}",946.0,31
+Clojure,originrose,2017-09-01,2,1,"#{""chris@thinktopic.com""}",948.0,31
+Clojure,originrose,2017-09-06,4,1,"#{""chris@thinktopic.com""}",952.0,31
+Clojure,originrose,2017-09-07,4,1,"#{""chris@thinktopic.com""}",956.0,31
+Clojure,originrose,2017-09-08,1,1,"#{""chris@thinktopic.com""}",957.0,31
+Clojure,originrose,2017-09-11,2,1,"#{""chris@thinktopic.com""}",959.0,31
+Clojure,originrose,2017-09-12,4,2,"#{""chris@thinktopic.com"" ""calder@thinktopic.com""}",963.0,31
+Clojure,originrose,2017-09-13,4,2,"#{""chris@thinktopic.com"" ""calder@thinktopic.com""}",967.0,31
+Clojure,originrose,2017-09-15,1,1,"#{""calder@thinktopic.com""}",968.0,31
+Clojure,originrose,2017-09-18,1,1,"#{""chris@thinktopic.com""}",969.0,31
+Clojure,originrose,2017-09-19,7,1,"#{""chris@thinktopic.com""}",976.0,31
+Clojure,originrose,2017-09-20,1,1,"#{""hhausman@gmail.com""}",977.0,31
+Clojure,originrose,2017-09-24,2,1,"#{""chris@thinktopic.com""}",979.0,31
+Clojure,originrose,2017-09-26,8,2,"#{""chris@thinktopic.com"" ""calder@thinktopic.com""}",987.0,31
+Clojure,originrose,2017-09-27,2,1,"#{""chris@thinktopic.com""}",989.0,31
+Clojure,originrose,2017-09-28,1,1,"#{""chris@thinktopic.com""}",990.0,31
+Clojure,originrose,2017-09-30,1,1,"#{""chris@thinktopic.com""}",991.0,31
+Clojure,originrose,2017-10-03,4,2,"#{""chris@thinktopic.com"" ""bburdette@users.noreply.github.com""}",995.0,31
+Clojure,originrose,2017-10-14,1,1,"#{""lanejo01@luther.edu""}",996.0,32
+Clojure,originrose,2017-10-16,1,1,"#{""hhausman@gmail.com""}",997.0,32
+Clojure,originrose,2017-10-20,11,1,"#{""chris@thinktopic.com""}",1008.0,32
+Clojure,originrose,2017-10-23,3,2,"#{""chris@thinktopic.com"" ""cmeier@gigasquidsoftware.com""}",1011.0,32
+Clojure,originrose,2017-10-24,3,2,"#{""chris@thinktopic.com"" ""cmeier@gigasquidsoftware.com""}",1014.0,32
+Clojure,originrose,2017-10-25,1,1,"#{""cmeier@gigasquidsoftware.com""}",1015.0,32
+Clojure,originrose,2017-10-26,1,1,"#{""cmeier@gigasquidsoftware.com""}",1016.0,32
+Clojure,originrose,2017-11-01,1,1,"#{""chris@thinktopic.com""}",1017.0,32
+Clojure,originrose,2017-11-02,1,1,"#{""chris@thinktopic.com""}",1018.0,32
+Clojure,originrose,2017-11-09,1,1,"#{""hhausman@gmail.com""}",1019.0,32
+Clojure,originrose,2017-11-10,1,1,"#{""cmeier@gigasquidsoftware.com""}",1020.0,32
+Clojure,originrose,2017-11-24,2,1,"#{""chris@thinktopic.com""}",1022.0,32
+Clojure,originrose,2017-11-26,4,1,"#{""chris@thinktopic.com""}",1026.0,32
+Clojure,originrose,2017-11-27,5,2,"#{""chris@thinktopic.com"" ""cmeier@gigasquidsoftware.com""}",1031.0,32
+Clojure,originrose,2017-11-28,1,1,"#{""chris@thinktopic.com""}",1032.0,32
+Clojure,originrose,2017-11-29,1,1,"#{""kiran.karkera@gmail.com""}",1033.0,33
+Clojure,originrose,2017-12-06,3,1,"#{""chris@thinktopic.com""}",1036.0,33
+Clojure,originrose,2017-12-21,2,2,"#{""supanat.ptk@gmail.com"" ""hhausman@gmail.com""}",1038.0,34
+Clojure,originrose,2017-12-28,5,1,"#{""chris@thinktopic.com""}",1043.0,34
+Clojure,originrose,2017-12-29,1,1,"#{""kiran.karkera@gmail.com""}",1044.0,34
+Clojure,originrose,2018-01-02,1,1,"#{""chris@thinktopic.com""}",1045.0,34

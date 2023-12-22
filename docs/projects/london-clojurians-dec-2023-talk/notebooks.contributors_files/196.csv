@@ -1,0 +1,114 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,reiddraper,2011-11-07,1,1,"#{""reiddraper@gmail.com""}",1.0,1
+Clojure,reiddraper,2011-11-10,4,1,"#{""reiddraper@gmail.com""}",5.0,1
+Clojure,reiddraper,2011-11-12,13,1,"#{""reiddraper@gmail.com""}",18.0,1
+Clojure,reiddraper,2011-11-13,3,1,"#{""reiddraper@gmail.com""}",21.0,1
+Clojure,reiddraper,2011-11-14,3,1,"#{""reiddraper@gmail.com""}",24.0,1
+Clojure,reiddraper,2011-11-22,2,1,"#{""reiddraper@gmail.com""}",26.0,1
+Clojure,reiddraper,2011-11-24,2,1,"#{""reiddraper@gmail.com""}",28.0,1
+Clojure,reiddraper,2011-11-25,1,1,"#{""reiddraper@gmail.com""}",29.0,1
+Clojure,reiddraper,2011-11-26,4,1,"#{""reiddraper@gmail.com""}",33.0,1
+Clojure,reiddraper,2011-11-27,3,1,"#{""reiddraper@gmail.com""}",36.0,1
+Clojure,reiddraper,2011-11-28,2,1,"#{""reiddraper@gmail.com""}",38.0,1
+Clojure,reiddraper,2011-11-29,4,1,"#{""reiddraper@gmail.com""}",42.0,1
+Clojure,reiddraper,2011-11-30,3,1,"#{""reiddraper@gmail.com""}",45.0,1
+Clojure,reiddraper,2011-12-01,3,1,"#{""reiddraper@gmail.com""}",48.0,1
+Clojure,reiddraper,2011-12-04,3,1,"#{""reiddraper@gmail.com""}",51.0,1
+Clojure,reiddraper,2011-12-10,2,1,"#{""reiddraper@gmail.com""}",53.0,1
+Clojure,reiddraper,2011-12-13,2,1,"#{""reiddraper@gmail.com""}",55.0,1
+Clojure,reiddraper,2011-12-23,1,1,"#{""reiddraper@gmail.com""}",56.0,1
+Clojure,reiddraper,2012-01-01,10,1,"#{""reiddraper@gmail.com""}",66.0,1
+Clojure,reiddraper,2012-01-02,7,1,"#{""reiddraper@gmail.com""}",73.0,1
+Clojure,reiddraper,2012-01-07,5,1,"#{""reiddraper@gmail.com""}",78.0,1
+Clojure,reiddraper,2012-01-08,3,2,"#{""alexander.baranosky@gmail.com"" ""reiddraper@gmail.com""}",81.0,2
+Clojure,reiddraper,2012-01-09,2,1,"#{""reiddraper@gmail.com""}",83.0,2
+Clojure,reiddraper,2012-01-11,1,1,"#{""reiddraper@gmail.com""}",84.0,2
+Clojure,reiddraper,2012-01-13,5,1,"#{""reiddraper@gmail.com""}",89.0,2
+Clojure,reiddraper,2012-01-14,2,1,"#{""reiddraper@gmail.com""}",91.0,2
+Clojure,reiddraper,2012-02-27,3,1,"#{""reiddraper@gmail.com""}",94.0,2
+Clojure,reiddraper,2012-03-05,2,1,"#{""reiddraper@gmail.com""}",96.0,2
+Clojure,reiddraper,2012-03-11,8,1,"#{""reiddraper@gmail.com""}",104.0,2
+Clojure,reiddraper,2013-05-09,1,1,"#{""reiddraper@gmail.com""}",105.0,2
+Clojure,reiddraper,2013-05-24,1,1,"#{""reiddraper@gmail.com""}",106.0,2
+Clojure,reiddraper,2013-05-28,8,1,"#{""reiddraper@gmail.com""}",114.0,2
+Clojure,reiddraper,2013-05-29,3,2,"#{""reiddraper@gmail.com"" ""chas@cemerick.com""}",117.0,3
+Clojure,reiddraper,2013-05-30,3,1,"#{""reiddraper@gmail.com""}",120.0,3
+Clojure,reiddraper,2013-05-31,5,2,"#{""reiddraper@gmail.com"" ""chas@cemerick.com""}",125.0,3
+Clojure,reiddraper,2013-06-04,1,1,"#{""reiddraper@gmail.com""}",126.0,3
+Clojure,reiddraper,2013-06-07,1,1,"#{""chas@cemerick.com""}",127.0,3
+Clojure,reiddraper,2013-06-12,5,1,"#{""reiddraper@gmail.com""}",132.0,3
+Clojure,reiddraper,2013-06-14,15,1,"#{""reiddraper@gmail.com""}",147.0,3
+Clojure,reiddraper,2013-06-15,3,1,"#{""reiddraper@gmail.com""}",150.0,3
+Clojure,reiddraper,2013-06-16,10,1,"#{""reiddraper@gmail.com""}",160.0,3
+Clojure,reiddraper,2013-06-17,2,1,"#{""reiddraper@gmail.com""}",162.0,3
+Clojure,reiddraper,2013-06-18,1,1,"#{""reiddraper@gmail.com""}",163.0,3
+Clojure,reiddraper,2013-06-19,1,1,"#{""reiddraper@gmail.com""}",164.0,3
+Clojure,reiddraper,2013-06-25,5,2,"#{""reiddraper@gmail.com"" ""chas@cemerick.com""}",169.0,3
+Clojure,reiddraper,2013-06-26,3,1,"#{""reiddraper@gmail.com""}",172.0,3
+Clojure,reiddraper,2013-06-30,1,1,"#{""reiddraper@gmail.com""}",173.0,3
+Clojure,reiddraper,2013-07-07,4,1,"#{""reiddraper@gmail.com""}",177.0,3
+Clojure,reiddraper,2013-07-08,2,1,"#{""reiddraper@gmail.com""}",179.0,3
+Clojure,reiddraper,2013-07-09,4,1,"#{""reiddraper@gmail.com""}",183.0,3
+Clojure,reiddraper,2013-07-11,2,1,"#{""reiddraper@gmail.com""}",185.0,3
+Clojure,reiddraper,2013-07-14,1,1,"#{""reiddraper@gmail.com""}",186.0,3
+Clojure,reiddraper,2013-07-16,2,1,"#{""reiddraper@gmail.com""}",188.0,3
+Clojure,reiddraper,2013-07-18,4,1,"#{""alexander.baranosky@gmail.com""}",192.0,3
+Clojure,reiddraper,2013-07-20,2,2,"#{""alexander.baranosky@gmail.com"" ""alexanderbaranosky@Hercules.local""}",194.0,4
+Clojure,reiddraper,2013-07-21,1,1,"#{""alexander.baranosky@gmail.com""}",195.0,4
+Clojure,reiddraper,2013-07-22,1,1,"#{""reiddraper@gmail.com""}",196.0,4
+Clojure,reiddraper,2013-07-31,6,1,"#{""reiddraper@gmail.com""}",202.0,4
+Clojure,reiddraper,2013-08-02,5,2,"#{""ztellman@gmail.com"" ""reiddraper@gmail.com""}",207.0,5
+Clojure,reiddraper,2013-08-03,1,1,"#{""ztellman@gmail.com""}",208.0,5
+Clojure,reiddraper,2013-08-04,1,1,"#{""reiddraper@gmail.com""}",209.0,5
+Clojure,reiddraper,2013-08-13,2,2,"#{""seliopou@gmail.com"" ""reiddraper@gmail.com""}",211.0,6
+Clojure,reiddraper,2013-08-15,1,1,"#{""lambdadmitry@gmail.com""}",212.0,7
+Clojure,reiddraper,2013-08-16,1,1,"#{""lambdadmitry@gmail.com""}",213.0,7
+Clojure,reiddraper,2013-08-18,2,1,"#{""reiddraper@gmail.com""}",215.0,7
+Clojure,reiddraper,2013-08-19,2,2,"#{""lambdadmitry@gmail.com"" ""reiddraper@gmail.com""}",217.0,7
+Clojure,reiddraper,2013-08-23,1,1,"#{""reiddraper@gmail.com""}",218.0,7
+Clojure,reiddraper,2013-08-24,1,1,"#{""reiddraper@gmail.com""}",219.0,7
+Clojure,reiddraper,2013-08-27,4,1,"#{""reiddraper@gmail.com""}",223.0,7
+Clojure,reiddraper,2013-08-28,1,1,"#{""reiddraper@gmail.com""}",224.0,7
+Clojure,reiddraper,2013-08-29,6,1,"#{""reiddraper@gmail.com""}",230.0,7
+Clojure,reiddraper,2013-08-31,1,1,"#{""reiddraper@gmail.com""}",231.0,7
+Clojure,reiddraper,2013-09-01,6,2,"#{""fredericksgary@gmail.com"" ""reiddraper@gmail.com""}",237.0,8
+Clojure,reiddraper,2013-09-02,1,1,"#{""reiddraper@gmail.com""}",238.0,8
+Clojure,reiddraper,2013-09-03,1,1,"#{""fredericksgary@gmail.com""}",239.0,8
+Clojure,reiddraper,2013-09-04,1,1,"#{""reiddraper@gmail.com""}",240.0,8
+Clojure,reiddraper,2013-09-13,3,1,"#{""reiddraper@gmail.com""}",243.0,8
+Clojure,reiddraper,2013-09-18,1,1,"#{""tcrayford@googlemail.com""}",244.0,9
+Clojure,reiddraper,2013-09-21,1,1,"#{""reiddraper@gmail.com""}",245.0,9
+Clojure,reiddraper,2013-09-25,5,1,"#{""reiddraper@gmail.com""}",250.0,9
+Clojure,reiddraper,2013-10-01,1,1,"#{""reiddraper@gmail.com""}",251.0,9
+Clojure,reiddraper,2013-10-09,4,1,"#{""reiddraper@gmail.com""}",255.0,9
+Clojure,reiddraper,2013-10-10,1,1,"#{""reiddraper@gmail.com""}",256.0,9
+Clojure,reiddraper,2013-10-11,4,2,"#{""reiddraper@gmail.com"" ""kingsbury@factual.com""}",260.0,10
+Clojure,reiddraper,2013-10-14,2,1,"#{""reiddraper@gmail.com""}",262.0,10
+Clojure,reiddraper,2013-10-15,6,1,"#{""reiddraper@gmail.com""}",268.0,10
+Clojure,reiddraper,2013-10-16,1,1,"#{""reiddraper@gmail.com""}",269.0,10
+Clojure,reiddraper,2013-10-19,2,1,"#{""reiddraper@gmail.com""}",271.0,10
+Clojure,reiddraper,2013-10-20,5,1,"#{""reiddraper@gmail.com""}",276.0,10
+Clojure,reiddraper,2013-10-22,5,1,"#{""reiddraper@gmail.com""}",281.0,10
+Clojure,reiddraper,2013-10-23,1,1,"#{""alexander.baranosky@gmail.com""}",282.0,10
+Clojure,reiddraper,2013-10-24,3,2,"#{""alan@dipert.org"" ""reiddraper@gmail.com""}",285.0,11
+Clojure,reiddraper,2013-10-27,1,1,"#{""reiddraper@gmail.com""}",286.0,11
+Clojure,reiddraper,2013-10-29,1,1,"#{""reiddraper@gmail.com""}",287.0,11
+Clojure,reiddraper,2013-10-30,3,1,"#{""reiddraper@gmail.com""}",290.0,11
+Clojure,reiddraper,2013-11-03,2,2,"#{""reiddraper@gmail.com"" ""ryan@ryanberdeen.com""}",292.0,12
+Clojure,reiddraper,2013-11-05,6,1,"#{""reiddraper@gmail.com""}",298.0,12
+Clojure,reiddraper,2013-11-07,1,1,"#{""reiddraper@gmail.com""}",299.0,12
+Clojure,reiddraper,2013-11-08,3,2,"#{""fredericksgary@gmail.com"" ""reiddraper@gmail.com""}",302.0,12
+Clojure,reiddraper,2013-11-10,1,1,"#{""reiddraper@gmail.com""}",303.0,12
+Clojure,reiddraper,2013-11-12,1,1,"#{""reiddraper@gmail.com""}",304.0,12
+Clojure,reiddraper,2013-11-13,1,1,"#{""reiddraper@gmail.com""}",305.0,12
+Clojure,reiddraper,2013-11-14,2,2,"#{""fredericksgary@gmail.com"" ""reiddraper@gmail.com""}",307.0,12
+Clojure,reiddraper,2013-11-20,1,1,"#{""chas@cemerick.com""}",308.0,12
+Clojure,reiddraper,2014-01-07,2,1,"#{""reiddraper@gmail.com""}",310.0,12
+Clojure,reiddraper,2014-01-09,2,1,"#{""reiddraper@gmail.com""}",312.0,12
+Clojure,reiddraper,2014-01-12,1,1,"#{""reiddraper@gmail.com""}",313.0,12
+Clojure,reiddraper,2014-01-13,1,1,"#{""reiddraper@gmail.com""}",314.0,12
+Clojure,reiddraper,2014-01-16,3,2,"#{""reiddraper@gmail.com"" ""chas@cemerick.com""}",317.0,12
+Clojure,reiddraper,2014-01-23,3,1,"#{""reiddraper@gmail.com""}",320.0,12
+Clojure,reiddraper,2014-01-24,2,1,"#{""reiddraper@gmail.com""}",322.0,12
+Clojure,reiddraper,2014-01-26,4,2,"#{""reiddraper@gmail.com"" ""chas@cemerick.com""}",326.0,12
+Clojure,reiddraper,2014-02-28,1,1,"#{""reiddraper@gmail.com""}",327.0,12

@@ -1,0 +1,2264 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,jython,1997-12-05,6,1,"#{""jim@hugunin.net""}",6.0,1
+Python,jython,1997-12-09,3,2,"#{""guido@python.org"" ""jim@hugunin.net""}",9.0,2
+Python,jython,1997-12-10,7,2,"#{""guido@python.org"" ""jim@hugunin.net""}",16.0,2
+Python,jython,1997-12-11,1,1,"#{""guido@python.org""}",17.0,2
+Python,jython,1997-12-16,1,1,"#{""guido@python.org""}",18.0,2
+Python,jython,1997-12-18,1,1,"#{""guido@python.org""}",19.0,2
+Python,jython,1997-12-31,1,1,"#{""jim@hugunin.net""}",20.0,2
+Python,jython,1998-01-23,1,1,"#{""jim@hugunin.net""}",21.0,2
+Python,jython,1998-01-24,5,1,"#{""jim@hugunin.net""}",26.0,2
+Python,jython,1998-01-26,1,1,"#{""jim@hugunin.net""}",27.0,2
+Python,jython,1998-01-30,1,1,"#{""jim@hugunin.net""}",28.0,2
+Python,jython,1998-02-02,1,1,"#{""jim@hugunin.net""}",29.0,2
+Python,jython,1998-02-16,1,1,"#{""jim@hugunin.net""}",30.0,2
+Python,jython,1998-02-23,1,1,"#{""jim@hugunin.net""}",31.0,2
+Python,jython,1998-02-26,1,1,"#{""jim@hugunin.net""}",32.0,2
+Python,jython,1998-03-16,1,1,"#{""jim@hugunin.net""}",33.0,2
+Python,jython,1998-04-06,1,1,"#{""guido@python.org""}",34.0,2
+Python,jython,1998-04-08,2,1,"#{""jim@hugunin.net""}",36.0,2
+Python,jython,1998-04-24,1,1,"#{""jim@hugunin.net""}",37.0,2
+Python,jython,1998-04-25,1,1,"#{""jim@hugunin.net""}",38.0,2
+Python,jython,1998-05-08,1,1,"#{""jim@hugunin.net""}",39.0,2
+Python,jython,1998-05-09,3,1,"#{""jim@hugunin.net""}",42.0,2
+Python,jython,1998-05-14,6,1,"#{""jim@hugunin.net""}",48.0,2
+Python,jython,1998-05-15,5,1,"#{""jim@hugunin.net""}",53.0,2
+Python,jython,1998-05-18,2,1,"#{""jim@hugunin.net""}",55.0,2
+Python,jython,1998-05-22,1,1,"#{""jim@hugunin.net""}",56.0,2
+Python,jython,1998-06-02,2,1,"#{""jim@hugunin.net""}",58.0,2
+Python,jython,1998-06-29,12,1,"#{""jim@hugunin.net""}",70.0,2
+Python,jython,1998-07-13,3,1,"#{""jim@hugunin.net""}",73.0,2
+Python,jython,1998-08-14,23,1,"#{""jim@hugunin.net""}",96.0,2
+Python,jython,1998-08-18,1,1,"#{""jim@hugunin.net""}",97.0,2
+Python,jython,1998-08-20,3,1,"#{""jim@hugunin.net""}",100.0,2
+Python,jython,1998-08-27,2,1,"#{""jim@hugunin.net""}",102.0,2
+Python,jython,1998-08-31,2,1,"#{""jim@hugunin.net""}",104.0,2
+Python,jython,1998-09-08,1,1,"#{""jim@hugunin.net""}",105.0,2
+Python,jython,1998-09-10,3,1,"#{""jim@hugunin.net""}",108.0,2
+Python,jython,1998-09-14,1,1,"#{""jim@hugunin.net""}",109.0,2
+Python,jython,1998-09-25,1,1,"#{""jim@hugunin.net""}",110.0,2
+Python,jython,1998-10-02,8,1,"#{""jim@hugunin.net""}",118.0,2
+Python,jython,1998-10-06,5,1,"#{""jim@hugunin.net""}",123.0,2
+Python,jython,1998-10-07,2,1,"#{""jim@hugunin.net""}",125.0,2
+Python,jython,1998-10-12,3,1,"#{""jim@hugunin.net""}",128.0,2
+Python,jython,1998-10-16,2,1,"#{""jim@hugunin.net""}",130.0,2
+Python,jython,1998-10-19,2,1,"#{""jim@hugunin.net""}",132.0,2
+Python,jython,1998-10-30,9,1,"#{""jim@hugunin.net""}",141.0,2
+Python,jython,1998-11-01,1,1,"#{""jim@hugunin.net""}",142.0,2
+Python,jython,1998-12-03,12,1,"#{""jim@hugunin.net""}",154.0,2
+Python,jython,1998-12-08,4,1,"#{""jim@hugunin.net""}",158.0,2
+Python,jython,1998-12-09,1,1,"#{""jim@hugunin.net""}",159.0,2
+Python,jython,1998-12-14,1,1,"#{""jim@hugunin.net""}",160.0,2
+Python,jython,1998-12-15,12,1,"#{""jim@hugunin.net""}",172.0,2
+Python,jython,1998-12-17,8,1,"#{""jim@hugunin.net""}",180.0,2
+Python,jython,1998-12-18,4,1,"#{""jim@hugunin.net""}",184.0,2
+Python,jython,1998-12-21,2,1,"#{""jim@hugunin.net""}",186.0,2
+Python,jython,1998-12-23,5,1,"#{""jim@hugunin.net""}",191.0,2
+Python,jython,1998-12-29,2,1,"#{""jim@hugunin.net""}",193.0,2
+Python,jython,1998-12-30,1,1,"#{""jim@hugunin.net""}",194.0,2
+Python,jython,1999-01-03,1,1,"#{""jim@hugunin.net""}",195.0,2
+Python,jython,1999-01-04,5,1,"#{""jim@hugunin.net""}",200.0,2
+Python,jython,1999-01-07,3,1,"#{""jim@hugunin.net""}",203.0,2
+Python,jython,1999-01-08,12,1,"#{""jim@hugunin.net""}",215.0,2
+Python,jython,1999-01-11,4,1,"#{""jim@hugunin.net""}",219.0,2
+Python,jython,1999-01-12,2,1,"#{""jim@hugunin.net""}",221.0,2
+Python,jython,1999-01-18,15,1,"#{""jim@hugunin.net""}",236.0,2
+Python,jython,1999-01-19,5,1,"#{""jim@hugunin.net""}",241.0,2
+Python,jython,1999-01-29,14,1,"#{""jim@hugunin.net""}",255.0,2
+Python,jython,1999-02-04,2,1,"#{""jim@hugunin.net""}",257.0,2
+Python,jython,1999-02-08,3,1,"#{""jim@hugunin.net""}",260.0,2
+Python,jython,1999-02-09,3,1,"#{""jim@hugunin.net""}",263.0,2
+Python,jython,1999-02-10,9,1,"#{""jim@hugunin.net""}",272.0,2
+Python,jython,1999-02-15,5,1,"#{""jim@hugunin.net""}",277.0,2
+Python,jython,1999-02-17,4,1,"#{""jim@hugunin.net""}",281.0,2
+Python,jython,1999-02-19,3,1,"#{""jim@hugunin.net""}",284.0,2
+Python,jython,1999-02-22,7,1,"#{""jim@hugunin.net""}",291.0,2
+Python,jython,1999-02-23,4,1,"#{""jim@hugunin.net""}",295.0,2
+Python,jython,1999-02-24,8,1,"#{""jim@hugunin.net""}",303.0,2
+Python,jython,1999-03-01,6,1,"#{""barry@python.org""}",309.0,3
+Python,jython,1999-03-02,2,1,"#{""barry@python.org""}",311.0,3
+Python,jython,1999-03-03,6,1,"#{""barry@python.org""}",317.0,3
+Python,jython,1999-03-04,4,1,"#{""barry@python.org""}",321.0,3
+Python,jython,1999-03-11,5,1,"#{""barry@python.org""}",326.0,3
+Python,jython,1999-03-12,7,1,"#{""barry@python.org""}",333.0,3
+Python,jython,1999-03-16,14,1,"#{""barry@python.org""}",347.0,3
+Python,jython,1999-04-01,12,1,"#{""barry@python.org""}",359.0,3
+Python,jython,1999-04-13,44,1,"#{""barry@python.org""}",403.0,3
+Python,jython,1999-04-14,62,1,"#{""barry@python.org""}",465.0,3
+Python,jython,1999-04-16,4,1,"#{""barry@python.org""}",469.0,3
+Python,jython,1999-04-22,6,1,"#{""barry@python.org""}",475.0,3
+Python,jython,1999-04-26,1,1,"#{""barry@python.org""}",476.0,3
+Python,jython,1999-04-30,4,1,"#{""barry@python.org""}",480.0,3
+Python,jython,1999-05-05,8,1,"#{""barry@python.org""}",488.0,3
+Python,jython,1999-05-06,1,1,"#{""barry@python.org""}",489.0,3
+Python,jython,1999-05-10,3,1,"#{""barry@python.org""}",492.0,3
+Python,jython,1999-05-11,2,1,"#{""barry@python.org""}",494.0,3
+Python,jython,1999-05-12,7,1,"#{""barry@python.org""}",501.0,3
+Python,jython,1999-05-13,13,1,"#{""barry@python.org""}",514.0,3
+Python,jython,1999-05-14,8,1,"#{""barry@python.org""}",522.0,3
+Python,jython,1999-05-17,8,1,"#{""barry@python.org""}",530.0,3
+Python,jython,1999-05-18,6,1,"#{""barry@python.org""}",536.0,3
+Python,jython,1999-05-19,37,2,"#{""barry@python.org"" ""tools@python.org""}",573.0,4
+Python,jython,1999-05-20,3,1,"#{""barry@python.org""}",576.0,4
+Python,jython,1999-05-21,13,1,"#{""barry@python.org""}",589.0,4
+Python,jython,1999-05-25,6,1,"#{""barry@python.org""}",595.0,4
+Python,jython,1999-05-27,8,1,"#{""barry@python.org""}",603.0,4
+Python,jython,1999-06-01,8,1,"#{""barry@python.org""}",611.0,4
+Python,jython,1999-06-03,7,1,"#{""barry@python.org""}",618.0,4
+Python,jython,1999-06-04,12,2,"#{""barry@python.org"" ""tools@python.org""}",630.0,4
+Python,jython,1999-06-08,12,1,"#{""barry@python.org""}",642.0,4
+Python,jython,1999-06-09,16,1,"#{""barry@python.org""}",658.0,4
+Python,jython,1999-06-11,6,1,"#{""barry@python.org""}",664.0,4
+Python,jython,1999-06-15,2,1,"#{""barry@python.org""}",666.0,4
+Python,jython,1999-06-16,11,1,"#{""barry@python.org""}",677.0,4
+Python,jython,1999-06-17,31,2,"#{""barry@python.org"" ""tools@python.org""}",708.0,4
+Python,jython,1999-06-28,1,1,"#{""barry@python.org""}",709.0,4
+Python,jython,1999-07-09,4,1,"#{""barry@python.org""}",713.0,4
+Python,jython,1999-08-06,2,1,"#{""barry@python.org""}",715.0,4
+Python,jython,1999-08-16,2,1,"#{""barry@python.org""}",717.0,4
+Python,jython,1999-09-03,1,1,"#{""barry@python.org""}",718.0,4
+Python,jython,1999-09-07,4,1,"#{""barry@python.org""}",722.0,4
+Python,jython,1999-09-08,7,1,"#{""barry@python.org""}",729.0,4
+Python,jython,1999-09-09,5,1,"#{""barry@python.org""}",734.0,4
+Python,jython,1999-09-10,3,1,"#{""barry@python.org""}",737.0,4
+Python,jython,1999-09-16,17,1,"#{""barry@python.org""}",754.0,4
+Python,jython,1999-09-17,16,1,"#{""barry@python.org""}",770.0,4
+Python,jython,1999-09-21,20,1,"#{""barry@python.org""}",790.0,4
+Python,jython,1999-09-22,17,2,"#{""barry@python.org"" ""tools@python.org""}",807.0,4
+Python,jython,1999-09-30,2,1,"#{""barry@python.org""}",809.0,4
+Python,jython,1999-10-04,8,1,"#{""barry@python.org""}",817.0,4
+Python,jython,1999-10-05,3,1,"#{""barry@python.org""}",820.0,4
+Python,jython,1999-10-07,2,1,"#{""barry@python.org""}",822.0,4
+Python,jython,1999-10-11,3,1,"#{""barry@python.org""}",825.0,4
+Python,jython,1999-10-13,7,1,"#{""barry@python.org""}",832.0,4
+Python,jython,1999-10-14,8,1,"#{""barry@python.org""}",840.0,4
+Python,jython,1999-10-18,7,1,"#{""barry@python.org""}",847.0,4
+Python,jython,1999-10-20,3,1,"#{""barry@python.org""}",850.0,4
+Python,jython,1999-10-21,1,1,"#{""barry@python.org""}",851.0,4
+Python,jython,1999-10-25,2,1,"#{""barry@python.org""}",853.0,4
+Python,jython,1999-10-26,10,1,"#{""barry@python.org""}",863.0,4
+Python,jython,1999-10-27,12,1,"#{""barry@python.org""}",875.0,4
+Python,jython,1999-10-28,8,2,"#{""barry@python.org"" ""tools@python.org""}",883.0,4
+Python,jython,1999-11-10,2,1,"#{""barry@python.org""}",885.0,4
+Python,jython,1999-11-18,2,1,"#{""barry@python.org""}",887.0,4
+Python,jython,1999-12-02,1,1,"#{""barry@python.org""}",888.0,4
+Python,jython,1999-12-17,2,1,"#{""barry@python.org""}",890.0,4
+Python,jython,2000-01-07,7,1,"#{""barry@python.org""}",897.0,4
+Python,jython,2000-01-10,2,1,"#{""barry@python.org""}",899.0,4
+Python,jython,2000-01-11,8,1,"#{""barry@python.org""}",907.0,4
+Python,jython,2000-01-12,2,1,"#{""barry@python.org""}",909.0,4
+Python,jython,2000-01-17,7,1,"#{""barry@python.org""}",916.0,4
+Python,jython,2000-01-18,5,1,"#{""barry@python.org""}",921.0,4
+Python,jython,2000-01-19,6,1,"#{""barry@python.org""}",927.0,4
+Python,jython,2000-01-21,1,1,"#{""barry@python.org""}",928.0,4
+Python,jython,2000-01-22,10,2,"#{""barry@python.org"" ""tools@python.org""}",938.0,4
+Python,jython,2000-01-26,3,1,"#{""barry@python.org""}",941.0,4
+Python,jython,2000-02-11,1,1,"#{""barry@python.org""}",942.0,4
+Python,jython,2000-09-27,9,1,"#{""bckfnn@worldonline.dk""}",951.0,5
+Python,jython,2000-09-28,30,2,"#{""bckfnn@worldonline.dk"" ""barry@python.org""}",981.0,5
+Python,jython,2000-09-29,20,2,"#{""bckfnn@worldonline.dk"" ""barry@python.org""}",1001.0,5
+Python,jython,2000-09-30,33,1,"#{""bckfnn@worldonline.dk""}",1034.0,5
+Python,jython,2000-10-01,27,2,"#{""bckfnn@worldonline.dk"" ""barry@python.org""}",1061.0,5
+Python,jython,2000-10-02,8,2,"#{""bckfnn@worldonline.dk"" ""barry@python.org""}",1069.0,5
+Python,jython,2000-10-04,3,1,"#{""bckfnn@worldonline.dk""}",1072.0,5
+Python,jython,2000-10-06,1,1,"#{""bckfnn@worldonline.dk""}",1073.0,5
+Python,jython,2000-10-07,1,1,"#{""bckfnn@worldonline.dk""}",1074.0,5
+Python,jython,2000-10-08,5,1,"#{""bckfnn@worldonline.dk""}",1079.0,5
+Python,jython,2000-10-09,1,1,"#{""bckfnn@worldonline.dk""}",1080.0,5
+Python,jython,2000-10-10,6,1,"#{""bckfnn@worldonline.dk""}",1086.0,5
+Python,jython,2000-10-11,7,1,"#{""bckfnn@worldonline.dk""}",1093.0,5
+Python,jython,2000-10-12,1,1,"#{""bckfnn@worldonline.dk""}",1094.0,5
+Python,jython,2000-10-13,38,1,"#{""barry@python.org""}",1132.0,5
+Python,jython,2000-10-16,11,1,"#{""barry@python.org""}",1143.0,5
+Python,jython,2000-10-17,3,1,"#{""bckfnn@worldonline.dk""}",1146.0,5
+Python,jython,2000-10-18,3,1,"#{""bckfnn@worldonline.dk""}",1149.0,5
+Python,jython,2000-10-19,1,1,"#{""bckfnn@worldonline.dk""}",1150.0,5
+Python,jython,2000-10-20,4,1,"#{""bckfnn@worldonline.dk""}",1154.0,5
+Python,jython,2000-10-23,1,1,"#{""bckfnn@worldonline.dk""}",1155.0,5
+Python,jython,2000-10-26,1,1,"#{""bckfnn@worldonline.dk""}",1156.0,5
+Python,jython,2000-10-28,10,1,"#{""bckfnn@worldonline.dk""}",1166.0,5
+Python,jython,2000-10-29,2,1,"#{""bckfnn@worldonline.dk""}",1168.0,5
+Python,jython,2000-11-07,1,1,"#{""bckfnn@worldonline.dk""}",1169.0,5
+Python,jython,2000-11-08,1,1,"#{""bckfnn@worldonline.dk""}",1170.0,5
+Python,jython,2000-11-10,5,1,"#{""bckfnn@worldonline.dk""}",1175.0,5
+Python,jython,2000-11-12,4,1,"#{""bckfnn@worldonline.dk""}",1179.0,5
+Python,jython,2000-11-16,2,1,"#{""bckfnn@worldonline.dk""}",1181.0,5
+Python,jython,2000-11-17,15,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1196.0,6
+Python,jython,2000-11-19,1,1,"#{""pedronis@openend.se""}",1197.0,6
+Python,jython,2000-11-20,1,1,"#{""bckfnn@worldonline.dk""}",1198.0,6
+Python,jython,2000-11-24,9,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1207.0,6
+Python,jython,2000-11-25,3,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1210.0,6
+Python,jython,2000-11-26,4,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1214.0,6
+Python,jython,2000-11-27,1,1,"#{""bckfnn@worldonline.dk""}",1215.0,6
+Python,jython,2000-11-29,5,1,"#{""bckfnn@worldonline.dk""}",1220.0,6
+Python,jython,2000-11-30,4,1,"#{""bckfnn@worldonline.dk""}",1224.0,6
+Python,jython,2000-12-01,2,1,"#{""bckfnn@worldonline.dk""}",1226.0,6
+Python,jython,2000-12-04,15,1,"#{""bckfnn@worldonline.dk""}",1241.0,6
+Python,jython,2000-12-05,8,1,"#{""bckfnn@worldonline.dk""}",1249.0,6
+Python,jython,2000-12-06,9,1,"#{""bckfnn@worldonline.dk""}",1258.0,6
+Python,jython,2000-12-11,7,1,"#{""bckfnn@worldonline.dk""}",1265.0,6
+Python,jython,2000-12-12,5,1,"#{""bckfnn@worldonline.dk""}",1270.0,6
+Python,jython,2000-12-15,8,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1278.0,6
+Python,jython,2000-12-16,2,1,"#{""pedronis@openend.se""}",1280.0,6
+Python,jython,2000-12-17,12,3,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se"" ""tools@python.org""}",1292.0,6
+Python,jython,2000-12-18,1,1,"#{""bckfnn@worldonline.dk""}",1293.0,6
+Python,jython,2000-12-20,3,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1296.0,6
+Python,jython,2000-12-22,1,1,"#{""pedronis@openend.se""}",1297.0,6
+Python,jython,2000-12-23,7,1,"#{""bckfnn@worldonline.dk""}",1304.0,6
+Python,jython,2000-12-25,4,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1308.0,6
+Python,jython,2000-12-27,2,1,"#{""bckfnn@worldonline.dk""}",1310.0,6
+Python,jython,2000-12-31,5,3,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se"" ""tools@python.org""}",1315.0,6
+Python,jython,2001-01-07,4,1,"#{""bckfnn@worldonline.dk""}",1319.0,6
+Python,jython,2001-01-10,5,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1324.0,6
+Python,jython,2001-01-15,11,3,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se"" ""tools@python.org""}",1335.0,6
+Python,jython,2001-01-16,3,1,"#{""bckfnn@worldonline.dk""}",1338.0,6
+Python,jython,2001-01-17,9,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1347.0,6
+Python,jython,2001-01-18,1,1,"#{""tools@python.org""}",1348.0,6
+Python,jython,2001-01-21,10,1,"#{""bckfnn@worldonline.dk""}",1358.0,6
+Python,jython,2001-01-23,1,1,"#{""pedronis@openend.se""}",1359.0,6
+Python,jython,2001-01-31,5,1,"#{""bckfnn@worldonline.dk""}",1364.0,6
+Python,jython,2001-02-01,18,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1382.0,6
+Python,jython,2001-02-02,4,1,"#{""bckfnn@worldonline.dk""}",1386.0,6
+Python,jython,2001-02-03,1,1,"#{""bckfnn@worldonline.dk""}",1387.0,6
+Python,jython,2001-02-04,12,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1399.0,6
+Python,jython,2001-02-06,1,1,"#{""pedronis@openend.se""}",1400.0,6
+Python,jython,2001-02-07,9,1,"#{""bckfnn@worldonline.dk""}",1409.0,6
+Python,jython,2001-02-10,1,1,"#{""bckfnn@worldonline.dk""}",1410.0,6
+Python,jython,2001-02-13,1,1,"#{""bckfnn@worldonline.dk""}",1411.0,6
+Python,jython,2001-02-14,10,1,"#{""bckfnn@worldonline.dk""}",1421.0,6
+Python,jython,2001-02-16,4,1,"#{""bckfnn@worldonline.dk""}",1425.0,6
+Python,jython,2001-02-21,2,1,"#{""bckfnn@worldonline.dk""}",1427.0,6
+Python,jython,2001-02-22,10,1,"#{""bckfnn@worldonline.dk""}",1437.0,6
+Python,jython,2001-02-23,4,1,"#{""bckfnn@worldonline.dk""}",1441.0,6
+Python,jython,2001-02-25,14,1,"#{""bckfnn@worldonline.dk""}",1455.0,6
+Python,jython,2001-03-04,11,1,"#{""bckfnn@worldonline.dk""}",1466.0,6
+Python,jython,2001-03-05,3,1,"#{""bckfnn@worldonline.dk""}",1469.0,6
+Python,jython,2001-03-08,1,1,"#{""pedronis@openend.se""}",1470.0,6
+Python,jython,2001-03-09,2,1,"#{""bckfnn@worldonline.dk""}",1472.0,6
+Python,jython,2001-03-10,1,1,"#{""pedronis@openend.se""}",1473.0,6
+Python,jython,2001-03-11,1,1,"#{""pedronis@openend.se""}",1474.0,6
+Python,jython,2001-03-13,14,1,"#{""bckfnn@worldonline.dk""}",1488.0,6
+Python,jython,2001-03-14,9,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1497.0,6
+Python,jython,2001-03-22,6,1,"#{""bckfnn@worldonline.dk""}",1503.0,6
+Python,jython,2001-03-27,4,1,"#{""bckfnn@worldonline.dk""}",1507.0,6
+Python,jython,2001-03-29,1,1,"#{""bckfnn@worldonline.dk""}",1508.0,6
+Python,jython,2001-04-04,2,1,"#{""bckfnn@worldonline.dk""}",1510.0,6
+Python,jython,2001-04-13,3,1,"#{""bckfnn@worldonline.dk""}",1513.0,6
+Python,jython,2001-04-17,1,1,"#{""bckfnn@worldonline.dk""}",1514.0,6
+Python,jython,2001-04-25,4,1,"#{""bckfnn@worldonline.dk""}",1518.0,6
+Python,jython,2001-05-07,3,1,"#{""bckfnn@worldonline.dk""}",1521.0,6
+Python,jython,2001-05-15,1,1,"#{""pedronis@openend.se""}",1522.0,6
+Python,jython,2001-05-22,1,1,"#{""pedronis@openend.se""}",1523.0,6
+Python,jython,2001-05-27,2,1,"#{""pedronis@openend.se""}",1525.0,6
+Python,jython,2001-05-28,2,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1527.0,6
+Python,jython,2001-05-30,1,1,"#{""bckfnn@worldonline.dk""}",1528.0,6
+Python,jython,2001-05-31,1,1,"#{""pedronis@openend.se""}",1529.0,6
+Python,jython,2001-06-04,1,1,"#{""bckfnn@worldonline.dk""}",1530.0,6
+Python,jython,2001-06-07,1,1,"#{""pedronis@openend.se""}",1531.0,6
+Python,jython,2001-06-13,1,1,"#{""pedronis@openend.se""}",1532.0,6
+Python,jython,2001-06-14,1,1,"#{""pedronis@openend.se""}",1533.0,6
+Python,jython,2001-06-22,3,1,"#{""bckfnn@worldonline.dk""}",1536.0,6
+Python,jython,2001-06-27,1,1,"#{""pedronis@openend.se""}",1537.0,6
+Python,jython,2001-06-30,2,1,"#{""pedronis@openend.se""}",1539.0,6
+Python,jython,2001-07-02,1,1,"#{""bckfnn@worldonline.dk""}",1540.0,6
+Python,jython,2001-07-03,5,1,"#{""bckfnn@worldonline.dk""}",1545.0,6
+Python,jython,2001-07-09,3,1,"#{""bckfnn@worldonline.dk""}",1548.0,6
+Python,jython,2001-07-14,9,1,"#{""bckfnn@worldonline.dk""}",1557.0,6
+Python,jython,2001-07-16,12,1,"#{""bckfnn@worldonline.dk""}",1569.0,6
+Python,jython,2001-07-17,2,1,"#{""pedronis@openend.se""}",1571.0,6
+Python,jython,2001-07-18,15,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1586.0,6
+Python,jython,2001-07-19,4,1,"#{""bckfnn@worldonline.dk""}",1590.0,6
+Python,jython,2001-07-20,3,1,"#{""bckfnn@worldonline.dk""}",1593.0,6
+Python,jython,2001-07-21,2,1,"#{""bckfnn@worldonline.dk""}",1595.0,6
+Python,jython,2001-07-23,6,1,"#{""bckfnn@worldonline.dk""}",1601.0,6
+Python,jython,2001-07-24,2,1,"#{""bckfnn@worldonline.dk""}",1603.0,6
+Python,jython,2001-07-25,4,1,"#{""bckfnn@worldonline.dk""}",1607.0,6
+Python,jython,2001-07-26,1,1,"#{""bckfnn@worldonline.dk""}",1608.0,6
+Python,jython,2001-07-27,6,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1614.0,6
+Python,jython,2001-07-29,12,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1626.0,6
+Python,jython,2001-08-05,8,1,"#{""bckfnn@worldonline.dk""}",1634.0,6
+Python,jython,2001-08-06,6,1,"#{""bckfnn@worldonline.dk""}",1640.0,6
+Python,jython,2001-08-08,2,1,"#{""pedronis@openend.se""}",1642.0,6
+Python,jython,2001-08-11,4,1,"#{""bckfnn@worldonline.dk""}",1646.0,6
+Python,jython,2001-08-13,2,1,"#{""bckfnn@worldonline.dk""}",1648.0,6
+Python,jython,2001-08-14,4,1,"#{""bckfnn@worldonline.dk""}",1652.0,6
+Python,jython,2001-08-15,1,1,"#{""bckfnn@worldonline.dk""}",1653.0,6
+Python,jython,2001-08-19,13,1,"#{""bckfnn@worldonline.dk""}",1666.0,6
+Python,jython,2001-08-28,1,1,"#{""bckfnn@worldonline.dk""}",1667.0,6
+Python,jython,2001-09-05,1,1,"#{""bckfnn@worldonline.dk""}",1668.0,6
+Python,jython,2001-10-06,3,1,"#{""bckfnn@worldonline.dk""}",1671.0,6
+Python,jython,2001-10-19,1,1,"#{""pedronis@openend.se""}",1672.0,6
+Python,jython,2001-10-27,9,1,"#{""bckfnn@worldonline.dk""}",1681.0,6
+Python,jython,2001-10-28,8,1,"#{""bckfnn@worldonline.dk""}",1689.0,6
+Python,jython,2001-10-30,6,1,"#{""bckfnn@worldonline.dk""}",1695.0,6
+Python,jython,2001-11-03,13,1,"#{""bckfnn@worldonline.dk""}",1708.0,6
+Python,jython,2001-11-05,2,1,"#{""bckfnn@worldonline.dk""}",1710.0,6
+Python,jython,2001-11-06,2,1,"#{""bckfnn@worldonline.dk""}",1712.0,6
+Python,jython,2001-11-09,1,1,"#{""bckfnn@worldonline.dk""}",1713.0,6
+Python,jython,2001-11-14,4,1,"#{""bckfnn@worldonline.dk""}",1717.0,6
+Python,jython,2001-11-15,2,1,"#{""bckfnn@worldonline.dk""}",1719.0,6
+Python,jython,2001-11-19,3,1,"#{""bckfnn@worldonline.dk""}",1722.0,6
+Python,jython,2001-11-20,4,2,"#{""bzimmer@ziclix.com"" ""pedronis@openend.se""}",1726.0,7
+Python,jython,2001-11-21,8,1,"#{""bckfnn@worldonline.dk""}",1734.0,7
+Python,jython,2001-11-22,6,2,"#{""bzimmer@ziclix.com"" ""pedronis@openend.se""}",1740.0,7
+Python,jython,2001-11-23,3,1,"#{""pedronis@openend.se""}",1743.0,7
+Python,jython,2001-11-25,5,1,"#{""bckfnn@worldonline.dk""}",1748.0,7
+Python,jython,2001-11-26,8,1,"#{""bckfnn@worldonline.dk""}",1756.0,7
+Python,jython,2001-11-27,14,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1770.0,7
+Python,jython,2001-11-28,4,2,"#{""bckfnn@worldonline.dk"" ""jython-kbutler@sabaydi.com""}",1774.0,8
+Python,jython,2001-12-02,3,1,"#{""bckfnn@worldonline.dk""}",1777.0,8
+Python,jython,2001-12-03,6,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1783.0,8
+Python,jython,2001-12-04,2,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1785.0,8
+Python,jython,2001-12-06,5,1,"#{""bckfnn@worldonline.dk""}",1790.0,8
+Python,jython,2001-12-07,9,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1799.0,8
+Python,jython,2001-12-08,1,1,"#{""bzimmer@ziclix.com""}",1800.0,8
+Python,jython,2001-12-10,3,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1803.0,8
+Python,jython,2001-12-12,1,1,"#{""bzimmer@ziclix.com""}",1804.0,8
+Python,jython,2001-12-14,3,1,"#{""bzimmer@ziclix.com""}",1807.0,8
+Python,jython,2001-12-16,4,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1811.0,8
+Python,jython,2001-12-17,4,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1815.0,8
+Python,jython,2001-12-18,3,1,"#{""bckfnn@worldonline.dk""}",1818.0,8
+Python,jython,2001-12-19,1,1,"#{""bckfnn@worldonline.dk""}",1819.0,8
+Python,jython,2001-12-20,12,2,"#{""bckfnn@worldonline.dk"" ""pedronis@openend.se""}",1831.0,8
+Python,jython,2001-12-21,12,4,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com"" ""pedronis@openend.se"" ""tools@python.org""}",1843.0,8
+Python,jython,2001-12-27,6,1,"#{""bckfnn@worldonline.dk""}",1849.0,8
+Python,jython,2001-12-29,3,1,"#{""bzimmer@ziclix.com""}",1852.0,8
+Python,jython,2001-12-30,1,1,"#{""bckfnn@worldonline.dk""}",1853.0,8
+Python,jython,2001-12-31,4,2,"#{""bckfnn@worldonline.dk"" ""tools@python.org""}",1857.0,8
+Python,jython,2002-01-06,4,1,"#{""bckfnn@worldonline.dk""}",1861.0,8
+Python,jython,2002-01-07,11,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1872.0,8
+Python,jython,2002-01-08,2,1,"#{""bzimmer@ziclix.com""}",1874.0,8
+Python,jython,2002-01-09,1,1,"#{""bzimmer@ziclix.com""}",1875.0,8
+Python,jython,2002-01-10,3,2,"#{""bzimmer@ziclix.com"" ""jython-kbutler@sabaydi.com""}",1878.0,8
+Python,jython,2002-01-11,5,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",1883.0,8
+Python,jython,2002-01-13,16,1,"#{""bckfnn@worldonline.dk""}",1899.0,8
+Python,jython,2002-01-14,1,1,"#{""bzimmer@ziclix.com""}",1900.0,8
+Python,jython,2002-01-26,1,1,"#{""bzimmer@ziclix.com""}",1901.0,8
+Python,jython,2002-03-11,8,1,"#{""bckfnn@worldonline.dk""}",1909.0,8
+Python,jython,2002-03-26,2,1,"#{""bzimmer@ziclix.com""}",1911.0,8
+Python,jython,2002-03-29,1,1,"#{""bzimmer@ziclix.com""}",1912.0,8
+Python,jython,2002-04-05,1,1,"#{""bckfnn@worldonline.dk""}",1913.0,8
+Python,jython,2002-04-12,3,1,"#{""bzimmer@ziclix.com""}",1916.0,8
+Python,jython,2002-04-19,2,1,"#{""bzimmer@ziclix.com""}",1918.0,8
+Python,jython,2002-04-21,1,1,"#{""bzimmer@ziclix.com""}",1919.0,8
+Python,jython,2002-05-09,2,1,"#{""bzimmer@ziclix.com""}",1921.0,8
+Python,jython,2002-05-10,2,1,"#{""bzimmer@ziclix.com""}",1923.0,8
+Python,jython,2002-05-16,1,1,"#{""bzimmer@ziclix.com""}",1924.0,8
+Python,jython,2002-05-19,1,1,"#{""bckfnn@worldonline.dk""}",1925.0,8
+Python,jython,2002-05-26,17,1,"#{""bckfnn@worldonline.dk""}",1942.0,8
+Python,jython,2002-05-27,1,1,"#{""bckfnn@worldonline.dk""}",1943.0,8
+Python,jython,2002-05-29,1,1,"#{""bckfnn@worldonline.dk""}",1944.0,8
+Python,jython,2002-05-30,18,1,"#{""bckfnn@worldonline.dk""}",1962.0,8
+Python,jython,2002-05-31,6,1,"#{""bckfnn@worldonline.dk""}",1968.0,8
+Python,jython,2002-06-11,4,1,"#{""bckfnn@worldonline.dk""}",1972.0,8
+Python,jython,2002-07-10,1,1,"#{""jython-kbutler@sabaydi.com""}",1973.0,8
+Python,jython,2002-07-15,1,1,"#{""jython-kbutler@sabaydi.com""}",1974.0,8
+Python,jython,2002-08-29,2,1,"#{""bckfnn@worldonline.dk""}",1976.0,8
+Python,jython,2002-09-16,1,1,"#{""bckfnn@worldonline.dk""}",1977.0,8
+Python,jython,2002-09-17,7,1,"#{""bckfnn@worldonline.dk""}",1984.0,8
+Python,jython,2002-09-18,8,1,"#{""bckfnn@worldonline.dk""}",1992.0,8
+Python,jython,2002-09-19,1,1,"#{""bckfnn@worldonline.dk""}",1993.0,8
+Python,jython,2002-10-07,2,1,"#{""bzimmer@ziclix.com""}",1995.0,8
+Python,jython,2002-10-09,4,1,"#{""bckfnn@worldonline.dk""}",1999.0,8
+Python,jython,2002-10-10,1,1,"#{""bzimmer@ziclix.com""}",2000.0,8
+Python,jython,2002-10-13,1,1,"#{""pedronis@openend.se""}",2001.0,8
+Python,jython,2002-10-14,1,1,"#{""pedronis@openend.se""}",2002.0,8
+Python,jython,2002-10-15,9,1,"#{""bckfnn@worldonline.dk""}",2011.0,8
+Python,jython,2002-10-24,1,1,"#{""bckfnn@worldonline.dk""}",2012.0,8
+Python,jython,2002-10-26,1,1,"#{""bckfnn@worldonline.dk""}",2013.0,8
+Python,jython,2002-10-29,18,2,"#{""bckfnn@worldonline.dk"" ""bzimmer@ziclix.com""}",2031.0,8
+Python,jython,2002-10-30,11,1,"#{""bckfnn@worldonline.dk""}",2042.0,8
+Python,jython,2002-10-31,12,1,"#{""bckfnn@worldonline.dk""}",2054.0,8
+Python,jython,2002-11-01,2,1,"#{""bckfnn@worldonline.dk""}",2056.0,8
+Python,jython,2002-11-05,7,1,"#{""bckfnn@worldonline.dk""}",2063.0,8
+Python,jython,2002-11-06,15,1,"#{""bckfnn@worldonline.dk""}",2078.0,8
+Python,jython,2002-11-27,1,1,"#{""bzimmer@ziclix.com""}",2079.0,8
+Python,jython,2002-12-19,2,1,"#{""jython-kbutler@sabaydi.com""}",2081.0,8
+Python,jython,2002-12-24,3,1,"#{""bzimmer@ziclix.com""}",2084.0,8
+Python,jython,2002-12-31,2,1,"#{""bzimmer@ziclix.com""}",2086.0,8
+Python,jython,2003-01-03,3,2,"#{""bzimmer@ziclix.com"" ""jython-kbutler@sabaydi.com""}",2089.0,8
+Python,jython,2003-01-14,1,1,"#{""pedronis@openend.se""}",2090.0,8
+Python,jython,2003-04-09,4,1,"#{""bzimmer@ziclix.com""}",2094.0,8
+Python,jython,2003-04-10,2,1,"#{""bzimmer@ziclix.com""}",2096.0,8
+Python,jython,2003-04-11,1,1,"#{""bzimmer@ziclix.com""}",2097.0,8
+Python,jython,2003-04-17,2,1,"#{""bzimmer@ziclix.com""}",2099.0,8
+Python,jython,2003-04-18,11,1,"#{""jython-kbutler@sabaydi.com""}",2110.0,8
+Python,jython,2003-05-02,2,1,"#{""pedronis@openend.se""}",2112.0,8
+Python,jython,2003-05-04,3,1,"#{""pedronis@openend.se""}",2115.0,8
+Python,jython,2003-05-18,7,1,"#{""pedronis@openend.se""}",2122.0,8
+Python,jython,2003-07-03,3,1,"#{""bzimmer@ziclix.com""}",2125.0,8
+Python,jython,2003-07-11,5,1,"#{""pedronis@openend.se""}",2130.0,8
+Python,jython,2003-07-31,10,2,"#{""pedronis@openend.se"" ""jython-kbutler@sabaydi.com""}",2140.0,8
+Python,jython,2003-08-05,8,1,"#{""pedronis@openend.se""}",2148.0,8
+Python,jython,2003-08-06,4,1,"#{""pedronis@openend.se""}",2152.0,8
+Python,jython,2003-08-25,1,1,"#{""pedronis@openend.se""}",2153.0,8
+Python,jython,2003-09-30,2,1,"#{""bzimmer@ziclix.com""}",2155.0,8
+Python,jython,2003-10-13,1,1,"#{""bzimmer@ziclix.com""}",2156.0,8
+Python,jython,2003-11-10,10,2,"#{""pedronis@openend.se"" ""tools@python.org""}",2166.0,8
+Python,jython,2004-01-16,1,1,"#{""pedronis@openend.se""}",2167.0,8
+Python,jython,2004-01-26,1,1,"#{""pedronis@openend.se""}",2168.0,8
+Python,jython,2004-01-27,5,1,"#{""pedronis@openend.se""}",2173.0,8
+Python,jython,2004-02-16,1,1,"#{""pedronis@openend.se""}",2174.0,8
+Python,jython,2004-02-17,1,1,"#{""pedronis@openend.se""}",2175.0,8
+Python,jython,2004-03-29,1,1,"#{""jython-kbutler@sabaydi.com""}",2176.0,8
+Python,jython,2004-09-07,1,1,"#{""pedronis@openend.se""}",2177.0,8
+Python,jython,2004-10-08,1,1,"#{""pedronis@openend.se""}",2178.0,8
+Python,jython,2004-10-09,2,1,"#{""pedronis@openend.se""}",2180.0,8
+Python,jython,2004-10-10,1,1,"#{""pedronis@openend.se""}",2181.0,8
+Python,jython,2005-02-13,1,1,"#{""pedronis@openend.se""}",2182.0,8
+Python,jython,2005-02-20,1,1,"#{""bzimmer@ziclix.com""}",2183.0,8
+Python,jython,2005-02-21,11,2,"#{""bzimmer@ziclix.com"" ""pedronis@openend.se""}",2194.0,8
+Python,jython,2005-02-22,3,2,"#{""bzimmer@ziclix.com"" ""pedronis@openend.se""}",2197.0,8
+Python,jython,2005-02-23,2,1,"#{""bzimmer@ziclix.com""}",2199.0,8
+Python,jython,2005-02-26,1,1,"#{""bzimmer@ziclix.com""}",2200.0,8
+Python,jython,2005-02-27,4,1,"#{""bzimmer@ziclix.com""}",2204.0,8
+Python,jython,2005-02-28,1,1,"#{""bzimmer@ziclix.com""}",2205.0,8
+Python,jython,2005-03-01,3,1,"#{""bzimmer@ziclix.com""}",2208.0,8
+Python,jython,2005-03-02,2,1,"#{""bzimmer@ziclix.com""}",2210.0,8
+Python,jython,2005-03-12,2,2,"#{""bzimmer@ziclix.com"" ""tools@python.org""}",2212.0,8
+Python,jython,2005-04-01,1,1,"#{""bzimmer@ziclix.com""}",2213.0,8
+Python,jython,2005-04-03,1,1,"#{""pedronis@openend.se""}",2214.0,8
+Python,jython,2005-04-04,2,2,"#{""bzimmer@ziclix.com"" ""ohumbel@gmail.com""}",2216.0,9
+Python,jython,2005-04-05,8,2,"#{""bzimmer@ziclix.com"" ""pedronis@openend.se""}",2224.0,9
+Python,jython,2005-04-08,2,1,"#{""bzimmer@ziclix.com""}",2226.0,9
+Python,jython,2005-04-10,1,1,"#{""fwierzbicki@gmail.com""}",2227.0,10
+Python,jython,2005-04-14,3,2,"#{""bzimmer@ziclix.com"" ""fwierzbicki@gmail.com""}",2230.0,10
+Python,jython,2005-04-18,4,3,"#{""clark.updike@jhuapl.edu"" ""ohumbel@gmail.com"" ""tools@python.org""}",2234.0,11
+Python,jython,2005-05-12,2,2,"#{""fwierzbicki@gmail.com"" ""clark.updike@jhuapl.edu""}",2236.0,11
+Python,jython,2005-05-16,1,1,"#{""ohumbel@gmail.com""}",2237.0,11
+Python,jython,2005-05-18,8,2,"#{""bzimmer@ziclix.com"" ""clark.updike@jhuapl.edu""}",2245.0,11
+Python,jython,2005-05-19,3,2,"#{""bzimmer@ziclix.com"" ""clark.updike@jhuapl.edu""}",2248.0,11
+Python,jython,2005-05-23,5,2,"#{""bzimmer@ziclix.com"" ""clark.updike@jhuapl.edu""}",2253.0,11
+Python,jython,2005-05-26,1,1,"#{""clark.updike@jhuapl.edu""}",2254.0,11
+Python,jython,2005-05-31,8,1,"#{""ohumbel@gmail.com""}",2262.0,11
+Python,jython,2005-06-03,9,1,"#{""bzimmer@ziclix.com""}",2271.0,11
+Python,jython,2005-06-04,1,1,"#{""bzimmer@ziclix.com""}",2272.0,11
+Python,jython,2005-06-05,2,1,"#{""ohumbel@gmail.com""}",2274.0,11
+Python,jython,2005-06-07,3,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",2277.0,11
+Python,jython,2005-06-12,3,1,"#{""bzimmer@ziclix.com""}",2280.0,11
+Python,jython,2005-06-13,6,2,"#{""bzimmer@ziclix.com"" ""fwierzbicki@gmail.com""}",2286.0,11
+Python,jython,2005-06-14,7,2,"#{""bzimmer@ziclix.com"" ""fwierzbicki@gmail.com""}",2293.0,11
+Python,jython,2005-06-15,1,1,"#{""clark.updike@jhuapl.edu""}",2294.0,11
+Python,jython,2005-06-16,1,1,"#{""bzimmer@ziclix.com""}",2295.0,11
+Python,jython,2005-06-20,1,1,"#{""fwierzbicki@gmail.com""}",2296.0,11
+Python,jython,2005-06-21,1,1,"#{""fwierzbicki@gmail.com""}",2297.0,11
+Python,jython,2005-06-24,6,1,"#{""bzimmer@ziclix.com""}",2303.0,11
+Python,jython,2005-06-26,1,1,"#{""fwierzbicki@gmail.com""}",2304.0,11
+Python,jython,2005-06-27,4,1,"#{""fwierzbicki@gmail.com""}",2308.0,11
+Python,jython,2005-06-29,1,1,"#{""fwierzbicki@gmail.com""}",2309.0,11
+Python,jython,2005-06-30,1,1,"#{""fwierzbicki@gmail.com""}",2310.0,11
+Python,jython,2005-07-01,1,1,"#{""fwierzbicki@gmail.com""}",2311.0,11
+Python,jython,2005-07-04,4,2,"#{""bzimmer@ziclix.com"" ""tools@python.org""}",2315.0,11
+Python,jython,2005-07-08,1,1,"#{""fwierzbicki@gmail.com""}",2316.0,11
+Python,jython,2005-07-17,3,1,"#{""bzimmer@ziclix.com""}",2319.0,11
+Python,jython,2005-07-18,2,2,"#{""bzimmer@ziclix.com"" ""tools@python.org""}",2321.0,11
+Python,jython,2005-07-19,2,1,"#{""fwierzbicki@gmail.com""}",2323.0,11
+Python,jython,2005-07-20,2,1,"#{""fwierzbicki@gmail.com""}",2325.0,11
+Python,jython,2005-07-23,2,1,"#{""fwierzbicki@gmail.com""}",2327.0,11
+Python,jython,2005-07-24,1,1,"#{""fwierzbicki@gmail.com""}",2328.0,11
+Python,jython,2005-07-25,3,1,"#{""fwierzbicki@gmail.com""}",2331.0,11
+Python,jython,2005-07-26,1,1,"#{""fwierzbicki@gmail.com""}",2332.0,11
+Python,jython,2005-07-31,1,1,"#{""fwierzbicki@gmail.com""}",2333.0,11
+Python,jython,2005-08-01,2,1,"#{""fwierzbicki@gmail.com""}",2335.0,11
+Python,jython,2005-08-02,1,1,"#{""fwierzbicki@gmail.com""}",2336.0,11
+Python,jython,2005-08-03,1,1,"#{""fwierzbicki@gmail.com""}",2337.0,11
+Python,jython,2005-08-13,1,1,"#{""fwierzbicki@gmail.com""}",2338.0,11
+Python,jython,2005-08-31,1,1,"#{""fwierzbicki@gmail.com""}",2339.0,11
+Python,jython,2005-09-01,1,1,"#{""fwierzbicki@gmail.com""}",2340.0,11
+Python,jython,2005-09-05,1,1,"#{""fwierzbicki@gmail.com""}",2341.0,11
+Python,jython,2005-09-26,1,1,"#{""fwierzbicki@gmail.com""}",2342.0,11
+Python,jython,2005-09-27,1,1,"#{""fwierzbicki@gmail.com""}",2343.0,11
+Python,jython,2005-09-30,2,1,"#{""fwierzbicki@gmail.com""}",2345.0,11
+Python,jython,2005-10-10,2,1,"#{""fwierzbicki@gmail.com""}",2347.0,11
+Python,jython,2005-10-12,1,1,"#{""fwierzbicki@gmail.com""}",2348.0,11
+Python,jython,2005-10-14,1,1,"#{""fwierzbicki@gmail.com""}",2349.0,11
+Python,jython,2005-10-19,1,1,"#{""ohumbel@gmail.com""}",2350.0,11
+Python,jython,2005-10-21,1,1,"#{""ohumbel@gmail.com""}",2351.0,11
+Python,jython,2005-11-01,1,1,"#{""fwierzbicki@gmail.com""}",2352.0,11
+Python,jython,2005-11-03,1,1,"#{""fwierzbicki@gmail.com""}",2353.0,11
+Python,jython,2005-11-04,2,1,"#{""fwierzbicki@gmail.com""}",2355.0,11
+Python,jython,2005-11-05,4,1,"#{""fwierzbicki@gmail.com""}",2359.0,11
+Python,jython,2005-11-06,2,1,"#{""fwierzbicki@gmail.com""}",2361.0,11
+Python,jython,2005-11-07,2,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",2363.0,11
+Python,jython,2005-11-13,1,1,"#{""ohumbel@gmail.com""}",2364.0,11
+Python,jython,2005-11-16,1,1,"#{""fwierzbicki@gmail.com""}",2365.0,11
+Python,jython,2005-12-28,1,1,"#{""pedronis@openend.se""}",2366.0,11
+Python,jython,2006-02-18,3,1,"#{""ohumbel@gmail.com""}",2369.0,11
+Python,jython,2006-04-04,1,1,"#{""ohumbel@gmail.com""}",2370.0,11
+Python,jython,2006-04-09,2,1,"#{""fwierzbicki@gmail.com""}",2372.0,11
+Python,jython,2006-04-19,1,1,"#{""ohumbel@gmail.com""}",2373.0,11
+Python,jython,2006-04-25,2,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",2375.0,11
+Python,jython,2006-05-13,1,1,"#{""fwierzbicki@gmail.com""}",2376.0,11
+Python,jython,2006-05-14,1,1,"#{""fwierzbicki@gmail.com""}",2377.0,11
+Python,jython,2006-05-15,2,1,"#{""fwierzbicki@gmail.com""}",2379.0,11
+Python,jython,2006-05-17,1,1,"#{""fwierzbicki@gmail.com""}",2380.0,11
+Python,jython,2006-05-18,1,1,"#{""fwierzbicki@gmail.com""}",2381.0,11
+Python,jython,2006-05-19,17,1,"#{""fwierzbicki@gmail.com""}",2398.0,11
+Python,jython,2006-05-24,1,1,"#{""fwierzbicki@gmail.com""}",2399.0,11
+Python,jython,2006-05-26,1,1,"#{""fwierzbicki@gmail.com""}",2400.0,11
+Python,jython,2006-05-27,2,1,"#{""fwierzbicki@gmail.com""}",2402.0,11
+Python,jython,2006-05-28,2,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",2404.0,11
+Python,jython,2006-05-31,2,1,"#{""fwierzbicki@gmail.com""}",2406.0,11
+Python,jython,2006-06-03,1,1,"#{""fwierzbicki@gmail.com""}",2407.0,11
+Python,jython,2006-06-06,2,1,"#{""fwierzbicki@gmail.com""}",2409.0,11
+Python,jython,2006-06-07,3,1,"#{""fwierzbicki@gmail.com""}",2412.0,11
+Python,jython,2006-06-08,2,1,"#{""fwierzbicki@gmail.com""}",2414.0,11
+Python,jython,2006-06-09,6,1,"#{""fwierzbicki@gmail.com""}",2420.0,11
+Python,jython,2006-06-12,3,1,"#{""fwierzbicki@gmail.com""}",2423.0,11
+Python,jython,2006-06-13,2,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",2425.0,11
+Python,jython,2006-06-15,2,1,"#{""ohumbel@gmail.com""}",2427.0,11
+Python,jython,2006-06-19,2,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",2429.0,11
+Python,jython,2006-06-25,5,1,"#{""fwierzbicki@gmail.com""}",2434.0,11
+Python,jython,2006-06-26,1,1,"#{""fwierzbicki@gmail.com""}",2435.0,11
+Python,jython,2006-07-05,4,1,"#{""ohumbel@gmail.com""}",2439.0,11
+Python,jython,2006-07-18,3,1,"#{""msmall@activegrid.com""}",2442.0,12
+Python,jython,2006-07-19,4,2,"#{""msmall@activegrid.com"" ""jnorton@activegrid.com""}",2446.0,13
+Python,jython,2006-07-20,8,2,"#{""msmall@activegrid.com"" ""charlie.groves@gmail.com""}",2454.0,14
+Python,jython,2006-07-21,2,1,"#{""msmall@activegrid.com""}",2456.0,14
+Python,jython,2006-07-22,1,1,"#{""msmall@activegrid.com""}",2457.0,14
+Python,jython,2006-07-24,1,1,"#{""msmall@activegrid.com""}",2458.0,14
+Python,jython,2006-07-25,1,1,"#{""msmall@activegrid.com""}",2459.0,14
+Python,jython,2006-07-26,3,1,"#{""charlie.groves@gmail.com""}",2462.0,14
+Python,jython,2006-07-27,3,2,"#{""msmall@activegrid.com"" ""charlie.groves@gmail.com""}",2465.0,14
+Python,jython,2006-07-28,1,1,"#{""charlie.groves@gmail.com""}",2466.0,14
+Python,jython,2006-07-29,1,1,"#{""charlie.groves@gmail.com""}",2467.0,14
+Python,jython,2006-08-01,3,1,"#{""charlie.groves@gmail.com""}",2470.0,14
+Python,jython,2006-08-03,1,1,"#{""charlie.groves@gmail.com""}",2471.0,14
+Python,jython,2006-08-05,4,1,"#{""charlie.groves@gmail.com""}",2475.0,14
+Python,jython,2006-08-09,1,1,"#{""charlie.groves@gmail.com""}",2476.0,14
+Python,jython,2006-08-10,2,1,"#{""charlie.groves@gmail.com""}",2478.0,14
+Python,jython,2006-08-12,9,1,"#{""charlie.groves@gmail.com""}",2487.0,14
+Python,jython,2006-08-13,1,1,"#{""charlie.groves@gmail.com""}",2488.0,14
+Python,jython,2006-08-15,5,1,"#{""charlie.groves@gmail.com""}",2493.0,14
+Python,jython,2006-08-18,3,1,"#{""charlie.groves@gmail.com""}",2496.0,14
+Python,jython,2006-08-19,2,1,"#{""charlie.groves@gmail.com""}",2498.0,14
+Python,jython,2006-08-20,2,1,"#{""charlie.groves@gmail.com""}",2500.0,14
+Python,jython,2006-08-22,4,1,"#{""ohumbel@gmail.com""}",2504.0,14
+Python,jython,2006-08-24,2,1,"#{""charlie.groves@gmail.com""}",2506.0,14
+Python,jython,2006-08-25,2,1,"#{""kzuberi@gmail.com""}",2508.0,15
+Python,jython,2006-08-26,2,1,"#{""charlie.groves@gmail.com""}",2510.0,15
+Python,jython,2006-08-27,1,1,"#{""kzuberi@gmail.com""}",2511.0,15
+Python,jython,2006-08-31,3,1,"#{""charlie.groves@gmail.com""}",2514.0,15
+Python,jython,2006-09-01,1,1,"#{""charlie.groves@gmail.com""}",2515.0,15
+Python,jython,2006-09-05,1,1,"#{""charlie.groves@gmail.com""}",2516.0,15
+Python,jython,2006-09-07,5,1,"#{""charlie.groves@gmail.com""}",2521.0,15
+Python,jython,2006-09-12,5,1,"#{""charlie.groves@gmail.com""}",2526.0,15
+Python,jython,2006-09-13,3,2,"#{""charlie.groves@gmail.com"" ""kzuberi@gmail.com""}",2529.0,15
+Python,jython,2006-09-23,2,1,"#{""charlie.groves@gmail.com""}",2531.0,15
+Python,jython,2006-09-28,2,1,"#{""charlie.groves@gmail.com""}",2533.0,15
+Python,jython,2006-09-29,1,1,"#{""kzuberi@gmail.com""}",2534.0,15
+Python,jython,2006-10-09,1,1,"#{""charlie.groves@gmail.com""}",2535.0,15
+Python,jython,2006-10-13,2,1,"#{""ohumbel@gmail.com""}",2537.0,15
+Python,jython,2006-10-14,2,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2539.0,15
+Python,jython,2006-10-15,3,1,"#{""pedronis@openend.se""}",2542.0,15
+Python,jython,2006-10-16,2,2,"#{""pedronis@openend.se"" ""charlie.groves@gmail.com""}",2544.0,15
+Python,jython,2006-10-17,5,1,"#{""charlie.groves@gmail.com""}",2549.0,15
+Python,jython,2006-10-23,1,1,"#{""fwierzbicki@gmail.com""}",2550.0,15
+Python,jython,2006-10-26,2,1,"#{""charlie.groves@gmail.com""}",2552.0,15
+Python,jython,2006-10-31,1,1,"#{""ohumbel@gmail.com""}",2553.0,15
+Python,jython,2006-11-16,1,1,"#{""ohumbel@gmail.com""}",2554.0,15
+Python,jython,2006-11-18,1,1,"#{""charlie.groves@gmail.com""}",2555.0,15
+Python,jython,2006-11-19,1,1,"#{""charlie.groves@gmail.com""}",2556.0,15
+Python,jython,2006-11-20,4,1,"#{""ohumbel@gmail.com""}",2560.0,15
+Python,jython,2006-11-21,5,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2565.0,15
+Python,jython,2006-11-22,2,1,"#{""charlie.groves@gmail.com""}",2567.0,15
+Python,jython,2006-11-24,1,1,"#{""kzuberi@gmail.com""}",2568.0,15
+Python,jython,2006-11-26,3,1,"#{""charlie.groves@gmail.com""}",2571.0,15
+Python,jython,2006-11-27,4,2,"#{""fwierzbicki@gmail.com"" ""kzuberi@gmail.com""}",2575.0,15
+Python,jython,2006-11-28,3,1,"#{""charlie.groves@gmail.com""}",2578.0,15
+Python,jython,2006-11-29,3,1,"#{""charlie.groves@gmail.com""}",2581.0,15
+Python,jython,2006-11-30,1,1,"#{""charlie.groves@gmail.com""}",2582.0,15
+Python,jython,2006-12-03,2,1,"#{""charlie.groves@gmail.com""}",2584.0,15
+Python,jython,2006-12-05,1,1,"#{""charlie.groves@gmail.com""}",2585.0,15
+Python,jython,2006-12-08,2,1,"#{""kzuberi@gmail.com""}",2587.0,15
+Python,jython,2006-12-09,10,3,"#{""pedronis@openend.se"" ""charlie.groves@gmail.com"" ""kzuberi@gmail.com""}",2597.0,15
+Python,jython,2006-12-10,1,1,"#{""charlie.groves@gmail.com""}",2598.0,15
+Python,jython,2006-12-12,2,2,"#{""ohumbel@gmail.com"" ""kzuberi@gmail.com""}",2600.0,15
+Python,jython,2006-12-14,1,1,"#{""kzuberi@gmail.com""}",2601.0,15
+Python,jython,2006-12-19,2,1,"#{""ohumbel@gmail.com""}",2603.0,15
+Python,jython,2006-12-21,1,1,"#{""pedronis@openend.se""}",2604.0,15
+Python,jython,2006-12-22,2,1,"#{""kzuberi@gmail.com""}",2606.0,15
+Python,jython,2006-12-26,1,1,"#{""pedronis@openend.se""}",2607.0,15
+Python,jython,2006-12-28,1,1,"#{""ohumbel@gmail.com""}",2608.0,15
+Python,jython,2006-12-31,6,1,"#{""charlie.groves@gmail.com""}",2614.0,15
+Python,jython,2007-01-02,1,1,"#{""charlie.groves@gmail.com""}",2615.0,15
+Python,jython,2007-01-03,1,1,"#{""charlie.groves@gmail.com""}",2616.0,15
+Python,jython,2007-01-04,1,1,"#{""kzuberi@gmail.com""}",2617.0,15
+Python,jython,2007-01-05,3,1,"#{""kzuberi@gmail.com""}",2620.0,15
+Python,jython,2007-01-10,2,1,"#{""ohumbel@gmail.com""}",2622.0,15
+Python,jython,2007-01-11,1,1,"#{""kzuberi@gmail.com""}",2623.0,15
+Python,jython,2007-01-19,2,1,"#{""kzuberi@gmail.com""}",2625.0,15
+Python,jython,2007-01-20,1,1,"#{""charlie.groves@gmail.com""}",2626.0,15
+Python,jython,2007-01-21,1,1,"#{""charlie.groves@gmail.com""}",2627.0,15
+Python,jython,2007-01-22,2,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2629.0,15
+Python,jython,2007-01-23,2,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2631.0,15
+Python,jython,2007-01-24,5,1,"#{""charlie.groves@gmail.com""}",2636.0,15
+Python,jython,2007-01-25,1,1,"#{""charlie.groves@gmail.com""}",2637.0,15
+Python,jython,2007-01-30,1,1,"#{""charlie.groves@gmail.com""}",2638.0,15
+Python,jython,2007-01-31,4,1,"#{""charlie.groves@gmail.com""}",2642.0,15
+Python,jython,2007-02-01,1,1,"#{""charlie.groves@gmail.com""}",2643.0,15
+Python,jython,2007-02-05,10,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2653.0,15
+Python,jython,2007-02-06,4,1,"#{""charlie.groves@gmail.com""}",2657.0,15
+Python,jython,2007-02-07,1,1,"#{""charlie.groves@gmail.com""}",2658.0,15
+Python,jython,2007-02-08,2,1,"#{""charlie.groves@gmail.com""}",2660.0,15
+Python,jython,2007-02-11,3,1,"#{""charlie.groves@gmail.com""}",2663.0,15
+Python,jython,2007-02-12,2,1,"#{""charlie.groves@gmail.com""}",2665.0,15
+Python,jython,2007-02-13,1,1,"#{""charlie.groves@gmail.com""}",2666.0,15
+Python,jython,2007-02-15,4,1,"#{""charlie.groves@gmail.com""}",2670.0,15
+Python,jython,2007-02-16,1,1,"#{""charlie.groves@gmail.com""}",2671.0,15
+Python,jython,2007-02-20,2,1,"#{""charlie.groves@gmail.com""}",2673.0,15
+Python,jython,2007-02-22,6,1,"#{""charlie.groves@gmail.com""}",2679.0,15
+Python,jython,2007-02-23,1,1,"#{""charlie.groves@gmail.com""}",2680.0,15
+Python,jython,2007-02-24,2,1,"#{""charlie.groves@gmail.com""}",2682.0,15
+Python,jython,2007-02-25,1,1,"#{""charlie.groves@gmail.com""}",2683.0,15
+Python,jython,2007-02-26,1,1,"#{""charlie.groves@gmail.com""}",2684.0,15
+Python,jython,2007-02-27,2,1,"#{""charlie.groves@gmail.com""}",2686.0,15
+Python,jython,2007-02-28,6,1,"#{""charlie.groves@gmail.com""}",2692.0,15
+Python,jython,2007-03-01,1,1,"#{""charlie.groves@gmail.com""}",2693.0,15
+Python,jython,2007-03-09,6,2,"#{""pedronis@openend.se"" ""charlie.groves@gmail.com""}",2699.0,15
+Python,jython,2007-03-10,2,1,"#{""kzuberi@gmail.com""}",2701.0,15
+Python,jython,2007-03-26,2,1,"#{""kzuberi@gmail.com""}",2703.0,15
+Python,jython,2007-04-08,1,1,"#{""charlie.groves@gmail.com""}",2704.0,15
+Python,jython,2007-04-13,3,1,"#{""charlie.groves@gmail.com""}",2707.0,15
+Python,jython,2007-04-16,2,1,"#{""charlie.groves@gmail.com""}",2709.0,15
+Python,jython,2007-04-17,8,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2717.0,15
+Python,jython,2007-04-18,4,1,"#{""charlie.groves@gmail.com""}",2721.0,15
+Python,jython,2007-04-19,6,1,"#{""charlie.groves@gmail.com""}",2727.0,15
+Python,jython,2007-04-20,3,1,"#{""charlie.groves@gmail.com""}",2730.0,15
+Python,jython,2007-04-22,2,1,"#{""charlie.groves@gmail.com""}",2732.0,15
+Python,jython,2007-04-23,7,2,"#{""charlie.groves@gmail.com"" ""kzuberi@gmail.com""}",2739.0,15
+Python,jython,2007-04-24,3,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2742.0,15
+Python,jython,2007-04-25,2,1,"#{""charlie.groves@gmail.com""}",2744.0,15
+Python,jython,2007-04-26,1,1,"#{""charlie.groves@gmail.com""}",2745.0,15
+Python,jython,2007-04-28,2,1,"#{""charlie.groves@gmail.com""}",2747.0,15
+Python,jython,2007-04-29,6,1,"#{""charlie.groves@gmail.com""}",2753.0,15
+Python,jython,2007-04-30,4,1,"#{""charlie.groves@gmail.com""}",2757.0,15
+Python,jython,2007-05-04,1,1,"#{""kzuberi@gmail.com""}",2758.0,15
+Python,jython,2007-05-05,4,2,"#{""charlie.groves@gmail.com"" ""kzuberi@gmail.com""}",2762.0,15
+Python,jython,2007-05-06,5,2,"#{""charlie.groves@gmail.com"" ""kzuberi@gmail.com""}",2767.0,15
+Python,jython,2007-05-07,2,1,"#{""charlie.groves@gmail.com""}",2769.0,15
+Python,jython,2007-05-08,2,1,"#{""charlie.groves@gmail.com""}",2771.0,15
+Python,jython,2007-05-14,3,1,"#{""charlie.groves@gmail.com""}",2774.0,15
+Python,jython,2007-05-16,4,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2778.0,15
+Python,jython,2007-05-18,1,1,"#{""fwierzbicki@gmail.com""}",2779.0,15
+Python,jython,2007-05-20,2,1,"#{""charlie.groves@gmail.com""}",2781.0,15
+Python,jython,2007-05-24,3,1,"#{""ohumbel@gmail.com""}",2784.0,15
+Python,jython,2007-05-25,1,1,"#{""ohumbel@gmail.com""}",2785.0,15
+Python,jython,2007-05-28,3,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",2788.0,15
+Python,jython,2007-05-29,1,1,"#{""ohumbel@gmail.com""}",2789.0,15
+Python,jython,2007-05-30,1,1,"#{""charlie.groves@gmail.com""}",2790.0,15
+Python,jython,2007-06-06,1,1,"#{""fwierzbicki@gmail.com""}",2791.0,15
+Python,jython,2007-06-07,1,1,"#{""fwierzbicki@gmail.com""}",2792.0,15
+Python,jython,2007-06-18,4,2,"#{""charlie.groves@gmail.com"" ""jython-dev@xhaus.com""}",2796.0,16
+Python,jython,2007-06-19,2,1,"#{""charlie.groves@gmail.com""}",2798.0,16
+Python,jython,2007-06-20,1,1,"#{""fwierzbicki@gmail.com""}",2799.0,16
+Python,jython,2007-06-21,1,1,"#{""jython-dev@xhaus.com""}",2800.0,16
+Python,jython,2007-06-22,2,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2802.0,16
+Python,jython,2007-06-23,2,1,"#{""charlie.groves@gmail.com""}",2804.0,16
+Python,jython,2007-06-24,1,1,"#{""jython-dev@xhaus.com""}",2805.0,16
+Python,jython,2007-06-28,1,1,"#{""ohumbel@gmail.com""}",2806.0,16
+Python,jython,2007-06-30,1,1,"#{""ohumbel@gmail.com""}",2807.0,16
+Python,jython,2007-07-01,1,1,"#{""jython-dev@xhaus.com""}",2808.0,16
+Python,jython,2007-07-03,1,1,"#{""jython-dev@xhaus.com""}",2809.0,16
+Python,jython,2007-07-07,2,1,"#{""charlie.groves@gmail.com""}",2811.0,16
+Python,jython,2007-07-08,3,1,"#{""charlie.groves@gmail.com""}",2814.0,16
+Python,jython,2007-07-09,1,1,"#{""tobias@thobe.org""}",2815.0,17
+Python,jython,2007-07-10,2,1,"#{""charlie.groves@gmail.com""}",2817.0,17
+Python,jython,2007-07-11,1,1,"#{""charlie.groves@gmail.com""}",2818.0,17
+Python,jython,2007-07-15,20,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2838.0,17
+Python,jython,2007-07-16,2,2,"#{""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",2840.0,17
+Python,jython,2007-07-17,4,1,"#{""charlie.groves@gmail.com""}",2844.0,17
+Python,jython,2007-07-18,2,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2846.0,17
+Python,jython,2007-07-19,4,2,"#{""charlie.groves@gmail.com"" ""jython-dev@xhaus.com""}",2850.0,17
+Python,jython,2007-07-21,7,1,"#{""charlie.groves@gmail.com""}",2857.0,17
+Python,jython,2007-07-22,9,1,"#{""charlie.groves@gmail.com""}",2866.0,17
+Python,jython,2007-07-23,5,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2871.0,17
+Python,jython,2007-07-24,2,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2873.0,17
+Python,jython,2007-07-27,2,1,"#{""fwierzbicki@gmail.com""}",2875.0,17
+Python,jython,2007-07-28,5,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",2880.0,17
+Python,jython,2007-07-30,6,1,"#{""charlie.groves@gmail.com""}",2886.0,17
+Python,jython,2007-07-31,3,1,"#{""charlie.groves@gmail.com""}",2889.0,17
+Python,jython,2007-08-01,3,1,"#{""charlie.groves@gmail.com""}",2892.0,17
+Python,jython,2007-08-02,1,1,"#{""charlie.groves@gmail.com""}",2893.0,17
+Python,jython,2007-08-04,2,2,"#{""charlie.groves@gmail.com"" ""damien.lejeune@gmail.com""}",2895.0,18
+Python,jython,2007-08-05,8,2,"#{""charlie.groves@gmail.com"" ""tobias@thobe.org""}",2903.0,18
+Python,jython,2007-08-06,2,1,"#{""charlie.groves@gmail.com""}",2905.0,18
+Python,jython,2007-08-07,3,1,"#{""charlie.groves@gmail.com""}",2908.0,18
+Python,jython,2007-08-11,2,1,"#{""charlie.groves@gmail.com""}",2910.0,18
+Python,jython,2007-08-12,4,1,"#{""charlie.groves@gmail.com""}",2914.0,18
+Python,jython,2007-08-13,2,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2916.0,18
+Python,jython,2007-08-14,2,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",2918.0,18
+Python,jython,2007-08-20,4,2,"#{""charlie.groves@gmail.com"" ""tobias@thobe.org""}",2922.0,18
+Python,jython,2007-08-22,4,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""tobias@thobe.org""}",2926.0,19
+Python,jython,2007-08-23,5,2,"#{""jbaker@zyasoft.com"" ""tobias@thobe.org""}",2931.0,19
+Python,jython,2007-08-24,1,1,"#{""tobias@thobe.org""}",2932.0,19
+Python,jython,2007-08-26,1,1,"#{""tobias@thobe.org""}",2933.0,19
+Python,jython,2007-08-30,1,1,"#{""ohumbel@gmail.com""}",2934.0,19
+Python,jython,2007-08-31,7,1,"#{""pjenvey@underboss.org""}",2941.0,20
+Python,jython,2007-09-01,1,1,"#{""pjenvey@underboss.org""}",2942.0,20
+Python,jython,2007-09-03,3,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",2945.0,20
+Python,jython,2007-09-06,1,1,"#{""fwierzbicki@gmail.com""}",2946.0,20
+Python,jython,2007-09-13,3,1,"#{""pjenvey@underboss.org""}",2949.0,20
+Python,jython,2007-09-15,5,1,"#{""charlie.groves@gmail.com""}",2954.0,20
+Python,jython,2007-09-17,1,1,"#{""jbaker@zyasoft.com""}",2955.0,20
+Python,jython,2007-09-19,3,1,"#{""charlie.groves@gmail.com""}",2958.0,20
+Python,jython,2007-09-20,2,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",2960.0,20
+Python,jython,2007-09-21,6,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",2966.0,20
+Python,jython,2007-09-22,19,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",2985.0,20
+Python,jython,2007-09-23,5,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",2990.0,20
+Python,jython,2007-09-24,12,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3002.0,20
+Python,jython,2007-09-25,7,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",3009.0,20
+Python,jython,2007-09-27,4,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3013.0,20
+Python,jython,2007-10-02,2,1,"#{""pjenvey@underboss.org""}",3015.0,20
+Python,jython,2007-10-03,4,1,"#{""charlie.groves@gmail.com""}",3019.0,20
+Python,jython,2007-10-04,1,1,"#{""charlie.groves@gmail.com""}",3020.0,20
+Python,jython,2007-10-05,8,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3028.0,20
+Python,jython,2007-10-06,3,1,"#{""charlie.groves@gmail.com""}",3031.0,20
+Python,jython,2007-10-07,2,1,"#{""charlie.groves@gmail.com""}",3033.0,20
+Python,jython,2007-10-08,7,1,"#{""charlie.groves@gmail.com""}",3040.0,20
+Python,jython,2007-10-09,3,1,"#{""charlie.groves@gmail.com""}",3043.0,20
+Python,jython,2007-10-12,1,1,"#{""pjenvey@underboss.org""}",3044.0,20
+Python,jython,2007-10-13,7,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3051.0,20
+Python,jython,2007-10-14,2,1,"#{""charlie.groves@gmail.com""}",3053.0,20
+Python,jython,2007-10-15,1,1,"#{""charlie.groves@gmail.com""}",3054.0,20
+Python,jython,2007-10-16,1,1,"#{""tobias@thobe.org""}",3055.0,20
+Python,jython,2007-10-17,2,1,"#{""tobias@thobe.org""}",3057.0,20
+Python,jython,2007-11-06,8,1,"#{""pjenvey@underboss.org""}",3065.0,20
+Python,jython,2007-11-10,4,1,"#{""pjenvey@underboss.org""}",3069.0,20
+Python,jython,2007-11-12,2,1,"#{""charlie.groves@gmail.com""}",3071.0,20
+Python,jython,2007-11-13,2,1,"#{""pjenvey@underboss.org""}",3073.0,20
+Python,jython,2007-11-14,1,1,"#{""pjenvey@underboss.org""}",3074.0,20
+Python,jython,2007-11-15,5,1,"#{""pjenvey@underboss.org""}",3079.0,20
+Python,jython,2007-11-16,7,1,"#{""pjenvey@underboss.org""}",3086.0,20
+Python,jython,2007-11-17,5,1,"#{""pjenvey@underboss.org""}",3091.0,20
+Python,jython,2007-11-18,3,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3094.0,20
+Python,jython,2007-11-20,3,1,"#{""pjenvey@underboss.org""}",3097.0,20
+Python,jython,2007-11-23,5,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3102.0,20
+Python,jython,2007-11-24,2,1,"#{""charlie.groves@gmail.com""}",3104.0,20
+Python,jython,2007-11-25,5,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3109.0,20
+Python,jython,2007-11-26,4,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3113.0,20
+Python,jython,2007-11-27,5,3,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",3118.0,20
+Python,jython,2007-11-28,1,1,"#{""charlie.groves@gmail.com""}",3119.0,20
+Python,jython,2007-11-30,2,1,"#{""charlie.groves@gmail.com""}",3121.0,20
+Python,jython,2007-12-01,1,1,"#{""jbaker@zyasoft.com""}",3122.0,20
+Python,jython,2007-12-02,8,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",3130.0,20
+Python,jython,2007-12-03,4,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",3134.0,20
+Python,jython,2007-12-08,1,1,"#{""charlie.groves@gmail.com""}",3135.0,20
+Python,jython,2007-12-10,4,1,"#{""charlie.groves@gmail.com""}",3139.0,20
+Python,jython,2007-12-12,4,1,"#{""charlie.groves@gmail.com""}",3143.0,20
+Python,jython,2007-12-15,1,1,"#{""pjenvey@underboss.org""}",3144.0,20
+Python,jython,2007-12-16,5,1,"#{""charlie.groves@gmail.com""}",3149.0,20
+Python,jython,2007-12-17,14,5,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""tobias@thobe.org"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",3163.0,20
+Python,jython,2007-12-20,1,1,"#{""pjenvey@underboss.org""}",3164.0,20
+Python,jython,2007-12-21,2,1,"#{""pjenvey@underboss.org""}",3166.0,20
+Python,jython,2007-12-23,3,1,"#{""pjenvey@underboss.org""}",3169.0,20
+Python,jython,2007-12-24,14,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3183.0,20
+Python,jython,2007-12-25,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3186.0,20
+Python,jython,2007-12-26,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3189.0,20
+Python,jython,2007-12-27,4,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3193.0,20
+Python,jython,2007-12-28,5,3,"#{""charlie.groves@gmail.com"" ""tobias@thobe.org"" ""pjenvey@underboss.org""}",3198.0,20
+Python,jython,2007-12-29,12,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3210.0,20
+Python,jython,2007-12-30,15,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3225.0,20
+Python,jython,2007-12-31,1,1,"#{""pjenvey@underboss.org""}",3226.0,20
+Python,jython,2008-01-01,22,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3248.0,20
+Python,jython,2008-01-02,11,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3259.0,20
+Python,jython,2008-01-03,3,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3262.0,20
+Python,jython,2008-01-04,1,1,"#{""pjenvey@underboss.org""}",3263.0,20
+Python,jython,2008-01-05,3,1,"#{""pjenvey@underboss.org""}",3266.0,20
+Python,jython,2008-01-06,4,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3270.0,20
+Python,jython,2008-01-07,15,4,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""tobias@thobe.org"" ""pjenvey@underboss.org""}",3285.0,20
+Python,jython,2008-01-09,2,1,"#{""pjenvey@underboss.org""}",3287.0,20
+Python,jython,2008-01-10,2,1,"#{""pjenvey@underboss.org""}",3289.0,20
+Python,jython,2008-01-13,6,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3295.0,20
+Python,jython,2008-01-14,5,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""jython-dev@xhaus.com""}",3300.0,20
+Python,jython,2008-01-15,5,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",3305.0,20
+Python,jython,2008-01-16,3,3,"#{""tobias@thobe.org"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",3308.0,20
+Python,jython,2008-01-17,4,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",3312.0,20
+Python,jython,2008-01-18,5,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3317.0,20
+Python,jython,2008-01-19,2,1,"#{""charlie.groves@gmail.com""}",3319.0,20
+Python,jython,2008-01-20,1,1,"#{""charlie.groves@gmail.com""}",3320.0,20
+Python,jython,2008-01-21,6,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",3326.0,20
+Python,jython,2008-01-22,1,1,"#{""charlie.groves@gmail.com""}",3327.0,20
+Python,jython,2008-01-23,2,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3329.0,20
+Python,jython,2008-01-24,3,1,"#{""jbaker@zyasoft.com""}",3332.0,20
+Python,jython,2008-01-25,4,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3336.0,20
+Python,jython,2008-01-26,4,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3340.0,20
+Python,jython,2008-01-27,1,1,"#{""pjenvey@underboss.org""}",3341.0,20
+Python,jython,2008-02-02,1,1,"#{""jbaker@zyasoft.com""}",3342.0,20
+Python,jython,2008-02-03,3,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",3345.0,20
+Python,jython,2008-02-04,2,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",3347.0,20
+Python,jython,2008-02-05,5,1,"#{""pjenvey@underboss.org""}",3352.0,20
+Python,jython,2008-02-06,1,1,"#{""pjenvey@underboss.org""}",3353.0,20
+Python,jython,2008-02-07,9,1,"#{""pjenvey@underboss.org""}",3362.0,20
+Python,jython,2008-02-08,2,1,"#{""pjenvey@underboss.org""}",3364.0,20
+Python,jython,2008-02-09,5,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3369.0,20
+Python,jython,2008-02-10,7,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3376.0,20
+Python,jython,2008-02-11,3,1,"#{""charlie.groves@gmail.com""}",3379.0,20
+Python,jython,2008-02-13,2,1,"#{""charlie.groves@gmail.com""}",3381.0,20
+Python,jython,2008-02-16,5,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",3386.0,20
+Python,jython,2008-02-17,6,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",3392.0,20
+Python,jython,2008-02-18,5,1,"#{""pjenvey@underboss.org""}",3397.0,20
+Python,jython,2008-02-19,5,1,"#{""pjenvey@underboss.org""}",3402.0,20
+Python,jython,2008-02-21,2,1,"#{""pjenvey@underboss.org""}",3404.0,20
+Python,jython,2008-02-22,3,1,"#{""pjenvey@underboss.org""}",3407.0,20
+Python,jython,2008-02-23,2,1,"#{""jbaker@zyasoft.com""}",3409.0,20
+Python,jython,2008-02-24,8,1,"#{""pjenvey@underboss.org""}",3417.0,20
+Python,jython,2008-02-25,4,1,"#{""pjenvey@underboss.org""}",3421.0,20
+Python,jython,2008-02-26,4,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3425.0,20
+Python,jython,2008-02-27,1,1,"#{""jython-dev@xhaus.com""}",3426.0,20
+Python,jython,2008-02-28,1,1,"#{""charlie.groves@gmail.com""}",3427.0,20
+Python,jython,2008-03-03,1,1,"#{""pjenvey@underboss.org""}",3428.0,20
+Python,jython,2008-03-04,1,1,"#{""pjenvey@underboss.org""}",3429.0,20
+Python,jython,2008-03-05,1,1,"#{""pjenvey@underboss.org""}",3430.0,20
+Python,jython,2008-03-06,3,1,"#{""pjenvey@underboss.org""}",3433.0,20
+Python,jython,2008-03-07,1,1,"#{""pjenvey@underboss.org""}",3434.0,20
+Python,jython,2008-03-08,4,3,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",3438.0,20
+Python,jython,2008-03-10,1,1,"#{""pjenvey@underboss.org""}",3439.0,20
+Python,jython,2008-03-11,1,1,"#{""pjenvey@underboss.org""}",3440.0,20
+Python,jython,2008-03-14,1,1,"#{""charlie.groves@gmail.com""}",3441.0,20
+Python,jython,2008-03-15,1,1,"#{""jbaker@zyasoft.com""}",3442.0,20
+Python,jython,2008-03-16,7,3,"#{""charlie.groves@gmail.com"" ""tobias@thobe.org"" ""pjenvey@underboss.org""}",3449.0,20
+Python,jython,2008-03-17,9,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3458.0,20
+Python,jython,2008-03-18,3,2,"#{""charlie.groves@gmail.com"" ""tobias@thobe.org""}",3461.0,20
+Python,jython,2008-03-19,10,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3471.0,21
+Python,jython,2008-03-20,2,2,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com""}",3473.0,21
+Python,jython,2008-03-21,4,1,"#{""pjenvey@underboss.org""}",3477.0,21
+Python,jython,2008-03-22,5,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3482.0,21
+Python,jython,2008-03-24,1,1,"#{""pjenvey@underboss.org""}",3483.0,21
+Python,jython,2008-04-02,10,1,"#{""pjenvey@underboss.org""}",3493.0,21
+Python,jython,2008-04-03,6,1,"#{""pjenvey@underboss.org""}",3499.0,21
+Python,jython,2008-04-04,11,1,"#{""pjenvey@underboss.org""}",3510.0,21
+Python,jython,2008-04-05,9,1,"#{""pjenvey@underboss.org""}",3519.0,21
+Python,jython,2008-04-06,5,1,"#{""pjenvey@underboss.org""}",3524.0,21
+Python,jython,2008-04-07,9,1,"#{""pjenvey@underboss.org""}",3533.0,21
+Python,jython,2008-04-08,2,1,"#{""pjenvey@underboss.org""}",3535.0,21
+Python,jython,2008-04-09,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3541.0,21
+Python,jython,2008-04-10,2,1,"#{""pjenvey@underboss.org""}",3543.0,21
+Python,jython,2008-04-11,2,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3545.0,21
+Python,jython,2008-04-12,4,1,"#{""pjenvey@underboss.org""}",3549.0,21
+Python,jython,2008-04-13,6,1,"#{""pjenvey@underboss.org""}",3555.0,21
+Python,jython,2008-04-14,1,1,"#{""fwierzbicki@gmail.com""}",3556.0,21
+Python,jython,2008-04-15,4,1,"#{""pjenvey@underboss.org""}",3560.0,21
+Python,jython,2008-04-16,2,1,"#{""pjenvey@underboss.org""}",3562.0,21
+Python,jython,2008-04-17,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3565.0,21
+Python,jython,2008-04-18,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3570.0,21
+Python,jython,2008-04-19,4,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3574.0,21
+Python,jython,2008-04-20,2,1,"#{""fwierzbicki@gmail.com""}",3576.0,21
+Python,jython,2008-04-21,2,1,"#{""fwierzbicki@gmail.com""}",3578.0,21
+Python,jython,2008-04-22,2,1,"#{""fwierzbicki@gmail.com""}",3580.0,21
+Python,jython,2008-04-23,2,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3582.0,21
+Python,jython,2008-04-25,1,1,"#{""pjenvey@underboss.org""}",3583.0,21
+Python,jython,2008-05-01,1,1,"#{""pjenvey@underboss.org""}",3584.0,21
+Python,jython,2008-05-03,1,1,"#{""fwierzbicki@gmail.com""}",3585.0,21
+Python,jython,2008-05-08,3,1,"#{""fwierzbicki@gmail.com""}",3588.0,21
+Python,jython,2008-05-10,1,1,"#{""fwierzbicki@gmail.com""}",3589.0,21
+Python,jython,2008-05-12,1,1,"#{""fwierzbicki@gmail.com""}",3590.0,21
+Python,jython,2008-05-13,9,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3599.0,21
+Python,jython,2008-05-14,4,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3603.0,21
+Python,jython,2008-05-15,7,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3610.0,21
+Python,jython,2008-05-16,5,1,"#{""pjenvey@underboss.org""}",3615.0,21
+Python,jython,2008-05-17,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3620.0,21
+Python,jython,2008-05-18,3,1,"#{""pjenvey@underboss.org""}",3623.0,21
+Python,jython,2008-05-19,1,1,"#{""fwierzbicki@gmail.com""}",3624.0,21
+Python,jython,2008-05-20,15,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3639.0,21
+Python,jython,2008-05-22,2,1,"#{""fwierzbicki@gmail.com""}",3641.0,21
+Python,jython,2008-05-24,3,3,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",3644.0,21
+Python,jython,2008-05-25,8,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3652.0,21
+Python,jython,2008-05-26,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3658.0,21
+Python,jython,2008-05-27,8,1,"#{""fwierzbicki@gmail.com""}",3666.0,21
+Python,jython,2008-05-28,2,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3668.0,21
+Python,jython,2008-05-29,12,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3680.0,21
+Python,jython,2008-05-30,13,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3693.0,21
+Python,jython,2008-06-01,2,2,"#{""nriley@sabi.net"" ""jython-dev@xhaus.com""}",3695.0,21
+Python,jython,2008-06-02,20,4,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",3715.0,21
+Python,jython,2008-06-03,11,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3726.0,21
+Python,jython,2008-06-04,4,2,"#{""nriley@sabi.net"" ""pjenvey@underboss.org""}",3730.0,21
+Python,jython,2008-06-05,5,1,"#{""pjenvey@underboss.org""}",3735.0,21
+Python,jython,2008-06-06,11,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3746.0,21
+Python,jython,2008-06-07,9,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3755.0,21
+Python,jython,2008-06-08,14,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3769.0,21
+Python,jython,2008-06-09,15,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3784.0,21
+Python,jython,2008-06-10,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3790.0,21
+Python,jython,2008-06-11,8,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3798.0,21
+Python,jython,2008-06-12,6,1,"#{""fwierzbicki@gmail.com""}",3804.0,21
+Python,jython,2008-06-13,8,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3812.0,21
+Python,jython,2008-06-14,13,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",3825.0,21
+Python,jython,2008-06-15,14,3,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""pjenvey@underboss.org""}",3839.0,21
+Python,jython,2008-06-16,9,3,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com""}",3848.0,21
+Python,jython,2008-06-17,7,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3855.0,21
+Python,jython,2008-06-18,8,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3863.0,21
+Python,jython,2008-06-19,7,1,"#{""fwierzbicki@gmail.com""}",3870.0,21
+Python,jython,2008-06-20,26,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3896.0,21
+Python,jython,2008-06-21,4,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3900.0,21
+Python,jython,2008-06-22,1,1,"#{""pjenvey@underboss.org""}",3901.0,21
+Python,jython,2008-06-23,17,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3918.0,21
+Python,jython,2008-06-24,24,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3942.0,21
+Python,jython,2008-06-25,13,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3955.0,21
+Python,jython,2008-06-26,9,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3964.0,21
+Python,jython,2008-06-27,26,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",3990.0,21
+Python,jython,2008-06-30,6,1,"#{""jbaker@zyasoft.com""}",3996.0,21
+Python,jython,2008-07-01,9,2,"#{""jbaker@zyasoft.com"" ""leo.soto@gmail.com""}",4005.0,22
+Python,jython,2008-07-02,6,2,"#{""jbaker@zyasoft.com"" ""leo.soto@gmail.com""}",4011.0,22
+Python,jython,2008-07-03,2,1,"#{""leo.soto@gmail.com""}",4013.0,22
+Python,jython,2008-07-04,6,1,"#{""fwierzbicki@gmail.com""}",4019.0,22
+Python,jython,2008-07-05,1,1,"#{""fwierzbicki@gmail.com""}",4020.0,22
+Python,jython,2008-07-06,2,2,"#{""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",4022.0,22
+Python,jython,2008-07-07,5,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4027.0,22
+Python,jython,2008-07-08,14,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4041.0,22
+Python,jython,2008-07-09,3,2,"#{""nriley@sabi.net"" ""pjenvey@underboss.org""}",4044.0,22
+Python,jython,2008-07-10,2,2,"#{""nriley@sabi.net"" ""leo.soto@gmail.com""}",4046.0,22
+Python,jython,2008-07-11,10,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4056.0,22
+Python,jython,2008-07-12,19,3,"#{""jbaker@zyasoft.com"" ""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",4075.0,22
+Python,jython,2008-07-13,4,1,"#{""pjenvey@underboss.org""}",4079.0,22
+Python,jython,2008-07-14,14,4,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",4093.0,22
+Python,jython,2008-07-15,16,4,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""leo.soto@gmail.com"" ""jython-dev@xhaus.com""}",4109.0,22
+Python,jython,2008-07-16,4,1,"#{""pjenvey@underboss.org""}",4113.0,22
+Python,jython,2008-07-17,9,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4122.0,22
+Python,jython,2008-07-18,5,2,"#{""nriley@sabi.net"" ""pjenvey@underboss.org""}",4127.0,22
+Python,jython,2008-07-19,3,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4130.0,22
+Python,jython,2008-07-21,9,1,"#{""pjenvey@underboss.org""}",4139.0,22
+Python,jython,2008-07-23,8,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4147.0,22
+Python,jython,2008-07-24,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4152.0,22
+Python,jython,2008-07-25,1,1,"#{""nriley@sabi.net""}",4153.0,22
+Python,jython,2008-07-26,5,1,"#{""fwierzbicki@gmail.com""}",4158.0,22
+Python,jython,2008-07-27,1,1,"#{""fwierzbicki@gmail.com""}",4159.0,22
+Python,jython,2008-07-28,12,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4171.0,22
+Python,jython,2008-07-29,5,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4176.0,22
+Python,jython,2008-07-30,4,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",4180.0,22
+Python,jython,2008-07-31,14,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4194.0,22
+Python,jython,2008-08-01,11,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4205.0,22
+Python,jython,2008-08-02,6,3,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""pjenvey@underboss.org""}",4211.0,22
+Python,jython,2008-08-03,17,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4228.0,22
+Python,jython,2008-08-04,5,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4233.0,22
+Python,jython,2008-08-05,9,1,"#{""fwierzbicki@gmail.com""}",4242.0,22
+Python,jython,2008-08-06,12,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4254.0,22
+Python,jython,2008-08-07,4,3,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""leo.soto@gmail.com""}",4258.0,22
+Python,jython,2008-08-08,8,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4266.0,22
+Python,jython,2008-08-09,16,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4282.0,22
+Python,jython,2008-08-10,10,4,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",4292.0,22
+Python,jython,2008-08-11,16,4,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",4308.0,22
+Python,jython,2008-08-12,8,2,"#{""fwierzbicki@gmail.com"" ""leo.soto@gmail.com""}",4316.0,22
+Python,jython,2008-08-13,8,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4324.0,22
+Python,jython,2008-08-14,5,1,"#{""fwierzbicki@gmail.com""}",4329.0,22
+Python,jython,2008-08-15,6,2,"#{""fwierzbicki@gmail.com"" ""leo.soto@gmail.com""}",4335.0,22
+Python,jython,2008-08-16,7,3,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com""}",4342.0,22
+Python,jython,2008-08-17,3,2,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com""}",4345.0,22
+Python,jython,2008-08-18,4,3,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""leo.soto@gmail.com""}",4349.0,22
+Python,jython,2008-08-19,7,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4356.0,22
+Python,jython,2008-08-20,16,4,"#{""jbaker@zyasoft.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4372.0,22
+Python,jython,2008-08-21,5,3,"#{""fwierzbicki@gmail.com"" ""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",4377.0,22
+Python,jython,2008-08-22,4,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4381.0,22
+Python,jython,2008-08-23,4,1,"#{""fwierzbicki@gmail.com""}",4385.0,22
+Python,jython,2008-08-24,2,1,"#{""fwierzbicki@gmail.com""}",4387.0,22
+Python,jython,2008-08-25,5,1,"#{""fwierzbicki@gmail.com""}",4392.0,22
+Python,jython,2008-08-26,6,1,"#{""fwierzbicki@gmail.com""}",4398.0,22
+Python,jython,2008-08-27,8,1,"#{""fwierzbicki@gmail.com""}",4406.0,22
+Python,jython,2008-08-29,10,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4416.0,22
+Python,jython,2008-08-30,1,1,"#{""jbaker@zyasoft.com""}",4417.0,22
+Python,jython,2008-08-31,2,1,"#{""fwierzbicki@gmail.com""}",4419.0,22
+Python,jython,2008-09-01,2,2,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com""}",4421.0,22
+Python,jython,2008-09-02,2,1,"#{""fwierzbicki@gmail.com""}",4423.0,22
+Python,jython,2008-09-03,4,1,"#{""fwierzbicki@gmail.com""}",4427.0,22
+Python,jython,2008-09-04,1,1,"#{""fwierzbicki@gmail.com""}",4428.0,22
+Python,jython,2008-09-05,3,2,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com""}",4431.0,22
+Python,jython,2008-09-06,5,1,"#{""fwierzbicki@gmail.com""}",4436.0,22
+Python,jython,2008-09-07,1,1,"#{""fwierzbicki@gmail.com""}",4437.0,22
+Python,jython,2008-09-08,2,2,"#{""leo.soto@gmail.com"" ""ohumbel@gmail.com""}",4439.0,22
+Python,jython,2008-09-09,4,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",4443.0,22
+Python,jython,2008-09-10,3,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",4446.0,22
+Python,jython,2008-09-11,5,1,"#{""fwierzbicki@gmail.com""}",4451.0,22
+Python,jython,2008-09-13,6,3,"#{""jbaker@zyasoft.com"" ""leo.soto@gmail.com"" ""jython-dev@xhaus.com""}",4457.0,22
+Python,jython,2008-09-14,2,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",4459.0,22
+Python,jython,2008-09-15,1,1,"#{""fwierzbicki@gmail.com""}",4460.0,22
+Python,jython,2008-09-18,2,1,"#{""fwierzbicki@gmail.com""}",4462.0,22
+Python,jython,2008-09-20,1,1,"#{""leo.soto@gmail.com""}",4463.0,22
+Python,jython,2008-09-21,1,1,"#{""leo.soto@gmail.com""}",4464.0,22
+Python,jython,2008-09-24,4,3,"#{""tobias@thobe.org"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4468.0,22
+Python,jython,2008-09-25,3,2,"#{""tobias@thobe.org"" ""pjenvey@underboss.org""}",4471.0,22
+Python,jython,2008-09-26,3,2,"#{""tobias@thobe.org"" ""fwierzbicki@gmail.com""}",4474.0,22
+Python,jython,2008-10-01,1,1,"#{""fwierzbicki@gmail.com""}",4475.0,22
+Python,jython,2008-10-02,3,1,"#{""pjenvey@underboss.org""}",4478.0,22
+Python,jython,2008-10-05,2,1,"#{""pjenvey@underboss.org""}",4480.0,22
+Python,jython,2008-10-06,7,1,"#{""jbaker@zyasoft.com""}",4487.0,22
+Python,jython,2008-10-09,1,1,"#{""pjenvey@underboss.org""}",4488.0,22
+Python,jython,2008-10-10,1,1,"#{""fwierzbicki@gmail.com""}",4489.0,22
+Python,jython,2008-10-11,8,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4497.0,22
+Python,jython,2008-10-12,8,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4505.0,22
+Python,jython,2008-10-13,5,1,"#{""fwierzbicki@gmail.com""}",4510.0,22
+Python,jython,2008-10-14,5,4,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",4515.0,22
+Python,jython,2008-10-15,17,4,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",4532.0,22
+Python,jython,2008-10-16,36,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4568.0,22
+Python,jython,2008-10-17,8,3,"#{""charlie.groves@gmail.com"" ""tobias@thobe.org"" ""pjenvey@underboss.org""}",4576.0,22
+Python,jython,2008-10-18,3,2,"#{""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",4579.0,22
+Python,jython,2008-10-19,11,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",4590.0,22
+Python,jython,2008-10-20,14,4,"#{""charlie.groves@gmail.com"" ""tobias@thobe.org"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4604.0,22
+Python,jython,2008-10-21,11,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4615.0,22
+Python,jython,2008-10-22,2,1,"#{""charlie.groves@gmail.com""}",4617.0,22
+Python,jython,2008-10-24,1,1,"#{""pjenvey@underboss.org""}",4618.0,22
+Python,jython,2008-10-25,3,1,"#{""pjenvey@underboss.org""}",4621.0,22
+Python,jython,2008-10-26,6,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4627.0,22
+Python,jython,2008-10-27,8,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",4635.0,22
+Python,jython,2008-10-28,2,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",4637.0,22
+Python,jython,2008-10-29,1,1,"#{""pjenvey@underboss.org""}",4638.0,22
+Python,jython,2008-10-30,5,1,"#{""pjenvey@underboss.org""}",4643.0,22
+Python,jython,2008-10-31,6,3,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",4649.0,22
+Python,jython,2008-11-05,4,2,"#{""leo.soto@gmail.com"" ""ohumbel@gmail.com""}",4653.0,22
+Python,jython,2008-11-06,1,1,"#{""pjenvey@underboss.org""}",4654.0,22
+Python,jython,2008-11-07,6,1,"#{""pjenvey@underboss.org""}",4660.0,22
+Python,jython,2008-11-08,1,1,"#{""pjenvey@underboss.org""}",4661.0,22
+Python,jython,2008-11-09,2,1,"#{""charlie.groves@gmail.com""}",4663.0,22
+Python,jython,2008-11-10,10,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4673.0,22
+Python,jython,2008-11-11,2,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",4675.0,22
+Python,jython,2008-11-12,4,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4679.0,22
+Python,jython,2008-11-14,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4685.0,22
+Python,jython,2008-11-16,1,1,"#{""pjenvey@underboss.org""}",4686.0,22
+Python,jython,2008-11-17,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4691.0,22
+Python,jython,2008-11-18,5,1,"#{""fwierzbicki@gmail.com""}",4696.0,22
+Python,jython,2008-11-20,3,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4699.0,22
+Python,jython,2008-11-21,2,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4701.0,22
+Python,jython,2008-11-22,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4707.0,22
+Python,jython,2008-11-23,19,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4726.0,22
+Python,jython,2008-11-24,10,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4736.0,22
+Python,jython,2008-11-25,6,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",4742.0,22
+Python,jython,2008-11-26,3,1,"#{""fwierzbicki@gmail.com""}",4745.0,22
+Python,jython,2008-11-27,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4750.0,22
+Python,jython,2008-11-28,8,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",4758.0,22
+Python,jython,2008-11-29,4,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4762.0,22
+Python,jython,2008-11-30,3,1,"#{""charlie.groves@gmail.com""}",4765.0,22
+Python,jython,2008-12-01,6,2,"#{""charlie.groves@gmail.com"" ""nriley@sabi.net""}",4771.0,22
+Python,jython,2008-12-02,7,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",4778.0,22
+Python,jython,2008-12-03,9,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",4787.0,22
+Python,jython,2008-12-04,6,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",4793.0,22
+Python,jython,2008-12-05,11,3,"#{""charlie.groves@gmail.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com""}",4804.0,22
+Python,jython,2008-12-06,14,5,"#{""charlie.groves@gmail.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",4818.0,22
+Python,jython,2008-12-07,3,2,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com""}",4821.0,22
+Python,jython,2008-12-08,1,1,"#{""pjenvey@underboss.org""}",4822.0,22
+Python,jython,2008-12-09,3,1,"#{""pjenvey@underboss.org""}",4825.0,22
+Python,jython,2008-12-10,7,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",4832.0,22
+Python,jython,2008-12-11,3,1,"#{""pjenvey@underboss.org""}",4835.0,22
+Python,jython,2008-12-12,13,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",4848.0,22
+Python,jython,2008-12-13,2,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",4850.0,22
+Python,jython,2008-12-14,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4856.0,22
+Python,jython,2008-12-15,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4862.0,22
+Python,jython,2008-12-16,2,2,"#{""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",4864.0,22
+Python,jython,2008-12-17,4,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4868.0,22
+Python,jython,2008-12-18,4,1,"#{""jython-dev@xhaus.com""}",4872.0,22
+Python,jython,2008-12-19,4,3,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",4876.0,22
+Python,jython,2008-12-21,2,2,"#{""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",4878.0,22
+Python,jython,2008-12-22,3,1,"#{""charlie.groves@gmail.com""}",4881.0,22
+Python,jython,2008-12-23,8,1,"#{""fwierzbicki@gmail.com""}",4889.0,22
+Python,jython,2008-12-24,2,2,"#{""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",4891.0,22
+Python,jython,2008-12-25,3,1,"#{""charlie.groves@gmail.com""}",4894.0,22
+Python,jython,2008-12-28,1,1,"#{""charlie.groves@gmail.com""}",4895.0,22
+Python,jython,2008-12-29,11,4,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4906.0,22
+Python,jython,2008-12-30,5,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",4911.0,22
+Python,jython,2008-12-31,5,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",4916.0,22
+Python,jython,2009-01-01,7,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",4923.0,22
+Python,jython,2009-01-02,3,1,"#{""fwierzbicki@gmail.com""}",4926.0,22
+Python,jython,2009-01-03,3,1,"#{""fwierzbicki@gmail.com""}",4929.0,22
+Python,jython,2009-01-04,7,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",4936.0,22
+Python,jython,2009-01-05,5,2,"#{""charlie.groves@gmail.com"" ""jython-dev@xhaus.com""}",4941.0,22
+Python,jython,2009-01-06,3,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",4944.0,22
+Python,jython,2009-01-07,4,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",4948.0,22
+Python,jython,2009-01-08,9,3,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",4957.0,22
+Python,jython,2009-01-09,5,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",4962.0,22
+Python,jython,2009-01-10,2,2,"#{""pedronis@openend.se"" ""pjenvey@underboss.org""}",4964.0,22
+Python,jython,2009-01-11,8,1,"#{""charlie.groves@gmail.com""}",4972.0,22
+Python,jython,2009-01-12,1,1,"#{""pjenvey@underboss.org""}",4973.0,22
+Python,jython,2009-01-13,1,1,"#{""charlie.groves@gmail.com""}",4974.0,22
+Python,jython,2009-01-14,3,1,"#{""fwierzbicki@gmail.com""}",4977.0,22
+Python,jython,2009-01-15,2,1,"#{""fwierzbicki@gmail.com""}",4979.0,22
+Python,jython,2009-01-16,2,1,"#{""charlie.groves@gmail.com""}",4981.0,22
+Python,jython,2009-01-17,7,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",4988.0,22
+Python,jython,2009-01-18,3,2,"#{""charlie.groves@gmail.com"" ""ohumbel@gmail.com""}",4991.0,22
+Python,jython,2009-01-19,1,1,"#{""ohumbel@gmail.com""}",4992.0,22
+Python,jython,2009-01-20,4,2,"#{""jbaker@zyasoft.com"" ""leo.soto@gmail.com""}",4996.0,22
+Python,jython,2009-01-21,4,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",5000.0,22
+Python,jython,2009-01-22,3,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",5003.0,22
+Python,jython,2009-01-23,4,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5007.0,22
+Python,jython,2009-01-24,8,3,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",5015.0,22
+Python,jython,2009-01-25,4,2,"#{""charlie.groves@gmail.com"" ""nriley@sabi.net""}",5019.0,22
+Python,jython,2009-01-26,6,2,"#{""jbaker@zyasoft.com"" ""charlie.groves@gmail.com""}",5025.0,22
+Python,jython,2009-01-27,3,1,"#{""jbaker@zyasoft.com""}",5028.0,22
+Python,jython,2009-01-28,2,1,"#{""jython-dev@xhaus.com""}",5030.0,22
+Python,jython,2009-01-29,5,2,"#{""jbaker@zyasoft.com"" ""jython-dev@xhaus.com""}",5035.0,22
+Python,jython,2009-01-31,1,1,"#{""pjenvey@underboss.org""}",5036.0,22
+Python,jython,2009-02-01,2,1,"#{""jbaker@zyasoft.com""}",5038.0,22
+Python,jython,2009-02-02,1,1,"#{""jython-dev@xhaus.com""}",5039.0,22
+Python,jython,2009-02-03,3,2,"#{""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5042.0,22
+Python,jython,2009-02-04,4,2,"#{""leo.soto@gmail.com"" ""jython-dev@xhaus.com""}",5046.0,22
+Python,jython,2009-02-05,1,1,"#{""ohumbel@gmail.com""}",5047.0,22
+Python,jython,2009-02-06,3,1,"#{""jbaker@zyasoft.com""}",5050.0,22
+Python,jython,2009-02-07,5,1,"#{""jbaker@zyasoft.com""}",5055.0,22
+Python,jython,2009-02-09,1,1,"#{""fwierzbicki@gmail.com""}",5056.0,22
+Python,jython,2009-02-11,1,1,"#{""jbaker@zyasoft.com""}",5057.0,22
+Python,jython,2009-02-12,1,1,"#{""jbaker@zyasoft.com""}",5058.0,22
+Python,jython,2009-02-14,5,1,"#{""jbaker@zyasoft.com""}",5063.0,22
+Python,jython,2009-02-15,5,3,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5068.0,22
+Python,jython,2009-02-16,1,1,"#{""fwierzbicki@gmail.com""}",5069.0,22
+Python,jython,2009-02-17,1,1,"#{""fwierzbicki@gmail.com""}",5070.0,22
+Python,jython,2009-02-18,2,2,"#{""jbaker@zyasoft.com"" ""jython-dev@xhaus.com""}",5072.0,22
+Python,jython,2009-02-19,1,1,"#{""fwierzbicki@gmail.com""}",5073.0,22
+Python,jython,2009-02-22,1,1,"#{""jbaker@zyasoft.com""}",5074.0,22
+Python,jython,2009-02-24,6,2,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com""}",5080.0,22
+Python,jython,2009-03-01,1,1,"#{""fwierzbicki@gmail.com""}",5081.0,22
+Python,jython,2009-03-02,3,1,"#{""fwierzbicki@gmail.com""}",5084.0,22
+Python,jython,2009-03-03,5,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",5089.0,22
+Python,jython,2009-03-05,5,1,"#{""jython-dev@xhaus.com""}",5094.0,22
+Python,jython,2009-03-06,7,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",5101.0,22
+Python,jython,2009-03-07,6,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",5107.0,22
+Python,jython,2009-03-08,2,1,"#{""jbaker@zyasoft.com""}",5109.0,22
+Python,jython,2009-03-10,5,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",5114.0,22
+Python,jython,2009-03-11,1,1,"#{""ohumbel@gmail.com""}",5115.0,22
+Python,jython,2009-03-13,1,1,"#{""fwierzbicki@gmail.com""}",5116.0,22
+Python,jython,2009-03-14,2,1,"#{""pjenvey@underboss.org""}",5118.0,22
+Python,jython,2009-03-16,1,1,"#{""pjenvey@underboss.org""}",5119.0,22
+Python,jython,2009-03-17,4,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5123.0,22
+Python,jython,2009-03-20,1,1,"#{""pjenvey@underboss.org""}",5124.0,22
+Python,jython,2009-03-21,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5127.0,22
+Python,jython,2009-03-22,2,1,"#{""jbaker@zyasoft.com""}",5129.0,22
+Python,jython,2009-03-26,1,1,"#{""pjenvey@underboss.org""}",5130.0,22
+Python,jython,2009-03-27,4,1,"#{""pjenvey@underboss.org""}",5134.0,22
+Python,jython,2009-03-29,5,2,"#{""tobias@thobe.org"" ""pjenvey@underboss.org""}",5139.0,22
+Python,jython,2009-03-30,11,3,"#{""tobias@thobe.org"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5150.0,22
+Python,jython,2009-03-31,10,6,"#{""jbaker@zyasoft.com"" ""tobias@thobe.org"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com"" ""jython-dev@xhaus.com""}",5160.0,22
+Python,jython,2009-04-02,1,1,"#{""jbaker@zyasoft.com""}",5161.0,22
+Python,jython,2009-04-03,6,1,"#{""pjenvey@underboss.org""}",5167.0,22
+Python,jython,2009-04-04,4,2,"#{""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5171.0,22
+Python,jython,2009-04-05,11,4,"#{""jbaker@zyasoft.com"" ""tobias@thobe.org"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5182.0,22
+Python,jython,2009-04-06,7,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5189.0,22
+Python,jython,2009-04-07,9,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5198.0,22
+Python,jython,2009-04-08,6,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5204.0,22
+Python,jython,2009-04-09,1,1,"#{""pjenvey@underboss.org""}",5205.0,22
+Python,jython,2009-04-10,18,4,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5223.0,22
+Python,jython,2009-04-11,9,3,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5232.0,22
+Python,jython,2009-04-12,2,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5234.0,22
+Python,jython,2009-04-13,1,1,"#{""jbaker@zyasoft.com""}",5235.0,22
+Python,jython,2009-04-14,3,1,"#{""fwierzbicki@gmail.com""}",5238.0,22
+Python,jython,2009-04-15,2,1,"#{""jbaker@zyasoft.com""}",5240.0,22
+Python,jython,2009-04-16,4,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5244.0,22
+Python,jython,2009-04-17,5,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5249.0,22
+Python,jython,2009-04-18,6,2,"#{""jbaker@zyasoft.com"" ""jython-dev@xhaus.com""}",5255.0,22
+Python,jython,2009-04-19,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5258.0,22
+Python,jython,2009-04-20,1,1,"#{""ohumbel@gmail.com""}",5259.0,22
+Python,jython,2009-04-21,2,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5261.0,22
+Python,jython,2009-04-22,6,3,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5267.0,22
+Python,jython,2009-04-23,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5270.0,22
+Python,jython,2009-04-24,3,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5273.0,22
+Python,jython,2009-04-25,1,1,"#{""pjenvey@underboss.org""}",5274.0,22
+Python,jython,2009-04-27,4,1,"#{""charlie.groves@gmail.com""}",5278.0,22
+Python,jython,2009-04-28,2,1,"#{""fwierzbicki@gmail.com""}",5280.0,22
+Python,jython,2009-04-29,3,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5283.0,22
+Python,jython,2009-04-30,4,1,"#{""jbaker@zyasoft.com""}",5287.0,22
+Python,jython,2009-05-01,2,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",5289.0,22
+Python,jython,2009-05-02,2,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",5291.0,22
+Python,jython,2009-05-03,4,1,"#{""pjenvey@underboss.org""}",5295.0,22
+Python,jython,2009-05-04,2,1,"#{""pjenvey@underboss.org""}",5297.0,22
+Python,jython,2009-05-05,6,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5303.0,22
+Python,jython,2009-05-06,5,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5308.0,22
+Python,jython,2009-05-07,8,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5316.0,22
+Python,jython,2009-05-08,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5319.0,22
+Python,jython,2009-05-09,2,1,"#{""pjenvey@underboss.org""}",5321.0,22
+Python,jython,2009-05-10,12,3,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5333.0,22
+Python,jython,2009-05-11,10,3,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5343.0,22
+Python,jython,2009-05-12,2,1,"#{""pjenvey@underboss.org""}",5345.0,22
+Python,jython,2009-05-13,4,1,"#{""pjenvey@underboss.org""}",5349.0,22
+Python,jython,2009-05-15,2,1,"#{""pjenvey@underboss.org""}",5351.0,22
+Python,jython,2009-05-16,3,1,"#{""pjenvey@underboss.org""}",5354.0,22
+Python,jython,2009-05-17,1,1,"#{""jython-dev@xhaus.com""}",5355.0,22
+Python,jython,2009-05-18,3,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5358.0,22
+Python,jython,2009-05-20,3,2,"#{""ohumbel@gmail.com"" ""jython-dev@xhaus.com""}",5361.0,22
+Python,jython,2009-05-21,2,1,"#{""pjenvey@underboss.org""}",5363.0,22
+Python,jython,2009-05-22,1,1,"#{""pjenvey@underboss.org""}",5364.0,22
+Python,jython,2009-05-23,8,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5372.0,22
+Python,jython,2009-05-24,3,1,"#{""pjenvey@underboss.org""}",5375.0,22
+Python,jython,2009-05-26,12,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5387.0,22
+Python,jython,2009-05-27,10,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5397.0,22
+Python,jython,2009-05-28,10,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5407.0,22
+Python,jython,2009-05-29,6,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5413.0,22
+Python,jython,2009-05-30,9,1,"#{""pjenvey@underboss.org""}",5422.0,22
+Python,jython,2009-05-31,4,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5426.0,22
+Python,jython,2009-06-01,2,1,"#{""pjenvey@underboss.org""}",5428.0,22
+Python,jython,2009-06-02,2,1,"#{""ohumbel@gmail.com""}",5430.0,22
+Python,jython,2009-06-03,2,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",5432.0,22
+Python,jython,2009-06-04,8,1,"#{""pjenvey@underboss.org""}",5440.0,22
+Python,jython,2009-06-05,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5443.0,22
+Python,jython,2009-06-06,10,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5453.0,22
+Python,jython,2009-06-07,3,1,"#{""pjenvey@underboss.org""}",5456.0,22
+Python,jython,2009-06-08,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5461.0,22
+Python,jython,2009-06-11,2,1,"#{""ohumbel@gmail.com""}",5463.0,22
+Python,jython,2009-06-16,2,1,"#{""fwierzbicki@gmail.com""}",5465.0,22
+Python,jython,2009-06-21,1,1,"#{""jython-dev@xhaus.com""}",5466.0,22
+Python,jython,2009-06-22,5,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",5471.0,22
+Python,jython,2009-06-23,5,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",5476.0,22
+Python,jython,2009-06-29,4,1,"#{""charlie.groves@gmail.com""}",5480.0,22
+Python,jython,2009-06-30,2,1,"#{""charlie.groves@gmail.com""}",5482.0,22
+Python,jython,2009-07-03,2,2,"#{""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",5484.0,22
+Python,jython,2009-07-05,4,1,"#{""fwierzbicki@gmail.com""}",5488.0,22
+Python,jython,2009-07-06,4,1,"#{""fwierzbicki@gmail.com""}",5492.0,22
+Python,jython,2009-07-07,8,3,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5500.0,22
+Python,jython,2009-07-09,1,1,"#{""charlie.groves@gmail.com""}",5501.0,22
+Python,jython,2009-07-11,3,2,"#{""jbaker@zyasoft.com"" ""pjenvey@underboss.org""}",5504.0,22
+Python,jython,2009-07-12,5,2,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",5509.0,22
+Python,jython,2009-07-13,2,2,"#{""tobias@thobe.org"" ""fwierzbicki@gmail.com""}",5511.0,22
+Python,jython,2009-07-15,3,1,"#{""tobias@thobe.org""}",5514.0,22
+Python,jython,2009-07-17,1,1,"#{""nriley@sabi.net""}",5515.0,22
+Python,jython,2009-07-19,6,2,"#{""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",5521.0,22
+Python,jython,2009-07-20,3,3,"#{""nriley@sabi.net"" ""tobias@thobe.org"" ""fwierzbicki@gmail.com""}",5524.0,22
+Python,jython,2009-07-21,6,3,"#{""tobias@thobe.org"" ""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5530.0,22
+Python,jython,2009-07-22,6,2,"#{""nriley@sabi.net"" ""pjenvey@underboss.org""}",5536.0,22
+Python,jython,2009-07-23,7,1,"#{""nriley@sabi.net""}",5543.0,22
+Python,jython,2009-07-24,1,1,"#{""pjenvey@underboss.org""}",5544.0,22
+Python,jython,2009-07-25,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5550.0,22
+Python,jython,2009-07-26,6,2,"#{""charlie.groves@gmail.com"" ""nriley@sabi.net""}",5556.0,22
+Python,jython,2009-07-27,3,1,"#{""fwierzbicki@gmail.com""}",5559.0,22
+Python,jython,2009-07-28,3,1,"#{""fwierzbicki@gmail.com""}",5562.0,22
+Python,jython,2009-07-30,12,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5574.0,22
+Python,jython,2009-07-31,9,3,"#{""nriley@sabi.net"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5583.0,22
+Python,jython,2009-08-01,3,1,"#{""pjenvey@underboss.org""}",5586.0,22
+Python,jython,2009-08-02,3,3,"#{""charlie.groves@gmail.com"" ""nriley@sabi.net"" ""fwierzbicki@gmail.com""}",5589.0,22
+Python,jython,2009-08-03,1,1,"#{""charlie.groves@gmail.com""}",5590.0,22
+Python,jython,2009-08-04,5,2,"#{""tobias@thobe.org"" ""fwierzbicki@gmail.com""}",5595.0,22
+Python,jython,2009-08-06,2,2,"#{""leo.soto@gmail.com"" ""pjenvey@underboss.org""}",5597.0,22
+Python,jython,2009-08-09,1,1,"#{""pjenvey@underboss.org""}",5598.0,22
+Python,jython,2009-08-10,24,1,"#{""fwierzbicki@gmail.com""}",5622.0,22
+Python,jython,2009-08-11,1,1,"#{""charlie.groves@gmail.com""}",5623.0,22
+Python,jython,2009-08-12,1,1,"#{""pjenvey@underboss.org""}",5624.0,22
+Python,jython,2009-08-13,2,1,"#{""fwierzbicki@gmail.com""}",5626.0,22
+Python,jython,2009-08-16,18,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5644.0,22
+Python,jython,2009-08-17,8,3,"#{""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5652.0,22
+Python,jython,2009-08-18,2,1,"#{""pjenvey@underboss.org""}",5654.0,22
+Python,jython,2009-08-19,4,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",5658.0,22
+Python,jython,2009-08-21,1,1,"#{""wmeissner@gmail.com""}",5659.0,23
+Python,jython,2009-08-22,1,1,"#{""wmeissner@gmail.com""}",5660.0,23
+Python,jython,2009-08-23,3,3,"#{""wmeissner@gmail.com"" ""charlie.groves@gmail.com"" ""fwierzbicki@gmail.com""}",5663.0,23
+Python,jython,2009-08-24,1,1,"#{""leo.soto@gmail.com""}",5664.0,23
+Python,jython,2009-08-25,1,1,"#{""charlie.groves@gmail.com""}",5665.0,23
+Python,jython,2009-08-26,5,2,"#{""wmeissner@gmail.com"" ""pjenvey@underboss.org""}",5670.0,23
+Python,jython,2009-08-29,2,1,"#{""pjenvey@underboss.org""}",5672.0,23
+Python,jython,2009-08-30,1,1,"#{""wmeissner@gmail.com""}",5673.0,23
+Python,jython,2009-08-31,4,2,"#{""wmeissner@gmail.com"" ""fwierzbicki@gmail.com""}",5677.0,23
+Python,jython,2009-09-01,6,1,"#{""fwierzbicki@gmail.com""}",5683.0,23
+Python,jython,2009-09-02,1,1,"#{""wmeissner@gmail.com""}",5684.0,23
+Python,jython,2009-09-03,2,1,"#{""wmeissner@gmail.com""}",5686.0,23
+Python,jython,2009-09-04,5,1,"#{""wmeissner@gmail.com""}",5691.0,23
+Python,jython,2009-09-05,4,1,"#{""wmeissner@gmail.com""}",5695.0,23
+Python,jython,2009-09-07,2,1,"#{""jbaker@zyasoft.com""}",5697.0,23
+Python,jython,2009-09-09,14,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5711.0,23
+Python,jython,2009-09-11,7,4,"#{""wmeissner@gmail.com"" ""jbaker@zyasoft.com"" ""charlie.groves@gmail.com"" ""pjenvey@underboss.org""}",5718.0,23
+Python,jython,2009-09-12,4,3,"#{""wmeissner@gmail.com"" ""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com""}",5722.0,23
+Python,jython,2009-09-13,1,1,"#{""pjenvey@underboss.org""}",5723.0,23
+Python,jython,2009-09-14,2,1,"#{""pjenvey@underboss.org""}",5725.0,23
+Python,jython,2009-09-17,1,1,"#{""fwierzbicki@gmail.com""}",5726.0,23
+Python,jython,2009-09-24,3,1,"#{""fwierzbicki@gmail.com""}",5729.0,23
+Python,jython,2009-09-26,2,1,"#{""fwierzbicki@gmail.com""}",5731.0,23
+Python,jython,2009-09-27,1,1,"#{""fwierzbicki@gmail.com""}",5732.0,23
+Python,jython,2009-10-01,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5737.0,23
+Python,jython,2009-10-02,5,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5742.0,23
+Python,jython,2009-10-03,3,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5745.0,23
+Python,jython,2009-10-04,10,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5755.0,23
+Python,jython,2009-10-06,4,2,"#{""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",5759.0,23
+Python,jython,2009-10-07,3,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5762.0,23
+Python,jython,2009-10-08,2,1,"#{""fwierzbicki@gmail.com""}",5764.0,23
+Python,jython,2009-10-09,2,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5766.0,23
+Python,jython,2009-10-10,2,1,"#{""pjenvey@underboss.org""}",5768.0,23
+Python,jython,2009-10-12,1,1,"#{""pjenvey@underboss.org""}",5769.0,23
+Python,jython,2009-10-13,1,1,"#{""pjenvey@underboss.org""}",5770.0,23
+Python,jython,2009-10-14,4,1,"#{""pjenvey@underboss.org""}",5774.0,23
+Python,jython,2009-10-15,2,2,"#{""ohumbel@gmail.com"" ""jython-dev@xhaus.com""}",5776.0,23
+Python,jython,2009-10-16,4,1,"#{""pjenvey@underboss.org""}",5780.0,23
+Python,jython,2009-10-17,5,2,"#{""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5785.0,23
+Python,jython,2009-10-18,1,1,"#{""pjenvey@underboss.org""}",5786.0,23
+Python,jython,2009-10-19,6,1,"#{""pjenvey@underboss.org""}",5792.0,23
+Python,jython,2009-10-20,10,1,"#{""pjenvey@underboss.org""}",5802.0,23
+Python,jython,2009-10-23,2,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5804.0,23
+Python,jython,2009-10-24,7,1,"#{""pjenvey@underboss.org""}",5811.0,23
+Python,jython,2009-10-25,1,1,"#{""pjenvey@underboss.org""}",5812.0,23
+Python,jython,2009-10-26,8,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5820.0,23
+Python,jython,2009-10-27,11,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5831.0,23
+Python,jython,2009-10-28,6,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",5837.0,23
+Python,jython,2009-10-29,6,1,"#{""pjenvey@underboss.org""}",5843.0,23
+Python,jython,2009-10-30,2,1,"#{""pjenvey@underboss.org""}",5845.0,23
+Python,jython,2009-10-31,2,1,"#{""pjenvey@underboss.org""}",5847.0,23
+Python,jython,2009-11-04,1,1,"#{""leo.soto@gmail.com""}",5848.0,23
+Python,jython,2009-11-08,1,1,"#{""pjenvey@underboss.org""}",5849.0,23
+Python,jython,2009-11-09,1,1,"#{""pjenvey@underboss.org""}",5850.0,23
+Python,jython,2009-11-11,1,1,"#{""wmeissner@gmail.com""}",5851.0,23
+Python,jython,2009-11-15,2,1,"#{""pjenvey@underboss.org""}",5853.0,23
+Python,jython,2009-11-16,1,1,"#{""pjenvey@underboss.org""}",5854.0,23
+Python,jython,2009-11-22,2,1,"#{""pjenvey@underboss.org""}",5856.0,23
+Python,jython,2009-11-24,1,1,"#{""pjenvey@underboss.org""}",5857.0,23
+Python,jython,2009-11-25,1,1,"#{""pjenvey@underboss.org""}",5858.0,23
+Python,jython,2009-11-29,1,1,"#{""jython-dev@xhaus.com""}",5859.0,23
+Python,jython,2009-11-30,1,1,"#{""tobias@thobe.org""}",5860.0,23
+Python,jython,2009-12-03,1,1,"#{""pjenvey@underboss.org""}",5861.0,23
+Python,jython,2009-12-08,1,1,"#{""pjenvey@underboss.org""}",5862.0,23
+Python,jython,2009-12-09,1,1,"#{""nriley@sabi.net""}",5863.0,23
+Python,jython,2009-12-14,1,1,"#{""jython-dev@xhaus.com""}",5864.0,23
+Python,jython,2009-12-30,1,1,"#{""fwierzbicki@gmail.com""}",5865.0,23
+Python,jython,2010-01-09,1,1,"#{""pjenvey@underboss.org""}",5866.0,23
+Python,jython,2010-01-22,1,1,"#{""pjenvey@underboss.org""}",5867.0,23
+Python,jython,2010-01-23,2,1,"#{""nriley@sabi.net""}",5869.0,23
+Python,jython,2010-01-24,2,1,"#{""nriley@sabi.net""}",5871.0,23
+Python,jython,2010-01-30,6,3,"#{""wmeissner@gmail.com"" ""leo.soto@gmail.com"" ""ohumbel@gmail.com""}",5877.0,23
+Python,jython,2010-01-31,1,1,"#{""leo.soto@gmail.com""}",5878.0,23
+Python,jython,2010-02-02,1,1,"#{""nriley@sabi.net""}",5879.0,23
+Python,jython,2010-02-03,2,1,"#{""wmeissner@gmail.com""}",5881.0,23
+Python,jython,2010-02-12,1,1,"#{""wmeissner@gmail.com""}",5882.0,23
+Python,jython,2010-02-14,3,1,"#{""pjenvey@underboss.org""}",5885.0,23
+Python,jython,2010-02-22,1,1,"#{""jbaker@zyasoft.com""}",5886.0,23
+Python,jython,2010-02-25,1,1,"#{""tobias@thobe.org""}",5887.0,23
+Python,jython,2010-03-13,2,1,"#{""pjenvey@underboss.org""}",5889.0,23
+Python,jython,2010-03-14,1,1,"#{""pjenvey@underboss.org""}",5890.0,23
+Python,jython,2010-03-15,1,1,"#{""pjenvey@underboss.org""}",5891.0,23
+Python,jython,2010-03-21,2,1,"#{""pjenvey@underboss.org""}",5893.0,23
+Python,jython,2010-03-28,3,1,"#{""ohumbel@gmail.com""}",5896.0,23
+Python,jython,2010-03-29,1,1,"#{""jython-dev@xhaus.com""}",5897.0,23
+Python,jython,2010-04-01,2,1,"#{""jython-dev@xhaus.com""}",5899.0,23
+Python,jython,2010-04-02,3,2,"#{""nriley@sabi.net"" ""pjenvey@underboss.org""}",5902.0,23
+Python,jython,2010-04-04,2,1,"#{""pjenvey@underboss.org""}",5904.0,23
+Python,jython,2010-04-05,1,1,"#{""pjenvey@underboss.org""}",5905.0,23
+Python,jython,2010-04-06,1,1,"#{""pjenvey@underboss.org""}",5906.0,23
+Python,jython,2010-04-09,8,2,"#{""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5914.0,23
+Python,jython,2010-04-10,5,1,"#{""pjenvey@underboss.org""}",5919.0,23
+Python,jython,2010-04-11,5,1,"#{""pjenvey@underboss.org""}",5924.0,23
+Python,jython,2010-04-12,2,1,"#{""jython-dev@xhaus.com""}",5926.0,23
+Python,jython,2010-04-13,2,1,"#{""pjenvey@underboss.org""}",5928.0,23
+Python,jython,2010-04-14,2,1,"#{""pjenvey@underboss.org""}",5930.0,23
+Python,jython,2010-04-16,4,1,"#{""jython-dev@xhaus.com""}",5934.0,23
+Python,jython,2010-04-17,3,2,"#{""pjenvey@underboss.org"" ""jython-dev@xhaus.com""}",5937.0,23
+Python,jython,2010-04-18,8,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",5945.0,23
+Python,jython,2010-04-23,2,1,"#{""pjenvey@underboss.org""}",5947.0,23
+Python,jython,2010-04-24,1,1,"#{""pjenvey@underboss.org""}",5948.0,23
+Python,jython,2010-04-25,2,1,"#{""jbaker@zyasoft.com""}",5950.0,23
+Python,jython,2010-04-26,4,1,"#{""jbaker@zyasoft.com""}",5954.0,23
+Python,jython,2010-04-27,1,1,"#{""jbaker@zyasoft.com""}",5955.0,23
+Python,jython,2010-04-28,1,1,"#{""ohumbel@gmail.com""}",5956.0,23
+Python,jython,2010-04-29,3,1,"#{""ohumbel@gmail.com""}",5959.0,23
+Python,jython,2010-04-30,1,1,"#{""jython-dev@xhaus.com""}",5960.0,23
+Python,jython,2010-05-17,1,1,"#{""ohumbel@gmail.com""}",5961.0,23
+Python,jython,2010-05-25,1,1,"#{""ohumbel@gmail.com""}",5962.0,23
+Python,jython,2010-05-31,1,1,"#{""ohumbel@gmail.com""}",5963.0,23
+Python,jython,2010-06-01,2,1,"#{""ohumbel@gmail.com""}",5965.0,23
+Python,jython,2010-06-03,2,1,"#{""pjenvey@underboss.org""}",5967.0,23
+Python,jython,2010-06-15,2,1,"#{""ohumbel@gmail.com""}",5969.0,23
+Python,jython,2010-06-16,1,1,"#{""jbaker@zyasoft.com""}",5970.0,23
+Python,jython,2010-06-23,1,1,"#{""jbaker@zyasoft.com""}",5971.0,23
+Python,jython,2010-06-24,1,1,"#{""ohumbel@gmail.com""}",5972.0,23
+Python,jython,2010-06-25,2,2,"#{""fwierzbicki@gmail.com"" ""jython-dev@xhaus.com""}",5974.0,23
+Python,jython,2010-06-26,3,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",5977.0,23
+Python,jython,2010-06-27,2,1,"#{""ohumbel@gmail.com""}",5979.0,23
+Python,jython,2010-07-14,2,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",5981.0,23
+Python,jython,2010-07-20,3,1,"#{""jbaker@zyasoft.com""}",5984.0,23
+Python,jython,2010-07-27,1,1,"#{""pjenvey@underboss.org""}",5985.0,23
+Python,jython,2010-08-01,1,1,"#{""jython-dev@xhaus.com""}",5986.0,23
+Python,jython,2010-08-04,1,1,"#{""jbaker@zyasoft.com""}",5987.0,23
+Python,jython,2010-08-06,1,1,"#{""jbaker@zyasoft.com""}",5988.0,23
+Python,jython,2010-08-09,3,1,"#{""jbaker@zyasoft.com""}",5991.0,23
+Python,jython,2010-08-10,1,1,"#{""jbaker@zyasoft.com""}",5992.0,23
+Python,jython,2010-08-14,4,1,"#{""jbaker@zyasoft.com""}",5996.0,23
+Python,jython,2010-08-15,2,1,"#{""jbaker@zyasoft.com""}",5998.0,23
+Python,jython,2010-08-16,1,1,"#{""jbaker@zyasoft.com""}",5999.0,23
+Python,jython,2010-08-17,1,1,"#{""jbaker@zyasoft.com""}",6000.0,23
+Python,jython,2010-08-21,3,1,"#{""jbaker@zyasoft.com""}",6003.0,23
+Python,jython,2010-08-22,1,1,"#{""jbaker@zyasoft.com""}",6004.0,23
+Python,jython,2010-08-24,1,1,"#{""jbaker@zyasoft.com""}",6005.0,23
+Python,jython,2010-08-25,2,1,"#{""jbaker@zyasoft.com""}",6007.0,23
+Python,jython,2010-08-27,4,1,"#{""juneau001@gmail.com""}",6011.0,24
+Python,jython,2010-08-28,1,1,"#{""jbaker@zyasoft.com""}",6012.0,24
+Python,jython,2010-09-04,1,1,"#{""jbaker@zyasoft.com""}",6013.0,24
+Python,jython,2010-09-07,1,1,"#{""ohumbel@gmail.com""}",6014.0,24
+Python,jython,2010-09-08,5,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",6019.0,24
+Python,jython,2010-09-09,1,1,"#{""jbaker@zyasoft.com""}",6020.0,24
+Python,jython,2010-09-10,1,1,"#{""ohumbel@gmail.com""}",6021.0,24
+Python,jython,2010-09-12,2,1,"#{""jbaker@zyasoft.com""}",6023.0,24
+Python,jython,2010-09-13,4,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",6027.0,24
+Python,jython,2010-09-28,1,1,"#{""ohumbel@gmail.com""}",6028.0,24
+Python,jython,2010-09-29,1,1,"#{""ohumbel@gmail.com""}",6029.0,24
+Python,jython,2010-10-01,1,1,"#{""jbaker@zyasoft.com""}",6030.0,24
+Python,jython,2010-10-03,3,2,"#{""ohumbel@gmail.com"" ""jython-dev@xhaus.com""}",6033.0,24
+Python,jython,2010-10-04,2,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",6035.0,24
+Python,jython,2010-10-05,2,1,"#{""jbaker@zyasoft.com""}",6037.0,24
+Python,jython,2010-10-06,3,2,"#{""jbaker@zyasoft.com"" ""jython-dev@xhaus.com""}",6040.0,24
+Python,jython,2010-10-07,1,1,"#{""ohumbel@gmail.com""}",6041.0,24
+Python,jython,2010-10-09,1,1,"#{""ohumbel@gmail.com""}",6042.0,24
+Python,jython,2010-10-10,2,1,"#{""ohumbel@gmail.com""}",6044.0,24
+Python,jython,2010-10-14,2,1,"#{""juneau001@gmail.com""}",6046.0,24
+Python,jython,2010-10-16,6,1,"#{""jbaker@zyasoft.com""}",6052.0,24
+Python,jython,2010-10-17,5,2,"#{""jbaker@zyasoft.com"" ""ohumbel@gmail.com""}",6057.0,24
+Python,jython,2010-10-19,1,1,"#{""jbaker@zyasoft.com""}",6058.0,24
+Python,jython,2010-10-22,3,1,"#{""jbaker@zyasoft.com""}",6061.0,24
+Python,jython,2010-10-24,4,1,"#{""ohumbel@gmail.com""}",6065.0,24
+Python,jython,2010-11-06,1,1,"#{""ohumbel@gmail.com""}",6066.0,24
+Python,jython,2010-11-09,1,1,"#{""ohumbel@gmail.com""}",6067.0,24
+Python,jython,2010-11-10,1,1,"#{""ohumbel@gmail.com""}",6068.0,24
+Python,jython,2010-11-17,1,1,"#{""ohumbel@gmail.com""}",6069.0,24
+Python,jython,2010-11-23,1,1,"#{""fwierzbicki@gmail.com""}",6070.0,24
+Python,jython,2010-12-24,6,1,"#{""pjenvey@underboss.org""}",6076.0,24
+Python,jython,2010-12-27,1,1,"#{""ohumbel@gmail.com""}",6077.0,24
+Python,jython,2010-12-29,1,1,"#{""pjenvey@underboss.org""}",6078.0,24
+Python,jython,2011-01-07,1,1,"#{""pjenvey@underboss.org""}",6079.0,24
+Python,jython,2011-01-10,2,1,"#{""ohumbel@gmail.com""}",6081.0,24
+Python,jython,2011-01-21,2,1,"#{""pjenvey@underboss.org""}",6083.0,24
+Python,jython,2011-01-22,1,1,"#{""pjenvey@underboss.org""}",6084.0,24
+Python,jython,2011-01-23,2,1,"#{""ohumbel@gmail.com""}",6086.0,24
+Python,jython,2011-01-25,1,1,"#{""jython-dev@xhaus.com""}",6087.0,24
+Python,jython,2011-02-02,1,1,"#{""ohumbel@gmail.com""}",6088.0,24
+Python,jython,2011-02-03,1,1,"#{""jython-dev@xhaus.com""}",6089.0,24
+Python,jython,2011-02-05,1,1,"#{""pjenvey@underboss.org""}",6090.0,24
+Python,jython,2011-02-08,1,1,"#{""pjenvey@underboss.org""}",6091.0,24
+Python,jython,2011-02-11,1,1,"#{""jython-dev@xhaus.com""}",6092.0,24
+Python,jython,2011-02-12,1,1,"#{""pjenvey@underboss.org""}",6093.0,24
+Python,jython,2011-02-13,1,1,"#{""jython-dev@xhaus.com""}",6094.0,24
+Python,jython,2011-02-14,2,1,"#{""ohumbel@gmail.com""}",6096.0,24
+Python,jython,2011-02-15,1,1,"#{""jython-dev@xhaus.com""}",6097.0,24
+Python,jython,2011-03-01,2,1,"#{""ohumbel@gmail.com""}",6099.0,24
+Python,jython,2011-03-02,2,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",6101.0,24
+Python,jython,2011-03-11,4,1,"#{""pjenvey@underboss.org""}",6105.0,24
+Python,jython,2011-03-12,8,1,"#{""fwierzbicki@gmail.com""}",6113.0,24
+Python,jython,2011-03-13,7,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",6120.0,24
+Python,jython,2011-03-14,13,1,"#{""pjenvey@underboss.org""}",6133.0,24
+Python,jython,2011-03-16,1,1,"#{""fwierzbicki@gmail.com""}",6134.0,24
+Python,jython,2011-03-17,2,1,"#{""pjenvey@underboss.org""}",6136.0,24
+Python,jython,2011-03-18,2,1,"#{""pjenvey@underboss.org""}",6138.0,24
+Python,jython,2011-03-19,4,1,"#{""pjenvey@underboss.org""}",6142.0,24
+Python,jython,2011-03-20,5,1,"#{""pjenvey@underboss.org""}",6147.0,24
+Python,jython,2011-03-21,7,1,"#{""pjenvey@underboss.org""}",6154.0,24
+Python,jython,2011-03-22,1,1,"#{""pjenvey@underboss.org""}",6155.0,24
+Python,jython,2011-03-23,1,1,"#{""fwierzbicki@gmail.com""}",6156.0,24
+Python,jython,2011-03-24,3,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",6159.0,24
+Python,jython,2011-03-25,1,1,"#{""fwierzbicki@gmail.com""}",6160.0,24
+Python,jython,2011-03-28,3,1,"#{""fwierzbicki@gmail.com""}",6163.0,24
+Python,jython,2011-03-29,2,1,"#{""fwierzbicki@gmail.com""}",6165.0,24
+Python,jython,2011-03-30,5,2,"#{""fwierzbicki@gmail.com"" ""ohumbel@gmail.com""}",6170.0,24
+Python,jython,2011-04-01,4,1,"#{""pjenvey@underboss.org""}",6174.0,24
+Python,jython,2011-04-03,2,1,"#{""pjenvey@underboss.org""}",6176.0,24
+Python,jython,2011-04-23,2,1,"#{""pjenvey@underboss.org""}",6178.0,24
+Python,jython,2011-04-30,2,1,"#{""pjenvey@underboss.org""}",6180.0,24
+Python,jython,2011-05-01,2,1,"#{""pjenvey@underboss.org""}",6182.0,24
+Python,jython,2011-05-07,9,1,"#{""pjenvey@underboss.org""}",6191.0,24
+Python,jython,2011-05-11,4,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",6195.0,24
+Python,jython,2011-05-12,2,1,"#{""fwierzbicki@gmail.com""}",6197.0,24
+Python,jython,2011-05-13,1,1,"#{""fwierzbicki@gmail.com""}",6198.0,24
+Python,jython,2011-05-16,3,1,"#{""fwierzbicki@gmail.com""}",6201.0,24
+Python,jython,2011-05-17,3,1,"#{""fwierzbicki@gmail.com""}",6204.0,24
+Python,jython,2011-05-18,7,1,"#{""fwierzbicki@gmail.com""}",6211.0,24
+Python,jython,2011-05-19,6,1,"#{""fwierzbicki@gmail.com""}",6217.0,24
+Python,jython,2011-06-04,2,1,"#{""pjenvey@underboss.org""}",6219.0,24
+Python,jython,2011-06-17,6,1,"#{""wmeissner@gmail.com""}",6225.0,24
+Python,jython,2011-06-18,2,1,"#{""wmeissner@gmail.com""}",6227.0,24
+Python,jython,2011-09-04,4,2,"#{""wmeissner@gmail.com"" ""fwierzbicki@gmail.com""}",6231.0,24
+Python,jython,2011-09-17,1,1,"#{""fwierzbicki@gmail.com""}",6232.0,24
+Python,jython,2011-10-09,5,1,"#{""fwierzbicki@gmail.com""}",6237.0,24
+Python,jython,2011-10-10,1,1,"#{""fwierzbicki@gmail.com""}",6238.0,24
+Python,jython,2011-10-24,2,1,"#{""pjenvey@underboss.org""}",6240.0,24
+Python,jython,2011-10-28,2,1,"#{""pjenvey@underboss.org""}",6242.0,24
+Python,jython,2011-10-29,3,1,"#{""jython-dev@xhaus.com""}",6245.0,24
+Python,jython,2011-10-30,3,1,"#{""jython-dev@xhaus.com""}",6248.0,24
+Python,jython,2011-11-01,1,1,"#{""pjenvey@underboss.org""}",6249.0,24
+Python,jython,2011-11-02,6,1,"#{""jython-dev@xhaus.com""}",6255.0,24
+Python,jython,2011-11-06,3,1,"#{""pjenvey@underboss.org""}",6258.0,24
+Python,jython,2011-11-07,1,1,"#{""pjenvey@underboss.org""}",6259.0,24
+Python,jython,2011-11-09,4,1,"#{""jython-dev@xhaus.com""}",6263.0,24
+Python,jython,2011-11-23,3,2,"#{""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",6266.0,24
+Python,jython,2011-11-29,2,1,"#{""pjenvey@underboss.org""}",6268.0,24
+Python,jython,2011-12-09,3,1,"#{""pjenvey@underboss.org""}",6271.0,24
+Python,jython,2011-12-15,3,1,"#{""pjenvey@underboss.org""}",6274.0,24
+Python,jython,2011-12-31,2,1,"#{""fwierzbicki@gmail.com""}",6276.0,24
+Python,jython,2012-01-01,2,1,"#{""fwierzbicki@gmail.com""}",6278.0,24
+Python,jython,2012-01-02,2,1,"#{""fwierzbicki@gmail.com""}",6280.0,24
+Python,jython,2012-01-03,2,1,"#{""fwierzbicki@gmail.com""}",6282.0,24
+Python,jython,2012-02-03,1,1,"#{""fwierzbicki@gmail.com""}",6283.0,24
+Python,jython,2012-02-04,2,1,"#{""pjenvey@underboss.org""}",6285.0,24
+Python,jython,2012-02-06,1,1,"#{""fwierzbicki@gmail.com""}",6286.0,24
+Python,jython,2012-02-10,1,1,"#{""fwierzbicki@gmail.com""}",6287.0,24
+Python,jython,2012-02-11,1,1,"#{""ja...py@farowl.co.uk""}",6288.0,25
+Python,jython,2012-02-13,1,1,"#{""fwierzbicki@gmail.com""}",6289.0,25
+Python,jython,2012-02-22,4,1,"#{""fwierzbicki@gmail.com""}",6293.0,25
+Python,jython,2012-03-06,6,1,"#{""fwierzbicki@gmail.com""}",6299.0,25
+Python,jython,2012-03-08,2,1,"#{""fwierzbicki@gmail.com""}",6301.0,25
+Python,jython,2012-03-11,1,1,"#{""fwierzbicki@gmail.com""}",6302.0,25
+Python,jython,2012-03-12,17,4,"#{""jbaker@zyasoft.com"" ""shanka.mns@gmail.com"" ""fwierzbicki@gmail.com"" ""alex.gronholm@nextday.fi""}",6319.0,27
+Python,jython,2012-03-13,21,5,"#{""jbaker@zyasoft.com"" ""shanka.mns@gmail.com"" ""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""alex.gronholm@nextday.fi""}",6340.0,27
+Python,jython,2012-03-14,34,4,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""njriley@illinois.edu"" ""alex.gronholm@nextday.fi""}",6374.0,28
+Python,jython,2012-03-15,12,4,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com"" ""njriley@illinois.edu"" ""alex.gronholm@nextday.fi""}",6386.0,28
+Python,jython,2012-03-16,4,1,"#{""fwierzbicki@gmail.com""}",6390.0,28
+Python,jython,2012-03-17,7,1,"#{""alan@xhaus.com""}",6397.0,29
+Python,jython,2012-03-18,3,1,"#{""ja...py@farowl.co.uk""}",6400.0,29
+Python,jython,2012-03-19,18,1,"#{""fwierzbicki@gmail.com""}",6418.0,29
+Python,jython,2012-03-20,17,2,"#{""fwierzbicki@gmail.com"" ""alan@xhaus.com""}",6435.0,29
+Python,jython,2012-03-21,19,2,"#{""fwierzbicki@gmail.com"" ""njriley@illinois.edu""}",6454.0,29
+Python,jython,2012-03-22,22,1,"#{""fwierzbicki@gmail.com""}",6476.0,29
+Python,jython,2012-03-23,3,1,"#{""fwierzbicki@gmail.com""}",6479.0,29
+Python,jython,2012-03-27,1,1,"#{""fwierzbicki@gmail.com""}",6480.0,29
+Python,jython,2012-03-29,11,2,"#{""fwierzbicki@gmail.com"" ""alan@xhaus.com""}",6491.0,29
+Python,jython,2012-03-30,4,1,"#{""fwierzbicki@gmail.com""}",6495.0,29
+Python,jython,2012-03-31,2,1,"#{""fwierzbicki@gmail.com""}",6497.0,29
+Python,jython,2012-04-01,13,1,"#{""alan@xhaus.com""}",6510.0,29
+Python,jython,2012-04-03,2,1,"#{""fwierzbicki@gmail.com""}",6512.0,29
+Python,jython,2012-04-04,6,1,"#{""fwierzbicki@gmail.com""}",6518.0,29
+Python,jython,2012-04-05,3,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",6521.0,29
+Python,jython,2012-04-06,11,1,"#{""fwierzbicki@gmail.com""}",6532.0,29
+Python,jython,2012-04-09,5,1,"#{""fwierzbicki@gmail.com""}",6537.0,29
+Python,jython,2012-04-10,8,1,"#{""fwierzbicki@gmail.com""}",6545.0,29
+Python,jython,2012-04-11,16,1,"#{""fwierzbicki@gmail.com""}",6561.0,29
+Python,jython,2012-04-12,1,1,"#{""ja...py@farowl.co.uk""}",6562.0,29
+Python,jython,2012-04-13,3,1,"#{""fwierzbicki@gmail.com""}",6565.0,29
+Python,jython,2012-04-14,13,5,"#{""jbaker@zyasoft.com"" ""shanka.mns@gmail.com"" ""alan@xhaus.com"" ""alex.gronholm@nextday.fi"" ""darjus@gmail.com""}",6578.0,30
+Python,jython,2012-04-16,4,2,"#{""fwierzbicki@gmail.com"" ""darjus@gmail.com""}",6582.0,30
+Python,jython,2012-04-17,5,2,"#{""fwierzbicki@gmail.com"" ""miki.tebeka@gmail.com""}",6587.0,31
+Python,jython,2012-04-18,7,2,"#{""fwierzbicki@gmail.com"" ""miki.tebeka@gmail.com""}",6594.0,31
+Python,jython,2012-04-19,1,1,"#{""fwierzbicki@gmail.com""}",6595.0,31
+Python,jython,2012-04-23,11,1,"#{""fwierzbicki@gmail.com""}",6606.0,31
+Python,jython,2012-04-24,2,1,"#{""fwierzbicki@gmail.com""}",6608.0,31
+Python,jython,2012-04-25,2,1,"#{""fwierzbicki@gmail.com""}",6610.0,31
+Python,jython,2012-04-26,4,1,"#{""fwierzbicki@gmail.com""}",6614.0,31
+Python,jython,2012-04-30,6,1,"#{""fwierzbicki@gmail.com""}",6620.0,31
+Python,jython,2012-05-01,1,1,"#{""fwierzbicki@gmail.com""}",6621.0,31
+Python,jython,2012-05-03,10,2,"#{""fwierzbicki@gmail.com"" ""miki.tebeka@gmail.com""}",6631.0,31
+Python,jython,2012-05-05,1,1,"#{""alan@xhaus.com""}",6632.0,31
+Python,jython,2012-05-09,1,1,"#{""darjus@gmail.com""}",6633.0,31
+Python,jython,2012-05-11,2,2,"#{""gaurav.raje07@gmail.com"" ""pjenvey@underboss.org""}",6635.0,32
+Python,jython,2012-05-14,3,1,"#{""fwierzbicki@gmail.com""}",6638.0,32
+Python,jython,2012-05-15,1,1,"#{""fwierzbicki@gmail.com""}",6639.0,32
+Python,jython,2012-05-16,3,1,"#{""fwierzbicki@gmail.com""}",6642.0,32
+Python,jython,2012-05-18,4,3,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com"" ""miki.tebeka@gmail.com""}",6646.0,32
+Python,jython,2012-05-22,2,1,"#{""fwierzbicki@gmail.com""}",6648.0,32
+Python,jython,2012-05-24,3,1,"#{""fwierzbicki@gmail.com""}",6651.0,32
+Python,jython,2012-05-25,4,3,"#{""fwierzbicki@gmail.com"" ""miki.tebeka@gmail.com"" ""alex.gronholm@nextday.fi""}",6655.0,32
+Python,jython,2012-05-26,2,1,"#{""ja...py@farowl.co.uk""}",6657.0,32
+Python,jython,2012-05-27,3,1,"#{""ja...py@farowl.co.uk""}",6660.0,32
+Python,jython,2012-05-28,2,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",6662.0,32
+Python,jython,2012-05-29,1,1,"#{""fwierzbicki@gmail.com""}",6663.0,32
+Python,jython,2012-06-02,3,1,"#{""ja...py@farowl.co.uk""}",6666.0,32
+Python,jython,2012-06-03,1,1,"#{""ja...py@farowl.co.uk""}",6667.0,32
+Python,jython,2012-06-04,1,1,"#{""ja...py@farowl.co.uk""}",6668.0,32
+Python,jython,2012-06-05,1,1,"#{""ja...py@farowl.co.uk""}",6669.0,32
+Python,jython,2012-06-06,2,1,"#{""ja...py@farowl.co.uk""}",6671.0,32
+Python,jython,2012-06-07,4,1,"#{""fwierzbicki@gmail.com""}",6675.0,32
+Python,jython,2012-06-08,11,5,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com"" ""alan@xhaus.com"" ""none@none"" ""darjus@gmail.com""}",6686.0,33
+Python,jython,2012-06-09,2,1,"#{""alan@xhaus.com""}",6688.0,33
+Python,jython,2012-06-10,2,1,"#{""ja...py@farowl.co.uk""}",6690.0,33
+Python,jython,2012-06-11,2,1,"#{""ja...py@farowl.co.uk""}",6692.0,33
+Python,jython,2012-06-12,1,1,"#{""miki.tebeka@gmail.com""}",6693.0,33
+Python,jython,2012-06-13,2,2,"#{""toby@tcrawley.org"" ""ja...py@farowl.co.uk""}",6695.0,34
+Python,jython,2012-06-14,2,1,"#{""fwierzbicki@gmail.com""}",6697.0,34
+Python,jython,2012-06-16,1,1,"#{""ja...py@farowl.co.uk""}",6698.0,34
+Python,jython,2012-06-18,6,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",6704.0,34
+Python,jython,2012-06-19,2,1,"#{""ja...py@farowl.co.uk""}",6706.0,34
+Python,jython,2012-06-20,2,2,"#{""fwierzbicki@gmail.com"" ""Arfrever.FTA@GMail.Com""}",6708.0,35
+Python,jython,2012-06-21,8,2,"#{""fwierzbicki@gmail.com"" ""jezreel@gmail.com""}",6716.0,36
+Python,jython,2012-06-22,5,2,"#{""fwierzbicki@gmail.com"" ""jezreel@gmail.com""}",6721.0,36
+Python,jython,2012-06-24,4,1,"#{""fwierzbicki@gmail.com""}",6725.0,36
+Python,jython,2012-06-25,11,1,"#{""fwierzbicki@gmail.com""}",6736.0,36
+Python,jython,2012-06-26,2,1,"#{""fwierzbicki@gmail.com""}",6738.0,36
+Python,jython,2012-06-27,14,2,"#{""toby@tcrawley.org"" ""fwierzbicki@gmail.com""}",6752.0,36
+Python,jython,2012-06-28,8,1,"#{""fwierzbicki@gmail.com""}",6760.0,36
+Python,jython,2012-07-03,3,2,"#{""fwierzbicki@gmail.com"" ""jezreel@gmail.com""}",6763.0,36
+Python,jython,2012-07-05,8,1,"#{""fwierzbicki@gmail.com""}",6771.0,36
+Python,jython,2012-07-08,1,1,"#{""ja...py@farowl.co.uk""}",6772.0,36
+Python,jython,2012-07-09,1,1,"#{""fwierzbicki@gmail.com""}",6773.0,36
+Python,jython,2012-07-13,5,1,"#{""fwierzbicki@gmail.com""}",6778.0,36
+Python,jython,2012-07-16,2,1,"#{""alan@xhaus.com""}",6780.0,36
+Python,jython,2012-07-17,2,1,"#{""fwierzbicki@gmail.com""}",6782.0,36
+Python,jython,2012-07-18,8,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",6790.0,36
+Python,jython,2012-07-19,2,1,"#{""ja...py@farowl.co.uk""}",6792.0,36
+Python,jython,2012-07-20,3,1,"#{""ja...py@farowl.co.uk""}",6795.0,36
+Python,jython,2012-07-22,1,1,"#{""fwierzbicki@gmail.com""}",6796.0,36
+Python,jython,2012-07-27,4,1,"#{""fwierzbicki@gmail.com""}",6800.0,36
+Python,jython,2012-07-29,2,1,"#{""ja...py@farowl.co.uk""}",6802.0,36
+Python,jython,2012-08-02,2,1,"#{""fwierzbicki@gmail.com""}",6804.0,36
+Python,jython,2012-08-03,10,2,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org""}",6814.0,36
+Python,jython,2012-08-07,1,1,"#{""fwierzbicki@gmail.com""}",6815.0,36
+Python,jython,2012-08-08,3,1,"#{""fwierzbicki@gmail.com""}",6818.0,36
+Python,jython,2012-08-09,1,1,"#{""fwierzbicki@gmail.com""}",6819.0,36
+Python,jython,2012-08-13,9,1,"#{""fwierzbicki@gmail.com""}",6828.0,36
+Python,jython,2012-08-14,2,1,"#{""alan@xhaus.com""}",6830.0,36
+Python,jython,2012-08-17,1,1,"#{""pjenvey@underboss.org""}",6831.0,36
+Python,jython,2012-08-19,1,1,"#{""ja...py@farowl.co.uk""}",6832.0,36
+Python,jython,2012-08-20,2,1,"#{""alan@xhaus.com""}",6834.0,36
+Python,jython,2012-08-23,1,1,"#{""alan@xhaus.com""}",6835.0,36
+Python,jython,2012-08-25,4,1,"#{""alan@xhaus.com""}",6839.0,36
+Python,jython,2012-08-27,1,1,"#{""alan@xhaus.com""}",6840.0,36
+Python,jython,2012-09-03,1,1,"#{""ja...py@farowl.co.uk""}",6841.0,36
+Python,jython,2012-09-07,3,1,"#{""ja...py@farowl.co.uk""}",6844.0,36
+Python,jython,2012-09-08,4,1,"#{""ja...py@farowl.co.uk""}",6848.0,36
+Python,jython,2012-09-10,2,1,"#{""pjenvey@underboss.org""}",6850.0,36
+Python,jython,2012-09-15,2,1,"#{""ja...py@farowl.co.uk""}",6852.0,36
+Python,jython,2012-09-19,1,1,"#{""ja...py@farowl.co.uk""}",6853.0,36
+Python,jython,2012-09-30,1,1,"#{""darjus@gmail.com""}",6854.0,36
+Python,jython,2012-10-06,1,1,"#{""darjus@gmail.com""}",6855.0,36
+Python,jython,2012-10-08,1,1,"#{""fwierzbicki@gmail.com""}",6856.0,36
+Python,jython,2012-10-10,1,1,"#{""darjus@gmail.com""}",6857.0,36
+Python,jython,2012-10-12,1,1,"#{""darjus@gmail.com""}",6858.0,36
+Python,jython,2012-10-15,1,1,"#{""darjus@gmail.com""}",6859.0,36
+Python,jython,2012-10-24,3,2,"#{""alex.gronholm@nextday.fi"" ""darjus@gmail.com""}",6862.0,36
+Python,jython,2012-10-27,4,2,"#{""juliankenn@gmail.com"" ""alan@xhaus.com""}",6866.0,37
+Python,jython,2012-10-28,3,1,"#{""alex.gronholm@nextday.fi""}",6869.0,37
+Python,jython,2012-10-29,5,2,"#{""juliankenn@gmail.com"" ""alex.gronholm@nextday.fi""}",6874.0,37
+Python,jython,2012-11-04,2,1,"#{""alan@xhaus.com""}",6876.0,37
+Python,jython,2012-11-18,2,1,"#{""darjus@gmail.com""}",6878.0,37
+Python,jython,2012-11-25,2,1,"#{""ja...py@farowl.co.uk""}",6880.0,37
+Python,jython,2012-11-30,1,1,"#{""ja...py@farowl.co.uk""}",6881.0,37
+Python,jython,2012-12-05,3,1,"#{""ja...py@farowl.co.uk""}",6884.0,37
+Python,jython,2012-12-06,1,1,"#{""ja...py@farowl.co.uk""}",6885.0,37
+Python,jython,2012-12-08,4,1,"#{""ja...py@farowl.co.uk""}",6889.0,37
+Python,jython,2012-12-09,2,1,"#{""ja...py@farowl.co.uk""}",6891.0,37
+Python,jython,2012-12-11,1,1,"#{""ja...py@farowl.co.uk""}",6892.0,37
+Python,jython,2012-12-13,2,1,"#{""ja...py@farowl.co.uk""}",6894.0,37
+Python,jython,2012-12-15,3,1,"#{""ja...py@farowl.co.uk""}",6897.0,37
+Python,jython,2012-12-18,1,1,"#{""ja...py@farowl.co.uk""}",6898.0,37
+Python,jython,2012-12-20,1,1,"#{""ja...py@farowl.co.uk""}",6899.0,37
+Python,jython,2012-12-22,1,1,"#{""darjus@gmail.com""}",6900.0,37
+Python,jython,2012-12-23,2,1,"#{""ja...py@farowl.co.uk""}",6902.0,37
+Python,jython,2012-12-24,1,1,"#{""ja...py@farowl.co.uk""}",6903.0,37
+Python,jython,2012-12-25,1,1,"#{""ja...py@farowl.co.uk""}",6904.0,37
+Python,jython,2012-12-26,1,1,"#{""fwierzbicki@gmail.com""}",6905.0,37
+Python,jython,2012-12-27,3,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",6908.0,37
+Python,jython,2012-12-28,1,1,"#{""ja...py@farowl.co.uk""}",6909.0,37
+Python,jython,2012-12-29,1,1,"#{""ja...py@farowl.co.uk""}",6910.0,37
+Python,jython,2012-12-30,1,1,"#{""ja...py@farowl.co.uk""}",6911.0,37
+Python,jython,2012-12-31,4,1,"#{""fwierzbicki@gmail.com""}",6915.0,37
+Python,jython,2013-01-01,1,1,"#{""fwierzbicki@gmail.com""}",6916.0,37
+Python,jython,2013-01-03,5,1,"#{""fwierzbicki@gmail.com""}",6921.0,37
+Python,jython,2013-01-04,3,1,"#{""fwierzbicki@gmail.com""}",6924.0,37
+Python,jython,2013-01-05,2,1,"#{""ja...py@farowl.co.uk""}",6926.0,37
+Python,jython,2013-01-07,3,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",6929.0,37
+Python,jython,2013-01-08,5,1,"#{""fwierzbicki@gmail.com""}",6934.0,37
+Python,jython,2013-01-13,1,1,"#{""ja...py@farowl.co.uk""}",6935.0,37
+Python,jython,2013-01-14,2,1,"#{""ja...py@farowl.co.uk""}",6937.0,37
+Python,jython,2013-01-15,1,1,"#{""ja...py@farowl.co.uk""}",6938.0,37
+Python,jython,2013-01-17,3,1,"#{""alex.gronholm@nextday.fi""}",6941.0,37
+Python,jython,2013-01-20,1,1,"#{""ja...py@farowl.co.uk""}",6942.0,37
+Python,jython,2013-01-26,1,1,"#{""alex.gronholm@nextday.fi""}",6943.0,37
+Python,jython,2013-01-27,2,1,"#{""ja...py@farowl.co.uk""}",6945.0,37
+Python,jython,2013-01-28,1,1,"#{""fwierzbicki@gmail.com""}",6946.0,37
+Python,jython,2013-01-29,3,1,"#{""fwierzbicki@gmail.com""}",6949.0,37
+Python,jython,2013-01-30,1,1,"#{""fwierzbicki@gmail.com""}",6950.0,37
+Python,jython,2013-02-01,8,1,"#{""fwierzbicki@gmail.com""}",6958.0,37
+Python,jython,2013-02-02,6,1,"#{""alan@xhaus.com""}",6964.0,37
+Python,jython,2013-02-03,2,1,"#{""alan@xhaus.com""}",6966.0,37
+Python,jython,2013-02-04,12,2,"#{""fwierzbicki@gmail.com"" ""alan@xhaus.com""}",6978.0,37
+Python,jython,2013-02-05,3,2,"#{""fwierzbicki@gmail.com"" ""alan@xhaus.com""}",6981.0,37
+Python,jython,2013-02-06,7,1,"#{""fwierzbicki@gmail.com""}",6988.0,37
+Python,jython,2013-02-07,6,1,"#{""fwierzbicki@gmail.com""}",6994.0,37
+Python,jython,2013-02-08,10,3,"#{""fwierzbicki@gmail.com"" ""pjenvey@underboss.org"" ""ohumbel@gmail.com""}",7004.0,37
+Python,jython,2013-02-09,8,3,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com"" ""alan@xhaus.com""}",7012.0,37
+Python,jython,2013-02-10,9,3,"#{""fwierzbicki@gmail.com"" ""alan@xhaus.com"" ""pjenvey@underboss.org""}",7021.0,37
+Python,jython,2013-02-11,9,3,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com"" ""alan@xhaus.com""}",7030.0,37
+Python,jython,2013-02-12,4,1,"#{""ja...py@farowl.co.uk""}",7034.0,37
+Python,jython,2013-02-13,3,1,"#{""ja...py@farowl.co.uk""}",7037.0,37
+Python,jython,2013-02-15,3,1,"#{""alan@xhaus.com""}",7040.0,37
+Python,jython,2013-02-16,4,2,"#{""ja...py@farowl.co.uk"" ""alan@xhaus.com""}",7044.0,37
+Python,jython,2013-02-17,1,1,"#{""ja...py@farowl.co.uk""}",7045.0,37
+Python,jython,2013-02-18,1,1,"#{""ja...py@farowl.co.uk""}",7046.0,37
+Python,jython,2013-02-25,2,1,"#{""alan@xhaus.com""}",7048.0,37
+Python,jython,2013-02-26,4,3,"#{""chris@5711.org"" ""fwierzbicki@gmail.com"" ""alan@xhaus.com""}",7052.0,38
+Python,jython,2013-02-27,2,2,"#{""fwierzbicki@gmail.com"" ""jezreel@gmail.com""}",7054.0,38
+Python,jython,2013-02-28,1,1,"#{""alan@xhaus.com""}",7055.0,38
+Python,jython,2013-03-03,2,1,"#{""ja...py@farowl.co.uk""}",7057.0,38
+Python,jython,2013-03-08,2,1,"#{""fwierzbicki@gmail.com""}",7059.0,38
+Python,jython,2013-03-09,1,1,"#{""fwierzbicki@gmail.com""}",7060.0,38
+Python,jython,2013-03-10,4,1,"#{""fwierzbicki@gmail.com""}",7064.0,38
+Python,jython,2013-03-11,3,1,"#{""fwierzbicki@gmail.com""}",7067.0,38
+Python,jython,2013-03-13,1,1,"#{""alan@xhaus.com""}",7068.0,38
+Python,jython,2013-03-15,1,1,"#{""ja...py@farowl.co.uk""}",7069.0,38
+Python,jython,2013-03-17,3,1,"#{""ja...py@farowl.co.uk""}",7072.0,38
+Python,jython,2013-03-18,2,1,"#{""jbaker@zyasoft.com""}",7074.0,38
+Python,jython,2013-03-19,4,2,"#{""jbaker@zyasoft.com"" ""fwierzbicki@gmail.com""}",7078.0,38
+Python,jython,2013-03-21,5,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",7083.0,38
+Python,jython,2013-03-22,7,2,"#{""ja...py@farowl.co.uk"" ""fwierzbicki@gmail.com""}",7090.0,38
+Python,jython,2013-03-23,1,1,"#{""ja...py@farowl.co.uk""}",7091.0,38
+Python,jython,2013-05-11,2,1,"#{""ja...py@farowl.co.uk""}",7093.0,38
+Python,jython,2013-05-12,1,1,"#{""ja...py@farowl.co.uk""}",7094.0,38
+Python,jython,2013-06-14,1,1,"#{""jim.baker@rackspace.com""}",7095.0,39
+Python,jython,2013-06-18,1,1,"#{""ja.py@farowl.co.uk""}",7096.0,40
+Python,jython,2013-06-25,1,1,"#{""jim.baker@rackspace.com""}",7097.0,40
+Python,jython,2013-07-19,1,1,"#{""jim.baker@rackspace.com""}",7098.0,40
+Python,jython,2013-09-04,1,1,"#{""jim.baker@rackspace.com""}",7099.0,40
+Python,jython,2013-09-07,4,1,"#{""ja.py@farowl.co.uk""}",7103.0,40
+Python,jython,2013-09-08,4,1,"#{""ja.py@farowl.co.uk""}",7107.0,40
+Python,jython,2013-09-14,1,1,"#{""ja.py@farowl.co.uk""}",7108.0,40
+Python,jython,2013-09-17,1,1,"#{""ja.py@farowl.co.uk""}",7109.0,40
+Python,jython,2013-09-20,1,1,"#{""bpedman@gmail.com""}",7110.0,41
+Python,jython,2013-09-26,1,1,"#{""rjolly@users.sourceforge.net""}",7111.0,42
+Python,jython,2013-09-27,4,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7115.0,42
+Python,jython,2013-09-29,1,1,"#{""cjsimpson@gmail.com""}",7116.0,43
+Python,jython,2013-10-05,1,1,"#{""ja.py@farowl.co.uk""}",7117.0,43
+Python,jython,2013-10-12,1,1,"#{""ja.py@farowl.co.uk""}",7118.0,43
+Python,jython,2013-10-13,1,1,"#{""ja.py@farowl.co.uk""}",7119.0,43
+Python,jython,2013-10-14,1,1,"#{""ja.py@farowl.co.uk""}",7120.0,43
+Python,jython,2013-10-20,3,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7123.0,43
+Python,jython,2013-10-21,2,1,"#{""ja.py@farowl.co.uk""}",7125.0,43
+Python,jython,2013-10-22,1,1,"#{""ja.py@farowl.co.uk""}",7126.0,43
+Python,jython,2013-10-23,1,1,"#{""jim.baker@rackspace.com""}",7127.0,43
+Python,jython,2013-10-25,2,1,"#{""ja.py@farowl.co.uk""}",7129.0,43
+Python,jython,2013-10-26,1,1,"#{""ja.py@farowl.co.uk""}",7130.0,43
+Python,jython,2013-10-27,3,1,"#{""ja.py@farowl.co.uk""}",7133.0,43
+Python,jython,2013-11-01,1,1,"#{""ja.py@farowl.co.uk""}",7134.0,43
+Python,jython,2013-11-03,1,1,"#{""ja.py@farowl.co.uk""}",7135.0,43
+Python,jython,2013-11-11,1,1,"#{""ja.py@farowl.co.uk""}",7136.0,43
+Python,jython,2013-11-14,2,1,"#{""ja.py@farowl.co.uk""}",7138.0,43
+Python,jython,2013-11-16,1,1,"#{""ja.py@farowl.co.uk""}",7139.0,43
+Python,jython,2013-11-20,3,1,"#{""ja.py@farowl.co.uk""}",7142.0,43
+Python,jython,2013-11-23,3,1,"#{""ja.py@farowl.co.uk""}",7145.0,43
+Python,jython,2013-11-25,2,1,"#{""ja.py@farowl.co.uk""}",7147.0,43
+Python,jython,2013-11-26,1,1,"#{""ja.py@farowl.co.uk""}",7148.0,43
+Python,jython,2013-12-01,3,2,"#{""santoso.wijaya@gmail.com"" ""ja.py@farowl.co.uk""}",7151.0,44
+Python,jython,2013-12-02,1,1,"#{""santoso.wijaya@gmail.com""}",7152.0,44
+Python,jython,2013-12-09,1,1,"#{""indra.talip@gmail.com""}",7153.0,45
+Python,jython,2013-12-21,2,2,"#{""santoso.wijaya@gmail.com"" ""jim.baker@rackspace.com""}",7155.0,45
+Python,jython,2013-12-22,3,2,"#{""santoso.wijaya@gmail.com"" ""ja.py@farowl.co.uk""}",7158.0,45
+Python,jython,2014-01-02,2,1,"#{""fwierzbicki@gmail.com""}",7160.0,45
+Python,jython,2014-01-03,1,1,"#{""indra.talip@gmail.com""}",7161.0,45
+Python,jython,2014-01-07,2,1,"#{""indra.talip@gmail.com""}",7163.0,45
+Python,jython,2014-01-09,1,1,"#{""jim.baker@rackspace.com""}",7164.0,45
+Python,jython,2014-01-15,2,1,"#{""ja.py@farowl.co.uk""}",7166.0,45
+Python,jython,2014-01-17,1,1,"#{""ja.py@farowl.co.uk""}",7167.0,45
+Python,jython,2014-01-25,2,2,"#{""santoso.wijaya@gmail.com"" ""ja.py@farowl.co.uk""}",7169.0,45
+Python,jython,2014-02-09,1,1,"#{""ja.py@farowl.co.uk""}",7170.0,45
+Python,jython,2014-02-14,2,1,"#{""ja.py@farowl.co.uk""}",7172.0,45
+Python,jython,2014-02-15,2,1,"#{""ja.py@farowl.co.uk""}",7174.0,45
+Python,jython,2014-02-16,1,1,"#{""ja.py@farowl.co.uk""}",7175.0,45
+Python,jython,2014-02-17,1,1,"#{""ja.py@farowl.co.uk""}",7176.0,45
+Python,jython,2014-02-23,1,1,"#{""ja.py@farowl.co.uk""}",7177.0,45
+Python,jython,2014-02-27,1,1,"#{""ja.py@farowl.co.uk""}",7178.0,45
+Python,jython,2014-03-01,1,1,"#{""ja.py@farowl.co.uk""}",7179.0,45
+Python,jython,2014-03-02,1,1,"#{""ja.py@farowl.co.uk""}",7180.0,45
+Python,jython,2014-03-08,1,1,"#{""ja.py@farowl.co.uk""}",7181.0,45
+Python,jython,2014-03-14,1,1,"#{""ja.py@farowl.co.uk""}",7182.0,45
+Python,jython,2014-03-16,2,1,"#{""ja.py@farowl.co.uk""}",7184.0,45
+Python,jython,2014-03-18,1,1,"#{""ja.py@farowl.co.uk""}",7185.0,45
+Python,jython,2014-03-22,2,2,"#{""ja.py@farowl.co.uk"" ""indra.talip@gmail.com""}",7187.0,45
+Python,jython,2014-03-24,5,2,"#{""fwierzbicki@gmail.com"" ""indra.talip@gmail.com""}",7192.0,45
+Python,jython,2014-03-29,2,1,"#{""indra.talip@gmail.com""}",7194.0,45
+Python,jython,2014-04-03,1,1,"#{""ja.py@farowl.co.uk""}",7195.0,45
+Python,jython,2014-04-08,1,1,"#{""jim.baker@rackspace.com""}",7196.0,45
+Python,jython,2014-04-10,1,1,"#{""fwierzbicki@gmail.com""}",7197.0,45
+Python,jython,2014-04-15,1,1,"#{""jim.baker@rackspace.com""}",7198.0,45
+Python,jython,2014-04-16,4,2,"#{""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7202.0,45
+Python,jython,2014-04-17,2,1,"#{""ja.py@farowl.co.uk""}",7204.0,45
+Python,jython,2014-04-21,1,1,"#{""ja.py@farowl.co.uk""}",7205.0,45
+Python,jython,2014-04-22,2,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7207.0,45
+Python,jython,2014-04-23,5,3,"#{""fwierzbicki@gmail.com"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7212.0,45
+Python,jython,2014-04-25,2,2,"#{""ja.py@farowl.co.uk"" ""indra.talip@gmail.com""}",7214.0,45
+Python,jython,2014-05-04,2,1,"#{""ja.py@farowl.co.uk""}",7216.0,45
+Python,jython,2014-05-07,2,1,"#{""jim.baker@rackspace.com""}",7218.0,45
+Python,jython,2014-05-08,1,1,"#{""ja.py@farowl.co.uk""}",7219.0,45
+Python,jython,2014-05-09,7,1,"#{""jim.baker@rackspace.com""}",7226.0,45
+Python,jython,2014-05-10,8,2,"#{""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7234.0,45
+Python,jython,2014-05-13,5,4,"#{""santoso.wijaya@gmail.com"" ""fwierzbicki@gmail.com"" ""richard.eckart@gmail.com"" ""jim.baker@rackspace.com""}",7239.0,46
+Python,jython,2014-05-14,1,1,"#{""jim.baker@rackspace.com""}",7240.0,46
+Python,jython,2014-05-15,2,1,"#{""fwierzbicki@gmail.com""}",7242.0,46
+Python,jython,2014-05-16,2,1,"#{""fwierzbicki@gmail.com""}",7244.0,46
+Python,jython,2014-05-17,4,2,"#{""fwierzbicki@gmail.com"" ""jim.baker@rackspace.com""}",7248.0,46
+Python,jython,2014-05-18,2,2,"#{""ja.py@farowl.co.uk"" ""indra.talip@gmail.com""}",7250.0,46
+Python,jython,2014-05-19,4,2,"#{""fwierzbicki@gmail.com"" ""ja.py@farowl.co.uk""}",7254.0,46
+Python,jython,2014-05-21,2,2,"#{""santoso.wijaya@gmail.com"" ""indra.talip@gmail.com""}",7256.0,46
+Python,jython,2014-05-22,6,3,"#{""lecomte.timothee@gmail.com"" ""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7262.0,47
+Python,jython,2014-05-23,4,3,"#{""m@bues.ch"" ""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7266.0,48
+Python,jython,2014-05-25,1,1,"#{""ja.py@farowl.co.uk""}",7267.0,48
+Python,jython,2014-05-27,5,2,"#{""fwierzbicki@gmail.com"" ""ja.py@farowl.co.uk""}",7272.0,48
+Python,jython,2014-06-03,1,1,"#{""ja.py@farowl.co.uk""}",7273.0,48
+Python,jython,2014-06-07,1,1,"#{""ja.py@farowl.co.uk""}",7274.0,48
+Python,jython,2014-06-08,2,1,"#{""ja.py@farowl.co.uk""}",7276.0,48
+Python,jython,2014-06-10,1,1,"#{""ja.py@farowl.co.uk""}",7277.0,48
+Python,jython,2014-06-11,1,1,"#{""santoso.wijaya@gmail.com""}",7278.0,48
+Python,jython,2014-06-13,2,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7280.0,48
+Python,jython,2014-06-14,6,3,"#{""santoso.wijaya@gmail.com"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7286.0,48
+Python,jython,2014-06-15,1,1,"#{""ja.py@farowl.co.uk""}",7287.0,48
+Python,jython,2014-06-16,1,1,"#{""ja.py@farowl.co.uk""}",7288.0,48
+Python,jython,2014-06-17,1,1,"#{""jim.baker@rackspace.com""}",7289.0,48
+Python,jython,2014-06-18,2,1,"#{""santoso.wijaya@gmail.com""}",7291.0,48
+Python,jython,2014-06-19,2,1,"#{""ja.py@farowl.co.uk""}",7293.0,48
+Python,jython,2014-06-20,1,1,"#{""peter.holloway@diamond.ac.uk""}",7294.0,49
+Python,jython,2014-06-21,3,2,"#{""santoso.wijaya@gmail.com"" ""indra.talip@gmail.com""}",7297.0,49
+Python,jython,2014-06-22,4,3,"#{""santoso.wijaya@gmail.com"" ""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7301.0,49
+Python,jython,2014-06-24,10,3,"#{""peter.holloway@diamond.ac.uk"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7311.0,49
+Python,jython,2014-06-25,2,2,"#{""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7313.0,49
+Python,jython,2014-06-27,7,3,"#{""lecomte.timothee@gmail.com"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7320.0,49
+Python,jython,2014-06-28,5,2,"#{""fwierzbicki@gmail.com"" ""jim.baker@rackspace.com""}",7325.0,49
+Python,jython,2014-06-29,2,1,"#{""ja.py@farowl.co.uk""}",7327.0,49
+Python,jython,2014-06-30,2,1,"#{""jim.baker@rackspace.com""}",7329.0,49
+Python,jython,2014-07-01,1,1,"#{""jim.baker@rackspace.com""}",7330.0,49
+Python,jython,2014-07-02,1,1,"#{""jim.baker@rackspace.com""}",7331.0,49
+Python,jython,2014-07-09,1,1,"#{""jim.baker@rackspace.com""}",7332.0,49
+Python,jython,2014-07-14,1,1,"#{""jim.baker@rackspace.com""}",7333.0,49
+Python,jython,2014-07-17,1,1,"#{""werner.mendizabal@rackspace.com""}",7334.0,50
+Python,jython,2014-07-26,5,3,"#{""none@none"" ""darjus@gmail.com"" ""henning@jacobs1.de""}",7339.0,51
+Python,jython,2014-07-30,1,1,"#{""ja.py@farowl.co.uk""}",7340.0,51
+Python,jython,2014-08-04,1,1,"#{""fwierzbicki@gmail.com""}",7341.0,51
+Python,jython,2014-08-05,1,1,"#{""ja.py@farowl.co.uk""}",7342.0,51
+Python,jython,2014-08-06,2,1,"#{""alex.gronholm@nextday.fi""}",7344.0,51
+Python,jython,2014-08-08,1,1,"#{""ja.py@farowl.co.uk""}",7345.0,51
+Python,jython,2014-08-14,1,1,"#{""alex.gronholm@nextday.fi""}",7346.0,51
+Python,jython,2014-08-16,2,2,"#{""ja.py@farowl.co.uk"" ""alex.gronholm@nextday.fi""}",7348.0,51
+Python,jython,2014-08-18,1,1,"#{""stefan.richthofer@gmx.de""}",7349.0,52
+Python,jython,2014-08-26,3,2,"#{""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7352.0,52
+Python,jython,2014-08-28,2,1,"#{""stefan.richthofer@gmx.de""}",7354.0,52
+Python,jython,2014-09-02,1,1,"#{""stefan.richthofer@gmx.de""}",7355.0,52
+Python,jython,2014-09-03,1,1,"#{""jim.baker@rackspace.com""}",7356.0,52
+Python,jython,2014-09-05,1,1,"#{""jim.baker@rackspace.com""}",7357.0,52
+Python,jython,2014-09-06,3,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7360.0,52
+Python,jython,2014-09-07,2,1,"#{""ja.py@farowl.co.uk""}",7362.0,52
+Python,jython,2014-09-08,3,3,"#{""santoso.wijaya@gmail.com"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7365.0,52
+Python,jython,2014-09-09,2,2,"#{""alex.gronholm@nextday.fi"" ""jim.baker@rackspace.com""}",7367.0,52
+Python,jython,2014-09-12,1,1,"#{""ja.py@farowl.co.uk""}",7368.0,52
+Python,jython,2014-09-13,2,1,"#{""jim.baker@rackspace.com""}",7370.0,52
+Python,jython,2014-09-15,1,1,"#{""ja.py@farowl.co.uk""}",7371.0,52
+Python,jython,2014-09-16,1,1,"#{""ja.py@farowl.co.uk""}",7372.0,52
+Python,jython,2014-09-17,1,1,"#{""werner.mendizabal@rackspace.com""}",7373.0,52
+Python,jython,2014-09-22,2,1,"#{""jim.baker@rackspace.com""}",7375.0,52
+Python,jython,2014-09-23,3,1,"#{""jim.baker@rackspace.com""}",7378.0,52
+Python,jython,2014-09-26,1,1,"#{""jim.baker@rackspace.com""}",7379.0,52
+Python,jython,2014-10-06,1,1,"#{""jim.baker@rackspace.com""}",7380.0,52
+Python,jython,2014-10-09,2,1,"#{""jim.baker@rackspace.com""}",7382.0,52
+Python,jython,2014-10-13,1,1,"#{""jim.baker@rackspace.com""}",7383.0,52
+Python,jython,2014-10-14,2,2,"#{""rjolly@users.sourceforge.net"" ""ja.py@farowl.co.uk""}",7385.0,52
+Python,jython,2014-10-21,1,1,"#{""darjus@gmail.com""}",7386.0,52
+Python,jython,2014-10-26,1,1,"#{""jim.baker@rackspace.com""}",7387.0,52
+Python,jython,2014-10-28,1,1,"#{""Yamano_Yuji@ogis-ri.co.jp""}",7388.0,53
+Python,jython,2014-10-31,1,1,"#{""stefan.richthofer@gmx.de""}",7389.0,53
+Python,jython,2014-11-03,1,1,"#{""ja.py@farowl.co.uk""}",7390.0,53
+Python,jython,2014-11-05,2,1,"#{""jim.baker@rackspace.com""}",7392.0,53
+Python,jython,2014-11-06,4,1,"#{""jim.baker@rackspace.com""}",7396.0,53
+Python,jython,2014-11-09,1,1,"#{""alan@xhaus.com""}",7397.0,53
+Python,jython,2014-11-16,1,1,"#{""ja.py@farowl.co.uk""}",7398.0,53
+Python,jython,2014-11-17,1,1,"#{""jim.baker@rackspace.com""}",7399.0,53
+Python,jython,2014-11-18,1,1,"#{""jim.baker@rackspace.com""}",7400.0,53
+Python,jython,2014-11-19,4,1,"#{""stefan.richthofer@gmx.de""}",7404.0,53
+Python,jython,2014-11-20,2,2,"#{""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7406.0,53
+Python,jython,2014-11-29,3,1,"#{""stefan.richthofer@gmx.de""}",7409.0,53
+Python,jython,2014-11-30,1,1,"#{""ja.py@farowl.co.uk""}",7410.0,53
+Python,jython,2014-12-01,2,1,"#{""ja.py@farowl.co.uk""}",7412.0,53
+Python,jython,2014-12-02,4,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7416.0,53
+Python,jython,2014-12-06,2,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7418.0,53
+Python,jython,2014-12-07,2,1,"#{""jim.baker@rackspace.com""}",7420.0,53
+Python,jython,2014-12-08,7,1,"#{""jim.baker@rackspace.com""}",7427.0,53
+Python,jython,2014-12-09,2,1,"#{""jim.baker@rackspace.com""}",7429.0,53
+Python,jython,2014-12-12,6,1,"#{""jim.baker@rackspace.com""}",7435.0,53
+Python,jython,2014-12-14,7,1,"#{""jim.baker@rackspace.com""}",7442.0,53
+Python,jython,2014-12-15,2,2,"#{""santoso.wijaya@gmail.com"" ""ja.py@farowl.co.uk""}",7444.0,53
+Python,jython,2014-12-16,3,1,"#{""jim.baker@rackspace.com""}",7447.0,53
+Python,jython,2014-12-17,4,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7451.0,53
+Python,jython,2014-12-18,2,1,"#{""ja.py@farowl.co.uk""}",7453.0,53
+Python,jython,2014-12-20,5,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7458.0,53
+Python,jython,2014-12-21,1,1,"#{""ja.py@farowl.co.uk""}",7459.0,53
+Python,jython,2014-12-23,3,1,"#{""jim.baker@rackspace.com""}",7462.0,53
+Python,jython,2014-12-24,2,1,"#{""jim.baker@rackspace.com""}",7464.0,53
+Python,jython,2014-12-26,2,2,"#{""santoso.wijaya@gmail.com"" ""jim.baker@rackspace.com""}",7466.0,53
+Python,jython,2014-12-27,1,1,"#{""jim.baker@rackspace.com""}",7467.0,53
+Python,jython,2014-12-28,1,1,"#{""jim.baker@rackspace.com""}",7468.0,53
+Python,jython,2014-12-29,3,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7471.0,53
+Python,jython,2014-12-30,2,1,"#{""ja.py@farowl.co.uk""}",7473.0,53
+Python,jython,2014-12-31,4,1,"#{""ja.py@farowl.co.uk""}",7477.0,53
+Python,jython,2015-01-03,3,2,"#{""ja.py@farowl.co.uk"" ""stefan.richthofer@gmx.de""}",7480.0,53
+Python,jython,2015-01-04,7,3,"#{""ja.py@farowl.co.uk"" ""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7487.0,53
+Python,jython,2015-01-05,6,3,"#{""ja.py@farowl.co.uk"" ""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7493.0,53
+Python,jython,2015-01-06,7,3,"#{""fwierzbicki@gmail.com"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7500.0,53
+Python,jython,2015-01-07,1,1,"#{""jim.baker@rackspace.com""}",7501.0,53
+Python,jython,2015-01-08,7,4,"#{""fwierzbicki@gmail.com"" ""peke@iki.fi"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7508.0,54
+Python,jython,2015-01-09,4,3,"#{""fwierzbicki@gmail.com"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7512.0,54
+Python,jython,2015-01-10,2,1,"#{""ja.py@farowl.co.uk""}",7514.0,54
+Python,jython,2015-01-11,3,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7517.0,54
+Python,jython,2015-01-12,1,1,"#{""jim.baker@rackspace.com""}",7518.0,54
+Python,jython,2015-01-13,2,1,"#{""jim.baker@rackspace.com""}",7520.0,54
+Python,jython,2015-01-14,2,1,"#{""jim.baker@rackspace.com""}",7522.0,54
+Python,jython,2015-01-16,1,1,"#{""jim.baker@rackspace.com""}",7523.0,54
+Python,jython,2015-01-17,6,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7529.0,54
+Python,jython,2015-01-18,2,1,"#{""ja.py@farowl.co.uk""}",7531.0,54
+Python,jython,2015-01-19,5,3,"#{""jiwon@stanford.edu"" ""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7536.0,55
+Python,jython,2015-01-20,3,2,"#{""santoso.wijaya@gmail.com"" ""ja.py@farowl.co.uk""}",7539.0,55
+Python,jython,2015-01-21,1,1,"#{""fwierzbicki@gmail.com""}",7540.0,55
+Python,jython,2015-01-22,1,1,"#{""jim.baker@rackspace.com""}",7541.0,55
+Python,jython,2015-01-23,2,2,"#{""peke@iki.fi"" ""jim.baker@rackspace.com""}",7543.0,55
+Python,jython,2015-01-27,4,1,"#{""jim.baker@rackspace.com""}",7547.0,55
+Python,jython,2015-02-02,7,2,"#{""indra.talip@gmail.com"" ""jim.baker@rackspace.com""}",7554.0,55
+Python,jython,2015-02-04,1,1,"#{""jim.baker@rackspace.com""}",7555.0,55
+Python,jython,2015-02-05,1,1,"#{""jim.baker@rackspace.com""}",7556.0,55
+Python,jython,2015-02-06,5,2,"#{""britefury@gmail.com"" ""jim.baker@rackspace.com""}",7561.0,56
+Python,jython,2015-02-11,6,3,"#{""dina.paolo@gmail.com"" ""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7567.0,57
+Python,jython,2015-02-12,1,1,"#{""stefan.richthofer@gmx.de""}",7568.0,57
+Python,jython,2015-02-13,2,2,"#{""fwierzbicki@gmail.com"" ""stefan.richthofer@gmx.de""}",7570.0,57
+Python,jython,2015-02-15,1,1,"#{""ja.py@farowl.co.uk""}",7571.0,57
+Python,jython,2015-02-17,2,2,"#{""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7573.0,57
+Python,jython,2015-02-18,2,1,"#{""jim.baker@rackspace.com""}",7575.0,57
+Python,jython,2015-02-19,1,1,"#{""jim.baker@rackspace.com""}",7576.0,57
+Python,jython,2015-02-21,5,2,"#{""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7581.0,57
+Python,jython,2015-02-22,2,2,"#{""peke@iki.fi"" ""stefan.richthofer@gmx.de""}",7583.0,57
+Python,jython,2015-02-24,1,1,"#{""stefan.richthofer@gmx.de""}",7584.0,57
+Python,jython,2015-03-01,3,1,"#{""jim.baker@rackspace.com""}",7587.0,57
+Python,jython,2015-03-02,1,1,"#{""jim.baker@rackspace.com""}",7588.0,57
+Python,jython,2015-03-06,1,1,"#{""jim.baker@rackspace.com""}",7589.0,57
+Python,jython,2015-03-07,2,1,"#{""jim.baker@rackspace.com""}",7591.0,57
+Python,jython,2015-03-09,1,1,"#{""jim.baker@rackspace.com""}",7592.0,57
+Python,jython,2015-03-10,1,1,"#{""jim.baker@rackspace.com""}",7593.0,57
+Python,jython,2015-03-13,5,3,"#{""eliyasadan@gmail.com"" ""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7598.0,58
+Python,jython,2015-03-14,2,1,"#{""jim.baker@rackspace.com""}",7600.0,58
+Python,jython,2015-03-15,2,2,"#{""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7602.0,58
+Python,jython,2015-03-16,1,1,"#{""jim.baker@rackspace.com""}",7603.0,58
+Python,jython,2015-03-17,1,1,"#{""jim.baker@rackspace.com""}",7604.0,58
+Python,jython,2015-03-19,3,2,"#{""santoso.wijaya@gmail.com"" ""jim.baker@rackspace.com""}",7607.0,58
+Python,jython,2015-03-20,6,1,"#{""jim.baker@rackspace.com""}",7613.0,58
+Python,jython,2015-03-21,3,2,"#{""santoso.wijaya@gmail.com"" ""jim.baker@rackspace.com""}",7616.0,58
+Python,jython,2015-03-22,2,1,"#{""fwierzbicki@gmail.com""}",7618.0,58
+Python,jython,2015-03-28,1,1,"#{""jim.baker@rackspace.com""}",7619.0,58
+Python,jython,2015-04-01,6,1,"#{""jim.baker@rackspace.com""}",7625.0,58
+Python,jython,2015-04-02,4,2,"#{""fwierzbicki@gmail.com"" ""jim.baker@rackspace.com""}",7629.0,58
+Python,jython,2015-04-03,4,2,"#{""fwierzbicki@gmail.com"" ""jim.baker@rackspace.com""}",7633.0,58
+Python,jython,2015-04-04,1,1,"#{""alex.gronholm@nextday.fi""}",7634.0,58
+Python,jython,2015-04-06,2,1,"#{""ja.py@farowl.co.uk""}",7636.0,58
+Python,jython,2015-04-07,1,1,"#{""ja.py@farowl.co.uk""}",7637.0,58
+Python,jython,2015-04-09,1,1,"#{""ja.py@farowl.co.uk""}",7638.0,58
+Python,jython,2015-04-10,1,1,"#{""ja.py@farowl.co.uk""}",7639.0,58
+Python,jython,2015-04-11,1,1,"#{""jim.baker@rackspace.com""}",7640.0,58
+Python,jython,2015-04-12,2,1,"#{""ja.py@farowl.co.uk""}",7642.0,58
+Python,jython,2015-04-13,9,4,"#{""fwierzbicki@gmail.com"" ""ja.py@farowl.co.uk"" ""alex.gronholm@nextday.fi"" ""jim.baker@rackspace.com""}",7651.0,58
+Python,jython,2015-04-14,2,2,"#{""alex.gronholm@nextday.fi"" ""stefan.richthofer@gmx.de""}",7653.0,58
+Python,jython,2015-04-15,4,2,"#{""jason.madden@nextthought.com"" ""jim.baker@rackspace.com""}",7657.0,59
+Python,jython,2015-04-16,1,1,"#{""jim.baker@rackspace.com""}",7658.0,59
+Python,jython,2015-04-18,4,1,"#{""ja.py@farowl.co.uk""}",7662.0,59
+Python,jython,2015-04-19,9,3,"#{""jason.madden@nextthought.com"" ""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7671.0,59
+Python,jython,2015-04-20,6,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7677.0,59
+Python,jython,2015-04-21,2,1,"#{""fwierzbicki@gmail.com""}",7679.0,59
+Python,jython,2015-04-23,1,1,"#{""jim.baker@rackspace.com""}",7680.0,59
+Python,jython,2015-04-27,1,1,"#{""ja.py@farowl.co.uk""}",7681.0,59
+Python,jython,2015-04-29,4,1,"#{""fwierzbicki@gmail.com""}",7685.0,59
+Python,jython,2015-05-02,1,1,"#{""ja.py@farowl.co.uk""}",7686.0,59
+Python,jython,2015-05-03,1,1,"#{""ja.py@farowl.co.uk""}",7687.0,59
+Python,jython,2015-05-04,2,1,"#{""ja.py@farowl.co.uk""}",7689.0,59
+Python,jython,2015-05-10,2,1,"#{""ja.py@farowl.co.uk""}",7691.0,59
+Python,jython,2015-05-11,1,1,"#{""stefan.richthofer@gmx.de""}",7692.0,59
+Python,jython,2015-05-12,1,1,"#{""stefan.richthofer@gmx.de""}",7693.0,59
+Python,jython,2015-05-14,1,1,"#{""ja.py@farowl.co.uk""}",7694.0,59
+Python,jython,2015-05-16,1,1,"#{""ja.py@farowl.co.uk""}",7695.0,59
+Python,jython,2015-05-17,1,1,"#{""ja.py@farowl.co.uk""}",7696.0,59
+Python,jython,2015-07-29,1,1,"#{""stefan.richthofer@gmx.de""}",7697.0,59
+Python,jython,2015-08-02,1,1,"#{""stefan.richthofer@gmx.de""}",7698.0,59
+Python,jython,2015-08-06,1,1,"#{""stefan.richthofer@gmx.de""}",7699.0,59
+Python,jython,2015-08-31,2,1,"#{""ja.py@farowl.co.uk""}",7701.0,59
+Python,jython,2015-09-01,2,2,"#{""ja.py@farowl.co.uk"" ""darjus@gmail.com""}",7703.0,59
+Python,jython,2015-09-03,4,3,"#{""ja.py@farowl.co.uk"" ""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7707.0,59
+Python,jython,2015-09-04,1,1,"#{""stefan.richthofer@gmx.de""}",7708.0,59
+Python,jython,2015-09-05,2,1,"#{""stefan.richthofer@gmx.de""}",7710.0,59
+Python,jython,2015-09-09,1,1,"#{""ja.py@farowl.co.uk""}",7711.0,59
+Python,jython,2015-09-10,3,1,"#{""ja.py@farowl.co.uk""}",7714.0,59
+Python,jython,2015-09-11,5,1,"#{""fwierzbicki@gmail.com""}",7719.0,59
+Python,jython,2015-09-13,1,1,"#{""ja.py@farowl.co.uk""}",7720.0,59
+Python,jython,2015-09-19,1,1,"#{""ja.py@farowl.co.uk""}",7721.0,59
+Python,jython,2015-09-27,1,1,"#{""stefan.richthofer@gmx.de""}",7722.0,59
+Python,jython,2015-09-30,1,1,"#{""ja.py@farowl.co.uk""}",7723.0,59
+Python,jython,2015-10-01,2,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7725.0,59
+Python,jython,2015-10-02,2,2,"#{""darjus@60f81db49d06.ant.amazon.com"" ""darjus@uf8bc12998453542e0d23.syd10.amazon.com""}",7727.0,61
+Python,jython,2015-10-06,2,1,"#{""darjus@gmail.com""}",7729.0,61
+Python,jython,2015-10-07,4,1,"#{""darjus@gmail.com""}",7733.0,61
+Python,jython,2015-10-09,1,1,"#{""darjus@gmail.com""}",7734.0,61
+Python,jython,2015-10-10,1,1,"#{""ja.py@farowl.co.uk""}",7735.0,61
+Python,jython,2015-10-11,4,2,"#{""ja.py@farowl.co.uk"" ""darjus@gmail.com""}",7739.0,61
+Python,jython,2015-10-12,2,1,"#{""fwierzbicki@gmail.com""}",7741.0,61
+Python,jython,2015-10-16,2,1,"#{""jim.baker@rackspace.com""}",7743.0,61
+Python,jython,2015-10-18,1,1,"#{""adamburkemail@gmail.com""}",7744.0,62
+Python,jython,2015-10-20,1,1,"#{""ja.py@farowl.co.uk""}",7745.0,62
+Python,jython,2015-10-22,2,1,"#{""stefan.richthofer@gmx.de""}",7747.0,62
+Python,jython,2015-10-23,4,2,"#{""stefan.richthofer@gmx.de"" ""darjus@gmail.com""}",7751.0,62
+Python,jython,2015-10-26,1,1,"#{""jim.baker@rackspace.com""}",7752.0,62
+Python,jython,2015-10-27,2,1,"#{""jim.baker@rackspace.com""}",7754.0,62
+Python,jython,2015-10-28,2,1,"#{""jim.baker@rackspace.com""}",7756.0,62
+Python,jython,2015-10-29,9,4,"#{""adamburkemail@gmail.com"" ""ja.py@farowl.co.uk"" ""darjus@gmail.com"" ""eric.frederich@gmail.com""}",7765.0,63
+Python,jython,2015-10-30,3,1,"#{""ja.py@farowl.co.uk""}",7768.0,63
+Python,jython,2015-10-31,4,3,"#{""ja.py@farowl.co.uk"" ""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7772.0,63
+Python,jython,2015-11-01,2,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7774.0,63
+Python,jython,2015-11-02,1,1,"#{""jim.baker@rackspace.com""}",7775.0,63
+Python,jython,2015-11-06,1,1,"#{""ja.py@farowl.co.uk""}",7776.0,63
+Python,jython,2015-11-07,1,1,"#{""ja.py@farowl.co.uk""}",7777.0,63
+Python,jython,2015-11-09,4,2,"#{""ja.py@farowl.co.uk"" ""darjus@gmail.com""}",7781.0,63
+Python,jython,2015-11-10,2,1,"#{""ja.py@farowl.co.uk""}",7783.0,63
+Python,jython,2015-11-12,2,1,"#{""darjus@gmail.com""}",7785.0,63
+Python,jython,2015-11-13,2,1,"#{""darjus@gmail.com""}",7787.0,63
+Python,jython,2015-11-14,8,5,"#{""steve@synergyconsultingnz.com"" ""cpburnz@gmail.com"" ""tom.alexander@datastax.com"" ""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7795.0,66
+Python,jython,2015-11-16,2,1,"#{""darjus@gmail.com""}",7797.0,66
+Python,jython,2015-11-20,4,2,"#{""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7801.0,66
+Python,jython,2015-11-21,3,2,"#{""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7804.0,66
+Python,jython,2015-11-22,1,1,"#{""darjus@gmail.com""}",7805.0,66
+Python,jython,2015-11-23,3,1,"#{""jim.baker@rackspace.com""}",7808.0,66
+Python,jython,2015-12-08,1,1,"#{""darjus@gmail.com""}",7809.0,66
+Python,jython,2015-12-10,3,1,"#{""jim.baker@rackspace.com""}",7812.0,66
+Python,jython,2015-12-11,6,1,"#{""darjus@gmail.com""}",7818.0,66
+Python,jython,2015-12-14,4,2,"#{""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7822.0,66
+Python,jython,2015-12-23,1,1,"#{""jim.baker@rackspace.com""}",7823.0,66
+Python,jython,2015-12-24,2,2,"#{""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7825.0,66
+Python,jython,2015-12-28,3,1,"#{""jim.baker@rackspace.com""}",7828.0,66
+Python,jython,2015-12-30,1,1,"#{""jim.baker@rackspace.com""}",7829.0,66
+Python,jython,2016-01-04,2,1,"#{""darjus@gmail.com""}",7831.0,66
+Python,jython,2016-01-05,3,1,"#{""darjus@gmail.com""}",7834.0,66
+Python,jython,2016-01-06,7,1,"#{""jim.baker@rackspace.com""}",7841.0,66
+Python,jython,2016-01-08,2,2,"#{""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7843.0,66
+Python,jython,2016-01-09,4,2,"#{""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7847.0,66
+Python,jython,2016-01-10,2,1,"#{""darjus@gmail.com""}",7849.0,66
+Python,jython,2016-01-11,2,1,"#{""jim.baker@rackspace.com""}",7851.0,66
+Python,jython,2016-01-12,1,1,"#{""darjus@gmail.com""}",7852.0,66
+Python,jython,2016-01-13,6,3,"#{""jsaiz@sciops.esa.int"" ""nickmbailey@gmail.com"" ""darjus@gmail.com""}",7858.0,68
+Python,jython,2016-01-21,5,1,"#{""darjus@gmail.com""}",7863.0,68
+Python,jython,2016-01-22,4,1,"#{""darjus@gmail.com""}",7867.0,68
+Python,jython,2016-02-01,4,1,"#{""jim.baker@rackspace.com""}",7871.0,68
+Python,jython,2016-02-02,2,2,"#{""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7873.0,68
+Python,jython,2016-02-03,6,3,"#{""fwierzbicki@gmail.com"" ""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",7879.0,68
+Python,jython,2016-02-04,2,1,"#{""darjus@gmail.com""}",7881.0,68
+Python,jython,2016-02-12,3,1,"#{""jim.baker@rackspace.com""}",7884.0,68
+Python,jython,2016-02-16,2,2,"#{""ja.py@farowl.co.uk"" ""jim.baker@rackspace.com""}",7886.0,68
+Python,jython,2016-02-17,1,1,"#{""jim.baker@rackspace.com""}",7887.0,68
+Python,jython,2016-02-20,1,1,"#{""jim.baker@rackspace.com""}",7888.0,68
+Python,jython,2016-02-22,1,1,"#{""jim.baker@rackspace.com""}",7889.0,68
+Python,jython,2016-02-23,5,2,"#{""nickmbailey@gmail.com"" ""jim.baker@rackspace.com""}",7894.0,68
+Python,jython,2016-02-24,2,1,"#{""darjus@gmail.com""}",7896.0,68
+Python,jython,2016-02-29,2,1,"#{""darjus@gmail.com""}",7898.0,68
+Python,jython,2016-03-07,1,1,"#{""darjus@gmail.com""}",7899.0,68
+Python,jython,2016-03-18,1,1,"#{""darjus@gmail.com""}",7900.0,68
+Python,jython,2016-03-19,2,1,"#{""darjus@gmail.com""}",7902.0,68
+Python,jython,2016-05-03,3,1,"#{""stefan.richthofer@gmx.de""}",7905.0,68
+Python,jython,2016-05-04,2,1,"#{""stefan.richthofer@gmx.de""}",7907.0,68
+Python,jython,2016-05-07,1,1,"#{""ja.py@farowl.co.uk""}",7908.0,68
+Python,jython,2016-05-31,4,1,"#{""ja.py@farowl.co.uk""}",7912.0,68
+Python,jython,2016-06-09,1,1,"#{""ja.py@farowl.co.uk""}",7913.0,68
+Python,jython,2016-06-11,1,1,"#{""ja.py@farowl.co.uk""}",7914.0,68
+Python,jython,2016-06-23,1,1,"#{""ja.py@farowl.co.uk""}",7915.0,68
+Python,jython,2016-06-25,1,1,"#{""ja.py@farowl.co.uk""}",7916.0,68
+Python,jython,2016-06-26,1,1,"#{""ja.py@farowl.co.uk""}",7917.0,68
+Python,jython,2016-06-30,2,1,"#{""ja.py@farowl.co.uk""}",7919.0,68
+Python,jython,2016-07-11,1,1,"#{""ja.py@farowl.co.uk""}",7920.0,68
+Python,jython,2016-08-14,1,1,"#{""stefan.richthofer@gmx.de""}",7921.0,68
+Python,jython,2016-08-16,4,3,"#{""nickmbailey@gmail.com"" ""darjus@gmail.com"" ""jim.baker@rackspace.com""}",7925.0,68
+Python,jython,2016-08-17,2,2,"#{""stefan.richthofer@gmx.de"" ""darjus@gmail.com""}",7927.0,68
+Python,jython,2016-08-18,1,1,"#{""stefan.richthofer@gmx.de""}",7928.0,68
+Python,jython,2016-08-23,1,1,"#{""stefan.richthofer@gmx.de""}",7929.0,68
+Python,jython,2016-08-24,3,2,"#{""tom.alexander@datastax.com"" ""jim.baker@rackspace.com""}",7932.0,68
+Python,jython,2016-08-27,3,1,"#{""ja.py@farowl.co.uk""}",7935.0,68
+Python,jython,2016-08-29,2,2,"#{""stefan.richthofer@gmx.de"" ""darjus@gmail.com""}",7937.0,68
+Python,jython,2016-08-31,1,1,"#{""dclayton@cyclecomputing.com""}",7938.0,69
+Python,jython,2016-09-02,1,1,"#{""ja.py@farowl.co.uk""}",7939.0,69
+Python,jython,2016-09-03,3,1,"#{""ja.py@farowl.co.uk""}",7942.0,69
+Python,jython,2016-09-04,1,1,"#{""ja.py@farowl.co.uk""}",7943.0,69
+Python,jython,2016-09-05,3,1,"#{""jim.baker@rackspace.com""}",7946.0,69
+Python,jython,2016-09-19,3,1,"#{""darjus@gmail.com""}",7949.0,69
+Python,jython,2016-11-13,3,1,"#{""jim.baker@rackspace.com""}",7952.0,69
+Python,jython,2016-11-14,2,2,"#{""james.mudd@gmail.com"" ""darjus@gmail.com""}",7954.0,70
+Python,jython,2016-11-15,1,1,"#{""stefan.richthofer@gmx.de""}",7955.0,70
+Python,jython,2016-11-25,1,1,"#{""stefan.richthofer@gmx.de""}",7956.0,70
+Python,jython,2016-11-26,1,1,"#{""stefan.richthofer@gmx.de""}",7957.0,70
+Python,jython,2016-12-01,1,1,"#{""stefan.richthofer@gmx.de""}",7958.0,70
+Python,jython,2016-12-05,1,1,"#{""ja.py@farowl.co.uk""}",7959.0,70
+Python,jython,2016-12-06,1,1,"#{""ja.py@farowl.co.uk""}",7960.0,70
+Python,jython,2016-12-10,7,1,"#{""ja.py@farowl.co.uk""}",7967.0,70
+Python,jython,2016-12-24,2,1,"#{""stefan.richthofer@gmx.de""}",7969.0,70
+Python,jython,2017-01-07,1,1,"#{""stefan.richthofer@gmx.de""}",7970.0,70
+Python,jython,2017-01-08,4,1,"#{""stefan.richthofer@gmx.de""}",7974.0,70
+Python,jython,2017-01-09,11,1,"#{""stefan.richthofer@gmx.de""}",7985.0,70
+Python,jython,2017-01-10,1,1,"#{""stefan.richthofer@gmx.de""}",7986.0,70
+Python,jython,2017-01-11,1,1,"#{""stefan.richthofer@gmx.de""}",7987.0,70
+Python,jython,2017-01-12,4,1,"#{""stefan.richthofer@gmx.de""}",7991.0,70
+Python,jython,2017-01-20,3,1,"#{""stefan.richthofer@gmx.de""}",7994.0,70
+Python,jython,2017-02-01,3,1,"#{""stefan.richthofer@gmx.de""}",7997.0,70
+Python,jython,2017-02-03,1,1,"#{""stefan.richthofer@gmx.de""}",7998.0,70
+Python,jython,2017-02-05,1,1,"#{""stefan.richthofer@gmx.de""}",7999.0,70
+Python,jython,2017-02-06,1,1,"#{""stefan.richthofer@gmx.de""}",8000.0,70
+Python,jython,2017-02-07,3,1,"#{""stefan.richthofer@gmx.de""}",8003.0,70
+Python,jython,2017-02-08,2,1,"#{""stefan.richthofer@gmx.de""}",8005.0,70
+Python,jython,2017-02-19,3,2,"#{""james.mudd@gmail.com"" ""stefan.richthofer@gmx.de""}",8008.0,70
+Python,jython,2017-02-23,2,1,"#{""stefan.richthofer@gmx.de""}",8010.0,70
+Python,jython,2017-02-24,7,2,"#{""james.mudd@gmail.com"" ""stefan.richthofer@gmx.de""}",8017.0,70
+Python,jython,2017-02-26,2,1,"#{""stefan.richthofer@gmx.de""}",8019.0,70
+Python,jython,2017-02-27,2,1,"#{""stefan.richthofer@gmx.de""}",8021.0,70
+Python,jython,2017-02-28,3,1,"#{""fwierzbicki@gmail.com""}",8024.0,70
+Python,jython,2017-03-03,5,2,"#{""james.mudd@gmail.com"" ""stefan.richthofer@gmx.de""}",8029.0,70
+Python,jython,2017-03-04,1,1,"#{""stefan.richthofer@gmx.de""}",8030.0,70
+Python,jython,2017-03-05,1,1,"#{""stefan.richthofer@gmx.de""}",8031.0,70
+Python,jython,2017-03-06,3,3,"#{""james.mudd@gmail.com"" ""tom.alexander@datastax.com"" ""stefan.richthofer@gmx.de""}",8034.0,70
+Python,jython,2017-03-07,1,1,"#{""stefan.richthofer@gmx.de""}",8035.0,70
+Python,jython,2017-03-08,1,1,"#{""darjus@gmail.com""}",8036.0,70
+Python,jython,2017-03-09,1,1,"#{""ja.py@farowl.co.uk""}",8037.0,70
+Python,jython,2017-03-13,5,2,"#{""ja.py@farowl.co.uk"" ""stefan.richthofer@gmx.de""}",8042.0,70
+Python,jython,2017-03-14,2,1,"#{""ja.py@farowl.co.uk""}",8044.0,70
+Python,jython,2017-03-15,1,1,"#{""james.mudd@gmail.com""}",8045.0,70
+Python,jython,2017-03-16,4,2,"#{""james.mudd@gmail.com"" ""ja.py@farowl.co.uk""}",8049.0,70
+Python,jython,2017-03-19,3,1,"#{""ja.py@farowl.co.uk""}",8052.0,70
+Python,jython,2017-03-20,1,1,"#{""ja.py@farowl.co.uk""}",8053.0,70
+Python,jython,2017-03-22,1,1,"#{""james.mudd@gmail.com""}",8054.0,70
+Python,jython,2017-03-26,2,1,"#{""ja.py@farowl.co.uk""}",8056.0,70
+Python,jython,2017-03-31,1,1,"#{""stefan.richthofer@gmx.de""}",8057.0,70
+Python,jython,2017-04-16,3,2,"#{""james.mudd@gmail.com"" ""ja.py@farowl.co.uk""}",8060.0,70
+Python,jython,2017-04-20,1,1,"#{""ja.py@farowl.co.uk""}",8061.0,70
+Python,jython,2017-04-26,1,1,"#{""ja.py@farowl.co.uk""}",8062.0,70
+Python,jython,2017-04-30,3,2,"#{""james.mudd@gmail.com"" ""ja.py@farowl.co.uk""}",8065.0,70
+Python,jython,2017-05-01,2,1,"#{""james.mudd@gmail.com""}",8067.0,70
+Python,jython,2017-05-05,1,1,"#{""james.mudd@gmail.com""}",8068.0,70
+Python,jython,2017-05-06,1,1,"#{""ja.py@farowl.co.uk""}",8069.0,70
+Python,jython,2017-05-13,1,1,"#{""ja.py@farowl.co.uk""}",8070.0,70
+Python,jython,2017-05-14,1,1,"#{""ja.py@farowl.co.uk""}",8071.0,70
+Python,jython,2017-05-16,1,1,"#{""james.mudd@gmail.com""}",8072.0,70
+Python,jython,2017-05-19,2,1,"#{""stefan.richthofer@gmx.de""}",8074.0,70
+Python,jython,2017-05-20,1,1,"#{""ja.py@farowl.co.uk""}",8075.0,70
+Python,jython,2017-05-21,2,1,"#{""ja.py@farowl.co.uk""}",8077.0,70
+Python,jython,2017-05-22,1,1,"#{""ja.py@farowl.co.uk""}",8078.0,70
+Python,jython,2017-05-24,1,1,"#{""stefan.richthofer@gmx.de""}",8079.0,70
+Python,jython,2017-05-25,1,1,"#{""ja.py@farowl.co.uk""}",8080.0,70
+Python,jython,2017-05-26,1,1,"#{""jim.baker@rackspace.com""}",8081.0,70
+Python,jython,2017-05-27,2,2,"#{""stefan.richthofer@gmx.de"" ""jim.baker@rackspace.com""}",8083.0,70
+Python,jython,2017-05-29,4,1,"#{""fwierzbicki@gmail.com""}",8087.0,70
+Python,jython,2017-06-07,1,1,"#{""ja.py@farowl.co.uk""}",8088.0,70
+Python,jython,2017-06-10,2,1,"#{""ja.py@farowl.co.uk""}",8090.0,70
+Python,jython,2017-06-11,1,1,"#{""stefan.richthofer@gmx.de""}",8091.0,70
+Python,jython,2017-06-12,1,1,"#{""jim.baker@rackspace.com""}",8092.0,70
+Python,jython,2017-06-17,4,1,"#{""fwierzbicki@gmail.com""}",8096.0,70
+Python,jython,2017-06-30,3,1,"#{""fwierzbicki@gmail.com""}",8099.0,70
+Python,jython,2017-07-03,1,1,"#{""stefan.richthofer@gmx.de""}",8100.0,70
+Python,jython,2017-07-05,1,1,"#{""stefan.richthofer@gmx.de""}",8101.0,70
+Python,jython,2017-07-11,2,1,"#{""stefan.richthofer@gmx.de""}",8103.0,70
+Python,jython,2017-07-19,1,1,"#{""ja.py@farowl.co.uk""}",8104.0,70
+Python,jython,2017-08-07,1,1,"#{""ja.py@farowl.co.uk""}",8105.0,70
+Python,jython,2017-08-08,1,1,"#{""ja.py@farowl.co.uk""}",8106.0,70
+Python,jython,2017-08-27,1,1,"#{""ja.py@farowl.co.uk""}",8107.0,70
+Python,jython,2017-09-05,1,1,"#{""jim.baker@python.org""}",8108.0,71
+Python,jython,2017-09-09,1,1,"#{""jim.baker@python.org""}",8109.0,71
+Python,jython,2017-09-24,2,1,"#{""ja.py@farowl.co.uk""}",8111.0,71
+Python,jython,2017-09-25,7,3,"#{""james.mudd@gmail.com"" ""ja.py@farowl.co.uk"" ""stefan.richthofer@gmx.de""}",8118.0,71
+Python,jython,2017-10-21,1,1,"#{""james.mudd@gmail.com""}",8119.0,71
+Python,jython,2017-10-23,1,1,"#{""ja.py@farowl.co.uk""}",8120.0,71
+Python,jython,2017-11-01,1,1,"#{""ja.py@farowl.co.uk""}",8121.0,71
+Python,jython,2017-11-19,2,1,"#{""ja.py@farowl.co.uk""}",8123.0,71
+Python,jython,2017-11-21,1,1,"#{""ja.py@farowl.co.uk""}",8124.0,71
+Python,jython,2017-11-23,3,1,"#{""ja.py@farowl.co.uk""}",8127.0,71
+Python,jython,2017-11-26,2,1,"#{""ja.py@farowl.co.uk""}",8129.0,71
+Python,jython,2017-11-27,1,1,"#{""ja.py@farowl.co.uk""}",8130.0,71
+Python,jython,2017-12-02,1,1,"#{""ja.py@farowl.co.uk""}",8131.0,71
+Python,jython,2018-01-02,1,1,"#{""ja.py@farowl.co.uk""}",8132.0,71
+Python,jython,2018-01-03,2,1,"#{""james.mudd@gmail.com""}",8134.0,71
+Python,jython,2018-03-24,1,1,"#{""ja.py@farowl.co.uk""}",8135.0,71
+Python,jython,2018-03-28,3,1,"#{""ja.py@farowl.co.uk""}",8138.0,71
+Python,jython,2018-03-29,1,1,"#{""ja.py@farowl.co.uk""}",8139.0,71
+Python,jython,2018-04-16,1,1,"#{""ja.py@farowl.co.uk""}",8140.0,71
+Python,jython,2018-04-19,1,1,"#{""ja.py@farowl.co.uk""}",8141.0,71
+Python,jython,2018-04-30,1,1,"#{""ja.py@farowl.co.uk""}",8142.0,71
+Python,jython,2018-05-04,1,1,"#{""ja.py@farowl.co.uk""}",8143.0,71
+Python,jython,2018-05-05,2,1,"#{""ja.py@farowl.co.uk""}",8145.0,71
+Python,jython,2018-05-07,1,1,"#{""ja.py@farowl.co.uk""}",8146.0,71
+Python,jython,2018-05-08,1,1,"#{""ja.py@farowl.co.uk""}",8147.0,71
+Python,jython,2018-05-18,1,1,"#{""ja.py@farowl.co.uk""}",8148.0,71
+Python,jython,2018-05-20,2,2,"#{""tom.bech@bouvet.no"" ""ja.py@farowl.co.uk""}",8150.0,72
+Python,jython,2018-06-17,1,1,"#{""stefan.richthofer@gmx.de""}",8151.0,72
+Python,jython,2018-07-09,1,1,"#{""james.mudd@gmail.com""}",8152.0,72
+Python,jython,2018-07-11,3,2,"#{""james.mudd@gmail.com"" ""ja.py@farowl.co.uk""}",8155.0,72
+Python,jython,2018-07-12,1,1,"#{""richiebendall@gmail.com""}",8156.0,73
+Python,jython,2018-07-14,2,2,"#{""richiebendall@gmail.com"" ""ja.py@farowl.co.uk""}",8158.0,73
+Python,jython,2018-07-18,1,1,"#{""ja.py@farowl.co.uk""}",8159.0,73
+Python,jython,2018-07-21,1,1,"#{""ja.py@farowl.co.uk""}",8160.0,73
+Python,jython,2018-07-29,1,1,"#{""ja.py@farowl.co.uk""}",8161.0,73
+Python,jython,2018-08-03,1,1,"#{""ja.py@farowl.co.uk""}",8162.0,73
+Python,jython,2018-08-11,1,1,"#{""ja.py@farowl.co.uk""}",8163.0,73
+Python,jython,2018-09-20,2,1,"#{""ja.py@farowl.co.uk""}",8165.0,73
+Python,jython,2018-09-22,2,1,"#{""ja.py@farowl.co.uk""}",8167.0,73
+Python,jython,2018-09-23,1,1,"#{""ja.py@farowl.co.uk""}",8168.0,73
+Python,jython,2018-09-25,1,1,"#{""ja.py@farowl.co.uk""}",8169.0,73
+Python,jython,2018-09-26,1,1,"#{""ja.py@farowl.co.uk""}",8170.0,73
+Python,jython,2018-10-20,1,1,"#{""ja.py@farowl.co.uk""}",8171.0,73
+Python,jython,2018-10-21,1,1,"#{""ja.py@farowl.co.uk""}",8172.0,73
+Python,jython,2018-10-23,1,1,"#{""ja.py@farowl.co.uk""}",8173.0,73
+Python,jython,2018-10-25,1,1,"#{""ja.py@farowl.co.uk""}",8174.0,73
+Python,jython,2018-10-26,2,1,"#{""ja.py@farowl.co.uk""}",8176.0,73
+Python,jython,2018-11-03,1,1,"#{""adamburkemail@gmail.com""}",8177.0,73
+Python,jython,2018-11-04,3,1,"#{""ja.py@farowl.co.uk""}",8180.0,73
+Python,jython,2018-11-08,1,1,"#{""ja.py@farowl.co.uk""}",8181.0,73
+Python,jython,2018-11-25,1,1,"#{""ja.py@farowl.co.uk""}",8182.0,73
+Python,jython,2018-12-01,1,1,"#{""ja.py@farowl.co.uk""}",8183.0,73
+Python,jython,2018-12-02,1,1,"#{""github.public@devendortech.com""}",8184.0,74
+Python,jython,2018-12-04,3,2,"#{""james.mudd@gmail.com"" ""stefan.richthofer@gmx.de""}",8187.0,74
+Python,jython,2018-12-20,2,2,"#{""adamburkemail@gmail.com"" ""ja.py@farowl.co.uk""}",8189.0,74
+Python,jython,2018-12-27,3,1,"#{""ja.py@farowl.co.uk""}",8192.0,74
+Python,jython,2018-12-28,2,1,"#{""ja.py@farowl.co.uk""}",8194.0,74
+Python,jython,2019-01-01,2,1,"#{""ja.py@farowl.co.uk""}",8196.0,74
+Python,jython,2019-01-05,1,1,"#{""ja.py@farowl.co.uk""}",8197.0,74
+Python,jython,2019-01-06,1,1,"#{""ja.py@farowl.co.uk""}",8198.0,74
+Python,jython,2019-01-07,1,1,"#{""ja.py@farowl.co.uk""}",8199.0,74
+Python,jython,2019-01-08,1,1,"#{""ja.py@farowl.co.uk""}",8200.0,74
+Python,jython,2019-01-09,1,1,"#{""ja.py@farowl.co.uk""}",8201.0,74
+Python,jython,2019-01-12,1,1,"#{""ja.py@farowl.co.uk""}",8202.0,74
+Python,jython,2019-01-24,1,1,"#{""ja.py@farowl.co.uk""}",8203.0,74
+Python,jython,2019-02-02,1,1,"#{""ja.py@farowl.co.uk""}",8204.0,74
+Python,jython,2019-03-07,1,1,"#{""ja.py@farowl.co.uk""}",8205.0,74
+Python,jython,2019-03-08,1,1,"#{""ja.py@farowl.co.uk""}",8206.0,74
+Python,jython,2019-03-16,2,2,"#{""kuiseng.zhb@alibaba-inc.com"" ""ja.py@farowl.co.uk""}",8208.0,75
+Python,jython,2019-03-17,2,2,"#{""jim.baker@python.org"" ""ja.py@farowl.co.uk""}",8210.0,75
+Python,jython,2019-03-22,2,2,"#{""amk@amk.ca"" ""ja.py@farowl.co.uk""}",8212.0,76
+Python,jython,2019-03-23,1,1,"#{""ja.py@farowl.co.uk""}",8213.0,76
+Python,jython,2019-03-25,1,1,"#{""ja.py@farowl.co.uk""}",8214.0,76
+Python,jython,2019-03-27,1,1,"#{""ja.py@farowl.co.uk""}",8215.0,76
+Python,jython,2019-03-28,1,1,"#{""ja.py@farowl.co.uk""}",8216.0,76
+Python,jython,2019-04-04,2,2,"#{""ja.py@farowl.co.uk"" ""elkniwt@gmail.com""}",8218.0,77
+Python,jython,2019-04-08,2,2,"#{""github.public@devendortech.com"" ""ja.py@farowl.co.uk""}",8220.0,77
+Python,jython,2019-04-19,1,1,"#{""ja.py@farowl.co.uk""}",8221.0,77
+Python,jython,2019-04-22,1,1,"#{""ja.py@farowl.co.uk""}",8222.0,77
+Python,jython,2019-04-28,1,1,"#{""ja.py@farowl.co.uk""}",8223.0,77
+Python,jython,2019-04-29,1,1,"#{""ja.py@farowl.co.uk""}",8224.0,77
+Python,jython,2019-05-03,1,1,"#{""james.mudd@gmail.com""}",8225.0,77
+Python,jython,2019-05-04,1,1,"#{""ja.py@farowl.co.uk""}",8226.0,77
+Python,jython,2019-05-11,3,2,"#{""james.mudd@gmail.com"" ""ja.py@farowl.co.uk""}",8229.0,77
+Python,jython,2019-05-12,2,2,"#{""adamburkemail@gmail.com"" ""ja.py@farowl.co.uk""}",8231.0,77
+Python,jython,2019-05-15,2,1,"#{""james.mudd@gmail.com""}",8233.0,77
+Python,jython,2019-06-16,1,1,"#{""adamburkemail@gmail.com""}",8234.0,77
+Python,jython,2019-06-24,1,1,"#{""ja.py@farowl.co.uk""}",8235.0,77
+Python,jython,2019-06-28,1,1,"#{""adamburkemail@gmail.com""}",8236.0,77
+Python,jython,2019-07-19,1,1,"#{""ja.py@farowl.co.uk""}",8237.0,77
+Python,jython,2019-07-20,3,1,"#{""ja.py@farowl.co.uk""}",8240.0,77
+Python,jython,2019-07-21,1,1,"#{""ja.py@farowl.co.uk""}",8241.0,77
+Python,jython,2019-07-22,1,1,"#{""ja.py@farowl.co.uk""}",8242.0,77
+Python,jython,2019-07-23,1,1,"#{""adamburkemail@gmail.com""}",8243.0,77
+Python,jython,2019-07-24,1,1,"#{""adamburkemail@gmail.com""}",8244.0,77
+Python,jython,2019-07-30,2,1,"#{""ja.py@farowl.co.uk""}",8246.0,77
+Python,jython,2019-07-31,2,1,"#{""ja.py@farowl.co.uk""}",8248.0,77
+Python,jython,2019-08-01,1,1,"#{""ja.py@farowl.co.uk""}",8249.0,77
+Python,jython,2019-08-02,4,2,"#{""cclauss@me.com"" ""ja.py@farowl.co.uk""}",8253.0,78
+Python,jython,2019-08-03,1,1,"#{""ja.py@farowl.co.uk""}",8254.0,78
+Python,jython,2019-08-04,1,1,"#{""ja.py@farowl.co.uk""}",8255.0,78
+Python,jython,2019-08-07,1,1,"#{""ja.py@farowl.co.uk""}",8256.0,78
+Python,jython,2019-08-08,1,1,"#{""ja.py@farowl.co.uk""}",8257.0,78
+Python,jython,2019-08-10,1,1,"#{""ja.py@farowl.co.uk""}",8258.0,78
+Python,jython,2019-08-12,2,1,"#{""ja.py@farowl.co.uk""}",8260.0,78
+Python,jython,2019-08-17,2,1,"#{""ja.py@farowl.co.uk""}",8262.0,78
+Python,jython,2019-08-19,1,1,"#{""ja.py@farowl.co.uk""}",8263.0,78
+Python,jython,2019-08-24,1,1,"#{""ja.py@farowl.co.uk""}",8264.0,78
+Python,jython,2019-08-25,2,1,"#{""ja.py@farowl.co.uk""}",8266.0,78
+Python,jython,2019-08-26,2,1,"#{""ja.py@farowl.co.uk""}",8268.0,78
+Python,jython,2019-08-29,1,1,"#{""ja.py@farowl.co.uk""}",8269.0,78
+Python,jython,2019-08-31,1,1,"#{""adamburkemail@gmail.com""}",8270.0,78
+Python,jython,2019-09-02,1,1,"#{""ja.py@farowl.co.uk""}",8271.0,78
+Python,jython,2019-09-07,1,1,"#{""ja.py@farowl.co.uk""}",8272.0,78
+Python,jython,2019-09-08,2,1,"#{""ja.py@farowl.co.uk""}",8274.0,78
+Python,jython,2019-09-17,1,1,"#{""ja.py@farowl.co.uk""}",8275.0,78
+Python,jython,2019-09-18,1,1,"#{""ja.py@farowl.co.uk""}",8276.0,78
+Python,jython,2019-09-21,7,2,"#{""cclauss@me.com"" ""ja.py@farowl.co.uk""}",8283.0,78
+Python,jython,2019-09-22,1,1,"#{""ja.py@farowl.co.uk""}",8284.0,78
+Python,jython,2019-09-23,1,1,"#{""ja.py@farowl.co.uk""}",8285.0,78
+Python,jython,2019-10-04,1,1,"#{""ja.py@farowl.co.uk""}",8286.0,78
+Python,jython,2019-10-05,2,1,"#{""ja.py@farowl.co.uk""}",8288.0,78
+Python,jython,2019-10-06,1,1,"#{""ja.py@farowl.co.uk""}",8289.0,78
+Python,jython,2019-10-30,2,1,"#{""ja.py@farowl.co.uk""}",8291.0,78
+Python,jython,2019-10-31,1,1,"#{""ja.py@farowl.co.uk""}",8292.0,78
+Python,jython,2019-11-01,1,1,"#{""ja.py@farowl.co.uk""}",8293.0,78
+Python,jython,2019-11-03,1,1,"#{""ja.py@farowl.co.uk""}",8294.0,78
+Python,jython,2019-11-04,1,1,"#{""stefan.richthofer@gmx.de""}",8295.0,78
+Python,jython,2019-12-18,1,1,"#{""ja.py@farowl.co.uk""}",8296.0,78
+Python,jython,2019-12-21,1,1,"#{""ja.py@farowl.co.uk""}",8297.0,78
+Python,jython,2019-12-22,1,1,"#{""ja.py@farowl.co.uk""}",8298.0,78
+Python,jython,2019-12-23,1,1,"#{""ja.py@farowl.co.uk""}",8299.0,78
+Python,jython,2019-12-24,2,1,"#{""ja.py@farowl.co.uk""}",8301.0,78
+Python,jython,2019-12-27,1,1,"#{""ja.py@farowl.co.uk""}",8302.0,78
+Python,jython,2020-01-23,1,1,"#{""ja.py@farowl.co.uk""}",8303.0,78
+Python,jython,2020-01-26,3,1,"#{""ja.py@farowl.co.uk""}",8306.0,78
+Python,jython,2020-01-30,1,1,"#{""ja.py@farowl.co.uk""}",8307.0,78
+Python,jython,2020-02-01,3,2,"#{""adamburkemail@gmail.com"" ""ja.py@farowl.co.uk""}",8310.0,78
+Python,jython,2020-02-02,1,1,"#{""ja.py@farowl.co.uk""}",8311.0,78
+Python,jython,2020-02-03,1,1,"#{""ja.py@farowl.co.uk""}",8312.0,78
+Python,jython,2020-02-21,1,1,"#{""ja.py@farowl.co.uk""}",8313.0,78
+Python,jython,2020-02-23,4,2,"#{""ja.py@farowl.co.uk"" ""holloway.p.r@gmail.com""}",8317.0,79
+Python,jython,2020-03-01,2,1,"#{""ja.py@farowl.co.uk""}",8319.0,79
+Python,jython,2020-03-04,1,1,"#{""ja.py@farowl.co.uk""}",8320.0,79
+Python,jython,2020-03-21,3,1,"#{""ja.py@farowl.co.uk""}",8323.0,79

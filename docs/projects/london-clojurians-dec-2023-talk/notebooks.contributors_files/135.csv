@@ -1,0 +1,196 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,emezeske,2011-12-28,2,1,"#{""evan@meebo-inc.com""}",2.0,1
+Clojure,emezeske,2011-12-29,1,1,"#{""evan@meebo-inc.com""}",3.0,1
+Clojure,emezeske,2011-12-30,14,1,"#{""evan@meebo-inc.com""}",17.0,1
+Clojure,emezeske,2011-12-31,5,1,"#{""evan@meebo-inc.com""}",22.0,1
+Clojure,emezeske,2012-01-10,3,1,"#{""evan@meebo-inc.com""}",25.0,1
+Clojure,emezeske,2012-01-11,1,1,"#{""evan@meebo-inc.com""}",26.0,1
+Clojure,emezeske,2012-01-12,2,2,"#{""evan@meebo-inc.com"" ""emezeske@gmail.com""}",28.0,2
+Clojure,emezeske,2012-01-13,1,1,"#{""kumar.shantanu@gmail.com""}",29.0,3
+Clojure,emezeske,2012-01-15,5,2,"#{""evan@meebo-inc.com"" ""evan@mezeske.com""}",34.0,4
+Clojure,emezeske,2012-01-18,4,1,"#{""evan@mezeske.com""}",38.0,4
+Clojure,emezeske,2012-01-19,4,1,"#{""evan@mezeske.com""}",42.0,4
+Clojure,emezeske,2012-01-20,9,2,"#{""luke@thinkrelevance.com"" ""evan@mezeske.com""}",51.0,5
+Clojure,emezeske,2012-01-24,1,1,"#{""luke@thinkrelevance.com""}",52.0,5
+Clojure,emezeske,2012-01-26,6,1,"#{""evan@mezeske.com""}",58.0,5
+Clojure,emezeske,2012-02-01,3,1,"#{""evan@mezeske.com""}",61.0,5
+Clojure,emezeske,2012-02-03,3,1,"#{""evan@mezeske.com""}",64.0,5
+Clojure,emezeske,2012-02-08,3,2,"#{""luke@thinkrelevance.com"" ""evan@mezeske.com""}",67.0,5
+Clojure,emezeske,2012-02-12,3,1,"#{""evan@mezeske.com""}",70.0,5
+Clojure,emezeske,2012-02-15,1,1,"#{""evan@mezeske.com""}",71.0,5
+Clojure,emezeske,2012-02-16,1,1,"#{""evan@mezeske.com""}",72.0,5
+Clojure,emezeske,2012-02-17,4,1,"#{""evan@mezeske.com""}",76.0,5
+Clojure,emezeske,2012-02-18,11,1,"#{""evan@mezeske.com""}",87.0,5
+Clojure,emezeske,2012-02-20,11,1,"#{""evan@mezeske.com""}",98.0,5
+Clojure,emezeske,2012-02-21,2,1,"#{""evan@mezeske.com""}",100.0,5
+Clojure,emezeske,2012-02-22,5,2,"#{""technomancy@gmail.com"" ""evan@mezeske.com""}",105.0,6
+Clojure,emezeske,2012-02-23,7,2,"#{""duck@kronkltd.net"" ""evan@mezeske.com""}",112.0,7
+Clojure,emezeske,2012-02-24,2,2,"#{""evan@meebo-inc.com"" ""evan@mezeske.com""}",114.0,7
+Clojure,emezeske,2012-02-25,4,2,"#{""djharperuk@gmail.com"" ""evan@meebo-inc.com""}",118.0,8
+Clojure,emezeske,2012-02-26,2,1,"#{""evan@meebo-inc.com""}",120.0,8
+Clojure,emezeske,2012-02-28,4,1,"#{""evan@mezeske.com""}",124.0,8
+Clojure,emezeske,2012-03-01,2,1,"#{""pk@harmonious.at""}",126.0,9
+Clojure,emezeske,2012-03-03,1,1,"#{""pk@harmonious.at""}",127.0,9
+Clojure,emezeske,2012-03-17,7,1,"#{""evan@mezeske.com""}",134.0,9
+Clojure,emezeske,2012-03-19,4,1,"#{""evan@mezeske.com""}",138.0,9
+Clojure,emezeske,2012-03-28,1,1,"#{""jenan@counsyl.com""}",139.0,10
+Clojure,emezeske,2012-03-29,3,2,"#{""jenanwise@gmail.com"" ""fhd@ubercode.de""}",142.0,12
+Clojure,emezeske,2012-03-30,10,2,"#{""jenanwise@gmail.com"" ""evan@mezeske.com""}",152.0,12
+Clojure,emezeske,2012-04-03,5,1,"#{""evan@mezeske.com""}",157.0,12
+Clojure,emezeske,2012-04-07,15,1,"#{""evan@mezeske.com""}",172.0,12
+Clojure,emezeske,2012-04-08,2,1,"#{""evan@mezeske.com""}",174.0,12
+Clojure,emezeske,2012-04-09,1,1,"#{""evan@mezeske.com""}",175.0,12
+Clojure,emezeske,2012-04-10,4,1,"#{""evan@mezeske.com""}",179.0,12
+Clojure,emezeske,2012-04-11,5,1,"#{""evan@mezeske.com""}",184.0,12
+Clojure,emezeske,2012-04-16,4,1,"#{""evan@mezeske.com""}",188.0,12
+Clojure,emezeske,2012-04-26,1,1,"#{""evan@mezeske.com""}",189.0,12
+Clojure,emezeske,2012-04-27,3,2,"#{""krisajenkins@gmail.com"" ""emezeske@gmail.com""}",192.0,13
+Clojure,emezeske,2012-05-09,5,1,"#{""evan@mezeske.com""}",197.0,13
+Clojure,emezeske,2012-05-16,5,1,"#{""evan@mezeske.com""}",202.0,13
+Clojure,emezeske,2012-05-25,5,1,"#{""evan@mezeske.com""}",207.0,13
+Clojure,emezeske,2012-05-26,5,1,"#{""evan@mezeske.com""}",212.0,13
+Clojure,emezeske,2012-05-27,4,1,"#{""evan@mezeske.com""}",216.0,13
+Clojure,emezeske,2012-05-30,4,2,"#{""turczanski@gmail.com"" ""evan@mezeske.com""}",220.0,14
+Clojure,emezeske,2012-06-22,2,1,"#{""bhenry@notifymd.com""}",222.0,15
+Clojure,emezeske,2012-06-27,4,1,"#{""evan@mezeske.com""}",226.0,15
+Clojure,emezeske,2012-07-05,2,1,"#{""evan@mezeske.com""}",228.0,15
+Clojure,emezeske,2012-07-06,4,1,"#{""evan@mezeske.com""}",232.0,15
+Clojure,emezeske,2012-08-01,2,1,"#{""evan@mezeske.com""}",234.0,15
+Clojure,emezeske,2012-08-22,12,2,"#{""evan@mezeske.com"" ""daniel.l.gregoire@gmail.com""}",246.0,16
+Clojure,emezeske,2012-08-27,7,1,"#{""evan@mezeske.com""}",253.0,16
+Clojure,emezeske,2012-08-29,1,1,"#{""evan@mezeske.com""}",254.0,16
+Clojure,emezeske,2012-09-10,1,1,"#{""chas@cemerick.com""}",255.0,17
+Clojure,emezeske,2012-09-30,2,1,"#{""evan@mezeske.com""}",257.0,17
+Clojure,emezeske,2012-10-01,4,1,"#{""evan@mezeske.com""}",261.0,17
+Clojure,emezeske,2012-10-12,3,1,"#{""evan@mezeske.com""}",264.0,17
+Clojure,emezeske,2012-10-19,5,1,"#{""evan@mezeske.com""}",269.0,17
+Clojure,emezeske,2012-10-27,1,1,"#{""brandon@brandonbloom.name""}",270.0,18
+Clojure,emezeske,2012-11-12,3,1,"#{""evan@mezeske.com""}",273.0,18
+Clojure,emezeske,2012-11-13,1,1,"#{""geoff.salmon@gmail.com""}",274.0,19
+Clojure,emezeske,2012-11-24,1,1,"#{""dirklectisch@mac.com""}",275.0,20
+Clojure,emezeske,2012-12-04,1,1,"#{""dspiteself@gmail.com""}",276.0,21
+Clojure,emezeske,2012-12-16,10,1,"#{""evan@mezeske.com""}",286.0,21
+Clojure,emezeske,2012-12-31,3,2,"#{""evan@mezeske.com"" ""cma@bitemyapp.com""}",289.0,22
+Clojure,emezeske,2013-01-17,1,1,"#{""info@zilence.net""}",290.0,23
+Clojure,emezeske,2013-01-18,1,1,"#{""s@bushi.do""}",291.0,24
+Clojure,emezeske,2013-01-20,14,2,"#{""evan@mezeske.com"" ""s@bushi.do""}",305.0,24
+Clojure,emezeske,2013-01-21,7,1,"#{""evan@mezeske.com""}",312.0,24
+Clojure,emezeske,2013-01-30,4,1,"#{""hsalokor@iki.fi""}",316.0,25
+Clojure,emezeske,2013-05-06,1,1,"#{""harri.salokorpi@reaktor.fi""}",317.0,26
+Clojure,emezeske,2013-05-08,1,1,"#{""micahmartin@gmail.com""}",318.0,27
+Clojure,emezeske,2013-05-11,11,1,"#{""evan@mezeske.com""}",329.0,27
+Clojure,emezeske,2013-05-12,2,1,"#{""evan@mezeske.com""}",331.0,27
+Clojure,emezeske,2013-06-17,1,1,"#{""chas@cemerick.com""}",332.0,27
+Clojure,emezeske,2013-07-20,2,1,"#{""julien.eluard@gmail.com""}",334.0,28
+Clojure,emezeske,2013-08-08,1,1,"#{""connect@bltavares.com""}",335.0,29
+Clojure,emezeske,2013-08-23,1,1,"#{""cma@bitemyapp.com""}",336.0,29
+Clojure,emezeske,2013-08-29,5,2,"#{""brian@brianmaddy.com"" ""chas@cemerick.com""}",341.0,30
+Clojure,emezeske,2013-08-30,8,1,"#{""chas@cemerick.com""}",349.0,30
+Clojure,emezeske,2013-09-13,5,1,"#{""chas@cemerick.com""}",354.0,30
+Clojure,emezeske,2013-09-14,1,1,"#{""cjholdbrooks@gmail.com""}",355.0,31
+Clojure,emezeske,2013-10-10,8,2,"#{""kimmo.koskinen@ekahau.com"" ""chas@cemerick.com""}",363.0,32
+Clojure,emezeske,2013-10-12,2,1,"#{""chas@cemerick.com""}",365.0,32
+Clojure,emezeske,2013-10-13,4,2,"#{""kumar.shantanu@gmail.com"" ""chas@cemerick.com""}",369.0,32
+Clojure,emezeske,2013-10-26,3,1,"#{""chas@cemerick.com""}",372.0,32
+Clojure,emezeske,2013-10-29,1,1,"#{""chas@cemerick.com""}",373.0,32
+Clojure,emezeske,2013-10-31,5,2,"#{""mimmo.cosenza@gmail.com"" ""chas@cemerick.com""}",378.0,33
+Clojure,emezeske,2013-11-05,1,1,"#{""chas@cemerick.com""}",379.0,33
+Clojure,emezeske,2013-11-06,2,1,"#{""chas@cemerick.com""}",381.0,33
+Clojure,emezeske,2013-11-07,6,1,"#{""chas@cemerick.com""}",387.0,33
+Clojure,emezeske,2013-11-16,1,1,"#{""jeannikl@hypirion.com""}",388.0,34
+Clojure,emezeske,2013-11-18,2,1,"#{""chas@cemerick.com""}",390.0,34
+Clojure,emezeske,2013-11-22,2,1,"#{""chas@cemerick.com""}",392.0,34
+Clojure,emezeske,2013-12-05,1,1,"#{""ericwnormand@gmail.com""}",393.0,35
+Clojure,emezeske,2013-12-11,2,1,"#{""chas@cemerick.com""}",395.0,35
+Clojure,emezeske,2013-12-12,2,1,"#{""chas@cemerick.com""}",397.0,35
+Clojure,emezeske,2014-01-10,4,2,"#{""edbond@gmail.com"" ""chas@cemerick.com""}",401.0,36
+Clojure,emezeske,2014-01-30,5,1,"#{""chas@cemerick.com""}",406.0,36
+Clojure,emezeske,2014-02-06,1,1,"#{""edwin.park@rbccm.com""}",407.0,37
+Clojure,emezeske,2014-02-07,1,1,"#{""chas@cemerick.com""}",408.0,37
+Clojure,emezeske,2014-02-12,3,2,"#{""hura@users.noreply.github.com"" ""chas@cemerick.com""}",411.0,38
+Clojure,emezeske,2014-02-21,1,1,"#{""chas@cemerick.com""}",412.0,38
+Clojure,emezeske,2014-03-04,1,1,"#{""chas@cemerick.com""}",413.0,38
+Clojure,emezeske,2014-04-01,3,1,"#{""chas@cemerick.com""}",416.0,38
+Clojure,emezeske,2014-04-02,4,1,"#{""chas@cemerick.com""}",420.0,38
+Clojure,emezeske,2014-05-01,1,1,"#{""paul@paulbutcher.com""}",421.0,39
+Clojure,emezeske,2014-05-04,1,1,"#{""paul@paulbutcher.com""}",422.0,39
+Clojure,emezeske,2014-05-05,1,1,"#{""chas@cemerick.com""}",423.0,39
+Clojure,emezeske,2014-05-25,1,1,"#{""wfleming77@gmail.com""}",424.0,40
+Clojure,emezeske,2014-05-26,1,1,"#{""chas@cemerick.com""}",425.0,40
+Clojure,emezeske,2014-06-04,2,2,"#{""paul@paulbutcher.com"" ""chas@cemerick.com""}",427.0,40
+Clojure,emezeske,2014-06-07,2,2,"#{""jestinepaul@users.noreply.github.com"" ""chas@cemerick.com""}",429.0,41
+Clojure,emezeske,2014-07-18,1,1,"#{""paul@paulbutcher.com""}",430.0,41
+Clojure,emezeske,2014-09-17,1,1,"#{""swilliams@pros.com""}",431.0,42
+Clojure,emezeske,2014-10-31,1,1,"#{""throwable42@gmail.com""}",432.0,43
+Clojure,emezeske,2014-11-26,1,1,"#{""gary.verhaegen@gmail.com""}",433.0,44
+Clojure,emezeske,2014-11-27,1,1,"#{""gary.verhaegen@gmail.com""}",434.0,44
+Clojure,emezeske,2014-12-08,4,1,"#{""chas@cemerick.com""}",438.0,44
+Clojure,emezeske,2014-12-10,2,1,"#{""luke@vanderhart.net""}",440.0,45
+Clojure,emezeske,2014-12-12,3,1,"#{""bhauman@gmail.com""}",443.0,46
+Clojure,emezeske,2014-12-15,5,1,"#{""chas@cemerick.com""}",448.0,46
+Clojure,emezeske,2014-12-19,1,1,"#{""chas@cemerick.com""}",449.0,46
+Clojure,emezeske,2014-12-30,3,1,"#{""chas@cemerick.com""}",452.0,46
+Clojure,emezeske,2015-01-05,1,1,"#{""matthew.boston@gmail.com""}",453.0,47
+Clojure,emezeske,2015-01-15,2,2,"#{""chas@cemerick.com"" ""prokopov@gmail.com""}",455.0,48
+Clojure,emezeske,2015-02-12,1,1,"#{""s@bushi.do""}",456.0,48
+Clojure,emezeske,2015-02-17,1,1,"#{""vaseninlol@gmail.com""}",457.0,49
+Clojure,emezeske,2015-02-19,5,1,"#{""chas@cemerick.com""}",462.0,49
+Clojure,emezeske,2015-02-22,1,1,"#{""chas@cemerick.com""}",463.0,49
+Clojure,emezeske,2015-03-02,1,1,"#{""vaseninlol@gmail.com""}",464.0,49
+Clojure,emezeske,2015-03-06,1,1,"#{""peter.westmacott@gmail.com""}",465.0,50
+Clojure,emezeske,2015-03-09,1,1,"#{""mike@fikesfarm.com""}",466.0,51
+Clojure,emezeske,2015-04-17,1,1,"#{""jake@mojotech.com""}",467.0,52
+Clojure,emezeske,2015-05-04,4,3,"#{""roman@burningswell.com"" ""ericwnormand@gmail.com"" ""chas@cemerick.com""}",471.0,53
+Clojure,emezeske,2015-05-12,1,1,"#{""chas@cemerick.com""}",472.0,53
+Clojure,emezeske,2015-05-13,3,1,"#{""chas@cemerick.com""}",475.0,53
+Clojure,emezeske,2015-05-14,6,2,"#{""cjholdbrooks@gmail.com"" ""chas@cemerick.com""}",481.0,53
+Clojure,emezeske,2015-05-15,1,1,"#{""chas@cemerick.com""}",482.0,53
+Clojure,emezeske,2015-08-03,2,1,"#{""chas@cemerick.com""}",484.0,53
+Clojure,emezeske,2015-08-04,2,1,"#{""vaseninlol@gmail.com""}",486.0,53
+Clojure,emezeske,2015-08-16,2,1,"#{""chas@cemerick.com""}",488.0,53
+Clojure,emezeske,2015-08-24,4,1,"#{""chas@cemerick.com""}",492.0,53
+Clojure,emezeske,2015-08-26,1,1,"#{""emezeske@gmail.com""}",493.0,53
+Clojure,emezeske,2015-09-24,1,1,"#{""a.richiardi.work@gmail.com""}",494.0,54
+Clojure,emezeske,2015-09-25,1,1,"#{""desk@danielcompton.net""}",495.0,55
+Clojure,emezeske,2015-09-28,2,1,"#{""maria.geller2@gmail.com""}",497.0,56
+Clojure,emezeske,2015-09-29,1,1,"#{""maria.geller2@gmail.com""}",498.0,56
+Clojure,emezeske,2015-10-19,2,1,"#{""juho.teperi@iki.fi""}",500.0,57
+Clojure,emezeske,2015-10-20,2,1,"#{""juho.teperi@iki.fi""}",502.0,57
+Clojure,emezeske,2015-10-22,1,1,"#{""psalaberria002@gmail.com""}",503.0,58
+Clojure,emezeske,2015-10-26,4,1,"#{""maria.geller2@gmail.com""}",507.0,58
+Clojure,emezeske,2015-11-01,2,1,"#{""maria.geller2@gmail.com""}",509.0,58
+Clojure,emezeske,2015-11-03,1,1,"#{""dmichulke@gmail.com""}",510.0,59
+Clojure,emezeske,2015-11-04,1,1,"#{""maria.geller2@gmail.com""}",511.0,59
+Clojure,emezeske,2015-11-07,4,1,"#{""maria.geller2@gmail.com""}",515.0,59
+Clojure,emezeske,2015-12-04,3,3,"#{""mn@nehlsen-edv.de"" ""maria.geller2@gmail.com"" ""prokopov@gmail.com""}",518.0,60
+Clojure,emezeske,2015-12-18,3,1,"#{""maria.geller2@gmail.com""}",521.0,60
+Clojure,emezeske,2016-01-23,1,1,"#{""maria.geller2@gmail.com""}",522.0,60
+Clojure,emezeske,2016-02-01,2,1,"#{""chris@puppetlabs.com""}",524.0,61
+Clojure,emezeske,2016-02-19,1,1,"#{""maria.geller2@gmail.com""}",525.0,61
+Clojure,emezeske,2016-03-07,1,1,"#{""mneise@liveops.com""}",526.0,62
+Clojure,emezeske,2016-05-10,1,1,"#{""mneise@liveops.com""}",527.0,62
+Clojure,emezeske,2016-08-19,2,1,"#{""alex@puredanger.com""}",529.0,63
+Clojure,emezeske,2016-08-22,3,1,"#{""maria.geller2@gmail.com""}",532.0,63
+Clojure,emezeske,2016-11-01,1,1,"#{""chris@puppetlabs.com""}",533.0,63
+Clojure,emezeske,2016-11-26,1,1,"#{""maria.geller2@gmail.com""}",534.0,63
+Clojure,emezeske,2016-12-05,1,1,"#{""maria.geller2@gmail.com""}",535.0,63
+Clojure,emezeske,2016-12-07,1,1,"#{""maria.geller2@gmail.com""}",536.0,63
+Clojure,emezeske,2016-12-08,1,1,"#{""helena.josol@gmail.com""}",537.0,64
+Clojure,emezeske,2016-12-15,1,1,"#{""maria.geller2@gmail.com""}",538.0,64
+Clojure,emezeske,2017-04-13,1,1,"#{""stephen@montoux.com""}",539.0,65
+Clojure,emezeske,2017-04-14,1,1,"#{""lars@trieloff.net""}",540.0,66
+Clojure,emezeske,2017-04-18,1,1,"#{""santi.1410@hotmail.com""}",541.0,67
+Clojure,emezeske,2017-04-24,1,1,"#{""maria.geller2@gmail.com""}",542.0,67
+Clojure,emezeske,2017-04-27,3,1,"#{""maria.geller2@gmail.com""}",545.0,67
+Clojure,emezeske,2017-07-05,1,1,"#{""maria.geller2@gmail.com""}",546.0,67
+Clojure,emezeske,2017-07-15,1,1,"#{""maria.geller2@gmail.com""}",547.0,67
+Clojure,emezeske,2017-07-23,1,1,"#{""maria.geller2@gmail.com""}",548.0,67
+Clojure,emezeske,2017-07-28,1,1,"#{""maria.geller2@gmail.com""}",549.0,67
+Clojure,emezeske,2017-09-01,1,1,"#{""corin@responsight.com""}",550.0,68
+Clojure,emezeske,2017-09-28,1,1,"#{""maria.geller2@gmail.com""}",551.0,68
+Clojure,emezeske,2018-07-02,1,1,"#{""maria.geller2@gmail.com""}",552.0,68
+Clojure,emezeske,2019-10-03,3,1,"#{""carlo.sciolla@gmail.com""}",555.0,69
+Clojure,emezeske,2020-02-08,1,1,"#{""maria.geller2@gmail.com""}",556.0,69
+Clojure,emezeske,2020-04-04,1,1,"#{""maria.geller2@gmail.com""}",557.0,69
+Clojure,emezeske,2020-04-05,1,1,"#{""maria.geller2@gmail.com""}",558.0,69
+Clojure,emezeske,2021-03-12,1,1,"#{""maria.geller2@gmail.com""}",559.0,69

@@ -1,0 +1,560 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,ceph,2012-08-28,21,1,"#{""tv@eagain.net""}",21.0,1
+Python,ceph,2012-08-29,1,1,"#{""tv@eagain.net""}",22.0,1
+Python,ceph,2012-08-30,1,1,"#{""tv@eagain.net""}",23.0,1
+Python,ceph,2012-09-11,1,1,"#{""tv@eagain.net""}",24.0,1
+Python,ceph,2012-09-12,3,2,"#{""tv@eagain.net"" ""tv@inktank.com""}",27.0,2
+Python,ceph,2012-09-13,2,1,"#{""tv@inktank.com""}",29.0,2
+Python,ceph,2012-09-14,5,1,"#{""tv@inktank.com""}",34.0,2
+Python,ceph,2012-09-17,1,1,"#{""tv@inktank.com""}",35.0,2
+Python,ceph,2012-09-26,1,1,"#{""tv@inktank.com""}",36.0,2
+Python,ceph,2012-10-15,1,1,"#{""tv@inktank.com""}",37.0,2
+Python,ceph,2012-10-17,1,1,"#{""sage@inktank.com""}",38.0,3
+Python,ceph,2012-10-18,1,1,"#{""tv@inktank.com""}",39.0,3
+Python,ceph,2012-10-25,2,1,"#{""sage@inktank.com""}",41.0,3
+Python,ceph,2012-10-29,11,2,"#{""sage@inktank.com"" ""dan.mick@inktank.com""}",52.0,4
+Python,ceph,2012-10-30,4,2,"#{""tamil@ubuntu.(none)"" ""sage@inktank.com""}",56.0,5
+Python,ceph,2012-11-15,1,1,"#{""sage@inktank.com""}",57.0,5
+Python,ceph,2012-12-14,1,1,"#{""sage@inktank.com""}",58.0,5
+Python,ceph,2013-01-26,2,1,"#{""sage@inktank.com""}",60.0,5
+Python,ceph,2013-01-27,3,1,"#{""sage@inktank.com""}",63.0,5
+Python,ceph,2013-01-31,12,1,"#{""sage@inktank.com""}",75.0,5
+Python,ceph,2013-02-01,2,1,"#{""sage@inktank.com""}",77.0,5
+Python,ceph,2013-02-05,1,1,"#{""sage@inktank.com""}",78.0,5
+Python,ceph,2013-02-12,2,1,"#{""sage@inktank.com""}",80.0,5
+Python,ceph,2013-02-13,10,3,"#{""sage@newdream.net"" ""tyler.brekke@inktank.com"" ""sage@inktank.com""}",90.0,7
+Python,ceph,2013-02-14,1,1,"#{""sage@inktank.com""}",91.0,7
+Python,ceph,2013-02-22,1,1,"#{""sage@inktank.com""}",92.0,7
+Python,ceph,2013-02-26,1,1,"#{""sage@inktank.com""}",93.0,7
+Python,ceph,2013-02-27,1,1,"#{""sage@inktank.com""}",94.0,7
+Python,ceph,2013-02-28,1,1,"#{""sage@inktank.com""}",95.0,7
+Python,ceph,2013-03-01,1,1,"#{""dan.mick@inktank.com""}",96.0,7
+Python,ceph,2013-03-05,3,1,"#{""sage@inktank.com""}",99.0,7
+Python,ceph,2013-03-06,2,1,"#{""sage@inktank.com""}",101.0,7
+Python,ceph,2013-03-07,2,1,"#{""glowell@inktank.com""}",103.0,8
+Python,ceph,2013-03-08,2,2,"#{""glowell@inktank.com"" ""sage@inktank.com""}",105.0,8
+Python,ceph,2013-03-09,2,1,"#{""sage@inktank.com""}",107.0,8
+Python,ceph,2013-03-11,7,4,"#{""glowell@inktank.com"" ""sage@newdream.net"" ""sage@inktank.com"" ""neil.levine@inktank.com""}",114.0,9
+Python,ceph,2013-03-13,11,3,"#{""sage@newdream.net"" ""danny.al-gaaf@bisect.de"" ""sage@inktank.com""}",125.0,10
+Python,ceph,2013-03-14,1,1,"#{""sage@inktank.com""}",126.0,10
+Python,ceph,2013-03-18,1,1,"#{""glowell@inktank.com""}",127.0,10
+Python,ceph,2013-03-21,29,2,"#{""danny.al-gaaf@bisect.de"" ""sage@inktank.com""}",156.0,10
+Python,ceph,2013-03-22,2,1,"#{""sage@inktank.com""}",158.0,10
+Python,ceph,2013-03-26,2,1,"#{""sage@inktank.com""}",160.0,10
+Python,ceph,2013-03-27,2,2,"#{""sage@inktank.com"" ""dan.mick@inktank.com""}",162.0,10
+Python,ceph,2013-03-29,2,1,"#{""sage@inktank.com""}",164.0,10
+Python,ceph,2013-04-02,2,2,"#{""glowell@inktank.com"" ""sage@inktank.com""}",166.0,10
+Python,ceph,2013-04-03,1,1,"#{""dan.mick@inktank.com""}",167.0,10
+Python,ceph,2013-04-05,1,1,"#{""sage@inktank.com""}",168.0,10
+Python,ceph,2013-04-09,1,1,"#{""gary.lowell@inktank.com""}",169.0,11
+Python,ceph,2013-04-17,1,1,"#{""glowell@inktank.com""}",170.0,11
+Python,ceph,2013-04-19,1,1,"#{""glowell@inktank.com""}",171.0,11
+Python,ceph,2013-04-22,1,1,"#{""sage@inktank.com""}",172.0,11
+Python,ceph,2013-04-23,1,1,"#{""dan.mick@inktank.com""}",173.0,11
+Python,ceph,2013-04-24,1,1,"#{""glowell@inktank.com""}",174.0,11
+Python,ceph,2013-04-26,7,3,"#{""glowell@inktank.com"" ""gary.lowell@inktank.com"" ""danny.al-gaaf@bisect.de""}",181.0,11
+Python,ceph,2013-04-29,4,2,"#{""root@gary-ubuntu-01.front.sepia.ceph.com"" ""sage@inktank.com""}",185.0,12
+Python,ceph,2013-04-30,3,2,"#{""gary.lowell@inktank.com"" ""sage@inktank.com""}",188.0,12
+Python,ceph,2013-05-01,3,1,"#{""glowell@inktank.com""}",191.0,12
+Python,ceph,2013-05-02,3,2,"#{""sage@inktank.com"" ""dan.mick@inktank.com""}",194.0,12
+Python,ceph,2013-05-03,1,1,"#{""glowell@inktank.com""}",195.0,12
+Python,ceph,2013-05-06,1,1,"#{""glowell@inktank.com""}",196.0,12
+Python,ceph,2013-05-08,1,1,"#{""dan.mick@inktank.com""}",197.0,12
+Python,ceph,2013-05-11,3,1,"#{""loic@dachary.org""}",200.0,13
+Python,ceph,2013-05-13,1,1,"#{""loic@dachary.org""}",201.0,13
+Python,ceph,2013-05-14,4,3,"#{""gary.lowell@inktank.com"" ""xfactor973@gmail.com"" ""sage@inktank.com""}",205.0,14
+Python,ceph,2013-05-15,2,1,"#{""sage@inktank.com""}",207.0,14
+Python,ceph,2013-05-16,2,1,"#{""dan.mick@inktank.com""}",209.0,14
+Python,ceph,2013-05-23,4,1,"#{""glowell@inktank.com""}",213.0,14
+Python,ceph,2013-05-24,3,3,"#{""glowell@inktank.com"" ""trhoden@gmail.com"" ""dan.mick@inktank.com""}",216.0,15
+Python,ceph,2013-05-30,1,1,"#{""greg.poirier@opower.com""}",217.0,16
+Python,ceph,2013-06-06,2,1,"#{""glowell@inktank.com""}",219.0,16
+Python,ceph,2013-06-07,2,1,"#{""sage@inktank.com""}",221.0,16
+Python,ceph,2013-06-10,2,1,"#{""sage@inktank.com""}",223.0,16
+Python,ceph,2013-06-13,2,1,"#{""sage@inktank.com""}",225.0,16
+Python,ceph,2013-06-14,3,1,"#{""sage@inktank.com""}",228.0,16
+Python,ceph,2013-06-18,3,1,"#{""gary.lowell@inktank.com""}",231.0,16
+Python,ceph,2013-06-25,1,1,"#{""sage@inktank.com""}",232.0,16
+Python,ceph,2013-06-27,1,1,"#{""gzhao@suse.com""}",233.0,17
+Python,ceph,2013-07-01,5,2,"#{""danny.al-gaaf@bisect.de"" ""sage@inktank.com""}",238.0,17
+Python,ceph,2013-07-03,1,1,"#{""sage@inktank.com""}",239.0,17
+Python,ceph,2013-07-17,14,2,"#{""alfredo@deza.pe"" ""sage@inktank.com""}",253.0,18
+Python,ceph,2013-07-18,17,1,"#{""alfredo@deza.pe""}",270.0,18
+Python,ceph,2013-07-19,6,2,"#{""alfredo@deza.pe"" ""gary.lowell@inktank.com""}",276.0,18
+Python,ceph,2013-07-22,8,3,"#{""alfredo@deza.pe"" ""gary.lowell@inktank.com"" ""sage@inktank.com""}",284.0,18
+Python,ceph,2013-07-23,4,2,"#{""alfredo@deza.pe"" ""sage@inktank.com""}",288.0,18
+Python,ceph,2013-07-24,6,2,"#{""alfredo@deza.pe"" ""gary.lowell@inktank.com""}",294.0,18
+Python,ceph,2013-07-25,16,2,"#{""alfredo@deza.pe"" ""sage@inktank.com""}",310.0,18
+Python,ceph,2013-07-26,11,3,"#{""alfredo@deza.pe"" ""glowell@inktank.com"" ""sage@inktank.com""}",321.0,18
+Python,ceph,2013-07-29,17,3,"#{""alfredo@deza.pe"" ""glowell@inktank.com"" ""sage@inktank.com""}",338.0,18
+Python,ceph,2013-07-30,3,2,"#{""alfredo@deza.pe"" ""gary.lowell@inktank.com""}",341.0,18
+Python,ceph,2013-07-31,7,1,"#{""alfredo@deza.pe""}",348.0,18
+Python,ceph,2013-08-01,7,3,"#{""alfredo@deza.pe"" ""gary.lowell@inktank.com"" ""dan.mick@inktank.com""}",355.0,18
+Python,ceph,2013-08-02,9,2,"#{""alfredo@deza.pe"" ""gary.lowell@inktank.com""}",364.0,18
+Python,ceph,2013-08-04,2,1,"#{""alfredo@deza.pe""}",366.0,18
+Python,ceph,2013-08-05,5,1,"#{""alfredo@deza.pe""}",371.0,18
+Python,ceph,2013-08-06,1,1,"#{""alfredo@deza.pe""}",372.0,18
+Python,ceph,2013-08-09,14,3,"#{""alfredo@deza.pe"" ""zack@cerza.org"" ""sage@inktank.com""}",386.0,19
+Python,ceph,2013-08-12,7,2,"#{""alfredo@deza.pe"" ""gary.lowell@inktank.com""}",393.0,19
+Python,ceph,2013-08-13,4,3,"#{""alfredo@deza.pe"" ""zack@cerza.org"" ""dan.mick@inktank.com""}",397.0,19
+Python,ceph,2013-08-14,3,2,"#{""alfredo@deza.pe"" ""zack@cerza.org""}",400.0,19
+Python,ceph,2013-08-15,9,3,"#{""alfredo@deza.pe"" ""zack@cerza.org"" ""gary.lowell@inktank.com""}",409.0,19
+Python,ceph,2013-08-19,7,1,"#{""alfredo.deza@inktank.com""}",416.0,20
+Python,ceph,2013-08-20,4,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",420.0,20
+Python,ceph,2013-08-22,14,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""gary.lowell@inktank.com""}",434.0,20
+Python,ceph,2013-08-26,9,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",443.0,20
+Python,ceph,2013-08-27,2,2,"#{""josh.durgin@inktank.com"" ""rmoe@mirantis.com""}",445.0,22
+Python,ceph,2013-08-28,1,1,"#{""gary.lowell@inktank.com""}",446.0,22
+Python,ceph,2013-08-29,7,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""gary.lowell@inktank.com""}",453.0,22
+Python,ceph,2013-08-31,1,1,"#{""alfredo@deza.pe""}",454.0,22
+Python,ceph,2013-09-01,1,1,"#{""sayid.munawar@gmail.com""}",455.0,23
+Python,ceph,2013-09-03,9,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",464.0,23
+Python,ceph,2013-09-04,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",467.0,23
+Python,ceph,2013-09-05,6,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",473.0,23
+Python,ceph,2013-09-06,7,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",480.0,23
+Python,ceph,2013-09-09,6,5,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""sage@inktank.com"" ""angdraug@gmail.com"" ""dan.mick@inktank.com""}",486.0,24
+Python,ceph,2013-09-10,5,2,"#{""alfredo.deza@inktank.com"" ""angdraug@gmail.com""}",491.0,24
+Python,ceph,2013-09-11,9,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",500.0,24
+Python,ceph,2013-09-12,9,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",509.0,24
+Python,ceph,2013-09-16,12,6,"#{""alfredo@deza.pe"" ""glowell@inktank.com"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""gary.lowell@inktank.com"" ""angdraug@gmail.com""}",521.0,24
+Python,ceph,2013-09-17,12,3,"#{""alfredo.deza@inktank.com"" ""benoit.knecht@fsfe.org"" ""gary.lowell@inktank.com""}",533.0,25
+Python,ceph,2013-09-18,8,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""gary.lowell@inktank.com""}",541.0,25
+Python,ceph,2013-09-19,4,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""benoit.knecht@fsfe.org""}",545.0,25
+Python,ceph,2013-09-20,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",547.0,25
+Python,ceph,2013-09-23,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",549.0,25
+Python,ceph,2013-09-24,7,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""awoodward@mirantis.com""}",556.0,26
+Python,ceph,2013-09-25,2,2,"#{""alfredo@deza.pe"" ""awoodward@mirantis.com""}",558.0,26
+Python,ceph,2013-09-27,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",560.0,26
+Python,ceph,2013-09-30,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",563.0,26
+Python,ceph,2013-10-01,5,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",568.0,26
+Python,ceph,2013-10-02,4,2,"#{""alfredo@deza.pe"" ""awoodward@mirantis.com""}",572.0,26
+Python,ceph,2013-10-04,6,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",578.0,26
+Python,ceph,2013-10-07,2,2,"#{""dborodaenko@mirantis.com"" ""gary.lowell@inktank.com""}",580.0,27
+Python,ceph,2013-10-08,11,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""dborodaenko@mirantis.com""}",591.0,27
+Python,ceph,2013-10-09,10,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",601.0,27
+Python,ceph,2013-10-10,17,1,"#{""alfredo.deza@inktank.com""}",618.0,27
+Python,ceph,2013-10-11,10,2,"#{""alfredo.deza@inktank.com"" ""ddiss@suse.de""}",628.0,28
+Python,ceph,2013-10-14,17,1,"#{""alfredo.deza@inktank.com""}",645.0,28
+Python,ceph,2013-10-15,2,2,"#{""alfredo@deza.pe"" ""zack@cerza.org""}",647.0,28
+Python,ceph,2013-10-16,6,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",653.0,28
+Python,ceph,2013-10-17,11,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",664.0,28
+Python,ceph,2013-10-18,1,1,"#{""zack@cerza.org""}",665.0,28
+Python,ceph,2013-10-19,2,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",667.0,28
+Python,ceph,2013-10-21,9,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",676.0,28
+Python,ceph,2013-10-22,4,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",680.0,28
+Python,ceph,2013-10-28,6,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",686.0,28
+Python,ceph,2013-10-29,8,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",694.0,28
+Python,ceph,2013-10-30,5,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""sage@inktank.com""}",699.0,28
+Python,ceph,2013-10-31,2,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",701.0,28
+Python,ceph,2013-11-01,2,2,"#{""alfredo.deza@inktank.com"" ""gary.lowell@inktank.com""}",703.0,28
+Python,ceph,2013-11-04,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",706.0,28
+Python,ceph,2013-11-05,5,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",711.0,28
+Python,ceph,2013-11-06,5,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""mark.kirkwood@catalyst.net.nz"" ""gary.lowell@inktank.com""}",716.0,29
+Python,ceph,2013-11-07,4,1,"#{""alfredo.deza@inktank.com""}",720.0,29
+Python,ceph,2013-11-08,9,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""technik@omc.net""}",729.0,30
+Python,ceph,2013-11-12,10,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""eric.mourgaya@gmail.com""}",739.0,31
+Python,ceph,2013-11-13,3,3,"#{""alfredo.deza@inktank.com"" ""jfunk@funktronics.ca"" ""gary.lowell@inktank.com""}",742.0,32
+Python,ceph,2013-11-14,6,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",748.0,32
+Python,ceph,2013-11-15,1,1,"#{""alfredo.deza@inktank.com""}",749.0,32
+Python,ceph,2013-11-18,7,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""nicolas.canceill@ens-cachan.org""}",756.0,33
+Python,ceph,2013-11-19,12,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",768.0,33
+Python,ceph,2013-11-20,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",770.0,33
+Python,ceph,2013-11-21,1,1,"#{""alfredo.deza@inktank.com""}",771.0,33
+Python,ceph,2013-11-22,1,1,"#{""alfredo.deza@inktank.com""}",772.0,33
+Python,ceph,2013-11-24,1,1,"#{""alfredo@deza.pe""}",773.0,33
+Python,ceph,2013-11-25,8,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",781.0,33
+Python,ceph,2013-11-26,4,2,"#{""alfredo.deza@inktank.com"" ""gary.lowell@inktank.com""}",785.0,33
+Python,ceph,2013-12-02,6,2,"#{""alfredo.deza@inktank.com"" ""sage@inktank.com""}",791.0,33
+Python,ceph,2013-12-04,1,1,"#{""zack@cerza.org""}",792.0,33
+Python,ceph,2013-12-05,5,1,"#{""alfredo.deza@inktank.com""}",797.0,33
+Python,ceph,2013-12-06,4,2,"#{""alfredo.deza@inktank.com"" ""sage@inktank.com""}",801.0,33
+Python,ceph,2013-12-09,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",804.0,33
+Python,ceph,2013-12-12,11,1,"#{""alfredo.deza@inktank.com""}",815.0,33
+Python,ceph,2013-12-13,1,1,"#{""zack@cerza.org""}",816.0,33
+Python,ceph,2014-01-02,4,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""gary.lowell@inktank.com""}",820.0,33
+Python,ceph,2014-01-06,4,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""ken.dreyer@inktank.com""}",824.0,34
+Python,ceph,2014-01-07,1,1,"#{""ken.dreyer@inktank.com""}",825.0,34
+Python,ceph,2014-01-08,2,2,"#{""alfredo@deza.pe"" ""awoodward@mirantis.com""}",827.0,34
+Python,ceph,2014-01-09,5,3,"#{""alfredo@deza.pe"" ""ken.dreyer@inktank.com"" ""awoodward@mirantis.com""}",832.0,34
+Python,ceph,2014-01-10,2,1,"#{""alfredo@deza.pe""}",834.0,34
+Python,ceph,2014-01-23,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",836.0,34
+Python,ceph,2014-01-27,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",838.0,34
+Python,ceph,2014-01-29,4,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",842.0,34
+Python,ceph,2014-01-30,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",845.0,34
+Python,ceph,2014-01-31,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",847.0,34
+Python,ceph,2014-02-03,1,1,"#{""zack@cerza.org""}",848.0,34
+Python,ceph,2014-02-05,10,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""ken.dreyer@inktank.com""}",858.0,34
+Python,ceph,2014-02-14,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",861.0,34
+Python,ceph,2014-02-18,4,1,"#{""alfredo.deza@inktank.com""}",865.0,34
+Python,ceph,2014-02-20,14,1,"#{""alfredo.deza@inktank.com""}",879.0,34
+Python,ceph,2014-02-21,5,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""ken.dreyer@inktank.com""}",884.0,34
+Python,ceph,2014-02-25,1,1,"#{""alfredo.deza@inktank.com""}",885.0,34
+Python,ceph,2014-02-28,8,1,"#{""alfredo.deza@inktank.com""}",893.0,34
+Python,ceph,2014-03-03,4,1,"#{""alfredo.deza@inktank.com""}",897.0,34
+Python,ceph,2014-03-04,6,1,"#{""alfredo.deza@inktank.com""}",903.0,34
+Python,ceph,2014-03-05,1,1,"#{""alfredo.deza@inktank.com""}",904.0,34
+Python,ceph,2014-03-06,6,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",910.0,34
+Python,ceph,2014-03-07,3,1,"#{""alfredo.deza@inktank.com""}",913.0,34
+Python,ceph,2014-03-10,9,1,"#{""alfredo.deza@inktank.com""}",922.0,34
+Python,ceph,2014-03-11,5,1,"#{""alfredo.deza@inktank.com""}",927.0,34
+Python,ceph,2014-03-12,12,1,"#{""alfredo.deza@inktank.com""}",939.0,34
+Python,ceph,2014-03-13,2,1,"#{""alfredo.deza@inktank.com""}",941.0,34
+Python,ceph,2014-03-17,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",944.0,34
+Python,ceph,2014-03-18,3,1,"#{""alfredo.deza@inktank.com""}",947.0,34
+Python,ceph,2014-03-19,1,1,"#{""alfredo.deza@inktank.com""}",948.0,34
+Python,ceph,2014-03-20,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",950.0,34
+Python,ceph,2014-03-27,1,1,"#{""frode@nordahl.net""}",951.0,35
+Python,ceph,2014-04-01,12,1,"#{""alfredo.deza@inktank.com""}",963.0,35
+Python,ceph,2014-04-02,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",966.0,35
+Python,ceph,2014-04-07,8,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",974.0,35
+Python,ceph,2014-04-10,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",976.0,35
+Python,ceph,2014-04-13,2,1,"#{""frode@nordahl.net""}",978.0,35
+Python,ceph,2014-04-14,3,2,"#{""alfredo.deza@inktank.com"" ""frode@nordahl.net""}",981.0,35
+Python,ceph,2014-04-15,3,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",984.0,35
+Python,ceph,2014-04-16,1,1,"#{""zack@cerza.org""}",985.0,35
+Python,ceph,2014-04-17,6,1,"#{""alfredo.deza@inktank.com""}",991.0,35
+Python,ceph,2014-04-18,1,1,"#{""zack@cerza.org""}",992.0,35
+Python,ceph,2014-04-23,5,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",997.0,35
+Python,ceph,2014-04-24,4,3,"#{""alfredo.deza@inktank.com"" ""osynge@suse.com"" ""zack@cerza.org""}",1001.0,36
+Python,ceph,2014-04-25,9,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""osynge@suse.com"" ""jenkins@inktank.com""}",1010.0,37
+Python,ceph,2014-05-01,6,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1016.0,37
+Python,ceph,2014-05-05,2,2,"#{""alfredo@deza.pe"" ""piiv@zhaw.ch""}",1018.0,38
+Python,ceph,2014-05-07,5,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1023.0,38
+Python,ceph,2014-05-08,1,1,"#{""wido@widodh.nl""}",1024.0,39
+Python,ceph,2014-05-13,4,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""dan.mick@inktank.com""}",1028.0,39
+Python,ceph,2014-05-14,3,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1031.0,39
+Python,ceph,2014-05-20,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1033.0,39
+Python,ceph,2014-05-21,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1035.0,39
+Python,ceph,2014-05-27,1,1,"#{""alfredo.deza@inktank.com""}",1036.0,39
+Python,ceph,2014-05-28,3,2,"#{""alfredo@deza.pe"" ""kfei@kfei.net""}",1039.0,40
+Python,ceph,2014-05-29,6,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1045.0,40
+Python,ceph,2014-05-30,6,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""kfei@kfei.net"" ""jenkins@inktank.com""}",1051.0,40
+Python,ceph,2014-06-02,1,1,"#{""alfredo.deza@inktank.com""}",1052.0,40
+Python,ceph,2014-06-04,5,1,"#{""alfredo.deza@inktank.com""}",1057.0,40
+Python,ceph,2014-06-05,4,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1061.0,40
+Python,ceph,2014-06-06,6,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1067.0,40
+Python,ceph,2014-06-09,2,2,"#{""alfredo@deza.pe"" ""dan.mick@inktank.com""}",1069.0,40
+Python,ceph,2014-06-10,3,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1072.0,40
+Python,ceph,2014-06-16,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1074.0,40
+Python,ceph,2014-06-24,6,1,"#{""alfredo.deza@inktank.com""}",1080.0,40
+Python,ceph,2014-06-25,3,3,"#{""lmb@suse.com"" ""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",1083.0,41
+Python,ceph,2014-06-27,5,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1088.0,41
+Python,ceph,2014-06-30,6,2,"#{""alfredo.deza@inktank.com"" ""dvossel@redhat.com""}",1094.0,42
+Python,ceph,2014-07-01,6,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1100.0,42
+Python,ceph,2014-07-02,13,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1113.0,42
+Python,ceph,2014-07-03,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1116.0,42
+Python,ceph,2014-07-07,1,1,"#{""alfredo@deza.pe""}",1117.0,42
+Python,ceph,2014-07-08,7,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1124.0,42
+Python,ceph,2014-07-09,4,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1128.0,42
+Python,ceph,2014-07-10,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1130.0,42
+Python,ceph,2014-07-11,9,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""osynge@suse.com""}",1139.0,42
+Python,ceph,2014-07-14,7,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1146.0,42
+Python,ceph,2014-07-15,2,1,"#{""alfredo.deza@inktank.com""}",1148.0,42
+Python,ceph,2014-07-16,7,4,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""fsimonce@redhat.com""}",1155.0,43
+Python,ceph,2014-07-19,1,1,"#{""joao.luis@inktank.com""}",1156.0,44
+Python,ceph,2014-07-21,1,1,"#{""alfredo@deza.pe""}",1157.0,44
+Python,ceph,2014-07-22,3,1,"#{""alfredo.deza@inktank.com""}",1160.0,44
+Python,ceph,2014-07-23,3,3,"#{""alfredo@deza.pe"" ""dmzhang@suse.com"" ""tolbkni@gmail.com""}",1163.0,46
+Python,ceph,2014-07-24,5,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",1168.0,46
+Python,ceph,2014-07-30,1,1,"#{""alfredo.deza@inktank.com""}",1169.0,46
+Python,ceph,2014-07-31,5,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1174.0,46
+Python,ceph,2014-08-01,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1177.0,46
+Python,ceph,2014-08-07,5,1,"#{""tom.walsh@expresshosting.net""}",1182.0,47
+Python,ceph,2014-08-08,7,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""tom.walsh@expresshosting.net""}",1189.0,47
+Python,ceph,2014-08-11,1,1,"#{""alfredo.deza@inktank.com""}",1190.0,47
+Python,ceph,2014-08-13,3,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1193.0,47
+Python,ceph,2014-08-14,2,1,"#{""alfredo.deza@inktank.com""}",1195.0,47
+Python,ceph,2014-08-15,4,1,"#{""alfredo.deza@inktank.com""}",1199.0,47
+Python,ceph,2014-08-18,4,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",1203.0,47
+Python,ceph,2014-08-19,5,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1208.0,47
+Python,ceph,2014-08-20,5,1,"#{""alfredo.deza@inktank.com""}",1213.0,47
+Python,ceph,2014-08-21,5,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1218.0,47
+Python,ceph,2014-08-22,3,1,"#{""alfredo.deza@inktank.com""}",1221.0,47
+Python,ceph,2014-08-25,7,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1228.0,47
+Python,ceph,2014-08-26,3,1,"#{""alfredo.deza@inktank.com""}",1231.0,47
+Python,ceph,2014-08-27,9,1,"#{""alfredo.deza@inktank.com""}",1240.0,47
+Python,ceph,2014-08-28,6,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1246.0,47
+Python,ceph,2014-09-03,3,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1249.0,47
+Python,ceph,2014-09-05,1,1,"#{""alfredo.deza@inktank.com""}",1250.0,47
+Python,ceph,2014-09-09,4,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1254.0,47
+Python,ceph,2014-09-10,5,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1259.0,47
+Python,ceph,2014-09-12,5,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1264.0,47
+Python,ceph,2014-09-23,9,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1273.0,47
+Python,ceph,2014-09-24,4,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1277.0,47
+Python,ceph,2014-09-25,3,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""tolbkni@gmail.com""}",1280.0,47
+Python,ceph,2014-09-26,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1283.0,47
+Python,ceph,2014-09-29,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1286.0,47
+Python,ceph,2014-09-30,3,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1289.0,47
+Python,ceph,2014-10-01,3,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1292.0,47
+Python,ceph,2014-10-03,2,2,"#{""alfredo.deza@inktank.com"" ""gmeno@redhat.com""}",1294.0,48
+Python,ceph,2014-10-06,3,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1297.0,48
+Python,ceph,2014-10-08,2,2,"#{""alfredo@deza.pe"" ""deanraccoon@gmail.com""}",1299.0,49
+Python,ceph,2014-10-09,8,3,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org"" ""jenkins@inktank.com""}",1307.0,49
+Python,ceph,2014-10-23,1,1,"#{""alfredo.deza@inktank.com""}",1308.0,49
+Python,ceph,2014-10-27,2,2,"#{""alfredo.deza@inktank.com"" ""zack@cerza.org""}",1310.0,49
+Python,ceph,2014-10-28,2,1,"#{""alfredo.deza@inktank.com""}",1312.0,49
+Python,ceph,2014-10-29,2,2,"#{""alfredo.deza@inktank.com"" ""jenkins@inktank.com""}",1314.0,49
+Python,ceph,2014-11-07,1,1,"#{""alfredo.deza@inktank.com""}",1315.0,49
+Python,ceph,2014-11-10,3,1,"#{""alfredo.deza@inktank.com""}",1318.0,49
+Python,ceph,2014-11-12,1,1,"#{""“trhoden@redhat.com”""}",1319.0,50
+Python,ceph,2014-11-13,2,2,"#{""trhoden@redhat.com"" ""jenkins@inktank.com""}",1321.0,51
+Python,ceph,2014-11-18,3,1,"#{""trhoden@redhat.com""}",1324.0,51
+Python,ceph,2014-11-19,5,3,"#{""alfredo@deza.pe"" ""ktdreyer@ktdreyer.com"" ""trhoden@redhat.com""}",1329.0,52
+Python,ceph,2014-12-02,1,1,"#{""alfredo@deza.pe""}",1330.0,52
+Python,ceph,2014-12-10,3,2,"#{""trhoden@redhat.com"" ""jenkins@inktank.com""}",1333.0,52
+Python,ceph,2015-01-02,4,3,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""kdreyer@redhat.com""}",1337.0,53
+Python,ceph,2015-01-05,1,1,"#{""trhoden@gmail.com""}",1338.0,53
+Python,ceph,2015-01-09,3,2,"#{""alfredo@deza.pe"" ""trhoden@redhat.com""}",1341.0,53
+Python,ceph,2015-01-30,2,2,"#{""trhoden@gmail.com"" ""kdreyer@redhat.com""}",1343.0,53
+Python,ceph,2015-02-16,1,1,"#{""trhoden@redhat.com""}",1344.0,53
+Python,ceph,2015-02-18,1,1,"#{""trhoden@redhat.com""}",1345.0,53
+Python,ceph,2015-02-19,4,2,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com""}",1349.0,53
+Python,ceph,2015-02-20,7,3,"#{""alfredo@deza.pe"" ""alfredo.deza@inktank.com"" ""trhoden@redhat.com""}",1356.0,53
+Python,ceph,2015-02-23,2,2,"#{""trhoden@redhat.com"" ""gmazyland@gmail.com""}",1358.0,54
+Python,ceph,2015-02-26,1,1,"#{""trhoden@gmail.com""}",1359.0,54
+Python,ceph,2015-03-06,5,2,"#{""alfredo@deza.pe"" ""trhoden@redhat.com""}",1364.0,54
+Python,ceph,2015-03-09,3,2,"#{""trhoden@redhat.com"" ""jenkins@inktank.com""}",1367.0,54
+Python,ceph,2015-03-10,3,1,"#{""trhoden@redhat.com""}",1370.0,54
+Python,ceph,2015-03-17,5,3,"#{""osynge@suse.com"" ""trhoden@redhat.com"" ""sage@redhat.com""}",1375.0,55
+Python,ceph,2015-03-18,1,1,"#{""trhoden@gmail.com""}",1376.0,55
+Python,ceph,2015-03-19,15,2,"#{""alfredo@deza.pe"" ""trhoden@redhat.com""}",1391.0,55
+Python,ceph,2015-03-20,4,2,"#{""freeze.bilsted@gmail.com"" ""trhoden@gmail.com""}",1395.0,56
+Python,ceph,2015-03-31,4,2,"#{""trhoden@redhat.com"" ""trhoden@gmail.com""}",1399.0,56
+Python,ceph,2015-04-01,1,1,"#{""alfredo@deza.pe""}",1400.0,56
+Python,ceph,2015-04-07,6,4,"#{""joseph.t.handzik@hp.com"" ""trhoden@redhat.com"" ""jenkins@inktank.com"" ""trhoden@gmail.com""}",1406.0,57
+Python,ceph,2015-04-08,1,1,"#{""joseph.t.handzik@hp.com""}",1407.0,57
+Python,ceph,2015-04-09,2,1,"#{""joseph.t.handzik@hp.com""}",1409.0,57
+Python,ceph,2015-04-10,3,3,"#{""alfredo@deza.pe"" ""joseph.t.handzik@hp.com"" ""kdreyer@redhat.com""}",1412.0,57
+Python,ceph,2015-04-14,1,1,"#{""trhoden@gmail.com""}",1413.0,57
+Python,ceph,2015-04-22,3,2,"#{""adeza@redhat.com"" ""trhoden@gmail.com""}",1416.0,58
+Python,ceph,2015-05-07,12,3,"#{""trhoden@redhat.com"" ""adeza@redhat.com"" ""trhoden@gmail.com""}",1428.0,58
+Python,ceph,2015-05-08,7,2,"#{""trhoden@redhat.com"" ""adeza@redhat.com""}",1435.0,58
+Python,ceph,2015-05-11,9,1,"#{""adeza@redhat.com""}",1444.0,58
+Python,ceph,2015-05-12,14,5,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""rgoldwyn@suse.com"" ""adeza@redhat.com"" ""trhoden@gmail.com""}",1458.0,59
+Python,ceph,2015-05-13,7,2,"#{""adeza@redhat.com"" ""trhoden@gmail.com""}",1465.0,59
+Python,ceph,2015-05-14,4,2,"#{""adeza@redhat.com"" ""trhoden@gmail.com""}",1469.0,59
+Python,ceph,2015-05-15,5,3,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""trhoden@gmail.com""}",1474.0,59
+Python,ceph,2015-05-18,8,4,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""jenkins@inktank.com"" ""trhoden@gmail.com""}",1482.0,59
+Python,ceph,2015-05-21,7,3,"#{""osynge@suse.com"" ""trhoden@redhat.com"" ""trhoden@gmail.com""}",1489.0,59
+Python,ceph,2015-05-22,6,1,"#{""trhoden@redhat.com""}",1495.0,59
+Python,ceph,2015-05-25,8,2,"#{""trhoden@redhat.com"" ""trhoden@gmail.com""}",1503.0,59
+Python,ceph,2015-05-26,4,3,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""jenkins@inktank.com""}",1507.0,59
+Python,ceph,2015-05-27,10,3,"#{""trhoden@redhat.com"" ""adeza@redhat.com"" ""trhoden@gmail.com""}",1517.0,59
+Python,ceph,2015-05-28,8,4,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""adeza@redhat.com"" ""trhoden@gmail.com""}",1525.0,59
+Python,ceph,2015-06-02,2,2,"#{""alfredo@deza.pe"" ""zhiguohong@tencent.com""}",1527.0,60
+Python,ceph,2015-06-11,2,1,"#{""ddiss@suse.de""}",1529.0,60
+Python,ceph,2015-06-12,5,1,"#{""ddiss@suse.de""}",1534.0,60
+Python,ceph,2015-06-16,3,2,"#{""alfredo@deza.pe"" ""kchai@redhat.com""}",1537.0,61
+Python,ceph,2015-06-19,3,2,"#{""trhoden@redhat.com"" ""trhoden@gmail.com""}",1540.0,61
+Python,ceph,2015-06-22,3,1,"#{""trhoden@redhat.com""}",1543.0,61
+Python,ceph,2015-06-23,10,1,"#{""trhoden@redhat.com""}",1553.0,61
+Python,ceph,2015-06-24,14,1,"#{""trhoden@redhat.com""}",1567.0,61
+Python,ceph,2015-06-25,6,1,"#{""trhoden@redhat.com""}",1573.0,61
+Python,ceph,2015-06-26,1,1,"#{""alfredo@deza.pe""}",1574.0,61
+Python,ceph,2015-06-29,9,2,"#{""trhoden@redhat.com"" ""ddiss@suse.de""}",1583.0,61
+Python,ceph,2015-06-30,5,1,"#{""trhoden@redhat.com""}",1588.0,61
+Python,ceph,2015-07-01,10,1,"#{""trhoden@redhat.com""}",1598.0,61
+Python,ceph,2015-07-02,1,1,"#{""mbroz@redhat.com""}",1599.0,62
+Python,ceph,2015-07-05,1,1,"#{""alfredo@deza.pe""}",1600.0,62
+Python,ceph,2015-07-06,1,1,"#{""alfredo@deza.pe""}",1601.0,62
+Python,ceph,2015-07-09,5,1,"#{""trhoden@redhat.com""}",1606.0,62
+Python,ceph,2015-07-10,4,2,"#{""alfredo@deza.pe"" ""trhoden@gmail.com""}",1610.0,62
+Python,ceph,2015-07-14,3,3,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""trhoden@gmail.com""}",1613.0,62
+Python,ceph,2015-07-15,5,1,"#{""trhoden@redhat.com""}",1618.0,62
+Python,ceph,2015-07-16,5,2,"#{""alfredo@deza.pe"" ""trhoden@redhat.com""}",1623.0,62
+Python,ceph,2015-07-17,1,1,"#{""trhoden@gmail.com""}",1624.0,62
+Python,ceph,2015-07-20,3,2,"#{""trhoden@redhat.com"" ""jenkins@inktank.com""}",1627.0,62
+Python,ceph,2015-07-28,1,1,"#{""sage@redhat.com""}",1628.0,62
+Python,ceph,2015-07-30,1,1,"#{""trhoden@redhat.com""}",1629.0,62
+Python,ceph,2015-07-31,15,4,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""sage@redhat.com"" ""trhoden@gmail.com""}",1644.0,62
+Python,ceph,2015-08-03,16,2,"#{""alfredo@deza.pe"" ""trhoden@redhat.com""}",1660.0,62
+Python,ceph,2015-08-04,13,3,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""trhoden@gmail.com""}",1673.0,62
+Python,ceph,2015-08-05,12,4,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""jenkins@inktank.com"" ""trhoden@gmail.com""}",1685.0,62
+Python,ceph,2015-08-06,4,3,"#{""adeza@redhat.com"" ""gmazyland@gmail.com"" ""trhoden@gmail.com""}",1689.0,62
+Python,ceph,2015-08-07,6,1,"#{""trhoden@redhat.com""}",1695.0,62
+Python,ceph,2015-08-10,2,2,"#{""alfredo@deza.pe"" ""trhoden@redhat.com""}",1697.0,62
+Python,ceph,2015-08-11,7,3,"#{""alfredo@deza.pe"" ""mbroz@redhat.com"" ""adeza@redhat.com""}",1704.0,62
+Python,ceph,2015-08-12,4,4,"#{""alfredo@deza.pe"" ""trhoden@redhat.com"" ""adeza@redhat.com"" ""trhoden@gmail.com""}",1708.0,62
+Python,ceph,2015-08-13,3,2,"#{""adeza@redhat.com"" ""trhoden@gmail.com""}",1711.0,62
+Python,ceph,2015-08-14,3,2,"#{""trhoden@redhat.com"" ""kdreyer@redhat.com""}",1714.0,62
+Python,ceph,2015-08-26,3,2,"#{""trhoden@redhat.com"" ""jenkins@inktank.com""}",1717.0,62
+Python,ceph,2015-08-29,2,2,"#{""sage@redhat.com"" ""trhoden@gmail.com""}",1719.0,62
+Python,ceph,2015-09-02,2,2,"#{""sage@redhat.com"" ""trhoden@gmail.com""}",1721.0,62
+Python,ceph,2015-09-08,3,3,"#{""trhoden@redhat.com"" ""sage@redhat.com"" ""trhoden@gmail.com""}",1724.0,62
+Python,ceph,2015-09-09,1,1,"#{""alfredo@deza.pe""}",1725.0,62
+Python,ceph,2015-09-10,2,2,"#{""sage@redhat.com"" ""trhoden@gmail.com""}",1727.0,62
+Python,ceph,2015-09-14,1,1,"#{""yuan.zhou@intel.com""}",1728.0,63
+Python,ceph,2015-09-17,2,2,"#{""sage@redhat.com"" ""trhoden@gmail.com""}",1730.0,63
+Python,ceph,2015-09-18,2,2,"#{""trhoden@redhat.com"" ""sage@redhat.com""}",1732.0,63
+Python,ceph,2015-09-19,1,1,"#{""alfredo@deza.pe""}",1733.0,63
+Python,ceph,2015-09-24,3,3,"#{""alfredo@deza.pe"" ""osynge@suse.com"" ""adeza@redhat.com""}",1736.0,63
+Python,ceph,2015-09-29,1,1,"#{""sage@redhat.com""}",1737.0,63
+Python,ceph,2015-09-30,6,4,"#{""ldachary@redhat.com"" ""sage@redhat.com"" ""dan.mick@redhat.com"" ""trhoden@gmail.com""}",1743.0,65
+Python,ceph,2015-10-12,1,1,"#{""alfredo@deza.pe""}",1744.0,65
+Python,ceph,2015-10-26,2,2,"#{""alfredo@deza.pe"" ""kdreyer@redhat.com""}",1746.0,65
+Python,ceph,2015-11-03,2,1,"#{""adeza@redhat.com""}",1748.0,65
+Python,ceph,2015-11-04,1,1,"#{""tchaikov@gmail.com""}",1749.0,66
+Python,ceph,2015-11-20,2,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",1751.0,66
+Python,ceph,2015-11-23,1,1,"#{""martin@palma.bz""}",1752.0,67
+Python,ceph,2015-11-24,3,1,"#{""martin@palma.bz""}",1755.0,67
+Python,ceph,2015-11-25,1,1,"#{""alfredo@deza.pe""}",1756.0,67
+Python,ceph,2015-12-01,2,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",1758.0,67
+Python,ceph,2015-12-02,4,3,"#{""andrew.schoen@gmail.com"" ""jenkins-build@jenkins-slave-wheezy.localdomain"" ""adeza@redhat.com""}",1762.0,69
+Python,ceph,2015-12-10,1,1,"#{""adeza@redhat.com""}",1763.0,69
+Python,ceph,2015-12-11,6,4,"#{""presnypreklad@gmail.com"" ""jenkins-build@jenkins-slave-wheezy.localdomain"" ""adeza@redhat.com"" ""kdreyer@redhat.com""}",1769.0,70
+Python,ceph,2015-12-15,1,1,"#{""adeza@redhat.com""}",1770.0,70
+Python,ceph,2015-12-16,1,1,"#{""kdreyer@redhat.com""}",1771.0,70
+Python,ceph,2015-12-22,2,2,"#{""dan.mick@redhat.com"" ""adeza@redhat.com""}",1773.0,70
+Python,ceph,2016-01-04,4,3,"#{""alfredo@deza.pe"" ""jenkins-build@jenkins-slave-wheezy.localdomain"" ""adeza@redhat.com""}",1777.0,70
+Python,ceph,2016-01-08,6,4,"#{""alfredo@deza.pe"" ""martin@palma.bz"" ""dan.mick@redhat.com"" ""kdreyer@redhat.com""}",1783.0,70
+Python,ceph,2016-01-13,2,2,"#{""alfredo@deza.pe"" ""vumrao@redhat.com""}",1785.0,71
+Python,ceph,2016-02-02,6,3,"#{""sage@redhat.com"" ""branto@redhat.com"" ""adeza@redhat.com""}",1791.0,72
+Python,ceph,2016-02-03,1,1,"#{""alfredo@deza.pe""}",1792.0,72
+Python,ceph,2016-02-04,2,2,"#{""sage@redhat.com"" ""adeza@redhat.com""}",1794.0,72
+Python,ceph,2016-02-09,1,1,"#{""alfredo@deza.pe""}",1795.0,72
+Python,ceph,2016-02-11,2,1,"#{""osynge@suse.com""}",1797.0,72
+Python,ceph,2016-02-26,1,1,"#{""osynge@suse.com""}",1798.0,72
+Python,ceph,2016-03-11,2,2,"#{""sage@redhat.com"" ""vasu.kulkarni@gmail.com""}",1800.0,73
+Python,ceph,2016-03-15,2,2,"#{""alfredo@deza.pe"" ""vumrao@redhat.com""}",1802.0,73
+Python,ceph,2016-04-08,3,3,"#{""alfredo@deza.pe"" ""osynge@suse.com"" ""jordanjimmy41177@gmail.com""}",1805.0,74
+Python,ceph,2016-04-12,4,1,"#{""osynge@suse.com""}",1809.0,74
+Python,ceph,2016-04-13,9,5,"#{""oleh@pryp.in"" ""alfredo@deza.pe"" ""osynge@suse.com"" ""jenkins@jenkins.ceph.com"" ""adeza@redhat.com""}",1818.0,76
+Python,ceph,2016-04-14,1,1,"#{""alfredo@deza.pe""}",1819.0,76
+Python,ceph,2016-04-21,2,2,"#{""alfredo@deza.pe"" ""sage@redhat.com""}",1821.0,76
+Python,ceph,2016-04-22,14,4,"#{""alfredo@deza.pe"" ""osynge@suse.com"" ""jenkins-build@trusty-small-unique--bd5033e0-9958-49bb-9bba-6c135ad50512.localdomain"" ""adeza@redhat.com""}",1835.0,77
+Python,ceph,2016-05-16,2,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",1837.0,77
+Python,ceph,2016-05-17,1,1,"#{""osynge@suse.com""}",1838.0,77
+Python,ceph,2016-05-18,1,1,"#{""osynge@suse.com""}",1839.0,77
+Python,ceph,2016-05-20,4,1,"#{""osynge@suse.com""}",1843.0,77
+Python,ceph,2016-05-23,11,2,"#{""oleh@pryp.in"" ""osynge@suse.com""}",1854.0,77
+Python,ceph,2016-05-24,2,2,"#{""alfredo@deza.pe"" ""osynge@suse.com""}",1856.0,77
+Python,ceph,2016-05-25,1,1,"#{""oleh@pryp.in""}",1857.0,77
+Python,ceph,2016-05-26,2,2,"#{""oleh@pryp.in"" ""osynge@suse.com""}",1859.0,77
+Python,ceph,2016-05-31,1,1,"#{""alfredo@deza.pe""}",1860.0,77
+Python,ceph,2016-06-03,4,2,"#{""sage@redhat.com"" ""adeza@redhat.com""}",1864.0,77
+Python,ceph,2016-06-06,2,2,"#{""andrew.schoen@gmail.com"" ""adeza@redhat.com""}",1866.0,77
+Python,ceph,2016-06-07,4,3,"#{""alfredo@deza.pe"" ""jenkins@jenkins.ceph.com"" ""adeza@redhat.com""}",1870.0,77
+Python,ceph,2016-06-09,3,1,"#{""oleh@pryp.in""}",1873.0,77
+Python,ceph,2016-06-14,2,2,"#{""alfredo@deza.pe"" ""wanlong.gao@easystack.cn""}",1875.0,78
+Python,ceph,2016-06-15,1,1,"#{""wanlong.gao@easystack.cn""}",1876.0,78
+Python,ceph,2016-06-16,1,1,"#{""oleh@pryp.in""}",1877.0,78
+Python,ceph,2016-06-21,1,1,"#{""oleh@pryp.in""}",1878.0,78
+Python,ceph,2016-06-22,1,1,"#{""jdurgin@redhat.com""}",1879.0,79
+Python,ceph,2016-06-23,4,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",1883.0,79
+Python,ceph,2016-06-24,1,1,"#{""vasu@redhat.com""}",1884.0,80
+Python,ceph,2016-06-29,4,3,"#{""alfredo@deza.pe"" ""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1888.0,80
+Python,ceph,2016-07-07,1,1,"#{""arvimal@yahoo.in""}",1889.0,81
+Python,ceph,2016-07-10,1,1,"#{""amin@shayan.net""}",1890.0,82
+Python,ceph,2016-07-11,1,1,"#{""alfredo@deza.pe""}",1891.0,82
+Python,ceph,2016-07-13,1,1,"#{""alfredo@deza.pe""}",1892.0,82
+Python,ceph,2016-08-10,2,1,"#{""osynge@suse.com""}",1894.0,82
+Python,ceph,2016-08-12,1,1,"#{""alfredo@deza.pe""}",1895.0,82
+Python,ceph,2016-08-15,4,3,"#{""alfredo@deza.pe"" ""jenkins-build@trusty-small--ab27e6a0-b293-4920-86e6-5072e02e0fa4.localdomain"" ""adeza@redhat.com""}",1899.0,83
+Python,ceph,2016-08-17,1,1,"#{""minsheng.l@inwinstack.com""}",1900.0,84
+Python,ceph,2016-08-18,1,1,"#{""alfredo@deza.pe""}",1901.0,84
+Python,ceph,2016-08-19,2,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1903.0,84
+Python,ceph,2016-08-23,3,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1906.0,84
+Python,ceph,2016-08-24,2,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1908.0,84
+Python,ceph,2016-08-29,3,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1911.0,84
+Python,ceph,2016-08-30,1,1,"#{""jenkins-build@trusty-small--6857a770-7175-4f61-a709-1ee431aa3f3f.localdomain""}",1912.0,85
+Python,ceph,2016-09-08,1,1,"#{""steveh@opusv.com.au""}",1913.0,86
+Python,ceph,2016-09-13,1,1,"#{""alfredo@deza.pe""}",1914.0,86
+Python,ceph,2016-10-10,1,1,"#{""amargasov@naumen.ru""}",1915.0,87
+Python,ceph,2016-10-14,1,1,"#{""guojian@xsky.com""}",1916.0,88
+Python,ceph,2016-10-20,1,1,"#{""alfredo@deza.pe""}",1917.0,88
+Python,ceph,2016-11-08,2,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1919.0,88
+Python,ceph,2016-11-15,1,1,"#{""alfredo@deza.pe""}",1920.0,88
+Python,ceph,2016-12-08,8,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1928.0,88
+Python,ceph,2017-01-03,6,5,"#{""alfredo@deza.pe"" ""vasu@redhat.com"" ""adeza@redhat.com"" ""ceph-release-team@redhat.com"" ""vasu.kulkarni@gmail.com""}",1934.0,89
+Python,ceph,2017-02-03,1,1,"#{""ganesh.mahalingam@intel.com""}",1935.0,90
+Python,ceph,2017-02-21,1,1,"#{""vasu.kulkarni@gmail.com""}",1936.0,90
+Python,ceph,2017-02-22,1,1,"#{""danny.al-gaaf@bisect.de""}",1937.0,90
+Python,ceph,2017-02-23,1,1,"#{""vasu.kulkarni@gmail.com""}",1938.0,90
+Python,ceph,2017-03-06,2,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1940.0,90
+Python,ceph,2017-03-07,1,1,"#{""sage@redhat.com""}",1941.0,90
+Python,ceph,2017-03-08,1,1,"#{""alfredo@deza.pe""}",1942.0,90
+Python,ceph,2017-03-10,1,1,"#{""sage@redhat.com""}",1943.0,90
+Python,ceph,2017-03-13,4,2,"#{""sage@redhat.com"" ""aparfenov@virtuozzo.com""}",1947.0,91
+Python,ceph,2017-03-14,1,1,"#{""alfredo@deza.pe""}",1948.0,91
+Python,ceph,2017-03-17,1,1,"#{""vasu.kulkarni@gmail.com""}",1949.0,91
+Python,ceph,2017-03-22,3,2,"#{""a1994ndrey@gmail.com"" ""alfredo@deza.pe""}",1952.0,92
+Python,ceph,2017-04-20,2,2,"#{""sage@newdream.net"" ""john.spray@redhat.com""}",1954.0,93
+Python,ceph,2017-05-11,1,1,"#{""root@big-core-vm.novalocal""}",1955.0,94
+Python,ceph,2017-05-19,4,3,"#{""alfredo@deza.pe"" ""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1959.0,94
+Python,ceph,2017-05-25,1,1,"#{""ceph-release-team@redhat.com""}",1960.0,94
+Python,ceph,2017-06-08,3,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1963.0,94
+Python,ceph,2017-06-09,2,2,"#{""alfredo@deza.pe"" ""sage@redhat.com""}",1965.0,94
+Python,ceph,2017-06-22,3,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1968.0,94
+Python,ceph,2017-07-05,3,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",1971.0,94
+Python,ceph,2017-07-09,1,1,"#{""tangyg2@lenovo.com""}",1972.0,95
+Python,ceph,2017-07-19,2,1,"#{""alfredo@deza.pe""}",1974.0,95
+Python,ceph,2017-07-28,1,1,"#{""vasu@redhat.com""}",1975.0,95
+Python,ceph,2017-08-07,1,1,"#{""alfredo@deza.pe""}",1976.0,95
+Python,ceph,2017-09-01,4,3,"#{""alfredo@deza.pe"" ""adeza@redhat.com"" ""ceph-release-team@redhat.com""}",1980.0,95
+Python,ceph,2017-09-06,1,1,"#{""tserong@suse.com""}",1981.0,96
+Python,ceph,2017-09-11,1,1,"#{""vasu@redhat.com""}",1982.0,96
+Python,ceph,2017-09-12,1,1,"#{""alfredo@deza.pe""}",1983.0,96
+Python,ceph,2017-09-20,1,1,"#{""alfredo@deza.pe""}",1984.0,96
+Python,ceph,2017-11-27,2,1,"#{""adeza@redhat.com""}",1986.0,96
+Python,ceph,2017-11-28,6,1,"#{""adeza@redhat.com""}",1992.0,96
+Python,ceph,2017-11-29,10,1,"#{""adeza@redhat.com""}",2002.0,96
+Python,ceph,2017-12-01,1,1,"#{""vasu.kulkarni@gmail.com""}",2003.0,96
+Python,ceph,2017-12-06,3,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",2006.0,96
+Python,ceph,2017-12-27,1,1,"#{""caleb.boylan@ormuco.com""}",2007.0,97
+Python,ceph,2018-01-16,4,3,"#{""adeza@redhat.com"" ""psukys@users.noreply.github.com"" ""vasu.kulkarni@gmail.com""}",2011.0,98
+Python,ceph,2018-01-17,2,2,"#{""alfredo@deza.pe"" ""ceph-release-team@redhat.com""}",2013.0,98
+Python,ceph,2018-01-23,2,1,"#{""hackan@gmail.com""}",2015.0,99
+Python,ceph,2018-01-26,2,1,"#{""hackan@gmail.com""}",2017.0,99
+Python,ceph,2018-01-29,1,1,"#{""wido@42on.com""}",2018.0,100
+Python,ceph,2018-01-30,1,1,"#{""vasu.kulkarni@gmail.com""}",2019.0,100
+Python,ceph,2018-02-01,2,2,"#{""alfredo@deza.pe"" ""rleimens@umiacs.umd.edu""}",2021.0,101
+Python,ceph,2018-02-07,1,1,"#{""vasu.kulkarni@gmail.com""}",2022.0,101
+Python,ceph,2018-02-16,3,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",2025.0,101
+Python,ceph,2018-02-20,2,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",2027.0,101
+Python,ceph,2018-02-21,2,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",2029.0,101
+Python,ceph,2018-03-01,2,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",2031.0,101
+Python,ceph,2018-03-05,2,1,"#{""krystism@gmail.com""}",2033.0,102
+Python,ceph,2018-03-06,1,1,"#{""alfredo@deza.pe""}",2034.0,102
+Python,ceph,2018-03-31,1,1,"#{""hackan@gmail.com""}",2035.0,102
+Python,ceph,2018-04-09,1,1,"#{""alfredo@deza.pe""}",2036.0,102
+Python,ceph,2018-05-03,1,1,"#{""shaba@altlinux.org""}",2037.0,103
+Python,ceph,2018-06-19,6,4,"#{""alfredo@deza.pe"" ""adeza@redhat.com"" ""ceph-release-team@redhat.com"" ""vasu.kulkarni@gmail.com""}",2043.0,103
+Python,ceph,2018-07-10,3,2,"#{""adeza@redhat.com"" ""vasu.kulkarni@gmail.com""}",2046.0,103
+Python,ceph,2018-07-16,3,1,"#{""adeza@redhat.com""}",2049.0,103
+Python,ceph,2018-07-18,1,1,"#{""vasu.kulkarni@gmail.com""}",2050.0,103
+Python,ceph,2018-09-20,2,2,"#{""alfredo@deza.pe"" ""john.spray@redhat.com""}",2052.0,103
+Python,ceph,2018-12-15,1,1,"#{""alfredo@deza.pe""}",2053.0,103
+Python,ceph,2018-12-18,1,1,"#{""mrdrew@altlinux.org""}",2054.0,104
+Python,ceph,2019-01-15,4,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",2058.0,104
+Python,ceph,2019-01-16,1,1,"#{""adeza@redhat.com""}",2059.0,104
+Python,ceph,2019-01-17,1,1,"#{""alfredo@deza.pe""}",2060.0,104
+Python,ceph,2019-01-28,1,1,"#{""alfredo@deza.pe""}",2061.0,104
+Python,ceph,2019-02-25,2,2,"#{""alfredo@deza.pe"" ""dsavinea@redhat.com""}",2063.0,105
+Python,ceph,2019-03-26,1,1,"#{""alitm28@gmail.com""}",2064.0,106
+Python,ceph,2019-04-05,2,2,"#{""alfredo@deza.pe"" ""sage@redhat.com""}",2066.0,106
+Python,ceph,2019-04-16,5,2,"#{""alfredo@deza.pe"" ""adeza@redhat.com""}",2071.0,106
+Python,ceph,2019-04-25,2,1,"#{""adeza@redhat.com""}",2073.0,106
+Python,ceph,2019-04-29,3,2,"#{""vasu@redhat.com"" ""adeza@redhat.com""}",2076.0,106
+Python,ceph,2019-05-01,6,2,"#{""ganesh.mahalingam@intel.com"" ""adeza@redhat.com""}",2082.0,106
+Python,ceph,2019-05-06,2,1,"#{""adeza@redhat.com""}",2084.0,106
+Python,ceph,2019-07-12,1,1,"#{""sage@redhat.com""}",2085.0,106
+Python,ceph,2019-08-13,2,2,"#{""53242408+Zhiwei-Dai@users.noreply.github.com"" ""adeza@redhat.com""}",2087.0,107
+Python,ceph,2019-12-19,1,1,"#{""780768299@qq.com""}",2088.0,108
+Python,ceph,2020-02-12,1,1,"#{""daizhiwei3@huawei.com""}",2089.0,109
+Python,ceph,2020-04-09,1,1,"#{""mydeplace@163.com""}",2090.0,110
+Python,ceph,2020-04-13,1,1,"#{""mydeplace@163.com""}",2091.0,110
+Python,ceph,2020-05-22,1,1,"#{""james.page@ubuntu.com""}",2092.0,111
+Python,ceph,2020-06-02,1,1,"#{""changcheng.liu@aliyun.com""}",2093.0,112
+Python,ceph,2020-06-03,5,1,"#{""kchai@redhat.com""}",2098.0,112
+Python,ceph,2020-06-04,2,1,"#{""kchai@redhat.com""}",2100.0,112
+Python,ceph,2020-06-05,2,2,"#{""kchai@redhat.com"" ""tchaikov@gmail.com""}",2102.0,112
+Python,ceph,2020-08-06,1,1,"#{""bhubbard@redhat.com""}",2103.0,113
+Python,ceph,2020-08-13,2,1,"#{""kchai@redhat.com""}",2105.0,113
+Python,ceph,2020-09-01,7,1,"#{""kchai@redhat.com""}",2112.0,113
+Python,ceph,2020-09-03,2,1,"#{""kchai@redhat.com""}",2114.0,113
+Python,ceph,2020-09-17,1,1,"#{""kchai@redhat.com""}",2115.0,113
+Python,ceph,2020-09-18,2,2,"#{""kchai@redhat.com"" ""tchaikov@gmail.com""}",2117.0,113
+Python,ceph,2020-09-26,2,2,"#{""kchai@redhat.com"" ""tchaikov@gmail.com""}",2119.0,113
+Python,ceph,2020-09-27,1,1,"#{""Cedric_Hombourger@mentor.com""}",2120.0,114
+Python,ceph,2020-10-01,7,2,"#{""kchai@redhat.com"" ""ceph-release-team@redhat.com""}",2127.0,114
+Python,ceph,2020-10-02,2,1,"#{""kchai@redhat.com""}",2129.0,114

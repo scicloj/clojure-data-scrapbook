@@ -1,0 +1,103 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,graphite-project,2013-11-22,4,1,"#{""jssjr@github.com""}",4.0,1
+Python,graphite-project,2013-12-20,17,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",21.0,2
+Python,graphite-project,2013-12-24,10,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",31.0,2
+Python,graphite-project,2014-01-24,1,1,"#{""bkromhout@8thbridge.com""}",32.0,3
+Python,graphite-project,2014-01-29,3,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",35.0,3
+Python,graphite-project,2014-02-01,12,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",47.0,3
+Python,graphite-project,2014-02-10,1,1,"#{""jphines@bit.ly""}",48.0,4
+Python,graphite-project,2014-02-11,4,2,"#{""jphines@bit.ly"" ""scott@jssjr.com""}",52.0,4
+Python,graphite-project,2014-03-20,3,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",55.0,4
+Python,graphite-project,2014-04-21,1,1,"#{""tailofthesun@gmail.com""}",56.0,5
+Python,graphite-project,2014-04-25,2,1,"#{""tailofthesun@gmail.com""}",58.0,5
+Python,graphite-project,2014-04-26,1,1,"#{""scott@jssjr.com""}",59.0,5
+Python,graphite-project,2014-06-20,1,1,"#{""gagojaime@gmail.com""}",60.0,6
+Python,graphite-project,2014-06-22,1,1,"#{""scott@jssjr.com""}",61.0,6
+Python,graphite-project,2014-07-08,2,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",63.0,6
+Python,graphite-project,2014-07-25,11,1,"#{""jeff@bitprophet.org""}",74.0,7
+Python,graphite-project,2014-07-26,2,2,"#{""scott@jssjr.com"" ""jeff@bitprophet.org""}",76.0,7
+Python,graphite-project,2014-07-27,2,1,"#{""jeff@bitprophet.org""}",78.0,7
+Python,graphite-project,2014-07-28,8,1,"#{""jeff@bitprophet.org""}",86.0,7
+Python,graphite-project,2014-08-01,1,1,"#{""jeff@bitprophet.org""}",87.0,7
+Python,graphite-project,2014-09-12,2,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",89.0,7
+Python,graphite-project,2014-09-19,1,1,"#{""squigley@shutterstock.com""}",90.0,8
+Python,graphite-project,2014-10-04,2,1,"#{""scott@jssjr.com""}",92.0,8
+Python,graphite-project,2014-10-09,1,1,"#{""g.seux@criteo.com""}",93.0,9
+Python,graphite-project,2014-10-10,7,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",100.0,9
+Python,graphite-project,2014-10-15,8,2,"#{""jssjr@github.com"" ""scott@jssjr.com""}",108.0,9
+Python,graphite-project,2014-10-21,3,1,"#{""g.seux@criteo.com""}",111.0,9
+Python,graphite-project,2014-10-22,1,1,"#{""g.seux@criteo.com""}",112.0,9
+Python,graphite-project,2014-12-04,1,1,"#{""jjneely@42lines.net""}",113.0,10
+Python,graphite-project,2015-01-05,4,1,"#{""jeff@bitprophet.org""}",117.0,10
+Python,graphite-project,2015-02-07,7,3,"#{""fgiunchedi@wikimedia.org"" ""kamaradclimber@gmail.com"" ""scott@jssjr.com""}",124.0,12
+Python,graphite-project,2015-02-09,1,1,"#{""jjneely@42lines.net""}",125.0,12
+Python,graphite-project,2015-02-14,2,1,"#{""fgiunchedi@wikimedia.org""}",127.0,12
+Python,graphite-project,2015-04-06,1,1,"#{""piotr1212@gmail.com""}",128.0,13
+Python,graphite-project,2016-03-30,1,1,"#{""c.chary@criteo.com""}",129.0,14
+Python,graphite-project,2016-04-05,2,1,"#{""b.arnould@criteo.com""}",131.0,15
+Python,graphite-project,2016-04-20,1,1,"#{""c.chary@criteo.com""}",132.0,15
+Python,graphite-project,2016-06-08,1,1,"#{""c.chary@criteo.com""}",133.0,15
+Python,graphite-project,2016-06-13,3,1,"#{""tmackey at evernote dot com""}",136.0,16
+Python,graphite-project,2016-06-22,1,1,"#{""hugo@dozoisch.com""}",137.0,17
+Python,graphite-project,2016-07-02,1,1,"#{""JeanFred@users.noreply.github.com""}",138.0,18
+Python,graphite-project,2016-08-03,5,1,"#{""tmackey at evernote dot com""}",143.0,18
+Python,graphite-project,2016-08-04,2,1,"#{""denis.zhdanov@gmail.com""}",145.0,19
+Python,graphite-project,2016-08-05,3,1,"#{""denis.zhdanov@gmail.com""}",148.0,19
+Python,graphite-project,2016-08-06,13,2,"#{""denis.zhdanov@gmail.com"" ""dzhdanov@ebay.com""}",161.0,20
+Python,graphite-project,2017-01-30,1,1,"#{""c.chary@criteo.com""}",162.0,20
+Python,graphite-project,2017-02-01,1,1,"#{""denis.zhdanov@gmail.com""}",163.0,20
+Python,graphite-project,2017-02-11,5,1,"#{""denis.zhdanov@gmail.com""}",168.0,20
+Python,graphite-project,2017-02-24,1,1,"#{""justin.moy@sendgrid.com""}",169.0,21
+Python,graphite-project,2017-02-25,1,1,"#{""denis.zhdanov@gmail.com""}",170.0,21
+Python,graphite-project,2017-04-07,1,1,"#{""c.chary@criteo.com""}",171.0,21
+Python,graphite-project,2017-04-11,4,1,"#{""denis.zhdanov@gmail.com""}",175.0,21
+Python,graphite-project,2017-04-23,1,1,"#{""denis.zhdanov@gmail.com""}",176.0,21
+Python,graphite-project,2017-05-18,2,1,"#{""denis.zhdanov@gmail.com""}",178.0,21
+Python,graphite-project,2017-06-03,4,2,"#{""denis.zhdanov@gmail.com"" ""badger@codacy.com""}",182.0,22
+Python,graphite-project,2017-07-10,1,1,"#{""denis.zhdanov@gmail.com""}",183.0,22
+Python,graphite-project,2017-07-11,3,1,"#{""denis.zhdanov@gmail.com""}",186.0,22
+Python,graphite-project,2017-08-07,4,1,"#{""lev4ykaol@gmail.com""}",190.0,23
+Python,graphite-project,2017-08-08,1,1,"#{""denis.zhdanov@gmail.com""}",191.0,23
+Python,graphite-project,2017-12-19,4,1,"#{""denis.zhdanov@gmail.com""}",195.0,23
+Python,graphite-project,2018-01-10,4,1,"#{""jehiah@gmail.com""}",199.0,24
+Python,graphite-project,2018-01-11,4,2,"#{""jehiah@gmail.com"" ""denis.zhdanov@gmail.com""}",203.0,24
+Python,graphite-project,2018-01-12,1,1,"#{""denis.zhdanov@gmail.com""}",204.0,24
+Python,graphite-project,2018-02-11,2,1,"#{""denis.zhdanov@gmail.com""}",206.0,24
+Python,graphite-project,2018-02-14,2,1,"#{""denis.zhdanov@gmail.com""}",208.0,24
+Python,graphite-project,2018-04-01,1,1,"#{""denis.zhdanov@gmail.com""}",209.0,24
+Python,graphite-project,2018-04-02,2,1,"#{""denis.zhdanov@gmail.com""}",211.0,24
+Python,graphite-project,2018-04-04,1,1,"#{""denis.zhdanov@gmail.com""}",212.0,24
+Python,graphite-project,2018-04-30,6,2,"#{""lukasz.jernas@allegro.pl"" ""denis.zhdanov@gmail.com""}",218.0,25
+Python,graphite-project,2018-09-01,2,1,"#{""denis.zhdanov@gmail.com""}",220.0,25
+Python,graphite-project,2018-12-23,4,1,"#{""denis.zhdanov@gmail.com""}",224.0,25
+Python,graphite-project,2019-01-03,4,2,"#{""Yevhen.Lukomskyi@gmail.com"" ""denis.zhdanov@gmail.com""}",228.0,26
+Python,graphite-project,2019-04-23,1,1,"#{""luke.heberling@gmail.com""}",229.0,27
+Python,graphite-project,2019-04-24,1,1,"#{""luke.heberling@gmail.com""}",230.0,27
+Python,graphite-project,2019-04-26,2,1,"#{""denis.zhdanov@gmail.com""}",232.0,27
+Python,graphite-project,2019-04-30,5,2,"#{""denis.zhdanov@gmail.com"" ""piotr1212@gmail.com""}",237.0,27
+Python,graphite-project,2019-05-03,1,1,"#{""denis.zhdanov@gmail.com""}",238.0,27
+Python,graphite-project,2019-10-03,1,1,"#{""49699333+dependabot[bot]@users.noreply.github.com""}",239.0,28
+Python,graphite-project,2019-10-23,3,1,"#{""denis.zhdanov@gmail.com""}",242.0,28
+Python,graphite-project,2019-10-25,1,1,"#{""denis.zhdanov@gmail.com""}",243.0,28
+Python,graphite-project,2019-11-18,6,2,"#{""piotr1212@gmail.com"" ""h.dost@criteo.com""}",249.0,29
+Python,graphite-project,2019-12-15,1,1,"#{""denis.zhdanov@gmail.com""}",250.0,29
+Python,graphite-project,2020-01-07,3,2,"#{""lars.baettig@swisscom.com"" ""denis.zhdanov@gmail.com""}",253.0,30
+Python,graphite-project,2020-02-20,1,1,"#{""denis.zhdanov@gmail.com""}",254.0,30
+Python,graphite-project,2020-03-16,2,1,"#{""denis.zhdanov@gmail.com""}",256.0,30
+Python,graphite-project,2020-04-13,3,1,"#{""denis.zhdanov@gmail.com""}",259.0,30
+Python,graphite-project,2020-06-07,1,1,"#{""denis.zhdanov@gmail.com""}",260.0,30
+Python,graphite-project,2020-10-03,1,1,"#{""denis.zhdanov@gmail.com""}",261.0,30
+Python,graphite-project,2020-10-13,1,1,"#{""denis.zhdanov@gmail.com""}",262.0,30
+Python,graphite-project,2020-10-27,3,1,"#{""ryans@aweber.com""}",265.0,31
+Python,graphite-project,2020-10-28,3,1,"#{""ryans@aweber.com""}",268.0,31
+Python,graphite-project,2020-10-29,1,1,"#{""denis.zhdanov@gmail.com""}",269.0,31
+Python,graphite-project,2021-01-24,4,1,"#{""denis.zhdanov@gmail.com""}",273.0,31
+Python,graphite-project,2021-02-28,1,1,"#{""denis.zhdanov@gmail.com""}",274.0,31
+Python,graphite-project,2021-04-18,2,1,"#{""denis.zhdanov@gmail.com""}",276.0,31
+Python,graphite-project,2021-10-06,1,1,"#{""aasthajha123@gmail.com""}",277.0,32
+Python,graphite-project,2021-10-14,1,1,"#{""denis.zhdanov@gmail.com""}",278.0,32
+Python,graphite-project,2021-12-09,4,2,"#{""dave.rawks@gmail.com"" ""drawks@craigslist.org""}",282.0,34
+Python,graphite-project,2022-01-06,1,1,"#{""denis.zhdanov@gmail.com""}",283.0,34
+Python,graphite-project,2022-05-22,3,1,"#{""denis.zhdanov@gmail.com""}",286.0,34
+Python,graphite-project,2022-12-21,1,1,"#{""brad@divisionbyzero.net""}",287.0,35
+Python,graphite-project,2022-12-22,6,1,"#{""denis.zhdanov@gmail.com""}",293.0,35

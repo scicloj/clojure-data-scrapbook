@@ -1,0 +1,112 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/davidchua/pymessenger,2016-04-14,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com]",9.0,[{0 9}],0,9,0,0,0,0
+Python,https://github.com/davidchua/pymessenger,2016-04-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[daniel.klein@oracle.com, daniel.klein@oracle.com]",11.0,"[{0 9, ""other"" 2}]",2,9,0,0,0,0
+Python,https://github.com/davidchua/pymessenger,2016-04-24,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com]",19.0,"[{0 17, ""other"" 2}]",2,17,0,0,0,0
+Python,https://github.com/davidchua/pymessenger,2016-04-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zhchua@gmail.com]",20.0,"[{0 18, ""other"" 2}]",2,18,0,0,0,0
+Python,https://github.com/davidchua/pymessenger,2016-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[drice304@gmail.com]",21.0,"[{0 18, ""other"" 2, 4 1}]",2,18,0,0,0,1
+Python,https://github.com/davidchua/pymessenger,2016-04-29,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com]",25.0,"[{0 18, ""other"" 2, 4 1, 1 4}]",2,18,4,0,0,1
+Python,https://github.com/davidchua/pymessenger,2016-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[anomaly.the@gmail.com]",26.0,"[{0 18, ""other"" 3, 4 1, 1 4}]",3,18,4,0,0,1
+Python,https://github.com/davidchua/pymessenger,2016-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[drice304@gmail.com]",27.0,"[{0 18, ""other"" 3, 4 2, 1 4}]",3,18,4,0,0,2
+Python,https://github.com/davidchua/pymessenger,2016-05-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com, zhchua@gmail.com]",31.0,"[{0 22, ""other"" 3, 4 2, 1 4}]",3,22,4,0,0,2
+Python,https://github.com/davidchua/pymessenger,2016-05-26,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[daniel.rice@viasat.com, daniel.rice@viasat.com, drice304@gmail.com, daniel.rice@viasat.com, drice304@gmail.com, daniel.rice@viasat.com]",37.0,"[{0 22, ""other"" 3, 4 4, 1 8}]",3,22,8,0,0,4
+Python,https://github.com/davidchua/pymessenger,2016-06-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com]",41.0,"[{0 22, ""other"" 3, 4 4, 1 12}]",3,22,12,0,0,4
+Python,https://github.com/davidchua/pymessenger,2016-06-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[zhchua@gmail.com, zhchua@gmail.com]",43.0,"[{0 24, ""other"" 3, 4 4, 1 12}]",3,24,12,0,0,4
+Python,https://github.com/davidchua/pymessenger,2016-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zhchua@gmail.com]",44.0,"[{0 25, ""other"" 3, 4 4, 1 12}]",3,25,12,0,0,4
+Python,https://github.com/davidchua/pymessenger,2016-06-29,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com, daniel.rice@viasat.com]",51.0,"[{0 25, ""other"" 3, 4 4, 1 19}]",3,25,19,0,0,4
+Python,https://github.com/davidchua/pymessenger,2016-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[fuk@tuta.io]",52.0,"[{0 25, ""other"" 4, 4 4, 1 19}]",4,25,19,0,0,4
+Python,https://github.com/davidchua/pymessenger,2016-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[drice304@gmail.com]",53.0,"[{0 25, ""other"" 4, 4 5, 1 19}]",4,25,19,0,0,5
+Python,https://github.com/davidchua/pymessenger,2016-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[daniel.rice@viasat.com]",54.0,"[{0 25, ""other"" 4, 4 5, 1 20}]",4,25,20,0,0,5
+Python,https://github.com/davidchua/pymessenger,2016-09-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@charles-william.me, git@charles-william.me]",56.0,"[{0 25, ""other"" 4, 4 5, 1 20, 2 2}]",4,25,20,2,0,5
+Python,https://github.com/davidchua/pymessenger,2016-09-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[drice304@gmail.com, drice304@gmail.com]",58.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 2}]",4,25,20,2,0,7
+Python,https://github.com/davidchua/pymessenger,2016-09-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@charles-william.me, git@charles-william.me]",60.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 4}]",4,25,20,4,0,7
+Python,https://github.com/davidchua/pymessenger,2016-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cretezy@gmail.com]",61.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 4, 3 1}]",4,25,20,4,1,7
+Python,https://github.com/davidchua/pymessenger,2016-09-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[cretezy@gmail.com, cretezy@gmail.com, cretezy@gmail.com]",64.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 4, 3 4}]",4,25,20,4,4,7
+Python,https://github.com/davidchua/pymessenger,2016-09-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[git@charles-william.me, git@charles-william.me, git@charles-william.me, git@charles-william.me, git@charles-william.me]",69.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 9, 3 4}]",4,25,20,9,4,7
+Python,https://github.com/davidchua/pymessenger,2016-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@charles-william.me]",70.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 10, 3 4}]",4,25,20,10,4,7
+Python,https://github.com/davidchua/pymessenger,2016-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@charles-william.me]",71.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 11, 3 4}]",4,25,20,11,4,7
+Python,https://github.com/davidchua/pymessenger,2016-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@charles-william.me]",72.0,"[{0 25, ""other"" 4, 4 7, 1 20, 2 12, 3 4}]",4,25,20,12,4,7
+Python,https://github.com/davidchua/pymessenger,2016-10-23,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[cretezy@gmail.com, git@charles-william.me, git@charles-william.me, cretezy@gmail.com, daaavid.mann@gmail.com]",77.0,"[{0 25, ""other"" 5, 4 7, 1 20, 2 14, 3 6}]",5,25,20,14,6,7
+Python,https://github.com/davidchua/pymessenger,2016-10-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cretezy@gmail.com, cretezy@gmail.com]",79.0,"[{0 25, ""other"" 5, 4 7, 1 20, 2 14, 3 8}]",5,25,20,14,8,7
+Python,https://github.com/davidchua/pymessenger,2016-11-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cretezy@gmail.com, drice304@gmail.com]",81.0,"[{0 25, ""other"" 5, 4 8, 1 20, 2 14, 3 9}]",5,25,20,14,9,8
+Python,https://github.com/davidchua/pymessenger,2016-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jd_caballero@hotmail.com]",82.0,"[{0 25, ""other"" 6, 4 8, 1 20, 2 14, 3 9}]",6,25,20,14,9,8
+Python,https://github.com/davidchua/pymessenger,2016-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cretezy@gmail.com]",83.0,"[{0 25, ""other"" 6, 4 8, 1 20, 2 14, 3 10}]",6,25,20,14,10,8
+Python,https://github.com/davidchua/pymessenger,2017-01-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ben.williams@colorado.edu, ben.williams@colorado.edu]",85.0,"[{0 25, ""other"" 8, 4 8, 1 20, 2 14, 3 10}]",8,25,20,14,10,8
+Python,https://github.com/davidchua/pymessenger,2017-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zhchua@gmail.com]",86.0,"[{0 26, ""other"" 8, 4 8, 1 20, 2 14, 3 10}]",8,26,20,14,10,8
+Python,https://github.com/davidchua/pymessenger,2018-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[charles@cretezy.com]",87.0,"[{0 26, ""other"" 9, 4 8, 1 20, 2 14, 3 10}]",9,26,20,14,10,8
+Python,https://github.com/davidchua/pymessenger,2018-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bansalmohit72@gmail.com]",88.0,"[{0 26, ""other"" 10, 4 8, 1 20, 2 14, 3 10}]",10,26,20,14,10,8
+Python,https://github.com/davidchua/pymessenger,2019-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[princekelvin91@gmail.com]",89.0,"[{0 26, ""other"" 11, 4 8, 1 20, 2 14, 3 10}]",11,26,20,14,10,8
+Python,https://github.com/davidchua/pymessenger,2019-08-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[zhchua@gmail.com, princekelvin91@gmail.com]",91.0,"[{0 27, ""other"" 12, 4 8, 1 20, 2 14, 3 10}]",12,27,20,14,10,8

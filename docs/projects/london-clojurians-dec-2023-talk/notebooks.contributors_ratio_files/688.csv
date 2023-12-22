@@ -1,0 +1,223 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/thunlp/TAADpapers,2019-06-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 1049909407@qq.com]",2.0,[{0 2}],0,2,0,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",3.0,[{0 3}],0,3,0,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-06-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[qifanchao1994@gmail.com, qifanchao1994@gmail.com]",5.0,"[{0 3, 1 2}]",0,3,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-06-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",6.0,"[{0 4, 1 2}]",0,4,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-07-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",7.0,"[{0 5, 1 2}]",0,5,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",8.0,"[{0 6, 1 2}]",0,6,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",9.0,"[{0 7, 1 2}]",0,7,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-09-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",10.0,"[{0 8, 1 2}]",0,8,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",11.0,"[{0 9, 1 2}]",0,9,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2019-12-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 1049909407@qq.com]",13.0,"[{0 11, 1 2}]",0,11,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2020-01-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",14.0,"[{0 12, 1 2}]",0,12,2,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2020-02-15,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[qifanchao1994@gmail.com, qifanchao1994@gmail.com, qifanchao1994@gmail.com, qifanchao1994@gmail.com, qifanchao1994@gmail.com, qifanchao1994@gmail.com, qifanchao1994@gmail.com]",21.0,"[{0 12, 1 9}]",0,12,9,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2020-02-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[wangjksjtu@gmail.com, 1049909407@qq.com, wangjksjtu@gmail.com]",24.0,"[{0 13, 1 9, ""other"" 2}]",2,13,9,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2020-02-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[qifanchao1994@gmail.com, qifanchao1994@gmail.com, qifanchao1994@gmail.com, qifanchao1994@gmail.com]",28.0,"[{0 13, 1 13, ""other"" 2}]",2,13,13,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2020-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",29.0,"[{0 13, 1 14, ""other"" 2}]",2,13,14,0,0,0
+Python,https://github.com/thunlp/TAADpapers,2020-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jindi15@mit.edu]",30.0,"[{0 13, 1 14, ""other"" 2, 3 1}]",2,13,14,0,1,0
+Python,https://github.com/thunlp/TAADpapers,2020-04-09,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[1049909407@qq.com, 1049909407@qq.com, 1049909407@qq.com, 1049909407@qq.com, 1049909407@qq.com]",35.0,"[{0 18, 1 14, ""other"" 2, 3 1}]",2,18,14,0,1,0
+Python,https://github.com/thunlp/TAADpapers,2020-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",36.0,"[{0 18, 1 15, ""other"" 2, 3 1}]",2,18,15,0,1,0
+Python,https://github.com/thunlp/TAADpapers,2020-05-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[qifanchao1994@gmail.com, qifanchao1994@gmail.com]",38.0,"[{0 18, 1 17, ""other"" 2, 3 1}]",2,18,17,0,1,0
+Python,https://github.com/thunlp/TAADpapers,2020-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",39.0,"[{0 19, 1 17, ""other"" 2, 3 1}]",2,19,17,0,1,0
+Python,https://github.com/thunlp/TAADpapers,2020-06-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jindi15@mit.edu, jindi15@mit.edu]",41.0,"[{0 19, 1 17, ""other"" 2, 3 3}]",2,19,17,0,3,0
+Python,https://github.com/thunlp/TAADpapers,2020-06-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[1049909407@qq.com, qifanchao1994@gmail.com, 1049909407@qq.com, 1049909407@qq.com]",45.0,"[{0 22, 1 18, ""other"" 2, 3 3}]",2,22,18,0,3,0
+Python,https://github.com/thunlp/TAADpapers,2020-06-12,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[1049909407@qq.com, 1049909407@qq.com, 1049909407@qq.com, 1049909407@qq.com, jindi15@mit.edu]",50.0,"[{0 26, 1 18, ""other"" 2, 3 4}]",2,26,18,0,4,0
+Python,https://github.com/thunlp/TAADpapers,2020-06-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[1049909407@qq.com, 1049909407@qq.com, jindi15@mit.edu]",53.0,"[{0 28, 1 18, ""other"" 2, 3 5}]",2,28,18,0,5,0
+Python,https://github.com/thunlp/TAADpapers,2020-07-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jindi15@mit.edu, jindi15@mit.edu, jindi15@mit.edu, jindi15@mit.edu]",57.0,"[{0 28, 1 18, ""other"" 2, 3 9}]",2,28,18,0,9,0
+Python,https://github.com/thunlp/TAADpapers,2020-07-07,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[1049909407@qq.com, 1049909407@qq.com, jindi15@mit.edu, jindi15@mit.edu]",61.0,"[{0 30, 1 18, ""other"" 2, 3 11}]",2,30,18,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-07-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 1049909407@qq.com]",63.0,"[{0 32, 1 18, ""other"" 2, 3 11}]",2,32,18,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-07-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",64.0,"[{0 32, 1 19, ""other"" 2, 3 11}]",2,32,19,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",65.0,"[{0 32, 1 20, ""other"" 2, 3 11}]",2,32,20,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-07-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[qifanchao1994@gmail.com, qifanchao1994@gmail.com]",67.0,"[{0 32, 1 22, ""other"" 2, 3 11}]",2,32,22,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-08-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",68.0,"[{0 32, 1 23, ""other"" 2, 3 11}]",2,32,23,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-11-05,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[1049909407@qq.com, 1049909407@qq.com, 1049909407@qq.com, boxin.wbx@gmail.com]",72.0,"[{0 35, 1 23, ""other"" 3, 3 11}]",3,35,23,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zhouxingshichn@gmail.com]",73.0,"[{0 35, 1 23, ""other"" 4, 3 11}]",4,35,23,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-11-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[qifanchao1994@gmail.com, qifanchao1994@gmail.com]",75.0,"[{0 35, 1 25, ""other"" 4, 3 11}]",4,35,25,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2020-11-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[thai.le@ist.psu.edu]",76.0,"[{0 35, 1 25, ""other"" 5, 3 11}]",5,35,25,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-02-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 1049909407@qq.com]",78.0,"[{0 37, 1 25, ""other"" 5, 3 11}]",5,37,25,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[boxin.wbx@gmail.com]",79.0,"[{0 37, 1 25, ""other"" 6, 3 11}]",6,37,25,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-03-12,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[1049909407@qq.com, 1049909407@qq.com, qifanchao1994@gmail.com, 22563993+yannikbenz@users.noreply.github.com]",83.0,"[{0 39, 1 26, ""other"" 7, 3 11}]",7,39,26,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",84.0,"[{0 39, 1 27, ""other"" 7, 3 11}]",7,39,27,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",85.0,"[{0 39, 1 28, ""other"" 7, 3 11}]",7,39,28,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-05-07,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[qifanchao1994@gmail.com, qifanchao1994@gmail.com, zangy17@mails.tsinghua.edu.cn]",88.0,"[{0 39, 1 30, ""other"" 8, 3 11}]",8,39,30,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-05-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[lethaiq@users.noreply.github.com, “leqthai.vn@gmail.com”]",90.0,"[{0 39, 1 30, ""other"" 10, 3 11}]",10,39,30,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",91.0,"[{0 39, 1 31, ""other"" 10, 3 11}]",10,39,31,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zangy17@mails.tsinghua.edu.cn]",92.0,"[{0 39, 1 31, ""other"" 11, 3 11}]",11,39,31,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-06-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[qifanchao1994@gmail.com, zhouxingshichn@gmail.com, qifanchao1994@gmail.com]",95.0,"[{0 39, 1 33, ""other"" 12, 3 11}]",12,39,33,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",96.0,"[{0 39, 1 34, ""other"" 12, 3 11}]",12,39,34,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-09-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",97.0,"[{0 39, 1 35, ""other"" 12, 3 11}]",12,39,35,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rf.rishabh@gmail.com]",98.0,"[{0 39, 1 35, ""other"" 13, 3 11}]",13,39,35,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-09-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",99.0,"[{0 39, 1 36, ""other"" 13, 3 11}]",13,39,36,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[KaiWeiChang@users.noreply.github.com]",100.0,"[{0 39, 1 36, ""other"" 14, 3 11}]",14,39,36,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-11-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[1049909407@qq.com, 1049909407@qq.com, qifanchao1994@gmail.com]",103.0,"[{0 41, 1 37, ""other"" 14, 3 11}]",14,41,37,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2021-11-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[qifanchao1994@gmail.com]",104.0,"[{0 41, 1 38, ""other"" 14, 3 11}]",14,41,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[790799494@qq.com]",105.0,"[{0 41, 1 38, ""other"" 15, 3 11}]",15,41,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-03-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leqthai.vn@gmail.com]",106.0,"[{0 41, 1 38, ""other"" 16, 3 11}]",16,41,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[62143620+yunx-z@users.noreply.github.com]",107.0,"[{0 41, 1 38, ""other"" 17, 3 11}]",17,41,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-05-01,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[1049909407@qq.com, 1049909407@qq.com, 1049909407@qq.com]",110.0,"[{0 44, 1 38, ""other"" 17, 3 11}]",17,44,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",111.0,"[{0 45, 1 38, ""other"" 17, 3 11}]",17,45,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[V1aRx9HqzyjbML4uDzFM]",112.0,"[{0 45, 1 38, ""other"" 18, 3 11}]",18,45,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-05-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 1049909407@qq.com]",114.0,"[{0 47, 1 38, ""other"" 18, 3 11}]",18,47,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-05-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",115.0,"[{0 48, 1 38, ""other"" 18, 3 11}]",18,48,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-07-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 44607656+badeok0716@users.noreply.github.com]",117.0,"[{0 49, 1 38, ""other"" 19, 3 11}]",19,49,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-11-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 1049909407@qq.com]",119.0,"[{0 51, 1 38, ""other"" 19, 3 11}]",19,51,38,0,11,0
+Python,https://github.com/thunlp/TAADpapers,2022-11-12,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[chenghao.yang@columbia.edu, YangyiChen6666@gmail.com, YangyiChen6666@gmail.com, chenghao.yang@columbia.edu, chenghao.yang@columbia.edu, dang.nguyen.bkit@gmail.com]",125.0,"[{0 51, 1 38, ""other"" 20, 3 11, 2 3, 4 2}]",20,51,38,3,11,2
+Python,https://github.com/thunlp/TAADpapers,2022-11-13,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[1049909407@qq.com, chenghao.yang@columbia.edu, mozesmaj@gmail.com]",128.0,"[{0 52, 1 38, ""other"" 21, 3 11, 2 4, 4 2}]",21,52,38,4,11,2
+Python,https://github.com/thunlp/TAADpapers,2023-01-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chenghao.yang@columbia.edu]",129.0,"[{0 52, 1 38, ""other"" 21, 3 11, 2 5, 4 2}]",21,52,38,5,11,2
+Python,https://github.com/thunlp/TAADpapers,2023-02-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1049909407@qq.com]",130.0,"[{0 53, 1 38, ""other"" 21, 3 11, 2 5, 4 2}]",21,53,38,5,11,2
+Python,https://github.com/thunlp/TAADpapers,2023-04-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[1049909407@qq.com, 1049909407@qq.com]",132.0,"[{0 55, 1 38, ""other"" 21, 3 11, 2 5, 4 2}]",21,55,38,5,11,2
+Python,https://github.com/thunlp/TAADpapers,2023-05-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[chenghao.yang@columbia.edu, brian.formento@u.nus.edu]",134.0,"[{0 55, 1 38, ""other"" 22, 3 11, 2 6, 4 2}]",22,55,38,6,11,2
+Python,https://github.com/thunlp/TAADpapers,2023-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chenghao.yang@columbia.edu]",135.0,"[{0 55, 1 38, ""other"" 22, 3 11, 2 7, 4 2}]",22,55,38,7,11,2
+Python,https://github.com/thunlp/TAADpapers,2023-07-03,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[chenghao.yang@columbia.edu, YangyiChen6666@gmail.com, YangyiChen6666@gmail.com, YangyiChen6666@gmail.com]",139.0,"[{0 55, 1 38, ""other"" 22, 3 11, 2 8, 4 5}]",22,55,38,8,11,5
+Python,https://github.com/thunlp/TAADpapers,2023-08-01,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[chenghao.yang@columbia.edu, chenghao.yang@columbia.edu, 43662748+rick-lzr@users.noreply.github.com, 43662748+rick-lzr@users.noreply.github.com]",143.0,"[{0 55, 1 38, ""other"" 24, 3 11, 2 10, 4 5}]",24,55,38,10,11,5
+Python,https://github.com/thunlp/TAADpapers,2023-08-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[36688078+bangawayoo@users.noreply.github.com, 36688078+bangawayoo@users.noreply.github.com]",145.0,"[{0 55, 1 38, ""other"" 26, 3 11, 2 10, 4 5}]",26,55,38,10,11,5
+Python,https://github.com/thunlp/TAADpapers,2023-08-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[chenghao.yang@columbia.edu]",146.0,"[{0 55, 1 38, ""other"" 26, 3 11, 2 11, 4 5}]",26,55,38,11,11,5
+Python,https://github.com/thunlp/TAADpapers,2023-10-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[chenghao.yang@columbia.edu, david.herel@seznam.cz, david.herel@seznam.cz]",149.0,"[{0 55, 1 38, ""other"" 28, 3 11, 2 12, 4 5}]",28,55,38,12,11,5

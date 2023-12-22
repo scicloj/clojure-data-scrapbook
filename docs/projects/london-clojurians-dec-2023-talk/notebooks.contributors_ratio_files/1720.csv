@@ -1,0 +1,184 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/jimpil/duratom,2016-06-11,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-06-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",15.0,[{0 15}],0,15,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-06-14,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",20.0,[{0 20}],0,20,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-06-15,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",34.0,[{0 34}],0,34,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-06-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",37.0,[{0 37}],0,37,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-06-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",38.0,[{0 38}],0,38,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-06-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",39.0,[{0 39}],0,39,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-07-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",41.0,[{0 41}],0,41,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-08-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",43.0,[{0 43}],0,43,0,0,0,0
+Clojure,https://github.com/jimpil/duratom,2016-08-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[igosuki@gmail.com]",44.0,"[{0 43, 4 1}]",0,43,0,0,0,1
+Clojure,https://github.com/jimpil/duratom,2016-08-29,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dimitrios.piliouras@aviso.io, dimitrios.piliouras@aviso.io, igosuki@gmail.com]",47.0,"[{0 43, 4 2, 2 2}]",0,43,0,2,0,2
+Clojure,https://github.com/jimpil/duratom,2016-09-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",48.0,"[{0 44, 4 2, 2 2}]",0,44,0,2,0,2
+Clojure,https://github.com/jimpil/duratom,2017-04-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[asaintcr@cisco.com]",49.0,"[{0 44, 4 2, 2 2, ""other"" 1}]",1,44,0,2,0,2
+Clojure,https://github.com/jimpil/duratom,2017-04-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dimitrios.piliouras@aviso.io]",50.0,"[{0 44, 4 2, 2 3, ""other"" 1}]",1,44,0,3,0,2
+Clojure,https://github.com/jimpil/duratom,2017-09-27,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, dimitrios.piliouras@aviso.io]",54.0,"[{0 47, 4 2, 2 4, ""other"" 1}]",1,47,0,4,0,2
+Clojure,https://github.com/jimpil/duratom,2017-09-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",59.0,"[{0 52, 4 2, 2 4, ""other"" 1}]",1,52,0,4,0,2
+Clojure,https://github.com/jimpil/duratom,2017-12-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",61.0,"[{0 54, 4 2, 2 4, ""other"" 1}]",1,54,0,4,0,2
+Clojure,https://github.com/jimpil/duratom,2017-12-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",62.0,"[{0 55, 4 2, 2 4, ""other"" 1}]",1,55,0,4,0,2
+Clojure,https://github.com/jimpil/duratom,2017-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",64.0,"[{0 57, 4 2, 2 4, ""other"" 1}]",1,57,0,4,0,2
+Clojure,https://github.com/jimpil/duratom,2018-02-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dimitrios.piliouras@aviso.io]",65.0,"[{0 57, 4 2, 2 5, ""other"" 1}]",1,57,0,5,0,2
+Clojure,https://github.com/jimpil/duratom,2018-02-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",67.0,"[{0 59, 4 2, 2 5, ""other"" 1}]",1,59,0,5,0,2
+Clojure,https://github.com/jimpil/duratom,2018-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",68.0,"[{0 60, 4 2, 2 5, ""other"" 1}]",1,60,0,5,0,2
+Clojure,https://github.com/jimpil/duratom,2018-04-11,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jimpil1985@gmail.com, dimitrios.piliouras@aviso.io, dimitrios.piliouras@aviso.io, dimitrios.piliouras@aviso.io]",72.0,"[{0 61, 4 2, 2 8, ""other"" 1}]",1,61,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2018-04-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",73.0,"[{0 62, 4 2, 2 8, ""other"" 1}]",1,62,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2018-04-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",75.0,"[{0 64, 4 2, 2 8, ""other"" 1}]",1,64,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2018-04-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",76.0,"[{0 65, 4 2, 2 8, ""other"" 1}]",1,65,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-03-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",81.0,"[{0 70, 4 2, 2 8, ""other"" 1}]",1,70,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-03-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",83.0,"[{0 72, 4 2, 2 8, ""other"" 1}]",1,72,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-03-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",87.0,"[{0 76, 4 2, 2 8, ""other"" 1}]",1,76,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",88.0,"[{0 77, 4 2, 2 8, ""other"" 1}]",1,77,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-04-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",90.0,"[{0 79, 4 2, 2 8, ""other"" 1}]",1,79,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-04-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",93.0,"[{0 82, 4 2, 2 8, ""other"" 1}]",1,82,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-06-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",96.0,"[{0 85, 4 2, 2 8, ""other"" 1}]",1,85,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-09-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",97.0,"[{0 86, 4 2, 2 8, ""other"" 1}]",1,86,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",98.0,"[{0 87, 4 2, 2 8, ""other"" 1}]",1,87,0,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-09-26,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[markus.hjort@gmail.com, jimpil1985@gmail.com]",100.0,"[{0 88, 4 2, 2 8, ""other"" 1, 1 1}]",1,88,1,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-09-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[markus.hjort@gmail.com, markus.hjort@gmail.com, markus.hjort@gmail.com]",103.0,"[{0 88, 4 2, 2 8, ""other"" 1, 1 4}]",1,88,4,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-09-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[markus.hjort@gmail.com, markus.hjort@gmail.com]",105.0,"[{0 88, 4 2, 2 8, ""other"" 1, 1 6}]",1,88,6,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-10-01,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, markus.hjort@gmail.com, markus.hjort@gmail.com]",112.0,"[{0 93, 4 2, 2 8, ""other"" 1, 1 8}]",1,93,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",113.0,"[{0 94, 4 2, 2 8, ""other"" 1, 1 8}]",1,94,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-10-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",115.0,"[{0 96, 4 2, 2 8, ""other"" 1, 1 8}]",1,96,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-10-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",118.0,"[{0 99, 4 2, 2 8, ""other"" 1, 1 8}]",1,99,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-10-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",121.0,"[{0 102, 4 2, 2 8, ""other"" 1, 1 8}]",1,102,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-10-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",125.0,"[{0 106, 4 2, 2 8, ""other"" 1, 1 8}]",1,106,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-10-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",128.0,"[{0 109, 4 2, 2 8, ""other"" 1, 1 8}]",1,109,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-11-01,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",139.0,"[{0 120, 4 2, 2 8, ""other"" 1, 1 8}]",1,120,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jimpil1985@gmail.com]",140.0,"[{0 121, 4 2, 2 8, ""other"" 1, 1 8}]",1,121,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-12-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",143.0,"[{0 124, 4 2, 2 8, ""other"" 1, 1 8}]",1,124,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2019-12-03,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",150.0,"[{0 131, 4 2, 2 8, ""other"" 1, 1 8}]",1,131,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2020-01-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, kap4020@gmail.com]",152.0,"[{0 132, 4 2, 2 8, ""other"" 2, 1 8}]",2,132,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2020-04-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com]",154.0,"[{0 134, 4 2, 2 8, ""other"" 2, 1 8}]",2,134,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2020-04-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",157.0,"[{0 137, 4 2, 2 8, ""other"" 2, 1 8}]",2,137,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2020-11-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",160.0,"[{0 140, 4 2, 2 8, ""other"" 2, 1 8}]",2,140,8,8,0,2
+Clojure,https://github.com/jimpil/duratom,2022-05-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[c.westrom@westrom.xyz, c.westrom@westrom.xyz, jimpil1985@gmail.com, jimpil1985@gmail.com]",164.0,"[{0 142, 4 2, 2 8, ""other"" 2, 1 8, 3 2}]",2,142,8,8,2,2
+Clojure,https://github.com/jimpil/duratom,2022-05-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[c.westrom@westrom.xyz, c.westrom@westrom.xyz, c.westrom@westrom.xyz]",167.0,"[{0 142, 4 2, 2 8, ""other"" 2, 1 8, 3 5}]",2,142,8,8,5,2
+Clojure,https://github.com/jimpil/duratom,2022-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[c.westrom@westrom.xyz]",168.0,"[{0 142, 4 2, 2 8, ""other"" 2, 1 8, 3 6}]",2,142,8,8,6,2
+Clojure,https://github.com/jimpil/duratom,2022-05-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",172.0,"[{0 146, 4 2, 2 8, ""other"" 2, 1 8, 3 6}]",2,146,8,8,6,2
+Clojure,https://github.com/jimpil/duratom,2023-04-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",175.0,"[{0 149, 4 2, 2 8, ""other"" 2, 1 8, 3 6}]",2,149,8,8,6,2
+Clojure,https://github.com/jimpil/duratom,2023-04-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",178.0,"[{0 152, 4 2, 2 8, ""other"" 2, 1 8, 3 6}]",2,152,8,8,6,2
+Clojure,https://github.com/jimpil/duratom,2023-04-09,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",181.0,"[{0 155, 4 2, 2 8, ""other"" 2, 1 8, 3 6}]",2,155,8,8,6,2
+Clojure,https://github.com/jimpil/duratom,2023-04-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jimpil1985@gmail.com, jimpil1985@gmail.com, jimpil1985@gmail.com]",184.0,"[{0 158, 4 2, 2 8, ""other"" 2, 1 8, 3 6}]",2,158,8,8,6,2

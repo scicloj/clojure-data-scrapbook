@@ -1,0 +1,61 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/dakrone/itsy,2012-05-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-05-19,17,1,"#tech.v3.dataset.column<string>[17]
+:email
+[lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org]",21.0,[{0 21}],0,21,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-05-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[lee@writequit.org, lee@writequit.org, lee@writequit.org]",24.0,[{0 24}],0,24,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-05-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",25.0,[{0 25}],0,25,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-05-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",26.0,[{0 26}],0,26,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-05-31,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org]",41.0,[{0 41}],0,41,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-06-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",42.0,[{0 42}],0,42,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-08-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[lee@writequit.org, lee@writequit.org, lee@writequit.org, lee@writequit.org]",46.0,[{0 46}],0,46,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2012-11-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",47.0,[{0 47}],0,47,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2013-03-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",48.0,[{0 48}],0,48,0,0,0,0
+Clojure,https://github.com/dakrone/itsy,2013-06-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[maildumpert@gmail.com, maildumpert@gmail.com, maildumpert@gmail.com]",51.0,"[{0 48, 2 3}]",0,48,0,3,0,0
+Clojure,https://github.com/dakrone/itsy,2013-06-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lee@writequit.org, lee@writequit.org]",53.0,"[{0 50, 2 3}]",0,50,0,3,0,0
+Clojure,https://github.com/dakrone/itsy,2013-10-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[shriphanip@gmail.com, shriphanip@gmail.com, shriphanip@gmail.com]",56.0,"[{0 50, 2 3, 1 3}]",0,50,3,3,0,0
+Clojure,https://github.com/dakrone/itsy,2013-10-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[lee@writequit.org, lee@writequit.org]",58.0,"[{0 52, 2 3, 1 3}]",0,52,3,3,0,0
+Clojure,https://github.com/dakrone/itsy,2013-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[terje@ceteo.no]",59.0,"[{0 52, 2 3, 1 3, 4 1}]",0,52,3,3,0,1
+Clojure,https://github.com/dakrone/itsy,2013-11-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",60.0,"[{0 53, 2 3, 1 3, 4 1}]",0,53,3,3,0,1
+Clojure,https://github.com/dakrone/itsy,2014-02-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",61.0,"[{0 54, 2 3, 1 3, 4 1}]",0,54,3,3,0,1
+Clojure,https://github.com/dakrone/itsy,2014-07-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bensima@gmail.com, bensima@gmail.com]",63.0,"[{0 54, 2 3, 1 3, 4 1, 3 2}]",0,54,3,3,2,1
+Clojure,https://github.com/dakrone/itsy,2014-07-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[lee@writequit.org, lee@writequit.org, lee@writequit.org]",66.0,"[{0 57, 2 3, 1 3, 4 1, 3 2}]",0,57,3,3,2,1
+Clojure,https://github.com/dakrone/itsy,2015-06-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lee@writequit.org]",67.0,"[{0 58, 2 3, 1 3, 4 1, 3 2}]",0,58,3,3,2,1

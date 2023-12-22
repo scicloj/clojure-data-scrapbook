@@ -1,0 +1,508 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/yogthos/migratus,2011-12-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[paul@stadig.name, paul@stadig.name]",2.0,[{1 2}],0,0,2,0,0,0
+Clojure,https://github.com/yogthos/migratus,2011-12-06,19,1,"#tech.v3.dataset.column<string>[19]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name]",21.0,[{1 21}],0,0,21,0,0,0
+Clojure,https://github.com/yogthos/migratus,2011-12-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name]",24.0,[{1 24}],0,0,24,0,0,0
+Clojure,https://github.com/yogthos/migratus,2011-12-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name]",27.0,[{1 27}],0,0,27,0,0,0
+Clojure,https://github.com/yogthos/migratus,2011-12-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@stadig.name]",28.0,[{1 28}],0,0,28,0,0,0
+Clojure,https://github.com/yogthos/migratus,2011-12-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@stadig.name]",29.0,[{1 29}],0,0,29,0,0,0
+Clojure,https://github.com/yogthos/migratus,2012-04-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[paul@stadig.name, carl.hoerberg@gmail.com]",31.0,"[{1 30, ""other"" 1}]",1,0,30,0,0,0
+Clojure,https://github.com/yogthos/migratus,2012-08-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@stadig.name]",32.0,"[{1 31, ""other"" 1}]",1,0,31,0,0,0
+Clojure,https://github.com/yogthos/migratus,2012-09-01,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name]",38.0,"[{1 37, ""other"" 1}]",1,0,37,0,0,0
+Clojure,https://github.com/yogthos/migratus,2012-09-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name]",41.0,"[{1 40, ""other"" 1}]",1,0,40,0,0,0
+Clojure,https://github.com/yogthos/migratus,2012-11-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[paul@stadig.name, paul@stadig.name]",43.0,"[{1 42, ""other"" 1}]",1,0,42,0,0,0
+Clojure,https://github.com/yogthos/migratus,2012-12-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name]",46.0,"[{1 45, ""other"" 1}]",1,0,45,0,0,0
+Clojure,https://github.com/yogthos/migratus,2012-12-27,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name]",51.0,"[{1 50, ""other"" 1}]",1,0,50,0,0,0
+Clojure,https://github.com/yogthos/migratus,2013-03-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[paul@stadig.name, paul@stadig.name]",53.0,"[{1 52, ""other"" 1}]",1,0,52,0,0,0
+Clojure,https://github.com/yogthos/migratus,2013-12-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dan.lidral-porter@puppetlabs.com]",54.0,"[{1 52, ""other"" 2}]",2,0,52,0,0,0
+Clojure,https://github.com/yogthos/migratus,2014-01-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[paul@stadig.name, paul@stadig.name, paul@stadig.name, paul@stadig.name]",58.0,"[{1 56, ""other"" 2}]",2,0,56,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-06-27,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",68.0,"[{1 56, ""other"" 2, 0 10}]",2,10,56,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-06-28,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",79.0,"[{1 56, ""other"" 2, 0 21}]",2,21,56,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-06-29,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[dmitri.sotnikov@gmail.com, paul@stadig.name, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",87.0,"[{1 57, ""other"" 2, 0 28}]",2,28,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-06-30,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",95.0,"[{1 57, ""other"" 2, 0 36}]",2,36,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-07-01,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, pupeno@pupeno.com, pupeno@pupeno.com, pupeno@pupeno.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, pupeno@pupeno.com]",105.0,"[{1 57, ""other"" 6, 0 42}]",6,42,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-07-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",107.0,"[{1 57, ""other"" 6, 0 44}]",6,44,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sagarjauhari@users.noreply.github.com]",108.0,"[{1 57, ""other"" 7, 0 44}]",7,44,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-08-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",109.0,"[{1 57, ""other"" 7, 0 45}]",7,45,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",110.0,"[{1 57, ""other"" 7, 0 46}]",7,46,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-09-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",111.0,"[{1 57, ""other"" 7, 0 47}]",7,47,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-09-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, travis.hoppe+orthographicpendant@gmail.com]",113.0,"[{1 57, ""other"" 8, 0 48}]",8,48,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-10-01,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, oahner84@gmail.com]",116.0,"[{1 57, ""other"" 9, 0 50}]",9,50,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",117.0,"[{1 57, ""other"" 9, 0 51}]",9,51,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",118.0,"[{1 57, ""other"" 9, 0 52}]",9,52,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-11-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken@restivo.org]",119.0,"[{1 57, ""other"" 10, 0 52}]",10,52,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-11-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",120.0,"[{1 57, ""other"" 10, 0 53}]",10,53,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-11-28,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, jdbjunior@gmail.com, dmitri.sotnikov@gmail.com, jdbjunior@gmail.com, jdbjunior@gmail.com, jdbjunior@gmail.com]",127.0,"[{1 57, ""other"" 14, 0 56}]",14,56,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-12-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",128.0,"[{1 57, ""other"" 14, 0 57}]",14,57,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2015-12-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",130.0,"[{1 57, ""other"" 14, 0 59}]",14,59,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-01-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, jfifield@programmerplanet.org]",132.0,"[{1 57, ""other"" 15, 0 60}]",15,60,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-02-21,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[dmitri.sotnikov@gmail.com, me@gum.pt, dmitri.sotnikov@gmail.com, me@gum.pt, me@gum.pt]",137.0,"[{1 57, ""other"" 18, 0 62}]",18,62,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-02-23,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dmitri.sotnikov@gmail.com, maxim@ontoillogical.com, dmitri.sotnikov@gmail.com, maxim@ontoillogical.com]",141.0,"[{1 57, ""other"" 20, 0 64}]",20,64,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-02-24,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, me@gum.pt, me@gum.pt, dmitri.sotnikov@gmail.com]",146.0,"[{1 57, ""other"" 22, 0 67}]",22,67,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",147.0,"[{1 57, ""other"" 22, 0 68}]",22,68,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",148.0,"[{1 57, ""other"" 22, 0 69}]",22,69,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-04-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",149.0,"[{1 57, ""other"" 22, 0 70}]",22,70,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dan.lidral-porter@puppetlabs.com]",152.0,"[{1 57, ""other"" 23, 0 72}]",23,72,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",154.0,"[{1 57, ""other"" 23, 0 74}]",23,74,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",155.0,"[{1 57, ""other"" 23, 0 75}]",23,75,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",156.0,"[{1 57, ""other"" 23, 0 76}]",23,76,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",159.0,"[{1 57, ""other"" 23, 0 79}]",23,79,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",161.0,"[{1 57, ""other"" 23, 0 81}]",23,81,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[russell.mull@puppetlabs.com, russell.mull@puppetlabs.com]",163.0,"[{1 57, ""other"" 25, 0 81}]",25,81,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",165.0,"[{1 57, ""other"" 25, 0 83}]",25,83,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",169.0,"[{1 57, ""other"" 25, 0 87}]",25,87,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-05-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, edipofederle@gmail.com]",171.0,"[{1 57, ""other"" 26, 0 88}]",26,88,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-06-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",173.0,"[{1 57, ""other"" 26, 0 90}]",26,90,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-06-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, andreluisanastacio@gmail.com]",177.0,"[{1 57, ""other"" 27, 0 93}]",27,93,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-06-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",178.0,"[{1 57, ""other"" 27, 0 94}]",27,94,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[piotrek@bzdyl.net]",179.0,"[{1 57, ""other"" 28, 0 94}]",28,94,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-06-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",180.0,"[{1 57, ""other"" 28, 0 95}]",28,95,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-06-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",182.0,"[{1 57, ""other"" 28, 0 97}]",28,97,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-07-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[russell@digitalartificer.com]",183.0,"[{1 57, ""other"" 29, 0 97}]",29,97,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-07-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",184.0,"[{1 57, ""other"" 29, 0 98}]",29,98,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",185.0,"[{1 57, ""other"" 29, 0 99}]",29,99,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-07-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",186.0,"[{1 57, ""other"" 29, 0 100}]",29,100,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",187.0,"[{1 57, ""other"" 29, 0 101}]",29,101,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-07-29,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",193.0,"[{1 57, ""other"" 29, 0 107}]",29,107,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",194.0,"[{1 57, ""other"" 29, 0 108}]",29,108,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-08-25,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, ajroetker@gmail.com]",197.0,"[{1 57, ""other"" 30, 0 110}]",30,110,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-08-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",198.0,"[{1 57, ""other"" 30, 0 111}]",30,111,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-09-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ajroetker@gmail.com]",199.0,"[{1 57, ""other"" 31, 0 111}]",31,111,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-09-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, sam@samroberton.com]",202.0,"[{1 57, ""other"" 32, 0 113}]",32,113,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-09-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, sam@samroberton.com]",204.0,"[{1 57, ""other"" 33, 0 114}]",33,114,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2016-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[orendon@gmail.com]",205.0,"[{1 57, ""other"" 34, 0 114}]",34,114,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-02-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lsnape@users.noreply.github.com]",206.0,"[{1 57, ""other"" 35, 0 114}]",35,114,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-03-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, oubiwann@gmail.com]",208.0,"[{1 57, ""other"" 36, 0 115}]",36,115,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken.restivo@stem.com]",209.0,"[{1 57, ""other"" 37, 0 115}]",37,115,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-03-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, alexhall@users.noreply.github.com]",211.0,"[{1 57, ""other"" 38, 0 116}]",38,116,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-04-27,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, tokenshift@users.noreply.github.com]",213.0,"[{1 57, ""other"" 39, 0 117}]",39,117,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-05-02,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, ken.restivo@stem.com]",215.0,"[{1 57, ""other"" 40, 0 118}]",40,118,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-05-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",218.0,"[{1 57, ""other"" 40, 0 121}]",40,121,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken.restivo@stem.com]",219.0,"[{1 57, ""other"" 41, 0 121}]",41,121,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-05-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, ken.restivo@stem.com]",222.0,"[{1 57, ""other"" 42, 0 123}]",42,123,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-05-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, ken.restivo@stem.com]",224.0,"[{1 57, ""other"" 43, 0 124}]",43,124,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-06-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",226.0,"[{1 57, ""other"" 43, 0 126}]",43,126,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-07-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ken.restivo@stem.com]",227.0,"[{1 57, ""other"" 44, 0 126}]",44,126,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",228.0,"[{1 57, ""other"" 44, 0 127}]",44,127,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-08-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, juhani.hietikko@gmail.com]",230.0,"[{1 57, ""other"" 45, 0 128}]",45,128,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-08-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",231.0,"[{1 57, ""other"" 45, 0 129}]",45,129,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-09-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[connor.r.clark@gmail.com, dmitri.sotnikov@gmail.com]",233.0,"[{1 57, ""other"" 46, 0 130}]",46,130,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[namratachaudhary@users.noreply.github.com]",234.0,"[{1 57, ""other"" 47, 0 130}]",47,130,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-11-17,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dmitri.sotnikov@gmail.com, greg@greg-look.net, dmitri.sotnikov@gmail.com, greg@greg-look.net]",238.0,"[{1 57, ""other"" 49, 0 132}]",49,132,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-12-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, kingpong@users.noreply.github.com]",240.0,"[{1 57, ""other"" 50, 0 133}]",50,133,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-12-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",242.0,"[{1 57, ""other"" 50, 0 135}]",50,135,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2017-12-24,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",245.0,"[{1 57, ""other"" 50, 0 138}]",50,138,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-01-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",247.0,"[{1 57, ""other"" 50, 0 140}]",50,140,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-01-31,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, scgilardi+github@gmail.com, dmitri.sotnikov@gmail.com]",250.0,"[{1 57, ""other"" 51, 0 142}]",51,142,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-07-08,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, leblowl@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, 39578509+brokebroke@users.noreply.github.com]",256.0,"[{1 57, ""other"" 53, 0 146}]",53,146,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-07-17,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[jonathan.newman@puppetlabs.com, dmitri.sotnikov@uhn.ca, jonathan.newman@puppetlabs.com]",259.0,"[{1 57, ""other"" 56, 0 146}]",56,146,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-08-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, manuelherzog@users.noreply.github.com]",261.0,"[{1 57, ""other"" 57, 0 147}]",57,147,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-08-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agilecreativity@users.noreply.github.com]",262.0,"[{1 57, ""other"" 58, 0 147}]",58,147,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dijonkitchen@users.noreply.github.com]",263.0,"[{1 57, ""other"" 59, 0 147}]",59,147,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-09-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",266.0,"[{1 57, ""other"" 59, 0 150}]",59,150,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-10-01,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, snoe@snoe.ca, snoe@snoe.ca, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",272.0,"[{1 57, ""other"" 61, 0 154}]",61,154,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-10-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, fl00r@yandex.ru]",274.0,"[{1 57, ""other"" 62, 0 155}]",62,155,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-10-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",276.0,"[{1 57, ""other"" 62, 0 157}]",62,157,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-10-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, 42980641+slowcod@users.noreply.github.com]",279.0,"[{1 57, ""other"" 63, 0 159}]",63,159,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-10-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",282.0,"[{1 57, ""other"" 63, 0 162}]",63,162,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-11-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",284.0,"[{1 57, ""other"" 63, 0 164}]",63,164,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-11-15,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@uhn.ca, 42980641+slowcod@users.noreply.github.com]",287.0,"[{1 57, ""other"" 65, 0 165}]",65,165,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",288.0,"[{1 57, ""other"" 65, 0 166}]",65,166,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2018-12-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",290.0,"[{1 57, ""other"" 65, 0 168}]",65,168,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-02-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",292.0,"[{1 57, ""other"" 65, 0 170}]",65,170,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-02-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kamil.toman@gmail.com]",293.0,"[{1 57, ""other"" 66, 0 170}]",66,170,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-02-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[kamil.toman@gmail.com, kamil.toman@gmail.com]",295.0,"[{1 57, ""other"" 68, 0 170}]",68,170,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-03-25,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, lassi.immonen@metosin.fi]",298.0,"[{1 57, ""other"" 69, 0 172}]",69,172,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-05-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",299.0,"[{1 57, ""other"" 69, 0 173}]",69,173,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-06-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[35302948+codetriage-readme-bot@users.noreply.github.com]",300.0,"[{1 57, ""other"" 70, 0 173}]",70,173,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",301.0,"[{1 57, ""other"" 70, 0 174}]",70,174,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-07-19,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, snorremd@gmail.com]",304.0,"[{1 57, ""other"" 71, 0 176}]",71,176,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",305.0,"[{1 57, ""other"" 71, 0 177}]",71,177,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-09-09,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, 45389186+mikeananev@users.noreply.github.com]",309.0,"[{1 57, ""other"" 72, 0 180}]",72,180,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-10-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",311.0,"[{1 57, ""other"" 72, 0 182}]",72,182,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2019-10-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[haiyuan.vinurs@gmail.com]",312.0,"[{1 57, ""other"" 73, 0 182}]",73,182,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-03-15,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[319058+apa512@users.noreply.github.com, dmitri.sotnikov@gmail.com]",314.0,"[{1 57, ""other"" 74, 0 183}]",74,183,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-04-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[acobster@users.noreply.github.com]",315.0,"[{1 57, ""other"" 75, 0 183}]",75,183,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-05-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",316.0,"[{1 57, ""other"" 75, 0 184}]",75,184,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-09-02,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[dmitri.sotnikov@gmail.com, snoe@snoe.ca, dmitri.sotnikov@gmail.com, brian@maven-group.org]",320.0,"[{1 57, ""other"" 77, 0 186}]",77,186,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[benjamin.gramlich@gmail.com]",321.0,"[{1 57, ""other"" 78, 0 186}]",78,186,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-10-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, 687237+whenceforth@users.noreply.github.com]",323.0,"[{1 57, ""other"" 79, 0 187}]",79,187,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-10-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, 687237+whenceforth@users.noreply.github.com]",325.0,"[{1 57, ""other"" 80, 0 188}]",80,188,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[julien.bille@gmail.com]",326.0,"[{1 57, ""other"" 81, 0 188}]",81,188,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-11-11,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, lvspais2@gmail.com]",328.0,"[{1 57, ""other"" 82, 0 189}]",82,189,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2020-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[rune.brinckmeyer@gmail.com]",329.0,"[{1 57, ""other"" 83, 0 189}]",83,189,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2021-01-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",332.0,"[{1 57, ""other"" 83, 0 192}]",83,192,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2021-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",333.0,"[{1 57, ""other"" 83, 0 193}]",83,193,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2021-02-16,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, vincentjames501@gmail.com]",336.0,"[{1 57, ""other"" 84, 0 195}]",84,195,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2021-03-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[gmichokostas@users.noreply.github.com]",337.0,"[{1 57, ""other"" 85, 0 195}]",85,195,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2021-10-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[brett.rowberry@gmail.com]",338.0,"[{1 57, ""other"" 86, 0 195}]",86,195,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2022-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paul@paulbutcher.com]",339.0,"[{1 57, ""other"" 87, 0 195}]",87,195,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2022-02-08,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, 89755292+freshhops@users.noreply.github.com]",341.0,"[{1 57, ""other"" 88, 0 196}]",88,196,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2022-06-19,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dan.pomohaci@gmail.com]",343.0,"[{1 57, ""other"" 89, 0 197}]",89,197,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2022-06-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eugen@ieugen.ro]",344.0,"[{1 57, ""other"" 90, 0 197}]",90,197,57,0,0,0
+Clojure,https://github.com/yogthos/migratus,2022-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eugen.stan@netdava.com]",345.0,"[{1 57, ""other"" 90, 0 197, 3 1}]",90,197,57,0,1,0
+Clojure,https://github.com/yogthos/migratus,2022-07-19,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[eugen.stan@netdava.com, eugen.stan@netdava.com, eugen.stan@netdava.com, dmitri.sotnikov@gmail.com, eugen.stan@netdava.com]",350.0,"[{1 57, ""other"" 90, 0 198, 3 5}]",90,198,57,0,5,0
+Clojure,https://github.com/yogthos/migratus,2022-07-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eugen.stan@netdava.com]",351.0,"[{1 57, ""other"" 90, 0 198, 3 6}]",90,198,57,0,6,0
+Clojure,https://github.com/yogthos/migratus,2022-07-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[eugen.stan@netdava.com, eugen.stan@netdava.com]",353.0,"[{1 57, ""other"" 90, 0 198, 3 8}]",90,198,57,0,8,0
+Clojure,https://github.com/yogthos/migratus,2022-07-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[eugen.stan@netdava.com, eugen.stan@netdava.com]",355.0,"[{1 57, ""other"" 90, 0 198, 3 10}]",90,198,57,0,10,0
+Clojure,https://github.com/yogthos/migratus,2022-07-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, 107285219+pinkfrog9@users.noreply.github.com]",357.0,"[{1 57, ""other"" 91, 0 199, 3 10}]",91,199,57,0,10,0
+Clojure,https://github.com/yogthos/migratus,2022-07-31,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[eugen.stan@netdava.com, eugen.stan@netdava.com, dmitri.sotnikov@gmail.com, eugen.stan@netdava.com, dmitri.sotnikov@gmail.com, eugen.stan@netdava.com, eugen.stan@netdava.com]",364.0,"[{1 57, ""other"" 91, 0 201, 3 15}]",91,201,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2022-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",365.0,"[{1 57, ""other"" 91, 0 202, 3 15}]",91,202,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2022-08-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, 6877948+wevre@users.noreply.github.com]",367.0,"[{1 57, ""other"" 92, 0 203, 3 15}]",92,203,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2022-08-31,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, dpassen1@gmail.com]",369.0,"[{1 57, ""other"" 93, 0 204, 3 15}]",93,204,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2022-10-28,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, noah.bogart@hey.com]",371.0,"[{1 57, ""other"" 94, 0 205, 3 15}]",94,205,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2022-12-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",372.0,"[{1 57, ""other"" 94, 0 206, 3 15}]",94,206,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2022-12-10,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, p1himik@gmail.com]",375.0,"[{1 57, ""other"" 95, 0 208, 3 15}]",95,208,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2023-01-03,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, sagar.vrajalal@unifize.com, sagar7666@gmail.com]",379.0,"[{1 57, ""other"" 97, 0 210, 3 15}]",97,210,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2023-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",380.0,"[{1 57, ""other"" 97, 0 211, 3 15}]",97,211,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2023-01-09,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, svdm@users.noreply.github.com, guo.zhming@gmail.com]",383.0,"[{1 57, ""other"" 99, 0 212, 3 15}]",99,212,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2023-05-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com]",386.0,"[{1 57, ""other"" 99, 0 215, 3 15}]",99,215,57,0,15,0
+Clojure,https://github.com/yogthos/migratus,2023-07-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, 33352772+sandre1@users.noreply.github.com]",388.0,"[{1 57, ""other"" 99, 0 216, 3 15, 4 1}]",99,216,57,0,15,1
+Clojure,https://github.com/yogthos/migratus,2023-07-26,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, 33352772+sandre1@users.noreply.github.com]",390.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 2}]",99,217,57,0,15,2
+Clojure,https://github.com/yogthos/migratus,2023-08-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[33352772+sandre1@users.noreply.github.com, 33352772+sandre1@users.noreply.github.com]",392.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 4}]",99,217,57,0,15,4
+Clojure,https://github.com/yogthos/migratus,2023-08-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[33352772+sandre1@users.noreply.github.com, 33352772+sandre1@users.noreply.github.com]",394.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 6}]",99,217,57,0,15,6
+Clojure,https://github.com/yogthos/migratus,2023-08-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sandre1]",395.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 6, 2 1}]",99,217,57,1,15,6
+Clojure,https://github.com/yogthos/migratus,2023-08-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sandre1, sandre1, sandre1]",398.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 6, 2 4}]",99,217,57,4,15,6
+Clojure,https://github.com/yogthos/migratus,2023-08-22,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[sandre1, sandre1, sandre1, sandre1, sandre1, sandre1, sandre1, sandre1, sandre1]",407.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 6, 2 13}]",99,217,57,13,15,6
+Clojure,https://github.com/yogthos/migratus,2023-08-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sandre1]",408.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 6, 2 14}]",99,217,57,14,15,6
+Clojure,https://github.com/yogthos/migratus,2023-08-28,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[sandre1, sandre1, sandre1, sandre1, sandre1, sandre1]",414.0,"[{1 57, ""other"" 99, 0 217, 3 15, 4 6, 2 20}]",99,217,57,20,15,6
+Clojure,https://github.com/yogthos/migratus,2023-08-30,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, eugen.stan@netdava.com, sandre1, sandre1, sandre1]",420.0,"[{1 57, ""other"" 99, 0 219, 3 16, 4 6, 2 23}]",99,219,57,23,16,6
+Clojure,https://github.com/yogthos/migratus,2023-11-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[buck@buckryan.com]",421.0,"[{1 57, ""other"" 100, 0 219, 3 16, 4 6, 2 23}]",100,219,57,23,16,6
+Clojure,https://github.com/yogthos/migratus,2023-11-21,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, dmitri.sotnikov@gmail.com, buck@buckryan.com, dmitri.sotnikov@gmail.com, buck@buckryan.com]",428.0,"[{1 57, ""other"" 102, 0 224, 3 16, 4 6, 2 23}]",102,224,57,23,16,6

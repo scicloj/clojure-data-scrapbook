@@ -1,0 +1,310 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/swar/nba_api,2018-09-16,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swar.m.patel@gmail.com]",4.0,"[{2 3, 0 1}]",0,1,0,3,0,0
+Python,https://github.com/swar/nba_api,2018-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swarchon@gmail.com]",5.0,"[{2 4, 0 1}]",0,1,0,4,0,0
+Python,https://github.com/swar/nba_api,2018-09-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com]",10.0,"[{2 9, 0 1}]",0,1,0,9,0,0
+Python,https://github.com/swar/nba_api,2018-10-03,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[swarchon@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, cclauss@bluewin.ch, cclauss@bluewin.ch]",15.0,"[{2 10, 0 3, ""other"" 2}]",2,3,0,10,0,0
+Python,https://github.com/swar/nba_api,2018-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cclauss@bluewin.ch]",16.0,"[{2 10, 0 3, ""other"" 3}]",3,3,0,10,0,0
+Python,https://github.com/swar/nba_api,2018-10-08,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com]",23.0,"[{2 17, 0 3, ""other"" 3}]",3,3,0,17,0,0
+Python,https://github.com/swar/nba_api,2018-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swarchon@gmail.com]",24.0,"[{2 18, 0 3, ""other"" 3}]",3,3,0,18,0,0
+Python,https://github.com/swar/nba_api,2018-10-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swarchon@gmail.com]",25.0,"[{2 19, 0 3, ""other"" 3}]",3,3,0,19,0,0
+Python,https://github.com/swar/nba_api,2018-11-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[eswan18@rocketmail.com, eswan18@rocketmail.com, eswan18@rocketmail.com, eswan18@rocketmail.com]",29.0,"[{2 19, 0 3, ""other"" 3, 4 4}]",3,3,0,19,0,4
+Python,https://github.com/swar/nba_api,2018-11-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",30.0,"[{2 19, 0 4, ""other"" 3, 4 4}]",3,4,0,19,0,4
+Python,https://github.com/swar/nba_api,2018-12-11,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com, swarchon@gmail.com]",39.0,"[{2 28, 0 4, ""other"" 3, 4 4}]",3,4,0,28,0,4
+Python,https://github.com/swar/nba_api,2019-01-03,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[46359080+Hoax5547@users.noreply.github.com, swar.m.patel@gmail.com, 46359080+Hoax5547@users.noreply.github.com]",42.0,"[{2 28, 0 5, ""other"" 5, 4 4}]",5,5,0,28,0,4
+Python,https://github.com/swar/nba_api,2019-01-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",43.0,"[{2 28, 0 6, ""other"" 5, 4 4}]",5,6,0,28,0,4
+Python,https://github.com/swar/nba_api,2019-01-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",44.0,"[{2 28, 0 6, ""other"" 5, 4 4, 1 1}]",5,6,1,28,0,4
+Python,https://github.com/swar/nba_api,2019-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",45.0,"[{2 28, 0 7, ""other"" 5, 4 4, 1 1}]",5,7,1,28,0,4
+Python,https://github.com/swar/nba_api,2019-02-18,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[eswan18@rocketmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, eswan18@rocketmail.com, randy.forbes@gmail.com]",52.0,"[{2 28, 0 11, ""other"" 5, 4 6, 1 2}]",5,11,2,28,0,6
+Python,https://github.com/swar/nba_api,2019-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",53.0,"[{2 28, 0 12, ""other"" 5, 4 6, 1 2}]",5,12,2,28,0,6
+Python,https://github.com/swar/nba_api,2019-02-24,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[rforbes@salesforce.com, randy.forbes@gmail.com]",55.0,"[{2 28, 0 12, ""other"" 6, 4 6, 1 3}]",6,12,3,28,0,6
+Python,https://github.com/swar/nba_api,2019-03-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[rforbes@salesforce.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",58.0,"[{2 28, 0 12, ""other"" 7, 4 6, 1 5}]",7,12,5,28,0,6
+Python,https://github.com/swar/nba_api,2019-03-10,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[rforbes@salesforce.com, randy.forbes@gmail.com, swar.m.patel@gmail.com]",61.0,"[{2 28, 0 13, ""other"" 8, 4 6, 1 6}]",8,13,6,28,0,6
+Python,https://github.com/swar/nba_api,2019-03-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",62.0,"[{2 28, 0 14, ""other"" 8, 4 6, 1 6}]",8,14,6,28,0,6
+Python,https://github.com/swar/nba_api,2019-04-07,25,2,"#tech.v3.dataset.column<string>[25]
+:email
+[eswan18@rocketmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com...]",87.0,"[{2 28, 0 38, ""other"" 8, 4 7, 1 6}]",8,38,6,28,0,7
+Python,https://github.com/swar/nba_api,2019-04-08,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[eswan18@rocketmail.com, eswan18@rocketmail.com, eswan18@rocketmail.com, eswan18@rocketmail.com, eswan18@rocketmail.com]",92.0,"[{2 28, 0 38, ""other"" 8, 4 12, 1 6}]",8,38,6,28,0,12
+Python,https://github.com/swar/nba_api,2019-04-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[swar.m.patel@gmail.com, eswan18@rocketmail.com]",94.0,"[{2 28, 0 39, ""other"" 8, 4 13, 1 6}]",8,39,6,28,0,13
+Python,https://github.com/swar/nba_api,2019-04-13,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[randy.forbes@gmail.com, rforbes@salesforce.com, randy.forbes@gmail.com]",97.0,"[{2 28, 0 39, ""other"" 9, 4 13, 1 8}]",9,39,8,28,0,13
+Python,https://github.com/swar/nba_api,2019-04-14,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",111.0,"[{2 28, 0 39, ""other"" 9, 4 13, 1 16, 3 6}]",9,39,16,28,6,13
+Python,https://github.com/swar/nba_api,2019-04-15,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[TKelley05@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",123.0,"[{2 28, 0 50, ""other"" 9, 4 13, 1 16, 3 7}]",9,50,16,28,7,13
+Python,https://github.com/swar/nba_api,2019-04-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",124.0,"[{2 28, 0 51, ""other"" 9, 4 13, 1 16, 3 7}]",9,51,16,28,7,13
+Python,https://github.com/swar/nba_api,2019-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",125.0,"[{2 28, 0 51, ""other"" 9, 4 13, 1 17, 3 7}]",9,51,17,28,7,13
+Python,https://github.com/swar/nba_api,2019-04-20,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com, TKelley05@gmail.com]",131.0,"[{2 28, 0 51, ""other"" 9, 4 13, 1 17, 3 13}]",9,51,17,28,13,13
+Python,https://github.com/swar/nba_api,2019-04-21,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[TKelley05@gmail.com, TKelley05@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",139.0,"[{2 28, 0 57, ""other"" 9, 4 13, 1 17, 3 15}]",9,57,17,28,15,13
+Python,https://github.com/swar/nba_api,2019-04-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",140.0,"[{2 28, 0 57, ""other"" 9, 4 13, 1 18, 3 15}]",9,57,18,28,15,13
+Python,https://github.com/swar/nba_api,2019-04-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",144.0,"[{2 28, 0 61, ""other"" 9, 4 13, 1 18, 3 15}]",9,61,18,28,15,13
+Python,https://github.com/swar/nba_api,2019-07-20,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[swar.m.patel@gmail.com, davidbobyang@gmail.com]",146.0,"[{2 28, 0 62, ""other"" 10, 4 13, 1 18, 3 15}]",10,62,18,28,15,13
+Python,https://github.com/swar/nba_api,2019-10-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",149.0,"[{2 28, 0 62, ""other"" 10, 4 13, 1 21, 3 15}]",10,62,21,28,15,13
+Python,https://github.com/swar/nba_api,2019-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",151.0,"[{2 28, 0 62, ""other"" 10, 4 13, 1 23, 3 15}]",10,62,23,28,15,13
+Python,https://github.com/swar/nba_api,2019-11-09,20,2,"#tech.v3.dataset.column<string>[20]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, spatel770@gatech.edu, spatel770@gatech.edu]",171.0,"[{2 28, 0 80, ""other"" 12, 4 13, 1 23, 3 15}]",12,80,23,28,15,13
+Python,https://github.com/swar/nba_api,2019-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[38974495+Mathiasme@users.noreply.github.com]",172.0,"[{2 28, 0 80, ""other"" 13, 4 13, 1 23, 3 15}]",13,80,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",173.0,"[{2 28, 0 81, ""other"" 13, 4 13, 1 23, 3 15}]",13,81,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-01-27,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",186.0,"[{2 28, 0 94, ""other"" 13, 4 13, 1 23, 3 15}]",13,94,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-02-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",187.0,"[{2 28, 0 95, ""other"" 13, 4 13, 1 23, 3 15}]",13,95,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-05-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[justinbt21@gmail.com]",188.0,"[{2 28, 0 95, ""other"" 14, 4 13, 1 23, 3 15}]",14,95,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-08-15,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",195.0,"[{2 28, 0 102, ""other"" 14, 4 13, 1 23, 3 15}]",14,102,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",196.0,"[{2 28, 0 103, ""other"" 14, 4 13, 1 23, 3 15}]",14,103,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-08-18,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",204.0,"[{2 28, 0 111, ""other"" 14, 4 13, 1 23, 3 15}]",14,111,23,28,15,13
+Python,https://github.com/swar/nba_api,2020-12-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",206.0,"[{2 28, 0 111, ""other"" 14, 4 13, 1 25, 3 15}]",14,111,25,28,15,13
+Python,https://github.com/swar/nba_api,2020-12-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",208.0,"[{2 28, 0 111, ""other"" 14, 4 13, 1 27, 3 15}]",14,111,27,28,15,13
+Python,https://github.com/swar/nba_api,2020-12-26,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",213.0,"[{2 28, 0 111, ""other"" 14, 4 13, 1 32, 3 15}]",14,111,32,28,15,13
+Python,https://github.com/swar/nba_api,2020-12-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",215.0,"[{2 28, 0 111, ""other"" 14, 4 13, 1 34, 3 15}]",14,111,34,28,15,13
+Python,https://github.com/swar/nba_api,2021-01-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",216.0,"[{2 28, 0 111, ""other"" 14, 4 13, 1 35, 3 15}]",14,111,35,28,15,13
+Python,https://github.com/swar/nba_api,2021-01-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",219.0,"[{2 28, 0 114, ""other"" 14, 4 13, 1 35, 3 15}]",14,114,35,28,15,13
+Python,https://github.com/swar/nba_api,2021-01-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",221.0,"[{2 28, 0 114, ""other"" 14, 4 13, 1 37, 3 15}]",14,114,37,28,15,13
+Python,https://github.com/swar/nba_api,2021-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",222.0,"[{2 28, 0 114, ""other"" 14, 4 13, 1 38, 3 15}]",14,114,38,28,15,13
+Python,https://github.com/swar/nba_api,2021-01-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",224.0,"[{2 28, 0 114, ""other"" 14, 4 13, 1 40, 3 15}]",14,114,40,28,15,13
+Python,https://github.com/swar/nba_api,2021-01-18,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",232.0,"[{2 28, 0 114, ""other"" 14, 4 13, 1 48, 3 15}]",14,114,48,28,15,13
+Python,https://github.com/swar/nba_api,2021-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eth.baron@mail.utoronto.ca]",233.0,"[{2 28, 0 114, ""other"" 15, 4 13, 1 48, 3 15}]",15,114,48,28,15,13
+Python,https://github.com/swar/nba_api,2021-04-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[eth.baron@mail.utoronto.ca]",234.0,"[{2 28, 0 114, ""other"" 16, 4 13, 1 48, 3 15}]",16,114,48,28,15,13
+Python,https://github.com/swar/nba_api,2021-06-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[81400911+edlavairee@users.noreply.github.com]",235.0,"[{2 28, 0 114, ""other"" 17, 4 13, 1 48, 3 15}]",17,114,48,28,15,13
+Python,https://github.com/swar/nba_api,2021-10-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[swar.m.patel@gmail.com, swar.patel@vk.ai]",237.0,"[{2 28, 0 115, ""other"" 18, 4 13, 1 48, 3 15}]",18,115,48,28,15,13
+Python,https://github.com/swar/nba_api,2021-10-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[mjstamper@users.noreply.github.com, mjstamper@users.noreply.github.com, mjstamper@users.noreply.github.com]",240.0,"[{2 28, 0 115, ""other"" 21, 4 13, 1 48, 3 15}]",21,115,48,28,15,13
+Python,https://github.com/swar/nba_api,2021-10-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",243.0,"[{2 28, 0 115, ""other"" 21, 4 13, 1 51, 3 15}]",21,115,51,28,15,13
+Python,https://github.com/swar/nba_api,2021-10-31,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com, swar.m.patel@gmail.com]",248.0,"[{2 28, 0 120, ""other"" 21, 4 13, 1 51, 3 15}]",21,120,51,28,15,13
+Python,https://github.com/swar/nba_api,2021-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[swar.m.patel@gmail.com, swar.m.patel@gmail.com]",250.0,"[{2 28, 0 122, ""other"" 21, 4 13, 1 51, 3 15}]",21,122,51,28,15,13
+Python,https://github.com/swar/nba_api,2021-11-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[alex.eidt@outlook.com]",251.0,"[{2 28, 0 122, ""other"" 22, 4 13, 1 51, 3 15}]",22,122,51,28,15,13
+Python,https://github.com/swar/nba_api,2022-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[59226272+prateekjaipuria@users.noreply.github.com]",252.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 51, 3 15}]",23,122,51,28,15,13
+Python,https://github.com/swar/nba_api,2022-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",253.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 52, 3 15}]",23,122,52,28,15,13
+Python,https://github.com/swar/nba_api,2022-09-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",256.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 55, 3 15}]",23,122,55,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",257.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 56, 3 15}]",23,122,56,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-08,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",262.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 61, 3 15}]",23,122,61,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",264.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 63, 3 15}]",23,122,63,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",265.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 64, 3 15}]",23,122,64,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",267.0,"[{2 28, 0 122, ""other"" 23, 4 13, 1 66, 3 15}]",23,122,66,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[swar.m.patel@gmail.com]",268.0,"[{2 28, 0 123, ""other"" 23, 4 13, 1 66, 3 15}]",23,123,66,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",269.0,"[{2 28, 0 123, ""other"" 23, 4 13, 1 67, 3 15}]",23,123,67,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bill@billmill.org]",270.0,"[{2 28, 0 123, ""other"" 24, 4 13, 1 67, 3 15}]",24,123,67,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[724378802@qq.com, randy.forbes@gmail.com]",272.0,"[{2 28, 0 123, ""other"" 25, 4 13, 1 68, 3 15}]",25,123,68,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",274.0,"[{2 28, 0 123, ""other"" 25, 4 13, 1 70, 3 15}]",25,123,70,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",276.0,"[{2 28, 0 123, ""other"" 25, 4 13, 1 72, 3 15}]",25,123,72,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",277.0,"[{2 28, 0 123, ""other"" 25, 4 13, 1 73, 3 15}]",25,123,73,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",278.0,"[{2 28, 0 123, ""other"" 25, 4 13, 1 74, 3 15}]",25,123,74,28,15,13
+Python,https://github.com/swar/nba_api,2022-10-31,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",281.0,"[{2 28, 0 123, ""other"" 25, 4 13, 1 77, 3 15}]",25,123,77,28,15,13
+Python,https://github.com/swar/nba_api,2022-11-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, 46803536+FarhanSajid1@users.noreply.github.com]",283.0,"[{2 28, 0 123, ""other"" 26, 4 13, 1 78, 3 15}]",26,123,78,28,15,13
+Python,https://github.com/swar/nba_api,2023-03-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pallyjohann@gmail.com]",284.0,"[{2 28, 0 123, ""other"" 27, 4 13, 1 78, 3 15}]",27,123,78,28,15,13
+Python,https://github.com/swar/nba_api,2023-03-20,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[61911580+TheResearchLab@users.noreply.github.com, hollywood.90210@mail.ru, 49699333+dependabot[bot]@users.noreply.github.com]",287.0,"[{2 28, 0 123, ""other"" 30, 4 13, 1 78, 3 15}]",30,123,78,28,15,13
+Python,https://github.com/swar/nba_api,2023-03-23,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[randy.forbes@gmail.com, onerince@protonmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",294.0,"[{2 28, 0 123, ""other"" 31, 4 13, 1 84, 3 15}]",31,123,84,28,15,13
+Python,https://github.com/swar/nba_api,2023-04-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[47506431+alexfayad@users.noreply.github.com]",295.0,"[{2 28, 0 123, ""other"" 32, 4 13, 1 84, 3 15}]",32,123,84,28,15,13
+Python,https://github.com/swar/nba_api,2023-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[47506431+alexfayad@users.noreply.github.com]",296.0,"[{2 28, 0 123, ""other"" 33, 4 13, 1 84, 3 15}]",33,123,84,28,15,13
+Python,https://github.com/swar/nba_api,2023-05-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hollywood.90210@mail.ru]",297.0,"[{2 28, 0 123, ""other"" 34, 4 13, 1 84, 3 15}]",34,123,84,28,15,13
+Python,https://github.com/swar/nba_api,2023-06-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[swar.patel@rechargeapps.com, swar.patel@rechargeapps.com]",299.0,"[{2 28, 0 123, ""other"" 36, 4 13, 1 84, 3 15}]",36,123,84,28,15,13
+Python,https://github.com/swar/nba_api,2023-06-13,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[bill@billmill.org, randy.forbes@gmail.com, 49699333+dependabot[bot]@users.noreply.github.com]",302.0,"[{2 28, 0 123, ""other"" 38, 4 13, 1 85, 3 15}]",38,123,85,28,15,13
+Python,https://github.com/swar/nba_api,2023-06-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[115374841+evanwporter@users.noreply.github.com]",303.0,"[{2 28, 0 123, ""other"" 39, 4 13, 1 85, 3 15}]",39,123,85,28,15,13
+Python,https://github.com/swar/nba_api,2023-08-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",304.0,"[{2 28, 0 123, ""other"" 39, 4 13, 1 86, 3 15}]",39,123,86,28,15,13
+Python,https://github.com/swar/nba_api,2023-08-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",305.0,"[{2 28, 0 123, ""other"" 39, 4 13, 1 87, 3 15}]",39,123,87,28,15,13
+Python,https://github.com/swar/nba_api,2023-09-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com, randy.forbes@gmail.com]",307.0,"[{2 28, 0 123, ""other"" 40, 4 13, 1 88, 3 15}]",40,123,88,28,15,13
+Python,https://github.com/swar/nba_api,2023-09-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[randy.forbes@gmail.com]",308.0,"[{2 28, 0 123, ""other"" 40, 4 13, 1 89, 3 15}]",40,123,89,28,15,13
+Python,https://github.com/swar/nba_api,2023-10-04,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, 49699333+dependabot[bot]@users.noreply.github.com]",313.0,"[{2 28, 0 123, ""other"" 41, 4 13, 1 93, 3 15}]",41,123,93,28,15,13
+Python,https://github.com/swar/nba_api,2023-10-07,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com]",317.0,"[{2 28, 0 123, ""other"" 42, 4 13, 1 96, 3 15}]",42,123,96,28,15,13
+Python,https://github.com/swar/nba_api,2023-10-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[724378802@qq.com]",318.0,"[{2 28, 0 123, ""other"" 43, 4 13, 1 96, 3 15}]",43,123,96,28,15,13
+Python,https://github.com/swar/nba_api,2023-10-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",320.0,"[{2 28, 0 123, ""other"" 43, 4 13, 1 98, 3 15}]",43,123,98,28,15,13
+Python,https://github.com/swar/nba_api,2023-11-09,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, randy.forbes@gmail.com, hollywood.90210@mail.ru, 49699333+dependabot[bot]@users.noreply.github.com]",326.0,"[{2 28, 0 123, ""other"" 45, 4 13, 1 102, 3 15}]",45,123,102,28,15,13
+Python,https://github.com/swar/nba_api,2023-11-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, randy.forbes@gmail.com]",328.0,"[{2 28, 0 123, ""other"" 45, 4 13, 1 104, 3 15}]",45,123,104,28,15,13
+Python,https://github.com/swar/nba_api,2023-11-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hollywood.90210@mail.ru]",329.0,"[{2 28, 0 123, ""other"" 46, 4 13, 1 104, 3 15}]",46,123,104,28,15,13
+Python,https://github.com/swar/nba_api,2023-11-22,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[randy.forbes@gmail.com, hollywood.90210@mail.ru]",331.0,"[{2 28, 0 123, ""other"" 47, 4 13, 1 105, 3 15}]",47,123,105,28,15,13

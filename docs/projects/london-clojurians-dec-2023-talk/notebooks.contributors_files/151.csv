@@ -1,0 +1,214 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,microsoft,2017-05-24,3,1,"#{""debekoe@microsoft.com""}",3.0,1
+Python,microsoft,2017-05-25,5,1,"#{""debekoe@microsoft.com""}",8.0,1
+Python,microsoft,2017-05-26,5,1,"#{""debekoe@microsoft.com""}",13.0,1
+Python,microsoft,2017-05-31,1,1,"#{""debekoe@microsoft.com""}",14.0,1
+Python,microsoft,2017-06-01,1,1,"#{""debekoe@microsoft.com""}",15.0,1
+Python,microsoft,2017-06-02,1,1,"#{""debekoe@microsoft.com""}",16.0,1
+Python,microsoft,2017-06-05,2,1,"#{""debekoe@microsoft.com""}",18.0,1
+Python,microsoft,2017-06-06,1,1,"#{""debekoe@microsoft.com""}",19.0,1
+Python,microsoft,2017-06-08,2,1,"#{""debekoe@microsoft.com""}",21.0,1
+Python,microsoft,2017-06-09,1,1,"#{""debekoe@microsoft.com""}",22.0,1
+Python,microsoft,2017-06-12,6,1,"#{""debekoe@microsoft.com""}",28.0,1
+Python,microsoft,2017-06-13,5,1,"#{""debekoe@microsoft.com""}",33.0,1
+Python,microsoft,2017-06-16,5,1,"#{""debekoe@microsoft.com""}",38.0,1
+Python,microsoft,2017-06-28,1,1,"#{""debekoe@microsoft.com""}",39.0,1
+Python,microsoft,2017-07-05,2,1,"#{""debekoe@microsoft.com""}",41.0,1
+Python,microsoft,2017-08-18,1,1,"#{""debekoe@microsoft.com""}",42.0,1
+Python,microsoft,2017-08-24,1,1,"#{""debekoe@microsoft.com""}",43.0,1
+Python,microsoft,2017-09-25,1,1,"#{""debekoe@microsoft.com""}",44.0,1
+Python,microsoft,2017-09-26,1,1,"#{""debekoe@microsoft.com""}",45.0,1
+Python,microsoft,2017-09-27,4,1,"#{""debekoe@microsoft.com""}",49.0,1
+Python,microsoft,2017-09-28,2,2,"#{""debekoe@microsoft.com"" ""magallania@gmail.com""}",51.0,2
+Python,microsoft,2017-09-29,1,1,"#{""debekoe@microsoft.com""}",52.0,2
+Python,microsoft,2017-11-14,2,1,"#{""debekoe@microsoft.com""}",54.0,2
+Python,microsoft,2017-11-15,3,1,"#{""debekoe@microsoft.com""}",57.0,2
+Python,microsoft,2017-11-20,5,1,"#{""debekoe@microsoft.com""}",62.0,2
+Python,microsoft,2017-11-21,2,1,"#{""troy.dai@outlook.com""}",64.0,3
+Python,microsoft,2017-12-12,1,1,"#{""debekoe@microsoft.com""}",65.0,3
+Python,microsoft,2017-12-18,2,1,"#{""debekoe@microsoft.com""}",67.0,3
+Python,microsoft,2017-12-19,1,1,"#{""debekoe@microsoft.com""}",68.0,3
+Python,microsoft,2017-12-20,1,1,"#{""giftlin.rgn@gmail.com""}",69.0,4
+Python,microsoft,2018-01-09,2,1,"#{""debekoe@microsoft.com""}",71.0,4
+Python,microsoft,2018-01-25,1,1,"#{""yugangw@microsoft.com""}",72.0,5
+Python,microsoft,2018-03-15,1,1,"#{""debekoe@microsoft.com""}",73.0,5
+Python,microsoft,2018-04-26,1,1,"#{""debekoe@microsoft.com""}",74.0,5
+Python,microsoft,2018-05-02,2,1,"#{""yugangw@microsoft.com""}",76.0,5
+Python,microsoft,2018-05-31,1,1,"#{""tjprescott@users.noreply.github.com""}",77.0,6
+Python,microsoft,2018-06-05,1,1,"#{""tjprescott@users.noreply.github.com""}",78.0,6
+Python,microsoft,2018-07-31,2,1,"#{""yugangw@microsoft.com""}",80.0,6
+Python,microsoft,2018-08-30,2,1,"#{""bagga.atul@outlook.com""}",82.0,7
+Python,microsoft,2018-09-05,2,2,"#{""tjprescott@users.noreply.github.com"" ""trpresco@microsoft.com""}",84.0,8
+Python,microsoft,2018-09-06,1,1,"#{""tjprescott@users.noreply.github.com""}",85.0,8
+Python,microsoft,2018-09-10,1,1,"#{""david@prothero.com""}",86.0,9
+Python,microsoft,2018-10-01,2,2,"#{""jli@lyft.com"" ""Christina-Kang@users.noreply.github.com""}",88.0,11
+Python,microsoft,2018-10-02,1,1,"#{""E0032242@u.nus.edu""}",89.0,12
+Python,microsoft,2018-10-03,1,1,"#{""mislav.cimpersak@gmail.com""}",90.0,13
+Python,microsoft,2018-10-09,1,1,"#{""jeffrimko@gmail.com""}",91.0,14
+Python,microsoft,2018-10-11,3,3,"#{""mohammedrishad.vk@gmail.com"" ""tjprescott@users.noreply.github.com"" ""kyle.r.conway@gmail.com""}",94.0,16
+Python,microsoft,2018-10-12,1,1,"#{""hugovk@users.noreply.github.com""}",95.0,17
+Python,microsoft,2018-10-25,1,1,"#{""tjprescott@users.noreply.github.com""}",96.0,17
+Python,microsoft,2018-10-30,5,5,"#{""pengowen816@gmail.com"" ""32807097+BPYap@users.noreply.github.com"" ""hugovk@users.noreply.github.com"" ""garyd203@users.noreply.github.com"" ""43203065+gauravsaralMs@users.noreply.github.com""}",101.0,21
+Python,microsoft,2018-10-31,5,4,"#{""pedro2cardoso@hotmail.com"" ""jdboyd@jdboyd.net"" ""imajimatika@gmail.com"" ""grafitykoncept@gmail.com""}",106.0,25
+Python,microsoft,2018-11-07,2,1,"#{""tjprescott@users.noreply.github.com""}",108.0,25
+Python,microsoft,2018-11-13,1,1,"#{""bagga.atul@outlook.com""}",109.0,25
+Python,microsoft,2018-11-15,1,1,"#{""daniloshiga@gmail.com""}",110.0,26
+Python,microsoft,2018-11-16,1,1,"#{""tjprescott@users.noreply.github.com""}",111.0,26
+Python,microsoft,2019-02-11,1,1,"#{""debekoe@microsoft.com""}",112.0,26
+Python,microsoft,2019-03-05,1,1,"#{""tjprescott@users.noreply.github.com""}",113.0,26
+Python,microsoft,2019-03-06,1,1,"#{""andreyzakharevich@gmail.com""}",114.0,27
+Python,microsoft,2019-03-11,1,1,"#{""lionpham@hotmail.com""}",115.0,28
+Python,microsoft,2019-03-18,1,1,"#{""31421773+parkerduckworth@users.noreply.github.com""}",116.0,29
+Python,microsoft,2019-03-29,1,1,"#{""tjprescott@users.noreply.github.com""}",117.0,29
+Python,microsoft,2019-04-17,1,1,"#{""bagga.atul@outlook.com""}",118.0,29
+Python,microsoft,2019-04-23,1,1,"#{""48228819+limingu@users.noreply.github.com""}",119.0,30
+Python,microsoft,2019-04-24,1,1,"#{""48228819+limingu@users.noreply.github.com""}",120.0,30
+Python,microsoft,2019-04-25,1,1,"#{""48228819+limingu@users.noreply.github.com""}",121.0,30
+Python,microsoft,2019-05-22,6,2,"#{""tomas.chvatal@gmail.com"" ""tjprescott@users.noreply.github.com""}",127.0,31
+Python,microsoft,2019-06-28,1,1,"#{""tim@stallmann.mayfirst.org""}",128.0,32
+Python,microsoft,2019-07-09,1,1,"#{""oladewal@microsoft.com""}",129.0,33
+Python,microsoft,2020-01-14,1,1,"#{""haroldrandom@gmail.com""}",130.0,34
+Python,microsoft,2020-02-17,1,1,"#{""atbagga@microsoft.com""}",131.0,35
+Python,microsoft,2020-02-20,1,1,"#{""jiasli@microsoft.com""}",132.0,36
+Python,microsoft,2020-02-26,1,1,"#{""jiasli@microsoft.com""}",133.0,36
+Python,microsoft,2020-03-10,2,1,"#{""jiasli@microsoft.com""}",135.0,36
+Python,microsoft,2020-03-17,1,1,"#{""jiasli@microsoft.com""}",136.0,36
+Python,microsoft,2020-03-20,5,1,"#{""jiasli@microsoft.com""}",141.0,36
+Python,microsoft,2020-03-23,1,1,"#{""jiasli@microsoft.com""}",142.0,36
+Python,microsoft,2020-04-03,2,2,"#{""tchvatal@suse.com"" ""haroldrandom@gmail.com""}",144.0,37
+Python,microsoft,2020-04-07,1,1,"#{""jiasli@microsoft.com""}",145.0,37
+Python,microsoft,2020-04-15,2,2,"#{""jiasli@microsoft.com"" ""haroldrandom@gmail.com""}",147.0,37
+Python,microsoft,2020-04-16,1,1,"#{""jiasli@microsoft.com""}",148.0,37
+Python,microsoft,2020-04-21,1,1,"#{""haroldrandom@gmail.com""}",149.0,37
+Python,microsoft,2020-04-22,1,1,"#{""haroldrandom@gmail.com""}",150.0,37
+Python,microsoft,2020-05-08,4,3,"#{""jiasli@microsoft.com"" ""xiaojxu@microsoft.com"" ""arrownj@126.com""}",154.0,39
+Python,microsoft,2020-05-09,2,1,"#{""xiaojxu@microsoft.com""}",156.0,39
+Python,microsoft,2020-05-20,1,1,"#{""jiasli@microsoft.com""}",157.0,39
+Python,microsoft,2020-06-18,1,1,"#{""jiasli@microsoft.com""}",158.0,39
+Python,microsoft,2020-07-07,1,1,"#{""jiasli@microsoft.com""}",159.0,39
+Python,microsoft,2020-07-27,2,1,"#{""jiasli@microsoft.com""}",161.0,39
+Python,microsoft,2020-12-09,1,1,"#{""yishiwang@microsoft.com""}",162.0,40
+Python,microsoft,2020-12-16,3,2,"#{""70689972+srinivas32@users.noreply.github.com"" ""jiasli@microsoft.com""}",165.0,41
+Python,microsoft,2020-12-17,4,1,"#{""jiasli@microsoft.com""}",169.0,41
+Python,microsoft,2020-12-18,1,1,"#{""jiasli@microsoft.com""}",170.0,41
+Python,microsoft,2020-12-29,1,1,"#{""jiasli@microsoft.com""}",171.0,41
+Python,microsoft,2021-01-25,1,1,"#{""jiasli@microsoft.com""}",172.0,41
+Python,microsoft,2021-01-26,1,1,"#{""jiasli@microsoft.com""}",173.0,41
+Python,microsoft,2021-02-02,2,1,"#{""jiasli@microsoft.com""}",175.0,41
+Python,microsoft,2021-03-12,2,1,"#{""jiasli@microsoft.com""}",177.0,41
+Python,microsoft,2021-03-15,1,1,"#{""jiasli@microsoft.com""}",178.0,41
+Python,microsoft,2021-03-22,1,1,"#{""jiasli@microsoft.com""}",179.0,41
+Python,microsoft,2021-03-25,2,1,"#{""jiasli@microsoft.com""}",181.0,41
+Python,microsoft,2021-03-26,1,1,"#{""jiasli@microsoft.com""}",182.0,41
+Python,microsoft,2021-04-09,2,1,"#{""jiasli@microsoft.com""}",184.0,41
+Python,microsoft,2021-05-08,1,1,"#{""4003950+jiasli@users.noreply.github.com""}",185.0,42
+Python,microsoft,2021-06-02,1,1,"#{""code@musicinmybrain.net""}",186.0,43
+Python,microsoft,2021-11-03,1,1,"#{""4003950+jiasli@users.noreply.github.com""}",187.0,43
+Python,microsoft,2021-11-04,2,1,"#{""4003950+jiasli@users.noreply.github.com""}",189.0,43
+Python,microsoft,2021-11-05,1,1,"#{""4003950+jiasli@users.noreply.github.com""}",190.0,43
+Python,microsoft,2021-11-15,1,1,"#{""4003950+jiasli@users.noreply.github.com""}",191.0,43
+Python,microsoft,2021-11-16,1,1,"#{""4003950+jiasli@users.noreply.github.com""}",192.0,43
+Python,microsoft,2022-03-15,1,1,"#{""4544122+niander@users.noreply.github.com""}",193.0,44
+Python,microsoft,2022-08-15,3,3,"#{""kianmeng.ang@gmail.com"" ""77245923+microsoft-github-policy-service[bot]@users.noreply.github.com"" ""4003950+jiasli@users.noreply.github.com""}",196.0,46
+Python,microsoft,2022-08-18,1,1,"#{""4003950+jiasli@users.noreply.github.com""}",197.0,46
+Python,microsoft,2022-08-19,1,1,"#{""4003950+jiasli@users.noreply.github.com""}",198.0,46
+Python,microsoft,2022-09-19,1,1,"#{""zelinwang@microsoft.com""}",199.0,47
+Python,microsoft,2022-12-01,2,2,"#{""81607949+FumingZhang@users.noreply.github.com"" ""4003950+jiasli@users.noreply.github.com""}",201.0,48
+Python,microsoft,2023-06-30,6,2,"#{""microsoftopensource@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com""}",207.0,50
+Python,microsoft,2023-07-20,1,1,"#{""AllyW@users.noreply.github.com""}",208.0,51
+Python,microsoft,2023-07-25,1,1,"#{""46446115+16oeahr@users.noreply.github.com""}",209.0,52
+Python,microsoft,2023-07-26,3,2,"#{""4003950+jiasli@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",212.0,53
+Python,microsoft,2023-07-27,3,2,"#{""75061414+chenslucky@users.noreply.github.com"" ""si.chen@microsoft.com""}",215.0,55
+Python,microsoft,2023-07-28,1,1,"#{""46446115+16oeahr@users.noreply.github.com""}",216.0,55
+Python,microsoft,2023-07-31,15,3,"#{""75061414+chenslucky@users.noreply.github.com"" ""si.chen@microsoft.com"" ""49483542+chjinche@users.noreply.github.com""}",231.0,55
+Python,microsoft,2023-08-01,1,1,"#{""46446115+16oeahr@users.noreply.github.com""}",232.0,55
+Python,microsoft,2023-08-02,3,1,"#{""49483542+chjinche@users.noreply.github.com""}",235.0,55
+Python,microsoft,2023-08-03,2,2,"#{""46446115+16oeahr@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",237.0,55
+Python,microsoft,2023-08-04,1,1,"#{""0mza987@gmail.com""}",238.0,56
+Python,microsoft,2023-08-07,1,1,"#{""47586720+wangchao1230@users.noreply.github.com""}",239.0,56
+Python,microsoft,2023-08-08,2,2,"#{""0mza987@gmail.com"" ""46446115+16oeahr@users.noreply.github.com""}",241.0,56
+Python,microsoft,2023-08-09,3,2,"#{""phoenix.seek@gmail.com"" ""46446115+16oeahr@users.noreply.github.com""}",244.0,57
+Python,microsoft,2023-08-10,4,4,"#{""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""75061414+chenslucky@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",248.0,59
+Python,microsoft,2023-08-11,3,3,"#{""yigao@microsoft.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com""}",251.0,60
+Python,microsoft,2023-08-14,6,6,"#{""49388944+dorisjoy@users.noreply.github.com"" ""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""75061414+chenslucky@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",257.0,61
+Python,microsoft,2023-08-15,2,2,"#{""49483542+chjinche@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",259.0,61
+Python,microsoft,2023-08-16,1,1,"#{""phoenix.seek@gmail.com""}",260.0,61
+Python,microsoft,2023-08-17,2,1,"#{""yigao@microsoft.com""}",262.0,61
+Python,microsoft,2023-08-18,4,3,"#{""95913588+chw-microsoft@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",266.0,62
+Python,microsoft,2023-08-21,2,2,"#{""75061414+chenslucky@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",268.0,62
+Python,microsoft,2023-08-22,6,6,"#{""95913588+chw-microsoft@users.noreply.github.com"" ""yigao@microsoft.com"" ""chenyin@microsoft.com"" ""49483542+chjinche@users.noreply.github.com"" ""metang@microsoft.com"" ""47586720+wangchao1230@users.noreply.github.com""}",274.0,64
+Python,microsoft,2023-08-23,6,5,"#{""yigao@microsoft.com"" ""0mza987@gmail.com"" ""75061414+chenslucky@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com""}",280.0,66
+Python,microsoft,2023-08-24,9,8,"#{""yigao@microsoft.com"" ""0mza987@gmail.com"" ""75061414+chenslucky@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""henu_rz@163.com"" ""47586720+wangchao1230@users.noreply.github.com""}",289.0,67
+Python,microsoft,2023-08-25,14,8,"#{""95913588+chw-microsoft@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""49483542+chjinche@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",303.0,68
+Python,microsoft,2023-08-27,2,2,"#{""tongjie@gmail.com"" ""phoenix.seek@gmail.com""}",305.0,69
+Python,microsoft,2023-08-28,20,13,"#{""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""lisagreenview@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""tongjie@gmail.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""350053002@qq.com"" ""24237253+brynn-code@users.noreply.github.com"" ""jinyucong911@outlook.com"" ""47586720+wangchao1230@users.noreply.github.com""}",325.0,74
+Python,microsoft,2023-08-29,11,7,"#{""37076709+elliotzh@users.noreply.github.com"" ""39176492+Jasmin3q@users.noreply.github.com"" ""wxpjimmy@gmail.com"" ""tangheyi.09@gmail.com"" ""49483542+chjinche@users.noreply.github.com"" ""henu_rz@163.com"" ""47586720+wangchao1230@users.noreply.github.com""}",336.0,76
+Python,microsoft,2023-08-30,16,12,"#{""37076709+elliotzh@users.noreply.github.com"" ""39176492+Jasmin3q@users.noreply.github.com"" ""lyh18800183160@gmail.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""lisagreenview@users.noreply.github.com"" ""0mza987@gmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com""}",352.0,77
+Python,microsoft,2023-08-31,14,11,"#{""583695898@qq.com"" ""linatanglily@gmail.com"" ""37076709+elliotzh@users.noreply.github.com"" ""95913588+chw-microsoft@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""tongjie@gmail.com"" ""phoenix.seek@gmail.com"" ""chenyzhang@microsoft.com"" ""chenyin@microsoft.com"" ""henu_rz@163.com""}",366.0,80
+Python,microsoft,2023-09-01,19,11,"#{""linatanglily@gmail.com"" ""37076709+elliotzh@users.noreply.github.com"" ""95913588+chw-microsoft@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""24237253+brynn-code@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",385.0,80
+Python,microsoft,2023-09-02,2,2,"#{""phoenix.seek@gmail.com"" ""24237253+brynn-code@users.noreply.github.com""}",387.0,80
+Python,microsoft,2023-09-04,12,8,"#{""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""126849997+qiqimico@users.noreply.github.com"" ""jinyucong911@outlook.com"" ""henu_rz@163.com"" ""47586720+wangchao1230@users.noreply.github.com""}",399.0,81
+Python,microsoft,2023-09-05,5,5,"#{""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""chenyin@microsoft.com"" ""47586720+wangchao1230@users.noreply.github.com""}",404.0,81
+Python,microsoft,2023-09-06,13,9,"#{""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""40321821+ChenJieting@users.noreply.github.com"" ""0mza987@gmail.com"" ""75061414+chenslucky@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""henu_rz@163.com""}",417.0,82
+Python,microsoft,2023-09-07,7,5,"#{""linatanglily@gmail.com"" ""0mza987@gmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""350053002@qq.com"" ""henu_rz@163.com""}",424.0,82
+Python,microsoft,2023-09-08,13,11,"#{""linatanglily@gmail.com"" ""37076709+elliotzh@users.noreply.github.com"" ""51689021+liucheng-ms@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""henu_rz@163.com"" ""46446115+16oeahr@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",437.0,83
+Python,microsoft,2023-09-10,1,1,"#{""eltociear@gmail.com""}",438.0,84
+Python,microsoft,2023-09-13,5,4,"#{""95913588+chw-microsoft@users.noreply.github.com"" ""supereniac@live.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""chenyin@microsoft.com""}",443.0,85
+Python,microsoft,2023-09-14,6,6,"#{""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""75061414+chenslucky@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""chenyin@microsoft.com"" ""350053002@qq.com""}",449.0,85
+Python,microsoft,2023-09-15,14,7,"#{""yigao@microsoft.com"" ""0mza987@gmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""chenyin@microsoft.com"" ""32232238+jiaochenlu@users.noreply.github.com"" ""350053002@qq.com"" ""46446115+16oeahr@users.noreply.github.com""}",463.0,86
+Python,microsoft,2023-09-18,14,11,"#{""51689021+liucheng-ms@users.noreply.github.com"" ""95913588+chw-microsoft@users.noreply.github.com"" ""39176492+Jasmin3q@users.noreply.github.com"" ""yigao@microsoft.com"" ""0mza987@gmail.com"" ""954575656@qq.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""tongjie@gmail.com"" ""350053002@qq.com"" ""24237253+brynn-code@users.noreply.github.com"" ""20365062+liuyuhang13@users.noreply.github.com""}",477.0,88
+Python,microsoft,2023-09-19,10,7,"#{""linatanglily@gmail.com"" ""95913588+chw-microsoft@users.noreply.github.com"" ""0mza987@gmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""32232238+jiaochenlu@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com""}",487.0,88
+Python,microsoft,2023-09-20,5,4,"#{""supereniac@live.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com""}",492.0,88
+Python,microsoft,2023-09-21,7,7,"#{""37076709+elliotzh@users.noreply.github.com"" ""51689021+liucheng-ms@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""40321821+ChenJieting@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""henu_rz@163.com"" ""46446115+16oeahr@users.noreply.github.com""}",499.0,88
+Python,microsoft,2023-09-22,6,5,"#{""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""350053002@qq.com""}",505.0,88
+Python,microsoft,2023-09-25,11,9,"#{""linatanglily@gmail.com"" ""51689021+liucheng-ms@users.noreply.github.com"" ""39176492+Jasmin3q@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com""}",516.0,88
+Python,microsoft,2023-09-26,10,6,"#{""0mza987@gmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""24237253+brynn-code@users.noreply.github.com"" ""94442403+codingrabbitt1@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com""}",526.0,89
+Python,microsoft,2023-09-27,16,10,"#{""linatanglily@gmail.com"" ""95913588+chw-microsoft@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""350053002@qq.com"" ""49483542+chjinche@users.noreply.github.com""}",542.0,89
+Python,microsoft,2023-09-28,8,7,"#{""yigao@microsoft.com"" ""99283778+gjwoods@users.noreply.github.com"" ""0mza987@gmail.com"" ""350053002@qq.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com"" ""20365062+liuyuhang13@users.noreply.github.com""}",550.0,90
+Python,microsoft,2023-10-07,1,1,"#{""350053002@qq.com""}",551.0,90
+Python,microsoft,2023-10-08,5,4,"#{""40321821+ChenJieting@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""350053002@qq.com"" ""henu_rz@163.com""}",556.0,90
+Python,microsoft,2023-10-09,4,3,"#{""38847871+zhengfeiwang@users.noreply.github.com"" ""henu_rz@163.com"" ""46446115+16oeahr@users.noreply.github.com""}",560.0,90
+Python,microsoft,2023-10-10,6,4,"#{""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com""}",566.0,90
+Python,microsoft,2023-10-11,11,9,"#{""linatanglily@gmail.com"" ""lisagreenview@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""chenyin@microsoft.com"" ""49483542+chjinche@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com""}",577.0,90
+Python,microsoft,2023-10-12,10,6,"#{""linatanglily@gmail.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""chenyzhang@microsoft.com"" ""chenyin@microsoft.com"" ""henu_rz@163.com""}",587.0,90
+Python,microsoft,2023-10-13,15,10,"#{""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""chenyin@microsoft.com"" ""350053002@qq.com"" ""49483542+chjinche@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com"" ""94442403+codingrabbitt1@users.noreply.github.com"" ""20365062+liuyuhang13@users.noreply.github.com"" ""henu_rz@163.com""}",602.0,90
+Python,microsoft,2023-10-16,10,8,"#{""49388944+dorisjoy@users.noreply.github.com"" ""51689021+liucheng-ms@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""350053002@qq.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com"" ""henu_rz@163.com"" ""46446115+16oeahr@users.noreply.github.com""}",612.0,90
+Python,microsoft,2023-10-17,6,5,"#{""linatanglily@gmail.com"" ""49388944+dorisjoy@users.noreply.github.com"" ""99283778+gjwoods@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""lmamsat@hotmail.com""}",618.0,91
+Python,microsoft,2023-10-18,8,6,"#{""0mza987@gmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""20365062+liuyuhang13@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com""}",626.0,91
+Python,microsoft,2023-10-19,8,7,"#{""linatanglily@gmail.com"" ""99283778+gjwoods@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""phoenix.seek@gmail.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com""}",634.0,91
+Python,microsoft,2023-10-20,11,7,"#{""linatanglily@gmail.com"" ""37076709+elliotzh@users.noreply.github.com"" ""954575656@qq.com"" ""phoenix.seek@gmail.com"" ""350053002@qq.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com""}",645.0,91
+Python,microsoft,2023-10-22,2,1,"#{""99283778+gjwoods@users.noreply.github.com""}",647.0,91
+Python,microsoft,2023-10-23,14,8,"#{""75061414+chenslucky@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""minggu.thuee@gmail.com"" ""49483542+chjinche@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com""}",661.0,92
+Python,microsoft,2023-10-24,16,8,"#{""linatanglily@gmail.com"" ""37076709+elliotzh@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com"" ""46446115+16oeahr@users.noreply.github.com""}",677.0,92
+Python,microsoft,2023-10-25,13,6,"#{""linatanglily@gmail.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""henu_rz@163.com""}",690.0,92
+Python,microsoft,2023-10-26,14,11,"#{""49388944+dorisjoy@users.noreply.github.com"" ""39176492+Jasmin3q@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com"" ""46446115+16oeahr@users.noreply.github.com""}",704.0,92
+Python,microsoft,2023-10-27,13,10,"#{""39176492+Jasmin3q@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""75061414+chenslucky@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyzhang@microsoft.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com""}",717.0,92
+Python,microsoft,2023-10-30,10,8,"#{""0mza987@gmail.com"" ""75061414+chenslucky@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""chenyin@microsoft.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com"" ""46446115+16oeahr@users.noreply.github.com""}",727.0,92
+Python,microsoft,2023-10-31,14,7,"#{""linatanglily@gmail.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com""}",741.0,92
+Python,microsoft,2023-11-02,1,1,"#{""phoenix.seek@gmail.com""}",742.0,92
+Python,microsoft,2023-11-03,1,1,"#{""phoenix.seek@gmail.com""}",743.0,92
+Python,microsoft,2023-11-05,2,1,"#{""75808410+prakharg-msft@users.noreply.github.com""}",745.0,93
+Python,microsoft,2023-11-06,9,7,"#{""49388944+dorisjoy@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""jianjiaosun@126.com"" ""henu_rz@163.com""}",754.0,94
+Python,microsoft,2023-11-07,9,7,"#{""39176492+Jasmin3q@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""wxpjimmy@gmail.com"" ""phoenix.seek@gmail.com"" ""24237253+brynn-code@users.noreply.github.com""}",763.0,94
+Python,microsoft,2023-11-08,19,14,"#{""linatanglily@gmail.com"" ""39176492+Jasmin3q@users.noreply.github.com"" ""yigao@microsoft.com"" ""99283778+gjwoods@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""40321821+ChenJieting@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""lmamsat@hotmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""350053002@qq.com"" ""henu_rz@163.com"" ""47586720+wangchao1230@users.noreply.github.com""}",782.0,94
+Python,microsoft,2023-11-09,14,11,"#{""linatanglily@gmail.com"" ""51689021+liucheng-ms@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""75061414+chenslucky@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""122586854+asmeyyh@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""49483542+chjinche@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com""}",796.0,95
+Python,microsoft,2023-11-10,13,9,"#{""linatanglily@gmail.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""49483542+chjinche@users.noreply.github.com"" ""24237253+brynn-code@users.noreply.github.com"" ""20365062+liuyuhang13@users.noreply.github.com""}",809.0,95
+Python,microsoft,2023-11-13,18,12,"#{""linatanglily@gmail.com"" ""49388944+dorisjoy@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""0mza987@gmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""hod@microsoft.com"" ""32232238+jiaochenlu@users.noreply.github.com"" ""47586720+wangchao1230@users.noreply.github.com""}",827.0,96
+Python,microsoft,2023-11-14,19,13,"#{""linatanglily@gmail.com"" ""39176492+Jasmin3q@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""lmamsat@hotmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""hod@microsoft.com"" ""24237253+brynn-code@users.noreply.github.com"" ""149111518+murraysean@users.noreply.github.com"" ""20365062+liuyuhang13@users.noreply.github.com"" ""henu_rz@163.com"" ""47586720+wangchao1230@users.noreply.github.com""}",846.0,97
+Python,microsoft,2023-11-15,8,5,"#{""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""hod@microsoft.com"" ""32232238+jiaochenlu@users.noreply.github.com""}",854.0,97
+Python,microsoft,2023-11-16,8,7,"#{""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""24237253+brynn-code@users.noreply.github.com""}",862.0,97
+Python,microsoft,2023-11-17,12,8,"#{""linatanglily@gmail.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""hod@microsoft.com"" ""32232238+jiaochenlu@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com"" ""henu_rz@163.com""}",874.0,97
+Python,microsoft,2023-11-18,1,1,"#{""henu_rz@163.com""}",875.0,97
+Python,microsoft,2023-11-20,13,10,"#{""37076709+elliotzh@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""hod@microsoft.com"" ""95729303+jiazengcindy@users.noreply.github.com"" ""49483542+chjinche@users.noreply.github.com"" ""henu_rz@163.com"" ""47586720+wangchao1230@users.noreply.github.com""}",888.0,97
+Python,microsoft,2023-11-21,11,9,"#{""linatanglily@gmail.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyzhang@microsoft.com"" ""hod@microsoft.com"" ""49483542+chjinche@users.noreply.github.com"" ""henu_rz@163.com""}",899.0,97
+Python,microsoft,2023-11-22,8,7,"#{""51689021+liucheng-ms@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com""}",907.0,97
+Python,microsoft,2023-11-23,8,8,"#{""37076709+elliotzh@users.noreply.github.com"" ""51689021+liucheng-ms@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""lmamsat@hotmail.com"" ""115983968+Hhhilulu@users.noreply.github.com"" ""350053002@qq.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com""}",915.0,97
+Python,microsoft,2023-11-24,12,8,"#{""linatanglily@gmail.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""hod@microsoft.com"" ""350053002@qq.com""}",927.0,97
+Python,microsoft,2023-11-25,1,1,"#{""chenyin@microsoft.com""}",928.0,97
+Python,microsoft,2023-11-27,5,5,"#{""37076709+elliotzh@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""henu_rz@163.com""}",933.0,97
+Python,microsoft,2023-11-28,19,11,"#{""37076709+elliotzh@users.noreply.github.com"" ""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""lmamsat@hotmail.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""hod@microsoft.com"" ""350053002@qq.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com""}",952.0,97
+Python,microsoft,2023-11-29,20,13,"#{""linatanglily@gmail.com"" ""37076709+elliotzh@users.noreply.github.com"" ""95913588+chw-microsoft@users.noreply.github.com"" ""yigao@microsoft.com"" ""99283778+gjwoods@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyzhang@microsoft.com"" ""chenyin@microsoft.com"" ""350053002@qq.com"" ""20365062+liuyuhang13@users.noreply.github.com"" ""henu_rz@163.com""}",972.0,97
+Python,microsoft,2023-11-30,14,8,"#{""krisbock@users.noreply.github.com"" ""37076709+elliotzh@users.noreply.github.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""24237253+brynn-code@users.noreply.github.com"" ""henu_rz@163.com""}",986.0,98
+Python,microsoft,2023-12-01,15,11,"#{""linatanglily@gmail.com"" ""37076709+elliotzh@users.noreply.github.com"" ""51689021+liucheng-ms@users.noreply.github.com"" ""75061414+chenslucky@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""tangheyi.09@gmail.com"" ""phoenix.seek@gmail.com"" ""chenyzhang@microsoft.com"" ""chenyin@microsoft.com"" ""49483542+chjinche@users.noreply.github.com"" ""henu_rz@163.com""}",1001.0,98
+Python,microsoft,2023-12-04,9,9,"#{""linatanglily@gmail.com"" ""yigao@microsoft.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""chenyin@microsoft.com"" ""81400625+jr-MS@users.noreply.github.com"" ""350053002@qq.com"" ""bowen.guo.kaust@outlook.com"" ""95729303+jiazengcindy@users.noreply.github.com""}",1010.0,100
+Python,microsoft,2023-12-05,7,5,"#{""yigao@microsoft.com"" ""38847871+zhengfeiwang@users.noreply.github.com"" ""111329184+PeiwenGaoMS@users.noreply.github.com"" ""phoenix.seek@gmail.com"" ""zhangyuan@users.noreply.github.com""}",1017.0,101

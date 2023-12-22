@@ -1,0 +1,401 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,IndicoDataSolutions,2018-06-10,2,1,"#{""alec.radford@gmail.com""}",2.0,1
+Python,IndicoDataSolutions,2018-06-11,4,1,"#{""root@bare-metal-kubernetes-worker-172-18-1-137.sci.openai.org""}",6.0,2
+Python,IndicoDataSolutions,2018-06-14,4,1,"#{""madison@indico.io""}",10.0,3
+Python,IndicoDataSolutions,2018-06-15,2,1,"#{""madison@indico.io""}",12.0,3
+Python,IndicoDataSolutions,2018-06-18,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",20.0,4
+Python,IndicoDataSolutions,2018-06-19,30,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",50.0,4
+Python,IndicoDataSolutions,2018-06-20,40,3,"#{""work@Bens-MacBook.local"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",90.0,5
+Python,IndicoDataSolutions,2018-06-21,30,3,"#{""work@Bens-MacBook.local"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",120.0,5
+Python,IndicoDataSolutions,2018-06-22,22,3,"#{""work@Bens-MacBook.local"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",142.0,5
+Python,IndicoDataSolutions,2018-06-25,6,1,"#{""madison@indico.io""}",148.0,5
+Python,IndicoDataSolutions,2018-06-26,16,3,"#{""work@Bens-MacBook.local"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",164.0,5
+Python,IndicoDataSolutions,2018-06-27,2,1,"#{""benlt@hotmail.co.uk""}",166.0,5
+Python,IndicoDataSolutions,2018-06-28,28,4,"#{""work@Bens-MacBook.local"" ""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",194.0,6
+Python,IndicoDataSolutions,2018-06-29,24,2,"#{""work@Bens-MacBook.local"" ""madison@indico.io""}",218.0,6
+Python,IndicoDataSolutions,2018-07-02,14,2,"#{""work@Bens-MacBook.local"" ""benlt@hotmail.co.uk""}",232.0,6
+Python,IndicoDataSolutions,2018-07-03,8,2,"#{""work@Bens-MacBook.local"" ""benlt@hotmail.co.uk""}",240.0,6
+Python,IndicoDataSolutions,2018-07-04,6,1,"#{""madison@indico.io""}",246.0,6
+Python,IndicoDataSolutions,2018-07-05,22,4,"#{""work@Bens-MacBook.local"" ""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",268.0,6
+Python,IndicoDataSolutions,2018-07-06,28,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",296.0,6
+Python,IndicoDataSolutions,2018-07-09,4,1,"#{""benlt@hotmail.co.uk""}",300.0,6
+Python,IndicoDataSolutions,2018-07-10,6,3,"#{""madison@indico.io"" ""jp@bellgeorge.com"" ""benlt@hotmail.co.uk""}",306.0,7
+Python,IndicoDataSolutions,2018-07-11,32,1,"#{""madison@indico.io""}",338.0,7
+Python,IndicoDataSolutions,2018-07-12,10,1,"#{""madison@indico.io""}",348.0,7
+Python,IndicoDataSolutions,2018-07-13,2,1,"#{""madison@indico.io""}",350.0,7
+Python,IndicoDataSolutions,2018-07-14,2,1,"#{""madison@indico.io""}",352.0,7
+Python,IndicoDataSolutions,2018-07-16,12,1,"#{""madison@indico.io""}",364.0,7
+Python,IndicoDataSolutions,2018-07-17,14,1,"#{""madison@indico.io""}",378.0,7
+Python,IndicoDataSolutions,2018-07-18,14,1,"#{""madison@indico.io""}",392.0,7
+Python,IndicoDataSolutions,2018-07-19,40,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",432.0,7
+Python,IndicoDataSolutions,2018-07-20,62,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",494.0,7
+Python,IndicoDataSolutions,2018-07-21,2,1,"#{""madison@indico.io""}",496.0,7
+Python,IndicoDataSolutions,2018-07-23,16,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",512.0,7
+Python,IndicoDataSolutions,2018-07-24,18,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",530.0,7
+Python,IndicoDataSolutions,2018-07-25,14,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",544.0,7
+Python,IndicoDataSolutions,2018-07-26,16,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",560.0,7
+Python,IndicoDataSolutions,2018-07-27,14,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",574.0,7
+Python,IndicoDataSolutions,2018-07-30,10,1,"#{""madison@indico.io""}",584.0,7
+Python,IndicoDataSolutions,2018-07-31,14,1,"#{""madison@indico.io""}",598.0,7
+Python,IndicoDataSolutions,2018-08-01,22,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",620.0,7
+Python,IndicoDataSolutions,2018-08-02,30,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",650.0,7
+Python,IndicoDataSolutions,2018-08-03,28,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",678.0,7
+Python,IndicoDataSolutions,2018-08-06,28,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",706.0,7
+Python,IndicoDataSolutions,2018-08-07,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",718.0,7
+Python,IndicoDataSolutions,2018-08-08,20,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",738.0,7
+Python,IndicoDataSolutions,2018-08-09,18,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",756.0,7
+Python,IndicoDataSolutions,2018-08-10,2,1,"#{""madison@indico.io""}",758.0,7
+Python,IndicoDataSolutions,2018-08-13,2,1,"#{""madison@indico.io""}",760.0,7
+Python,IndicoDataSolutions,2018-08-14,18,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",778.0,7
+Python,IndicoDataSolutions,2018-08-15,14,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",792.0,7
+Python,IndicoDataSolutions,2018-08-16,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",802.0,7
+Python,IndicoDataSolutions,2018-08-17,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",814.0,7
+Python,IndicoDataSolutions,2018-08-19,6,1,"#{""madison@indico.io""}",820.0,7
+Python,IndicoDataSolutions,2018-08-20,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",830.0,7
+Python,IndicoDataSolutions,2018-08-21,30,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",860.0,7
+Python,IndicoDataSolutions,2018-08-22,12,1,"#{""madison@indico.io""}",872.0,7
+Python,IndicoDataSolutions,2018-08-27,4,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",876.0,7
+Python,IndicoDataSolutions,2018-08-28,8,1,"#{""madison@indico.io""}",884.0,7
+Python,IndicoDataSolutions,2018-08-29,16,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",900.0,7
+Python,IndicoDataSolutions,2018-08-30,4,1,"#{""madison@indico.io""}",904.0,7
+Python,IndicoDataSolutions,2018-09-05,4,1,"#{""madison@indico.io""}",908.0,7
+Python,IndicoDataSolutions,2018-09-06,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",916.0,7
+Python,IndicoDataSolutions,2018-09-07,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",926.0,7
+Python,IndicoDataSolutions,2018-09-10,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",934.0,7
+Python,IndicoDataSolutions,2018-09-11,2,1,"#{""madison@indico.io""}",936.0,7
+Python,IndicoDataSolutions,2018-09-12,10,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",946.0,7
+Python,IndicoDataSolutions,2018-09-13,6,1,"#{""madison@indico.io""}",952.0,7
+Python,IndicoDataSolutions,2018-09-14,4,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",956.0,7
+Python,IndicoDataSolutions,2018-09-17,4,1,"#{""benlt@hotmail.co.uk""}",960.0,7
+Python,IndicoDataSolutions,2018-09-18,12,1,"#{""madison@indico.io""}",972.0,7
+Python,IndicoDataSolutions,2018-09-20,4,1,"#{""benlt@hotmail.co.uk""}",976.0,7
+Python,IndicoDataSolutions,2018-09-21,2,1,"#{""benlt@hotmail.co.uk""}",978.0,7
+Python,IndicoDataSolutions,2018-09-25,6,1,"#{""benlt@hotmail.co.uk""}",984.0,7
+Python,IndicoDataSolutions,2018-09-26,2,1,"#{""benlt@hotmail.co.uk""}",986.0,7
+Python,IndicoDataSolutions,2018-10-01,2,1,"#{""benlt@hotmail.co.uk""}",988.0,7
+Python,IndicoDataSolutions,2018-10-03,4,1,"#{""benlt@hotmail.co.uk""}",992.0,7
+Python,IndicoDataSolutions,2018-10-04,6,1,"#{""madison@indico.io""}",998.0,7
+Python,IndicoDataSolutions,2018-10-05,6,3,"#{""benlt@hotmail.co.uk"" ""ben@indico.io"" ""ben@liskeard.me.uk""}",1004.0,8
+Python,IndicoDataSolutions,2018-10-09,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1014.0,8
+Python,IndicoDataSolutions,2018-10-10,38,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1052.0,8
+Python,IndicoDataSolutions,2018-10-11,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1064.0,8
+Python,IndicoDataSolutions,2018-10-12,4,1,"#{""benlt@hotmail.co.uk""}",1068.0,8
+Python,IndicoDataSolutions,2018-10-15,10,1,"#{""benlt@hotmail.co.uk""}",1078.0,8
+Python,IndicoDataSolutions,2018-10-16,16,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1094.0,8
+Python,IndicoDataSolutions,2018-10-17,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1106.0,8
+Python,IndicoDataSolutions,2018-10-19,34,1,"#{""madison@indico.io""}",1140.0,8
+Python,IndicoDataSolutions,2018-10-24,22,2,"#{""rgreen@goscoutgo.com"" ""madison@indico.io""}",1162.0,9
+Python,IndicoDataSolutions,2018-10-25,14,2,"#{""dimidd@gmail.com"" ""madison@indico.io""}",1176.0,10
+Python,IndicoDataSolutions,2018-10-26,4,1,"#{""madison@indico.io""}",1180.0,10
+Python,IndicoDataSolutions,2018-10-29,2,1,"#{""madison@indico.io""}",1182.0,10
+Python,IndicoDataSolutions,2018-10-30,10,1,"#{""madison@indico.io""}",1192.0,10
+Python,IndicoDataSolutions,2018-10-31,10,1,"#{""madison@indico.io""}",1202.0,10
+Python,IndicoDataSolutions,2018-11-01,4,2,"#{""robin.ruede@philips.com"" ""madison@indico.io""}",1206.0,11
+Python,IndicoDataSolutions,2018-11-06,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1218.0,11
+Python,IndicoDataSolutions,2018-11-07,8,1,"#{""benlt@hotmail.co.uk""}",1226.0,11
+Python,IndicoDataSolutions,2018-11-08,14,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1240.0,11
+Python,IndicoDataSolutions,2018-11-09,4,1,"#{""madison@indico.io""}",1244.0,11
+Python,IndicoDataSolutions,2018-11-13,8,2,"#{""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",1252.0,11
+Python,IndicoDataSolutions,2018-11-15,12,1,"#{""madison@indico.io""}",1264.0,11
+Python,IndicoDataSolutions,2018-12-10,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1272.0,11
+Python,IndicoDataSolutions,2018-12-20,2,1,"#{""madison@indico.io""}",1274.0,11
+Python,IndicoDataSolutions,2018-12-21,2,1,"#{""madison@indico.io""}",1276.0,11
+Python,IndicoDataSolutions,2018-12-27,4,1,"#{""benlt@hotmail.co.uk""}",1280.0,11
+Python,IndicoDataSolutions,2018-12-28,4,1,"#{""benlt@hotmail.co.uk""}",1284.0,11
+Python,IndicoDataSolutions,2019-01-02,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1290.0,11
+Python,IndicoDataSolutions,2019-01-03,4,1,"#{""madison@indico.io""}",1294.0,11
+Python,IndicoDataSolutions,2019-01-04,2,1,"#{""madison@indico.io""}",1296.0,11
+Python,IndicoDataSolutions,2019-01-07,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1306.0,11
+Python,IndicoDataSolutions,2019-01-08,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1312.0,11
+Python,IndicoDataSolutions,2019-01-09,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1318.0,11
+Python,IndicoDataSolutions,2019-01-10,2,1,"#{""matthew.bayer@indico.io""}",1320.0,12
+Python,IndicoDataSolutions,2019-01-11,10,2,"#{""matthew.bayer@indico.io"" ""benlt@hotmail.co.uk""}",1330.0,12
+Python,IndicoDataSolutions,2019-01-14,4,1,"#{""benlt@hotmail.co.uk""}",1334.0,12
+Python,IndicoDataSolutions,2019-01-15,2,1,"#{""matthew.bayer@indico.io""}",1336.0,12
+Python,IndicoDataSolutions,2019-01-16,4,1,"#{""matthew.bayer@indico.io""}",1340.0,12
+Python,IndicoDataSolutions,2019-01-17,2,1,"#{""madison@indico.io""}",1342.0,12
+Python,IndicoDataSolutions,2019-01-18,20,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1362.0,12
+Python,IndicoDataSolutions,2019-01-22,6,1,"#{""benlt@hotmail.co.uk""}",1368.0,12
+Python,IndicoDataSolutions,2019-01-24,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1374.0,12
+Python,IndicoDataSolutions,2019-01-28,2,1,"#{""benlt@hotmail.co.uk""}",1376.0,12
+Python,IndicoDataSolutions,2019-01-30,2,1,"#{""benlt@hotmail.co.uk""}",1378.0,12
+Python,IndicoDataSolutions,2019-01-31,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1386.0,12
+Python,IndicoDataSolutions,2019-02-01,2,1,"#{""benlt@hotmail.co.uk""}",1388.0,12
+Python,IndicoDataSolutions,2019-02-04,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1394.0,12
+Python,IndicoDataSolutions,2019-02-08,4,1,"#{""madison@indico.io""}",1398.0,12
+Python,IndicoDataSolutions,2019-02-11,2,1,"#{""madison@indico.io""}",1400.0,12
+Python,IndicoDataSolutions,2019-02-20,4,1,"#{""madison@indico.io""}",1404.0,12
+Python,IndicoDataSolutions,2019-02-22,4,1,"#{""madison@indico.io""}",1408.0,12
+Python,IndicoDataSolutions,2019-02-26,2,1,"#{""benlt@hotmail.co.uk""}",1410.0,12
+Python,IndicoDataSolutions,2019-02-27,4,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1414.0,12
+Python,IndicoDataSolutions,2019-03-05,6,1,"#{""benlt@hotmail.co.uk""}",1420.0,12
+Python,IndicoDataSolutions,2019-03-06,6,1,"#{""benlt@hotmail.co.uk""}",1426.0,12
+Python,IndicoDataSolutions,2019-03-11,2,1,"#{""lily.zhang@indico.io""}",1428.0,13
+Python,IndicoDataSolutions,2019-03-14,8,2,"#{""lily.zhang@indico.io"" ""benlt@hotmail.co.uk""}",1436.0,13
+Python,IndicoDataSolutions,2019-03-15,18,3,"#{""lily.zhang@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1454.0,13
+Python,IndicoDataSolutions,2019-03-17,2,1,"#{""madison@indico.io""}",1456.0,13
+Python,IndicoDataSolutions,2019-03-18,24,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""ben@liskeard.me.uk""}",1480.0,13
+Python,IndicoDataSolutions,2019-03-19,8,3,"#{""lily.zhang@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1488.0,13
+Python,IndicoDataSolutions,2019-03-20,8,4,"#{""lily.zhang@indico.io"" ""lilyhzhang1029@gmail.com"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1496.0,14
+Python,IndicoDataSolutions,2019-03-22,8,1,"#{""madison@indico.io""}",1504.0,14
+Python,IndicoDataSolutions,2019-03-26,6,1,"#{""madison@indico.io""}",1510.0,14
+Python,IndicoDataSolutions,2019-03-27,6,1,"#{""benlt@hotmail.co.uk""}",1516.0,14
+Python,IndicoDataSolutions,2019-03-28,16,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1532.0,14
+Python,IndicoDataSolutions,2019-03-29,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1540.0,14
+Python,IndicoDataSolutions,2019-04-02,4,1,"#{""madison@indico.io""}",1544.0,14
+Python,IndicoDataSolutions,2019-04-03,10,2,"#{""madison@indico.io"" ""guillermogsjc@gmail.com""}",1554.0,15
+Python,IndicoDataSolutions,2019-04-04,2,1,"#{""madison@indico.io""}",1556.0,15
+Python,IndicoDataSolutions,2019-04-05,4,1,"#{""benlt@hotmail.co.uk""}",1560.0,15
+Python,IndicoDataSolutions,2019-04-23,4,1,"#{""madison@indico.io""}",1564.0,15
+Python,IndicoDataSolutions,2019-04-27,6,1,"#{""benlt@hotmail.co.uk""}",1570.0,15
+Python,IndicoDataSolutions,2019-04-28,6,1,"#{""benlt@hotmail.co.uk""}",1576.0,15
+Python,IndicoDataSolutions,2019-05-01,26,3,"#{""lily.zhang@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1602.0,15
+Python,IndicoDataSolutions,2019-05-02,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1612.0,15
+Python,IndicoDataSolutions,2019-05-03,14,1,"#{""benlt@hotmail.co.uk""}",1626.0,15
+Python,IndicoDataSolutions,2019-05-13,2,1,"#{""benlt@hotmail.co.uk""}",1628.0,15
+Python,IndicoDataSolutions,2019-05-14,2,1,"#{""madison@indico.io""}",1630.0,15
+Python,IndicoDataSolutions,2019-05-15,2,1,"#{""madison@indico.io""}",1632.0,15
+Python,IndicoDataSolutions,2019-05-16,4,1,"#{""madison@indico.io""}",1636.0,15
+Python,IndicoDataSolutions,2019-05-17,4,1,"#{""madison@indico.io""}",1640.0,15
+Python,IndicoDataSolutions,2019-05-20,2,1,"#{""madison@indico.io""}",1642.0,15
+Python,IndicoDataSolutions,2019-05-21,4,1,"#{""madison@indico.io""}",1646.0,15
+Python,IndicoDataSolutions,2019-05-22,6,1,"#{""madison@indico.io""}",1652.0,15
+Python,IndicoDataSolutions,2019-05-23,16,3,"#{""matthew.bayer@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1668.0,15
+Python,IndicoDataSolutions,2019-05-24,14,3,"#{""matthew.bayer@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1682.0,15
+Python,IndicoDataSolutions,2019-05-28,12,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1694.0,15
+Python,IndicoDataSolutions,2019-05-29,12,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1706.0,15
+Python,IndicoDataSolutions,2019-05-30,20,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1726.0,15
+Python,IndicoDataSolutions,2019-05-31,14,3,"#{""matthew.bayer@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1740.0,15
+Python,IndicoDataSolutions,2019-06-03,10,3,"#{""matthew.bayer@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",1750.0,15
+Python,IndicoDataSolutions,2019-06-04,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1760.0,15
+Python,IndicoDataSolutions,2019-06-05,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",1768.0,15
+Python,IndicoDataSolutions,2019-06-06,4,1,"#{""matthew.bayer@indico.io""}",1772.0,15
+Python,IndicoDataSolutions,2019-06-07,14,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1786.0,15
+Python,IndicoDataSolutions,2019-06-10,10,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1796.0,15
+Python,IndicoDataSolutions,2019-06-12,2,1,"#{""madison@indico.io""}",1798.0,15
+Python,IndicoDataSolutions,2019-06-13,12,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1810.0,15
+Python,IndicoDataSolutions,2019-06-14,2,1,"#{""madison@indico.io""}",1812.0,15
+Python,IndicoDataSolutions,2019-06-16,2,1,"#{""ameasure@gmail.com""}",1814.0,16
+Python,IndicoDataSolutions,2019-06-19,12,1,"#{""matthew.bayer@indico.io""}",1826.0,16
+Python,IndicoDataSolutions,2019-06-20,8,1,"#{""matthew.bayer@indico.io""}",1834.0,16
+Python,IndicoDataSolutions,2019-06-21,8,1,"#{""matthew.bayer@indico.io""}",1842.0,16
+Python,IndicoDataSolutions,2019-06-24,2,1,"#{""matthew.bayer@indico.io""}",1844.0,16
+Python,IndicoDataSolutions,2019-06-25,14,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1858.0,16
+Python,IndicoDataSolutions,2019-06-26,8,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1866.0,16
+Python,IndicoDataSolutions,2019-06-27,6,1,"#{""madison@indico.io""}",1872.0,16
+Python,IndicoDataSolutions,2019-06-28,2,1,"#{""matthew.bayer@indico.io""}",1874.0,16
+Python,IndicoDataSolutions,2019-07-02,2,1,"#{""matthew.bayer@indico.io""}",1876.0,16
+Python,IndicoDataSolutions,2019-07-03,2,1,"#{""matthew.bayer@indico.io""}",1878.0,16
+Python,IndicoDataSolutions,2019-07-05,2,1,"#{""matthew.bayer@indico.io""}",1880.0,16
+Python,IndicoDataSolutions,2019-07-10,6,1,"#{""matthew.bayer@indico.io""}",1886.0,16
+Python,IndicoDataSolutions,2019-07-12,2,1,"#{""matthew.bayer@indico.io""}",1888.0,16
+Python,IndicoDataSolutions,2019-07-15,4,1,"#{""matthew.bayer@indico.io""}",1892.0,16
+Python,IndicoDataSolutions,2019-07-16,10,1,"#{""matthew.bayer@indico.io""}",1902.0,16
+Python,IndicoDataSolutions,2019-07-17,8,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1910.0,16
+Python,IndicoDataSolutions,2019-07-18,6,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1916.0,16
+Python,IndicoDataSolutions,2019-07-19,6,1,"#{""matthew.bayer@indico.io""}",1922.0,16
+Python,IndicoDataSolutions,2019-07-23,4,1,"#{""matthew.bayer@indico.io""}",1926.0,16
+Python,IndicoDataSolutions,2019-07-25,2,1,"#{""benlt@hotmail.co.uk""}",1928.0,16
+Python,IndicoDataSolutions,2019-07-29,2,1,"#{""matthew.bayer@indico.io""}",1930.0,16
+Python,IndicoDataSolutions,2019-07-31,6,1,"#{""matthew.bayer@indico.io""}",1936.0,16
+Python,IndicoDataSolutions,2019-08-01,14,1,"#{""matthew.bayer@indico.io""}",1950.0,16
+Python,IndicoDataSolutions,2019-08-02,4,1,"#{""matthew.bayer@indico.io""}",1954.0,16
+Python,IndicoDataSolutions,2019-08-05,10,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1964.0,16
+Python,IndicoDataSolutions,2019-08-06,2,1,"#{""madison@indico.io""}",1966.0,16
+Python,IndicoDataSolutions,2019-08-07,4,1,"#{""matthew.bayer@indico.io""}",1970.0,16
+Python,IndicoDataSolutions,2019-08-08,8,1,"#{""matthew.bayer@indico.io""}",1978.0,16
+Python,IndicoDataSolutions,2019-08-13,10,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",1988.0,16
+Python,IndicoDataSolutions,2019-08-14,12,3,"#{""matthew.bayer@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",2000.0,16
+Python,IndicoDataSolutions,2019-08-15,8,2,"#{""matthew.bayer@indico.io"" ""benlt@hotmail.co.uk""}",2008.0,16
+Python,IndicoDataSolutions,2019-08-16,20,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",2028.0,16
+Python,IndicoDataSolutions,2019-08-17,2,1,"#{""madison@indico.io""}",2030.0,16
+Python,IndicoDataSolutions,2019-08-19,14,2,"#{""matthew.bayer@indico.io"" ""madison@indico.io""}",2044.0,16
+Python,IndicoDataSolutions,2019-08-20,10,2,"#{""matthew.bayer@indico.io"" ""benlt@hotmail.co.uk""}",2054.0,16
+Python,IndicoDataSolutions,2019-08-21,14,2,"#{""madison@indico.io"" ""meb287@cornell.edu""}",2068.0,17
+Python,IndicoDataSolutions,2019-08-22,10,3,"#{""matthew.bayer@indico.io"" ""benlt@hotmail.co.uk"" ""meb287@cornell.edu""}",2078.0,17
+Python,IndicoDataSolutions,2019-08-23,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2090.0,17
+Python,IndicoDataSolutions,2019-08-26,2,1,"#{""benlt@hotmail.co.uk""}",2092.0,17
+Python,IndicoDataSolutions,2019-08-27,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2102.0,17
+Python,IndicoDataSolutions,2019-08-28,6,1,"#{""benlt@hotmail.co.uk""}",2108.0,17
+Python,IndicoDataSolutions,2019-08-29,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2116.0,17
+Python,IndicoDataSolutions,2019-08-30,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2128.0,17
+Python,IndicoDataSolutions,2019-09-02,2,1,"#{""madison@indico.io""}",2130.0,17
+Python,IndicoDataSolutions,2019-09-03,6,1,"#{""benlt@hotmail.co.uk""}",2136.0,17
+Python,IndicoDataSolutions,2019-09-04,14,1,"#{""benlt@hotmail.co.uk""}",2150.0,17
+Python,IndicoDataSolutions,2019-09-06,8,1,"#{""benlt@hotmail.co.uk""}",2158.0,17
+Python,IndicoDataSolutions,2019-09-09,20,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2178.0,17
+Python,IndicoDataSolutions,2019-09-10,14,1,"#{""benlt@hotmail.co.uk""}",2192.0,17
+Python,IndicoDataSolutions,2019-09-11,2,1,"#{""benlt@hotmail.co.uk""}",2194.0,17
+Python,IndicoDataSolutions,2019-09-12,2,1,"#{""benlt@hotmail.co.uk""}",2196.0,17
+Python,IndicoDataSolutions,2019-09-16,6,1,"#{""benlt@hotmail.co.uk""}",2202.0,17
+Python,IndicoDataSolutions,2019-09-18,2,1,"#{""benlt@hotmail.co.uk""}",2204.0,17
+Python,IndicoDataSolutions,2019-09-20,2,1,"#{""madison@indico.io""}",2206.0,17
+Python,IndicoDataSolutions,2019-09-23,2,1,"#{""benlt@hotmail.co.uk""}",2208.0,17
+Python,IndicoDataSolutions,2019-09-27,4,1,"#{""benlt@hotmail.co.uk""}",2212.0,17
+Python,IndicoDataSolutions,2019-10-01,4,1,"#{""benlt@hotmail.co.uk""}",2216.0,17
+Python,IndicoDataSolutions,2019-10-05,2,1,"#{""benlt@hotmail.co.uk""}",2218.0,17
+Python,IndicoDataSolutions,2019-10-09,2,1,"#{""benlt@hotmail.co.uk""}",2220.0,17
+Python,IndicoDataSolutions,2019-10-10,4,1,"#{""benlt@hotmail.co.uk""}",2224.0,17
+Python,IndicoDataSolutions,2019-10-14,2,1,"#{""benlt@hotmail.co.uk""}",2226.0,17
+Python,IndicoDataSolutions,2019-10-15,12,1,"#{""benlt@hotmail.co.uk""}",2238.0,17
+Python,IndicoDataSolutions,2019-10-16,2,1,"#{""benlt@hotmail.co.uk""}",2240.0,17
+Python,IndicoDataSolutions,2019-10-17,4,1,"#{""benlt@hotmail.co.uk""}",2244.0,17
+Python,IndicoDataSolutions,2019-10-22,4,1,"#{""madison@indico.io""}",2248.0,17
+Python,IndicoDataSolutions,2019-11-01,2,1,"#{""benlt@hotmail.co.uk""}",2250.0,17
+Python,IndicoDataSolutions,2019-11-04,2,1,"#{""madison@indico.io""}",2252.0,17
+Python,IndicoDataSolutions,2019-11-05,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2260.0,17
+Python,IndicoDataSolutions,2019-11-06,8,1,"#{""madison@indico.io""}",2268.0,17
+Python,IndicoDataSolutions,2019-11-07,2,1,"#{""madison@indico.io""}",2270.0,17
+Python,IndicoDataSolutions,2019-11-08,8,2,"#{""lily.zhang@indico.io"" ""madison@indico.io""}",2278.0,17
+Python,IndicoDataSolutions,2019-11-12,2,1,"#{""lily.zhang@indico.io""}",2280.0,17
+Python,IndicoDataSolutions,2019-11-13,8,2,"#{""lily.zhang@indico.io"" ""benlt@hotmail.co.uk""}",2288.0,17
+Python,IndicoDataSolutions,2019-11-14,2,1,"#{""benlt@hotmail.co.uk""}",2290.0,17
+Python,IndicoDataSolutions,2019-11-15,4,2,"#{""lily.zhang@indico.io"" ""madison@indico.io""}",2294.0,17
+Python,IndicoDataSolutions,2019-11-18,16,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2310.0,17
+Python,IndicoDataSolutions,2019-11-19,4,1,"#{""madison@indico.io""}",2314.0,17
+Python,IndicoDataSolutions,2019-11-20,2,1,"#{""madison@indico.io""}",2316.0,17
+Python,IndicoDataSolutions,2019-11-21,4,1,"#{""benlt@hotmail.co.uk""}",2320.0,17
+Python,IndicoDataSolutions,2019-11-22,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2330.0,17
+Python,IndicoDataSolutions,2019-11-25,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2338.0,17
+Python,IndicoDataSolutions,2019-11-26,2,1,"#{""madison@indico.io""}",2340.0,17
+Python,IndicoDataSolutions,2019-12-11,2,1,"#{""benlt@hotmail.co.uk""}",2342.0,17
+Python,IndicoDataSolutions,2019-12-12,2,1,"#{""benlt@hotmail.co.uk""}",2344.0,17
+Python,IndicoDataSolutions,2019-12-16,2,1,"#{""madison@indico.io""}",2346.0,17
+Python,IndicoDataSolutions,2019-12-26,2,1,"#{""dimidd@gmail.com""}",2348.0,17
+Python,IndicoDataSolutions,2019-12-30,2,1,"#{""benlt@hotmail.co.uk""}",2350.0,17
+Python,IndicoDataSolutions,2019-12-31,2,1,"#{""madison@indico.io""}",2352.0,17
+Python,IndicoDataSolutions,2020-01-01,2,1,"#{""dimidd@gmail.com""}",2354.0,17
+Python,IndicoDataSolutions,2020-01-02,12,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2366.0,17
+Python,IndicoDataSolutions,2020-01-03,2,1,"#{""lilyhzhang1029@gmail.com""}",2368.0,17
+Python,IndicoDataSolutions,2020-01-08,2,1,"#{""madison@indico.io""}",2370.0,17
+Python,IndicoDataSolutions,2020-01-09,12,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""daniel.p.shank@gmail.com""}",2382.0,18
+Python,IndicoDataSolutions,2020-01-10,20,3,"#{""madison@indico.io"" ""benlt@hotmail.co.uk"" ""daniel.p.shank@gmail.com""}",2402.0,18
+Python,IndicoDataSolutions,2020-01-13,8,1,"#{""benlt@hotmail.co.uk""}",2410.0,18
+Python,IndicoDataSolutions,2020-01-14,4,1,"#{""benlt@hotmail.co.uk""}",2414.0,18
+Python,IndicoDataSolutions,2020-01-15,4,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2418.0,18
+Python,IndicoDataSolutions,2020-01-16,2,1,"#{""madison@indico.io""}",2420.0,18
+Python,IndicoDataSolutions,2020-01-17,10,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2430.0,18
+Python,IndicoDataSolutions,2020-01-21,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2436.0,18
+Python,IndicoDataSolutions,2020-01-22,6,1,"#{""benlt@hotmail.co.uk""}",2442.0,18
+Python,IndicoDataSolutions,2020-01-23,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2448.0,18
+Python,IndicoDataSolutions,2020-01-27,4,1,"#{""benlt@hotmail.co.uk""}",2452.0,18
+Python,IndicoDataSolutions,2020-01-28,12,1,"#{""benlt@hotmail.co.uk""}",2464.0,18
+Python,IndicoDataSolutions,2020-01-29,22,1,"#{""benlt@hotmail.co.uk""}",2486.0,18
+Python,IndicoDataSolutions,2020-01-30,6,1,"#{""benlt@hotmail.co.uk""}",2492.0,18
+Python,IndicoDataSolutions,2020-01-31,4,1,"#{""benlt@hotmail.co.uk""}",2496.0,18
+Python,IndicoDataSolutions,2020-02-04,2,1,"#{""benlt@hotmail.co.uk""}",2498.0,18
+Python,IndicoDataSolutions,2020-02-06,4,1,"#{""benlt@hotmail.co.uk""}",2502.0,18
+Python,IndicoDataSolutions,2020-02-07,4,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2506.0,18
+Python,IndicoDataSolutions,2020-02-10,2,1,"#{""benlt@hotmail.co.uk""}",2508.0,18
+Python,IndicoDataSolutions,2020-02-12,2,1,"#{""benlt@hotmail.co.uk""}",2510.0,18
+Python,IndicoDataSolutions,2020-02-14,6,1,"#{""benlt@hotmail.co.uk""}",2516.0,18
+Python,IndicoDataSolutions,2020-03-03,2,1,"#{""madison@indico.io""}",2518.0,18
+Python,IndicoDataSolutions,2020-03-04,16,1,"#{""benlt@hotmail.co.uk""}",2534.0,18
+Python,IndicoDataSolutions,2020-03-05,2,1,"#{""benlt@hotmail.co.uk""}",2536.0,18
+Python,IndicoDataSolutions,2020-03-11,4,1,"#{""benlt@hotmail.co.uk""}",2540.0,18
+Python,IndicoDataSolutions,2020-03-12,6,1,"#{""benlt@hotmail.co.uk""}",2546.0,18
+Python,IndicoDataSolutions,2020-03-13,6,1,"#{""benlt@hotmail.co.uk""}",2552.0,18
+Python,IndicoDataSolutions,2020-03-18,8,1,"#{""madison@indico.io""}",2560.0,18
+Python,IndicoDataSolutions,2020-03-25,6,1,"#{""benlt@hotmail.co.uk""}",2566.0,18
+Python,IndicoDataSolutions,2020-03-31,2,1,"#{""benlt@hotmail.co.uk""}",2568.0,18
+Python,IndicoDataSolutions,2020-04-01,4,1,"#{""benlt@hotmail.co.uk""}",2572.0,18
+Python,IndicoDataSolutions,2020-04-02,4,1,"#{""benlt@hotmail.co.uk""}",2576.0,18
+Python,IndicoDataSolutions,2020-04-03,2,1,"#{""benlt@hotmail.co.uk""}",2578.0,18
+Python,IndicoDataSolutions,2020-04-06,8,1,"#{""benlt@hotmail.co.uk""}",2586.0,18
+Python,IndicoDataSolutions,2020-04-07,16,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2602.0,18
+Python,IndicoDataSolutions,2020-04-09,6,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2608.0,18
+Python,IndicoDataSolutions,2020-04-12,2,1,"#{""jerry.genser@indico.io""}",2610.0,19
+Python,IndicoDataSolutions,2020-04-13,16,3,"#{""jerry.genser@indico.io"" ""madison@indico.io"" ""benlt@hotmail.co.uk""}",2626.0,19
+Python,IndicoDataSolutions,2020-04-14,6,2,"#{""jerry.genser@indico.io"" ""benlt@hotmail.co.uk""}",2632.0,19
+Python,IndicoDataSolutions,2020-04-15,4,1,"#{""benlt@hotmail.co.uk""}",2636.0,19
+Python,IndicoDataSolutions,2020-04-16,14,1,"#{""benlt@hotmail.co.uk""}",2650.0,19
+Python,IndicoDataSolutions,2020-04-17,4,1,"#{""benlt@hotmail.co.uk""}",2654.0,19
+Python,IndicoDataSolutions,2020-04-21,10,1,"#{""benlt@hotmail.co.uk""}",2664.0,19
+Python,IndicoDataSolutions,2020-04-23,18,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2682.0,19
+Python,IndicoDataSolutions,2020-04-24,6,1,"#{""benlt@hotmail.co.uk""}",2688.0,19
+Python,IndicoDataSolutions,2020-05-05,2,1,"#{""benlt@hotmail.co.uk""}",2690.0,19
+Python,IndicoDataSolutions,2020-05-06,2,1,"#{""benlt@hotmail.co.uk""}",2692.0,19
+Python,IndicoDataSolutions,2020-05-12,2,1,"#{""benlt@hotmail.co.uk""}",2694.0,19
+Python,IndicoDataSolutions,2020-05-15,10,1,"#{""benlt@hotmail.co.uk""}",2704.0,19
+Python,IndicoDataSolutions,2020-05-18,2,1,"#{""benlt@hotmail.co.uk""}",2706.0,19
+Python,IndicoDataSolutions,2020-05-21,2,1,"#{""benlt@hotmail.co.uk""}",2708.0,19
+Python,IndicoDataSolutions,2020-05-22,8,1,"#{""benlt@hotmail.co.uk""}",2716.0,19
+Python,IndicoDataSolutions,2020-05-26,4,1,"#{""benlt@hotmail.co.uk""}",2720.0,19
+Python,IndicoDataSolutions,2020-05-27,2,1,"#{""benlt@hotmail.co.uk""}",2722.0,19
+Python,IndicoDataSolutions,2020-05-29,6,1,"#{""benlt@hotmail.co.uk""}",2728.0,19
+Python,IndicoDataSolutions,2020-06-01,2,1,"#{""benlt@hotmail.co.uk""}",2730.0,19
+Python,IndicoDataSolutions,2020-06-02,4,1,"#{""benlt@hotmail.co.uk""}",2734.0,19
+Python,IndicoDataSolutions,2020-06-03,4,1,"#{""benlt@hotmail.co.uk""}",2738.0,19
+Python,IndicoDataSolutions,2020-06-05,2,1,"#{""benlt@hotmail.co.uk""}",2740.0,19
+Python,IndicoDataSolutions,2020-06-08,2,1,"#{""benlt@hotmail.co.uk""}",2742.0,19
+Python,IndicoDataSolutions,2020-06-23,4,2,"#{""lilyhzhang1029@gmail.com"" ""madison@indico.io""}",2746.0,19
+Python,IndicoDataSolutions,2020-06-24,6,1,"#{""benlt@hotmail.co.uk""}",2752.0,19
+Python,IndicoDataSolutions,2020-06-25,4,1,"#{""benlt@hotmail.co.uk""}",2756.0,19
+Python,IndicoDataSolutions,2020-06-29,2,1,"#{""benlt@hotmail.co.uk""}",2758.0,19
+Python,IndicoDataSolutions,2020-07-06,2,1,"#{""lilyhzhang1029@gmail.com""}",2760.0,19
+Python,IndicoDataSolutions,2020-07-09,2,1,"#{""astha.patni@indico.io""}",2762.0,20
+Python,IndicoDataSolutions,2020-07-10,2,1,"#{""eamon@itofisher.com""}",2764.0,21
+Python,IndicoDataSolutions,2020-07-12,2,1,"#{""madison@indico.io""}",2766.0,21
+Python,IndicoDataSolutions,2020-07-14,2,1,"#{""madison@indico.io""}",2768.0,21
+Python,IndicoDataSolutions,2020-07-21,4,1,"#{""benlt@hotmail.co.uk""}",2772.0,21
+Python,IndicoDataSolutions,2020-07-23,6,1,"#{""benlt@hotmail.co.uk""}",2778.0,21
+Python,IndicoDataSolutions,2020-07-28,2,1,"#{""benlt@hotmail.co.uk""}",2780.0,21
+Python,IndicoDataSolutions,2020-07-29,2,1,"#{""benlt@hotmail.co.uk""}",2782.0,21
+Python,IndicoDataSolutions,2020-08-14,8,2,"#{""madison@indico.io"" ""benlt@hotmail.co.uk""}",2790.0,21
+Python,IndicoDataSolutions,2020-08-17,2,1,"#{""benlt@hotmail.co.uk""}",2792.0,21
+Python,IndicoDataSolutions,2020-08-19,12,3,"#{""lily.zhang@indico.io"" ""lilyhzhang1029@gmail.com"" ""benlt@hotmail.co.uk""}",2804.0,21
+Python,IndicoDataSolutions,2020-08-20,2,1,"#{""madison@indico.io""}",2806.0,21
+Python,IndicoDataSolutions,2020-08-21,32,2,"#{""lily.zhang@indico.io"" ""lilyhzhang1029@gmail.com""}",2838.0,21
+Python,IndicoDataSolutions,2020-08-24,30,3,"#{""lily.zhang@indico.io"" ""lilyhzhang1029@gmail.com"" ""benlt@hotmail.co.uk""}",2868.0,21
+Python,IndicoDataSolutions,2020-08-25,4,2,"#{""lily.zhang@indico.io"" ""lilyhzhang1029@gmail.com""}",2872.0,21
+Python,IndicoDataSolutions,2020-09-23,2,1,"#{""benlt@hotmail.co.uk""}",2874.0,21
+Python,IndicoDataSolutions,2020-10-08,4,1,"#{""benlt@hotmail.co.uk""}",2878.0,21
+Python,IndicoDataSolutions,2020-10-14,2,1,"#{""benlt@hotmail.co.uk""}",2880.0,21
+Python,IndicoDataSolutions,2020-10-15,4,1,"#{""madison@indico.io""}",2884.0,21
+Python,IndicoDataSolutions,2020-10-20,4,1,"#{""benlt@hotmail.co.uk""}",2888.0,21
+Python,IndicoDataSolutions,2020-10-23,2,1,"#{""benlt@hotmail.co.uk""}",2890.0,21
+Python,IndicoDataSolutions,2020-10-28,4,1,"#{""benlt@hotmail.co.uk""}",2894.0,21
+Python,IndicoDataSolutions,2020-10-29,4,1,"#{""madison@indico.io""}",2898.0,21
+Python,IndicoDataSolutions,2020-10-30,4,1,"#{""benlt@hotmail.co.uk""}",2902.0,21
+Python,IndicoDataSolutions,2020-11-03,4,1,"#{""benlt@hotmail.co.uk""}",2906.0,21
+Python,IndicoDataSolutions,2020-11-10,2,1,"#{""madison@indico.io""}",2908.0,21
+Python,IndicoDataSolutions,2020-11-24,2,1,"#{""benlt@hotmail.co.uk""}",2910.0,21
+Python,IndicoDataSolutions,2021-01-05,2,1,"#{""benlt@hotmail.co.uk""}",2912.0,21
+Python,IndicoDataSolutions,2021-02-18,2,1,"#{""rahil.dedhia@indico.io""}",2914.0,22
+Python,IndicoDataSolutions,2021-02-19,4,2,"#{""rahil.dedhia@indico.io"" ""ben@indico.io""}",2918.0,22
+Python,IndicoDataSolutions,2021-03-17,2,1,"#{""eamon@itofisher.com""}",2920.0,22
+Python,IndicoDataSolutions,2021-03-18,2,1,"#{""madison@indico.io""}",2922.0,22
+Python,IndicoDataSolutions,2021-04-12,4,1,"#{""eamon@itofisher.com""}",2926.0,22
+Python,IndicoDataSolutions,2021-04-14,2,1,"#{""eamon@itofisher.com""}",2928.0,22
+Python,IndicoDataSolutions,2021-05-04,2,1,"#{""eamon@itofisher.com""}",2930.0,22
+Python,IndicoDataSolutions,2021-05-05,4,1,"#{""eamon@itofisher.com""}",2934.0,22
+Python,IndicoDataSolutions,2021-06-15,2,1,"#{""rahil.dedhia@indico.io""}",2936.0,22
+Python,IndicoDataSolutions,2021-07-12,2,1,"#{""rahil.dedhia@indico.io""}",2938.0,22
+Python,IndicoDataSolutions,2021-07-13,2,1,"#{""ben@indico.io""}",2940.0,22
+Python,IndicoDataSolutions,2021-07-16,2,1,"#{""madison@indico.io""}",2942.0,22
+Python,IndicoDataSolutions,2021-08-17,2,1,"#{""ben@indico.io""}",2944.0,22
+Python,IndicoDataSolutions,2021-09-10,2,1,"#{""eamon@itofisher.com""}",2946.0,22
+Python,IndicoDataSolutions,2021-09-13,2,1,"#{""rahil.dedhia@indico.io""}",2948.0,22
+Python,IndicoDataSolutions,2021-09-28,2,1,"#{""benlt@hotmail.co.uk""}",2950.0,22
+Python,IndicoDataSolutions,2021-09-29,2,1,"#{""ben@indico.io""}",2952.0,22
+Python,IndicoDataSolutions,2021-10-01,2,1,"#{""rahil.dedhia@indico.io""}",2954.0,22
+Python,IndicoDataSolutions,2021-10-20,2,1,"#{""ben@indico.io""}",2956.0,22
+Python,IndicoDataSolutions,2021-11-18,4,1,"#{""ben@indico.io""}",2960.0,22
+Python,IndicoDataSolutions,2021-12-20,6,2,"#{""madison@indico.io"" ""ben@indico.io""}",2966.0,22
+Python,IndicoDataSolutions,2022-03-16,2,1,"#{""benlt@hotmail.co.uk""}",2968.0,22
+Python,IndicoDataSolutions,2022-05-03,2,1,"#{""astha.patni@indico.io""}",2970.0,22
+Python,IndicoDataSolutions,2022-05-18,2,1,"#{""benlt@hotmail.co.uk""}",2972.0,22
+Python,IndicoDataSolutions,2022-06-01,2,1,"#{""benlt@hotmail.co.uk""}",2974.0,22
+Python,IndicoDataSolutions,2022-06-02,2,1,"#{""benlt@hotmail.co.uk""}",2976.0,22
+Python,IndicoDataSolutions,2022-06-16,2,1,"#{""benlt@hotmail.co.uk""}",2978.0,22
+Python,IndicoDataSolutions,2023-01-26,2,1,"#{""73897499+chris-wells-13@users.noreply.github.com""}",2980.0,23
+Python,IndicoDataSolutions,2023-01-31,2,1,"#{""73897499+chris-wells-13@users.noreply.github.com""}",2982.0,23
+Python,IndicoDataSolutions,2023-03-02,2,1,"#{""astha.patni@indico.io""}",2984.0,23
+Python,IndicoDataSolutions,2023-03-14,2,1,"#{""benlt@hotmail.co.uk""}",2986.0,23
+Python,IndicoDataSolutions,2023-03-29,2,1,"#{""benlt@hotmail.co.uk""}",2988.0,23
+Python,IndicoDataSolutions,2023-04-07,2,1,"#{""benlt@hotmail.co.uk""}",2990.0,23
+Python,IndicoDataSolutions,2023-05-12,2,1,"#{""jacob.anderson0004@gmail.com""}",2992.0,24
+Python,IndicoDataSolutions,2023-05-18,4,1,"#{""jacob.anderson0004@gmail.com""}",2996.0,24
+Python,IndicoDataSolutions,2023-09-28,2,1,"#{""benlt@hotmail.co.uk""}",2998.0,24
+Python,IndicoDataSolutions,2023-09-29,4,1,"#{""benlt@hotmail.co.uk""}",3002.0,24
+Python,IndicoDataSolutions,2023-10-17,2,1,"#{""benlt@hotmail.co.uk""}",3004.0,24

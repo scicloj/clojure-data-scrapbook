@@ -1,0 +1,208 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,hashobject,2015-05-22,5,1,"#{""podviaznikov@gmail.com""}",5.0,1
+Clojure,hashobject,2015-05-27,10,1,"#{""podviaznikov@gmail.com""}",15.0,1
+Clojure,hashobject,2015-05-31,12,1,"#{""podviaznikov@gmail.com""}",27.0,1
+Clojure,hashobject,2015-06-01,1,1,"#{""podviaznikov@gmail.com""}",28.0,1
+Clojure,hashobject,2015-06-02,9,1,"#{""podviaznikov@gmail.com""}",37.0,1
+Clojure,hashobject,2015-06-03,1,1,"#{""podviaznikov@gmail.com""}",38.0,1
+Clojure,hashobject,2015-06-04,4,1,"#{""podviaznikov@gmail.com""}",42.0,1
+Clojure,hashobject,2015-06-06,2,1,"#{""podviaznikov@gmail.com""}",44.0,1
+Clojure,hashobject,2015-06-14,29,4,"#{""tommi@iki.fi"" ""juho.teperi@iki.fi"" ""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",73.0,4
+Clojure,hashobject,2015-06-15,7,1,"#{""podviaznikov@gmail.com""}",80.0,4
+Clojure,hashobject,2015-06-16,9,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",89.0,4
+Clojure,hashobject,2015-06-17,5,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",94.0,4
+Clojure,hashobject,2015-06-18,17,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",111.0,4
+Clojure,hashobject,2015-06-19,12,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",123.0,4
+Clojure,hashobject,2015-06-20,12,2,"#{""juho.teperi@iki.fi"" ""podviaznikov@gmail.com""}",135.0,4
+Clojure,hashobject,2015-06-24,12,1,"#{""podviaznikov@gmail.com""}",147.0,4
+Clojure,hashobject,2015-06-25,3,1,"#{""podviaznikov@gmail.com""}",150.0,4
+Clojure,hashobject,2015-06-29,5,1,"#{""podviaznikov@gmail.com""}",155.0,4
+Clojure,hashobject,2015-07-04,13,3,"#{""juho.teperi@iki.fi"" ""daemianmack@gmail.com"" ""podviaznikov@gmail.com""}",168.0,5
+Clojure,hashobject,2015-07-05,9,3,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi"" ""podviaznikov@gmail.com""}",177.0,6
+Clojure,hashobject,2015-07-10,1,1,"#{""podviaznikov@gmail.com""}",178.0,6
+Clojure,hashobject,2015-08-15,2,1,"#{""podviaznikov@gmail.com""}",180.0,6
+Clojure,hashobject,2015-09-10,2,1,"#{""podviaznikov@gmail.com""}",182.0,6
+Clojure,hashobject,2015-09-13,1,1,"#{""podviaznikov@gmail.com""}",183.0,6
+Clojure,hashobject,2015-09-19,5,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",188.0,6
+Clojure,hashobject,2015-09-20,11,4,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi"" ""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",199.0,6
+Clojure,hashobject,2015-09-25,3,1,"#{""martinklepsch@googlemail.com""}",202.0,6
+Clojure,hashobject,2015-10-01,3,1,"#{""martinklepsch@googlemail.com""}",205.0,6
+Clojure,hashobject,2015-10-03,7,1,"#{""podviaznikov@gmail.com""}",212.0,6
+Clojure,hashobject,2015-10-08,5,1,"#{""podviaznikov@gmail.com""}",217.0,6
+Clojure,hashobject,2015-10-09,3,1,"#{""podviaznikov@gmail.com""}",220.0,6
+Clojure,hashobject,2015-10-10,15,2,"#{""teeepeli@gmail.com"" ""podviaznikov@gmail.com""}",235.0,6
+Clojure,hashobject,2015-10-11,9,1,"#{""podviaznikov@gmail.com""}",244.0,6
+Clojure,hashobject,2015-10-12,5,1,"#{""podviaznikov@gmail.com""}",249.0,6
+Clojure,hashobject,2015-10-13,4,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",253.0,6
+Clojure,hashobject,2015-10-14,1,1,"#{""podviaznikov@gmail.com""}",254.0,6
+Clojure,hashobject,2015-10-16,2,1,"#{""podviaznikov@gmail.com""}",256.0,6
+Clojure,hashobject,2015-10-17,8,1,"#{""podviaznikov@gmail.com""}",264.0,6
+Clojure,hashobject,2015-10-18,13,1,"#{""podviaznikov@gmail.com""}",277.0,6
+Clojure,hashobject,2015-10-22,6,1,"#{""podviaznikov@gmail.com""}",283.0,6
+Clojure,hashobject,2015-10-25,1,1,"#{""podviaznikov@gmail.com""}",284.0,6
+Clojure,hashobject,2015-10-31,1,1,"#{""podviaznikov@gmail.com""}",285.0,6
+Clojure,hashobject,2015-11-01,5,1,"#{""podviaznikov@gmail.com""}",290.0,6
+Clojure,hashobject,2015-11-04,2,1,"#{""podviaznikov@gmail.com""}",292.0,6
+Clojure,hashobject,2015-11-05,6,2,"#{""alan@dipert.org"" ""podviaznikov@gmail.com""}",298.0,7
+Clojure,hashobject,2015-11-06,1,1,"#{""podviaznikov@gmail.com""}",299.0,7
+Clojure,hashobject,2015-11-12,1,1,"#{""podviaznikov@gmail.com""}",300.0,7
+Clojure,hashobject,2015-11-22,1,1,"#{""podviaznikov@gmail.com""}",301.0,7
+Clojure,hashobject,2015-11-27,1,1,"#{""podviaznikov@gmail.com""}",302.0,7
+Clojure,hashobject,2015-11-28,2,1,"#{""podviaznikov@gmail.com""}",304.0,7
+Clojure,hashobject,2015-11-29,9,1,"#{""podviaznikov@gmail.com""}",313.0,7
+Clojure,hashobject,2015-12-01,4,1,"#{""podviaznikov@gmail.com""}",317.0,7
+Clojure,hashobject,2015-12-16,3,1,"#{""podviaznikov@gmail.com""}",320.0,7
+Clojure,hashobject,2015-12-26,3,1,"#{""podviaznikov@gmail.com""}",323.0,7
+Clojure,hashobject,2016-01-15,3,1,"#{""podviaznikov@gmail.com""}",326.0,7
+Clojure,hashobject,2016-01-16,7,3,"#{""juho.teperi@iki.fi"" ""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",333.0,7
+Clojure,hashobject,2016-01-17,8,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",341.0,7
+Clojure,hashobject,2016-01-18,2,2,"#{""juho.teperi@iki.fi"" ""podviaznikov@gmail.com""}",343.0,7
+Clojure,hashobject,2016-01-19,5,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",348.0,7
+Clojure,hashobject,2016-01-21,7,1,"#{""podviaznikov@gmail.com""}",355.0,7
+Clojure,hashobject,2016-01-23,1,1,"#{""martinklepsch@gmail.com""}",356.0,8
+Clojure,hashobject,2016-01-29,2,2,"#{""robin.gower@infonomics.ltd.uk"" ""martinklepsch@gmail.com""}",358.0,9
+Clojure,hashobject,2016-02-10,2,2,"#{""adam@adamfrey.me"" ""podviaznikov@gmail.com""}",360.0,10
+Clojure,hashobject,2016-02-23,7,1,"#{""juho.teperi@iki.fi""}",367.0,10
+Clojure,hashobject,2016-03-11,9,1,"#{""podviaznikov@gmail.com""}",376.0,10
+Clojure,hashobject,2016-03-17,2,1,"#{""podviaznikov@gmail.com""}",378.0,10
+Clojure,hashobject,2016-03-18,2,1,"#{""podviaznikov@gmail.com""}",380.0,10
+Clojure,hashobject,2016-07-26,2,1,"#{""podviaznikov@gmail.com""}",382.0,10
+Clojure,hashobject,2016-07-28,6,1,"#{""juho.teperi@iki.fi""}",388.0,10
+Clojure,hashobject,2016-07-30,8,3,"#{""teeepeli@gmail.com"" ""juho.teperi@iki.fi"" ""podviaznikov@gmail.com""}",396.0,10
+Clojure,hashobject,2016-07-31,3,1,"#{""juho.teperi@iki.fi""}",399.0,10
+Clojure,hashobject,2016-08-10,5,2,"#{""juho.teperi@iki.fi"" ""martinklepsch@googlemail.com""}",404.0,10
+Clojure,hashobject,2016-09-28,3,2,"#{""podviaznikov@gmail.com"" ""erik.dannenberg@bbe-consulting.de""}",407.0,11
+Clojure,hashobject,2016-10-03,2,2,"#{""marty.gentillon@gmail.com"" ""podviaznikov@gmail.com""}",409.0,12
+Clojure,hashobject,2016-10-18,1,1,"#{""juho.teperi@iki.fi""}",410.0,12
+Clojure,hashobject,2016-10-27,4,2,"#{""podviaznikov@gmail.com"" ""martinklepsch@googlemail.com""}",414.0,12
+Clojure,hashobject,2016-10-28,1,1,"#{""podviaznikov@gmail.com""}",415.0,12
+Clojure,hashobject,2016-11-08,1,1,"#{""erik.dannenberg@bbe-consulting.de""}",416.0,12
+Clojure,hashobject,2016-11-19,1,1,"#{""brent@hiidef.com""}",417.0,13
+Clojure,hashobject,2016-11-20,2,2,"#{""teeepeli@gmail.com"" ""brent@hiidef.com""}",419.0,13
+Clojure,hashobject,2016-11-24,2,2,"#{""juho.teperi@iki.fi"" ""podviaznikov@gmail.com""}",421.0,13
+Clojure,hashobject,2016-11-29,1,1,"#{""teeepeli@gmail.com""}",422.0,13
+Clojure,hashobject,2016-11-30,1,1,"#{""brent@hiidef.com""}",423.0,13
+Clojure,hashobject,2016-12-01,5,1,"#{""brent@hiidef.com""}",428.0,13
+Clojure,hashobject,2016-12-02,3,1,"#{""brent@hiidef.com""}",431.0,13
+Clojure,hashobject,2016-12-03,11,1,"#{""brent@hiidef.com""}",442.0,13
+Clojure,hashobject,2016-12-04,17,1,"#{""brent@hiidef.com""}",459.0,13
+Clojure,hashobject,2016-12-05,19,2,"#{""brent@hiidef.com"" ""podviaznikov@gmail.com""}",478.0,13
+Clojure,hashobject,2016-12-06,6,2,"#{""brent@hiidef.com"" ""podviaznikov@gmail.com""}",484.0,13
+Clojure,hashobject,2016-12-07,7,2,"#{""brent@hiidef.com"" ""podviaznikov@gmail.com""}",491.0,13
+Clojure,hashobject,2016-12-08,3,1,"#{""brent@hiidef.com""}",494.0,13
+Clojure,hashobject,2016-12-10,6,1,"#{""brent@hiidef.com""}",500.0,13
+Clojure,hashobject,2016-12-11,3,1,"#{""brent@hiidef.com""}",503.0,13
+Clojure,hashobject,2016-12-12,4,1,"#{""brent@hiidef.com""}",507.0,13
+Clojure,hashobject,2016-12-15,1,1,"#{""brent@hiidef.com""}",508.0,13
+Clojure,hashobject,2016-12-16,2,2,"#{""brent@hiidef.com"" ""podviaznikov@gmail.com""}",510.0,13
+Clojure,hashobject,2016-12-17,3,1,"#{""brent@hiidef.com""}",513.0,13
+Clojure,hashobject,2016-12-24,1,1,"#{""podviaznikov@gmail.com""}",514.0,13
+Clojure,hashobject,2016-12-26,1,1,"#{""podviaznikov@gmail.com""}",515.0,13
+Clojure,hashobject,2016-12-27,2,1,"#{""brent@hiidef.com""}",517.0,13
+Clojure,hashobject,2016-12-31,1,1,"#{""brent@hiidef.com""}",518.0,13
+Clojure,hashobject,2017-01-03,5,2,"#{""brent@hiidef.com"" ""podviaznikov@gmail.com""}",523.0,13
+Clojure,hashobject,2017-01-05,3,1,"#{""brent@hiidef.com""}",526.0,13
+Clojure,hashobject,2017-01-07,5,2,"#{""brent@hiidef.com"" ""podviaznikov@gmail.com""}",531.0,13
+Clojure,hashobject,2017-01-08,1,1,"#{""brent@hiidef.com""}",532.0,13
+Clojure,hashobject,2017-01-09,10,1,"#{""brent@hiidef.com""}",542.0,13
+Clojure,hashobject,2017-01-10,12,1,"#{""brent@hiidef.com""}",554.0,13
+Clojure,hashobject,2017-01-11,4,1,"#{""brent@hiidef.com""}",558.0,13
+Clojure,hashobject,2017-01-13,15,2,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com""}",573.0,14
+Clojure,hashobject,2017-01-14,6,2,"#{""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",579.0,14
+Clojure,hashobject,2017-01-15,10,3,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",589.0,14
+Clojure,hashobject,2017-01-16,19,1,"#{""brent.hagany@gmail.com""}",608.0,14
+Clojure,hashobject,2017-01-17,8,1,"#{""brent.hagany@gmail.com""}",616.0,14
+Clojure,hashobject,2017-01-18,10,1,"#{""brent.hagany@gmail.com""}",626.0,14
+Clojure,hashobject,2017-01-19,10,1,"#{""brent.hagany@gmail.com""}",636.0,14
+Clojure,hashobject,2017-01-20,5,1,"#{""brent.hagany@gmail.com""}",641.0,14
+Clojure,hashobject,2017-01-21,27,3,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",668.0,14
+Clojure,hashobject,2017-01-23,16,2,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com""}",684.0,14
+Clojure,hashobject,2017-01-24,6,3,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",690.0,14
+Clojure,hashobject,2017-01-25,10,2,"#{""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",700.0,14
+Clojure,hashobject,2017-01-26,6,2,"#{""brent@hiidef.com"" ""podviaznikov@gmail.com""}",706.0,14
+Clojure,hashobject,2017-01-27,2,1,"#{""podviaznikov@gmail.com""}",708.0,14
+Clojure,hashobject,2017-02-01,4,2,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com""}",712.0,14
+Clojure,hashobject,2017-02-02,5,3,"#{""brent.hagany@gmail.com"" ""podviaznikov@gmail.com"" ""alain@200ok.ch""}",717.0,15
+Clojure,hashobject,2017-02-03,1,1,"#{""brent.hagany@gmail.com""}",718.0,15
+Clojure,hashobject,2017-02-05,2,2,"#{""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",720.0,15
+Clojure,hashobject,2017-02-07,4,2,"#{""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",724.0,15
+Clojure,hashobject,2017-02-08,3,1,"#{""brent.hagany@gmail.com""}",727.0,15
+Clojure,hashobject,2017-02-09,1,1,"#{""brent.hagany@gmail.com""}",728.0,15
+Clojure,hashobject,2017-02-10,1,1,"#{""podviaznikov@gmail.com""}",729.0,15
+Clojure,hashobject,2017-02-11,4,2,"#{""brent.hagany@gmail.com"" ""tngjs0@gmail.com""}",733.0,16
+Clojure,hashobject,2017-02-12,1,1,"#{""podviaznikov@gmail.com""}",734.0,16
+Clojure,hashobject,2017-02-13,5,3,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",739.0,16
+Clojure,hashobject,2017-02-14,1,1,"#{""brent.hagany@gmail.com""}",740.0,16
+Clojure,hashobject,2017-02-15,1,1,"#{""podviaznikov@gmail.com""}",741.0,16
+Clojure,hashobject,2017-02-17,1,1,"#{""brent.hagany@gmail.com""}",742.0,16
+Clojure,hashobject,2017-02-18,8,2,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com""}",750.0,16
+Clojure,hashobject,2017-02-19,9,2,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com""}",759.0,16
+Clojure,hashobject,2017-02-20,7,2,"#{""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",766.0,16
+Clojure,hashobject,2017-02-23,1,1,"#{""podviaznikov@gmail.com""}",767.0,16
+Clojure,hashobject,2017-02-28,2,2,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com""}",769.0,16
+Clojure,hashobject,2017-03-01,5,3,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com"" ""podviaznikov@gmail.com""}",774.0,16
+Clojure,hashobject,2017-03-02,3,2,"#{""brent@hiidef.com"" ""brent.hagany@gmail.com""}",777.0,16
+Clojure,hashobject,2017-04-06,1,1,"#{""nico@nicorikken.eu""}",778.0,17
+Clojure,hashobject,2017-04-22,1,1,"#{""nico@nicorikken.eu""}",779.0,17
+Clojure,hashobject,2017-04-26,1,1,"#{""brent@hiidef.com""}",780.0,17
+Clojure,hashobject,2017-06-01,1,1,"#{""martinklepsch@googlemail.com""}",781.0,17
+Clojure,hashobject,2017-06-03,1,1,"#{""martinklepsch@googlemail.com""}",782.0,17
+Clojure,hashobject,2017-06-25,2,1,"#{""a.richiardi.work@gmail.com""}",784.0,18
+Clojure,hashobject,2017-07-04,1,1,"#{""martinklepsch@googlemail.com""}",785.0,18
+Clojure,hashobject,2017-07-14,1,1,"#{""kruse.christopher@gmail.com""}",786.0,19
+Clojure,hashobject,2017-08-11,1,1,"#{""podviaznikov@gmail.com""}",787.0,19
+Clojure,hashobject,2017-09-08,1,1,"#{""tngjs0@gmail.com""}",788.0,19
+Clojure,hashobject,2017-09-11,1,1,"#{""podviaznikov@gmail.com""}",789.0,19
+Clojure,hashobject,2017-10-29,2,2,"#{""brent.hagany@gmail.com"" ""a.richiardi.work@gmail.com""}",791.0,19
+Clojure,hashobject,2017-11-12,5,1,"#{""johannes.staffans@artory.com""}",796.0,20
+Clojure,hashobject,2017-11-13,1,1,"#{""podviaznikov@gmail.com""}",797.0,20
+Clojure,hashobject,2017-11-14,1,1,"#{""johannes.staffans@artory.com""}",798.0,20
+Clojure,hashobject,2017-11-17,1,1,"#{""podviaznikov@gmail.com""}",799.0,20
+Clojure,hashobject,2017-11-24,1,1,"#{""a.richiardi.work@gmail.com""}",800.0,20
+Clojure,hashobject,2017-11-26,1,1,"#{""podviaznikov@gmail.com""}",801.0,20
+Clojure,hashobject,2017-12-10,2,2,"#{""brent.hagany@gmail.com"" ""a.richiardi.work@gmail.com""}",803.0,20
+Clojure,hashobject,2017-12-25,1,1,"#{""brent.hagany@gmail.com""}",804.0,20
+Clojure,hashobject,2017-12-29,4,1,"#{""brent.hagany@gmail.com""}",808.0,20
+Clojure,hashobject,2018-01-03,1,1,"#{""brent.hagany@gmail.com""}",809.0,20
+Clojure,hashobject,2018-01-07,1,1,"#{""brent.hagany@gmail.com""}",810.0,20
+Clojure,hashobject,2018-01-08,1,1,"#{""a.richiardi.work@gmail.com""}",811.0,20
+Clojure,hashobject,2018-01-09,1,1,"#{""brent.hagany@gmail.com""}",812.0,20
+Clojure,hashobject,2018-01-21,2,2,"#{""brent.hagany@gmail.com"" ""johannes.staffans@gmail.com""}",814.0,21
+Clojure,hashobject,2018-03-18,1,1,"#{""jplane.tech@gmail.com""}",815.0,22
+Clojure,hashobject,2018-04-10,1,1,"#{""a.richiardi.work@gmail.com""}",816.0,22
+Clojure,hashobject,2018-04-11,2,1,"#{""anton@podviaznikov.com""}",818.0,23
+Clojure,hashobject,2018-11-08,1,1,"#{""ckruse@ballpointcarrot.net""}",819.0,24
+Clojure,hashobject,2018-11-09,1,1,"#{""anton@podviaznikov.com""}",820.0,24
+Clojure,hashobject,2018-12-11,5,1,"#{""anton@podviaznikov.com""}",825.0,24
+Clojure,hashobject,2019-02-04,2,2,"#{""anton@podviaznikov.com"" ""jayzawrotny@gmail.com""}",827.0,25
+Clojure,hashobject,2019-02-09,3,2,"#{""ldoctors@gmail.com"" ""jayzawrotny@gmail.com""}",830.0,26
+Clojure,hashobject,2019-02-10,6,1,"#{""anton@podviaznikov.com""}",836.0,26
+Clojure,hashobject,2019-02-11,3,1,"#{""ldoctors@gmail.com""}",839.0,26
+Clojure,hashobject,2019-02-23,3,1,"#{""ldoctors@gmail.com""}",842.0,26
+Clojure,hashobject,2019-02-24,1,1,"#{""anton@podviaznikov.com""}",843.0,26
+Clojure,hashobject,2019-02-26,4,1,"#{""ldoctors@gmail.com""}",847.0,26
+Clojure,hashobject,2019-03-01,1,1,"#{""ldoctors@gmail.com""}",848.0,26
+Clojure,hashobject,2019-03-15,1,1,"#{""ldoctors@gmail.com""}",849.0,26
+Clojure,hashobject,2019-03-25,1,1,"#{""anton@podviaznikov.com""}",850.0,26
+Clojure,hashobject,2019-04-22,1,1,"#{""brent.hagany@gmail.com""}",851.0,26
+Clojure,hashobject,2019-05-03,2,1,"#{""ldoctors@gmail.com""}",853.0,26
+Clojure,hashobject,2019-05-13,3,1,"#{""ldoctors@gmail.com""}",856.0,26
+Clojure,hashobject,2019-05-21,1,1,"#{""alain@200ok.ch""}",857.0,26
+Clojure,hashobject,2019-05-23,1,1,"#{""jjwiseman@gmail.com""}",858.0,27
+Clojure,hashobject,2019-05-25,1,1,"#{""anton@podviaznikov.com""}",859.0,27
+Clojure,hashobject,2019-06-14,1,1,"#{""anton@podviaznikov.com""}",860.0,27
+Clojure,hashobject,2019-07-07,1,1,"#{""a.richiardi.work@gmail.com""}",861.0,27
+Clojure,hashobject,2019-07-14,1,1,"#{""ldoctors@gmail.com""}",862.0,27
+Clojure,hashobject,2019-07-16,2,1,"#{""ldoctors@gmail.com""}",864.0,27
+Clojure,hashobject,2020-01-13,1,1,"#{""a.richiardi.work@gmail.com""}",865.0,27
+Clojure,hashobject,2020-01-31,1,1,"#{""ldoctors@gmail.com""}",866.0,27
+Clojure,hashobject,2020-03-21,1,1,"#{""chris@productscience.co.uk""}",867.0,28
+Clojure,hashobject,2020-05-24,2,1,"#{""ldoctors@gmail.com""}",869.0,28
+Clojure,hashobject,2020-07-06,1,1,"#{""giuliano@108.bz""}",870.0,29
+Clojure,hashobject,2020-10-17,2,1,"#{""alain@200ok.ch""}",872.0,29
+Clojure,hashobject,2020-10-21,3,1,"#{""alain@200ok.ch""}",875.0,29
+Clojure,hashobject,2020-11-01,1,1,"#{""alain@200ok.ch""}",876.0,29
+Clojure,hashobject,2020-11-02,1,1,"#{""alain@200ok.ch""}",877.0,29
+Clojure,hashobject,2020-12-21,1,1,"#{""a.richiardi.work@gmail.com""}",878.0,29
+Clojure,hashobject,2020-12-22,1,1,"#{""a.richiardi.work@gmail.com""}",879.0,29
+Clojure,hashobject,2020-12-23,1,1,"#{""a.richiardi.work@gmail.com""}",880.0,29

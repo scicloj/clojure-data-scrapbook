@@ -1,0 +1,73 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/Yuppiechef/datomic-schema,2013-08-07,11,1,"#tech.v3.dataset.column<string>[11]
+:email
+[cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com]",11.0,[{0 11}],0,11,0,0,0,0
+Clojure,https://github.com/Yuppiechef/datomic-schema,2013-08-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cmdrdats@gmail.com, cmdrdats@gmail.com]",13.0,[{0 13}],0,13,0,0,0,0
+Clojure,https://github.com/Yuppiechef/datomic-schema,2014-04-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[cmdrdats#gmail.com, cmdrdats#gmail.com]",15.0,"[{0 13, 4 2}]",0,13,0,0,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2014-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cmdrdats@gmail.com]",16.0,"[{0 14, 4 2}]",0,14,0,0,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2014-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stephen.brady@gmail.com]",17.0,"[{0 14, 4 2, 2 1}]",0,14,0,1,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-01-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[stephen.brady@gmail.com]",18.0,"[{0 14, 4 2, 2 2}]",0,14,0,2,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-01-07,7,3,"#tech.v3.dataset.column<string>[7]
+:email
+[cmdrdats@gmail.com, deon@yuppiechef.com, deon@yuppiechef.com, cmdrdats@gmail.com, cmdrdats@gmail.com, stephen.brady@gmail.com, deon@yuppiechef.com]",25.0,"[{0 17, 4 2, 2 3, 1 3}]",0,17,3,3,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-01-09,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[cmdrdats@gmail.com, cmdrdats@gmail.com, cmdrdats@gmail.com, stephen.brady@gmail.com, stephen.brady@gmail.com]",30.0,"[{0 20, 4 2, 2 5, 1 3}]",0,20,3,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cmdrdats@gmail.com]",31.0,"[{0 21, 4 2, 2 5, 1 3}]",0,21,3,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[deon@yuppiechef.com, deon@yuppiechef.com]",33.0,"[{0 21, 4 2, 2 5, 1 5}]",0,21,5,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-03-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[deon@yuppiechef.com]",34.0,"[{0 21, 4 2, 2 5, 1 6}]",0,21,6,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-04-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cmdrdats@gmail.com, jtmarmon@gmail.com]",36.0,"[{0 22, 4 2, 2 5, 1 6, ""other"" 1}]",1,22,6,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-04-14,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[cmdrdats@gmail.com, hermantamas@gmail.com, hermantamas@gmail.com]",39.0,"[{0 23, 4 2, 2 5, 1 6, ""other"" 3}]",3,23,6,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[deon@yuppiechef.com]",40.0,"[{0 23, 4 2, 2 5, 1 7, ""other"" 3}]",3,23,7,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-06-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github.to.soma@neverbox.com]",41.0,"[{0 23, 4 2, 2 5, 1 7, ""other"" 4}]",4,23,7,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-07-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cmdrdats@gmail.com, Valentinkwin38@hotmail.fr]",43.0,"[{0 24, 4 2, 2 5, 1 7, ""other"" 5}]",5,24,7,5,0,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2015-09-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cmdrdats@gmail.com, chris.blom@millmobile.com]",45.0,"[{0 25, 4 2, 2 5, 1 7, ""other"" 5, 3 1}]",5,25,7,5,1,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2016-02-23,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[cmdrdats@gmail.com, chris.blom@millmobile.com, chris.blom@millmobile.com]",48.0,"[{0 26, 4 2, 2 5, 1 7, ""other"" 5, 3 3}]",5,26,7,5,3,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2016-05-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cmdrdats@gmail.com, vadim.platonov@tuloscapital.com]",50.0,"[{0 27, 4 2, 2 5, 1 7, ""other"" 6, 3 3}]",6,27,7,5,3,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2016-12-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[charles@dyfis.net, charles@dyfis.net]",52.0,"[{0 27, 4 2, 2 5, 1 7, ""other"" 8, 3 3}]",8,27,7,5,3,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2016-12-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cmdrdats@gmail.com]",53.0,"[{0 28, 4 2, 2 5, 1 7, ""other"" 8, 3 3}]",8,28,7,5,3,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2017-02-14,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[cmdrdats@gmail.com, vadim.platonov@tuloscapital.com]",55.0,"[{0 29, 4 2, 2 5, 1 7, ""other"" 9, 3 3}]",9,29,7,5,3,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2019-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[cmdrdats@gmail.com]",56.0,"[{0 30, 4 2, 2 5, 1 7, ""other"" 9, 3 3}]",9,30,7,5,3,2
+Clojure,https://github.com/Yuppiechef/datomic-schema,2022-01-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[deon@yuppiechef.com, deon@yuppiechef.com]",58.0,"[{0 30, 4 2, 2 5, 1 9, ""other"" 9, 3 3}]",9,30,9,5,3,2

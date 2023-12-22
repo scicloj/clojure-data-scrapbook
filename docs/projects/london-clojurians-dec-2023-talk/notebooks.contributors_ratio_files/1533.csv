@@ -1,0 +1,19 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/openai/multi-agent-emergence-environments,2019-08-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[todor.m.markov@gmail.com, todor.m.markov@gmail.com]",2.0,[{0 2}],0,2,0,0,0,0
+Python,https://github.com/openai/multi-agent-emergence-environments,2019-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[todor.m.markov@gmail.com]",3.0,[{0 3}],0,3,0,0,0,0
+Python,https://github.com/openai/multi-agent-emergence-environments,2019-11-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com]",4.0,"[{0 3, 3 1}]",0,3,0,0,1,0
+Python,https://github.com/openai/multi-agent-emergence-environments,2020-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobabeke@gmail.com]",5.0,"[{0 3, 3 1, 1 1}]",0,3,1,0,1,0
+Python,https://github.com/openai/multi-agent-emergence-environments,2020-11-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bobabeke@gmail.com]",6.0,"[{0 3, 3 1, 1 2}]",0,3,2,0,1,0
+Python,https://github.com/openai/multi-agent-emergence-environments,2020-11-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bowen@openai.com]",7.0,"[{0 3, 3 1, 1 2, 2 1}]",0,3,2,1,1,0

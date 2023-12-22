@@ -1,0 +1,616 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/amsehili/auditok,2015-09-17,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, sehili@limsi.fr, amsehili@users.noreply.github.com]",3.0,"[{0 1, ""other"" 1, 1 1}]",1,1,1,0,0,0
+Python,https://github.com/amsehili/auditok,2015-09-22,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[amsehili@users.noreply.github.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",6.0,"[{0 3, ""other"" 1, 1 2}]",1,3,2,0,0,0
+Python,https://github.com/amsehili/auditok,2015-09-23,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",9.0,"[{0 6, ""other"" 1, 1 2}]",1,6,2,0,0,0
+Python,https://github.com/amsehili/auditok,2015-11-24,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amsehili@users.noreply.github.com, amine.sehili@gmail.com]",19.0,"[{0 12, ""other"" 1, 1 6}]",1,12,6,0,0,0
+Python,https://github.com/amsehili/auditok,2015-11-25,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amsehili@users.noreply.github.com, amine.sehili@gmail.com]",22.0,"[{0 14, ""other"" 1, 1 7}]",1,14,7,0,0,0
+Python,https://github.com/amsehili/auditok,2015-11-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",23.0,"[{0 15, ""other"" 1, 1 7}]",1,15,7,0,0,0
+Python,https://github.com/amsehili/auditok,2015-11-29,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[amsehili@users.noreply.github.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com]",32.0,"[{0 18, ""other"" 1, 1 13}]",1,18,13,0,0,0
+Python,https://github.com/amsehili/auditok,2015-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",33.0,"[{0 19, ""other"" 1, 1 13}]",1,19,13,0,0,0
+Python,https://github.com/amsehili/auditok,2015-12-02,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",39.0,"[{0 25, ""other"" 1, 1 13}]",1,25,13,0,0,0
+Python,https://github.com/amsehili/auditok,2015-12-03,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",45.0,"[{0 29, ""other"" 1, 1 15}]",1,29,15,0,0,0
+Python,https://github.com/amsehili/auditok,2015-12-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amsehili@users.noreply.github.com]",46.0,"[{0 29, ""other"" 1, 1 16}]",1,29,16,0,0,0
+Python,https://github.com/amsehili/auditok,2016-03-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",50.0,"[{0 33, ""other"" 1, 1 16}]",1,33,16,0,0,0
+Python,https://github.com/amsehili/auditok,2016-03-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",52.0,"[{0 35, ""other"" 1, 1 16}]",1,35,16,0,0,0
+Python,https://github.com/amsehili/auditok,2016-03-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",55.0,"[{0 38, ""other"" 1, 1 16}]",1,38,16,0,0,0
+Python,https://github.com/amsehili/auditok,2016-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taf2@users.noreply.github.com]",56.0,"[{0 38, ""other"" 1, 1 16, 2 1}]",1,38,16,1,0,0
+Python,https://github.com/amsehili/auditok,2016-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amsehili@users.noreply.github.com]",57.0,"[{0 38, ""other"" 1, 1 17, 2 1}]",1,38,17,1,0,0
+Python,https://github.com/amsehili/auditok,2016-04-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[taf2@users.noreply.github.com]",58.0,"[{0 38, ""other"" 1, 1 17, 2 2}]",1,38,17,2,0,0
+Python,https://github.com/amsehili/auditok,2016-04-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amsehili@users.noreply.github.com]",59.0,"[{0 38, ""other"" 1, 1 18, 2 2}]",1,38,18,2,0,0
+Python,https://github.com/amsehili/auditok,2016-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",61.0,"[{0 40, ""other"" 1, 1 18, 2 2}]",1,40,18,2,0,0
+Python,https://github.com/amsehili/auditok,2016-10-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, hoelzl.josef@gmail.com, hoelzl.josef@gmail.com]",65.0,"[{0 40, ""other"" 1, 1 20, 2 2, 3 2}]",1,40,20,2,2,0
+Python,https://github.com/amsehili/auditok,2017-01-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",70.0,"[{0 45, ""other"" 1, 1 20, 2 2, 3 2}]",1,45,20,2,2,0
+Python,https://github.com/amsehili/auditok,2017-02-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",74.0,"[{0 49, ""other"" 1, 1 20, 2 2, 3 2}]",1,49,20,2,2,0
+Python,https://github.com/amsehili/auditok,2018-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[pete@schwamb.net]",75.0,"[{0 49, ""other"" 1, 1 20, 2 2, 3 2, 4 1}]",1,49,20,2,2,1
+Python,https://github.com/amsehili/auditok,2018-09-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amsehili@users.noreply.github.com]",76.0,"[{0 49, ""other"" 1, 1 21, 2 2, 3 2, 4 1}]",1,49,21,2,2,1
+Python,https://github.com/amsehili/auditok,2018-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",77.0,"[{0 50, ""other"" 1, 1 21, 2 2, 3 2, 4 1}]",1,50,21,2,2,1
+Python,https://github.com/amsehili/auditok,2018-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",79.0,"[{0 52, ""other"" 1, 1 21, 2 2, 3 2, 4 1}]",1,52,21,2,2,1
+Python,https://github.com/amsehili/auditok,2018-11-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, mathieu.durand@ingeno.ca]",81.0,"[{0 53, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,53,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",83.0,"[{0 55, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,55,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-03,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",87.0,"[{0 59, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,59,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",90.0,"[{0 62, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,62,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",94.0,"[{0 66, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,66,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",98.0,"[{0 70, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,70,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",100.0,"[{0 72, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,72,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",102.0,"[{0 74, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,74,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",103.0,"[{0 75, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,75,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",104.0,"[{0 76, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,76,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-12,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",108.0,"[{0 80, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,80,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",109.0,"[{0 81, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,81,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",111.0,"[{0 83, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,83,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",112.0,"[{0 84, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,84,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",114.0,"[{0 86, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,86,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",115.0,"[{0 87, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,87,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",116.0,"[{0 88, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,88,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",117.0,"[{0 89, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,89,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-01-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",118.0,"[{0 90, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,90,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",119.0,"[{0 91, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,91,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",122.0,"[{0 94, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,94,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",125.0,"[{0 97, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,97,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",127.0,"[{0 99, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,99,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",129.0,"[{0 101, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,101,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",130.0,"[{0 102, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,102,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",131.0,"[{0 103, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,103,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",133.0,"[{0 105, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,105,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",134.0,"[{0 106, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,106,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",136.0,"[{0 108, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,108,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",137.0,"[{0 109, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,109,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",138.0,"[{0 110, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,110,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",140.0,"[{0 112, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,112,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",141.0,"[{0 113, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,113,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",143.0,"[{0 115, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,115,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",144.0,"[{0 116, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,116,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",146.0,"[{0 118, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,118,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",148.0,"[{0 120, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,120,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",149.0,"[{0 121, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,121,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",151.0,"[{0 123, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,123,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",152.0,"[{0 124, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,124,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-24,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",157.0,"[{0 129, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,129,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",158.0,"[{0 130, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,130,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",159.0,"[{0 131, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,131,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",160.0,"[{0 132, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,132,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",161.0,"[{0 133, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,133,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",163.0,"[{0 135, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,135,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",165.0,"[{0 137, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,137,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",166.0,"[{0 138, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,138,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",167.0,"[{0 139, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,139,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",168.0,"[{0 140, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,140,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",170.0,"[{0 142, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,142,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",172.0,"[{0 144, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,144,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",173.0,"[{0 145, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,145,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",175.0,"[{0 147, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,147,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",176.0,"[{0 148, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,148,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",178.0,"[{0 150, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,150,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",179.0,"[{0 151, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,151,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",182.0,"[{0 154, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,154,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",183.0,"[{0 155, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,155,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",184.0,"[{0 156, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,156,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",185.0,"[{0 157, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,157,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",186.0,"[{0 158, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,158,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-04-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",187.0,"[{0 159, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,159,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-04-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",188.0,"[{0 160, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,160,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-04-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",190.0,"[{0 162, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,162,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-04-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",191.0,"[{0 163, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,163,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",192.0,"[{0 164, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,164,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-04-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",193.0,"[{0 165, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,165,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",194.0,"[{0 166, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,166,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",195.0,"[{0 167, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,167,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",197.0,"[{0 169, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,169,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",198.0,"[{0 170, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,170,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",199.0,"[{0 171, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,171,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",200.0,"[{0 172, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,172,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",201.0,"[{0 173, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,173,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",202.0,"[{0 174, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,174,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",203.0,"[{0 175, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,175,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-05-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",204.0,"[{0 176, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,176,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",205.0,"[{0 177, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,177,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-06-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",206.0,"[{0 178, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,178,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-06-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",207.0,"[{0 179, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,179,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-06-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",209.0,"[{0 181, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,181,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-06-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",210.0,"[{0 182, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,182,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",211.0,"[{0 183, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,183,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",212.0,"[{0 184, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,184,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",213.0,"[{0 185, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,185,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",214.0,"[{0 186, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,186,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",215.0,"[{0 187, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,187,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",218.0,"[{0 190, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,190,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",220.0,"[{0 192, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,192,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",221.0,"[{0 193, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,193,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",224.0,"[{0 196, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,196,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",226.0,"[{0 198, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,198,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",227.0,"[{0 199, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,199,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",229.0,"[{0 201, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,201,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",230.0,"[{0 202, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,202,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",231.0,"[{0 203, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,203,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-19,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",236.0,"[{0 208, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,208,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",237.0,"[{0 209, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,209,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",239.0,"[{0 211, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,211,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",240.0,"[{0 212, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,212,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",241.0,"[{0 213, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,213,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",242.0,"[{0 214, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,214,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",243.0,"[{0 215, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,215,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",244.0,"[{0 216, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,216,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",245.0,"[{0 217, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,217,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-08-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",246.0,"[{0 218, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,218,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-08-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",247.0,"[{0 219, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,219,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",248.0,"[{0 220, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,220,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-08-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",250.0,"[{0 222, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,222,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-08-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",251.0,"[{0 223, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,223,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-08-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",253.0,"[{0 225, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,225,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",254.0,"[{0 226, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,226,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",255.0,"[{0 227, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,227,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",256.0,"[{0 228, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,228,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",257.0,"[{0 229, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,229,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",258.0,"[{0 230, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,230,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",259.0,"[{0 231, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,231,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",262.0,"[{0 234, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,234,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",263.0,"[{0 235, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,235,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-12,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",265.0,"[{0 237, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,237,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",267.0,"[{0 239, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,239,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",269.0,"[{0 241, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,241,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",271.0,"[{0 243, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,243,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",272.0,"[{0 244, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,244,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",273.0,"[{0 245, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,245,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",274.0,"[{0 246, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,246,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",275.0,"[{0 247, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,247,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",277.0,"[{0 249, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,249,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-29,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",280.0,"[{0 252, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,252,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-09-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",282.0,"[{0 254, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,254,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",284.0,"[{0 256, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,256,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",285.0,"[{0 257, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,257,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",288.0,"[{0 260, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,260,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-05,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",291.0,"[{0 263, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,263,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-06,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",294.0,"[{0 266, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,266,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",296.0,"[{0 268, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,268,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",299.0,"[{0 271, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,271,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-09,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",303.0,"[{0 275, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,275,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",305.0,"[{0 277, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,277,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",307.0,"[{0 279, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,279,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",310.0,"[{0 282, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,282,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",312.0,"[{0 284, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,284,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",314.0,"[{0 286, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,286,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",315.0,"[{0 287, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,287,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",316.0,"[{0 288, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,288,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-18,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",320.0,"[{0 292, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,292,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",322.0,"[{0 294, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,294,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",326.0,"[{0 298, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,298,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",328.0,"[{0 300, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,300,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",330.0,"[{0 302, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,302,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",332.0,"[{0 304, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,304,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",334.0,"[{0 306, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,306,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",336.0,"[{0 308, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,308,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-10-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",340.0,"[{0 312, ""other"" 2, 1 21, 2 2, 3 2, 4 1}]",2,312,21,2,2,1
+Python,https://github.com/amsehili/auditok,2019-11-10,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[amsehili@users.noreply.github.com, amine.sehili@gmail.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com, amsehili@users.noreply.github.com]",345.0,"[{0 313, ""other"" 2, 1 25, 2 2, 3 2, 4 1}]",2,313,25,2,2,1
+Python,https://github.com/amsehili/auditok,2019-11-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",348.0,"[{0 316, ""other"" 2, 1 25, 2 2, 3 2, 4 1}]",2,316,25,2,2,1
+Python,https://github.com/amsehili/auditok,2020-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amsehili@users.noreply.github.com]",349.0,"[{0 316, ""other"" 2, 1 26, 2 2, 3 2, 4 1}]",2,316,26,2,2,1
+Python,https://github.com/amsehili/auditok,2020-03-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[smarthorse6@gmail.com]",350.0,"[{0 316, ""other"" 3, 1 26, 2 2, 3 2, 4 1}]",3,316,26,2,2,1
+Python,https://github.com/amsehili/auditok,2020-03-31,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[amsehili@users.noreply.github.com, amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",354.0,"[{0 319, ""other"" 3, 1 27, 2 2, 3 2, 4 1}]",3,319,27,2,2,1
+Python,https://github.com/amsehili/auditok,2020-04-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",356.0,"[{0 321, ""other"" 3, 1 27, 2 2, 3 2, 4 1}]",3,321,27,2,2,1
+Python,https://github.com/amsehili/auditok,2020-04-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",358.0,"[{0 323, ""other"" 3, 1 27, 2 2, 3 2, 4 1}]",3,323,27,2,2,1
+Python,https://github.com/amsehili/auditok,2020-04-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",360.0,"[{0 325, ""other"" 3, 1 27, 2 2, 3 2, 4 1}]",3,325,27,2,2,1
+Python,https://github.com/amsehili/auditok,2020-04-05,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com]",362.0,"[{0 327, ""other"" 3, 1 27, 2 2, 3 2, 4 1}]",3,327,27,2,2,1
+Python,https://github.com/amsehili/auditok,2020-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[1176079760@qq.com]",363.0,"[{0 327, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,327,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-01-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",364.0,"[{0 328, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,328,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-01-03,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",367.0,"[{0 331, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,331,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-01-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",370.0,"[{0 334, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,334,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-01-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",371.0,"[{0 335, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,335,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-01-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",372.0,"[{0 336, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,336,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-01-21,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",375.0,"[{0 339, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,339,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-02-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",376.0,"[{0 340, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,340,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-02-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",379.0,"[{0 343, ""other"" 4, 1 27, 2 2, 3 2, 4 1}]",4,343,27,2,2,1
+Python,https://github.com/amsehili/auditok,2021-03-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[amsehili@users.noreply.github.com, amine.sehili@gmail.com]",381.0,"[{0 344, ""other"" 4, 1 28, 2 2, 3 2, 4 1}]",4,344,28,2,2,1
+Python,https://github.com/amsehili/auditok,2021-03-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[amine.sehili@gmail.com, amine.sehili@gmail.com, amine.sehili@gmail.com]",384.0,"[{0 347, ""other"" 4, 1 28, 2 2, 3 2, 4 1}]",4,347,28,2,2,1
+Python,https://github.com/amsehili/auditok,2021-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[kevinwang@osensetech.com]",385.0,"[{0 347, ""other"" 5, 1 28, 2 2, 3 2, 4 1}]",5,347,28,2,2,1
+Python,https://github.com/amsehili/auditok,2022-08-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[leminhnguyen.bk@gmail.com]",386.0,"[{0 347, ""other"" 6, 1 28, 2 2, 3 2, 4 1}]",6,347,28,2,2,1
+Python,https://github.com/amsehili/auditok,2023-03-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amsehili@users.noreply.github.com]",387.0,"[{0 347, ""other"" 6, 1 29, 2 2, 3 2, 4 1}]",6,347,29,2,2,1
+Python,https://github.com/amsehili/auditok,2028-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[amine.sehili@gmail.com]",388.0,"[{0 348, ""other"" 6, 1 29, 2 2, 3 2, 4 1}]",6,348,29,2,2,1

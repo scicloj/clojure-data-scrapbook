@@ -1,0 +1,91 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clj-commons/digest,2010-11-23,16,1,"#tech.v3.dataset.column<string>[16]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",16.0,[{0 16}],0,16,0,0,0,0
+Clojure,https://github.com/clj-commons/digest,2010-11-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",20.0,[{0 20}],0,20,0,0,0,0
+Clojure,https://github.com/clj-commons/digest,2011-02-24,18,1,"#tech.v3.dataset.column<string>[18]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",38.0,[{0 38}],0,38,0,0,0,0
+Clojure,https://github.com/clj-commons/digest,2011-02-27,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",46.0,[{0 46}],0,46,0,0,0,0
+Clojure,https://github.com/clj-commons/digest,2011-10-03,12,1,"#tech.v3.dataset.column<string>[12]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",58.0,[{0 58}],0,58,0,0,0,0
+Clojure,https://github.com/clj-commons/digest,2012-03-04,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, n@daaku.org, n@daaku.org, n@daaku.org, n@daaku.org]",64.0,"[{0 60, 3 4}]",0,60,0,0,4,0
+Clojure,https://github.com/clj-commons/digest,2012-03-28,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",70.0,"[{0 66, 3 4}]",0,66,0,0,4,0
+Clojure,https://github.com/clj-commons/digest,2012-04-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com]",72.0,"[{0 68, 3 4}]",0,68,0,0,4,0
+Clojure,https://github.com/clj-commons/digest,2012-11-24,16,2,"#tech.v3.dataset.column<string>[16]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, alpheus@rimpoche.chi.il.us, alpheus@rimpoche.chi.il.us]",88.0,"[{0 82, 3 4, ""other"" 2}]",2,82,0,0,4,0
+Clojure,https://github.com/clj-commons/digest,2013-02-20,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, moritz@twoticketsplease.de, moritz@twoticketsplease.de, moritz@twoticketsplease.de, moritz@twoticketsplease.de, moritz@twoticketsplease.de, moritz@twoticketsplease.de]",100.0,"[{0 88, 3 4, ""other"" 2, 2 6}]",2,88,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2013-08-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[ben@benmabey.com, ben@benmabey.com]",102.0,"[{0 88, 3 4, ""other"" 4, 2 6}]",4,88,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2013-08-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com]",104.0,"[{0 90, 3 4, ""other"" 4, 2 6}]",4,90,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2014-04-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",108.0,"[{0 94, 3 4, ""other"" 4, 2 6}]",4,94,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2014-04-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com]",110.0,"[{0 96, 3 4, ""other"" 4, 2 6}]",4,96,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2016-06-16,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",115.0,"[{0 101, 3 4, ""other"" 4, 2 6}]",4,101,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2016-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miki.tebeka@gmail.com]",116.0,"[{0 102, 3 4, ""other"" 4, 2 6}]",4,102,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2016-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[radon.neon@gmail.com]",117.0,"[{0 102, 3 4, ""other"" 5, 2 6}]",5,102,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2016-08-18,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",124.0,"[{0 109, 3 4, ""other"" 5, 2 6}]",5,109,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2016-10-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dave.yarwood@gmail.com]",125.0,"[{0 109, 3 4, ""other"" 6, 2 6}]",6,109,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2016-10-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com]",127.0,"[{0 111, 3 4, ""other"" 6, 2 6}]",6,111,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2017-08-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[justin.holguin@puppet.com]",128.0,"[{0 111, 3 4, ""other"" 7, 2 6}]",7,111,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2017-08-18,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",131.0,"[{0 114, 3 4, ""other"" 7, 2 6}]",7,114,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2018-03-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lauri.oherd@gmail.com]",132.0,"[{0 114, 3 4, ""other"" 8, 2 6}]",8,114,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2018-03-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com]",134.0,"[{0 116, 3 4, ""other"" 8, 2 6}]",8,116,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2018-03-25,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[miki.tebeka@gmail.com, lauri.oherd@gmail.com]",136.0,"[{0 117, 3 4, ""other"" 9, 2 6}]",9,117,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2019-04-06,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, vemv@users.noreply.github.com]",140.0,"[{0 120, 3 4, ""other"" 10, 2 6}]",10,120,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2020-12-12,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com, miki.tebeka@gmail.com]",149.0,"[{0 129, 3 4, ""other"" 10, 2 6}]",10,129,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2020-12-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[miki.tebeka@gmail.com]",150.0,"[{0 130, 3 4, ""other"" 10, 2 6}]",10,130,0,6,4,0
+Clojure,https://github.com/clj-commons/digest,2021-10-11,14,2,"#tech.v3.dataset.column<string>[14]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, erik@assum.net, erik@assum.net]",164.0,"[{0 130, 3 4, ""other"" 10, 2 6, 1 12, 4 2}]",10,130,12,6,4,2
+Clojure,https://github.com/clj-commons/digest,2023-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",165.0,"[{0 130, 3 4, ""other"" 11, 2 6, 1 12, 4 2}]",11,130,12,6,4,2

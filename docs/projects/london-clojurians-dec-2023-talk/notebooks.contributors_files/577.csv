@@ -1,0 +1,611 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,incanter,2009-03-11,3,2,"#{""liebke@gmail.com"" ""dliebke@dliebkelt-osx.local""}",3.0,2
+Clojure,incanter,2009-03-12,5,1,"#{""liebke@gmail.com""}",8.0,2
+Clojure,incanter,2009-03-13,2,1,"#{""liebke@gmail.com""}",10.0,2
+Clojure,incanter,2009-03-15,1,1,"#{""liebke@gmail.com""}",11.0,2
+Clojure,incanter,2009-03-17,2,1,"#{""liebke@gmail.com""}",13.0,2
+Clojure,incanter,2009-03-18,2,1,"#{""liebke@gmail.com""}",15.0,2
+Clojure,incanter,2009-03-19,2,1,"#{""liebke@gmail.com""}",17.0,2
+Clojure,incanter,2009-03-21,1,1,"#{""liebke@gmail.com""}",18.0,2
+Clojure,incanter,2009-03-22,4,1,"#{""liebke@gmail.com""}",22.0,2
+Clojure,incanter,2009-03-23,2,1,"#{""liebke@gmail.com""}",24.0,2
+Clojure,incanter,2009-03-24,2,1,"#{""liebke@gmail.com""}",26.0,2
+Clojure,incanter,2009-03-25,2,1,"#{""liebke@gmail.com""}",28.0,2
+Clojure,incanter,2009-03-26,1,1,"#{""liebke@gmail.com""}",29.0,2
+Clojure,incanter,2009-03-27,5,1,"#{""liebke@gmail.com""}",34.0,2
+Clojure,incanter,2009-03-28,4,1,"#{""liebke@gmail.com""}",38.0,2
+Clojure,incanter,2009-03-29,5,1,"#{""liebke@gmail.com""}",43.0,2
+Clojure,incanter,2009-03-30,2,1,"#{""liebke@gmail.com""}",45.0,2
+Clojure,incanter,2009-04-11,1,1,"#{""liebke@gmail.com""}",46.0,2
+Clojure,incanter,2009-04-17,2,1,"#{""liebke@gmail.com""}",48.0,2
+Clojure,incanter,2009-04-18,5,1,"#{""liebke@gmail.com""}",53.0,2
+Clojure,incanter,2009-04-19,6,1,"#{""liebke@gmail.com""}",59.0,2
+Clojure,incanter,2009-04-20,2,1,"#{""liebke@gmail.com""}",61.0,2
+Clojure,incanter,2009-04-21,2,1,"#{""liebke@gmail.com""}",63.0,2
+Clojure,incanter,2009-04-22,1,1,"#{""liebke@gmail.com""}",64.0,2
+Clojure,incanter,2009-04-23,2,1,"#{""liebke@gmail.com""}",66.0,2
+Clojure,incanter,2009-04-24,2,1,"#{""liebke@gmail.com""}",68.0,2
+Clojure,incanter,2009-04-25,3,1,"#{""liebke@gmail.com""}",71.0,2
+Clojure,incanter,2009-04-26,3,1,"#{""liebke@gmail.com""}",74.0,2
+Clojure,incanter,2009-04-27,1,1,"#{""liebke@gmail.com""}",75.0,2
+Clojure,incanter,2009-05-01,1,1,"#{""liebke@gmail.com""}",76.0,2
+Clojure,incanter,2009-05-08,3,1,"#{""liebke@gmail.com""}",79.0,2
+Clojure,incanter,2009-05-09,3,1,"#{""liebke@gmail.com""}",82.0,2
+Clojure,incanter,2009-05-16,1,1,"#{""liebke@gmail.com""}",83.0,2
+Clojure,incanter,2009-05-17,3,1,"#{""liebke@gmail.com""}",86.0,2
+Clojure,incanter,2009-05-18,1,1,"#{""liebke@gmail.com""}",87.0,2
+Clojure,incanter,2009-05-19,2,1,"#{""liebke@gmail.com""}",89.0,2
+Clojure,incanter,2009-05-21,2,1,"#{""liebke@gmail.com""}",91.0,2
+Clojure,incanter,2009-05-22,2,1,"#{""liebke@gmail.com""}",93.0,2
+Clojure,incanter,2009-05-23,3,1,"#{""liebke@gmail.com""}",96.0,2
+Clojure,incanter,2009-05-24,1,1,"#{""liebke@gmail.com""}",97.0,2
+Clojure,incanter,2009-05-25,1,1,"#{""liebke@gmail.com""}",98.0,2
+Clojure,incanter,2009-05-26,3,1,"#{""liebke@gmail.com""}",101.0,2
+Clojure,incanter,2009-05-27,4,1,"#{""liebke@gmail.com""}",105.0,2
+Clojure,incanter,2009-05-28,3,1,"#{""liebke@gmail.com""}",108.0,2
+Clojure,incanter,2009-05-29,2,1,"#{""liebke@gmail.com""}",110.0,2
+Clojure,incanter,2009-05-30,1,1,"#{""liebke@gmail.com""}",111.0,2
+Clojure,incanter,2009-05-31,1,1,"#{""liebke@gmail.com""}",112.0,2
+Clojure,incanter,2009-06-01,1,1,"#{""liebke@gmail.com""}",113.0,2
+Clojure,incanter,2009-06-03,1,1,"#{""liebke@gmail.com""}",114.0,2
+Clojure,incanter,2009-06-06,2,1,"#{""liebke@gmail.com""}",116.0,2
+Clojure,incanter,2009-06-07,1,1,"#{""liebke@gmail.com""}",117.0,2
+Clojure,incanter,2009-06-08,1,1,"#{""liebke@gmail.com""}",118.0,2
+Clojure,incanter,2009-06-11,1,1,"#{""liebke@gmail.com""}",119.0,2
+Clojure,incanter,2009-06-12,1,1,"#{""liebke@gmail.com""}",120.0,2
+Clojure,incanter,2009-06-13,3,1,"#{""liebke@gmail.com""}",123.0,2
+Clojure,incanter,2009-06-14,1,1,"#{""liebke@gmail.com""}",124.0,2
+Clojure,incanter,2009-06-16,1,1,"#{""liebke@gmail.com""}",125.0,2
+Clojure,incanter,2009-06-19,3,1,"#{""liebke@gmail.com""}",128.0,2
+Clojure,incanter,2009-06-21,1,1,"#{""liebke@gmail.com""}",129.0,2
+Clojure,incanter,2009-06-22,1,1,"#{""liebke@gmail.com""}",130.0,2
+Clojure,incanter,2009-06-27,1,1,"#{""liebke@gmail.com""}",131.0,2
+Clojure,incanter,2009-07-02,3,1,"#{""liebke@gmail.com""}",134.0,2
+Clojure,incanter,2009-07-03,1,1,"#{""liebke@gmail.com""}",135.0,2
+Clojure,incanter,2009-07-04,1,1,"#{""liebke@gmail.com""}",136.0,2
+Clojure,incanter,2009-07-06,1,1,"#{""liebke@gmail.com""}",137.0,2
+Clojure,incanter,2009-07-07,1,1,"#{""liebke@gmail.com""}",138.0,2
+Clojure,incanter,2009-07-08,2,1,"#{""liebke@gmail.com""}",140.0,2
+Clojure,incanter,2009-07-10,1,1,"#{""liebke@gmail.com""}",141.0,2
+Clojure,incanter,2009-07-11,1,1,"#{""liebke@gmail.com""}",142.0,2
+Clojure,incanter,2009-07-15,1,1,"#{""liebke@gmail.com""}",143.0,2
+Clojure,incanter,2009-07-23,1,1,"#{""liebke@gmail.com""}",144.0,2
+Clojure,incanter,2009-07-28,1,1,"#{""liebke@gmail.com""}",145.0,2
+Clojure,incanter,2009-07-29,2,1,"#{""technomancy@gmail.com""}",147.0,3
+Clojure,incanter,2009-07-30,5,1,"#{""liebke@gmail.com""}",152.0,3
+Clojure,incanter,2009-08-01,1,1,"#{""liebke@gmail.com""}",153.0,3
+Clojure,incanter,2009-08-03,2,1,"#{""liebke@gmail.com""}",155.0,3
+Clojure,incanter,2009-08-07,1,1,"#{""liebke@gmail.com""}",156.0,3
+Clojure,incanter,2009-08-11,1,1,"#{""liebke@gmail.com""}",157.0,3
+Clojure,incanter,2009-08-12,2,1,"#{""stevej@pobox.com""}",159.0,4
+Clojure,incanter,2009-08-13,4,1,"#{""liebke@gmail.com""}",163.0,4
+Clojure,incanter,2009-08-17,1,1,"#{""liebke@gmail.com""}",164.0,4
+Clojure,incanter,2009-08-28,1,1,"#{""liebke@gmail.com""}",165.0,4
+Clojure,incanter,2009-08-29,2,1,"#{""liebke@gmail.com""}",167.0,4
+Clojure,incanter,2009-09-09,1,1,"#{""liebke@gmail.com""}",168.0,4
+Clojure,incanter,2009-09-12,1,1,"#{""liebke@gmail.com""}",169.0,4
+Clojure,incanter,2009-09-16,3,2,"#{""liebke@gmail.com"" ""brendan.ribera@gmail.com""}",172.0,5
+Clojure,incanter,2009-09-23,1,1,"#{""liebke@gmail.com""}",173.0,5
+Clojure,incanter,2009-09-30,1,1,"#{""liebke@gmail.com""}",174.0,5
+Clojure,incanter,2009-10-15,2,1,"#{""liebke@gmail.com""}",176.0,5
+Clojure,incanter,2009-10-17,1,1,"#{""liebke@gmail.com""}",177.0,5
+Clojure,incanter,2009-10-18,1,1,"#{""liebke@gmail.com""}",178.0,5
+Clojure,incanter,2009-10-21,1,1,"#{""liebke@gmail.com""}",179.0,5
+Clojure,incanter,2009-10-22,2,1,"#{""liebke@gmail.com""}",181.0,5
+Clojure,incanter,2009-10-23,3,1,"#{""liebke@gmail.com""}",184.0,5
+Clojure,incanter,2009-10-25,1,1,"#{""liebke@gmail.com""}",185.0,5
+Clojure,incanter,2009-10-30,1,1,"#{""liebke@gmail.com""}",186.0,5
+Clojure,incanter,2009-10-31,3,1,"#{""liebke@gmail.com""}",189.0,5
+Clojure,incanter,2009-11-10,1,1,"#{""bradford@bradford-laptop.(none)""}",190.0,6
+Clojure,incanter,2009-11-11,1,1,"#{""strate.jared@gmail.com""}",191.0,7
+Clojure,incanter,2009-11-18,3,1,"#{""strate.jared@gmail.com""}",194.0,7
+Clojure,incanter,2009-11-20,1,1,"#{""bradford@bradford-laptop.(none)""}",195.0,7
+Clojure,incanter,2009-11-21,2,1,"#{""strate.jared@gmail.com""}",197.0,7
+Clojure,incanter,2009-11-22,1,1,"#{""liebke@gmail.com""}",198.0,7
+Clojure,incanter,2009-11-24,3,2,"#{""liebke@gmail.com"" ""bradford@bradford-laptop.(none)""}",201.0,7
+Clojure,incanter,2009-11-30,2,1,"#{""bradford@bradford-laptop.(none)""}",203.0,7
+Clojure,incanter,2009-12-01,7,2,"#{""liebke@gmail.com"" ""strate.jared@gmail.com""}",210.0,7
+Clojure,incanter,2009-12-02,4,2,"#{""liebke@gmail.com"" ""strate.jared@gmail.com""}",214.0,7
+Clojure,incanter,2009-12-03,4,1,"#{""liebke@gmail.com""}",218.0,7
+Clojure,incanter,2009-12-04,2,1,"#{""liebke@gmail.com""}",220.0,7
+Clojure,incanter,2009-12-05,2,1,"#{""liebke@gmail.com""}",222.0,7
+Clojure,incanter,2009-12-06,2,1,"#{""liebke@gmail.com""}",224.0,7
+Clojure,incanter,2009-12-07,1,1,"#{""bradford.n.cross@gmail.com""}",225.0,8
+Clojure,incanter,2009-12-08,4,1,"#{""chris.burroughs@gmail.com""}",229.0,9
+Clojure,incanter,2009-12-09,6,1,"#{""liebke@gmail.com""}",235.0,9
+Clojure,incanter,2009-12-10,2,1,"#{""liebke@gmail.com""}",237.0,9
+Clojure,incanter,2009-12-11,4,1,"#{""liebke@gmail.com""}",241.0,9
+Clojure,incanter,2009-12-12,4,1,"#{""liebke@gmail.com""}",245.0,9
+Clojure,incanter,2009-12-14,5,1,"#{""liebke@gmail.com""}",250.0,9
+Clojure,incanter,2009-12-15,1,1,"#{""liebke@gmail.com""}",251.0,9
+Clojure,incanter,2009-12-16,3,2,"#{""liebke@gmail.com"" ""alexott@gmail.com""}",254.0,10
+Clojure,incanter,2009-12-17,3,2,"#{""liebke@gmail.com"" ""alexott@gmail.com""}",257.0,10
+Clojure,incanter,2009-12-18,8,2,"#{""liebke@gmail.com"" ""alexott@gmail.com""}",265.0,10
+Clojure,incanter,2009-12-19,6,2,"#{""liebke@gmail.com"" ""alexott@gmail.com""}",271.0,10
+Clojure,incanter,2009-12-21,2,1,"#{""liebke@gmail.com""}",273.0,10
+Clojure,incanter,2009-12-22,4,3,"#{""liebke@gmail.com"" ""dliebke@dliebkelt-osx.som.umaryland.edu"" ""alexott@gmail.com""}",277.0,11
+Clojure,incanter,2009-12-23,7,1,"#{""alexott@gmail.com""}",284.0,11
+Clojure,incanter,2009-12-24,5,3,"#{""steve@sanityinc.com"" ""liebke@gmail.com"" ""dliebke@dliebkelt-osx.local""}",289.0,12
+Clojure,incanter,2009-12-25,4,2,"#{""liebke@gmail.com"" ""dliebke@dliebkelt-osx.local""}",293.0,12
+Clojure,incanter,2009-12-26,15,3,"#{""liebke@gmail.com"" ""alexott@gmail.com"" ""dliebke@dliebkelt-osx.local""}",308.0,12
+Clojure,incanter,2009-12-27,1,1,"#{""dliebke@dliebkelt-osx.local""}",309.0,12
+Clojure,incanter,2009-12-28,2,1,"#{""liebke@gmail.com""}",311.0,12
+Clojure,incanter,2009-12-29,5,2,"#{""liebke@gmail.com"" ""dliebke@dliebkelt-osx.local""}",316.0,12
+Clojure,incanter,2009-12-30,3,2,"#{""liebke@gmail.com"" ""dliebke@dliebkelt-osx.local""}",319.0,12
+Clojure,incanter,2009-12-31,6,2,"#{""liebke@gmail.com"" ""alexott@gmail.com""}",325.0,12
+Clojure,incanter,2010-01-01,2,1,"#{""liebke@gmail.com""}",327.0,12
+Clojure,incanter,2010-01-02,2,2,"#{""liebke@gmail.com"" ""dliebke@dliebkelt-osx.local""}",329.0,12
+Clojure,incanter,2010-01-03,1,1,"#{""dliebke@dliebkelt-osx.local""}",330.0,12
+Clojure,incanter,2010-01-04,8,2,"#{""liebke@gmail.com"" ""alexott@gmail.com""}",338.0,12
+Clojure,incanter,2010-01-05,1,1,"#{""liebke@gmail.com""}",339.0,12
+Clojure,incanter,2010-01-08,4,2,"#{""liebke@gmail.com"" ""alexott@gmail.com""}",343.0,12
+Clojure,incanter,2010-01-09,1,1,"#{""alexott@gmail.com""}",344.0,12
+Clojure,incanter,2010-01-11,1,1,"#{""michael.nygard@n6consulting.com""}",345.0,13
+Clojure,incanter,2010-01-12,1,1,"#{""michael.nygard@n6consulting.com""}",346.0,13
+Clojure,incanter,2010-01-18,3,2,"#{""liebke@gmail.com"" ""tfaulhaber@monet.(none)""}",349.0,14
+Clojure,incanter,2010-01-19,8,2,"#{""liebke@gmail.com"" ""devlinsf@devlinsolutions.com""}",357.0,15
+Clojure,incanter,2010-01-20,2,1,"#{""devlinsf@devlinsolutions.com""}",359.0,15
+Clojure,incanter,2010-01-24,4,2,"#{""liebke@gmail.com"" ""devlinsf@devlinsolutions.com""}",363.0,15
+Clojure,incanter,2010-01-27,2,1,"#{""liebke@gmail.com""}",365.0,15
+Clojure,incanter,2010-01-28,1,1,"#{""liebke@gmail.com""}",366.0,15
+Clojure,incanter,2010-01-30,2,1,"#{""liebke@gmail.com""}",368.0,15
+Clojure,incanter,2010-01-31,2,1,"#{""liebke@gmail.com""}",370.0,15
+Clojure,incanter,2010-02-03,3,1,"#{""liebke@gmail.com""}",373.0,15
+Clojure,incanter,2010-02-04,1,1,"#{""liebke@gmail.com""}",374.0,15
+Clojure,incanter,2010-02-06,6,2,"#{""liebke@gmail.com"" ""devlinsf@devlinsolutions.com""}",380.0,15
+Clojure,incanter,2010-02-07,2,1,"#{""liebke@gmail.com""}",382.0,15
+Clojure,incanter,2010-02-09,14,1,"#{""devlinsf@devlinsolutions.com""}",396.0,15
+Clojure,incanter,2010-02-10,4,2,"#{""liebke@gmail.com"" ""devlinsf@devlinsolutions.com""}",400.0,15
+Clojure,incanter,2010-02-13,6,3,"#{""liebke@gmail.com"" ""devlinsf@devlinsolutions.com"" ""jakemcc@gmail.com""}",406.0,16
+Clojure,incanter,2010-02-14,1,1,"#{""liebke@gmail.com""}",407.0,16
+Clojure,incanter,2010-02-15,7,3,"#{""liebke@gmail.com"" ""felix@fbreuer.de"" ""jakemcc@gmail.com""}",414.0,17
+Clojure,incanter,2010-02-17,2,2,"#{""liebke@gmail.com"" ""fogusm@tsubasa.tena-sda.org""}",416.0,18
+Clojure,incanter,2010-02-19,1,1,"#{""liebke@gmail.com""}",417.0,18
+Clojure,incanter,2010-02-20,1,1,"#{""bradford.n.cross@gmail.com""}",418.0,18
+Clojure,incanter,2010-02-21,6,2,"#{""liebke@gmail.com"" ""jakemcc@gmail.com""}",424.0,18
+Clojure,incanter,2010-02-22,3,1,"#{""liebke@gmail.com""}",427.0,18
+Clojure,incanter,2010-02-23,1,1,"#{""liebke@gmail.com""}",428.0,18
+Clojure,incanter,2010-02-25,2,1,"#{""liebke@gmail.com""}",430.0,18
+Clojure,incanter,2010-02-26,1,1,"#{""liebke@gmail.com""}",431.0,18
+Clojure,incanter,2010-02-27,1,1,"#{""liebke@gmail.com""}",432.0,18
+Clojure,incanter,2010-03-01,5,1,"#{""liebke@gmail.com""}",437.0,18
+Clojure,incanter,2010-03-04,1,1,"#{""fogusm@tsubasa.tena-sda.org""}",438.0,18
+Clojure,incanter,2010-03-09,2,1,"#{""liebke@gmail.com""}",440.0,18
+Clojure,incanter,2010-03-18,1,1,"#{""liebke@gmail.com""}",441.0,18
+Clojure,incanter,2010-03-20,1,1,"#{""liebke@gmail.com""}",442.0,18
+Clojure,incanter,2010-03-21,2,1,"#{""liebke@gmail.com""}",444.0,18
+Clojure,incanter,2010-03-24,1,1,"#{""alexott@gmail.com""}",445.0,18
+Clojure,incanter,2010-03-25,1,1,"#{""liebke@gmail.com""}",446.0,18
+Clojure,incanter,2010-03-27,1,1,"#{""liebke@gmail.com""}",447.0,18
+Clojure,incanter,2010-03-30,5,1,"#{""liebke@gmail.com""}",452.0,18
+Clojure,incanter,2010-03-31,8,2,"#{""liebke@gmail.com"" ""michael.nygard@n6consulting.com""}",460.0,18
+Clojure,incanter,2010-04-01,1,1,"#{""liebke@gmail.com""}",461.0,18
+Clojure,incanter,2010-04-02,1,1,"#{""liebke@gmail.com""}",462.0,18
+Clojure,incanter,2010-04-03,1,1,"#{""liebke@gmail.com""}",463.0,18
+Clojure,incanter,2010-04-04,3,1,"#{""liebke@gmail.com""}",466.0,18
+Clojure,incanter,2010-04-06,2,1,"#{""liebke@gmail.com""}",468.0,18
+Clojure,incanter,2010-04-07,3,1,"#{""liebke@gmail.com""}",471.0,18
+Clojure,incanter,2010-04-08,3,1,"#{""liebke@gmail.com""}",474.0,18
+Clojure,incanter,2010-04-12,2,1,"#{""liebke@gmail.com""}",476.0,18
+Clojure,incanter,2010-04-13,5,1,"#{""liebke@gmail.com""}",481.0,18
+Clojure,incanter,2010-04-14,5,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",486.0,19
+Clojure,incanter,2010-04-15,1,1,"#{""liebke@gmail.com""}",487.0,19
+Clojure,incanter,2010-04-16,1,1,"#{""liebke@gmail.com""}",488.0,19
+Clojure,incanter,2010-04-19,6,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",494.0,19
+Clojure,incanter,2010-04-20,9,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",503.0,19
+Clojure,incanter,2010-04-21,3,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",506.0,19
+Clojure,incanter,2010-04-22,1,1,"#{""liebke@gmail.com""}",507.0,19
+Clojure,incanter,2010-04-24,1,1,"#{""dliebke@Macintosh.local""}",508.0,20
+Clojure,incanter,2010-04-25,1,1,"#{""dliebke@Macintosh.local""}",509.0,20
+Clojure,incanter,2010-04-27,3,2,"#{""davidjameshumphreys@gmail.com"" ""git_net@infolace.com""}",512.0,21
+Clojure,incanter,2010-04-28,1,1,"#{""liebke@gmail.com""}",513.0,21
+Clojure,incanter,2010-04-29,3,1,"#{""liebke@gmail.com""}",516.0,21
+Clojure,incanter,2010-05-03,6,3,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com"" ""fiat.money@gmail.com""}",522.0,22
+Clojure,incanter,2010-05-04,3,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",525.0,22
+Clojure,incanter,2010-05-05,3,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",528.0,22
+Clojure,incanter,2010-05-06,1,1,"#{""liebke@gmail.com""}",529.0,22
+Clojure,incanter,2010-05-08,2,1,"#{""liebke@gmail.com""}",531.0,22
+Clojure,incanter,2010-05-09,2,1,"#{""liebke@gmail.com""}",533.0,22
+Clojure,incanter,2010-05-11,5,2,"#{""mark.m.fredrickson@gmail.com"" ""fiat.money@gmail.com""}",538.0,23
+Clojure,incanter,2010-05-12,1,1,"#{""mark.m.fredrickson@gmail.com""}",539.0,23
+Clojure,incanter,2010-05-13,6,2,"#{""davidjameshumphreys@gmail.com"" ""mark.m.fredrickson@gmail.com""}",545.0,23
+Clojure,incanter,2010-05-14,10,3,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com"" ""mark.m.fredrickson@gmail.com""}",555.0,23
+Clojure,incanter,2010-05-15,6,2,"#{""liebke@gmail.com"" ""mark.m.fredrickson@gmail.com""}",561.0,23
+Clojure,incanter,2010-05-17,1,1,"#{""davidjameshumphreys@gmail.com""}",562.0,23
+Clojure,incanter,2010-05-18,2,1,"#{""mark@markbook.local""}",564.0,24
+Clojure,incanter,2010-05-19,3,1,"#{""davidjameshumphreys@gmail.com""}",567.0,24
+Clojure,incanter,2010-05-20,5,1,"#{""davidjameshumphreys@gmail.com""}",572.0,24
+Clojure,incanter,2010-05-22,3,1,"#{""liebke@gmail.com""}",575.0,24
+Clojure,incanter,2010-05-24,1,1,"#{""davidjameshumphreys@gmail.com""}",576.0,24
+Clojure,incanter,2010-05-25,1,1,"#{""alexott@gmail.com""}",577.0,24
+Clojure,incanter,2010-05-28,3,2,"#{""liebke@gmail.com"" ""mark.m.fredrickson@gmail.com""}",580.0,24
+Clojure,incanter,2010-05-29,8,1,"#{""liebke@gmail.com""}",588.0,24
+Clojure,incanter,2010-05-30,5,1,"#{""liebke@gmail.com""}",593.0,24
+Clojure,incanter,2010-05-31,2,2,"#{""liebke@gmail.com"" ""mark.m.fredrickson@gmail.com""}",595.0,24
+Clojure,incanter,2010-06-01,1,1,"#{""davidjameshumphreys@gmail.com""}",596.0,24
+Clojure,incanter,2010-06-03,2,2,"#{""mark.m.fredrickson@gmail.com"" ""jpalmucci@csail.mit.edu""}",598.0,25
+Clojure,incanter,2010-06-06,2,1,"#{""liebke@gmail.com""}",600.0,25
+Clojure,incanter,2010-06-07,1,1,"#{""davidjameshumphreys@gmail.com""}",601.0,25
+Clojure,incanter,2010-06-08,4,3,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com"" ""fogusm@tsubasa.tena-sda.org""}",605.0,25
+Clojure,incanter,2010-06-09,2,1,"#{""liebke@gmail.com""}",607.0,25
+Clojure,incanter,2010-06-10,1,1,"#{""davidjameshumphreys@gmail.com""}",608.0,25
+Clojure,incanter,2010-06-11,5,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",613.0,25
+Clojure,incanter,2010-06-12,2,1,"#{""liebke@gmail.com""}",615.0,25
+Clojure,incanter,2010-06-13,1,1,"#{""liebke@gmail.com""}",616.0,25
+Clojure,incanter,2010-06-14,3,2,"#{""liebke@gmail.com"" ""alex@blackkettle.org""}",619.0,26
+Clojure,incanter,2010-06-15,2,1,"#{""liebke@gmail.com""}",621.0,26
+Clojure,incanter,2010-06-16,4,1,"#{""davidjameshumphreys@gmail.com""}",625.0,26
+Clojure,incanter,2010-06-18,1,1,"#{""liebke@gmail.com""}",626.0,26
+Clojure,incanter,2010-06-21,5,1,"#{""davidjameshumphreys@gmail.com""}",631.0,26
+Clojure,incanter,2010-06-24,2,1,"#{""leungwk@gmail.com""}",633.0,27
+Clojure,incanter,2010-06-25,1,1,"#{""leungwk@gmail.com""}",634.0,27
+Clojure,incanter,2010-06-27,1,1,"#{""leungwk@gmail.com""}",635.0,27
+Clojure,incanter,2010-07-02,1,1,"#{""leungwk@gmail.com""}",636.0,27
+Clojure,incanter,2010-07-05,1,1,"#{""liebke@gmail.com""}",637.0,27
+Clojure,incanter,2010-07-06,2,1,"#{""liebke@gmail.com""}",639.0,27
+Clojure,incanter,2010-07-07,4,2,"#{""liebke@gmail.com"" ""leungwk@gmail.com""}",643.0,27
+Clojure,incanter,2010-07-09,1,1,"#{""davidjameshumphreys@gmail.com""}",644.0,27
+Clojure,incanter,2010-07-12,2,1,"#{""leungwk@gmail.com""}",646.0,27
+Clojure,incanter,2010-07-19,1,1,"#{""liebke@gmail.com""}",647.0,27
+Clojure,incanter,2010-07-21,2,2,"#{""liebke@gmail.com"" ""davidjameshumphreys@gmail.com""}",649.0,27
+Clojure,incanter,2010-07-22,1,1,"#{""davidjameshumphreys@gmail.com""}",650.0,27
+Clojure,incanter,2010-08-22,1,1,"#{""michael.nygard@n6consulting.com""}",651.0,27
+Clojure,incanter,2010-08-23,1,1,"#{""liebke@gmail.com""}",652.0,27
+Clojure,incanter,2010-08-30,1,1,"#{""jpalmucci@csail.mit.edu""}",653.0,27
+Clojure,incanter,2010-09-11,1,1,"#{""davidjameshumphreys@gmail.com""}",654.0,27
+Clojure,incanter,2010-09-13,1,1,"#{""jpalmucci@csail.mit.edu""}",655.0,27
+Clojure,incanter,2010-09-17,3,1,"#{""liebke@gmail.com""}",658.0,27
+Clojure,incanter,2010-09-21,1,1,"#{""jpalmucci@csail.mit.edu""}",659.0,27
+Clojure,incanter,2010-09-28,1,1,"#{""vaino.jarvela@gmail.com""}",660.0,28
+Clojure,incanter,2010-10-12,1,1,"#{""liebke@gmail.com""}",661.0,28
+Clojure,incanter,2010-11-12,1,1,"#{""jpalmucci@csail.mit.edu""}",662.0,28
+Clojure,incanter,2010-11-19,5,1,"#{""alexott@gmail.com""}",667.0,28
+Clojure,incanter,2010-11-24,1,1,"#{""davidjameshumphreys@gmail.com""}",668.0,28
+Clojure,incanter,2010-12-01,7,2,"#{""liebke@gmail.com"" ""jpalmucci@csail.mit.edu""}",675.0,28
+Clojure,incanter,2010-12-11,1,1,"#{""davidjameshumphreys@gmail.com""}",676.0,28
+Clojure,incanter,2011-01-13,2,2,"#{""liebke@gmail.com"" ""jpalmucci@csail.mit.edu""}",678.0,28
+Clojure,incanter,2011-01-14,3,2,"#{""liebke@gmail.com"" ""jpalmucci@csail.mit.edu""}",681.0,28
+Clojure,incanter,2011-01-20,1,1,"#{""jpalmucci@csail.mit.edu""}",682.0,28
+Clojure,incanter,2011-01-26,3,2,"#{""thomas.a.down@googlemail.com"" ""alexott@gmail.com""}",685.0,29
+Clojure,incanter,2011-02-24,1,1,"#{""michael.nygard@n6consulting.com""}",686.0,29
+Clojure,incanter,2011-02-25,2,1,"#{""michael.nygard@n6consulting.com""}",688.0,29
+Clojure,incanter,2011-03-27,4,1,"#{""davidjameshumphreys@gmail.com""}",692.0,29
+Clojure,incanter,2011-03-30,2,1,"#{""alexott@gmail.com""}",694.0,29
+Clojure,incanter,2011-04-04,1,1,"#{""pekka.kaitaniemi@gmail.com""}",695.0,30
+Clojure,incanter,2011-05-12,6,3,"#{""liebke@gmail.com"" ""andreas.koestler.leica@gmail.com"" ""alexott@gmail.com""}",701.0,31
+Clojure,incanter,2011-05-13,1,1,"#{""andreas.koestler.leica@gmail.com""}",702.0,31
+Clojure,incanter,2011-05-19,1,1,"#{""michael.nygard@n6consulting.com""}",703.0,31
+Clojure,incanter,2011-06-05,2,2,"#{""andreas.koestler.leica@gmail.com"" ""alexott@gmail.com""}",705.0,31
+Clojure,incanter,2011-06-24,2,2,"#{""liebke@gmail.com"" ""Thomas.Karolski@googlemail.com""}",707.0,32
+Clojure,incanter,2011-06-28,1,1,"#{""pekka.kaitaniemi@gmail.com""}",708.0,32
+Clojure,incanter,2011-07-01,1,1,"#{""liebke@gmail.com""}",709.0,32
+Clojure,incanter,2011-07-20,2,2,"#{""pbauer@.corp.shutterfly.com"" ""liebke@gmail.com""}",711.0,33
+Clojure,incanter,2011-07-21,1,1,"#{""ben@benatkin.com""}",712.0,34
+Clojure,incanter,2011-07-22,1,1,"#{""liebke@gmail.com""}",713.0,34
+Clojure,incanter,2011-07-27,4,2,"#{""liebke@gmail.com"" ""anand.prabhakar.patil@gmail.com""}",717.0,35
+Clojure,incanter,2011-08-03,1,1,"#{""davidjameshumphreys@gmail.com""}",718.0,35
+Clojure,incanter,2011-08-06,2,1,"#{""davidjameshumphreys@gmail.com""}",720.0,35
+Clojure,incanter,2011-08-07,1,1,"#{""davidjameshumphreys@gmail.com""}",721.0,35
+Clojure,incanter,2011-08-08,1,1,"#{""liebke@gmail.com""}",722.0,35
+Clojure,incanter,2011-08-09,1,1,"#{""liebke@gmail.com""}",723.0,35
+Clojure,incanter,2011-08-11,2,2,"#{""paul@quantisan.com"" ""alexott@gmail.com""}",725.0,36
+Clojure,incanter,2011-08-21,17,4,"#{""bld@otfrom.com"" ""benjamin.john.evans@gmail.com"" ""mail@martinseebach.dk"" ""veriservus@gmail.com""}",742.0,40
+Clojure,incanter,2011-08-22,1,1,"#{""davidjameshumphreys@gmail.com""}",743.0,40
+Clojure,incanter,2011-08-23,4,2,"#{""liebke@gmail.com"" ""thomas.a.down@googlemail.com""}",747.0,40
+Clojure,incanter,2011-08-26,1,1,"#{""bld@otfrom.com""}",748.0,40
+Clojure,incanter,2011-08-29,2,2,"#{""liebke@gmail.com"" ""paul@quantisan.com""}",750.0,40
+Clojure,incanter,2011-09-02,1,1,"#{""mtnygard@gmail.com""}",751.0,41
+Clojure,incanter,2011-09-07,2,2,"#{""liebke@gmail.com"" ""paul@quantisan.com""}",753.0,41
+Clojure,incanter,2011-09-08,1,1,"#{""mtnygard@gmail.com""}",754.0,41
+Clojure,incanter,2011-09-09,5,1,"#{""mtnygard@gmail.com""}",759.0,41
+Clojure,incanter,2011-09-11,2,2,"#{""liebke@gmail.com"" ""srojas@reda.cl""}",761.0,42
+Clojure,incanter,2011-09-12,2,2,"#{""liebke@gmail.com"" ""paul@quantisan.com""}",763.0,42
+Clojure,incanter,2011-09-13,4,1,"#{""mtnygard@gmail.com""}",767.0,42
+Clojure,incanter,2011-09-16,1,1,"#{""mtnygard@gmail.com""}",768.0,42
+Clojure,incanter,2011-09-18,9,3,"#{""bld@otfrom.com"" ""davidjameshumphreys@gmail.com"" ""benjamin.john.evans@gmail.com""}",777.0,42
+Clojure,incanter,2011-09-19,1,1,"#{""bld@otfrom.com""}",778.0,42
+Clojure,incanter,2011-09-20,1,1,"#{""davidjameshumphreys@gmail.com""}",779.0,42
+Clojure,incanter,2011-09-25,1,1,"#{""bld@otfrom.com""}",780.0,42
+Clojure,incanter,2011-10-01,1,1,"#{""davidjameshumphreys@gmail.com""}",781.0,42
+Clojure,incanter,2011-10-05,2,1,"#{""liebke@gmail.com""}",783.0,42
+Clojure,incanter,2011-10-07,1,1,"#{""liebke@gmail.com""}",784.0,42
+Clojure,incanter,2011-10-08,2,1,"#{""liebke@gmail.com""}",786.0,42
+Clojure,incanter,2011-10-11,1,1,"#{""liebke@gmail.com""}",787.0,42
+Clojure,incanter,2011-10-16,2,1,"#{""benjamin.john.evans@gmail.com""}",789.0,42
+Clojure,incanter,2011-10-18,1,1,"#{""benjamin.john.evans@gmail.com""}",790.0,42
+Clojure,incanter,2011-10-19,1,1,"#{""benjamin.john.evans@gmail.com""}",791.0,42
+Clojure,incanter,2011-10-20,2,2,"#{""benjamin.john.evans@gmail.com"" ""paul@quantisan.com""}",793.0,42
+Clojure,incanter,2011-10-23,2,2,"#{""davidjameshumphreys@gmail.com"" ""benjamin.john.evans@gmail.com""}",795.0,42
+Clojure,incanter,2011-11-14,2,2,"#{""liebke@gmail.com"" ""nyoung@revelytix.com""}",797.0,43
+Clojure,incanter,2011-11-20,9,3,"#{""bld@otfrom.com"" ""benjamin.john.evans@gmail.com"" ""vmahrwald@gmail.com""}",806.0,44
+Clojure,incanter,2011-12-13,4,2,"#{""ben@benmabey.com"" ""liebke@gmail.com""}",810.0,45
+Clojure,incanter,2012-01-15,11,3,"#{""liebke@gmail.com"" ""paul.lam@forward.co.uk"" ""bld@otfrom.com""}",821.0,46
+Clojure,incanter,2012-01-16,2,2,"#{""liebke@gmail.com"" ""bld@otfrom.com""}",823.0,46
+Clojure,incanter,2012-01-17,2,2,"#{""liebke@gmail.com"" ""bld@otfrom.com""}",825.0,46
+Clojure,incanter,2012-01-18,4,2,"#{""paul.lam@forward.co.uk"" ""andreas@ubuntu.accenture.local""}",829.0,47
+Clojure,incanter,2012-01-19,5,3,"#{""liebke@gmail.com"" ""bld@otfrom.com"" ""sergei.matusevich@gmail.com""}",834.0,48
+Clojure,incanter,2012-01-27,2,1,"#{""john@crowdflower.com""}",836.0,49
+Clojure,incanter,2012-01-29,1,1,"#{""liebke@gmail.com""}",837.0,49
+Clojure,incanter,2012-02-07,1,1,"#{""edmundsjackson@gmail.com""}",838.0,50
+Clojure,incanter,2012-02-08,1,1,"#{""edmundsjackson@gmail.com""}",839.0,50
+Clojure,incanter,2012-02-09,3,1,"#{""edmundsjackson@gmail.com""}",842.0,50
+Clojure,incanter,2012-02-10,2,1,"#{""edmundsjackson@gmail.com""}",844.0,50
+Clojure,incanter,2012-02-11,1,1,"#{""edmundsjackson@gmail.com""}",845.0,50
+Clojure,incanter,2012-02-12,1,1,"#{""edmundsjackson@gmail.com""}",846.0,50
+Clojure,incanter,2012-02-15,2,1,"#{""edmundsjackson@gmail.com""}",848.0,50
+Clojure,incanter,2012-02-18,1,1,"#{""edmundsjackson@gmail.com""}",849.0,50
+Clojure,incanter,2012-02-19,5,3,"#{""liebke@gmail.com"" ""bld@otfrom.com"" ""ruben@finitud.org""}",854.0,51
+Clojure,incanter,2012-03-10,2,1,"#{""moonpiesandbox@gmail.com""}",856.0,52
+Clojure,incanter,2012-03-17,8,4,"#{""david@touchtype-online.com"" ""sthiagaraja@prshanmu.com"" ""kushi.p@gmail.com"" ""alexott@gmail.com""}",864.0,55
+Clojure,incanter,2012-03-18,1,1,"#{""nmahendran@alumni.uwaterloo.ca""}",865.0,56
+Clojure,incanter,2012-03-19,1,1,"#{""alexott@gmail.com""}",866.0,56
+Clojure,incanter,2012-03-21,1,1,"#{""moonpiesandbox@gmail.com""}",867.0,56
+Clojure,incanter,2012-03-30,2,1,"#{""davidjameshumphreys@gmail.com""}",869.0,56
+Clojure,incanter,2012-04-09,2,1,"#{""msilva@mitre.org""}",871.0,57
+Clojure,incanter,2012-05-01,4,2,"#{""msilva@mitre.org"" ""alexott@gmail.com""}",875.0,57
+Clojure,incanter,2012-05-12,1,1,"#{""maximilian.karasz@googlemail.com""}",876.0,58
+Clojure,incanter,2012-05-16,1,1,"#{""maximilian.karasz@googlemail.com""}",877.0,58
+Clojure,incanter,2012-05-17,2,1,"#{""liebke@gmail.com""}",879.0,58
+Clojure,incanter,2012-05-31,2,2,"#{""ebrevdo@gmail.com"" ""alexott@gmail.com""}",881.0,59
+Clojure,incanter,2012-06-12,1,1,"#{""ebrevdo@gmail.com""}",882.0,59
+Clojure,incanter,2012-07-01,3,1,"#{""bld@otfrom.com""}",885.0,59
+Clojure,incanter,2012-08-27,2,1,"#{""nathan.messer@btinternet.com""}",887.0,60
+Clojure,incanter,2012-08-31,1,1,"#{""bryce.nyeggen@livingsocial.com""}",888.0,61
+Clojure,incanter,2012-09-04,1,1,"#{""alexott@gmail.com""}",889.0,61
+Clojure,incanter,2012-10-10,1,1,"#{""jstepien@users.sourceforge.net""}",890.0,62
+Clojure,incanter,2012-11-01,1,1,"#{""sc13@sanger.ac.uk""}",891.0,63
+Clojure,incanter,2012-11-02,3,1,"#{""sc13@sanger.ac.uk""}",894.0,63
+Clojure,incanter,2012-11-04,2,2,"#{""liebke@gmail.com"" ""maSwanso@Akamai.com""}",896.0,64
+Clojure,incanter,2012-11-09,8,1,"#{""alexott@gmail.com""}",904.0,64
+Clojure,incanter,2012-11-12,1,1,"#{""sc13@sanger.ac.uk""}",905.0,64
+Clojure,incanter,2012-11-13,1,1,"#{""paul@quantisan.com""}",906.0,64
+Clojure,incanter,2012-11-19,2,1,"#{""paul@quantisan.com""}",908.0,64
+Clojure,incanter,2012-11-23,13,2,"#{""gabriel.synnaeve@gmail.com"" ""alexott@gmail.com""}",921.0,65
+Clojure,incanter,2012-11-24,1,1,"#{""alexott@gmail.com""}",922.0,65
+Clojure,incanter,2012-11-25,3,1,"#{""paul@quantisan.com""}",925.0,65
+Clojure,incanter,2012-11-26,1,1,"#{""alexott@gmail.com""}",926.0,65
+Clojure,incanter,2012-11-28,1,1,"#{""paul@quantisan.com""}",927.0,65
+Clojure,incanter,2012-12-01,5,3,"#{""liebke@gmail.com"" ""paul@quantisan.com"" ""alex@diligenceengine.com""}",932.0,66
+Clojure,incanter,2012-12-03,2,2,"#{""kyle.burton@gmail.com"" ""alexott@gmail.com""}",934.0,67
+Clojure,incanter,2012-12-04,4,1,"#{""paul@quantisan.com""}",938.0,67
+Clojure,incanter,2012-12-09,4,1,"#{""alexott@gmail.com""}",942.0,67
+Clojure,incanter,2012-12-11,8,3,"#{""nikelandjelo@gmail.com"" ""paul@quantisan.com"" ""alexott@gmail.com""}",950.0,68
+Clojure,incanter,2012-12-13,1,1,"#{""paul@quantisan.com""}",951.0,68
+Clojure,incanter,2012-12-15,6,2,"#{""paul@quantisan.com"" ""alexott@gmail.com""}",957.0,68
+Clojure,incanter,2012-12-16,15,2,"#{""paul@quantisan.com"" ""alexott@gmail.com""}",972.0,68
+Clojure,incanter,2012-12-17,6,1,"#{""paul@quantisan.com""}",978.0,68
+Clojure,incanter,2012-12-19,3,1,"#{""paul@quantisan.com""}",981.0,68
+Clojure,incanter,2012-12-21,2,1,"#{""paul@quantisan.com""}",983.0,68
+Clojure,incanter,2012-12-22,6,2,"#{""nikelandjelo@gmail.com"" ""paul@quantisan.com""}",989.0,68
+Clojure,incanter,2012-12-23,12,2,"#{""paul@quantisan.com"" ""alexott@gmail.com""}",1001.0,68
+Clojure,incanter,2012-12-24,1,1,"#{""paul@quantisan.com""}",1002.0,68
+Clojure,incanter,2012-12-25,1,1,"#{""alexott@gmail.com""}",1003.0,68
+Clojure,incanter,2012-12-26,3,1,"#{""alexott@gmail.com""}",1006.0,68
+Clojure,incanter,2012-12-30,1,1,"#{""alexott@gmail.com""}",1007.0,68
+Clojure,incanter,2012-12-31,6,2,"#{""alexott@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1013.0,69
+Clojure,incanter,2013-01-03,2,2,"#{""nikelandjelo@gmail.com"" ""alexott@gmail.com""}",1015.0,69
+Clojure,incanter,2013-01-05,2,2,"#{""nikelandjelo@gmail.com"" ""alexott@gmail.com""}",1017.0,69
+Clojure,incanter,2013-01-31,2,1,"#{""earthlingzephyr@gmail.com""}",1019.0,70
+Clojure,incanter,2013-02-10,1,1,"#{""lionandoil@gmail.com""}",1020.0,71
+Clojure,incanter,2013-02-11,4,2,"#{""lionandoil@gmail.com"" ""alexott@gmail.com""}",1024.0,71
+Clojure,incanter,2013-03-06,2,2,"#{""liebke@gmail.com"" ""arn@loganis.com""}",1026.0,72
+Clojure,incanter,2013-03-07,2,1,"#{""lionandoil@gmail.com""}",1028.0,72
+Clojure,incanter,2013-03-29,1,1,"#{""tom@sixdozen.com""}",1029.0,73
+Clojure,incanter,2013-03-30,2,2,"#{""alexott@gmail.com"" ""john.t.sullivan@gmail.com""}",1031.0,74
+Clojure,incanter,2013-04-02,1,1,"#{""mike.r.anderson.13@gmail.com""}",1032.0,74
+Clojure,incanter,2013-04-05,1,1,"#{""davidjameshumphreys@gmail.com""}",1033.0,74
+Clojure,incanter,2013-04-06,1,1,"#{""alexott@gmail.com""}",1034.0,74
+Clojure,incanter,2013-04-14,1,1,"#{""nblumoeste@googlemail.com""}",1035.0,75
+Clojure,incanter,2013-04-16,1,1,"#{""thatiparthysreenivas@gmail.com""}",1036.0,76
+Clojure,incanter,2013-04-18,1,1,"#{""nikelandjelo@gmail.com""}",1037.0,76
+Clojure,incanter,2013-04-23,3,1,"#{""alexott@gmail.com""}",1040.0,76
+Clojure,incanter,2013-04-25,1,1,"#{""john.t.sullivan@gmail.com""}",1041.0,76
+Clojure,incanter,2013-04-26,3,2,"#{""alexott@gmail.com"" ""john.t.sullivan@gmail.com""}",1044.0,76
+Clojure,incanter,2013-05-13,1,1,"#{""farrellm@alum.mit.edu""}",1045.0,77
+Clojure,incanter,2013-05-14,3,2,"#{""farrellm@alum.mit.edu"" ""alexott@gmail.com""}",1048.0,77
+Clojure,incanter,2013-05-15,5,2,"#{""farrellm@alum.mit.edu"" ""alexott@gmail.com""}",1053.0,77
+Clojure,incanter,2013-05-16,4,2,"#{""farrellm@alum.mit.edu"" ""alexott@gmail.com""}",1057.0,77
+Clojure,incanter,2013-05-19,2,2,"#{""farrellm@alum.mit.edu"" ""alexott@gmail.com""}",1059.0,77
+Clojure,incanter,2013-05-20,1,1,"#{""alexott@gmail.com""}",1060.0,77
+Clojure,incanter,2013-05-21,2,1,"#{""alexott@gmail.com""}",1062.0,77
+Clojure,incanter,2013-05-23,4,3,"#{""nikelandjelo@gmail.com"" ""farrellm@alum.mit.edu"" ""alexott@gmail.com""}",1066.0,77
+Clojure,incanter,2013-05-24,1,1,"#{""farrellm@alum.mit.edu""}",1067.0,77
+Clojure,incanter,2013-05-25,4,2,"#{""nikelandjelo@gmail.com"" ""alexott@gmail.com""}",1071.0,77
+Clojure,incanter,2013-05-26,1,1,"#{""alexott@gmail.com""}",1072.0,77
+Clojure,incanter,2013-05-27,13,1,"#{""mike.r.anderson.13@gmail.com""}",1085.0,77
+Clojure,incanter,2013-05-28,1,1,"#{""mike.r.anderson.13@gmail.com""}",1086.0,77
+Clojure,incanter,2013-05-31,2,1,"#{""alexott@gmail.com""}",1088.0,77
+Clojure,incanter,2013-06-01,2,2,"#{""alexott@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1090.0,77
+Clojure,incanter,2013-06-04,1,1,"#{""cdorrat@gmail.com""}",1091.0,78
+Clojure,incanter,2013-06-05,4,1,"#{""alexott@gmail.com""}",1095.0,78
+Clojure,incanter,2013-06-07,3,1,"#{""benwbooth@gmail.com""}",1098.0,79
+Clojure,incanter,2013-06-08,2,1,"#{""alexott@gmail.com""}",1100.0,79
+Clojure,incanter,2013-06-09,3,1,"#{""alexott@gmail.com""}",1103.0,79
+Clojure,incanter,2013-06-10,2,1,"#{""alexott@gmail.com""}",1105.0,79
+Clojure,incanter,2013-06-11,3,1,"#{""alexott@gmail.com""}",1108.0,79
+Clojure,incanter,2013-06-13,3,1,"#{""alexott@gmail.com""}",1111.0,79
+Clojure,incanter,2013-06-17,4,2,"#{""przemko@przemko-robakowski.pl"" ""alexott@gmail.com""}",1115.0,80
+Clojure,incanter,2013-06-19,1,1,"#{""steffen.dienst@gmail.com""}",1116.0,81
+Clojure,incanter,2013-06-21,1,1,"#{""alexott@gmail.com""}",1117.0,81
+Clojure,incanter,2013-07-13,1,1,"#{""jakub.holy@iterate.no""}",1118.0,82
+Clojure,incanter,2013-07-14,1,1,"#{""alexott@gmail.com""}",1119.0,82
+Clojure,incanter,2013-08-04,5,1,"#{""alexott@gmail.com""}",1124.0,82
+Clojure,incanter,2013-08-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",1125.0,82
+Clojure,incanter,2013-08-13,3,2,"#{""morrifeldman@gmail.com"" ""alexott@gmail.com""}",1128.0,83
+Clojure,incanter,2013-08-15,5,2,"#{""morrifeldman@gmail.com"" ""alexott@gmail.com""}",1133.0,83
+Clojure,incanter,2013-08-22,1,1,"#{""michael.o.church@gmail.com""}",1134.0,84
+Clojure,incanter,2013-08-26,1,1,"#{""alexott@gmail.com""}",1135.0,84
+Clojure,incanter,2013-08-28,1,1,"#{""michael.o.church@gmail.com""}",1136.0,84
+Clojure,incanter,2013-08-30,3,1,"#{""mneilsen@acm.org""}",1139.0,85
+Clojure,incanter,2013-08-31,1,1,"#{""alexott@gmail.com""}",1140.0,85
+Clojure,incanter,2013-09-01,11,1,"#{""alexott@gmail.com""}",1151.0,85
+Clojure,incanter,2013-09-03,1,1,"#{""alexott@gmail.com""}",1152.0,85
+Clojure,incanter,2013-09-07,1,1,"#{""stuart.hinson@gmail.com""}",1153.0,86
+Clojure,incanter,2013-09-08,1,1,"#{""alexott@gmail.com""}",1154.0,86
+Clojure,incanter,2013-09-10,2,1,"#{""alexott@gmail.com""}",1156.0,86
+Clojure,incanter,2013-09-14,3,1,"#{""delta1080@gmail.com""}",1159.0,87
+Clojure,incanter,2013-09-15,4,2,"#{""bassem@outlook.com"" ""delta1080@gmail.com""}",1163.0,88
+Clojure,incanter,2013-09-16,3,2,"#{""alexott@gmail.com"" ""bassem@outlook.com""}",1166.0,88
+Clojure,incanter,2013-10-03,2,2,"#{""alexott@gmail.com"" ""michael.o.church@gmail.com""}",1168.0,88
+Clojure,incanter,2013-10-25,3,2,"#{""lee.ezra@gmail.com"" ""alexott@gmail.com""}",1171.0,89
+Clojure,incanter,2013-10-29,2,2,"#{""alexott@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1173.0,89
+Clojure,incanter,2013-10-30,1,1,"#{""alexott@gmail.com""}",1174.0,89
+Clojure,incanter,2013-11-03,1,1,"#{""alexott@gmail.com""}",1175.0,89
+Clojure,incanter,2013-11-18,3,2,"#{""gijsstuurman@gmail.com"" ""alexott@gmail.com""}",1178.0,90
+Clojure,incanter,2013-11-24,12,2,"#{""alexott@gmail.com"" ""uagui@student.kit.edu""}",1190.0,91
+Clojure,incanter,2013-12-01,4,2,"#{""salvarez@lsi.upc.edu"" ""alexott@gmail.com""}",1194.0,92
+Clojure,incanter,2013-12-12,1,1,"#{""john.t.sullivan@gmail.com""}",1195.0,92
+Clojure,incanter,2013-12-14,2,1,"#{""john.t.sullivan@gmail.com""}",1197.0,92
+Clojure,incanter,2013-12-19,2,1,"#{""nemo1211@gmail.com""}",1199.0,93
+Clojure,incanter,2013-12-26,1,1,"#{""alexott@gmail.com""}",1200.0,93
+Clojure,incanter,2013-12-29,1,1,"#{""jakub.holy@iterate.no""}",1201.0,93
+Clojure,incanter,2014-01-09,9,2,"#{""alexott@gmail.com"" ""uagui@student.kit.edu""}",1210.0,93
+Clojure,incanter,2014-01-23,3,1,"#{""andy_fingerhut@alum.wustl.edu""}",1213.0,94
+Clojure,incanter,2014-01-24,1,1,"#{""andy_fingerhut@alum.wustl.edu""}",1214.0,94
+Clojure,incanter,2014-02-08,2,1,"#{""alexott@gmail.com""}",1216.0,94
+Clojure,incanter,2014-03-20,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1218.0,95
+Clojure,incanter,2014-03-21,5,2,"#{""aleksandr.sorokoumov@gmail.com"" ""alexott@gmail.com""}",1223.0,95
+Clojure,incanter,2014-03-23,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1224.0,95
+Clojure,incanter,2014-03-28,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1226.0,95
+Clojure,incanter,2014-03-29,2,1,"#{""alexott@gmail.com""}",1228.0,95
+Clojure,incanter,2014-04-02,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1229.0,95
+Clojure,incanter,2014-04-09,2,1,"#{""alexott@gmail.com""}",1231.0,95
+Clojure,incanter,2014-04-15,2,2,"#{""farrellm@alum.mit.edu"" ""alexott@gmail.com""}",1233.0,95
+Clojure,incanter,2014-04-16,1,1,"#{""mike.r.anderson.13@gmail.com""}",1234.0,95
+Clojure,incanter,2014-04-17,2,2,"#{""mishadoff@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1236.0,96
+Clojure,incanter,2014-04-18,6,1,"#{""alexott@gmail.com""}",1242.0,96
+Clojure,incanter,2014-04-20,1,1,"#{""timbers@ualberta.ca""}",1243.0,97
+Clojure,incanter,2014-04-21,3,1,"#{""timbers@ualberta.ca""}",1246.0,97
+Clojure,incanter,2014-04-22,5,1,"#{""mike.r.anderson.13@gmail.com""}",1251.0,97
+Clojure,incanter,2014-04-27,4,1,"#{""alexott@gmail.com""}",1255.0,97
+Clojure,incanter,2014-05-07,1,1,"#{""dev@mobileink.com""}",1256.0,98
+Clojure,incanter,2014-05-08,4,2,"#{""dev@mobileink.com"" ""alexott@gmail.com""}",1260.0,98
+Clojure,incanter,2014-05-18,1,1,"#{""e@obrain.com""}",1261.0,99
+Clojure,incanter,2014-05-20,2,2,"#{""sergio.bossa@gmail.com"" ""alexott@gmail.com""}",1263.0,100
+Clojure,incanter,2014-05-21,1,1,"#{""alexott@gmail.com""}",1264.0,100
+Clojure,incanter,2014-05-29,4,1,"#{""aleksandr.sorokoumov@gmail.com""}",1268.0,100
+Clojure,incanter,2014-06-01,17,1,"#{""aleksandr.sorokoumov@gmail.com""}",1285.0,100
+Clojure,incanter,2014-06-04,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1286.0,100
+Clojure,incanter,2014-06-05,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1288.0,100
+Clojure,incanter,2014-06-06,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1290.0,100
+Clojure,incanter,2014-06-09,1,1,"#{""alexott@gmail.com""}",1291.0,100
+Clojure,incanter,2014-06-14,1,1,"#{""nils.blum-oeste@futurice.com""}",1292.0,101
+Clojure,incanter,2014-06-15,1,1,"#{""nils.blum-oeste@futurice.com""}",1293.0,101
+Clojure,incanter,2014-06-17,1,1,"#{""alexott@gmail.com""}",1294.0,101
+Clojure,incanter,2014-06-19,5,1,"#{""aleksandr.sorokoumov@gmail.com""}",1299.0,101
+Clojure,incanter,2014-06-21,3,1,"#{""aleksandr.sorokoumov@gmail.com""}",1302.0,101
+Clojure,incanter,2014-06-25,8,1,"#{""aleksandr.sorokoumov@gmail.com""}",1310.0,101
+Clojure,incanter,2014-07-04,3,1,"#{""aleksandr.sorokoumov@gmail.com""}",1313.0,101
+Clojure,incanter,2014-07-07,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1315.0,101
+Clojure,incanter,2014-07-08,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1316.0,101
+Clojure,incanter,2014-07-12,1,1,"#{""nblumoe@users.noreply.github.com""}",1317.0,102
+Clojure,incanter,2014-07-23,3,2,"#{""etosch@gmail.com"" ""alexott@gmail.com""}",1320.0,103
+Clojure,incanter,2014-07-27,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1322.0,103
+Clojure,incanter,2014-08-05,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1323.0,103
+Clojure,incanter,2014-08-06,11,2,"#{""chausler@zendesk.com"" ""aleksandr.sorokoumov@gmail.com""}",1334.0,104
+Clojure,incanter,2014-08-07,8,2,"#{""aleksandr.sorokoumov@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1342.0,104
+Clojure,incanter,2014-08-09,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1344.0,104
+Clojure,incanter,2014-08-10,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1345.0,104
+Clojure,incanter,2014-08-16,5,1,"#{""aleksandr.sorokoumov@gmail.com""}",1350.0,104
+Clojure,incanter,2014-08-17,5,1,"#{""alexott@gmail.com""}",1355.0,104
+Clojure,incanter,2014-08-19,4,2,"#{""john.chapin@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1359.0,105
+Clojure,incanter,2014-08-20,1,1,"#{""alexott@gmail.com""}",1360.0,105
+Clojure,incanter,2014-08-23,8,2,"#{""alexott@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1368.0,105
+Clojure,incanter,2014-09-01,1,1,"#{""alexott@gmail.com""}",1369.0,105
+Clojure,incanter,2014-09-16,1,1,"#{""moquist@majen.net""}",1370.0,106
+Clojure,incanter,2014-11-10,1,1,"#{""nikelandjelo@gmail.com""}",1371.0,106
+Clojure,incanter,2014-11-24,2,1,"#{""ritchiecai@r2labs.org""}",1373.0,107
+Clojure,incanter,2014-11-28,1,1,"#{""cayennes@gmail.com""}",1374.0,108
+Clojure,incanter,2014-12-26,6,1,"#{""alexott@gmail.com""}",1380.0,108
+Clojure,incanter,2014-12-27,4,2,"#{""alexott@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1384.0,108
+Clojure,incanter,2014-12-28,7,2,"#{""nikelandjelo@gmail.com"" ""alexott@gmail.com""}",1391.0,108
+Clojure,incanter,2015-01-26,1,1,"#{""nils.blum-oeste@futurice.com""}",1392.0,108
+Clojure,incanter,2015-01-28,3,2,"#{""nblumoeste@googlemail.com"" ""aleksandr.sorokoumov@gmail.com""}",1395.0,108
+Clojure,incanter,2015-01-29,2,2,"#{""nblumoeste@googlemail.com"" ""nbeloglazov@google.com""}",1397.0,109
+Clojure,incanter,2015-01-31,2,2,"#{""nikelandjelo@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1399.0,109
+Clojure,incanter,2015-02-09,1,1,"#{""nblumoeste@googlemail.com""}",1400.0,109
+Clojure,incanter,2015-02-21,2,1,"#{""mike.r.anderson.13@gmail.com""}",1402.0,109
+Clojure,incanter,2015-02-23,2,2,"#{""nblumoe@users.noreply.github.com"" ""mike.r.anderson.13@gmail.com""}",1404.0,109
+Clojure,incanter,2015-02-27,2,1,"#{""aleksandr.sorokoumov@gmail.com""}",1406.0,109
+Clojure,incanter,2015-03-05,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1407.0,109
+Clojure,incanter,2015-03-06,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1408.0,109
+Clojure,incanter,2015-03-12,3,1,"#{""nblumoeste@googlemail.com""}",1411.0,109
+Clojure,incanter,2015-03-13,2,1,"#{""alexott@gmail.com""}",1413.0,109
+Clojure,incanter,2015-03-27,1,1,"#{""nblumoeste@googlemail.com""}",1414.0,109
+Clojure,incanter,2015-03-28,1,1,"#{""nblumoeste@googlemail.com""}",1415.0,109
+Clojure,incanter,2015-04-02,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1416.0,109
+Clojure,incanter,2015-06-10,3,1,"#{""aleksandr.sorokoumov@gmail.com""}",1419.0,109
+Clojure,incanter,2015-06-16,2,1,"#{""mail@nils-blum-oeste.net""}",1421.0,110
+Clojure,incanter,2015-06-19,1,1,"#{""dpw341@gmail.com""}",1422.0,111
+Clojure,incanter,2015-06-22,3,1,"#{""dpw341@gmail.com""}",1425.0,111
+Clojure,incanter,2015-06-23,1,1,"#{""mike.r.anderson.13@gmail.com""}",1426.0,111
+Clojure,incanter,2015-06-25,1,1,"#{""mike.r.anderson.13@gmail.com""}",1427.0,111
+Clojure,incanter,2015-07-21,6,4,"#{""mail@nils-blum-oeste.net"" ""nblumoe@users.noreply.github.com"" ""biellls@users.noreply.github.com"" ""mike.r.anderson.13@gmail.com""}",1433.0,112
+Clojure,incanter,2015-07-22,2,2,"#{""nblumoe@users.noreply.github.com"" ""mike.r.anderson.13@gmail.com""}",1435.0,112
+Clojure,incanter,2015-09-13,1,1,"#{""carsten.behring@gmail.com""}",1436.0,113
+Clojure,incanter,2015-10-14,7,1,"#{""mike.r.anderson.13@gmail.com""}",1443.0,113
+Clojure,incanter,2015-10-24,1,1,"#{""aleksandr.sorokoumov@gmail.com""}",1444.0,113
+Clojure,incanter,2015-10-30,5,1,"#{""mike.r.anderson.13@gmail.com""}",1449.0,113
+Clojure,incanter,2015-10-31,1,1,"#{""mike.r.anderson.13@gmail.com""}",1450.0,113
+Clojure,incanter,2015-11-05,1,1,"#{""jjttjj@gmail.com""}",1451.0,114
+Clojure,incanter,2015-11-06,1,1,"#{""mike.r.anderson.13@gmail.com""}",1452.0,114
+Clojure,incanter,2016-01-26,1,1,"#{""mike.r.anderson.13@gmail.com""}",1453.0,114
+Clojure,incanter,2016-01-31,5,1,"#{""alexott@gmail.com""}",1458.0,114
+Clojure,incanter,2016-02-01,5,2,"#{""alexott@gmail.com"" ""mike.r.anderson.13@gmail.com""}",1463.0,114
+Clojure,incanter,2016-02-04,1,1,"#{""mike.r.anderson.13@gmail.com""}",1464.0,114
+Clojure,incanter,2016-02-08,1,1,"#{""smaginsergey1310@gmail.com""}",1465.0,115
+Clojure,incanter,2016-04-21,1,1,"#{""hasun@zendesk.com""}",1466.0,116
+Clojure,incanter,2016-05-10,1,1,"#{""kiran.karkera@gmail.com""}",1467.0,117
+Clojure,incanter,2016-05-11,1,1,"#{""mike.r.anderson.13@gmail.com""}",1468.0,117
+Clojure,incanter,2016-05-12,4,1,"#{""kiran.karkera@gmail.com""}",1472.0,117
+Clojure,incanter,2016-05-30,6,1,"#{""mike.r.anderson.13@gmail.com""}",1478.0,117
+Clojure,incanter,2016-06-03,2,1,"#{""mike@mikera.net""}",1480.0,118
+Clojure,incanter,2016-07-13,2,2,"#{""mike@mikera.net"" ""mike.r.anderson.13@gmail.com""}",1482.0,118
+Clojure,incanter,2016-07-16,1,1,"#{""keytiong@hotmail.com""}",1483.0,119
+Clojure,incanter,2016-07-18,2,2,"#{""keytiong@hotmail.com"" ""mike.r.anderson.13@gmail.com""}",1485.0,119
+Clojure,incanter,2016-10-04,1,1,"#{""rasmus.buchmann@gmx.de""}",1486.0,120
+Clojure,incanter,2016-10-06,1,1,"#{""henry.widd@tuloscapital.com""}",1487.0,121
+Clojure,incanter,2016-12-10,1,1,"#{""msanztru@gmail.com""}",1488.0,122
+Clojure,incanter,2016-12-11,1,1,"#{""alexott@gmail.com""}",1489.0,122
+Clojure,incanter,2017-04-06,1,1,"#{""keytiong@hotmail.com""}",1490.0,122
+Clojure,incanter,2017-06-12,1,1,"#{""kiran.karkera@gmail.com""}",1491.0,122
+Clojure,incanter,2017-06-30,1,1,"#{""mike.r.anderson.13@gmail.com""}",1492.0,122
+Clojure,incanter,2017-07-18,1,1,"#{""mike.r.anderson.13@gmail.com""}",1493.0,122
+Clojure,incanter,2017-08-20,2,1,"#{""peter@kuchta.co.uk""}",1495.0,123
+Clojure,incanter,2017-08-21,1,1,"#{""peter@kuchta.co.uk""}",1496.0,123
+Clojure,incanter,2017-08-23,3,1,"#{""peter@kuchta.co.uk""}",1499.0,123
+Clojure,incanter,2017-08-29,4,1,"#{""peter@kuchta.co.uk""}",1503.0,123
+Clojure,incanter,2017-09-04,2,1,"#{""peter@kuchta.co.uk""}",1505.0,123
+Clojure,incanter,2017-09-06,1,1,"#{""peter@kuchta.co.uk""}",1506.0,123
+Clojure,incanter,2017-09-09,11,1,"#{""alexott@gmail.com""}",1517.0,123
+Clojure,incanter,2017-09-10,1,1,"#{""alexott@gmail.com""}",1518.0,123
+Clojure,incanter,2018-02-04,3,1,"#{""alexott@gmail.com""}",1521.0,123
+Clojure,incanter,2018-02-08,3,1,"#{""tom@that-place""}",1524.0,124
+Clojure,incanter,2018-02-12,1,1,"#{""alex.ott@datastax.com""}",1525.0,125
+Clojure,incanter,2018-03-02,3,1,"#{""tom@that-place""}",1528.0,125
+Clojure,incanter,2018-05-17,1,1,"#{""alexott@gmail.com""}",1529.0,125
+Clojure,incanter,2018-06-10,7,2,"#{""marco.molteni@laposte.net"" ""alexott@gmail.com""}",1536.0,126
+Clojure,incanter,2018-10-29,2,1,"#{""iglesiastj@gmail.com""}",1538.0,127
+Clojure,incanter,2018-11-29,1,1,"#{""wvlia5@live.com.ar""}",1539.0,128
+Clojure,incanter,2018-12-05,1,1,"#{""alexott@gmail.com""}",1540.0,128
+Clojure,incanter,2019-02-13,1,1,"#{""anthony.galea@gmail.com""}",1541.0,129
+Clojure,incanter,2019-05-05,3,1,"#{""alexott@gmail.com""}",1544.0,129
+Clojure,incanter,2019-06-06,1,1,"#{""yuki.yonezawa.86@gmail.com""}",1545.0,130
+Clojure,incanter,2019-09-26,2,1,"#{""sergey.smyshlyaev@gmail.com""}",1547.0,131
+Clojure,incanter,2019-11-03,1,1,"#{""mawiraike@gmail.com""}",1548.0,132
+Clojure,incanter,2019-11-05,3,1,"#{""mawiraike@gmail.com""}",1551.0,132
+Clojure,incanter,2019-11-07,2,1,"#{""mawiraike@gmail.com""}",1553.0,132
+Clojure,incanter,2019-11-24,1,1,"#{""mawiraike@gmail.com""}",1554.0,132
+Clojure,incanter,2019-11-25,1,1,"#{""mawiraike@gmail.com""}",1555.0,132
+Clojure,incanter,2019-11-29,3,1,"#{""mawiraike@gmail.com""}",1558.0,132
+Clojure,incanter,2019-11-30,1,1,"#{""mawiraike@gmail.com""}",1559.0,132
+Clojure,incanter,2019-12-04,1,1,"#{""mawiraike@gmail.com""}",1560.0,132
+Clojure,incanter,2019-12-13,4,1,"#{""mawiraike@gmail.com""}",1564.0,132
+Clojure,incanter,2019-12-17,7,1,"#{""mawiraike@gmail.com""}",1571.0,132
+Clojure,incanter,2019-12-19,1,1,"#{""mawiraike@gmail.com""}",1572.0,132
+Clojure,incanter,2019-12-21,2,1,"#{""mawiraike@gmail.com""}",1574.0,132
+Clojure,incanter,2019-12-22,1,1,"#{""mawiraike@gmail.com""}",1575.0,132
+Clojure,incanter,2020-01-04,14,2,"#{""mawiraike@gmail.com"" ""alexott@gmail.com""}",1589.0,132
+Clojure,incanter,2020-01-05,4,2,"#{""mawiraike@gmail.com"" ""alexott@gmail.com""}",1593.0,132
+Clojure,incanter,2023-10-23,1,1,"#{""asif.mehedi@live.com""}",1594.0,133
+Clojure,incanter,2023-11-10,1,1,"#{""alexott@gmail.com""}",1595.0,133

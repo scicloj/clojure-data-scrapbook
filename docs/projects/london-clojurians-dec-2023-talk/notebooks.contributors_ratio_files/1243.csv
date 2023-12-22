@@ -1,0 +1,583 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",2.0,[{0 2}],0,2,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",4.0,[{0 4}],0,4,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-17,12,2,"#tech.v3.dataset.column<string>[12]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, jfields@wud-jfields02.(none)]",16.0,"[{0 15, ""other"" 1}]",1,15,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",18.0,"[{0 17, ""other"" 1}]",1,17,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",22.0,"[{0 21, ""other"" 1}]",1,21,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-21,21,1,"#tech.v3.dataset.column<string>[21]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com...]",43.0,"[{0 42, ""other"" 1}]",1,42,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",45.0,"[{0 44, ""other"" 1}]",1,44,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-25,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",49.0,"[{0 48, ""other"" 1}]",1,48,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-26,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",53.0,"[{0 52, ""other"" 1}]",1,52,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-27,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com]",56.0,"[{0 55, ""other"" 1}]",1,55,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-08-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",58.0,"[{0 57, ""other"" 1}]",1,57,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",62.0,"[{0 61, ""other"" 1}]",1,61,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",64.0,"[{0 63, ""other"" 1}]",1,63,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",66.0,"[{0 65, ""other"" 1}]",1,65,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",68.0,"[{0 67, ""other"" 1}]",1,67,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-14,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none)]",73.0,"[{0 67, ""other"" 6}]",6,67,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-15,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none)]",76.0,"[{0 67, ""other"" 9}]",9,67,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none)]",79.0,"[{0 67, ""other"" 12}]",12,67,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@wud-jfields02.(none)]",80.0,"[{0 67, ""other"" 13}]",13,67,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@wud-jfields02.(none)]",81.0,"[{0 67, ""other"" 14}]",14,67,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",82.0,"[{0 68, ""other"" 14}]",14,68,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-09-30,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",95.0,"[{0 76, ""other"" 19}]",19,76,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-10-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none)]",97.0,"[{0 76, ""other"" 21}]",21,76,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-10-08,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), github@jayfields.com, github@jayfields.com]",101.0,"[{0 78, ""other"" 23}]",23,78,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-11-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none)]",103.0,"[{0 78, ""other"" 25}]",25,78,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-11-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[jfields@wud-jfields02.(none), github@jayfields.com]",105.0,"[{0 79, ""other"" 26}]",26,79,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-11-15,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[github@jayfields.com, github@jayfields.com, jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), github@jayfields.com, github@jayfields.com, github@jayfields.com]",112.0,"[{0 84, ""other"" 28}]",28,84,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-11-16,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), jfields@wud-jfields02.(none), github@jayfields.com]",116.0,"[{0 85, ""other"" 31}]",31,85,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-12-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@wud-jfields02.(none)]",117.0,"[{0 85, ""other"" 32}]",32,85,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-12-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",119.0,"[{0 87, ""other"" 32}]",32,87,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-12-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@lmp-jfields03.us.drwholdings.com]",120.0,"[{0 87, ""other"" 33}]",33,87,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-12-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@jayfields.com]",121.0,"[{0 87, ""other"" 34}]",34,87,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-12-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[git@jayfields.com, git@jayfields.com, git@jayfields.com]",124.0,"[{0 87, ""other"" 37}]",37,87,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2010-12-29,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[jfields@wud-jfields02.(none), git@jayfields.com, git@jayfields.com, git@jayfields.com]",128.0,"[{0 87, ""other"" 41}]",41,87,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-01-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@jayfields.com, git@jayfields.com]",130.0,"[{0 87, ""other"" 43}]",43,87,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-02-24,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",134.0,"[{0 91, ""other"" 43}]",43,91,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-03-02,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",136.0,"[{0 93, ""other"" 43}]",43,93,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-05-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",137.0,"[{0 94, ""other"" 43}]",43,94,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",138.0,"[{0 95, ""other"" 43}]",43,95,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-06-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",139.0,"[{0 96, ""other"" 43}]",43,96,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-06-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",141.0,"[{0 98, ""other"" 43}]",43,98,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@jayfields.com]",142.0,"[{0 98, ""other"" 44}]",44,98,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-08-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",144.0,"[{0 100, ""other"" 44}]",44,100,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",145.0,"[{0 101, ""other"" 44}]",44,101,0,0,0,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-09-29,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com]",150.0,"[{0 101, ""other"" 44, 3 5}]",44,101,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-10-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com]",153.0,"[{0 104, ""other"" 44, 3 5}]",44,104,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-10-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",155.0,"[{0 106, ""other"" 44, 3 5}]",44,106,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-10-12,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com]",158.0,"[{0 109, ""other"" 44, 3 5}]",44,109,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-10-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",159.0,"[{0 110, ""other"" 44, 3 5}]",44,110,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[git@jayfields.com]",160.0,"[{0 110, ""other"" 45, 3 5}]",45,110,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-11-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",164.0,"[{0 114, ""other"" 45, 3 5}]",45,114,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-11-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@jayfields.com, git@jayfields.com]",166.0,"[{0 114, ""other"" 47, 3 5}]",47,114,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-11-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[git@jayfields.com, git@jayfields.com, git@jayfields.com]",169.0,"[{0 114, ""other"" 50, 3 5}]",50,114,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-11-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",170.0,"[{0 115, ""other"" 50, 3 5}]",50,115,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-12-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",171.0,"[{0 116, ""other"" 50, 3 5}]",50,116,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-12-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",172.0,"[{0 117, ""other"" 50, 3 5}]",50,117,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-12-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com]",175.0,"[{0 120, ""other"" 50, 3 5}]",50,120,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-12-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jake@jakemccrary.com, jake@jakemccrary.com]",177.0,"[{0 120, ""other"" 52, 3 5}]",52,120,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2011-12-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",178.0,"[{0 121, ""other"" 52, 3 5}]",52,121,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-01-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com]",181.0,"[{0 124, ""other"" 52, 3 5}]",52,124,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-01-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@jayfields.com, git@jayfields.com]",183.0,"[{0 124, ""other"" 54, 3 5}]",54,124,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-01-10,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, bcaputo@drw.com, bcaputo@drw.com, bcaputo@drw.com, bcaputo@drw.com, bcaputo@drw.com, bcaputo@drw.com, github@jayfields.com]",193.0,"[{0 128, ""other"" 60, 3 5}]",60,128,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-02-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com]",196.0,"[{0 131, ""other"" 60, 3 5}]",60,131,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-04-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",198.0,"[{0 133, ""other"" 60, 3 5}]",60,133,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-04-08,4,3,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, git@jayfields.com, github@jayfields.com, gjones@drwholdings.com]",202.0,"[{0 135, ""other"" 62, 3 5}]",62,135,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-04-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",203.0,"[{0 136, ""other"" 62, 3 5}]",62,136,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-04-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",205.0,"[{0 138, ""other"" 62, 3 5}]",62,138,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-04-30,8,1,"#tech.v3.dataset.column<string>[8]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",213.0,"[{0 146, ""other"" 62, 3 5}]",62,146,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-05-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",217.0,"[{0 150, ""other"" 62, 3 5}]",62,150,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-05-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",218.0,"[{0 151, ""other"" 62, 3 5}]",62,151,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-05-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",220.0,"[{0 153, ""other"" 62, 3 5}]",62,153,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-06-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[git@jayfields.com, git@jayfields.com]",222.0,"[{0 153, ""other"" 64, 3 5}]",64,153,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-08-19,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[git@jayfields.com, git@jayfields.com, git@jayfields.com, git@jayfields.com, git@jayfields.com, git@jayfields.com, git@jayfields.com]",229.0,"[{0 153, ""other"" 71, 3 5}]",71,153,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",231.0,"[{0 155, ""other"" 71, 3 5}]",71,155,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",232.0,"[{0 156, ""other"" 71, 3 5}]",71,156,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",233.0,"[{0 157, ""other"" 71, 3 5}]",71,157,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",234.0,"[{0 158, ""other"" 71, 3 5}]",71,158,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-25,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[github@jayfields.com, github@jayfields.com, jfields@lmp-jfields01.us.drwholdings.com, github@jayfields.com, github@jayfields.com]",239.0,"[{0 162, ""other"" 72, 3 5}]",72,162,0,0,5,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@drw.com]",240.0,"[{0 162, ""other"" 72, 3 6}]",72,162,0,0,6,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com]",245.0,"[{0 162, ""other"" 72, 3 11}]",72,162,0,0,11,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-10-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@drw.com]",246.0,"[{0 162, ""other"" 72, 3 12}]",72,162,0,0,12,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jfields@drw.com, jfields@drw.com]",248.0,"[{0 162, ""other"" 72, 3 14}]",72,162,0,0,14,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-02,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com]",253.0,"[{0 162, ""other"" 72, 3 19}]",72,162,0,0,19,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-03,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com]",257.0,"[{0 162, ""other"" 72, 3 23}]",72,162,0,0,23,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-04,15,1,"#tech.v3.dataset.column<string>[15]
+:email
+[jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com]",272.0,"[{0 162, ""other"" 72, 3 38}]",72,162,0,0,38,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-05,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com, github@jayfields.com]",277.0,"[{0 163, ""other"" 72, 3 42}]",72,163,0,0,42,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jfields@drw.com, jfields@drw.com, jfields@drw.com, jfields@drw.com]",281.0,"[{0 163, ""other"" 72, 3 46}]",72,163,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",283.0,"[{0 165, ""other"" 72, 3 46}]",72,165,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-11-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",284.0,"[{0 166, ""other"" 72, 3 46}]",72,166,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2012-12-28,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",289.0,"[{0 171, ""other"" 72, 3 46}]",72,171,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-01-10,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, dchelimsky@gmail.com]",296.0,"[{0 177, ""other"" 73, 3 46}]",73,177,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",297.0,"[{0 178, ""other"" 73, 3 46}]",73,178,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",298.0,"[{0 179, ""other"" 73, 3 46}]",73,179,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-01-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",300.0,"[{0 181, ""other"" 73, 3 46}]",73,181,0,0,46,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-02-04,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, jfields@drw.com, jfields@drw.com]",303.0,"[{0 182, ""other"" 73, 3 48}]",73,182,0,0,48,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@drw.com]",304.0,"[{0 182, ""other"" 73, 3 49}]",73,182,0,0,49,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-02-19,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, gfleshman@newforge-tech.com, jfields@drw.com]",307.0,"[{0 183, ""other"" 74, 3 50}]",74,183,0,0,50,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-02-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@drw.com]",308.0,"[{0 183, ""other"" 74, 3 51}]",74,183,0,0,51,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-02-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com]",311.0,"[{0 186, ""other"" 74, 3 51}]",74,186,0,0,51,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-02-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",312.0,"[{0 187, ""other"" 74, 3 51}]",74,187,0,0,51,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-03-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jfields@drw.com]",313.0,"[{0 187, ""other"" 74, 3 52}]",74,187,0,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-03-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",314.0,"[{0 188, ""other"" 74, 3 52}]",74,188,0,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-03-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",315.0,"[{0 189, ""other"" 74, 3 52}]",74,189,0,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-03-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",319.0,"[{0 193, ""other"" 74, 3 52}]",74,193,0,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-03-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jonas.nordstrand@gmail.com]",320.0,"[{0 193, ""other"" 75, 3 52}]",75,193,0,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-03-18,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",322.0,"[{0 195, ""other"" 75, 3 52}]",75,195,0,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-03-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",323.0,"[{0 195, ""other"" 75, 3 52, 1 1}]",75,195,1,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-05-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[ozzloy@gmail.com]",324.0,"[{0 195, ""other"" 76, 3 52, 1 1}]",76,195,1,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-05-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",326.0,"[{0 197, ""other"" 76, 3 52, 1 1}]",76,197,1,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-05-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",327.0,"[{0 198, ""other"" 76, 3 52, 1 1}]",76,198,1,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-05-23,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com, github@jayfields.com]",337.0,"[{0 208, ""other"" 76, 3 52, 1 1}]",76,208,1,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-05-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[jay@jayfields.com, jay@jayfields.com, github@jayfields.com]",340.0,"[{0 209, ""other"" 76, 3 52, 1 3}]",76,209,3,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-05-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",342.0,"[{0 211, ""other"" 76, 3 52, 1 3}]",76,211,3,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-05-29,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, github@jayfields.com, jay@jayfields.com, jay@jayfields.com]",348.0,"[{0 212, ""other"" 76, 3 52, 1 8}]",76,212,8,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-06-05,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, jay@jayfields.com]",350.0,"[{0 213, ""other"" 76, 3 52, 1 9}]",76,213,9,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-06-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",352.0,"[{0 213, ""other"" 76, 3 52, 1 11}]",76,213,11,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-06-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",353.0,"[{0 214, ""other"" 76, 3 52, 1 11}]",76,214,11,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-06-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",355.0,"[{0 214, ""other"" 76, 3 52, 1 13}]",76,214,13,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-06-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, github@jayfields.com]",357.0,"[{0 216, ""other"" 76, 3 52, 1 13}]",76,216,13,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-06-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",358.0,"[{0 216, ""other"" 76, 3 52, 1 14}]",76,216,14,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-07-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",359.0,"[{0 216, ""other"" 76, 3 52, 1 15}]",76,216,15,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",360.0,"[{0 216, ""other"" 76, 3 52, 1 16}]",76,216,16,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-08-04,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com]",363.0,"[{0 216, ""other"" 76, 3 52, 1 19}]",76,216,19,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",364.0,"[{0 216, ""other"" 76, 3 52, 1 20}]",76,216,20,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-09-01,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[github@jayfields.com, colint@smxemail.com]",366.0,"[{0 217, ""other"" 77, 3 52, 1 20}]",77,217,20,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-09-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",367.0,"[{0 217, ""other"" 77, 3 52, 1 21}]",77,217,21,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-09-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",369.0,"[{0 217, ""other"" 77, 3 52, 1 23}]",77,217,23,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-11-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",370.0,"[{0 217, ""other"" 77, 3 52, 1 24}]",77,217,24,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-11-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[mike.b.roberts@gmail.com]",371.0,"[{0 217, ""other"" 78, 3 52, 1 24}]",78,217,24,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[github@jayfields.com]",372.0,"[{0 218, ""other"" 78, 3 52, 1 24}]",78,218,24,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2013-11-12,3,3,"#tech.v3.dataset.column<string>[3]
+:email
+[jay@jayfields.com, github@jayfields.com, hraberg@drwholdings.com]",375.0,"[{0 219, ""other"" 79, 3 52, 1 25}]",79,219,25,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-02-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",376.0,"[{0 219, ""other"" 79, 3 52, 1 26}]",79,219,26,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-02-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",377.0,"[{0 219, ""other"" 79, 3 52, 1 27}]",79,219,27,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-02-17,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",379.0,"[{0 219, ""other"" 79, 3 52, 1 29}]",79,219,29,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-02-18,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com]",384.0,"[{0 219, ""other"" 79, 3 52, 1 34}]",79,219,34,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",385.0,"[{0 219, ""other"" 79, 3 52, 1 35}]",79,219,35,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-03-11,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com]",395.0,"[{0 219, ""other"" 79, 3 52, 1 45}]",79,219,45,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-03-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com]",398.0,"[{0 219, ""other"" 79, 3 52, 1 48}]",79,219,48,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-07-28,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",400.0,"[{0 219, ""other"" 79, 3 52, 1 50}]",79,219,50,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-08-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jay@jayfields.com]",401.0,"[{0 219, ""other"" 79, 3 52, 1 51}]",79,219,51,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-09-28,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com]",410.0,"[{0 219, ""other"" 79, 3 52, 1 60}]",79,219,60,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2014-11-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",412.0,"[{0 219, ""other"" 79, 3 52, 1 62}]",79,219,62,0,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[i.mikushin@gmail.com]",413.0,"[{0 219, ""other"" 79, 3 52, 1 62, 2 1}]",79,219,62,1,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-01-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com]",415.0,"[{0 219, ""other"" 79, 3 52, 1 62, 2 3}]",79,219,62,3,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-01-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com]",417.0,"[{0 219, ""other"" 79, 3 52, 1 62, 2 5}]",79,219,62,5,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-01-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",419.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 5}]",79,219,64,5,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-01-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",423.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 9}]",79,219,64,9,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-03,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",429.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 15}]",79,219,64,15,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-04,10,1,"#tech.v3.dataset.column<string>[10]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",439.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 25}]",79,219,64,25,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-05,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",446.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 32}]",79,219,64,32,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-06,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",453.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 39}]",79,219,64,39,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",456.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 42}]",79,219,64,42,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com]",458.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 44}]",79,219,64,44,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-10,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",463.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 49}]",79,219,64,49,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",467.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 53}]",79,219,64,53,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-14,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",471.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 57}]",79,219,64,57,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com]",473.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 59}]",79,219,64,59,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",476.0,"[{0 219, ""other"" 79, 3 52, 1 64, 2 62}]",79,219,64,62,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-20,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, dylan.paris+github@gmail.com]",480.0,"[{0 219, ""other"" 80, 3 52, 1 64, 2 65}]",80,219,64,65,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-21,9,2,"#tech.v3.dataset.column<string>[9]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, github@jayfields.com]",489.0,"[{0 220, ""other"" 80, 3 52, 1 72, 2 65}]",80,220,72,65,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-22,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",494.0,"[{0 220, ""other"" 80, 3 52, 1 72, 2 70}]",80,220,72,70,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-02-23,8,2,"#tech.v3.dataset.column<string>[8]
+:email
+[github@jayfields.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",502.0,"[{0 221, ""other"" 80, 3 52, 1 72, 2 77}]",80,221,72,77,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-03-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[jay@jayfields.com, jay@jayfields.com]",504.0,"[{0 221, ""other"" 80, 3 52, 1 74, 2 77}]",80,221,74,77,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-03-21,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[i.mikushin@gmail.com, i.mikushin@gmail.com]",506.0,"[{0 221, ""other"" 80, 3 52, 1 74, 2 79}]",80,221,74,79,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-04-16,5,3,"#tech.v3.dataset.column<string>[5]
+:email
+[jay@jayfields.com, jay@jayfields.com, github@jayfields.com, i.mikushin@gmail.com, i.mikushin@gmail.com]",511.0,"[{0 222, ""other"" 80, 3 52, 1 76, 2 81}]",80,222,76,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[vmfhrmfoaj@yahoo.com]",512.0,"[{0 222, ""other"" 81, 3 52, 1 76, 2 81}]",81,222,76,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-06-30,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[jay@jayfields.com, jay@jayfields.com, github@jayfields.com]",515.0,"[{0 223, ""other"" 81, 3 52, 1 78, 2 81}]",81,223,78,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-08-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dylan.paris+github@gmail.com]",516.0,"[{0 223, ""other"" 82, 3 52, 1 78, 2 81}]",82,223,78,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-08-15,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[github@jayfields.com, jay@jayfields.com, jay@jayfields.com, github@jayfields.com]",520.0,"[{0 225, ""other"" 82, 3 52, 1 80, 2 81}]",82,225,80,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2015-11-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com]",524.0,"[{0 225, ""other"" 82, 3 52, 1 84, 2 81}]",82,225,84,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2016-04-19,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[arne@arnebrasseur.net, arne@arnebrasseur.net]",526.0,"[{0 225, ""other"" 84, 3 52, 1 84, 2 81}]",84,225,84,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2016-04-20,9,3,"#tech.v3.dataset.column<string>[9]
+:email
+[github@jayfields.com, arne@arnebrasseur.net, github@jayfields.com, arne@arnebrasseur.net, github@jayfields.com, arne@arnebrasseur.net, jay@jayfields.com, jay@jayfields.com, github@jayfields.com]",535.0,"[{0 229, ""other"" 87, 3 52, 1 86, 2 81}]",87,229,86,81,52,0
+Clojure,https://github.com/clojure-expectations/expectations,2016-04-21,18,3,"#tech.v3.dataset.column<string>[18]
+:email
+[jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, github@jayfields.com, sean@corfield.org, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, github@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, jay@jayfields.com, github@jayfields.com, sean@corfield.org]",553.0,"[{0 232, ""other"" 87, 3 52, 1 99, 2 81, 4 2}]",87,232,99,81,52,2
+Clojure,https://github.com/clojure-expectations/expectations,2016-07-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",555.0,"[{0 232, ""other"" 87, 3 52, 1 99, 2 81, 4 4}]",87,232,99,81,52,4
+Clojure,https://github.com/clojure-expectations/expectations,2016-07-08,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[jay@jayfields.com, jay@jayfields.com, github@jayfields.com]",558.0,"[{0 233, ""other"" 87, 3 52, 1 101, 2 81, 4 4}]",87,233,101,81,52,4
+Clojure,https://github.com/clojure-expectations/expectations,2016-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",559.0,"[{0 233, ""other"" 87, 3 52, 1 101, 2 81, 4 5}]",87,233,101,81,52,5
+Clojure,https://github.com/clojure-expectations/expectations,2017-01-18,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, christophe@cgrand.net]",564.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 9}]",88,233,101,81,52,9
+Clojure,https://github.com/clojure-expectations/expectations,2017-01-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",566.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 11}]",88,233,101,81,52,11
+Clojure,https://github.com/clojure-expectations/expectations,2017-01-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[sean@corfield.org, sean@corfield.org]",568.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 13}]",88,233,101,81,52,13
+Clojure,https://github.com/clojure-expectations/expectations,2017-01-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",569.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 14}]",88,233,101,81,52,14
+Clojure,https://github.com/clojure-expectations/expectations,2017-02-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",570.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 15}]",88,233,101,81,52,15
+Clojure,https://github.com/clojure-expectations/expectations,2017-02-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",571.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 16}]",88,233,101,81,52,16
+Clojure,https://github.com/clojure-expectations/expectations,2017-07-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",572.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 17}]",88,233,101,81,52,17
+Clojure,https://github.com/clojure-expectations/expectations,2017-08-11,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",575.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 20}]",88,233,101,81,52,20
+Clojure,https://github.com/clojure-expectations/expectations,2017-09-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",576.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 21}]",88,233,101,81,52,21
+Clojure,https://github.com/clojure-expectations/expectations,2017-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",577.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 22}]",88,233,101,81,52,22
+Clojure,https://github.com/clojure-expectations/expectations,2017-10-25,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",582.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 27}]",88,233,101,81,52,27
+Clojure,https://github.com/clojure-expectations/expectations,2017-10-26,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",585.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 30}]",88,233,101,81,52,30
+Clojure,https://github.com/clojure-expectations/expectations,2017-10-28,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",588.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 33}]",88,233,101,81,52,33
+Clojure,https://github.com/clojure-expectations/expectations,2018-12-20,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",589.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 34}]",88,233,101,81,52,34
+Clojure,https://github.com/clojure-expectations/expectations,2019-01-01,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org, sean@corfield.org]",593.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 38}]",88,233,101,81,52,38
+Clojure,https://github.com/clojure-expectations/expectations,2019-01-07,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[sean@corfield.org, sean@corfield.org, sean@corfield.org]",596.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 41}]",88,233,101,81,52,41
+Clojure,https://github.com/clojure-expectations/expectations,2019-12-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",597.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 42}]",88,233,101,81,52,42
+Clojure,https://github.com/clojure-expectations/expectations,2023-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[sean@corfield.org]",598.0,"[{0 233, ""other"" 88, 3 52, 1 101, 2 81, 4 43}]",88,233,101,81,52,43

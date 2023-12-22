@@ -1,0 +1,487 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/DT42/BerryNet,2017-04-28,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[bafuchen@gmail.com, bofu@dt42.io, bafuchen@gmail.com, bafuchen@gmail.com, bofu@dt42.io, bofu@dt42.io]",6.0,"[{1 3, 0 3}]",0,3,3,0,0,0
+Python,https://github.com/DT42/BerryNet,2017-05-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",7.0,"[{1 3, 0 4}]",0,4,3,0,0,0
+Python,https://github.com/DT42/BerryNet,2017-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",9.0,"[{1 3, 0 6}]",0,6,3,0,0,0
+Python,https://github.com/DT42/BerryNet,2017-05-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",11.0,"[{1 3, 0 8}]",0,8,3,0,0,0
+Python,https://github.com/DT42/BerryNet,2017-05-20,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bafuchen@gmail.com]",15.0,"[{1 4, 0 11}]",0,11,4,0,0,0
+Python,https://github.com/DT42/BerryNet,2017-05-30,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[joseph@dt42.io, bofu@dt42.io, joseph@dt42.io, bofu@dt42.io]",19.0,"[{1 4, 0 13, 4 2}]",0,13,4,0,0,2
+Python,https://github.com/DT42/BerryNet,2017-05-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[joseph@dt42.io, joseph@dt42.io]",21.0,"[{1 4, 0 13, 4 4}]",0,13,4,0,0,4
+Python,https://github.com/DT42/BerryNet,2017-06-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",22.0,"[{1 4, 0 13, 4 4, 2 1}]",0,13,4,1,0,4
+Python,https://github.com/DT42/BerryNet,2017-07-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",23.0,"[{1 4, 0 14, 4 4, 2 1}]",0,14,4,1,0,4
+Python,https://github.com/DT42/BerryNet,2017-07-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[paulliu@debian.org, paulliu@debian.org]",25.0,"[{1 4, 0 14, 4 4, 2 3}]",0,14,4,3,0,4
+Python,https://github.com/DT42/BerryNet,2017-07-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[tammy@dt42.io]",26.0,"[{1 4, 0 14, 4 4, 2 3, ""other"" 1}]",1,14,4,3,0,4
+Python,https://github.com/DT42/BerryNet,2017-07-24,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, tammy@dt42.io, tammy@dt42.io]",29.0,"[{1 4, 0 15, 4 4, 2 3, ""other"" 3}]",3,15,4,3,0,4
+Python,https://github.com/DT42/BerryNet,2017-07-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[paulliu@debian.org, paulliu@debian.org]",31.0,"[{1 4, 0 15, 4 4, 2 5, ""other"" 3}]",3,15,4,5,0,4
+Python,https://github.com/DT42/BerryNet,2017-07-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",32.0,"[{1 4, 0 15, 4 4, 2 6, ""other"" 3}]",3,15,4,6,0,4
+Python,https://github.com/DT42/BerryNet,2017-07-31,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[hzliu123@gmail.com, hzliu123@gmail.com]",34.0,"[{1 4, 0 15, 4 4, 2 6, ""other"" 5}]",5,15,4,6,0,4
+Python,https://github.com/DT42/BerryNet,2017-08-16,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bafuchen@gmail.com]",36.0,"[{1 5, 0 16, 4 4, 2 6, ""other"" 5}]",5,16,5,6,0,4
+Python,https://github.com/DT42/BerryNet,2017-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",37.0,"[{1 5, 0 17, 4 4, 2 6, ""other"" 5}]",5,17,5,6,0,4
+Python,https://github.com/DT42/BerryNet,2017-08-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, paulliu@debian.org]",39.0,"[{1 5, 0 18, 4 4, 2 7, ""other"" 5}]",5,18,5,7,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-01,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, paulliu@debian.org]",42.0,"[{1 5, 0 20, 4 4, 2 8, ""other"" 5}]",5,20,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",43.0,"[{1 5, 0 21, 4 4, 2 8, ""other"" 5}]",5,21,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",44.0,"[{1 5, 0 22, 4 4, 2 8, ""other"" 5}]",5,22,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-20,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",47.0,"[{1 5, 0 25, 4 4, 2 8, ""other"" 5}]",5,25,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",48.0,"[{1 5, 0 26, 4 4, 2 8, ""other"" 5}]",5,26,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",49.0,"[{1 5, 0 27, 4 4, 2 8, ""other"" 5}]",5,27,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-23,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",53.0,"[{1 5, 0 31, 4 4, 2 8, ""other"" 5}]",5,31,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-25,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",55.0,"[{1 5, 0 33, 4 4, 2 8, ""other"" 5}]",5,33,5,8,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",56.0,"[{1 5, 0 33, 4 4, 2 9, ""other"" 5}]",5,33,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",57.0,"[{1 5, 0 34, 4 4, 2 9, ""other"" 5}]",5,34,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",58.0,"[{1 5, 0 35, 4 4, 2 9, ""other"" 5}]",5,35,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",60.0,"[{1 5, 0 37, 4 4, 2 9, ""other"" 5}]",5,37,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-09-30,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",64.0,"[{1 5, 0 41, 4 4, 2 9, ""other"" 5}]",5,41,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-10-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",65.0,"[{1 5, 0 42, 4 4, 2 9, ""other"" 5}]",5,42,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-10-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",67.0,"[{1 5, 0 44, 4 4, 2 9, ""other"" 5}]",5,44,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-10-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",69.0,"[{1 5, 0 46, 4 4, 2 9, ""other"" 5}]",5,46,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-10-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",70.0,"[{1 5, 0 47, 4 4, 2 9, ""other"" 5}]",5,47,5,9,0,4
+Python,https://github.com/DT42/BerryNet,2017-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",71.0,"[{1 5, 0 47, 4 4, 2 10, ""other"" 5}]",5,47,5,10,0,4
+Python,https://github.com/DT42/BerryNet,2017-11-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",72.0,"[{1 5, 0 47, 4 4, 2 11, ""other"" 5}]",5,47,5,11,0,4
+Python,https://github.com/DT42/BerryNet,2017-11-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",73.0,"[{1 5, 0 47, 4 4, 2 12, ""other"" 5}]",5,47,5,12,0,4
+Python,https://github.com/DT42/BerryNet,2017-11-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",74.0,"[{1 5, 0 47, 4 4, 2 13, ""other"" 5}]",5,47,5,13,0,4
+Python,https://github.com/DT42/BerryNet,2017-11-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",75.0,"[{1 5, 0 48, 4 4, 2 13, ""other"" 5}]",5,48,5,13,0,4
+Python,https://github.com/DT42/BerryNet,2017-12-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",77.0,"[{1 5, 0 50, 4 4, 2 13, ""other"" 5}]",5,50,5,13,0,4
+Python,https://github.com/DT42/BerryNet,2017-12-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",79.0,"[{1 5, 0 52, 4 4, 2 13, ""other"" 5}]",5,52,5,13,0,4
+Python,https://github.com/DT42/BerryNet,2017-12-11,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",85.0,"[{1 5, 0 58, 4 4, 2 13, ""other"" 5}]",5,58,5,13,0,4
+Python,https://github.com/DT42/BerryNet,2017-12-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",88.0,"[{1 5, 0 61, 4 4, 2 13, ""other"" 5}]",5,61,5,13,0,4
+Python,https://github.com/DT42/BerryNet,2017-12-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",89.0,"[{1 5, 0 62, 4 4, 2 13, ""other"" 5}]",5,62,5,13,0,4
+Python,https://github.com/DT42/BerryNet,2017-12-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",90.0,"[{1 5, 0 62, 4 4, 2 14, ""other"" 5}]",5,62,5,14,0,4
+Python,https://github.com/DT42/BerryNet,2018-01-14,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",95.0,"[{1 5, 0 67, 4 4, 2 14, ""other"" 5}]",5,67,5,14,0,4
+Python,https://github.com/DT42/BerryNet,2018-01-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",96.0,"[{1 5, 0 68, 4 4, 2 14, ""other"" 5}]",5,68,5,14,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",99.0,"[{1 5, 0 71, 4 4, 2 14, ""other"" 5}]",5,71,5,14,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",100.0,"[{1 5, 0 71, 4 4, 2 15, ""other"" 5}]",5,71,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",102.0,"[{1 5, 0 73, 4 4, 2 15, ""other"" 5}]",5,73,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",105.0,"[{1 5, 0 76, 4 4, 2 15, ""other"" 5}]",5,76,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-18,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",110.0,"[{1 5, 0 81, 4 4, 2 15, ""other"" 5}]",5,81,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",113.0,"[{1 5, 0 84, 4 4, 2 15, ""other"" 5}]",5,84,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-20,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",120.0,"[{1 5, 0 91, 4 4, 2 15, ""other"" 5}]",5,91,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-02-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",121.0,"[{1 5, 0 92, 4 4, 2 15, ""other"" 5}]",5,92,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-03-01,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",126.0,"[{1 5, 0 97, 4 4, 2 15, ""other"" 5}]",5,97,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-03-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",127.0,"[{1 5, 0 98, 4 4, 2 15, ""other"" 5}]",5,98,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-03-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",129.0,"[{1 5, 0 100, 4 4, 2 15, ""other"" 5}]",5,100,5,15,0,4
+Python,https://github.com/DT42/BerryNet,2018-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",130.0,"[{1 5, 0 100, 4 4, 2 16, ""other"" 5}]",5,100,5,16,0,4
+Python,https://github.com/DT42/BerryNet,2018-03-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",131.0,"[{1 5, 0 100, 4 4, 2 17, ""other"" 5}]",5,100,5,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-04-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",132.0,"[{1 5, 0 101, 4 4, 2 17, ""other"" 5}]",5,101,5,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-05-17,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",136.0,"[{1 9, 0 101, 4 4, 2 17, ""other"" 5}]",5,101,9,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-05-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bafuchen@gmail.com]",138.0,"[{1 10, 0 102, 4 4, 2 17, ""other"" 5}]",5,102,10,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-05-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",139.0,"[{1 10, 0 103, 4 4, 2 17, ""other"" 5}]",5,103,10,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-06-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",140.0,"[{1 10, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,10,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-07-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com]",142.0,"[{1 12, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,12,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-07-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",145.0,"[{1 15, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,15,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-07-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",146.0,"[{1 16, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,16,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-07-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",147.0,"[{1 17, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,17,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-08-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",150.0,"[{1 20, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,20,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",151.0,"[{1 21, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,21,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-08-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",152.0,"[{1 22, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,22,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-09-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",155.0,"[{1 25, 0 104, 4 4, 2 17, ""other"" 5}]",5,104,25,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-09-04,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, shchien@dt42.io]",157.0,"[{1 25, 0 105, 4 4, 2 17, ""other"" 6}]",6,105,25,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-09-11,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",161.0,"[{1 29, 0 105, 4 4, 2 17, ""other"" 6}]",6,105,29,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-09-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",162.0,"[{1 29, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,29,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-09-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",163.0,"[{1 30, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,30,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-10-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com]",165.0,"[{1 32, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,32,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-10-10,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com]",167.0,"[{1 34, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,34,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-10-24,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",168.0,"[{1 35, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,35,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-10-27,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",172.0,"[{1 39, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,39,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-11-03,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com]",174.0,"[{1 41, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,41,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-11-04,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",179.0,"[{1 46, 0 106, 4 4, 2 17, ""other"" 6}]",6,106,46,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-11-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[bafuchen@gmail.com, bofu@dt42.io]",181.0,"[{1 47, 0 107, 4 4, 2 17, ""other"" 6}]",6,107,47,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-11-12,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",186.0,"[{1 52, 0 107, 4 4, 2 17, ""other"" 6}]",6,107,52,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-11-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",189.0,"[{1 55, 0 107, 4 4, 2 17, ""other"" 6}]",6,107,55,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",190.0,"[{1 56, 0 107, 4 4, 2 17, ""other"" 6}]",6,107,56,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-12-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com]",192.0,"[{1 58, 0 107, 4 4, 2 17, ""other"" 6}]",6,107,58,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-12-10,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bafuchen@gmail.com, bafuchen@gmail.com, bafuchen@gmail.com]",195.0,"[{1 61, 0 107, 4 4, 2 17, ""other"" 6}]",6,107,61,17,0,4
+Python,https://github.com/DT42/BerryNet,2018-12-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",196.0,"[{1 62, 0 107, 4 4, 2 17, ""other"" 6}]",6,107,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-01-19,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",202.0,"[{1 62, 0 113, 4 4, 2 17, ""other"" 6}]",6,113,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-01-20,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",206.0,"[{1 62, 0 117, 4 4, 2 17, ""other"" 6}]",6,117,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-01-22,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",210.0,"[{1 62, 0 121, 4 4, 2 17, ""other"" 6}]",6,121,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-01-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",211.0,"[{1 62, 0 122, 4 4, 2 17, ""other"" 6}]",6,122,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-02-25,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",212.0,"[{1 62, 0 123, 4 4, 2 17, ""other"" 6}]",6,123,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-03-25,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",215.0,"[{1 62, 0 126, 4 4, 2 17, ""other"" 6}]",6,126,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-04-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",216.0,"[{1 62, 0 127, 4 4, 2 17, ""other"" 6}]",6,127,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-04-05,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",222.0,"[{1 62, 0 133, 4 4, 2 17, ""other"" 6}]",6,133,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-04-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",223.0,"[{1 62, 0 134, 4 4, 2 17, ""other"" 6}]",6,134,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-05,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",227.0,"[{1 62, 0 138, 4 4, 2 17, ""other"" 6}]",6,138,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",229.0,"[{1 62, 0 140, 4 4, 2 17, ""other"" 6}]",6,140,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-09,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",231.0,"[{1 62, 0 142, 4 4, 2 17, ""other"" 6}]",6,142,62,17,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-12,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[paulliu@debian.org, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",235.0,"[{1 62, 0 145, 4 4, 2 18, ""other"" 6}]",6,145,62,18,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",237.0,"[{1 62, 0 147, 4 4, 2 18, ""other"" 6}]",6,147,62,18,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-19,11,2,"#tech.v3.dataset.column<string>[11]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, paulliu@debian.org, bofu@dt42.io]",248.0,"[{1 62, 0 157, 4 4, 2 19, ""other"" 6}]",6,157,62,19,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",250.0,"[{1 62, 0 159, 4 4, 2 19, ""other"" 6}]",6,159,62,19,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-23,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",252.0,"[{1 62, 0 161, 4 4, 2 19, ""other"" 6}]",6,161,62,19,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-24,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",254.0,"[{1 62, 0 163, 4 4, 2 19, ""other"" 6}]",6,163,62,19,0,4
+Python,https://github.com/DT42/BerryNet,2019-05-26,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",256.0,"[{1 62, 0 165, 4 4, 2 19, ""other"" 6}]",6,165,62,19,0,4
+Python,https://github.com/DT42/BerryNet,2019-06-16,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[bofu@dt42.io, bofu@dt42.io, paulliu@debian.org, bofu@dt42.io, bofu@dt42.io]",261.0,"[{1 62, 0 169, 4 4, 2 20, ""other"" 6}]",6,169,62,20,0,4
+Python,https://github.com/DT42/BerryNet,2019-06-17,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[paulliu@debian.org, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",266.0,"[{1 62, 0 173, 4 4, 2 21, ""other"" 6}]",6,173,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-06-19,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",269.0,"[{1 62, 0 176, 4 4, 2 21, ""other"" 6}]",6,176,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-06-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",270.0,"[{1 62, 0 177, 4 4, 2 21, ""other"" 6}]",6,177,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-06-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",271.0,"[{1 62, 0 178, 4 4, 2 21, ""other"" 6}]",6,178,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",273.0,"[{1 62, 0 180, 4 4, 2 21, ""other"" 6}]",6,180,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",274.0,"[{1 62, 0 181, 4 4, 2 21, ""other"" 6}]",6,181,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",275.0,"[{1 62, 0 182, 4 4, 2 21, ""other"" 6}]",6,182,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-10,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",279.0,"[{1 62, 0 186, 4 4, 2 21, ""other"" 6}]",6,186,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-13,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",286.0,"[{1 62, 0 193, 4 4, 2 21, ""other"" 6}]",6,193,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-14,7,1,"#tech.v3.dataset.column<string>[7]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",293.0,"[{1 62, 0 200, 4 4, 2 21, ""other"" 6}]",6,200,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",294.0,"[{1 62, 0 201, 4 4, 2 21, ""other"" 6}]",6,201,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-07-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",297.0,"[{1 62, 0 204, 4 4, 2 21, ""other"" 6}]",6,204,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-08-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",298.0,"[{1 62, 0 205, 4 4, 2 21, ""other"" 6}]",6,205,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-08-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",299.0,"[{1 62, 0 206, 4 4, 2 21, ""other"" 6}]",6,206,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-08-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",301.0,"[{1 62, 0 208, 4 4, 2 21, ""other"" 6}]",6,208,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-08-30,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",304.0,"[{1 62, 0 211, 4 4, 2 21, ""other"" 6}]",6,211,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-10-23,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[49699333+dependabot[bot]@users.noreply.github.com, 49699333+dependabot[bot]@users.noreply.github.com, bofu@dt42.io]",307.0,"[{1 62, 0 212, 4 4, 2 21, ""other"" 8}]",8,212,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-10-28,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",311.0,"[{1 62, 0 216, 4 4, 2 21, ""other"" 8}]",8,216,62,21,0,4
+Python,https://github.com/DT42/BerryNet,2019-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",312.0,"[{1 62, 0 216, 4 4, 2 22, ""other"" 8}]",8,216,62,22,0,4
+Python,https://github.com/DT42/BerryNet,2019-11-10,6,2,"#tech.v3.dataset.column<string>[6]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, paulliu@debian.org, paulliu@debian.org]",318.0,"[{1 62, 0 220, 4 4, 2 24, ""other"" 8}]",8,220,62,24,0,4
+Python,https://github.com/DT42/BerryNet,2019-11-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",319.0,"[{1 62, 0 221, 4 4, 2 24, ""other"" 8}]",8,221,62,24,0,4
+Python,https://github.com/DT42/BerryNet,2019-12-06,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",324.0,"[{1 62, 0 226, 4 4, 2 24, ""other"" 8}]",8,226,62,24,0,4
+Python,https://github.com/DT42/BerryNet,2019-12-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",325.0,"[{1 62, 0 227, 4 4, 2 24, ""other"" 8}]",8,227,62,24,0,4
+Python,https://github.com/DT42/BerryNet,2020-01-05,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",326.0,"[{1 62, 0 227, 4 4, 2 25, ""other"" 8}]",8,227,62,25,0,4
+Python,https://github.com/DT42/BerryNet,2020-01-08,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",327.0,"[{1 62, 0 228, 4 4, 2 25, ""other"" 8}]",8,228,62,25,0,4
+Python,https://github.com/DT42/BerryNet,2020-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",328.0,"[{1 62, 0 229, 4 4, 2 25, ""other"" 8}]",8,229,62,25,0,4
+Python,https://github.com/DT42/BerryNet,2020-01-15,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",332.0,"[{1 62, 0 233, 4 4, 2 25, ""other"" 8}]",8,233,62,25,0,4
+Python,https://github.com/DT42/BerryNet,2020-01-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",333.0,"[{1 62, 0 233, 4 4, 2 26, ""other"" 8}]",8,233,62,26,0,4
+Python,https://github.com/DT42/BerryNet,2020-02-09,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[paulliu@debian.org, bofu@dt42.io, bofu@dt42.io]",336.0,"[{1 62, 0 235, 4 4, 2 27, ""other"" 8}]",8,235,62,27,0,4
+Python,https://github.com/DT42/BerryNet,2020-02-16,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",339.0,"[{1 62, 0 238, 4 4, 2 27, ""other"" 8}]",8,238,62,27,0,4
+Python,https://github.com/DT42/BerryNet,2020-03-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",340.0,"[{1 62, 0 238, 4 4, 2 28, ""other"" 8}]",8,238,62,28,0,4
+Python,https://github.com/DT42/BerryNet,2020-03-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bafuchen@gmail.com]",341.0,"[{1 63, 0 238, 4 4, 2 28, ""other"" 8}]",8,238,63,28,0,4
+Python,https://github.com/DT42/BerryNet,2020-04-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",342.0,"[{1 63, 0 238, 4 4, 2 29, ""other"" 8}]",8,238,63,29,0,4
+Python,https://github.com/DT42/BerryNet,2020-07-06,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[davidtnfsh@gmail.com, davidtnfsh@gmail.com, davidtnfsh@gmail.com, davidtnfsh@gmail.com]",346.0,"[{1 63, 0 238, 4 4, 2 29, ""other"" 8, 3 4}]",8,238,63,29,4,4
+Python,https://github.com/DT42/BerryNet,2020-07-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[davidtnfsh@gmail.com]",347.0,"[{1 63, 0 238, 4 4, 2 29, ""other"" 8, 3 5}]",8,238,63,29,5,4
+Python,https://github.com/DT42/BerryNet,2020-07-12,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[bafuchen@gmail.com, paulliu@debian.org]",349.0,"[{1 64, 0 238, 4 4, 2 30, ""other"" 8, 3 5}]",8,238,64,30,5,4
+Python,https://github.com/DT42/BerryNet,2020-08-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",350.0,"[{1 64, 0 238, 4 4, 2 31, ""other"" 8, 3 5}]",8,238,64,31,5,4
+Python,https://github.com/DT42/BerryNet,2020-09-06,14,1,"#tech.v3.dataset.column<string>[14]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",364.0,"[{1 64, 0 252, 4 4, 2 31, ""other"" 8, 3 5}]",8,252,64,31,5,4
+Python,https://github.com/DT42/BerryNet,2020-09-13,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[bofu@dt42.io, bofu@dt42.io, bofu@dt42.io, bofu@dt42.io]",368.0,"[{1 64, 0 256, 4 4, 2 31, ""other"" 8, 3 5}]",8,256,64,31,5,4
+Python,https://github.com/DT42/BerryNet,2020-09-27,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",369.0,"[{1 64, 0 256, 4 4, 2 32, ""other"" 8, 3 5}]",8,256,64,32,5,4
+Python,https://github.com/DT42/BerryNet,2020-10-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[paulliu@debian.org]",370.0,"[{1 64, 0 256, 4 4, 2 33, ""other"" 8, 3 5}]",8,256,64,33,5,4
+Python,https://github.com/DT42/BerryNet,2020-10-11,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",372.0,"[{1 64, 0 258, 4 4, 2 33, ""other"" 8, 3 5}]",8,258,64,33,5,4
+Python,https://github.com/DT42/BerryNet,2020-10-18,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, paulliu@debian.org]",374.0,"[{1 64, 0 259, 4 4, 2 34, ""other"" 8, 3 5}]",8,259,64,34,5,4
+Python,https://github.com/DT42/BerryNet,2020-11-01,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",376.0,"[{1 64, 0 261, 4 4, 2 34, ""other"" 8, 3 5}]",8,261,64,34,5,4
+Python,https://github.com/DT42/BerryNet,2020-11-15,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",378.0,"[{1 64, 0 263, 4 4, 2 34, ""other"" 8, 3 5}]",8,263,64,34,5,4
+Python,https://github.com/DT42/BerryNet,2020-12-06,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[bofu@dt42.io, bofu@dt42.io, paulliu@debian.org]",381.0,"[{1 64, 0 265, 4 4, 2 35, ""other"" 8, 3 5}]",8,265,64,35,5,4
+Python,https://github.com/DT42/BerryNet,2020-12-20,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[bofu@dt42.io, bofu@dt42.io]",383.0,"[{1 64, 0 267, 4 4, 2 35, ""other"" 8, 3 5}]",8,267,64,35,5,4
+Python,https://github.com/DT42/BerryNet,2021-02-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",384.0,"[{1 64, 0 268, 4 4, 2 35, ""other"" 8, 3 5}]",8,268,64,35,5,4
+Python,https://github.com/DT42/BerryNet,2021-03-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",385.0,"[{1 64, 0 269, 4 4, 2 35, ""other"" 8, 3 5}]",8,269,64,35,5,4
+Python,https://github.com/DT42/BerryNet,2022-04-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[edward@4angle.com]",386.0,"[{1 64, 0 269, 4 4, 2 35, ""other"" 9, 3 5}]",9,269,64,35,5,4
+Python,https://github.com/DT42/BerryNet,2022-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[bofu@dt42.io]",387.0,"[{1 64, 0 270, 4 4, 2 35, ""other"" 9, 3 5}]",9,270,64,35,5,4

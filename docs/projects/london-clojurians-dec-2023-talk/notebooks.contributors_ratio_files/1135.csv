@@ -1,0 +1,229 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/babashka/neil,2021-09-28,36,2,"#tech.v3.dataset.column<string>[36]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, ales.najmann@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, ales.najmann@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com...]",36.0,"[{0 34, ""other"" 2}]",2,34,0,0,0,0
+Clojure,https://github.com/babashka/neil,2021-09-29,24,2,"#tech.v3.dataset.column<string>[24]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, ales.najmann@gmail.com...]",60.0,"[{0 57, ""other"" 3}]",3,57,0,0,0,0
+Clojure,https://github.com/babashka/neil,2021-10-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",63.0,"[{0 60, ""other"" 3}]",3,60,0,0,0,0
+Clojure,https://github.com/babashka/neil,2021-10-09,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jl@lafuente.me]",64.0,"[{0 60, ""other"" 4}]",4,60,0,0,0,0
+Clojure,https://github.com/babashka/neil,2021-11-15,13,1,"#tech.v3.dataset.column<string>[13]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",77.0,"[{0 73, ""other"" 4}]",4,73,0,0,0,0
+Clojure,https://github.com/babashka/neil,2022-04-03,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[teodorlu@users.noreply.github.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com, teodorlu@users.noreply.github.com]",82.0,"[{0 75, ""other"" 4, 2 3}]",4,75,0,3,0,0
+Clojure,https://github.com/babashka/neil,2022-04-04,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, lebow@lebowtech.com, teodorlu@users.noreply.github.com]",90.0,"[{0 81, ""other"" 5, 2 4}]",5,81,0,4,0,0
+Clojure,https://github.com/babashka/neil,2022-04-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[lebow@lebowtech.com]",91.0,"[{0 81, ""other"" 6, 2 4}]",6,81,0,4,0,0
+Clojure,https://github.com/babashka/neil,2022-04-23,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[michielborkent@gmail.com, highpressurecarsalesman@gmail.com]",93.0,"[{0 82, ""other"" 7, 2 4}]",7,82,0,4,0,0
+Clojure,https://github.com/babashka/neil,2022-04-24,11,3,"#tech.v3.dataset.column<string>[11]
+:email
+[agzam.ibragimov@gmail.com, highpressurecarsalesman@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, agzam.ibragimov@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, highpressurecarsalesman@gmail.com]",104.0,"[{0 89, ""other"" 9, 2 4, 3 2}]",9,89,0,4,2,0
+Clojure,https://github.com/babashka/neil,2022-04-25,6,4,"#tech.v3.dataset.column<string>[6]
+:email
+[syohex@gmail.com, jl@lafuente.me, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, agzam.ibragimov@gmail.com]",110.0,"[{0 92, ""other"" 11, 2 4, 3 3}]",11,92,0,4,3,0
+Clojure,https://github.com/babashka/neil,2022-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",111.0,"[{0 93, ""other"" 11, 2 4, 3 3}]",11,93,0,4,3,0
+Clojure,https://github.com/babashka/neil,2022-05-14,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[agzam.ibragimov@gmail.com, agzam.ibragimov@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",115.0,"[{0 95, ""other"" 11, 2 4, 3 5}]",11,95,0,4,5,0
+Clojure,https://github.com/babashka/neil,2022-05-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teodorlu@users.noreply.github.com]",116.0,"[{0 95, ""other"" 11, 2 5, 3 5}]",11,95,0,5,5,0
+Clojure,https://github.com/babashka/neil,2022-06-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",117.0,"[{0 96, ""other"" 11, 2 5, 3 5}]",11,96,0,5,5,0
+Clojure,https://github.com/babashka/neil,2022-06-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",118.0,"[{0 97, ""other"" 11, 2 5, 3 5}]",11,97,0,5,5,0
+Clojure,https://github.com/babashka/neil,2022-06-05,9,1,"#tech.v3.dataset.column<string>[9]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",127.0,"[{0 106, ""other"" 11, 2 5, 3 5}]",11,106,0,5,5,0
+Clojure,https://github.com/babashka/neil,2022-06-18,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com]",131.0,"[{0 109, ""other"" 11, 2 6, 3 5}]",11,109,0,6,5,0
+Clojure,https://github.com/babashka/neil,2022-06-22,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",134.0,"[{0 112, ""other"" 11, 2 6, 3 5}]",11,112,0,6,5,0
+Clojure,https://github.com/babashka/neil,2022-07-21,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[michielborkent@gmail.com, 11401+rads@users.noreply.github.com]",136.0,"[{0 113, ""other"" 11, 2 6, 3 5, 1 1}]",11,113,1,6,5,0
+Clojure,https://github.com/babashka/neil,2022-07-31,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com, michielborkent@gmail.com, 11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, 11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com]",149.0,"[{0 120, ""other"" 11, 2 6, 3 5, 1 7}]",11,120,7,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",150.0,"[{0 121, ""other"" 11, 2 6, 3 5, 1 7}]",11,121,7,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-02,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, 11401+rads@users.noreply.github.com]",153.0,"[{0 123, ""other"" 11, 2 6, 3 5, 1 8}]",11,123,8,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-03,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, 11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com]",157.0,"[{0 125, ""other"" 11, 2 6, 3 5, 1 10}]",11,125,10,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-04,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",161.0,"[{0 129, ""other"" 11, 2 6, 3 5, 1 10}]",11,129,10,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-05,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[11401+rads@users.noreply.github.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",168.0,"[{0 135, ""other"" 11, 2 6, 3 5, 1 11}]",11,135,11,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-07,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com]",170.0,"[{0 135, ""other"" 11, 2 6, 3 5, 1 13}]",11,135,13,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-08,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com]",172.0,"[{0 137, ""other"" 11, 2 6, 3 5, 1 13}]",11,137,13,6,5,0
+Clojure,https://github.com/babashka/neil,2022-08-12,6,3,"#tech.v3.dataset.column<string>[6]
+:email
+[11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com, teodorlu@users.noreply.github.com, michielborkent@gmail.com, 11401+rads@users.noreply.github.com, teodorlu@users.noreply.github.com]",178.0,"[{0 138, ""other"" 11, 2 8, 3 5, 1 16}]",11,138,16,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com]",180.0,"[{0 138, ""other"" 11, 2 8, 3 5, 1 18}]",11,138,18,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-14,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[6820950+kees-@users.noreply.github.com, 11401+rads@users.noreply.github.com, 6820950+kees-@users.noreply.github.com]",183.0,"[{0 138, ""other"" 13, 2 8, 3 5, 1 19}]",13,138,19,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[11401+rads@users.noreply.github.com]",184.0,"[{0 138, ""other"" 13, 2 8, 3 5, 1 20}]",13,138,20,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com]",186.0,"[{0 138, ""other"" 13, 2 8, 3 5, 1 22}]",13,138,22,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[11401+rads@users.noreply.github.com]",187.0,"[{0 138, ""other"" 13, 2 8, 3 5, 1 23}]",13,138,23,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-23,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[11401+rads@users.noreply.github.com]",188.0,"[{0 138, ""other"" 13, 2 8, 3 5, 1 24}]",13,138,24,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-27,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com]",190.0,"[{0 138, ""other"" 13, 2 8, 3 5, 1 26}]",13,138,26,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-29,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[michielborkent@gmail.com, 11401+rads@users.noreply.github.com]",192.0,"[{0 139, ""other"" 13, 2 8, 3 5, 1 27}]",13,139,27,8,5,0
+Clojure,https://github.com/babashka/neil,2022-08-30,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[michielborkent@gmail.com, 11401+rads@users.noreply.github.com]",194.0,"[{0 140, ""other"" 13, 2 8, 3 5, 1 28}]",13,140,28,8,5,0
+Clojure,https://github.com/babashka/neil,2022-09-04,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[11401+rads@users.noreply.github.com]",195.0,"[{0 140, ""other"" 13, 2 8, 3 5, 1 29}]",13,140,29,8,5,0
+Clojure,https://github.com/babashka/neil,2022-09-06,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[11401+rads@users.noreply.github.com, 11401+rads@users.noreply.github.com]",197.0,"[{0 140, ""other"" 13, 2 8, 3 5, 1 31}]",13,140,31,8,5,0
+Clojure,https://github.com/babashka/neil,2022-09-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jl@lafuente.me]",198.0,"[{0 140, ""other"" 14, 2 8, 3 5, 1 31}]",14,140,31,8,5,0
+Clojure,https://github.com/babashka/neil,2022-09-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jl@lafuente.me]",199.0,"[{0 140, ""other"" 15, 2 8, 3 5, 1 31}]",15,140,31,8,5,0
+Clojure,https://github.com/babashka/neil,2022-10-12,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com]",204.0,"[{0 144, ""other"" 15, 2 9, 3 5, 1 31}]",15,144,31,9,5,0
+Clojure,https://github.com/babashka/neil,2022-10-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[russell.matney@gmail.com]",205.0,"[{0 144, ""other"" 15, 2 9, 3 5, 1 31, 4 1}]",15,144,31,9,5,1
+Clojure,https://github.com/babashka/neil,2022-10-16,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[russell.matney@gmail.com, russell.matney@gmail.com]",207.0,"[{0 144, ""other"" 15, 2 9, 3 5, 1 31, 4 3}]",15,144,31,9,5,3
+Clojure,https://github.com/babashka/neil,2022-10-19,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, russell.matney@gmail.com]",211.0,"[{0 147, ""other"" 15, 2 9, 3 5, 1 31, 4 4}]",15,147,31,9,5,4
+Clojure,https://github.com/babashka/neil,2022-11-03,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[zab1000+github@gmail.com]",212.0,"[{0 147, ""other"" 16, 2 9, 3 5, 1 31, 4 4}]",16,147,31,9,5,4
+Clojure,https://github.com/babashka/neil,2022-12-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[russell.matney@gmail.com]",213.0,"[{0 147, ""other"" 16, 2 9, 3 5, 1 31, 4 5}]",16,147,31,9,5,5
+Clojure,https://github.com/babashka/neil,2023-01-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[122528427+bo-tato@users.noreply.github.com]",214.0,"[{0 147, ""other"" 17, 2 9, 3 5, 1 31, 4 5}]",17,147,31,9,5,5
+Clojure,https://github.com/babashka/neil,2023-01-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",215.0,"[{0 148, ""other"" 17, 2 9, 3 5, 1 31, 4 5}]",17,148,31,9,5,5
+Clojure,https://github.com/babashka/neil,2023-01-20,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com, 122528427+bo-tato@users.noreply.github.com]",223.0,"[{0 154, ""other"" 18, 2 10, 3 5, 1 31, 4 5}]",18,154,31,10,5,5
+Clojure,https://github.com/babashka/neil,2023-01-21,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[11401+rads@users.noreply.github.com]",224.0,"[{0 154, ""other"" 18, 2 10, 3 5, 1 32, 4 5}]",18,154,32,10,5,5
+Clojure,https://github.com/babashka/neil,2023-01-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[11401+rads@users.noreply.github.com]",225.0,"[{0 154, ""other"" 18, 2 10, 3 5, 1 33, 4 5}]",18,154,33,10,5,5
+Clojure,https://github.com/babashka/neil,2023-01-29,8,3,"#tech.v3.dataset.column<string>[8]
+:email
+[teodorlu@users.noreply.github.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com, matthew@modulolotus.net]",233.0,"[{0 158, ""other"" 19, 2 13, 3 5, 1 33, 4 5}]",19,158,33,13,5,5
+Clojure,https://github.com/babashka/neil,2023-01-30,5,1,"#tech.v3.dataset.column<string>[5]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",238.0,"[{0 163, ""other"" 19, 2 13, 3 5, 1 33, 4 5}]",19,163,33,13,5,5
+Clojure,https://github.com/babashka/neil,2023-01-31,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, toby@tcrawley.org]",243.0,"[{0 167, ""other"" 20, 2 13, 3 5, 1 33, 4 5}]",20,167,33,13,5,5
+Clojure,https://github.com/babashka/neil,2023-02-04,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com]",245.0,"[{0 169, ""other"" 20, 2 13, 3 5, 1 33, 4 5}]",20,169,33,13,5,5
+Clojure,https://github.com/babashka/neil,2023-02-05,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, matthew@modulolotus.net]",248.0,"[{0 171, ""other"" 21, 2 13, 3 5, 1 33, 4 5}]",21,171,33,13,5,5
+Clojure,https://github.com/babashka/neil,2023-02-17,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",251.0,"[{0 174, ""other"" 21, 2 13, 3 5, 1 33, 4 5}]",21,174,33,13,5,5
+Clojure,https://github.com/babashka/neil,2023-02-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teodorlu@users.noreply.github.com]",252.0,"[{0 174, ""other"" 21, 2 14, 3 5, 1 33, 4 5}]",21,174,33,14,5,5
+Clojure,https://github.com/babashka/neil,2023-03-02,4,1,"#tech.v3.dataset.column<string>[4]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",256.0,"[{0 178, ""other"" 21, 2 14, 3 5, 1 33, 4 5}]",21,178,33,14,5,5
+Clojure,https://github.com/babashka/neil,2023-03-06,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmg46664@users.noreply.github.com]",257.0,"[{0 178, ""other"" 22, 2 14, 3 5, 1 33, 4 5}]",22,178,33,14,5,5
+Clojure,https://github.com/babashka/neil,2023-03-08,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",260.0,"[{0 181, ""other"" 22, 2 14, 3 5, 1 33, 4 5}]",22,181,33,14,5,5
+Clojure,https://github.com/babashka/neil,2023-03-09,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[michielborkent@gmail.com, 11401+rads@users.noreply.github.com]",262.0,"[{0 182, ""other"" 22, 2 14, 3 5, 1 34, 4 5}]",22,182,34,14,5,5
+Clojure,https://github.com/babashka/neil,2023-03-22,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com]",266.0,"[{0 185, ""other"" 22, 2 15, 3 5, 1 34, 4 5}]",22,185,34,15,5,5
+Clojure,https://github.com/babashka/neil,2023-05-07,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[michielborkent@gmail.com]",267.0,"[{0 186, ""other"" 22, 2 15, 3 5, 1 34, 4 5}]",22,186,34,15,5,5
+Clojure,https://github.com/babashka/neil,2023-07-10,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[teodorlu@users.noreply.github.com]",268.0,"[{0 186, ""other"" 22, 2 16, 3 5, 1 34, 4 5}]",22,186,34,16,5,5
+Clojure,https://github.com/babashka/neil,2023-07-14,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[teodorlu@users.noreply.github.com, teodorlu@users.noreply.github.com]",270.0,"[{0 186, ""other"" 22, 2 18, 3 5, 1 34, 4 5}]",22,186,34,18,5,5
+Clojure,https://github.com/babashka/neil,2023-09-26,4,2,"#tech.v3.dataset.column<string>[4]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com, teodorlu@users.noreply.github.com]",274.0,"[{0 189, ""other"" 22, 2 19, 3 5, 1 34, 4 5}]",22,189,34,19,5,5
+Clojure,https://github.com/babashka/neil,2023-10-02,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",277.0,"[{0 192, ""other"" 22, 2 19, 3 5, 1 34, 4 5}]",22,192,34,19,5,5
+Clojure,https://github.com/babashka/neil,2023-10-26,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[teodorlu@users.noreply.github.com, michielborkent@gmail.com, michielborkent@gmail.com]",280.0,"[{0 194, ""other"" 22, 2 20, 3 5, 1 34, 4 5}]",22,194,34,20,5,5
+Clojure,https://github.com/babashka/neil,2023-10-30,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roger.erens@e-s-c.biz]",281.0,"[{0 194, ""other"" 23, 2 20, 3 5, 1 34, 4 5}]",23,194,34,20,5,5
+Clojure,https://github.com/babashka/neil,2023-11-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agzam.ibragimov@gmail.com]",282.0,"[{0 194, ""other"" 23, 2 20, 3 6, 1 34, 4 5}]",23,194,34,20,6,5
+Clojure,https://github.com/babashka/neil,2023-11-13,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[michielborkent@gmail.com, michielborkent@gmail.com, michielborkent@gmail.com]",285.0,"[{0 197, ""other"" 23, 2 20, 3 6, 1 34, 4 5}]",23,197,34,20,6,5
+Clojure,https://github.com/babashka/neil,2023-11-16,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agzam.ibragimov@gmail.com]",286.0,"[{0 197, ""other"" 23, 2 20, 3 7, 1 34, 4 5}]",23,197,34,20,7,5
+Clojure,https://github.com/babashka/neil,2023-11-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[agzam.ibragimov@gmail.com]",287.0,"[{0 197, ""other"" 23, 2 20, 3 8, 1 34, 4 5}]",23,197,34,20,8,5

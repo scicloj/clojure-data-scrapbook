@@ -1,0 +1,228 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,razum2um,2014-07-09,3,2,"#{""bokov.vlad@gmail.com"" ""razum2um@mail.ru""}",3.0,2
+Clojure,razum2um,2014-07-10,2,2,"#{""bokov.vlad@gmail.com"" ""niwi@niwi.be""}",5.0,3
+Clojure,razum2um,2014-07-11,5,3,"#{""bokov.vlad@gmail.com"" ""evaggelos.avgerinos@gmail.com"" ""gildraug@gmail.com""}",10.0,5
+Clojure,razum2um,2014-07-12,1,1,"#{""bokov.vlad@gmail.com""}",11.0,5
+Clojure,razum2um,2014-07-14,2,2,"#{""bokov.vlad@gmail.com"" ""bhurlow@gmail.com""}",13.0,6
+Clojure,razum2um,2014-07-16,3,3,"#{""bokov.vlad@gmail.com"" ""michael.prins@me.com"" ""razum2um@mail.ru""}",16.0,7
+Clojure,razum2um,2014-07-17,1,1,"#{""razum2um@mail.ru""}",17.0,7
+Clojure,razum2um,2014-07-23,2,1,"#{""ali.asad.lotia@zeebox.com""}",19.0,8
+Clojure,razum2um,2014-07-24,2,1,"#{""bokov.vlad@gmail.com""}",21.0,8
+Clojure,razum2um,2014-07-25,1,1,"#{""bokov.vlad@gmail.com""}",22.0,8
+Clojure,razum2um,2014-08-29,1,1,"#{""razum2um@mail.ru""}",23.0,8
+Clojure,razum2um,2014-09-01,1,1,"#{""luqi.pan@gmail.com""}",24.0,9
+Clojure,razum2um,2014-09-02,2,2,"#{""bokov.vlad@gmail.com"" ""razum2um@mail.ru""}",26.0,9
+Clojure,razum2um,2014-09-04,2,2,"#{""bokov.vlad@gmail.com"" ""ultimatehurl@gmail.com""}",28.0,10
+Clojure,razum2um,2014-09-05,1,1,"#{""razum2um@mail.ru""}",29.0,10
+Clojure,razum2um,2014-09-06,1,1,"#{""razum2um@mail.ru""}",30.0,10
+Clojure,razum2um,2014-09-16,2,1,"#{""razum2um@mail.ru""}",32.0,10
+Clojure,razum2um,2014-09-17,2,1,"#{""razum2um@mail.ru""}",34.0,10
+Clojure,razum2um,2014-09-21,2,2,"#{""bokov.vlad@gmail.com"" ""ali.asad.lotia@zeebox.com""}",36.0,10
+Clojure,razum2um,2014-09-22,1,1,"#{""razum2um@mail.ru""}",37.0,10
+Clojure,razum2um,2014-09-23,1,1,"#{""razum2um@mail.ru""}",38.0,10
+Clojure,razum2um,2014-10-01,1,1,"#{""razum2um@mail.ru""}",39.0,10
+Clojure,razum2um,2014-10-02,1,1,"#{""razum2um@mail.ru""}",40.0,10
+Clojure,razum2um,2014-10-08,1,1,"#{""razum2um@mail.ru""}",41.0,10
+Clojure,razum2um,2014-10-09,2,2,"#{""bokov.vlad@gmail.com"" ""zhongchiyu@gmail.com""}",43.0,11
+Clojure,razum2um,2014-10-11,2,1,"#{""razum2um@mail.ru""}",45.0,11
+Clojure,razum2um,2014-10-20,1,1,"#{""pjagielski@o2.pl""}",46.0,12
+Clojure,razum2um,2014-10-21,1,1,"#{""bokov.vlad@gmail.com""}",47.0,12
+Clojure,razum2um,2014-10-22,2,1,"#{""razum2um@mail.ru""}",49.0,12
+Clojure,razum2um,2014-10-31,3,1,"#{""razum2um@mail.ru""}",52.0,12
+Clojure,razum2um,2014-11-01,5,1,"#{""razum2um@mail.ru""}",57.0,12
+Clojure,razum2um,2014-11-02,8,1,"#{""razum2um@mail.ru""}",65.0,12
+Clojure,razum2um,2014-11-04,8,1,"#{""razum2um@mail.ru""}",73.0,12
+Clojure,razum2um,2014-11-05,13,1,"#{""razum2um@mail.ru""}",86.0,12
+Clojure,razum2um,2014-11-06,1,1,"#{""razum2um@mail.ru""}",87.0,12
+Clojure,razum2um,2014-11-08,2,1,"#{""razum2um@mail.ru""}",89.0,12
+Clojure,razum2um,2014-11-09,12,1,"#{""razum2um@mail.ru""}",101.0,12
+Clojure,razum2um,2014-11-10,2,1,"#{""razum2um@mail.ru""}",103.0,12
+Clojure,razum2um,2014-11-11,2,2,"#{""bokov.vlad@gmail.com"" ""ja@jestem.tw""}",105.0,13
+Clojure,razum2um,2014-12-07,2,2,"#{""bokov.vlad@gmail.com"" ""ilya.akhmadullin@gmail.com""}",107.0,14
+Clojure,razum2um,2014-12-10,1,1,"#{""razum2um@mail.ru""}",108.0,14
+Clojure,razum2um,2015-01-03,2,1,"#{""razum2um@mail.ru""}",110.0,14
+Clojure,razum2um,2015-01-04,2,2,"#{""bokov.vlad@gmail.com"" ""classical.zhu@gmail.com""}",112.0,15
+Clojure,razum2um,2015-01-14,1,1,"#{""razum2um@mail.ru""}",113.0,15
+Clojure,razum2um,2015-01-26,1,1,"#{""razum2um@mail.ru""}",114.0,15
+Clojure,razum2um,2015-01-29,1,1,"#{""razum2um@mail.ru""}",115.0,15
+Clojure,razum2um,2015-01-30,2,2,"#{""bokov.vlad@gmail.com"" ""minsoo1003@gmail.com""}",117.0,16
+Clojure,razum2um,2015-01-31,1,1,"#{""juanantonioruz@gmail.com""}",118.0,17
+Clojure,razum2um,2015-02-01,1,1,"#{""bokov.vlad@gmail.com""}",119.0,17
+Clojure,razum2um,2015-03-08,3,2,"#{""bokov.vlad@gmail.com"" ""emrehan.tuzun@gmail.com""}",122.0,18
+Clojure,razum2um,2015-03-10,1,1,"#{""razum2um@mail.ru""}",123.0,18
+Clojure,razum2um,2015-03-13,2,1,"#{""bozhidar.batsov@gmail.com""}",125.0,19
+Clojure,razum2um,2015-03-14,2,1,"#{""bokov.vlad@gmail.com""}",127.0,19
+Clojure,razum2um,2015-03-16,1,1,"#{""me@matthewblair.net""}",128.0,20
+Clojure,razum2um,2015-03-19,2,2,"#{""bokov.vlad@gmail.com"" ""erik.bakstad@gmail.com""}",130.0,21
+Clojure,razum2um,2015-03-20,2,2,"#{""bruce.connor.am@gmail.com"" ""razum2um@mail.ru""}",132.0,22
+Clojure,razum2um,2015-03-23,1,1,"#{""bokov.vlad@gmail.com""}",133.0,22
+Clojure,razum2um,2015-03-25,2,1,"#{""razum2um@mail.ru""}",135.0,22
+Clojure,razum2um,2015-03-27,1,1,"#{""bruce.connor.am@gmail.com""}",136.0,22
+Clojure,razum2um,2015-03-28,2,2,"#{""bokov.vlad@gmail.com"" ""razum2um@mail.ru""}",138.0,22
+Clojure,razum2um,2015-03-29,5,1,"#{""mikey@cich.li""}",143.0,23
+Clojure,razum2um,2015-04-02,1,1,"#{""bokov.vlad@gmail.com""}",144.0,23
+Clojure,razum2um,2015-04-07,2,2,"#{""bokov.vlad@gmail.com"" ""razum2um@mail.ru""}",146.0,23
+Clojure,razum2um,2015-04-13,3,1,"#{""madcap.russo@gmail.com""}",149.0,24
+Clojure,razum2um,2015-04-14,1,1,"#{""bokov.vlad@gmail.com""}",150.0,24
+Clojure,razum2um,2015-04-15,1,1,"#{""razum2um@mail.ru""}",151.0,24
+Clojure,razum2um,2015-04-25,1,1,"#{""kristo.koert@gmail.com""}",152.0,25
+Clojure,razum2um,2015-05-11,1,1,"#{""bokov.vlad@gmail.com""}",153.0,25
+Clojure,razum2um,2015-06-18,4,2,"#{""bokov.vlad@gmail.com"" ""komarserjio@gmail.com""}",157.0,26
+Clojure,razum2um,2015-07-21,2,2,"#{""bokov.vlad@gmail.com"" ""max@vasiliev.me""}",159.0,27
+Clojure,razum2um,2015-08-07,1,1,"#{""craig@davison.io""}",160.0,28
+Clojure,razum2um,2015-08-08,1,1,"#{""yangweilim21@gmail.com""}",161.0,29
+Clojure,razum2um,2015-08-10,2,1,"#{""bokov.vlad@gmail.com""}",163.0,29
+Clojure,razum2um,2015-08-26,3,2,"#{""bokov.vlad@gmail.com"" ""neil.laurance@gmail.com""}",166.0,30
+Clojure,razum2um,2015-10-08,2,2,"#{""bokov.vlad@gmail.com"" ""oyanglulu@gmail.com""}",168.0,31
+Clojure,razum2um,2015-10-10,2,2,"#{""pavel.a.prokopenko@gmail.com"" ""bokov.vlad@gmail.com""}",170.0,32
+Clojure,razum2um,2015-10-11,1,1,"#{""pavel.a.prokopenko@gmail.com""}",171.0,32
+Clojure,razum2um,2015-10-12,3,2,"#{""pavel.a.prokopenko@gmail.com"" ""bokov.vlad@gmail.com""}",174.0,32
+Clojure,razum2um,2015-10-26,2,2,"#{""bokov.vlad@gmail.com"" ""muniz95@users.noreply.github.com""}",176.0,33
+Clojure,razum2um,2015-11-13,1,1,"#{""frankensteinbot@gmail.com""}",177.0,34
+Clojure,razum2um,2015-11-14,1,1,"#{""bokov.vlad@gmail.com""}",178.0,34
+Clojure,razum2um,2015-11-22,1,1,"#{""bokov.vlad@gmail.com""}",179.0,34
+Clojure,razum2um,2015-11-23,1,1,"#{""pomin5@gmail.com""}",180.0,35
+Clojure,razum2um,2015-11-28,5,1,"#{""razum2um@mail.ru""}",185.0,35
+Clojure,razum2um,2015-12-04,1,1,"#{""xhh@xhh.me""}",186.0,36
+Clojure,razum2um,2015-12-15,1,1,"#{""nikai@nikai.net""}",187.0,37
+Clojure,razum2um,2015-12-16,1,1,"#{""bokov.vlad@gmail.com""}",188.0,37
+Clojure,razum2um,2015-12-23,1,1,"#{""andrepoleza@nepente.io""}",189.0,38
+Clojure,razum2um,2015-12-24,1,1,"#{""bokov.vlad@gmail.com""}",190.0,38
+Clojure,razum2um,2016-01-18,2,2,"#{""frankensteinbot@gmail.com"" ""gbadi@mailjet.com""}",192.0,39
+Clojure,razum2um,2016-01-19,3,2,"#{""bokov.vlad@gmail.com"" ""razum2um@mail.ru""}",195.0,39
+Clojure,razum2um,2016-02-26,3,1,"#{""razum2um@mail.ru""}",198.0,39
+Clojure,razum2um,2016-03-12,1,1,"#{""evgenykochetkov@users.noreply.github.com""}",199.0,40
+Clojure,razum2um,2016-03-14,1,1,"#{""bokov.vlad@gmail.com""}",200.0,40
+Clojure,razum2um,2016-03-16,1,1,"#{""razum2um@mail.ru""}",201.0,40
+Clojure,razum2um,2016-03-25,4,2,"#{""maxim@ontoillogical.com"" ""razum2um@mail.ru""}",205.0,41
+Clojure,razum2um,2016-03-26,1,1,"#{""bokov.vlad@gmail.com""}",206.0,41
+Clojure,razum2um,2016-04-06,1,1,"#{""razum2um@mail.ru""}",207.0,41
+Clojure,razum2um,2016-04-10,1,1,"#{""qianyan@thoughtworks.com""}",208.0,42
+Clojure,razum2um,2016-04-11,1,1,"#{""bokov.vlad@gmail.com""}",209.0,42
+Clojure,razum2um,2016-04-17,2,2,"#{""bokov.vlad@gmail.com"" ""mkaschenko@me.com""}",211.0,43
+Clojure,razum2um,2016-05-30,1,1,"#{""razum2um@mail.ru""}",212.0,43
+Clojure,razum2um,2016-07-17,1,1,"#{""comerc@users.noreply.github.com""}",213.0,44
+Clojure,razum2um,2016-07-18,1,1,"#{""bokov.vlad@gmail.com""}",214.0,44
+Clojure,razum2um,2016-07-19,2,2,"#{""bokov.vlad@gmail.com"" ""lauri.apple@zalando.de""}",216.0,45
+Clojure,razum2um,2016-07-20,1,1,"#{""razum2um@mail.ru""}",217.0,45
+Clojure,razum2um,2016-08-05,1,1,"#{""lauri.apple@zalando.de""}",218.0,45
+Clojure,razum2um,2016-08-06,1,1,"#{""bokov.vlad@gmail.com""}",219.0,45
+Clojure,razum2um,2016-08-31,2,2,"#{""kavale.rahul@gmail.com"" ""bokov.vlad@gmail.com""}",221.0,46
+Clojure,razum2um,2016-10-03,2,2,"#{""bokov.vlad@gmail.com"" ""rafik.naccache@gmail.com""}",223.0,47
+Clojure,razum2um,2016-10-04,1,1,"#{""tomrpg44@gmail.com""}",224.0,48
+Clojure,razum2um,2016-10-28,1,1,"#{""baumandm@gmail.com""}",225.0,49
+Clojure,razum2um,2016-10-29,1,1,"#{""cloudkj@users.noreply.github.com""}",226.0,50
+Clojure,razum2um,2017-01-28,1,1,"#{""cammsaul@gmail.com""}",227.0,51
+Clojure,razum2um,2017-03-04,1,1,"#{""m.kuzmin@darkleaf.ru""}",228.0,52
+Clojure,razum2um,2017-03-13,2,2,"#{""rafik@fekr.tech"" ""fmnoise@gmail.com""}",230.0,54
+Clojure,razum2um,2017-05-03,1,1,"#{""ivan@grishaev.me""}",231.0,55
+Clojure,razum2um,2017-05-13,1,1,"#{""contact@jeaye.com""}",232.0,56
+Clojure,razum2um,2017-05-31,1,1,"#{""alejandro.alvarado0650144@gmail.com""}",233.0,57
+Clojure,razum2um,2017-06-15,1,1,"#{""JosephOsako@gmail.com""}",234.0,58
+Clojure,razum2um,2017-08-07,1,1,"#{""zzh_621@yahoo.com""}",235.0,59
+Clojure,razum2um,2017-08-16,3,3,"#{""sebastibe@gmail.com"" ""surya46584@gmail.com"" ""razum2um@mail.ru""}",238.0,61
+Clojure,razum2um,2017-08-17,2,1,"#{""shellbro@users.noreply.github.com""}",240.0,62
+Clojure,razum2um,2017-09-29,1,1,"#{""razum2um@mail.ru""}",241.0,62
+Clojure,razum2um,2017-10-04,1,1,"#{""ertugrulcetin@users.noreply.github.com""}",242.0,63
+Clojure,razum2um,2017-10-05,2,1,"#{""razum2um@mail.ru""}",244.0,63
+Clojure,razum2um,2017-10-14,3,3,"#{""jmohamed001@gmail.com"" ""baumandm@gmail.com"" ""salza@salza.dk""}",247.0,65
+Clojure,razum2um,2017-12-10,1,1,"#{""me@joaquin-caro.es""}",248.0,66
+Clojure,razum2um,2017-12-29,1,1,"#{""razum2um@mail.ru""}",249.0,66
+Clojure,razum2um,2018-01-03,1,1,"#{""gideaosf@gmail.com""}",250.0,67
+Clojure,razum2um,2018-01-04,1,1,"#{""razum2um@mail.ru""}",251.0,67
+Clojure,razum2um,2018-02-03,1,1,"#{""vincent.cantin@le-moulin-studio.com""}",252.0,68
+Clojure,razum2um,2018-02-05,2,1,"#{""razum2um@mail.ru""}",254.0,68
+Clojure,razum2um,2018-02-21,1,1,"#{""olim.mail@gmail.com""}",255.0,69
+Clojure,razum2um,2018-03-17,2,1,"#{""razum2um@mail.ru""}",257.0,69
+Clojure,razum2um,2018-03-23,3,1,"#{""razum2um@mail.ru""}",260.0,69
+Clojure,razum2um,2018-03-24,1,1,"#{""sundarjoshi@hotmail.co.uk""}",261.0,70
+Clojure,razum2um,2018-03-26,1,1,"#{""lerouxrgd@users.noreply.github.com""}",262.0,71
+Clojure,razum2um,2018-03-27,1,1,"#{""gwena.code@gmail.com""}",263.0,72
+Clojure,razum2um,2018-04-09,1,1,"#{""razum2um@mail.ru""}",264.0,72
+Clojure,razum2um,2018-04-11,1,1,"#{""github@banphim.net""}",265.0,73
+Clojure,razum2um,2018-04-18,1,1,"#{""piotr-yuxuan@users.noreply.github.com""}",266.0,74
+Clojure,razum2um,2018-04-26,1,1,"#{""liuchong@users.noreply.github.com""}",267.0,75
+Clojure,razum2um,2018-04-30,1,1,"#{""razum2um@mail.ru""}",268.0,75
+Clojure,razum2um,2018-05-15,2,2,"#{""me@joaquin-caro.es"" ""razum2um@mail.ru""}",270.0,75
+Clojure,razum2um,2018-05-16,1,1,"#{""razum2um@mail.ru""}",271.0,75
+Clojure,razum2um,2018-06-07,9,1,"#{""razum2um@mail.ru""}",280.0,75
+Clojure,razum2um,2018-06-25,1,1,"#{""razum2um@mail.ru""}",281.0,75
+Clojure,razum2um,2018-07-26,1,1,"#{""razum2um@mail.ru""}",282.0,75
+Clojure,razum2um,2018-07-27,2,1,"#{""41063058+j-cr@users.noreply.github.com""}",284.0,76
+Clojure,razum2um,2018-08-26,1,1,"#{""denis.fuenzalida@gmail.com""}",285.0,77
+Clojure,razum2um,2018-08-28,3,1,"#{""razum2um@mail.ru""}",288.0,77
+Clojure,razum2um,2018-09-19,1,1,"#{""m@qbits.cc""}",289.0,78
+Clojure,razum2um,2018-09-21,1,1,"#{""ertu.ctn@gmail.com""}",290.0,79
+Clojure,razum2um,2018-09-28,1,1,"#{""wadedominic93@gmail.com""}",291.0,80
+Clojure,razum2um,2018-10-01,1,1,"#{""razum2um@mail.ru""}",292.0,80
+Clojure,razum2um,2018-10-15,1,1,"#{""ztellman@gmail.com""}",293.0,81
+Clojure,razum2um,2018-10-16,2,2,"#{""tommi@iki.fi"" ""kristoft.1329@gmail.com""}",295.0,83
+Clojure,razum2um,2018-10-19,1,1,"#{""razum2um@mail.ru""}",296.0,83
+Clojure,razum2um,2018-11-05,2,1,"#{""razum2um@mail.ru""}",298.0,83
+Clojure,razum2um,2018-11-20,1,1,"#{""xvrdm@users.noreply.github.com""}",299.0,84
+Clojure,razum2um,2018-11-26,1,1,"#{""liquidz.uo@gmail.com""}",300.0,85
+Clojure,razum2um,2018-11-29,1,1,"#{""julienmalige@gmail.com""}",301.0,86
+Clojure,razum2um,2018-12-24,1,1,"#{""razum2um@mail.ru""}",302.0,86
+Clojure,razum2um,2019-01-17,1,1,"#{""david@griffin.sh""}",303.0,87
+Clojure,razum2um,2019-03-07,1,1,"#{""razum2um@mail.ru""}",304.0,87
+Clojure,razum2um,2019-04-16,1,1,"#{""razum2um@mail.ru""}",305.0,87
+Clojure,razum2um,2019-05-08,1,1,"#{""razum2um@mail.ru""}",306.0,87
+Clojure,razum2um,2019-06-03,1,1,"#{""ajoberstar@gmail.com""}",307.0,88
+Clojure,razum2um,2019-07-07,1,1,"#{""jrryjcksn@gmail.com""}",308.0,89
+Clojure,razum2um,2019-08-01,1,1,"#{""ysangkok@gmail.com""}",309.0,90
+Clojure,razum2um,2019-08-05,1,1,"#{""dana.borinski@gmail.com""}",310.0,91
+Clojure,razum2um,2019-08-23,2,1,"#{""zygimantas.medelis@tokenmill.lt""}",312.0,92
+Clojure,razum2um,2019-08-24,1,1,"#{""zygimantas.medelis@tokenmill.lt""}",313.0,92
+Clojure,razum2um,2019-09-04,2,2,"#{""1455846+camsaul@users.noreply.github.com"" ""ido@appsflyer.com""}",315.0,94
+Clojure,razum2um,2019-09-08,1,1,"#{""hrmeyer@gmail.com""}",316.0,95
+Clojure,razum2um,2019-09-20,1,1,"#{""razum2um@mail.ru""}",317.0,95
+Clojure,razum2um,2019-10-07,1,1,"#{""peter.halasz@live.com""}",318.0,96
+Clojure,razum2um,2019-10-08,1,1,"#{""zygimantas.medelis@tokenmill.lt""}",319.0,96
+Clojure,razum2um,2019-10-17,1,1,"#{""williamsilva808@hotmail.com""}",320.0,97
+Clojure,razum2um,2019-10-19,1,1,"#{""baumandm@gmail.com""}",321.0,97
+Clojure,razum2um,2019-10-21,1,1,"#{""kamn@users.noreply.github.com""}",322.0,98
+Clojure,razum2um,2019-10-29,1,1,"#{""asotnikov.100@gmail.com""}",323.0,99
+Clojure,razum2um,2020-01-07,1,1,"#{""github@matasaru.net""}",324.0,100
+Clojure,razum2um,2020-02-28,1,1,"#{""39972994+jocatelo@users.noreply.github.com""}",325.0,101
+Clojure,razum2um,2020-03-29,1,1,"#{""mkaschenko@me.com""}",326.0,101
+Clojure,razum2um,2020-06-08,1,1,"#{""tanrax@users.noreply.github.com""}",327.0,102
+Clojure,razum2um,2020-08-20,1,1,"#{""huahai.yang@gmail.com""}",328.0,103
+Clojure,razum2um,2020-10-07,1,1,"#{""likid.geimfari@gmail.com""}",329.0,104
+Clojure,razum2um,2020-10-09,1,1,"#{""spekulatius@users.noreply.github.com""}",330.0,105
+Clojure,razum2um,2020-10-24,1,1,"#{""spekulatius@users.noreply.github.com""}",331.0,105
+Clojure,razum2um,2020-10-28,1,1,"#{""34642968+sudhinm@users.noreply.github.com""}",332.0,106
+Clojure,razum2um,2020-11-24,1,1,"#{""spekulatius@users.noreply.github.com""}",333.0,106
+Clojure,razum2um,2021-01-06,3,1,"#{""steffan-westcott@users.noreply.github.com""}",336.0,107
+Clojure,razum2um,2021-01-07,1,1,"#{""steffan-westcott@users.noreply.github.com""}",337.0,107
+Clojure,razum2um,2021-01-18,1,1,"#{""vlad@lunatic.cat""}",338.0,108
+Clojure,razum2um,2021-01-20,1,1,"#{""dainius.jocas@pm.me""}",339.0,109
+Clojure,razum2um,2021-04-08,1,1,"#{""ercdll1337@gmail.com""}",340.0,110
+Clojure,razum2um,2021-04-17,1,1,"#{""piotr-yuxuan-github@2bst.fr""}",341.0,111
+Clojure,razum2um,2021-04-20,2,1,"#{""31926941+p4m-dev@users.noreply.github.com""}",343.0,112
+Clojure,razum2um,2021-05-28,1,1,"#{""traviswsims@gmail.com""}",344.0,113
+Clojure,razum2um,2021-06-07,2,1,"#{""hamid.sadeghian@gmail.com""}",346.0,114
+Clojure,razum2um,2021-06-29,2,2,"#{""aman1995k@gmail.com"" ""piotr-yuxuan-github@2bst.fr""}",348.0,115
+Clojure,razum2um,2021-07-26,4,1,"#{""vlad@lunatic.cat""}",352.0,115
+Clojure,razum2um,2021-08-31,1,1,"#{""mrdimosthenis@hotmail.com""}",353.0,116
+Clojure,razum2um,2021-09-06,1,1,"#{""vlad@razum2um.me""}",354.0,117
+Clojure,razum2um,2021-09-11,1,1,"#{""vlad@razum2um.me""}",355.0,117
+Clojure,razum2um,2021-09-26,1,1,"#{""carsten.behring@gmail.com""}",356.0,118
+Clojure,razum2um,2021-10-04,1,1,"#{""Vaelatern@voidlinux.org""}",357.0,119
+Clojure,razum2um,2021-10-06,1,1,"#{""jungin.kwon1@gmail.com""}",358.0,120
+Clojure,razum2um,2021-10-07,1,1,"#{""alvessd@live.com""}",359.0,121
+Clojure,razum2um,2021-10-12,1,1,"#{""vlad@razum2um.me""}",360.0,121
+Clojure,razum2um,2021-10-31,2,1,"#{""vlad@lunatic.cat""}",362.0,121
+Clojure,razum2um,2022-01-16,1,1,"#{""47344817+mugcake@users.noreply.github.com""}",363.0,122
+Clojure,razum2um,2022-04-26,1,1,"#{""kap4020@gmail.com""}",364.0,123
+Clojure,razum2um,2022-05-03,1,1,"#{""m.kuzmin@darkleaf.ru""}",365.0,123
+Clojure,razum2um,2022-05-10,1,1,"#{""53654505+realshovanshah@users.noreply.github.com""}",366.0,124
+Clojure,razum2um,2022-07-01,1,1,"#{""barkanido@users.noreply.github.com""}",367.0,125
+Clojure,razum2um,2022-07-20,1,1,"#{""ertu.ctn@gmail.com""}",368.0,125
+Clojure,razum2um,2022-08-02,1,1,"#{""olttwa@users.noreply.github.com""}",369.0,126
+Clojure,razum2um,2022-09-02,1,1,"#{""mugcake@disroot.org""}",370.0,127
+Clojure,razum2um,2022-09-06,1,1,"#{""ertu.ctn@gmail.com""}",371.0,127
+Clojure,razum2um,2023-04-06,1,1,"#{""noah.bogart@hey.com""}",372.0,128
+Clojure,razum2um,2023-05-22,1,1,"#{""vlad@razum2um.me""}",373.0,128
+Clojure,razum2um,2023-06-01,1,1,"#{""sskamalavelan@gmail.com""}",374.0,129
+Clojure,razum2um,2023-07-14,1,1,"#{""pavel.sutyrin@gmail.com""}",375.0,130
+Clojure,razum2um,2023-11-13,3,2,"#{""gnl@lipov.net"" ""mkaschenko@me.com""}",378.0,131

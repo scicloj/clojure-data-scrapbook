@@ -1,0 +1,239 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,cfpb,2013-03-07,1,1,"#{""clinton.dreisbach@cfpb.gov""}",1.0,1
+Clojure,cfpb,2013-03-08,3,1,"#{""clinton.dreisbach@cfpb.gov""}",4.0,1
+Clojure,cfpb,2013-03-18,10,3,"#{""clinton.dreisbach@cfpb.gov"" ""christopher.contolini@cfpb.gov"" ""crnixon@gmail.com""}",14.0,3
+Clojure,cfpb,2013-03-19,10,1,"#{""clinton.dreisbach@cfpb.gov""}",24.0,3
+Clojure,cfpb,2013-03-20,6,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",30.0,3
+Clojure,cfpb,2013-03-21,6,2,"#{""clinton.dreisbach@cfpb.gov"" ""stefan.fox@cfpb.gov""}",36.0,4
+Clojure,cfpb,2013-03-22,8,3,"#{""clinton.dreisbach@cfpb.gov"" ""stefan.fox@cfpb.gov"" ""crnixon@gmail.com""}",44.0,4
+Clojure,cfpb,2013-03-23,1,1,"#{""crnixon@gmail.com""}",45.0,4
+Clojure,cfpb,2013-03-24,1,1,"#{""crnixon@gmail.com""}",46.0,4
+Clojure,cfpb,2013-03-25,7,1,"#{""clinton.dreisbach@cfpb.gov""}",53.0,4
+Clojure,cfpb,2013-03-26,1,1,"#{""clinton.dreisbach@cfpb.gov""}",54.0,4
+Clojure,cfpb,2013-03-27,4,2,"#{""crnixon@gmail.com"" ""marc.esher@cfpb.gov""}",58.0,5
+Clojure,cfpb,2013-03-29,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@cfpb.gov""}",61.0,5
+Clojure,cfpb,2013-04-01,5,1,"#{""clinton.dreisbach@cfpb.gov""}",66.0,5
+Clojure,cfpb,2013-04-03,6,1,"#{""clinton.dreisbach@cfpb.gov""}",72.0,5
+Clojure,cfpb,2013-04-04,10,4,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com"" ""marc.esher@cfpb.gov""}",82.0,6
+Clojure,cfpb,2013-04-05,2,1,"#{""clinton.dreisbach@cfpb.gov""}",84.0,6
+Clojure,cfpb,2013-04-06,1,1,"#{""marc.esher@gmail.com""}",85.0,6
+Clojure,cfpb,2013-04-08,5,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",90.0,6
+Clojure,cfpb,2013-04-09,2,1,"#{""clinton.dreisbach@cfpb.gov""}",92.0,6
+Clojure,cfpb,2013-04-10,5,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",97.0,6
+Clojure,cfpb,2013-04-11,9,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",106.0,6
+Clojure,cfpb,2013-04-15,1,1,"#{""marc.esher@gmail.com""}",107.0,6
+Clojure,cfpb,2013-04-16,9,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",116.0,6
+Clojure,cfpb,2013-04-17,4,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",120.0,6
+Clojure,cfpb,2013-04-18,6,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",126.0,6
+Clojure,cfpb,2013-04-19,6,1,"#{""clinton.dreisbach@cfpb.gov""}",132.0,6
+Clojure,cfpb,2013-04-22,2,1,"#{""clinton.dreisbach@cfpb.gov""}",134.0,6
+Clojure,cfpb,2013-04-23,1,1,"#{""clinton.dreisbach@cfpb.gov""}",135.0,6
+Clojure,cfpb,2013-04-24,8,4,"#{""clinton.dreisbach@cfpb.gov"" ""stefan.fox@cfpb.gov"" ""marc.esher@gmail.com"" ""stefan.d.fox@gmail.com""}",143.0,7
+Clojure,cfpb,2013-04-25,5,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",148.0,7
+Clojure,cfpb,2013-04-26,6,3,"#{""stefan.fox@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",154.0,7
+Clojure,cfpb,2013-04-29,9,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",163.0,7
+Clojure,cfpb,2013-04-30,2,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",165.0,7
+Clojure,cfpb,2013-05-01,11,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",176.0,7
+Clojure,cfpb,2013-05-02,8,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",184.0,7
+Clojure,cfpb,2013-05-03,6,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",190.0,7
+Clojure,cfpb,2013-05-06,1,1,"#{""clinton.dreisbach@cfpb.gov""}",191.0,7
+Clojure,cfpb,2013-05-07,4,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",195.0,7
+Clojure,cfpb,2013-05-08,4,1,"#{""clinton.dreisbach@cfpb.gov""}",199.0,7
+Clojure,cfpb,2013-05-09,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",201.0,7
+Clojure,cfpb,2013-05-10,5,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",206.0,7
+Clojure,cfpb,2013-05-13,4,1,"#{""clinton.dreisbach@cfpb.gov""}",210.0,7
+Clojure,cfpb,2013-05-14,5,1,"#{""clinton.dreisbach@cfpb.gov""}",215.0,7
+Clojure,cfpb,2013-05-15,5,1,"#{""clinton.dreisbach@cfpb.gov""}",220.0,7
+Clojure,cfpb,2013-05-16,11,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",231.0,7
+Clojure,cfpb,2013-05-17,1,1,"#{""marc.esher@gmail.com""}",232.0,7
+Clojure,cfpb,2013-05-20,1,1,"#{""crnixon@gmail.com""}",233.0,7
+Clojure,cfpb,2013-05-21,2,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",235.0,7
+Clojure,cfpb,2013-05-22,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",237.0,7
+Clojure,cfpb,2013-05-23,1,1,"#{""clinton.dreisbach@cfpb.gov""}",238.0,7
+Clojure,cfpb,2013-05-24,1,1,"#{""clinton.dreisbach@cfpb.gov""}",239.0,7
+Clojure,cfpb,2013-05-28,5,1,"#{""clinton.dreisbach@cfpb.gov""}",244.0,7
+Clojure,cfpb,2013-05-30,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",246.0,7
+Clojure,cfpb,2013-05-31,3,1,"#{""clinton.dreisbach@cfpb.gov""}",249.0,7
+Clojure,cfpb,2013-06-04,1,1,"#{""clinton.dreisbach@cfpb.gov""}",250.0,7
+Clojure,cfpb,2013-06-05,4,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",254.0,7
+Clojure,cfpb,2013-06-06,4,1,"#{""clinton.dreisbach@cfpb.gov""}",258.0,7
+Clojure,cfpb,2013-06-07,1,1,"#{""marc.esher@gmail.com""}",259.0,7
+Clojure,cfpb,2013-06-13,1,1,"#{""clinton.dreisbach@cfpb.gov""}",260.0,7
+Clojure,cfpb,2013-06-17,1,1,"#{""clinton.dreisbach@cfpb.gov""}",261.0,7
+Clojure,cfpb,2013-06-18,2,1,"#{""clinton.dreisbach@cfpb.gov""}",263.0,7
+Clojure,cfpb,2013-06-19,6,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",269.0,7
+Clojure,cfpb,2013-06-20,2,1,"#{""clinton.dreisbach@cfpb.gov""}",271.0,7
+Clojure,cfpb,2013-06-24,9,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",280.0,7
+Clojure,cfpb,2013-06-25,4,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",284.0,7
+Clojure,cfpb,2013-06-26,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",287.0,7
+Clojure,cfpb,2013-07-01,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",290.0,7
+Clojure,cfpb,2013-07-02,1,1,"#{""clinton.dreisbach@cfpb.gov""}",291.0,7
+Clojure,cfpb,2013-07-03,3,1,"#{""clinton.dreisbach@cfpb.gov""}",294.0,7
+Clojure,cfpb,2013-07-11,1,1,"#{""clinton.dreisbach@cfpb.gov""}",295.0,7
+Clojure,cfpb,2013-07-12,6,1,"#{""clinton.dreisbach@cfpb.gov""}",301.0,7
+Clojure,cfpb,2013-07-13,3,1,"#{""clinton.dreisbach@cfpb.gov""}",304.0,7
+Clojure,cfpb,2013-07-15,10,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",314.0,7
+Clojure,cfpb,2013-07-16,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",316.0,7
+Clojure,cfpb,2013-07-17,1,1,"#{""clinton.dreisbach@cfpb.gov""}",317.0,7
+Clojure,cfpb,2013-07-18,6,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",323.0,7
+Clojure,cfpb,2013-07-19,10,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",333.0,7
+Clojure,cfpb,2013-07-22,6,1,"#{""marc.esher@gmail.com""}",339.0,7
+Clojure,cfpb,2013-07-23,2,2,"#{""erie.meyer@gmail.com"" ""crnixon@gmail.com""}",341.0,8
+Clojure,cfpb,2013-07-24,2,2,"#{""leahbannon@gmail.com"" ""ruihley@gmail.com""}",343.0,10
+Clojure,cfpb,2013-07-29,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",346.0,10
+Clojure,cfpb,2013-07-30,7,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",353.0,10
+Clojure,cfpb,2013-07-31,1,1,"#{""clinton.dreisbach@cfpb.gov""}",354.0,10
+Clojure,cfpb,2013-08-01,2,1,"#{""clinton.dreisbach@cfpb.gov""}",356.0,10
+Clojure,cfpb,2013-08-02,1,1,"#{""marc.esher@gmail.com""}",357.0,10
+Clojure,cfpb,2013-08-05,4,1,"#{""crnixon@gmail.com""}",361.0,10
+Clojure,cfpb,2013-08-07,11,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",372.0,10
+Clojure,cfpb,2013-08-08,1,1,"#{""clinton.dreisbach@cfpb.gov""}",373.0,10
+Clojure,cfpb,2013-08-09,5,1,"#{""clinton.dreisbach@cfpb.gov""}",378.0,10
+Clojure,cfpb,2013-08-10,1,1,"#{""clinton.dreisbach@cfpb.gov""}",379.0,10
+Clojure,cfpb,2013-08-12,3,1,"#{""clinton.dreisbach@cfpb.gov""}",382.0,10
+Clojure,cfpb,2013-08-13,2,1,"#{""marc.esher@gmail.com""}",384.0,10
+Clojure,cfpb,2013-08-14,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",386.0,10
+Clojure,cfpb,2013-08-15,2,1,"#{""clinton.dreisbach@cfpb.gov""}",388.0,10
+Clojure,cfpb,2013-08-16,12,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",400.0,10
+Clojure,cfpb,2013-08-19,12,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",412.0,10
+Clojure,cfpb,2013-08-20,10,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",422.0,10
+Clojure,cfpb,2013-08-21,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",424.0,10
+Clojure,cfpb,2013-08-23,2,1,"#{""clinton.dreisbach@cfpb.gov""}",426.0,10
+Clojure,cfpb,2013-08-24,13,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",439.0,10
+Clojure,cfpb,2013-08-25,4,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",443.0,10
+Clojure,cfpb,2013-08-26,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",446.0,10
+Clojure,cfpb,2013-08-27,6,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",452.0,10
+Clojure,cfpb,2013-08-28,2,1,"#{""clinton.dreisbach@cfpb.gov""}",454.0,10
+Clojure,cfpb,2013-08-29,1,1,"#{""scott@scottcranfill.com""}",455.0,11
+Clojure,cfpb,2013-08-30,2,1,"#{""crnixon@gmail.com""}",457.0,11
+Clojure,cfpb,2013-09-03,8,3,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com"" ""scott@scottcranfill.com""}",465.0,11
+Clojure,cfpb,2013-09-05,5,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",470.0,11
+Clojure,cfpb,2013-09-10,4,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",474.0,11
+Clojure,cfpb,2013-09-11,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",477.0,11
+Clojure,cfpb,2013-09-12,4,1,"#{""clinton.dreisbach@cfpb.gov""}",481.0,11
+Clojure,cfpb,2013-09-13,4,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",485.0,11
+Clojure,cfpb,2013-09-20,3,1,"#{""clinton.dreisbach@cfpb.gov""}",488.0,11
+Clojure,cfpb,2013-09-25,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",491.0,11
+Clojure,cfpb,2013-09-26,1,1,"#{""clinton.dreisbach@cfpb.gov""}",492.0,11
+Clojure,cfpb,2013-09-28,1,1,"#{""marc.esher@gmail.com""}",493.0,11
+Clojure,cfpb,2013-10-03,2,1,"#{""clinton.dreisbach@cfpb.gov""}",495.0,11
+Clojure,cfpb,2013-10-04,1,1,"#{""marc.esher@gmail.com""}",496.0,11
+Clojure,cfpb,2013-10-08,4,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",500.0,11
+Clojure,cfpb,2013-10-09,3,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",503.0,11
+Clojure,cfpb,2013-10-10,2,1,"#{""marc.esher@gmail.com""}",505.0,11
+Clojure,cfpb,2013-10-11,2,1,"#{""clinton.dreisbach@cfpb.gov""}",507.0,11
+Clojure,cfpb,2013-10-14,2,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",509.0,11
+Clojure,cfpb,2013-10-15,1,1,"#{""clinton.dreisbach@cfpb.gov""}",510.0,11
+Clojure,cfpb,2013-10-16,5,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",515.0,11
+Clojure,cfpb,2013-10-17,5,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",520.0,11
+Clojure,cfpb,2013-10-18,4,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",524.0,11
+Clojure,cfpb,2013-10-21,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",526.0,11
+Clojure,cfpb,2013-10-22,3,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",529.0,11
+Clojure,cfpb,2013-10-23,6,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",535.0,11
+Clojure,cfpb,2013-10-24,11,3,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com""}",546.0,11
+Clojure,cfpb,2013-11-02,1,1,"#{""marc.esher@gmail.com""}",547.0,11
+Clojure,cfpb,2013-11-04,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",549.0,11
+Clojure,cfpb,2013-11-05,4,1,"#{""marc.esher@gmail.com""}",553.0,11
+Clojure,cfpb,2013-11-07,1,1,"#{""marc.esher@gmail.com""}",554.0,11
+Clojure,cfpb,2013-11-08,1,1,"#{""crnixon@gmail.com""}",555.0,11
+Clojure,cfpb,2013-11-15,4,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",559.0,11
+Clojure,cfpb,2013-11-19,6,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",565.0,11
+Clojure,cfpb,2013-11-21,1,1,"#{""clinton.dreisbach@cfpb.gov""}",566.0,11
+Clojure,cfpb,2013-11-22,4,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",570.0,11
+Clojure,cfpb,2013-11-24,3,1,"#{""marc.esher@gmail.com""}",573.0,11
+Clojure,cfpb,2013-11-25,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",575.0,11
+Clojure,cfpb,2013-11-26,1,1,"#{""clinton.dreisbach@cfpb.gov""}",576.0,11
+Clojure,cfpb,2013-12-01,1,1,"#{""marc.esher@gmail.com""}",577.0,11
+Clojure,cfpb,2013-12-02,1,1,"#{""clinton.dreisbach@cfpb.gov""}",578.0,11
+Clojure,cfpb,2013-12-03,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",580.0,11
+Clojure,cfpb,2013-12-04,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",582.0,11
+Clojure,cfpb,2013-12-05,6,1,"#{""clinton.dreisbach@cfpb.gov""}",588.0,11
+Clojure,cfpb,2013-12-06,6,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",594.0,11
+Clojure,cfpb,2013-12-09,2,2,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com""}",596.0,11
+Clojure,cfpb,2013-12-10,1,1,"#{""marc.esher@gmail.com""}",597.0,11
+Clojure,cfpb,2013-12-12,1,1,"#{""marc.esher@gmail.com""}",598.0,11
+Clojure,cfpb,2013-12-16,2,1,"#{""clinton.dreisbach@cfpb.gov""}",600.0,11
+Clojure,cfpb,2013-12-17,8,3,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com"" ""zcharlop@rockefeller.edu""}",608.0,12
+Clojure,cfpb,2013-12-19,3,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",611.0,12
+Clojure,cfpb,2014-01-10,3,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",614.0,12
+Clojure,cfpb,2014-01-13,1,1,"#{""crnixon@gmail.com""}",615.0,12
+Clojure,cfpb,2014-01-14,3,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",618.0,12
+Clojure,cfpb,2014-01-16,4,1,"#{""crnixon@gmail.com""}",622.0,12
+Clojure,cfpb,2014-01-17,1,1,"#{""marc.esher@gmail.com""}",623.0,12
+Clojure,cfpb,2014-01-27,2,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",625.0,12
+Clojure,cfpb,2014-01-30,1,1,"#{""marc.esher@gmail.com""}",626.0,12
+Clojure,cfpb,2014-02-04,4,2,"#{""marc.esher@gmail.com"" ""crnixon@gmail.com""}",630.0,12
+Clojure,cfpb,2014-02-05,1,1,"#{""marc.esher@gmail.com""}",631.0,12
+Clojure,cfpb,2014-02-10,5,2,"#{""marc.esher@gmail.com"" ""clinton@dreisbach.us""}",636.0,13
+Clojure,cfpb,2014-02-11,3,2,"#{""christopher.contolini@cfpb.gov"" ""marc.esher@gmail.com""}",639.0,13
+Clojure,cfpb,2014-02-12,1,1,"#{""marc.esher@gmail.com""}",640.0,13
+Clojure,cfpb,2014-02-13,2,1,"#{""clinton@dreisbach.us""}",642.0,13
+Clojure,cfpb,2014-02-18,1,1,"#{""marc.esher@gmail.com""}",643.0,13
+Clojure,cfpb,2014-02-19,5,1,"#{""clinton@dreisbach.us""}",648.0,13
+Clojure,cfpb,2014-02-20,3,2,"#{""marc.esher@gmail.com"" ""clinton@dreisbach.us""}",651.0,13
+Clojure,cfpb,2014-02-21,6,1,"#{""clinton@dreisbach.us""}",657.0,13
+Clojure,cfpb,2014-02-24,9,3,"#{""clinton.dreisbach@cfpb.gov"" ""william.lovett@cfpb.gov"" ""scott@scottcranfill.com""}",666.0,14
+Clojure,cfpb,2014-02-25,10,2,"#{""clinton.dreisbach@cfpb.gov"" ""william.lovett@cfpb.gov""}",676.0,14
+Clojure,cfpb,2014-02-26,18,4,"#{""clinton.dreisbach@cfpb.gov"" ""marc.esher@gmail.com"" ""crnixon@gmail.com"" ""william.lovett@cfpb.gov""}",694.0,14
+Clojure,cfpb,2014-02-27,11,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",705.0,14
+Clojure,cfpb,2014-03-05,2,2,"#{""clinton@dreisbach.us"" ""crnixon@gmail.com""}",707.0,14
+Clojure,cfpb,2014-03-10,4,2,"#{""marc.esher@gmail.com"" ""clinton@dreisbach.us""}",711.0,14
+Clojure,cfpb,2014-03-14,1,1,"#{""clinton@dreisbach.us""}",712.0,14
+Clojure,cfpb,2014-03-18,1,1,"#{""marc.esher@gmail.com""}",713.0,14
+Clojure,cfpb,2014-03-26,5,1,"#{""clinton@dreisbach.us""}",718.0,14
+Clojure,cfpb,2014-03-27,1,1,"#{""clinton@dreisbach.us""}",719.0,14
+Clojure,cfpb,2014-04-01,5,1,"#{""marc.esher@gmail.com""}",724.0,14
+Clojure,cfpb,2014-04-10,6,2,"#{""clinton.dreisbach@cfpb.gov"" ""crnixon@gmail.com""}",730.0,14
+Clojure,cfpb,2014-04-17,3,2,"#{""marc.esher@gmail.com"" ""clinton@dreisbach.us""}",733.0,14
+Clojure,cfpb,2014-04-18,3,2,"#{""marc.esher@gmail.com"" ""clinton@dreisbach.us""}",736.0,14
+Clojure,cfpb,2014-04-21,11,1,"#{""clinton@dreisbach.us""}",747.0,14
+Clojure,cfpb,2014-04-22,2,1,"#{""clinton@dreisbach.us""}",749.0,14
+Clojure,cfpb,2014-04-23,4,2,"#{""marc.esher@gmail.com"" ""clinton@dreisbach.us""}",753.0,14
+Clojure,cfpb,2014-04-25,15,2,"#{""marc.esher@gmail.com"" ""clinton@dreisbach.us""}",768.0,14
+Clojure,cfpb,2014-04-28,1,1,"#{""marc.esher@gmail.com""}",769.0,14
+Clojure,cfpb,2014-05-07,2,1,"#{""marc.esher@gmail.com""}",771.0,14
+Clojure,cfpb,2014-05-14,2,2,"#{""marc.esher@gmail.com"" ""cmc333333@gmail.com""}",773.0,15
+Clojure,cfpb,2014-06-02,2,2,"#{""marc.esher@gmail.com"" ""cmc333333@gmail.com""}",775.0,15
+Clojure,cfpb,2014-06-13,4,1,"#{""marc.esher@gmail.com""}",779.0,15
+Clojure,cfpb,2014-07-08,1,1,"#{""brown.3.mike@gmail.com""}",780.0,16
+Clojure,cfpb,2014-07-11,1,1,"#{""marc.esher@gmail.com""}",781.0,16
+Clojure,cfpb,2014-07-18,3,2,"#{""marc.esher@gmail.com"" ""michael.brown@cfpb.gov""}",784.0,17
+Clojure,cfpb,2014-07-24,6,2,"#{""mehtadev17@gmail.com"" ""marc.esher@gmail.com""}",790.0,18
+Clojure,cfpb,2014-07-28,5,3,"#{""mehtadev17@gmail.com"" ""Evan.Russenberger.Rosica@cfpb.gov"" ""michael.brown@cfpb.gov""}",795.0,19
+Clojure,cfpb,2014-07-29,12,5,"#{""mehtadev17@gmail.com"" ""aboyle5@hotmail.com"" ""michael.brown@cfpb.gov"" ""brown.3.mike@gmail.com"" ""vagrant@localhost.localdomain""}",807.0,21
+Clojure,cfpb,2014-08-08,3,1,"#{""marc.esher@gmail.com""}",810.0,21
+Clojure,cfpb,2014-08-13,2,1,"#{""contolini@users.noreply.github.com""}",812.0,22
+Clojure,cfpb,2014-08-21,2,2,"#{""marc.esher@gmail.com"" ""michael.brown@cfpb.gov""}",814.0,22
+Clojure,cfpb,2014-08-26,2,2,"#{""mehtadev17@gmail.com"" ""michael.brown@cfpb.gov""}",816.0,22
+Clojure,cfpb,2014-09-18,1,1,"#{""mehtadev17@gmail.com""}",817.0,22
+Clojure,cfpb,2014-09-19,6,2,"#{""mehtadev17@gmail.com"" ""marc.esher@gmail.com""}",823.0,22
+Clojure,cfpb,2014-09-22,2,2,"#{""mehtadev17@gmail.com"" ""brown.3.mike@gmail.com""}",825.0,22
+Clojure,cfpb,2014-09-23,2,2,"#{""mehtadev17@gmail.com"" ""michael.brown@cfpb.gov""}",827.0,22
+Clojure,cfpb,2015-07-15,2,2,"#{""christopher.contolini@cfpb.gov"" ""marc.esher@gmail.com""}",829.0,22
+Clojure,cfpb,2015-07-27,5,2,"#{""marc.esher@gmail.com"" ""brown.3.mike@gmail.com""}",834.0,22
+Clojure,cfpb,2015-07-30,8,1,"#{""marc.esher@gmail.com""}",842.0,22
+Clojure,cfpb,2015-09-18,4,3,"#{""sam.leitner@gmail.com"" ""samuel.leitner@cfpb.gov"" ""vagrant@localhost.localdomain""}",846.0,24
+Clojure,cfpb,2015-09-23,2,2,"#{""samuel.leitner@cfpb.gov"" ""brown.3.mike@gmail.com""}",848.0,24
+Clojure,cfpb,2015-09-25,8,3,"#{""marc.esher@gmail.com"" ""sam.leitner@gmail.com"" ""michael.brown@cfpb.gov""}",856.0,24
+Clojure,cfpb,2015-09-28,3,3,"#{""marc.esher@gmail.com"" ""sam.leitner@gmail.com"" ""michael.brown@cfpb.gov""}",859.0,24
+Clojure,cfpb,2015-10-08,1,1,"#{""samuel.leitner@cfpb.gov""}",860.0,24
+Clojure,cfpb,2015-10-09,2,2,"#{""marc.esher@gmail.com"" ""samuel.leitner@cfpb.gov""}",862.0,24
+Clojure,cfpb,2015-10-19,1,1,"#{""samuel.leitner@cfpb.gov""}",863.0,24
+Clojure,cfpb,2015-10-23,1,1,"#{""sam.leitner@gmail.com""}",864.0,24
+Clojure,cfpb,2015-12-14,1,1,"#{""ivan.mushketik@gmail.com""}",865.0,25
+Clojure,cfpb,2015-12-15,1,1,"#{""ivan.mushketik@gmail.com""}",866.0,25
+Clojure,cfpb,2015-12-17,1,1,"#{""ivan.mushketik@gmail.com""}",867.0,25
+Clojure,cfpb,2015-12-29,7,1,"#{""marc.esher@gmail.com""}",874.0,25
+Clojure,cfpb,2016-01-04,2,1,"#{""ivan.mushketik@gmail.com""}",876.0,25
+Clojure,cfpb,2016-02-08,1,1,"#{""marc.esher@gmail.com""}",877.0,25
+Clojure,cfpb,2016-04-08,2,1,"#{""contolini@users.noreply.github.com""}",879.0,25
+Clojure,cfpb,2016-04-11,2,1,"#{""marc.esher@gmail.com""}",881.0,25
+Clojure,cfpb,2016-09-09,3,1,"#{""samuel.leitner@cfpb.gov""}",884.0,25
+Clojure,cfpb,2016-09-15,2,1,"#{""sam.leitner@gmail.com""}",886.0,25
+Clojure,cfpb,2016-09-20,1,1,"#{""samuel.leitner@cfpb.gov""}",887.0,25
+Clojure,cfpb,2016-09-21,2,2,"#{""samuel.leitner@cfpb.gov"" ""JeffreyMFarley@users.noreply.github.com""}",889.0,26
+Clojure,cfpb,2016-09-22,4,2,"#{""sam.leitner@gmail.com"" ""samuel.leitner@cfpb.gov""}",893.0,26
+Clojure,cfpb,2016-12-12,1,1,"#{""chris@contolini.com""}",894.0,27
+Clojure,cfpb,2017-05-18,2,2,"#{""Orlando.Soto-Pastor@cfpb.gov"" ""contolini+github@gmail.com""}",896.0,29
+Clojure,cfpb,2017-10-16,1,1,"#{""marc.esher@gmail.com""}",897.0,29
+Clojure,cfpb,2020-09-25,2,1,"#{""marc.esher@cfpb.gov""}",899.0,29

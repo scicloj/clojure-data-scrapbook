@@ -1,0 +1,76 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Python,https://github.com/wolever/pprintpp,2014-03-30,6,1,"#tech.v3.dataset.column<string>[6]
+:email
+[david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net]",6.0,[{0 6}],0,6,0,0,0,0
+Python,https://github.com/wolever/pprintpp,2014-03-31,10,2,"#tech.v3.dataset.column<string>[10]
+:email
+[andrew.r.hawker@gmail.com, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net]",16.0,"[{0 15, ""other"" 1}]",1,15,0,0,0,0
+Python,https://github.com/wolever/pprintpp,2014-04-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",17.0,"[{0 16, ""other"" 1}]",1,16,0,0,0,0
+Python,https://github.com/wolever/pprintpp,2014-04-03,7,2,"#tech.v3.dataset.column<string>[7]
+:email
+[david@wolever.net, david@wolever.net, andrey.petrov@shazow.net, andrey.petrov@shazow.net, david@wolever.net, david@wolever.net, david@wolever.net]",24.0,"[{0 21, ""other"" 3}]",3,21,0,0,0,0
+Python,https://github.com/wolever/pprintpp,2014-04-05,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[david@wolever.net, r0h1t4sh@gmail.com, r0h1t4sh@gmail.com]",27.0,"[{0 22, ""other"" 3, 4 2}]",3,22,0,0,0,2
+Python,https://github.com/wolever/pprintpp,2014-04-22,13,2,"#tech.v3.dataset.column<string>[13]
+:email
+[david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, david@wolever.net, hugovk@users.noreply.github.com, hugovk@users.noreply.github.com, hugovk@users.noreply.github.com, hugovk@users.noreply.github.com]",40.0,"[{0 31, ""other"" 3, 4 2, 1 4}]",3,31,4,0,0,2
+Python,https://github.com/wolever/pprintpp,2014-04-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",41.0,"[{0 32, ""other"" 3, 4 2, 1 4}]",3,32,4,0,0,2
+Python,https://github.com/wolever/pprintpp,2014-05-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hugovk@users.noreply.github.com]",42.0,"[{0 32, ""other"" 3, 4 2, 1 5}]",3,32,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2014-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",43.0,"[{0 33, ""other"" 3, 4 2, 1 5}]",3,33,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2015-04-13,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",44.0,"[{0 34, ""other"" 3, 4 2, 1 5}]",3,34,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2015-05-13,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david@wolever.net, david@wolever.net]",46.0,"[{0 36, ""other"" 3, 4 2, 1 5}]",3,36,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2015-05-14,3,1,"#tech.v3.dataset.column<string>[3]
+:email
+[david@wolever.net, david@wolever.net, david@wolever.net]",49.0,"[{0 39, ""other"" 3, 4 2, 1 5}]",3,39,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2015-06-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",50.0,"[{0 40, ""other"" 3, 4 2, 1 5}]",3,40,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2016-02-14,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",51.0,"[{0 41, ""other"" 3, 4 2, 1 5}]",3,41,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2016-02-22,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david@wolever.net, david@wolever.net]",53.0,"[{0 43, ""other"" 3, 4 2, 1 5}]",3,43,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2016-11-29,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david@wolever.net, david@wolever.net]",55.0,"[{0 45, ""other"" 3, 4 2, 1 5}]",3,45,5,0,0,2
+Python,https://github.com/wolever/pprintpp,2017-10-01,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[hugovk@users.noreply.github.com]",56.0,"[{0 45, ""other"" 3, 4 2, 1 6}]",3,45,6,0,0,2
+Python,https://github.com/wolever/pprintpp,2017-10-02,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",57.0,"[{0 46, ""other"" 3, 4 2, 1 6}]",3,46,6,0,0,2
+Python,https://github.com/wolever/pprintpp,2018-06-24,5,2,"#tech.v3.dataset.column<string>[5]
+:email
+[you@example.com, you@example.com, roeen30@gmail.com, you@example.com, you@example.com]",62.0,"[{0 46, ""other"" 3, 4 2, 1 6, 2 4, 3 1}]",3,46,6,4,1,2
+Python,https://github.com/wolever/pprintpp,2018-06-26,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[roeen30@gmail.com]",63.0,"[{0 46, ""other"" 3, 4 2, 1 6, 2 4, 3 2}]",3,46,6,4,2,2
+Python,https://github.com/wolever/pprintpp,2018-06-30,2,1,"#tech.v3.dataset.column<string>[2]
+:email
+[david@wolever.net, david@wolever.net]",65.0,"[{0 48, ""other"" 3, 4 2, 1 6, 2 4, 3 2}]",3,48,6,4,2,2
+Python,https://github.com/wolever/pprintpp,2019-01-18,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[jake.waksbaum@gmail.com]",66.0,"[{0 48, ""other"" 4, 4 2, 1 6, 2 4, 3 2}]",4,48,6,4,2,2
+Python,https://github.com/wolever/pprintpp,2019-01-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",67.0,"[{0 49, ""other"" 4, 4 2, 1 6, 2 4, 3 2}]",4,49,6,4,2,2
+Python,https://github.com/wolever/pprintpp,2019-07-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[marc1n@users.noreply.github.com]",68.0,"[{0 49, ""other"" 5, 4 2, 1 6, 2 4, 3 2}]",5,49,6,4,2,2
+Python,https://github.com/wolever/pprintpp,2020-04-22,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[david@wolever.net]",69.0,"[{0 50, ""other"" 5, 4 2, 1 6, 2 4, 3 2}]",5,50,6,4,2,2

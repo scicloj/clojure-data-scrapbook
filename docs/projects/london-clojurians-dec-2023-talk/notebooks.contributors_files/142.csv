@@ -1,0 +1,164 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,PyMySQL,2009-06-16,1,1,"#{""idavidstory@gmail.com""}",1.0,1
+Python,PyMySQL,2009-12-16,2,1,"#{""unknown@unknown.co.uk""}",3.0,2
+Python,PyMySQL,2010-07-26,2,1,"#{""floydophone@gmail.com""}",5.0,3
+Python,PyMySQL,2010-07-27,3,1,"#{""floydophone@gmail.com""}",8.0,3
+Python,PyMySQL,2010-07-29,2,1,"#{""floydophone@gmail.com""}",10.0,3
+Python,PyMySQL,2010-07-30,5,1,"#{""floydophone@gmail.com""}",15.0,3
+Python,PyMySQL,2010-08-02,2,1,"#{""floydophone@gmail.com""}",17.0,3
+Python,PyMySQL,2010-08-09,1,1,"#{""floydophone@gmail.com""}",18.0,3
+Python,PyMySQL,2010-08-18,1,1,"#{""floydophone@gmail.com""}",19.0,3
+Python,PyMySQL,2010-09-04,4,1,"#{""floydophone@gmail.com""}",23.0,3
+Python,PyMySQL,2010-09-08,1,1,"#{""floydophone@gmail.com""}",24.0,3
+Python,PyMySQL,2010-12-02,2,1,"#{""floydophone@gmail.com""}",26.0,3
+Python,PyMySQL,2010-12-08,6,1,"#{""floydophone@gmail.com""}",32.0,3
+Python,PyMySQL,2010-12-10,7,1,"#{""floydophone@gmail.com""}",39.0,3
+Python,PyMySQL,2011-01-18,1,1,"#{""floydophone@gmail.com""}",40.0,3
+Python,PyMySQL,2011-03-01,1,1,"#{""floydophone@gmail.com""}",41.0,3
+Python,PyMySQL,2011-03-05,1,1,"#{""floydophone@gmail.com""}",42.0,3
+Python,PyMySQL,2011-04-09,1,1,"#{""floydophone@gmail.com""}",43.0,3
+Python,PyMySQL,2011-04-24,1,1,"#{""floydophone@gmail.com""}",44.0,3
+Python,PyMySQL,2011-06-30,1,1,"#{""floydophone@gmail.com""}",45.0,3
+Python,PyMySQL,2011-07-14,1,1,"#{""floydophone@gmail.com""}",46.0,3
+Python,PyMySQL,2011-07-27,6,1,"#{""floydophone@gmail.com""}",52.0,3
+Python,PyMySQL,2011-07-28,1,1,"#{""floydophone@gmail.com""}",53.0,3
+Python,PyMySQL,2011-07-29,2,1,"#{""floydophone@gmail.com""}",55.0,3
+Python,PyMySQL,2011-10-15,4,1,"#{""cce@clarkevans.com""}",59.0,4
+Python,PyMySQL,2011-10-24,1,1,"#{""info@whywouldwe.com""}",60.0,5
+Python,PyMySQL,2011-11-08,6,2,"#{""phunt@fb.com"" ""floydophone@gmail.com""}",66.0,6
+Python,PyMySQL,2011-11-09,15,1,"#{""cleure@websprockets.com""}",81.0,7
+Python,PyMySQL,2011-11-10,6,2,"#{""cleure@websprockets.com"" ""floydophone@gmail.com""}",87.0,7
+Python,PyMySQL,2011-11-11,1,1,"#{""floydophone@gmail.com""}",88.0,7
+Python,PyMySQL,2011-12-07,2,1,"#{""ian@fullfactor.com""}",90.0,8
+Python,PyMySQL,2011-12-13,2,2,"#{""ian@fullfactor.com"" ""floydophone@gmail.com""}",92.0,8
+Python,PyMySQL,2012-01-27,1,1,"#{""bigras.bruno@gmail.com""}",93.0,9
+Python,PyMySQL,2012-02-14,2,2,"#{""duffy@indeed.com"" ""floydophone@gmail.com""}",95.0,10
+Python,PyMySQL,2012-02-19,2,1,"#{""floydophone@gmail.com""}",97.0,10
+Python,PyMySQL,2012-04-05,1,1,"#{""floydophone@gmail.com""}",98.0,10
+Python,PyMySQL,2012-05-07,1,1,"#{""bigras.bruno@gmail.com""}",99.0,10
+Python,PyMySQL,2012-05-12,1,1,"#{""floydophone@gmail.com""}",100.0,10
+Python,PyMySQL,2012-07-13,1,1,"#{""bigras.bruno@gmail.com""}",101.0,10
+Python,PyMySQL,2012-07-17,1,1,"#{""elij.mx@gmail.com""}",102.0,11
+Python,PyMySQL,2012-07-18,1,1,"#{""jag@socialcode.com""}",103.0,12
+Python,PyMySQL,2012-07-20,1,1,"#{""bigras.bruno@gmail.com""}",104.0,12
+Python,PyMySQL,2012-09-06,1,1,"#{""seth@sethmurphy.com""}",105.0,13
+Python,PyMySQL,2012-10-13,1,1,"#{""julien@duponchelle.info""}",106.0,14
+Python,PyMySQL,2012-10-15,2,1,"#{""raggi@raggiskula.net""}",108.0,15
+Python,PyMySQL,2012-10-17,7,2,"#{""cyberdupo56@gmail.com"" ""floydophone@gmail.com""}",115.0,16
+Python,PyMySQL,2012-10-18,1,1,"#{""floydophone@gmail.com""}",116.0,16
+Python,PyMySQL,2012-11-19,1,1,"#{""danny@orionrobots.co.uk""}",117.0,17
+Python,PyMySQL,2012-12-04,1,1,"#{""floydophone@gmail.com""}",118.0,17
+Python,PyMySQL,2012-12-05,3,1,"#{""jason.madden@nextthought.com""}",121.0,18
+Python,PyMySQL,2012-12-16,1,1,"#{""floydophone@gmail.com""}",122.0,18
+Python,PyMySQL,2013-03-01,1,1,"#{""dustin@mozilla.com""}",123.0,19
+Python,PyMySQL,2013-06-03,1,1,"#{""ryan@rfk.id.au""}",124.0,20
+Python,PyMySQL,2013-06-05,2,1,"#{""turbinater@gmail.com""}",126.0,21
+Python,PyMySQL,2013-06-06,1,1,"#{""ryan@rfk.id.au""}",127.0,21
+Python,PyMySQL,2013-06-10,1,1,"#{""turbinater@gmail.com""}",128.0,21
+Python,PyMySQL,2013-07-16,3,1,"#{""marcelgmr@gmail.com""}",131.0,22
+Python,PyMySQL,2013-07-17,10,1,"#{""marcelgmr@gmail.com""}",141.0,22
+Python,PyMySQL,2013-07-25,1,1,"#{""pete.hunt@fb.com""}",142.0,23
+Python,PyMySQL,2013-08-21,1,1,"#{""mgrechukh@satelliz.com""}",143.0,24
+Python,PyMySQL,2013-08-28,1,1,"#{""inada-n@klab.com""}",144.0,25
+Python,PyMySQL,2013-08-29,1,1,"#{""marcelgmr@gmail.com""}",145.0,25
+Python,PyMySQL,2013-08-30,2,2,"#{""inada-n@klab.com"" ""marcelgmr@gmail.com""}",147.0,25
+Python,PyMySQL,2013-09-10,2,1,"#{""marcelgmr@gmail.com""}",149.0,25
+Python,PyMySQL,2013-09-11,2,1,"#{""inada-n@klab.com""}",151.0,25
+Python,PyMySQL,2013-09-17,4,2,"#{""inada-n@klab.com"" ""marcelgmr@gmail.com""}",155.0,25
+Python,PyMySQL,2013-09-19,2,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",157.0,26
+Python,PyMySQL,2013-09-20,16,2,"#{""inada-n@klab.com"" ""marcelgmr@gmail.com""}",173.0,26
+Python,PyMySQL,2013-09-21,11,2,"#{""songofacandy@gmail.com"" ""marcelgmr@gmail.com""}",184.0,26
+Python,PyMySQL,2013-09-22,4,2,"#{""dustin@mozilla.com"" ""songofacandy@gmail.com""}",188.0,26
+Python,PyMySQL,2013-09-23,17,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",205.0,26
+Python,PyMySQL,2013-09-24,19,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",224.0,26
+Python,PyMySQL,2013-09-25,7,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",231.0,26
+Python,PyMySQL,2013-09-26,2,1,"#{""marcelgmr@gmail.com""}",233.0,26
+Python,PyMySQL,2013-09-27,5,1,"#{""songofacandy@gmail.com""}",238.0,26
+Python,PyMySQL,2013-09-28,1,1,"#{""songofacandy@gmail.com""}",239.0,26
+Python,PyMySQL,2013-09-29,15,1,"#{""songofacandy@gmail.com""}",254.0,26
+Python,PyMySQL,2013-09-30,14,2,"#{""songofacandy@gmail.com"" ""marcelgmr@gmail.com""}",268.0,26
+Python,PyMySQL,2013-10-01,11,2,"#{""songofacandy@gmail.com"" ""marcelgmr@gmail.com""}",279.0,26
+Python,PyMySQL,2013-10-02,1,1,"#{""songofacandy@gmail.com""}",280.0,26
+Python,PyMySQL,2013-10-03,11,2,"#{""songofacandy@gmail.com"" ""marcelgmr@gmail.com""}",291.0,26
+Python,PyMySQL,2013-10-04,9,1,"#{""marcelgmr@gmail.com""}",300.0,26
+Python,PyMySQL,2013-10-06,1,1,"#{""jhvankoten@gmail.com""}",301.0,27
+Python,PyMySQL,2013-10-07,2,2,"#{""songofacandy@gmail.com"" ""jhvankoten@gmail.com""}",303.0,27
+Python,PyMySQL,2013-10-08,8,3,"#{""songofacandy@gmail.com"" ""jhvankoten@gmail.com"" ""inada-n@klab.com""}",311.0,27
+Python,PyMySQL,2013-10-09,1,1,"#{""songofacandy@gmail.com""}",312.0,27
+Python,PyMySQL,2013-10-10,1,1,"#{""songofacandy@gmail.com""}",313.0,27
+Python,PyMySQL,2013-10-11,4,1,"#{""marcelgmr@gmail.com""}",317.0,27
+Python,PyMySQL,2013-10-18,1,1,"#{""denis@voxelsoft.com""}",318.0,28
+Python,PyMySQL,2013-10-22,1,1,"#{""marcelgmr@gmail.com""}",319.0,28
+Python,PyMySQL,2013-10-26,1,1,"#{""inada-n@klab.com""}",320.0,28
+Python,PyMySQL,2013-11-03,2,2,"#{""songofacandy@gmail.com"" ""loic.blot@frostsapphirestudios.com""}",322.0,29
+Python,PyMySQL,2013-11-11,3,2,"#{""JCotton1123@gmail.com"" ""jcotton1123@gmail.com""}",325.0,31
+Python,PyMySQL,2013-11-13,6,1,"#{""marcelgmr@gmail.com""}",331.0,31
+Python,PyMySQL,2013-11-21,3,2,"#{""patrick.dunnigan@cloudsidekick.com"" ""marcelgmr@gmail.com""}",334.0,32
+Python,PyMySQL,2013-11-27,1,1,"#{""songofacandy@gmail.com""}",335.0,32
+Python,PyMySQL,2013-11-28,4,1,"#{""inada-n@klab.com""}",339.0,32
+Python,PyMySQL,2013-11-29,1,1,"#{""inada-n@klab.com""}",340.0,32
+Python,PyMySQL,2013-12-08,4,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",344.0,32
+Python,PyMySQL,2013-12-30,2,2,"#{""songofacandy@gmail.com"" ""b@devel.io""}",346.0,33
+Python,PyMySQL,2014-01-16,2,1,"#{""marcelgmr@gmail.com""}",348.0,33
+Python,PyMySQL,2014-01-17,1,1,"#{""exarkun@twistedmatrix.com""}",349.0,34
+Python,PyMySQL,2014-01-19,1,1,"#{""marcelgmr@gmail.com""}",350.0,34
+Python,PyMySQL,2014-02-10,3,2,"#{""clark.kang@kakao.com"" ""marcelgmr@gmail.com""}",353.0,35
+Python,PyMySQL,2014-02-11,1,1,"#{""inada-n@klab.com""}",354.0,35
+Python,PyMySQL,2014-02-12,8,1,"#{""inada-n@klab.com""}",362.0,35
+Python,PyMySQL,2014-03-10,2,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",364.0,35
+Python,PyMySQL,2014-03-18,2,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",366.0,35
+Python,PyMySQL,2014-03-21,1,1,"#{""songofacandy@gmail.com""}",367.0,35
+Python,PyMySQL,2014-03-23,10,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",377.0,35
+Python,PyMySQL,2014-03-27,3,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",380.0,35
+Python,PyMySQL,2014-04-06,1,1,"#{""cmawebsite@gmail.com""}",381.0,36
+Python,PyMySQL,2014-04-09,1,1,"#{""songofacandy@gmail.com""}",382.0,36
+Python,PyMySQL,2014-04-21,2,1,"#{""marcelgmr@gmail.com""}",384.0,36
+Python,PyMySQL,2014-06-06,7,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",391.0,36
+Python,PyMySQL,2014-07-21,2,2,"#{""methane@users.noreply.github.com"" ""infinity89@gmail.com""}",393.0,38
+Python,PyMySQL,2014-07-29,1,1,"#{""emosbaugh@gmail.com""}",394.0,39
+Python,PyMySQL,2014-07-31,1,1,"#{""methane@users.noreply.github.com""}",395.0,39
+Python,PyMySQL,2014-08-05,2,1,"#{""darioush@yelp.com""}",397.0,40
+Python,PyMySQL,2014-08-06,1,1,"#{""methane@users.noreply.github.com""}",398.0,40
+Python,PyMySQL,2014-08-23,2,2,"#{""methane@users.noreply.github.com"" ""inada-n@klab.com""}",400.0,40
+Python,PyMySQL,2014-08-25,18,2,"#{""songofacandy@gmail.com"" ""inada-n@klab.com""}",418.0,40
+Python,PyMySQL,2014-08-26,4,1,"#{""inada-n@klab.com""}",422.0,40
+Python,PyMySQL,2014-08-29,4,3,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com"" ""superbaloo+registrations.github@superbaloo.net""}",426.0,41
+Python,PyMySQL,2014-09-01,1,1,"#{""songofacandy@gmail.com""}",427.0,41
+Python,PyMySQL,2014-09-17,1,1,"#{""jakesyl@gmail.com""}",428.0,42
+Python,PyMySQL,2014-09-18,1,1,"#{""methane@users.noreply.github.com""}",429.0,42
+Python,PyMySQL,2014-11-06,2,1,"#{""mathieu_longtin@nuance.com""}",431.0,43
+Python,PyMySQL,2014-11-07,1,1,"#{""methane@users.noreply.github.com""}",432.0,43
+Python,PyMySQL,2014-12-02,2,1,"#{""marcelgmr@gmail.com""}",434.0,43
+Python,PyMySQL,2014-12-05,1,1,"#{""valcapri@me.com""}",435.0,44
+Python,PyMySQL,2014-12-06,1,1,"#{""methane@users.noreply.github.com""}",436.0,44
+Python,PyMySQL,2014-12-07,2,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",438.0,44
+Python,PyMySQL,2014-12-18,1,1,"#{""methane@users.noreply.github.com""}",439.0,44
+Python,PyMySQL,2014-12-25,2,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",441.0,44
+Python,PyMySQL,2015-01-06,6,1,"#{""swrazien@shoprunner.com""}",447.0,45
+Python,PyMySQL,2015-01-07,7,1,"#{""swrazien@shoprunner.com""}",454.0,45
+Python,PyMySQL,2015-01-08,1,1,"#{""swrazien@shoprunner.com""}",455.0,45
+Python,PyMySQL,2015-01-13,6,1,"#{""swrazien@shoprunner.com""}",461.0,45
+Python,PyMySQL,2015-01-14,6,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",467.0,45
+Python,PyMySQL,2015-01-16,4,2,"#{""methane@users.noreply.github.com"" ""is.infinity@yahoo.com""}",471.0,46
+Python,PyMySQL,2015-01-24,2,1,"#{""songofacandy@gmail.com""}",473.0,46
+Python,PyMySQL,2015-01-27,1,1,"#{""mike_mp@zzzcomputing.com""}",474.0,47
+Python,PyMySQL,2015-02-01,8,3,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com"" ""mike_mp@zzzcomputing.com""}",482.0,47
+Python,PyMySQL,2015-02-02,9,4,"#{""mathieu.longtin@nuance.com"" ""yorik.sar@gmail.com"" ""methane@users.noreply.github.com"" ""mike_mp@zzzcomputing.com""}",491.0,49
+Python,PyMySQL,2015-02-03,9,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",500.0,49
+Python,PyMySQL,2015-02-04,2,1,"#{""songofacandy@gmail.com""}",502.0,49
+Python,PyMySQL,2015-02-05,2,1,"#{""songofacandy@gmail.com""}",504.0,49
+Python,PyMySQL,2015-02-10,1,1,"#{""songofacandy@gmail.com""}",505.0,49
+Python,PyMySQL,2015-02-11,1,1,"#{""songofacandy@gmail.com""}",506.0,49
+Python,PyMySQL,2015-04-14,6,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",512.0,49
+Python,PyMySQL,2015-04-17,2,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",514.0,49
+Python,PyMySQL,2015-05-26,1,1,"#{""songofacandy@gmail.com""}",515.0,49
+Python,PyMySQL,2015-07-29,2,1,"#{""oskcloud@gmail.com""}",517.0,50
+Python,PyMySQL,2015-08-23,1,1,"#{""methane@users.noreply.github.com""}",518.0,50
+Python,PyMySQL,2015-09-08,1,1,"#{""songofacandy@gmail.com""}",519.0,50
+Python,PyMySQL,2015-09-23,1,1,"#{""me@mosquito.su""}",520.0,51
+Python,PyMySQL,2015-09-24,1,1,"#{""methane@users.noreply.github.com""}",521.0,51
+Python,PyMySQL,2015-10-28,3,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",524.0,51
+Python,PyMySQL,2015-11-06,2,2,"#{""methane@users.noreply.github.com"" ""yuanta11@gmail.com""}",526.0,52
+Python,PyMySQL,2016-05-06,4,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",530.0,52
+Python,PyMySQL,2017-02-10,2,1,"#{""songofacandy@gmail.com""}",532.0,52
+Python,PyMySQL,2018-03-13,7,2,"#{""songofacandy@gmail.com"" ""methane@users.noreply.github.com""}",539.0,52

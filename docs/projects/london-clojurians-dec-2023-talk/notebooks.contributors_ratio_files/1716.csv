@@ -1,0 +1,31 @@
+language,html_url,date,n-commits,n-committers,committers,all-commits,by-frequent,rank-other,rank-0,rank-1,rank-2,rank-3,rank-4
+Clojure,https://github.com/ClojureTO/JS-Workshop,2017-06-29,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",1.0,[{0 1}],0,1,0,0,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2017-07-10,2,2,"#tech.v3.dataset.column<string>[2]
+:email
+[dmitri.sotnikov@gmail.com, gh@mrmuster.com]",3.0,"[{0 2, 2 1}]",0,2,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2017-07-15,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",4.0,"[{0 3, 2 1}]",0,3,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2017-07-19,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",5.0,"[{0 4, 2 1}]",0,4,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2017-07-28,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",6.0,"[{0 5, 2 1}]",0,5,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2017-07-31,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",7.0,"[{0 6, 2 1}]",0,6,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2019-04-17,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",8.0,"[{0 7, 2 1}]",0,7,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2019-07-12,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",9.0,"[{0 8, 2 1}]",0,8,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2021-08-11,1,1,"#tech.v3.dataset.column<string>[1]
+:email
+[dmitri.sotnikov@gmail.com]",10.0,"[{0 9, 2 1}]",0,9,0,1,0,0
+Clojure,https://github.com/ClojureTO/JS-Workshop,2022-09-08,3,2,"#tech.v3.dataset.column<string>[3]
+:email
+[dmitri.sotnikov@gmail.com, drekmaro@gmail.com, drekmaro@gmail.com]",13.0,"[{0 10, 2 1, 1 2}]",0,10,2,1,0,0

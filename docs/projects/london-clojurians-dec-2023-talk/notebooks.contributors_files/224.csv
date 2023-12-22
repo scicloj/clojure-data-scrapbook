@@ -1,0 +1,124 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Clojure,clojure-grimoire,2014-06-30,8,2,"#{""cesar.bolanosportilla@gmail.com"" ""me@arrdem.com""}",8.0,2
+Clojure,clojure-grimoire,2014-07-01,41,1,"#{""me@arrdem.com""}",49.0,2
+Clojure,clojure-grimoire,2014-07-02,2,1,"#{""ryan@rkn.io""}",51.0,3
+Clojure,clojure-grimoire,2014-07-03,9,1,"#{""me@arrdem.com""}",60.0,3
+Clojure,clojure-grimoire,2014-07-07,19,1,"#{""me@arrdem.com""}",79.0,3
+Clojure,clojure-grimoire,2014-07-08,7,1,"#{""me@arrdem.com""}",86.0,3
+Clojure,clojure-grimoire,2014-07-09,13,2,"#{""me@arrdem.com"" ""timgilbert@gmail.com""}",99.0,4
+Clojure,clojure-grimoire,2014-07-10,3,1,"#{""me@arrdem.com""}",102.0,4
+Clojure,clojure-grimoire,2014-07-11,24,1,"#{""me@arrdem.com""}",126.0,4
+Clojure,clojure-grimoire,2014-07-12,26,3,"#{""me@arrdem.com"" ""BertrandDechoux@users.noreply.github.com"" ""gabriel.horner@gmail.com""}",152.0,6
+Clojure,clojure-grimoire,2014-07-13,29,3,"#{""me@arrdem.com"" ""colin@logaan.net"" ""simone@mweb.biz""}",181.0,8
+Clojure,clojure-grimoire,2014-07-15,6,2,"#{""brandon@brandonbloom.name"" ""me@arrdem.com""}",187.0,9
+Clojure,clojure-grimoire,2014-07-20,6,1,"#{""me@arrdem.com""}",193.0,9
+Clojure,clojure-grimoire,2014-07-24,13,1,"#{""me@arrdem.com""}",206.0,9
+Clojure,clojure-grimoire,2014-07-29,15,2,"#{""me@arrdem.com"" ""robert@cognician.com""}",221.0,10
+Clojure,clojure-grimoire,2014-07-30,19,2,"#{""me@arrdem.com"" ""robert@cognician.com""}",240.0,10
+Clojure,clojure-grimoire,2014-07-31,18,2,"#{""me@arrdem.com"" ""robert@cognician.com""}",258.0,10
+Clojure,clojure-grimoire,2014-08-01,41,2,"#{""me@arrdem.com"" ""robert@cognician.com""}",299.0,10
+Clojure,clojure-grimoire,2014-08-02,37,2,"#{""glenjamin@gmail.com"" ""me@arrdem.com""}",336.0,11
+Clojure,clojure-grimoire,2014-08-04,2,2,"#{""me@arrdem.com"" ""brunokim.mc@gmail.com""}",338.0,12
+Clojure,clojure-grimoire,2014-08-06,5,1,"#{""me@arrdem.com""}",343.0,12
+Clojure,clojure-grimoire,2014-08-08,19,1,"#{""me@arrdem.com""}",362.0,12
+Clojure,clojure-grimoire,2014-08-09,4,2,"#{""me@arrdem.com"" ""hugo@hugoduncan.org""}",366.0,13
+Clojure,clojure-grimoire,2014-08-13,2,1,"#{""steveminer@gmail.com""}",368.0,14
+Clojure,clojure-grimoire,2014-08-14,6,1,"#{""me@arrdem.com""}",374.0,14
+Clojure,clojure-grimoire,2014-08-28,2,1,"#{""me@arrdem.com""}",376.0,14
+Clojure,clojure-grimoire,2014-09-07,41,4,"#{""sford@geeky-boy.com"" ""me@arrdem.com"" ""leif.poorman@gmail.com"" ""git@arrdem.com""}",417.0,17
+Clojure,clojure-grimoire,2014-09-11,8,3,"#{""me@arrdem.com"" ""christian.egli@sbs.ch"" ""andy.dwelly@theassetworks.com""}",425.0,19
+Clojure,clojure-grimoire,2014-09-13,3,2,"#{""me@arrdem.com"" ""dpathakjee@gmail.com""}",428.0,20
+Clojure,clojure-grimoire,2014-09-15,1,1,"#{""me@arrdem.com""}",429.0,20
+Clojure,clojure-grimoire,2014-10-03,12,1,"#{""me@arrdem.com""}",441.0,20
+Clojure,clojure-grimoire,2014-10-07,1,1,"#{""me@arrdem.com""}",442.0,20
+Clojure,clojure-grimoire,2014-10-09,22,1,"#{""me@arrdem.com""}",464.0,20
+Clojure,clojure-grimoire,2014-10-11,4,1,"#{""me@arrdem.com""}",468.0,20
+Clojure,clojure-grimoire,2014-10-16,6,1,"#{""me@arrdem.com""}",474.0,20
+Clojure,clojure-grimoire,2014-10-17,15,1,"#{""me@arrdem.com""}",489.0,20
+Clojure,clojure-grimoire,2014-10-18,13,1,"#{""me@arrdem.com""}",502.0,20
+Clojure,clojure-grimoire,2014-11-03,10,1,"#{""me@arrdem.com""}",512.0,20
+Clojure,clojure-grimoire,2014-11-11,2,2,"#{""Chastie@users.noreply.github.com"" ""me@arrdem.com""}",514.0,21
+Clojure,clojure-grimoire,2014-11-17,6,1,"#{""me@arrdem.com""}",520.0,21
+Clojure,clojure-grimoire,2014-11-18,25,1,"#{""me@arrdem.com""}",545.0,21
+Clojure,clojure-grimoire,2014-11-21,2,1,"#{""me@arrdem.com""}",547.0,21
+Clojure,clojure-grimoire,2014-11-23,9,1,"#{""me@arrdem.com""}",556.0,21
+Clojure,clojure-grimoire,2014-11-26,7,1,"#{""me@arrdem.com""}",563.0,21
+Clojure,clojure-grimoire,2014-12-04,1,1,"#{""me@arrdem.com""}",564.0,21
+Clojure,clojure-grimoire,2014-12-05,2,1,"#{""me@arrdem.com""}",566.0,21
+Clojure,clojure-grimoire,2014-12-18,6,1,"#{""me@arrdem.com""}",572.0,21
+Clojure,clojure-grimoire,2014-12-19,69,1,"#{""me@arrdem.com""}",641.0,21
+Clojure,clojure-grimoire,2014-12-20,41,1,"#{""me@arrdem.com""}",682.0,21
+Clojure,clojure-grimoire,2014-12-21,22,1,"#{""me@arrdem.com""}",704.0,21
+Clojure,clojure-grimoire,2014-12-22,17,1,"#{""me@arrdem.com""}",721.0,21
+Clojure,clojure-grimoire,2014-12-23,6,1,"#{""me@arrdem.com""}",727.0,21
+Clojure,clojure-grimoire,2014-12-26,1,1,"#{""me@arrdem.com""}",728.0,21
+Clojure,clojure-grimoire,2014-12-27,9,1,"#{""me@arrdem.com""}",737.0,21
+Clojure,clojure-grimoire,2015-01-03,7,2,"#{""me@arrdem.com"" ""r.alex.stokes@gmail.com""}",744.0,22
+Clojure,clojure-grimoire,2015-01-10,1,1,"#{""me@arrdem.com""}",745.0,22
+Clojure,clojure-grimoire,2015-01-11,3,1,"#{""me@arrdem.com""}",748.0,22
+Clojure,clojure-grimoire,2015-01-13,30,1,"#{""me@arrdem.com""}",778.0,22
+Clojure,clojure-grimoire,2015-01-14,4,2,"#{""dziltener@lyrion.ch"" ""me@arrdem.com""}",782.0,23
+Clojure,clojure-grimoire,2015-01-15,2,2,"#{""dziltener@lyrion.ch"" ""me@arrdem.com""}",784.0,23
+Clojure,clojure-grimoire,2015-02-15,2,1,"#{""me@arrdem.com""}",786.0,23
+Clojure,clojure-grimoire,2015-02-16,5,1,"#{""me@arrdem.com""}",791.0,23
+Clojure,clojure-grimoire,2015-02-17,1,1,"#{""me@arrdem.com""}",792.0,23
+Clojure,clojure-grimoire,2015-02-24,2,1,"#{""me@arrdem.com""}",794.0,23
+Clojure,clojure-grimoire,2015-03-03,5,1,"#{""me@arrdem.com""}",799.0,23
+Clojure,clojure-grimoire,2015-03-12,3,1,"#{""me@arrdem.com""}",802.0,23
+Clojure,clojure-grimoire,2015-03-13,2,1,"#{""me@arrdem.com""}",804.0,23
+Clojure,clojure-grimoire,2015-03-14,4,1,"#{""me@arrdem.com""}",808.0,23
+Clojure,clojure-grimoire,2015-03-16,7,1,"#{""me@arrdem.com""}",815.0,23
+Clojure,clojure-grimoire,2015-03-17,17,1,"#{""me@arrdem.com""}",832.0,23
+Clojure,clojure-grimoire,2015-03-19,13,1,"#{""me@arrdem.com""}",845.0,23
+Clojure,clojure-grimoire,2015-03-20,2,1,"#{""me@arrdem.com""}",847.0,23
+Clojure,clojure-grimoire,2015-03-30,29,1,"#{""me@arrdem.com""}",876.0,23
+Clojure,clojure-grimoire,2015-04-01,10,1,"#{""me@arrdem.com""}",886.0,23
+Clojure,clojure-grimoire,2015-04-05,1,1,"#{""me@arrdem.com""}",887.0,23
+Clojure,clojure-grimoire,2015-04-06,1,1,"#{""me@arrdem.com""}",888.0,23
+Clojure,clojure-grimoire,2015-04-25,3,1,"#{""me@arrdem.com""}",891.0,23
+Clojure,clojure-grimoire,2015-04-26,32,1,"#{""me@arrdem.com""}",923.0,23
+Clojure,clojure-grimoire,2015-04-30,5,1,"#{""me@arrdem.com""}",928.0,23
+Clojure,clojure-grimoire,2015-05-01,9,1,"#{""me@arrdem.com""}",937.0,23
+Clojure,clojure-grimoire,2015-05-02,3,1,"#{""me@arrdem.com""}",940.0,23
+Clojure,clojure-grimoire,2015-05-27,2,1,"#{""reid@factual.com""}",942.0,24
+Clojure,clojure-grimoire,2015-06-15,12,2,"#{""me@arrdem.com"" ""reid@factual.com""}",954.0,24
+Clojure,clojure-grimoire,2015-06-17,11,2,"#{""me@arrdem.com"" ""reid@factual.com""}",965.0,24
+Clojure,clojure-grimoire,2015-06-24,11,1,"#{""me@arrdem.com""}",976.0,24
+Clojure,clojure-grimoire,2015-07-09,5,1,"#{""me@arrdem.com""}",981.0,24
+Clojure,clojure-grimoire,2015-07-13,1,1,"#{""me@arrdem.com""}",982.0,24
+Clojure,clojure-grimoire,2015-07-14,1,1,"#{""me@arrdem.com""}",983.0,24
+Clojure,clojure-grimoire,2015-07-30,7,1,"#{""me@arrdem.com""}",990.0,24
+Clojure,clojure-grimoire,2015-09-18,1,1,"#{""me@arrdem.com""}",991.0,24
+Clojure,clojure-grimoire,2015-09-19,14,1,"#{""me@arrdem.com""}",1005.0,24
+Clojure,clojure-grimoire,2015-09-20,1,1,"#{""me@arrdem.com""}",1006.0,24
+Clojure,clojure-grimoire,2015-09-25,11,1,"#{""me@arrdem.com""}",1017.0,24
+Clojure,clojure-grimoire,2015-09-27,23,1,"#{""me@arrdem.com""}",1040.0,24
+Clojure,clojure-grimoire,2015-09-28,1,1,"#{""me@arrdem.com""}",1041.0,24
+Clojure,clojure-grimoire,2015-10-03,3,1,"#{""me@arrdem.com""}",1044.0,24
+Clojure,clojure-grimoire,2015-10-04,5,1,"#{""me@arrdem.com""}",1049.0,24
+Clojure,clojure-grimoire,2015-10-06,1,1,"#{""me@arrdem.com""}",1050.0,24
+Clojure,clojure-grimoire,2015-10-15,2,1,"#{""me@arrdem.com""}",1052.0,24
+Clojure,clojure-grimoire,2015-11-12,15,1,"#{""me@arrdem.com""}",1067.0,24
+Clojure,clojure-grimoire,2015-11-15,1,1,"#{""me@arrdem.com""}",1068.0,24
+Clojure,clojure-grimoire,2016-01-14,4,1,"#{""me@arrdem.com""}",1072.0,24
+Clojure,clojure-grimoire,2016-02-23,2,1,"#{""me@arrdem.com""}",1074.0,24
+Clojure,clojure-grimoire,2016-02-27,3,1,"#{""me@arrdem.com""}",1077.0,24
+Clojure,clojure-grimoire,2016-02-28,32,1,"#{""me@arrdem.com""}",1109.0,24
+Clojure,clojure-grimoire,2016-03-05,19,1,"#{""me@arrdem.com""}",1128.0,24
+Clojure,clojure-grimoire,2016-03-06,24,1,"#{""me@arrdem.com""}",1152.0,24
+Clojure,clojure-grimoire,2016-05-09,1,1,"#{""me@arrdem.com""}",1153.0,24
+Clojure,clojure-grimoire,2016-06-18,2,2,"#{""me@arrdem.com"" ""rm_hull@yahoo.co.uk""}",1155.0,25
+Clojure,clojure-grimoire,2016-11-21,2,1,"#{""me@arrdem.com""}",1157.0,25
+Clojure,clojure-grimoire,2016-12-04,3,1,"#{""me@arrdem.com""}",1160.0,25
+Clojure,clojure-grimoire,2016-12-06,10,1,"#{""me@arrdem.com""}",1170.0,25
+Clojure,clojure-grimoire,2016-12-07,4,1,"#{""me@arrdem.com""}",1174.0,25
+Clojure,clojure-grimoire,2016-12-08,1,1,"#{""me@arrdem.com""}",1175.0,25
+Clojure,clojure-grimoire,2016-12-11,6,1,"#{""me@arrdem.com""}",1181.0,25
+Clojure,clojure-grimoire,2017-05-09,2,1,"#{""me@arrdem.com""}",1183.0,25
+Clojure,clojure-grimoire,2017-05-28,12,1,"#{""me@arrdem.com""}",1195.0,25
+Clojure,clojure-grimoire,2017-05-29,1,1,"#{""me@arrdem.com""}",1196.0,25
+Clojure,clojure-grimoire,2017-06-15,12,1,"#{""me@arrdem.com""}",1208.0,25
+Clojure,clojure-grimoire,2017-12-13,6,1,"#{""me@arrdem.com""}",1214.0,25
+Clojure,clojure-grimoire,2017-12-14,8,1,"#{""me@arrdem.com""}",1222.0,25
+Clojure,clojure-grimoire,2018-11-19,1,1,"#{""me@arrdem.com""}",1223.0,25
+Clojure,clojure-grimoire,2018-11-20,1,1,"#{""liquidz.uo@gmail.com""}",1224.0,26

@@ -1,0 +1,571 @@
+language,owner,date,n-commits,n-emails,emails,acc-n-commits,acc-n-emails
+Python,tern-tools,2017-06-29,1,1,"#{""nishak@vmware.com""}",1.0,1
+Python,tern-tools,2017-07-10,1,1,"#{""nishak@vmware.com""}",2.0,1
+Python,tern-tools,2017-07-17,1,1,"#{""nishak@vmware.com""}",3.0,1
+Python,tern-tools,2017-07-19,2,1,"#{""nishak@vmware.com""}",5.0,1
+Python,tern-tools,2017-07-21,3,1,"#{""nishak@vmware.com""}",8.0,1
+Python,tern-tools,2017-07-25,1,1,"#{""nishak@vmware.com""}",9.0,1
+Python,tern-tools,2017-07-28,1,1,"#{""nishak@vmware.com""}",10.0,1
+Python,tern-tools,2017-08-01,1,1,"#{""nishak@vmware.com""}",11.0,1
+Python,tern-tools,2017-08-04,2,1,"#{""nishak@vmware.com""}",13.0,1
+Python,tern-tools,2017-08-07,1,1,"#{""nishak@vmware.com""}",14.0,1
+Python,tern-tools,2017-08-08,1,1,"#{""nishak@vmware.com""}",15.0,1
+Python,tern-tools,2017-08-09,1,1,"#{""nishak@vmware.com""}",16.0,1
+Python,tern-tools,2017-08-10,1,1,"#{""nishak@vmware.com""}",17.0,1
+Python,tern-tools,2017-08-11,1,1,"#{""nishak@vmware.com""}",18.0,1
+Python,tern-tools,2017-08-14,2,1,"#{""nishak@vmware.com""}",20.0,1
+Python,tern-tools,2017-08-21,4,1,"#{""nishak@vmware.com""}",24.0,1
+Python,tern-tools,2017-08-22,1,1,"#{""nishak@vmware.com""}",25.0,1
+Python,tern-tools,2017-08-23,2,1,"#{""nishak@vmware.com""}",27.0,1
+Python,tern-tools,2017-08-24,1,1,"#{""nishak@vmware.com""}",28.0,1
+Python,tern-tools,2017-08-28,2,1,"#{""nishak@vmware.com""}",30.0,1
+Python,tern-tools,2017-08-31,1,1,"#{""nishak@vmware.com""}",31.0,1
+Python,tern-tools,2017-09-01,2,1,"#{""nishak@vmware.com""}",33.0,1
+Python,tern-tools,2017-09-05,1,1,"#{""nishak@vmware.com""}",34.0,1
+Python,tern-tools,2017-09-07,2,1,"#{""nishak@vmware.com""}",36.0,1
+Python,tern-tools,2017-09-18,2,1,"#{""nishak@vmware.com""}",38.0,1
+Python,tern-tools,2017-09-19,2,1,"#{""nishak@vmware.com""}",40.0,1
+Python,tern-tools,2017-09-22,3,1,"#{""nishak@vmware.com""}",43.0,1
+Python,tern-tools,2017-09-25,2,1,"#{""nishak@vmware.com""}",45.0,1
+Python,tern-tools,2017-09-26,1,1,"#{""nishak@vmware.com""}",46.0,1
+Python,tern-tools,2017-09-29,3,1,"#{""nishak@vmware.com""}",49.0,1
+Python,tern-tools,2017-10-03,1,1,"#{""nishak@vmware.com""}",50.0,1
+Python,tern-tools,2017-10-04,1,1,"#{""nishak@vmware.com""}",51.0,1
+Python,tern-tools,2017-10-05,1,1,"#{""nishak@vmware.com""}",52.0,1
+Python,tern-tools,2017-10-06,1,1,"#{""nishak@vmware.com""}",53.0,1
+Python,tern-tools,2017-10-10,1,1,"#{""nishak@vmware.com""}",54.0,1
+Python,tern-tools,2017-10-13,1,1,"#{""nishak@vmware.com""}",55.0,1
+Python,tern-tools,2017-10-17,1,1,"#{""nishak@vmware.com""}",56.0,1
+Python,tern-tools,2017-10-18,1,1,"#{""nishak@vmware.com""}",57.0,1
+Python,tern-tools,2017-10-19,5,1,"#{""nishak@vmware.com""}",62.0,1
+Python,tern-tools,2017-10-20,2,1,"#{""nishak@vmware.com""}",64.0,1
+Python,tern-tools,2017-10-23,1,1,"#{""nishak@vmware.com""}",65.0,1
+Python,tern-tools,2017-10-24,1,1,"#{""nishak@vmware.com""}",66.0,1
+Python,tern-tools,2017-10-27,1,1,"#{""nishak@vmware.com""}",67.0,1
+Python,tern-tools,2017-11-07,2,1,"#{""nishak@vmware.com""}",69.0,1
+Python,tern-tools,2017-11-08,3,1,"#{""nishak@vmware.com""}",72.0,1
+Python,tern-tools,2017-11-09,3,1,"#{""nishak@vmware.com""}",75.0,1
+Python,tern-tools,2017-11-27,4,1,"#{""nishak@vmware.com""}",79.0,1
+Python,tern-tools,2017-11-29,1,1,"#{""nishak@vmware.com""}",80.0,1
+Python,tern-tools,2017-11-30,4,1,"#{""nishak@vmware.com""}",84.0,1
+Python,tern-tools,2017-12-01,1,1,"#{""nishak@vmware.com""}",85.0,1
+Python,tern-tools,2017-12-04,1,1,"#{""nishak@vmware.com""}",86.0,1
+Python,tern-tools,2017-12-07,1,1,"#{""nishak@vmware.com""}",87.0,1
+Python,tern-tools,2017-12-11,2,2,"#{""nishak@vmware.com"" ""dvhart@infradead.org""}",89.0,2
+Python,tern-tools,2017-12-12,2,2,"#{""nishak@vmware.com"" ""philip.balinov@gmail.com""}",91.0,3
+Python,tern-tools,2017-12-14,2,2,"#{""nishak@vmware.com"" ""lbritton@vmware.com""}",93.0,4
+Python,tern-tools,2017-12-15,1,1,"#{""nishak@vmware.com""}",94.0,4
+Python,tern-tools,2017-12-18,1,1,"#{""nishak@vmware.com""}",95.0,4
+Python,tern-tools,2017-12-19,2,1,"#{""nishak@vmware.com""}",97.0,4
+Python,tern-tools,2017-12-20,1,1,"#{""nishak@vmware.com""}",98.0,4
+Python,tern-tools,2018-01-03,1,1,"#{""nishak@vmware.com""}",99.0,4
+Python,tern-tools,2018-01-12,2,1,"#{""nishak@vmware.com""}",101.0,4
+Python,tern-tools,2018-01-15,2,1,"#{""nishak@vmware.com""}",103.0,4
+Python,tern-tools,2018-01-16,1,1,"#{""nishak@vmware.com""}",104.0,4
+Python,tern-tools,2018-02-07,1,1,"#{""nishak@vmware.com""}",105.0,4
+Python,tern-tools,2018-02-10,1,1,"#{""nishak@vmware.com""}",106.0,4
+Python,tern-tools,2018-02-12,2,1,"#{""nishak@vmware.com""}",108.0,4
+Python,tern-tools,2018-02-13,1,1,"#{""nishak@vmware.com""}",109.0,4
+Python,tern-tools,2018-02-14,3,2,"#{""nishak@vmware.com"" ""john@sodarock.com""}",112.0,5
+Python,tern-tools,2018-02-28,2,2,"#{""nishak@vmware.com"" ""aankur@vmware.com""}",114.0,6
+Python,tern-tools,2018-03-05,1,1,"#{""nishak@vmware.com""}",115.0,6
+Python,tern-tools,2018-03-06,1,1,"#{""nishak@vmware.com""}",116.0,6
+Python,tern-tools,2018-03-13,5,1,"#{""nishak@vmware.com""}",121.0,6
+Python,tern-tools,2018-03-14,1,1,"#{""nishak@vmware.com""}",122.0,6
+Python,tern-tools,2018-03-15,1,1,"#{""nishak@vmware.com""}",123.0,6
+Python,tern-tools,2018-03-16,1,1,"#{""nishak@vmware.com""}",124.0,6
+Python,tern-tools,2018-03-19,2,1,"#{""nishak@vmware.com""}",126.0,6
+Python,tern-tools,2018-03-20,2,1,"#{""nishak@vmware.com""}",128.0,6
+Python,tern-tools,2018-03-21,1,1,"#{""nishak@vmware.com""}",129.0,6
+Python,tern-tools,2018-03-23,1,1,"#{""nishak@vmware.com""}",130.0,6
+Python,tern-tools,2018-03-26,1,1,"#{""steve.taylor@openmakesoftware.com""}",131.0,7
+Python,tern-tools,2018-04-02,2,1,"#{""nishak@vmware.com""}",133.0,7
+Python,tern-tools,2018-04-04,1,1,"#{""nishak@vmware.com""}",134.0,7
+Python,tern-tools,2018-04-05,5,1,"#{""nishak@vmware.com""}",139.0,7
+Python,tern-tools,2018-04-06,4,1,"#{""nishak@vmware.com""}",143.0,7
+Python,tern-tools,2018-04-09,5,1,"#{""nishak@vmware.com""}",148.0,7
+Python,tern-tools,2018-04-10,3,1,"#{""nishak@vmware.com""}",151.0,7
+Python,tern-tools,2018-04-11,3,1,"#{""nishak@vmware.com""}",154.0,7
+Python,tern-tools,2018-04-17,2,1,"#{""nishak@vmware.com""}",156.0,7
+Python,tern-tools,2018-04-18,1,1,"#{""nishak@vmware.com""}",157.0,7
+Python,tern-tools,2018-04-19,1,1,"#{""nishak@vmware.com""}",158.0,7
+Python,tern-tools,2018-04-20,5,1,"#{""nishak@vmware.com""}",163.0,7
+Python,tern-tools,2018-04-30,1,1,"#{""vlad.nalimov@gmail.com""}",164.0,8
+Python,tern-tools,2018-05-01,1,1,"#{""nishak@vmware.com""}",165.0,8
+Python,tern-tools,2018-05-02,1,1,"#{""nishak@vmware.com""}",166.0,8
+Python,tern-tools,2018-05-07,1,1,"#{""nishak@vmware.com""}",167.0,8
+Python,tern-tools,2018-05-08,5,1,"#{""nishak@vmware.com""}",172.0,8
+Python,tern-tools,2018-05-09,1,1,"#{""nishak@vmware.com""}",173.0,8
+Python,tern-tools,2018-05-11,4,2,"#{""nishak@vmware.com"" ""raman.balyan@gmail.com""}",177.0,9
+Python,tern-tools,2018-05-14,6,2,"#{""nishak@vmware.com"" ""kdestasio@gmail.com""}",183.0,10
+Python,tern-tools,2018-05-15,4,3,"#{""nishak@vmware.com"" ""mitch.raful@gmail.com"" ""kdestasio@gmail.com""}",187.0,11
+Python,tern-tools,2018-05-18,1,1,"#{""nishak@vmware.com""}",188.0,11
+Python,tern-tools,2018-05-23,1,1,"#{""nishak@vmware.com""}",189.0,11
+Python,tern-tools,2018-05-24,2,1,"#{""nishak@vmware.com""}",191.0,11
+Python,tern-tools,2018-05-28,1,1,"#{""tomej2000@gmail.com""}",192.0,12
+Python,tern-tools,2018-05-29,1,1,"#{""nishak@vmware.com""}",193.0,12
+Python,tern-tools,2018-06-07,5,1,"#{""nishak@vmware.com""}",198.0,12
+Python,tern-tools,2018-06-19,6,1,"#{""nishak@vmware.com""}",204.0,12
+Python,tern-tools,2018-06-20,2,1,"#{""nishak@vmware.com""}",206.0,12
+Python,tern-tools,2018-06-21,1,1,"#{""nishak@vmware.com""}",207.0,12
+Python,tern-tools,2018-06-27,1,1,"#{""nishak@vmware.com""}",208.0,12
+Python,tern-tools,2018-06-28,1,1,"#{""nishak@vmware.com""}",209.0,12
+Python,tern-tools,2018-07-02,3,1,"#{""nishak@vmware.com""}",212.0,12
+Python,tern-tools,2018-07-03,1,1,"#{""nishak@vmware.com""}",213.0,12
+Python,tern-tools,2018-07-09,1,1,"#{""nishak@vmware.com""}",214.0,12
+Python,tern-tools,2018-07-11,2,1,"#{""nishak@vmware.com""}",216.0,12
+Python,tern-tools,2018-07-12,1,1,"#{""nishak@vmware.com""}",217.0,12
+Python,tern-tools,2018-07-13,2,1,"#{""nishak@vmware.com""}",219.0,12
+Python,tern-tools,2018-07-16,2,1,"#{""nishak@vmware.com""}",221.0,12
+Python,tern-tools,2018-07-17,1,1,"#{""nishak@vmware.com""}",222.0,12
+Python,tern-tools,2018-07-18,2,1,"#{""nishak@vmware.com""}",224.0,12
+Python,tern-tools,2018-07-19,1,1,"#{""nishak@vmware.com""}",225.0,12
+Python,tern-tools,2018-07-20,1,1,"#{""nishak@vmware.com""}",226.0,12
+Python,tern-tools,2018-07-24,1,1,"#{""nishak@vmware.com""}",227.0,12
+Python,tern-tools,2018-08-10,1,1,"#{""nishak@vmware.com""}",228.0,12
+Python,tern-tools,2018-08-12,1,1,"#{""jmille40@gmu.edu""}",229.0,13
+Python,tern-tools,2018-08-13,1,1,"#{""nishak@vmware.com""}",230.0,13
+Python,tern-tools,2018-08-19,1,1,"#{""jmille40@gmu.edu""}",231.0,13
+Python,tern-tools,2018-08-20,1,1,"#{""nishak@vmware.com""}",232.0,13
+Python,tern-tools,2018-08-25,1,1,"#{""nishak@vmware.com""}",233.0,13
+Python,tern-tools,2018-08-29,1,1,"#{""nishak@vmware.com""}",234.0,13
+Python,tern-tools,2018-08-31,1,1,"#{""nishak@vmware.com""}",235.0,13
+Python,tern-tools,2018-09-10,2,1,"#{""nishak@vmware.com""}",237.0,13
+Python,tern-tools,2018-09-11,2,1,"#{""nishak@vmware.com""}",239.0,13
+Python,tern-tools,2018-09-13,1,1,"#{""nishak@vmware.com""}",240.0,13
+Python,tern-tools,2018-09-18,2,1,"#{""nishak@vmware.com""}",242.0,13
+Python,tern-tools,2018-09-19,3,1,"#{""nishak@vmware.com""}",245.0,13
+Python,tern-tools,2018-09-20,2,1,"#{""nishak@vmware.com""}",247.0,13
+Python,tern-tools,2018-09-25,1,1,"#{""jmille40@gmu.edu""}",248.0,13
+Python,tern-tools,2018-09-27,1,1,"#{""nishak@vmware.com""}",249.0,13
+Python,tern-tools,2018-10-01,5,5,"#{""nishak@vmware.com"" ""Abhigupta4981@gmail.com"" ""markcwoodworth@gmail.com"" ""kvonderw@uci.edu"" ""jackey8616@gmail.com""}",254.0,17
+Python,tern-tools,2018-10-02,1,1,"#{""Abhigupta4981@gmail.com""}",255.0,17
+Python,tern-tools,2018-10-03,9,1,"#{""nishak@vmware.com""}",264.0,17
+Python,tern-tools,2018-10-08,1,1,"#{""mptapasw@ncsu.edu""}",265.0,18
+Python,tern-tools,2018-10-09,1,1,"#{""ericjcheatham@gmail.com""}",266.0,19
+Python,tern-tools,2018-10-10,1,1,"#{""ericjcheatham@gmail.com""}",267.0,19
+Python,tern-tools,2018-10-21,1,1,"#{""nishak@vmware.com""}",268.0,19
+Python,tern-tools,2018-10-29,2,1,"#{""nishak@vmware.com""}",270.0,19
+Python,tern-tools,2018-10-30,2,1,"#{""nishak@vmware.com""}",272.0,19
+Python,tern-tools,2018-10-31,2,2,"#{""laurieroy.dev@gmail.com"" ""nishak@vmware.com""}",274.0,20
+Python,tern-tools,2018-11-01,1,1,"#{""nishak@vmware.com""}",275.0,20
+Python,tern-tools,2018-11-07,1,1,"#{""vyadav@pivotal.io""}",276.0,21
+Python,tern-tools,2018-11-08,1,1,"#{""nishak@vmware.com""}",277.0,21
+Python,tern-tools,2018-11-09,1,1,"#{""nishak@vmware.com""}",278.0,21
+Python,tern-tools,2018-11-10,2,1,"#{""nishak@vmware.com""}",280.0,21
+Python,tern-tools,2018-11-12,1,1,"#{""nishak@vmware.com""}",281.0,21
+Python,tern-tools,2018-11-14,3,2,"#{""laurieroy.dev@gmail.com"" ""nishak@vmware.com""}",284.0,21
+Python,tern-tools,2018-11-16,1,1,"#{""nishak@vmware.com""}",285.0,21
+Python,tern-tools,2018-11-27,2,1,"#{""nishak@vmware.com""}",287.0,21
+Python,tern-tools,2018-11-28,1,1,"#{""nishak@vmware.com""}",288.0,21
+Python,tern-tools,2018-11-29,1,1,"#{""nishak@vmware.com""}",289.0,21
+Python,tern-tools,2018-12-14,1,1,"#{""nishak@vmware.com""}",290.0,21
+Python,tern-tools,2019-01-10,2,1,"#{""nishak@vmware.com""}",292.0,21
+Python,tern-tools,2019-01-16,1,1,"#{""nishak@vmware.com""}",293.0,21
+Python,tern-tools,2019-01-25,3,1,"#{""nishak@vmware.com""}",296.0,21
+Python,tern-tools,2019-02-01,2,1,"#{""nishak@vmware.com""}",298.0,21
+Python,tern-tools,2019-02-13,2,1,"#{""nishak@vmware.com""}",300.0,21
+Python,tern-tools,2019-02-14,1,1,"#{""nishak@vmware.com""}",301.0,21
+Python,tern-tools,2019-02-15,3,1,"#{""nishak@vmware.com""}",304.0,21
+Python,tern-tools,2019-02-27,1,1,"#{""nishak@vmware.com""}",305.0,21
+Python,tern-tools,2019-02-28,2,1,"#{""nishak@vmware.com""}",307.0,21
+Python,tern-tools,2019-03-15,1,1,"#{""swinslow@gmail.com""}",308.0,22
+Python,tern-tools,2019-03-21,1,1,"#{""santiago@archlinux.org""}",309.0,23
+Python,tern-tools,2019-03-22,9,2,"#{""santiago@archlinux.org"" ""torresariass@gmail.com""}",318.0,24
+Python,tern-tools,2019-03-23,1,1,"#{""santiago@archlinux.org""}",319.0,24
+Python,tern-tools,2019-03-26,2,2,"#{""nishak@vmware.com"" ""mrohan@vmware.com""}",321.0,25
+Python,tern-tools,2019-03-27,3,1,"#{""nishak@vmware.com""}",324.0,25
+Python,tern-tools,2019-03-28,1,1,"#{""mrohan@vmware.com""}",325.0,25
+Python,tern-tools,2019-03-29,1,1,"#{""mrohan@vmware.com""}",326.0,25
+Python,tern-tools,2019-04-01,2,2,"#{""justinleegarrison@gmail.com"" ""mrohan@vmware.com""}",328.0,26
+Python,tern-tools,2019-04-02,3,1,"#{""mrohan@vmware.com""}",331.0,26
+Python,tern-tools,2019-04-04,14,2,"#{""nishak@vmware.com"" ""mrohan@vmware.com""}",345.0,26
+Python,tern-tools,2019-04-05,6,2,"#{""nishak@vmware.com"" ""mrohan@vmware.com""}",351.0,26
+Python,tern-tools,2019-04-08,2,2,"#{""nishak@vmware.com"" ""mrohan@vmware.com""}",353.0,26
+Python,tern-tools,2019-04-09,6,3,"#{""parikhr@vmware.com"" ""nishak@vmware.com"" ""mrohan@vmware.com""}",359.0,27
+Python,tern-tools,2019-04-10,2,1,"#{""nishak@vmware.com""}",361.0,27
+Python,tern-tools,2019-04-11,3,1,"#{""nishak@vmware.com""}",364.0,27
+Python,tern-tools,2019-04-12,2,1,"#{""nishak@vmware.com""}",366.0,27
+Python,tern-tools,2019-04-13,1,1,"#{""parikhr@vmware.com""}",367.0,27
+Python,tern-tools,2019-04-15,2,2,"#{""tripathym@vmware.com"" ""nishak@vmware.com""}",369.0,28
+Python,tern-tools,2019-04-16,6,2,"#{""tripathym@vmware.com"" ""nishak@vmware.com""}",375.0,28
+Python,tern-tools,2019-04-17,2,1,"#{""nishak@vmware.com""}",377.0,28
+Python,tern-tools,2019-04-18,5,1,"#{""nishak@vmware.com""}",382.0,28
+Python,tern-tools,2019-04-19,1,1,"#{""nishak@vmware.com""}",383.0,28
+Python,tern-tools,2019-04-25,3,1,"#{""nishak@vmware.com""}",386.0,28
+Python,tern-tools,2019-04-26,2,1,"#{""nishak@vmware.com""}",388.0,28
+Python,tern-tools,2019-05-01,3,1,"#{""nishak@vmware.com""}",391.0,28
+Python,tern-tools,2019-05-02,2,2,"#{""nishak@vmware.com"" ""rose.harber@gmail.com""}",393.0,29
+Python,tern-tools,2019-05-03,6,1,"#{""nishak@vmware.com""}",399.0,29
+Python,tern-tools,2019-05-06,3,1,"#{""nishak@vmware.com""}",402.0,29
+Python,tern-tools,2019-05-07,5,1,"#{""nishak@vmware.com""}",407.0,29
+Python,tern-tools,2019-05-08,2,2,"#{""nishak@vmware.com"" ""rose.harber@gmail.com""}",409.0,29
+Python,tern-tools,2019-05-09,3,2,"#{""nishak@vmware.com"" ""rose.harber@gmail.com""}",412.0,29
+Python,tern-tools,2019-05-10,1,1,"#{""nishak@vmware.com""}",413.0,29
+Python,tern-tools,2019-05-13,2,1,"#{""nishak@vmware.com""}",415.0,29
+Python,tern-tools,2019-05-14,3,1,"#{""nishak@vmware.com""}",418.0,29
+Python,tern-tools,2019-05-15,3,1,"#{""nishak@vmware.com""}",421.0,29
+Python,tern-tools,2019-05-16,1,1,"#{""nishak@vmware.com""}",422.0,29
+Python,tern-tools,2019-05-17,2,1,"#{""nishak@vmware.com""}",424.0,29
+Python,tern-tools,2019-05-20,5,1,"#{""nishak@vmware.com""}",429.0,29
+Python,tern-tools,2019-05-21,4,1,"#{""nishak@vmware.com""}",433.0,29
+Python,tern-tools,2019-05-22,1,1,"#{""nishak@vmware.com""}",434.0,29
+Python,tern-tools,2019-05-23,1,1,"#{""jrg@vmware.com""}",435.0,30
+Python,tern-tools,2019-05-28,1,1,"#{""nishak@vmware.com""}",436.0,30
+Python,tern-tools,2019-05-30,1,1,"#{""nishak@vmware.com""}",437.0,30
+Python,tern-tools,2019-05-31,1,1,"#{""rjudge@vmware.com""}",438.0,31
+Python,tern-tools,2019-06-03,5,1,"#{""nishak@vmware.com""}",443.0,31
+Python,tern-tools,2019-06-05,1,1,"#{""nishak@vmware.com""}",444.0,31
+Python,tern-tools,2019-06-06,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",446.0,31
+Python,tern-tools,2019-06-07,2,1,"#{""nishak@vmware.com""}",448.0,31
+Python,tern-tools,2019-06-11,3,1,"#{""rjudge@vmware.com""}",451.0,31
+Python,tern-tools,2019-06-12,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",453.0,31
+Python,tern-tools,2019-06-13,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",455.0,31
+Python,tern-tools,2019-06-14,3,1,"#{""rjudge@vmware.com""}",458.0,31
+Python,tern-tools,2019-06-17,4,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",462.0,31
+Python,tern-tools,2019-06-18,1,1,"#{""nishak@vmware.com""}",463.0,31
+Python,tern-tools,2019-06-19,1,1,"#{""nishak@vmware.com""}",464.0,31
+Python,tern-tools,2019-06-20,5,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",469.0,31
+Python,tern-tools,2019-06-21,4,3,"#{""nishak@vmware.com"" ""dasmanaswini10@gmail.com"" ""rjudge@vmware.com""}",473.0,32
+Python,tern-tools,2019-06-24,4,2,"#{""dasmanaswini10@gmail.com"" ""rjudge@vmware.com""}",477.0,32
+Python,tern-tools,2019-06-25,1,1,"#{""rjudge@vmware.com""}",478.0,32
+Python,tern-tools,2019-06-27,2,1,"#{""rjudge@vmware.com""}",480.0,32
+Python,tern-tools,2019-07-02,1,1,"#{""rjudge@vmware.com""}",481.0,32
+Python,tern-tools,2019-07-10,1,1,"#{""rjudge@vmware.com""}",482.0,32
+Python,tern-tools,2019-07-11,2,2,"#{""khayam.gondal@gmail.com"" ""rjudge@vmware.com""}",484.0,33
+Python,tern-tools,2019-08-05,1,1,"#{""nishak@vmware.com""}",485.0,33
+Python,tern-tools,2019-08-06,2,1,"#{""rjudge@vmware.com""}",487.0,33
+Python,tern-tools,2019-08-08,1,1,"#{""rjudge@vmware.com""}",488.0,33
+Python,tern-tools,2019-08-09,1,1,"#{""nishak@vmware.com""}",489.0,33
+Python,tern-tools,2019-08-12,1,1,"#{""nishak@vmware.com""}",490.0,33
+Python,tern-tools,2019-08-14,1,1,"#{""rjudge@vmware.com""}",491.0,33
+Python,tern-tools,2019-08-15,1,1,"#{""nishak@vmware.com""}",492.0,33
+Python,tern-tools,2019-08-16,1,1,"#{""nishak@vmware.com""}",493.0,33
+Python,tern-tools,2019-08-19,3,1,"#{""nishak@vmware.com""}",496.0,33
+Python,tern-tools,2019-08-20,3,1,"#{""rjudge@vmware.com""}",499.0,33
+Python,tern-tools,2019-08-21,2,1,"#{""rjudge@vmware.com""}",501.0,33
+Python,tern-tools,2019-08-22,2,2,"#{""kdmcguire1@gmail.com"" ""rjudge@vmware.com""}",503.0,34
+Python,tern-tools,2019-08-24,1,1,"#{""prajwalmmath@gmail.com""}",504.0,35
+Python,tern-tools,2019-08-26,1,1,"#{""nishak@vmware.com""}",505.0,35
+Python,tern-tools,2019-08-27,9,3,"#{""nishak@vmware.com"" ""prajwalmmath@gmail.com"" ""rjudge@vmware.com""}",514.0,35
+Python,tern-tools,2019-08-28,6,3,"#{""nishak@vmware.com"" ""prajwalmmath@gmail.com"" ""rjudge@vmware.com""}",520.0,35
+Python,tern-tools,2019-08-29,3,2,"#{""nishak@vmware.com"" ""prajwalmmath@gmail.com""}",523.0,35
+Python,tern-tools,2019-08-30,1,1,"#{""rjudge@vmware.com""}",524.0,35
+Python,tern-tools,2019-08-31,1,1,"#{""prajwalmmath@gmail.com""}",525.0,35
+Python,tern-tools,2019-09-03,1,1,"#{""rjudge@vmware.com""}",526.0,35
+Python,tern-tools,2019-09-04,2,1,"#{""nishak@vmware.com""}",528.0,35
+Python,tern-tools,2019-09-05,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",530.0,35
+Python,tern-tools,2019-09-06,1,1,"#{""rjudge@vmware.com""}",531.0,35
+Python,tern-tools,2019-09-12,1,1,"#{""nishak@vmware.com""}",532.0,35
+Python,tern-tools,2019-09-16,1,1,"#{""nishak@vmware.com""}",533.0,35
+Python,tern-tools,2019-09-19,2,2,"#{""dasmanaswini10@gmail.com"" ""rjudge@vmware.com""}",535.0,35
+Python,tern-tools,2019-09-20,2,2,"#{""nishak@vmware.com"" ""dasmanaswini10@gmail.com""}",537.0,35
+Python,tern-tools,2019-09-24,1,1,"#{""rjudge@vmware.com""}",538.0,35
+Python,tern-tools,2019-09-25,3,2,"#{""dasmanaswini10@gmail.com"" ""rjudge@vmware.com""}",541.0,35
+Python,tern-tools,2019-09-27,1,1,"#{""rjudge@vmware.com""}",542.0,35
+Python,tern-tools,2019-09-30,4,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",546.0,35
+Python,tern-tools,2019-10-01,1,1,"#{""rjudge@vmware.com""}",547.0,35
+Python,tern-tools,2019-10-02,2,1,"#{""nishak@vmware.com""}",549.0,35
+Python,tern-tools,2019-10-03,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",551.0,35
+Python,tern-tools,2019-10-04,1,1,"#{""nishak@vmware.com""}",552.0,35
+Python,tern-tools,2019-10-08,3,1,"#{""nishak@vmware.com""}",555.0,35
+Python,tern-tools,2019-10-15,1,1,"#{""nishak@vmware.com""}",556.0,35
+Python,tern-tools,2019-10-16,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",559.0,35
+Python,tern-tools,2019-10-17,1,1,"#{""rjudge@vmware.com""}",560.0,35
+Python,tern-tools,2019-10-18,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",562.0,35
+Python,tern-tools,2019-10-22,1,1,"#{""nishak@vmware.com""}",563.0,35
+Python,tern-tools,2019-10-23,1,1,"#{""nishak@vmware.com""}",564.0,35
+Python,tern-tools,2019-10-24,1,1,"#{""nishak@vmware.com""}",565.0,35
+Python,tern-tools,2019-10-25,1,1,"#{""rjudge@vmware.com""}",566.0,35
+Python,tern-tools,2019-10-31,8,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",574.0,35
+Python,tern-tools,2019-11-05,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",576.0,35
+Python,tern-tools,2019-11-06,1,1,"#{""nishak@vmware.com""}",577.0,35
+Python,tern-tools,2019-11-11,5,2,"#{""rjudge@vmware.com"" ""jlock@vmware.com""}",582.0,36
+Python,tern-tools,2019-11-13,1,1,"#{""jesus.ornelas.aguayo@intel.com""}",583.0,37
+Python,tern-tools,2019-12-02,5,1,"#{""rjudge@vmware.com""}",588.0,37
+Python,tern-tools,2019-12-03,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",591.0,37
+Python,tern-tools,2019-12-04,1,1,"#{""rjudge@vmware.com""}",592.0,37
+Python,tern-tools,2019-12-05,1,1,"#{""rjudge@vmware.com""}",593.0,37
+Python,tern-tools,2019-12-13,1,1,"#{""rjudge@vmware.com""}",594.0,37
+Python,tern-tools,2019-12-18,1,1,"#{""nishak@vmware.com""}",595.0,37
+Python,tern-tools,2020-01-06,1,1,"#{""nishak@vmware.com""}",596.0,37
+Python,tern-tools,2020-01-07,12,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",608.0,37
+Python,tern-tools,2020-01-08,2,1,"#{""nishak@vmware.com""}",610.0,37
+Python,tern-tools,2020-01-09,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",612.0,37
+Python,tern-tools,2020-01-22,1,1,"#{""nishak@vmware.com""}",613.0,37
+Python,tern-tools,2020-01-30,1,1,"#{""mbhandaru@vmware.com""}",614.0,38
+Python,tern-tools,2020-02-02,1,1,"#{""prajwalmmath@gmail.com""}",615.0,38
+Python,tern-tools,2020-02-11,2,2,"#{""nishak@vmware.com"" ""prajwalmmath@gmail.com""}",617.0,38
+Python,tern-tools,2020-02-13,1,1,"#{""rjudge@vmware.com""}",618.0,38
+Python,tern-tools,2020-02-14,2,1,"#{""prajwalmmath@gmail.com""}",620.0,38
+Python,tern-tools,2020-02-18,1,1,"#{""rjudge@vmware.com""}",621.0,38
+Python,tern-tools,2020-02-21,3,2,"#{""nishak@vmware.com"" ""prajwalmmath@gmail.com""}",624.0,38
+Python,tern-tools,2020-02-24,2,1,"#{""rjudge@vmware.com""}",626.0,38
+Python,tern-tools,2020-02-25,5,3,"#{""abhay.katheria1998@gmail.com"" ""nishak@vmware.com"" ""rjudge@vmware.com""}",631.0,39
+Python,tern-tools,2020-02-27,3,3,"#{""abhay.katheria1998@gmail.com"" ""nishak@vmware.com"" ""prajwalmmath@gmail.com""}",634.0,39
+Python,tern-tools,2020-02-28,2,2,"#{""hazard15020@gmail.com"" ""prajwalmmath@gmail.com""}",636.0,40
+Python,tern-tools,2020-02-29,2,2,"#{""abhay.katheria1998@gmail.com"" ""mukultaneja91@gmail.com""}",638.0,41
+Python,tern-tools,2020-03-04,1,1,"#{""rjudge@vmware.com""}",639.0,41
+Python,tern-tools,2020-03-05,3,2,"#{""nishak@vmware.com"" ""hazard15020@gmail.com""}",642.0,41
+Python,tern-tools,2020-03-06,2,2,"#{""prajwalmmath@gmail.com"" ""rjudge@vmware.com""}",644.0,41
+Python,tern-tools,2020-03-10,4,2,"#{""nishak@vmware.com"" ""prajwalmmath@gmail.com""}",648.0,41
+Python,tern-tools,2020-03-12,1,1,"#{""hazard15020@gmail.com""}",649.0,41
+Python,tern-tools,2020-03-13,1,1,"#{""rjudge@vmware.com""}",650.0,41
+Python,tern-tools,2020-03-14,1,1,"#{""mukultaneja91@gmail.com""}",651.0,41
+Python,tern-tools,2020-03-16,2,1,"#{""nishak@vmware.com""}",653.0,41
+Python,tern-tools,2020-03-18,1,1,"#{""nishak@vmware.com""}",654.0,41
+Python,tern-tools,2020-03-19,2,2,"#{""nishak@vmware.com"" ""radmirnovii@gmail.com""}",656.0,42
+Python,tern-tools,2020-03-20,7,2,"#{""prajwalmmath@gmail.com"" ""rjudge@vmware.com""}",663.0,42
+Python,tern-tools,2020-03-22,2,2,"#{""mukultaneja91@gmail.com"" ""miguel@gordian.dev""}",665.0,43
+Python,tern-tools,2020-03-23,2,1,"#{""nishak@vmware.com""}",667.0,43
+Python,tern-tools,2020-03-24,3,3,"#{""abhay.katheria1998@gmail.com"" ""nishak@vmware.com"" ""rjudge@vmware.com""}",670.0,43
+Python,tern-tools,2020-03-25,4,2,"#{""nishak@vmware.com"" ""hazard15020@gmail.com""}",674.0,43
+Python,tern-tools,2020-03-26,5,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",679.0,43
+Python,tern-tools,2020-03-27,4,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",683.0,43
+Python,tern-tools,2020-03-28,1,1,"#{""mtaneja@vmware.com""}",684.0,44
+Python,tern-tools,2020-03-30,2,2,"#{""rjudge@vmware.com"" ""mtaneja@vmware.com""}",686.0,44
+Python,tern-tools,2020-04-01,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",689.0,44
+Python,tern-tools,2020-04-03,1,1,"#{""nishak@vmware.com""}",690.0,44
+Python,tern-tools,2020-04-07,3,1,"#{""nishak@vmware.com""}",693.0,44
+Python,tern-tools,2020-04-08,4,3,"#{""abhay.katheria1998@gmail.com"" ""nishak@vmware.com"" ""rjudge@vmware.com""}",697.0,44
+Python,tern-tools,2020-04-09,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",700.0,44
+Python,tern-tools,2020-04-10,2,1,"#{""nishak@vmware.com""}",702.0,44
+Python,tern-tools,2020-04-14,1,1,"#{""nishak@vmware.com""}",703.0,44
+Python,tern-tools,2020-04-15,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",706.0,44
+Python,tern-tools,2020-04-16,1,1,"#{""rjudge@vmware.com""}",707.0,44
+Python,tern-tools,2020-04-21,2,1,"#{""rjudge@vmware.com""}",709.0,44
+Python,tern-tools,2020-04-22,3,2,"#{""nishak@vmware.com"" ""hazard15020@gmail.com""}",712.0,44
+Python,tern-tools,2020-04-23,5,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",717.0,44
+Python,tern-tools,2020-04-24,5,2,"#{""nishak@vmware.com"" ""abhaykatehria01@gmail.com""}",722.0,45
+Python,tern-tools,2020-04-25,2,1,"#{""mtaneja@vmware.com""}",724.0,45
+Python,tern-tools,2020-04-26,1,1,"#{""mtaneja@vmware.com""}",725.0,45
+Python,tern-tools,2020-04-27,1,1,"#{""nishak@vmware.com""}",726.0,45
+Python,tern-tools,2020-04-28,1,1,"#{""abhay.katheria1998@gmail.com""}",727.0,45
+Python,tern-tools,2020-04-29,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",729.0,45
+Python,tern-tools,2020-04-30,2,2,"#{""rjudge@vmware.com"" ""mtaneja@vmware.com""}",731.0,45
+Python,tern-tools,2020-05-02,1,1,"#{""mtaneja@vmware.com""}",732.0,45
+Python,tern-tools,2020-05-05,1,1,"#{""rjudge@vmware.com""}",733.0,45
+Python,tern-tools,2020-05-13,1,1,"#{""nishak@vmware.com""}",734.0,45
+Python,tern-tools,2020-05-14,1,1,"#{""nishak@vmware.com""}",735.0,45
+Python,tern-tools,2020-05-19,1,1,"#{""nishak@vmware.com""}",736.0,45
+Python,tern-tools,2020-05-20,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",738.0,45
+Python,tern-tools,2020-05-21,4,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",742.0,45
+Python,tern-tools,2020-05-22,1,1,"#{""nishak@vmware.com""}",743.0,45
+Python,tern-tools,2020-05-26,1,1,"#{""nishak@vmware.com""}",744.0,45
+Python,tern-tools,2020-05-28,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",747.0,45
+Python,tern-tools,2020-05-29,1,1,"#{""rjudge@vmware.com""}",748.0,45
+Python,tern-tools,2020-06-02,3,3,"#{""nishak@vmware.com"" ""rjudge@vmware.com"" ""mtaneja@vmware.com""}",751.0,45
+Python,tern-tools,2020-06-03,2,1,"#{""hazard15020@gmail.com""}",753.0,45
+Python,tern-tools,2020-06-05,1,1,"#{""rjudge@vmware.com""}",754.0,45
+Python,tern-tools,2020-06-06,1,1,"#{""mtaneja@vmware.com""}",755.0,45
+Python,tern-tools,2020-06-10,1,1,"#{""nishak@vmware.com""}",756.0,45
+Python,tern-tools,2020-06-11,2,1,"#{""nishak@vmware.com""}",758.0,45
+Python,tern-tools,2020-06-15,1,1,"#{""rjudge@vmware.com""}",759.0,45
+Python,tern-tools,2020-06-16,2,2,"#{""hazard15020@gmail.com"" ""rjudge@vmware.com""}",761.0,45
+Python,tern-tools,2020-06-18,1,1,"#{""rjudge@vmware.com""}",762.0,45
+Python,tern-tools,2020-06-19,3,3,"#{""nishak@vmware.com"" ""hazard15020@gmail.com"" ""rjudge@vmware.com""}",765.0,45
+Python,tern-tools,2020-06-23,4,2,"#{""abhay.katheria1998@gmail.com"" ""rjudge@vmware.com""}",769.0,45
+Python,tern-tools,2020-06-24,3,2,"#{""rjudge@vmware.com"" ""mtaneja@vmware.com""}",772.0,45
+Python,tern-tools,2020-06-26,2,2,"#{""abhay.katheria1998@gmail.com"" ""nishak@vmware.com""}",774.0,45
+Python,tern-tools,2020-06-29,2,1,"#{""nishak@vmware.com""}",776.0,45
+Python,tern-tools,2020-07-07,1,1,"#{""hazard15020@gmail.com""}",777.0,45
+Python,tern-tools,2020-07-08,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",780.0,45
+Python,tern-tools,2020-07-11,1,1,"#{""hazard15020@gmail.com""}",781.0,45
+Python,tern-tools,2020-07-16,2,1,"#{""rjudge@vmware.com""}",783.0,45
+Python,tern-tools,2020-07-17,3,3,"#{""abhay.katheria1998@gmail.com"" ""nishak@vmware.com"" ""hazard15020@gmail.com""}",786.0,45
+Python,tern-tools,2020-07-19,1,1,"#{""hazard15020@gmail.com""}",787.0,45
+Python,tern-tools,2020-07-23,1,1,"#{""rjudge@vmware.com""}",788.0,45
+Python,tern-tools,2020-07-30,1,1,"#{""nishak@vmware.com""}",789.0,45
+Python,tern-tools,2020-07-31,1,1,"#{""nishak@vmware.com""}",790.0,45
+Python,tern-tools,2020-08-03,1,1,"#{""rjudge@vmware.com""}",791.0,45
+Python,tern-tools,2020-08-05,2,2,"#{""abhay.katheria1998@gmail.com"" ""rjudge@vmware.com""}",793.0,45
+Python,tern-tools,2020-08-06,1,1,"#{""rjudge@vmware.com""}",794.0,45
+Python,tern-tools,2020-08-19,1,1,"#{""hazard15020@gmail.com""}",795.0,45
+Python,tern-tools,2020-08-25,1,1,"#{""yann.jorelle@nokia.com""}",796.0,46
+Python,tern-tools,2020-08-26,2,2,"#{""nishak@vmware.com"" ""yann.jorelle@nokia.com""}",798.0,46
+Python,tern-tools,2020-08-27,2,2,"#{""nishak@vmware.com"" ""yann.jorelle@nokia.com""}",800.0,46
+Python,tern-tools,2020-08-29,1,1,"#{""isac@isacsund.com""}",801.0,47
+Python,tern-tools,2020-09-03,2,1,"#{""nishak@vmware.com""}",803.0,47
+Python,tern-tools,2020-09-10,1,1,"#{""jeroen.knoops@philips.com""}",804.0,48
+Python,tern-tools,2020-09-22,1,1,"#{""hazard15020@gmail.com""}",805.0,48
+Python,tern-tools,2020-09-24,1,1,"#{""nishak@vmware.com""}",806.0,48
+Python,tern-tools,2020-09-25,2,2,"#{""nishak@vmware.com"" ""hazard15020@gmail.com""}",808.0,48
+Python,tern-tools,2020-09-29,1,1,"#{""nishak@vmware.com""}",809.0,48
+Python,tern-tools,2020-10-01,1,1,"#{""nishak@vmware.com""}",810.0,48
+Python,tern-tools,2020-10-05,2,1,"#{""nishak@vmware.com""}",812.0,48
+Python,tern-tools,2020-10-06,1,1,"#{""nishak@vmware.com""}",813.0,48
+Python,tern-tools,2020-10-07,2,1,"#{""nishak@vmware.com""}",815.0,48
+Python,tern-tools,2020-10-13,2,1,"#{""nishak@vmware.com""}",817.0,48
+Python,tern-tools,2020-10-14,1,1,"#{""nishak@vmware.com""}",818.0,48
+Python,tern-tools,2020-10-15,1,1,"#{""nishak@vmware.com""}",819.0,48
+Python,tern-tools,2020-10-19,1,1,"#{""nishak@vmware.com""}",820.0,48
+Python,tern-tools,2020-10-22,1,1,"#{""nishak@vmware.com""}",821.0,48
+Python,tern-tools,2020-10-27,1,1,"#{""nishak@vmware.com""}",822.0,48
+Python,tern-tools,2020-11-02,1,1,"#{""nishak@vmware.com""}",823.0,48
+Python,tern-tools,2020-11-03,1,1,"#{""nishak@vmware.com""}",824.0,48
+Python,tern-tools,2020-11-05,2,1,"#{""nishak@vmware.com""}",826.0,48
+Python,tern-tools,2020-11-07,1,1,"#{""nishak@vmware.com""}",827.0,48
+Python,tern-tools,2020-11-08,1,1,"#{""nishak@vmware.com""}",828.0,48
+Python,tern-tools,2020-11-09,2,1,"#{""nishak@vmware.com""}",830.0,48
+Python,tern-tools,2020-11-11,2,1,"#{""nishak@vmware.com""}",832.0,48
+Python,tern-tools,2020-11-13,2,2,"#{""nishak@vmware.com"" ""hiteshkumar_1mv17cs042@sirmvit.edu""}",834.0,49
+Python,tern-tools,2020-11-16,2,1,"#{""nishak@vmware.com""}",836.0,49
+Python,tern-tools,2020-11-17,1,1,"#{""mrsparrow04@gmail.com""}",837.0,50
+Python,tern-tools,2020-11-18,5,1,"#{""nishak@vmware.com""}",842.0,50
+Python,tern-tools,2020-11-19,1,1,"#{""nishak@vmware.com""}",843.0,50
+Python,tern-tools,2020-12-02,1,1,"#{""nishak@vmware.com""}",844.0,50
+Python,tern-tools,2020-12-07,2,1,"#{""nishak@vmware.com""}",846.0,50
+Python,tern-tools,2020-12-14,2,1,"#{""rjudge@vmware.com""}",848.0,50
+Python,tern-tools,2020-12-22,2,1,"#{""a.mazuruk@samsung.com""}",850.0,51
+Python,tern-tools,2020-12-29,2,1,"#{""a.mazuruk@samsung.com""}",852.0,51
+Python,tern-tools,2021-01-04,2,1,"#{""a.mazuruk@samsung.com""}",854.0,51
+Python,tern-tools,2021-01-06,2,1,"#{""a.mazuruk@samsung.com""}",856.0,51
+Python,tern-tools,2021-01-11,7,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",863.0,51
+Python,tern-tools,2021-01-12,2,1,"#{""rjudge@vmware.com""}",865.0,51
+Python,tern-tools,2021-01-13,4,1,"#{""rjudge@vmware.com""}",869.0,51
+Python,tern-tools,2021-01-15,1,1,"#{""rjudge@vmware.com""}",870.0,51
+Python,tern-tools,2021-01-18,1,1,"#{""rjudge@vmware.com""}",871.0,51
+Python,tern-tools,2021-01-20,3,1,"#{""rjudge@vmware.com""}",874.0,51
+Python,tern-tools,2021-01-21,1,1,"#{""rjudge@vmware.com""}",875.0,51
+Python,tern-tools,2021-01-25,1,1,"#{""shubhamtiwari.tiwari84@gmail.com""}",876.0,52
+Python,tern-tools,2021-01-26,2,2,"#{""a.mazuruk@samsung.com"" ""rjudge@vmware.com""}",878.0,52
+Python,tern-tools,2021-01-27,1,1,"#{""a.mazuruk@samsung.com""}",879.0,52
+Python,tern-tools,2021-02-02,1,1,"#{""nishak@vmware.com""}",880.0,52
+Python,tern-tools,2021-02-03,1,1,"#{""nishak@vmware.com""}",881.0,52
+Python,tern-tools,2021-02-09,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",884.0,52
+Python,tern-tools,2021-02-10,1,1,"#{""nishak@vmware.com""}",885.0,52
+Python,tern-tools,2021-02-11,2,2,"#{""a.mazuruk@samsung.com"" ""rjudge@vmware.com""}",887.0,52
+Python,tern-tools,2021-02-12,1,1,"#{""shubhamtiwari.tiwari84@gmail.com""}",888.0,52
+Python,tern-tools,2021-02-17,1,1,"#{""rjudge@vmware.com""}",889.0,52
+Python,tern-tools,2021-02-18,4,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",893.0,52
+Python,tern-tools,2021-02-19,1,1,"#{""rjudge@vmware.com""}",894.0,52
+Python,tern-tools,2021-02-23,1,1,"#{""jamagee@microsoft.com""}",895.0,53
+Python,tern-tools,2021-02-24,1,1,"#{""a.mazuruk@samsung.com""}",896.0,53
+Python,tern-tools,2021-02-25,1,1,"#{""nishak@vmware.com""}",897.0,53
+Python,tern-tools,2021-03-02,1,1,"#{""nishak@vmware.com""}",898.0,53
+Python,tern-tools,2021-03-05,1,1,"#{""jeroen.knoops@philips.com""}",899.0,53
+Python,tern-tools,2021-03-08,1,1,"#{""jamie.magee@gmail.com""}",900.0,54
+Python,tern-tools,2021-03-09,1,1,"#{""jaindhairya2001@gmail.com""}",901.0,55
+Python,tern-tools,2021-03-10,1,1,"#{""rjudge@vmware.com""}",902.0,55
+Python,tern-tools,2021-03-11,1,1,"#{""nishak@vmware.com""}",903.0,55
+Python,tern-tools,2021-03-12,4,1,"#{""nishak@vmware.com""}",907.0,55
+Python,tern-tools,2021-03-16,1,1,"#{""rjudge@vmware.com""}",908.0,55
+Python,tern-tools,2021-03-17,2,2,"#{""jamagee@microsoft.com"" ""rjudge@vmware.com""}",910.0,55
+Python,tern-tools,2021-03-18,1,1,"#{""nishak@vmware.com""}",911.0,55
+Python,tern-tools,2021-03-19,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",914.0,55
+Python,tern-tools,2021-03-20,6,3,"#{""nishak@vmware.com"" ""jamagee@microsoft.com"" ""rjudge@vmware.com""}",920.0,55
+Python,tern-tools,2021-03-23,2,1,"#{""yannjorelle@protonmail.com""}",922.0,56
+Python,tern-tools,2021-03-24,1,1,"#{""nishak@vmware.com""}",923.0,56
+Python,tern-tools,2021-03-25,1,1,"#{""jaindhairya2001@gmail.com""}",924.0,56
+Python,tern-tools,2021-03-26,1,1,"#{""nishak@vmware.com""}",925.0,56
+Python,tern-tools,2021-03-27,1,1,"#{""nishak@vmware.com""}",926.0,56
+Python,tern-tools,2021-04-03,1,1,"#{""mtaneja@vmware.com""}",927.0,56
+Python,tern-tools,2021-04-07,2,1,"#{""nishak@vmware.com""}",929.0,56
+Python,tern-tools,2021-04-09,1,1,"#{""rjudge@vmware.com""}",930.0,56
+Python,tern-tools,2021-04-15,5,1,"#{""rjudge@vmware.com""}",935.0,56
+Python,tern-tools,2021-04-16,1,1,"#{""nishak@vmware.com""}",936.0,56
+Python,tern-tools,2021-04-19,1,1,"#{""nishak@vmware.com""}",937.0,56
+Python,tern-tools,2021-04-20,1,1,"#{""thequepop@gmail.com""}",938.0,57
+Python,tern-tools,2021-04-29,1,1,"#{""nishak@vmware.com""}",939.0,57
+Python,tern-tools,2021-05-05,1,1,"#{""mzachar@simpleway.cz""}",940.0,58
+Python,tern-tools,2021-05-07,1,1,"#{""cole.e.helbling@outlook.com""}",941.0,59
+Python,tern-tools,2021-05-09,1,1,"#{""mtaneja@vmware.com""}",942.0,59
+Python,tern-tools,2021-05-11,1,1,"#{""rjudge@vmware.com""}",943.0,59
+Python,tern-tools,2021-05-12,2,1,"#{""rjudge@vmware.com""}",945.0,59
+Python,tern-tools,2021-05-19,1,1,"#{""rjudge@vmware.com""}",946.0,59
+Python,tern-tools,2021-05-20,2,1,"#{""nishak@vmware.com""}",948.0,59
+Python,tern-tools,2021-05-21,1,1,"#{""rjudge@vmware.com""}",949.0,59
+Python,tern-tools,2021-05-23,1,1,"#{""rjudge@vmware.com""}",950.0,59
+Python,tern-tools,2021-05-24,1,1,"#{""rjudge@vmware.com""}",951.0,59
+Python,tern-tools,2021-05-25,1,1,"#{""nishak@vmware.com""}",952.0,59
+Python,tern-tools,2021-05-27,1,1,"#{""nishak@vmware.com""}",953.0,59
+Python,tern-tools,2021-05-28,2,1,"#{""jeroen.knoops@philips.com""}",955.0,59
+Python,tern-tools,2021-05-31,1,1,"#{""nishak@vmware.com""}",956.0,59
+Python,tern-tools,2021-06-03,1,1,"#{""rjudge@vmware.com""}",957.0,59
+Python,tern-tools,2021-06-04,1,1,"#{""rjudge@vmware.com""}",958.0,59
+Python,tern-tools,2021-06-17,1,1,"#{""nishak@vmware.com""}",959.0,59
+Python,tern-tools,2021-06-28,1,1,"#{""rjudge@vmware.com""}",960.0,59
+Python,tern-tools,2021-07-06,1,1,"#{""rjudge@vmware.com""}",961.0,59
+Python,tern-tools,2021-07-07,1,1,"#{""nishak@vmware.com""}",962.0,59
+Python,tern-tools,2021-07-12,1,1,"#{""rjudge@vmware.com""}",963.0,59
+Python,tern-tools,2021-07-13,1,1,"#{""patrick.dwyer@owasp.org""}",964.0,60
+Python,tern-tools,2021-07-15,5,4,"#{""ii.sayantani.ii@gmail.com"" ""nishak@vmware.com"" ""jamila.ritter@rutgers.edu"" ""trangology@gmail.com""}",969.0,63
+Python,tern-tools,2021-07-16,2,2,"#{""ii.sayantani.ii@gmail.com"" ""kankanwadidaneshwari55555@gmail.com""}",971.0,64
+Python,tern-tools,2021-07-21,2,2,"#{""75435974+sayantani11@users.noreply.github.com"" ""46436993+KerinPithawala@users.noreply.github.com""}",973.0,66
+Python,tern-tools,2021-08-04,1,1,"#{""nishak@vmware.com""}",974.0,66
+Python,tern-tools,2021-08-17,1,1,"#{""mtaneja@vmware.com""}",975.0,66
+Python,tern-tools,2021-08-31,1,1,"#{""nishak@vmware.com""}",976.0,66
+Python,tern-tools,2021-09-01,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",978.0,66
+Python,tern-tools,2021-09-21,1,1,"#{""rjudge@vmware.com""}",979.0,66
+Python,tern-tools,2021-09-22,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",982.0,66
+Python,tern-tools,2021-09-27,1,1,"#{""rjudge@vmware.com""}",983.0,66
+Python,tern-tools,2021-09-28,3,1,"#{""rjudge@vmware.com""}",986.0,66
+Python,tern-tools,2021-09-29,1,1,"#{""jasonhall@redhat.com""}",987.0,67
+Python,tern-tools,2021-10-01,6,5,"#{""dsl2162@columbia.edu"" ""samaiya.ashma@gmail.com"" ""vini.parimala@verizonmedia.com"" ""lumapas.h@gmail.com"" ""jamila.ritter@rutgers.edu""}",993.0,71
+Python,tern-tools,2021-10-20,1,1,"#{""kerinpithawala7@gmail.com""}",994.0,72
+Python,tern-tools,2021-10-26,3,2,"#{""ii.sayantani.ii@gmail.com"" ""rjudge@vmware.com""}",997.0,72
+Python,tern-tools,2021-10-29,1,1,"#{""rjudge@vmware.com""}",998.0,72
+Python,tern-tools,2021-11-08,2,2,"#{""ii.sayantani.ii@gmail.com"" ""rjudge@vmware.com""}",1000.0,72
+Python,tern-tools,2021-11-16,2,1,"#{""nishak@vmware.com""}",1002.0,72
+Python,tern-tools,2021-11-17,1,1,"#{""nishak@vmware.com""}",1003.0,72
+Python,tern-tools,2021-11-18,1,1,"#{""nishak@vmware.com""}",1004.0,72
+Python,tern-tools,2021-11-19,1,1,"#{""vsoch@users.noreply.github.com""}",1005.0,73
+Python,tern-tools,2021-11-20,1,1,"#{""nishak@vmware.com""}",1006.0,73
+Python,tern-tools,2021-11-21,1,1,"#{""nishak@vmware.com""}",1007.0,73
+Python,tern-tools,2021-12-02,1,1,"#{""nishak@vmware.com""}",1008.0,73
+Python,tern-tools,2021-12-03,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",1010.0,73
+Python,tern-tools,2021-12-06,1,1,"#{""nishak@vmware.com""}",1011.0,73
+Python,tern-tools,2021-12-08,1,1,"#{""nishak@vmware.com""}",1012.0,73
+Python,tern-tools,2021-12-09,4,1,"#{""nishak@vmware.com""}",1016.0,73
+Python,tern-tools,2021-12-13,3,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",1019.0,73
+Python,tern-tools,2021-12-15,2,1,"#{""rjudge@vmware.com""}",1021.0,73
+Python,tern-tools,2022-01-12,1,1,"#{""yamaken1343@gmail.com""}",1022.0,74
+Python,tern-tools,2022-01-13,1,1,"#{""rjudge@vmware.com""}",1023.0,74
+Python,tern-tools,2022-01-19,2,1,"#{""nishak@vmware.com""}",1025.0,74
+Python,tern-tools,2022-01-20,1,1,"#{""rjudge@vmware.com""}",1026.0,74
+Python,tern-tools,2022-01-21,1,1,"#{""rjudge@vmware.com""}",1027.0,74
+Python,tern-tools,2022-02-03,2,1,"#{""nishak@vmware.com""}",1029.0,74
+Python,tern-tools,2022-02-10,2,1,"#{""rjudge@vmware.com""}",1031.0,74
+Python,tern-tools,2022-02-11,1,1,"#{""nishak@vmware.com""}",1032.0,74
+Python,tern-tools,2022-02-14,3,1,"#{""rjudge@vmware.com""}",1035.0,74
+Python,tern-tools,2022-02-15,1,1,"#{""rjudge@vmware.com""}",1036.0,74
+Python,tern-tools,2022-02-17,2,2,"#{""nishak@vmware.com"" ""rjudge@vmware.com""}",1038.0,74
+Python,tern-tools,2022-02-18,2,1,"#{""nishak@vmware.com""}",1040.0,74
+Python,tern-tools,2022-02-24,3,1,"#{""rjudge@vmware.com""}",1043.0,74
+Python,tern-tools,2022-02-25,1,1,"#{""nishak@vmware.com""}",1044.0,74
+Python,tern-tools,2022-03-20,2,1,"#{""nisha@ctlfsh.tech""}",1046.0,75
+Python,tern-tools,2022-03-21,1,1,"#{""thiefaine.mercier@avisto.com""}",1047.0,76
+Python,tern-tools,2022-03-29,1,1,"#{""iyovcheva@vmware.com""}",1048.0,77
+Python,tern-tools,2022-04-12,1,1,"#{""rjudge@vmware.com""}",1049.0,77
+Python,tern-tools,2022-04-13,5,1,"#{""rjudge@vmware.com""}",1054.0,77
+Python,tern-tools,2022-04-14,2,1,"#{""rjudge@vmware.com""}",1056.0,77
+Python,tern-tools,2022-04-20,2,1,"#{""iyovcheva@vmware.com""}",1058.0,77
+Python,tern-tools,2022-05-03,2,1,"#{""iyovcheva@vmware.com""}",1060.0,77
+Python,tern-tools,2022-05-11,2,2,"#{""iyovcheva@vmware.com"" ""roger.lehmann@newtron.de""}",1062.0,78
+Python,tern-tools,2022-05-12,1,1,"#{""rjudge@vmware.com""}",1063.0,78
+Python,tern-tools,2022-05-18,1,1,"#{""rjudge@vmware.com""}",1064.0,78
+Python,tern-tools,2022-06-06,1,1,"#{""marc-etienne.vargenau@nokia.com""}",1065.0,79
+Python,tern-tools,2022-06-09,3,1,"#{""rjudge@vmware.com""}",1068.0,79
+Python,tern-tools,2022-06-14,1,1,"#{""rjudge@vmware.com""}",1069.0,79
+Python,tern-tools,2022-06-15,1,1,"#{""marc-etienne.vargenau@nokia.com""}",1070.0,79
+Python,tern-tools,2022-06-16,2,1,"#{""marc-etienne.vargenau@nokia.com""}",1072.0,79
+Python,tern-tools,2022-06-19,1,1,"#{""marc-etienne.vargenau@nokia.com""}",1073.0,79
+Python,tern-tools,2022-06-21,2,2,"#{""iyovcheva@vmware.com"" ""rjudge@vmware.com""}",1075.0,79
+Python,tern-tools,2022-11-08,1,1,"#{""ruivalim@protonmail.com""}",1076.0,80
+Python,tern-tools,2022-12-07,4,2,"#{""marc-etienne.vargenau@nokia.com"" ""rjudge@vmware.com""}",1080.0,80
+Python,tern-tools,2022-12-09,1,1,"#{""rjudge@vmware.com""}",1081.0,80
+Python,tern-tools,2022-12-15,2,1,"#{""rjudge@vmware.com""}",1083.0,80
+Python,tern-tools,2023-01-06,1,1,"#{""rjudge@vmware.com""}",1084.0,80
+Python,tern-tools,2023-01-26,1,1,"#{""rjudge@vmware.com""}",1085.0,80
+Python,tern-tools,2023-02-08,2,1,"#{""rjudge@vmware.com""}",1087.0,80
+Python,tern-tools,2023-02-21,1,1,"#{""marc-etienne.vargenau@nokia.com""}",1088.0,80
+Python,tern-tools,2023-02-27,1,1,"#{""rjudge@vmware.com""}",1089.0,80
+Python,tern-tools,2023-02-28,1,1,"#{""rjudge@vmware.com""}",1090.0,80
+Python,tern-tools,2023-03-01,1,1,"#{""rjudge@vmware.com""}",1091.0,80
+Python,tern-tools,2023-03-06,1,1,"#{""rjudge@vmware.com""}",1092.0,80
+Python,tern-tools,2023-03-10,2,1,"#{""rjudge@vmware.com""}",1094.0,80
+Python,tern-tools,2023-03-20,3,1,"#{""rjudge@vmware.com""}",1097.0,80
+Python,tern-tools,2023-03-22,1,1,"#{""rjudge@vmware.com""}",1098.0,80
+Python,tern-tools,2023-05-23,1,1,"#{""rjudge@vmware.com""}",1099.0,80
+Python,tern-tools,2023-07-13,1,1,"#{""rjudge@vmware.com""}",1100.0,80
+Python,tern-tools,2023-07-14,1,1,"#{""rjudge@vmware.com""}",1101.0,80
