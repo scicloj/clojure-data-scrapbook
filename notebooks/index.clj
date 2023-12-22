@@ -2,6 +2,23 @@
 (ns index)
 
 
+;; # Clojure Data Scrapbook
+
+^{:kindly/hide-code? true
+  :kindly/kind :kind/hiccup}
+[:img {:src "https://scicloj.github.io/sci-cloj-logo-transparent.png"
+       :alt "SciCloj logo"
+       :width "100"
+       :align "right"}]
+
+;; This project builds [The Clojure Data Scrapbook](https://scicloj.github.io/clojure-data-scrapbook/) that contains
+;; Community-contributed examples for the emerging Clojure data stack.
+;;
+;; You can interact with the examples by cloning this project and starting a REPL.
+;;
+;; This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
+
+
 
 ^{:kindly/hide-code? true
   :kindly/kind :kind/hiccup}
@@ -20,7 +37,8 @@
              [:td date]
              [:td [:a {:href url}
                    title]]
-             [:td [:a {:href source-path}
+             [:td [:a {:href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
+                                  source-path)}
                    "source"]]
              [:td [:iframe
                    {:src (str "https://www.youtube.com/embed/" youtube-id)
