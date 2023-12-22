@@ -1,7 +1,23 @@
 
+^{:kindly/hide-code? true
+  :kindly/kind :kind/hiccup}
+[:table
+ [:tr
+  [:td "This is part of the Scicloj "
+   [:a {:href "https://scicloj.github.io/clojure-data-scrapbook/"}
+    "Clojure Data Scrapbook"]
+   "."]
+  [:a
+   {:href "https://scicloj.github.io/clojure-data-scrapbook/"}
+   [:img {:src "https://scicloj.github.io/sci-cloj-logo-transparent.png"
+          :alt "SciCloj logo"
+          :width "40"
+          :align "left"}]]]]
+
+
 ;; # Clay & Noj demo: image processing
 
-(ns scratch
+(ns index
   (:require [tech.v3.libs.buffered-image :as bufimg]
             [tech.v3.datatype :as dtype]
             [tech.v3.tensor :as tensor]
