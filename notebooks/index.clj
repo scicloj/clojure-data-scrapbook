@@ -1,7 +1,6 @@
 ^:kindly/hide-code?
 (ns index)
 
-
 ;; # Clojure Data Scrapbook
 
 ^{:kindly/hide-code? true
