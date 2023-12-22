@@ -19,6 +19,7 @@
 ;;
 ;; This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
 
+;; ## Tutorials
 
 ^{:kindly/hide-code? true}
 (kind/table
@@ -51,3 +52,7 @@
   :column-names ["......................................"
                  "video"
                  "tags"]})
+
+;; ## Contributing
+
+;; (coming soon)
