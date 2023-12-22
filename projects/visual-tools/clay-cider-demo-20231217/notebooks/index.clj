@@ -1,4 +1,5 @@
-;; # Image processing
+
+;; # Clay & Noj demo: image processing
 
 (ns scratch
   (:require [tech.v3.libs.buffered-image :as bufimg]
