@@ -27,46 +27,43 @@
 
 ;; ## Tutorials
 
-(-> {:row-vectors
-     (->> [["2023-12-16"
-            "Clay Calva integration - datavis demo"
-            "projects/visual-tools/clay-calva-demo-20231216/index.html"
-            "projects/visual-tools/clay-calva-demo-20231216"
-            "X_SsjhmG5Ok"
-            [:visual-tools :clay :calva :noj
-             :datavis :hanami :tablecloth]]
-           ["2023-12-17"
-            "Clay CIDER integration - image processing demo"
-            "projects/visual-tools/clay-cider-demo-20231217/index.html"
-            "projects/visual-tools/clay-cider-demo-20231217"
-            "fd4kjlws6Ts"
-            [:visual-tools :clay :cider :noj
-             :image-processing :dtype-next :tensors]]]
-          (map (fn [[date title url source-path youtube-id tags]]
-                 [date
-                  (kind/hiccup
-                   [:div
-                    [:pre
-                     [:p [:a {:href url}
-                          title]]
-                     [:p [:a {:style {:background-color "#fdf6e3"}
-                              :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
-                                         source-path)}
-                          "(source)"]]]])
-                  (kind/hiccup
-                   [:iframe
-                    {:src (str "https://www.youtube.com/embed/" youtube-id)
-                     :allowfullscreen "allowfullscreen"}])
-                  (->> tags
-                       (map name)
-                       (str/join ", "))])))
-     :column-names
-     ["date"
-      "title"
-      "video"
-      "tags"]}
-    (kind/table {:datatables
-                 {:paging false}})
+(-> {:row-vectors (->> [["2023-12-16"
+                         "Clay Calva integration - datavis demo"
+                         "projects/visual-tools/clay-calva-demo-20231216/index.html"
+                         "projects/visual-tools/clay-calva-demo-20231216"
+                         "X_SsjhmG5Ok"
+                         [:visual-tools :clay :calva :noj
+                          :datavis :hanami :tablecloth]]
+                        ["2023-12-17"
+                         "Clay CIDER integration - image processing demo"
+                         "projects/visual-tools/clay-cider-demo-20231217/index.html"
+                         "projects/visual-tools/clay-cider-demo-20231217"
+                         "fd4kjlws6Ts"
+                         [:visual-tools :clay :cider :noj
+                          :image-processing :dtype-next :tensors]]]
+                       (map (fn [[date title url source-path youtube-id tags]]
+                              [date
+                               (kind/hiccup
+                                [:div
+                                 [:pre
+                                  [:p [:a {:href url}
+                                       title]]
+                                  [:p [:a {:style {:background-color "#fdf6e3"}
+                                           :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
+                                                      source-path)}
+                                       "(source)"]]]])
+                               (kind/hiccup
+                                [:iframe
+                                 {:src (str "https://www.youtube.com/embed/" youtube-id)
+                                  :allowfullscreen "allowfullscreen"}])
+                               (->> tags
+                                    (map name)
+                                    (str/join ", "))])))
+     :column-names ["date"
+                    "title"
+                    "video"
+                    "tags"]}
+    (kind/table {:datatables {:paging false}})
     kindly/hide-code)
 
 ;; ## Contributing
