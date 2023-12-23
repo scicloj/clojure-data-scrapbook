@@ -83,6 +83,9 @@ tr:nth-child(even) {
 </style>
 <script src="index_files/md-default0.js" type="text/javascript"></script>
 <script src="index_files/md-default1.js" type="text/javascript"></script>
+
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js" type="text/javascript"></script>
+<p><link href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css"></p>
 <section id="clojure-data-scrapbook" class="level1">
 <h1>Clojure Data Scrapbook</h1>
 <p><img align="right" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="100"></p>
@@ -96,7 +99,10 @@ tr:nth-child(even) {
 <thead>
 <tr>
 <th>
-………………………………..
+date
+</th>
+<th>
+title
 </th>
 <th>
 video
@@ -109,15 +115,15 @@ tags
 <tbody>
 <tr>
 <td>
-<div style="width:200;">
+<div>
 <p>
-<a href="projects/visual-tools/clay-calva-demo-20231216/index.html">Clay Calva integration - datavis demo</a>
+2023-12-16
 </p>
-<p>
-<a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-calva-demo-20231216">
-</a></p><pre><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-calva-demo-20231216">(source)</a></pre><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-calva-demo-20231216">
-</a>
-<p></p>
+</div>
+</td>
+<td>
+<div>
+<pre><p><a href="projects/visual-tools/clay-calva-demo-20231216/index.html">Clay Calva integration - datavis demo</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-calva-demo-20231216" style="background-color:#fdf6e3;">(source)</a></p></pre>
 </div>
 </td>
 <td>
@@ -125,22 +131,24 @@ tags
 </iframe>
 </td>
 <td>
-<div width="50">
+<div>
+<p>
 visual-tools, clay, calva, noj, datavis, hanami, tablecloth
+</p>
 </div>
 </td>
 </tr>
 <tr>
 <td>
-<div style="width:200;">
+<div>
 <p>
-<a href="projects/visual-tools/clay-cider-demo-20231217/index.html">Clay CIDER integration - image processing demo</a>
+2023-12-17
 </p>
-<p>
-<a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-cider-demo-20231217">
-</a></p><pre><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-cider-demo-20231217">(source)</a></pre><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-cider-demo-20231217">
-</a>
-<p></p>
+</div>
+</td>
+<td>
+<div>
+<pre><p><a href="projects/visual-tools/clay-cider-demo-20231217/index.html">Clay CIDER integration - image processing demo</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-cider-demo-20231217" style="background-color:#fdf6e3;">(source)</a></p></pre>
 </div>
 </td>
 <td>
@@ -148,13 +156,16 @@ visual-tools, clay, calva, noj, datavis, hanami, tablecloth
 </iframe>
 </td>
 <td>
-<div width="50">
+<div>
+<p>
 visual-tools, clay, cider, noj, image-processing, dtype-next, tensors
+</p>
 </div>
 </td>
 </tr>
 </tbody>
 
+<script>new DataTable(document.currentScript.parentElement, {"paging":false});</script>
 </table>
 </section>
 <section id="contributing" class="level2">
