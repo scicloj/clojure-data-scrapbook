@@ -1,11 +1,16 @@
-^:kindly/hide-code?
+^{:kindly/hide-code true
+  :clay {:quarto {:format {:html {:toc false
+                                  :theme :spacelab}}
+                  :highlight-style :solarized
+                  :code-block-background true
+                  :include-in-header {:text "<link rel = \"icon\" href = \"data:,\" />"}}}}
 (ns index
   (:require [clojure.string :as str]
             [scicloj.kindly.v4.kind :as kind]))
 
 ;; # Clojure Data Scrapbook
 
-^{:kindly/hide-code? true}
+^{:kindly/hide-code true}
 (kind/hiccup
  [:img {:src "https://scicloj.github.io/sci-cloj-logo-transparent.png"
         :alt "SciCloj logo"
@@ -21,7 +26,7 @@
 
 ;; ## Tutorials
 
-^{:kindly/hide-code? true}
+^{:kindly/hide-code true}
 (-> {:row-vectors (->> [["2023-12-16"
                          "Clay Calva integration - datavis demo"
                          "projects/visual-tools/clay-calva-demo-20231216/index.html"
