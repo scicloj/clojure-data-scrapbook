@@ -6,16 +6,17 @@
                   :include-in-header {:text "<link rel = \"icon\" href = \"data:,\" />"}}}}
 (ns index
   (:require [clojure.string :as str]
-            [scicloj.kindly.v4.kind :as kind]))
+            [scicloj.kindly.v4.kind :as kind]
+            [scicloj.kindly.v4.api :as kindly]))
 
 ;; # Clojure Data Scrapbook
 
-^{:kindly/hide-code true}
-(kind/hiccup
- [:img {:src "https://scicloj.github.io/sci-cloj-logo-transparent.png"
-        :alt "SciCloj logo"
-        :width "100"
-        :align "right"}])
+(-> [:img {:src "https://scicloj.github.io/sci-cloj-logo-transparent.png"
+           :alt "SciCloj logo"
+           :width "100"
+           :align "right"}]
+    kind/hiccup
+    kindly/hide-code)
 
 ;; The Clojure Data Scrapbook is a collection of
 ;; community-contributed examples for the emerging Clojure data stack.
@@ -26,7 +27,6 @@
 
 ;; ## Tutorials
 
-^{:kindly/hide-code true}
 (-> {:row-vectors (->> [["2023-12-16"
                          "Clay Calva integration - datavis demo"
                          "projects/visual-tools/clay-calva-demo-20231216/index.html"
@@ -60,7 +60,8 @@
                     "video"
                     "tags"]}
     (kind/table {:datatables
-                 {:paging false}}))
+                 {:paging false}})
+    kindly/hide-code)
 
 ;; ## Contributing
 
