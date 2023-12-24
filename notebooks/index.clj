@@ -3,13 +3,13 @@
                                   :theme :spacelab}}
                   :highlight-style :solarized
                   :code-block-background true
-                  :include-in-header {:text "<link rel = \"icon\" href = \"data:,\" />"}}}}
+                  :include-in-header {:text "<link rel = \"icon\" href = \"data:,\" />"}
+                  :title "Clojure Data Scrapbook"}}}
+
 (ns index
   (:require [clojure.string :as str]
             [scicloj.kindly.v4.kind :as kind]
             [scicloj.kindly.v4.api :as kindly]))
-
-;; # Clojure Data Scrapbook
 
 (-> [:img {:src "https://scicloj.github.io/sci-cloj-logo-transparent.png"
            :alt "SciCloj logo"
