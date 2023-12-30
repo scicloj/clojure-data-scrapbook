@@ -124,19 +124,19 @@
                   :contributors_url
                   #_slurp)))))
 
-(defonce borkdude-repos
-  (-> "https://api.github.com/users/borkdude/repos"
-      (client/get {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")})
-      :body
-      (charred/read-json :key-fn keyword)
-      (->> (map :html_url))))
+;; (defonce borkdude-repos
+;;   (-> "https://api.github.com/users/borkdude/repos"
+;;       (client/get {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")})
+;;       :body
+;;       (charred/read-json :key-fn keyword)
+;;       (->> (map :html_url))))
 
-(defonce babashka-repos
-  (-> "https://api.github.com/users/babashka/repos"
-      (client/get {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")})
-      :body
-      (charred/read-json :key-fn keyword)
-      (->> (map :html_url))))
+;; (defonce babashka-repos
+;;   (-> "https://api.github.com/users/babashka/repos"
+;;       (client/get {:oauth-token (System/getenv "GITHUB_OAUTH_TOKEN")})
+;;       :body
+;;       (charred/read-json :key-fn keyword)
+;;       (->> (map :html_url))))
 
 (def repos
   (->> data
