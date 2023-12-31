@@ -29,21 +29,21 @@
 
 (-> {:row-vectors (->> [["2023-12-16"
                          "Clay Calva integration - datavis demo"
-                         "projects/visual-tools/clay-calva-demo-20231216"
+                         "projects/visual-tools/clay-calva-demo-20231216/index.html"
                          "projects/visual-tools/clay-calva-demo-20231216"
                          "X_SsjhmG5Ok"
                          [:visual-tools :clay :calva :noj
                           :datavis :hanami :tablecloth]]
                         ["2023-12-17"
                          "Clay CIDER integration - image processing demo"
-                         "projects/visual-tools/clay-cider-demo-20231217"
+                         "projects/visual-tools/clay-cider-demo-20231217/index.html"
                          "projects/visual-tools/clay-cider-demo-20231217"
                          "fd4kjlws6Ts"
                          [:visual-tools :clay :cider :noj
                           :image-processing :dtype-next :tensors]]
                         ["2023-12-31"
                          "Reading HDF files"
-                         "projects/data-formats/hdf"
+                         "projects/data-formats/hdf/index.html"
                          "projects/data-formats/hdf/"
                          nil
                          [:data-formats :hdf :dtype-next :tensors]]]
