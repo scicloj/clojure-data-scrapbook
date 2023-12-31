@@ -40,7 +40,13 @@
                          "projects/visual-tools/clay-cider-demo-20231217"
                          "fd4kjlws6Ts"
                          [:visual-tools :clay :cider :noj
-                          :image-processing :dtype-next :tensors]]]
+                          :image-processing :dtype-next :tensors]]
+                        ["2023-12-31"
+                         "Reading HDF files"
+                         "projects/data-formats/hdf/index.html"
+                         "projects/data-formats/hdf/"
+                         nil
+                         [:data-formats :hdf :dtype-next :tensors]]]
                        (map (fn [[date title url source-path youtube-id tags]]
                               [date
                                (kind/hiccup
@@ -52,10 +58,11 @@
                                            :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
                                                       source-path)}
                                        "(source)"]]]])
-                               (kind/hiccup
-                                [:iframe
-                                 {:src (str "https://www.youtube.com/embed/" youtube-id)
-                                  :allowfullscreen "allowfullscreen"}])
+                               (when youtube-id
+                                 (kind/hiccup
+                                  [:iframe
+                                   {:src (str "https://www.youtube.com/embed/" youtube-id)
+                                    :allowfullscreen "allowfullscreen"}]))
                                (->> tags
                                     (map name)
                                     (str/join ", "))])))
