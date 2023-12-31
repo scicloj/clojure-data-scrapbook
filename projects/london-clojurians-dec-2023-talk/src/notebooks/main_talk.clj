@@ -1,7 +1,6 @@
 (ns notebooks.main-talk
   (:require [tablecloth.api :as tc]
             [scicloj.noj.v1.vis :as vis]
-            [tablecloth.api.columns :as tcc]
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [tech.v3.datatype.datetime :as datetime]
@@ -56,6 +55,28 @@
                         :watchers_count
                         :stargazers_count
                         :created_at]))
+
+;; Group repos by owner
+
+(-> clojure-repos
+    (tc/map-columns :owner_handle [:owner] :login)
+    (tc/select-columns [:full_name :owner_handle :watchers_count :created_at])
+    (tc/group-by [:owner_handle])
+    (tc/as-regular-dataset)
+    (tc/select-rows 0)
+    :data)
+
+(-> clojure-repos
+    (tc/group-by [:owner_handle])
+    (tc/aggregate {:repos_count tc/row-count})
+    (tc/order-by :repos_count [:desc]))
+
+(-> clojure-repos
+    (tc/map-columns :owner_handle [:owner] :login)
+    (tc/group-by [:owner_handle])
+    (tc/aggregate {:total_watchers (fn [ds]
+                                     (reduce + (:watchers_count ds)))}))
+
 
 ;; Do newer repos have fewer watchers?
 
@@ -113,18 +134,6 @@
 
 
 
-;; Group repos by owner
-
-(-> smaller-clojure-repos
-    (tc/group-by [:owner_handle])
-    (tc/aggregate {:repos_count tc/row-count})
-    (tc/order-by :repos_count [:desc]))
-
-(-> clojure-repos
-    (tc/map-columns :owner_handle [:owner] :login)
-    (tc/group-by [:owner_handle])
-    (tc/aggregate {:total_watchers (fn [ds]
-                                     (reduce + (:watchers_count ds)))}))
 
 (-> commit-dates tc/column-names)
 
