@@ -17,7 +17,7 @@
 
 ;; Original discussion at the Clojurians Zulip [chat](https://scicloj.github.io/docs/community/chat/): [#data-science > import hdf files](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/import.20hdf.20files).
 
-(ns scicloj.scrapbook.hdf
+(ns index
   (:require [babashka.fs :as fs]
             [tech.v3.tensor :as tensor]
             [clojure.java.io :as io]
