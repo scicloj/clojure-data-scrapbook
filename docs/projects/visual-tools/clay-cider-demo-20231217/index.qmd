@@ -7,23 +7,7 @@ code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ---
-<style>table {
-  border-style: thin;
-}
-th, td {
-  padding: 6px;
-}
-td {
-  text-align: left;
-}
-th {
-  text-align: center;
-  background-color: #ddd;
-}
-tr:nth-child(even) {
-  background-color: #f6f6f6;
-}
-</style><style>.printedClojure .sourceCode {
+<style>.printedClojure .sourceCode {
   background-color: transparent;
   border-style: none;
 }
