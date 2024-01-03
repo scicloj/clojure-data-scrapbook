@@ -2,15 +2,15 @@
 
 :tada: Thanks for taking the time to contribute! :tada:
 
-Reporting issues and pull requests are welcome.
-
-These are guidelines to help you get started contributing.
-Please use your best judgment and feel free to propose changes.
+The contribiution guide is coming soon, but you are already invited to get involved. You may use the issues page or reach out to us at the [Clojurians Zulip chat](You may).
 
 ## Guide
 
-(Coming soon)
+These are guidelines to help you get started contributing. Please use your best judgment and feel free to propose changes.
 
+Reporting issues and pull requests are welcome.
+
+(Coming soon)
 
 ## Questions and discussion
 
