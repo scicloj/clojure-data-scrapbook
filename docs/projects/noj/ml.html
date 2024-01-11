@@ -142,6 +142,8 @@ This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scra
 </tr>
 
 </tbody></table>
+<section id="machine-learning---draft" class="level1">
+<h1>Machine learning - DRAFT</h1>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb1"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">ns</span> ml</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  (<span class="at">:require</span> [scicloj.ml.core <span class="at">:as</span> ml]</span>
@@ -153,8 +155,6 @@ This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scra
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>            [scicloj.noj.v1.datasets <span class="at">:as</span> datasets]</span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>            [scicloj.kindly.v4.kind <span class="at">:as</span> kind]))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<section id="machine-learning---draft" class="level1">
-<h1>Machine learning - DRAFT</h1>
 <section id="linear-regression" class="level2">
 <h2 class="anchored" data-anchor-id="linear-regression">Linear regression</h2>
 <p>We will explore the Iris dataset:</p>
@@ -251,20 +251,20 @@ This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scra
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>Residuals:</span>
 <span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>       Min          1Q      Median          3Q         Max</span>
-<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>   -<span class="fl">0.7698</span>     -<span class="fl">0.2528</span>      <span class="fl">0.0188</span>      <span class="fl">0.2103</span>      <span class="fl">0.5987</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>   -<span class="fl">0.7900</span>     -<span class="fl">0.2237</span>      <span class="fl">0.0394</span>      <span class="fl">0.2235</span>      <span class="fl">0.8037</span></span>
 <span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>Coefficients:</span>
 <span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>                  Estimate Std. Error    t value   Pr(<span class="kw">&gt;</span>|t|)</span>
-<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>Intercept           <span class="fl">1.8690</span>     <span class="fl">0.2997</span>     <span class="fl">6.2352</span>     <span class="fl">0.0000</span> ***</span>
-<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>sepal-width         <span class="fl">0.6645</span>     <span class="fl">0.0791</span>     <span class="fl">8.3956</span>     <span class="fl">0.0000</span> ***</span>
-<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>petal-length        <span class="fl">0.7226</span>     <span class="fl">0.0722</span>    <span class="fl">10.0028</span>     <span class="fl">0.0000</span> ***</span>
-<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>petal-width        -<span class="fl">0.6541</span>     <span class="fl">0.1594</span>    -<span class="fl">4.1043</span>     <span class="fl">0.0001</span> ***</span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>Intercept           <span class="fl">1.7690</span>     <span class="fl">0.3120</span>     <span class="fl">5.6689</span>     <span class="fl">0.0000</span> ***</span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>sepal-width         <span class="fl">0.6801</span>     <span class="fl">0.0844</span>     <span class="fl">8.0599</span>     <span class="fl">0.0000</span> ***</span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>petal-length        <span class="fl">0.7043</span>     <span class="fl">0.0664</span>    <span class="fl">10.6014</span>     <span class="fl">0.0000</span> ***</span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>petal-width        -<span class="fl">0.5256</span>     <span class="fl">0.1508</span>    -<span class="fl">3.4858</span>     <span class="fl">0.0007</span> ***</span>
 <span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>---------------------------------------------------------------------</span>
 <span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>Significance codes:  <span class="dv">0</span> <span class="at">'***'</span> <span class="fl">0.001</span> <span class="at">'**'</span> <span class="fl">0.01</span> <span class="at">'*'</span> <span class="fl">0.05</span> <span class="at">'.'</span> <span class="fl">0.1</span> ' ' <span class="dv">1</span></span>
 <span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>Residual standard error: <span class="fl">0.3154</span> on <span class="dv">96</span> degrees of freedom</span>
-<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>Multiple R-squared: <span class="fl">0.8466</span>,    Adjusted R-squared: <span class="fl">0.8418</span></span>
-<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>F-statistic: <span class="fl">176.6175</span> on <span class="dv">4</span> <span class="kw">and</span> <span class="dv">96</span> DF,  p-value: <span class="fl">6.018e-39</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>Residual standard error: <span class="fl">0.3057</span> on <span class="dv">96</span> degrees of freedom</span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>Multiple R-squared: <span class="fl">0.8690</span>,    Adjusted R-squared: <span class="fl">0.8649</span></span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>F-statistic: <span class="fl">212.1968</span> on <span class="dv">4</span> <span class="kw">and</span> <span class="dv">96</span> DF,  p-value: <span class="fl">3.179e-42</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div style="background-color:grey;height:2px;width:100%;">
 
