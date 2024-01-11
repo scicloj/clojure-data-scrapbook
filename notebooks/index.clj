@@ -50,7 +50,7 @@
                         ["2024-01-11"
                          "Machine learning - DRAFT"
                          "projects/noj/ml.html"
-                         "projects/noj/ml.html"
+                         "projects/noj/notebooks/ml.clj"
                          nil
                          [:noj :ml :scicloj.ml :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
