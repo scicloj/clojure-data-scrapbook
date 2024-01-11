@@ -46,7 +46,13 @@
                          "projects/data-formats/hdf/index.html"
                          "projects/data-formats/hdf/"
                          nil
-                         [:data-formats :hdf :dtype-next :tensors]]]
+                         [:data-formats :hdf :dtype-next :tensors]]
+                        ["2024-01-11"
+                         "Machine learning - DRAFT"
+                         "projects/data-formats/noj/ml.html"
+                         "projects/data-formats/noj/ml.html"
+                         nil
+                         [:noj :ml :scicloj.ml :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
                               [date
                                (kind/hiccup
