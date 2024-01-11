@@ -14,6 +14,8 @@
           :width "40"
           :align "left"}]]]]
 
+;; # Machine learning - DRAFT
+
 (ns ml
   (:require [scicloj.ml.core :as ml]
             [scicloj.ml.metamorph :as mm]
@@ -23,9 +25,6 @@
             [tablecloth.api :as tc]
             [scicloj.noj.v1.datasets :as datasets]
             [scicloj.kindly.v4.kind :as kind]))
-
-;; # Machine learning - DRAFT
-
 
 ;; ## Linear regression
 
