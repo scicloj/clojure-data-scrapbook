@@ -1,10 +1,5 @@
 ^{:kindly/hide-code true
-  :clay {:quarto {:format {:html {:toc false
-                                  :theme :spacelab}}
-                  :highlight-style :solarized
-                  :code-block-background true
-                  :include-in-header {:text "<link rel = \"icon\" href = \"data:,\" />"}
-                  :title "Clojure Data Scrapbook"}}}
+  :clay {:quarto {:title "Clojure Data Scrapbook"}}}
 
 (ns index
   (:require [clojure.string :as str]
