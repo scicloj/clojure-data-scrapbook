@@ -24,6 +24,8 @@
             [scicloj.kindly.v4.kind
              :as kind]))
 
+(kind/video {:youtube-id "X_SsjhmG5Ok"})
+
 ;; ## Arithmetic
 
 (+ 1 2)

@@ -25,6 +25,8 @@
             [scicloj.noj.v1.vis.image :as vis.image]
             [scicloj.kindly.v4.kind :as kind]))
 
+(kind/video {:youtube-id "fd4kjlws6Ts"})
+
 ;; ## Arithmetic
 
 (+ 1 2)
