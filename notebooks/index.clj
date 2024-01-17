@@ -60,10 +60,7 @@
                                                       source-path)}
                                        "(source)"]]]])
                                (when youtube-id
-                                 (kind/hiccup
-                                  [:iframe
-                                   {:src (str "https://www.youtube.com/embed/" youtube-id)
-                                    :allowfullscreen "allowfullscreen"}]))
+                                 (kind/video {:youtube-id youtube-id}))
                                (->> tags
                                     (map name)
                                     (str/join ", "))])))
