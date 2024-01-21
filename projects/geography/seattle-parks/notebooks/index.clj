@@ -84,7 +84,7 @@ by the presence of of Parks in them
                 center
                 shapes]}]
      [:div
-      {:style {:height "600px"}
+      {:style {:height "900px"}
        :ref (fn [el]
               (let [m (-> js/L
                           (.map el)
@@ -99,16 +99,21 @@ by the presence of of Parks in them
                                     :attribution attribution}))
                       (.addTo m)))
                 (->> shapes
-                     (run! (fn [{:keys [shape-type coordinates]}]
+                     (run! (fn [{:keys [shape-type
+                                        coordinates
+                                        style]}]
                              (case shape-type
                                :polygon (-> js/L
-                                            (.polygon (clj->js coordinates))
+                                            (.polygon (clj->js coordinates)
+                                                      (clj->js (or style {})))
                                             (.addTo m)) ))))))}])
   {:tile-layer {:url "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
                 :max-zoom 19
                 :attribution "&copy; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
    :center Seattle-center
-   :shapes neighborhoods-coordinates}]
+   :shapes (->> neighborhoods-coordinates
+                (mapv #(assoc % :style {:opacity 0.3
+                                        :fillOpacity 0.2})))}]
  {:reagent/deps [:leaflet]})
 
 
