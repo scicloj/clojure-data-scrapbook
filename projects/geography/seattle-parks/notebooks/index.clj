@@ -9,7 +9,8 @@
             [tech.v3.datatype.functional :as fun]
             [tablecloth.api :as tc]
             [scicloj.kindly.v4.kind :as kind]
-            [scicloj.kindly.v4.api :as kindly])
+            [scicloj.kindly.v4.api :as kindly]
+            [hiccup.core :as hiccup])
   (:import (org.locationtech.jts.index.strtree STRtree)
            (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
            (org.locationtech.jts.geom.prep PreparedGeometry
@@ -68,12 +69,20 @@ by the presence of of Parks in them
 
 (def neighborhoods-coordinates
   (->> neighborhoods-geojson
-       (mapv (fn [{:keys [geometry]}]
+       (mapv (fn [{:as feature
+                   :keys [geometry]}]
                {:shape-type :polygon
                 :coordinates (->> geometry
                                   jts/coordinates
                                   (mapv (fn [^Coordinate c]
-                                          [(.y c) (.x c)])))}))))
+                                          [(.y c) (.x c)])))
+                :tooltip (-> feature
+                             :properties
+                             (select-keys [:L_HOOD :S_HOOD :S_HOOD_ALT_NAMES])
+                             (->> (map (fn [[k v]]
+                                         [:p [:b k] ":  " v]))
+                                  (into [:div]))
+                             hiccup/html)}))))
 
 (->> neighborhoods-coordinates
      (take 5)
@@ -101,11 +110,13 @@ by the presence of of Parks in them
                 (->> shapes
                      (run! (fn [{:keys [shape-type
                                         coordinates
-                                        style]}]
+                                        style
+                                        tooltip]}]
                              (case shape-type
                                :polygon (-> js/L
                                             (.polygon (clj->js coordinates)
                                                       (clj->js (or style {})))
+                                            (.bindTooltip tooltip)
                                             (.addTo m)) ))))))}])
   {:tile-layer {:url "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
                 :max-zoom 19
@@ -113,7 +124,7 @@ by the presence of of Parks in them
    :center Seattle-center
    :shapes (->> neighborhoods-coordinates
                 (mapv #(assoc % :style {:opacity 0.3
-                                        :fillOpacity 0.2})))}]
+                                        :fillOpacity 0.1})))}]
  {:reagent/deps [:leaflet]})
 
 
