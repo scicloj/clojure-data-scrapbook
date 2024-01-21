@@ -11,7 +11,7 @@
             [scicloj.kindly.v4.kind :as kind]
             [scicloj.kindly.v4.api :as kindly])
   (:import (org.locationtech.jts.index.strtree STRtree)
-           (org.locationtech.jts.geom Geometry Point Polygon)
+           (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
            (org.locationtech.jts.geom.prep PreparedGeometry
                                            PreparedLineString
                                            PreparedPolygon
@@ -58,6 +58,54 @@ by the presence of of Parks in them
 (->> parks-geojson
      (take 5)
      kind/portal)
+
+(md "## Drawing a map")
+
+(kind/md "[Seattle](https://www.latlong.net/place/seattle-wa-usa-2655.html)")
+
+(def Seattle-center
+  [47.608013 -122.335167])
+
+(def neighborhoods-coordinates
+  (->> neighborhoods-geojson
+       (mapv (fn [{:keys [geometry]}]
+               {:shape-type :polygon
+                :coordinates (->> geometry
+                                  jts/coordinates
+                                  (mapv (fn [^Coordinate c]
+                                          [(.y c) (.x c)])))}))))
+(kind/reagent
+ ['(fn [{:keys [tile-layer
+                center
+                shapes]}]
+     [:div
+      {:style {:height "600px"}
+       :ref (fn [el]
+              (let [m (-> js/L
+                          (.map el)
+                          (.setView (clj->js center)
+                                    11))]
+                (let [{:keys [url max-zoom attribution]}
+                      tile-layer]
+                  (-> js/L
+                      (.tileLayer url
+                                  (clj->js
+                                   {:maxZoom max-zoom
+                                    :attribution attribution}))
+                      (.addTo m)))
+                (->> shapes
+                     (run! (fn [{:keys [shape-type coordinates]}]
+                             (case shape-type
+                               :polygon (-> js/L
+                                            (.polygon (clj->js coordinates))
+                                            (.addTo m)) ))))))}])
+  {:tile-layer {:url "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+                :max-zoom 19
+                :attribution "&copy; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
+   :center Seattle-center
+   :shapes neighborhoods-coordinates}]
+ {:reagent/deps [:leaflet]})
+
 
 (md "## Coordinate conversions")
 
