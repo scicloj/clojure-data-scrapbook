@@ -74,6 +74,11 @@ by the presence of of Parks in them
                                   jts/coordinates
                                   (mapv (fn [^Coordinate c]
                                           [(.y c) (.x c)])))}))))
+
+(->> neighborhoods-coordinates
+     (take 5)
+     kind/portal)
+
 (kind/reagent
  ['(fn [{:keys [tile-layer
                 center
