@@ -1,5 +1,5 @@
 {:deps {org.clojure/clojure       {:mvn/version "1.12.0-alpha3"}
-        org.scicloj/clay {:mvn/version "2-alpha55"}
-        org.scicloj/noj {:mvn/version "1-alpha22"}
+        org.scicloj/clay {:mvn/version "2-alpha72"}
+        org.scicloj/noj {:mvn/version "1-alpha24"}
         io.jhdf/jhdf {:mvn/version "0.6.10"}}
  :paths ["src" "notebooks"]}
