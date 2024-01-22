@@ -1,5 +1,5 @@
 
-^{:kindly/hide-code? true
+^{:kindly/hide-code true
   :kindly/kind :kind/hiccup}
 [:table
  [:tr
