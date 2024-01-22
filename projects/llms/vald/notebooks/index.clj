@@ -1,5 +1,4 @@
-^{:kindly/hide-code true}
-(ns scicloj.scrapbook.vald
+(ns index
   (:require [clojure.string :as string]
             [tech.v3.datatype :as dtype]
             [tech.v3.datatype.functional :as fun]
