@@ -6,6 +6,9 @@
             [wkok.openai-clojure.api :as openai]
             [scicloj.kindly.v4.kind :as kind]))
 
+(assert
+ (System/getenv "OPENAI_API_KEY"))
+
 ;; # plan
 ;; * keep our knowledge in a vector database
 ;; * inject that into chats
