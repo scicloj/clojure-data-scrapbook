@@ -6,11 +6,28 @@
 ;; This article demonstrates how to prepare the geospatial data, calculate the value we want,
 ;; and how to explore the meaning behind the numbers.
 
-^:kindly/hide (ns index
-                (:require [scicloj.kindly.v4.kind :as kind]
-                          [scicloj.kindly.v4.api :as kindly]
-                          [hiccup.core :as hiccup]))
-^:kindly/hide (def md (comp kindly/hide-code kind/md))
+(ns index
+  (:require [geo
+             [geohash :as geohash]
+             [jts :as jts]
+             [spatial :as spatial]
+             [io :as geoio]
+             [crs :as crs]]
+            [tech.v3.datatype.functional :as fun]
+            [tablecloth.api :as tc]
+            [scicloj.kindly.v4.kind :as kind]
+            [scicloj.kindly.v4.api :as kindly]
+            [hiccup.core :as hiccup])
+  (:import (org.locationtech.jts.index.strtree STRtree)
+           (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
+           (org.locationtech.jts.geom.prep PreparedGeometry
+                                           PreparedLineString
+                                           PreparedPolygon
+                                           PreparedGeometryFactory)
+           (java.util TreeMap)))
+
+^:kindly/hide-code
+(def md (comp kindly/hide-code kind/md))
 
 ;; ## Gathering geospatial data
 
@@ -19,25 +36,7 @@
 
 ;; I've saved a snapshot in the `data` directory.
 
-#_(ns index
-    (:require [geo
-               [geohash :as geohash]
-               [jts :as jts]
-               [spatial :as spatial]
-               [io :as geoio]
-               [crs :as crs]]
-              [tech.v3.datatype.functional :as fun]
-              [tablecloth.api :as tc]
-              [scicloj.kindly.v4.kind :as kind]
-              [scicloj.kindly.v4.api :as kindly]
-              [hiccup.core :as hiccup])
-    (:import (org.locationtech.jts.index.strtree STRtree)
-             (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
-             (org.locationtech.jts.geom.prep PreparedGeometry
-                                             PreparedLineString
-                                             PreparedPolygon
-                                             PreparedGeometryFactory)
-             (java.util TreeMap)))
+
 
 ;; The data format is gzipped geojson.
 ;; Java has a built-in class for handling gzip streams,
