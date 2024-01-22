@@ -72,6 +72,10 @@
 
 ;; # Using vald-client-clj
 
+;; See
+;; https://vald.vdaas.org/docs/tutorial/get-started/
+;; https://github.com/vdaas/vald-client-clj
+
 (def embedding-dimension 1536)
 
 (def vald-client
