@@ -1,10 +1,10 @@
-; # Seattle Parks & Neighborhoods
+;; # Seattle Parks & Neighborhoods
 
-; Choosing where to live depends on many factors such as job opportunities and cost of living.
-; I like walking, so one factor that is important to me is access to parks.
-; In this analysis we'll rank neighborhoods by park area proportional to total area.
-; This article demonstrates how to prepare the geospatial data, calculate the value we want,
-; and how to explore the meaning behind the numbers.
+;; Choosing where to live depends on many factors such as job opportunities and cost of living.
+;; I like walking, so one factor that is important to me is access to parks.
+;; In this analysis we'll rank neighborhoods by park area proportional to total area.
+;; This article demonstrates how to prepare the geospatial data, calculate the value we want,
+;; and how to explore the meaning behind the numbers.
 
 ^:kindly/hide (ns index
                 (:require [scicloj.kindly.v4.kind :as kind]
@@ -12,12 +12,12 @@
                           [hiccup.core :as hiccup]))
 ^:kindly/hide (def md (comp kindly/hide-code kind/md))
 
-; ## Gathering geospatial data
+;; ## Gathering geospatial data
 
-; Both the neighborhood geometry and park geometry can be downloaded from
-; ![Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::neighborhood-map-atlas-neighborhoods/explore)
+;; Both the neighborhood geometry and park geometry can be downloaded from
+;; ![Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::neighborhood-map-atlas-neighborhoods/explore)
 
-; I've saved a snapshot in the `data` directory.
+;; I've saved a snapshot in the `data` directory.
 
 #_(ns index
     (:require [geo
@@ -39,9 +39,9 @@
                                              PreparedGeometryFactory)
              (java.util TreeMap)))
 
-; The data format is gzipped geojson.
-; Java has a built-in class for handling gzip streams,
-; and we'll use the [factual/geojson](https://github.com/Factual/geo) library to parse the string representation.
+;; The data format is gzipped geojson.
+;; Java has a built-in class for handling gzip streams,
+;; and we'll use the [factual/geojson](https://github.com/Factual/geo) library to parse the string representation.
 
 (defn slurp-gzip
   "Read a gzipped file into a string"
@@ -55,35 +55,35 @@
   (-> (slurp-gzip path)
       (geo.io/read-geojson)))
 
-;; Now we can conveniently load the data files we downloaded previously.
+;;; Now we can conveniently load the data files we downloaded previously.
 
 (def neighborhoods-geojson
   (parse-geojson-gz "data/Seattle/Neighborhood_Map_Atlas_Neighborhoods.geojson.gz"))
 
-;; Let's check that we got some data
+;;; Let's check that we got some data
 
 (count neighborhoods-geojson)
 
-;; This seems like a reasonable number of neighborhoods
+;;; This seems like a reasonable number of neighborhoods
 
 (-> (first neighborhoods-geojson)
     (kind/pprint))
 
-;; The data itself consists of geographic regions
+;;; The data itself consists of geographic regions
 
-;; And similarly for the parks
+;;; And similarly for the parks
 
 (def parks-geojson
   (parse-geojson-gz "data/Seattle/Park_Boundary_(details).geojson.gz"))
 
 (count parks-geojson)
 
-;; There are more parks than suburbs, which sounds right
+;;; There are more parks than suburbs, which sounds right
 
 (-> (first parks-geojson)
     (kind/pprint))
 
-;; And the parks are defined as geographic regions
+;;; And the parks are defined as geographic regions
 
 (md "## Drawing a map")
 
@@ -145,7 +145,7 @@
                                                (.addTo m))))))))}])
    {:tile-layer {:url         "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
                  :max-zoom    19
-                 :attribution "&copy; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
+                 :attribution "&copy;; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
     :center     Seattle-center
     :shapes     (->> neighborhoods-coordinates
                      (mapv #(assoc % :style {:opacity     0.3
@@ -163,12 +163,12 @@ which is locally correct in terms of distances in a region around Seattle. ")
 
 ;;
 
-;; [EPSG:4326](https://epsg.io/4326)
+;;; [EPSG:4326](https://epsg.io/4326)
 (def wgs84-crs (geo.crs/create-crs 4326))
 
 (require '[tablecloth.api :as tc])
 
-;; [EPSG:2285](https://epsg.io/2285)
+;;; [EPSG:2285](https://epsg.io/2285)
 ^:kindly/hide-code
 (-> {"Center coordinates" [[1692592.39 -541752.55]]
      "Projected bounds"   [[[559165.71 -1834123.81]
@@ -217,7 +217,7 @@ which is locally correct in terms of distances in a region around Seattle. ")
 
 (def parks
   (-> (geojson->dataset parks-geojson "Seattle parks")
-      ;; avoiding some [linestring pathologies](https://gis.stackexchange.com/questions/50399/fixing-non-noded-intersection-problem-using-postgis)
+      ;;; avoiding some [linestring pathologies](https://gis.stackexchange.com/questions/50399/fixing-non-noded-intersection-problem-using-postgis)
       (tc/map-columns :geometry [:geometry] #(buffer % 1))))
 
 (delay
@@ -252,7 +252,7 @@ See the JTS [SearchUsingPreparedGeometryIndex tutorial](https://github.com/locat
                  (.intersects (:prepared-geometry row) region)))
        tc/dataset))
 
-;; For example, let us find the parks intersecting with the first neighborhood:
+;;; For example, let us find the parks intersecting with the first neighborhood:
 
 (delay
   (-> neighborhoods
@@ -289,8 +289,8 @@ For every neighborhood, we will compute the proportion of its area covered by pa
 
 (require '[tech.v3.datatype.functional :as fun])
 
-;; TODO: L_HOOD should be used, S_HOOD produces too many rows to be understood
-;; (maybe S_HOOD would be interesting for looking at one L_HOOD at a time)
+;;; TODO: L_HOOD should be used, S_HOOD produces too many rows to be understood
+;;; (maybe S_HOOD would be interesting for looking at one L_HOOD at a time)
 
 (delay
   (-> neighborhoods-with-parks
@@ -324,13 +324,13 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                           :area-proportion])
       (tc/order-by [:area-proportion] :desc)))
 
-; TODO: The area proportions would be best represented in a bar chart to accompany the table
-; TODO: summarizing the quartiles of values might be useful as well
+;; TODO: The area proportions would be best represented in a bar chart to accompany the table
+;; TODO: summarizing the quartiles of values might be useful as well
 
-; TODO: An interesting map would show just one L_HOOD and all the parks,
-; perhaps choosing the "winner" with most park space and showing where in Seattle it is, and what parks are there.
+;; TODO: An interesting map would show just one L_HOOD and all the parks,
+;; perhaps choosing the "winner" with most park space and showing where in Seattle it is, and what parks are there.
 
-; ## Conclusion
+;; ## Conclusion
 
-; Park access is fairly uniform and high in Seattle.
-; TODO: can we compare it to another city?
+;; Park access is fairly uniform and high in Seattle.
+;; TODO: can we compare it to another city?
