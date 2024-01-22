@@ -1,29 +1,11 @@
-^{:kindly/hide-code? true}
+^{:kindly/hide-code true}
 (ns scicloj.scrapbook.vald
   (:require [clojure.string :as string]
             [tech.v3.datatype :as dtype]
             [tech.v3.datatype.functional :as fun]
             [vald-client-clj.core :as vald]
             [wkok.openai-clojure.api :as openai]
-            [scicloj.kindly-default.v1.api :refer [md]]
-            [scicloj.kindly.v3.kind :as kind]
-            [scicloj.clay.v2.api :as clay]))
-
-
-^{:kindly/hide-code? true}
-(kind/void
- [(clay/swap-options!
-   assoc
-   :quarto {:title "Embeddings & Vector DBs"
-            :author "Daniel Slutsky"
-            :institute "Scicloj LLM Meetup #2"
-            :format
-            {:revealjs {:theme :solarized
-                        :navigation-mode :vertical
-                        :transition :slide
-                        :background-transition :fade
-                        :incremental true
-                        :embed-resources true}}})])
+            [scicloj.kindly.v4.kind :as kind]))
 
 ;; # plan
 ;; * keep our knowledge in a vector database
@@ -35,7 +17,7 @@
   "By wikipedia:
  The banana fruits develop from the banana heart, in a large hanging cluster, made up of tiers (called \"hands\"), with up to 20 fruit to a tier. The hanging cluster is known as a bunch, comprising 3–20 tiers, or commercially as a \"banana stem\", and can weigh 30–50 kilograms (66–110 lb). Individual banana fruits (commonly known as a banana or \"finger\") average 125 grams (4+1⁄2 oz), of which approximately 75% is water and 25% dry matter (nutrient table, lower right).")
 
-(md a-wikipedia-paragraph-about-bananas)
+(kind/md a-wikipedia-paragraph-about-bananas)
 
 ;; # Using openai-clojure
 
