@@ -34,12 +34,14 @@
 ;; ## Gathering geospatial data
 
 ;; Both the neighborhood geometry and park geometry can be downloaded from
-;; [Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::neighborhood-map-atlas-neighborhoods/explore)
-
+;; [Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com/):
+;;
+;; - ["Park Boundary" dataset](https://data-seattlecitygis.opendata.arcgis.com/datasets/94e59cd6e7a6479c9131cc3eb40b29b8_2/explore)
+;;
+;; - ["Neighborhoods Map Atlas Neighborhoods" dataset](https://data-seattlecitygis.opendata.arcgis.com/datasets/neighborhood-map-atlas-neighborhoods/)
+;;
 ;; I've saved a snapshot in the `data` directory.
-
-
-
+;;
 ;; The data format is gzipped geojson.
 ;; Java has a built-in class for handling gzip streams,
 ;; and we'll use the [factual/geojson](https://github.com/Factual/geo) library to parse the string representation.
