@@ -34,7 +34,7 @@
 ;; ## Gathering geospatial data
 
 ;; Both the neighborhood geometry and park geometry can be downloaded from
-;; ![Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::neighborhood-map-atlas-neighborhoods/explore)
+;; [Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::neighborhood-map-atlas-neighborhoods/explore)
 
 ;; I've saved a snapshot in the `data` directory.
 
