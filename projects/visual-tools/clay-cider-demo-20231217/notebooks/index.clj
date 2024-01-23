@@ -1,19 +1,4 @@
-
-^{:kindly/hide-code true
-  :kindly/kind :kind/hiccup}
-[:table
- [:tr
-  [:td "This is part of the Scicloj "
-   [:a {:href "https://scicloj.github.io/clojure-data-scrapbook/"}
-    "Clojure Data Scrapbook"]
-   "."]
-  [:a
-   {:href "https://scicloj.github.io/clojure-data-scrapbook/"}
-   [:img {:src "https://scicloj.github.io/sci-cloj-logo-transparent.png"
-          :alt "SciCloj logo"
-          :width "40"
-          :align "left"}]]]]
-
+(load-file "../../../header.edn")
 
 ;; # Clay & Noj demo: image processing
 
