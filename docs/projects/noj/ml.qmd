@@ -2,27 +2,23 @@
 ---
 format:
   html: {toc: true, toc-depth: 4, theme: spacelab, output-file: ml.html}
-highlight-style: solarized
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ---
-<style>.table {
-    overflow-y: scroll;
-}
-</style><style>.printedClojure .sourceCode {
+<style></style><style>.printedClojure .sourceCode {
   background-color: transparent;
   border-style: none;
 }
 </style>
 <script src="ml_files/md-default0.js" type="text/javascript"></script><script src="ml_files/md-default1.js" type="text/javascript"></script>
-<table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table>
+<div style="max-height:600px;overflow-y:auto;"><table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table></div>
 
 
 # Machine learning - DRAFT
 
 
-<div class="sourceClojure">
+::: {.sourceClojure}
 ```clojure
 (ns ml
   (:require [scicloj.ml.core :as ml]
@@ -34,24 +30,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
             [scicloj.noj.v1.datasets :as datasets]
             [scicloj.kindly.v4.kind :as kind]))
 ```
-</div>
-
-
-
-<div class="sourceClojure">
-```clojure
-(+ 2 3)
-```
-</div>
-
-
-
-<div class="printedClojure">
-```clojure
-5
-
-```
-</div>
+:::
 
 
 
@@ -59,11 +38,11 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 We will explore the Iris dataset:
 
 
-<div class="sourceClojure">
+::: {.sourceClojure}
 ```clojure
 (tc/head datasets/iris)
 ```
-</div>
+:::
 
 
 _unnamed [5 5]:
@@ -81,7 +60,7 @@ _unnamed [5 5]:
 A Metamorph pipeline for linear regression:
 
 
-<div class="sourceClojure">
+::: {.sourceClojure}
 ```clojure
 (def additive-pipeline
   (ml/pipeline
@@ -90,13 +69,13 @@ A Metamorph pipeline for linear regression:
    {:metamorph/id :model}
    (mm/model {:model-type :smile.regression/ordinary-least-square})))
 ```
-</div>
+:::
 
 
 Training and evaluating the pipeline on various subsets:
 
 
-<div class="sourceClojure">
+::: {.sourceClojure}
 ```clojure
 (def evaluations
   (ml/evaluate-pipelines
@@ -107,13 +86,13 @@ Training and evaluating the pipeline on various subsets:
    {:other-metrices [{:name :r2
                       :metric-fn fastmath.stats/r2-determination}]}))
 ```
-</div>
+:::
 
 
 Printing one of the trained models (note that the Smile regression model is recognized by Kindly and printed correctly):
 
 
-<div class="sourceClojure">
+::: {.sourceClojure}
 ```clojure
 (-> evaluations
     flatten
@@ -122,33 +101,33 @@ Printing one of the trained models (note that the Smile regression model is reco
     :model
     ml/thaw-model)
 ```
-</div>
+:::
 
 
 
-<div class="printedClojure">
+::: {.printedClojure}
 ```clojure
 Linear Model:
 
 Residuals:
        Min          1Q      Median          3Q         Max
-   -0.7792     -0.2471      0.0207      0.2372      0.8531
+   -0.8225     -0.2071      0.0197      0.1946      0.8181
 
 Coefficients:
                   Estimate Std. Error    t value   Pr(>|t|)
-Intercept           1.6869     0.2922     5.7726     0.0000 ***
-sepal-width         0.6573     0.0790     8.3247     0.0000 ***
-petal-length        0.8419     0.0696    12.0977     0.0000 ***
-petal-width        -0.8468     0.1618    -5.2346     0.0000 ***
+Intercept           1.7397     0.2949     5.8997     0.0000 ***
+sepal-width         0.6671     0.0809     8.2462     0.0000 ***
+petal-length        0.7522     0.0638    11.7822     0.0000 ***
+petal-width        -0.6293     0.1438    -4.3776     0.0000 ***
 ---------------------------------------------------------------------
 Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-Residual standard error: 0.3135 on 96 degrees of freedom
-Multiple R-squared: 0.8817,    Adjusted R-squared: 0.8780
-F-statistic: 238.3941 on 4 and 96 DF,  p-value: 2.404e-44
+Residual standard error: 0.3188 on 96 degrees of freedom
+Multiple R-squared: 0.8758,    Adjusted R-squared: 0.8719
+F-statistic: 225.6278 on 4 and 96 DF,  p-value: 2.442e-43
 
 ```
-</div>
+:::
 
 
 <div style="background-color:grey;height:2px;width:100%;"></div>
