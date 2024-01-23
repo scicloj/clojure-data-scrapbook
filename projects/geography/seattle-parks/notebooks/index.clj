@@ -69,28 +69,30 @@
 
 ;;; This seems like a reasonable number of neighborhoods
 
-(-> (first neighborhoods-geojson)
-    (kind/pprint))
+(-> neighborhoods-geojson
+    first
+    kind/pprint)
 
-;;; The data itself consists of geographic regions
-
-;;; And similarly for the parks
+;;; The data itself consists of geographic regions.
+;;
+;;; And similarly for the parks:
 
 (def parks-geojson
   (parse-geojson-gz "data/Seattle/Park_Boundary_(details).geojson.gz"))
 
 (count parks-geojson)
 
-;;; There are more parks than suburbs, which sounds right
+;;; There are more parks than neighborhoods, which sounds right.
 
-(-> (first parks-geojson)
-    (kind/pprint))
+(-> parks-geojson
+    first
+    kind/pprint)
 
-;;; And the parks are defined as geographic regions
+;;; And the parks are defined as geographic regions.
 
 (md "## Drawing a map")
 
-(kind/md "[Seattle](https://www.latlong.net/place/seattle-wa-usa-2655.html)")
+(md "[Seattle coordinates](https://www.latlong.net/place/seattle-wa-usa-2655.html)")
 
 (def Seattle-center
   [47.608013 -122.335167])
@@ -161,17 +163,15 @@
 (md "
 Both datasets use the [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System)
 coordinate system.
-For area computations we need to convert them to a coordinate system
-which is locally correct in terms of distances in a region around Seattle. ")
 
-;;
+[EPSG:4326](https://epsg.io/4326)")
 
-;;; [EPSG:4326](https://epsg.io/4326)
-(def wgs84-crs (geo.crs/create-crs 4326))
 
-(require '[tablecloth.api :as tc])
+(md "For area computations we need to convert them to a coordinate system
+which is locally correct in terms of distances in a region around Seattle.
 
-;;; [EPSG:2285](https://epsg.io/2285)
+[EPSG:2285](https://epsg.io/2285)")
+
 ^:kindly/hide-code
 (-> {"Center coordinates" [[1692592.39 -541752.55]]
      "Projected bounds"   [[[559165.71 -1834123.81]
@@ -181,10 +181,9 @@ which is locally correct in terms of distances in a region around Seattle. ")
     tc/dataset
     (tc/set-dataset-name "United States (USA) - Oregon and Washington."))
 
-(def Seattle-crs (geo.crs/create-crs 2285))
-
 (def crs-transform
-  (geo.crs/create-transform wgs84-crs Seattle-crs))
+  (geo.crs/create-transform (geo.crs/create-crs 4326)
+                            (geo.crs/create-crs 2285)))
 
 (defn wgs84->Seattle
   "Transforming latitude-longitude coordinates
@@ -214,25 +213,30 @@ which is locally correct in terms of distances in a region around Seattle. ")
       (tc/set-dataset-name dataset-name)))
 
 (def neighborhoods
-  (geojson->dataset neighborhoods-geojson "Seattle neighborhoods"))
+  (-> neighborhoods-geojson
+      (geojson->dataset "Seattle neighborhoods")))
 
-(tc/drop-columns neighborhoods [:geometry])
+(-> neighborhoods
+    (tc/drop-columns [:geometry])
+    kind/table)
 
 (def parks
-  (-> (geojson->dataset parks-geojson "Seattle parks")
+  (-> parks-geojson
+      (geojson->dataset "Seattle parks")
       ;;; avoiding some [linestring pathologies](https://gis.stackexchange.com/questions/50399/fixing-non-noded-intersection-problem-using-postgis)
       (tc/map-columns :geometry [:geometry] #(buffer % 1))))
 
 (delay
-  (-> (tc/drop-columns parks [:geometry])
-      (tc/head 20)))
+  (-> parks
+      (tc/drop-columns [:geometry])
+      (tc/head 20)
+      kind/table))
 
 (md "## A Spatial index structure
 
 We need an index structure to quickly match between the two sets of geometries.
 
 See the JTS [SearchUsingPreparedGeometryIndex tutorial](https://github.com/locationtech/jts/blob/master/modules/example/src/main/java/org/locationtech/jtsexample/technique/SearchUsingPreparedGeometryIndex.java). ")
-
 
 (defn make-spatial-index [dataset & {:keys [geometry-column]
                                      :or   {geometry-column :geometry}}]
@@ -242,8 +246,8 @@ See the JTS [SearchUsingPreparedGeometryIndex tutorial](https://github.com/locat
         (.insert tree
                  (.getEnvelopeInternal geometry)
                  (assoc row
-                   :prepared-geometry
-                   (org.locationtech.jts.geom.prep.PreparedGeometryFactory/prepare geometry)))))
+                        :prepared-geometry
+                        (org.locationtech.jts.geom.prep.PreparedGeometryFactory/prepare geometry)))))
     tree))
 
 (def parks-index
