@@ -42,7 +42,7 @@
 ;;
 ;; I've saved a snapshot in the `data` directory.
 ;;
-;; The data format is gzipped geojson.
+;; The data format is gzipped [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON).
 ;; Java has a built-in class for handling gzip streams,
 ;; and we'll use the [factual/geojson](https://github.com/Factual/geo) library to parse the string representation.
 
@@ -69,13 +69,13 @@
 
 ;; This seems like a reasonable number of neighborhoods.
 
-;; Each member of the dataset is called
+;; Each member of the dataset is called a [Feature](https://en.wikipedia.org/wiki/Simple_Features). Here is one:
 
 (-> neighborhoods-geojson
     first
     kind/pprint)
 
-;; The data itself consists of geographic regions.
+;; Each feature, in our case, represents a geographic region with a geometry and some properties.
 ;;
 ;; And similarly for the parks:
 
@@ -100,71 +100,100 @@
 (def Seattle-center
   [47.608013 -122.335167])
 
-(md "We will collect, for every neighborhood, ")
+(md "The map we will create is [A choropleth](https://en.wikipedia.org/wiki/Choropleth_map), though for now, we will use a fixed color, which is not so informative.
 
-(def neighborhoods-base-choropleth
-  (->> neighborhoods-geojson
-       (mapv (fn [{:as   feature
-                   :keys [geometry]}]
-               {:shape-type  :polygon
-                :coordinates (->> geometry
-                                  geo.jts/coordinates
-                                  (mapv (fn [c]
-                                          [(.y c) (.x c)])))
-                :tooltip     (-> feature
-                                 :properties
-                                 (select-keys [:L_HOOD])
-                                 (->> (map (fn [[k v]]
-                                             [:p [:b k] ":  " v]))
-                                      (into [:div]))
-                                 hiccup/html)}))))
+For every feature (e.g., a neighborhood), we may generate a Clojure map with the
+details of how to represent it as a visual shape.")
+
+(defn feature->shape
+  [{:as   feature :keys [geometry]}
+   {:keys [tooltip-keys
+           style]}]
+  (-> {:shape-type :polygon
+       :tooltip (-> feature
+                    :properties
+                    (select-keys tooltip-keys)
+                    (->> (map (fn [[k v]]
+                                [:p [:b k] ":  " v]))
+                         (into [:div]))
+                    hiccup/html)
+       :style style
+       :coordinates (->> geometry
+                         geo.jts/coordinates
+                         (mapv (fn [c]
+                                 [(.y c) (.x c)])))}))
+
+(md "For example:")
 
 (delay
-  (->> neighborhoods-base-choropleth
-       (take 5)
-       kind/portal))
+  (-> neighborhoods-geojson
+      first
+      (feature->shape {:tooltip-keys [:L_HOOD]
+                       :style {:opacity     0.3
+                               :fillOpacity 0.1
+                               :color      "purple"
+                               :fillColor  "purple"}})))
 
-(delay
-  (kind/reagent
-   ['(fn [{:keys [tile-layer
-                  center
-                  shapes]}]
-       [:div
-        {:style {:height "900px"}
-         :ref   (fn [el]
-                  (let [m (-> js/L
-                              (.map el)
-                              (.setView (clj->js center)
-                                        11))]
-                    (let [{:keys [url max-zoom attribution]}
-                          tile-layer]
-                      (-> js/L
-                          (.tileLayer url
-                                      (clj->js
-                                       {:maxZoom     max-zoom
-                                        :attribution attribution}))
-                          (.addTo m)))
-                    (->> shapes
-                         (run! (fn [{:keys [shape-type
-                                            coordinates
-                                            style
-                                            tooltip]}]
-                                 (case shape-type
-                                   :polygon (-> js/L
-                                                (.polygon (clj->js coordinates)
-                                                          (clj->js (or style {})))
-                                                (.bindTooltip tooltip)
-                                                (.addTo m))))))))}])
-    {:tile-layer {:url         "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
-                  :max-zoom    19
-                  :attribution "&copy;; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
-     :center     Seattle-center
-     :shapes     (->> neighborhoods-base-choropleth
-                      (mapv #(assoc % :style {:opacity     0.3
-                                              :fillOpacity 0.1
-                                              :color      "purple"
-                                              :fillColor  "purple"})))}]
-   {:reagent/deps [:leaflet]}))
+(md "We will need a provider of a tile layer for our visual map:")
+
+(def openstreetmap-tile-layer
+  {:url         "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+   :max-zoom    19
+   :attribution "&copy;; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"})
+
+(md "Here is how we may generate a Choroplet map in [Leaflet](https://leafletjs.com/):")
+
+
+(defn choropleth-map [details]
+  (delay
+    (kind/reagent
+     ['(fn [{:keys [tile-layer
+                    center
+                    shapes]}]
+         [:div
+          {:style {:height "900px"}
+           :ref   (fn [el]
+                    (let [m (-> js/L
+                                (.map el)
+                                (.setView (clj->js center)
+                                          11))]
+                      (let [{:keys [url max-zoom attribution]}
+                            tile-layer]
+                        (-> js/L
+                            (.tileLayer url
+                                        (clj->js
+                                         {:maxZoom     max-zoom
+                                          :attribution attribution}))
+                            (.addTo m)))
+                      (->> shapes
+                           (run! (fn [{:keys [shape-type
+                                              coordinates
+                                              style
+                                              tooltip]}]
+                                   (case shape-type
+                                     :polygon (-> js/L
+                                                  (.polygon (clj->js coordinates)
+                                                            (clj->js (or style {})))
+                                                  (.bindTooltip tooltip)
+                                                  (.addTo m))))))))}])
+      details]
+     {:reagent/deps [:leaflet]})))
+
+
+(md "For our basic neighborhoods map:")
+
+(choropleth-map
+ {:tile-layer openstreetmap-tile-layer
+  :center     Seattle-center
+  :shapes     (->> neighborhoods-geojson
+                   (mapv #(feature->shape
+                           %
+                           {:tooltip-keys [:L_HOOD]
+                            :style {:opacity     0.3
+                                    :fillOpacity 0.1
+                                    :color      "purple"
+                                    :fillColor  "purple"}})))})
+
 
 
 (md "## Coordinate conversions")
