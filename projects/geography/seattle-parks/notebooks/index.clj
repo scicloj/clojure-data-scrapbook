@@ -20,7 +20,8 @@
             [scicloj.kindly.v4.kind :as kind]
             [scicloj.kindly.v4.api :as kindly]
             [hiccup.core :as hiccup]
-            [charred.api :as charred])
+            [charred.api :as charred]
+            [clojure2d.color :as color])
   (:import (org.locationtech.jts.index.strtree STRtree)
            (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
            (org.locationtech.jts.geom.prep PreparedGeometry
@@ -178,14 +179,17 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
       details]
      {:reagent/deps [:leaflet]})))
 
+(defn Seattle-choropleth-map [enriched-features]
+  (choropleth-map
+   {:tile-layer openstreetmap-tile-layer
+    :center     Seattle-center
+    :enriched-features enriched-features}))
 
 (md "For our basic neighborhoods map:")
 
 (delay
-  (choropleth-map
-   {:tile-layer openstreetmap-tile-layer
-    :center     Seattle-center
-    :enriched-features neighborhoods-enriched-features}))
+  (Seattle-choropleth-map
+   neighborhoods-enriched-features))
 
 
 (md "Now, let us see the parks:")
@@ -203,14 +207,10 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
                                  :color      "darkgreen"
                                  :fillColor  "darkgreen"}})))))))
 
+
 (delay
-  (choropleth-map
-   {:tile-layer openstreetmap-tile-layer
-    :center     Seattle-center
-    :enriched-features parks-enriched-features}))
-
-
-
+  (Seattle-choropleth-map
+   parks-enriched-features))
 
 (md "## Coordinate conversions")
 
@@ -268,7 +268,8 @@ which is locally correct in terms of distances in a region around Seattle.
 
 (def neighborhoods
   (-> neighborhoods-features
-      (geojson->dataset "Seattle neighborhoods")))
+      (geojson->dataset "Seattle neighborhoods")
+      (tc/add-column :feature neighborhoods-enriched-features)))
 
 (delay
   (-> neighborhoods
@@ -411,7 +412,39 @@ For every neighborhood, we will compute the proportion of its area covered by pa
       (tc/head 10)
       plot-neighborhoods-with-park-proportions))
 
-;; # A choroplety colored by park proportions
+;; ## Representing park proportions as colors
+
+(def gradient
+  (color/gradient [:grey :green]))
+
+(delay
+  (-> 0.4
+      gradient
+      color/format-hex))
+
+(delay
+  (-> neighborhoods-with-park-proportions
+      (tc/map-columns :feature
+                      [:feature :park-proportion]
+                      (fn [feature park-proportion]
+                        (let [color (-> park-proportion
+                                        gradient
+                                        color/format-hex)]
+                          (-> feature
+                              (update-in
+                               [:properties :style]
+                               (fn [style]
+                                 (-> style
+                                     (assoc :color color
+                                            :fillColor color
+                                            :opacity 0.5
+                                            :fillOpacity 0.5))))))))
+      :feature
+      vec
+      Seattle-choropleth-map))
+
+
+;; ## A choropleth colored by park proportions
 
 
 
