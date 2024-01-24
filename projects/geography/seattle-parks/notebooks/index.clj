@@ -208,9 +208,9 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
                                  :fillColor  "darkgreen"}})))))))
 
 
-(delay
-  (Seattle-choropleth-map
-   parks-enriched-features))
+#_(delay
+    (Seattle-choropleth-map
+     parks-enriched-features))
 
 (md "## Coordinate conversions")
 
