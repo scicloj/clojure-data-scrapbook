@@ -60,7 +60,7 @@
 
 ;;; Now we can conveniently load the data files we downloaded previously.
 
-(def neighborhoods-geojson
+(defonce neighborhoods-geojson
   (parse-geojson-gz "data/Seattle/Neighborhood_Map_Atlas_Neighborhoods.geojson.gz"))
 
 ;;; Let's check that we got some data
@@ -77,16 +77,17 @@
 ;;
 ;;; And similarly for the parks:
 
-(def parks-geojson
+(defonce parks-geojson
   (parse-geojson-gz "data/Seattle/Park_Boundary_(details).geojson.gz"))
 
 (count parks-geojson)
 
 ;;; There are more parks than neighborhoods, which sounds right.
 
-(-> parks-geojson
-    first
-    kind/pprint)
+(delay
+  (-> parks-geojson
+      first
+      kind/pprint))
 
 ;;; And the parks are defined as geographic regions.
 
@@ -114,48 +115,52 @@
                                       (into [:div]))
                                  hiccup/html)}))))
 
-(->> neighborhoods-coordinates
-     (take 5)
-     kind/portal)
+(delay
+  (->> neighborhoods-coordinates
+       (take 5)
+       kind/portal))
 
-(kind/reagent
-  ['(fn [{:keys [tile-layer
-                 center
-                 shapes]}]
-      [:div
-       {:style {:height "900px"}
-        :ref   (fn [el]
-                 (let [m (-> js/L
-                             (.map el)
-                             (.setView (clj->js center)
-                                       11))]
-                   (let [{:keys [url max-zoom attribution]}
-                         tile-layer]
-                     (-> js/L
-                         (.tileLayer url
-                                     (clj->js
+(delay
+  (kind/reagent
+   ['(fn [{:keys [tile-layer
+                  center
+                  shapes]}]
+       [:div
+        {:style {:height "900px"}
+         :ref   (fn [el]
+                  (let [m (-> js/L
+                              (.map el)
+                              (.setView (clj->js center)
+                                        11))]
+                    (let [{:keys [url max-zoom attribution]}
+                          tile-layer]
+                      (-> js/L
+                          (.tileLayer url
+                                      (clj->js
                                        {:maxZoom     max-zoom
                                         :attribution attribution}))
-                         (.addTo m)))
-                   (->> shapes
-                        (run! (fn [{:keys [shape-type
-                                           coordinates
-                                           style
-                                           tooltip]}]
-                                (case shape-type
-                                  :polygon (-> js/L
-                                               (.polygon (clj->js coordinates)
-                                                         (clj->js (or style {})))
-                                               (.bindTooltip tooltip)
-                                               (.addTo m))))))))}])
-   {:tile-layer {:url         "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
-                 :max-zoom    19
-                 :attribution "&copy;; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
-    :center     Seattle-center
-    :shapes     (->> neighborhoods-coordinates
-                     (mapv #(assoc % :style {:opacity     0.3
-                                             :fillOpacity 0.1})))}]
-  {:reagent/deps [:leaflet]})
+                          (.addTo m)))
+                    (->> shapes
+                         (run! (fn [{:keys [shape-type
+                                            coordinates
+                                            style
+                                            tooltip]}]
+                                 (case shape-type
+                                   :polygon (-> js/L
+                                                (.polygon (clj->js coordinates)
+                                                          (clj->js (or style {})))
+                                                (.bindTooltip tooltip)
+                                                (.addTo m))))))))}])
+    {:tile-layer {:url         "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+                  :max-zoom    19
+                  :attribution "&copy;; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
+     :center     Seattle-center
+     :shapes     (->> neighborhoods-coordinates
+                      (mapv #(assoc % :style {:opacity     0.3
+                                              :fillOpacity 0.1
+                                              :color      "purple"
+                                              :fillColor  "purple"})))}]
+   {:reagent/deps [:leaflet]}))
 
 
 (md "## Coordinate conversions")
@@ -216,9 +221,10 @@ which is locally correct in terms of distances in a region around Seattle.
   (-> neighborhoods-geojson
       (geojson->dataset "Seattle neighborhoods")))
 
-(-> neighborhoods
-    (tc/drop-columns [:geometry])
-    kind/table)
+(delay
+  (-> neighborhoods
+      (tc/drop-columns [:geometry])
+      kind/table))
 
 (def parks
   (-> parks-geojson
@@ -294,8 +300,6 @@ Note that even though many parks will appear as intersecting many neighbourhoods
 
 For every neighborhood, we will compute the proportion of its area covered by parks.")
 
-(require '[tech.v3.datatype.functional :as fun])
-
 ;;; TODO: L_HOOD should be used, S_HOOD produces too many rows to be understood
 ;;; (maybe S_HOOD would be interesting for looking at one L_HOOD at a time)
 
@@ -311,8 +315,8 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                              :geometry
                              (map (fn [park-geometry]
                                     (area
-                                      (.intersection (.buffer park-geometry 1)
-                                                     neigh-geometry))))
+                                     (.intersection (.buffer park-geometry 1)
+                                                    neigh-geometry))))
                              fun/sum)))
       (tc/map-columns :park-names
                       [:parks]
