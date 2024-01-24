@@ -352,7 +352,7 @@ For every neighborhood, we will compute the proportion of its area covered by pa
 ;; TODO: L_HOOD should be used, S_HOOD produces too many rows to be understood
 ;; (maybe S_HOOD would be interesting for looking at one L_HOOD at a time)
 
-(delay
+(def neighborhoods-with-park-proportions
   (-> neighborhoods-with-parks
       (tc/map-columns :neighborhood-area
                       [:geometry]
@@ -374,15 +374,41 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                              :PMA_NAME
                              distinct
                              vec)))
-      (tc/add-column :area-proportion
+      (tc/add-column :park-proportion
                      #(fun// (:intersection-area %)
                              (:neighborhood-area %)))
+      (tc/order-by [:park-proportion] :desc)))
+
+(delay
+  (-> neighborhoods-with-park-proportions
       (tc/select-columns [:L_HOOD
+                          :S_HOOD
                           :park-names
                           :neighborhood-area
                           :intersection-area
-                          :area-proportion])
-      (tc/order-by [:area-proportion] :desc)))
+                          :park-proportion])))
+
+
+(kind/echarts
+ {:title {:text "Neighborhoods by park proportion"}
+  :tooltip {;; :data (:S_HOOD
+            ;;        neighborhoods-with-park-proportions)
+            }
+  :xAxis {:data (:S_HOOD
+                 neighborhoods-with-park-proportions)}
+  :yAxis {}
+  :series [{:type "bar"
+            :data (:park-proportion
+                   neighborhoods-with-park-proportions)}]})
+
+
+
+
+
+
+;;
+
+
 
 ;; TODO: The area proportions would be best represented in a bar chart to accompany the table
 ;; TODO: summarizing the quartiles of values might be useful as well
