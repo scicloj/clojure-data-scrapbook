@@ -487,16 +487,19 @@ pointing out a few park-intense neighborhoods.")
       vec
       Seattle-choropleth-map))
 
-;; TODO: The area proportions would be best represented in a bar chart to accompany the table
-;; TODO: summarizing the quartiles of values might be useful as well
+(kind/md
+ "TODO: The area proportions would be best represented in a bar chart to accompany the table
+TODO: summarizing the quartiles of values might be useful as well
 
-;; TODO: An interesting map would show just one L_HOOD and all the parks,
-;; perhaps choosing the "winner" with most park space and showing where in Seattle it is, and what parks are there.
+TODO: An interesting map would show just one L_HOOD and all the parks,
+perhaps choosing the \"winner\" with most park space and showing where in Seattle it is, and what parks are there.
 
-;; ## Conclusion
+## Conclusion
 
-;; Park access is fairly uniform and high in Seattle.
-;; TODO: can we compare it to another city?
+Park access is fairly uniform and high in Seattle.
+TODO: can we compare it to another city?
+"
+ )
 
 
 (md "
