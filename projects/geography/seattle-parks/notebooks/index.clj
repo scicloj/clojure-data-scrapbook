@@ -58,38 +58,40 @@
   (-> (slurp-gzip path)
       (geo.io/read-geojson)))
 
-;;; Now we can conveniently load the data files we downloaded previously.
+;; Now we can conveniently load the data files we downloaded previously.
 
 (defonce neighborhoods-geojson
   (parse-geojson-gz "data/Seattle/Neighborhood_Map_Atlas_Neighborhoods.geojson.gz"))
 
-;;; Let's check that we got some data
+;; Let's check that we got some data.
 
 (count neighborhoods-geojson)
 
-;;; This seems like a reasonable number of neighborhoods
+;; This seems like a reasonable number of neighborhoods.
+
+;; Each member of the dataset is called
 
 (-> neighborhoods-geojson
     first
     kind/pprint)
 
-;;; The data itself consists of geographic regions.
+;; The data itself consists of geographic regions.
 ;;
-;;; And similarly for the parks:
+;; And similarly for the parks:
 
 (defonce parks-geojson
   (parse-geojson-gz "data/Seattle/Park_Boundary_(details).geojson.gz"))
 
 (count parks-geojson)
 
-;;; There are more parks than neighborhoods, which sounds right.
+;; There are more parks than neighborhoods, which sounds right.
 
 (delay
   (-> parks-geojson
       first
       kind/pprint))
 
-;;; And the parks are defined as geographic regions.
+;; And the parks are defined as geographic regions.
 
 (md "## Drawing a map")
 
@@ -98,7 +100,9 @@
 (def Seattle-center
   [47.608013 -122.335167])
 
-(def neighborhoods-coordinates
+(md "We will collect, for every neighborhood, ")
+
+(def neighborhoods-base-choropleth
   (->> neighborhoods-geojson
        (mapv (fn [{:as   feature
                    :keys [geometry]}]
@@ -116,7 +120,7 @@
                                  hiccup/html)}))))
 
 (delay
-  (->> neighborhoods-coordinates
+  (->> neighborhoods-base-choropleth
        (take 5)
        kind/portal))
 
@@ -155,7 +159,7 @@
                   :max-zoom    19
                   :attribution "&copy;; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"}
      :center     Seattle-center
-     :shapes     (->> neighborhoods-coordinates
+     :shapes     (->> neighborhoods-base-choropleth
                       (mapv #(assoc % :style {:opacity     0.3
                                               :fillOpacity 0.1
                                               :color      "purple"
@@ -229,7 +233,7 @@ which is locally correct in terms of distances in a region around Seattle.
 (def parks
   (-> parks-geojson
       (geojson->dataset "Seattle parks")
-      ;;; avoiding some [linestring pathologies](https://gis.stackexchange.com/questions/50399/fixing-non-noded-intersection-problem-using-postgis)
+      ;; avoiding some [linestring pathologies](https://gis.stackexchange.com/questions/50399/fixing-non-noded-intersection-problem-using-postgis)
       (tc/map-columns :geometry [:geometry] #(buffer % 1))))
 
 (delay
@@ -265,7 +269,7 @@ See the JTS [SearchUsingPreparedGeometryIndex tutorial](https://github.com/locat
                  (.intersects (:prepared-geometry row) region)))
        tc/dataset))
 
-;;; For example, let us find the parks intersecting with the first neighborhood:
+;; For example, let us find the parks intersecting with the first neighborhood:
 
 (delay
   (-> neighborhoods
@@ -300,8 +304,8 @@ Note that even though many parks will appear as intersecting many neighbourhoods
 
 For every neighborhood, we will compute the proportion of its area covered by parks.")
 
-;;; TODO: L_HOOD should be used, S_HOOD produces too many rows to be understood
-;;; (maybe S_HOOD would be interesting for looking at one L_HOOD at a time)
+;; TODO: L_HOOD should be used, S_HOOD produces too many rows to be understood
+;; (maybe S_HOOD would be interesting for looking at one L_HOOD at a time)
 
 (delay
   (-> neighborhoods-with-parks
