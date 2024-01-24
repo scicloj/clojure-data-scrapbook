@@ -295,7 +295,7 @@ which is locally correct in terms of distances in a region around Seattle.
       (tc/set-dataset-name dataset-name)))
 
 (def neighborhoods
-  (-> neighborhoods-geojson
+  (-> neighborhoods-features
       (geojson->dataset "Seattle neighborhoods")))
 
 (delay
@@ -304,7 +304,7 @@ which is locally correct in terms of distances in a region around Seattle.
       kind/table))
 
 (def parks
-  (-> parks-geojson
+  (-> parks-features
       (geojson->dataset "Seattle parks")
       ;; avoiding some [linestring pathologies](https://gis.stackexchange.com/questions/50399/fixing-non-noded-intersection-problem-using-postgis)
       (tc/map-columns :geometry [:geometry] #(buffer % 1))))
