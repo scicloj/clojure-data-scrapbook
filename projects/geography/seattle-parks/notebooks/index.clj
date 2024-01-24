@@ -376,8 +376,7 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                              vec)))
       (tc/add-column :park-proportion
                      #(fun// (:intersection-area %)
-                             (:neighborhood-area %)))
-      (tc/order-by [:park-proportion] :desc)))
+                             (:neighborhood-area %)))))
 
 (delay
   (-> neighborhoods-with-park-proportions
@@ -386,27 +385,43 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                           :park-names
                           :neighborhood-area
                           :intersection-area
-                          :park-proportion])))
+                          :park-proportion])
+      (tc/order-by [:park-proportion] :desc)))
 
 
-(kind/echarts
- {:title {:text "Neighborhoods by park proportion"}
-  :tooltip {;; :data (:S_HOOD
-            ;;        neighborhoods-with-park-proportions)
-            }
-  :xAxis {:data (:S_HOOD
-                 neighborhoods-with-park-proportions)}
-  :yAxis {}
-  :series [{:type "bar"
-            :data (:park-proportion
-                   neighborhoods-with-park-proportions)}]})
+(defn plot-neighborhoods-with-park-proportions [data]
+  (kind/echarts
+   {:title {:text "Neighborhoods by park proportion"}
+    :tooltip {}
+    :xAxis {:data (:S_HOOD data)
+            :axisLabel {:rotate 90}}
+    :yAxis {}
+    :series [{:type "bar"
+              :data (:park-proportion data)}]
+    :grid {:containLabel true}}))
+
+(delay
+  (-> neighborhoods-with-park-proportions
+      (tc/order-by [:park-proportion] :desc)
+      plot-neighborhoods-with-park-proportions))
+
+(delay
+  (-> neighborhoods-with-park-proportions
+      (tc/order-by [:park-proportion] :desc)
+      (tc/head 10)
+      plot-neighborhoods-with-park-proportions))
+
+;; # A choroplety colored by park proportions
 
 
 
 
 
 
-;;
+
+
+
+
 
 
 
