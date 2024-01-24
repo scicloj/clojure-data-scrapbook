@@ -134,7 +134,7 @@ details of how to represent it as a visual shape.")
                                :color      "purple"
                                :fillColor  "purple"}})))
 
-(md "We will need a provider of a tile layer for our visual map:")
+(md "We will need a tile layer for our visual map:")
 
 (def openstreetmap-tile-layer
   {:url         "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -182,18 +182,34 @@ details of how to represent it as a visual shape.")
 
 (md "For our basic neighborhoods map:")
 
-(choropleth-map
- {:tile-layer openstreetmap-tile-layer
-  :center     Seattle-center
-  :shapes     (->> neighborhoods-geojson
-                   (mapv #(feature->shape
-                           %
-                           {:tooltip-keys [:L_HOOD]
-                            :style {:opacity     0.3
-                                    :fillOpacity 0.1
-                                    :color      "purple"
-                                    :fillColor  "purple"}})))})
+(delay
+  (choropleth-map
+   {:tile-layer openstreetmap-tile-layer
+    :center     Seattle-center
+    :shapes     (->> neighborhoods-geojson
+                     (mapv #(feature->shape
+                             %
+                             {:tooltip-keys [:L_HOOD]
+                              :style {:opacity     0.3
+                                      :fillOpacity 0.1
+                                      :color      "purple"
+                                      :fillColor  "purple"}})))}))
 
+
+(md "Now, let us see the parks:")
+
+(delay
+  (choropleth-map
+   {:tile-layer openstreetmap-tile-layer
+    :center     Seattle-center
+    :shapes     (->> parks-geojson
+                     (mapv #(feature->shape
+                             %
+                             {:tooltip-keys [:PMA_NAME :NAME]
+                              :style {:opacity     0.3
+                                      :fillOpacity 0.1
+                                      :color      "darkgreen"
+                                      :fillColor  "darkgreen"}})))}))
 
 
 (md "## Coordinate conversions")
