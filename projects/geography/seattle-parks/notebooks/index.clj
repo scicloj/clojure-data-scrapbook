@@ -415,14 +415,14 @@ For every neighborhood, we will compute the proportion of its area covered by pa
 ;; ## Representing park proportions as colors
 
 (def gradient
-  (color/gradient [:grey :green]))
+  (color/gradient [:white :green]))
 
 (delay
   (-> 0.4
       gradient
       color/format-hex))
 
-(delay
+(def neighborhoods-colored-by-park-proportion
   (-> neighborhoods-with-park-proportions
       (tc/map-columns :feature
                       [:feature :park-proportion]
@@ -438,7 +438,23 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                                      (assoc :color color
                                             :fillColor color
                                             :opacity 0.5
-                                            :fillOpacity 0.5))))))))
+                                            :fillOpacity 0.5))))))))))
+
+(delay
+  (-> neighborhoods-colored-by-park-proportion
+      :feature
+      vec
+      Seattle-choropleth-map))
+
+(md "In this case the choropleth mainly helps us in
+pointing out a few park-intense neighborhoods.")
+
+(md "Let us focus on the ten most park-intense neighborhoods:")
+
+(delay
+  (-> neighborhoods-colored-by-park-proportion
+      (tc/order-by [:park-proportion] :desc)
+      (tc/head 10)
       :feature
       vec
       Seattle-choropleth-map))
