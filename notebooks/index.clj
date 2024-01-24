@@ -1,6 +1,8 @@
 ^{:kindly/hide-code true
   :clay {:quarto {:title "Clojure Data Scrapbook"}}}
 
+;; # Main analysis
+
 (ns index
   (:require [clojure.string :as str]
             [scicloj.kindly.v4.kind :as kind]
