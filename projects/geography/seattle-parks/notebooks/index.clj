@@ -21,7 +21,8 @@
             [scicloj.kindly.v4.api :as kindly]
             [hiccup.core :as hiccup]
             [charred.api :as charred]
-            [clojure2d.color :as color])
+            [clojure2d.color :as color]
+            [clojure.string :as str])
   (:import (org.locationtech.jts.index.strtree STRtree)
            (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
            (org.locationtech.jts.geom.prep PreparedGeometry
@@ -375,6 +376,9 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                              :PMA_NAME
                              distinct
                              vec)))
+      (tc/map-columns :park-names-str
+                      [:park-names]
+                      (partial str/join ","))
       (tc/add-column :park-proportion
                      #(fun// (:intersection-area %)
                              (:neighborhood-area %)))))
@@ -427,8 +431,8 @@ For every neighborhood, we will compute the proportion of its area covered by pa
 (def neighborhoods-colored-by-park-proportion
   (-> neighborhoods-with-park-proportions
       (tc/map-columns :feature
-                      [:feature :park-proportion]
-                      (fn [feature park-proportion]
+                      [:feature :park-names-str :park-proportion]
+                      (fn [feature park-names-str park-proportion]
                         (let [color (-> park-proportion
                                         gradient
                                         color/format-hex)]
@@ -440,7 +444,12 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                                      (assoc :color color
                                             :fillColor color
                                             :opacity park-proportion
-                                            :fillOpacity 0))))))))))
+                                            :fillOpacity 0))))
+                              (update-in
+                               [:properties :tooltip]
+                               str
+                               (hiccup/html
+                                [:p [:b "Parks: "] park-names-str]))))))))
 
 (delay
   (-> neighborhoods-colored-by-park-proportion
