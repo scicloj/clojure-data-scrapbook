@@ -415,12 +415,14 @@ For every neighborhood, we will compute the proportion of its area covered by pa
 ;; ## Representing park proportions as colors
 
 (def gradient
-  (color/gradient [:white :green]))
+  (color/gradient [:white :magenta]))
 
 (delay
   (-> 0.4
       gradient
       color/format-hex))
+
+;; ## A choropleth colored by park proportions
 
 (def neighborhoods-colored-by-park-proportion
   (-> neighborhoods-with-park-proportions
@@ -460,7 +462,6 @@ pointing out a few park-intense neighborhoods.")
       Seattle-choropleth-map))
 
 
-;; ## A choropleth colored by park proportions
 
 
 
@@ -484,3 +485,18 @@ pointing out a few park-intense neighborhoods.")
 
 ;; Park access is fairly uniform and high in Seattle.
 ;; TODO: can we compare it to another city?
+
+
+(md "
+## Draft text for the story to be told.
+
+- Intersections and spatial joins
+
+- In what context would these visualizations be useful?
+
+- Using the REPL to dive into cases and their details
+- Doing that in self-documenting way
+- How does this compose with GUI-based explorations?
+
+
+")
