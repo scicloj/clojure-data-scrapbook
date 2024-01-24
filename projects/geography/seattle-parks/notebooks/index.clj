@@ -19,7 +19,8 @@
             [tablecloth.api :as tc]
             [scicloj.kindly.v4.kind :as kind]
             [scicloj.kindly.v4.api :as kindly]
-            [hiccup.core :as hiccup])
+            [hiccup.core :as hiccup]
+            [charred.api :as charred])
   (:import (org.locationtech.jts.index.strtree STRtree)
            (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
            (org.locationtech.jts.geom.prep PreparedGeometry
@@ -52,26 +53,23 @@
   (with-open [in (java.util.zip.GZIPInputStream. (clojure.java.io/input-stream path))]
     (slurp in)))
 
-(defn parse-geojson-gz
-  "Read a gzipped GeoJSON file."
-  [path]
-  (-> (slurp-gzip path)
-      (geo.io/read-geojson)))
-
 ;; Now we can conveniently load the data files we downloaded previously.
 
 (defonce neighborhoods-geojson
-  (parse-geojson-gz "data/Seattle/Neighborhood_Map_Atlas_Neighborhoods.geojson.gz"))
+  (slurp-gzip "data/Seattle/Neighborhood_Map_Atlas_Neighborhoods.geojson.gz"))
+
+(def neighborhoods-features
+  (geoio/read-geojson neighborhoods-geojson))
 
 ;; Let's check that we got some data.
 
-(count neighborhoods-geojson)
+(count neighborhoods-features)
 
 ;; This seems like a reasonable number of neighborhoods.
 
 ;; Each member of the dataset is called a [Feature](https://en.wikipedia.org/wiki/Simple_Features). Here is one:
 
-(-> neighborhoods-geojson
+(-> neighborhoods-features
     first
     kind/pprint)
 
@@ -80,14 +78,17 @@
 ;; And similarly for the parks:
 
 (defonce parks-geojson
-  (parse-geojson-gz "data/Seattle/Park_Boundary_(details).geojson.gz"))
+  (slurp-gzip "data/Seattle/Park_Boundary_(details).geojson.gz"))
 
-(count parks-geojson)
+(def parks-features
+  (geoio/read-geojson parks-geojson))
+
+(count parks-features)
 
 ;; There are more parks than neighborhoods, which sounds right.
 
 (delay
-  (-> parks-geojson
+  (-> parks-features
       first
       kind/pprint))
 
@@ -102,37 +103,35 @@
 
 (md "The map we will create is [A choropleth](https://en.wikipedia.org/wiki/Choropleth_map), though for now, we will use a fixed color, which is not so informative.
 
-For every feature (e.g., a neighborhood), we may generate a Clojure map with the
-details of how to represent it as a visual shape.")
+We will enrich every feature (e.g., neighborhood) with data relevant for its visual representation.")
 
-(defn feature->shape
-  [{:as   feature :keys [geometry]}
-   {:keys [tooltip-keys
-           style]}]
-  (-> {:shape-type :polygon
-       :tooltip (-> feature
-                    :properties
-                    (select-keys tooltip-keys)
-                    (->> (map (fn [[k v]]
-                                [:p [:b k] ":  " v]))
-                         (into [:div]))
-                    hiccup/html)
-       :style style
-       :coordinates (->> geometry
-                         geo.jts/coordinates
-                         (mapv (fn [c]
-                                 [(.y c) (.x c)])))}))
+(defn enrich-feature [{:as   feature :keys [geometry]}
+                      {:keys [tooltip-keys
+                              style]}]
+  (-> feature
+      (update :properties
+              (fn [properties]
+                (-> properties
+                    (assoc :tooltip (-> properties
+                                        (select-keys tooltip-keys)
+                                        (->> (map (fn [[k v]]
+                                                    [:p [:b k] ":  " v]))
+                                             (into [:div]))
+                                        hiccup/html)
+                           :style style))))))
 
-(md "For example:")
-
-(delay
+(def neighborhoods-enriched-features
   (-> neighborhoods-geojson
-      first
-      (feature->shape {:tooltip-keys [:L_HOOD]
-                       :style {:opacity     0.3
-                               :fillOpacity 0.1
-                               :color      "purple"
-                               :fillColor  "purple"}})))
+      (charred/read-json {:key-fn keyword})
+      :features
+      (->> (mapv (fn [feature]
+                   (-> feature
+                       (enrich-feature
+                        {:tooltip-keys [:L_HOOD]
+                         :style {:opacity     0.3
+                                 :fillOpacity 0.1
+                                 :color      "purple"
+                                 :fillColor  "purple"}})))))))
 
 (md "We will need a tile layer for our visual map:")
 
@@ -143,13 +142,12 @@ details of how to represent it as a visual shape.")
 
 (md "Here is how we may generate a Choroplet map in [Leaflet](https://leafletjs.com/):")
 
-
 (defn choropleth-map [details]
   (delay
     (kind/reagent
      ['(fn [{:keys [tile-layer
                     center
-                    shapes]}]
+                    enriched-features]}]
          [:div
           {:style {:height "900px"}
            :ref   (fn [el]
@@ -165,17 +163,46 @@ details of how to represent it as a visual shape.")
                                          {:maxZoom     max-zoom
                                           :attribution attribution}))
                             (.addTo m)))
-                      (->> shapes
-                           (run! (fn [{:keys [shape-type
-                                              coordinates
-                                              style
-                                              tooltip]}]
-                                   (case shape-type
-                                     :polygon (-> js/L
-                                                  (.polygon (clj->js coordinates)
-                                                            (clj->js (or style {})))
-                                                  (.bindTooltip tooltip)
-                                                  (.addTo m))))))))}])
+                      (-> js/L
+                          (.geoJson (clj->js enriched-features)
+                                    (clj->js {:style (fn [feature]
+                                                       (-> feature
+                                                           .-properties
+                                                           .-style))}))
+                          (.bindTooltip (fn [layer]
+                                          (-> layer
+                                              .-feature
+                                              .-properties
+                                              .-tooltip)))
+                          (.addTo m))
+                      #_(->> enriched-features
+                             (run! (fn [{:keys [properties geometry]}]
+                                     (let [{:keys [style tooltip]} properties]
+                                       (case (:type geometry)
+                                         "Polygon" (-> js/L
+                                                       (.polygon (-> geometry
+                                                                     :coordinates
+                                                                     first
+                                                                     clj->js)
+                                                                 (-> style
+                                                                     (or {})
+                                                                     clj->js (or style {})))
+                                                       (.bindTooltip tooltip)
+                                                       (.addTo m))
+                                         "MultiPolygon" (-> js/L
+                                                            (.multiPolygon (-> geometry
+                                                                               :coordinates
+                                                                               clj->js)
+                                                                           (-> style
+                                                                               (or {})
+                                                                               clj->js (or style {})))
+                                                            (.bindTooltip tooltip)
+                                                            (.addTo m))
+                                         ;; else
+                                         (-> geometry
+                                             :type
+                                             (str " - unrecognized geometry type")
+                                             js/alert))))))))}])
       details]
      {:reagent/deps [:leaflet]})))
 
@@ -186,30 +213,31 @@ details of how to represent it as a visual shape.")
   (choropleth-map
    {:tile-layer openstreetmap-tile-layer
     :center     Seattle-center
-    :shapes     (->> neighborhoods-geojson
-                     (mapv #(feature->shape
-                             %
-                             {:tooltip-keys [:L_HOOD]
-                              :style {:opacity     0.3
-                                      :fillOpacity 0.1
-                                      :color      "purple"
-                                      :fillColor  "purple"}})))}))
+    :enriched-features neighborhoods-enriched-features}))
 
 
 (md "Now, let us see the parks:")
+
+(def parks-enriched-features
+  (-> parks-geojson
+      (charred/read-json {:key-fn keyword})
+      :features
+      (->> (mapv (fn [feature]
+                   (-> feature
+                       (enrich-feature
+                        {:tooltip-keys [:PMA_NAME :NAME]
+                         :style {:opacity     0.3
+                                 :fillOpacity 0.1
+                                 :color      "darkgreen"
+                                 :fillColor  "darkgreen"}})))))))
 
 (delay
   (choropleth-map
    {:tile-layer openstreetmap-tile-layer
     :center     Seattle-center
-    :shapes     (->> parks-geojson
-                     (mapv #(feature->shape
-                             %
-                             {:tooltip-keys [:PMA_NAME :NAME]
-                              :style {:opacity     0.3
-                                      :fillOpacity 0.1
-                                      :color      "darkgreen"
-                                      :fillColor  "darkgreen"}})))}))
+    :enriched-features parks-enriched-features}))
+
+
 
 
 (md "## Coordinate conversions")
@@ -259,10 +287,10 @@ which is locally correct in terms of distances in a region around Seattle.
 (md "## Geometry datasets")
 
 (defn geojson->dataset [geojson dataset-name]
-  (-> (map (fn [{:keys [geometry properties]}]
-             (assoc properties :geometry geometry))
-           geojson)
-      (tc/dataset)
+  (-> geojson
+      (->> (map (fn [{:keys [geometry properties]}]
+                  (assoc properties :geometry geometry))))
+      tc/dataset
       (tc/map-columns :geometry [:geometry] wgs84->Seattle)
       (tc/set-dataset-name dataset-name)))
 
