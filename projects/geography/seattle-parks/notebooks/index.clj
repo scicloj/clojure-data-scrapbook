@@ -127,7 +127,7 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
       (->> (mapv (fn [feature]
                    (-> feature
                        (enrich-feature
-                        {:tooltip-keys [:L_HOOD]
+                        {:tooltip-keys [:L_HOOD :S_HOOD]
                          :style {:opacity     0.3
                                  :fillOpacity 0.1
                                  :color      "purple"
@@ -370,7 +370,7 @@ Note that even though many parks will appear as intersecting many neighbourhoods
       (tc/map-columns :n-parks
                       [:parks]
                       tc/row-count)
-      (tc/select-columns [:L_HOOD :n-parks])))
+      (tc/select-columns [:L_HOOD :S_HOOD :n-parks])))
 
 
 (md "## Computing areas
