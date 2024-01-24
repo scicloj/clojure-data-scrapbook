@@ -439,14 +439,40 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                                  (-> style
                                      (assoc :color color
                                             :fillColor color
-                                            :opacity 0.5
-                                            :fillOpacity 0.5))))))))))
+                                            :opacity park-proportion
+                                            :fillOpacity 0))))))))))
 
 (delay
   (-> neighborhoods-colored-by-park-proportion
       :feature
       vec
       Seattle-choropleth-map))
+
+(md "Another option: use opacity rather than color to higlight differences.")
+
+(def neighborhoods-highlighted-by-park-proportion
+  (-> neighborhoods-with-park-proportions
+      (tc/map-columns :feature
+                      [:feature :park-proportion]
+                      (fn [feature park-proportion]
+                        (-> feature
+                            (update-in
+                             [:properties :style]
+                             (fn [style]
+                               (-> style
+                                   (assoc :color "magenta"
+                                          :opacity park-proportion
+                                          :fillColor "magenta"
+                                          :fillOpacity 0)))))))))
+
+
+
+(delay
+  (-> neighborhoods-highlighted-by-park-proportion
+      :feature
+      vec
+      Seattle-choropleth-map))
+
 
 (md "In this case the choropleth mainly helps us in
 pointing out a few park-intense neighborhoods.")
@@ -460,20 +486,6 @@ pointing out a few park-intense neighborhoods.")
       :feature
       vec
       Seattle-choropleth-map))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ;; TODO: The area proportions would be best represented in a bar chart to accompany the table
 ;; TODO: summarizing the quartiles of values might be useful as well
@@ -498,5 +510,5 @@ pointing out a few park-intense neighborhoods.")
 - Doing that in self-documenting way
 - How does this compose with GUI-based explorations?
 
-
+- Choice of colors
 ")
