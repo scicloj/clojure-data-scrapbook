@@ -174,35 +174,7 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
                                               .-feature
                                               .-properties
                                               .-tooltip)))
-                          (.addTo m))
-                      #_(->> enriched-features
-                             (run! (fn [{:keys [properties geometry]}]
-                                     (let [{:keys [style tooltip]} properties]
-                                       (case (:type geometry)
-                                         "Polygon" (-> js/L
-                                                       (.polygon (-> geometry
-                                                                     :coordinates
-                                                                     first
-                                                                     clj->js)
-                                                                 (-> style
-                                                                     (or {})
-                                                                     clj->js (or style {})))
-                                                       (.bindTooltip tooltip)
-                                                       (.addTo m))
-                                         "MultiPolygon" (-> js/L
-                                                            (.multiPolygon (-> geometry
-                                                                               :coordinates
-                                                                               clj->js)
-                                                                           (-> style
-                                                                               (or {})
-                                                                               clj->js (or style {})))
-                                                            (.bindTooltip tooltip)
-                                                            (.addTo m))
-                                         ;; else
-                                         (-> geometry
-                                             :type
-                                             (str " - unrecognized geometry type")
-                                             js/alert))))))))}])
+                          (.addTo m))))}])
       details]
      {:reagent/deps [:leaflet]})))
 
