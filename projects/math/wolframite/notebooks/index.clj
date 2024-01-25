@@ -1,5 +1,11 @@
 (load-file "../../../header.edn")
 
+;; # Wolframite
+
+;; This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in a way that would work in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
+
+;; It is mostly copied and adpated from [the official Wolframite demo](https://github.com/scicloj/wolframite/blob/main/dev/demo.clj).
+
 (ns index
   (:refer-clojure
    ;; Exclude symbols also used by Wolfram:
@@ -15,17 +21,11 @@
            (java.awt Color Frame)
            (java.awt.event WindowAdapter ActionEvent)))
 
+^:kindly/hide-code
 (def md
   (comp kindly/hide-code kind/md))
 
-(md "# Wolframite
-
-This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in a way that would work in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
-
-It is mostly copied and adpated from [the official Wolframite demo](https://github.com/scicloj/wolframite/blob/main/dev/demo.clj).
-
-## Init (base example)
-")
+(md "## Init (base example)")
 
 (wl/eval '(Dot [1 2 3] [4 5 6]))
 
