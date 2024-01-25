@@ -1,8 +1,6 @@
 {:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
                :branch "main"}
- :quarto {:title "Embeddings & Vector DBs"
-          :author "Daniel Slutsky"
-          :institute "Scicloj LLM Meetup #2"
+ :quarto {:title "Clojure Data Scrapbook"
           :format
           {:revealjs {:theme :solarized
                       :navigation-mode :vertical
