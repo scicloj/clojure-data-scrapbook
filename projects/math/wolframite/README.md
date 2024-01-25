@@ -1,4 +1,4 @@
-# Wolframite demo
+# Wolfram Lanauge interop with Wolframite - DRAFT
 
 WIP
 
