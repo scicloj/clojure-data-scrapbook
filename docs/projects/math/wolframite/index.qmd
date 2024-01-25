@@ -15,6 +15,11 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 <div style="max-height:600px;overflow-y:auto;"><table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table></div>
 
 
+# Wolframite
+This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in a way that would work in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
+It is mostly copied and adpated from [the official Wolframite demo](https://github.com/scicloj/wolframite/blob/main/dev/demo.clj).
+
+
 ::: {.sourceClojure}
 ```clojure
 (ns index
@@ -35,23 +40,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 :::
 
 
-
-::: {.sourceClojure}
-```clojure
-(def md
-  (comp kindly/hide-code kind/md))
-```
-:::
-
-
-# Wolframite
-
-This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in a way that would work in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
-
-It is mostly copied and adpated from [the official Wolframite demo](https://github.com/scicloj/wolframite/blob/main/dev/demo.clj).
-
 ## Init (base example)
-
 
 
 ::: {.sourceClojure}
