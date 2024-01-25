@@ -1,5 +1,4 @@
-;; imitating:
-;; https://github.com/scicloj/wolframite/blob/main/dev/*.clj
+(load-file "../../../header.edn")
 
 (ns index
   (:refer-clojure
@@ -7,83 +6,95 @@
    :exclude [Byte Character Integer Number Short String Thread])
   (:require
    [wolframite.core :as wl :refer [wl]]
-   [wolframite.jlink])
+   [wolframite.tools.hiccup]
+   [wolframite.base.parse :as parse]
+   [wolframite.jlink]
+   [scicloj.kindly.v4.kind :as kind]
+   [scicloj.kindly.v4.api :as kindly])
   (:import (com.wolfram.jlink MathCanvas KernelLink)
            (java.awt Color Frame)
            (java.awt.event WindowAdapter ActionEvent)))
 
+(def md
+  (comp kindly/hide-code kind/md))
 
-(defonce loaded
-  (do (println "Loading Wolfram symbols, this make take a few seconds...")
-      (wl/load-all-symbols (symbol (ns-name *ns*)))
-      :ok))
+(md "# Wolframite
 
-;;
-;; Evaluation
-;;
+This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/),
 
-;; Use eval with a quoted Wolfram-as-clojure-data expression (`Fn[..]` becoming `(Fn ..)`):
-(wl/eval '(Dot [1 2 3] [4 5 6])) ; Wolfram: `Dot[{1, 2, 3}, {4, 5, 6}]]`
-(Dot [1 2 3] [4 5 6]) ; We have loaded all symbols as Clojure fns and thus can run this directly
+It is mostly copied and adpated from [the official demo](https://github.com/scicloj/wolframite/blob/main/dev/demo.clj).
 
-(wl/eval '(N Pi 20))
-(N 'Pi 20) ; Beware: Pi must still be quoted, it is not a fn
+## Init (base example)
+")
 
-;;
-;; Built-in documentation:
-;;
-(clojure.repl/doc Dot)
+(wl/eval '(Dot [1 2 3] [4 5 6]))
 
+(md "## Strings of WL code")
 
+(wl/eval "{1 , 2, 3} . {4, 5, 6}")
 
-(defn make-math-canvas! [kernel-link]
-  (doto (MathCanvas. kernel-link)
-    (.setBounds 10, 25, 280, 240)
-    (.setImageType MathCanvas/GRAPHICS)))
+(md "## Def // intern WL fns, i.e. effectively define WL fns as clojure fns:")
 
-(defn make-app! [math-canvas]
-  ;; (.evaluateToInputForm wl/kernel-link (str "Needs[\""  KernelLink/PACKAGE_CONTEXT "\"]") 0)
-  ;; (.evaluateToInputForm wl/kernel-link "ConnectToFrontEnd[]" 0)
-  (let [app (Frame.)]
-    (doto app
-      (.setLayout nil)
-      (.setTitle "Wolframite Graphics")
-      (.add math-canvas)
-      (.setBackground Color/white)
-      (.setSize 300 400)
-      (.setLocation 50 50)
-      (.setVisible true)
-      (.addWindowListener (proxy [WindowAdapter] []
-                            (windowClosing [^ActionEvent e]
-                              (.dispose app)))))))
+(def W:Plus (parse/parse-fn 'Plus {:kernel/link @wl/kernel-link-atom}))
 
-(defn show!
-  [math-canvas wl-form]
-  (.setMathCommand math-canvas wl-form))
+(W:Plus 1 2 3) ; ... and call it
 
-(comment
+(wl/clj-intern 'Plus {}) ; a simpler way to do the same -> fn Plus in this ns
 
-  (def canvas (make-math-canvas! wl/kernel-link))
-  (def app (make-app! canvas))
+(map wl/clj-intern ['Dot 'Plus])
 
-  (show! canvas "GeoGraphics[]")
+(md " Call interned Wl functions:")
+(Dot [1 2 3] [4 5 6])
+(Plus 1 2 3)
+(Plus [1 2] [3 4])
 
-  (.dispose app))
+(def greetings
+  (wl/eval
+   '(Function [x] (StringJoin "Hello, " x "! This is a Mathematica function's output."))))
 
-;; TODO: improve
-;; - better api (?)
-;; - accept options
-;; TODO: patch WL macro adding :show option
-;; e.g.
-;;
-;; (WL :show (GeoGraphics))
+(greetings "Stephen")
+
+(md " ## Bidirectional translation
+(Somewhat experimental, especially in the wl->clj direction)")
 
 
+(wl/->clj! "GridGraph[{5, 5}]")
+(wl/->wl! '(GridGraph [5 5]) {:output-fn str})
 
-(comment ;; fun is good
+(md "## Graphics
 
-  (show! canvas "GeoGraphics[]")
-  (show! canvas "Graph3D[GridGraph[{3, 3, 3}, VertexLabels -> Automatic]]")
-  (show! canvas "GeoImage[Entity[\"City\", {\"NewYork\", \"NewYork\", \"UnitedStates\"}]]")
+### A helper function to view things in tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly)")
 
-  )
+(defn view
+  ([form]
+   (view form nil))
+  ([form {:keys [folded?]}]
+   (-> form
+       (wolframite.tools.hiccup/view* folded?)
+       kind/hiccup)))
+
+(md " ### Draw Something!")
+
+(view
+ '(GridGraph [5 5]))
+
+(view
+ '(GridGraph [5 5])
+ {:folded? true})
+
+(view
+ '(ChemicalData "Ethanol" "StructureDiagram"))
+
+(md "## More Working Examples")
+
+(wl/eval '(GeoNearest (Entity "Ocean") Here))
+
+(md " TODO: Make this work with `view` as well.")
+
+(view '(TextStructure "The cat sat on the mat."))
+
+(md "## Wolfram Alpha")
+
+(wl/eval '(WolframAlpha "number of moons of Saturn" "Result"))
+
+(view '(WolframAlpha "number of moons of Saturn" "Result"))
