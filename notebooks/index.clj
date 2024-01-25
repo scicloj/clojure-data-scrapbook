@@ -49,7 +49,13 @@
                          "projects/noj/ml.html"
                          "projects/noj/notebooks/ml.clj"
                          nil
-                         [:noj :ml :scicloj.ml :draft]]]
+                         [:noj :ml :scicloj.ml :draft]]
+                        ["2024-01-25"
+                         "Wolfram Lanauge interop with Wolframite - DRAFT"
+                         "projects/math/wolframite/index.html"
+                         "projects/math/wolframite/"
+                         nil
+                         [:math :wolframite :interop :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
                               [date
                                (kind/hiccup
