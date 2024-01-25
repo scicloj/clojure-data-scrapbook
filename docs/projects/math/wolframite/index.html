@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Daniel Slutsky">
 
-<title>index</title>
+<title>Wolfram Lanauge interop with Wolframite - DRAFT</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,24 +81,42 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#wolframite" id="toc-wolframite" class="nav-link active" data-scroll-target="#wolframite">Wolframite</a>
-  <ul>
-  <li><a href="#init-base-example" id="toc-init-base-example" class="nav-link" data-scroll-target="#init-base-example">Init (base example)</a></li>
+  <li><a href="#init-base-example" id="toc-init-base-example" class="nav-link active" data-scroll-target="#init-base-example">Init (base example)</a></li>
   <li><a href="#strings-of-wl-code" id="toc-strings-of-wl-code" class="nav-link" data-scroll-target="#strings-of-wl-code">Strings of WL code</a></li>
   <li><a href="#def-intern-wl-fns-i.e.-effectively-define-wl-fns-as-clojure-fns" id="toc-def-intern-wl-fns-i.e.-effectively-define-wl-fns-as-clojure-fns" class="nav-link" data-scroll-target="#def-intern-wl-fns-i.e.-effectively-define-wl-fns-as-clojure-fns">Def // intern WL fns, i.e.&nbsp;effectively define WL fns as clojure fns:</a></li>
   <li><a href="#graphics" id="toc-graphics" class="nav-link" data-scroll-target="#graphics">Graphics</a>
-  <ul class="collapse">
+  <ul>
   <li><a href="#a-helper-function-to-view-things-in-tools-supporting-kindly" id="toc-a-helper-function-to-view-things-in-tools-supporting-kindly" class="nav-link" data-scroll-target="#a-helper-function-to-view-things-in-tools-supporting-kindly">A helper function to view things in tools supporting Kindly</a></li>
   </ul></li>
   <li><a href="#more-working-examples" id="toc-more-working-examples" class="nav-link" data-scroll-target="#more-working-examples">More Working Examples</a></li>
   <li><a href="#wolfram-alpha" id="toc-wolfram-alpha" class="nav-link" data-scroll-target="#wolfram-alpha">Wolfram Alpha</a></li>
-  </ul></li>
   </ul>
 </nav>
 </div>
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Wolfram Lanauge interop with Wolframite - DRAFT</h1>
+</div>
 
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Daniel Slutsky </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+</header>
 
 <style></style>
 <style>.printedClojure .sourceCode {
@@ -119,8 +138,6 @@ This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scra
 
 </tbody></table>
 </div>
-<section id="wolframite" class="level1">
-<h1>Wolframite</h1>
 <p>This notebook demonstrates basic usage of <a href="https://github.com/scicloj/wolframite/">Wolframite</a> in a way that would work in visual tools supporting <a href="https://scicloj.github.io/kindly-noted/kindly">Kindly</a>. It is mostly copied and adpated from <a href="https://github.com/scicloj/wolframite/blob/main/dev/demo.clj">the official Wolframite demo</a>.</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb1"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">ns</span> <span class="kw">index</span></span>
@@ -360,7 +377,6 @@ WolframAlpha[“number of moons of Saturn”, “Result”]
 <div>
 <pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/math/wolframite/notebooks/index.clj">projects/math/wolframite/notebooks/index.clj</a></small></small></pre>
 </div>
-</section>
 </section>
 
 </main>
