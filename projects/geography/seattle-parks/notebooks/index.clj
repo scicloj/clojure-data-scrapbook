@@ -410,13 +410,18 @@ For every neighborhood, we will compute the proportion of its area covered by pa
       (tc/order-by [:park-proportion] :desc)
       plot-neighborhoods-with-park-proportions))
 
+;; Note you may hover to see the neighborhood names.
+;; Let us take the ten most park-intense neighborhoods.
+
 (delay
   (-> neighborhoods-with-park-proportions
       (tc/order-by [:park-proportion] :desc)
       (tc/head 10)
       plot-neighborhoods-with-park-proportions))
 
-;; ## Representing park proportions as colors
+;; ## Representing park proportions as colors:
+
+;; We will use Clojure2d's [clojure.color](https://clojure2d.github.io/clojure2d/docs/notebooks/index.html#/notebooks/color.clj) functionality.
 
 (def gradient
   (color/gradient [:white :magenta]))
