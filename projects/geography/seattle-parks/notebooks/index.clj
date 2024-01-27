@@ -135,19 +135,12 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
                                  :color      "purple"
                                  :fillColor  "purple"}})))))))
 
-(md "We will need a tile layer for our visual map:")
-
-(def openstreetmap-tile-layer
-  {:url         "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
-   :max-zoom    19
-   :attribution "&copy;; <a href=\"http://www.openstreetmap.org/copyright\">OpenStreetMap</a>"})
-
 (md "Here is how we may generate a Choroplet map in [Leaflet](https://leafletjs.com/):")
 
 (defn choropleth-map [details]
   (delay
     (kind/reagent
-     ['(fn [{:keys [tile-layer
+     ['(fn [{:keys [provider
                     center
                     enriched-features]}]
          [:div
@@ -157,14 +150,10 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
                                 (.map el)
                                 (.setView (clj->js center)
                                           11))]
-                      (let [{:keys [url max-zoom attribution]}
-                            tile-layer]
-                        (-> js/L
-                            (.tileLayer url
-                                        (clj->js
-                                         {:maxZoom     max-zoom
-                                          :attribution attribution}))
-                            (.addTo m)))
+                      (-> js/L
+                          .-tileLayer
+                          (.provider provider)
+                          (.addTo m))
                       (-> js/L
                           (.geoJson (clj->js enriched-features)
                                     (clj->js {:style (fn [feature]
@@ -180,9 +169,12 @@ We will enrich every feature (e.g., neighborhood) with data relevant for its vis
       details]
      {:reagent/deps [:leaflet]})))
 
+;; We pick a tile layer provider from
+;; [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers).
+
 (defn Seattle-choropleth-map [enriched-features]
   (choropleth-map
-   {:tile-layer openstreetmap-tile-layer
+   {:provider "OpenStreetMap.Mapnik"
     :center     Seattle-center
     :enriched-features enriched-features}))
 
