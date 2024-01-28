@@ -51,7 +51,7 @@
                          nil
                          [:noj :ml :scicloj.ml :draft]]
                         ["2024-01-25"
-                         "Wolfram Lanauge interop with Wolframite - DRAFT"
+                         "Wolfram Lanauge interop with Wolframite"
                          "projects/math/wolframite/index.html"
                          "projects/math/wolframite/"
                          nil
