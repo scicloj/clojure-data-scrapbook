@@ -19,7 +19,8 @@ author: Daniel Slutsky
 This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in a way that would work in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
 It is also appears at the Wolrfamite repo as [dev/kindly-demo.clj](https://github.com/scicloj/wolframite/blob/main/dev/kindly_demo.clj).
 Note that to use Wolframite, you need Wolfamite in the dependencies,
-as well as the `WOLFRAM_INSTALL_PATH`
+and if Wolfraimte fails to find the correct install path automatically,
+you may need to have the `WOLFRAM_INSTALL_PATH` environment variable
 set up in your system, as explained in
 [Wolframite's README](https://github.com/scicloj/wolframite/).
 
@@ -43,8 +44,6 @@ set up in your system, as explained in
 ```
 :::
 
-
-## Make sure Wo
 
 ## Init (base example)
 
@@ -86,7 +85,7 @@ set up in your system, as explained in
 :::
 
 
-## Def // intern WL fns, i.e. effectively define WL fns as clojure fns:
+## Def / intern WL fns, i.e. effectively define WL fns as clojure fns:
 
 
 ::: {.sourceClojure}
@@ -142,7 +141,7 @@ set up in your system, as explained in
 :::
 
 
- ## Bidirectional translation
+## Bidirectional translation
 (Somewhat experimental, especially in the wl->clj direction)
 
 
