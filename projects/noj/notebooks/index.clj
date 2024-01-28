@@ -1,3 +1,5 @@
+(load-file "../../header.edn")
+
 ^:kindly/hide-code
 (ns index)
 
