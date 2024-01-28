@@ -1,10 +1,8 @@
-# Wolfram Lanauge interop with Wolframite - DRAFT
+# Wolfram Lanauge interop with Wolframite
 
-WIP
+This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
 
-This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in a way that would work in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
-
-It is mostly copied and adpated from [the official Wolframite demo](https://github.com/scicloj/wolframite/blob/main/dev/demo.clj).
+It also appears under [the Wolframite project itself] as [kindly-demo](https://github.com/scicloj/wolframite/blob/main/dev/kindly-demo.clj).
 
 [notebook](https://scicloj.github.io/clojure-data-scrapbook/projects/math/wolframite/) - rendered with [Clay](https://scicloj.github.io/clay/)
 

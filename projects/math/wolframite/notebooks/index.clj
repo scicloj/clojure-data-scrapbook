@@ -2,15 +2,20 @@
 
 ;; This notebook demonstrates basic usage of [Wolframite](https://github.com/scicloj/wolframite/) in a way that would work in visual tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly).
 
-;; It is mostly copied and adpated from [the official Wolframite demo](https://github.com/scicloj/wolframite/blob/main/dev/demo.clj).
+;; It is also appears at the Wolrfamite repo as [dev/kindly-demo.clj](https://github.com/scicloj/wolframite/blob/main/dev/kindly_demo.clj).
+
+;; Note that to use Wolframite, you need Wolfamite in the dependencies,
+;; as well as the `WOLFRAM_INSTALL_PATH`
+;; set up in your system, as explained in
+;; [Wolframite's README](https://github.com/scicloj/wolframite/).
 
 (ns index
   (:refer-clojure
    ;; Exclude symbols also used by Wolfram:
    :exclude [Byte Character Integer Number Short String Thread])
   (:require
-   [wolframite.core :as wl :refer [wl]]
-   [wolframite.tools.hiccup]
+   [wolframite.core :as wl]
+   [wolframite.tools.hiccup :refer [view]]
    [wolframite.base.parse :as parse]
    [wolframite.jlink]
    [scicloj.kindly.v4.kind :as kind]
@@ -23,7 +28,10 @@
 (def md
   (comp kindly/hide-code kind/md))
 
+(md "## Make sure Wo")
+
 (md "## Init (base example)")
+^:note-to-test/skip
 
 (wl/eval '(Dot [1 2 3] [4 5 6]))
 
@@ -37,14 +45,6 @@
 
 (W:Plus 1 2 3) ; ... and call it
 
-(wl/clj-intern 'Plus {}) ; a simpler way to do the same -> fn Plus in this ns
-
-(map wl/clj-intern ['Dot 'Plus])
-
-(md " Call interned Wl functions:")
-(Dot [1 2 3] [4 5 6])
-(Plus 1 2 3)
-(Plus [1 2] [3 4])
 
 (def greetings
   (wl/eval
@@ -59,19 +59,7 @@
 (wl/->clj! "GridGraph[{5, 5}]")
 (wl/->wl! '(GridGraph [5 5]) {:output-fn str})
 
-(md "## Graphics
-
-### A helper function to view things in tools supporting [Kindly](https://scicloj.github.io/kindly-noted/kindly)")
-
-(defn view
-  ([form]
-   (view form nil))
-  ([form {:keys [folded?]}]
-   (-> form
-       (wolframite.tools.hiccup/view* folded?)
-       kind/hiccup)))
-
-(md " ### Draw Something!")
+(md "## Graphics")
 
 (view
  '(GridGraph [5 5]))
