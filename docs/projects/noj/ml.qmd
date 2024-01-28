@@ -111,20 +111,20 @@ Linear Model:
 
 Residuals:
        Min          1Q      Median          3Q         Max
-   -0.8363     -0.2220      0.0278      0.2168      0.6757
+   -0.7943     -0.2312      0.0256      0.2059      0.8735
 
 Coefficients:
                   Estimate Std. Error    t value   Pr(>|t|)
-Intercept           1.8228     0.2974     6.1291     0.0000 ***
-sepal-width         0.6696     0.0822     8.1451     0.0000 ***
-petal-length        0.7126     0.0684    10.4175     0.0000 ***
-petal-width        -0.5688     0.1563    -3.6381     0.0004 ***
+Intercept           1.7726     0.3098     5.7220     0.0000 ***
+sepal-width         0.6807     0.0824     8.2622     0.0000 ***
+petal-length        0.7112     0.0700    10.1639     0.0000 ***
+petal-width        -0.5768     0.1582    -3.6467     0.0004 ***
 ---------------------------------------------------------------------
 Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-Residual standard error: 0.3192 on 96 degrees of freedom
-Multiple R-squared: 0.8711,    Adjusted R-squared: 0.8671
-F-statistic: 216.3502 on 4 and 96 DF,  p-value: 1.417e-42
+Residual standard error: 0.3230 on 96 degrees of freedom
+Multiple R-squared: 0.8500,    Adjusted R-squared: 0.8453
+F-statistic: 181.3338 on 4 and 96 DF,  p-value: 2.062e-39
 
 ```
 :::

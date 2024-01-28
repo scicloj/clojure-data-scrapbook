@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Noj tutorials",
+    "section": "",
+    "text": "This is part of the Scicloj Clojure Data Scrapbook.\n\n\n\n\n\n\n\n1 Preface\nNoj (short for Scinojure) is an opinionated way to use the emerging Clojure data stack. It collects a few of the relevant libraries together and addes some layers of composition on top of them.\n\n\n\n\nsource: projects/noj/notebooks/index.clj"
+  },
+  {
+    "objectID": "ml.html#linear-regression",
+    "href": "ml.html#linear-regression",
+    "title": "2  Machine learning - DRAFT",
+    "section": "2.1 Linear regression",
+    "text": "2.1 Linear regression\nWe will explore the Iris dataset:\n\n(tc/head datasets/iris)\n\n_unnamed [5 5]:\n\n\n\n\n\n\n\n\n\n\n:sepal-length\n:sepal-width\n:petal-length\n:petal-width\n:species\n\n\n\n\n5.1\n3.5\n1.4\n0.2\nsetosa\n\n\n4.9\n3.0\n1.4\n0.2\nsetosa\n\n\n4.7\n3.2\n1.3\n0.2\nsetosa\n\n\n4.6\n3.1\n1.5\n0.2\nsetosa\n\n\n5.0\n3.6\n1.4\n0.2\nsetosa\n\n\n\nA Metamorph pipeline for linear regression:\n\n(def additive-pipeline\n  (ml/pipeline\n   (mm/set-inference-target :sepal-length)\n   (mm/drop-columns [:species])\n   {:metamorph/id :model}\n   (mm/model {:model-type :smile.regression/ordinary-least-square})))\n\nTraining and evaluating the pipeline on various subsets:\n\n(def evaluations\n  (ml/evaluate-pipelines\n   [additive-pipeline]\n   (ds/split-&gt;seq datasets/iris :holdout)\n   ml/rmse\n   :loss\n   {:other-metrices [{:name :r2\n                      :metric-fn fastmath.stats/r2-determination}]}))\n\nPrinting one of the trained models (note that the Smile regression model is recognized by Kindly and printed correctly):\n\n(-&gt; evaluations\n    flatten\n    first\n    :fit-ctx\n    :model\n    ml/thaw-model)\n\n\nLinear Model:\n\nResiduals:\n       Min          1Q      Median          3Q         Max\n   -0.7943     -0.2312      0.0256      0.2059      0.8735\n\nCoefficients:\n                  Estimate Std. Error    t value   Pr(&gt;|t|)\nIntercept           1.7726     0.3098     5.7220     0.0000 ***\nsepal-width         0.6807     0.0824     8.2622     0.0000 ***\npetal-length        0.7112     0.0700    10.1639     0.0000 ***\npetal-width        -0.5768     0.1582    -3.6467     0.0004 ***\n---------------------------------------------------------------------\nSignificance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 0.3230 on 96 degrees of freedom\nMultiple R-squared: 0.8500,    Adjusted R-squared: 0.8453\nF-statistic: 181.3338 on 4 and 96 DF,  p-value: 2.062e-39\n\n\n\n\n\nsource: projects/noj/notebooks/ml.clj"
+  }
+]
