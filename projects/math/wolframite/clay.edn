@@ -1,6 +1,6 @@
 {:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
                :branch "main"}
- :quarto {:title "Wolfram Lanauge interop with Wolframite - DRAFT"
+ :quarto {:title "Wolfram Langauge interop with Wolframite"
           :author "Daniel Slutsky"
           :format
           {:revealjs {:theme :solarized
