@@ -4,7 +4,7 @@ format:
   html: {toc: true, toc-depth: 4, theme: spacelab, output-file: index.html}
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
-title: Wolfram Lanauge interop with Wolframite - DRAFT
+title: Wolfram Langauge interop with Wolframite
 author: Daniel Slutsky
 
 ---
