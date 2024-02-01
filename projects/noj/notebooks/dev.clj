@@ -4,7 +4,8 @@
 (clay/make! {:format [:quarto :html]
              :base-source-path "notebooks"
              :source-path ["index.clj"
-                           "ml.clj"]
+                           "ml.clj"
+                           "gg.clj"]
              :base-target-path "docs"
              :book {:title "Noj tutorials"}
              :clean-up-target-dir true})
