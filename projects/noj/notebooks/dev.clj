@@ -5,7 +5,7 @@
              :base-source-path "notebooks"
              :source-path ["index.clj"
                            "ml.clj"
-                           "gg.clj"]
+                           "ggplot.clj"]
              :base-target-path "docs"
              :book {:title "Noj tutorials"}
              :clean-up-target-dir true})
