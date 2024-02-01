@@ -9,10 +9,15 @@
 
 (r/library "ggplot2")
 
-(-> "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+(def plot
+  (r "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
          + geom_point()
          + stat_smooth(method=\"lm\")
-         + facet_wrap(~cyl))"
-    r
+         + facet_wrap(~cyl))"))
+
+(-> plot
     plotting/plot->svg
     kind/html)
+
+(-> plot
+    r/r->clj)
