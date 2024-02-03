@@ -45,3 +45,25 @@
 (-> plot
     gg-facet
     (update-vals r->clj))
+
+(r/require-r '[base])
+
+(defn ->clj
+  ([r-obj avoid]
+   (->clj r-obj avoid []))
+  ([r-obj avoid path]
+   (prn path)
+   (or (some-> (some->> r-obj
+                        r.base/names
+                        r->clj
+                        (filter (complement avoid))
+                        (map (fn [nam]
+                               [(keyword nam) (-> r-obj
+                                                  (r$ nam)
+                                                  (->clj avoid
+                                                         (conj path nam)))]))
+                        (into {})))
+       r-obj)))
+
+(-> plot
+    (->clj #{"plot_env"}))
