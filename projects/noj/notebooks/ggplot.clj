@@ -25,18 +25,20 @@
 
 
 ;; Trying to mimic [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list (WIP):
-(let [f (-> plot
-            (r$ 'facet)
-            (r$ 'params)
-            (r$ 'facets))]
-  (when (-> `(is.null ~f)
-            r
-            r->clj)
-    (let [facet (-> `(ls ~f)
-                    r
-                    (r->clj)
-                    first)]
-      {:facet facet
-       :facet-levels (-> plot
-                         (r$ 'data)
-                         (r/bra facet))})))
+(defn gg-facet [ggplot]
+  (let [f (-> ggplot
+              (r$ 'facet)
+              (r$ 'params)
+              (r$ 'facets))]
+    (when (-> `(is.null ~f)
+              r
+              r->clj)
+      (let [facet (r `(ls ~f))]
+        {:facet facet
+         :facet-levels (-> plot
+                           (r$ 'data)
+                           (r/bra facet))}))))
+
+(-> plot
+    gg-facet
+    (update-vals r->clj))
