@@ -2,6 +2,10 @@
 
 ;; # Exploring ggplot
 
+;; following
+;; [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list
+;; in representing a plot as a data structure.
+
 (ns ggplot
   (:require [clojisr.v1.r :as r :refer [r r$ r->clj]]
             [clojisr.v1.applications.plotting :as plotting]
@@ -24,7 +28,6 @@
     (dissoc :data))
 
 
-;; Trying to mimic [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list (WIP):
 (defn gg-facet [ggplot]
   (let [f (-> ggplot
               (r$ 'facet)
