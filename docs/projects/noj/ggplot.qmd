@@ -16,6 +16,9 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 
 # Exploring ggplot
+following
+[cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list
+in representing a plot as a data structure.
 
 
 ::: {.sourceClojure}
@@ -399,7 +402,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface6">
+<g id="surface11">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -1091,26 +1094,43 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 :::
 
 
-Trying to mimic [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list (WIP):
+
+::: {.sourceClojure}
+```clojure
+(defn gg-facet [ggplot]
+  (let [f (-> ggplot
+              (r$ 'facet)
+              (r$ 'params)
+              (r$ 'facets))]
+    (when (-> `(is.null ~f)
+              r
+              r->clj)
+      (let [facet (r `(ls ~f))]
+        {:facet facet
+         :facet-levels (-> plot
+                           (r$ 'data)
+                           (r/bra facet))}))))
+```
+:::
+
 
 
 ::: {.sourceClojure}
 ```clojure
-(let [f (-> plot
-            (r$ 'facet)
-            (r$ 'params)
-            (r$ 'facets))]
-  (when (-> `(is.null ~f)
-            r
-            r->clj)
-    (let [facet (-> `(ls ~f)
-                    r
-                    (r->clj)
-                    first)]
-      {:facet facet
-       :facet-levels (-> plot
-                         (r$ 'data)
-                         (r/bra facet))})))
+(-> plot
+    gg-facet
+    (update-vals r->clj))
+```
+:::
+
+
+<div style="max-height:600px;overflow-y:auto;"><div><p>{</p><div style="margin-left:10%;width:110%;"><div><pre><code class="sourceCode language-clojure printed-clojure">:facet ["cyl"]</code></pre></div><table><tr><td valign="top"><div style="max-height:600px;overflow-y:auto;"><div><pre><code class="sourceCode language-clojure printed-clojure">:facet-levels
+</code></pre></div></div></td><td><div style="margin-left:10px;"><div><p>_unnamed \[234 1\]:</p><table class="table"><thead><tr><th style="text-align:right;">:cyl</th></tr></thead><tbody><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">6</td></tr><tr><td style="text-align:right;">6</td></tr><tr><td style="text-align:right;">6</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">...</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">5</td></tr><tr><td style="text-align:right;">5</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">4</td></tr><tr><td style="text-align:right;">6</td></tr><tr><td style="text-align:right;">6</td></tr><tr><td style="text-align:right;">6</td></tr></tbody></table></div></div></td></tr></table></div><p>}</p></div></div>
+
+
+::: {.sourceClojure}
+```clojure
+(r/require-r '[base])
 ```
 :::
 
@@ -1118,21 +1138,191 @@ Trying to mimic [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.lis
 
 ::: {.printedClojure}
 ```clojure
-{:facet "cyl", :facet-levels # A tibble: 234 × 1
-     cyl
-   &lt;int&gt;
- 1     4
- 2     4
- 3     4
- 4     4
- 5     6
- 6     6
- 7     6
- 8     4
- 9     4
-10     4
-# ℹ 224 more rows
-}
+nil
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(defn ->clj
+  ([r-obj avoid]
+   (->clj r-obj avoid []))
+  ([r-obj avoid path]
+   (prn path)
+   (let [relevant-names (some->> r-obj
+                                 r.base/names
+                                 r->clj
+                                 (filter (complement avoid)))]
+     (cond
+       ;;
+       ;; a named list or a ggproto object
+       (seq relevant-names) (->> relevant-names
+                                 (map (fn [nam]
+                                        [(keyword nam) (-> r-obj
+                                                           (r$ nam)
+                                                           (->clj avoid
+                                                                  (conj path nam)))]))
+                                 (into {}))
+       ;;
+       ;; a ggproto method
+       (-> r-obj
+           r.base/class
+           r->clj
+           first
+           (= "ggproto_method"))
+       :ggproto-method
+       ;;
+       ;; an unnamed list
+       (-> r-obj
+           r.base/is-list
+           r->clj
+           first)
+       (-> r-obj
+           r.base/length
+           r->clj
+           first
+           range
+           (->> (mapv (fn [i]
+                        (prn [path (inc i)])
+                        (-> r-obj
+                            (r/brabra (inc i))
+                            (->clj avoid
+                                   (conj path [i])))))))
+       ;;
+       (r.base/is-function r-obj) :function
+       (r.base/is-atomic r-obj) (r->clj r-obj)
+       :else r-obj))))
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> plot
+    (->clj #{"data" "plot_env"}))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params [],
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend :function,
+   :mapping :function,
+   :super :ggproto-method,
+   :computed_stat_params {:na.rm :function},
+   :inherit.aes :function,
+   :geom_params {:na.rm :function},
+   :geom
+   {:non_missing_aes :function,
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape :function,
+     :colour :function,
+     :size :function,
+     :fill :function,
+     :alpha :function,
+     :stroke :function},
+    :super :ggproto-method,
+    :required_aes :function,
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm :function},
+   :constructor :function,
+   :computed_mapping {:x :function, :y :function, :colour :function},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :computed_geom_params {:na.rm :function}}
+  {:aes_params [],
+   :stat
+   {:extra_params :function,
+    :super :ggproto-method,
+    :compute_group :ggproto-method,
+    :required_aes :function,
+    :setup_params :ggproto-method,
+    :dropped_aes :function},
+   :show.legend :function,
+   :mapping :function,
+   :super :ggproto-method,
+   :computed_stat_params
+   {:na.rm :function,
+    :method :function,
+    :n :function,
+    :orientation :function,
+    :level :function,
+    :fullrange :function,
+    :flipped_aes :function,
+    :se :function,
+    :formula :function,
+    :method.args [],
+    :span :function},
+   :inherit.aes :function,
+   :geom_params
+   {:se :function, :na.rm :function, :orientation :function},
+   :geom
+   {:setup_params :ggproto-method,
+    :super :ggproto-method,
+    :draw_key :ggproto-method,
+    :extra_params :function,
+    :required_aes :function,
+    :draw_group :ggproto-method,
+    :optional_aes :function,
+    :rename_size :function,
+    :setup_data :ggproto-method,
+    :default_aes
+    {:colour :function,
+     :fill :function,
+     :linewidth :function,
+     :linetype :function,
+     :weight :function,
+     :alpha :function}},
+   :stat_params
+   {:na.rm :function,
+    :method :function,
+    :n :function,
+    :orientation :function,
+    :level :function,
+    :fullrange :function,
+    :se :function,
+    :formula :function,
+    :method.args [],
+    :span :function},
+   :constructor {: :function, :method :function},
+   :computed_mapping {:x :function, :y :function, :colour :function},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :computed_geom_params
+   {:se :function,
+    :na.rm :function,
+    :orientation :function,
+    :flipped_aes :function}}],
+ :scales {:scales [], :super :ggproto-method},
+ :mapping {:x :function, :y :function, :colour :function},
+ :theme [],
+ :coordinates
+ {:expand :function,
+  :clip :function,
+  :limits {:x :function, :y :function},
+  :super :ggproto-method,
+  :default :function},
+ :facet
+ {:params
+  {:dir :function,
+   :nrow :function,
+   :as.table :function,
+   :free {:x :function, :y :function},
+   :drop :function,
+   :strip.position :function,
+   :ncol :function,
+   :facets {:cyl :function},
+   :labeller :function},
+  :shrink :function,
+  :super :ggproto-method},
+ :labels {:x :function, :y :function, :colour :function}}
 
 ```
 :::
