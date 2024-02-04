@@ -63,7 +63,36 @@
                                                   (->clj avoid
                                                          (conj path nam)))]))
                         (into {})))
-       r-obj)))
+       (if (-> r-obj
+               r.base/class
+               r->clj
+               first
+               (= "ggproto_method"))
+         :ggproto-method)
+       (if (-> r-obj
+               r.base/is-list
+               r->clj
+               first)
+         (-> r-obj
+             r.base/length
+             r->clj
+             first
+             range
+             (->> (mapv (fn [i]
+                          (prn [path (inc i)])
+                          (-> r-obj
+                              (r/brabra (inc i))
+                              (->clj avoid
+                                     (conj path [i])))))))
+         r-obj))))
 
 (-> plot
-    (->clj #{"plot_env"}))
+    (->clj #{"data" "plot_env"}))
+
+(-> plot
+    (->clj #{"data" "plot_env"})
+    :layers
+    first
+    :stat
+    :compute_layer
+    r.base/class)
