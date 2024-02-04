@@ -88,11 +88,3 @@
 
 (-> plot
     (->clj #{"data" "plot_env"}))
-
-(-> plot
-    (->clj #{"data" "plot_env"})
-    :layers
-    first
-    :stat
-    :compute_layer
-    r.base/class)
