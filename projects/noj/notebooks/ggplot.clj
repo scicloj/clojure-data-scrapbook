@@ -129,7 +129,7 @@
     (kind/fragment
      [(h4 "R code")
       (kind/md
-       (format "\n```{r eval=FALSE}\n%s\n```\n"
+       (format "\n```\n%s\n```\n"
                r-code))
       (h4 "plot")
       (-> plot
