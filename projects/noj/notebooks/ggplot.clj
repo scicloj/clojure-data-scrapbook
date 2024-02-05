@@ -1,6 +1,6 @@
 (load-file "../../header.edn")
 
-;; # Exploring ggplot
+;; # Exploring ggplot (WIP)
 
 ;; Here we explore [ggplot2](https://ggplot2.tidyverse.org/) from Clojure. The goal is to eventually implement a similar grammar in Clojure.
 
@@ -15,10 +15,15 @@
             [clojure.walk :as walk]
             [tablecloth.api :as tc]))
 
+;; Loading ggplot2:
 (r/library "ggplot2")
-(r/require-r '[base]) ; the base R library
+
+;; The base R library:
+(r/require-r '[base])
 
 ;; ## An example plot
+
+;; Here is how we may generate and display a plot:
 
 (-> "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
          + geom_point()
@@ -28,10 +33,20 @@
     plotting/plot->svg
     kind/html)
 
+;; We may also [generate](https://scicloj.github.io/clojisr/doc/clojisr/v1/codegen-test/) the R code from a Clojure form and pass Clojure data to R, but for now, we are simply using R code using an R dataset.
+
+;; We are using the `mpg` dataset, which is part of the `ggplot` package.
+
+(-> "mpg"
+    r
+    r->clj)
+
 ;; ## Representing plots as Clojure data
 
 ;; Inspired by
 ;; [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list finction, let us represent ggplot objects as R data structures.
+
+;; A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto) objects.
 
 (defn ggolot->clj
   ([r-obj
@@ -93,7 +108,6 @@
          + geom_point())"
     r
     (ggolot->clj {:avoid #{"data" "plot_env"}}))
-
 
 
 ;; ## Exlploring a few plots
