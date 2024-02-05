@@ -55,7 +55,13 @@
                          "projects/math/wolframite/index.html"
                          "projects/math/wolframite/"
                          nil
-                         [:math :wolframite :interop :draft]]]
+                         [:math :wolframite :interop :draft]]
+                        ["2024-02-06"
+                         "Machine learning - DRAFT"
+                         "projects/noj/ggplot.html"
+                         "projects/noj/notebooks/ggplot.clj"
+                         nil
+                         [:noj :r :clojisr :interop :ggplot :datavis :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
                               [date
                                (kind/hiccup
