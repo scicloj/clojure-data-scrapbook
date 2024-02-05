@@ -11,7 +11,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
   border-style: none;
 }
 </style>
-<script src="ggplot_files/md-default5.js" type="text/javascript"></script><script src="ggplot_files/md-default6.js" type="text/javascript"></script>
+<script src="ggplot_files/md-default4.js" type="text/javascript"></script><script src="ggplot_files/md-default5.js" type="text/javascript"></script><script src="ggplot_files/portal6.js" type="text/javascript"></script>
 
 ```{=html}
 <table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table>
@@ -20,9 +20,10 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 
 # Exploring ggplot
-following
-[cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list
-in representing a plot as a data structure.
+Here we explore [ggplot2](https://ggplot2.tidyverse.org/) from Clojure. The goal is to eventually implement a similar grammar in Clojure.
+
+## Setup
+We will use [ClojisR](https://scicloj.github.io/clojisr/) to call R from Clojure.
 
 
 ::: {.sourceClojure}
@@ -59,19 +60,32 @@ in representing a plot as a data structure.
 
 ::: {.sourceClojure}
 ```clojure
-(def plot
-  (r "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
-         + geom_point()
-         + stat_smooth(method=\"lm\")
-         + facet_wrap(~cyl))"))
+(r/require-r '[base])
 ```
 :::
 
 
 
+::: {.printedClojure}
+```clojure
+nil
+
+```
+:::
+
+
+the base R library
+
+## An example plot
+
+
 ::: {.sourceClojure}
 ```clojure
-(-> plot
+(-> "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point()
+         + stat_smooth(method=\"lm\")
+         + facet_wrap(~cyl))"
+    r
     plotting/plot->svg
     kind/html)
 ```
@@ -410,7 +424,7 @@ in representing a plot as a data structure.
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface428">
+<g id="surface929">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -1079,111 +1093,9 @@ in representing a plot as a data structure.
 
 
 
-::: {.sourceClojure}
-```clojure
-(-> plot
-    r->clj
-    (dissoc :data))
-```
-:::
-
-
-
-::: {.printedClojure}
-```clojure
-{:layers [nil nil],
- :scales nil,
- :mapping {:x [~ cty], :y [~ hwy], :colour [~ [factor cyl]]},
- :theme [],
- :coordinates nil,
- :facet nil,
- :plot_env nil,
- :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
-
-```
-:::
-
-
-
-::: {.sourceClojure}
-```clojure
-(defn gg-facet [ggplot]
-  (let [f (-> ggplot
-              (r$ 'facet)
-              (r$ 'params)
-              (r$ 'facets))]
-    (when (-> `(is.null ~f)
-              r
-              r->clj)
-      (let [facet (r `(ls ~f))]
-        {:facet facet
-         :facet-levels (-> plot
-                           (r$ 'data)
-                           (r/bra facet))}))))
-```
-:::
-
-
-
-::: {.sourceClojure}
-```clojure
-(-> plot
-    gg-facet
-    (update-vals r->clj))
-```
-:::
-
-
-
-```{=html}
-<div><p>{</p><div style="margin-left:10%;width:110%;"><div><pre><code class="sourceCode language-clojure printed-clojure">:facet ["cyl"]</code></pre></div><table><tr><td valign="top"><div><pre><code class="sourceCode language-clojure printed-clojure">:facet-levels
-</code></pre></div></td><td><div style="margin-left:10px;"><span data-qmd="_unnamed [234 1]:
-
-| :cyl |
-|-----:|
-|    4 |
-|    4 |
-|    4 |
-|    4 |
-|    6 |
-|    6 |
-|    6 |
-|    4 |
-|    4 |
-|    4 |
-|  ... |
-|    4 |
-|    4 |
-|    5 |
-|    5 |
-|    4 |
-|    4 |
-|    4 |
-|    4 |
-|    6 |
-|    6 |
-|    6 |
-
-"></span></div></td></tr></table></div><p>}</p></div>
-```
-
-
-
-::: {.sourceClojure}
-```clojure
-(r/require-r '[base])
-```
-:::
-
-
-
-::: {.printedClojure}
-```clojure
-nil
-
-```
-:::
-
+## Representing plots as Clojure data
+Inspired by
+[cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list finction, let us represent ggplot objects as R data structures.
 
 
 ::: {.sourceClojure}
@@ -1245,6 +1157,8 @@ nil
 :::
 
 
+For example:
+
 
 ::: {.sourceClojure}
 ```clojure
@@ -1301,6 +1215,10 @@ nil
 
 
 
+## Exlploring a few plots
+Let us explore and compare a few plots this way:
+
+
 ::: {.sourceClojure}
 ```clojure
 (defn h4 [title]
@@ -1315,112 +1233,32 @@ nil
 (defn ggplot-summary [r-code]
   (let [plot (r r-code)
         clj (-> plot
-                (ggolot->clj {:avoid #{"data" "plot_env"}})
-                (->> (walk/postwalk (fn [form]
-                                      (if (and (symbol? form)
-                                               (-> form str (= "~")))
-                                        (str form)
-                                        form)))))]
+                (ggolot->clj {:avoid #{"data" "plot_env"}}))]
     (kind/fragment
-     [(h4 "code")
+     [(h4 "R code")
       (kind/md
        (format "\n```{r eval=FALSE}\n%s\n```\n"
                r-code))
-      (h4 "image")
-      (plotting/plot->buffered-image plot)
-      (h4 "clj")
-      (kind/pprint clj)])))
+      (h4 "plot")
+      (-> plot
+          plotting/plot->buffered-image)
+      (h4 "clj data")
+      (kind/pprint clj)
+      (h4 "portal view")
+      (->> clj
+           (walk/postwalk (fn [form]
+                            ;; Avoiding symbols that
+                            (if (or (and (symbol? form)
+                                         (-> form str (= "~")))
+                                    (and (keyword? form)
+                                         (-> form str (= "."))))
+                              (str form)
+                              form)))
+           kind/portal)])))
 ```
 :::
 
 
-
-::: {.sourceClojure}
-```clojure
-(ggplot-summary
- "(ggplot(mpg, aes(cty, hwy))
-         + geom_point())")
-```
-:::
-
-
-
-```{=html}
-<h3>code</h3>
-```
-
-
-
-```{r eval=FALSE}
-(ggplot(mpg, aes(cty, hwy))
-         + geom_point())
-```
-
-
-
-```{=html}
-<h3>image</h3>
-```
-
-
-
-```{=html}
-<img src="ggplot_files/0.png" style="width:100%;" />
-```
-
-
-
-```{=html}
-<h3>clj</h3>
-```
-
-
-
-::: {.printedClojure}
-```clojure
-{:layers
- [{:aes_params [],
-   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
-   :show.legend [nil],
-   :mapping nil,
-   :super :ggproto-method,
-   :inherit.aes [true],
-   :geom_params {:na.rm [false]},
-   :geom
-   {:non_missing_aes ["size" "shape" "colour"],
-    :draw_key :ggproto-method,
-    :default_aes
-    {:shape [19.0],
-     :colour ["black"],
-     :size [1.5],
-     :fill [nil],
-     :alpha [nil],
-     :stroke [0.5]},
-    :super :ggproto-method,
-    :required_aes ["x" "y"],
-    :draw_panel :ggproto-method},
-   :stat_params {:na.rm [false]},
-   :constructor [geom_point],
-   :position
-   {:compute_layer :ggproto-method, :super :ggproto-method}}],
- :scales {:scales [], :super :ggproto-method},
- :mapping {:x ["~" cty], :y ["~" hwy]},
- :theme [],
- :coordinates
- {:expand [true],
-  :clip ["on"],
-  :limits {:x nil, :y nil},
-  :super :ggproto-method,
-  :default [true]},
- :facet {:shrink [true], :super :ggproto-method},
- :labels {:x ["cty"], :y ["hwy"]}}
-
-```
-:::
-
-
-
-## Exlploring a few plots
 
 ### A scatterplot
 
@@ -1436,7 +1274,7 @@ nil
 
 
 ```{=html}
-<h3>code</h3>
+<h3>R code</h3>
 ```
 
 
@@ -1449,19 +1287,19 @@ nil
 
 
 ```{=html}
-<h3>image</h3>
+<h3>plot</h3>
 ```
 
 
 
 ```{=html}
-<img src="ggplot_files/1.png" style="width:100%;" />
+<img src="ggplot_files/0.png" style="width:100%;" />
 ```
 
 
 
 ```{=html}
-<h3>clj</h3>
+<h3>clj data</h3>
 ```
 
 
@@ -1494,7 +1332,7 @@ nil
    :position
    {:compute_layer :ggproto-method, :super :ggproto-method}}],
  :scales {:scales [], :super :ggproto-method},
- :mapping {:x ["~" cty], :y ["~" hwy]},
+ :mapping {:x [~ cty], :y [~ hwy]},
  :theme [],
  :coordinates
  {:expand [true],
@@ -1507,6 +1345,21 @@ nil
 
 ```
 :::
+
+
+
+```{=html}
+<h3>portal view</h3>
+```
+
+
+
+```{=html}
+<div><script>portal_api.embed().renderOutputItem(
+                {'mime': 'x-application/edn',
+                 'text': (() => "^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :layers]] [^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :constructor]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector geom_point]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :position]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :inherit.aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :show.legend]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :aes_params]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :non_missing_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"size\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"shape\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"colour\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_key]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default_aes]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shape]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 19.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"black\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :size]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.5]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fill]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :alpha]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stroke]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.5]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_panel]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}}], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cty]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector hwy]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :theme]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :coordinates]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :expand]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :clip]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"on\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :limits]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :facet]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shrink]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :labels]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"cty\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"hwy\"]]]}}")}
+                , document.currentScript.parentElement);</script></div>
+```
 
 
 
@@ -1524,7 +1377,7 @@ nil
 
 
 ```{=html}
-<h3>code</h3>
+<h3>R code</h3>
 ```
 
 
@@ -1537,19 +1390,19 @@ nil
 
 
 ```{=html}
-<h3>image</h3>
+<h3>plot</h3>
 ```
 
 
 
 ```{=html}
-<img src="ggplot_files/2.png" style="width:100%;" />
+<img src="ggplot_files/1.png" style="width:100%;" />
 ```
 
 
 
 ```{=html}
-<h3>clj</h3>
+<h3>clj data</h3>
 ```
 
 
@@ -1582,7 +1435,7 @@ nil
    :position
    {:compute_layer :ggproto-method, :super :ggproto-method}}],
  :scales {:scales [], :super :ggproto-method},
- :mapping {:x ["~" cty], :y ["~" hwy], :colour ["~" [factor cyl]]},
+ :mapping {:x [~ cty], :y [~ hwy], :colour [~ [factor cyl]]},
  :theme [],
  :coordinates
  {:expand [true],
@@ -1595,6 +1448,21 @@ nil
 
 ```
 :::
+
+
+
+```{=html}
+<h3>portal view</h3>
+```
+
+
+
+```{=html}
+<div><script>portal_api.embed().renderOutputItem(
+                {'mime': 'x-application/edn',
+                 'text': (() => "^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :layers]] [^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :constructor]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector geom_point]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :position]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :inherit.aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :show.legend]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :aes_params]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :non_missing_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"size\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"shape\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"colour\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_key]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default_aes]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shape]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 19.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"black\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :size]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.5]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fill]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :alpha]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stroke]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.5]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_panel]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}}], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cty]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector hwy]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector factor]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cyl]]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :theme]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :coordinates]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :expand]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :clip]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"on\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :limits]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :facet]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shrink]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :labels]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"cty\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"hwy\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"factor(cyl)\"]]]}}")}
+                , document.currentScript.parentElement);</script></div>
+```
 
 
 
@@ -1613,7 +1481,7 @@ nil
 
 
 ```{=html}
-<h3>code</h3>
+<h3>R code</h3>
 ```
 
 
@@ -1627,19 +1495,19 @@ nil
 
 
 ```{=html}
-<h3>image</h3>
+<h3>plot</h3>
 ```
 
 
 
 ```{=html}
-<img src="ggplot_files/3.png" style="width:100%;" />
+<img src="ggplot_files/2.png" style="width:100%;" />
 ```
 
 
 
 ```{=html}
-<h3>clj</h3>
+<h3>clj data</h3>
 ```
 
 
@@ -1715,7 +1583,7 @@ nil
    :position
    {:compute_layer :ggproto-method, :super :ggproto-method}}],
  :scales {:scales [], :super :ggproto-method},
- :mapping {:x ["~" cty], :y ["~" hwy], :colour ["~" [factor cyl]]},
+ :mapping {:x [~ cty], :y [~ hwy], :colour [~ [factor cyl]]},
  :theme [],
  :coordinates
  {:expand [true],
@@ -1728,6 +1596,21 @@ nil
 
 ```
 :::
+
+
+
+```{=html}
+<h3>portal view</h3>
+```
+
+
+
+```{=html}
+<div><script>portal_api.embed().renderOutputItem(
+                {'mime': 'x-application/edn',
+                 'text': (() => "^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :layers]] [^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :constructor]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector geom_point]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :position]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :inherit.aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :show.legend]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :aes_params]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :non_missing_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"size\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"shape\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"colour\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_key]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default_aes]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shape]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 19.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"black\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :size]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.5]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fill]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :alpha]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stroke]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.5]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_panel]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}} ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :constructor]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :method]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"lm\"]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :method.args]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :span]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.75]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :formula]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :level]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.95]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :orientation]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :n]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 80.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :se]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :method]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"lm\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fullrange]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :position]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :inherit.aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :show.legend]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :se]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :orientation]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :aes_params]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :extra_params]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"na.rm\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"orientation\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_group]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :setup_params]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :dropped_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"weight\"]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_group]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_key]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default_aes]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"#3366FF\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fill]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"grey60\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :linewidth]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :linetype]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :weight]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :alpha]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.4]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :rename_size]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :setup_data]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :optional_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"ymin\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"ymax\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :setup_params]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :extra_params]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"na.rm\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"orientation\"]]]}}], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cty]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector hwy]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector factor]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cyl]]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :theme]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :coordinates]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :expand]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :clip]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"on\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :limits]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :facet]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shrink]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :labels]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"cty\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"hwy\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"factor(cyl)\"]]]}}")}
+                , document.currentScript.parentElement);</script></div>
+```
 
 
 
@@ -1747,7 +1630,7 @@ nil
 
 
 ```{=html}
-<h3>code</h3>
+<h3>R code</h3>
 ```
 
 
@@ -1762,19 +1645,19 @@ nil
 
 
 ```{=html}
-<h3>image</h3>
+<h3>plot</h3>
 ```
 
 
 
 ```{=html}
-<img src="ggplot_files/4.png" style="width:100%;" />
+<img src="ggplot_files/3.png" style="width:100%;" />
 ```
 
 
 
 ```{=html}
-<h3>clj</h3>
+<h3>clj data</h3>
 ```
 
 
@@ -1850,7 +1733,7 @@ nil
    :position
    {:compute_layer :ggproto-method, :super :ggproto-method}}],
  :scales {:scales [], :super :ggproto-method},
- :mapping {:x ["~" cty], :y ["~" hwy], :colour ["~" [factor cyl]]},
+ :mapping {:x [~ cty], :y [~ hwy], :colour [~ [factor cyl]]},
  :theme [],
  :coordinates
  {:expand [true],
@@ -1867,7 +1750,7 @@ nil
    :drop [true],
    :strip.position ["top"],
    :ncol nil,
-   :facets {:cyl ["~" cyl]},
+   :facets {:cyl [~ cyl]},
    :labeller
    "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x55eafa698ac0&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
   :shrink [true],
@@ -1876,6 +1759,21 @@ nil
 
 ```
 :::
+
+
+
+```{=html}
+<h3>portal view</h3>
+```
+
+
+
+```{=html}
+<div><script>portal_api.embed().renderOutputItem(
+                {'mime': 'x-application/edn',
+                 'text': (() => "^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :layers]] [^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :constructor]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector geom_point]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :position]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :inherit.aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :show.legend]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :aes_params]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :non_missing_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"size\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"shape\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"colour\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_key]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default_aes]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shape]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 19.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"black\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :size]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.5]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fill]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :alpha]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stroke]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.5]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_panel]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}} ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :constructor]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :method]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"lm\"]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :method.args]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :span]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.75]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :formula]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :level]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.95]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :orientation]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :n]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 80.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :se]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :method]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"lm\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fullrange]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :position]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_layer]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :inherit.aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :show.legend]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom_params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :se]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :na.rm]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :orientation]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :aes_params]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :stat]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :extra_params]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"na.rm\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"orientation\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :compute_group]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :setup_params]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :dropped_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"weight\"]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :geom]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_group]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :draw_key]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default_aes]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"#3366FF\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :fill]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"grey60\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :linewidth]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :linetype]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :weight]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 1.0]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :alpha]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector 0.4]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :rename_size]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :required_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"x\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"y\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :setup_data]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :optional_aes]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"ymin\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"ymax\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :setup_params]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :extra_params]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"na.rm\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"orientation\"]]]}}], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :scales]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :mapping]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cty]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector hwy]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector factor]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cyl]]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :theme]] [], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :coordinates]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :expand]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :clip]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"on\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :limits]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :default]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :facet]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :params]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :free]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector false]]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :drop]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :nrow]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :labeller]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"function (labels, multi_line = TRUE) \\n{\\n    labels <- lapply(labels, as.character)\\n    if (multi_line) {\\n        labels\\n    }\\n    else {\\n        collapse_labels_lines(labels)\\n    }\\n}\\n<bytecode: 0x55eafa698ac0>\\n<environment: namespace:ggplot2>\\nattr(,\\\"class\\\")\\n[1] \\\"function\\\" \\\"labeller\\\"\\n\"]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ncol]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector nil]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :as.table]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :dir]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"h\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :strip.position]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"top\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :facets]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :cyl]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"~\"]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector cyl]]]}}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :shrink]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector true]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :super]] ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :ggproto-method]]}, ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :labels]] ^{:source \"{}\", :line 58, :column 40, :end-line 58, :end-column 42} {^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :x]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"cty\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :y]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"hwy\"]]], ^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector :colour]] [^#:portal.viewer{:default :portal.viewer/hiccup} [:div nil [:portal.viewer/inspector \"factor(cyl)\"]]]}}")}
+                , document.currentScript.parentElement);</script></div>
+```
 
 
 
