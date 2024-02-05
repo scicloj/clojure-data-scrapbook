@@ -1,6 +1,6 @@
 (load-file "../../header.edn")
 
-;; # Exploring ggplot (WIP)
+;; # Exploring ggplot - DRAFT
 
 ;; Here we explore [ggplot2](https://ggplot2.tidyverse.org/) from Clojure. The goal is to eventually implement a similar grammar in Clojure.
 
