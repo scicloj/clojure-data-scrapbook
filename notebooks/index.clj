@@ -57,7 +57,7 @@
                          nil
                          [:math :wolframite :interop :draft]]
                         ["2024-02-06"
-                         "Machine learning - DRAFT"
+                         "Exploring ggplot - DRAFT"
                          "projects/noj/ggplot.html"
                          "projects/noj/notebooks/ggplot.clj"
                          nil
