@@ -2,9 +2,11 @@
 
 ;; # Exploring ggplot
 
-;; following
-;; [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list
-;; in representing a plot as a data structure.
+;; Here we explore [ggplot2](https://ggplot2.tidyverse.org/) from Clojure. The goal is to eventually implement a similar grammar in Clojure.
+
+;; ## Setup
+
+;; We will use [ClojisR](https://scicloj.github.io/clojisr/) to call R from Clojure.
 
 (ns ggplot
   (:require [clojisr.v1.r :as r :refer [r r$ r->clj]]
@@ -14,41 +16,22 @@
             [tablecloth.api :as tc]))
 
 (r/library "ggplot2")
+(r/require-r '[base]) ; the base R library
 
-(def plot
-  (r "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+;; ## An example plot
+
+(-> "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
          + geom_point()
          + stat_smooth(method=\"lm\")
-         + facet_wrap(~cyl))"))
-
-(-> plot
+         + facet_wrap(~cyl))"
+    r
     plotting/plot->svg
     kind/html)
 
-(-> plot
-    r->clj
-    (dissoc :data))
+;; ## Representing plots as Clojure data
 
-
-(defn gg-facet [ggplot]
-  (let [f (-> ggplot
-              (r$ 'facet)
-              (r$ 'params)
-              (r$ 'facets))]
-    (when (-> `(is.null ~f)
-              r
-              r->clj)
-      (let [facet (r `(ls ~f))]
-        {:facet facet
-         :facet-levels (-> plot
-                           (r$ 'data)
-                           (r/bra facet))}))))
-
-(-> plot
-    gg-facet
-    (update-vals r->clj))
-
-(r/require-r '[base])
+;; Inspired by
+;; [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list finction, let us represent ggplot objects as R data structures.
 
 (defn ggolot->clj
   ([r-obj
@@ -104,12 +87,18 @@
                                        (-> r-obj println with-out-str)))
        :else r-obj))))
 
+;; For example:
+
 (-> "(ggplot(mpg, aes(cty, hwy))
          + geom_point())"
     r
     (ggolot->clj {:avoid #{"data" "plot_env"}}))
 
 
+
+;; ## Exlploring a few plots
+
+;; Let us explore and compare a few plots this way:
 
 (defn h4 [title]
   (kind/hiccup [:h3 title]))
@@ -129,16 +118,11 @@
        (format "\n```{r eval=FALSE}\n%s\n```\n"
                r-code))
       (h4 "image")
-      (plotting/plot->buffered-image plot)
-      (h4 "clj")
+      (-> plot
+          plotting/plot->svg
+          kind/html)
+      (h4 "clj data")
       (kind/pprint clj)])))
-
-(ggplot-summary
- "(ggplot(mpg, aes(cty, hwy))
-         + geom_point())")
-
-
-;; ## Exlploring a few plots
 
 ;; ### A scatterplot
 
