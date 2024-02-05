@@ -46,7 +46,8 @@
 ;; Inspired by
 ;; [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list finction, let us represent ggplot objects as R data structures.
 
-;; A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto) objects.
+;; A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto) objects. We recursively unwrap this structure and convert it to Clojure.
+
 
 (defn ggolot->clj
   ([r-obj
@@ -102,12 +103,15 @@
                                        (-> r-obj println with-out-str)))
        :else r-obj))))
 
+;; In the conversion, we avoid some big parts of the structure, e.g., the `"plot_env"` member. We also do no report the toplevel `"data"` member, which is simply the dataset.
+
 ;; For example:
 
 (-> "(ggplot(mpg, aes(cty, hwy))
          + geom_point())"
     r
-    (ggolot->clj {:avoid #{"data" "plot_env"}}))
+    (ggolot->clj {:avoid #{"plot_env"}})
+    (dissoc :data))
 
 
 ;; ## Exlploring a few plots
@@ -120,7 +124,8 @@
 (defn ggplot-summary [r-code]
   (let [plot (r r-code)
         clj (-> plot
-                (ggolot->clj {:avoid #{"data" "plot_env"}}))]
+                (ggolot->clj {:avoid #{"plot_env"}})
+                (dissoc :data))]
     (kind/fragment
      [(h4 "R code")
       (kind/md
