@@ -106,23 +106,28 @@
 (defn ggplot-summary [r-code]
   (let [plot (r r-code)
         clj (-> plot
-                (ggolot->clj {:avoid #{"data" "plot_env"}})
-                (->> (walk/postwalk (fn [form]
-                                      (if (and (symbol? form)
-                                               (-> form str (= "~")))
-                                        (str form)
-                                        form)))))]
+                (ggolot->clj {:avoid #{"data" "plot_env"}}))]
     (kind/fragment
-     [(h4 "code")
+     [(h4 "R code")
       (kind/md
        (format "\n```{r eval=FALSE}\n%s\n```\n"
                r-code))
-      (h4 "image")
+      (h4 "plot")
       (-> plot
-          plotting/plot->svg
-          kind/html)
+          plotting/plot->buffered-image)
       (h4 "clj data")
-      (kind/pprint clj)])))
+      (kind/pprint clj)
+      (h4 "portal view")
+      (->> clj
+           (walk/postwalk (fn [form]
+                            ;; Avoiding symbols that
+                            (if (or (and (symbol? form)
+                                         (-> form str (= "~")))
+                                    (and (keyword? form)
+                                         (-> form str (= "."))))
+                              (str form)
+                              form)))
+           kind/portal)])))
 
 ;; ### A scatterplot
 
