@@ -12,7 +12,11 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 }
 </style>
 <script src="ml_files/md-default0.js" type="text/javascript"></script><script src="ml_files/md-default1.js" type="text/javascript"></script>
-<div style="max-height:600px;overflow-y:auto;"><table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table></div>
+
+```{=html}
+<table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table>
+```
+
 
 
 # Machine learning - DRAFT
@@ -111,25 +115,32 @@ Linear Model:
 
 Residuals:
        Min          1Q      Median          3Q         Max
-   -0.7870     -0.2330      0.0191      0.1918      0.8921
+   -0.7904     -0.2163      0.0132      0.1774      0.8282
 
 Coefficients:
                   Estimate Std. Error    t value   Pr(>|t|)
-Intercept           1.8173     0.3337     5.4454     0.0000 ***
-sepal-width         0.6625     0.0869     7.6273     0.0000 ***
-petal-length        0.7158     0.0749     9.5532     0.0000 ***
-petal-width        -0.5929     0.1640    -3.6144     0.0005 ***
+Intercept           2.1092     0.2799     7.5344     0.0000 ***
+sepal-width         0.5826     0.0743     7.8394     0.0000 ***
+petal-length        0.7037     0.0624    11.2696     0.0000 ***
+petal-width        -0.5557     0.1425    -3.8986     0.0002 ***
 ---------------------------------------------------------------------
 Significance codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-Residual standard error: 0.3308 on 96 degrees of freedom
-Multiple R-squared: 0.8280,    Adjusted R-squared: 0.8227
-F-statistic: 154.0902 on 4 and 96 DF,  p-value: 1.435e-36
+Residual standard error: 0.3015 on 96 degrees of freedom
+Multiple R-squared: 0.8707,    Adjusted R-squared: 0.8667
+F-statistic: 215.5039 on 4 and 96 DF,  p-value: 1.668e-42
 
 ```
 :::
 
 
-<div style="background-color:grey;height:2px;width:100%;"></div>
 
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
 <div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/noj/notebooks/ml.clj">projects/noj/notebooks/ml.clj</a></small></small></pre></div>
+```
