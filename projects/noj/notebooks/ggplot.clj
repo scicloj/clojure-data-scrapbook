@@ -116,18 +116,7 @@
       (-> plot
           plotting/plot->buffered-image)
       (h4 "clj data")
-      (kind/pprint clj)
-      (h4 "portal view")
-      (->> clj
-           (walk/postwalk (fn [form]
-                            ;; Avoiding symbols that
-                            (if (or (and (symbol? form)
-                                         (-> form str (= "~")))
-                                    (and (keyword? form)
-                                         (-> form str (= "."))))
-                              (str form)
-                              form)))
-           kind/portal)])))
+      (kind/pprint clj)])))
 
 ;; ### A scatterplot
 
