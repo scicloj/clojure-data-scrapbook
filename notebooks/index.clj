@@ -65,14 +65,14 @@
                        (map (fn [[date title url source-path youtube-id tags]]
                               [date
                                (kind/hiccup
-                                [:div
-                                 [:pre
-                                  [:p [:a {:href url}
-                                       title]]
-                                  [:p [:a {:style {:background-color "#fdf6e3"}
-                                           :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
-                                                      source-path)}
-                                       "(source)"]]]])
+                                [:div {:style {:width "300px"}}
+                                 [:p [:a {:href url}
+                                      title]]
+                                 [:p [:a {:style {:font-family "monospace"
+                                                  :background-color "#fdf6e3"}
+                                          :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
+                                                     source-path)}
+                                      "(source)"]]])
                                (when youtube-id
                                  (kind/video {:youtube-id youtube-id}))
                                (->> tags
