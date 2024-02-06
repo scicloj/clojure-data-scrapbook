@@ -428,7 +428,7 @@ Here is how we may generate and display a plot:
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface679">
+<g id="surface931">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -1140,8 +1140,6 @@ _unnamed [234 11]:
 
 
 ## Representing plots as Clojure data
-Inspired by
-[cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list finction, let us represent ggplot objects as R data structures.
 A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto) objects. We recursively unwrap this structure and convert it to Clojure.
 
 
