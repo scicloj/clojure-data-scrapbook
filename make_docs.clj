@@ -7,9 +7,6 @@
 ;; Please do not use it if you do not need to.
 ;; Note that it erases some directories.
 
-(shell/sh "mv" "projects/index/docs/index.html" "docs/")
-(shell/sh "mv" "projects/index/docs/index_files" "docs/")
-
 (->> "projects"
      (shell/sh "find")
      :out
