@@ -1,10 +1,3 @@
 {:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
                :branch "main"}
- :quarto {:title "Clojure Data Scrapbook"
-          :format
-          {:revealjs {:theme :solarized
-                      :navigation-mode :vertical
-                      :transition :slide
-                      :background-transition :fade
-                      :incremental true
-                      :embed-resources true}}}}
+ :quarto {:title "Clojure Data Scrapbook"}}
