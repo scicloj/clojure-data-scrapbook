@@ -43,9 +43,6 @@
 
 ;; ## Representing plots as Clojure data
 
-;; Inspired by
-;; [cxplot](https://cxplot.com/index.html)'s internal ggplot.as.list finction, let us represent ggplot objects as R data structures.
-
 ;; A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto) objects. We recursively unwrap this structure and convert it to Clojure.
 
 
