@@ -26,40 +26,40 @@
 
 (-> {:row-vectors (->> [["2023-12-16"
                          "Clay Calva integration - datavis demo"
-                         "../visual-tools/clay-calva-demo-20231216/index.html"
-                         "../visual-tools/clay-calva-demo-20231216"
+                         "projects/visual-tools/clay-calva-demo-20231216/index.html"
+                         "projects/visual-tools/clay-calva-demo-20231216"
                          "X_SsjhmG5Ok"
                          [:visual-tools :clay :calva :noj
                           :datavis :hanami :tablecloth]]
                         ["2023-12-17"
                          "Clay CIDER integration - image processing demo"
-                         "../visual-tools/clay-cider-demo-20231217/index.html"
-                         "../visual-tools/clay-cider-demo-20231217"
+                         "projects/visual-tools/clay-cider-demo-20231217/index.html"
+                         "projects/visual-tools/clay-cider-demo-20231217"
                          "fd4kjlws6Ts"
                          [:visual-tools :clay :cider :noj
                           :image-processing :dtype-next :tensors]]
                         ["2023-12-31"
                          "Reading HDF files"
-                         "../data-formats/hdf/index.html"
-                         "../data-formats/hdf/"
+                         "projects/data-formats/hdf/index.html"
+                         "projects/data-formats/hdf/"
                          nil
                          [:data-formats :hdf :dtype-next :tensors]]
                         ["2024-01-11"
                          "Machine learning - DRAFT"
-                         "../noj/ml.html"
-                         "../noj/notebooks/ml.clj"
+                         "projects/noj/ml.html"
+                         "projects/noj/notebooks/ml.clj"
                          nil
                          [:noj :ml :scicloj.ml :draft]]
                         ["2024-01-25"
                          "Wolfram Lanauge interop with Wolframite"
-                         "../math/wolframite/index.html"
-                         "../math/wolframite/"
+                         "projects/math/wolframite/index.html"
+                         "projects/math/wolframite/"
                          nil
                          [:math :wolframite :interop :draft]]
                         ["2024-02-06"
                          "Exploring ggplot - DRAFT"
-                         "../noj/ggplot.html"
-                         "../noj/notebooks/ggplot.clj"
+                         "projects/noj/ggplot.html"
+                         "projects/noj/notebooks/ggplot.clj"
                          nil
                          [:noj :r :clojisr :interop :ggplot :datavis :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
