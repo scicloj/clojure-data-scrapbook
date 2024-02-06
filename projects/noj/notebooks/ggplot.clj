@@ -13,7 +13,10 @@
             [clojisr.v1.applications.plotting :as plotting]
             [scicloj.kindly.v4.kind :as kind]
             [clojure.walk :as walk]
-            [tablecloth.api :as tc]))
+            [tablecloth.api :as tc]
+            [editscript.core :as editscript]
+            [clojure.pprint :as pp]
+            [clojure.string :as str]))
 
 ;; Loading ggplot2:
 (r/library "ggplot2")
@@ -46,10 +49,10 @@
 ;; A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto) objects. We recursively unwrap this structure and convert it to Clojure.
 
 
-(defn ggolot->clj
+(defn ggplot->clj
   ([r-obj
     options]
-   (ggolot->clj r-obj options []))
+   (ggplot->clj r-obj options []))
   ([r-obj
     {:as options
      :keys [avoid]}
@@ -66,7 +69,7 @@
                                  (map (fn [nam]
                                         [(keyword nam) (-> r-obj
                                                            (r$ nam)
-                                                           (ggolot->clj options
+                                                           (ggplot->clj options
                                                                         (conj path nam)))]))
                                  (into {}))
        ;;
@@ -89,10 +92,9 @@
            first
            range
            (->> (mapv (fn [i]
-                        (prn [path (inc i)])
                         (-> r-obj
                             (r/brabra (inc i))
-                            (ggolot->clj options
+                            (ggplot->clj options
                                          (conj path [i])))))))
        ;;
        (r.base/is-atomic r-obj) (try (r->clj r-obj)
@@ -107,7 +109,7 @@
 (-> "(ggplot(mpg, aes(cty, hwy))
          + geom_point())"
     r
-    (ggolot->clj {:avoid #{"plot_env"}})
+    (ggplot->clj {:avoid #{"plot_env"}})
     (dissoc :data))
 
 
@@ -115,49 +117,69 @@
 
 ;; Let us explore and compare a few plots this way:
 
-(defn h4 [title]
-  (kind/hiccup [:h3 title]))
+(defn h3 [title] (kind/hiccup [:h3 title]))
+(defn h4 [title] (kind/hiccup [:h4 title]))
 
-(defn ggplot-summary [r-code]
-  (let [plot (r r-code)
-        clj (-> plot
-                (ggolot->clj {:avoid #{"plot_env"}})
-                (dissoc :data))]
-    (kind/fragment
-     [(h4 "R code")
-      (kind/md
-       (format "\n```\n%s\n```\n"
-               r-code))
-      (h4 "plot")
-      (-> plot
-          plotting/plot->buffered-image)
-      (h4 "clj data")
-      (kind/pprint clj)])))
+(defn ggplot-summary
+  ([title r-code]
+   (ggplot-summary r-code))
+  ([title r-code prev-clj-to-compare]
+   (let [plot (r r-code)
+         clj (-> plot
+                 (ggplot->clj {:avoid #{"plot_env"}})
+                 (dissoc :data))]
+     {:title title
+      :r-code r-code
+      :image (plotting/plot->buffered-image plot)
+      :clj clj
+      :diff (when prev-clj-to-compare
+              (-> prev-clj-to-compare
+                  (editscript/diff clj)
+                  pp/pprint
+                  with-out-str
+                  (str/replace #": " ":_ ")
+                  read-string))})))
 
-;; ### A scatterplot
+(defn view-summary [{:keys [title r-code image clj diff]}]
+  (kind/fragment
+   [(h3 title)
+    (h4 "R code")
+    (kind/md
+     (format "\n```\n%s\n```\n"
+             r-code))
+    (h4 "plot")
+    image
+    (h4 "clj data")
+    clj
+    (when diff
+      (kind/fragment
+       [(h4 "clj diff with previous")
+        diff]))]))
 
-(ggplot-summary
- "(ggplot(mpg, aes(cty, hwy))
-         + geom_point())")
-
-;; ### A scatterplot with colours
-
-(ggplot-summary
- "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
-         + geom_point())")
-
-
-;; ### A scatterplot with colours and smoothing
-
-(ggplot-summary
- "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+(->> [;;
+      ["A scatterplot"
+       "(ggplot(mpg, aes(cty, hwy))
+         + geom_point())"]
+      ;;
+      ["A scatterplot with colours"
+       "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point())"]
+      ;;
+      ["A scatterplot with colours and smoothing"
+       "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
          + geom_point()
-         + stat_smooth(method=\"lm\"))")
-
-;; ### A scatterplot with colours, smoothing, and facets
-
-(ggplot-summary
- "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + stat_smooth(method=\"lm\"))"]
+      ;;
+      ["A scatterplot with colours, smoothing, and facets"
+       "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
          + geom_point()
          + stat_smooth(method=\"lm\")
-         + facet_wrap(~cyl))")
+         + facet_wrap(~cyl))"]]
+     (reductions (fn [prev-summary [title r-code]]
+                   (ggplot-summary title
+                                   r-code
+                                   (:clj prev-summary)))
+                 nil)
+     rest
+     (map view-summary)
+     kind/fragment)
