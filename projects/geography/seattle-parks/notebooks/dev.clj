@@ -5,5 +5,6 @@
              :base-source-path "notebooks"
              :source-path ["index.clj"]
              :base-target-path "docs"
-             :book {:title "Seattle Parks & Neighborhoods - DRAFT"}
+             :book {:author "Timothy Prately and Daniel Slutsky"
+                    :title "Seattle Parks & Neighborhoods - DRAFT"}
              :clean-up-target-dir true})

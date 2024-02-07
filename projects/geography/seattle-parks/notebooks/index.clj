@@ -1,5 +1,9 @@
 (load-file "../../../header.edn")
 
+;; # Walkthrough
+
+;; (This notebook will be divided into a few book chapters.)
+
 ;; Choosing where to live depends on many factors such as job opportunities and cost of living.
 ;; I like walking, so one factor that is important to me is access to parks.
 ;; In this analysis we'll rank neighborhoods by park area proportional to total area.
