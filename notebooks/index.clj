@@ -61,7 +61,13 @@
                          "projects/noj/ggplot.html"
                          "projects/noj/notebooks/ggplot.clj"
                          nil
-                         [:noj :r :clojisr :interop :ggplot :datavis :draft]]]
+                         [:noj :r :clojisr :interop :ggplot :datavis :draft]]
+                        ["2024-02-07"
+                         "Seattle parks & Neigborhoods - DRAFT"
+                         "projects/geography/seattle-parks/index.html"
+                         "projects/geography/seattle-parks"
+                         nil
+                         [:geography :gis :tablecloth :datavis :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
                               [date
                                (kind/hiccup
