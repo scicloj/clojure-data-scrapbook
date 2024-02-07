@@ -269,7 +269,7 @@ which is locally correct in terms of distances in a region around Seattle.
 (delay
   (-> neighborhoods
       (tc/drop-columns [:geometry :feature])
-      (kind/table {:element/max-height 600})))
+      (kind/table {:element/max-height "600px"})))
 
 (def parks
   (-> parks-features
@@ -281,7 +281,7 @@ which is locally correct in terms of distances in a region around Seattle.
   (-> parks
       (tc/drop-columns [:geometry :feature])
       (tc/head 20)
-      (kind/table {:element/max-height 600})))
+      (kind/table {:element/max-height "600px"})))
 
 (md "## A Spatial index structure
 
