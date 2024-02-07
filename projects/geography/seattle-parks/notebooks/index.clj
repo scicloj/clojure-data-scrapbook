@@ -1,7 +1,5 @@
 (load-file "../../../header.edn")
 
-;; # Seattle Parks & Neighborhoods
-
 ;; Choosing where to live depends on many factors such as job opportunities and cost of living.
 ;; I like walking, so one factor that is important to me is access to parks.
 ;; In this analysis we'll rank neighborhoods by park area proportional to total area.
@@ -416,16 +414,16 @@ For every neighborhood, we will compute the proportion of its area covered by pa
 ;; We will use Clojure2d's [clojure.color](https://clojure2d.github.io/clojure2d/docs/notebooks/index.html#/notebooks/color.clj) functionality.
 
 (def gradient
-  (color/gradient [:white :magenta]))
+  (color/gradient [:purple :yellow]))
 
 (delay
   (-> 0.4
       gradient
       color/format-hex))
 
-;; ## A choropleth colored by park proportions
+;; ## A choropleth coloured by park proportions
 
-(def neighborhoods-colored-by-park-proportion
+(def neighborhoods-coloured-by-park-proportion
   (-> neighborhoods-with-park-proportions
       (tc/map-columns :feature
                       [:feature :park-names-str :park-proportion]
@@ -440,16 +438,23 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                                  (-> style
                                      (assoc :color color
                                             :fillColor color
-                                            :opacity park-proportion
-                                            :fillOpacity 0))))
+                                            :opacity 0.7
+                                            :fillOpacity 0.7))))
                               (update-in
                                [:properties :tooltip]
                                str
                                (hiccup/html
-                                [:p [:b "Parks: "] park-names-str]))))))))
+                                [:div
+                                 [:p [:b "Park proportion: "]
+                                  (format "%.01f%%"
+                                          (* 100 park-proportion))]
+                                 [:p {:style {:max-width "200px"
+                                              :text-wrap :wrap}}
+                                  [:b "Parks: "]
+                                  park-names-str]]))))))))
 
 (delay
-  (-> neighborhoods-colored-by-park-proportion
+  (-> neighborhoods-coloured-by-park-proportion
       :feature
       vec
       Seattle-choropleth-map))
@@ -457,7 +462,7 @@ For every neighborhood, we will compute the proportion of its area covered by pa
 (md "Another option: use opacity rather than color to higlight differences.")
 
 (def neighborhoods-highlighted-by-park-proportion
-  (-> neighborhoods-with-park-proportions
+  (-> neighborhoods-coloured-by-park-proportion
       (tc/map-columns :feature
                       [:feature :park-proportion]
                       (fn [feature park-proportion]
@@ -466,10 +471,10 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                              [:properties :style]
                              (fn [style]
                                (-> style
-                                   (assoc :color "magenta"
+                                   (assoc :color "yellow"
                                           :opacity park-proportion
-                                          :fillColor "magenta"
-                                          :fillOpacity 0)))))))))
+                                          :fillColor "yellow"
+                                          :fillOpacity park-proportion)))))))))
 
 
 
@@ -486,7 +491,7 @@ pointing out a few park-intense neighborhoods.")
 (md "Let us focus on the ten most park-intense neighborhoods:")
 
 (delay
-  (-> neighborhoods-colored-by-park-proportion
+  (-> neighborhoods-coloured-by-park-proportion
       (tc/order-by [:park-proportion] :desc)
       (tc/head 10)
       :feature
