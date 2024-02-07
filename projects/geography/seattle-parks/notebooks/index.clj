@@ -1,6 +1,6 @@
 (load-file "../../../header.edn")
 
-;; # Walkthrough
+;; # Draft
 
 ;; (This notebook will be divided into a few book chapters.)
 
@@ -268,8 +268,8 @@ which is locally correct in terms of distances in a region around Seattle.
 
 (delay
   (-> neighborhoods
-      (tc/drop-columns [:geometry])
-      kind/table))
+      (tc/drop-columns [:geometry :feature])
+      (kind/table {:element/max-height 600})))
 
 (def parks
   (-> parks-features
@@ -279,9 +279,9 @@ which is locally correct in terms of distances in a region around Seattle.
 
 (delay
   (-> parks
-      (tc/drop-columns [:geometry])
+      (tc/drop-columns [:geometry :feature])
       (tc/head 20)
-      kind/table))
+      (kind/table {:element/max-height 600})))
 
 (md "## A Spatial index structure
 
