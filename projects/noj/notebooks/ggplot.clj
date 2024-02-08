@@ -50,12 +50,12 @@
 
 
 (defn ggplot->clj
-  ([r-obj
-    options]
-   (ggplot->clj r-obj options []))
+  ([r-obj]
+   (ggplot->clj r-obj {} []))
   ([r-obj
     {:as options
-     :keys [avoid]}
+     :keys [avoid]
+     :or {avoid #{"plot_env"}}}
     path]
    #_(prn path)
    (let [relevant-names (some->> r-obj
@@ -109,7 +109,7 @@
 (-> "(ggplot(mpg, aes(cty, hwy))
          + geom_point())"
     r
-    (ggplot->clj {:avoid #{"plot_env"}})
+    ggplot->clj
     (dissoc :data))
 
 
@@ -126,7 +126,7 @@
   ([title r-code prev-clj-to-compare]
    (let [plot (r r-code)
          clj (-> plot
-                 (ggplot->clj {:avoid #{"plot_env"}})
+                 ggplot->clj
                  (dissoc :data))]
      {:title title
       :r-code r-code
@@ -183,3 +183,64 @@
      rest
      (map view-summary)
      kind/fragment)
+
+
+;; ## Exploring
+
+(-> "(ggplot(mpg, aes(cty, hwy)))"
+    r
+    ggplot->clj
+    (dissoc :data))
+
+
+(-> "(ggplot(mpg, aes(cty, hwy)))"
+    r
+    ggplot->clj
+    (dissoc :data))
+
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy)))"
+    r
+    ggplot->clj
+    (dissoc :data))
+
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=cyl), size=5)
+      + ylim(c(20,30)))"
+    r
+    ggplot->clj
+    (dissoc :data))
+
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=factor(cyl)), size=20))"
+    r
+    plotting/plot->buffered-image)
+
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=cyl), size=5)
+      + ylim(c(20,30))
+      + scale_x_log10())"
+    r
+    ggplot->clj
+    (dissoc :data))
+
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=cyl), size=5)
+      + ylim(c(20,30))
+      + scale_x_log10()
+      + theme_linedraw())"
+    r
+    ggplot->clj
+    (dissoc :data))
+
+(-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
+      geom_histogram(aes(y=..density..)) +  # scale histogram y
+      geom_density(col = 'red', size=5))"
+    r
+    plotting/plot->buffered-image)
+
+(-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
+      geom_histogram(aes(y=..density..)) +  # scale histogram y
+      geom_density(col = 'red'))"
+    r
+    ggplot->clj
+    (dissoc :data))
