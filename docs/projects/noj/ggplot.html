@@ -172,6 +172,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#an-example-plot" id="toc-an-example-plot" class="nav-link" data-scroll-target="#an-example-plot"><span class="header-section-number">3.2</span> An example plot</a></li>
   <li><a href="#representing-plots-as-clojure-data" id="toc-representing-plots-as-clojure-data" class="nav-link" data-scroll-target="#representing-plots-as-clojure-data"><span class="header-section-number">3.3</span> Representing plots as Clojure data</a></li>
   <li><a href="#exlploring-a-few-plots" id="toc-exlploring-a-few-plots" class="nav-link" data-scroll-target="#exlploring-a-few-plots"><span class="header-section-number">3.4</span> Exlploring a few plots</a></li>
+  <li><a href="#exploring" id="toc-exploring" class="nav-link" data-scroll-target="#exploring"><span class="header-section-number">3.5</span> Exploring</a></li>
   </ul>
 </nav>
     </div>
@@ -203,8 +204,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   border-style: none;
 }
 </style>
-<script src="ggplot_files/md-default4.js" type="text/javascript"></script>
-<script src="ggplot_files/md-default5.js" type="text/javascript"></script>
+<script src="ggplot_files/md-default6.js" type="text/javascript"></script>
+<script src="ggplot_files/md-default7.js" type="text/javascript"></script>
 <a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40"></a><table><tbody><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td></tr></tbody></table>
 <p>Here we explore <a href="https://ggplot2.tidyverse.org/">ggplot2</a> from Clojure. The goal is to eventually implement a similar grammar in Clojure.</p>
 <section id="setup" class="level2" data-number="3.1">
@@ -580,7 +581,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "></path>
 </clippath>
 </defs>
-<g id="surface3322">
+<g id="surface445">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "></path>
@@ -1576,12 +1577,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>A ggplot object is an R list of <a href="https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto">ggproto</a> objects. We recursively unwrap this structure and convert it to Clojure.</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb8"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> ggplot-&gt;clj</span></span>
-<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  ([r-obj</span>
-<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>    options]</span>
-<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>   (ggplot-&gt;clj r-obj options []))</span>
-<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>  ([r-obj</span>
-<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:as</span> options</span>
-<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>     <span class="at">:keys</span> [avoid]}</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  ([r-obj]</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>   (ggplot-&gt;clj r-obj {} []))</span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>  ([r-obj</span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:as</span> options</span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>     <span class="at">:keys</span> [avoid]</span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>     <span class="at">:or</span> {avoid #{<span class="st">"plot_env"</span>}}}</span>
 <span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>    <span class="kw">path</span>]</span>
 <span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a>   <span class="co">#_</span>(<span class="kw">prn</span> <span class="kw">path</span>)</span>
 <span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a>   (<span class="kw">let</span> [relevant-names (some-&gt;&gt; r-obj</span>
@@ -1633,7 +1634,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="sourceCode" id="cb9"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, aes(cty, hwy))</span></span>
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="st">         + geom_point())"</span></span>
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>    r</span>
-<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>    (ggplot-&gt;clj {<span class="at">:avoid</span> #{<span class="st">"plot_env"</span>}})</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
 <span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="printedClojure">
@@ -1691,7 +1692,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>  ([title r-code prev-clj-to-compare]</span>
 <span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>   (<span class="kw">let</span> [plot (r r-code)</span>
 <span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>         clj (<span class="kw">-&gt;</span> plot</span>
-<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>                 (ggplot-&gt;clj {<span class="at">:avoid</span> #{<span class="st">"plot_env"</span>}})</span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>                 ggplot-&gt;clj</span>
 <span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a>                 (<span class="kw">dissoc</span> <span class="at">:data</span>))]</span>
 <span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a>     {<span class="at">:title</span> title</span>
 <span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a>      <span class="at">:r-code</span> r-code</span>
@@ -2084,7 +2085,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb25-87"><a href="#cb25-87" aria-hidden="true" tabindex="-1"></a>   <span class="at">:ncol</span> <span class="va">nil</span>,</span>
 <span id="cb25-88"><a href="#cb25-88" aria-hidden="true" tabindex="-1"></a>   <span class="at">:facets</span> {<span class="at">:cyl</span> [~ cyl]},</span>
 <span id="cb25-89"><a href="#cb25-89" aria-hidden="true" tabindex="-1"></a>   <span class="at">:labeller</span></span>
-<span id="cb25-90"><a href="#cb25-90" aria-hidden="true" tabindex="-1"></a>   <span class="st">"function (labels, multi_line = TRUE) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    labels &amp;lt;- lapply(labels, as.character)</span><span class="sc">\n</span><span class="st">    if (multi_line) {</span><span class="sc">\n</span><span class="st">        labels</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    else {</span><span class="sc">\n</span><span class="st">        collapse_labels_lines(labels)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x557f413a3978&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: namespace:ggplot2&amp;gt;</span><span class="sc">\n</span><span class="st">attr(,</span><span class="sc">\"</span><span class="st">class</span><span class="sc">\"</span><span class="st">)</span><span class="sc">\n</span><span class="st">[1] </span><span class="sc">\"</span><span class="st">function</span><span class="sc">\"</span><span class="st"> </span><span class="sc">\"</span><span class="st">labeller</span><span class="sc">\"\n</span><span class="st">"</span>},</span>
+<span id="cb25-90"><a href="#cb25-90" aria-hidden="true" tabindex="-1"></a>   <span class="st">"function (labels, multi_line = TRUE) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    labels &amp;lt;- lapply(labels, as.character)</span><span class="sc">\n</span><span class="st">    if (multi_line) {</span><span class="sc">\n</span><span class="st">        labels</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    else {</span><span class="sc">\n</span><span class="st">        collapse_labels_lines(labels)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x55801151ed28&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: namespace:ggplot2&amp;gt;</span><span class="sc">\n</span><span class="st">attr(,</span><span class="sc">\"</span><span class="st">class</span><span class="sc">\"</span><span class="st">)</span><span class="sc">\n</span><span class="st">[1] </span><span class="sc">\"</span><span class="st">function</span><span class="sc">\"</span><span class="st"> </span><span class="sc">\"</span><span class="st">labeller</span><span class="sc">\"\n</span><span class="st">"</span>},</span>
 <span id="cb25-91"><a href="#cb25-91" aria-hidden="true" tabindex="-1"></a>  <span class="at">:shrink</span> [<span class="va">true</span>],</span>
 <span id="cb25-92"><a href="#cb25-92" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
 <span id="cb25-93"><a href="#cb25-93" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"cty"</span>], <span class="at">:y</span> [<span class="st">"hwy"</span>], <span class="at">:colour</span> [<span class="st">"factor(cyl)"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -2102,7 +2103,821 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb26-9"><a href="#cb26-9" aria-hidden="true" tabindex="-1"></a>   <span class="at">:ncol</span> <span class="va">nil</span>,</span>
 <span id="cb26-10"><a href="#cb26-10" aria-hidden="true" tabindex="-1"></a>   <span class="at">:facets</span> {<span class="at">:cyl</span> [<span class="at">~cyl</span>]},</span>
 <span id="cb26-11"><a href="#cb26-11" aria-hidden="true" tabindex="-1"></a>   <span class="at">:labeller</span></span>
-<span id="cb26-12"><a href="#cb26-12" aria-hidden="true" tabindex="-1"></a>   <span class="st">"function (labels, multi_line = TRUE) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    labels &amp;lt;- lapply(labels, as.character)</span><span class="sc">\n</span><span class="st">    if (multi_line) {</span><span class="sc">\n</span><span class="st">        labels</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    else {</span><span class="sc">\n</span><span class="st">        collapse_labels_lines(labels)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode:_ 0x557f413a3978&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment:_ namespace:ggplot2&amp;gt;</span><span class="sc">\n</span><span class="st">attr(,</span><span class="sc">\"</span><span class="st">class</span><span class="sc">\"</span><span class="st">)</span><span class="sc">\n</span><span class="st">[1] </span><span class="sc">\"</span><span class="st">function</span><span class="sc">\"</span><span class="st"> </span><span class="sc">\"</span><span class="st">labeller</span><span class="sc">\"\n</span><span class="st">"</span>}]]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb26-12"><a href="#cb26-12" aria-hidden="true" tabindex="-1"></a>   <span class="st">"function (labels, multi_line = TRUE) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    labels &amp;lt;- lapply(labels, as.character)</span><span class="sc">\n</span><span class="st">    if (multi_line) {</span><span class="sc">\n</span><span class="st">        labels</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    else {</span><span class="sc">\n</span><span class="st">        collapse_labels_lines(labels)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode:_ 0x55801151ed28&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment:_ namespace:ggplot2&amp;gt;</span><span class="sc">\n</span><span class="st">attr(,</span><span class="sc">\"</span><span class="st">class</span><span class="sc">\"</span><span class="st">)</span><span class="sc">\n</span><span class="st">[1] </span><span class="sc">\"</span><span class="st">function</span><span class="sc">\"</span><span class="st"> </span><span class="sc">\"</span><span class="st">labeller</span><span class="sc">\"\n</span><span class="st">"</span>}]]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="exploring" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="exploring"><span class="header-section-number">3.5</span> Exploring</h2>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb27"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, aes(cty, hwy)))"</span></span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="printedClojure">
+<div class="sourceCode" id="cb28"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>{<span class="at">:layers</span> [],</span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a> <span class="at">:scales</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a> <span class="at">:mapping</span> {<span class="at">:x</span> [~ cty], <span class="at">:y</span> [~ hwy]},</span>
+<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a> <span class="at">:theme</span> [],</span>
+<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a> <span class="at">:coordinates</span></span>
+<span id="cb28-6"><a href="#cb28-6" aria-hidden="true" tabindex="-1"></a> {<span class="at">:expand</span> [<span class="va">true</span>],</span>
+<span id="cb28-7"><a href="#cb28-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">:clip</span> [<span class="st">"on"</span>],</span>
+<span id="cb28-8"><a href="#cb28-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">:limits</span> {<span class="at">:x</span> <span class="va">nil</span>, <span class="at">:y</span> <span class="va">nil</span>},</span>
+<span id="cb28-9"><a href="#cb28-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb28-10"><a href="#cb28-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">:default</span> [<span class="va">true</span>]},</span>
+<span id="cb28-11"><a href="#cb28-11" aria-hidden="true" tabindex="-1"></a> <span class="at">:facet</span> {<span class="at">:shrink</span> [<span class="va">true</span>], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb28-12"><a href="#cb28-12" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"cty"</span>], <span class="at">:y</span> [<span class="st">"hwy"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb29"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, aes(cty, hwy)))"</span></span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="printedClojure">
+<div class="sourceCode" id="cb30"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a>{<span class="at">:layers</span> [],</span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a> <span class="at">:scales</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true" tabindex="-1"></a> <span class="at">:mapping</span> {<span class="at">:x</span> [~ cty], <span class="at">:y</span> [~ hwy]},</span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true" tabindex="-1"></a> <span class="at">:theme</span> [],</span>
+<span id="cb30-5"><a href="#cb30-5" aria-hidden="true" tabindex="-1"></a> <span class="at">:coordinates</span></span>
+<span id="cb30-6"><a href="#cb30-6" aria-hidden="true" tabindex="-1"></a> {<span class="at">:expand</span> [<span class="va">true</span>],</span>
+<span id="cb30-7"><a href="#cb30-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">:clip</span> [<span class="st">"on"</span>],</span>
+<span id="cb30-8"><a href="#cb30-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">:limits</span> {<span class="at">:x</span> <span class="va">nil</span>, <span class="at">:y</span> <span class="va">nil</span>},</span>
+<span id="cb30-9"><a href="#cb30-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb30-10"><a href="#cb30-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">:default</span> [<span class="va">true</span>]},</span>
+<span id="cb30-11"><a href="#cb30-11" aria-hidden="true" tabindex="-1"></a> <span class="at">:facet</span> {<span class="at">:shrink</span> [<span class="va">true</span>], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb30-12"><a href="#cb30-12" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"cty"</span>], <span class="at">:y</span> [<span class="st">"hwy"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb31"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, mapping=aes(x=cty, y=hwy)))"</span></span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb31-3"><a href="#cb31-3" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
+<span id="cb31-4"><a href="#cb31-4" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="printedClojure">
+<div class="sourceCode" id="cb32"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a>{<span class="at">:layers</span> [],</span>
+<span id="cb32-2"><a href="#cb32-2" aria-hidden="true" tabindex="-1"></a> <span class="at">:scales</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a> <span class="at">:mapping</span> {<span class="at">:x</span> [~ cty], <span class="at">:y</span> [~ hwy]},</span>
+<span id="cb32-4"><a href="#cb32-4" aria-hidden="true" tabindex="-1"></a> <span class="at">:theme</span> [],</span>
+<span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a> <span class="at">:coordinates</span></span>
+<span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a> {<span class="at">:expand</span> [<span class="va">true</span>],</span>
+<span id="cb32-7"><a href="#cb32-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">:clip</span> [<span class="st">"on"</span>],</span>
+<span id="cb32-8"><a href="#cb32-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">:limits</span> {<span class="at">:x</span> <span class="va">nil</span>, <span class="at">:y</span> <span class="va">nil</span>},</span>
+<span id="cb32-9"><a href="#cb32-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb32-10"><a href="#cb32-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">:default</span> [<span class="va">true</span>]},</span>
+<span id="cb32-11"><a href="#cb32-11" aria-hidden="true" tabindex="-1"></a> <span class="at">:facet</span> {<span class="at">:shrink</span> [<span class="va">true</span>], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb32-12"><a href="#cb32-12" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"cty"</span>], <span class="at">:y</span> [<span class="st">"hwy"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb33"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, mapping=aes(x=cty, y=hwy))</span></span>
+<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a><span class="st">      + geom_point(mapping=aes(color=cyl), size=5)</span></span>
+<span id="cb33-3"><a href="#cb33-3" aria-hidden="true" tabindex="-1"></a><span class="st">      + ylim(c(20,30)))"</span></span>
+<span id="cb33-4"><a href="#cb33-4" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb33-5"><a href="#cb33-5" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
+<span id="cb33-6"><a href="#cb33-6" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="printedClojure">
+<div class="sourceCode" id="cb34"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a>{<span class="at">:layers</span></span>
+<span id="cb34-2"><a href="#cb34-2" aria-hidden="true" tabindex="-1"></a> [{<span class="at">:aes</span>_params {<span class="at">:size</span> [<span class="fl">5.0</span>]},</span>
+<span id="cb34-3"><a href="#cb34-3" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span> {<span class="at">:compute</span>_layer <span class="at">:ggproto-method</span>, <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb34-4"><a href="#cb34-4" aria-hidden="true" tabindex="-1"></a>   <span class="at">:show.legend</span> [<span class="va">nil</span>],</span>
+<span id="cb34-5"><a href="#cb34-5" aria-hidden="true" tabindex="-1"></a>   <span class="at">:mapping</span> {<span class="at">:colour</span> [~ cyl]},</span>
+<span id="cb34-6"><a href="#cb34-6" aria-hidden="true" tabindex="-1"></a>   <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-7"><a href="#cb34-7" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.aes</span> [<span class="va">true</span>],</span>
+<span id="cb34-8"><a href="#cb34-8" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>]},</span>
+<span id="cb34-9"><a href="#cb34-9" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span></span>
+<span id="cb34-10"><a href="#cb34-10" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:non</span>_missing_aes [<span class="st">"size"</span> <span class="st">"shape"</span> <span class="st">"colour"</span>],</span>
+<span id="cb34-11"><a href="#cb34-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">:draw</span>_key <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-12"><a href="#cb34-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">:default</span>_aes</span>
+<span id="cb34-13"><a href="#cb34-13" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:shape</span> [<span class="fl">19.0</span>],</span>
+<span id="cb34-14"><a href="#cb34-14" aria-hidden="true" tabindex="-1"></a>     <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb34-15"><a href="#cb34-15" aria-hidden="true" tabindex="-1"></a>     <span class="at">:size</span> [<span class="fl">1.5</span>],</span>
+<span id="cb34-16"><a href="#cb34-16" aria-hidden="true" tabindex="-1"></a>     <span class="at">:fill</span> [<span class="va">nil</span>],</span>
+<span id="cb34-17"><a href="#cb34-17" aria-hidden="true" tabindex="-1"></a>     <span class="at">:alpha</span> [<span class="va">nil</span>],</span>
+<span id="cb34-18"><a href="#cb34-18" aria-hidden="true" tabindex="-1"></a>     <span class="at">:stroke</span> [<span class="fl">0.5</span>]},</span>
+<span id="cb34-19"><a href="#cb34-19" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-20"><a href="#cb34-20" aria-hidden="true" tabindex="-1"></a>    <span class="at">:required</span>_aes [<span class="st">"x"</span> <span class="st">"y"</span>],</span>
+<span id="cb34-21"><a href="#cb34-21" aria-hidden="true" tabindex="-1"></a>    <span class="at">:draw</span>_panel <span class="at">:ggproto-method</span>},</span>
+<span id="cb34-22"><a href="#cb34-22" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>]},</span>
+<span id="cb34-23"><a href="#cb34-23" aria-hidden="true" tabindex="-1"></a>   <span class="at">:constructor</span> {: <span class="va">nil</span>, <span class="at">:mapping</span> {: <span class="va">nil</span>, <span class="at">:color</span> cyl}, <span class="at">:size</span> [<span class="fl">5.0</span>]},</span>
+<span id="cb34-24"><a href="#cb34-24" aria-hidden="true" tabindex="-1"></a>   <span class="at">:position</span> {<span class="at">:compute</span>_layer <span class="at">:ggproto-method</span>, <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb34-25"><a href="#cb34-25" aria-hidden="true" tabindex="-1"></a>   <span class="at">:data</span> []}],</span>
+<span id="cb34-26"><a href="#cb34-26" aria-hidden="true" tabindex="-1"></a> <span class="at">:scales</span></span>
+<span id="cb34-27"><a href="#cb34-27" aria-hidden="true" tabindex="-1"></a> {<span class="at">:scales</span></span>
+<span id="cb34-28"><a href="#cb34-28" aria-hidden="true" tabindex="-1"></a>  [{<span class="at">:labels</span> [],</span>
+<span id="cb34-29"><a href="#cb34-29" aria-hidden="true" tabindex="-1"></a>    <span class="at">:scale</span>_name [<span class="st">"position_c"</span>],</span>
+<span id="cb34-30"><a href="#cb34-30" aria-hidden="true" tabindex="-1"></a>    <span class="at">:breaks</span> [],</span>
+<span id="cb34-31"><a href="#cb34-31" aria-hidden="true" tabindex="-1"></a>    <span class="at">:call</span></span>
+<span id="cb34-32"><a href="#cb34-32" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:labels</span> labels,</span>
+<span id="cb34-33"><a href="#cb34-33" aria-hidden="true" tabindex="-1"></a>     <span class="at">:scale</span>_name [<span class="st">"position_c"</span>],</span>
+<span id="cb34-34"><a href="#cb34-34" aria-hidden="true" tabindex="-1"></a>     <span class="at">:breaks</span> breaks,</span>
+<span id="cb34-35"><a href="#cb34-35" aria-hidden="true" tabindex="-1"></a>     <span class="at">:name</span> <span class="kw">name</span>,</span>
+<span id="cb34-36"><a href="#cb34-36" aria-hidden="true" tabindex="-1"></a>     <span class="at">:palette</span> <span class="kw">identity</span>,</span>
+<span id="cb34-37"><a href="#cb34-37" aria-hidden="true" tabindex="-1"></a>     <span class="at">:super</span> ScaleContinuousPosition,</span>
+<span id="cb34-38"><a href="#cb34-38" aria-hidden="true" tabindex="-1"></a>     <span class="at">:guide</span> guide,</span>
+<span id="cb34-39"><a href="#cb34-39" aria-hidden="true" tabindex="-1"></a>     <span class="at">:minor</span>_breaks minor_breaks,</span>
+<span id="cb34-40"><a href="#cb34-40" aria-hidden="true" tabindex="-1"></a>     <span class="at">:n.breaks</span> n.breaks,</span>
+<span id="cb34-41"><a href="#cb34-41" aria-hidden="true" tabindex="-1"></a>     : <span class="va">nil</span>,</span>
+<span id="cb34-42"><a href="#cb34-42" aria-hidden="true" tabindex="-1"></a>     <span class="at">:aesthetics</span> [$ ggplot_global y_aes],</span>
+<span id="cb34-43"><a href="#cb34-43" aria-hidden="true" tabindex="-1"></a>     <span class="at">:na.value</span> na.value,</span>
+<span id="cb34-44"><a href="#cb34-44" aria-hidden="true" tabindex="-1"></a>     <span class="at">:trans</span> trans,</span>
+<span id="cb34-45"><a href="#cb34-45" aria-hidden="true" tabindex="-1"></a>     <span class="at">:oob</span> oob,</span>
+<span id="cb34-46"><a href="#cb34-46" aria-hidden="true" tabindex="-1"></a>     <span class="at">:position</span> position,</span>
+<span id="cb34-47"><a href="#cb34-47" aria-hidden="true" tabindex="-1"></a>     <span class="at">:limits</span> limits,</span>
+<span id="cb34-48"><a href="#cb34-48" aria-hidden="true" tabindex="-1"></a>     <span class="at">:expand</span> expand},</span>
+<span id="cb34-49"><a href="#cb34-49" aria-hidden="true" tabindex="-1"></a>    <span class="at">:rescaler</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-50"><a href="#cb34-50" aria-hidden="true" tabindex="-1"></a>    <span class="at">:name</span> [],</span>
+<span id="cb34-51"><a href="#cb34-51" aria-hidden="true" tabindex="-1"></a>    <span class="at">:palette</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-52"><a href="#cb34-52" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-53"><a href="#cb34-53" aria-hidden="true" tabindex="-1"></a>    <span class="at">:guide</span> [],</span>
+<span id="cb34-54"><a href="#cb34-54" aria-hidden="true" tabindex="-1"></a>    <span class="at">:minor</span>_breaks [],</span>
+<span id="cb34-55"><a href="#cb34-55" aria-hidden="true" tabindex="-1"></a>    <span class="at">:n.breaks</span> <span class="va">nil</span>,</span>
+<span id="cb34-56"><a href="#cb34-56" aria-hidden="true" tabindex="-1"></a>    <span class="at">:aesthetics</span></span>
+<span id="cb34-57"><a href="#cb34-57" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"y"</span></span>
+<span id="cb34-58"><a href="#cb34-58" aria-hidden="true" tabindex="-1"></a>     <span class="st">"ymin"</span></span>
+<span id="cb34-59"><a href="#cb34-59" aria-hidden="true" tabindex="-1"></a>     <span class="st">"ymax"</span></span>
+<span id="cb34-60"><a href="#cb34-60" aria-hidden="true" tabindex="-1"></a>     <span class="st">"yend"</span></span>
+<span id="cb34-61"><a href="#cb34-61" aria-hidden="true" tabindex="-1"></a>     <span class="st">"yintercept"</span></span>
+<span id="cb34-62"><a href="#cb34-62" aria-hidden="true" tabindex="-1"></a>     <span class="st">"ymin_final"</span></span>
+<span id="cb34-63"><a href="#cb34-63" aria-hidden="true" tabindex="-1"></a>     <span class="st">"ymax_final"</span></span>
+<span id="cb34-64"><a href="#cb34-64" aria-hidden="true" tabindex="-1"></a>     <span class="st">"lower"</span></span>
+<span id="cb34-65"><a href="#cb34-65" aria-hidden="true" tabindex="-1"></a>     <span class="st">"middle"</span></span>
+<span id="cb34-66"><a href="#cb34-66" aria-hidden="true" tabindex="-1"></a>     <span class="st">"upper"</span></span>
+<span id="cb34-67"><a href="#cb34-67" aria-hidden="true" tabindex="-1"></a>     <span class="st">"y0"</span>],</span>
+<span id="cb34-68"><a href="#cb34-68" aria-hidden="true" tabindex="-1"></a>    <span class="at">:na.value</span> [<span class="va">nil</span>],</span>
+<span id="cb34-69"><a href="#cb34-69" aria-hidden="true" tabindex="-1"></a>    <span class="at">:trans</span></span>
+<span id="cb34-70"><a href="#cb34-70" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:name</span> [<span class="st">"identity"</span>],</span>
+<span id="cb34-71"><a href="#cb34-71" aria-hidden="true" tabindex="-1"></a>     <span class="at">:transform</span></span>
+<span id="cb34-72"><a href="#cb34-72" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x) </span><span class="sc">\n</span><span class="st">x</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x55800c808140&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: namespace:base&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb34-73"><a href="#cb34-73" aria-hidden="true" tabindex="-1"></a>     <span class="at">:inverse</span></span>
+<span id="cb34-74"><a href="#cb34-74" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x) </span><span class="sc">\n</span><span class="st">x</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x55800c808140&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: namespace:base&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb34-75"><a href="#cb34-75" aria-hidden="true" tabindex="-1"></a>     <span class="at">:breaks</span></span>
+<span id="cb34-76"><a href="#cb34-76" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x, n = n_default) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    x &amp;lt;- x[is.finite(x)]</span><span class="sc">\n</span><span class="st">    if (length(x) == 0) {</span><span class="sc">\n</span><span class="st">        return(numeric())</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    rng &amp;lt;- range(x)</span><span class="sc">\n</span><span class="st">    labeling::extended(rng[1], rng[2], n, ...)</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x558011cf7cd0&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x5580173bcb00&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb34-77"><a href="#cb34-77" aria-hidden="true" tabindex="-1"></a>     <span class="at">:minor</span>_breaks</span>
+<span id="cb34-78"><a href="#cb34-78" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (b, limits, n) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    b &amp;lt;- b[!is.na(b)]</span><span class="sc">\n</span><span class="st">    if (length(b) &amp;lt; 2) {</span><span class="sc">\n</span><span class="st">        return()</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    bd &amp;lt;- diff(b)[1]</span><span class="sc">\n</span><span class="st">    if (!reverse) {</span><span class="sc">\n</span><span class="st">        if (min(limits) &amp;lt; min(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b[1] - bd, b)</span><span class="sc">\n</span><span class="st">        if (max(limits) &amp;gt; max(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b, b[length(b)] + bd)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    else {</span><span class="sc">\n</span><span class="st">        if (max(limits) &amp;gt; max(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b[1] - bd, b)</span><span class="sc">\n</span><span class="st">        if (min(limits) &amp;lt; min(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b, b[length(b)] + bd)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    seq_between &amp;lt;- function(a, b) {</span><span class="sc">\n</span><span class="st">        seq(a, b, length.out = n + 1)[-(n + 1)]</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    breaks &amp;lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))</span><span class="sc">\n</span><span class="st">    breaks &amp;lt;- c(breaks, b[length(b)])</span><span class="sc">\n</span><span class="st">    breaks</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x558011cff4b8&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x5580173bcc88&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb34-79"><a href="#cb34-79" aria-hidden="true" tabindex="-1"></a>     <span class="at">:format</span></span>
+<span id="cb34-80"><a href="#cb34-80" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    if (!is.null(names(x))) {</span><span class="sc">\n</span><span class="st">        return(names(x))</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    ret &amp;lt;- format(x, ..., trim = TRUE, justify = </span><span class="sc">\"</span><span class="st">left</span><span class="sc">\"</span><span class="st">)</span><span class="sc">\n</span><span class="st">    ret[is.na(x)] &amp;lt;- NA</span><span class="sc">\n</span><span class="st">    ret</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x558011d098e0&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x5580173bcdd8&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb34-81"><a href="#cb34-81" aria-hidden="true" tabindex="-1"></a>     <span class="at">:domain</span> [<span class="at">##</span>-Inf <span class="at">##</span>Inf]},</span>
+<span id="cb34-82"><a href="#cb34-82" aria-hidden="true" tabindex="-1"></a>    <span class="at">:oob</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-83"><a href="#cb34-83" aria-hidden="true" tabindex="-1"></a>    <span class="at">:position</span> [<span class="st">"left"</span>],</span>
+<span id="cb34-84"><a href="#cb34-84" aria-hidden="true" tabindex="-1"></a>    <span class="at">:limits</span> [<span class="fl">20.0</span> <span class="fl">30.0</span>],</span>
+<span id="cb34-85"><a href="#cb34-85" aria-hidden="true" tabindex="-1"></a>    <span class="at">:expand</span> [],</span>
+<span id="cb34-86"><a href="#cb34-86" aria-hidden="true" tabindex="-1"></a>    <span class="at">:range</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>}}],</span>
+<span id="cb34-87"><a href="#cb34-87" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb34-88"><a href="#cb34-88" aria-hidden="true" tabindex="-1"></a> <span class="at">:mapping</span> {<span class="at">:x</span> [~ cty], <span class="at">:y</span> [~ hwy]},</span>
+<span id="cb34-89"><a href="#cb34-89" aria-hidden="true" tabindex="-1"></a> <span class="at">:theme</span> [],</span>
+<span id="cb34-90"><a href="#cb34-90" aria-hidden="true" tabindex="-1"></a> <span class="at">:coordinates</span></span>
+<span id="cb34-91"><a href="#cb34-91" aria-hidden="true" tabindex="-1"></a> {<span class="at">:expand</span> [<span class="va">true</span>],</span>
+<span id="cb34-92"><a href="#cb34-92" aria-hidden="true" tabindex="-1"></a>  <span class="at">:clip</span> [<span class="st">"on"</span>],</span>
+<span id="cb34-93"><a href="#cb34-93" aria-hidden="true" tabindex="-1"></a>  <span class="at">:limits</span> {<span class="at">:x</span> <span class="va">nil</span>, <span class="at">:y</span> <span class="va">nil</span>},</span>
+<span id="cb34-94"><a href="#cb34-94" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb34-95"><a href="#cb34-95" aria-hidden="true" tabindex="-1"></a>  <span class="at">:default</span> [<span class="va">true</span>]},</span>
+<span id="cb34-96"><a href="#cb34-96" aria-hidden="true" tabindex="-1"></a> <span class="at">:facet</span> {<span class="at">:shrink</span> [<span class="va">true</span>], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb34-97"><a href="#cb34-97" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"cty"</span>], <span class="at">:y</span> [<span class="st">"hwy"</span>], <span class="at">:colour</span> [<span class="st">"cyl"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb35"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, mapping=aes(x=cty, y=hwy))</span></span>
+<span id="cb35-2"><a href="#cb35-2" aria-hidden="true" tabindex="-1"></a><span class="st">      + geom_point(mapping=aes(color=factor(cyl)), size=20))"</span></span>
+<span id="cb35-3"><a href="#cb35-3" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb35-4"><a href="#cb35-4" aria-hidden="true" tabindex="-1"></a>    plotting/plot-&gt;buffered-image)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<img src="ggplot_files/4.png" style="width:100%;">
+<div class="sourceClojure">
+<div class="sourceCode" id="cb36"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, mapping=aes(x=cty, y=hwy))</span></span>
+<span id="cb36-2"><a href="#cb36-2" aria-hidden="true" tabindex="-1"></a><span class="st">      + geom_point(mapping=aes(color=cyl), size=5)</span></span>
+<span id="cb36-3"><a href="#cb36-3" aria-hidden="true" tabindex="-1"></a><span class="st">      + ylim(c(20,30))</span></span>
+<span id="cb36-4"><a href="#cb36-4" aria-hidden="true" tabindex="-1"></a><span class="st">      + scale_x_log10())"</span></span>
+<span id="cb36-5"><a href="#cb36-5" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb36-6"><a href="#cb36-6" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
+<span id="cb36-7"><a href="#cb36-7" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="printedClojure">
+<div class="sourceCode" id="cb37"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb37-1"><a href="#cb37-1" aria-hidden="true" tabindex="-1"></a>{<span class="at">:layers</span></span>
+<span id="cb37-2"><a href="#cb37-2" aria-hidden="true" tabindex="-1"></a> [{<span class="at">:aes</span>_params {<span class="at">:size</span> [<span class="fl">5.0</span>]},</span>
+<span id="cb37-3"><a href="#cb37-3" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span> {<span class="at">:compute</span>_layer <span class="at">:ggproto-method</span>, <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb37-4"><a href="#cb37-4" aria-hidden="true" tabindex="-1"></a>   <span class="at">:show.legend</span> [<span class="va">nil</span>],</span>
+<span id="cb37-5"><a href="#cb37-5" aria-hidden="true" tabindex="-1"></a>   <span class="at">:mapping</span> {<span class="at">:colour</span> [~ cyl]},</span>
+<span id="cb37-6"><a href="#cb37-6" aria-hidden="true" tabindex="-1"></a>   <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-7"><a href="#cb37-7" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.aes</span> [<span class="va">true</span>],</span>
+<span id="cb37-8"><a href="#cb37-8" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>]},</span>
+<span id="cb37-9"><a href="#cb37-9" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span></span>
+<span id="cb37-10"><a href="#cb37-10" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:non</span>_missing_aes [<span class="st">"size"</span> <span class="st">"shape"</span> <span class="st">"colour"</span>],</span>
+<span id="cb37-11"><a href="#cb37-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">:draw</span>_key <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-12"><a href="#cb37-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">:default</span>_aes</span>
+<span id="cb37-13"><a href="#cb37-13" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:shape</span> [<span class="fl">19.0</span>],</span>
+<span id="cb37-14"><a href="#cb37-14" aria-hidden="true" tabindex="-1"></a>     <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb37-15"><a href="#cb37-15" aria-hidden="true" tabindex="-1"></a>     <span class="at">:size</span> [<span class="fl">1.5</span>],</span>
+<span id="cb37-16"><a href="#cb37-16" aria-hidden="true" tabindex="-1"></a>     <span class="at">:fill</span> [<span class="va">nil</span>],</span>
+<span id="cb37-17"><a href="#cb37-17" aria-hidden="true" tabindex="-1"></a>     <span class="at">:alpha</span> [<span class="va">nil</span>],</span>
+<span id="cb37-18"><a href="#cb37-18" aria-hidden="true" tabindex="-1"></a>     <span class="at">:stroke</span> [<span class="fl">0.5</span>]},</span>
+<span id="cb37-19"><a href="#cb37-19" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-20"><a href="#cb37-20" aria-hidden="true" tabindex="-1"></a>    <span class="at">:required</span>_aes [<span class="st">"x"</span> <span class="st">"y"</span>],</span>
+<span id="cb37-21"><a href="#cb37-21" aria-hidden="true" tabindex="-1"></a>    <span class="at">:draw</span>_panel <span class="at">:ggproto-method</span>},</span>
+<span id="cb37-22"><a href="#cb37-22" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>]},</span>
+<span id="cb37-23"><a href="#cb37-23" aria-hidden="true" tabindex="-1"></a>   <span class="at">:constructor</span> {: <span class="va">nil</span>, <span class="at">:mapping</span> {: <span class="va">nil</span>, <span class="at">:color</span> cyl}, <span class="at">:size</span> [<span class="fl">5.0</span>]},</span>
+<span id="cb37-24"><a href="#cb37-24" aria-hidden="true" tabindex="-1"></a>   <span class="at">:position</span> {<span class="at">:compute</span>_layer <span class="at">:ggproto-method</span>, <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb37-25"><a href="#cb37-25" aria-hidden="true" tabindex="-1"></a>   <span class="at">:data</span> []}],</span>
+<span id="cb37-26"><a href="#cb37-26" aria-hidden="true" tabindex="-1"></a> <span class="at">:scales</span></span>
+<span id="cb37-27"><a href="#cb37-27" aria-hidden="true" tabindex="-1"></a> {<span class="at">:scales</span></span>
+<span id="cb37-28"><a href="#cb37-28" aria-hidden="true" tabindex="-1"></a>  [{<span class="at">:range</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>}, <span class="at">:super</span> <span class="at">:ggproto-method</span>}</span>
+<span id="cb37-29"><a href="#cb37-29" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:labels</span> [],</span>
+<span id="cb37-30"><a href="#cb37-30" aria-hidden="true" tabindex="-1"></a>    <span class="at">:scale</span>_name [<span class="st">"position_c"</span>],</span>
+<span id="cb37-31"><a href="#cb37-31" aria-hidden="true" tabindex="-1"></a>    <span class="at">:breaks</span> [],</span>
+<span id="cb37-32"><a href="#cb37-32" aria-hidden="true" tabindex="-1"></a>    <span class="at">:call</span></span>
+<span id="cb37-33"><a href="#cb37-33" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:labels</span> labels,</span>
+<span id="cb37-34"><a href="#cb37-34" aria-hidden="true" tabindex="-1"></a>     <span class="at">:scale</span>_name [<span class="st">"position_c"</span>],</span>
+<span id="cb37-35"><a href="#cb37-35" aria-hidden="true" tabindex="-1"></a>     <span class="at">:breaks</span> breaks,</span>
+<span id="cb37-36"><a href="#cb37-36" aria-hidden="true" tabindex="-1"></a>     <span class="at">:name</span> <span class="kw">name</span>,</span>
+<span id="cb37-37"><a href="#cb37-37" aria-hidden="true" tabindex="-1"></a>     <span class="at">:palette</span> <span class="kw">identity</span>,</span>
+<span id="cb37-38"><a href="#cb37-38" aria-hidden="true" tabindex="-1"></a>     <span class="at">:super</span> ScaleContinuousPosition,</span>
+<span id="cb37-39"><a href="#cb37-39" aria-hidden="true" tabindex="-1"></a>     <span class="at">:guide</span> guide,</span>
+<span id="cb37-40"><a href="#cb37-40" aria-hidden="true" tabindex="-1"></a>     <span class="at">:minor</span>_breaks minor_breaks,</span>
+<span id="cb37-41"><a href="#cb37-41" aria-hidden="true" tabindex="-1"></a>     <span class="at">:n.breaks</span> n.breaks,</span>
+<span id="cb37-42"><a href="#cb37-42" aria-hidden="true" tabindex="-1"></a>     : <span class="va">nil</span>,</span>
+<span id="cb37-43"><a href="#cb37-43" aria-hidden="true" tabindex="-1"></a>     <span class="at">:aesthetics</span> [$ ggplot_global x_aes],</span>
+<span id="cb37-44"><a href="#cb37-44" aria-hidden="true" tabindex="-1"></a>     <span class="at">:na.value</span> na.value,</span>
+<span id="cb37-45"><a href="#cb37-45" aria-hidden="true" tabindex="-1"></a>     <span class="at">:trans</span> trans,</span>
+<span id="cb37-46"><a href="#cb37-46" aria-hidden="true" tabindex="-1"></a>     <span class="at">:oob</span> oob,</span>
+<span id="cb37-47"><a href="#cb37-47" aria-hidden="true" tabindex="-1"></a>     <span class="at">:position</span> position,</span>
+<span id="cb37-48"><a href="#cb37-48" aria-hidden="true" tabindex="-1"></a>     <span class="at">:limits</span> limits,</span>
+<span id="cb37-49"><a href="#cb37-49" aria-hidden="true" tabindex="-1"></a>     <span class="at">:expand</span> expand},</span>
+<span id="cb37-50"><a href="#cb37-50" aria-hidden="true" tabindex="-1"></a>    <span class="at">:rescaler</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-51"><a href="#cb37-51" aria-hidden="true" tabindex="-1"></a>    <span class="at">:name</span> [],</span>
+<span id="cb37-52"><a href="#cb37-52" aria-hidden="true" tabindex="-1"></a>    <span class="at">:palette</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-53"><a href="#cb37-53" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-54"><a href="#cb37-54" aria-hidden="true" tabindex="-1"></a>    <span class="at">:guide</span> [],</span>
+<span id="cb37-55"><a href="#cb37-55" aria-hidden="true" tabindex="-1"></a>    <span class="at">:minor</span>_breaks [],</span>
+<span id="cb37-56"><a href="#cb37-56" aria-hidden="true" tabindex="-1"></a>    <span class="at">:n.breaks</span> <span class="va">nil</span>,</span>
+<span id="cb37-57"><a href="#cb37-57" aria-hidden="true" tabindex="-1"></a>    <span class="at">:aesthetics</span></span>
+<span id="cb37-58"><a href="#cb37-58" aria-hidden="true" tabindex="-1"></a>    [<span class="st">"x"</span></span>
+<span id="cb37-59"><a href="#cb37-59" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xmin"</span></span>
+<span id="cb37-60"><a href="#cb37-60" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xmax"</span></span>
+<span id="cb37-61"><a href="#cb37-61" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xend"</span></span>
+<span id="cb37-62"><a href="#cb37-62" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xintercept"</span></span>
+<span id="cb37-63"><a href="#cb37-63" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xmin_final"</span></span>
+<span id="cb37-64"><a href="#cb37-64" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xmax_final"</span></span>
+<span id="cb37-65"><a href="#cb37-65" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xlower"</span></span>
+<span id="cb37-66"><a href="#cb37-66" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xmiddle"</span></span>
+<span id="cb37-67"><a href="#cb37-67" aria-hidden="true" tabindex="-1"></a>     <span class="st">"xupper"</span></span>
+<span id="cb37-68"><a href="#cb37-68" aria-hidden="true" tabindex="-1"></a>     <span class="st">"x0"</span>],</span>
+<span id="cb37-69"><a href="#cb37-69" aria-hidden="true" tabindex="-1"></a>    <span class="at">:na.value</span> [<span class="va">nil</span>],</span>
+<span id="cb37-70"><a href="#cb37-70" aria-hidden="true" tabindex="-1"></a>    <span class="at">:trans</span></span>
+<span id="cb37-71"><a href="#cb37-71" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:name</span> [<span class="st">"log-10"</span>],</span>
+<span id="cb37-72"><a href="#cb37-72" aria-hidden="true" tabindex="-1"></a>     <span class="at">:transform</span></span>
+<span id="cb37-73"><a href="#cb37-73" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x) </span><span class="sc">\n</span><span class="st">log(x, base)</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x55801c8071a8&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x55801c3836c8&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb37-74"><a href="#cb37-74" aria-hidden="true" tabindex="-1"></a>     <span class="at">:inverse</span></span>
+<span id="cb37-75"><a href="#cb37-75" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x) </span><span class="sc">\n</span><span class="st">base^x</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x55801c807058&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x55801c3836c8&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb37-76"><a href="#cb37-76" aria-hidden="true" tabindex="-1"></a>     <span class="at">:breaks</span></span>
+<span id="cb37-77"><a href="#cb37-77" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x, n = n_default) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    raw_rng &amp;lt;- suppressWarnings(range(x, na.rm = TRUE))</span><span class="sc">\n</span><span class="st">    if (any(!is.finite(raw_rng))) {</span><span class="sc">\n</span><span class="st">        return(numeric())</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    rng &amp;lt;- log(raw_rng, base = base)</span><span class="sc">\n</span><span class="st">    min &amp;lt;- floor(rng[1])</span><span class="sc">\n</span><span class="st">    max &amp;lt;- ceiling(rng[2])</span><span class="sc">\n</span><span class="st">    if (max == min) {</span><span class="sc">\n</span><span class="st">        return(base^min)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    by &amp;lt;- floor((max - min)/n) + 1</span><span class="sc">\n</span><span class="st">    breaks &amp;lt;- base^seq(min, max, by = by)</span><span class="sc">\n</span><span class="st">    relevant_breaks &amp;lt;- base^rng[1] &amp;lt;= breaks &amp; breaks &amp;lt;= base^rng[2]</span><span class="sc">\n</span><span class="st">    if (sum(relevant_breaks) &amp;gt;= (n - 2)) {</span><span class="sc">\n</span><span class="st">        return(breaks)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    while (by &amp;gt; 1) {</span><span class="sc">\n</span><span class="st">        by &amp;lt;- by - 1</span><span class="sc">\n</span><span class="st">        breaks &amp;lt;- base^seq(min, max, by = by)</span><span class="sc">\n</span><span class="st">        relevant_breaks &amp;lt;- base^rng[1] &amp;lt;= breaks &amp; breaks &amp;lt;= </span><span class="sc">\n</span><span class="st">            base^rng[2]</span><span class="sc">\n</span><span class="st">        if (sum(relevant_breaks) &amp;gt;= (n - 2)) {</span><span class="sc">\n</span><span class="st">            return(breaks)</span><span class="sc">\n</span><span class="st">        }</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    log_sub_breaks(rng, n = n, base = base)</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x55801c8159d0&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x55801c386a88&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb37-78"><a href="#cb37-78" aria-hidden="true" tabindex="-1"></a>     <span class="at">:minor</span>_breaks</span>
+<span id="cb37-79"><a href="#cb37-79" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (b, limits, n) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    b &amp;lt;- b[!is.na(b)]</span><span class="sc">\n</span><span class="st">    if (length(b) &amp;lt; 2) {</span><span class="sc">\n</span><span class="st">        return()</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    bd &amp;lt;- diff(b)[1]</span><span class="sc">\n</span><span class="st">    if (!reverse) {</span><span class="sc">\n</span><span class="st">        if (min(limits) &amp;lt; min(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b[1] - bd, b)</span><span class="sc">\n</span><span class="st">        if (max(limits) &amp;gt; max(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b, b[length(b)] + bd)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    else {</span><span class="sc">\n</span><span class="st">        if (max(limits) &amp;gt; max(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b[1] - bd, b)</span><span class="sc">\n</span><span class="st">        if (min(limits) &amp;lt; min(b)) </span><span class="sc">\n</span><span class="st">            b &amp;lt;- c(b, b[length(b)] + bd)</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    seq_between &amp;lt;- function(a, b) {</span><span class="sc">\n</span><span class="st">        seq(a, b, length.out = n + 1)[-(n + 1)]</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    breaks &amp;lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))</span><span class="sc">\n</span><span class="st">    breaks &amp;lt;- c(breaks, b[length(b)])</span><span class="sc">\n</span><span class="st">    breaks</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x558011cff4b8&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x55801c38a500&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb37-80"><a href="#cb37-80" aria-hidden="true" tabindex="-1"></a>     <span class="at">:format</span></span>
+<span id="cb37-81"><a href="#cb37-81" aria-hidden="true" tabindex="-1"></a>     <span class="st">"function (x) </span><span class="sc">\n</span><span class="st">{</span><span class="sc">\n</span><span class="st">    if (!is.null(names(x))) {</span><span class="sc">\n</span><span class="st">        return(names(x))</span><span class="sc">\n</span><span class="st">    }</span><span class="sc">\n</span><span class="st">    ret &amp;lt;- format(x, ..., trim = TRUE, justify = </span><span class="sc">\"</span><span class="st">left</span><span class="sc">\"</span><span class="st">)</span><span class="sc">\n</span><span class="st">    ret[is.na(x)] &amp;lt;- NA</span><span class="sc">\n</span><span class="st">    ret</span><span class="sc">\n</span><span class="st">}</span><span class="sc">\n</span><span class="st">&amp;lt;bytecode: 0x558011d098e0&amp;gt;</span><span class="sc">\n</span><span class="st">&amp;lt;environment: 0x55801c38a3b0&amp;gt;</span><span class="sc">\n</span><span class="st">"</span>,</span>
+<span id="cb37-82"><a href="#cb37-82" aria-hidden="true" tabindex="-1"></a>     <span class="at">:domain</span> [<span class="fl">1.0E-100</span> <span class="at">##</span>Inf]},</span>
+<span id="cb37-83"><a href="#cb37-83" aria-hidden="true" tabindex="-1"></a>    <span class="at">:oob</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-84"><a href="#cb37-84" aria-hidden="true" tabindex="-1"></a>    <span class="at">:position</span> [<span class="st">"bottom"</span>],</span>
+<span id="cb37-85"><a href="#cb37-85" aria-hidden="true" tabindex="-1"></a>    <span class="at">:limits</span> <span class="va">nil</span>,</span>
+<span id="cb37-86"><a href="#cb37-86" aria-hidden="true" tabindex="-1"></a>    <span class="at">:expand</span> [],</span>
+<span id="cb37-87"><a href="#cb37-87" aria-hidden="true" tabindex="-1"></a>    <span class="at">:range</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>}}],</span>
+<span id="cb37-88"><a href="#cb37-88" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb37-89"><a href="#cb37-89" aria-hidden="true" tabindex="-1"></a> <span class="at">:mapping</span> {<span class="at">:x</span> [~ cty], <span class="at">:y</span> [~ hwy]},</span>
+<span id="cb37-90"><a href="#cb37-90" aria-hidden="true" tabindex="-1"></a> <span class="at">:theme</span> [],</span>
+<span id="cb37-91"><a href="#cb37-91" aria-hidden="true" tabindex="-1"></a> <span class="at">:coordinates</span></span>
+<span id="cb37-92"><a href="#cb37-92" aria-hidden="true" tabindex="-1"></a> {<span class="at">:expand</span> [<span class="va">true</span>],</span>
+<span id="cb37-93"><a href="#cb37-93" aria-hidden="true" tabindex="-1"></a>  <span class="at">:clip</span> [<span class="st">"on"</span>],</span>
+<span id="cb37-94"><a href="#cb37-94" aria-hidden="true" tabindex="-1"></a>  <span class="at">:limits</span> {<span class="at">:x</span> <span class="va">nil</span>, <span class="at">:y</span> <span class="va">nil</span>},</span>
+<span id="cb37-95"><a href="#cb37-95" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb37-96"><a href="#cb37-96" aria-hidden="true" tabindex="-1"></a>  <span class="at">:default</span> [<span class="va">true</span>]},</span>
+<span id="cb37-97"><a href="#cb37-97" aria-hidden="true" tabindex="-1"></a> <span class="at">:facet</span> {<span class="at">:shrink</span> [<span class="va">true</span>], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb37-98"><a href="#cb37-98" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"cty"</span>], <span class="at">:y</span> [<span class="st">"hwy"</span>], <span class="at">:colour</span> [<span class="st">"cyl"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb38"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb38-1"><a href="#cb38-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(mpg, mapping=aes(x=cty, y=hwy))</span></span>
+<span id="cb38-2"><a href="#cb38-2" aria-hidden="true" tabindex="-1"></a><span class="st">      + geom_point(mapping=aes(color=cyl), size=5)</span></span>
+<span id="cb38-3"><a href="#cb38-3" aria-hidden="true" tabindex="-1"></a><span class="st">      + ylim(c(20,30))</span></span>
+<span id="cb38-4"><a href="#cb38-4" aria-hidden="true" tabindex="-1"></a><span class="st">      + scale_x_log10()</span></span>
+<span id="cb38-5"><a href="#cb38-5" aria-hidden="true" tabindex="-1"></a><span class="st">      + theme_linedraw())"</span></span>
+<span id="cb38-6"><a href="#cb38-6" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb38-7"><a href="#cb38-7" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
+<span id="cb38-8"><a href="#cb38-8" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="printedClojure">
+<div class="sourceCode" id="cb39"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb39-1"><a href="#cb39-1" aria-hidden="true" tabindex="-1"></a>{<span class="at">:layers</span></span>
+<span id="cb39-2"><a href="#cb39-2" aria-hidden="true" tabindex="-1"></a> [{<span class="at">:aes</span>_params {<span class="at">:size</span> [<span class="fl">5.0</span>]},</span>
+<span id="cb39-3"><a href="#cb39-3" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span> {<span class="at">:compute</span>_layer <span class="at">:ggproto-method</span>, <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb39-4"><a href="#cb39-4" aria-hidden="true" tabindex="-1"></a>   <span class="at">:show.legend</span> [<span class="va">nil</span>],</span>
+<span id="cb39-5"><a href="#cb39-5" aria-hidden="true" tabindex="-1"></a>   <span class="at">:mapping</span> {<span class="at">:colour</span> [~ cyl]},</span>
+<span id="cb39-6"><a href="#cb39-6" aria-hidden="true" tabindex="-1"></a>   <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb39-7"><a href="#cb39-7" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.aes</span> [<span class="va">true</span>],</span>
+<span id="cb39-8"><a href="#cb39-8" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>]},</span>
+<span id="cb39-9"><a href="#cb39-9" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span></span>
+<span id="cb39-10"><a href="#cb39-10" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:non</span>_missing_aes [<span class="st">"size"</span> <span class="st">"shape"</span> <span class="st">"colour"</span>],</span>
+<span id="cb39-11"><a href="#cb39-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">:draw</span>_key <span class="at">:ggproto-method</span>,</span>
+<span id="cb39-12"><a href="#cb39-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">:default</span>_aes</span>
+<span id="cb39-13"><a href="#cb39-13" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:shape</span> [<span class="fl">19.0</span>],</span>
+<span id="cb39-14"><a href="#cb39-14" aria-hidden="true" tabindex="-1"></a>     <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-15"><a href="#cb39-15" aria-hidden="true" tabindex="-1"></a>     <span class="at">:size</span> [<span class="fl">1.5</span>],</span>
+<span id="cb39-16"><a href="#cb39-16" aria-hidden="true" tabindex="-1"></a>     <span class="at">:fill</span> [<span class="va">nil</span>],</span>
+<span id="cb39-17"><a href="#cb39-17" aria-hidden="true" tabindex="-1"></a>     <span class="at">:alpha</span> [<span class="va">nil</span>],</span>
+<span id="cb39-18"><a href="#cb39-18" aria-hidden="true" tabindex="-1"></a>     <span class="at">:stroke</span> [<span class="fl">0.5</span>]},</span>
+<span id="cb39-19"><a href="#cb39-19" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb39-20"><a href="#cb39-20" aria-hidden="true" tabindex="-1"></a>    <span class="at">:required</span>_aes [<span class="st">"x"</span> <span class="st">"y"</span>],</span>
+<span id="cb39-21"><a href="#cb39-21" aria-hidden="true" tabindex="-1"></a>    <span class="at">:draw</span>_panel <span class="at">:ggproto-method</span>},</span>
+<span id="cb39-22"><a href="#cb39-22" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>]},</span>
+<span id="cb39-23"><a href="#cb39-23" aria-hidden="true" tabindex="-1"></a>   <span class="at">:constructor</span> {: <span class="va">nil</span>, <span class="at">:mapping</span> {: <span class="va">nil</span>, <span class="at">:color</span> cyl}, <span class="at">:size</span> [<span class="fl">5.0</span>]},</span>
+<span id="cb39-24"><a href="#cb39-24" aria-hidden="true" tabindex="-1"></a>   <span class="at">:position</span> {<span class="at">:compute</span>_layer <span class="at">:ggproto-method</span>, <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb39-25"><a href="#cb39-25" aria-hidden="true" tabindex="-1"></a>   <span class="at">:data</span> []}],</span>
+<span id="cb39-26"><a href="#cb39-26" aria-hidden="true" tabindex="-1"></a> <span class="at">:scales</span></span>
+<span id="cb39-27"><a href="#cb39-27" aria-hidden="true" tabindex="-1"></a> {<span class="at">:scales</span></span>
+<span id="cb39-28"><a href="#cb39-28" aria-hidden="true" tabindex="-1"></a>  [{<span class="at">:range</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>}, <span class="at">:super</span> <span class="at">:ggproto-method</span>}</span>
+<span id="cb39-29"><a href="#cb39-29" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:range</span> {<span class="at">:super</span> <span class="at">:ggproto-method</span>}, <span class="at">:super</span> <span class="at">:ggproto-method</span>}],</span>
+<span id="cb39-30"><a href="#cb39-30" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb39-31"><a href="#cb39-31" aria-hidden="true" tabindex="-1"></a> <span class="at">:mapping</span> {<span class="at">:x</span> [~ cty], <span class="at">:y</span> [~ hwy]},</span>
+<span id="cb39-32"><a href="#cb39-32" aria-hidden="true" tabindex="-1"></a> <span class="at">:theme</span></span>
+<span id="cb39-33"><a href="#cb39-33" aria-hidden="true" tabindex="-1"></a> {<span class="at">:axis.ticks</span></span>
+<span id="cb39-34"><a href="#cb39-34" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-35"><a href="#cb39-35" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> [<span class="fl">0.5</span>],</span>
+<span id="cb39-36"><a href="#cb39-36" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-37"><a href="#cb39-37" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineend</span> <span class="va">nil</span>,</span>
+<span id="cb39-38"><a href="#cb39-38" aria-hidden="true" tabindex="-1"></a>   <span class="at">:arrow</span> [<span class="va">false</span>],</span>
+<span id="cb39-39"><a href="#cb39-39" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-40"><a href="#cb39-40" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.justification</span> [<span class="st">"center"</span>],</span>
+<span id="cb39-41"><a href="#cb39-41" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.grid.minor</span></span>
+<span id="cb39-42"><a href="#cb39-42" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-43"><a href="#cb39-43" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> [<span class="fl">0.05</span>],</span>
+<span id="cb39-44"><a href="#cb39-44" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-45"><a href="#cb39-45" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineend</span> <span class="va">nil</span>,</span>
+<span id="cb39-46"><a href="#cb39-46" aria-hidden="true" tabindex="-1"></a>   <span class="at">:arrow</span> [<span class="va">false</span>],</span>
+<span id="cb39-47"><a href="#cb39-47" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-48"><a href="#cb39-48" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.text.x.bottom</span> <span class="va">nil</span>,</span>
+<span id="cb39-49"><a href="#cb39-49" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.key.width</span> <span class="va">nil</span>,</span>
+<span id="cb39-50"><a href="#cb39-50" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.spacing.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-51"><a href="#cb39-51" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.text.y</span></span>
+<span id="cb39-52"><a href="#cb39-52" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-53"><a href="#cb39-53" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-54"><a href="#cb39-54" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-55"><a href="#cb39-55" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-56"><a href="#cb39-56" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-57"><a href="#cb39-57" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-58"><a href="#cb39-58" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-59"><a href="#cb39-59" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-60"><a href="#cb39-60" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-61"><a href="#cb39-61" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-62"><a href="#cb39-62" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">2.2</span> <span class="fl">0.0</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-63"><a href="#cb39-63" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.ontop</span> [<span class="va">false</span>],</span>
+<span id="cb39-64"><a href="#cb39-64" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.x.top</span> <span class="va">nil</span>,</span>
+<span id="cb39-65"><a href="#cb39-65" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.border</span></span>
+<span id="cb39-66"><a href="#cb39-66" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:fill</span> [<span class="va">nil</span>],</span>
+<span id="cb39-67"><a href="#cb39-67" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-68"><a href="#cb39-68" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-69"><a href="#cb39-69" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-70"><a href="#cb39-70" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-71"><a href="#cb39-71" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.key.height</span> <span class="va">nil</span>,</span>
+<span id="cb39-72"><a href="#cb39-72" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.caption</span></span>
+<span id="cb39-73"><a href="#cb39-73" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-74"><a href="#cb39-74" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-75"><a href="#cb39-75" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-76"><a href="#cb39-76" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-77"><a href="#cb39-77" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-78"><a href="#cb39-78" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> [<span class="fl">0.8</span>],</span>
+<span id="cb39-79"><a href="#cb39-79" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-80"><a href="#cb39-80" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-81"><a href="#cb39-81" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-82"><a href="#cb39-82" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-83"><a href="#cb39-83" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">5.5</span> <span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-84"><a href="#cb39-84" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.grid.major.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-85"><a href="#cb39-85" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.grid</span></span>
+<span id="cb39-86"><a href="#cb39-86" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-87"><a href="#cb39-87" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> <span class="va">nil</span>,</span>
+<span id="cb39-88"><a href="#cb39-88" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-89"><a href="#cb39-89" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineend</span> <span class="va">nil</span>,</span>
+<span id="cb39-90"><a href="#cb39-90" aria-hidden="true" tabindex="-1"></a>   <span class="at">:arrow</span> [<span class="va">false</span>],</span>
+<span id="cb39-91"><a href="#cb39-91" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-92"><a href="#cb39-92" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.x.bottom</span> <span class="va">nil</span>,</span>
+<span id="cb39-93"><a href="#cb39-93" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.grid.major.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-94"><a href="#cb39-94" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.tag</span></span>
+<span id="cb39-95"><a href="#cb39-95" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">0.5</span>],</span>
+<span id="cb39-96"><a href="#cb39-96" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-97"><a href="#cb39-97" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-98"><a href="#cb39-98" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-99"><a href="#cb39-99" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-100"><a href="#cb39-100" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> [<span class="fl">1.2</span>],</span>
+<span id="cb39-101"><a href="#cb39-101" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-102"><a href="#cb39-102" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-103"><a href="#cb39-103" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-104"><a href="#cb39-104" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">0.5</span>],</span>
+<span id="cb39-105"><a href="#cb39-105" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> <span class="va">nil</span>},</span>
+<span id="cb39-106"><a href="#cb39-106" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.text</span></span>
+<span id="cb39-107"><a href="#cb39-107" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-108"><a href="#cb39-108" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-109"><a href="#cb39-109" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-110"><a href="#cb39-110" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-111"><a href="#cb39-111" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-112"><a href="#cb39-112" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> [<span class="fl">0.8</span>],</span>
+<span id="cb39-113"><a href="#cb39-113" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-114"><a href="#cb39-114" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-115"><a href="#cb39-115" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-116"><a href="#cb39-116" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-117"><a href="#cb39-117" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> <span class="va">nil</span>},</span>
+<span id="cb39-118"><a href="#cb39-118" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.line.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-119"><a href="#cb39-119" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.spacing.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-120"><a href="#cb39-120" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.spacing.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-121"><a href="#cb39-121" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.text.x</span></span>
+<span id="cb39-122"><a href="#cb39-122" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-123"><a href="#cb39-123" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-124"><a href="#cb39-124" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-125"><a href="#cb39-125" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-126"><a href="#cb39-126" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-127"><a href="#cb39-127" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-128"><a href="#cb39-128" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-129"><a href="#cb39-129" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-130"><a href="#cb39-130" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-131"><a href="#cb39-131" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-132"><a href="#cb39-132" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">2.2</span> <span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-133"><a href="#cb39-133" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.line.y.left</span> <span class="va">nil</span>,</span>
+<span id="cb39-134"><a href="#cb39-134" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.caption.position</span> [<span class="st">"panel"</span>],</span>
+<span id="cb39-135"><a href="#cb39-135" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.subtitle</span></span>
+<span id="cb39-136"><a href="#cb39-136" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-137"><a href="#cb39-137" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-138"><a href="#cb39-138" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-139"><a href="#cb39-139" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-140"><a href="#cb39-140" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-141"><a href="#cb39-141" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-142"><a href="#cb39-142" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-143"><a href="#cb39-143" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-144"><a href="#cb39-144" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-145"><a href="#cb39-145" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-146"><a href="#cb39-146" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">5.5</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-147"><a href="#cb39-147" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.y.right</span> <span class="va">nil</span>,</span>
+<span id="cb39-148"><a href="#cb39-148" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.box</span> <span class="va">nil</span>,</span>
+<span id="cb39-149"><a href="#cb39-149" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.text.y</span></span>
+<span id="cb39-150"><a href="#cb39-150" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-151"><a href="#cb39-151" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-152"><a href="#cb39-152" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-153"><a href="#cb39-153" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-154"><a href="#cb39-154" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> [-<span class="fl">90.0</span>],</span>
+<span id="cb39-155"><a href="#cb39-155" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-156"><a href="#cb39-156" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-157"><a href="#cb39-157" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-158"><a href="#cb39-158" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-159"><a href="#cb39-159" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-160"><a href="#cb39-160" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> <span class="va">nil</span>},</span>
+<span id="cb39-161"><a href="#cb39-161" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.spacing</span> [<span class="fl">5.5</span>],</span>
+<span id="cb39-162"><a href="#cb39-162" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.background</span></span>
+<span id="cb39-163"><a href="#cb39-163" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:fill</span> <span class="va">nil</span>,</span>
+<span id="cb39-164"><a href="#cb39-164" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="va">nil</span>],</span>
+<span id="cb39-165"><a href="#cb39-165" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> <span class="va">nil</span>,</span>
+<span id="cb39-166"><a href="#cb39-166" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-167"><a href="#cb39-167" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-168"><a href="#cb39-168" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.switch.pad.grid</span> [<span class="fl">2.75</span>],</span>
+<span id="cb39-169"><a href="#cb39-169" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.length.y.left</span> <span class="va">nil</span>,</span>
+<span id="cb39-170"><a href="#cb39-170" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.direction</span> <span class="va">nil</span>,</span>
+<span id="cb39-171"><a href="#cb39-171" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.text</span></span>
+<span id="cb39-172"><a href="#cb39-172" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-173"><a href="#cb39-173" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-174"><a href="#cb39-174" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-175"><a href="#cb39-175" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-176"><a href="#cb39-176" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-177"><a href="#cb39-177" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> [<span class="fl">0.8</span>],</span>
+<span id="cb39-178"><a href="#cb39-178" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-179"><a href="#cb39-179" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-180"><a href="#cb39-180" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="st">"white"</span>],</span>
+<span id="cb39-181"><a href="#cb39-181" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-182"><a href="#cb39-182" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">4.4</span> <span class="fl">4.4</span> <span class="fl">4.4</span> <span class="fl">4.4</span>]},</span>
+<span id="cb39-183"><a href="#cb39-183" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.line.x.bottom</span> <span class="va">nil</span>,</span>
+<span id="cb39-184"><a href="#cb39-184" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.length.x.bottom</span> <span class="va">nil</span>,</span>
+<span id="cb39-185"><a href="#cb39-185" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.text.y.left</span> <span class="va">nil</span>,</span>
+<span id="cb39-186"><a href="#cb39-186" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.length.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-187"><a href="#cb39-187" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.margin</span> [<span class="fl">5.5</span> <span class="fl">5.5</span> <span class="fl">5.5</span> <span class="fl">5.5</span>],</span>
+<span id="cb39-188"><a href="#cb39-188" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.length</span> [<span class="fl">2.75</span>],</span>
+<span id="cb39-189"><a href="#cb39-189" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.title</span></span>
+<span id="cb39-190"><a href="#cb39-190" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-191"><a href="#cb39-191" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-192"><a href="#cb39-192" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-193"><a href="#cb39-193" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-194"><a href="#cb39-194" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-195"><a href="#cb39-195" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> [<span class="fl">1.2</span>],</span>
+<span id="cb39-196"><a href="#cb39-196" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-197"><a href="#cb39-197" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-198"><a href="#cb39-198" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-199"><a href="#cb39-199" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-200"><a href="#cb39-200" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">5.5</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-201"><a href="#cb39-201" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-202"><a href="#cb39-202" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.text.align</span> <span class="va">nil</span>,</span>
+<span id="cb39-203"><a href="#cb39-203" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.text</span></span>
+<span id="cb39-204"><a href="#cb39-204" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-205"><a href="#cb39-205" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-206"><a href="#cb39-206" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-207"><a href="#cb39-207" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-208"><a href="#cb39-208" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-209"><a href="#cb39-209" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> [<span class="fl">0.8</span>],</span>
+<span id="cb39-210"><a href="#cb39-210" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-211"><a href="#cb39-211" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-212"><a href="#cb39-212" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-213"><a href="#cb39-213" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-214"><a href="#cb39-214" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> <span class="va">nil</span>},</span>
+<span id="cb39-215"><a href="#cb39-215" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.key</span></span>
+<span id="cb39-216"><a href="#cb39-216" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:fill</span> [<span class="st">"white"</span>],</span>
+<span id="cb39-217"><a href="#cb39-217" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="va">nil</span>],</span>
+<span id="cb39-218"><a href="#cb39-218" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> <span class="va">nil</span>,</span>
+<span id="cb39-219"><a href="#cb39-219" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-220"><a href="#cb39-220" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-221"><a href="#cb39-221" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.line.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-222"><a href="#cb39-222" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.title.y.left</span> <span class="va">nil</span>,</span>
+<span id="cb39-223"><a href="#cb39-223" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.length.x.top</span> <span class="va">nil</span>,</span>
+<span id="cb39-224"><a href="#cb39-224" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.box.margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span>],</span>
+<span id="cb39-225"><a href="#cb39-225" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.title.y.right</span></span>
+<span id="cb39-226"><a href="#cb39-226" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-227"><a href="#cb39-227" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-228"><a href="#cb39-228" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-229"><a href="#cb39-229" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-230"><a href="#cb39-230" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> [-<span class="fl">90.0</span>],</span>
+<span id="cb39-231"><a href="#cb39-231" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-232"><a href="#cb39-232" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-233"><a href="#cb39-233" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-234"><a href="#cb39-234" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-235"><a href="#cb39-235" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-236"><a href="#cb39-236" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">2.75</span>]},</span>
+<span id="cb39-237"><a href="#cb39-237" aria-hidden="true" tabindex="-1"></a>  <span class="at">:title</span> <span class="va">nil</span>,</span>
+<span id="cb39-238"><a href="#cb39-238" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.clip</span> [<span class="st">"inherit"</span>],</span>
+<span id="cb39-239"><a href="#cb39-239" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.background.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-240"><a href="#cb39-240" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.text.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-241"><a href="#cb39-241" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.placement</span> [<span class="st">"inside"</span>],</span>
+<span id="cb39-242"><a href="#cb39-242" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-243"><a href="#cb39-243" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.line.y.right</span> <span class="va">nil</span>,</span>
+<span id="cb39-244"><a href="#cb39-244" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.title.x.bottom</span> <span class="va">nil</span>,</span>
+<span id="cb39-245"><a href="#cb39-245" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.key.size</span> [<span class="fl">1.2</span>],</span>
+<span id="cb39-246"><a href="#cb39-246" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.text.x.top</span></span>
+<span id="cb39-247"><a href="#cb39-247" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-248"><a href="#cb39-248" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-249"><a href="#cb39-249" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-250"><a href="#cb39-250" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-251"><a href="#cb39-251" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-252"><a href="#cb39-252" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-253"><a href="#cb39-253" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-254"><a href="#cb39-254" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-255"><a href="#cb39-255" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-256"><a href="#cb39-256" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-257"><a href="#cb39-257" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">2.2</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-258"><a href="#cb39-258" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.background</span></span>
+<span id="cb39-259"><a href="#cb39-259" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:fill</span> [<span class="st">"white"</span>],</span>
+<span id="cb39-260"><a href="#cb39-260" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="va">nil</span>],</span>
+<span id="cb39-261"><a href="#cb39-261" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> <span class="va">nil</span>,</span>
+<span id="cb39-262"><a href="#cb39-262" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-263"><a href="#cb39-263" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-264"><a href="#cb39-264" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.tag.position</span> [<span class="st">"topleft"</span>],</span>
+<span id="cb39-265"><a href="#cb39-265" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.margin</span> [<span class="fl">5.5</span> <span class="fl">5.5</span> <span class="fl">5.5</span> <span class="fl">5.5</span>],</span>
+<span id="cb39-266"><a href="#cb39-266" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.title.position</span> [<span class="st">"panel"</span>],</span>
+<span id="cb39-267"><a href="#cb39-267" aria-hidden="true" tabindex="-1"></a>  <span class="at">:line</span></span>
+<span id="cb39-268"><a href="#cb39-268" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-269"><a href="#cb39-269" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> [<span class="fl">0.5</span>],</span>
+<span id="cb39-270"><a href="#cb39-270" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-271"><a href="#cb39-271" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineend</span> [<span class="st">"butt"</span>],</span>
+<span id="cb39-272"><a href="#cb39-272" aria-hidden="true" tabindex="-1"></a>   <span class="at">:arrow</span> [<span class="va">false</span>],</span>
+<span id="cb39-273"><a href="#cb39-273" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-274"><a href="#cb39-274" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.text.y.left</span></span>
+<span id="cb39-275"><a href="#cb39-275" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-276"><a href="#cb39-276" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-277"><a href="#cb39-277" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-278"><a href="#cb39-278" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-279"><a href="#cb39-279" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> [<span class="fl">90.0</span>],</span>
+<span id="cb39-280"><a href="#cb39-280" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-281"><a href="#cb39-281" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-282"><a href="#cb39-282" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-283"><a href="#cb39-283" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-284"><a href="#cb39-284" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-285"><a href="#cb39-285" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> <span class="va">nil</span>},</span>
+<span id="cb39-286"><a href="#cb39-286" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.background</span></span>
+<span id="cb39-287"><a href="#cb39-287" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:fill</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-288"><a href="#cb39-288" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-289"><a href="#cb39-289" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> <span class="va">nil</span>,</span>
+<span id="cb39-290"><a href="#cb39-290" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-291"><a href="#cb39-291" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-292"><a href="#cb39-292" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.title.y</span></span>
+<span id="cb39-293"><a href="#cb39-293" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-294"><a href="#cb39-294" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-295"><a href="#cb39-295" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-296"><a href="#cb39-296" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-297"><a href="#cb39-297" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> [<span class="fl">90.0</span>],</span>
+<span id="cb39-298"><a href="#cb39-298" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-299"><a href="#cb39-299" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-300"><a href="#cb39-300" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-301"><a href="#cb39-301" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-302"><a href="#cb39-302" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-303"><a href="#cb39-303" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">2.75</span> <span class="fl">0.0</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-304"><a href="#cb39-304" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.box.background</span> [],</span>
+<span id="cb39-305"><a href="#cb39-305" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.grid.major</span></span>
+<span id="cb39-306"><a href="#cb39-306" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-307"><a href="#cb39-307" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> [<span class="fl">0.1</span>],</span>
+<span id="cb39-308"><a href="#cb39-308" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-309"><a href="#cb39-309" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineend</span> <span class="va">nil</span>,</span>
+<span id="cb39-310"><a href="#cb39-310" aria-hidden="true" tabindex="-1"></a>   <span class="at">:arrow</span> [<span class="va">false</span>],</span>
+<span id="cb39-311"><a href="#cb39-311" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-312"><a href="#cb39-312" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.title</span> <span class="va">nil</span>,</span>
+<span id="cb39-313"><a href="#cb39-313" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.text.y.right</span> <span class="va">nil</span>,</span>
+<span id="cb39-314"><a href="#cb39-314" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.title.align</span> <span class="va">nil</span>,</span>
+<span id="cb39-315"><a href="#cb39-315" aria-hidden="true" tabindex="-1"></a>  <span class="at">:plot.background</span></span>
+<span id="cb39-316"><a href="#cb39-316" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:fill</span> <span class="va">nil</span>,</span>
+<span id="cb39-317"><a href="#cb39-317" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="st">"white"</span>],</span>
+<span id="cb39-318"><a href="#cb39-318" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> <span class="va">nil</span>,</span>
+<span id="cb39-319"><a href="#cb39-319" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> <span class="va">nil</span>,</span>
+<span id="cb39-320"><a href="#cb39-320" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-321"><a href="#cb39-321" aria-hidden="true" tabindex="-1"></a>  <span class="at">:aspect.ratio</span> <span class="va">nil</span>,</span>
+<span id="cb39-322"><a href="#cb39-322" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.spacing</span> [<span class="fl">11.0</span>],</span>
+<span id="cb39-323"><a href="#cb39-323" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.title.x</span></span>
+<span id="cb39-324"><a href="#cb39-324" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-325"><a href="#cb39-325" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-326"><a href="#cb39-326" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-327"><a href="#cb39-327" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-328"><a href="#cb39-328" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-329"><a href="#cb39-329" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-330"><a href="#cb39-330" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-331"><a href="#cb39-331" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-332"><a href="#cb39-332" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-333"><a href="#cb39-333" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-334"><a href="#cb39-334" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">2.75</span> <span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-335"><a href="#cb39-335" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.line.x.top</span> <span class="va">nil</span>,</span>
+<span id="cb39-336"><a href="#cb39-336" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.position</span> [<span class="st">"right"</span>],</span>
+<span id="cb39-337"><a href="#cb39-337" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.length.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-338"><a href="#cb39-338" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.y.left</span> <span class="va">nil</span>,</span>
+<span id="cb39-339"><a href="#cb39-339" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.ticks.length.y.right</span> <span class="va">nil</span>,</span>
+<span id="cb39-340"><a href="#cb39-340" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.box.just</span> <span class="va">nil</span>,</span>
+<span id="cb39-341"><a href="#cb39-341" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.title</span></span>
+<span id="cb39-342"><a href="#cb39-342" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-343"><a href="#cb39-343" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-344"><a href="#cb39-344" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-345"><a href="#cb39-345" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-346"><a href="#cb39-346" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-347"><a href="#cb39-347" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-348"><a href="#cb39-348" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-349"><a href="#cb39-349" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-350"><a href="#cb39-350" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-351"><a href="#cb39-351" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-352"><a href="#cb39-352" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> <span class="va">nil</span>},</span>
+<span id="cb39-353"><a href="#cb39-353" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.text.y.right</span></span>
+<span id="cb39-354"><a href="#cb39-354" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-355"><a href="#cb39-355" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-356"><a href="#cb39-356" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-357"><a href="#cb39-357" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-358"><a href="#cb39-358" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-359"><a href="#cb39-359" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-360"><a href="#cb39-360" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-361"><a href="#cb39-361" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-362"><a href="#cb39-362" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-363"><a href="#cb39-363" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-364"><a href="#cb39-364" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">2.2</span>]},</span>
+<span id="cb39-365"><a href="#cb39-365" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.text.x.bottom</span> <span class="va">nil</span>,</span>
+<span id="cb39-366"><a href="#cb39-366" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.background.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-367"><a href="#cb39-367" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.line</span> [],</span>
+<span id="cb39-368"><a href="#cb39-368" aria-hidden="true" tabindex="-1"></a>  <span class="at">:rect</span></span>
+<span id="cb39-369"><a href="#cb39-369" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:fill</span> [<span class="st">"white"</span>],</span>
+<span id="cb39-370"><a href="#cb39-370" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-371"><a href="#cb39-371" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linewidth</span> [<span class="fl">0.5</span>],</span>
+<span id="cb39-372"><a href="#cb39-372" aria-hidden="true" tabindex="-1"></a>   <span class="at">:linetype</span> [<span class="fl">1.0</span>],</span>
+<span id="cb39-373"><a href="#cb39-373" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>]},</span>
+<span id="cb39-374"><a href="#cb39-374" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.box.spacing</span> [<span class="fl">11.0</span>],</span>
+<span id="cb39-375"><a href="#cb39-375" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.grid.minor.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-376"><a href="#cb39-376" aria-hidden="true" tabindex="-1"></a>  <span class="at">:panel.grid.minor.x</span> <span class="va">nil</span>,</span>
+<span id="cb39-377"><a href="#cb39-377" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.switch.pad.wrap</span> [<span class="fl">2.75</span>],</span>
+<span id="cb39-378"><a href="#cb39-378" aria-hidden="true" tabindex="-1"></a>  <span class="at">:axis.title.x.top</span></span>
+<span id="cb39-379"><a href="#cb39-379" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> <span class="va">nil</span>,</span>
+<span id="cb39-380"><a href="#cb39-380" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> <span class="va">nil</span>,</span>
+<span id="cb39-381"><a href="#cb39-381" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-382"><a href="#cb39-382" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> <span class="va">nil</span>,</span>
+<span id="cb39-383"><a href="#cb39-383" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> <span class="va">nil</span>,</span>
+<span id="cb39-384"><a href="#cb39-384" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> <span class="va">nil</span>,</span>
+<span id="cb39-385"><a href="#cb39-385" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> <span class="va">nil</span>,</span>
+<span id="cb39-386"><a href="#cb39-386" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> <span class="va">nil</span>,</span>
+<span id="cb39-387"><a href="#cb39-387" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> <span class="va">nil</span>,</span>
+<span id="cb39-388"><a href="#cb39-388" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-389"><a href="#cb39-389" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">2.75</span> <span class="fl">0.0</span>]},</span>
+<span id="cb39-390"><a href="#cb39-390" aria-hidden="true" tabindex="-1"></a>  <span class="at">:strip.text.x.top</span> <span class="va">nil</span>,</span>
+<span id="cb39-391"><a href="#cb39-391" aria-hidden="true" tabindex="-1"></a>  <span class="at">:legend.spacing.y</span> <span class="va">nil</span>,</span>
+<span id="cb39-392"><a href="#cb39-392" aria-hidden="true" tabindex="-1"></a>  <span class="at">:text</span></span>
+<span id="cb39-393"><a href="#cb39-393" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:hjust</span> [<span class="fl">0.5</span>],</span>
+<span id="cb39-394"><a href="#cb39-394" aria-hidden="true" tabindex="-1"></a>   <span class="at">:family</span> [<span class="st">""</span>],</span>
+<span id="cb39-395"><a href="#cb39-395" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.blank</span> [<span class="va">true</span>],</span>
+<span id="cb39-396"><a href="#cb39-396" aria-hidden="true" tabindex="-1"></a>   <span class="at">:debug</span> [<span class="va">false</span>],</span>
+<span id="cb39-397"><a href="#cb39-397" aria-hidden="true" tabindex="-1"></a>   <span class="at">:angle</span> [<span class="fl">0.0</span>],</span>
+<span id="cb39-398"><a href="#cb39-398" aria-hidden="true" tabindex="-1"></a>   <span class="at">:size</span> [<span class="fl">11.0</span>],</span>
+<span id="cb39-399"><a href="#cb39-399" aria-hidden="true" tabindex="-1"></a>   <span class="at">:face</span> [<span class="st">"plain"</span>],</span>
+<span id="cb39-400"><a href="#cb39-400" aria-hidden="true" tabindex="-1"></a>   <span class="at">:lineheight</span> [<span class="fl">0.9</span>],</span>
+<span id="cb39-401"><a href="#cb39-401" aria-hidden="true" tabindex="-1"></a>   <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb39-402"><a href="#cb39-402" aria-hidden="true" tabindex="-1"></a>   <span class="at">:vjust</span> [<span class="fl">0.5</span>],</span>
+<span id="cb39-403"><a href="#cb39-403" aria-hidden="true" tabindex="-1"></a>   <span class="at">:margin</span> [<span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span> <span class="fl">0.0</span>]}},</span>
+<span id="cb39-404"><a href="#cb39-404" aria-hidden="true" tabindex="-1"></a> <span class="at">:coordinates</span></span>
+<span id="cb39-405"><a href="#cb39-405" aria-hidden="true" tabindex="-1"></a> {<span class="at">:expand</span> [<span class="va">true</span>],</span>
+<span id="cb39-406"><a href="#cb39-406" aria-hidden="true" tabindex="-1"></a>  <span class="at">:clip</span> [<span class="st">"on"</span>],</span>
+<span id="cb39-407"><a href="#cb39-407" aria-hidden="true" tabindex="-1"></a>  <span class="at">:limits</span> {<span class="at">:x</span> <span class="va">nil</span>, <span class="at">:y</span> <span class="va">nil</span>},</span>
+<span id="cb39-408"><a href="#cb39-408" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb39-409"><a href="#cb39-409" aria-hidden="true" tabindex="-1"></a>  <span class="at">:default</span> [<span class="va">true</span>]},</span>
+<span id="cb39-410"><a href="#cb39-410" aria-hidden="true" tabindex="-1"></a> <span class="at">:facet</span> {<span class="at">:shrink</span> [<span class="va">true</span>], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb39-411"><a href="#cb39-411" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"cty"</span>], <span class="at">:y</span> [<span class="st">"hwy"</span>], <span class="at">:colour</span> [<span class="st">"cyl"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb40"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +</span></span>
+<span id="cb40-2"><a href="#cb40-2" aria-hidden="true" tabindex="-1"></a><span class="st">      geom_histogram(aes(y=..density..)) +  # scale histogram y</span></span>
+<span id="cb40-3"><a href="#cb40-3" aria-hidden="true" tabindex="-1"></a><span class="st">      geom_density(col = 'red', size=5))"</span></span>
+<span id="cb40-4"><a href="#cb40-4" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb40-5"><a href="#cb40-5" aria-hidden="true" tabindex="-1"></a>    plotting/plot-&gt;buffered-image)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<img src="ggplot_files/5.png" style="width:100%;">
+<div class="sourceClojure">
+<div class="sourceCode" id="cb41"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> <span class="st">"(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +</span></span>
+<span id="cb41-2"><a href="#cb41-2" aria-hidden="true" tabindex="-1"></a><span class="st">      geom_histogram(aes(y=..density..)) +  # scale histogram y</span></span>
+<span id="cb41-3"><a href="#cb41-3" aria-hidden="true" tabindex="-1"></a><span class="st">      geom_density(col = 'red'))"</span></span>
+<span id="cb41-4"><a href="#cb41-4" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb41-5"><a href="#cb41-5" aria-hidden="true" tabindex="-1"></a>    ggplot-&gt;clj</span>
+<span id="cb41-6"><a href="#cb41-6" aria-hidden="true" tabindex="-1"></a>    (<span class="kw">dissoc</span> <span class="at">:data</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="printedClojure">
+<div class="sourceCode" id="cb42"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a>{<span class="at">:layers</span></span>
+<span id="cb42-2"><a href="#cb42-2" aria-hidden="true" tabindex="-1"></a> [{<span class="at">:aes</span>_params [],</span>
+<span id="cb42-3"><a href="#cb42-3" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span></span>
+<span id="cb42-4"><a href="#cb42-4" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:default</span>_aes</span>
+<span id="cb42-5"><a href="#cb42-5" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:x</span> [~ [after_stat <span class="kw">count</span>]],</span>
+<span id="cb42-6"><a href="#cb42-6" aria-hidden="true" tabindex="-1"></a>     <span class="at">:y</span> [~ [after_stat <span class="kw">count</span>]],</span>
+<span id="cb42-7"><a href="#cb42-7" aria-hidden="true" tabindex="-1"></a>     <span class="at">:weight</span> [<span class="fl">1.0</span>]},</span>
+<span id="cb42-8"><a href="#cb42-8" aria-hidden="true" tabindex="-1"></a>    <span class="at">:extra</span>_params [<span class="st">"na.rm"</span> <span class="st">"orientation"</span>],</span>
+<span id="cb42-9"><a href="#cb42-9" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-10"><a href="#cb42-10" aria-hidden="true" tabindex="-1"></a>    <span class="at">:compute</span>_group <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-11"><a href="#cb42-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">:required</span>_aes [<span class="st">"x|y"</span>],</span>
+<span id="cb42-12"><a href="#cb42-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">:setup</span>_params <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-13"><a href="#cb42-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">:dropped</span>_aes [<span class="st">"weight"</span>]},</span>
+<span id="cb42-14"><a href="#cb42-14" aria-hidden="true" tabindex="-1"></a>   <span class="at">:show.legend</span> [<span class="va">nil</span>],</span>
+<span id="cb42-15"><a href="#cb42-15" aria-hidden="true" tabindex="-1"></a>   <span class="at">:mapping</span> {<span class="at">:y</span> [~ ..density..]},</span>
+<span id="cb42-16"><a href="#cb42-16" aria-hidden="true" tabindex="-1"></a>   <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-17"><a href="#cb42-17" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.aes</span> [<span class="va">true</span>],</span>
+<span id="cb42-18"><a href="#cb42-18" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>], <span class="at">:orientation</span> [<span class="va">nil</span>]},</span>
+<span id="cb42-19"><a href="#cb42-19" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span></span>
+<span id="cb42-20"><a href="#cb42-20" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:setup</span>_data <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-21"><a href="#cb42-21" aria-hidden="true" tabindex="-1"></a>    <span class="at">:rename</span>_size [<span class="va">true</span>],</span>
+<span id="cb42-22"><a href="#cb42-22" aria-hidden="true" tabindex="-1"></a>    <span class="at">:non</span>_missing_aes [<span class="st">"xmin"</span> <span class="st">"xmax"</span> <span class="st">"ymin"</span> <span class="st">"ymax"</span>],</span>
+<span id="cb42-23"><a href="#cb42-23" aria-hidden="true" tabindex="-1"></a>    <span class="at">:extra</span>_params [<span class="st">"just"</span> <span class="st">"na.rm"</span> <span class="st">"orientation"</span>],</span>
+<span id="cb42-24"><a href="#cb42-24" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-25"><a href="#cb42-25" aria-hidden="true" tabindex="-1"></a>    <span class="at">:required</span>_aes [<span class="st">"x"</span> <span class="st">"y"</span>],</span>
+<span id="cb42-26"><a href="#cb42-26" aria-hidden="true" tabindex="-1"></a>    <span class="at">:draw</span>_panel <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-27"><a href="#cb42-27" aria-hidden="true" tabindex="-1"></a>    <span class="at">:setup</span>_params <span class="at">:ggproto-method</span>},</span>
+<span id="cb42-28"><a href="#cb42-28" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span>_params</span>
+<span id="cb42-29"><a href="#cb42-29" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:binwidth</span> <span class="va">nil</span>,</span>
+<span id="cb42-30"><a href="#cb42-30" aria-hidden="true" tabindex="-1"></a>    <span class="at">:bins</span> <span class="va">nil</span>,</span>
+<span id="cb42-31"><a href="#cb42-31" aria-hidden="true" tabindex="-1"></a>    <span class="at">:na.rm</span> [<span class="va">false</span>],</span>
+<span id="cb42-32"><a href="#cb42-32" aria-hidden="true" tabindex="-1"></a>    <span class="at">:orientation</span> [<span class="va">nil</span>],</span>
+<span id="cb42-33"><a href="#cb42-33" aria-hidden="true" tabindex="-1"></a>    <span class="at">:pad</span> [<span class="va">false</span>]},</span>
+<span id="cb42-34"><a href="#cb42-34" aria-hidden="true" tabindex="-1"></a>   <span class="at">:constructor</span> [geom_histogram {<span class="dv">0</span> aes, <span class="at">:y</span> ..density..}],</span>
+<span id="cb42-35"><a href="#cb42-35" aria-hidden="true" tabindex="-1"></a>   <span class="at">:position</span></span>
+<span id="cb42-36"><a href="#cb42-36" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:setup</span>_data <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-37"><a href="#cb42-37" aria-hidden="true" tabindex="-1"></a>    <span class="at">:type</span> <span class="va">nil</span>,</span>
+<span id="cb42-38"><a href="#cb42-38" aria-hidden="true" tabindex="-1"></a>    <span class="at">:compute</span>_panel <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-39"><a href="#cb42-39" aria-hidden="true" tabindex="-1"></a>    <span class="at">:vjust</span> [<span class="fl">1.0</span>],</span>
+<span id="cb42-40"><a href="#cb42-40" aria-hidden="true" tabindex="-1"></a>    <span class="at">:reverse</span> [<span class="va">false</span>],</span>
+<span id="cb42-41"><a href="#cb42-41" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-42"><a href="#cb42-42" aria-hidden="true" tabindex="-1"></a>    <span class="at">:fill</span> [<span class="va">false</span>],</span>
+<span id="cb42-43"><a href="#cb42-43" aria-hidden="true" tabindex="-1"></a>    <span class="at">:setup</span>_params <span class="at">:ggproto-method</span>},</span>
+<span id="cb42-44"><a href="#cb42-44" aria-hidden="true" tabindex="-1"></a>   <span class="at">:data</span> []}</span>
+<span id="cb42-45"><a href="#cb42-45" aria-hidden="true" tabindex="-1"></a>  {<span class="at">:aes</span>_params {<span class="at">:colour</span> [<span class="st">"red"</span>]},</span>
+<span id="cb42-46"><a href="#cb42-46" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span></span>
+<span id="cb42-47"><a href="#cb42-47" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:default</span>_aes</span>
+<span id="cb42-48"><a href="#cb42-48" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:x</span> [~ [after_stat density]],</span>
+<span id="cb42-49"><a href="#cb42-49" aria-hidden="true" tabindex="-1"></a>     <span class="at">:y</span> [~ [after_stat density]],</span>
+<span id="cb42-50"><a href="#cb42-50" aria-hidden="true" tabindex="-1"></a>     <span class="at">:fill</span> [<span class="va">nil</span>],</span>
+<span id="cb42-51"><a href="#cb42-51" aria-hidden="true" tabindex="-1"></a>     <span class="at">:weight</span> <span class="va">nil</span>},</span>
+<span id="cb42-52"><a href="#cb42-52" aria-hidden="true" tabindex="-1"></a>    <span class="at">:extra</span>_params [<span class="st">"na.rm"</span> <span class="st">"orientation"</span>],</span>
+<span id="cb42-53"><a href="#cb42-53" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-54"><a href="#cb42-54" aria-hidden="true" tabindex="-1"></a>    <span class="at">:compute</span>_group <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-55"><a href="#cb42-55" aria-hidden="true" tabindex="-1"></a>    <span class="at">:required</span>_aes [<span class="st">"x|y"</span>],</span>
+<span id="cb42-56"><a href="#cb42-56" aria-hidden="true" tabindex="-1"></a>    <span class="at">:setup</span>_params <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-57"><a href="#cb42-57" aria-hidden="true" tabindex="-1"></a>    <span class="at">:dropped</span>_aes [<span class="st">"weight"</span>]},</span>
+<span id="cb42-58"><a href="#cb42-58" aria-hidden="true" tabindex="-1"></a>   <span class="at">:show.legend</span> [<span class="va">nil</span>],</span>
+<span id="cb42-59"><a href="#cb42-59" aria-hidden="true" tabindex="-1"></a>   <span class="at">:mapping</span> <span class="va">nil</span>,</span>
+<span id="cb42-60"><a href="#cb42-60" aria-hidden="true" tabindex="-1"></a>   <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-61"><a href="#cb42-61" aria-hidden="true" tabindex="-1"></a>   <span class="at">:inherit.aes</span> [<span class="va">true</span>],</span>
+<span id="cb42-62"><a href="#cb42-62" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span>_params</span>
+<span id="cb42-63"><a href="#cb42-63" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:na.rm</span> [<span class="va">false</span>], <span class="at">:orientation</span> [<span class="va">nil</span>], <span class="at">:outline.type</span> [<span class="st">"upper"</span>]},</span>
+<span id="cb42-64"><a href="#cb42-64" aria-hidden="true" tabindex="-1"></a>   <span class="at">:geom</span></span>
+<span id="cb42-65"><a href="#cb42-65" aria-hidden="true" tabindex="-1"></a>   {<span class="at">:default</span>_aes</span>
+<span id="cb42-66"><a href="#cb42-66" aria-hidden="true" tabindex="-1"></a>    {<span class="at">:fill</span> [<span class="va">nil</span>],</span>
+<span id="cb42-67"><a href="#cb42-67" aria-hidden="true" tabindex="-1"></a>     <span class="at">:weight</span> [<span class="fl">1.0</span>],</span>
+<span id="cb42-68"><a href="#cb42-68" aria-hidden="true" tabindex="-1"></a>     <span class="at">:colour</span> [<span class="st">"black"</span>],</span>
+<span id="cb42-69"><a href="#cb42-69" aria-hidden="true" tabindex="-1"></a>     <span class="at">:alpha</span> [<span class="va">nil</span>],</span>
+<span id="cb42-70"><a href="#cb42-70" aria-hidden="true" tabindex="-1"></a>     <span class="at">:linewidth</span> [<span class="fl">0.5</span>],</span>
+<span id="cb42-71"><a href="#cb42-71" aria-hidden="true" tabindex="-1"></a>     <span class="at">:linetype</span> [<span class="fl">1.0</span>]},</span>
+<span id="cb42-72"><a href="#cb42-72" aria-hidden="true" tabindex="-1"></a>    <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb42-73"><a href="#cb42-73" aria-hidden="true" tabindex="-1"></a>   <span class="at">:stat</span>_params {<span class="at">:na.rm</span> [<span class="va">false</span>], <span class="at">:orientation</span> [<span class="va">nil</span>]},</span>
+<span id="cb42-74"><a href="#cb42-74" aria-hidden="true" tabindex="-1"></a>   <span class="at">:constructor</span> {: <span class="va">nil</span>, <span class="at">:col</span> [<span class="st">"red"</span>]},</span>
+<span id="cb42-75"><a href="#cb42-75" aria-hidden="true" tabindex="-1"></a>   <span class="at">:position</span> {<span class="at">:compute</span>_layer <span class="at">:ggproto-method</span>, <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb42-76"><a href="#cb42-76" aria-hidden="true" tabindex="-1"></a>   <span class="at">:data</span> []}],</span>
+<span id="cb42-77"><a href="#cb42-77" aria-hidden="true" tabindex="-1"></a> <span class="at">:scales</span> {<span class="at">:scales</span> [], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb42-78"><a href="#cb42-78" aria-hidden="true" tabindex="-1"></a> <span class="at">:mapping</span> {<span class="at">:x</span> [~ x]},</span>
+<span id="cb42-79"><a href="#cb42-79" aria-hidden="true" tabindex="-1"></a> <span class="at">:theme</span> [],</span>
+<span id="cb42-80"><a href="#cb42-80" aria-hidden="true" tabindex="-1"></a> <span class="at">:coordinates</span></span>
+<span id="cb42-81"><a href="#cb42-81" aria-hidden="true" tabindex="-1"></a> {<span class="at">:expand</span> [<span class="va">true</span>],</span>
+<span id="cb42-82"><a href="#cb42-82" aria-hidden="true" tabindex="-1"></a>  <span class="at">:clip</span> [<span class="st">"on"</span>],</span>
+<span id="cb42-83"><a href="#cb42-83" aria-hidden="true" tabindex="-1"></a>  <span class="at">:limits</span> {<span class="at">:x</span> <span class="va">nil</span>, <span class="at">:y</span> <span class="va">nil</span>},</span>
+<span id="cb42-84"><a href="#cb42-84" aria-hidden="true" tabindex="-1"></a>  <span class="at">:super</span> <span class="at">:ggproto-method</span>,</span>
+<span id="cb42-85"><a href="#cb42-85" aria-hidden="true" tabindex="-1"></a>  <span class="at">:default</span> [<span class="va">true</span>]},</span>
+<span id="cb42-86"><a href="#cb42-86" aria-hidden="true" tabindex="-1"></a> <span class="at">:facet</span> {<span class="at">:shrink</span> [<span class="va">true</span>], <span class="at">:super</span> <span class="at">:ggproto-method</span>},</span>
+<span id="cb42-87"><a href="#cb42-87" aria-hidden="true" tabindex="-1"></a> <span class="at">:labels</span> {<span class="at">:x</span> [<span class="st">"x"</span>], <span class="at">:y</span> [<span class="st">"density"</span>], <span class="at">:fill</span> [<span class="st">"fill"</span>], <span class="at">:weight</span> [<span class="st">"weight"</span>]}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div style="background-color:grey;height:2px;width:100%;"></div>
 <div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/noj/notebooks/ggplot.clj">projects/noj/notebooks/ggplot.clj</a></small></small></pre></div>
