@@ -30,7 +30,6 @@
   (comp kindly/hide-code kind/md))
 
 (md "## Init (base example)")
-^:note-to-test/skip
 
 (wl/eval '(Dot [1 2 3] [4 5 6]))
 
