@@ -55,7 +55,7 @@
                          "projects/math/wolframite/index.html"
                          "projects/math/wolframite/"
                          nil
-                         [:math :wolframite :interop :draft]]
+                         [:math :wolframite :interop]]
                         ["2024-02-06"
                          "Exploring ggplot - DRAFT"
                          "projects/noj/ggplot.html"
@@ -69,21 +69,29 @@
                          nil
                          [:geography :gis :tablecloth :datavis :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
-                              [date
-                               (kind/hiccup
-                                [:div {:style {:width "300px"}}
-                                 [:p [:a {:href url}
-                                      title]]
-                                 [:p [:a {:style {:font-family "monospace"
-                                                  :background-color "#fdf6e3"}
-                                          :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
-                                                     source-path)}
-                                      "(source)"]]])
-                               (when youtube-id
-                                 (kind/video {:youtube-id youtube-id}))
-                               (->> tags
-                                    (map name)
-                                    (str/join ", "))])))
+                              (let [draft (some #{:draft} tags)]
+                                (mapv (if draft
+                                        (fn [v]
+                                          (kind/hiccup
+                                           [:div {:style {:opacity 0.3}}
+                                            v]))
+                                        identity)
+                                      [(str date
+                                            (when draft " (draft)"))
+                                       (kind/hiccup
+                                        [:div {:style {:width "300px"}}
+                                         [:p [:a {:href url}
+                                              title]]
+                                         [:p [:a {:style {:font-family "monospace"
+                                                          :background-color "#fdf6e3"}
+                                                  :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
+                                                             source-path)}
+                                              "(source)"]]])
+                                       (when youtube-id
+                                         (kind/video {:youtube-id youtube-id}))
+                                       (->> tags
+                                            (map name)
+                                            (str/join ", "))])))))
      :column-names ["date"
                     "title"
                     "video"
