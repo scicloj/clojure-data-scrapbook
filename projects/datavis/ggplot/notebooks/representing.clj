@@ -1,6 +1,6 @@
 (load-file "../../../header.edn")
 
-;; # Using ggplot Clojure using ClojisR
+;; # Representing ggplot plots as Clojure data
 
 ;; ## Setup
 
