@@ -58,8 +58,8 @@
                          [:math :wolframite :interop]]
                         ["2024-02-06"
                          "Exploring ggplot - DRAFT"
-                         "projects/noj/ggplot.html"
-                         "projects/noj/notebooks/ggplot.clj"
+                         "projects/datavis/ggplot/index.html"
+                         "projects/datavis/ggplot/"
                          nil
                          [:noj :r :clojisr :interop :ggplot :datavis :draft]]
                         ["2024-02-07"
