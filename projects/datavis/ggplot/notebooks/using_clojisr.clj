@@ -62,4 +62,19 @@
 ;; We may further use ClojisR's code generation
 ;; with Clojure data.
 
-;; Let us read the same `mpg` dataset. We have it in the metamorph.ml package.
+;; Let us read the same `mpg` dataset. At the `scicloj.metamorph.ml.toydata.ggplot` namespace of [metamorph.ml](https://github.com/scicloj/metamorph.ml), we have Clojure copies of ggplot's toy dataset, represented as [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) datasets.
+
+(require '[scicloj.metamorph.ml.toydata.ggplot
+           :as toydata.ggplot])
+
+;; Now we can do the same, but pasing a Clojure dataset:
+(-> (r/r+ (gg/ggplot toydata.ggplot/mpg
+                     (gg/aes :x 'cty
+                             :y 'hwy
+                             :color '(factor cyl)))
+          (gg/geom_point)
+          (gg/stat_smooth :method "lm")
+          (gg/facet_wrap '(tilde . cyl)))
+    r
+    plotting/plot->svg
+    kind/html)
