@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Exploring ggplot - 3&nbsp; Using ggplot Clojure using ClojisR</title>
+<title>Exploring ggplot - 2&nbsp; Using ggplot Clojure using ClojisR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -116,7 +116,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./using_clojisr.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Using ggplot Clojure using ClojisR</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./using_clojisr.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Using ggplot Clojure using ClojisR</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -149,20 +149,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Preface</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./using_clojisr.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Using ggplot Clojure using ClojisR</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Using ggplot Clojure using ClojisR</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./repesenting.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Representing ggplot plots as Clojure data</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Representing ggplot plots as Clojure data</span></span></a>
   </div>
 </li>
     </ul>
@@ -175,10 +169,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#setup" id="toc-setup" class="nav-link active" data-scroll-target="#setup"><span class="header-section-number">3.1</span> Setup</a></li>
-  <li><a href="#plotting-by-calling-r-code" id="toc-plotting-by-calling-r-code" class="nav-link" data-scroll-target="#plotting-by-calling-r-code"><span class="header-section-number">3.2</span> Plotting by calling R code</a></li>
-  <li><a href="#plotting-by-calling-generated-r-code" id="toc-plotting-by-calling-generated-r-code" class="nav-link" data-scroll-target="#plotting-by-calling-generated-r-code"><span class="header-section-number">3.3</span> Plotting by calling generated R code</a></li>
-  <li><a href="#plotting-by-calling-generated-r-code-with-clojure-data" id="toc-plotting-by-calling-generated-r-code-with-clojure-data" class="nav-link" data-scroll-target="#plotting-by-calling-generated-r-code-with-clojure-data"><span class="header-section-number">3.4</span> Plotting by calling generated R code with Clojure data</a></li>
+  <li><a href="#setup" id="toc-setup" class="nav-link active" data-scroll-target="#setup"><span class="header-section-number">2.1</span> Setup</a></li>
+  <li><a href="#plotting-by-calling-r-code" id="toc-plotting-by-calling-r-code" class="nav-link" data-scroll-target="#plotting-by-calling-r-code"><span class="header-section-number">2.2</span> Plotting by calling R code</a></li>
+  <li><a href="#plotting-by-calling-generated-r-code" id="toc-plotting-by-calling-generated-r-code" class="nav-link" data-scroll-target="#plotting-by-calling-generated-r-code"><span class="header-section-number">2.3</span> Plotting by calling generated R code</a></li>
+  <li><a href="#plotting-by-calling-generated-r-code-with-clojure-data" id="toc-plotting-by-calling-generated-r-code-with-clojure-data" class="nav-link" data-scroll-target="#plotting-by-calling-generated-r-code-with-clojure-data"><span class="header-section-number">2.4</span> Plotting by calling generated R code with Clojure data</a></li>
   </ul>
 </nav>
     </div>
@@ -187,7 +181,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Using ggplot Clojure using ClojisR</span></h1>
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Using ggplot Clojure using ClojisR</span></h1>
 </div>
 
 
@@ -213,8 +207,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="using_clojisr_files/md-default1.js" type="text/javascript"></script>
 <script src="using_clojisr_files/md-default2.js" type="text/javascript"></script>
 <a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40"></a><table><tbody><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td></tr></tbody></table>
-<section id="setup" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="setup"><span class="header-section-number">3.1</span> Setup</h2>
+<section id="setup" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="setup"><span class="header-section-number">2.1</span> Setup</h2>
 <p>We will use <a href="https://scicloj.github.io/clojisr/">ClojisR</a> to call R from Clojure.</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb1"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">ns</span> using-clojisr</span>
@@ -224,8 +218,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>            [tablecloth.api <span class="at">:as</span> tc]))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="plotting-by-calling-r-code" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="plotting-by-calling-r-code"><span class="header-section-number">3.2</span> Plotting by calling R code</h2>
+<section id="plotting-by-calling-r-code" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="plotting-by-calling-r-code"><span class="header-section-number">2.2</span> Plotting by calling R code</h2>
 <p>Let us load ggplot2 at the R runtime:</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb2"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>(r/library <span class="st">"ggplot2"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -1576,9 +1570,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 <img src="using_clojisr_files/0.png" style="width:100%;">
 </section>
-<section id="plotting-by-calling-generated-r-code" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="plotting-by-calling-generated-r-code"><span class="header-section-number">3.3</span> Plotting by calling generated R code</h2>
-<p>We may also plot by <a href="https://scicloj.github.io/clojisr/doc/clojisr/v1/codegen-test/">generating</a> the R code from a Clojure form. Let us require ggplot as a Clojure namespace.</p>
+<section id="plotting-by-calling-generated-r-code" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="plotting-by-calling-generated-r-code"><span class="header-section-number">2.3</span> Plotting by calling generated R code</h2>
+<p>We may also plot by <a href="https://scicloj.github.io/clojisr/doc/clojisr/v1/codegen-test/">generating</a> the R code from a Clojure form.</p>
+<p>Let us require ggplot as a Clojure namespace.</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb8"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>(r/require-r '[ggplot2 <span class="at">:as</span> gg])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
@@ -2594,9 +2589,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </svg>
 
 </section>
-<section id="plotting-by-calling-generated-r-code-with-clojure-data" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="plotting-by-calling-generated-r-code-with-clojure-data"><span class="header-section-number">3.4</span> Plotting by calling generated R code with Clojure data</h2>
-<p>We may further use ClojisR’s code generation with Clojure data. Let us read the same <code>mpg</code> dataset. At the <code>scicloj.metamorph.ml.toydata.ggplot</code> namespace of <a href="https://github.com/scicloj/metamorph.ml">metamorph.ml</a>, we have Clojure copies of ggplot’s toy dataset, represented as <a href="https://github.com/techascent/tech.ml.dataset">tech.ml.dataset</a> datasets.</p>
+<section id="plotting-by-calling-generated-r-code-with-clojure-data" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="plotting-by-calling-generated-r-code-with-clojure-data"><span class="header-section-number">2.4</span> Plotting by calling generated R code with Clojure data</h2>
+<p>We may further use ClojisR’s code generation with Clojure data.</p>
+<p>Let us read the same <code>mpg</code> dataset. At the <code>scicloj.metamorph.ml.toydata.ggplot</code> namespace of <a href="https://github.com/scicloj/metamorph.ml">metamorph.ml</a>, we have Clojure copies of ggplot’s toy dataset, represented as <a href="https://github.com/techascent/tech.ml.dataset">tech.ml.dataset</a> datasets.</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb11"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">require</span> '[scicloj.metamorph.ml.toydata.ggplot</span>
 <span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>           <span class="at">:as</span> toydata.ggplot])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -4010,8 +4006,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./repesenting.html" class="pagination-link" aria-label="<span class='chapter-number'>4</span>&nbsp; <span class='chapter-title'>Representing ggplot plots as Clojure data</span>">
-        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Representing ggplot plots as Clojure data</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./repesenting.html" class="pagination-link" aria-label="<span class='chapter-number'>3</span>&nbsp; <span class='chapter-title'>Representing ggplot plots as Clojure data</span>">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Representing ggplot plots as Clojure data</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -21,7 +21,9 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 # Representing ggplot plots as Clojure data
 
+
 ## Setup
+
 We will use [ClojisR](https://scicloj.github.io/clojisr/) to call R from Clojure.
 
 
@@ -82,6 +84,7 @@ nil
 
 
 ## An example plot
+
 Here is how we may generate and display a plot:
 
 
@@ -1099,6 +1102,7 @@ Here is how we may generate and display a plot:
 
 
 We may also [generate](https://scicloj.github.io/clojisr/doc/clojisr/v1/codegen-test/) the R code from a Clojure form and pass Clojure data to R, but for now, we are simply using R code using an R dataset.
+
 We are using the `mpg` dataset, which is part of the `ggplot` package.
 
 
@@ -1142,6 +1146,7 @@ _unnamed [234 11]:
 
 
 ## Representing plots as Clojure data
+
 A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley/ggplot2-book/introducing-ggproto) objects. We recursively unwrap this structure and convert it to Clojure.
 
 
@@ -1204,6 +1209,7 @@ A ggplot object is an R list of [ggproto](https://bookdown.dongzhuoer.com/hadley
 
 
 In the conversion, we avoid some big parts of the structure, e.g., the `"plot_env"` member. We also do no report the toplevel `"data"` member, which is simply the dataset.
+
 For example:
 
 
@@ -1264,6 +1270,7 @@ For example:
 
 
 ## Exlploring a few plots
+
 Let us explore and compare a few plots this way:
 
 
@@ -1859,7 +1866,7 @@ Let us explore and compare a few plots this way:
    :ncol nil,
    :facets {:cyl [~ cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x563a2d826c90&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x55b95a21db80&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
   :shrink [true],
   :super :ggproto-method},
  :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
@@ -1888,7 +1895,7 @@ Let us explore and compare a few plots this way:
    :ncol nil,
    :facets {:cyl [~cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x563a2d826c90&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x55b95a21db80&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
 
 ```
 :::
@@ -2077,15 +2084,15 @@ Let us explore and compare a few plots this way:
     :trans
     {:name ["identity"],
      :transform
-     "function (x) \nx\n&lt;bytecode: 0x563a29cf6140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n&lt;bytecode: 0x55b9566f0140&gt;\n&lt;environment: namespace:base&gt;\n",
      :inverse
-     "function (x) \nx\n&lt;bytecode: 0x563a29cf6140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n&lt;bytecode: 0x55b9566f0140&gt;\n&lt;environment: namespace:base&gt;\n",
      :breaks
-     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x563a2dc555a8&gt;\n&lt;environment: 0x563a37fcae88&gt;\n",
+     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x55b95a64c498&gt;\n&lt;environment: 0x55b9649d1458&gt;\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x563a2dc58f88&gt;\n&lt;environment: 0x563a37fcad00&gt;\n",
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x55b95a64fe78&gt;\n&lt;environment: 0x55b9649d12d0&gt;\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x563a2dc62300&gt;\n&lt;environment: 0x563a37fcabb0&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x55b95a6591f0&gt;\n&lt;environment: 0x55b9649d1180&gt;\n",
      :domain [##-Inf ##Inf]},
     :oob :ggproto-method,
     :position ["left"],
@@ -2214,15 +2221,15 @@ Let us explore and compare a few plots this way:
     :trans
     {:name ["log-10"],
      :transform
-     "function (x) \nlog(x, base)\n&lt;bytecode: 0x563a32799c88&gt;\n&lt;environment: 0x563a3279a318&gt;\n",
+     "function (x) \nlog(x, base)\n&lt;bytecode: 0x55b95f192f70&gt;\n&lt;environment: 0x55b95f193750&gt;\n",
      :inverse
-     "function (x) \nbase^x\n&lt;bytecode: 0x563a32799dd8&gt;\n&lt;environment: 0x563a3279a318&gt;\n",
+     "function (x) \nbase^x\n&lt;bytecode: 0x55b95f193130&gt;\n&lt;environment: 0x55b95f193750&gt;\n",
      :breaks
-     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x563a32792388&gt;\n&lt;environment: 0x563a3278d628&gt;\n",
+     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x55b95f18b830&gt;\n&lt;environment: 0x55b95f18ae80&gt;\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x563a2dc58f88&gt;\n&lt;environment: 0x563a3278d9e0&gt;\n",
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x55b95a64fe78&gt;\n&lt;environment: 0x55b95f186e88&gt;\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x563a2dc62300&gt;\n&lt;environment: 0x563a3278db30&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x55b95a6591f0&gt;\n&lt;environment: 0x55b95f186fd8&gt;\n",
      :domain [1.0E-100 ##Inf]},
     :oob :ggproto-method,
     :position ["bottom"],
