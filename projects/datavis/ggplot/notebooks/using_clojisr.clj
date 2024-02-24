@@ -1,6 +1,6 @@
 (load-file "../../../header.edn")
 
-;; # Using ggplot Clojure using ClojisR
+;; # Using ggplot in Clojure with ClojisR
 
 ;; ## Setup
 
@@ -78,3 +78,20 @@
     r
     plotting/plot->svg
     kind/html)
+
+
+;; Another example:
+
+(require '[scicloj.metamorph.ml.toydata :as toydata])
+
+(-> (r/r+ (gg/ggplot (toydata/iris-ds)
+                     (gg/aes :x 'sepal_length
+                             :y 'petal_length
+                             :xend 'sepal_width
+                             :yend 'petal_width
+                             :color '(factor species)))
+          (gg/geom_segment :size 5
+                           :alpha 0.1)
+          (gg/scale_color_brewer :palette "Set1"))
+    r
+    plotting/plot->buffered-image)
