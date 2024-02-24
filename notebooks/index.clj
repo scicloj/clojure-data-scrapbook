@@ -57,11 +57,11 @@
                          nil
                          [:math :wolframite :interop]]
                         ["2024-02-06"
-                         "Exploring ggplot - DRAFT"
+                         "Exploring ggplot"
                          "projects/datavis/ggplot/index.html"
                          "projects/datavis/ggplot/"
                          nil
-                         [:noj :r :clojisr :interop :ggplot :datavis :draft]]
+                         [:noj :r :clojisr :interop :ggplot :datavis]]
                         ["2024-02-07"
                          "Seattle parks & Neigborhoods - DRAFT"
                          "projects/geography/seattle-parks/index.html"
