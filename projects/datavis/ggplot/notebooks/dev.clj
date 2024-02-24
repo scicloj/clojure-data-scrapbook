@@ -5,7 +5,9 @@
              :base-source-path "notebooks"
              :source-path ["index.clj"
                            "using_clojisr.clj"
-                           "representing.clj"]
+                           "representing.clj"
+                           "comparing.clj"
+                           "draft.clj"]
              :base-target-path "docs"
              :book {:title "Exploring ggplot"}
              :clean-up-target-dir true})

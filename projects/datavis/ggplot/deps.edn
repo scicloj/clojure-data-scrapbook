@@ -4,4 +4,4 @@
         scicloj/metamorph.ml {:git/url "https://github.com/scicloj/metamorph.ml"
                               :git/sha "2cab47cf5ef502b8688cd3186633e8f05f1f68e5"}
         juji/editscript {:mvn/version "0.6.3"}}
- :paths ["src" "notebooks"]}
+ :paths ["notebooks"]}
