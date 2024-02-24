@@ -1,0 +1,946 @@
+
+---
+format:
+  html: {toc: true, toc-depth: 4, theme: spacelab, output-file: draft.html}
+code-block-background: true
+include-in-header: {text: '<link rel = "icon" href = "data:," />'}
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style>
+<script src="draft_files/md-default2.js" type="text/javascript"></script><script src="draft_files/md-default3.js" type="text/javascript"></script>
+
+::: {.sourceClojure}
+```clojure
+(ns draft
+  (:require [clojisr.v1.r :as r :refer [r r$ r->clj]]
+            [clojisr.v1.applications.plotting :as plotting]
+            [representing]))
+```
+:::
+
+
+
+# Draft explorations
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(mpg, aes(cty, hwy)))"
+    r
+    representing/ggplot->clj
+    (dissoc :data))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers [],
+ :scales {:super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"]}}
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(mpg, aes(cty, hwy)))"
+    r
+    representing/ggplot->clj
+    (dissoc :data))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers [],
+ :scales {:super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"]}}
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy)))"
+    r
+    representing/ggplot->clj
+    (dissoc :data))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers [],
+ :scales {:super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"]}}
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=cyl), size=5)
+      + ylim(c(20,30)))"
+    r
+    representing/ggplot->clj
+    (dissoc :data))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params {:size [5.0]},
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend [nil],
+   :mapping {:colour [~ cyl]},
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false]},
+   :geom
+   {:non_missing_aes ["size" "shape" "colour"],
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape [19.0],
+     :colour ["black"],
+     :size [1.5],
+     :fill [nil],
+     :alpha [nil],
+     :stroke [0.5]},
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm [false]},
+   :constructor {: nil, :mapping {: nil, :color cyl}, :size [5.0]},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales
+ {:scales
+  [{:labels [],
+    :scale_name ["position_c"],
+    :breaks [],
+    :call
+    {:labels labels,
+     :scale_name ["position_c"],
+     :breaks breaks,
+     :name name,
+     :palette identity,
+     :super ScaleContinuousPosition,
+     :guide guide,
+     :minor_breaks minor_breaks,
+     :n.breaks n.breaks,
+     : nil,
+     :aesthetics [$ ggplot_global y_aes],
+     :na.value na.value,
+     :trans trans,
+     :oob oob,
+     :position position,
+     :limits limits,
+     :expand expand},
+    :rescaler :ggproto-method,
+    :name [],
+    :palette :ggproto-method,
+    :super :ggproto-method,
+    :guide [],
+    :minor_breaks [],
+    :n.breaks nil,
+    :aesthetics
+    ["y"
+     "ymin"
+     "ymax"
+     "yend"
+     "yintercept"
+     "ymin_final"
+     "ymax_final"
+     "lower"
+     "middle"
+     "upper"
+     "y0"],
+    :na.value [nil],
+    :trans
+    {:name ["identity"],
+     :transform
+     "function (x) \nx\n&lt;bytecode: 0x558a0f256140&gt;\n&lt;environment: namespace:base&gt;\n",
+     :inverse
+     "function (x) \nx\n&lt;bytecode: 0x558a0f256140&gt;\n&lt;environment: namespace:base&gt;\n",
+     :breaks
+     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x558a12881bc0&gt;\n&lt;environment: 0x558a16e97e18&gt;\n",
+     :minor_breaks
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x558a1288adb0&gt;\n&lt;environment: 0x558a16e97fd8&gt;\n",
+     :format
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x558a1288dbf8&gt;\n&lt;environment: 0x558a16e98128&gt;\n",
+     :domain [##-Inf ##Inf]},
+    :oob :ggproto-method,
+    :position ["left"],
+    :limits [20.0 30.0],
+    :expand [],
+    :range {:super :ggproto-method}}],
+  :super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"], :colour ["cyl"]}}
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=factor(cyl)), size=20))"
+    r
+    plotting/plot->buffered-image)
+```
+:::
+
+
+
+```{=html}
+<img src="draft_files/0.png" style="width:100%;" />
+```
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=cyl), size=5)
+      + ylim(c(20,30))
+      + scale_x_log10())"
+    r
+    representing/ggplot->clj
+    (dissoc :data))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params {:size [5.0]},
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend [nil],
+   :mapping {:colour [~ cyl]},
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false]},
+   :geom
+   {:non_missing_aes ["size" "shape" "colour"],
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape [19.0],
+     :colour ["black"],
+     :size [1.5],
+     :fill [nil],
+     :alpha [nil],
+     :stroke [0.5]},
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm [false]},
+   :constructor {: nil, :mapping {: nil, :color cyl}, :size [5.0]},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales
+ {:scales
+  [{:range {:super :ggproto-method}, :super :ggproto-method}
+   {:labels [],
+    :scale_name ["position_c"],
+    :breaks [],
+    :call
+    {:labels labels,
+     :scale_name ["position_c"],
+     :breaks breaks,
+     :name name,
+     :palette identity,
+     :super ScaleContinuousPosition,
+     :guide guide,
+     :minor_breaks minor_breaks,
+     :n.breaks n.breaks,
+     : nil,
+     :aesthetics [$ ggplot_global x_aes],
+     :na.value na.value,
+     :trans trans,
+     :oob oob,
+     :position position,
+     :limits limits,
+     :expand expand},
+    :rescaler :ggproto-method,
+    :name [],
+    :palette :ggproto-method,
+    :super :ggproto-method,
+    :guide [],
+    :minor_breaks [],
+    :n.breaks nil,
+    :aesthetics
+    ["x"
+     "xmin"
+     "xmax"
+     "xend"
+     "xintercept"
+     "xmin_final"
+     "xmax_final"
+     "xlower"
+     "xmiddle"
+     "xupper"
+     "x0"],
+    :na.value [nil],
+    :trans
+    {:name ["log-10"],
+     :transform
+     "function (x) \nlog(x, base)\n&lt;bytecode: 0x558a1d274598&gt;\n&lt;environment: 0x558a1a925bb0&gt;\n",
+     :inverse
+     "function (x) \nbase^x\n&lt;bytecode: 0x558a1d274448&gt;\n&lt;environment: 0x558a1a925bb0&gt;\n",
+     :breaks
+     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x558a1d27de98&gt;\n&lt;environment: 0x558a1d468db0&gt;\n",
+     :minor_breaks
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x558a1288adb0&gt;\n&lt;environment: 0x558a1d5a9ff0&gt;\n",
+     :format
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x558a1288dbf8&gt;\n&lt;environment: 0x558a1d5aa1b0&gt;\n",
+     :domain [1.0E-100 ##Inf]},
+    :oob :ggproto-method,
+    :position ["bottom"],
+    :limits nil,
+    :expand [],
+    :range {:super :ggproto-method}}],
+  :super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"], :colour ["cyl"]}}
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+      + geom_point(mapping=aes(color=cyl), size=5)
+      + ylim(c(20,30))
+      + scale_x_log10()
+      + theme_linedraw())"
+    r
+    representing/ggplot->clj
+    (dissoc :data))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params {:size [5.0]},
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend [nil],
+   :mapping {:colour [~ cyl]},
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false]},
+   :geom
+   {:non_missing_aes ["size" "shape" "colour"],
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape [19.0],
+     :colour ["black"],
+     :size [1.5],
+     :fill [nil],
+     :alpha [nil],
+     :stroke [0.5]},
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm [false]},
+   :constructor {: nil, :mapping {: nil, :color cyl}, :size [5.0]},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales
+ {:scales
+  [{:range {:super :ggproto-method}, :super :ggproto-method}
+   {:range {:super :ggproto-method}, :super :ggproto-method}],
+  :super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy]},
+ :theme
+ {:axis.ticks
+  {:colour ["black"],
+   :linewidth [0.5],
+   :linetype nil,
+   :lineend nil,
+   :arrow [false],
+   :inherit.blank [true]},
+  :legend.justification ["center"],
+  :panel.grid.minor
+  {:colour nil,
+   :linewidth [0.05],
+   :linetype nil,
+   :lineend nil,
+   :arrow [false],
+   :inherit.blank [true]},
+  :strip.text.x.bottom nil,
+  :legend.key.width nil,
+  :panel.spacing.x nil,
+  :axis.text.y
+  {:hjust [1.0],
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust nil,
+   :margin [0.0 2.2 0.0 0.0]},
+  :panel.ontop [false],
+  :axis.ticks.x.top nil,
+  :panel.border
+  {:fill [nil],
+   :colour ["black"],
+   :linewidth [1.0],
+   :linetype nil,
+   :inherit.blank [true]},
+  :legend.key.height nil,
+  :plot.caption
+  {:hjust [1.0],
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size [0.8],
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [1.0],
+   :margin [5.5 0.0 0.0 0.0]},
+  :panel.grid.major.y nil,
+  :panel.grid
+  {:colour ["black"],
+   :linewidth nil,
+   :linetype nil,
+   :lineend nil,
+   :arrow [false],
+   :inherit.blank [true]},
+  :axis.ticks.x.bottom nil,
+  :panel.grid.major.x nil,
+  :plot.tag
+  {:hjust [0.5],
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size [1.2],
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [0.5],
+   :margin nil},
+  :axis.text
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size [0.8],
+   :face nil,
+   :lineheight nil,
+   :colour ["black"],
+   :vjust nil,
+   :margin nil},
+  :axis.line.x nil,
+  :panel.spacing.y nil,
+  :legend.spacing.x nil,
+  :axis.text.x
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [1.0],
+   :margin [2.2 0.0 0.0 0.0]},
+  :axis.line.y.left nil,
+  :plot.caption.position ["panel"],
+  :plot.subtitle
+  {:hjust [0.0],
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [1.0],
+   :margin [0.0 0.0 5.5 0.0]},
+  :axis.ticks.y.right nil,
+  :legend.box nil,
+  :strip.text.y
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle [-90.0],
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust nil,
+   :margin nil},
+  :panel.spacing [5.5],
+  :legend.background
+  {:fill nil,
+   :colour [nil],
+   :linewidth nil,
+   :linetype nil,
+   :inherit.blank [true]},
+  :strip.switch.pad.grid [2.75],
+  :axis.ticks.length.y.left nil,
+  :legend.direction nil,
+  :strip.text
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size [0.8],
+   :face nil,
+   :lineheight nil,
+   :colour ["white"],
+   :vjust nil,
+   :margin [4.4 4.4 4.4 4.4]},
+  :axis.line.x.bottom nil,
+  :axis.ticks.length.x.bottom nil,
+  :axis.text.y.left nil,
+  :axis.ticks.length.x nil,
+  :plot.margin [5.5 5.5 5.5 5.5],
+  :axis.ticks.length [2.75],
+  :plot.title
+  {:hjust [0.0],
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size [1.2],
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [1.0],
+   :margin [0.0 0.0 5.5 0.0]},
+  :axis.ticks.y nil,
+  :legend.text.align nil,
+  :legend.text
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size [0.8],
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust nil,
+   :margin nil},
+  :legend.key
+  {:fill ["white"],
+   :colour [nil],
+   :linewidth nil,
+   :linetype nil,
+   :inherit.blank [true]},
+  :axis.line.y nil,
+  :axis.title.y.left nil,
+  :axis.ticks.length.x.top nil,
+  :legend.box.margin [0.0 0.0 0.0 0.0],
+  :axis.title.y.right
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle [-90.0],
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [0.0],
+   :margin [0.0 0.0 0.0 2.75]},
+  :title nil,
+  :strip.clip ["inherit"],
+  :strip.background.x nil,
+  :strip.text.x nil,
+  :strip.placement ["inside"],
+  :axis.ticks.x nil,
+  :axis.line.y.right nil,
+  :axis.title.x.bottom nil,
+  :legend.key.size [1.2],
+  :axis.text.x.top
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [0.0],
+   :margin [0.0 0.0 2.2 0.0]},
+  :panel.background
+  {:fill ["white"],
+   :colour [nil],
+   :linewidth nil,
+   :linetype nil,
+   :inherit.blank [true]},
+  :plot.tag.position ["topleft"],
+  :legend.margin [5.5 5.5 5.5 5.5],
+  :plot.title.position ["panel"],
+  :line
+  {:colour ["black"],
+   :linewidth [0.5],
+   :linetype [1.0],
+   :lineend ["butt"],
+   :arrow [false],
+   :inherit.blank [true]},
+  :strip.text.y.left
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle [90.0],
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust nil,
+   :margin nil},
+  :strip.background
+  {:fill ["black"],
+   :colour nil,
+   :linewidth nil,
+   :linetype nil,
+   :inherit.blank [true]},
+  :axis.title.y
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle [90.0],
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [1.0],
+   :margin [0.0 2.75 0.0 0.0]},
+  :legend.box.background [],
+  :panel.grid.major
+  {:colour nil,
+   :linewidth [0.1],
+   :linetype nil,
+   :lineend nil,
+   :arrow [false],
+   :inherit.blank [true]},
+  :axis.title nil,
+  :strip.text.y.right nil,
+  :legend.title.align nil,
+  :plot.background
+  {:fill nil,
+   :colour ["white"],
+   :linewidth nil,
+   :linetype nil,
+   :inherit.blank [true]},
+  :aspect.ratio nil,
+  :legend.spacing [11.0],
+  :axis.title.x
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [1.0],
+   :margin [2.75 0.0 0.0 0.0]},
+  :axis.line.x.top nil,
+  :legend.position ["right"],
+  :axis.ticks.length.y nil,
+  :axis.ticks.y.left nil,
+  :axis.ticks.length.y.right nil,
+  :legend.box.just nil,
+  :legend.title
+  {:hjust [0.0],
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust nil,
+   :margin nil},
+  :axis.text.y.right
+  {:hjust [0.0],
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust nil,
+   :margin [0.0 0.0 0.0 2.2]},
+  :axis.text.x.bottom nil,
+  :strip.background.y nil,
+  :axis.line [],
+  :rect
+  {:fill ["white"],
+   :colour ["black"],
+   :linewidth [0.5],
+   :linetype [1.0],
+   :inherit.blank [true]},
+  :legend.box.spacing [11.0],
+  :panel.grid.minor.y nil,
+  :panel.grid.minor.x nil,
+  :strip.switch.pad.wrap [2.75],
+  :axis.title.x.top
+  {:hjust nil,
+   :family nil,
+   :inherit.blank [true],
+   :debug nil,
+   :angle nil,
+   :size nil,
+   :face nil,
+   :lineheight nil,
+   :colour nil,
+   :vjust [0.0],
+   :margin [0.0 0.0 2.75 0.0]},
+  :strip.text.x.top nil,
+  :legend.spacing.y nil,
+  :text
+  {:hjust [0.5],
+   :family [""],
+   :inherit.blank [true],
+   :debug [false],
+   :angle [0.0],
+   :size [11.0],
+   :face ["plain"],
+   :lineheight [0.9],
+   :colour ["black"],
+   :vjust [0.5],
+   :margin [0.0 0.0 0.0 0.0]}},
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"], :colour ["cyl"]}}
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
+      geom_histogram(aes(y=..density..)) +  # scale histogram y
+      geom_density(col = 'red', size=5))"
+    r
+    plotting/plot->buffered-image)
+```
+:::
+
+
+
+```{=html}
+<img src="draft_files/1.png" style="width:100%;" />
+```
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
+      geom_histogram(aes(y=..density..)) +  # scale histogram y
+      geom_density(col = 'red'))"
+    r
+    representing/ggplot->clj
+    (dissoc :data))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params [],
+   :stat
+   {:default_aes
+    {:x [~ [after_stat count]],
+     :y [~ [after_stat count]],
+     :weight [1.0]},
+    :extra_params ["na.rm" "orientation"],
+    :super :ggproto-method,
+    :compute_group :ggproto-method,
+    :required_aes ["x|y"],
+    :setup_params :ggproto-method,
+    :dropped_aes ["weight"]},
+   :show.legend [nil],
+   :mapping {:y [~ ..density..]},
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false], :orientation [nil]},
+   :geom
+   {:setup_data :ggproto-method,
+    :rename_size [true],
+    :non_missing_aes ["xmin" "xmax" "ymin" "ymax"],
+    :extra_params ["just" "na.rm" "orientation"],
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method,
+    :setup_params :ggproto-method},
+   :stat_params
+   {:binwidth nil,
+    :bins nil,
+    :na.rm [false],
+    :orientation [nil],
+    :pad [false]},
+   :constructor [geom_histogram {0 aes, :y ..density..}],
+   :position
+   {:setup_data :ggproto-method,
+    :type nil,
+    :compute_panel :ggproto-method,
+    :vjust [1.0],
+    :reverse [false],
+    :super :ggproto-method,
+    :fill [false],
+    :setup_params :ggproto-method},
+   :data []}
+  {:aes_params {:colour ["red"]},
+   :stat
+   {:default_aes
+    {:x [~ [after_stat density]],
+     :y [~ [after_stat density]],
+     :fill [nil],
+     :weight nil},
+    :extra_params ["na.rm" "orientation"],
+    :super :ggproto-method,
+    :compute_group :ggproto-method,
+    :required_aes ["x|y"],
+    :setup_params :ggproto-method,
+    :dropped_aes ["weight"]},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params
+   {:na.rm [false], :orientation [nil], :outline.type ["upper"]},
+   :geom
+   {:default_aes
+    {:fill [nil],
+     :weight [1.0],
+     :colour ["black"],
+     :alpha [nil],
+     :linewidth [0.5],
+     :linetype [1.0]},
+    :super :ggproto-method},
+   :stat_params {:na.rm [false], :orientation [nil]},
+   :constructor {: nil, :col ["red"]},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales {:scales [], :super :ggproto-method},
+ :mapping {:x [~ x]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["x"], :y ["density"], :fill ["fill"], :weight ["weight"]}}
+
+```
+:::
+
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/datavis/ggplot/notebooks/draft.clj">projects/datavis/ggplot/notebooks/draft.clj</a></small></small></pre></div>
+```

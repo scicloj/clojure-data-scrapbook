@@ -1,0 +1,683 @@
+
+---
+format:
+  html: {toc: true, toc-depth: 4, theme: spacelab, output-file: comparing.html}
+code-block-background: true
+include-in-header: {text: '<link rel = "icon" href = "data:," />'}
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style>
+<script src="comparing_files/md-default4.js" type="text/javascript"></script><script src="comparing_files/md-default5.js" type="text/javascript"></script>
+
+```{=html}
+<table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table>
+```
+
+
+
+# Comparing the data representations of ggplot plots
+
+
+::: {.sourceClojure}
+```clojure
+(ns comparing
+  (:require [clojisr.v1.r :as r :refer [r r$ r->clj]]
+            [clojisr.v1.applications.plotting :as plotting]
+            [scicloj.kindly.v4.kind :as kind]
+            [clojure.walk :as walk]
+            [tablecloth.api :as tc]
+            [editscript.core :as editscript]
+            [clojure.pprint :as pp]
+            [clojure.string :as str]
+            [representing]))
+```
+:::
+
+
+
+## Exlploring a few plots
+
+Let us explore and compare a few plots through their Clojure representations:
+
+
+::: {.sourceClojure}
+```clojure
+(defn h3 [title] (kind/hiccup [:h3 title]))
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(defn h4 [title] (kind/hiccup [:h4 title]))
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(defn ggplot-summary
+  ([title r-code]
+   (ggplot-summary r-code))
+  ([title r-code prev-clj-to-compare]
+   (let [plot (r r-code)
+         clj (-> plot
+                 representing/ggplot->clj
+                 (dissoc :data))]
+     {:title title
+      :r-code r-code
+      :image (plotting/plot->buffered-image plot)
+      :clj clj
+      :diff (when prev-clj-to-compare
+              (-> prev-clj-to-compare
+                  (editscript/diff clj)
+                  pp/pprint
+                  with-out-str
+                  (str/replace #": " ":_ ")
+                  read-string))})))
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(defn view-summary [{:keys [title r-code image clj diff]}]
+  (kind/fragment
+   [(h3 title)
+    (h4 "R code")
+    (kind/md
+     (format "\n```\n%s\n```\n"
+             r-code))
+    (h4 "plot")
+    image
+    (h4 "clj data")
+    clj
+    (when diff
+      (kind/fragment
+       [(h4 "clj diff with previous")
+        diff]))]))
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(->> [;;
+      ["A scatterplot"
+       "(ggplot(mpg, aes(cty, hwy))
+         + geom_point())"]
+      ;;
+      ["A scatterplot with colours"
+       "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point())"]
+      ;;
+      ["A scatterplot with colours and smoothing"
+       "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point()
+         + stat_smooth(method=\"lm\"))"]
+      ;;
+      ["A scatterplot with colours, smoothing, and facets"
+       "(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point()
+         + stat_smooth(method=\"lm\")
+         + facet_wrap(~cyl))"]]
+     (reductions (fn [prev-summary [title r-code]]
+                   (ggplot-summary title
+                                   r-code
+                                   (:clj prev-summary)))
+                 nil)
+     rest
+     (map view-summary)
+     kind/fragment)
+```
+:::
+
+
+
+```{=html}
+<h3>A scatterplot</h3>
+```
+
+
+
+```{=html}
+<h4>R code</h4>
+```
+
+
+
+```
+(ggplot(mpg, aes(cty, hwy))
+         + geom_point())
+```
+
+
+
+```{=html}
+<h4>plot</h4>
+```
+
+
+
+```{=html}
+<img src="comparing_files/0.png" style="width:100%;" />
+```
+
+
+
+```{=html}
+<h4>clj data</h4>
+```
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params [],
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false]},
+   :geom
+   {:non_missing_aes ["size" "shape" "colour"],
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape [19.0],
+     :colour ["black"],
+     :size [1.5],
+     :fill [nil],
+     :alpha [nil],
+     :stroke [0.5]},
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm [false]},
+   :constructor [geom_point],
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales {:scales [], :super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"]}}
+
+```
+:::
+
+
+
+```{=html}
+<h3>A scatterplot with colours</h3>
+```
+
+
+
+```{=html}
+<h4>R code</h4>
+```
+
+
+
+```
+(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point())
+```
+
+
+
+```{=html}
+<h4>plot</h4>
+```
+
+
+
+```{=html}
+<img src="comparing_files/1.png" style="width:100%;" />
+```
+
+
+
+```{=html}
+<h4>clj data</h4>
+```
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params [],
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false]},
+   :geom
+   {:non_missing_aes ["size" "shape" "colour"],
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape [19.0],
+     :colour ["black"],
+     :size [1.5],
+     :fill [nil],
+     :alpha [nil],
+     :stroke [0.5]},
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm [false]},
+   :constructor [geom_point],
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales {:scales [], :super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy], :colour [~ [factor cyl]]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
+
+```
+:::
+
+
+
+```{=html}
+<h4>clj diff with previous</h4>
+```
+
+
+
+::: {.printedClojure}
+```clojure
+[[[:mapping :colour] :+ [~[factor cyl]]]
+ [[:labels :colour] :+ ["factor(cyl)"]]]
+
+```
+:::
+
+
+
+```{=html}
+<h3>A scatterplot with colours and smoothing</h3>
+```
+
+
+
+```{=html}
+<h4>R code</h4>
+```
+
+
+
+```
+(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point()
+         + stat_smooth(method="lm"))
+```
+
+
+
+```{=html}
+<h4>plot</h4>
+```
+
+
+
+```{=html}
+<img src="comparing_files/2.png" style="width:100%;" />
+```
+
+
+
+```{=html}
+<h4>clj data</h4>
+```
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params [],
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false]},
+   :geom
+   {:non_missing_aes ["size" "shape" "colour"],
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape [19.0],
+     :colour ["black"],
+     :size [1.5],
+     :fill [nil],
+     :alpha [nil],
+     :stroke [0.5]},
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm [false]},
+   :constructor [geom_point],
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}
+  {:aes_params [],
+   :stat
+   {:extra_params ["na.rm" "orientation"],
+    :super :ggproto-method,
+    :compute_group :ggproto-method,
+    :required_aes ["x" "y"],
+    :setup_params :ggproto-method,
+    :dropped_aes ["weight"]},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:se [true], :na.rm [false], :orientation [nil]},
+   :geom
+   {:setup_params :ggproto-method,
+    :super :ggproto-method,
+    :draw_key :ggproto-method,
+    :extra_params ["na.rm" "orientation"],
+    :required_aes ["x" "y"],
+    :draw_group :ggproto-method,
+    :optional_aes ["ymin" "ymax"],
+    :rename_size [true],
+    :setup_data :ggproto-method,
+    :default_aes
+    {:colour ["#3366FF"],
+     :fill ["grey60"],
+     :linewidth [1.0],
+     :linetype [1.0],
+     :weight [1.0],
+     :alpha [0.4]}},
+   :stat_params
+   {:na.rm [false],
+    :method ["lm"],
+    :n [80.0],
+    :orientation [nil],
+    :level [0.95],
+    :fullrange [false],
+    :se [true],
+    :formula nil,
+    :method.args [],
+    :span [0.75]},
+   :constructor {: nil, :method ["lm"]},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales {:scales [], :super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy], :colour [~ [factor cyl]]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet {:shrink [true], :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
+
+```
+:::
+
+
+
+```{=html}
+<h4>clj diff with previous</h4>
+```
+
+
+
+::: {.printedClojure}
+```clojure
+[[[:layers 1]
+  :+
+  {:aes_params [],
+   :stat
+   {:extra_params ["na.rm" "orientation"],
+    :super :ggproto-method,
+    :compute_group :ggproto-method,
+    :required_aes ["x" "y"],
+    :setup_params :ggproto-method,
+    :dropped_aes ["weight"]},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:se [true], :na.rm [false], :orientation [nil]},
+   :geom
+   {:setup_params :ggproto-method,
+    :super :ggproto-method,
+    :draw_key :ggproto-method,
+    :extra_params ["na.rm" "orientation"],
+    :required_aes ["x" "y"],
+    :draw_group :ggproto-method,
+    :optional_aes ["ymin" "ymax"],
+    :rename_size [true],
+    :setup_data :ggproto-method,
+    :default_aes
+    {:colour ["#3366FF"],
+     :fill ["grey60"],
+     :linewidth [1.0],
+     :linetype [1.0],
+     :weight [1.0],
+     :alpha [0.4]}},
+   :stat_params
+   {:na.rm [false],
+    :method ["lm"],
+    :n [80.0],
+    :orientation [nil],
+    :level [0.95],
+    :fullrange [false],
+    :se [true],
+    :formula nil,
+    :method.args [],
+    :span [0.75]},
+   :constructor {:_ nil, :method ["lm"]},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}]]
+
+```
+:::
+
+
+
+```{=html}
+<h3>A scatterplot with colours, smoothing, and facets</h3>
+```
+
+
+
+```{=html}
+<h4>R code</h4>
+```
+
+
+
+```
+(ggplot(mpg, aes(cty, hwy, color=factor(cyl)))
+         + geom_point()
+         + stat_smooth(method="lm")
+         + facet_wrap(~cyl))
+```
+
+
+
+```{=html}
+<h4>plot</h4>
+```
+
+
+
+```{=html}
+<img src="comparing_files/3.png" style="width:100%;" />
+```
+
+
+
+```{=html}
+<h4>clj data</h4>
+```
+
+
+
+::: {.printedClojure}
+```clojure
+{:layers
+ [{:aes_params [],
+   :stat {:compute_layer :ggproto-method, :super :ggproto-method},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:na.rm [false]},
+   :geom
+   {:non_missing_aes ["size" "shape" "colour"],
+    :draw_key :ggproto-method,
+    :default_aes
+    {:shape [19.0],
+     :colour ["black"],
+     :size [1.5],
+     :fill [nil],
+     :alpha [nil],
+     :stroke [0.5]},
+    :super :ggproto-method,
+    :required_aes ["x" "y"],
+    :draw_panel :ggproto-method},
+   :stat_params {:na.rm [false]},
+   :constructor [geom_point],
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}
+  {:aes_params [],
+   :stat
+   {:extra_params ["na.rm" "orientation"],
+    :super :ggproto-method,
+    :compute_group :ggproto-method,
+    :required_aes ["x" "y"],
+    :setup_params :ggproto-method,
+    :dropped_aes ["weight"]},
+   :show.legend [nil],
+   :mapping nil,
+   :super :ggproto-method,
+   :inherit.aes [true],
+   :geom_params {:se [true], :na.rm [false], :orientation [nil]},
+   :geom
+   {:setup_params :ggproto-method,
+    :super :ggproto-method,
+    :draw_key :ggproto-method,
+    :extra_params ["na.rm" "orientation"],
+    :required_aes ["x" "y"],
+    :draw_group :ggproto-method,
+    :optional_aes ["ymin" "ymax"],
+    :rename_size [true],
+    :setup_data :ggproto-method,
+    :default_aes
+    {:colour ["#3366FF"],
+     :fill ["grey60"],
+     :linewidth [1.0],
+     :linetype [1.0],
+     :weight [1.0],
+     :alpha [0.4]}},
+   :stat_params
+   {:na.rm [false],
+    :method ["lm"],
+    :n [80.0],
+    :orientation [nil],
+    :level [0.95],
+    :fullrange [false],
+    :se [true],
+    :formula nil,
+    :method.args [],
+    :span [0.75]},
+   :constructor {: nil, :method ["lm"]},
+   :position {:compute_layer :ggproto-method, :super :ggproto-method},
+   :data []}],
+ :scales {:scales [], :super :ggproto-method},
+ :mapping {:x [~ cty], :y [~ hwy], :colour [~ [factor cyl]]},
+ :theme [],
+ :coordinates
+ {:expand [true],
+  :clip ["on"],
+  :limits {:x nil, :y nil},
+  :super :ggproto-method,
+  :default [true]},
+ :facet
+ {:params
+  {:dir ["h"],
+   :nrow nil,
+   :as.table [true],
+   :free {:x [false], :y [false]},
+   :drop [true],
+   :strip.position ["top"],
+   :ncol nil,
+   :facets {:cyl [~ cyl]},
+   :labeller
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x558a1755b0f0&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
+  :shrink [true],
+  :super :ggproto-method},
+ :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
+
+```
+:::
+
+
+
+```{=html}
+<h4>clj diff with previous</h4>
+```
+
+
+
+::: {.printedClojure}
+```clojure
+[[[:facet :params]
+  :+
+  {:dir ["h"],
+   :nrow nil,
+   :as.table [true],
+   :free {:x [false], :y [false]},
+   :drop [true],
+   :strip.position ["top"],
+   :ncol nil,
+   :facets {:cyl [~cyl]},
+   :labeller
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x558a1755b0f0&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
+
+```
+:::
+
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/datavis/ggplot/notebooks/comparing.clj">projects/datavis/ggplot/notebooks/comparing.clj</a></small></small></pre></div>
+```
