@@ -11,7 +11,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
   border-style: none;
 }
 </style>
-<script src="using_clojisr_files/md-default1.js" type="text/javascript"></script><script src="using_clojisr_files/md-default2.js" type="text/javascript"></script>
+<script src="using_clojisr_files/md-default2.js" type="text/javascript"></script><script src="using_clojisr_files/md-default3.js" type="text/javascript"></script>
 
 ```{=html}
 <table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table>
@@ -19,7 +19,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 
 
-# Using ggplot Clojure using ClojisR
+# Using ggplot in Clojure with ClojisR
 
 
 ## Setup
@@ -461,7 +461,7 @@ Rendering as SVG:
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface761">
+<g id="surface1229">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -1521,7 +1521,7 @@ Now we can plot using code generation:
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface798">
+<g id="surface1266">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -2557,7 +2557,7 @@ Now we can do the same, but pasing a Clojure dataset:
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface803">
+<g id="surface1271">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -3222,6 +3222,40 @@ Now we can do the same, but pasing a Clojure dataset:
 </g>
 </svg>
 
+```
+
+
+Another example:
+
+
+::: {.sourceClojure}
+```clojure
+(require '[scicloj.metamorph.ml.toydata :as toydata])
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(-> (r/r+ (gg/ggplot (toydata/iris-ds)
+                     (gg/aes :x 'sepal_length
+                             :y 'petal_length
+                             :xend 'sepal_width
+                             :yend 'petal_width
+                             :color '(factor species)))
+          (gg/geom_segment :size 5
+                           :alpha 0.1)
+          (gg/scale_color_brewer :palette "Set1"))
+    r
+    plotting/plot->buffered-image)
+```
+:::
+
+
+
+```{=html}
+<img src="using_clojisr_files/1.png" style="width:100%;" />
 ```
 
 
