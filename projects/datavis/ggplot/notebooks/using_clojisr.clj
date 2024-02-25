@@ -95,3 +95,17 @@
           (gg/scale_color_brewer :palette "Set1"))
     r
     plotting/plot->buffered-image)
+
+;; Reorganizing the code:
+
+(-> (toydata/iris-ds)
+    (gg/ggplot (gg/aes :x 'sepal_length
+                       :y 'petal_length
+                       :xend 'sepal_width
+                       :yend 'petal_width
+                       :color '(factor species)))
+    (r/r+ (gg/geom_segment :size 5
+                           :alpha 0.1)
+          (gg/scale_color_brewer :palette "Set1"))
+    r
+    plotting/plot->buffered-image)
