@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -167,8 +167,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./study_session_20240225.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Code examples from study session 2024-02-25</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./draft.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Draft explorations</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Draft explorations</span></span></a>
   </div>
 </li>
     </ul>
@@ -216,8 +222,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   border-style: none;
 }
 </style>
-<script src="using_clojisr_files/md-default2.js" type="text/javascript"></script>
 <script src="using_clojisr_files/md-default3.js" type="text/javascript"></script>
+<script src="using_clojisr_files/md-default4.js" type="text/javascript"></script>
 <a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40"></a><table><tbody><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td></tr></tbody></table>
 <section id="setup" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="setup"><span class="header-section-number">2.1</span> Setup</h2>
@@ -910,7 +916,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "></path>
 </clippath>
 </defs>
-<g id="surface1229">
+<g id="surface1124">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "></path>
@@ -1935,7 +1941,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "></path>
 </clippath>
 </defs>
-<g id="surface1266">
+<g id="surface1161">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "></path>
@@ -2952,7 +2958,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "></path>
 </clippath>
 </defs>
-<g id="surface1271">
+<g id="surface1166">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"></rect>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "></path>
@@ -3635,6 +3641,21 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb14-11"><a href="#cb14-11" aria-hidden="true" tabindex="-1"></a>    plotting/plot-&gt;buffered-image)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <img src="using_clojisr_files/1.png" style="width:100%;">
+<p>Reorganizing the code:</p>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb15"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> (toydata/iris-ds)</span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>    (gg/ggplot (gg/aes <span class="at">:x</span> <span class="at">'sepal_length</span></span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>                       <span class="at">:y</span> <span class="at">'petal_length</span></span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a>                       <span class="at">:xend</span> <span class="at">'sepal_width</span></span>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a>                       <span class="at">:yend</span> <span class="at">'petal_width</span></span>
+<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a>                       <span class="at">:color</span> '(factor species)))</span>
+<span id="cb15-7"><a href="#cb15-7" aria-hidden="true" tabindex="-1"></a>    (r/r+ (gg/geom_segment <span class="at">:size</span> <span class="dv">5</span></span>
+<span id="cb15-8"><a href="#cb15-8" aria-hidden="true" tabindex="-1"></a>                           <span class="at">:alpha</span> <span class="fl">0.1</span>)</span>
+<span id="cb15-9"><a href="#cb15-9" aria-hidden="true" tabindex="-1"></a>          (gg/scale_color_brewer <span class="at">:palette</span> <span class="st">"Set1"</span>))</span>
+<span id="cb15-10"><a href="#cb15-10" aria-hidden="true" tabindex="-1"></a>    r</span>
+<span id="cb15-11"><a href="#cb15-11" aria-hidden="true" tabindex="-1"></a>    plotting/plot-&gt;buffered-image)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<img src="using_clojisr_files/2.png" style="width:100%;">
 <div style="background-color:grey;height:2px;width:100%;"></div>
 <div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/datavis/ggplot/notebooks/using_clojisr.clj">projects/datavis/ggplot/notebooks/using_clojisr.clj</a></small></small></pre></div>
 
@@ -4031,12 +4052,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./index.html" class="pagination-link  aria-label=" &lt;span="">
+      <a href="./index.html" class="pagination-link" aria-label="Preface">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Preface</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./representing.html" class="pagination-link" aria-label="<span class='chapter-number'>3</span>&nbsp; <span class='chapter-title'>Representing ggplot plots as Clojure data</span>">
+      <a href="./representing.html" class="pagination-link" aria-label="Representing ggplot plots as Clojure data">
         <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Representing ggplot plots as Clojure data</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
