@@ -73,3 +73,11 @@
 
 
 ;; # Exploring ggtrace
+
+(r/require-r '[ggtrace :as ggtrace])
+
+(let [bar-plot (r "
+ggplot(mpg, aes(class, fill = class)) +
+geom_bar() +
+theme(legend.position = 'none')")]
+  (ggtrace/layer_after_stat bar-plot))
