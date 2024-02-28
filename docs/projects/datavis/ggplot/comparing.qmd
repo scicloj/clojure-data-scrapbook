@@ -636,7 +636,7 @@ Let us explore and compare a few plots through their Clojure representations:
    :ncol nil,
    :facets {:cyl [~ cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x556427acf3e0&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x55ade360f7d0&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
   :shrink [true],
   :super :ggproto-method},
  :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
@@ -665,7 +665,7 @@ Let us explore and compare a few plots through their Clojure representations:
    :ncol nil,
    :facets {:cyl [~cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x556427acf3e0&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x55ade360f7d0&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
 
 ```
 :::

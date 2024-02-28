@@ -29,10 +29,11 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(mpg, aes(cty, hwy)))"
-    r
-    representing/ggplot->clj
-    (dissoc :data))
+(delay
+  (-> "(ggplot(mpg, aes(cty, hwy)))"
+      r
+      representing/ggplot->clj
+      (dissoc :data)))
 ```
 :::
 
@@ -60,10 +61,11 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(mpg, aes(cty, hwy)))"
-    r
-    representing/ggplot->clj
-    (dissoc :data))
+(delay
+  (-> "(ggplot(mpg, aes(cty, hwy)))"
+      r
+      representing/ggplot->clj
+      (dissoc :data)))
 ```
 :::
 
@@ -91,10 +93,11 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy)))"
-    r
-    representing/ggplot->clj
-    (dissoc :data))
+(delay
+  (-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy)))"
+      r
+      representing/ggplot->clj
+      (dissoc :data)))
 ```
 :::
 
@@ -122,12 +125,13 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+(delay
+  (-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
       + geom_point(mapping=aes(color=cyl), size=5)
       + ylim(c(20,30)))"
-    r
-    representing/ggplot->clj
-    (dissoc :data))
+      r
+      representing/ggplot->clj
+      (dissoc :data)))
 ```
 :::
 
@@ -206,15 +210,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["identity"],
      :transform
-     "function (x) \nx\n&lt;bytecode: 0x556423fbb140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n&lt;bytecode: 0x55addc103140&gt;\n&lt;environment: namespace:base&gt;\n",
      :inverse
-     "function (x) \nx\n&lt;bytecode: 0x556423fbb140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n&lt;bytecode: 0x55addc103140&gt;\n&lt;environment: namespace:base&gt;\n",
      :breaks
-     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x556427f01b28&gt;\n&lt;environment: 0x5564337ddb98&gt;\n",
+     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x55addfc71518&gt;\n&lt;environment: 0x55ade7455850&gt;\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x556427f05508&gt;\n&lt;environment: 0x5564337ddd90&gt;\n",
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x55addfc78cc8&gt;\n&lt;environment: 0x55ade7455658&gt;\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x556427f0aa50&gt;\n&lt;environment: 0x5564337ddee0&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x55addfc85240&gt;\n&lt;environment: 0x55ade7455508&gt;\n",
      :domain [##-Inf ##Inf]},
     :oob :ggproto-method,
     :position ["left"],
@@ -240,10 +244,11 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+(delay
+  (-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
       + geom_point(mapping=aes(color=factor(cyl)), size=20))"
-    r
-    plotting/plot->buffered-image)
+      r
+      plotting/plot->buffered-image))
 ```
 :::
 
@@ -257,13 +262,14 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+(delay
+  (-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
       + geom_point(mapping=aes(color=cyl), size=5)
       + ylim(c(20,30))
       + scale_x_log10())"
-    r
-    representing/ggplot->clj
-    (dissoc :data))
+      r
+      representing/ggplot->clj
+      (dissoc :data)))
 ```
 :::
 
@@ -343,15 +349,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["log-10"],
      :transform
-     "function (x) \nlog(x, base)\n&lt;bytecode: 0x55642e5a85c8&gt;\n&lt;environment: 0x556430a69888&gt;\n",
+     "function (x) \nlog(x, base)\n&lt;bytecode: 0x55ade0f89bb0&gt;\n&lt;environment: 0x55ade6d823f0&gt;\n",
      :inverse
-     "function (x) \nbase^x\n&lt;bytecode: 0x55642e5a8478&gt;\n&lt;environment: 0x556430a69888&gt;\n",
+     "function (x) \nbase^x\n&lt;bytecode: 0x55ade0f89a60&gt;\n&lt;environment: 0x55ade6d823f0&gt;\n",
      :breaks
-     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x55642e5b4280&gt;\n&lt;environment: 0x556430a64618&gt;\n",
+     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x55ade0f93600&gt;\n&lt;environment: 0x55ade6d86770&gt;\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x556427f05508&gt;\n&lt;environment: 0x556430a64a78&gt;\n",
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x55addfc78cc8&gt;\n&lt;environment: 0x55ade6d863b8&gt;\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x556427f0aa50&gt;\n&lt;environment: 0x556430a64c00&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x55addfc85240&gt;\n&lt;environment: 0x55ade6d86268&gt;\n",
      :domain [1.0E-100 ##Inf]},
     :oob :ggproto-method,
     :position ["bottom"],
@@ -377,14 +383,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
+(delay
+  (-> "(ggplot(mpg, mapping=aes(x=cty, y=hwy))
       + geom_point(mapping=aes(color=cyl), size=5)
       + ylim(c(20,30))
       + scale_x_log10()
       + theme_linedraw())"
-    r
-    representing/ggplot->clj
-    (dissoc :data))
+      r
+      representing/ggplot->clj
+      (dissoc :data)))
 ```
 :::
 
@@ -811,11 +818,12 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
+(delay
+  (-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
       geom_histogram(aes(y=..density..)) +  # scale histogram y
       geom_density(col = 'red', size=5))"
-    r
-    plotting/plot->buffered-image)
+      r
+      plotting/plot->buffered-image))
 ```
 :::
 
@@ -829,12 +837,13 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.sourceClojure}
 ```clojure
-(-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
+(delay
+  (-> "(ggplot(data.frame(x = rnorm(1000, 2, 2)), aes(x)) +
       geom_histogram(aes(y=..density..)) +  # scale histogram y
       geom_density(col = 'red'))"
-    r
-    representing/ggplot->clj
-    (dissoc :data))
+      r
+      representing/ggplot->clj
+      (dissoc :data)))
 ```
 :::
 
@@ -929,6 +938,59 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
   :default [true]},
  :facet {:shrink [true], :super :ggproto-method},
  :labels {:x ["x"], :y ["density"], :fill ["fill"], :weight ["weight"]}}
+
+```
+:::
+
+
+
+# Exploring ggtrace
+
+[ggtrace](https://yjunechoe.github.io/ggtrace/) - programmatically explore, debug, and manipulate ggplot internals
+
+
+::: {.sourceClojure}
+```clojure
+(r/require-r '[ggtrace :as ggtrace])
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+nil
+
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(let [bar-plot (r "
+ggplot(mpg, aes(class, fill = class)) +
+geom_bar() +
+theme(legend.position = 'none')")]
+  (ggtrace/layer_after_stat bar-plot))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+# A tibble: 7 × 8
+  count  prop x          width flipped_aes fill       PANEL group
+  &lt;dbl&gt; &lt;dbl&gt; &lt;mppd_dsc&gt; &lt;dbl&gt; &lt;lgl&gt;       &lt;chr&gt;      &lt;fct&gt; &lt;int&gt;
+1     5     1 1            0.9 FALSE       2seater    1         1
+2    47     1 2            0.9 FALSE       compact    1         2
+3    41     1 3            0.9 FALSE       midsize    1         3
+4    11     1 4            0.9 FALSE       minivan    1         4
+5    33     1 5            0.9 FALSE       pickup     1         5
+6    35     1 6            0.9 FALSE       subcompact 1         6
+7    62     1 7            0.9 FALSE       suv        1         7
+
 
 ```
 :::
