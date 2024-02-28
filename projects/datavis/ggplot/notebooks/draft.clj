@@ -74,6 +74,8 @@
 
 ;; # Exploring ggtrace
 
+;; [ggtrace](https://yjunechoe.github.io/ggtrace/) - programmatically explore, debug, and manipulate ggplot internals
+
 (r/require-r '[ggtrace :as ggtrace])
 
 (let [bar-plot (r "
