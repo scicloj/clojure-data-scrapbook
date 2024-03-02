@@ -82,7 +82,7 @@
                          "projects/datavis/observable"
                          nil
                          [:datavis :observable :dashboards :draft]]]
-                       (map (fn [[created-date last-update
+                       (map (fn [[created updated
                                   title url source-path youtube-id tags]]
                               (let [draft (some #{:draft} tags)]
                                 (mapv (if draft
@@ -92,9 +92,9 @@
                                             v]))
                                         identity)
                                       [(kind/hiccup
-                                        [:small created-date])
+                                        [:small created])
                                        (kind/hiccup
-                                        [:small last-update])
+                                        [:small updated])
                                        (kind/hiccup
                                         [:small
                                          [:div {:style {:width "300px"}}
@@ -111,8 +111,8 @@
                                        (->> tags
                                             (map name)
                                             (str/join ", "))])))))
-     :column-names ["created-date"
-                    "last-update"
+     :column-names ["created"
+                    "updated"
                     "title"
                     "video"
                     "tags"]}
