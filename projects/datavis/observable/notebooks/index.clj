@@ -3,7 +3,7 @@
 (ns index
   (:require [codegen :refer [obs]]))
 
-;; # Observable examples
+;; # Observable examples - DRAFT
 
 ;; We will use the draft [codegen](./codegen) namespace.
 
