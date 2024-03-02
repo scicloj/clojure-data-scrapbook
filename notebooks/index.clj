@@ -25,6 +25,7 @@
 ;; ## Tutorials
 
 (-> {:row-vectors (->> [["2023-12-16"
+                         nil
                          "Clay Calva integration - datavis demo"
                          "projects/visual-tools/clay-calva-demo-20231216/index.html"
                          "projects/visual-tools/clay-calva-demo-20231216"
@@ -32,6 +33,7 @@
                          [:visual-tools :clay :calva :noj
                           :datavis :hanami :tablecloth]]
                         ["2023-12-17"
+                         nil
                          "Clay CIDER integration - image processing demo"
                          "projects/visual-tools/clay-cider-demo-20231217/index.html"
                          "projects/visual-tools/clay-cider-demo-20231217"
@@ -39,42 +41,49 @@
                          [:visual-tools :clay :cider :noj
                           :image-processing :dtype-next :tensors]]
                         ["2023-12-31"
+                         nil
                          "Reading HDF files"
                          "projects/data-formats/hdf/index.html"
                          "projects/data-formats/hdf/"
                          nil
                          [:data-formats :hdf :dtype-next :tensors]]
                         ["2024-01-11"
+                         nil
                          "Machine learning - DRAFT"
                          "projects/noj/ml.html"
                          "projects/noj/notebooks/ml.clj"
                          nil
                          [:noj :ml :scicloj.ml :draft]]
                         ["2024-01-25"
+                         nil
                          "Wolfram Lanauge interop with Wolframite"
                          "projects/math/wolframite/index.html"
                          "projects/math/wolframite/"
                          nil
                          [:math :wolframite :interop]]
                         ["2024-02-06"
+                         "2024-03-02"
                          "Exploring ggplot"
                          "projects/datavis/ggplot/index.html"
                          "projects/datavis/ggplot/"
                          nil
                          [:noj :r :clojisr :interop :ggplot :datavis]]
                         ["2024-02-07"
+                         nil
                          "Seattle parks & Neigborhoods - DRAFT"
                          "projects/geography/seattle-parks/index.html"
                          "projects/geography/seattle-parks"
                          nil
                          [:geography :gis :tablecloth :datavis :draft]]
                         ["2024-03-02"
+                         nil
                          "Exploring Observable - DRAFT"
                          "projects/datavis/observable/index.html"
                          "projects/datavis/observable"
                          nil
                          [:datavis :observable :dashboards :draft]]]
-                       (map (fn [[date title url source-path youtube-id tags]]
+                       (map (fn [[created-date last-update
+                                  title url source-path youtube-id tags]]
                               (let [draft (some #{:draft} tags)]
                                 (mapv (if draft
                                         (fn [v]
@@ -82,23 +91,28 @@
                                            [:div {:style {:opacity 0.4}}
                                             v]))
                                         identity)
-                                      [(str date
-                                            (when draft " (draft)"))
+                                      [(kind/hiccup
+                                        [:small created-date])
                                        (kind/hiccup
-                                        [:div {:style {:width "300px"}}
-                                         [:p [:a {:href url}
-                                              title]]
-                                         [:p [:a {:style {:font-family "monospace"
-                                                          :background-color "#fdf6e3"}
-                                                  :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
-                                                             source-path)}
-                                              "(source)"]]])
+                                        [:small last-update])
+                                       (kind/hiccup
+                                        [:small
+                                         [:div {:style {:width "300px"}}
+                                          [:p [:a {:href url}
+                                               title]]
+                                          [:p [:a {:style {:font-family "monospace"
+                                                           :background-color "#fdf6e3"}
+                                                   :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
+                                                              source-path)}
+                                               "(source)"]]
+                                          (when draft [:p "(draft)"])]])
                                        (when youtube-id
                                          (kind/video {:youtube-id youtube-id}))
                                        (->> tags
                                             (map name)
                                             (str/join ", "))])))))
-     :column-names ["date"
+     :column-names ["created-date"
+                    "last-update"
                     "title"
                     "video"
                     "tags"]}
