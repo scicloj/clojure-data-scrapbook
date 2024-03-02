@@ -1,9 +1,9 @@
 (load-file "../../../header.edn")
 
+;; # Observable examples - DRAFT
+
 (ns index
   (:require [codegen :refer [obs]]))
-
-;; # Observable examples - DRAFT
 
 ;; We will use the draft [codegen](./codegen) namespace.
 
