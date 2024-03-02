@@ -1,8 +1,9 @@
+;; # Generating Observable code
+
 (ns codegen
   (:require [scicloj.kindly.v4.kind :as kind]
             [clojure.string :as str]))
 
-;; # Generating Observable code
 
 ;; This is a draft experiment of generating [Observable](https://observablehq.com/) code from Clojure forms.
 
