@@ -28,7 +28,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 
 
-# Observable examples
+# Observable examples - DRAFT
 
 We will use the draft [codegen](./codegen) namespace.
 
