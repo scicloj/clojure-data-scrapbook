@@ -67,13 +67,19 @@
                          "projects/geography/seattle-parks/index.html"
                          "projects/geography/seattle-parks"
                          nil
-                         [:geography :gis :tablecloth :datavis :draft]]]
+                         [:geography :gis :tablecloth :datavis :draft]]
+                        ["2024-03-02"
+                         "Exploring Observable - DRAFT"
+                         "projects/datavis/observable/index.html"
+                         "projects/datavis/observable"
+                         nil
+                         [:datavis :observable :dashboards :draft]]]
                        (map (fn [[date title url source-path youtube-id tags]]
                               (let [draft (some #{:draft} tags)]
                                 (mapv (if draft
                                         (fn [v]
                                           (kind/hiccup
-                                           [:div {:style {:opacity 0.3}}
+                                           [:div {:style {:opacity 0.4}}
                                             v]))
                                         identity)
                                       [(str date
