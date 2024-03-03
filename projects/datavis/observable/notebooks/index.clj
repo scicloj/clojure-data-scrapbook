@@ -3,7 +3,8 @@
 ;; # Observable examples - DRAFT
 
 (ns index
-  (:require [codegen :refer [obs]]))
+  (:require [codegen :refer [obs]]
+            [scicloj.kindly.v4.kind :as kind]))
 
 ;; We will use the draft [codegen](./codegen) namespace.
 
@@ -12,7 +13,7 @@
 ;; Note that we read the data from a file,
 ;; that we can conveniently generate in Clojure.
 
-;; We follow [a basic example]((https://quarto.org/docs/interactive/ojs/libraries.html#plot))
+;; We follow [a basic example](https://quarto.org/docs/interactive/ojs/libraries.html#plot)
 ;; from Quarto's Observable docs.
 
 (obs
