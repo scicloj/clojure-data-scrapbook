@@ -3,8 +3,8 @@
 ;; # Clay & Noj demo: data visualization
 
 (ns index
-  (:require [scicloj.noj.v1.datasets
-             :as datasets]
+  (:require [scicloj.metamorph.ml.toydata
+             :as toydata]
             [scicloj.noj.v1.vis.hanami
              :as hanami]
             [scicloj.kindly.v4.kind
@@ -18,19 +18,22 @@
 
 ;; ## Datasets
 
-datasets/iris
+(def iris
+  (toydata/iris-ds))
+
+iris
 
 ;; ## Tables
 
-(-> datasets/iris
-    kind/table)
+(-> iris
+    (kind/table {:element/max-height "500px"}))
 
 ;; ## Visualization
 
-(-> datasets/iris
+(-> iris
     (hanami/linear-regression-plot
-     :petal-length
-     :petal-width
+     :petal_length
+     :petal_width
      {:line-options {:MCOLOR "brown"
                      :MSIZE 10
                      :OPACITY 0.5}
