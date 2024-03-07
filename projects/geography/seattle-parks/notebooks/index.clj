@@ -1,8 +1,10 @@
 (load-file "../../../header.edn")
 
-;; # Draft
+;; # Seattle Parks and Neighborhoods - DRAFT
 
-;; (This notebook will be divided into a few book chapters.)
+;; Timothy Prately and Daniel Slutsky
+
+;; (Probably, this notebook will be divided into a few book chapters.)
 
 ;; Choosing where to live depends on many factors such as job opportunities and cost of living.
 ;; I like walking, so one factor that is important to me is access to parks.
