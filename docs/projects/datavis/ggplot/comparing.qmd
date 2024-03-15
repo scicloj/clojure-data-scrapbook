@@ -1,7 +1,7 @@
 
 ---
 format:
-  html: {toc: true, toc-depth: 4, theme: spacelab, output-file: comparing.html}
+  html: {toc: true, toc-depth: 4, theme: cosmo, output-file: comparing.html}
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
@@ -10,6 +10,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
   background-color: transparent;
   border-style: none;
 }
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
 </style>
 <script src="comparing_files/md-default4.js" type="text/javascript"></script><script src="comparing_files/md-default5.js" type="text/javascript"></script>
 
@@ -166,10 +167,13 @@ Let us explore and compare a few plots through their Clojure representations:
 ```
 
 
+::: {.clay-image}
 
 ```{=html}
-<img src="comparing_files/0.png" style="width:100%;" />
+<img src="comparing_files/0.png" />
 ```
+
+:::
 
 
 
@@ -223,6 +227,15 @@ Let us explore and compare a few plots through their Clojure representations:
 
 
 
+::: {.printedClojure}
+```clojure
+nil
+
+```
+:::
+
+
+
 ```{=html}
 <h3>A scatterplot with colours</h3>
 ```
@@ -247,10 +260,13 @@ Let us explore and compare a few plots through their Clojure representations:
 ```
 
 
+::: {.clay-image}
 
 ```{=html}
-<img src="comparing_files/1.png" style="width:100%;" />
+<img src="comparing_files/1.png" />
 ```
+
+:::
 
 
 
@@ -345,10 +361,13 @@ Let us explore and compare a few plots through their Clojure representations:
 ```
 
 
+::: {.clay-image}
 
 ```{=html}
-<img src="comparing_files/2.png" style="width:100%;" />
+<img src="comparing_files/2.png" />
 ```
+
+:::
 
 
 
@@ -532,10 +551,13 @@ Let us explore and compare a few plots through their Clojure representations:
 ```
 
 
+::: {.clay-image}
 
 ```{=html}
-<img src="comparing_files/3.png" style="width:100%;" />
+<img src="comparing_files/3.png" />
 ```
+
+:::
 
 
 
@@ -636,7 +658,7 @@ Let us explore and compare a few plots through their Clojure representations:
    :ncol nil,
    :facets {:cyl [~ cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x55ade360f7d0&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x64571c465368&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
   :shrink [true],
   :super :ggproto-method},
  :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
@@ -665,7 +687,7 @@ Let us explore and compare a few plots through their Clojure representations:
    :ncol nil,
    :facets {:cyl [~cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x55ade360f7d0&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
+   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x64571c465368&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
 
 ```
 :::

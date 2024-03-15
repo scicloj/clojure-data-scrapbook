@@ -1,7 +1,7 @@
 
 ---
 format:
-  html: {toc: true, toc-depth: 4, theme: spacelab, output-file: using_clojisr.html}
+  html: {toc: true, toc-depth: 4, theme: cosmo, output-file: using_clojisr.html}
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
@@ -10,6 +10,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
   background-color: transparent;
   border-style: none;
 }
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
 </style>
 <script src="using_clojisr_files/md-default3.js" type="text/javascript"></script><script src="using_clojisr_files/md-default4.js" type="text/javascript"></script>
 
@@ -74,6 +75,7 @@ We will use the `mpg` dataset, which is part of the `ggplot` package.
 :::
 
 
+::: {.clay-dataset}
 _unnamed [234 11]:
 
 | :manufacturer |     :model | :displ | :year | :cyl |     :trans | :drv | :cty | :hwy | :fl |     :class |
@@ -101,6 +103,8 @@ _unnamed [234 11]:
 |    volkswagen |     passat |    2.8 |  1999 |    6 | manual(m5) |    f |   18 |   26 |   p |    midsize |
 |    volkswagen |     passat |    3.6 |  2008 |    6 |   auto(s6) |    f |   17 |   26 |   p |    midsize |
 
+
+:::
 
 
 Here is how we may generate a plot from R code:
@@ -461,7 +465,7 @@ Rendering as SVG:
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface57">
+<g id="surface280">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -1140,10 +1144,13 @@ Rendering as a bitmap image:
 :::
 
 
+::: {.clay-image}
 
 ```{=html}
-<img src="using_clojisr_files/0.png" style="width:100%;" />
+<img src="using_clojisr_files/0.png" />
 ```
+
+:::
 
 
 
@@ -1521,7 +1528,7 @@ Now we can plot using code generation:
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface94">
+<g id="surface317">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -2557,7 +2564,7 @@ Now we can do the same, but pasing a Clojure dataset:
   <path d="M 234.617188 5.480469 L 428.601562 5.480469 L 428.601562 23.246094 L 234.617188 23.246094 Z M 234.617188 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface99">
+<g id="surface322">
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="504" height="504" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1.066978;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0 504 L 504 504 L 504 0 L 0 0 Z M 0 504 "/>
@@ -3253,10 +3260,13 @@ Another example:
 :::
 
 
+::: {.clay-image}
 
 ```{=html}
-<img src="using_clojisr_files/1.png" style="width:100%;" />
+<img src="using_clojisr_files/1.png" />
 ```
+
+:::
 
 
 Reorganizing the code:
@@ -3279,10 +3289,13 @@ Reorganizing the code:
 :::
 
 
+::: {.clay-image}
 
 ```{=html}
-<img src="using_clojisr_files/2.png" style="width:100%;" />
+<img src="using_clojisr_files/2.png" />
 ```
+
+:::
 
 
 

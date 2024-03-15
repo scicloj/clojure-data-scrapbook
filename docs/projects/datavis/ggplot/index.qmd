@@ -1,7 +1,7 @@
 
 ---
 format:
-  html: {toc: true, toc-depth: 4, theme: spacelab, output-file: index.html}
+  html: {toc: true, toc-depth: 4, theme: cosmo, output-file: index.html}
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
@@ -10,6 +10,7 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
   background-color: transparent;
   border-style: none;
 }
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
 </style>
 <script src="index_files/md-default0.js" type="text/javascript"></script><script src="index_files/md-default1.js" type="text/javascript"></script>
 
