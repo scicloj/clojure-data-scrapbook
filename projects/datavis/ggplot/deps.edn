@@ -4,5 +4,5 @@
         scicloj/metamorph.ml {:mvn/version "0.7.3"}
         juji/editscript {:mvn/version "0.6.3"}
         net.clojars.scicloj/ggclj {:git/url "https://github.com/kiramclean/ggclj/"
-                                   :sha "0c42b1cc6f47c070a2696a2cd4ce8d31fe924a60"}}
+                                   :sha "87e62c8fa350cd8f97f7071bea7d1fb740d634df"}}
  :paths ["notebooks"]}
