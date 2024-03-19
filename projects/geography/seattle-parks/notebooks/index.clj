@@ -340,7 +340,8 @@ Note that even though many parks will appear as intersecting many neighbourhoods
       (tc/map-columns :n-parks
                       [:parks]
                       tc/row-count)
-      (tc/select-columns [:L_HOOD :S_HOOD :n-parks])))
+      (tc/select-columns [:L_HOOD :S_HOOD :n-parks])
+      (kind/table {:element/max-height "600px"})))
 
 
 (md "## Computing areas
@@ -387,7 +388,8 @@ For every neighborhood, we will compute the proportion of its area covered by pa
                           :neighborhood-area
                           :intersection-area
                           :park-proportion])
-      (tc/order-by [:park-proportion] :desc)))
+      (tc/order-by [:park-proportion] :desc)
+      (kind/table {:element/max-height "600px"})))
 
 
 (defn plot-neighborhoods-with-park-proportions [data]
