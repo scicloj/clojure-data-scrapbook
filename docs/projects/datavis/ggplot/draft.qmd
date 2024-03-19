@@ -211,15 +211,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["identity"],
      :transform
-     "function (x) \nx\n&lt;bytecode: 0x64571892e140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n&lt;bytecode: 0x623a200a6140&gt;\n&lt;environment: namespace:base&gt;\n",
      :inverse
-     "function (x) \nx\n&lt;bytecode: 0x64571892e140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n&lt;bytecode: 0x623a200a6140&gt;\n&lt;environment: namespace:base&gt;\n",
      :breaks
-     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x64571c897ab0&gt;\n&lt;environment: 0x6457297906a8&gt;\n",
+     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x623a24006960&gt;\n&lt;environment: 0x623a2f3e8728&gt;\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x64571c89d3b0&gt;\n&lt;environment: 0x645729790830&gt;\n",
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x623a2400c260&gt;\n&lt;environment: 0x623a2f3e85a0&gt;\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x64571c8a09d8&gt;\n&lt;environment: 0x645729790980&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x623a2400f888&gt;\n&lt;environment: 0x623a2f3e8450&gt;\n",
      :domain [##-Inf ##Inf]},
     :oob :ggproto-method,
     :position ["left"],
@@ -353,15 +353,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["log-10"],
      :transform
-     "function (x) \nlog(x, base)\n&lt;bytecode: 0x645722073738&gt;\n&lt;environment: 0x64572227d608&gt;\n",
+     "function (x) \nlog(x, base)\n&lt;bytecode: 0x623a297efa38&gt;\n&lt;environment: 0x623a275434e8&gt;\n",
      :inverse
-     "function (x) \nbase^x\n&lt;bytecode: 0x645722073888&gt;\n&lt;environment: 0x64572227d608&gt;\n",
+     "function (x) \nbase^x\n&lt;bytecode: 0x623a297efb88&gt;\n&lt;environment: 0x623a275434e8&gt;\n",
      :breaks
-     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x645721fbb9d8&gt;\n&lt;environment: 0x645722279368&gt;\n",
+     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x623a29737d80&gt;\n&lt;environment: 0x623a27547910&gt;\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x64571c89d3b0&gt;\n&lt;environment: 0x645722279800&gt;\n",
+     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x623a2400c260&gt;\n&lt;environment: 0x623a275474e8&gt;\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x64571c8a09d8&gt;\n&lt;environment: 0x645722279950&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x623a2400f888&gt;\n&lt;environment: 0x623a27547360&gt;\n",
      :domain [1.0E-100 ##Inf]},
     :oob :ggproto-method,
     :position ["bottom"],

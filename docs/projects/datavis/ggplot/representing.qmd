@@ -49,8 +49,8 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
 ::: {.printedClojure}
 ```clojure
- [1] "ggtrace"   "ggplot2"   "Rserve"    "stats"     "graphics"  "grDevices"
- [7] "utils"     "datasets"  "methods"   "base"     
+[1] "ggplot2"   "Rserve"    "stats"     "graphics"  "grDevices" "utils"    
+[7] "datasets"  "methods"   "base"     
 
 
 ```
