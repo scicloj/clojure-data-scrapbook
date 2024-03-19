@@ -1,3 +1,4 @@
 {:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
                :branch "main"}
+ :quarto {:format {:theme [:cosmo "notebooks/custom.scss"]}}
  :base-target-path "temp"}
