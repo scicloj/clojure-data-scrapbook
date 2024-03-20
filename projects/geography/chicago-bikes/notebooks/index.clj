@@ -4,16 +4,26 @@
             [aerial.hanami.templates :as ht]
             [clojure.string :as str]))
 
-(defonce data
+(defonce trips
   (-> "data/kaggle-divvy-weather/data.csv.gz"
       (tc/dataset {:key-fn keyword})))
 
+(defonce trips-by-route
+  (-> trips
+      (tc/group-by [:from_station_name :to_station_name])))
+
 (delay
-  (-> data
-      (tc/group-by [:from_station_name :to_station_name])
+  (-> trips-by-route
       (tc/aggregate {:n tc/row-count})
-      (tc/order-by [:n] :desc)
-      tc/head))
+      (tc/order-by [:n] :desc)))
+
+(def trips-by-popular-route
+  (-> trips
+      (tc/group-by [:from_station_name :to_station_name])
+      (tc/without-grouping->
+       (tc/select-rows (fn [row]
+                         (-> row :data tc/row-count (> 5000)))))))
+
 
 (def data-of-most-popular-route
   (-> data
