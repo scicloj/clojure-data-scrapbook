@@ -62,7 +62,7 @@
                          nil
                          [:math :wolframite :interop]]
                         ["2024-02-06"
-                         "2024-03-02"
+                         "2024-03-19"
                          "Exploring ggplot"
                          "projects/datavis/ggplot/index.html"
                          "projects/datavis/ggplot/"
