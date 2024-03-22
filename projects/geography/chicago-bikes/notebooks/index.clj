@@ -1,3 +1,5 @@
+(load-file "../../../header.edn")
+
 (ns index
   (:require [tablecloth.api :as tc]
             [scicloj.noj.v1.vis.hanami :as hanami]
