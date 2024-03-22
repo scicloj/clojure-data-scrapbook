@@ -1,6 +1,5 @@
 {:paths ["notebooks"]
  :deps {org.scicloj/noj {:mvn/version "1-alpha29"}
-        factual/geo {:mvn/version "3.0.1"}
         org.scicloj/clay {:mvn/version "2-alpha87"}
         org.clojars.generateme/fastmath-clustering {:mvn/version "1.0.0"}
         org.clojars.daslu/aerial.hanami {:mvn/version "0.19.1-temporary"}}}

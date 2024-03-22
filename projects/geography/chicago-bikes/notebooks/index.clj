@@ -11,37 +11,51 @@
             [scicloj.kindly.v4.kind :as kind]
             [charred.api :as charred]))
 
-(defonce trips
-  (->> ["202203"]
-       (map #(tc/dataset
-              (format
-               "data/kaggle-cyclistic/%s-divvy-tripdata.csv.gz" %)
-              {:key-fn keyword}))
-       (apply tc/concat)))
-
-(-> "notebooks/data/chicago.geojson"
-    slurp
-    (charred/read-json {:key-fn keyword}))
-
-(-> "notebooks/data/chicago.geojson"
-    slurp
-    (charred/read-json {:key-fn keyword})
-    :features
-    (->> (map (comp :coordinates :geometry))
-         flatten
-         (group-by pos?))
-    (update-vals (fn [xs]
-                   [(apply min xs)
-                    (apply max xs)])))
-
-(def corners
-  (tc/dataset
-   [#_{:start_lng -87.940114 :start_lat 41.644543 :end_lng -87.524137 :end_lat 42.023039}
-    {:start_lng -87.7 :start_lat 41.7 :end_lng -87.6 :end_lat 41.9}]))
+(ns index
+  (:require [tablecloth.api :as tc]
+            [clojure.string :as str]
+            [scicloj.noj.v1.vis.hanami :as hanami]
+            [aerial.hanami.templates :as ht]
+            [fastmath-clustering.core :as clustering]
+            [scicloj.kindly.v4.kind :as kind]))
 
 
-(def coord-column-names [:start_lat :start_lng
-                         :end_lat :end_lng])
+(defonce raw-trips
+  (-> "data/202304_divvy_tripdata.csv.gz"
+      (tc/dataset {:key-fn keyword})))
+
+(def processed-trips
+  (-> raw-trips
+      (tc/map-columns :hour [:started_at]
+                      (fn [s]
+                        (-> s
+                            (str/split #" ")
+                            second
+                            (str/split #":")
+                            first)))
+      (tc/select-rows (fn [row]
+                        (->> coord-colnames
+                             (map row)
+                             (every? some?))))))
+
+(delay
+  (-> processed-trips
+      (tc/group-by [:hour])
+      (tc/aggregate {:n tc/row-count})
+      (tc/order-by [:hour])))
+
+
+(defn hour-counts-plot [trips]
+  (-> trips
+      (tc/group-by [:hour])
+      (tc/aggregate {:n tc/row-count})
+      (hanami/plot ht/bar-chart
+                   {:X :hour
+                    :Y :n})))
+
+(delay
+  (hour-counts-plot processed-trips))
+
 
 (defn as-geo [vega-lite-spec]
   (-> vega-lite-spec
@@ -53,82 +67,92 @@
                                            k k)))
       (assoc :projection {:type :mercator})))
 
-(-> trips
+
+(-> processed-trips
     (tc/random 1000 {:seed 1})
-    (tc/select-columns coord-column-names)
-    (hanami/layers
-     {:TITLE "Chicago bike trips"}
-     [{:data {:url "notebooks/data/chicago.geojson"
-              :format {:type "topojson"}}
-       :mark {:type "geoshape"
-              :filled false
-              :opacity 0.4}}
-      (as-geo (hanami/plot nil
-                           (assoc ht/view-base :mark "rule")
-                           {:X :start_lat :Y :start_lng
-                            :X2 :end_lat :Y2 :end_lng
-                            :OPACITY 0.5}))
-      (as-geo (hanami/plot corners
-                           (assoc ht/view-base :mark "rule")
-                           {:X :start_lat :Y :start_lng
-                            :X2 :end_lat :Y2 :end_lng
-                            :OPACITY 1
-                            :SIZE 0}))]))
+    (hanami/plot ht/rule-chart
+                 {:X :start_lat
+                  :Y :start_lng
+                  :X2 :end_lat
+                  :Y2 :end_lng})
+    as-geo)
 
-(def trips-with-coords
-  (-> trips
-      (tc/select-rows (fn [row]
-                        (->> coord-column-names
-                             (map row)
-                             (every? some?))))))
 
-(let [clustering (-> trips-with-coords
-                     (tc/select-columns coord-column-names)
-                     tc/rows
-                     (clustering/k-means 100))]
-  (-> trips-with-coords
-      (tc/add-column :clustering (:clustering clustering))
-      (tc/group-by [:clustering])
+
+(delay
+  (-> processed-trips
+      (tc/random 1000 {:seed 1})
+      (hanami/plot ht/layer-chart
+                   {:TITLE "Chicago bike trips"
+                    :LAYER [{:data {:url "notebooks/chicago.geojson"
+                                    :format {:type "topojson"}}
+                             :mark {:type "geoshape"
+                                    :filled false
+                                    :clip true
+                                    :opacity 0.3}}
+                            (as-geo
+                             (hanami/plot nil
+                                          ht/rule-chart
+                                          {:X :start_lat
+                                           :Y :start_lng
+                                           :X2 :end_lat
+                                           :Y2 :end_lng
+                                           :OPACITY 0.1}))]})))
+
+
+(def coord-colnames
+  [:start_lat :start_lng :end_lat :end_lng])
+
+(def clustering
+  (-> processed-trips
+      (tc/select-columns coord-colnames)
+      tc/rows
+      (clustering/k-means 100)
+      (dissoc :data)))
+
+
+(delay
+  (-> processed-trips
+      (tc/add-column :cluster (:clustering clustering))
+      (tc/group-by [:cluster])
+      (tc/without-grouping->
+       (tc/order-by (fn [ds]
+                      (-> ds :data tc/row-count))
+                    :desc)
+       (tc/head 20))
       (tc/aggregate {:n tc/row-count
-                     :plot (fn [ds]
-                             [(-> ds
-                                  (tc/select-columns coord-column-names)
-                                  (hanami/layers
-                                   {:TITLE "Chicago bike trip clusters"}
-                                   [(as-geo
-                                     (hanami/plot nil
-                                                  (assoc ht/view-base :mark "rule")
-                                                  {:X :start_lat :Y :start_lng
-                                                   :X2 :end_lat :Y2 :end_lng
-                                                   :OPACITY 0.01
-                                                   :XSCALE {:zero false}
-                                                   :YSCALE {:zero false}}))
-                                    (as-geo
-                                     (hc/xform
-                                      ht/point-layer
-                                      {:X :start_lat :Y :start_lng
-                                       :OPACITY 0.01
-                                       :MCOLOR "purple"}))
-                                    (as-geo
-                                     (hc/xform
-                                      ht/point-layer
-                                      {:X :end_lat :Y :end_lng
-                                       :OPACITY 0.01
-                                       :MCOLOR "green"}))
-                                    (as-geo (hanami/plot
-                                             corners
-                                             (assoc ht/view-base :mark "rule")
-                                             {:X :start_lat :Y :start_lng
-                                              :X2 :end_lat :Y2 :end_lng
-                                              :OPACITY 0}))
-                                    {:data {:url "notebooks/data/chicago.geojson"
-                                            :format {:type "topojson"}}
-                                     :mark {:type "geoshape"
-                                            :filled false
-                                            :clip true
-                                            :opacity 0.4}}])
-                                  (assoc :height 2000
-                                         :width 500))])})
-      (tc/order-by [:n] :desc)
-      (tc/head 10)
+                     :hours (fn [trips]
+                              [(hour-counts-plot trips)])
+                     :map (fn [trips]
+                            [(-> trips
+                                 (hanami/plot ht/layer-chart
+                                              {:TITLE "Chicago bike trips"
+                                               :LAYER [{:data {:url "notebooks/chicago.geojson"
+                                                               :format {:type "topojson"}}
+                                                        :mark {:type "geoshape"
+                                                               :filled false
+                                                               :clip true
+                                                               :opacity 0.3}}
+                                                       (as-geo
+                                                        (hanami/plot nil
+                                                                     ht/rule-chart
+                                                                     {:X :start_lat
+                                                                      :Y :start_lng
+                                                                      :X2 :end_lat
+                                                                      :Y2 :end_lng
+                                                                      :OPACITY 0.01}))
+                                                       (as-geo
+                                                        (hanami/plot nil
+                                                                     ht/point-chart
+                                                                     {:X :start_lat
+                                                                      :Y :start_lng
+                                                                      :MCOLOR "purple"
+                                                                      :OPACITY 0.01}))
+                                                       (as-geo
+                                                        (hanami/plot nil
+                                                                     ht/point-chart
+                                                                     {:X :end_lat
+                                                                      :Y :end_lng
+                                                                      :MCOLOR "green"
+                                                                      :OPACITY 0.01}))]}))])})
       kind/table))
