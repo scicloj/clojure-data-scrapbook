@@ -30,6 +30,25 @@
 (def coord-column-names [:start_lat :start_lng
                          :end_lat :end_lng])
 
+(-> trips
+    (tc/random 1000 {:seed 1})
+    (tc/select-columns coord-column-names)
+    (hanami/layers
+     {:TITLE "Chicago bike trip clusters"}
+     [{:data {:url "notebooks/data/chicago.geojson"
+              :format {:type "topojson"}}
+       :mark {:type "geoshape"
+              :filled false
+              :opacity 0.4}}
+      (hanami/plot nil
+                   (assoc ht/view-base :mark "rule")
+                   {:X :start_lat :Y :start_lng
+                    :X2 :end_lat :Y2 :end_lng
+                    :OPACITY 0.4
+                    :XSCALE {:zero false}
+                    :YSCALE {:zero false}})]))
+
+
 
 
 (defn draw-clusters [trips n-clusters]
@@ -68,14 +87,27 @@
                                       :type "quantitative"})
                            (assoc :mark {:type "rule"
                                          :strokeCap "round"
-                                         :strokeWidth 5}))
+                                         :strokeWidth 2}))
                        (-> clusters
                            (tc/order-by [:size])
                            (hanami/plot ht/point-chart
                                         {:X :start_lat :Y :start_lng
-                                         :SIZE 100
+                                         :MCOLOR "purple"
                                          :XSCALE {:zero false}
-                                         :YSCALE {:zero false}}))]))))
+                                         :YSCALE {:zero false}})
+                           (assoc-in [:encoding :size]
+                                     {:field "size"
+                                      :type "quantitative"}))
+                       (-> clusters
+                           (tc/order-by [:size])
+                           (hanami/plot ht/point-chart
+                                        {:X :end_lat :Y :end_lng
+                                         :MCOLOR "green"
+                                         :XSCALE {:zero false}
+                                         :YSCALE {:zero false}})
+                           (assoc-in [:encoding :size]
+                                     {:field "size"
+                                      :type "quantitative"}))]))))
 
 
 
@@ -90,12 +122,22 @@
 
 
 (-> trips
+    (tc/map-columns :yearmonth [:started_at]
+                    (fn [s]
+                      (-> s
+                          (subs 0 7))))
+    (tc/select-rows #(-> % :yearmonth (= "2021-09")))
     (tc/group-by [:rideable_type] {:result-type :as-map})
     (update-vals #(draw-clusters % 200)))
 
 
 
 (-> trips
+    (tc/map-columns :yearmonth [:started_at]
+                    (fn [s]
+                      (-> s
+                          (subs 0 7))))
+    (tc/select-rows #(-> % :yearmonth (= "2021-09")))
     (tc/map-columns :hour [:started_at]
                     (fn [s]
                       (-> s
@@ -106,10 +148,12 @@
                           Integer/parseInt)))
     (tc/map-columns :daypart [:hour]
                     (fn [h]
-                      (quot h 8)))
+                      (-> h
+                          (quot 4)
+                          (* 4))))
     (tc/group-by [:daypart])
     (tc/aggregate (fn [ds]
-                    [(draw-clusters ds 50)]))
+                    [(draw-clusters ds 20)]))
     (tc/order-by [:daypart])
     kind/table)
 
