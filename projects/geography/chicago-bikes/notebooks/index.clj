@@ -12,20 +12,12 @@
 
 
 (defonce trips
-  (->> ["202104" "202105" "202106" "202107"
-        "202108" "202109" "202110" "202111"
-        "202112" "202201" "202202" "202203"]
+  (->> ["202203"]
        (map #(tc/dataset
               (format
                "data/kaggle-cyclistic/%s-divvy-tripdata.csv.gz" %)
               {:key-fn keyword}))
        (apply tc/concat)))
-
-(delay
-  (-> trips
-      (tc/group-by [:start_station_name :end_station_name])
-      (tc/aggregate {:n tc/row-count})
-      (tc/order-by [:n] :desc)))
 
 (def coord-column-names [:start_lat :start_lng
                          :end_lat :end_lng])
@@ -48,7 +40,58 @@
                     :XSCALE {:zero false}
                     :YSCALE {:zero false}})]))
 
+(def trips-with-coords
+  (-> trips
+      (tc/select-rows (fn [row]
+                        (->> coord-column-names
+                             (map row)
+                             (every? some?))))))
 
+(-> trips-with-coords
+    (tc/add-column :clustering (fn [ds]
+                                 (-> ds
+                                     (tc/select-columns coord-column-names)
+                                     tc/rows
+                                     (clustering/k-means 500 100000 1/100000)
+                                     :clustering)))
+    (tc/group-by [:clustering])
+    (tc/aggregate {:n tc/row-count
+                   :plot (fn [ds]
+                           [(-> ds
+                                (tc/select-columns coord-column-names)
+                                (hanami/layers
+                                 {:TITLE "Chicago bike trip clusters"}
+                                 [{:data {:url "notebooks/data/chicago.geojson"
+                                          :format {:type "topojson"}}
+                                   :mark {:type "geoshape"
+                                          :filled false
+                                          :opacity 0.4}}
+                                  (hanami/plot nil
+                                               (assoc ht/view-base :mark "rule")
+                                               {:X :start_lat :Y :start_lng
+                                                :X2 :end_lat :Y2 :end_lng
+                                                :OPACITY 0.01
+                                                :XSCALE {:zero false}
+                                                :YSCALE {:zero false}})
+                                  (hanami/plot nil
+                                               ht/point-chart
+                                               {:X :start_lat :Y :start_lng
+                                                :OPACITY 0.01
+                                                :MCOLOR "purple"})
+                                  (hanami/plot nil
+                                               ht/point-chart
+                                               {:X :end_lat :Y :end_lng
+                                                :OPACITY 0.01
+                                                :MCOLOR "green"})]))])})
+    (tc/order-by [:n] :desc)
+    (tc/head 10)
+    kind/table)
+
+
+(-> trips
+    (tc/select-columns coord-column-names)
+    (tc/select-rows [30855])
+    (tc/rows :as-maps))
 
 
 (defn draw-clusters [trips n-clusters]
