@@ -21,8 +21,11 @@
 
 
 (defonce raw-trips
-  (-> "data/202304_divvy_tripdata.csv.gz"
+  (-> "data/kaggle-cyclistic/202304_divvy_tripdata.csv.gz"
       (tc/dataset {:key-fn keyword})))
+
+(def coord-colnames
+  [:start_lat :start_lng :end_lat :end_lng])
 
 (def processed-trips
   (-> raw-trips
@@ -68,15 +71,15 @@
       (assoc :projection {:type :mercator})))
 
 
-(-> processed-trips
-    (tc/random 1000 {:seed 1})
-    (hanami/plot ht/rule-chart
-                 {:X :start_lat
-                  :Y :start_lng
-                  :X2 :end_lat
-                  :Y2 :end_lng})
-    as-geo)
-
+(delay
+  (-> processed-trips
+      (tc/random 1000 {:seed 1})
+      (hanami/plot ht/rule-chart
+                   {:X :start_lat
+                    :Y :start_lng
+                    :X2 :end_lat
+                    :Y2 :end_lng})
+      as-geo))
 
 
 (delay
@@ -84,7 +87,7 @@
       (tc/random 1000 {:seed 1})
       (hanami/plot ht/layer-chart
                    {:TITLE "Chicago bike trips"
-                    :LAYER [{:data {:url "notebooks/chicago.geojson"
+                    :LAYER [{:data {:url "notebooks/data/chicago.geojson"
                                     :format {:type "topojson"}}
                              :mark {:type "geoshape"
                                     :filled false
@@ -100,8 +103,6 @@
                                            :OPACITY 0.1}))]})))
 
 
-(def coord-colnames
-  [:start_lat :start_lng :end_lat :end_lng])
 
 (def clustering
   (-> processed-trips
@@ -119,12 +120,13 @@
        (tc/order-by (fn [ds]
                       (-> ds :data tc/row-count))
                     :desc)
-       (tc/head 20))
+       (tc/head 5))
       (tc/aggregate {:n tc/row-count
                      :hours (fn [trips]
                               [(hour-counts-plot trips)])
                      :map (fn [trips]
                             [(-> trips
+                                 (tc/random 1000 {:seed 1})
                                  (hanami/plot ht/layer-chart
                                               {:TITLE "Chicago bike trips"
                                                :LAYER [{:data {:url "notebooks/chicago.geojson"
