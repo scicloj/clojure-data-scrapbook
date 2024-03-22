@@ -334,38 +334,37 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb13-12"><a href="#cb13-12" aria-hidden="true" tabindex="-1"></a>                              [(hour-counts-plot trips)])</span>
 <span id="cb13-13"><a href="#cb13-13" aria-hidden="true" tabindex="-1"></a>                     <span class="at">:map</span> (<span class="kw">fn</span> [trips]</span>
 <span id="cb13-14"><a href="#cb13-14" aria-hidden="true" tabindex="-1"></a>                            [(<span class="kw">-&gt;</span> trips</span>
-<span id="cb13-15"><a href="#cb13-15" aria-hidden="true" tabindex="-1"></a>                                 (tc/random <span class="dv">1000</span> {<span class="at">:seed</span> <span class="dv">1</span>})</span>
-<span id="cb13-16"><a href="#cb13-16" aria-hidden="true" tabindex="-1"></a>                                 (hanami/plot ht/layer-chart</span>
-<span id="cb13-17"><a href="#cb13-17" aria-hidden="true" tabindex="-1"></a>                                              {<span class="at">:TITLE</span> <span class="st">"Chicago bike trips"</span></span>
-<span id="cb13-18"><a href="#cb13-18" aria-hidden="true" tabindex="-1"></a>                                               <span class="at">:LAYER</span> [{<span class="at">:data</span> {<span class="at">:url</span> <span class="st">"notebooks/chicago.geojson"</span></span>
-<span id="cb13-19"><a href="#cb13-19" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:format</span> {<span class="at">:type</span> <span class="st">"topojson"</span>}}</span>
-<span id="cb13-20"><a href="#cb13-20" aria-hidden="true" tabindex="-1"></a>                                                        <span class="at">:mark</span> {<span class="at">:type</span> <span class="st">"geoshape"</span></span>
-<span id="cb13-21"><a href="#cb13-21" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:filled</span> <span class="va">false</span></span>
-<span id="cb13-22"><a href="#cb13-22" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:clip</span> <span class="va">true</span></span>
-<span id="cb13-23"><a href="#cb13-23" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:opacity</span> <span class="fl">0.3</span>}}</span>
-<span id="cb13-24"><a href="#cb13-24" aria-hidden="true" tabindex="-1"></a>                                                       (as-geo</span>
-<span id="cb13-25"><a href="#cb13-25" aria-hidden="true" tabindex="-1"></a>                                                        (hanami/plot <span class="va">nil</span></span>
-<span id="cb13-26"><a href="#cb13-26" aria-hidden="true" tabindex="-1"></a>                                                                     ht/rule-chart</span>
-<span id="cb13-27"><a href="#cb13-27" aria-hidden="true" tabindex="-1"></a>                                                                     {<span class="at">:X</span> <span class="at">:start</span>_lat</span>
-<span id="cb13-28"><a href="#cb13-28" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y</span> <span class="at">:start</span>_lng</span>
-<span id="cb13-29"><a href="#cb13-29" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:X2</span> <span class="at">:end</span>_lat</span>
-<span id="cb13-30"><a href="#cb13-30" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y2</span> <span class="at">:end</span>_lng</span>
-<span id="cb13-31"><a href="#cb13-31" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:OPACITY</span> <span class="fl">0.01</span>}))</span>
-<span id="cb13-32"><a href="#cb13-32" aria-hidden="true" tabindex="-1"></a>                                                       (as-geo</span>
-<span id="cb13-33"><a href="#cb13-33" aria-hidden="true" tabindex="-1"></a>                                                        (hanami/plot <span class="va">nil</span></span>
-<span id="cb13-34"><a href="#cb13-34" aria-hidden="true" tabindex="-1"></a>                                                                     ht/point-chart</span>
-<span id="cb13-35"><a href="#cb13-35" aria-hidden="true" tabindex="-1"></a>                                                                     {<span class="at">:X</span> <span class="at">:start</span>_lat</span>
-<span id="cb13-36"><a href="#cb13-36" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y</span> <span class="at">:start</span>_lng</span>
-<span id="cb13-37"><a href="#cb13-37" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:MCOLOR</span> <span class="st">"purple"</span></span>
-<span id="cb13-38"><a href="#cb13-38" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:OPACITY</span> <span class="fl">0.01</span>}))</span>
-<span id="cb13-39"><a href="#cb13-39" aria-hidden="true" tabindex="-1"></a>                                                       (as-geo</span>
-<span id="cb13-40"><a href="#cb13-40" aria-hidden="true" tabindex="-1"></a>                                                        (hanami/plot <span class="va">nil</span></span>
-<span id="cb13-41"><a href="#cb13-41" aria-hidden="true" tabindex="-1"></a>                                                                     ht/point-chart</span>
-<span id="cb13-42"><a href="#cb13-42" aria-hidden="true" tabindex="-1"></a>                                                                     {<span class="at">:X</span> <span class="at">:end</span>_lat</span>
-<span id="cb13-43"><a href="#cb13-43" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y</span> <span class="at">:end</span>_lng</span>
-<span id="cb13-44"><a href="#cb13-44" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:MCOLOR</span> <span class="st">"green"</span></span>
-<span id="cb13-45"><a href="#cb13-45" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:OPACITY</span> <span class="fl">0.01</span>}))]}))])})</span>
-<span id="cb13-46"><a href="#cb13-46" aria-hidden="true" tabindex="-1"></a>      kind/table))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb13-15"><a href="#cb13-15" aria-hidden="true" tabindex="-1"></a>                                 (hanami/plot ht/layer-chart</span>
+<span id="cb13-16"><a href="#cb13-16" aria-hidden="true" tabindex="-1"></a>                                              {<span class="at">:TITLE</span> <span class="st">"Chicago bike trips"</span></span>
+<span id="cb13-17"><a href="#cb13-17" aria-hidden="true" tabindex="-1"></a>                                               <span class="at">:LAYER</span> [{<span class="at">:data</span> {<span class="at">:url</span> <span class="st">"notebooks/chicago.geojson"</span></span>
+<span id="cb13-18"><a href="#cb13-18" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:format</span> {<span class="at">:type</span> <span class="st">"topojson"</span>}}</span>
+<span id="cb13-19"><a href="#cb13-19" aria-hidden="true" tabindex="-1"></a>                                                        <span class="at">:mark</span> {<span class="at">:type</span> <span class="st">"geoshape"</span></span>
+<span id="cb13-20"><a href="#cb13-20" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:filled</span> <span class="va">false</span></span>
+<span id="cb13-21"><a href="#cb13-21" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:clip</span> <span class="va">true</span></span>
+<span id="cb13-22"><a href="#cb13-22" aria-hidden="true" tabindex="-1"></a>                                                               <span class="at">:opacity</span> <span class="fl">0.3</span>}}</span>
+<span id="cb13-23"><a href="#cb13-23" aria-hidden="true" tabindex="-1"></a>                                                       (as-geo</span>
+<span id="cb13-24"><a href="#cb13-24" aria-hidden="true" tabindex="-1"></a>                                                        (hanami/plot <span class="va">nil</span></span>
+<span id="cb13-25"><a href="#cb13-25" aria-hidden="true" tabindex="-1"></a>                                                                     ht/rule-chart</span>
+<span id="cb13-26"><a href="#cb13-26" aria-hidden="true" tabindex="-1"></a>                                                                     {<span class="at">:X</span> <span class="at">:start</span>_lat</span>
+<span id="cb13-27"><a href="#cb13-27" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y</span> <span class="at">:start</span>_lng</span>
+<span id="cb13-28"><a href="#cb13-28" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:X2</span> <span class="at">:end</span>_lat</span>
+<span id="cb13-29"><a href="#cb13-29" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y2</span> <span class="at">:end</span>_lng</span>
+<span id="cb13-30"><a href="#cb13-30" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:OPACITY</span> <span class="fl">0.01</span>}))</span>
+<span id="cb13-31"><a href="#cb13-31" aria-hidden="true" tabindex="-1"></a>                                                       (as-geo</span>
+<span id="cb13-32"><a href="#cb13-32" aria-hidden="true" tabindex="-1"></a>                                                        (hanami/plot <span class="va">nil</span></span>
+<span id="cb13-33"><a href="#cb13-33" aria-hidden="true" tabindex="-1"></a>                                                                     ht/point-chart</span>
+<span id="cb13-34"><a href="#cb13-34" aria-hidden="true" tabindex="-1"></a>                                                                     {<span class="at">:X</span> <span class="at">:start</span>_lat</span>
+<span id="cb13-35"><a href="#cb13-35" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y</span> <span class="at">:start</span>_lng</span>
+<span id="cb13-36"><a href="#cb13-36" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:MCOLOR</span> <span class="st">"purple"</span></span>
+<span id="cb13-37"><a href="#cb13-37" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:OPACITY</span> <span class="fl">0.01</span>}))</span>
+<span id="cb13-38"><a href="#cb13-38" aria-hidden="true" tabindex="-1"></a>                                                       (as-geo</span>
+<span id="cb13-39"><a href="#cb13-39" aria-hidden="true" tabindex="-1"></a>                                                        (hanami/plot <span class="va">nil</span></span>
+<span id="cb13-40"><a href="#cb13-40" aria-hidden="true" tabindex="-1"></a>                                                                     ht/point-chart</span>
+<span id="cb13-41"><a href="#cb13-41" aria-hidden="true" tabindex="-1"></a>                                                                     {<span class="at">:X</span> <span class="at">:end</span>_lat</span>
+<span id="cb13-42"><a href="#cb13-42" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:Y</span> <span class="at">:end</span>_lng</span>
+<span id="cb13-43"><a href="#cb13-43" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:MCOLOR</span> <span class="st">"green"</span></span>
+<span id="cb13-44"><a href="#cb13-44" aria-hidden="true" tabindex="-1"></a>                                                                      <span class="at">:OPACITY</span> <span class="fl">0.01</span>}))]}))])})</span>
+<span id="cb13-45"><a href="#cb13-45" aria-hidden="true" tabindex="-1"></a>      kind/table))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="clay-table">
 <div>
@@ -387,8 +386,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </thead>
 <tbody>
 <tr class="odd">
-<td>15</td>
-<td>13103</td>
+<td>57</td>
+<td>13013</td>
 <td><div>
 <script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/2.csv","format":{"type":"csv"}}});</script>
 </div></td>
@@ -397,8 +396,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div></td>
 </tr>
 <tr class="even">
-<td>61</td>
-<td>11728</td>
+<td>0</td>
+<td>12917</td>
 <td><div>
 <script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/4.csv","format":{"type":"csv"}}});</script>
 </div></td>
@@ -407,8 +406,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div></td>
 </tr>
 <tr class="odd">
-<td>29</td>
-<td>11427</td>
+<td>7</td>
+<td>12853</td>
 <td><div>
 <script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/6.csv","format":{"type":"csv"}}});</script>
 </div></td>
@@ -417,8 +416,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div></td>
 </tr>
 <tr class="even">
-<td>56</td>
-<td>11393</td>
+<td>27</td>
+<td>12666</td>
 <td><div>
 <script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/8.csv","format":{"type":"csv"}}});</script>
 </div></td>
@@ -427,8 +426,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div></td>
 </tr>
 <tr class="odd">
-<td>36</td>
-<td>11366</td>
+<td>70</td>
+<td>11639</td>
 <td><div>
 <script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/10.csv","format":{"type":"csv"}}});</script>
 </div></td>

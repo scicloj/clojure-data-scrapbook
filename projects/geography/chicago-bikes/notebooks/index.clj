@@ -128,7 +128,6 @@
                               [(hour-counts-plot trips)])
                      :map (fn [trips]
                             [(-> trips
-                                 (tc/random 1000 {:seed 1})
                                  (hanami/plot ht/layer-chart
                                               {:TITLE "Chicago bike trips"
                                                :LAYER [{:data {:url "notebooks/chicago.geojson"
