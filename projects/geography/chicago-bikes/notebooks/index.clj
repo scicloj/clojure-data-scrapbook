@@ -69,7 +69,9 @@
                                             :x2 :latitude2
                                             :y2 :longitude2}
                                            k k)))
-      (assoc :projection {:type :mercator})))
+      (assoc :projection {:type :mercator})
+      ;; to improve performance, we avoid rendering as SVG in this case:
+      (dissoc :usermeta)))
 
 
 (delay
@@ -112,6 +114,7 @@
       (clustering/k-means 100)
       (dissoc :data)))
 
+;; A few clueters:
 
 (delay
   (-> processed-trips
@@ -121,10 +124,8 @@
        (tc/order-by (fn [ds]
                       (-> ds :data tc/row-count))
                     :desc)
-       (tc/head 10))
+       (tc/head 5))
       (tc/aggregate {:n tc/row-count
-                     :hours (fn [trips]
-                              [(hour-counts-plot trips)])
                      :map (fn [trips]
                             [(-> trips
                                  (hanami/plot ht/layer-chart
@@ -156,5 +157,7 @@
                                                                      {:X :end_lat
                                                                       :Y :end_lng
                                                                       :MCOLOR "green"
-                                                                      :OPACITY 0.01}))]}))])})
+                                                                      :OPACITY 0.01}))]}))])
+                     :hours (fn [trips]
+                              [(hour-counts-plot trips)])})
       kind/table))
