@@ -14,29 +14,29 @@
 
 (ns index
   (:require [tablecloth.api :as tc]
+            [tech.v3.datatype.datetime :as datetime]
             [clojure.string :as str]
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [fastmath-clustering.core :as clustering]
             [scicloj.kindly.v4.kind :as kind]))
 
-
 (defonce raw-trips
   (-> "data/kaggle-cyclistic/202304_divvy_tripdata.csv.gz"
-      (tc/dataset {:key-fn keyword})))
+      (tc/dataset {:parser-fn {"started_at" [:local-date-time "yyyy-MM-dd HH:mm:ss"]
+                               "ended_at" [:local-date-time "yyyy-MM-dd HH:mm:ss"]}
+                   :key-fn keyword})))
 
 (def coord-colnames
   [:start_lat :start_lng :end_lat :end_lng])
 
+
 (def processed-trips
   (-> raw-trips
-      (tc/map-columns :hour [:started_at]
-                      (fn [s]
-                        (-> s
-                            (str/split #" ")
-                            second
-                            (str/split #":")
-                            first)))
+      (tc/add-column :hour (fn [trips]
+                             (->> trips
+                                  :started_at
+                                  (datetime/long-temporal-field :hours))))
       (tc/select-rows (fn [row]
                         (->> coord-colnames
                              (map row)
