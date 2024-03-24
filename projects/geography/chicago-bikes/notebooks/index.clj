@@ -69,9 +69,7 @@
                                             :x2 :latitude2
                                             :y2 :longitude2}
                                            k k)))
-      (assoc :projection {:type :mercator})
-      ;; to improve performance, we avoid rendering as SVG in this case:
-      (dissoc :usermeta)))
+      (assoc :projection {:type :mercator})))
 
 
 (delay
@@ -114,7 +112,12 @@
       (clustering/k-means 100)
       (dissoc :data)))
 
-;; A few clueters:
+;; Let us plot a few clusters:
+
+(defn as-png [vega-lite-spec]
+  ;; to improve performance, we avoid rendering as SVG in this case:
+  (-> vega-lite-spec
+      (assoc :usermeta {:embedOptions {:renderer :png}})))
 
 (delay
   (-> processed-trips
@@ -157,7 +160,8 @@
                                                                      {:X :end_lat
                                                                       :Y :end_lng
                                                                       :MCOLOR "green"
-                                                                      :OPACITY 0.01}))]}))])
+                                                                      :OPACITY 0.01}))]})
+                                 as-png)])
                      :hours (fn [trips]
                               [(hour-counts-plot trips)])})
       kind/table))
