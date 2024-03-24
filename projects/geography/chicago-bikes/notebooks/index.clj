@@ -5,9 +5,9 @@
 ;; This page will be updated soon.
 
 ;; ## Data sources:
-;; [Kaggle - Cyclistic bike share](https://www.kaggle.com/datasets/evangower/cyclistic-bike-share)
-;; [Kaggle - Cyclistic bike share - 2023 update](https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023)
-;; [Chicago neighborhoods geojson by @blackmad](https://github.com/blackmad/neighborhoods/blob/master/chicago.geojson)
+;; - [Cyclistic bike share - Kaggle](https://www.kaggle.com/datasets/evangower/cyclistic-bike-share)
+;; - [Cyclistic bike share - 2023 update - Kaggle](https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023)
+;; - [Chicago neighborhoods geojson by @blackmad](https://github.com/blackmad/neighborhoods/blob/master/chicago.geojson)
 
 
 ;; ## Workflow
