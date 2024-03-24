@@ -1,17 +1,16 @@
 (load-file "../../../header.edn")
 
-(ns index
-  (:require [tablecloth.api :as tc]
-            [scicloj.noj.v1.vis.hanami :as hanami]
-            [aerial.hanami.templates :as ht]
-            [aerial.hanami.common :as hc]
-            [clojure.string :as str]
-            [tech.v3.dataset :as tmd]
-            [tech.v3.datatype :as dtype]
-            [tech.v3.datatype.functional :as fun]
-            [fastmath-clustering.core :as clustering]
-            [scicloj.kindly.v4.kind :as kind]
-            [charred.api :as charred]))
+;; # Chicago bikes - DRAFT
+
+;; This page will be updated soon.
+
+;; ## Data sources:
+;; [Kaggle - Cyclistic bike share](https://www.kaggle.com/datasets/evangower/cyclistic-bike-share)
+;; [Kaggle - Cyclistic bike share - 2023 update](https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023)
+;; [Chicago neighborhoods geojson by @blackmad](https://github.com/blackmad/neighborhoods/blob/master/chicago.geojson)
+
+
+;; ## Workflow
 
 (ns index
   (:require [tablecloth.api :as tc]
@@ -122,7 +121,7 @@
        (tc/order-by (fn [ds]
                       (-> ds :data tc/row-count))
                     :desc)
-       (tc/head 5))
+       (tc/head 10))
       (tc/aggregate {:n tc/row-count
                      :hours (fn [trips]
                               [(hour-counts-plot trips)])
@@ -130,7 +129,7 @@
                             [(-> trips
                                  (hanami/plot ht/layer-chart
                                               {:TITLE "Chicago bike trips"
-                                               :LAYER [{:data {:url "notebooks/chicago.geojson"
+                                               :LAYER [{:data {:url "notebooks/data/chicago.geojson"
                                                                :format {:type "topojson"}}
                                                         :mark {:type "geoshape"
                                                                :filled false
