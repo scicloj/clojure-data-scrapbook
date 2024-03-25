@@ -10,7 +10,7 @@
 ;; - [Chicago neighborhoods geojson by @blackmad](https://github.com/blackmad/neighborhoods/blob/master/chicago.geojson)
 
 
-;; ## Workflow
+;; ## Setup
 
 (ns index
   (:require [tablecloth.api :as tc]
@@ -19,7 +19,14 @@
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [fastmath-clustering.core :as clustering]
-            [scicloj.kindly.v4.kind :as kind]))
+            [scicloj.kindly.v4.kind :as kind]
+            [scicloj.kindly.v4.api :as kindly]))
+
+
+^:kindly/hide-code
+(def md (comp kindly/hide-code kind/md))
+
+;; ## Reading the data
 
 (defonce raw-trips
   (-> "data/kaggle-cyclistic/202304_divvy_tripdata.csv.gz"
@@ -27,9 +34,7 @@
                                "ended_at" [:local-date-time "yyyy-MM-dd HH:mm:ss"]}
                    :key-fn keyword})))
 
-(def coord-colnames
-  [:start_lat :start_lng :end_lat :end_lng])
-
+;; ## Preprocessing
 
 (def processed-trips
   (-> raw-trips
@@ -48,6 +53,8 @@
       (tc/aggregate {:n tc/row-count})
       (tc/order-by [:hour])))
 
+
+;; ## Basic analysis and visualization
 
 (defn hour-counts-plot [trips]
   (-> trips
@@ -103,7 +110,7 @@
                                            :Y2 :end_lng
                                            :OPACITY 0.1}))]})))
 
-
+;; ## Clustering
 
 (def clustering
   (-> processed-trips
