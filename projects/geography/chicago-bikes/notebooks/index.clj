@@ -241,7 +241,7 @@ NAD83 / Illinois East
        (tc/order-by (fn [ds]
                       (-> ds :data tc/row-count))
                     :desc)
-       (tc/head 5))
+       (tc/head 20))
       (tc/aggregate {:n tc/row-count
                      :map (fn [trips]
                             [(-> trips

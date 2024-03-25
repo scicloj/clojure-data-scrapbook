@@ -107,11 +107,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </style>
 <style>.clay-limit-image-width .clay-image {max-width: 100%}
 </style>
-<script src="index_files/md-default12.js" type="text/javascript"></script>
-<script src="index_files/md-default13.js" type="text/javascript"></script>
-<script src="index_files/vega14.js" type="text/javascript"></script>
-<script src="index_files/vega15.js" type="text/javascript"></script>
-<script src="index_files/vega16.js" type="text/javascript"></script>
+<script src="index_files/md-default43.js" type="text/javascript"></script>
+<script src="index_files/md-default44.js" type="text/javascript"></script>
+<script src="index_files/vega45.js" type="text/javascript"></script>
+<script src="index_files/vega46.js" type="text/javascript"></script>
+<script src="index_files/vega47.js" type="text/javascript"></script>
 <a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40"></a><table><tbody><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td></tr></tbody></table>
 <section id="chicago-bikes---draft" class="level1">
 <h1>Chicago bikes - DRAFT</h1>
@@ -164,7 +164,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="coordinate-conversions" class="level2">
 <h2 class="anchored" data-anchor-id="coordinate-conversions">Coordinate conversions</h2>
 <p>The datasets uses the <a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS84</a> coordinate system, representing latitude and longitued over the globe. <a href="https://epsg.io/4326">EPSG:4326</a></p>
-<p>For metric computations (e.g., k-means clustering), we need to convert them to a coordinate system which is locally correct in terms of distances in a region around Chicago: NAD83 / Illinois East <a href="https://epsg.io/26971-1742">EPSG:26971</a></p>
+<p>For metric computations (e.g., k-means clustering), we need to convert them to a coordinate system which is locally correct in terms of distances in a region around Chicago: NAD83 / Illinois East <a href="https://epsg.io/26971">EPSG:26971</a></p>
 <div class="clay-dataset">
 <p>United States (USA) - Oregon and Washington. [1 3]:</p>
 <table class="table">
@@ -202,8 +202,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>  (geo.jts/transform-geom geometry crs-transform))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="sourceClojure">
-<div class="sourceCode" id="cb5"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> lat-lng-&gt;local-coords </span>[lat lng]</span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> (geo.jts/coordinate lat lng)</span>
+<div class="sourceCode" id="cb5"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> lng-lat-&gt;local-coords </span>[lng lat]</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> (geo.jts/coordinate lng lat)</span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>      geo.jts/point</span>
 <span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>      wgs84-&gt;Chicago</span>
 <span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>      geo.jts/coord</span>
@@ -214,617 +214,68 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Example:</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb6"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
-<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>  (lat-lng-&gt;local-coords -<span class="fl">89.27</span> <span class="fl">37.06</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>  [(lng-lat-&gt;local-coords -<span class="fl">89.27</span> <span class="fl">37.06</span>)</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>   (lng-lat-&gt;local-coords -<span class="fl">87.02</span> <span class="fl">42.5</span>)])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="printedClojure">
-<div class="sourceCode" id="cb7"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>[<span class="fl">216692.34803057025</span> <span class="fl">44059.50658557552</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>[[<span class="fl">216692.34803057025</span> <span class="fl">44059.50658557552</span>]</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a> [<span class="fl">407952.845339763</span> <span class="fl">648476.2402163395</span>]]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="preprocessing" class="level2">
 <h2 class="anchored" data-anchor-id="preprocessing">Preprocessing</h2>
 <div class="sourceClojure">
-<div class="sourceCode" id="cb8"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">def</span><span class="fu"> coord-colnames</span></span>
-<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  [<span class="at">:start</span>_lat <span class="at">:start</span>_lng <span class="at">:end</span>_lat <span class="at">:end</span>_lng])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
-<div class="sourceClojure">
-<div class="sourceCode" id="cb9"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">def</span><span class="fu"> processed-trips</span></span>
-<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> raw-trips</span>
-<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>      (tc/add-column <span class="at">:hour</span> (<span class="kw">fn</span> [trips]</span>
-<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>                             (<span class="kw">-&gt;&gt;</span> trips</span>
-<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>                                  <span class="at">:started</span>_at</span>
-<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>                                  (datetime/long-temporal-field <span class="at">:hours</span>))))</span>
-<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>      (tc/select-rows (<span class="kw">fn</span> [row]</span>
-<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>                        (<span class="kw">-&gt;&gt;</span> coord-colnames</span>
-<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>                             (<span class="kw">map</span> row)</span>
-<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>                             (<span class="kw">every?</span> some?))))</span>
-<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:start-local-coords</span> [<span class="at">:start</span>_lat <span class="at">:start</span>_lng] lat-lng-&gt;local-coords)</span>
-<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:end-local-coords</span> [<span class="at">:end</span>_lat <span class="at">:end</span>_lng] lat-lng-&gt;local-coords)</span>
-<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:start-local-x</span> [<span class="at">:start-local-coords</span>] <span class="kw">first</span>)</span>
-<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:start-local-y</span> [<span class="at">:start-local-coords</span>] <span class="kw">second</span>)</span>
-<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:end-local-x</span> [<span class="at">:end-local-coords</span>] <span class="kw">first</span>)</span>
-<span id="cb9-16"><a href="#cb9-16" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:end-local-y</span> [<span class="at">:end-local-coords</span>] <span class="kw">second</span>)))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb8"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">def</span><span class="fu"> processed-trips</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> raw-trips</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>      <span class="co">;; Compute starting hours:</span></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>      (tc/add-column <span class="at">:hour</span> (<span class="kw">fn</span> [trips]</span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>                             (<span class="kw">-&gt;&gt;</span> trips</span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>                                  <span class="at">:started</span>_at</span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>                                  (datetime/long-temporal-field <span class="at">:hours</span>))))</span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>      <span class="co">;; Make sure the latitude and longitude are nonmissing:</span></span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a>      (tc/select-rows (<span class="kw">fn</span> [row]</span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a>                        (<span class="kw">-&gt;&gt;</span> [<span class="at">:start</span>_lat <span class="at">:start</span>_lng <span class="at">:end</span>_lat <span class="at">:end</span>_lng]</span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a>                             (<span class="kw">map</span> row)</span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a>                             (<span class="kw">every?</span> some?))))</span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a>      <span class="co">;; Add local Chicago coordinates:</span></span>
+<span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:start-local-coords</span> [<span class="at">:start</span>_lng <span class="at">:start</span>_lat] lng-lat-&gt;local-coords)</span>
+<span id="cb8-15"><a href="#cb8-15" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:end-local-coords</span> [<span class="at">:end</span>_lng <span class="at">:end</span>_lat] lng-lat-&gt;local-coords)</span>
+<span id="cb8-16"><a href="#cb8-16" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:start-local-x</span> [<span class="at">:start-local-coords</span>] <span class="kw">first</span>)</span>
+<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:start-local-y</span> [<span class="at">:start-local-coords</span>] <span class="kw">second</span>)</span>
+<span id="cb8-18"><a href="#cb8-18" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:end-local-x</span> [<span class="at">:end-local-coords</span>] <span class="kw">first</span>)</span>
+<span id="cb8-19"><a href="#cb8-19" aria-hidden="true" tabindex="-1"></a>      (tc/map-columns <span class="at">:end-local-y</span> [<span class="at">:end-local-coords</span>] <span class="kw">second</span>)))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="comparing-eucledian-l2-distances-in-global-and-local-coordinates" class="level2">
 <h2 class="anchored" data-anchor-id="comparing-eucledian-l2-distances-in-global-and-local-coordinates">Comparing Eucledian (L2) distances in global and local coordinates</h2>
 <div class="sourceClojure">
-<div class="sourceCode" id="cb10"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> processed-trips</span>
-<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>    (tc/add-column <span class="at">:local-distance</span> #(fun/sqrt</span>
-<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>                                     (fun/+ (fun/sq (fun/- (<span class="at">:start-local-x</span> <span class="va">%</span>)</span>
-<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>                                                           (<span class="at">:end-local-x</span> <span class="va">%</span>)))</span>
-<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>                                            (fun/sq (fun/- (<span class="at">:start-local-y</span> <span class="va">%</span>)</span>
-<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>                                                           (<span class="at">:end-local-y</span> <span class="va">%</span>)))))))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb9"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">-&gt;</span> processed-trips</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>    (tc/random <span class="dv">1000</span> {<span class="at">:seed</span> <span class="dv">1</span>})</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>    (tc/add-column <span class="at">:local-L2</span> #(fun/sqrt</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>                               (fun/+ (fun/sq (fun/- (<span class="at">:start-local-x</span> <span class="va">%</span>)</span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>                                                     (<span class="at">:end-local-x</span> <span class="va">%</span>)))</span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>                                      (fun/sq (fun/- (<span class="at">:start-local-y</span> <span class="va">%</span>)</span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>                                                     (<span class="at">:end-local-y</span> <span class="va">%</span>))))))</span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>    (tc/add-column <span class="at">:global-L2</span> #(fun/sqrt</span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>                                (fun/+ (fun/sq (fun/- (<span class="at">:start</span>_lat <span class="va">%</span>)</span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>                                                      (<span class="at">:end</span>_lat <span class="va">%</span>)))</span>
+<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>                                       (fun/sq (fun/- (<span class="at">:start</span>_lng <span class="va">%</span>)</span>
+<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>                                                      (<span class="at">:end</span>_lng <span class="va">%</span>))))))</span>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>    (hanami/plot ht/point-chart</span>
+<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a>                 {<span class="at">:X</span> <span class="at">:local-L2</span></span>
+<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>                  <span class="at">:Y</span> <span class="at">:global-L2</span>}))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="clay-dataset">
-<p>data/kaggle-cyclistic/202304_divvy_tripdata.csv.gz [426155 21]:</p>
-<table class="table">
-<colgroup>
-<col style="width: 4%">
-<col style="width: 3%">
-<col style="width: 5%">
-<col style="width: 5%">
-<col style="width: 6%">
-<col style="width: 4%">
-<col style="width: 6%">
-<col style="width: 4%">
-<col style="width: 3%">
-<col style="width: 3%">
-<col style="width: 3%">
-<col style="width: 3%">
-<col style="width: 3%">
-<col style="width: 1%">
-<col style="width: 10%">
-<col style="width: 10%">
-<col style="width: 4%">
-<col style="width: 4%">
-<col style="width: 4%">
-<col style="width: 4%">
-<col style="width: 4%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>:ride_id</th>
-<th>:rideable_type</th>
-<th>:started_at</th>
-<th>:ended_at</th>
-<th>:start_station_name</th>
-<th>:start_station_id</th>
-<th>:end_station_name</th>
-<th>:end_station_id</th>
-<th style="text-align: right;">:start_lat</th>
-<th style="text-align: right;">:start_lng</th>
-<th style="text-align: right;">:end_lat</th>
-<th style="text-align: right;">:end_lng</th>
-<th>:member_casual</th>
-<th style="text-align: right;">:hour</th>
-<th>:start-local-coords</th>
-<th>:end-local-coords</th>
-<th style="text-align: right;">:start-local-x</th>
-<th style="text-align: right;">:start-local-y</th>
-<th style="text-align: right;">:end-local-x</th>
-<th style="text-align: right;">:end-local-y</th>
-<th style="text-align: right;">:local-distance</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>8FE8F7D9C10E88C7</td>
-<td>electric_bike</td>
-<td>2023-04-02T08:37:28</td>
-<td>2023-04-02T08:41:37</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.80000000</td>
-<td style="text-align: right;">-87.60000000</td>
-<td style="text-align: right;">41.79000000</td>
-<td style="text-align: right;">-87.60000000</td>
-<td>member</td>
-<td style="text-align: right;">8</td>
-<td>[506107.9325773436 -1.4235352994997954E7]</td>
-<td>[506137.42192310654 -1.4235316240199374E7]</td>
-<td style="text-align: right;">506107.93257734</td>
-<td style="text-align: right;">-1.42353530E+07</td>
-<td style="text-align: right;">506137.42192311</td>
-<td style="text-align: right;">-1.42353162E+07</td>
-<td style="text-align: right;">47.12257137</td>
-</tr>
-<tr class="even">
-<td>34E4ED3ADF1D821B</td>
-<td>electric_bike</td>
-<td>2023-04-19T11:29:02</td>
-<td>2023-04-19T11:52:12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.87000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td style="text-align: right;">41.93000000</td>
-<td style="text-align: right;">-87.68000000</td>
-<td>member</td>
-<td style="text-align: right;">11</td>
-<td>[501519.8754807859 -1.4231908162239876E7]</td>
-<td>[498721.7934556093 -1.4229901392452776E7]</td>
-<td style="text-align: right;">501519.87548079</td>
-<td style="text-align: right;">-1.42319082E+07</td>
-<td style="text-align: right;">498721.79345561</td>
-<td style="text-align: right;">-1.42299014E+07</td>
-<td style="text-align: right;">3443.31061597</td>
-</tr>
-<tr class="odd">
-<td>5296BF07A2F77CB5</td>
-<td>electric_bike</td>
-<td>2023-04-19T08:41:22</td>
-<td>2023-04-19T08:43:22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.93000000</td>
-<td style="text-align: right;">-87.66000000</td>
-<td style="text-align: right;">41.93000000</td>
-<td style="text-align: right;">-87.66000000</td>
-<td>member</td>
-<td style="text-align: right;">8</td>
-<td>[500470.98093146156 -1.4231382653142933E7]</td>
-<td>[500470.98093146156 -1.4231382653142933E7]</td>
-<td style="text-align: right;">500470.98093146</td>
-<td style="text-align: right;">-1.42313827E+07</td>
-<td style="text-align: right;">500470.98093146</td>
-<td style="text-align: right;">-1.42313827E+07</td>
-<td style="text-align: right;">0.00000000</td>
-</tr>
-<tr class="even">
-<td>40759916B76D5D52</td>
-<td>electric_bike</td>
-<td>2023-04-19T13:31:30</td>
-<td>2023-04-19T13:35:09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.92000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td style="text-align: right;">41.91000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td>member</td>
-<td style="text-align: right;">13</td>
-<td>[501374.92347210384 -1.423208764589309E7]</td>
-<td>[501403.9254779691 -1.4232051758343631E7]</td>
-<td style="text-align: right;">501374.92347210</td>
-<td style="text-align: right;">-1.42320876E+07</td>
-<td style="text-align: right;">501403.92547797</td>
-<td style="text-align: right;">-1.42320518E+07</td>
-<td style="text-align: right;">46.14144070</td>
-</tr>
-<tr class="odd">
-<td>77A96F460101AC63</td>
-<td>electric_bike</td>
-<td>2023-04-19T12:05:36</td>
-<td>2023-04-19T12:10:26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.91000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td style="text-align: right;">41.91000000</td>
-<td style="text-align: right;">-87.63000000</td>
-<td>member</td>
-<td style="text-align: right;">12</td>
-<td>[501403.9254779691 -1.4232051758343631E7]</td>
-<td>[503154.9287078667 -1.4233533354956321E7]</td>
-<td style="text-align: right;">501403.92547797</td>
-<td style="text-align: right;">-1.42320518E+07</td>
-<td style="text-align: right;">503154.92870787</td>
-<td style="text-align: right;">-1.42335334E+07</td>
-<td style="text-align: right;">2293.71768835</td>
-</tr>
-<tr class="even">
-<td>8D6A2328E19DC168</td>
-<td>electric_bike</td>
-<td>2023-04-19T12:17:34</td>
-<td>2023-04-19T12:21:38</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.91000000</td>
-<td style="text-align: right;">-87.63000000</td>
-<td style="text-align: right;">41.92000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td>member</td>
-<td style="text-align: right;">12</td>
-<td>[503154.9287078667 -1.4233533354956321E7]</td>
-<td>[501374.92347210384 -1.423208764589309E7]</td>
-<td style="text-align: right;">503154.92870787</td>
-<td style="text-align: right;">-1.42335334E+07</td>
-<td style="text-align: right;">501374.92347210</td>
-<td style="text-align: right;">-1.42320876E+07</td>
-<td style="text-align: right;">2293.14049610</td>
-</tr>
-<tr class="odd">
-<td>C97BBA66E07889F9</td>
-<td>electric_bike</td>
-<td>2023-04-19T09:35:48</td>
-<td>2023-04-19T09:45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.93000000</td>
-<td style="text-align: right;">-87.66000000</td>
-<td style="text-align: right;">41.91000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td>member</td>
-<td style="text-align: right;">9</td>
-<td>[500470.98093146156 -1.4231382653142933E7]</td>
-<td>[501403.9254779691 -1.4232051758343631E7]</td>
-<td style="text-align: right;">500470.98093146</td>
-<td style="text-align: right;">-1.42313827E+07</td>
-<td style="text-align: right;">501403.92547797</td>
-<td style="text-align: right;">-1.42320518E+07</td>
-<td style="text-align: right;">1148.07983018</td>
-</tr>
-<tr class="even">
-<td>6687AD4C575FF734</td>
-<td>electric_bike</td>
-<td>2023-04-11T16:13:43</td>
-<td>2023-04-11T16:18:41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">42.00000000</td>
-<td style="text-align: right;">-87.66000000</td>
-<td style="text-align: right;">41.99000000</td>
-<td style="text-align: right;">-87.66000000</td>
-<td>member</td>
-<td style="text-align: right;">16</td>
-<td>[500268.5489835212 -1.4231632572144713E7]</td>
-<td>[500297.48516240803 -1.4231596883177325E7]</td>
-<td style="text-align: right;">500268.54898352</td>
-<td style="text-align: right;">-1.42316326E+07</td>
-<td style="text-align: right;">500297.48516241</td>
-<td style="text-align: right;">-1.42315969E+07</td>
-<td style="text-align: right;">45.94567272</td>
-</tr>
-<tr class="odd">
-<td>A8FA4F73B22BC11F</td>
-<td>electric_bike</td>
-<td>2023-04-11T16:29:24</td>
-<td>2023-04-11T16:40:23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.99000000</td>
-<td style="text-align: right;">-87.66000000</td>
-<td style="text-align: right;">42.00000000</td>
-<td style="text-align: right;">-87.66000000</td>
-<td>member</td>
-<td style="text-align: right;">16</td>
-<td>[500297.48516240803 -1.4231596883177325E7]</td>
-<td>[500268.5489835212 -1.4231632572144713E7]</td>
-<td style="text-align: right;">500297.48516241</td>
-<td style="text-align: right;">-1.42315969E+07</td>
-<td style="text-align: right;">500268.54898352</td>
-<td style="text-align: right;">-1.42316326E+07</td>
-<td style="text-align: right;">45.94567272</td>
-</tr>
-<tr class="even">
-<td>81E158FE63D99994</td>
-<td>electric_bike</td>
-<td>2023-04-19T17:35:40</td>
-<td>2023-04-19T17:36:11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: right;">41.88000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td style="text-align: right;">41.88000000</td>
-<td style="text-align: right;">-87.65000000</td>
-<td>member</td>
-<td style="text-align: right;">17</td>
-<td>[501490.896685202 -1.4231944068150206E7]</td>
-<td>[501490.896685202 -1.4231944068150206E7]</td>
-<td style="text-align: right;">501490.89668520</td>
-<td style="text-align: right;">-1.42319441E+07</td>
-<td style="text-align: right;">501490.89668520</td>
-<td style="text-align: right;">-1.42319441E+07</td>
-<td style="text-align: right;">0.00000000</td>
-</tr>
-<tr class="odd">
-<td>…</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
-<td>…</td>
-<td style="text-align: right;">…</td>
-<td style="text-align: right;">…</td>
-<td style="text-align: right;">…</td>
-<td style="text-align: right;">…</td>
-<td>…</td>
-<td style="text-align: right;">…</td>
-<td>…</td>
-<td>…</td>
-<td style="text-align: right;">…</td>
-<td style="text-align: right;">…</td>
-<td style="text-align: right;">…</td>
-<td style="text-align: right;">…</td>
-<td style="text-align: right;">…</td>
-</tr>
-<tr class="even">
-<td>BAE25DBA0CD0DF40</td>
-<td>electric_bike</td>
-<td>2023-04-14T07:12:34</td>
-<td>2023-04-14T07:42:07</td>
-<td>Richmond St &amp; Diversey Ave</td>
-<td>15645</td>
-<td>Clark St &amp; Ida B Wells Dr</td>
-<td>TA1305000009</td>
-<td style="text-align: right;">41.93186915</td>
-<td style="text-align: right;">-87.70120764</td>
-<td style="text-align: right;">41.87593267</td>
-<td style="text-align: right;">-87.63058454</td>
-<td>member</td>
-<td style="text-align: right;">7</td>
-<td>[496862.65843494714 -1.422833795268237E7]</td>
-<td>[503203.23756304523 -1.4233366677138694E7]</td>
-<td style="text-align: right;">496862.65843495</td>
-<td style="text-align: right;">-1.42283380E+07</td>
-<td style="text-align: right;">503203.23756305</td>
-<td style="text-align: right;">-1.42333667E+07</td>
-<td style="text-align: right;">8092.65181120</td>
-</tr>
-<tr class="odd">
-<td>5A98F86A573AAB2C</td>
-<td>electric_bike</td>
-<td>2023-04-24T07:27:02</td>
-<td>2023-04-24T07:58:22</td>
-<td>Richmond St &amp; Diversey Ave</td>
-<td>15645</td>
-<td>Clark St &amp; Ida B Wells Dr</td>
-<td>TA1305000009</td>
-<td style="text-align: right;">41.93198085</td>
-<td style="text-align: right;">-87.70128024</td>
-<td style="text-align: right;">41.87593267</td>
-<td style="text-align: right;">-87.63058454</td>
-<td>member</td>
-<td style="text-align: right;">7</td>
-<td>[496855.9967031725 -1.4228332970829802E7]</td>
-<td>[503203.23756304523 -1.4233366677138694E7]</td>
-<td style="text-align: right;">496855.99670317</td>
-<td style="text-align: right;">-1.42283330E+07</td>
-<td style="text-align: right;">503203.23756305</td>
-<td style="text-align: right;">-1.42333667E+07</td>
-<td style="text-align: right;">8100.96696311</td>
-</tr>
-<tr class="even">
-<td>92B02F2FBDC1FB9F</td>
-<td>classic_bike</td>
-<td>2023-04-12T08:16:48</td>
-<td>2023-04-12T08:40:08</td>
-<td>Michigan Ave &amp; Lake St</td>
-<td>TA1305000011</td>
-<td>May St &amp; Taylor St</td>
-<td>13160</td>
-<td style="text-align: right;">41.88602200</td>
-<td style="text-align: right;">-87.62439800</td>
-<td style="text-align: right;">41.86948210</td>
-<td style="text-align: right;">-87.65548640</td>
-<td>member</td>
-<td style="text-align: right;">8</td>
-<td>[503715.7528127164 -1.4233861403126204E7]</td>
-<td>[501040.95186117536 -1.4231500346004825E7]</td>
-<td style="text-align: right;">503715.75281272</td>
-<td style="text-align: right;">-1.42338614E+07</td>
-<td style="text-align: right;">501040.95186118</td>
-<td style="text-align: right;">-1.42315003E+07</td>
-<td style="text-align: right;">3567.79355636</td>
-</tr>
-<tr class="odd">
-<td>119A6C53607EAA4A</td>
-<td>electric_bike</td>
-<td>2023-04-28T07:24:54</td>
-<td>2023-04-28T07:53:44</td>
-<td>Richmond St &amp; Diversey Ave</td>
-<td>15645</td>
-<td>Clark St &amp; Ida B Wells Dr</td>
-<td>TA1305000009</td>
-<td style="text-align: right;">41.93190396</td>
-<td style="text-align: right;">-87.70125461</td>
-<td style="text-align: right;">41.87593267</td>
-<td style="text-align: right;">-87.63058454</td>
-<td>member</td>
-<td style="text-align: right;">7</td>
-<td>[496858.4550664372 -1.4228334598338569E7]</td>
-<td>[503203.23756304523 -1.4233366677138694E7]</td>
-<td style="text-align: right;">496858.45506644</td>
-<td style="text-align: right;">-1.42283346E+07</td>
-<td style="text-align: right;">503203.23756305</td>
-<td style="text-align: right;">-1.42333667E+07</td>
-<td style="text-align: right;">8098.02951217</td>
-</tr>
-<tr class="even">
-<td>9BCF1E8BA027EAFA</td>
-<td>electric_bike</td>
-<td>2023-04-21T07:15:06</td>
-<td>2023-04-21T07:41:45</td>
-<td>Richmond St &amp; Diversey Ave</td>
-<td>15645</td>
-<td>Clark St &amp; Ida B Wells Dr</td>
-<td>TA1305000009</td>
-<td style="text-align: right;">41.93193305</td>
-<td style="text-align: right;">-87.70126295</td>
-<td style="text-align: right;">41.87593267</td>
-<td style="text-align: right;">-87.63058454</td>
-<td>member</td>
-<td style="text-align: right;">7</td>
-<td>[496857.6431128598 -1.4228334082633112E7]</td>
-<td>[503203.23756304523 -1.4233366677138694E7]</td>
-<td style="text-align: right;">496857.64311286</td>
-<td style="text-align: right;">-1.42283341E+07</td>
-<td style="text-align: right;">503203.23756305</td>
-<td style="text-align: right;">-1.42333667E+07</td>
-<td style="text-align: right;">8098.98613308</td>
-</tr>
-<tr class="odd">
-<td>A17D800CE963661A</td>
-<td>classic_bike</td>
-<td>2023-04-11T15:46:42</td>
-<td>2023-04-11T15:50:03</td>
-<td>Michigan Ave &amp; Lake St</td>
-<td>TA1305000011</td>
-<td>Clark St &amp; Randolph St</td>
-<td>TA1305000030</td>
-<td style="text-align: right;">41.88602200</td>
-<td style="text-align: right;">-87.62439800</td>
-<td style="text-align: right;">41.88457623</td>
-<td style="text-align: right;">-87.63188991</td>
-<td>member</td>
-<td style="text-align: right;">15</td>
-<td>[503715.7528127164 -1.4233861403126204E7]</td>
-<td>[503063.6502967095 -1.4233301315734675E7]</td>
-<td style="text-align: right;">503715.75281272</td>
-<td style="text-align: right;">-1.42338614E+07</td>
-<td style="text-align: right;">503063.65029671</td>
-<td style="text-align: right;">-1.42333013E+07</td>
-<td style="text-align: right;">859.61362107</td>
-</tr>
-<tr class="even">
-<td>8B441A6C436E9900</td>
-<td>classic_bike</td>
-<td>2023-04-29T21:20:21</td>
-<td>2023-04-29T21:30:19</td>
-<td>Halsted St &amp; 18th St</td>
-<td>13099</td>
-<td>Blue Island Ave &amp; 18th St</td>
-<td>13135</td>
-<td style="text-align: right;">41.85750568</td>
-<td style="text-align: right;">-87.64599144</td>
-<td style="text-align: right;">41.85755600</td>
-<td style="text-align: right;">-87.66153500</td>
-<td>casual</td>
-<td style="text-align: right;">21</td>
-<td>[501907.1861189178 -1.4232159853149524E7]</td>
-<td>[500545.77541704464 -1.4231010242258897E7]</td>
-<td style="text-align: right;">501907.18611892</td>
-<td style="text-align: right;">-1.42321599E+07</td>
-<td style="text-align: right;">500545.77541704</td>
-<td style="text-align: right;">-1.42310102E+07</td>
-<td style="text-align: right;">1781.86539868</td>
-</tr>
-<tr class="odd">
-<td>3980D64BE11540F1</td>
-<td>classic_bike</td>
-<td>2023-04-24T09:16:05</td>
-<td>2023-04-24T09:22:27</td>
-<td>Halsted St &amp; 18th St</td>
-<td>13099</td>
-<td>Blue Island Ave &amp; 18th St</td>
-<td>13135</td>
-<td style="text-align: right;">41.85750568</td>
-<td style="text-align: right;">-87.64599144</td>
-<td style="text-align: right;">41.85755600</td>
-<td style="text-align: right;">-87.66153500</td>
-<td>casual</td>
-<td style="text-align: right;">9</td>
-<td>[501907.1861189178 -1.4232159853149524E7]</td>
-<td>[500545.77541704464 -1.4231010242258897E7]</td>
-<td style="text-align: right;">501907.18611892</td>
-<td style="text-align: right;">-1.42321599E+07</td>
-<td style="text-align: right;">500545.77541704</td>
-<td style="text-align: right;">-1.42310102E+07</td>
-<td style="text-align: right;">1781.86539868</td>
-</tr>
-<tr class="even">
-<td>3EF4B49FF7DAA02C</td>
-<td>classic_bike</td>
-<td>2023-04-18T07:53:51</td>
-<td>2023-04-18T07:59:16</td>
-<td>Franklin St &amp; Jackson Blvd</td>
-<td>TA1305000025</td>
-<td>Clark St &amp; Randolph St</td>
-<td>TA1305000030</td>
-<td style="text-align: right;">41.87770796</td>
-<td style="text-align: right;">-87.63532114</td>
-<td style="text-align: right;">41.88457623</td>
-<td style="text-align: right;">-87.63188991</td>
-<td>casual</td>
-<td style="text-align: right;">7</td>
-<td>[502783.1163597462 -1.4233022413426103E7]</td>
-<td>[503063.6502967095 -1.4233301315734675E7]</td>
-<td style="text-align: right;">502783.11635975</td>
-<td style="text-align: right;">-1.42330224E+07</td>
-<td style="text-align: right;">503063.65029671</td>
-<td style="text-align: right;">-1.42333013E+07</td>
-<td style="text-align: right;">395.58284532</td>
-</tr>
-<tr class="odd">
-<td>210B2ED6583DC231</td>
-<td>classic_bike</td>
-<td>2023-04-29T07:33:55</td>
-<td>2023-04-29T07:38:57</td>
-<td>Michigan Ave &amp; Lake St</td>
-<td>TA1305000011</td>
-<td>Clark St &amp; Randolph St</td>
-<td>TA1305000030</td>
-<td style="text-align: right;">41.88602200</td>
-<td style="text-align: right;">-87.62439800</td>
-<td style="text-align: right;">41.88457623</td>
-<td style="text-align: right;">-87.63188991</td>
-<td>casual</td>
-<td style="text-align: right;">7</td>
-<td>[503715.7528127164 -1.4233861403126204E7]</td>
-<td>[503063.6502967095 -1.4233301315734675E7]</td>
-<td style="text-align: right;">503715.75281272</td>
-<td style="text-align: right;">-1.42338614E+07</td>
-<td style="text-align: right;">503063.65029671</td>
-<td style="text-align: right;">-1.42333013E+07</td>
-<td style="text-align: right;">859.61362107</td>
-</tr>
-<tr class="even">
-<td>D29CB39B9E3FC46A</td>
-<td>electric_bike</td>
-<td>2023-04-18T08:00:32</td>
-<td>2023-04-18T08:02:35</td>
-<td>Franklin St &amp; Jackson Blvd</td>
-<td>TA1305000025</td>
-<td>Clark St &amp; Ida B Wells Dr</td>
-<td>TA1305000009</td>
-<td style="text-align: right;">41.87813417</td>
-<td style="text-align: right;">-87.63525450</td>
-<td style="text-align: right;">41.87593267</td>
-<td style="text-align: right;">-87.63058454</td>
-<td>casual</td>
-<td style="text-align: right;">8</td>
-<td>[502787.71168951405 -1.4233028887672516E7]</td>
-<td>[503203.23756304523 -1.4233366677138694E7]</td>
-<td style="text-align: right;">502787.71168951</td>
-<td style="text-align: right;">-1.42330289E+07</td>
-<td style="text-align: right;">503203.23756305</td>
-<td style="text-align: right;">-1.42333667E+07</td>
-<td style="text-align: right;">535.50301123</td>
-</tr>
-</tbody>
-</table>
-</div>
+<div><script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"global-L2","type":"quantitative"},"x":{"field":"local-L2","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/0.csv","format":{"type":"csv"}}});</script></div>
+<p>The <code>local-L2</code> quantity, compted from the local Chicago coordinates, is a decent approximation of actual distance. We see that the <code>global-L2</code> quantity, computed accordingly from latitude and longitude, is not directly related to this quantity and might be misleading for metric tasks such as clustering.</p>
 </section>
 <section id="basic-analysis-and-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="basic-analysis-and-visualization">Basic analysis and visualization</h2>
 <div class="sourceClojure">
-<div class="sourceCode" id="cb11"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
-<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> processed-trips</span>
-<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>      (tc/group-by [<span class="at">:hour</span>])</span>
-<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a>      (tc/aggregate {<span class="at">:n</span> tc/row-count})</span>
-<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a>      (tc/order-by [<span class="at">:hour</span>])))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb10"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> processed-trips</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>      (tc/group-by [<span class="at">:hour</span>])</span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>      (tc/aggregate {<span class="at">:n</span> tc/row-count})</span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>      (tc/order-by [<span class="at">:hour</span>])))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="clay-dataset">
 <p>_unnamed [24 2]:</p>
@@ -928,42 +379,55 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </table>
 </div>
 <div class="sourceClojure">
-<div class="sourceCode" id="cb12"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> hour-counts-plot </span>[trips]</span>
-<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> trips</span>
-<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>      (tc/group-by [<span class="at">:hour</span>])</span>
-<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a>      (tc/aggregate {<span class="at">:n</span> tc/row-count})</span>
-<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>      (hanami/plot ht/bar-chart</span>
-<span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a>                   {<span class="at">:X</span> <span class="at">:hour</span></span>
-<span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y</span> <span class="at">:n</span>})))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb11"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> hour-counts-plot </span>[trips]</span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> trips</span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>      (tc/group-by [<span class="at">:hour</span>])</span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a>      (tc/aggregate {<span class="at">:n</span> tc/row-count})</span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a>      (hanami/plot ht/bar-chart</span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a>                   {<span class="at">:X</span> <span class="at">:hour</span></span>
+<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y</span> <span class="at">:n</span>})))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="sourceClojure">
-<div class="sourceCode" id="cb13"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
-<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>  (hour-counts-plot processed-trips))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb12"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>  (hour-counts-plot processed-trips))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div><script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/0.csv","format":{"type":"csv"}}});</script></div>
+<div><script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/1.csv","format":{"type":"csv"}}});</script></div>
 <div class="sourceClojure">
-<div class="sourceCode" id="cb14"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> as-geo </span>[vega-lite-spec]</span>
-<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> vega-lite-spec</span>
-<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>      (<span class="kw">update</span> <span class="at">:encoding</span> update-keys (<span class="kw">fn</span> [k]</span>
-<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>                                      (<span class="kw">get</span> {<span class="at">:x</span> <span class="at">:latitude</span></span>
-<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>                                            <span class="at">:y</span> <span class="at">:longitude</span></span>
-<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a>                                            <span class="at">:x2</span> <span class="at">:latitude2</span></span>
-<span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a>                                            <span class="at">:y2</span> <span class="at">:longitude2</span>}</span>
-<span id="cb14-8"><a href="#cb14-8" aria-hidden="true" tabindex="-1"></a>                                           k k)))</span>
-<span id="cb14-9"><a href="#cb14-9" aria-hidden="true" tabindex="-1"></a>      (<span class="kw">assoc</span> <span class="at">:projection</span> {<span class="at">:type</span> <span class="at">:mercator</span>})))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb13"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> as-geo </span>[vega-lite-spec]</span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> vega-lite-spec</span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>      (<span class="kw">update</span> <span class="at">:encoding</span> update-keys (<span class="kw">fn</span> [k]</span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>                                      (<span class="kw">get</span> {<span class="at">:x</span> <span class="at">:latitude</span></span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>                                            <span class="at">:y</span> <span class="at">:longitude</span></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>                                            <span class="at">:x2</span> <span class="at">:latitude2</span></span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>                                            <span class="at">:y2</span> <span class="at">:longitude2</span>}</span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a>                                           k k)))</span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a>      (<span class="kw">assoc</span> <span class="at">:projection</span> {<span class="at">:type</span> <span class="at">:mercator</span>})))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+<div class="sourceClojure">
+<div class="sourceCode" id="cb14"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> processed-trips</span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>      (tc/random <span class="dv">1000</span> {<span class="at">:seed</span> <span class="dv">1</span>})</span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>      (hanami/plot ht/rule-chart</span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>                   {<span class="at">:X</span> <span class="at">:start</span>_lat</span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y</span> <span class="at">:start</span>_lng</span>
+<span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:X2</span> <span class="at">:end</span>_lat</span>
+<span id="cb14-8"><a href="#cb14-8" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y2</span> <span class="at">:end</span>_lng})</span>
+<span id="cb14-9"><a href="#cb14-9" aria-hidden="true" tabindex="-1"></a>      as-geo))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div><script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300,"data":{"url":"index_files\/2.csv","format":{"type":"csv"}}});</script></div>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb15"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
 <span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> processed-trips</span>
 <span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>      (tc/random <span class="dv">1000</span> {<span class="at">:seed</span> <span class="dv">1</span>})</span>
 <span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a>      (hanami/plot ht/rule-chart</span>
-<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a>                   {<span class="at">:X</span> <span class="at">:start</span>_lat</span>
-<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y</span> <span class="at">:start</span>_lng</span>
-<span id="cb15-7"><a href="#cb15-7" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:X2</span> <span class="at">:end</span>_lat</span>
-<span id="cb15-8"><a href="#cb15-8" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y2</span> <span class="at">:end</span>_lng})</span>
-<span id="cb15-9"><a href="#cb15-9" aria-hidden="true" tabindex="-1"></a>      as-geo))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a>                   {<span class="at">:X</span> <span class="at">:start-local-x</span></span>
+<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y</span> <span class="at">:start-local-y</span></span>
+<span id="cb15-7"><a href="#cb15-7" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:X2</span> <span class="at">:end-local-x</span></span>
+<span id="cb15-8"><a href="#cb15-8" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:Y2</span> <span class="at">:end-local-y</span></span>
+<span id="cb15-9"><a href="#cb15-9" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:XSCALE</span> {<span class="at">:zero</span> <span class="va">false</span>}</span>
+<span id="cb15-10"><a href="#cb15-10" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:YSCALE</span> {<span class="at">:zero</span> <span class="va">false</span>}})))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div><script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300,"data":{"url":"index_files\/1.csv","format":{"type":"csv"}}});</script></div>
+<div><script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"scale":{"zero":false},"field":"start-local-y","type":"quantitative"},"x":{"scale":{"zero":false},"field":"start-local-x","type":"quantitative"},"y2":{"scale":{"zero":false},"field":"end-local-y","type":"quantitative"},"x2":{"scale":{"zero":false},"field":"end-local-x","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/2.csv","format":{"type":"csv"}}});</script></div>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb16"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>(<span class="kw">delay</span></span>
 <span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> processed-trips</span>
@@ -985,17 +449,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb16-18"><a href="#cb16-18" aria-hidden="true" tabindex="-1"></a>                                           <span class="at">:Y2</span> <span class="at">:end</span>_lng</span>
 <span id="cb16-19"><a href="#cb16-19" aria-hidden="true" tabindex="-1"></a>                                           <span class="at">:OPACITY</span> <span class="fl">0.1</span>}))]})))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div><script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"svg"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.1},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/1.csv","format":{"type":"csv"}}});</script></div>
+<div><script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"svg"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.1},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/2.csv","format":{"type":"csv"}}});</script></div>
 </section>
 <section id="clustering" class="level2">
 <h2 class="anchored" data-anchor-id="clustering">Clustering</h2>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb17"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">def</span><span class="fu"> clustering</span></span>
 <span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>  (<span class="kw">-&gt;</span> processed-trips</span>
-<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a>      (tc/select-columns coord-colnames)</span>
-<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a>      tc/rows</span>
-<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>      (clustering/k-means <span class="dv">100</span>)</span>
-<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>      (<span class="kw">dissoc</span> <span class="at">:data</span>)))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a>      (tc/select-columns [<span class="at">:start-local-x</span></span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a>                          <span class="at">:start-local-y</span></span>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>                          <span class="at">:end-local-x</span></span>
+<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>                          <span class="at">:end-local-y</span>])</span>
+<span id="cb17-7"><a href="#cb17-7" aria-hidden="true" tabindex="-1"></a>      tc/rows</span>
+<span id="cb17-8"><a href="#cb17-8" aria-hidden="true" tabindex="-1"></a>      (clustering/k-means <span class="dv">100</span>)</span>
+<span id="cb17-9"><a href="#cb17-9" aria-hidden="true" tabindex="-1"></a>      (<span class="kw">dissoc</span> <span class="at">:data</span>)))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>Let us plot a few clusters:</p>
 <div class="sourceClojure">
@@ -1013,7 +480,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb19-6"><a href="#cb19-6" aria-hidden="true" tabindex="-1"></a>       (tc/order-by (<span class="kw">fn</span> [ds]</span>
 <span id="cb19-7"><a href="#cb19-7" aria-hidden="true" tabindex="-1"></a>                      (<span class="kw">-&gt;</span> ds <span class="at">:data</span> tc/row-count))</span>
 <span id="cb19-8"><a href="#cb19-8" aria-hidden="true" tabindex="-1"></a>                    <span class="at">:desc</span>)</span>
-<span id="cb19-9"><a href="#cb19-9" aria-hidden="true" tabindex="-1"></a>       (tc/head <span class="dv">5</span>))</span>
+<span id="cb19-9"><a href="#cb19-9" aria-hidden="true" tabindex="-1"></a>       (tc/head <span class="dv">20</span>))</span>
 <span id="cb19-10"><a href="#cb19-10" aria-hidden="true" tabindex="-1"></a>      (tc/aggregate {<span class="at">:n</span> tc/row-count</span>
 <span id="cb19-11"><a href="#cb19-11" aria-hidden="true" tabindex="-1"></a>                     <span class="at">:map</span> (<span class="kw">fn</span> [trips]</span>
 <span id="cb19-12"><a href="#cb19-12" aria-hidden="true" tabindex="-1"></a>                            [(<span class="kw">-&gt;</span> trips</span>
@@ -1072,53 +539,203 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </thead>
 <tbody>
 <tr class="odd">
-<td>79</td>
-<td>12193</td>
+<td>15</td>
+<td>13295</td>
 <td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/2.csv","format":{"type":"csv"}}});</script>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/3.csv","format":{"type":"csv"}}});</script>
 </div></td>
 <td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/3.csv","format":{"type":"csv"}}});</script>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/4.csv","format":{"type":"csv"}}});</script>
 </div></td>
 </tr>
 <tr class="even">
+<td>33</td>
+<td>12755</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/5.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/6.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>35</td>
+<td>12720</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/7.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/8.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>98</td>
+<td>11474</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/9.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/10.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>31</td>
+<td>11101</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/11.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/12.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>10615</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/13.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/14.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>83</td>
+<td>10431</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/15.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/16.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>23</td>
+<td>10279</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/17.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/18.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>29</td>
+<td>10237</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/19.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/20.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>54</td>
+<td>10084</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/21.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/22.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>80</td>
+<td>9998</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/23.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/24.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>62</td>
+<td>9972</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/25.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/26.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>9850</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/27.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/28.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>76</td>
+<td>9422</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/29.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/30.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>8835</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/31.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/32.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>9</td>
+<td>8699</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/33.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/34.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
+<td>99</td>
+<td>8191</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/35.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/36.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="even">
+<td>96</td>
+<td>7838</td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/37.csv","format":{"type":"csv"}}});</script>
+</div></td>
+<td><div>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/38.csv","format":{"type":"csv"}}});</script>
+</div></td>
+</tr>
+<tr class="odd">
 <td>21</td>
-<td>11476</td>
+<td>7468</td>
 <td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/4.csv","format":{"type":"csv"}}});</script>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/39.csv","format":{"type":"csv"}}});</script>
 </div></td>
 <td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/5.csv","format":{"type":"csv"}}});</script>
-</div></td>
-</tr>
-<tr class="odd">
-<td>32</td>
-<td>11174</td>
-<td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/6.csv","format":{"type":"csv"}}});</script>
-</div></td>
-<td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/7.csv","format":{"type":"csv"}}});</script>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/40.csv","format":{"type":"csv"}}});</script>
 </div></td>
 </tr>
 <tr class="even">
-<td>49</td>
-<td>10835</td>
+<td>57</td>
+<td>6689</td>
 <td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/8.csv","format":{"type":"csv"}}});</script>
+<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/41.csv","format":{"type":"csv"}}});</script>
 </div></td>
 <td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/9.csv","format":{"type":"csv"}}});</script>
-</div></td>
-</tr>
-<tr class="odd">
-<td>13</td>
-<td>10360</td>
-<td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"usermeta":{"embedOptions":{"renderer":"png"}},"width":400,"background":"floralwhite","title":{"text":"Chicago bike trips"},"layer":[{"data":{"url":"notebooks\/data\/chicago.geojson","format":{"type":"topojson"}},"mark":{"type":"geoshape","filled":false,"clip":true,"opacity":0.3}},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"},"longitude2":{"field":"end_lng","type":"quantitative"},"latitude2":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":"rule","width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"start_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"start_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"purple","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300},{"encoding":{"longitude":{"field":"end_lng","type":"quantitative"},"opacity":{"value":0.01},"latitude":{"field":"end_lat","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"circle","color":"green","tooltip":true},"width":400,"background":"floralwhite","projection":{"type":"mercator"},"height":300}],"height":300,"data":{"url":"index_files\/10.csv","format":{"type":"csv"}}});</script>
-</div></td>
-<td><div>
-<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/11.csv","format":{"type":"csv"}}});</script>
+<script>vegaEmbed(document.currentScript.parentElement, {"encoding":{"y":{"field":"n","type":"quantitative"},"x":{"field":"hour","type":"quantitative"}},"usermeta":{"embedOptions":{"renderer":"svg"}},"mark":{"type":"bar","tooltip":true},"width":400,"background":"floralwhite","height":300,"data":{"url":"index_files\/42.csv","format":{"type":"csv"}}});</script>
 </div></td>
 </tr>
 </tbody>

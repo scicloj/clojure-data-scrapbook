@@ -1,0 +1,50 @@
+
+---
+format:
+  html: {toc: true, toc-depth: 4, theme: spacelab, output-file: index.html}
+code-block-background: true
+include-in-header: {text: '<link rel = "icon" href = "data:," />'}
+title: Clojure Data Scrapbook
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style>
+<script src="index_files/md-default0.js" type="text/javascript"></script><script src="index_files/md-default1.js" type="text/javascript"></script>
+
+```{=html}
+<img align="right" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="100" />
+```
+
+
+The Clojure Data Scrapbook is a collection of
+community-contributed examples for the emerging Clojure data stack.
+
+You can interact with the examples by cloning this project and starting a REPL.
+
+This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
+
+## Tutorials
+
+
+```{=html}
+<table class="table"><thead><tr><th>date</th><th>title</th><th>video</th><th>tags</th></tr></thead><tbody><tr><td><span data-qmd="2023-12-16"></span></td><td><div><pre><p><a href="projects/visual-tools/clay-calva-demo-20231216/index.html">Clay Calva integration - datavis demo</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-calva-demo-20231216" style="background-color:#fdf6e3;">(source)</a></p></pre></div></td><td><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/X_SsjhmG5Ok"></iframe></td><td><span data-qmd="visual-tools, clay, calva, noj, datavis, hanami, tablecloth"></span></td></tr><tr><td><span data-qmd="2023-12-17"></span></td><td><div><pre><p><a href="projects/visual-tools/clay-cider-demo-20231217/index.html">Clay CIDER integration - image processing demo</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/visual-tools/clay-cider-demo-20231217" style="background-color:#fdf6e3;">(source)</a></p></pre></div></td><td><iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/fd4kjlws6Ts"></iframe></td><td><span data-qmd="visual-tools, clay, cider, noj, image-processing, dtype-next, tensors"></span></td></tr><tr><td><span data-qmd="2023-12-31"></span></td><td><div><pre><p><a href="projects/data-formats/hdf/index.html">Reading HDF files</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/data-formats/hdf/" style="background-color:#fdf6e3;">(source)</a></p></pre></div></td><td><span data-qmd=""></span></td><td><span data-qmd="data-formats, hdf, dtype-next, tensors"></span></td></tr><tr><td><span data-qmd="2024-01-11"></span></td><td><div><pre><p><a href="projects/noj/ml.html">Machine learning - DRAFT</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/noj/notebooks/ml.clj" style="background-color:#fdf6e3;">(source)</a></p></pre></div></td><td><span data-qmd=""></span></td><td><span data-qmd="noj, ml, scicloj.ml, draft"></span></td></tr><tr><td><span data-qmd="2024-01-25"></span></td><td><div><pre><p><a href="projects/math/wolframite/index.html">Wolfram Lanauge interop with Wolframite</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/math/wolframite/" style="background-color:#fdf6e3;">(source)</a></p></pre></div></td><td><span data-qmd=""></span></td><td><span data-qmd="math, wolframite, interop, draft"></span></td></tr><tr><td><span data-qmd="2024-02-06"></span></td><td><div><pre><p><a href="projects/noj/ggplot.html">Exploring ggplot - DRAFT</a></p><p><a href="https://github.com/scicloj/clojure-data-scrapbook/tree/main/projects/noj/notebooks/ggplot.clj" style="background-color:#fdf6e3;">(source)</a></p></pre></div></td><td><span data-qmd=""></span></td><td><span data-qmd="noj, r, clojisr, interop, ggplot, datavis, draft"></span></td></tr></tbody></table>
+```
+
+
+
+## Contributing
+(coming soon)
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/index/notebooks/index.clj">projects/index/notebooks/index.clj</a></small></small></pre></div>
+```
