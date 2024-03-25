@@ -14,6 +14,7 @@
 
 (ns index
   (:require [tablecloth.api :as tc]
+            [clojure.math :as math]
             [tech.v3.datatype.datetime :as datetime]
             [clojure.string :as str]
             [scicloj.noj.v1.vis.hanami :as hanami]
@@ -113,6 +114,9 @@ NAD83 / Illinois East
       (tc/map-columns :end-local-y [:end-local-coords] second)))
 
 
+;; ## Comparing Eucledian (L2) distances in global and local coordinates
+
+;; TODO
 
 
 ;; ## Basic analysis and visualization
