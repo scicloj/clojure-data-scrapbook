@@ -54,8 +54,8 @@ coordinate system, representing latitude and longitued over the globe.
 
 (md "For metric computations we need to convert them to a coordinate system
 which is locally correct in terms of distances in a region around Chicago:
-NAD 1983 (CORS96) SPCS Illinois East.
-[EPSG:103270](https://epsg.io/103270)")
+NAD83 / Illinois East
+[EPSG:26971](https://epsg.io/26971-1742)")
 
 ^:kindly/hide-code
 (-> {"Center coordinates" [[316133.6 345590.74]]
@@ -68,7 +68,7 @@ NAD 1983 (CORS96) SPCS Illinois East.
 
 (def crs-transform
   (geo.crs/create-transform (geo.crs/create-crs 4326)
-                            (geo.crs/create-crs 103270)))
+                            (geo.crs/create-crs 26971)))
 
 (defn wgs84->Chicago
   "Transforming latitude-longitude coordinates
@@ -78,6 +78,9 @@ NAD 1983 (CORS96) SPCS Illinois East.
 
 
 ;; ## Preprocessing
+
+(def coord-colnames
+  [:start_lat :start_lng :end_lat :end_lng])
 
 (def processed-trips
   (-> raw-trips
@@ -95,8 +98,6 @@ NAD 1983 (CORS96) SPCS Illinois East.
       (tc/group-by [:hour])
       (tc/aggregate {:n tc/row-count})
       (tc/order-by [:hour])))
-
-
 
 
 ;; ## Basic analysis and visualization
