@@ -76,6 +76,19 @@ NAD83 / Illinois East
   [geometry]
   (geo.jts/transform-geom geometry crs-transform))
 
+(defn lat-lng->local-coords [lat lng]
+  (-> (geo.jts/coordinate -89.27 37.06)
+      geo.jts/point
+      wgs84->Chicago
+      geo.jts/coord
+      ((fn [^Coordinate coord]
+         [(.getX coord)
+          (.getY coord)]))))
+
+;; Example:
+
+(delay
+  (lat-lng->local-coords -89.27 37.06))
 
 ;; ## Preprocessing
 
@@ -91,16 +104,24 @@ NAD83 / Illinois East
       (tc/select-rows (fn [row]
                         (->> coord-colnames
                              (map row)
-                             (every? some?))))))
+                             (every? some?))))
+      (tc/map-columns :start-local-coords [:start_lat :start_lng] lat-lng->local-coords)
+      (tc/map-columns :end-local-coords [:end_lat :end_lng] lat-lng->local-coords)
+      (tc/map-columns :start-local-x [:start-local-coords] first)
+      (tc/map-columns :start-local-y [:start-local-coords] second)
+      (tc/map-columns :end-local-x [:end-local-coords] first)
+      (tc/map-columns :end-local-y [:end-local-coords] second)))
+
+
+
+
+;; ## Basic analysis and visualization
 
 (delay
   (-> processed-trips
       (tc/group-by [:hour])
       (tc/aggregate {:n tc/row-count})
       (tc/order-by [:hour])))
-
-
-;; ## Basic analysis and visualization
 
 (defn hour-counts-plot [trips]
   (-> trips
