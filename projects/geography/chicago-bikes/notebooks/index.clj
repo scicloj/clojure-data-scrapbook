@@ -58,7 +58,7 @@ coordinate system, representing latitude and longitued over the globe.
 we need to convert them to a coordinate system
 which is locally correct in terms of distances in a region around Chicago:
 NAD83 / Illinois East
-[EPSG:26971](https://epsg.io/26971-1742)")
+[EPSG:26971](https://epsg.io/26971)")
 
 ^:kindly/hide-code
 (-> {"Center coordinates" [[316133.6 345590.74]]
@@ -79,8 +79,8 @@ NAD83 / Illinois East
   [geometry]
   (geo.jts/transform-geom geometry crs-transform))
 
-(defn lat-lng->local-coords [lat lng]
-  (-> (geo.jts/coordinate lat lng)
+(defn lng-lat->local-coords [lng lat]
+  (-> (geo.jts/coordinate lng lat)
       geo.jts/point
       wgs84->Chicago
       geo.jts/coord
@@ -91,30 +91,30 @@ NAD83 / Illinois East
 ;; Example:
 
 (delay
-  (lat-lng->local-coords -89.27 37.06))
+  [(lng-lat->local-coords -89.27 37.06)
+   (lng-lat->local-coords -87.02 42.5)])
 
 ;; ## Preprocessing
 
-(def coord-colnames
-  [:start_lat :start_lng :end_lat :end_lng])
-
 (def processed-trips
   (-> raw-trips
+      ;; Compute starting hours:
       (tc/add-column :hour (fn [trips]
                              (->> trips
                                   :started_at
                                   (datetime/long-temporal-field :hours))))
+      ;; Make sure the latitude and longitude are nonmissing:
       (tc/select-rows (fn [row]
-                        (->> coord-colnames
+                        (->> [:start_lat :start_lng :end_lat :end_lng]
                              (map row)
                              (every? some?))))
-      (tc/map-columns :start-local-coords [:start_lat :start_lng] lat-lng->local-coords)
-      (tc/map-columns :end-local-coords [:end_lat :end_lng] lat-lng->local-coords)
+      ;; Add local Chicago coordinates:
+      (tc/map-columns :start-local-coords [:start_lng :start_lat] lng-lat->local-coords)
+      (tc/map-columns :end-local-coords [:end_lng :end_lat] lng-lat->local-coords)
       (tc/map-columns :start-local-x [:start-local-coords] first)
       (tc/map-columns :start-local-y [:start-local-coords] second)
       (tc/map-columns :end-local-x [:end-local-coords] first)
       (tc/map-columns :end-local-y [:end-local-coords] second)))
-
 
 ;; ## Comparing Eucledian (L2) distances in global and local coordinates
 
@@ -182,6 +182,17 @@ NAD83 / Illinois East
                     :Y2 :end_lng})
       as-geo))
 
+(delay
+  (-> processed-trips
+      (tc/random 1000 {:seed 1})
+      (hanami/plot ht/rule-chart
+                   {:X :start-local-x
+                    :Y :start-local-y
+                    :X2 :end-local-x
+                    :Y2 :end-local-y
+                    :XSCALE {:zero false}
+                    :YSCALE {:zero false}})))
+
 
 (delay
   (-> processed-trips
@@ -207,7 +218,10 @@ NAD83 / Illinois East
 
 (def clustering
   (-> processed-trips
-      (tc/select-columns coord-colnames)
+      (tc/select-columns [:start-local-x
+                          :start-local-y
+                          :end-local-x
+                          :end-local-y])
       tc/rows
       (clustering/k-means 100)
       (dissoc :data)))
