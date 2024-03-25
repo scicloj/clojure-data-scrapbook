@@ -119,11 +119,27 @@ NAD83 / Illinois East
 ;; ## Comparing Eucledian (L2) distances in global and local coordinates
 
 (-> processed-trips
-    (tc/add-column :local-distance #(fun/sqrt
-                                     (fun/+ (fun/sq (fun/- (:start-local-x %)
-                                                           (:end-local-x %)))
-                                            (fun/sq (fun/- (:start-local-y %)
-                                                           (:end-local-y %)))))))
+    (tc/random 1000 {:seed 1})
+    (tc/add-column :local-L2 #(fun/sqrt
+                               (fun/+ (fun/sq (fun/- (:start-local-x %)
+                                                     (:end-local-x %)))
+                                      (fun/sq (fun/- (:start-local-y %)
+                                                     (:end-local-y %))))))
+    (tc/add-column :global-L2 #(fun/sqrt
+                                (fun/+ (fun/sq (fun/- (:start_lat %)
+                                                      (:end_lat %)))
+                                       (fun/sq (fun/- (:start_lng %)
+                                                      (:end_lng %))))))
+    (hanami/plot ht/point-chart
+                 {:X :local-L2
+                  :Y :global-L2}))
+
+;; The `local-L2` quantity, compted from the local Chicago coordinates,
+;; is a decent approximation of actual distance.
+;; We see that the `global-L2` quantity, computed accordingly
+;; from latitude and longitude, is not directly related to
+;; this quantity and might be misleading for metric tasks
+;; such as clustering.
 
 ;; ## Basic analysis and visualization
 
