@@ -19,8 +19,19 @@
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
             [fastmath-clustering.core :as clustering]
+            [geo
+             [geohash :as geohash]
+             [jts :as jts]
+             [spatial :as spatial]
+             [io :as geoio]
+             [crs :as crs]]
             [scicloj.kindly.v4.kind :as kind]
-            [scicloj.kindly.v4.api :as kindly]))
+            [scicloj.kindly.v4.api :as kindly])
+  (:import (org.locationtech.jts.geom Geometry Point Polygon Coordinate)
+           (org.locationtech.jts.geom.prep PreparedGeometry
+                                           PreparedLineString
+                                           PreparedPolygon
+                                           PreparedGeometryFactory)))
 
 
 ^:kindly/hide-code
@@ -33,6 +44,38 @@
       (tc/dataset {:parser-fn {"started_at" [:local-date-time "yyyy-MM-dd HH:mm:ss"]
                                "ended_at" [:local-date-time "yyyy-MM-dd HH:mm:ss"]}
                    :key-fn keyword})))
+
+;; ## Coordinate conversions
+
+(md "
+The datasets uses the [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System)
+coordinate system, representing latitude and longitued over the globe.
+[EPSG:4326](https://epsg.io/4326)")
+
+(md "For metric computations we need to convert them to a coordinate system
+which is locally correct in terms of distances in a region around Chicago:
+NAD 1983 (CORS96) SPCS Illinois East.
+[EPSG:103270](https://epsg.io/103270)")
+
+^:kindly/hide-code
+(-> {"Center coordinates" [[316133.6 345590.74]]
+     "Projected bounds"   [[[216692.35 43649.23]
+                            [416809.98 648476.24]]]
+     "WGS84 bounds"       [[[-89.27 37.06]
+                            [-87.02 42.5]]]}
+    tc/dataset
+    (tc/set-dataset-name "United States (USA) - Oregon and Washington."))
+
+(def crs-transform
+  (geo.crs/create-transform (geo.crs/create-crs 4326)
+                            (geo.crs/create-crs 103270)))
+
+(defn wgs84->Chicago
+  "Transforming latitude-longitude coordinates
+  to local Euclidean coordinates around Seattle."
+  [geometry]
+  (geo.jts/transform-geom geometry crs-transform))
+
 
 ;; ## Preprocessing
 
@@ -52,6 +95,8 @@
       (tc/group-by [:hour])
       (tc/aggregate {:n tc/row-count})
       (tc/order-by [:hour])))
+
+
 
 
 ;; ## Basic analysis and visualization
