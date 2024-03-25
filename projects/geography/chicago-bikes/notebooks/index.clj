@@ -53,7 +53,8 @@ The datasets uses the [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_Syste
 coordinate system, representing latitude and longitued over the globe.
 [EPSG:4326](https://epsg.io/4326)")
 
-(md "For metric computations we need to convert them to a coordinate system
+(md "For metric computations (e.g., k-means clustering),
+we need to convert them to a coordinate system
 which is locally correct in terms of distances in a region around Chicago:
 NAD83 / Illinois East
 [EPSG:26971](https://epsg.io/26971-1742)")
@@ -116,7 +117,6 @@ NAD83 / Illinois East
 
 ;; ## Comparing Eucledian (L2) distances in global and local coordinates
 
-;; TODO
 
 
 ;; ## Basic analysis and visualization
