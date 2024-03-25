@@ -16,6 +16,7 @@
   (:require [tablecloth.api :as tc]
             [clojure.math :as math]
             [tech.v3.datatype.datetime :as datetime]
+            [tech.v3.datatype.functional :as fun]
             [clojure.string :as str]
             [scicloj.noj.v1.vis.hanami :as hanami]
             [aerial.hanami.templates :as ht]
@@ -79,7 +80,7 @@ NAD83 / Illinois East
   (geo.jts/transform-geom geometry crs-transform))
 
 (defn lat-lng->local-coords [lat lng]
-  (-> (geo.jts/coordinate -89.27 37.06)
+  (-> (geo.jts/coordinate lat lng)
       geo.jts/point
       wgs84->Chicago
       geo.jts/coord
@@ -117,7 +118,12 @@ NAD83 / Illinois East
 
 ;; ## Comparing Eucledian (L2) distances in global and local coordinates
 
-
+(-> processed-trips
+    (tc/add-column :local-distance #(fun/sqrt
+                                     (fun/+ (fun/sq (fun/- (:start-local-x %)
+                                                           (:end-local-x %)))
+                                            (fun/sq (fun/- (:start-local-y %)
+                                                           (:end-local-y %)))))))
 
 ;; ## Basic analysis and visualization
 
