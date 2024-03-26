@@ -4,12 +4,6 @@
 
 ;; This page will be updated soon.
 
-;; ## Data sources:
-;; - [Cyclistic bike share - Kaggle](https://www.kaggle.com/datasets/evangower/cyclistic-bike-share)
-;; - [Cyclistic bike share - 2023 update - Kaggle](https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023)
-;; - [Chicago neighborhoods geojson by @blackmad](https://github.com/blackmad/neighborhoods/blob/master/chicago.geojson)
-
-
 ;; ## Setup
 
 (ns index
@@ -35,11 +29,49 @@
                                            PreparedPolygon
                                            PreparedGeometryFactory)))
 
-
 ^:kindly/hide-code
 (def md (comp kindly/hide-code kind/md))
 
-;; ## Reading the data
+(md
+ "
+In this notebook, we will explore the data of a bike sharing company in Chicago.
+
+The data provides information of start & end location & time for each bike trip.
+It has been used in academic papers and blog posts discussing various aspects of
+people's movement patterns in their everyday lives.
+
+Our goal here is to recognize and visualize a few movement patterns.
+
+## Background
+
+### Various openly shared datasets:
+- [Divvy Trips](https://data.cityofchicago.org/Transportation/Divvy-Trips/fg6s-gzvg/about_data) - Chicago data portal
+- [Chicago Divvy Bicycle Sharing Data](https://www.kaggle.com/datasets/yingwurenjian/chicago-divvy-bicycle-sharing-data) - Kaggle
+- [Cyclistic bike share](https://www.kaggle.com/datasets/evangower/cyclistic-bike-share) - Kaggle
+- [Cyclistic bike share - 2023 update](https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023) - Kaggle
+
+### Research papers and blog posts
+- [Understanding Spatiotemporal Patterns of Biking Behavior by Analyzing Massive Bike Sharing Data in Chicago](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137922) - Zhou 2015
+- [Bicycle-Sharing System Analysis and Trip](https://www.cs.uic.edu/~jzhang2/files/2016_mdm_paper.pdf) - Zhang el al. 2016
+- [Spatial Cluster-Based Model for Static Rebalancing Bike Sharing Problem](https://www.mdpi.com/2071-1050/11/11/3205) - Lahoorpoor et al. 2019
+- [Examining spatiotemporal changing patterns of bike-sharing usage during COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S0966692321000508) - Hu et al. 2021
+- [Analysis: Chicago’s Divvy Bike Share](https://andrewluyt.github.io/divvy-bikeshare/analysis-report.html) - Luyt 2021
+
+
+## Data sources for this notebook
+
+1. [Chicago neighborhoods geojson](https://github.com/blackmad/neighborhoods/blob/master/chicago.geojson) - part of [a great collection](https://github.com/blackmad/neighborhoods/) by [@blackmad](https://github.com/blackmad).
+We keep this file under \"notebooks/data/\". By default, [Clay](https://scicloj.github.io/clay) pushed data files under \"notebooks\" to the target render directory.
+This will allow us to consume the file from the browser for data visualizations.
+
+2. [Cyclistic bike share - 2023 update](https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023) - shared on Kaggle by Jayprakash Kumar.
+This dataset contains separate data files for different months. We will use only one of them here (Apr. 2023) and keep it under \"data/\".
+
+## Reading the data
+
+
+")
+
 
 (defonce raw-trips
   (-> "data/kaggle-cyclistic/202304_divvy_tripdata.csv.gz"
