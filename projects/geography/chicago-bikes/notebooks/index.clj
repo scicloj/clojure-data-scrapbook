@@ -197,7 +197,8 @@ Let us compare the two in a scatterplot. ")
 (md "
 Here, we used the [Noj](https://scicloj.github.io/noj/) wrapper
 of [Hanami](https://github.com/jsa-aerial/hanami),
-which makes it work nicely with Tablecloth.
+which makes it compose conveniently with Tablecloth,
+eventually generating [Vega-Lite](https://vega.github.io/) plots.
 
 The `local-L2` quantity, compted from the local Chicago coordinates,
 is a decent approximation of actual distance.
@@ -216,13 +217,13 @@ to gather our data into clusters of similar trips.
 ")
 
 
-;; ## Basic analysis and visualization
+(md "
+## Basic analysis and visualization
 
-(delay
-  (-> processed-trips
-      (tc/group-by [:hour])
-      (tc/aggregate {:n tc/row-count})
-      (tc/order-by [:hour])))
+### Time
+Let us see how trip start hours are distributed along the day.
+
+")
 
 (defn hour-counts-plot [trips]
   (-> trips
@@ -236,6 +237,21 @@ to gather our data into clusters of similar trips.
   (hour-counts-plot processed-trips))
 
 
+(md "
+### Space
+
+We wish to plot our trips as line segments
+(Vega-Lite [Rule](https://vega.github.io/vega-lite/docs/rule.html)s)
+over a map.
+
+Hanami's templates create Vega-Lite plots with `x` and `y` coordinates,
+but we need geographical plots, with `latitude` and `longitude`.
+
+The following function will allow us to convert typical Hanami plots
+to geographical ones.
+")
+
+
 (defn as-geo [vega-lite-spec]
   (-> vega-lite-spec
       (update :encoding update-keys (fn [k]
@@ -244,34 +260,30 @@ to gather our data into clusters of similar trips.
                                             :x2 :latitude2
                                             :y2 :longitude2}
                                            k k)))
-      (assoc :projection {:type :mercator})))
+      (assoc :projection {:type :mercator}
+             ;; rendering as PNG this time
+             ;; to make this page more lightweight
+             :usermeta {:embedOptions {:renderer :png}})))
 
+(md "Let us try it out with a sample of points.")
 
 (delay
   (-> processed-trips
-      (tc/random 1000 {:seed 1})
+      (tc/random 10000 {:seed 1})
       (hanami/plot ht/rule-chart
                    {:X :start_lat
                     :Y :start_lng
                     :X2 :end_lat
-                    :Y2 :end_lng})
+                    :Y2 :end_lng
+                    :OPACITY 0.1})
       as-geo))
 
-(delay
-  (-> processed-trips
-      (tc/random 1000 {:seed 1})
-      (hanami/plot ht/rule-chart
-                   {:X :start-local-x
-                    :Y :start-local-y
-                    :X2 :end-local-x
-                    :Y2 :end-local-y
-                    :XSCALE {:zero false}
-                    :YSCALE {:zero false}})))
 
+(md "Let us add the neighbourhood geometries as an additional layer.")
 
 (delay
   (-> processed-trips
-      (tc/random 1000 {:seed 1})
+      (tc/random 10000 {:seed 1})
       (hanami/plot ht/layer-chart
                    {:TITLE "Chicago bike trips"
                     :LAYER [{:data {:url "notebooks/data/chicago.geojson"
@@ -279,9 +291,9 @@ to gather our data into clusters of similar trips.
                              :mark {:type "geoshape"
                                     :filled false
                                     :clip true
-                                    :opacity 0.3}}
+                                    :opacity 0.5}}
                             (as-geo
-                             (hanami/plot nil
+                             (hanami/plot nil ; use the global dataset for this layer
                                           ht/rule-chart
                                           {:X :start_lat
                                            :Y :start_lng
@@ -289,7 +301,13 @@ to gather our data into clusters of similar trips.
                                            :Y2 :end_lng
                                            :OPACITY 0.1}))]})))
 
+
 ;; ## Clustering
+
+;; To recognize repeating patterns of similar trips,
+;; we use [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+;; over trips, representing them as quadruple of points
+;; using the plane coordinates of their start and end.
 
 (def clustering
   (-> processed-trips
@@ -301,17 +319,20 @@ to gather our data into clusters of similar trips.
       (clustering/k-means 100)
       (dissoc :data)))
 
-;; Let us plot a few clusters:
+;; Let us plot the biggest of the resulting clusters.
+;; We will plot each cluster separately in time and in space as before.
+;; To the line segments over the map we add the start and end points,
+;; in purple and green, respectively.
 
-(defn as-png [vega-lite-spec]
-  ;; to improve performance, we avoid rendering as SVG in this case:
-  (-> vega-lite-spec
-      (assoc :usermeta {:embedOptions {:renderer :png}})))
 
 (delay
   (-> processed-trips
       (tc/add-column :cluster (:clustering clustering))
       (tc/group-by [:cluster])
+      ;; sort the groups in ascending order by their size,
+      ;; and take the first 20 (which are the largest ones)
+      ;; (we use `without-grouping->` to order and take
+      ;; across groups rather tan within groups):
       (tc/without-grouping->
        (tc/order-by (fn [ds]
                       (-> ds :data tc/row-count))
@@ -349,8 +370,7 @@ to gather our data into clusters of similar trips.
                                                                      {:X :end_lat
                                                                       :Y :end_lng
                                                                       :MCOLOR "green"
-                                                                      :OPACITY 0.01}))]})
-                                 as-png)])
+                                                                      :OPACITY 0.01}))]}))])
                      :hours (fn [trips]
                               [(hour-counts-plot trips)])})
       kind/table))
