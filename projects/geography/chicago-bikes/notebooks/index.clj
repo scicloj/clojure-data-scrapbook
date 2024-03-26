@@ -156,7 +156,27 @@ Let us prepare our dataset for analysis.
       (tc/map-columns :end-local-x [:end-local-coords] first)
       (tc/map-columns :end-local-y [:end-local-coords] second)))
 
-;; ## Comparing Eucledian (L2) distances in global and local coordinates
+(md "## Comparing Eucledian (L2) distances in global and local coordinates
+
+This is a digression for the curious. It is not part of the actual analysis.
+
+Earlier mentioned that our `x`,`y` coordinates approximately represent
+for plane geometry in the relevant region, unlike the `latitude`,`longitude` ones.
+
+Let us check how different they actually are in measuring distances.
+We will sample 1000 bike trips, and for each trip, measure the
+L2 distance between the start and the end.
+
+L2 is the distance in our usual Eucledian plane geometry:
+the square root of the sum of square distances,
+where the sum is over our two coordinates
+(as can be justified by the Pythagorean theorem).
+
+We will compute it `x`,`y` (approximate plane coordinates),
+and then in `latitude`,`longitude` (globe coordinates).
+The former should be approximately correct, the latter - not so much.
+
+Let us compare the two in a scatterplot. ")
 
 (-> processed-trips
     (tc/random 1000 {:seed 1})
@@ -174,12 +194,27 @@ Let us prepare our dataset for analysis.
                  {:X :local-L2
                   :Y :global-L2}))
 
-;; The `local-L2` quantity, compted from the local Chicago coordinates,
-;; is a decent approximation of actual distance.
-;; We see that the `global-L2` quantity, computed accordingly
-;; from latitude and longitude, is not directly related to
-;; this quantity and might be misleading for metric tasks
-;; such as clustering.
+(md "
+Here, we used the [Noj](https://scicloj.github.io/noj/) wrapper
+of [Hanami](https://github.com/jsa-aerial/hanami),
+which makes it work nicely with Tablecloth.
+
+The `local-L2` quantity, compted from the local Chicago coordinates,
+is a decent approximation of actual distance.
+We see that the `global-L2` quantity, computed accordingly
+from latitude and longitude, is not directly related to
+this quantity and might be misleading for metric tasks
+such as clustering. They are correlated, though,
+and if one of them is small, the other one is small as well.
+
+In this section, we computed distances between pairs of coordinates.
+E.g., between the `x`,`y` of the trip start, to those of the trip end.
+Later, we will represent each trip by a quadruple of coordinates
+(both start and end), and use the 4D geometry of those quadruples
+to gather our data into clusters of similar trips.
+
+")
+
 
 ;; ## Basic analysis and visualization
 
