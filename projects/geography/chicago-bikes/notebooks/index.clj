@@ -69,7 +69,8 @@ This dataset contains separate data files for different months. We will use only
 
 ## Reading the data
 
-
+We read the raw dataset as a [Tablecloth](https://scicloj.github.io/tablecloth/) dataset
+with some proper date-time parsing and column names as keywords.
 ")
 
 
@@ -86,10 +87,9 @@ The datasets uses the [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_Syste
 coordinate system, representing latitude and longitued over the globe.
 [EPSG:4326](https://epsg.io/4326)")
 
-(md "For metric computations (e.g., k-means clustering),
+(md "For computations telated to distances (e.g., k-means clustering),
 we need to convert them to a coordinate system
-which is locally correct in terms of distances in a region around Chicago:
-NAD83 / Illinois East
+which approximates plane geometry in a region around Chicago:
 [EPSG:26971](https://epsg.io/26971)")
 
 ^:kindly/hide-code
@@ -99,7 +99,10 @@ NAD83 / Illinois East
      "WGS84 bounds"       [[[-89.27 37.06]
                             [-87.02 42.5]]]}
     tc/dataset
-    (tc/set-dataset-name "United States (USA) - Oregon and Washington."))
+    (tc/set-dataset-name "NAD83 / Illinois East."))
+
+(md "Let us define our coordinate transformation
+using the [Geo](https://github.com/Factual/geo) library.")
 
 (def crs-transform
   (geo.crs/create-transform (geo.crs/create-crs 4326)
@@ -120,13 +123,18 @@ NAD83 / Illinois East
          [(.getX coord)
           (.getY coord)]))))
 
-;; Example:
+(md "For example, let us convert some latitude-longiute pairs
+to our local plane coordinates.")
 
 (delay
   [(lng-lat->local-coords -89.27 37.06)
    (lng-lat->local-coords -87.02 42.5)])
 
-;; ## Preprocessing
+(md "
+## Preprocessing
+
+Let us prepare our dataset for analysis.
+")
 
 (def processed-trips
   (-> raw-trips
@@ -140,7 +148,7 @@ NAD83 / Illinois East
                         (->> [:start_lat :start_lng :end_lat :end_lng]
                              (map row)
                              (every? some?))))
-      ;; Add local Chicago coordinates:
+      ;; Add local plane coordinates:
       (tc/map-columns :start-local-coords [:start_lng :start_lat] lng-lat->local-coords)
       (tc/map-columns :end-local-coords [:end_lng :end_lat] lng-lat->local-coords)
       (tc/map-columns :start-local-x [:start-local-coords] first)
