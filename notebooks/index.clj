@@ -83,12 +83,12 @@
                          nil
                          [:datavis :observable :dashboards :draft]]
                         ["2024-03-24"
-                         nil
-                         "Chicago bike trips - DRAFT"
+                         "2024-03-27"
+                         "Chicago bike trips"
                          "projects/geography/chicago-bikes/index.html"
                          "projects/geography/chicago-bikes"
                          nil
-                         [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :draft]]]
+                         [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite]]]
                        (map (fn [[created updated
                                   title url source-path youtube-id tags]]
                               (let [draft (some #{:draft} tags)]
