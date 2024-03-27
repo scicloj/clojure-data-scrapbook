@@ -1,6 +1,6 @@
 (load-file "../../../header.edn")
 
-;; # Chicago bikes - DRAFT
+;; # Chicago bikes
 
 ;; This page will be updated soon.
 
