@@ -237,6 +237,7 @@ Let us see how trip start hours are distributed along the day.
   (hour-counts-plot processed-trips))
 
 
+
 (md "
 ### Space
 
@@ -260,10 +261,15 @@ to geographical ones.
                                             :x2 :latitude2
                                             :y2 :longitude2}
                                            k k)))
-      (assoc :projection {:type :mercator}
-             ;; rendering as PNG this time
-             ;; to make this page more lightweight
-             :usermeta {:embedOptions {:renderer :png}})))
+      (assoc :projection {:type :mercator})))
+
+(md "We will find it useful to render some Vega-Lite plots
+as PNG, rather than SVG. This will meke the whole page more lightweight.")
+
+(defn as-png [vega-lite-spec]
+  (-> vega-lite-spec
+      (assoc :usermeta {:embedOptions {:renderer :png}})))
+
 
 (md "Let us try it out with a sample of points.")
 
@@ -276,7 +282,8 @@ to geographical ones.
                     :X2 :end_lat
                     :Y2 :end_lng
                     :OPACITY 0.1})
-      as-geo))
+      as-geo
+      as-png))
 
 
 (md "Let us add the neighbourhood geometries as an additional layer.")
@@ -299,7 +306,8 @@ to geographical ones.
                                            :Y :start_lng
                                            :X2 :end_lat
                                            :Y2 :end_lng
-                                           :OPACITY 0.1}))]})))
+                                           :OPACITY 0.1}))]})
+      as-png))
 
 
 ;; ## Clustering
@@ -330,14 +338,14 @@ to geographical ones.
       (tc/add-column :cluster (:clustering clustering))
       (tc/group-by [:cluster])
       ;; sort the groups in ascending order by their size,
-      ;; and take the first 20 (which are the largest ones)
+      ;; and take the first few (which are the largest ones)
       ;; (we use `without-grouping->` to order and take
       ;; across groups rather tan within groups):
       (tc/without-grouping->
        (tc/order-by (fn [ds]
                       (-> ds :data tc/row-count))
                     :desc)
-       (tc/head 20))
+       (tc/head 10))
       (tc/aggregate {:n tc/row-count
                      :map (fn [trips]
                             [(-> trips
@@ -370,7 +378,9 @@ to geographical ones.
                                                                      {:X :end_lat
                                                                       :Y :end_lng
                                                                       :MCOLOR "green"
-                                                                      :OPACITY 0.01}))]}))])
+                                                                      :OPACITY 0.01}))]})
+                                 as-png)])
                      :hours (fn [trips]
-                              [(hour-counts-plot trips)])})
+                              [(as-png
+                                (hour-counts-plot trips))])})
       kind/table))
