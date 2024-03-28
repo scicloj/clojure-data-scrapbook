@@ -393,7 +393,10 @@ as PNG, rather than SVG. This will meke the whole page more lightweight.")
       kind/table))
 
 ;; Some patterns are noticible. In future explorations, we should hope to reach
-;; some interpretations and hopefully discuss them with local friends who
+;; some interpretations regarding repeating movement in certain hours,
+;; such as the end of the work day, in relation to certain destinations,
+;; like major train stations.
+;; We sould certainly hope to discuss them with local friends who
 ;; know something about this area.
 ;;
 ;; This can be considered a first step in reproducing some of the methods
