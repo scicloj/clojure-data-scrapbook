@@ -61,7 +61,7 @@ Our goal here is to recognize and visualize a few movement patterns.
 ## Data sources for this notebook
 
 1. [Chicago neighborhoods geojson](https://github.com/blackmad/neighborhoods/blob/master/chicago.geojson) - part of [a great collection](https://github.com/blackmad/neighborhoods/) by [@blackmad](https://github.com/blackmad).
-We keep this file under \"notebooks/data/\". By default, [Clay](https://scicloj.github.io/clay) pushed data files under \"notebooks\" to the target render directory.
+We keep this file under \"notebooks/data/\". By default, [Clay](https://scicloj.github.io/clay) pushes data files under \"notebooks\" to the target render directory.
 This will allow us to consume the file from the browser for data visualizations.
 
 2. [Cyclistic bike share - 2023 update](https://www.kaggle.com/datasets/godofoutcasts/cyclistic-bike-share-2023) - shared on Kaggle by Jayprakash Kumar.
@@ -242,7 +242,7 @@ Let us see how trip start hours are distributed along the day.
 ### Space
 
 We wish to plot our trips as line segments
-(Vega-Lite [Rule](https://vega.github.io/vega-lite/docs/rule.html)s)
+(Vega-Lite [Rules](https://vega.github.io/vega-lite/docs/rule.html))
 over a map.
 
 Hanami's templates create Vega-Lite plots with `x` and `y` coordinates,
