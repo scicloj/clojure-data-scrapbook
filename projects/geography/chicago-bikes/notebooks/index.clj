@@ -391,3 +391,21 @@ as PNG, rather than SVG. This will meke the whole page more lightweight.")
                               [(as-png
                                 (hour-counts-plot trips))])})
       kind/table))
+
+;; Some patterns are noticible. In future explorations, we should hope to reach
+;; some interpretations and hopefully discuss them with local friends who
+;; know something about this area.
+;;
+;; This can be considered a first step in reproducing some of the methods
+;; of the existing insightful articles cited above.
+
+;; ## Conclusion, for now
+
+;; For now, we will stop here.
+
+;; This has mostly been a demonstration of a few libraries and practices
+;; which are central to the emerging Clojure platform for data and science.
+
+;; We have also had a glance into a rich dataset which can provide fruitful
+;; examples for our future explorations, demonstrating nontrivial
+;; phenomena in space and in time.
