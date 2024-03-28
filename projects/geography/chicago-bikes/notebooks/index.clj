@@ -7,9 +7,9 @@
 ;; It uses a few of libraries of the emerging Clojure stack for data and science:
 ;; Tablecloth, dtype-next, Fastmath, Hanami, Geo, and Kindly.
 ;;
-;; Soon we will publish an accompanying video.
+;; Soon we will publish a video walkthrough.
 ;;
-;; Author: Daniel Slutsky
+;; Daniel Slutsky, March 2024
 
 ;; ## Setup
 
