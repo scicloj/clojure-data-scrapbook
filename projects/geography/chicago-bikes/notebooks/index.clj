@@ -1,8 +1,13 @@
 (load-file "../../../header.edn")
 
-;; # Chicago bikes
+;; # Analysing Chicago bike trips
 
-;; This page will be updated soon.
+;; This notebook is the fruit of our explorations at the new
+;; [real-world-data group](https://scicloj.github.io/docs/community/groups/real-world-data/).
+;; It uses a few of libraries of the emerging Clojure stack for data and science:
+;; Tablecloth, dtype-next, Fastmath, Hanami, Geo, and Kindly.
+;;
+;; Soon we will publish an accompanying video.
 
 ;; ## Setup
 
