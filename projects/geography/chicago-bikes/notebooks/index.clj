@@ -262,12 +262,13 @@ to geographical ones.
 
 (defn as-geo [vega-lite-spec]
   (-> vega-lite-spec
-      (update :encoding update-keys (fn [k]
-                                      (get {:x :latitude
-                                            :y :longitude
-                                            :x2 :latitude2
-                                            :y2 :longitude2}
-                                           k k)))
+      (update :encoding update-keys
+              #(case %
+                 :x :latitude
+                 :y :longitude
+                 :x2 :latitude2
+                 :y2 :longitude2
+                 %))
       (assoc :projection {:type :mercator})))
 
 (md "We will find it useful to render some Vega-Lite plots
