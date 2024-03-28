@@ -8,6 +8,8 @@
 ;; Tablecloth, dtype-next, Fastmath, Hanami, Geo, and Kindly.
 ;;
 ;; Soon we will publish an accompanying video.
+;;
+;; Author: Daniel Slutsky
 
 ;; ## Setup
 
