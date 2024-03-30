@@ -88,7 +88,14 @@
                          "projects/geography/chicago-bikes/index.html"
                          "projects/geography/chicago-bikes"
                          nil
-                         [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite]]]
+                         [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite]]
+                        ["2024-03-30"
+                         nil
+                         "Noj getting started - from raw data to a blog post"
+                         "https://scicloj.github.io/noj-getting-started"
+                         "https://github.com/scicloj/noj-getting-started/tree/main"
+                         nil
+                         [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :clay :calva]]]
                        (map (fn [[created updated
                                   title url source-path youtube-id tags]]
                               (let [draft (some #{:draft} tags)]
