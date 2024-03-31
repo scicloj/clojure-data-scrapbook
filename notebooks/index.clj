@@ -116,8 +116,10 @@
                                                title]]
                                           [:p [:a {:style {:font-family "monospace"
                                                            :background-color "#fdf6e3"}
-                                                   :href (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
-                                                              source-path)}
+                                                   :href (if (re-matches #"http.*" source-path)
+                                                           source-path
+                                                           (str "https://github.com/scicloj/clojure-data-scrapbook/tree/main/"
+                                                                source-path))}
                                                "(source)"]]
                                           (when draft [:p "(draft)"])]])
                                        (when youtube-id
