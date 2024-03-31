@@ -1,8 +1,6 @@
 ^{:kindly/hide-code true
   :clay {:quarto {:title "Clojure Data Scrapbook"}}}
 
-;; # Main analysis
-
 (ns index
   (:require [clojure.string :as str]
             [scicloj.kindly.v4.kind :as kind]
@@ -22,7 +20,19 @@
 ;;
 ;; This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
 
-;; ## Tutorials
+;; ## Discussion
+
+;; You are encouraged to discuss your suggestoins, criticism, and questions with us. You may use the repo's [Issues](https://github.com/scicloj/clojure-data-scrapbook/issues) or the usual Scicloj ways of [contact](https://scicloj.github.io/docs/community/contact/).
+
+;; ## Contributing
+
+;; There are two ways to contribute to the scrapbook. Both are encouraged, depending on your convenience.
+
+;; 1. Create a repo with a [Clay](https://scicloj.github.io/clay/) notebook, multiple notebooks, or book, and create a [Pull Request](https://github.com/scicloj/clojure-data-scrapbook/pulls) adding it at the bottom of the [table of contents EDN file](https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/toc.edn).
+
+;; 2. Add (or update) notebooks or books under the scrapbook's [repo](https://github.com/scicloj/clojure-data-scrapbook/) itself. Please discuss it first with us, so that we thin kabout the appropirate location in the repo.
+
+;; ## Contents
 
 (-> {:row-vectors (->> "notebooks/toc.edn"
                        slurp
@@ -66,7 +76,3 @@
                     "tags"]}
     (kind/table {:datatables {:paging false}})
     kindly/hide-code)
-
-;; ## Contributing
-
-;; (coming soon)
