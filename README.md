@@ -9,17 +9,20 @@ You can interact with the examples by cloning this project and starting a REPL.
 
 This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
 
+## Discussion
+
+You are encouraged to discuss your suggestoins, criticism, and questions with us. You may use the repo's [Issues](https://github.com/scicloj/clojure-data-scrapbook/issues) or the usual Scicloj ways of [contact](https://scicloj.github.io/docs/community/contact/).
+
+## Contributing
+
+See [notebooks/contributing.md](notebooks/contributing.md).
+
 ## Known issues
 
-If you encounter:
-_Error building classpath. Could not acquire write lock for 'artifact:org.bytedeco:mkl'_
-
-Try: `clj -P -Sthreads 1`
-
-See [deps issue report](https://clojurians-log.clojureverse.org/tools-deps/2021-09-16).
+See [notebooks/known_issues.md](notebooks/known_issues.md).
 
 ## License
 
-Copyright © 2022 Scicloj
+Copyright © 2023 Scicloj
 
 Distributed under the Eclipse Public License version 1.0.
