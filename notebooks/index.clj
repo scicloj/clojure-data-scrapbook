@@ -80,5 +80,6 @@
                     "title"
                     "video"
                     "tags"]}
-    (kind/table {:datatables {:paging false}})
+    (kind/table {:use-datatables true
+                 :datatables {:scrollY 900}})
     kindly/hide-code)
