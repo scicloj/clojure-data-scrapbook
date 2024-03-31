@@ -28,9 +28,16 @@
 
 ;; There are two ways to contribute to the scrapbook. Both are encouraged, depending on your convenience.
 
-;; 1. Create a repo with a [Clay](https://scicloj.github.io/clay/) notebook, multiple notebooks, or book, and create a [Pull Request](https://github.com/scicloj/clojure-data-scrapbook/pulls) adding it at the bottom of the [table of contents EDN file](https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/toc.edn).
+;; 1. Use your own repo
+;; - Create a repo with a [Clay](https://scicloj.github.io/clay/) notebook, multiple notebooks, or book.
+;;   - Add a link to the scrapbook at the top of your notebooks.
+;;   - For an example repo, see [noj-getting-started](https://github.com/scicloj/noj-getting-started/tree/main).
+;; - Create a [Pull Request](https://github.com/scicloj/clojure-data-scrapbook/pulls) adding it at the bottom of the [table of contents EDN file](https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/toc.edn).
 
-;; 2. Add (or update) notebooks or books under the scrapbook's [repo](https://github.com/scicloj/clojure-data-scrapbook/) itself. Please discuss it first with us, so that we thin kabout the appropirate location in the repo.
+;; 2. Update the scrapbook repo
+;; - Please discuss it first with us, so that we think about the appropirate location in the repo.
+;; - Add (or update) notebooks or books under the scrapbook's [repo](https://github.com/scicloj/clojure-data-scrapbook/) itself.
+;;   - Begin your commit messages with the name of the relevant notebook or book. E.g., "Random Forest Tutorial - added data visualizations".
 
 ;; ## Contents
 
