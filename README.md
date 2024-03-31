@@ -9,11 +9,7 @@ You can interact with the examples by cloning this project and starting a REPL.
 
 This project is part of the [SciCloj community](https://scicloj.github.io/docs/community/about/).
 
-## Status
-
-Work in progress, should stabilize in Jan. 2024.
-
-## Troubleshooting
+## Known issues
 
 If you encounter:
 _Error building classpath. Could not acquire write lock for 'artifact:org.bytedeco:mkl'_
@@ -21,14 +17,6 @@ _Error building classpath. Could not acquire write lock for 'artifact:org.bytede
 Try: `clj -P -Sthreads 1`
 
 See [deps issue report](https://clojurians-log.clojureverse.org/tools-deps/2021-09-16).
-
-## Contributing
-
-Please see [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-## Rationale and Design
-
-Please see [DESIGN.md](./DESIGN.md).
 
 ## License
 
