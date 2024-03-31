@@ -24,64 +24,9 @@
 
 ;; ## Tutorials
 
-(-> {:row-vectors (->> [{:created "2023-12-16"
-                         :title "Clay Calva integration - datavis demo"
-                         :url "projects/visual-tools/clay-calva-demo-20231216/index.html"
-                         :source-path "projects/visual-tools/clay-calva-demo-20231216"
-                         :youtube-id "X_SsjhmG5Ok"
-                         :tags [:visual-tools :clay :calva :noj
-                                :datavis :hanami :tablecloth]}
-                        {:created "2023-12-17"
-                         :title "Clay CIDER integration - image processing demo"
-                         :url "projects/visual-tools/clay-cider-demo-20231217/index.html"
-                         :source-path "projects/visual-tools/clay-cider-demo-20231217"
-                         :youtube-id "fd4kjlws6Ts"
-                         :tags [:visual-tools :clay :cider :noj
-                                :image-processing :dtype-next :tensors]}
-                        {:created "2023-12-31"
-                         :title "Reading HDF files"
-                         :url "projects/data-formats/hdf/index.html"
-                         :source-path "projects/data-formats/hdf/"
-                         :tags [:data-formats :hdf :dtype-next :tensors]}
-                        {:created "2024-01-11"
-                         :title "Machine learning - DRAFT"
-                         :url "projects/noj/ml.html"
-                         :source-path "projects/noj/notebooks/ml.clj"
-                         :tags [:noj :ml :scicloj.ml :draft]}
-                        {:created "2024-01-25"
-                         :title "Wolfram Lanauge interop with Wolframite"
-                         :url "projects/math/wolframite/index.html"
-                         :source-path "projects/math/wolframite/"
-                         :tags [:math :wolframite :interop]}
-                        {:created "2024-02-06"
-                         :updated "2024-03-19"
-                         :title "Exploring ggplot"
-                         :url "projects/datavis/ggplot/index.html"
-                         :source-path "projects/datavis/ggplot/"
-                         :tags [:noj :r :clojisr :interop :ggplot :datavis]}
-                        {:created "2024-02-07"
-                         :title "Seattle parks & Neigborhoods - DRAFT"
-                         :url "projects/geography/seattle-parks/index.html"
-                         :source-path "projects/geography/seattle-parks"
-                         :tags [:geography :gis :tablecloth :datavis :draft]}
-                        {:created "2024-03-02"
-                         :title "Exploring Observable - DRAFT"
-                         :url "projects/datavis/observable/index.html"
-                         :source-path "projects/datavis/observable"
-                         :tags [:datavis :observable :dashboards :draft]}
-                        {:created "2024-03-24"
-                         :updated "2024-03-27"
-                         :title "Chicago bike trips"
-                         :url "projects/geography/chicago-bikes/index.html"
-                         :source-path "projects/geography/chicago-bikes"
-                         :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite]}
-                        {:created "2024-03-30"
-                         :updated "2024-03-31"
-                         :title "Noj getting started - from raw data to a blog post"
-                         :url "https://scicloj.github.io/noj-getting-started"
-                         :source-path "https://github.com/scicloj/noj-getting-started"
-                         :youtube-id "5GluhUmMlpM"
-                         :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :clay :calva]}]
+(-> {:row-vectors (->> "notebooks/toc.edn"
+                       slurp
+                       clojure.edn/read-string
                        (map (fn [{:keys [created updated
                                          title url source-path youtube-id tags]}]
                               (let [draft (some #{:draft} tags)]
