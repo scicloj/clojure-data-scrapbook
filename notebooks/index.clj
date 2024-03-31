@@ -72,8 +72,8 @@
 
 ;; ## Contributing
 
-;; See [notebooks/contributing.md](notebooks/contributing.md).
+;; See [notebooks/contributing.md](https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/contributing.md).
 
 ;; ## Known issues
 
-;; See [notebooks/known_issues.md](notebooks/known_issues.md).
+;; See [notebooks/known_issues.md](https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/known_issues.md).
