@@ -46,8 +46,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#tutorials" id="toc-tutorials" class="nav-link active" data-scroll-target="#tutorials">Tutorials</a></li>
-  <li><a href="#contributing" id="toc-contributing" class="nav-link" data-scroll-target="#contributing">Contributing</a></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link active" data-scroll-target="#discussion">Discussion</a></li>
+  <li><a href="#contributing" id="toc-contributing" class="nav-link" data-scroll-target="#contributing">Contributing</a>
+  <ul>
+  <li><a href="#using-your-own-repo" id="toc-using-your-own-repo" class="nav-link" data-scroll-target="#using-your-own-repo">Using your own repo</a></li>
+  <li><a href="#updating-the-scrapbook-repo" id="toc-updating-the-scrapbook-repo" class="nav-link" data-scroll-target="#updating-the-scrapbook-repo">Updating the scrapbook repo</a></li>
+  </ul></li>
+  <li><a href="#contents" id="toc-contents" class="nav-link" data-scroll-target="#contents">Contents</a></li>
   </ul>
 </nav>
 </div>
@@ -86,8 +91,30 @@ ul.task-list li input[type="checkbox"] {
 <p>The Clojure Data Scrapbook is a collection of community-contributed examples for the emerging Clojure data stack.</p>
 <p>You can interact with the examples by cloning this project and starting a REPL.</p>
 <p>This project is part of the <a href="https://scicloj.github.io/docs/community/about/">SciCloj community</a>.</p>
-<section id="tutorials" class="level2">
-<h2 class="anchored" data-anchor-id="tutorials">Tutorials</h2>
+<section id="discussion" class="level2">
+<h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
+<p>You are encouraged to discuss your suggestoins, criticism, and questions with us. You may use the repo’s <a href="https://github.com/scicloj/clojure-data-scrapbook/issues">Issues</a> or the usual Scicloj ways of <a href="https://scicloj.github.io/docs/community/contact/">contact</a>.</p>
+</section>
+<section id="contributing" class="level2">
+<h2 class="anchored" data-anchor-id="contributing">Contributing</h2>
+<p>There are two ways to contribute to the scrapbook. Both are encouraged, depending on your convenience.</p>
+<section id="using-your-own-repo" class="level3">
+<h3 class="anchored" data-anchor-id="using-your-own-repo">Using your own repo</h3>
+<ol type="1">
+<li>Create a repo with a <a href="https://scicloj.github.io/clay/">Clay</a> notebook, multiple notebooks, or a book. Add a link to the scrapbook at the top of your notebooks. For an example repo, see <a href="https://github.com/scicloj/noj-getting-started/tree/main">noj-getting-started</a>.</li>
+<li>Create a <a href="https://github.com/scicloj/clojure-data-scrapbook/pulls">Pull Request</a> adding it at the bottom of the <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/toc.edn">table of contents</a>.</li>
+</ol>
+</section>
+<section id="updating-the-scrapbook-repo" class="level3">
+<h3 class="anchored" data-anchor-id="updating-the-scrapbook-repo">Updating the scrapbook repo</h3>
+<ol type="1">
+<li>Please discuss it with us first. Together, we will consider the appropirate locations, etc.</li>
+<li>Create a <a href="https://github.com/scicloj/clojure-data-scrapbook/pulls">Pull Request</a> adding (or updating) notebooks or books under the scrapbook’s <a href="https://github.com/scicloj/clojure-data-scrapbook/">repo</a>, and updating the <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/toc.edn">table of contents</a>. Begin your commit messages with the name of the relevant notebook or book. E.g., “Random Forest Tutorial - added data visualizations”.</li>
+</ol>
+</section>
+</section>
+<section id="contents" class="level2">
+<h2 class="anchored" data-anchor-id="contents">Contents</h2>
 <div class="clay-table">
 <div>
 <div class="table-responsive">
@@ -270,10 +297,6 @@ noj, ml, scicloj.ml, draft
 </div>
 </div>
 </div>
-</section>
-<section id="contributing" class="level2">
-<h2 class="anchored" data-anchor-id="contributing">Contributing</h2>
-<p>(coming soon)</p>
 <div style="background-color:grey;height:2px;width:100%;"></div>
 <div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/notebooks/index.clj">notebooks/index.clj</a></small></small></pre></div>
 </section>
