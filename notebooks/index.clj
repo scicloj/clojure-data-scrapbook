@@ -90,7 +90,7 @@
                          nil
                          [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite]]
                         ["2024-03-30"
-                         nil
+                         "2024-03-31"
                          "Noj getting started - from raw data to a blog post"
                          "https://scicloj.github.io/noj-getting-started"
                          "https://github.com/scicloj/noj-getting-started"
@@ -126,7 +126,8 @@
                                          (kind/video {:youtube-id youtube-id}))
                                        (->> tags
                                             (map name)
-                                            (str/join ", "))])))))
+                                            (str/join ", "))]))))
+                       reverse)
      :column-names ["created"
                     "updated"
                     "title"
