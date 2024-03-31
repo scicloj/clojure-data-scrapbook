@@ -1,4 +1,4 @@
-# The Clojure Data Scrapbook project [DRAFT]
+# The Clojure Data Scrapbook project
 
 <img src="https://scicloj.github.io/sci-cloj-logo-transparent.png" alt="SciCloj logo" width="100" align="right"/>
 
