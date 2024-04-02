@@ -167,9 +167,6 @@
                                                   (fun/linear-regressor (:hwy group-data)
                                                                         (:displ group-data))
                                                   (:hwy group-data))]
-                                 (prn [group-name
-                                       (tc/row-count group-data)
-                                       predictions])
                                  [(-> base
                                       (assoc :type :point
                                              :showlegend true
