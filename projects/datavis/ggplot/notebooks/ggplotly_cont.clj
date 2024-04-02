@@ -46,6 +46,20 @@
    "rgba(0,191,196,1)"
    "rgba(199,124,255,1)"])
 
+(def config
+  {:doubleClick "reset",
+   :modeBarButtonsToAdd ["hoverclosest" "hovercompare"],
+   :showSendToCloud false},)
+
+(def highlight
+  {:on "plotly_click",
+   :persistent false,
+   :dynamic false,
+   :selectize false,
+   :opacityDim 0.2,
+   :selected {:opacity 1},
+   :debounce 0},)
+
 (let [data toydata.ggplot/mpg
       point-layers (-> data
                        (tc/group-by :cyl {:result-type :as-map})
@@ -64,130 +78,100 @@
                                              :legendgroup group-name})))))]
   (kind/htmlwidgets-ggplotly
    {:x
-    {:visdat
-     {:c67374236253c ["function (y) " "x"], :c6737364d1035 ["function (y) " "x"]},
-     :config
-     {:doubleClick "reset",
-      :modeBarButtonsToAdd ["hoverclosest" "hovercompare"],
-      :showSendToCloud false},
-     :layout
-     {:plot_bgcolor "rgba(235,235,235,1)",
-      :paper_bgcolor "rgba(255,255,255,1)",
-      :legend
-      {:bgcolor "rgba(255,255,255,1)",
-       :bordercolor "transparent",
-       :borderwidth 1.88976377952756,
-       :font {:color "rgba(0,0,0,1)", :family "", :size 11.689497716895},
-       :title
-       {:text "factor(cyl)",
-        :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187}}},
-      :xaxis
-      {:linewidth 0,
-       :nticks nil,
-       :linecolor nil,
-       :ticklen 3.65296803652968,
-       :tickcolor "rgba(51,51,51,1)",
-       :tickmode "array",
-       :gridcolor "rgba(255,255,255,1)",
-       :automargin true,
-       :type "linear",
-       :tickvals [20 30 40],
-       :zeroline false,
-       :title
-       {:text "hwy",
-        :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187}},
-       :tickfont {:color "rgba(77,77,77,1)", :family "", :size 11.689497716895},
-       :autorange false,
-       :showticklabels true,
-       :showline false,
-       :showgrid true,
-       :ticktext ["20" "30" "40"],
-       :ticks "outside",
-       :gridwidth 0.66417600664176,
-       :anchor "y",
-       :domain [0 1],
-       :hoverformat ".2f",
-       :tickangle 0,
-       :tickwidth 0.66417600664176,
-       :categoryarray ["20" "30" "40"],
-       :categoryorder "array",
-       :range [10.4 45.6]},
-      :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187},
-      :showlegend true,
-      :barmode "relative",
-      :yaxis
-      {:linewidth 0,
-       :nticks nil,
-       :linecolor nil,
-       :ticklen 3.65296803652968,
-       :tickcolor "rgba(51,51,51,1)",
-       :tickmode "array",
-       :gridcolor "rgba(255,255,255,1)",
-       :automargin true,
-       :type "linear",
-       :tickvals [2 4 6],
-       :zeroline false,
-       :title
-       {:text "displ",
-        :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187}},
-       :tickfont {:color "rgba(77,77,77,1)", :family "", :size 11.689497716895},
-       :autorange false,
-       :showticklabels true,
-       :showline false,
-       :showgrid true,
-       :ticktext ["2" "4" "6"],
-       :ticks "outside",
-       :gridwidth 0.66417600664176,
-       :anchor "x",
-       :domain [0 1],
-       :hoverformat ".2f",
-       :tickangle 0,
-       :tickwidth 0.66417600664176,
-       :categoryarray ["2" "4" "6"],
-       :categoryorder "array",
-       :range [1.04642467576347 7.28350358686841]},
-      :hovermode "closest",
-      :margin
-      {:t 25.7412480974125,
-       :r 7.30593607305936,
-       :b 39.6955859969559,
-       :l 31.4155251141553},
-      :shapes
-      [{:yref "paper",
-        :fillcolor nil,
-        :xref "paper",
-        :y1 1,
-        :type "rect",
-        :line {:color nil, :width 0, :linetype []},
-        :y0 0,
-        :x1 1,
-        :x0 0}]},
-     :highlight
-     {:on "plotly_click",
-      :persistent false,
-      :dynamic false,
-      :selectize false,
-      :opacityDim 0.2,
-      :selected {:opacity 1},
-      :debounce 0},
+    {:config config
+     :highlight highlight
      :base_url "https://plot.ly",
-     :cur_data "c67374236253c",
-     :source "A",
-     :shinyEvents
-     ["plotly_hover"
-      "plotly_click"
-      "plotly_selected"
-      "plotly_relayout"
-      "plotly_brushed"
-      "plotly_brushing"
-      "plotly_clickannotation"
-      "plotly_doubleclick"
-      "plotly_deselect"
-      "plotly_afterplot"
-      "plotly_sunburstclick"],
-     :attrs
-     {:c67374236253c {:x {}, :y {}, :colour {}, :type "scatter"},
-      :c6737364d1035 {:x {}, :y {}, :colour {}}},
+     :layout {:plot_bgcolor "rgba(235,235,235,1)",
+              :paper_bgcolor "rgba(255,255,255,1)",
+              :legend
+              {:bgcolor "rgba(255,255,255,1)",
+               :bordercolor "transparent",
+               :borderwidth 1.88976377952756,
+               :font {:color "rgba(0,0,0,1)", :family "", :size 11.689497716895},
+               :title
+               {:text "factor(cyl)",
+                :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187}}},
+              :xaxis
+              {:linewidth 0,
+               :nticks nil,
+               :linecolor nil,
+               :ticklen 3.65296803652968,
+               :tickcolor "rgba(51,51,51,1)",
+               :tickmode "array",
+               :gridcolor "rgba(255,255,255,1)",
+               :automargin true,
+               :type "linear",
+               :tickvals [20 30 40],
+               :zeroline false,
+               :title
+               {:text "hwy",
+                :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187}},
+               :tickfont {:color "rgba(77,77,77,1)", :family "", :size 11.689497716895},
+               :autorange false,
+               :showticklabels true,
+               :showline false,
+               :showgrid true,
+               :ticktext ["20" "30" "40"],
+               :ticks "outside",
+               :gridwidth 0.66417600664176,
+               :anchor "y",
+               :domain [0 1],
+               :hoverformat ".2f",
+               :tickangle 0,
+               :tickwidth 0.66417600664176,
+               :categoryarray ["20" "30" "40"],
+               :categoryorder "array",
+               :range [10.4 45.6]},
+              :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187},
+              :showlegend true,
+              :barmode "relative",
+              :yaxis
+              {:linewidth 0,
+               :nticks nil,
+               :linecolor nil,
+               :ticklen 3.65296803652968,
+               :tickcolor "rgba(51,51,51,1)",
+               :tickmode "array",
+               :gridcolor "rgba(255,255,255,1)",
+               :automargin true,
+               :type "linear",
+               :tickvals [2 4 6],
+               :zeroline false,
+               :title
+               {:text "displ",
+                :font {:color "rgba(0,0,0,1)", :family "", :size 14.6118721461187}},
+               :tickfont {:color "rgba(77,77,77,1)", :family "", :size 11.689497716895},
+               :autorange false,
+               :showticklabels true,
+               :showline false,
+               :showgrid true,
+               :ticktext ["2" "4" "6"],
+               :ticks "outside",
+               :gridwidth 0.66417600664176,
+               :anchor "x",
+               :domain [0 1],
+               :hoverformat ".2f",
+               :tickangle 0,
+               :tickwidth 0.66417600664176,
+               :categoryarray ["2" "4" "6"],
+               :categoryorder "array",
+               :range [1.04642467576347 7.28350358686841]},
+              :hovermode "closest",
+              :margin
+              {:t 25.7412480974125,
+               :r 7.30593607305936,
+               :b 39.6955859969559,
+               :l 31.4155251141553},
+              :shapes
+              [{:yref "paper",
+                :fillcolor nil,
+                :xref "paper",
+                :y1 1,
+                :type "rect",
+                :line {:color nil, :width 0, :linetype []},
+                :y0 0,
+                :x1 1,
+                :x0 0}]}
      :data (concat point-layers
                    [{:y
                      [2.50120819391664
