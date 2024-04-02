@@ -1,4 +1,4 @@
-(ns ggplotly-continued
+(ns ggplotly-cont
   (:require [tablecloth.api :as tc]
             [scicloj.metamorph.ml.toydata.ggplot :as toydata.ggplot]
             [scicloj.kindly.v4.kind :as kind]))
@@ -16,15 +16,52 @@
 ;; `ggplotly(ggplot(mpg, aes(x=hwy, y=displ, color=factor(cyl))) + geom_point() + geom_smooth(method="lm"))`
 
 
+(defn marker [color]
+  {:autocolorscale false,
+   :color color,
+   :opacity 1,
+   :size 5.66929133858268,
+   :symbol "circle",
+   :line {:width 1.88976377952756, :color color}})
+
+(defn point-layer [{:keys [x y color text name legendgroup]}]
+  {:hoveron "points",
+   :legendgroup legendgroup,
+   :frame nil,
+   :hoverinfo "text",
+   :name name,
+   :marker (marker color)
+   :mode "markers",
+   :type "scatter",
+   :xaxis "x",
+   :yaxis "y",
+   :showlegend true,
+   :x (vec x)
+   :y (vec y)
+   :text (vec text)})
+
+(def colors
+  ["rgba(248,118,109,1)"
+   "rgba(124,174,0,1)"
+   "rgba(0,191,196,1)"
+   "rgba(199,124,255,1)"])
 
 (let [data toydata.ggplot/mpg
-      point-x (:hwy data),
-      point-y (:disply data)
-      point-text (-> data
-                     (tc/rows :as-maps)
-                     (->> (map (fn [{:keys [hwy displ cyl]}]
-                                 (format "hwy: %d<br />displ: %f />factor(cyl): %s"
-                                         hwy displ cyl)))))]
+      point-layers (-> data
+                       (tc/group-by :cyl {:result-type :as-map})
+                       (->> (sort-by key)
+                            (map-indexed (fn [i [group-name group-data]]
+                                           (point-layer
+                                            {:x (:hwy group-data),
+                                             :y (:displ group-data)
+                                             :color (colors i)
+                                             :text (-> group-data
+                                                       (tc/rows :as-maps)
+                                                       (->> (map (fn [{:keys [hwy displ cyl]}]
+                                                                   (format "hwy: %d<br />displ: %f />factor(cyl): %s"
+                                                                           hwy displ cyl)))))
+                                             :name group-name
+                                             :legendgroup group-name})))))]
   (kind/htmlwidgets-ggplotly
    {:x
     {:visdat
@@ -151,3555 +188,3024 @@
      :attrs
      {:c67374236253c {:x {}, :y {}, :colour {}, :type "scatter"},
       :c6737364d1035 {:x {}, :y {}, :colour {}}},
-     :data
-     [{:y point-y
-       :hoveron "points",
-       :legendgroup "4",
-       :frame nil,
-       :hoverinfo "text",
-       :name "4",
-       :marker
-       {:autocolorscale false,
-        :color "rgba(248,118,109,1)",
-        :opacity 1,
-        :size 5.66929133858268,
-        :symbol "circle",
-        :line {:width 1.88976377952756, :color "rgba(248,118,109,1)"}},
-       :mode "markers",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend true,
-       :yaxis "y",
-       :x point-x
-       :text point-text}
-      {:y [2.5 2.5 2.5 2.5],
-       :hoveron "points",
-       :legendgroup "5",
-       :frame nil,
-       :hoverinfo "text",
-       :name "5",
-       :marker
-       {:autocolorscale false,
-        :color "rgba(124,174,0,1)",
-        :opacity 1,
-        :size 5.66929133858268,
-        :symbol "circle",
-        :line {:width 1.88976377952756, :color "rgba(124,174,0,1)"}},
-       :mode "markers",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend true,
-       :yaxis "y",
-       :x [29 29 28 29],
-       :text
-       ["hwy: 29<br />displ: 2.5<br />factor(cyl): 5"
-        "hwy: 29<br />displ: 2.5<br />factor(cyl): 5"
-        "hwy: 28<br />displ: 2.5<br />factor(cyl): 5"
-        "hwy: 29<br />displ: 2.5<br />factor(cyl): 5"]}
-      {:y
-       [2.8
-        2.8
-        3.1
-        2.8
-        2.8
-        3.1
-        3.1
-        2.8
-        3.1
-        3.1
-        3.5
-        3.6
-        3
-        3.3
-        3.3
-        3.3
-        3.3
-        3.3
-        3.8
-        3.8
-        3.8
-        4
-        3.7
-        3.7
-        3.9
-        3.9
-        3.9
-        4
-        4
-        4
-        4
-        4.2
-        4.2
-        3.8
-        3.8
-        4
-        4
-        2.5
-        2.5
-        3.3
-        2.7
-        2.7
-        2.7
-        3
-        3.7
-        4
-        4
-        4
-        3.5
-        3.5
-        3
-        3
-        3.5
-        3.3
-        3.3
-        4
-        3.1
-        3.8
-        3.8
-        3.8
-        3.4
-        3.4
-        4
-        3
-        3
-        3.5
-        3
-        3
-        3.3
-        3.4
-        3.4
-        4
-        4
-        2.8
-        2.8
-        2.8
-        2.8
-        2.8
-        3.6],
-       :hoveron "points",
-       :legendgroup "6",
-       :frame nil,
-       :hoverinfo "text",
-       :name "6",
-       :marker
-       {:autocolorscale false,
-        :color "rgba(0,191,196,1)",
-        :opacity 1,
-        :size 5.66929133858268,
-        :symbol "circle",
-        :line {:width 1.88976377952756, :color "rgba(0,191,196,1)"}},
-       :mode "markers",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend true,
-       :yaxis "y",
-       :x
-       [26
-        26
-        27
-        25
-        25
-        25
-        25
-        24
-        25
-        26
-        29
-        26
-        24
-        22
-        22
-        24
-        24
-        17
-        22
-        21
-        23
-        23
-        19
-        18
-        17
-        17
-        17
-        17
-        19
-        17
-        19
-        17
-        17
-        26
-        25
-        26
-        24
-        26
-        26
-        28
-        24
-        24
-        24
-        22
-        19
-        20
-        17
-        19
-        27
-        26
-        26
-        25
-        25
-        17
-        17
-        20
-        26
-        26
-        27
-        28
-        19
-        17
-        20
-        26
-        26
-        28
-        26
-        26
-        27
-        17
-        19
-        18
-        20
-        24
-        23
-        24
-        26
-        26
-        26],
-       :text
-       ["hwy: 26<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 27<br />displ: 3.1<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 3.1<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 3.1<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 3.1<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.1<br />factor(cyl): 6"
-        "hwy: 29<br />displ: 3.5<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.6<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 22<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 22<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 22<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 21<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 23<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 23<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 19<br />displ: 3.7<br />factor(cyl): 6"
-        "hwy: 18<br />displ: 3.7<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.9<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.9<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.9<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 19<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 19<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 4.2<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 4.2<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 2.5<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 2.5<br />factor(cyl): 6"
-        "hwy: 28<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 2.7<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 2.7<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 2.7<br />factor(cyl): 6"
-        "hwy: 22<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 19<br />displ: 3.7<br />factor(cyl): 6"
-        "hwy: 20<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 19<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 27<br />displ: 3.5<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.5<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 25<br />displ: 3.5<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 20<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.1<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 27<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 28<br />displ: 3.8<br />factor(cyl): 6"
-        "hwy: 19<br />displ: 3.4<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.4<br />factor(cyl): 6"
-        "hwy: 20<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 28<br />displ: 3.5<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.0<br />factor(cyl): 6"
-        "hwy: 27<br />displ: 3.3<br />factor(cyl): 6"
-        "hwy: 17<br />displ: 3.4<br />factor(cyl): 6"
-        "hwy: 19<br />displ: 3.4<br />factor(cyl): 6"
-        "hwy: 18<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 20<br />displ: 4.0<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 23<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 24<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 2.8<br />factor(cyl): 6"
-        "hwy: 26<br />displ: 3.6<br />factor(cyl): 6"]}
-      {:y
-       [4.2
-        5.3
-        5.3
-        5.3
-        5.7
-        6
-        5.7
-        5.7
-        6.2
-        6.2
-        7
-        5.3
-        5.3
-        5.7
-        6.5
-        4.7
-        4.7
-        4.7
-        5.2
-        5.2
-        4.7
-        4.7
-        4.7
-        5.2
-        5.7
-        5.9
-        4.7
-        4.7
-        4.7
-        4.7
-        4.7
-        4.7
-        5.2
-        5.2
-        5.7
-        5.9
-        4.6
-        5.4
-        5.4
-        4.6
-        5
-        4.6
-        4.6
-        4.6
-        5.4
-        5.4
-        4.6
-        4.6
-        4.6
-        4.6
-        5.4
-        4.7
-        4.7
-        4.7
-        5.7
-        6.1
-        4
-        4.2
-        4.4
-        4.6
-        5.4
-        5.4
-        5.4
-        4.6
-        5
-        5.6
-        5.3
-        4.7
-        4.7
-        5.7],
-       :hoveron "points",
-       :legendgroup "8",
-       :frame nil,
-       :hoverinfo "text",
-       :name "8",
-       :marker
-       {:autocolorscale false,
-        :color "rgba(199,124,255,1)",
-        :opacity 1,
-        :size 5.66929133858268,
-        :symbol "circle",
-        :line {:width 1.88976377952756, :color "rgba(199,124,255,1)"}},
-       :mode "markers",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend true,
-       :yaxis "y",
-       :x
-       [23
-        20
-        15
-        20
-        17
-        17
-        26
-        23
-        26
-        25
-        24
-        19
-        14
-        15
-        17
-        19
-        19
-        12
-        17
-        15
-        17
-        12
-        17
-        16
-        18
-        15
-        16
-        12
-        17
-        17
-        16
-        12
-        15
-        16
-        17
-        15
-        17
-        17
-        18
-        19
-        17
-        16
-        16
-        17
-        15
-        17
-        21
-        22
-        23
-        22
-        20
-        17
-        12
-        19
-        18
-        14
-        15
-        18
-        18
-        15
-        17
-        16
-        18
-        19
-        17
-        18
-        25
-        17
-        15
-        18],
-       :text
-       ["hwy: 23<br />displ: 4.2<br />factor(cyl): 8"
-        "hwy: 20<br />displ: 5.3<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 5.3<br />factor(cyl): 8"
-        "hwy: 20<br />displ: 5.3<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.7<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 6.0<br />factor(cyl): 8"
-        "hwy: 26<br />displ: 5.7<br />factor(cyl): 8"
-        "hwy: 23<br />displ: 5.7<br />factor(cyl): 8"
-        "hwy: 26<br />displ: 6.2<br />factor(cyl): 8"
-        "hwy: 25<br />displ: 6.2<br />factor(cyl): 8"
-        "hwy: 24<br />displ: 7.0<br />factor(cyl): 8"
-        "hwy: 19<br />displ: 5.3<br />factor(cyl): 8"
-        "hwy: 14<br />displ: 5.3<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 5.7<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 6.5<br />factor(cyl): 8"
-        "hwy: 19<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 19<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 12<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.2<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 5.2<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 12<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 16<br />displ: 5.2<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 5.7<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 5.9<br />factor(cyl): 8"
-        "hwy: 16<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 12<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 16<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 12<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 5.2<br />factor(cyl): 8"
-        "hwy: 16<br />displ: 5.2<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.7<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 5.9<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 19<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.0<br />factor(cyl): 8"
-        "hwy: 16<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 16<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 21<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 22<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 23<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 22<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 20<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 12<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 19<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 5.7<br />factor(cyl): 8"
-        "hwy: 14<br />displ: 6.1<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 4.0<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 4.2<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 4.4<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 16<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 5.4<br />factor(cyl): 8"
-        "hwy: 19<br />displ: 4.6<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 5.0<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 5.6<br />factor(cyl): 8"
-        "hwy: 25<br />displ: 5.3<br />factor(cyl): 8"
-        "hwy: 17<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 15<br />displ: 4.7<br />factor(cyl): 8"
-        "hwy: 18<br />displ: 5.7<br />factor(cyl): 8"]}
-      {:y
-       [2.50120819391664
-        2.48893790206772
-        2.4766676102188
-        2.46439731836989
-        2.45212702652097
-        2.43985673467205
-        2.42758644282314
-        2.41531615097422
-        2.4030458591253
-        2.39077556727639
-        2.37850527542747
-        2.36623498357855
-        2.35396469172964
-        2.34169439988072
-        2.3294241080318
-        2.31715381618288
-        2.30488352433397
-        2.29261323248505
-        2.28034294063613
-        2.26807264878722
-        2.2558023569383
-        2.24353206508938
-        2.23126177324047
-        2.21899148139155
-        2.20672118954263
-        2.19445089769372
-        2.1821806058448
-        2.16991031399588
-        2.15764002214696
-        2.14536973029805
-        2.13309943844913
-        2.12082914660021
-        2.1085588547513
-        2.09628856290238
-        2.08401827105346
-        2.07174797920455
-        2.05947768735563
-        2.04720739550671
-        2.0349371036578
-        2.02266681180888
-        2.01039651995996
-        1.99812622811104
-        1.98585593626213
-        1.97358564441321
-        1.96131535256429
-        1.94904506071538
-        1.93677476886646
-        1.92450447701754
-        1.91223418516863
-        1.89996389331971
-        1.88769360147079
-        1.87542330962188
-        1.86315301777296
-        1.85088272592404
-        1.83861243407512
-        1.82634214222621
-        1.81407185037729
-        1.80180155852837
-        1.78953126667946
-        1.77726097483054
-        1.76499068298162
-        1.75272039113271
-        1.74045009928379
-        1.72817980743487
-        1.71590951558595
-        1.70363922373704
-        1.69136893188812
-        1.6790986400392
-        1.66682834819029
-        1.65455805634137
-        1.64228776449245
-        1.63001747264354
-        1.61774718079462
-        1.6054768889457
-        1.59320659709679
-        1.58093630524787
-        1.56866601339895
-        1.55639572155004
-        1.54412542970112
-        1.5318551378522],
-       :hoveron "points",
-       :legendgroup "4",
-       :frame nil,
-       :hoverinfo "text",
-       :name "4",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line
-       {:width 3.77952755905512, :color "rgba(248,118,109,1)", :dash "solid"},
-       :yaxis "y",
-       :x
-       [20
-        20.3037974683544
-        20.6075949367089
-        20.9113924050633
-        21.2151898734177
-        21.5189873417722
-        21.8227848101266
-        22.126582278481
-        22.4303797468354
-        22.7341772151899
-        23.0379746835443
-        23.3417721518987
-        23.6455696202532
-        23.9493670886076
-        24.253164556962
-        24.5569620253165
-        24.8607594936709
-        25.1645569620253
-        25.4683544303797
-        25.7721518987342
-        26.0759493670886
-        26.379746835443
-        26.6835443037975
-        26.9873417721519
-        27.2911392405063
-        27.5949367088608
-        27.8987341772152
-        28.2025316455696
-        28.5063291139241
-        28.8101265822785
-        29.1139240506329
-        29.4177215189873
-        29.7215189873418
-        30.0253164556962
-        30.3291139240506
-        30.6329113924051
-        30.9367088607595
-        31.2405063291139
-        31.5443037974684
-        31.8481012658228
-        32.1518987341772
-        32.4556962025316
-        32.7594936708861
-        33.0632911392405
-        33.3670886075949
-        33.6708860759494
-        33.9746835443038
-        34.2784810126582
-        34.5822784810127
-        34.8860759493671
-        35.1898734177215
-        35.4936708860759
-        35.7974683544304
-        36.1012658227848
-        36.4050632911392
-        36.7088607594937
-        37.0126582278481
-        37.3164556962025
-        37.620253164557
-        37.9240506329114
-        38.2278481012658
-        38.5316455696203
-        38.8354430379747
-        39.1392405063291
-        39.4430379746835
-        39.746835443038
-        40.0506329113924
-        40.3544303797468
-        40.6582278481013
-        40.9620253164557
-        41.2658227848101
-        41.5696202531646
-        41.873417721519
-        42.1772151898734
-        42.4810126582278
-        42.7848101265823
-        43.0886075949367
-        43.3924050632911
-        43.6962025316456
-        44],
-       :text
-       ["hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"
-        "hwy: 20.30380<br />displ: 2.488938<br />factor(cyl): 4"
-        "hwy: 20.60759<br />displ: 2.476668<br />factor(cyl): 4"
-        "hwy: 20.91139<br />displ: 2.464397<br />factor(cyl): 4"
-        "hwy: 21.21519<br />displ: 2.452127<br />factor(cyl): 4"
-        "hwy: 21.51899<br />displ: 2.439857<br />factor(cyl): 4"
-        "hwy: 21.82278<br />displ: 2.427586<br />factor(cyl): 4"
-        "hwy: 22.12658<br />displ: 2.415316<br />factor(cyl): 4"
-        "hwy: 22.43038<br />displ: 2.403046<br />factor(cyl): 4"
-        "hwy: 22.73418<br />displ: 2.390776<br />factor(cyl): 4"
-        "hwy: 23.03797<br />displ: 2.378505<br />factor(cyl): 4"
-        "hwy: 23.34177<br />displ: 2.366235<br />factor(cyl): 4"
-        "hwy: 23.64557<br />displ: 2.353965<br />factor(cyl): 4"
-        "hwy: 23.94937<br />displ: 2.341694<br />factor(cyl): 4"
-        "hwy: 24.25316<br />displ: 2.329424<br />factor(cyl): 4"
-        "hwy: 24.55696<br />displ: 2.317154<br />factor(cyl): 4"
-        "hwy: 24.86076<br />displ: 2.304884<br />factor(cyl): 4"
-        "hwy: 25.16456<br />displ: 2.292613<br />factor(cyl): 4"
-        "hwy: 25.46835<br />displ: 2.280343<br />factor(cyl): 4"
-        "hwy: 25.77215<br />displ: 2.268073<br />factor(cyl): 4"
-        "hwy: 26.07595<br />displ: 2.255802<br />factor(cyl): 4"
-        "hwy: 26.37975<br />displ: 2.243532<br />factor(cyl): 4"
-        "hwy: 26.68354<br />displ: 2.231262<br />factor(cyl): 4"
-        "hwy: 26.98734<br />displ: 2.218991<br />factor(cyl): 4"
-        "hwy: 27.29114<br />displ: 2.206721<br />factor(cyl): 4"
-        "hwy: 27.59494<br />displ: 2.194451<br />factor(cyl): 4"
-        "hwy: 27.89873<br />displ: 2.182181<br />factor(cyl): 4"
-        "hwy: 28.20253<br />displ: 2.169910<br />factor(cyl): 4"
-        "hwy: 28.50633<br />displ: 2.157640<br />factor(cyl): 4"
-        "hwy: 28.81013<br />displ: 2.145370<br />factor(cyl): 4"
-        "hwy: 29.11392<br />displ: 2.133099<br />factor(cyl): 4"
-        "hwy: 29.41772<br />displ: 2.120829<br />factor(cyl): 4"
-        "hwy: 29.72152<br />displ: 2.108559<br />factor(cyl): 4"
-        "hwy: 30.02532<br />displ: 2.096289<br />factor(cyl): 4"
-        "hwy: 30.32911<br />displ: 2.084018<br />factor(cyl): 4"
-        "hwy: 30.63291<br />displ: 2.071748<br />factor(cyl): 4"
-        "hwy: 30.93671<br />displ: 2.059478<br />factor(cyl): 4"
-        "hwy: 31.24051<br />displ: 2.047207<br />factor(cyl): 4"
-        "hwy: 31.54430<br />displ: 2.034937<br />factor(cyl): 4"
-        "hwy: 31.84810<br />displ: 2.022667<br />factor(cyl): 4"
-        "hwy: 32.15190<br />displ: 2.010397<br />factor(cyl): 4"
-        "hwy: 32.45570<br />displ: 1.998126<br />factor(cyl): 4"
-        "hwy: 32.75949<br />displ: 1.985856<br />factor(cyl): 4"
-        "hwy: 33.06329<br />displ: 1.973586<br />factor(cyl): 4"
-        "hwy: 33.36709<br />displ: 1.961315<br />factor(cyl): 4"
-        "hwy: 33.67089<br />displ: 1.949045<br />factor(cyl): 4"
-        "hwy: 33.97468<br />displ: 1.936775<br />factor(cyl): 4"
-        "hwy: 34.27848<br />displ: 1.924504<br />factor(cyl): 4"
-        "hwy: 34.58228<br />displ: 1.912234<br />factor(cyl): 4"
-        "hwy: 34.88608<br />displ: 1.899964<br />factor(cyl): 4"
-        "hwy: 35.18987<br />displ: 1.887694<br />factor(cyl): 4"
-        "hwy: 35.49367<br />displ: 1.875423<br />factor(cyl): 4"
-        "hwy: 35.79747<br />displ: 1.863153<br />factor(cyl): 4"
-        "hwy: 36.10127<br />displ: 1.850883<br />factor(cyl): 4"
-        "hwy: 36.40506<br />displ: 1.838612<br />factor(cyl): 4"
-        "hwy: 36.70886<br />displ: 1.826342<br />factor(cyl): 4"
-        "hwy: 37.01266<br />displ: 1.814072<br />factor(cyl): 4"
-        "hwy: 37.31646<br />displ: 1.801802<br />factor(cyl): 4"
-        "hwy: 37.62025<br />displ: 1.789531<br />factor(cyl): 4"
-        "hwy: 37.92405<br />displ: 1.777261<br />factor(cyl): 4"
-        "hwy: 38.22785<br />displ: 1.764991<br />factor(cyl): 4"
-        "hwy: 38.53165<br />displ: 1.752720<br />factor(cyl): 4"
-        "hwy: 38.83544<br />displ: 1.740450<br />factor(cyl): 4"
-        "hwy: 39.13924<br />displ: 1.728180<br />factor(cyl): 4"
-        "hwy: 39.44304<br />displ: 1.715910<br />factor(cyl): 4"
-        "hwy: 39.74684<br />displ: 1.703639<br />factor(cyl): 4"
-        "hwy: 40.05063<br />displ: 1.691369<br />factor(cyl): 4"
-        "hwy: 40.35443<br />displ: 1.679099<br />factor(cyl): 4"
-        "hwy: 40.65823<br />displ: 1.666828<br />factor(cyl): 4"
-        "hwy: 40.96203<br />displ: 1.654558<br />factor(cyl): 4"
-        "hwy: 41.26582<br />displ: 1.642288<br />factor(cyl): 4"
-        "hwy: 41.56962<br />displ: 1.630017<br />factor(cyl): 4"
-        "hwy: 41.87342<br />displ: 1.617747<br />factor(cyl): 4"
-        "hwy: 42.17722<br />displ: 1.605477<br />factor(cyl): 4"
-        "hwy: 42.48101<br />displ: 1.593207<br />factor(cyl): 4"
-        "hwy: 42.78481<br />displ: 1.580936<br />factor(cyl): 4"
-        "hwy: 43.08861<br />displ: 1.568666<br />factor(cyl): 4"
-        "hwy: 43.39241<br />displ: 1.556396<br />factor(cyl): 4"
-        "hwy: 43.69620<br />displ: 1.544125<br />factor(cyl): 4"
-        "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"]}
-      {:y
-       [2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5],
-       :hoveron "points",
-       :legendgroup "5",
-       :frame nil,
-       :hoverinfo "text",
-       :name "5",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line {:width 3.77952755905512, :color "rgba(124,174,0,1)", :dash "solid"},
-       :yaxis "y",
-       :x
-       [28
-        28.0126582278481
-        28.0253164556962
-        28.0379746835443
-        28.0506329113924
-        28.0632911392405
-        28.0759493670886
-        28.0886075949367
-        28.1012658227848
-        28.1139240506329
-        28.126582278481
-        28.1392405063291
-        28.1518987341772
-        28.1645569620253
-        28.1772151898734
-        28.1898734177215
-        28.2025316455696
-        28.2151898734177
-        28.2278481012658
-        28.2405063291139
-        28.253164556962
-        28.2658227848101
-        28.2784810126582
-        28.2911392405063
-        28.3037974683544
-        28.3164556962025
-        28.3291139240506
-        28.3417721518987
-        28.3544303797468
-        28.3670886075949
-        28.379746835443
-        28.3924050632911
-        28.4050632911392
-        28.4177215189873
-        28.4303797468354
-        28.4430379746835
-        28.4556962025316
-        28.4683544303797
-        28.4810126582278
-        28.493670886076
-        28.506329113924
-        28.5189873417722
-        28.5316455696203
-        28.5443037974684
-        28.5569620253165
-        28.5696202531646
-        28.5822784810127
-        28.5949367088608
-        28.6075949367089
-        28.620253164557
-        28.6329113924051
-        28.6455696202532
-        28.6582278481013
-        28.6708860759494
-        28.6835443037975
-        28.6962025316456
-        28.7088607594937
-        28.7215189873418
-        28.7341772151899
-        28.746835443038
-        28.7594936708861
-        28.7721518987342
-        28.7848101265823
-        28.7974683544304
-        28.8101265822785
-        28.8227848101266
-        28.8354430379747
-        28.8481012658228
-        28.8607594936709
-        28.873417721519
-        28.8860759493671
-        28.8987341772152
-        28.9113924050633
-        28.9240506329114
-        28.9367088607595
-        28.9493670886076
-        28.9620253164557
-        28.9746835443038
-        28.9873417721519
-        29],
-       :text
-       ["hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.01266<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.02532<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.03797<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.05063<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.06329<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.07595<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.08861<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.10127<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.11392<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.12658<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.13924<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.15190<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.16456<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.17722<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.18987<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.20253<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.21519<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.22785<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.24051<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.25316<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.26582<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.27848<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.29114<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.30380<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.31646<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.32911<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.34177<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.35443<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.36709<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.37975<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.39241<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.40506<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.41772<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.43038<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.44304<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.45570<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.46835<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.48101<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.49367<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.50633<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.51899<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.53165<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.54430<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.55696<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.56962<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.58228<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.59494<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.60759<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.62025<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.63291<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.64557<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.65823<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.67089<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.68354<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.69620<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.70886<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.72152<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.73418<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.74684<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.75949<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.77215<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.78481<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.79747<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.81013<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.82278<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.83544<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.84810<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.86076<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.87342<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.88608<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.89873<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.91139<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.92405<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.93671<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.94937<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.96203<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.97468<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.98734<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 29.00000<br />displ: 2.500000<br />factor(cyl): 5"]}
-      {:y
-       [3.7879309932857
-        3.77804220457809
-        3.76815341587047
-        3.75826462716285
-        3.74837583845523
-        3.73848704974761
-        3.72859826103999
-        3.71870947233238
-        3.70882068362476
-        3.69893189491714
-        3.68904310620952
-        3.6791543175019
-        3.66926552879429
-        3.65937674008667
-        3.64948795137905
-        3.63959916267143
-        3.62971037396381
-        3.61982158525619
-        3.60993279654858
-        3.60004400784096
-        3.59015521913334
-        3.58026643042572
-        3.5703776417181
-        3.56048885301048
-        3.55060006430287
-        3.54071127559525
-        3.53082248688763
-        3.52093369818001
-        3.51104490947239
-        3.50115612076478
-        3.49126733205716
-        3.48137854334954
-        3.47148975464192
-        3.4616009659343
-        3.45171217722668
-        3.44182338851907
-        3.43193459981145
-        3.42204581110383
-        3.41215702239621
-        3.40226823368859
-        3.39237944498097
-        3.38249065627336
-        3.37260186756574
-        3.36271307885812
-        3.3528242901505
-        3.34293550144288
-        3.33304671273526
-        3.32315792402765
-        3.31326913532003
-        3.30338034661241
-        3.29349155790479
-        3.28360276919717
-        3.27371398048956
-        3.26382519178194
-        3.25393640307432
-        3.2440476143667
-        3.23415882565908
-        3.22427003695146
-        3.21438124824385
-        3.20449245953623
-        3.19460367082861
-        3.18471488212099
-        3.17482609341337
-        3.16493730470575
-        3.15504851599814
-        3.14515972729052
-        3.1352709385829
-        3.12538214987528
-        3.11549336116766
-        3.10560457246005
-        3.09571578375243
-        3.08582699504481
-        3.07593820633719
-        3.06604941762957
-        3.05616062892195
-        3.04627184021434
-        3.03638305150672
-        3.0264942627991
-        3.01660547409148
-        3.00671668538386],
-       :hoveron "points",
-       :legendgroup "6",
-       :frame nil,
-       :hoverinfo "text",
-       :name "6",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line {:width 3.77952755905512, :color "rgba(0,191,196,1)", :dash "solid"},
-       :yaxis "y",
-       :x
-       [17
-        17.1518987341772
-        17.3037974683544
-        17.4556962025316
-        17.6075949367089
-        17.7594936708861
-        17.9113924050633
-        18.0632911392405
-        18.2151898734177
-        18.3670886075949
-        18.5189873417722
-        18.6708860759494
-        18.8227848101266
-        18.9746835443038
-        19.126582278481
-        19.2784810126582
-        19.4303797468354
-        19.5822784810127
-        19.7341772151899
-        19.8860759493671
-        20.0379746835443
-        20.1898734177215
-        20.3417721518987
-        20.493670886076
-        20.6455696202532
-        20.7974683544304
-        20.9493670886076
-        21.1012658227848
-        21.253164556962
-        21.4050632911392
-        21.5569620253165
-        21.7088607594937
-        21.8607594936709
-        22.0126582278481
-        22.1645569620253
-        22.3164556962025
-        22.4683544303797
-        22.620253164557
-        22.7721518987342
-        22.9240506329114
-        23.0759493670886
-        23.2278481012658
-        23.379746835443
-        23.5316455696203
-        23.6835443037975
-        23.8354430379747
-        23.9873417721519
-        24.1392405063291
-        24.2911392405063
-        24.4430379746835
-        24.5949367088608
-        24.746835443038
-        24.8987341772152
-        25.0506329113924
-        25.2025316455696
-        25.3544303797468
-        25.5063291139241
-        25.6582278481013
-        25.8101265822785
-        25.9620253164557
-        26.1139240506329
-        26.2658227848101
-        26.4177215189873
-        26.5696202531646
-        26.7215189873418
-        26.873417721519
-        27.0253164556962
-        27.1772151898734
-        27.3291139240506
-        27.4810126582278
-        27.6329113924051
-        27.7848101265823
-        27.9367088607595
-        28.0886075949367
-        28.2405063291139
-        28.3924050632911
-        28.5443037974684
-        28.6962025316456
-        28.8481012658228
-        29],
-       :text
-       ["hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"
-        "hwy: 17.15190<br />displ: 3.778042<br />factor(cyl): 6"
-        "hwy: 17.30380<br />displ: 3.768153<br />factor(cyl): 6"
-        "hwy: 17.45570<br />displ: 3.758265<br />factor(cyl): 6"
-        "hwy: 17.60759<br />displ: 3.748376<br />factor(cyl): 6"
-        "hwy: 17.75949<br />displ: 3.738487<br />factor(cyl): 6"
-        "hwy: 17.91139<br />displ: 3.728598<br />factor(cyl): 6"
-        "hwy: 18.06329<br />displ: 3.718709<br />factor(cyl): 6"
-        "hwy: 18.21519<br />displ: 3.708821<br />factor(cyl): 6"
-        "hwy: 18.36709<br />displ: 3.698932<br />factor(cyl): 6"
-        "hwy: 18.51899<br />displ: 3.689043<br />factor(cyl): 6"
-        "hwy: 18.67089<br />displ: 3.679154<br />factor(cyl): 6"
-        "hwy: 18.82278<br />displ: 3.669266<br />factor(cyl): 6"
-        "hwy: 18.97468<br />displ: 3.659377<br />factor(cyl): 6"
-        "hwy: 19.12658<br />displ: 3.649488<br />factor(cyl): 6"
-        "hwy: 19.27848<br />displ: 3.639599<br />factor(cyl): 6"
-        "hwy: 19.43038<br />displ: 3.629710<br />factor(cyl): 6"
-        "hwy: 19.58228<br />displ: 3.619822<br />factor(cyl): 6"
-        "hwy: 19.73418<br />displ: 3.609933<br />factor(cyl): 6"
-        "hwy: 19.88608<br />displ: 3.600044<br />factor(cyl): 6"
-        "hwy: 20.03797<br />displ: 3.590155<br />factor(cyl): 6"
-        "hwy: 20.18987<br />displ: 3.580266<br />factor(cyl): 6"
-        "hwy: 20.34177<br />displ: 3.570378<br />factor(cyl): 6"
-        "hwy: 20.49367<br />displ: 3.560489<br />factor(cyl): 6"
-        "hwy: 20.64557<br />displ: 3.550600<br />factor(cyl): 6"
-        "hwy: 20.79747<br />displ: 3.540711<br />factor(cyl): 6"
-        "hwy: 20.94937<br />displ: 3.530822<br />factor(cyl): 6"
-        "hwy: 21.10127<br />displ: 3.520934<br />factor(cyl): 6"
-        "hwy: 21.25316<br />displ: 3.511045<br />factor(cyl): 6"
-        "hwy: 21.40506<br />displ: 3.501156<br />factor(cyl): 6"
-        "hwy: 21.55696<br />displ: 3.491267<br />factor(cyl): 6"
-        "hwy: 21.70886<br />displ: 3.481379<br />factor(cyl): 6"
-        "hwy: 21.86076<br />displ: 3.471490<br />factor(cyl): 6"
-        "hwy: 22.01266<br />displ: 3.461601<br />factor(cyl): 6"
-        "hwy: 22.16456<br />displ: 3.451712<br />factor(cyl): 6"
-        "hwy: 22.31646<br />displ: 3.441823<br />factor(cyl): 6"
-        "hwy: 22.46835<br />displ: 3.431935<br />factor(cyl): 6"
-        "hwy: 22.62025<br />displ: 3.422046<br />factor(cyl): 6"
-        "hwy: 22.77215<br />displ: 3.412157<br />factor(cyl): 6"
-        "hwy: 22.92405<br />displ: 3.402268<br />factor(cyl): 6"
-        "hwy: 23.07595<br />displ: 3.392379<br />factor(cyl): 6"
-        "hwy: 23.22785<br />displ: 3.382491<br />factor(cyl): 6"
-        "hwy: 23.37975<br />displ: 3.372602<br />factor(cyl): 6"
-        "hwy: 23.53165<br />displ: 3.362713<br />factor(cyl): 6"
-        "hwy: 23.68354<br />displ: 3.352824<br />factor(cyl): 6"
-        "hwy: 23.83544<br />displ: 3.342936<br />factor(cyl): 6"
-        "hwy: 23.98734<br />displ: 3.333047<br />factor(cyl): 6"
-        "hwy: 24.13924<br />displ: 3.323158<br />factor(cyl): 6"
-        "hwy: 24.29114<br />displ: 3.313269<br />factor(cyl): 6"
-        "hwy: 24.44304<br />displ: 3.303380<br />factor(cyl): 6"
-        "hwy: 24.59494<br />displ: 3.293492<br />factor(cyl): 6"
-        "hwy: 24.74684<br />displ: 3.283603<br />factor(cyl): 6"
-        "hwy: 24.89873<br />displ: 3.273714<br />factor(cyl): 6"
-        "hwy: 25.05063<br />displ: 3.263825<br />factor(cyl): 6"
-        "hwy: 25.20253<br />displ: 3.253936<br />factor(cyl): 6"
-        "hwy: 25.35443<br />displ: 3.244048<br />factor(cyl): 6"
-        "hwy: 25.50633<br />displ: 3.234159<br />factor(cyl): 6"
-        "hwy: 25.65823<br />displ: 3.224270<br />factor(cyl): 6"
-        "hwy: 25.81013<br />displ: 3.214381<br />factor(cyl): 6"
-        "hwy: 25.96203<br />displ: 3.204492<br />factor(cyl): 6"
-        "hwy: 26.11392<br />displ: 3.194604<br />factor(cyl): 6"
-        "hwy: 26.26582<br />displ: 3.184715<br />factor(cyl): 6"
-        "hwy: 26.41772<br />displ: 3.174826<br />factor(cyl): 6"
-        "hwy: 26.56962<br />displ: 3.164937<br />factor(cyl): 6"
-        "hwy: 26.72152<br />displ: 3.155049<br />factor(cyl): 6"
-        "hwy: 26.87342<br />displ: 3.145160<br />factor(cyl): 6"
-        "hwy: 27.02532<br />displ: 3.135271<br />factor(cyl): 6"
-        "hwy: 27.17722<br />displ: 3.125382<br />factor(cyl): 6"
-        "hwy: 27.32911<br />displ: 3.115493<br />factor(cyl): 6"
-        "hwy: 27.48101<br />displ: 3.105605<br />factor(cyl): 6"
-        "hwy: 27.63291<br />displ: 3.095716<br />factor(cyl): 6"
-        "hwy: 27.78481<br />displ: 3.085827<br />factor(cyl): 6"
-        "hwy: 27.93671<br />displ: 3.075938<br />factor(cyl): 6"
-        "hwy: 28.08861<br />displ: 3.066049<br />factor(cyl): 6"
-        "hwy: 28.24051<br />displ: 3.056161<br />factor(cyl): 6"
-        "hwy: 28.39241<br />displ: 3.046272<br />factor(cyl): 6"
-        "hwy: 28.54430<br />displ: 3.036383<br />factor(cyl): 6"
-        "hwy: 28.69620<br />displ: 3.026494<br />factor(cyl): 6"
-        "hwy: 28.84810<br />displ: 3.016605<br />factor(cyl): 6"
-        "hwy: 29.00000<br />displ: 3.006717<br />factor(cyl): 6"]}
-      {:y
-       [4.8948330869193
-        4.9023272581851
-        4.90982142945089
-        4.91731560071668
-        4.92480977198248
-        4.93230394324827
-        4.93979811451406
-        4.94729228577986
-        4.95478645704565
-        4.96228062831144
-        4.96977479957724
-        4.97726897084303
-        4.98476314210882
-        4.99225731337462
-        4.99975148464041
-        5.0072456559062
-        5.014739827172
-        5.02223399843779
-        5.02972816970358
-        5.03722234096938
-        5.04471651223517
-        5.05221068350096
-        5.05970485476676
-        5.06719902603255
-        5.07469319729834
-        5.08218736856413
-        5.08968153982993
-        5.09717571109572
-        5.10466988236151
-        5.11216405362731
-        5.1196582248931
-        5.12715239615889
-        5.13464656742469
-        5.14214073869048
-        5.14963490995627
-        5.15712908122207
-        5.16462325248786
-        5.17211742375365
-        5.17961159501945
-        5.18710576628524
-        5.19459993755103
-        5.20209410881683
-        5.20958828008262
-        5.21708245134841
-        5.22457662261421
-        5.23207079388
-        5.23956496514579
-        5.24705913641159
-        5.25455330767738
-        5.26204747894317
-        5.26954165020897
-        5.27703582147476
-        5.28452999274055
-        5.29202416400635
-        5.29951833527214
-        5.30701250653793
-        5.31450667780373
-        5.32200084906952
-        5.32949502033531
-        5.33698919160111
-        5.3444833628669
-        5.35197753413269
-        5.35947170539849
-        5.36696587666428
-        5.37446004793007
-        5.38195421919587
-        5.38944839046166
-        5.39694256172745
-        5.40443673299325
-        5.41193090425904
-        5.41942507552483
-        5.42691924679063
-        5.43441341805642
-        5.44190758932221
-        5.449401760588
-        5.4568959318538
-        5.46439010311959
-        5.47188427438538
-        5.47937844565118
-        5.48687261691697],
-       :hoveron "points",
-       :legendgroup "8",
-       :frame nil,
-       :hoverinfo "text",
-       :name "8",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line
-       {:width 3.77952755905512, :color "rgba(199,124,255,1)", :dash "solid"},
-       :yaxis "y",
-       :x
-       [12
-        12.1772151898734
-        12.3544303797468
-        12.5316455696203
-        12.7088607594937
-        12.8860759493671
-        13.0632911392405
-        13.2405063291139
-        13.4177215189873
-        13.5949367088608
-        13.7721518987342
-        13.9493670886076
-        14.126582278481
-        14.3037974683544
-        14.4810126582278
-        14.6582278481013
-        14.8354430379747
-        15.0126582278481
-        15.1898734177215
-        15.3670886075949
-        15.5443037974684
-        15.7215189873418
-        15.8987341772152
-        16.0759493670886
-        16.253164556962
-        16.4303797468354
-        16.6075949367089
-        16.7848101265823
-        16.9620253164557
-        17.1392405063291
-        17.3164556962025
-        17.493670886076
-        17.6708860759494
-        17.8481012658228
-        18.0253164556962
-        18.2025316455696
-        18.379746835443
-        18.5569620253165
-        18.7341772151899
-        18.9113924050633
-        19.0886075949367
-        19.2658227848101
-        19.4430379746835
-        19.620253164557
-        19.7974683544304
-        19.9746835443038
-        20.1518987341772
-        20.3291139240506
-        20.506329113924
-        20.6835443037975
-        20.8607594936709
-        21.0379746835443
-        21.2151898734177
-        21.3924050632911
-        21.5696202531646
-        21.746835443038
-        21.9240506329114
-        22.1012658227848
-        22.2784810126582
-        22.4556962025316
-        22.6329113924051
-        22.8101265822785
-        22.9873417721519
-        23.1645569620253
-        23.3417721518987
-        23.5189873417722
-        23.6962025316456
-        23.873417721519
-        24.0506329113924
-        24.2278481012658
-        24.4050632911392
-        24.5822784810127
-        24.7594936708861
-        24.9367088607595
-        25.1139240506329
-        25.2911392405063
-        25.4683544303797
-        25.6455696202532
-        25.8227848101266
-        26],
-       :text
-       ["hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"
-        "hwy: 12.17722<br />displ: 4.902327<br />factor(cyl): 8"
-        "hwy: 12.35443<br />displ: 4.909821<br />factor(cyl): 8"
-        "hwy: 12.53165<br />displ: 4.917316<br />factor(cyl): 8"
-        "hwy: 12.70886<br />displ: 4.924810<br />factor(cyl): 8"
-        "hwy: 12.88608<br />displ: 4.932304<br />factor(cyl): 8"
-        "hwy: 13.06329<br />displ: 4.939798<br />factor(cyl): 8"
-        "hwy: 13.24051<br />displ: 4.947292<br />factor(cyl): 8"
-        "hwy: 13.41772<br />displ: 4.954786<br />factor(cyl): 8"
-        "hwy: 13.59494<br />displ: 4.962281<br />factor(cyl): 8"
-        "hwy: 13.77215<br />displ: 4.969775<br />factor(cyl): 8"
-        "hwy: 13.94937<br />displ: 4.977269<br />factor(cyl): 8"
-        "hwy: 14.12658<br />displ: 4.984763<br />factor(cyl): 8"
-        "hwy: 14.30380<br />displ: 4.992257<br />factor(cyl): 8"
-        "hwy: 14.48101<br />displ: 4.999751<br />factor(cyl): 8"
-        "hwy: 14.65823<br />displ: 5.007246<br />factor(cyl): 8"
-        "hwy: 14.83544<br />displ: 5.014740<br />factor(cyl): 8"
-        "hwy: 15.01266<br />displ: 5.022234<br />factor(cyl): 8"
-        "hwy: 15.18987<br />displ: 5.029728<br />factor(cyl): 8"
-        "hwy: 15.36709<br />displ: 5.037222<br />factor(cyl): 8"
-        "hwy: 15.54430<br />displ: 5.044717<br />factor(cyl): 8"
-        "hwy: 15.72152<br />displ: 5.052211<br />factor(cyl): 8"
-        "hwy: 15.89873<br />displ: 5.059705<br />factor(cyl): 8"
-        "hwy: 16.07595<br />displ: 5.067199<br />factor(cyl): 8"
-        "hwy: 16.25316<br />displ: 5.074693<br />factor(cyl): 8"
-        "hwy: 16.43038<br />displ: 5.082187<br />factor(cyl): 8"
-        "hwy: 16.60759<br />displ: 5.089682<br />factor(cyl): 8"
-        "hwy: 16.78481<br />displ: 5.097176<br />factor(cyl): 8"
-        "hwy: 16.96203<br />displ: 5.104670<br />factor(cyl): 8"
-        "hwy: 17.13924<br />displ: 5.112164<br />factor(cyl): 8"
-        "hwy: 17.31646<br />displ: 5.119658<br />factor(cyl): 8"
-        "hwy: 17.49367<br />displ: 5.127152<br />factor(cyl): 8"
-        "hwy: 17.67089<br />displ: 5.134647<br />factor(cyl): 8"
-        "hwy: 17.84810<br />displ: 5.142141<br />factor(cyl): 8"
-        "hwy: 18.02532<br />displ: 5.149635<br />factor(cyl): 8"
-        "hwy: 18.20253<br />displ: 5.157129<br />factor(cyl): 8"
-        "hwy: 18.37975<br />displ: 5.164623<br />factor(cyl): 8"
-        "hwy: 18.55696<br />displ: 5.172117<br />factor(cyl): 8"
-        "hwy: 18.73418<br />displ: 5.179612<br />factor(cyl): 8"
-        "hwy: 18.91139<br />displ: 5.187106<br />factor(cyl): 8"
-        "hwy: 19.08861<br />displ: 5.194600<br />factor(cyl): 8"
-        "hwy: 19.26582<br />displ: 5.202094<br />factor(cyl): 8"
-        "hwy: 19.44304<br />displ: 5.209588<br />factor(cyl): 8"
-        "hwy: 19.62025<br />displ: 5.217082<br />factor(cyl): 8"
-        "hwy: 19.79747<br />displ: 5.224577<br />factor(cyl): 8"
-        "hwy: 19.97468<br />displ: 5.232071<br />factor(cyl): 8"
-        "hwy: 20.15190<br />displ: 5.239565<br />factor(cyl): 8"
-        "hwy: 20.32911<br />displ: 5.247059<br />factor(cyl): 8"
-        "hwy: 20.50633<br />displ: 5.254553<br />factor(cyl): 8"
-        "hwy: 20.68354<br />displ: 5.262047<br />factor(cyl): 8"
-        "hwy: 20.86076<br />displ: 5.269542<br />factor(cyl): 8"
-        "hwy: 21.03797<br />displ: 5.277036<br />factor(cyl): 8"
-        "hwy: 21.21519<br />displ: 5.284530<br />factor(cyl): 8"
-        "hwy: 21.39241<br />displ: 5.292024<br />factor(cyl): 8"
-        "hwy: 21.56962<br />displ: 5.299518<br />factor(cyl): 8"
-        "hwy: 21.74684<br />displ: 5.307013<br />factor(cyl): 8"
-        "hwy: 21.92405<br />displ: 5.314507<br />factor(cyl): 8"
-        "hwy: 22.10127<br />displ: 5.322001<br />factor(cyl): 8"
-        "hwy: 22.27848<br />displ: 5.329495<br />factor(cyl): 8"
-        "hwy: 22.45570<br />displ: 5.336989<br />factor(cyl): 8"
-        "hwy: 22.63291<br />displ: 5.344483<br />factor(cyl): 8"
-        "hwy: 22.81013<br />displ: 5.351978<br />factor(cyl): 8"
-        "hwy: 22.98734<br />displ: 5.359472<br />factor(cyl): 8"
-        "hwy: 23.16456<br />displ: 5.366966<br />factor(cyl): 8"
-        "hwy: 23.34177<br />displ: 5.374460<br />factor(cyl): 8"
-        "hwy: 23.51899<br />displ: 5.381954<br />factor(cyl): 8"
-        "hwy: 23.69620<br />displ: 5.389448<br />factor(cyl): 8"
-        "hwy: 23.87342<br />displ: 5.396943<br />factor(cyl): 8"
-        "hwy: 24.05063<br />displ: 5.404437<br />factor(cyl): 8"
-        "hwy: 24.22785<br />displ: 5.411931<br />factor(cyl): 8"
-        "hwy: 24.40506<br />displ: 5.419425<br />factor(cyl): 8"
-        "hwy: 24.58228<br />displ: 5.426919<br />factor(cyl): 8"
-        "hwy: 24.75949<br />displ: 5.434413<br />factor(cyl): 8"
-        "hwy: 24.93671<br />displ: 5.441908<br />factor(cyl): 8"
-        "hwy: 25.11392<br />displ: 5.449402<br />factor(cyl): 8"
-        "hwy: 25.29114<br />displ: 5.456896<br />factor(cyl): 8"
-        "hwy: 25.46835<br />displ: 5.464390<br />factor(cyl): 8"
-        "hwy: 25.64557<br />displ: 5.471884<br />factor(cyl): 8"
-        "hwy: 25.82278<br />displ: 5.479378<br />factor(cyl): 8"
-        "hwy: 26.00000<br />displ: 5.486873<br />factor(cyl): 8"]}
-      {:y
-       [2.3753054497836
-        2.36647156844207
-        2.35761099102247
-        2.34872135678544
-        2.33980004216822
-        2.33084412737202
-        2.32185035864091
-        2.31281510582197
-        2.30373431484324
-        2.29460345484589
-        2.28541745988605
-        2.27617066541384
-        2.26685674018704
-        2.25746861494112
-        2.24799841008142
-        2.23843736595807
-        2.22877578099233
-        2.21900296507358
-        2.20910721819652
-        2.19907584707967
-        2.18889523510872
-        2.17855098270044
-        2.16802813506717
-        2.15731151109246
-        2.14638613930786
-        2.1352377940017
-        2.12385360676099
-        2.11222270868352
-        2.1003368407126
-        2.08819085999095
-        2.07578307404973
-        2.06311535398869
-        2.05019300944329
-        2.03702444432543
-        2.0236206434994
-        2.00999455914631
-        1.99616046872681
-        1.98213336633868
-        1.96792843122872
-        1.95356059717862
-        1.93904422895531
-        1.92439289932431
-        1.90961925265374
-        1.8947349380593
-        1.87975059504803
-        1.864675876435
-        1.84951949593206
-        1.83428929057507
-        1.81899229068919
-        1.80363479222013
-        1.78822242794569
-        1.77276023535687
-        1.75725271992685
-        1.74170391313731
-        1.72611742507287
-        1.71049649167952
-        1.69484401695729
-        1.6791626104542
-        1.66345462047278
-        1.64772216341102
-        1.63196714964819
-        1.61619130636205
-        1.6003961976338
-        1.58458324216352
-        1.56875372888578
-        1.55290883074267
-        1.5370496168417
-        1.52117706319858
-        1.50529206224024
-        1.48939543122142
-        1.47348791968873
-        1.45757021610902
-        1.44164295376393
-        1.42570671599941
-        1.40976204090752
-        1.39380942550825
-        1.37784932949011
-        1.36188217856107
-        1.34590836745483
-        1.32992826263188
-        1.32992826263188
-        1.73378201307252
-        1.7423424919474
-        1.750909264539
-        1.7594826973078
-        1.76806318498749
-        1.77665115328606
-        1.785247061892
-        1.79385140782531
-        1.80246472917806
-        1.81108760929618
-        1.81972068146132
-        1.82836463414033
-        1.83702021687983
-        1.84568824693454
-        1.8543696167314
-        1.86306530228613
-        1.87177637270622
-        1.88050400093378
-        1.88924947590336
-        1.89801421631505
-        1.90679978625006
-        1.91560791288614
-        1.92444050660255
-        1.93329968379729
-        1.9421877927729
-        1.95110744307738
-        1.96006153871077
-        1.96905331561907
-        1.97808638388688
-        1.98716477499589
-        1.99629299441928
-        2.00547607964807
-        2.01471966346002
-        2.02403004180086
-        2.03341424499576
-        2.04288011008056
-        2.05243635076712
-        2.06209261987052
-        2.07185955689778
-        2.08174881096461
-        2.09177302643914
-        2.10194577608687
-        2.11228142467475
-        2.12279490598445
-        2.13350139926278
-        2.14441589860753
-        2.15555268147933
-        2.16692470005931
-        2.17854293921173
-        2.19041580284853
-        2.20254860060515
-        2.21494320358133
-        2.22759791930824
-        2.2405076049286
-        2.25366400138573
-        2.26705623977741
-        2.28067145169064
-        2.29449541141377
-        2.30851314747833
-        2.32270947876788
-        2.33706945049476
-        2.35157866307575
-        2.36622349989653
-        2.3809912676756
-        2.3958702664077
-        2.41084980598219
-        2.42592018482031
-        2.44107264327223
-        2.45629930174326
-        2.47159309096889
-        2.48694767970689
-        2.50235740340737
-        2.51781719612647
-        2.53332252700537
-        2.54886934197209
-        2.56445401087372
-        2.58007327995433
-        2.59572422941514
-        2.61140423569337
-        2.62711093804968
-        2.3753054497836],
-       :hoveron "points",
-       :legendgroup "4",
-       :frame nil,
-       :fillcolor "rgba(153,153,153,0.4)",
-       :hoverinfo "x+y",
-       :name "4",
-       :fill "toself",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
-       :yaxis "y",
-       :x
-       [20
-        20.3037974683544
-        20.6075949367089
-        20.9113924050633
-        21.2151898734177
-        21.5189873417722
-        21.8227848101266
-        22.126582278481
-        22.4303797468354
-        22.7341772151899
-        23.0379746835443
-        23.3417721518987
-        23.6455696202532
-        23.9493670886076
-        24.253164556962
-        24.5569620253165
-        24.8607594936709
-        25.1645569620253
-        25.4683544303797
-        25.7721518987342
-        26.0759493670886
-        26.379746835443
-        26.6835443037975
-        26.9873417721519
-        27.2911392405063
-        27.5949367088608
-        27.8987341772152
-        28.2025316455696
-        28.5063291139241
-        28.8101265822785
-        29.1139240506329
-        29.4177215189873
-        29.7215189873418
-        30.0253164556962
-        30.3291139240506
-        30.6329113924051
-        30.9367088607595
-        31.2405063291139
-        31.5443037974684
-        31.8481012658228
-        32.1518987341772
-        32.4556962025316
-        32.7594936708861
-        33.0632911392405
-        33.3670886075949
-        33.6708860759494
-        33.9746835443038
-        34.2784810126582
-        34.5822784810127
-        34.8860759493671
-        35.1898734177215
-        35.4936708860759
-        35.7974683544304
-        36.1012658227848
-        36.4050632911392
-        36.7088607594937
-        37.0126582278481
-        37.3164556962025
-        37.620253164557
-        37.9240506329114
-        38.2278481012658
-        38.5316455696203
-        38.8354430379747
-        39.1392405063291
-        39.4430379746835
-        39.746835443038
-        40.0506329113924
-        40.3544303797468
-        40.6582278481013
-        40.9620253164557
-        41.2658227848101
-        41.5696202531646
-        41.873417721519
-        42.1772151898734
-        42.4810126582278
-        42.7848101265823
-        43.0886075949367
-        43.3924050632911
-        43.6962025316456
-        44
-        44
-        44
-        43.6962025316456
-        43.3924050632911
-        43.0886075949367
-        42.7848101265823
-        42.4810126582278
-        42.1772151898734
-        41.873417721519
-        41.5696202531646
-        41.2658227848101
-        40.9620253164557
-        40.6582278481013
-        40.3544303797468
-        40.0506329113924
-        39.746835443038
-        39.4430379746835
-        39.1392405063291
-        38.8354430379747
-        38.5316455696203
-        38.2278481012658
-        37.9240506329114
-        37.620253164557
-        37.3164556962025
-        37.0126582278481
-        36.7088607594937
-        36.4050632911392
-        36.1012658227848
-        35.7974683544304
-        35.4936708860759
-        35.1898734177215
-        34.8860759493671
-        34.5822784810127
-        34.2784810126582
-        33.9746835443038
-        33.6708860759494
-        33.3670886075949
-        33.0632911392405
-        32.7594936708861
-        32.4556962025316
-        32.1518987341772
-        31.8481012658228
-        31.5443037974684
-        31.2405063291139
-        30.9367088607595
-        30.6329113924051
-        30.3291139240506
-        30.0253164556962
-        29.7215189873418
-        29.4177215189873
-        29.1139240506329
-        28.8101265822785
-        28.5063291139241
-        28.2025316455696
-        27.8987341772152
-        27.5949367088608
-        27.2911392405063
-        26.9873417721519
-        26.6835443037975
-        26.379746835443
-        26.0759493670886
-        25.7721518987342
-        25.4683544303797
-        25.1645569620253
-        24.8607594936709
-        24.5569620253165
-        24.253164556962
-        23.9493670886076
-        23.6455696202532
-        23.3417721518987
-        23.0379746835443
-        22.7341772151899
-        22.4303797468354
-        22.126582278481
-        21.8227848101266
-        21.5189873417722
-        21.2151898734177
-        20.9113924050633
-        20.6075949367089
-        20.3037974683544
-        20
-        20],
-       :text
-       ["hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"
-        "hwy: 20.30380<br />displ: 2.488938<br />factor(cyl): 4"
-        "hwy: 20.60759<br />displ: 2.476668<br />factor(cyl): 4"
-        "hwy: 20.91139<br />displ: 2.464397<br />factor(cyl): 4"
-        "hwy: 21.21519<br />displ: 2.452127<br />factor(cyl): 4"
-        "hwy: 21.51899<br />displ: 2.439857<br />factor(cyl): 4"
-        "hwy: 21.82278<br />displ: 2.427586<br />factor(cyl): 4"
-        "hwy: 22.12658<br />displ: 2.415316<br />factor(cyl): 4"
-        "hwy: 22.43038<br />displ: 2.403046<br />factor(cyl): 4"
-        "hwy: 22.73418<br />displ: 2.390776<br />factor(cyl): 4"
-        "hwy: 23.03797<br />displ: 2.378505<br />factor(cyl): 4"
-        "hwy: 23.34177<br />displ: 2.366235<br />factor(cyl): 4"
-        "hwy: 23.64557<br />displ: 2.353965<br />factor(cyl): 4"
-        "hwy: 23.94937<br />displ: 2.341694<br />factor(cyl): 4"
-        "hwy: 24.25316<br />displ: 2.329424<br />factor(cyl): 4"
-        "hwy: 24.55696<br />displ: 2.317154<br />factor(cyl): 4"
-        "hwy: 24.86076<br />displ: 2.304884<br />factor(cyl): 4"
-        "hwy: 25.16456<br />displ: 2.292613<br />factor(cyl): 4"
-        "hwy: 25.46835<br />displ: 2.280343<br />factor(cyl): 4"
-        "hwy: 25.77215<br />displ: 2.268073<br />factor(cyl): 4"
-        "hwy: 26.07595<br />displ: 2.255802<br />factor(cyl): 4"
-        "hwy: 26.37975<br />displ: 2.243532<br />factor(cyl): 4"
-        "hwy: 26.68354<br />displ: 2.231262<br />factor(cyl): 4"
-        "hwy: 26.98734<br />displ: 2.218991<br />factor(cyl): 4"
-        "hwy: 27.29114<br />displ: 2.206721<br />factor(cyl): 4"
-        "hwy: 27.59494<br />displ: 2.194451<br />factor(cyl): 4"
-        "hwy: 27.89873<br />displ: 2.182181<br />factor(cyl): 4"
-        "hwy: 28.20253<br />displ: 2.169910<br />factor(cyl): 4"
-        "hwy: 28.50633<br />displ: 2.157640<br />factor(cyl): 4"
-        "hwy: 28.81013<br />displ: 2.145370<br />factor(cyl): 4"
-        "hwy: 29.11392<br />displ: 2.133099<br />factor(cyl): 4"
-        "hwy: 29.41772<br />displ: 2.120829<br />factor(cyl): 4"
-        "hwy: 29.72152<br />displ: 2.108559<br />factor(cyl): 4"
-        "hwy: 30.02532<br />displ: 2.096289<br />factor(cyl): 4"
-        "hwy: 30.32911<br />displ: 2.084018<br />factor(cyl): 4"
-        "hwy: 30.63291<br />displ: 2.071748<br />factor(cyl): 4"
-        "hwy: 30.93671<br />displ: 2.059478<br />factor(cyl): 4"
-        "hwy: 31.24051<br />displ: 2.047207<br />factor(cyl): 4"
-        "hwy: 31.54430<br />displ: 2.034937<br />factor(cyl): 4"
-        "hwy: 31.84810<br />displ: 2.022667<br />factor(cyl): 4"
-        "hwy: 32.15190<br />displ: 2.010397<br />factor(cyl): 4"
-        "hwy: 32.45570<br />displ: 1.998126<br />factor(cyl): 4"
-        "hwy: 32.75949<br />displ: 1.985856<br />factor(cyl): 4"
-        "hwy: 33.06329<br />displ: 1.973586<br />factor(cyl): 4"
-        "hwy: 33.36709<br />displ: 1.961315<br />factor(cyl): 4"
-        "hwy: 33.67089<br />displ: 1.949045<br />factor(cyl): 4"
-        "hwy: 33.97468<br />displ: 1.936775<br />factor(cyl): 4"
-        "hwy: 34.27848<br />displ: 1.924504<br />factor(cyl): 4"
-        "hwy: 34.58228<br />displ: 1.912234<br />factor(cyl): 4"
-        "hwy: 34.88608<br />displ: 1.899964<br />factor(cyl): 4"
-        "hwy: 35.18987<br />displ: 1.887694<br />factor(cyl): 4"
-        "hwy: 35.49367<br />displ: 1.875423<br />factor(cyl): 4"
-        "hwy: 35.79747<br />displ: 1.863153<br />factor(cyl): 4"
-        "hwy: 36.10127<br />displ: 1.850883<br />factor(cyl): 4"
-        "hwy: 36.40506<br />displ: 1.838612<br />factor(cyl): 4"
-        "hwy: 36.70886<br />displ: 1.826342<br />factor(cyl): 4"
-        "hwy: 37.01266<br />displ: 1.814072<br />factor(cyl): 4"
-        "hwy: 37.31646<br />displ: 1.801802<br />factor(cyl): 4"
-        "hwy: 37.62025<br />displ: 1.789531<br />factor(cyl): 4"
-        "hwy: 37.92405<br />displ: 1.777261<br />factor(cyl): 4"
-        "hwy: 38.22785<br />displ: 1.764991<br />factor(cyl): 4"
-        "hwy: 38.53165<br />displ: 1.752720<br />factor(cyl): 4"
-        "hwy: 38.83544<br />displ: 1.740450<br />factor(cyl): 4"
-        "hwy: 39.13924<br />displ: 1.728180<br />factor(cyl): 4"
-        "hwy: 39.44304<br />displ: 1.715910<br />factor(cyl): 4"
-        "hwy: 39.74684<br />displ: 1.703639<br />factor(cyl): 4"
-        "hwy: 40.05063<br />displ: 1.691369<br />factor(cyl): 4"
-        "hwy: 40.35443<br />displ: 1.679099<br />factor(cyl): 4"
-        "hwy: 40.65823<br />displ: 1.666828<br />factor(cyl): 4"
-        "hwy: 40.96203<br />displ: 1.654558<br />factor(cyl): 4"
-        "hwy: 41.26582<br />displ: 1.642288<br />factor(cyl): 4"
-        "hwy: 41.56962<br />displ: 1.630017<br />factor(cyl): 4"
-        "hwy: 41.87342<br />displ: 1.617747<br />factor(cyl): 4"
-        "hwy: 42.17722<br />displ: 1.605477<br />factor(cyl): 4"
-        "hwy: 42.48101<br />displ: 1.593207<br />factor(cyl): 4"
-        "hwy: 42.78481<br />displ: 1.580936<br />factor(cyl): 4"
-        "hwy: 43.08861<br />displ: 1.568666<br />factor(cyl): 4"
-        "hwy: 43.39241<br />displ: 1.556396<br />factor(cyl): 4"
-        "hwy: 43.69620<br />displ: 1.544125<br />factor(cyl): 4"
-        "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"
-        "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"
-        "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"
-        "hwy: 43.69620<br />displ: 1.544125<br />factor(cyl): 4"
-        "hwy: 43.39241<br />displ: 1.556396<br />factor(cyl): 4"
-        "hwy: 43.08861<br />displ: 1.568666<br />factor(cyl): 4"
-        "hwy: 42.78481<br />displ: 1.580936<br />factor(cyl): 4"
-        "hwy: 42.48101<br />displ: 1.593207<br />factor(cyl): 4"
-        "hwy: 42.17722<br />displ: 1.605477<br />factor(cyl): 4"
-        "hwy: 41.87342<br />displ: 1.617747<br />factor(cyl): 4"
-        "hwy: 41.56962<br />displ: 1.630017<br />factor(cyl): 4"
-        "hwy: 41.26582<br />displ: 1.642288<br />factor(cyl): 4"
-        "hwy: 40.96203<br />displ: 1.654558<br />factor(cyl): 4"
-        "hwy: 40.65823<br />displ: 1.666828<br />factor(cyl): 4"
-        "hwy: 40.35443<br />displ: 1.679099<br />factor(cyl): 4"
-        "hwy: 40.05063<br />displ: 1.691369<br />factor(cyl): 4"
-        "hwy: 39.74684<br />displ: 1.703639<br />factor(cyl): 4"
-        "hwy: 39.44304<br />displ: 1.715910<br />factor(cyl): 4"
-        "hwy: 39.13924<br />displ: 1.728180<br />factor(cyl): 4"
-        "hwy: 38.83544<br />displ: 1.740450<br />factor(cyl): 4"
-        "hwy: 38.53165<br />displ: 1.752720<br />factor(cyl): 4"
-        "hwy: 38.22785<br />displ: 1.764991<br />factor(cyl): 4"
-        "hwy: 37.92405<br />displ: 1.777261<br />factor(cyl): 4"
-        "hwy: 37.62025<br />displ: 1.789531<br />factor(cyl): 4"
-        "hwy: 37.31646<br />displ: 1.801802<br />factor(cyl): 4"
-        "hwy: 37.01266<br />displ: 1.814072<br />factor(cyl): 4"
-        "hwy: 36.70886<br />displ: 1.826342<br />factor(cyl): 4"
-        "hwy: 36.40506<br />displ: 1.838612<br />factor(cyl): 4"
-        "hwy: 36.10127<br />displ: 1.850883<br />factor(cyl): 4"
-        "hwy: 35.79747<br />displ: 1.863153<br />factor(cyl): 4"
-        "hwy: 35.49367<br />displ: 1.875423<br />factor(cyl): 4"
-        "hwy: 35.18987<br />displ: 1.887694<br />factor(cyl): 4"
-        "hwy: 34.88608<br />displ: 1.899964<br />factor(cyl): 4"
-        "hwy: 34.58228<br />displ: 1.912234<br />factor(cyl): 4"
-        "hwy: 34.27848<br />displ: 1.924504<br />factor(cyl): 4"
-        "hwy: 33.97468<br />displ: 1.936775<br />factor(cyl): 4"
-        "hwy: 33.67089<br />displ: 1.949045<br />factor(cyl): 4"
-        "hwy: 33.36709<br />displ: 1.961315<br />factor(cyl): 4"
-        "hwy: 33.06329<br />displ: 1.973586<br />factor(cyl): 4"
-        "hwy: 32.75949<br />displ: 1.985856<br />factor(cyl): 4"
-        "hwy: 32.45570<br />displ: 1.998126<br />factor(cyl): 4"
-        "hwy: 32.15190<br />displ: 2.010397<br />factor(cyl): 4"
-        "hwy: 31.84810<br />displ: 2.022667<br />factor(cyl): 4"
-        "hwy: 31.54430<br />displ: 2.034937<br />factor(cyl): 4"
-        "hwy: 31.24051<br />displ: 2.047207<br />factor(cyl): 4"
-        "hwy: 30.93671<br />displ: 2.059478<br />factor(cyl): 4"
-        "hwy: 30.63291<br />displ: 2.071748<br />factor(cyl): 4"
-        "hwy: 30.32911<br />displ: 2.084018<br />factor(cyl): 4"
-        "hwy: 30.02532<br />displ: 2.096289<br />factor(cyl): 4"
-        "hwy: 29.72152<br />displ: 2.108559<br />factor(cyl): 4"
-        "hwy: 29.41772<br />displ: 2.120829<br />factor(cyl): 4"
-        "hwy: 29.11392<br />displ: 2.133099<br />factor(cyl): 4"
-        "hwy: 28.81013<br />displ: 2.145370<br />factor(cyl): 4"
-        "hwy: 28.50633<br />displ: 2.157640<br />factor(cyl): 4"
-        "hwy: 28.20253<br />displ: 2.169910<br />factor(cyl): 4"
-        "hwy: 27.89873<br />displ: 2.182181<br />factor(cyl): 4"
-        "hwy: 27.59494<br />displ: 2.194451<br />factor(cyl): 4"
-        "hwy: 27.29114<br />displ: 2.206721<br />factor(cyl): 4"
-        "hwy: 26.98734<br />displ: 2.218991<br />factor(cyl): 4"
-        "hwy: 26.68354<br />displ: 2.231262<br />factor(cyl): 4"
-        "hwy: 26.37975<br />displ: 2.243532<br />factor(cyl): 4"
-        "hwy: 26.07595<br />displ: 2.255802<br />factor(cyl): 4"
-        "hwy: 25.77215<br />displ: 2.268073<br />factor(cyl): 4"
-        "hwy: 25.46835<br />displ: 2.280343<br />factor(cyl): 4"
-        "hwy: 25.16456<br />displ: 2.292613<br />factor(cyl): 4"
-        "hwy: 24.86076<br />displ: 2.304884<br />factor(cyl): 4"
-        "hwy: 24.55696<br />displ: 2.317154<br />factor(cyl): 4"
-        "hwy: 24.25316<br />displ: 2.329424<br />factor(cyl): 4"
-        "hwy: 23.94937<br />displ: 2.341694<br />factor(cyl): 4"
-        "hwy: 23.64557<br />displ: 2.353965<br />factor(cyl): 4"
-        "hwy: 23.34177<br />displ: 2.366235<br />factor(cyl): 4"
-        "hwy: 23.03797<br />displ: 2.378505<br />factor(cyl): 4"
-        "hwy: 22.73418<br />displ: 2.390776<br />factor(cyl): 4"
-        "hwy: 22.43038<br />displ: 2.403046<br />factor(cyl): 4"
-        "hwy: 22.12658<br />displ: 2.415316<br />factor(cyl): 4"
-        "hwy: 21.82278<br />displ: 2.427586<br />factor(cyl): 4"
-        "hwy: 21.51899<br />displ: 2.439857<br />factor(cyl): 4"
-        "hwy: 21.21519<br />displ: 2.452127<br />factor(cyl): 4"
-        "hwy: 20.91139<br />displ: 2.464397<br />factor(cyl): 4"
-        "hwy: 20.60759<br />displ: 2.476668<br />factor(cyl): 4"
-        "hwy: 20.30380<br />displ: 2.488938<br />factor(cyl): 4"
-        "hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"
-        "hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"]}
-      {:y
-       [2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5
-        2.5],
-       :hoveron "points",
-       :legendgroup "5",
-       :frame nil,
-       :fillcolor "rgba(153,153,153,0.4)",
-       :hoverinfo "x+y",
-       :name "5",
-       :fill "toself",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
-       :yaxis "y",
-       :x
-       [28
-        28.0126582278481
-        28.0253164556962
-        28.0379746835443
-        28.0506329113924
-        28.0632911392405
-        28.0759493670886
-        28.0886075949367
-        28.1012658227848
-        28.1139240506329
-        28.126582278481
-        28.1392405063291
-        28.1518987341772
-        28.1645569620253
-        28.1772151898734
-        28.1898734177215
-        28.2025316455696
-        28.2151898734177
-        28.2278481012658
-        28.2405063291139
-        28.253164556962
-        28.2658227848101
-        28.2784810126582
-        28.2911392405063
-        28.3037974683544
-        28.3164556962025
-        28.3291139240506
-        28.3417721518987
-        28.3544303797468
-        28.3670886075949
-        28.379746835443
-        28.3924050632911
-        28.4050632911392
-        28.4177215189873
-        28.4303797468354
-        28.4430379746835
-        28.4556962025316
-        28.4683544303797
-        28.4810126582278
-        28.493670886076
-        28.506329113924
-        28.5189873417722
-        28.5316455696203
-        28.5443037974684
-        28.5569620253165
-        28.5696202531646
-        28.5822784810127
-        28.5949367088608
-        28.6075949367089
-        28.620253164557
-        28.6329113924051
-        28.6455696202532
-        28.6582278481013
-        28.6708860759494
-        28.6835443037975
-        28.6962025316456
-        28.7088607594937
-        28.7215189873418
-        28.7341772151899
-        28.746835443038
-        28.7594936708861
-        28.7721518987342
-        28.7848101265823
-        28.7974683544304
-        28.8101265822785
-        28.8227848101266
-        28.8354430379747
-        28.8481012658228
-        28.8607594936709
-        28.873417721519
-        28.8860759493671
-        28.8987341772152
-        28.9113924050633
-        28.9240506329114
-        28.9367088607595
-        28.9493670886076
-        28.9620253164557
-        28.9746835443038
-        28.9873417721519
-        29
-        29
-        28.9873417721519
-        28.9746835443038
-        28.9620253164557
-        28.9493670886076
-        28.9367088607595
-        28.9240506329114
-        28.9113924050633
-        28.8987341772152
-        28.8860759493671
-        28.873417721519
-        28.8607594936709
-        28.8481012658228
-        28.8354430379747
-        28.8227848101266
-        28.8101265822785
-        28.7974683544304
-        28.7848101265823
-        28.7721518987342
-        28.7594936708861
-        28.746835443038
-        28.7341772151899
-        28.7215189873418
-        28.7088607594937
-        28.6962025316456
-        28.6835443037975
-        28.6708860759494
-        28.6582278481013
-        28.6455696202532
-        28.6329113924051
-        28.620253164557
-        28.6075949367089
-        28.5949367088608
-        28.5822784810127
-        28.5696202531646
-        28.5569620253165
-        28.5443037974684
-        28.5316455696203
-        28.5189873417722
-        28.506329113924
-        28.493670886076
-        28.4810126582278
-        28.4683544303797
-        28.4556962025316
-        28.4430379746835
-        28.4303797468354
-        28.4177215189873
-        28.4050632911392
-        28.3924050632911
-        28.379746835443
-        28.3670886075949
-        28.3544303797468
-        28.3417721518987
-        28.3291139240506
-        28.3164556962025
-        28.3037974683544
-        28.2911392405063
-        28.2784810126582
-        28.2658227848101
-        28.253164556962
-        28.2405063291139
-        28.2278481012658
-        28.2151898734177
-        28.2025316455696
-        28.1898734177215
-        28.1772151898734
-        28.1645569620253
-        28.1518987341772
-        28.1392405063291
-        28.126582278481
-        28.1139240506329
-        28.1012658227848
-        28.0886075949367
-        28.0759493670886
-        28.0632911392405
-        28.0506329113924
-        28.0379746835443
-        28.0253164556962
-        28.0126582278481
-        28
-        28],
-       :text
-       ["hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.01266<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.02532<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.03797<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.05063<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.06329<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.07595<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.08861<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.10127<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.11392<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.12658<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.13924<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.15190<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.16456<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.17722<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.18987<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.20253<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.21519<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.22785<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.24051<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.25316<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.26582<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.27848<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.29114<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.30380<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.31646<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.32911<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.34177<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.35443<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.36709<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.37975<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.39241<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.40506<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.41772<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.43038<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.44304<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.45570<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.46835<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.48101<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.49367<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.50633<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.51899<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.53165<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.54430<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.55696<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.56962<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.58228<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.59494<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.60759<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.62025<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.63291<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.64557<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.65823<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.67089<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.68354<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.69620<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.70886<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.72152<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.73418<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.74684<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.75949<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.77215<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.78481<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.79747<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.81013<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.82278<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.83544<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.84810<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.86076<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.87342<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.88608<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.89873<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.91139<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.92405<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.93671<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.94937<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.96203<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.97468<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.98734<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 29.00000<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 29.00000<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.98734<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.97468<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.96203<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.94937<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.93671<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.92405<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.91139<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.89873<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.88608<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.87342<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.86076<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.84810<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.83544<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.82278<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.81013<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.79747<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.78481<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.77215<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.75949<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.74684<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.73418<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.72152<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.70886<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.69620<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.68354<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.67089<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.65823<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.64557<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.63291<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.62025<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.60759<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.59494<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.58228<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.56962<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.55696<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.54430<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.53165<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.51899<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.50633<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.49367<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.48101<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.46835<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.45570<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.44304<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.43038<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.41772<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.40506<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.39241<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.37975<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.36709<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.35443<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.34177<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.32911<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.31646<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.30380<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.29114<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.27848<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.26582<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.25316<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.24051<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.22785<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.21519<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.20253<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.18987<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.17722<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.16456<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.15190<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.13924<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.12658<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.11392<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.10127<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.08861<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.07595<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.06329<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.05063<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.03797<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.02532<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.01266<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"
-        "hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"]}
-      {:y
-       [3.61600489593574
-        3.60931776745941
-        3.60260548899382
-        3.59586658472878
-        3.58909947498345
-        3.58230246851024
-        3.57547375433741
-        3.56861139316198
-        3.5617133083185
-        3.55477727636655
-        3.54780091736159
-        3.54078168490152
-        3.53371685607453
-        3.52660352147489
-        3.51943857550168
-        3.51221870721309
-        3.50494039207485
-        3.49759988501647
-        3.49019321529189
-        3.48271618372971
-        3.47516436304925
-        3.4675331020071
-        3.45981753421612
-        3.45201259253624
-        3.44411302995961
-        3.43611344788795
-        3.42800833260882
-        3.4197921006043
-        3.41145915305419
-        3.40300393951687
-        3.39442103028379
-        3.38570519632044
-        3.37685149505605
-        3.36785535961458
-        3.35871268845293
-        3.34941993186712
-        3.33997417152084
-        3.33037318911299
-        3.32061552057831
-        3.31070049281553
-        3.30062824082956
-        3.29039970428028
-        3.2800166036418
-        3.26948139736595
-        3.25879722248927
-        3.24796782192401
-        3.23699746216793
-        3.225890845337
-        3.21465301929127
-        3.20328928924313
-        3.19180513368247
-        3.18020612680459
-        3.16849786895659
-        3.15668592598599
-        3.14477577782149
-        3.13277277616416
-        3.12068211082502
-        3.1085087840074
-        3.09625759168874
-        3.08393311118931
-        3.07153969400827
-        3.05908146304406
-        3.04656231338097
-        3.03398591590609
-        3.02135572311072
-        3.00867497652094
-        2.99594671528937
-        2.98317378556017
-        2.97035885029196
-        2.95750439928595
-        2.94461275922153
-        2.93168610354716
-        2.91872646211268
-        2.90573573046077
-        2.89271567872062
-        2.87966796006716
-        2.86659411872548
-        2.85349559751232
-        2.84037374491611
-        2.82722982172417
-        3.18620354904355
-        3.19283720326685
-        3.19949292808588
-        3.20617198428796
-        3.21287572036151
-        3.21960557912329
-        3.22636310479837
-        3.2331499505617
-        3.23996788654246
-        3.24681880828332
-        3.25370474563414
-        3.26062787204337
-        3.26759051419039
-        3.27459516187643
-        3.28164447806009
-        3.28874130888555
-        3.29588869350541
-        3.30308987344578
-        3.31034830119792
-        3.31766764764895
-        3.32505180788315
-        3.33250490479895
-        3.34003128989553
-        3.34763554049315
-        3.35532245256924
-        3.36309702832714
-        3.37096445757788
-        3.37893009202252
-        3.38699941158976
-        3.39517798212711
-        3.40347140398169
-        3.41188525134878
-        3.42042500271829
-        3.4290959633026
-        3.43790318096175
-        3.44685135781173
-        3.45594476035029
-        3.46518713148967
-        3.47458160826643
-        3.48413064913239
-        3.49383597456165
-        3.50369852421411
-        3.51371843309467
-        3.52389502810205
-        3.53422684517101
-        3.54471166600044
-        3.55534657225402
-        3.56612801422779
-        3.57705189037864
-        3.58811363383052
-        3.59930830201268
-        3.6106306658906
-        3.62207529575572
-        3.63363664116644
-        3.64530910330255
-        3.65708709864612
-        3.66896511348473
-        3.68093774922009
-        3.69299975884434
-        3.70514607521743
-        3.7173718319522
-        3.72967237780526
-        3.74204328549592
-        3.75448035585278
-        3.76697961812977
-        3.77953732725642
-        3.79214995869845
-        3.80481420151404
-        3.81752695010229
-        3.83028529505745
-        3.84308651346773
-        3.85592805893101
-        3.86880755150277
-        3.88172276774258
-        3.89467163098498
-        3.90765220192701
-        3.92066266959691
-        3.93370134274711
-        3.94676664169676
-        3.95985709063567
-        3.61600489593574],
-       :hoveron "points",
-       :legendgroup "6",
-       :frame nil,
-       :fillcolor "rgba(153,153,153,0.4)",
-       :hoverinfo "x+y",
-       :name "6",
-       :fill "toself",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
-       :yaxis "y",
-       :x
-       [17
-        17.1518987341772
-        17.3037974683544
-        17.4556962025316
-        17.6075949367089
-        17.7594936708861
-        17.9113924050633
-        18.0632911392405
-        18.2151898734177
-        18.3670886075949
-        18.5189873417722
-        18.6708860759494
-        18.8227848101266
-        18.9746835443038
-        19.126582278481
-        19.2784810126582
-        19.4303797468354
-        19.5822784810127
-        19.7341772151899
-        19.8860759493671
-        20.0379746835443
-        20.1898734177215
-        20.3417721518987
-        20.493670886076
-        20.6455696202532
-        20.7974683544304
-        20.9493670886076
-        21.1012658227848
-        21.253164556962
-        21.4050632911392
-        21.5569620253165
-        21.7088607594937
-        21.8607594936709
-        22.0126582278481
-        22.1645569620253
-        22.3164556962025
-        22.4683544303797
-        22.620253164557
-        22.7721518987342
-        22.9240506329114
-        23.0759493670886
-        23.2278481012658
-        23.379746835443
-        23.5316455696203
-        23.6835443037975
-        23.8354430379747
-        23.9873417721519
-        24.1392405063291
-        24.2911392405063
-        24.4430379746835
-        24.5949367088608
-        24.746835443038
-        24.8987341772152
-        25.0506329113924
-        25.2025316455696
-        25.3544303797468
-        25.5063291139241
-        25.6582278481013
-        25.8101265822785
-        25.9620253164557
-        26.1139240506329
-        26.2658227848101
-        26.4177215189873
-        26.5696202531646
-        26.7215189873418
-        26.873417721519
-        27.0253164556962
-        27.1772151898734
-        27.3291139240506
-        27.4810126582278
-        27.6329113924051
-        27.7848101265823
-        27.9367088607595
-        28.0886075949367
-        28.2405063291139
-        28.3924050632911
-        28.5443037974684
-        28.6962025316456
-        28.8481012658228
-        29
-        29
-        28.8481012658228
-        28.6962025316456
-        28.5443037974684
-        28.3924050632911
-        28.2405063291139
-        28.0886075949367
-        27.9367088607595
-        27.7848101265823
-        27.6329113924051
-        27.4810126582278
-        27.3291139240506
-        27.1772151898734
-        27.0253164556962
-        26.873417721519
-        26.7215189873418
-        26.5696202531646
-        26.4177215189873
-        26.2658227848101
-        26.1139240506329
-        25.9620253164557
-        25.8101265822785
-        25.6582278481013
-        25.5063291139241
-        25.3544303797468
-        25.2025316455696
-        25.0506329113924
-        24.8987341772152
-        24.746835443038
-        24.5949367088608
-        24.4430379746835
-        24.2911392405063
-        24.1392405063291
-        23.9873417721519
-        23.8354430379747
-        23.6835443037975
-        23.5316455696203
-        23.379746835443
-        23.2278481012658
-        23.0759493670886
-        22.9240506329114
-        22.7721518987342
-        22.620253164557
-        22.4683544303797
-        22.3164556962025
-        22.1645569620253
-        22.0126582278481
-        21.8607594936709
-        21.7088607594937
-        21.5569620253165
-        21.4050632911392
-        21.253164556962
-        21.1012658227848
-        20.9493670886076
-        20.7974683544304
-        20.6455696202532
-        20.493670886076
-        20.3417721518987
-        20.1898734177215
-        20.0379746835443
-        19.8860759493671
-        19.7341772151899
-        19.5822784810127
-        19.4303797468354
-        19.2784810126582
-        19.126582278481
-        18.9746835443038
-        18.8227848101266
-        18.6708860759494
-        18.5189873417722
-        18.3670886075949
-        18.2151898734177
-        18.0632911392405
-        17.9113924050633
-        17.7594936708861
-        17.6075949367089
-        17.4556962025316
-        17.3037974683544
-        17.1518987341772
-        17
-        17],
-       :text
-       ["hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"
-        "hwy: 17.15190<br />displ: 3.778042<br />factor(cyl): 6"
-        "hwy: 17.30380<br />displ: 3.768153<br />factor(cyl): 6"
-        "hwy: 17.45570<br />displ: 3.758265<br />factor(cyl): 6"
-        "hwy: 17.60759<br />displ: 3.748376<br />factor(cyl): 6"
-        "hwy: 17.75949<br />displ: 3.738487<br />factor(cyl): 6"
-        "hwy: 17.91139<br />displ: 3.728598<br />factor(cyl): 6"
-        "hwy: 18.06329<br />displ: 3.718709<br />factor(cyl): 6"
-        "hwy: 18.21519<br />displ: 3.708821<br />factor(cyl): 6"
-        "hwy: 18.36709<br />displ: 3.698932<br />factor(cyl): 6"
-        "hwy: 18.51899<br />displ: 3.689043<br />factor(cyl): 6"
-        "hwy: 18.67089<br />displ: 3.679154<br />factor(cyl): 6"
-        "hwy: 18.82278<br />displ: 3.669266<br />factor(cyl): 6"
-        "hwy: 18.97468<br />displ: 3.659377<br />factor(cyl): 6"
-        "hwy: 19.12658<br />displ: 3.649488<br />factor(cyl): 6"
-        "hwy: 19.27848<br />displ: 3.639599<br />factor(cyl): 6"
-        "hwy: 19.43038<br />displ: 3.629710<br />factor(cyl): 6"
-        "hwy: 19.58228<br />displ: 3.619822<br />factor(cyl): 6"
-        "hwy: 19.73418<br />displ: 3.609933<br />factor(cyl): 6"
-        "hwy: 19.88608<br />displ: 3.600044<br />factor(cyl): 6"
-        "hwy: 20.03797<br />displ: 3.590155<br />factor(cyl): 6"
-        "hwy: 20.18987<br />displ: 3.580266<br />factor(cyl): 6"
-        "hwy: 20.34177<br />displ: 3.570378<br />factor(cyl): 6"
-        "hwy: 20.49367<br />displ: 3.560489<br />factor(cyl): 6"
-        "hwy: 20.64557<br />displ: 3.550600<br />factor(cyl): 6"
-        "hwy: 20.79747<br />displ: 3.540711<br />factor(cyl): 6"
-        "hwy: 20.94937<br />displ: 3.530822<br />factor(cyl): 6"
-        "hwy: 21.10127<br />displ: 3.520934<br />factor(cyl): 6"
-        "hwy: 21.25316<br />displ: 3.511045<br />factor(cyl): 6"
-        "hwy: 21.40506<br />displ: 3.501156<br />factor(cyl): 6"
-        "hwy: 21.55696<br />displ: 3.491267<br />factor(cyl): 6"
-        "hwy: 21.70886<br />displ: 3.481379<br />factor(cyl): 6"
-        "hwy: 21.86076<br />displ: 3.471490<br />factor(cyl): 6"
-        "hwy: 22.01266<br />displ: 3.461601<br />factor(cyl): 6"
-        "hwy: 22.16456<br />displ: 3.451712<br />factor(cyl): 6"
-        "hwy: 22.31646<br />displ: 3.441823<br />factor(cyl): 6"
-        "hwy: 22.46835<br />displ: 3.431935<br />factor(cyl): 6"
-        "hwy: 22.62025<br />displ: 3.422046<br />factor(cyl): 6"
-        "hwy: 22.77215<br />displ: 3.412157<br />factor(cyl): 6"
-        "hwy: 22.92405<br />displ: 3.402268<br />factor(cyl): 6"
-        "hwy: 23.07595<br />displ: 3.392379<br />factor(cyl): 6"
-        "hwy: 23.22785<br />displ: 3.382491<br />factor(cyl): 6"
-        "hwy: 23.37975<br />displ: 3.372602<br />factor(cyl): 6"
-        "hwy: 23.53165<br />displ: 3.362713<br />factor(cyl): 6"
-        "hwy: 23.68354<br />displ: 3.352824<br />factor(cyl): 6"
-        "hwy: 23.83544<br />displ: 3.342936<br />factor(cyl): 6"
-        "hwy: 23.98734<br />displ: 3.333047<br />factor(cyl): 6"
-        "hwy: 24.13924<br />displ: 3.323158<br />factor(cyl): 6"
-        "hwy: 24.29114<br />displ: 3.313269<br />factor(cyl): 6"
-        "hwy: 24.44304<br />displ: 3.303380<br />factor(cyl): 6"
-        "hwy: 24.59494<br />displ: 3.293492<br />factor(cyl): 6"
-        "hwy: 24.74684<br />displ: 3.283603<br />factor(cyl): 6"
-        "hwy: 24.89873<br />displ: 3.273714<br />factor(cyl): 6"
-        "hwy: 25.05063<br />displ: 3.263825<br />factor(cyl): 6"
-        "hwy: 25.20253<br />displ: 3.253936<br />factor(cyl): 6"
-        "hwy: 25.35443<br />displ: 3.244048<br />factor(cyl): 6"
-        "hwy: 25.50633<br />displ: 3.234159<br />factor(cyl): 6"
-        "hwy: 25.65823<br />displ: 3.224270<br />factor(cyl): 6"
-        "hwy: 25.81013<br />displ: 3.214381<br />factor(cyl): 6"
-        "hwy: 25.96203<br />displ: 3.204492<br />factor(cyl): 6"
-        "hwy: 26.11392<br />displ: 3.194604<br />factor(cyl): 6"
-        "hwy: 26.26582<br />displ: 3.184715<br />factor(cyl): 6"
-        "hwy: 26.41772<br />displ: 3.174826<br />factor(cyl): 6"
-        "hwy: 26.56962<br />displ: 3.164937<br />factor(cyl): 6"
-        "hwy: 26.72152<br />displ: 3.155049<br />factor(cyl): 6"
-        "hwy: 26.87342<br />displ: 3.145160<br />factor(cyl): 6"
-        "hwy: 27.02532<br />displ: 3.135271<br />factor(cyl): 6"
-        "hwy: 27.17722<br />displ: 3.125382<br />factor(cyl): 6"
-        "hwy: 27.32911<br />displ: 3.115493<br />factor(cyl): 6"
-        "hwy: 27.48101<br />displ: 3.105605<br />factor(cyl): 6"
-        "hwy: 27.63291<br />displ: 3.095716<br />factor(cyl): 6"
-        "hwy: 27.78481<br />displ: 3.085827<br />factor(cyl): 6"
-        "hwy: 27.93671<br />displ: 3.075938<br />factor(cyl): 6"
-        "hwy: 28.08861<br />displ: 3.066049<br />factor(cyl): 6"
-        "hwy: 28.24051<br />displ: 3.056161<br />factor(cyl): 6"
-        "hwy: 28.39241<br />displ: 3.046272<br />factor(cyl): 6"
-        "hwy: 28.54430<br />displ: 3.036383<br />factor(cyl): 6"
-        "hwy: 28.69620<br />displ: 3.026494<br />factor(cyl): 6"
-        "hwy: 28.84810<br />displ: 3.016605<br />factor(cyl): 6"
-        "hwy: 29.00000<br />displ: 3.006717<br />factor(cyl): 6"
-        "hwy: 29.00000<br />displ: 3.006717<br />factor(cyl): 6"
-        "hwy: 28.84810<br />displ: 3.016605<br />factor(cyl): 6"
-        "hwy: 28.69620<br />displ: 3.026494<br />factor(cyl): 6"
-        "hwy: 28.54430<br />displ: 3.036383<br />factor(cyl): 6"
-        "hwy: 28.39241<br />displ: 3.046272<br />factor(cyl): 6"
-        "hwy: 28.24051<br />displ: 3.056161<br />factor(cyl): 6"
-        "hwy: 28.08861<br />displ: 3.066049<br />factor(cyl): 6"
-        "hwy: 27.93671<br />displ: 3.075938<br />factor(cyl): 6"
-        "hwy: 27.78481<br />displ: 3.085827<br />factor(cyl): 6"
-        "hwy: 27.63291<br />displ: 3.095716<br />factor(cyl): 6"
-        "hwy: 27.48101<br />displ: 3.105605<br />factor(cyl): 6"
-        "hwy: 27.32911<br />displ: 3.115493<br />factor(cyl): 6"
-        "hwy: 27.17722<br />displ: 3.125382<br />factor(cyl): 6"
-        "hwy: 27.02532<br />displ: 3.135271<br />factor(cyl): 6"
-        "hwy: 26.87342<br />displ: 3.145160<br />factor(cyl): 6"
-        "hwy: 26.72152<br />displ: 3.155049<br />factor(cyl): 6"
-        "hwy: 26.56962<br />displ: 3.164937<br />factor(cyl): 6"
-        "hwy: 26.41772<br />displ: 3.174826<br />factor(cyl): 6"
-        "hwy: 26.26582<br />displ: 3.184715<br />factor(cyl): 6"
-        "hwy: 26.11392<br />displ: 3.194604<br />factor(cyl): 6"
-        "hwy: 25.96203<br />displ: 3.204492<br />factor(cyl): 6"
-        "hwy: 25.81013<br />displ: 3.214381<br />factor(cyl): 6"
-        "hwy: 25.65823<br />displ: 3.224270<br />factor(cyl): 6"
-        "hwy: 25.50633<br />displ: 3.234159<br />factor(cyl): 6"
-        "hwy: 25.35443<br />displ: 3.244048<br />factor(cyl): 6"
-        "hwy: 25.20253<br />displ: 3.253936<br />factor(cyl): 6"
-        "hwy: 25.05063<br />displ: 3.263825<br />factor(cyl): 6"
-        "hwy: 24.89873<br />displ: 3.273714<br />factor(cyl): 6"
-        "hwy: 24.74684<br />displ: 3.283603<br />factor(cyl): 6"
-        "hwy: 24.59494<br />displ: 3.293492<br />factor(cyl): 6"
-        "hwy: 24.44304<br />displ: 3.303380<br />factor(cyl): 6"
-        "hwy: 24.29114<br />displ: 3.313269<br />factor(cyl): 6"
-        "hwy: 24.13924<br />displ: 3.323158<br />factor(cyl): 6"
-        "hwy: 23.98734<br />displ: 3.333047<br />factor(cyl): 6"
-        "hwy: 23.83544<br />displ: 3.342936<br />factor(cyl): 6"
-        "hwy: 23.68354<br />displ: 3.352824<br />factor(cyl): 6"
-        "hwy: 23.53165<br />displ: 3.362713<br />factor(cyl): 6"
-        "hwy: 23.37975<br />displ: 3.372602<br />factor(cyl): 6"
-        "hwy: 23.22785<br />displ: 3.382491<br />factor(cyl): 6"
-        "hwy: 23.07595<br />displ: 3.392379<br />factor(cyl): 6"
-        "hwy: 22.92405<br />displ: 3.402268<br />factor(cyl): 6"
-        "hwy: 22.77215<br />displ: 3.412157<br />factor(cyl): 6"
-        "hwy: 22.62025<br />displ: 3.422046<br />factor(cyl): 6"
-        "hwy: 22.46835<br />displ: 3.431935<br />factor(cyl): 6"
-        "hwy: 22.31646<br />displ: 3.441823<br />factor(cyl): 6"
-        "hwy: 22.16456<br />displ: 3.451712<br />factor(cyl): 6"
-        "hwy: 22.01266<br />displ: 3.461601<br />factor(cyl): 6"
-        "hwy: 21.86076<br />displ: 3.471490<br />factor(cyl): 6"
-        "hwy: 21.70886<br />displ: 3.481379<br />factor(cyl): 6"
-        "hwy: 21.55696<br />displ: 3.491267<br />factor(cyl): 6"
-        "hwy: 21.40506<br />displ: 3.501156<br />factor(cyl): 6"
-        "hwy: 21.25316<br />displ: 3.511045<br />factor(cyl): 6"
-        "hwy: 21.10127<br />displ: 3.520934<br />factor(cyl): 6"
-        "hwy: 20.94937<br />displ: 3.530822<br />factor(cyl): 6"
-        "hwy: 20.79747<br />displ: 3.540711<br />factor(cyl): 6"
-        "hwy: 20.64557<br />displ: 3.550600<br />factor(cyl): 6"
-        "hwy: 20.49367<br />displ: 3.560489<br />factor(cyl): 6"
-        "hwy: 20.34177<br />displ: 3.570378<br />factor(cyl): 6"
-        "hwy: 20.18987<br />displ: 3.580266<br />factor(cyl): 6"
-        "hwy: 20.03797<br />displ: 3.590155<br />factor(cyl): 6"
-        "hwy: 19.88608<br />displ: 3.600044<br />factor(cyl): 6"
-        "hwy: 19.73418<br />displ: 3.609933<br />factor(cyl): 6"
-        "hwy: 19.58228<br />displ: 3.619822<br />factor(cyl): 6"
-        "hwy: 19.43038<br />displ: 3.629710<br />factor(cyl): 6"
-        "hwy: 19.27848<br />displ: 3.639599<br />factor(cyl): 6"
-        "hwy: 19.12658<br />displ: 3.649488<br />factor(cyl): 6"
-        "hwy: 18.97468<br />displ: 3.659377<br />factor(cyl): 6"
-        "hwy: 18.82278<br />displ: 3.669266<br />factor(cyl): 6"
-        "hwy: 18.67089<br />displ: 3.679154<br />factor(cyl): 6"
-        "hwy: 18.51899<br />displ: 3.689043<br />factor(cyl): 6"
-        "hwy: 18.36709<br />displ: 3.698932<br />factor(cyl): 6"
-        "hwy: 18.21519<br />displ: 3.708821<br />factor(cyl): 6"
-        "hwy: 18.06329<br />displ: 3.718709<br />factor(cyl): 6"
-        "hwy: 17.91139<br />displ: 3.728598<br />factor(cyl): 6"
-        "hwy: 17.75949<br />displ: 3.738487<br />factor(cyl): 6"
-        "hwy: 17.60759<br />displ: 3.748376<br />factor(cyl): 6"
-        "hwy: 17.45570<br />displ: 3.758265<br />factor(cyl): 6"
-        "hwy: 17.30380<br />displ: 3.768153<br />factor(cyl): 6"
-        "hwy: 17.15190<br />displ: 3.778042<br />factor(cyl): 6"
-        "hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"
-        "hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"]}
-      {:y
-       [4.61890250245661
-        4.63289700196842
-        4.64683656574223
-        4.66071705402057
-        4.674533944454
-        4.68828229343952
-        4.70195669390461
-        4.7155512294444
-        4.72905942482035
-        4.74247419297612
-        4.75578777893295
-        4.76899170121086
-        4.78207669180082
-        4.79503263620845
-        4.80784851572134
-        4.82051235483641
-        4.83301117772808
-        4.84533097873262
-        4.85745671302917
-        4.86937231493288
-        4.88106075233654
-        4.89250412663069
-        4.90368382759884
-        4.91458075195792
-        4.92517559199274
-        4.93544919676504
-        4.94538300247984
-        4.95495952090761
-        4.96416286590438
-        4.97297928920404
-        4.98139768940573
-        4.98941005426374
-        4.9970117975441
-        5.00420195856966
-        5.0109832446429
-        5.01736191204798
-        5.0233474976128
-        5.02895242697052
-        5.03419153538487
-        5.03908154111872
-        5.04364050995544
-        5.04788734380425
-        5.05184131807347
-        5.05552168345472
-        5.05894733935337
-        5.06213657932503
-        5.06510690390716
-        5.06787489313756
-        5.07045612954571
-        5.07286516209982
-        5.07511550210073
-        5.07721964299562
-        5.07918909728223
-        5.08103444490833
-        5.08276538873091
-        5.08439081362511
-        5.085918846701
-        5.08735691679566
-        5.08871181197259
-        5.08998973419732
-        5.09119635068921
-        5.09233684169437
-        5.09341594460083
-        5.09443799444083
-        5.09540696090792
-        5.09632648206972
-        5.09719989498764
-        5.0980302634698
-        5.09882040318686
-        5.09957290437622
-        5.10029015235114
-        5.10097434601877
-        5.10162751459732
-        5.10225153270785
-        5.10284813400135
-        5.10341892346751
-        5.10396538855788
-        5.10448890924331
-        5.1049907671137
-        5.10547215361718
-        5.86827308021677
-        5.85376612418866
-        5.83927963952746
-        5.8248148176813
-        5.81037294024008
-        5.79595538717466
-        5.78156364593657
-        5.76719932151552
-        5.75286414756248
-        5.73855999869852
-        5.72428890414185
-        5.71005306279963
-        5.6958548599851
-        5.68169688593568
-        5.66758195632201
-        5.65351313495223
-        5.63949375888773
-        5.62552746619614
-        5.61161822657102
-        5.59777037504459
-        5.58398864900489
-        5.57027822869803
-        5.55664478134338
-        5.54309450890645
-        5.52963419945075
-        5.51627128181337
-        5.50301388310436
-        5.48987088819888
-        5.4768519999539
-        5.4639677983172
-        5.45122979578653
-        5.43865048580905
-        5.42624337968562
-        5.41402302638443
-        5.40200500843497
-        5.39020590587505
-        5.37864321924211
-        5.36733524209177
-        5.35630087382941
-        5.34555936514663
-        5.33512999145177
-        5.32503165465403
-        5.31528242053679
-        5.30589900736292
-        5.29689625039615
-        5.28828657526965
-        5.2800795188113
-        5.27228133730528
-        5.26489473805405
-        5.25791876038047
-        5.25134881805058
-        5.24517689881865
-        5.23939190128384
-        5.23398007718001
-        5.22892554036323
-        5.22421080260395
-        5.21981730010718
-        5.21572588193467
-        5.21191724037123
-        5.2083722721338
-        5.20507236700587
-        5.20199962637799
-        5.19913701814296
-        5.19646847661591
-        5.193978956976
-        5.19165445355948
-        5.18948199054078
-        5.18744959241682
-        5.1855462404752
-        5.18376182022153
-        5.18208706364677
-        5.18051348927095
-        5.17903334211532
-        5.17763953512352
-        5.17632559305702
-        5.17508559951095
-        5.17391414741279
-        5.17280629315955
-        5.17175751440178
-        5.17076367138199
-        4.61890250245661],
-       :hoveron "points",
-       :legendgroup "8",
-       :frame nil,
-       :fillcolor "rgba(153,153,153,0.4)",
-       :hoverinfo "x+y",
-       :name "8",
-       :fill "toself",
-       :mode "lines",
-       :type "scatter",
-       :xaxis "x",
-       :showlegend false,
-       :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
-       :yaxis "y",
-       :x
-       [12
-        12.1772151898734
-        12.3544303797468
-        12.5316455696203
-        12.7088607594937
-        12.8860759493671
-        13.0632911392405
-        13.2405063291139
-        13.4177215189873
-        13.5949367088608
-        13.7721518987342
-        13.9493670886076
-        14.126582278481
-        14.3037974683544
-        14.4810126582278
-        14.6582278481013
-        14.8354430379747
-        15.0126582278481
-        15.1898734177215
-        15.3670886075949
-        15.5443037974684
-        15.7215189873418
-        15.8987341772152
-        16.0759493670886
-        16.253164556962
-        16.4303797468354
-        16.6075949367089
-        16.7848101265823
-        16.9620253164557
-        17.1392405063291
-        17.3164556962025
-        17.493670886076
-        17.6708860759494
-        17.8481012658228
-        18.0253164556962
-        18.2025316455696
-        18.379746835443
-        18.5569620253165
-        18.7341772151899
-        18.9113924050633
-        19.0886075949367
-        19.2658227848101
-        19.4430379746835
-        19.620253164557
-        19.7974683544304
-        19.9746835443038
-        20.1518987341772
-        20.3291139240506
-        20.506329113924
-        20.6835443037975
-        20.8607594936709
-        21.0379746835443
-        21.2151898734177
-        21.3924050632911
-        21.5696202531646
-        21.746835443038
-        21.9240506329114
-        22.1012658227848
-        22.2784810126582
-        22.4556962025316
-        22.6329113924051
-        22.8101265822785
-        22.9873417721519
-        23.1645569620253
-        23.3417721518987
-        23.5189873417722
-        23.6962025316456
-        23.873417721519
-        24.0506329113924
-        24.2278481012658
-        24.4050632911392
-        24.5822784810127
-        24.7594936708861
-        24.9367088607595
-        25.1139240506329
-        25.2911392405063
-        25.4683544303797
-        25.6455696202532
-        25.8227848101266
-        26
-        26
-        25.8227848101266
-        25.6455696202532
-        25.4683544303797
-        25.2911392405063
-        25.1139240506329
-        24.9367088607595
-        24.7594936708861
-        24.5822784810127
-        24.4050632911392
-        24.2278481012658
-        24.0506329113924
-        23.873417721519
-        23.6962025316456
-        23.5189873417722
-        23.3417721518987
-        23.1645569620253
-        22.9873417721519
-        22.8101265822785
-        22.6329113924051
-        22.4556962025316
-        22.2784810126582
-        22.1012658227848
-        21.9240506329114
-        21.746835443038
-        21.5696202531646
-        21.3924050632911
-        21.2151898734177
-        21.0379746835443
-        20.8607594936709
-        20.6835443037975
-        20.506329113924
-        20.3291139240506
-        20.1518987341772
-        19.9746835443038
-        19.7974683544304
-        19.620253164557
-        19.4430379746835
-        19.2658227848101
-        19.0886075949367
-        18.9113924050633
-        18.7341772151899
-        18.5569620253165
-        18.379746835443
-        18.2025316455696
-        18.0253164556962
-        17.8481012658228
-        17.6708860759494
-        17.493670886076
-        17.3164556962025
-        17.1392405063291
-        16.9620253164557
-        16.7848101265823
-        16.6075949367089
-        16.4303797468354
-        16.253164556962
-        16.0759493670886
-        15.8987341772152
-        15.7215189873418
-        15.5443037974684
-        15.3670886075949
-        15.1898734177215
-        15.0126582278481
-        14.8354430379747
-        14.6582278481013
-        14.4810126582278
-        14.3037974683544
-        14.126582278481
-        13.9493670886076
-        13.7721518987342
-        13.5949367088608
-        13.4177215189873
-        13.2405063291139
-        13.0632911392405
-        12.8860759493671
-        12.7088607594937
-        12.5316455696203
-        12.3544303797468
-        12.1772151898734
-        12
-        12],
-       :text
-       ["hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"
-        "hwy: 12.17722<br />displ: 4.902327<br />factor(cyl): 8"
-        "hwy: 12.35443<br />displ: 4.909821<br />factor(cyl): 8"
-        "hwy: 12.53165<br />displ: 4.917316<br />factor(cyl): 8"
-        "hwy: 12.70886<br />displ: 4.924810<br />factor(cyl): 8"
-        "hwy: 12.88608<br />displ: 4.932304<br />factor(cyl): 8"
-        "hwy: 13.06329<br />displ: 4.939798<br />factor(cyl): 8"
-        "hwy: 13.24051<br />displ: 4.947292<br />factor(cyl): 8"
-        "hwy: 13.41772<br />displ: 4.954786<br />factor(cyl): 8"
-        "hwy: 13.59494<br />displ: 4.962281<br />factor(cyl): 8"
-        "hwy: 13.77215<br />displ: 4.969775<br />factor(cyl): 8"
-        "hwy: 13.94937<br />displ: 4.977269<br />factor(cyl): 8"
-        "hwy: 14.12658<br />displ: 4.984763<br />factor(cyl): 8"
-        "hwy: 14.30380<br />displ: 4.992257<br />factor(cyl): 8"
-        "hwy: 14.48101<br />displ: 4.999751<br />factor(cyl): 8"
-        "hwy: 14.65823<br />displ: 5.007246<br />factor(cyl): 8"
-        "hwy: 14.83544<br />displ: 5.014740<br />factor(cyl): 8"
-        "hwy: 15.01266<br />displ: 5.022234<br />factor(cyl): 8"
-        "hwy: 15.18987<br />displ: 5.029728<br />factor(cyl): 8"
-        "hwy: 15.36709<br />displ: 5.037222<br />factor(cyl): 8"
-        "hwy: 15.54430<br />displ: 5.044717<br />factor(cyl): 8"
-        "hwy: 15.72152<br />displ: 5.052211<br />factor(cyl): 8"
-        "hwy: 15.89873<br />displ: 5.059705<br />factor(cyl): 8"
-        "hwy: 16.07595<br />displ: 5.067199<br />factor(cyl): 8"
-        "hwy: 16.25316<br />displ: 5.074693<br />factor(cyl): 8"
-        "hwy: 16.43038<br />displ: 5.082187<br />factor(cyl): 8"
-        "hwy: 16.60759<br />displ: 5.089682<br />factor(cyl): 8"
-        "hwy: 16.78481<br />displ: 5.097176<br />factor(cyl): 8"
-        "hwy: 16.96203<br />displ: 5.104670<br />factor(cyl): 8"
-        "hwy: 17.13924<br />displ: 5.112164<br />factor(cyl): 8"
-        "hwy: 17.31646<br />displ: 5.119658<br />factor(cyl): 8"
-        "hwy: 17.49367<br />displ: 5.127152<br />factor(cyl): 8"
-        "hwy: 17.67089<br />displ: 5.134647<br />factor(cyl): 8"
-        "hwy: 17.84810<br />displ: 5.142141<br />factor(cyl): 8"
-        "hwy: 18.02532<br />displ: 5.149635<br />factor(cyl): 8"
-        "hwy: 18.20253<br />displ: 5.157129<br />factor(cyl): 8"
-        "hwy: 18.37975<br />displ: 5.164623<br />factor(cyl): 8"
-        "hwy: 18.55696<br />displ: 5.172117<br />factor(cyl): 8"
-        "hwy: 18.73418<br />displ: 5.179612<br />factor(cyl): 8"
-        "hwy: 18.91139<br />displ: 5.187106<br />factor(cyl): 8"
-        "hwy: 19.08861<br />displ: 5.194600<br />factor(cyl): 8"
-        "hwy: 19.26582<br />displ: 5.202094<br />factor(cyl): 8"
-        "hwy: 19.44304<br />displ: 5.209588<br />factor(cyl): 8"
-        "hwy: 19.62025<br />displ: 5.217082<br />factor(cyl): 8"
-        "hwy: 19.79747<br />displ: 5.224577<br />factor(cyl): 8"
-        "hwy: 19.97468<br />displ: 5.232071<br />factor(cyl): 8"
-        "hwy: 20.15190<br />displ: 5.239565<br />factor(cyl): 8"
-        "hwy: 20.32911<br />displ: 5.247059<br />factor(cyl): 8"
-        "hwy: 20.50633<br />displ: 5.254553<br />factor(cyl): 8"
-        "hwy: 20.68354<br />displ: 5.262047<br />factor(cyl): 8"
-        "hwy: 20.86076<br />displ: 5.269542<br />factor(cyl): 8"
-        "hwy: 21.03797<br />displ: 5.277036<br />factor(cyl): 8"
-        "hwy: 21.21519<br />displ: 5.284530<br />factor(cyl): 8"
-        "hwy: 21.39241<br />displ: 5.292024<br />factor(cyl): 8"
-        "hwy: 21.56962<br />displ: 5.299518<br />factor(cyl): 8"
-        "hwy: 21.74684<br />displ: 5.307013<br />factor(cyl): 8"
-        "hwy: 21.92405<br />displ: 5.314507<br />factor(cyl): 8"
-        "hwy: 22.10127<br />displ: 5.322001<br />factor(cyl): 8"
-        "hwy: 22.27848<br />displ: 5.329495<br />factor(cyl): 8"
-        "hwy: 22.45570<br />displ: 5.336989<br />factor(cyl): 8"
-        "hwy: 22.63291<br />displ: 5.344483<br />factor(cyl): 8"
-        "hwy: 22.81013<br />displ: 5.351978<br />factor(cyl): 8"
-        "hwy: 22.98734<br />displ: 5.359472<br />factor(cyl): 8"
-        "hwy: 23.16456<br />displ: 5.366966<br />factor(cyl): 8"
-        "hwy: 23.34177<br />displ: 5.374460<br />factor(cyl): 8"
-        "hwy: 23.51899<br />displ: 5.381954<br />factor(cyl): 8"
-        "hwy: 23.69620<br />displ: 5.389448<br />factor(cyl): 8"
-        "hwy: 23.87342<br />displ: 5.396943<br />factor(cyl): 8"
-        "hwy: 24.05063<br />displ: 5.404437<br />factor(cyl): 8"
-        "hwy: 24.22785<br />displ: 5.411931<br />factor(cyl): 8"
-        "hwy: 24.40506<br />displ: 5.419425<br />factor(cyl): 8"
-        "hwy: 24.58228<br />displ: 5.426919<br />factor(cyl): 8"
-        "hwy: 24.75949<br />displ: 5.434413<br />factor(cyl): 8"
-        "hwy: 24.93671<br />displ: 5.441908<br />factor(cyl): 8"
-        "hwy: 25.11392<br />displ: 5.449402<br />factor(cyl): 8"
-        "hwy: 25.29114<br />displ: 5.456896<br />factor(cyl): 8"
-        "hwy: 25.46835<br />displ: 5.464390<br />factor(cyl): 8"
-        "hwy: 25.64557<br />displ: 5.471884<br />factor(cyl): 8"
-        "hwy: 25.82278<br />displ: 5.479378<br />factor(cyl): 8"
-        "hwy: 26.00000<br />displ: 5.486873<br />factor(cyl): 8"
-        "hwy: 26.00000<br />displ: 5.486873<br />factor(cyl): 8"
-        "hwy: 25.82278<br />displ: 5.479378<br />factor(cyl): 8"
-        "hwy: 25.64557<br />displ: 5.471884<br />factor(cyl): 8"
-        "hwy: 25.46835<br />displ: 5.464390<br />factor(cyl): 8"
-        "hwy: 25.29114<br />displ: 5.456896<br />factor(cyl): 8"
-        "hwy: 25.11392<br />displ: 5.449402<br />factor(cyl): 8"
-        "hwy: 24.93671<br />displ: 5.441908<br />factor(cyl): 8"
-        "hwy: 24.75949<br />displ: 5.434413<br />factor(cyl): 8"
-        "hwy: 24.58228<br />displ: 5.426919<br />factor(cyl): 8"
-        "hwy: 24.40506<br />displ: 5.419425<br />factor(cyl): 8"
-        "hwy: 24.22785<br />displ: 5.411931<br />factor(cyl): 8"
-        "hwy: 24.05063<br />displ: 5.404437<br />factor(cyl): 8"
-        "hwy: 23.87342<br />displ: 5.396943<br />factor(cyl): 8"
-        "hwy: 23.69620<br />displ: 5.389448<br />factor(cyl): 8"
-        "hwy: 23.51899<br />displ: 5.381954<br />factor(cyl): 8"
-        "hwy: 23.34177<br />displ: 5.374460<br />factor(cyl): 8"
-        "hwy: 23.16456<br />displ: 5.366966<br />factor(cyl): 8"
-        "hwy: 22.98734<br />displ: 5.359472<br />factor(cyl): 8"
-        "hwy: 22.81013<br />displ: 5.351978<br />factor(cyl): 8"
-        "hwy: 22.63291<br />displ: 5.344483<br />factor(cyl): 8"
-        "hwy: 22.45570<br />displ: 5.336989<br />factor(cyl): 8"
-        "hwy: 22.27848<br />displ: 5.329495<br />factor(cyl): 8"
-        "hwy: 22.10127<br />displ: 5.322001<br />factor(cyl): 8"
-        "hwy: 21.92405<br />displ: 5.314507<br />factor(cyl): 8"
-        "hwy: 21.74684<br />displ: 5.307013<br />factor(cyl): 8"
-        "hwy: 21.56962<br />displ: 5.299518<br />factor(cyl): 8"
-        "hwy: 21.39241<br />displ: 5.292024<br />factor(cyl): 8"
-        "hwy: 21.21519<br />displ: 5.284530<br />factor(cyl): 8"
-        "hwy: 21.03797<br />displ: 5.277036<br />factor(cyl): 8"
-        "hwy: 20.86076<br />displ: 5.269542<br />factor(cyl): 8"
-        "hwy: 20.68354<br />displ: 5.262047<br />factor(cyl): 8"
-        "hwy: 20.50633<br />displ: 5.254553<br />factor(cyl): 8"
-        "hwy: 20.32911<br />displ: 5.247059<br />factor(cyl): 8"
-        "hwy: 20.15190<br />displ: 5.239565<br />factor(cyl): 8"
-        "hwy: 19.97468<br />displ: 5.232071<br />factor(cyl): 8"
-        "hwy: 19.79747<br />displ: 5.224577<br />factor(cyl): 8"
-        "hwy: 19.62025<br />displ: 5.217082<br />factor(cyl): 8"
-        "hwy: 19.44304<br />displ: 5.209588<br />factor(cyl): 8"
-        "hwy: 19.26582<br />displ: 5.202094<br />factor(cyl): 8"
-        "hwy: 19.08861<br />displ: 5.194600<br />factor(cyl): 8"
-        "hwy: 18.91139<br />displ: 5.187106<br />factor(cyl): 8"
-        "hwy: 18.73418<br />displ: 5.179612<br />factor(cyl): 8"
-        "hwy: 18.55696<br />displ: 5.172117<br />factor(cyl): 8"
-        "hwy: 18.37975<br />displ: 5.164623<br />factor(cyl): 8"
-        "hwy: 18.20253<br />displ: 5.157129<br />factor(cyl): 8"
-        "hwy: 18.02532<br />displ: 5.149635<br />factor(cyl): 8"
-        "hwy: 17.84810<br />displ: 5.142141<br />factor(cyl): 8"
-        "hwy: 17.67089<br />displ: 5.134647<br />factor(cyl): 8"
-        "hwy: 17.49367<br />displ: 5.127152<br />factor(cyl): 8"
-        "hwy: 17.31646<br />displ: 5.119658<br />factor(cyl): 8"
-        "hwy: 17.13924<br />displ: 5.112164<br />factor(cyl): 8"
-        "hwy: 16.96203<br />displ: 5.104670<br />factor(cyl): 8"
-        "hwy: 16.78481<br />displ: 5.097176<br />factor(cyl): 8"
-        "hwy: 16.60759<br />displ: 5.089682<br />factor(cyl): 8"
-        "hwy: 16.43038<br />displ: 5.082187<br />factor(cyl): 8"
-        "hwy: 16.25316<br />displ: 5.074693<br />factor(cyl): 8"
-        "hwy: 16.07595<br />displ: 5.067199<br />factor(cyl): 8"
-        "hwy: 15.89873<br />displ: 5.059705<br />factor(cyl): 8"
-        "hwy: 15.72152<br />displ: 5.052211<br />factor(cyl): 8"
-        "hwy: 15.54430<br />displ: 5.044717<br />factor(cyl): 8"
-        "hwy: 15.36709<br />displ: 5.037222<br />factor(cyl): 8"
-        "hwy: 15.18987<br />displ: 5.029728<br />factor(cyl): 8"
-        "hwy: 15.01266<br />displ: 5.022234<br />factor(cyl): 8"
-        "hwy: 14.83544<br />displ: 5.014740<br />factor(cyl): 8"
-        "hwy: 14.65823<br />displ: 5.007246<br />factor(cyl): 8"
-        "hwy: 14.48101<br />displ: 4.999751<br />factor(cyl): 8"
-        "hwy: 14.30380<br />displ: 4.992257<br />factor(cyl): 8"
-        "hwy: 14.12658<br />displ: 4.984763<br />factor(cyl): 8"
-        "hwy: 13.94937<br />displ: 4.977269<br />factor(cyl): 8"
-        "hwy: 13.77215<br />displ: 4.969775<br />factor(cyl): 8"
-        "hwy: 13.59494<br />displ: 4.962281<br />factor(cyl): 8"
-        "hwy: 13.41772<br />displ: 4.954786<br />factor(cyl): 8"
-        "hwy: 13.24051<br />displ: 4.947292<br />factor(cyl): 8"
-        "hwy: 13.06329<br />displ: 4.939798<br />factor(cyl): 8"
-        "hwy: 12.88608<br />displ: 4.932304<br />factor(cyl): 8"
-        "hwy: 12.70886<br />displ: 4.924810<br />factor(cyl): 8"
-        "hwy: 12.53165<br />displ: 4.917316<br />factor(cyl): 8"
-        "hwy: 12.35443<br />displ: 4.909821<br />factor(cyl): 8"
-        "hwy: 12.17722<br />displ: 4.902327<br />factor(cyl): 8"
-        "hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"
-        "hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"]}]},
+     :data (concat point-layers
+                   [{:y
+                     [2.50120819391664
+                      2.48893790206772
+                      2.4766676102188
+                      2.46439731836989
+                      2.45212702652097
+                      2.43985673467205
+                      2.42758644282314
+                      2.41531615097422
+                      2.4030458591253
+                      2.39077556727639
+                      2.37850527542747
+                      2.36623498357855
+                      2.35396469172964
+                      2.34169439988072
+                      2.3294241080318
+                      2.31715381618288
+                      2.30488352433397
+                      2.29261323248505
+                      2.28034294063613
+                      2.26807264878722
+                      2.2558023569383
+                      2.24353206508938
+                      2.23126177324047
+                      2.21899148139155
+                      2.20672118954263
+                      2.19445089769372
+                      2.1821806058448
+                      2.16991031399588
+                      2.15764002214696
+                      2.14536973029805
+                      2.13309943844913
+                      2.12082914660021
+                      2.1085588547513
+                      2.09628856290238
+                      2.08401827105346
+                      2.07174797920455
+                      2.05947768735563
+                      2.04720739550671
+                      2.0349371036578
+                      2.02266681180888
+                      2.01039651995996
+                      1.99812622811104
+                      1.98585593626213
+                      1.97358564441321
+                      1.96131535256429
+                      1.94904506071538
+                      1.93677476886646
+                      1.92450447701754
+                      1.91223418516863
+                      1.89996389331971
+                      1.88769360147079
+                      1.87542330962188
+                      1.86315301777296
+                      1.85088272592404
+                      1.83861243407512
+                      1.82634214222621
+                      1.81407185037729
+                      1.80180155852837
+                      1.78953126667946
+                      1.77726097483054
+                      1.76499068298162
+                      1.75272039113271
+                      1.74045009928379
+                      1.72817980743487
+                      1.71590951558595
+                      1.70363922373704
+                      1.69136893188812
+                      1.6790986400392
+                      1.66682834819029
+                      1.65455805634137
+                      1.64228776449245
+                      1.63001747264354
+                      1.61774718079462
+                      1.6054768889457
+                      1.59320659709679
+                      1.58093630524787
+                      1.56866601339895
+                      1.55639572155004
+                      1.54412542970112
+                      1.5318551378522],
+                     :hoveron "points",
+                     :legendgroup "4",
+                     :frame nil,
+                     :hoverinfo "text",
+                     :name "4",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line
+                     {:width 3.77952755905512, :color "rgba(248,118,109,1)", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [20
+                      20.3037974683544
+                      20.6075949367089
+                      20.9113924050633
+                      21.2151898734177
+                      21.5189873417722
+                      21.8227848101266
+                      22.126582278481
+                      22.4303797468354
+                      22.7341772151899
+                      23.0379746835443
+                      23.3417721518987
+                      23.6455696202532
+                      23.9493670886076
+                      24.253164556962
+                      24.5569620253165
+                      24.8607594936709
+                      25.1645569620253
+                      25.4683544303797
+                      25.7721518987342
+                      26.0759493670886
+                      26.379746835443
+                      26.6835443037975
+                      26.9873417721519
+                      27.2911392405063
+                      27.5949367088608
+                      27.8987341772152
+                      28.2025316455696
+                      28.5063291139241
+                      28.8101265822785
+                      29.1139240506329
+                      29.4177215189873
+                      29.7215189873418
+                      30.0253164556962
+                      30.3291139240506
+                      30.6329113924051
+                      30.9367088607595
+                      31.2405063291139
+                      31.5443037974684
+                      31.8481012658228
+                      32.1518987341772
+                      32.4556962025316
+                      32.7594936708861
+                      33.0632911392405
+                      33.3670886075949
+                      33.6708860759494
+                      33.9746835443038
+                      34.2784810126582
+                      34.5822784810127
+                      34.8860759493671
+                      35.1898734177215
+                      35.4936708860759
+                      35.7974683544304
+                      36.1012658227848
+                      36.4050632911392
+                      36.7088607594937
+                      37.0126582278481
+                      37.3164556962025
+                      37.620253164557
+                      37.9240506329114
+                      38.2278481012658
+                      38.5316455696203
+                      38.8354430379747
+                      39.1392405063291
+                      39.4430379746835
+                      39.746835443038
+                      40.0506329113924
+                      40.3544303797468
+                      40.6582278481013
+                      40.9620253164557
+                      41.2658227848101
+                      41.5696202531646
+                      41.873417721519
+                      42.1772151898734
+                      42.4810126582278
+                      42.7848101265823
+                      43.0886075949367
+                      43.3924050632911
+                      43.6962025316456
+                      44],
+                     :text
+                     ["hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"
+                      "hwy: 20.30380<br />displ: 2.488938<br />factor(cyl): 4"
+                      "hwy: 20.60759<br />displ: 2.476668<br />factor(cyl): 4"
+                      "hwy: 20.91139<br />displ: 2.464397<br />factor(cyl): 4"
+                      "hwy: 21.21519<br />displ: 2.452127<br />factor(cyl): 4"
+                      "hwy: 21.51899<br />displ: 2.439857<br />factor(cyl): 4"
+                      "hwy: 21.82278<br />displ: 2.427586<br />factor(cyl): 4"
+                      "hwy: 22.12658<br />displ: 2.415316<br />factor(cyl): 4"
+                      "hwy: 22.43038<br />displ: 2.403046<br />factor(cyl): 4"
+                      "hwy: 22.73418<br />displ: 2.390776<br />factor(cyl): 4"
+                      "hwy: 23.03797<br />displ: 2.378505<br />factor(cyl): 4"
+                      "hwy: 23.34177<br />displ: 2.366235<br />factor(cyl): 4"
+                      "hwy: 23.64557<br />displ: 2.353965<br />factor(cyl): 4"
+                      "hwy: 23.94937<br />displ: 2.341694<br />factor(cyl): 4"
+                      "hwy: 24.25316<br />displ: 2.329424<br />factor(cyl): 4"
+                      "hwy: 24.55696<br />displ: 2.317154<br />factor(cyl): 4"
+                      "hwy: 24.86076<br />displ: 2.304884<br />factor(cyl): 4"
+                      "hwy: 25.16456<br />displ: 2.292613<br />factor(cyl): 4"
+                      "hwy: 25.46835<br />displ: 2.280343<br />factor(cyl): 4"
+                      "hwy: 25.77215<br />displ: 2.268073<br />factor(cyl): 4"
+                      "hwy: 26.07595<br />displ: 2.255802<br />factor(cyl): 4"
+                      "hwy: 26.37975<br />displ: 2.243532<br />factor(cyl): 4"
+                      "hwy: 26.68354<br />displ: 2.231262<br />factor(cyl): 4"
+                      "hwy: 26.98734<br />displ: 2.218991<br />factor(cyl): 4"
+                      "hwy: 27.29114<br />displ: 2.206721<br />factor(cyl): 4"
+                      "hwy: 27.59494<br />displ: 2.194451<br />factor(cyl): 4"
+                      "hwy: 27.89873<br />displ: 2.182181<br />factor(cyl): 4"
+                      "hwy: 28.20253<br />displ: 2.169910<br />factor(cyl): 4"
+                      "hwy: 28.50633<br />displ: 2.157640<br />factor(cyl): 4"
+                      "hwy: 28.81013<br />displ: 2.145370<br />factor(cyl): 4"
+                      "hwy: 29.11392<br />displ: 2.133099<br />factor(cyl): 4"
+                      "hwy: 29.41772<br />displ: 2.120829<br />factor(cyl): 4"
+                      "hwy: 29.72152<br />displ: 2.108559<br />factor(cyl): 4"
+                      "hwy: 30.02532<br />displ: 2.096289<br />factor(cyl): 4"
+                      "hwy: 30.32911<br />displ: 2.084018<br />factor(cyl): 4"
+                      "hwy: 30.63291<br />displ: 2.071748<br />factor(cyl): 4"
+                      "hwy: 30.93671<br />displ: 2.059478<br />factor(cyl): 4"
+                      "hwy: 31.24051<br />displ: 2.047207<br />factor(cyl): 4"
+                      "hwy: 31.54430<br />displ: 2.034937<br />factor(cyl): 4"
+                      "hwy: 31.84810<br />displ: 2.022667<br />factor(cyl): 4"
+                      "hwy: 32.15190<br />displ: 2.010397<br />factor(cyl): 4"
+                      "hwy: 32.45570<br />displ: 1.998126<br />factor(cyl): 4"
+                      "hwy: 32.75949<br />displ: 1.985856<br />factor(cyl): 4"
+                      "hwy: 33.06329<br />displ: 1.973586<br />factor(cyl): 4"
+                      "hwy: 33.36709<br />displ: 1.961315<br />factor(cyl): 4"
+                      "hwy: 33.67089<br />displ: 1.949045<br />factor(cyl): 4"
+                      "hwy: 33.97468<br />displ: 1.936775<br />factor(cyl): 4"
+                      "hwy: 34.27848<br />displ: 1.924504<br />factor(cyl): 4"
+                      "hwy: 34.58228<br />displ: 1.912234<br />factor(cyl): 4"
+                      "hwy: 34.88608<br />displ: 1.899964<br />factor(cyl): 4"
+                      "hwy: 35.18987<br />displ: 1.887694<br />factor(cyl): 4"
+                      "hwy: 35.49367<br />displ: 1.875423<br />factor(cyl): 4"
+                      "hwy: 35.79747<br />displ: 1.863153<br />factor(cyl): 4"
+                      "hwy: 36.10127<br />displ: 1.850883<br />factor(cyl): 4"
+                      "hwy: 36.40506<br />displ: 1.838612<br />factor(cyl): 4"
+                      "hwy: 36.70886<br />displ: 1.826342<br />factor(cyl): 4"
+                      "hwy: 37.01266<br />displ: 1.814072<br />factor(cyl): 4"
+                      "hwy: 37.31646<br />displ: 1.801802<br />factor(cyl): 4"
+                      "hwy: 37.62025<br />displ: 1.789531<br />factor(cyl): 4"
+                      "hwy: 37.92405<br />displ: 1.777261<br />factor(cyl): 4"
+                      "hwy: 38.22785<br />displ: 1.764991<br />factor(cyl): 4"
+                      "hwy: 38.53165<br />displ: 1.752720<br />factor(cyl): 4"
+                      "hwy: 38.83544<br />displ: 1.740450<br />factor(cyl): 4"
+                      "hwy: 39.13924<br />displ: 1.728180<br />factor(cyl): 4"
+                      "hwy: 39.44304<br />displ: 1.715910<br />factor(cyl): 4"
+                      "hwy: 39.74684<br />displ: 1.703639<br />factor(cyl): 4"
+                      "hwy: 40.05063<br />displ: 1.691369<br />factor(cyl): 4"
+                      "hwy: 40.35443<br />displ: 1.679099<br />factor(cyl): 4"
+                      "hwy: 40.65823<br />displ: 1.666828<br />factor(cyl): 4"
+                      "hwy: 40.96203<br />displ: 1.654558<br />factor(cyl): 4"
+                      "hwy: 41.26582<br />displ: 1.642288<br />factor(cyl): 4"
+                      "hwy: 41.56962<br />displ: 1.630017<br />factor(cyl): 4"
+                      "hwy: 41.87342<br />displ: 1.617747<br />factor(cyl): 4"
+                      "hwy: 42.17722<br />displ: 1.605477<br />factor(cyl): 4"
+                      "hwy: 42.48101<br />displ: 1.593207<br />factor(cyl): 4"
+                      "hwy: 42.78481<br />displ: 1.580936<br />factor(cyl): 4"
+                      "hwy: 43.08861<br />displ: 1.568666<br />factor(cyl): 4"
+                      "hwy: 43.39241<br />displ: 1.556396<br />factor(cyl): 4"
+                      "hwy: 43.69620<br />displ: 1.544125<br />factor(cyl): 4"
+                      "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"]}
+                    {:y
+                     [2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5],
+                     :hoveron "points",
+                     :legendgroup "5",
+                     :frame nil,
+                     :hoverinfo "text",
+                     :name "5",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line {:width 3.77952755905512, :color "rgba(124,174,0,1)", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [28
+                      28.0126582278481
+                      28.0253164556962
+                      28.0379746835443
+                      28.0506329113924
+                      28.0632911392405
+                      28.0759493670886
+                      28.0886075949367
+                      28.1012658227848
+                      28.1139240506329
+                      28.126582278481
+                      28.1392405063291
+                      28.1518987341772
+                      28.1645569620253
+                      28.1772151898734
+                      28.1898734177215
+                      28.2025316455696
+                      28.2151898734177
+                      28.2278481012658
+                      28.2405063291139
+                      28.253164556962
+                      28.2658227848101
+                      28.2784810126582
+                      28.2911392405063
+                      28.3037974683544
+                      28.3164556962025
+                      28.3291139240506
+                      28.3417721518987
+                      28.3544303797468
+                      28.3670886075949
+                      28.379746835443
+                      28.3924050632911
+                      28.4050632911392
+                      28.4177215189873
+                      28.4303797468354
+                      28.4430379746835
+                      28.4556962025316
+                      28.4683544303797
+                      28.4810126582278
+                      28.493670886076
+                      28.506329113924
+                      28.5189873417722
+                      28.5316455696203
+                      28.5443037974684
+                      28.5569620253165
+                      28.5696202531646
+                      28.5822784810127
+                      28.5949367088608
+                      28.6075949367089
+                      28.620253164557
+                      28.6329113924051
+                      28.6455696202532
+                      28.6582278481013
+                      28.6708860759494
+                      28.6835443037975
+                      28.6962025316456
+                      28.7088607594937
+                      28.7215189873418
+                      28.7341772151899
+                      28.746835443038
+                      28.7594936708861
+                      28.7721518987342
+                      28.7848101265823
+                      28.7974683544304
+                      28.8101265822785
+                      28.8227848101266
+                      28.8354430379747
+                      28.8481012658228
+                      28.8607594936709
+                      28.873417721519
+                      28.8860759493671
+                      28.8987341772152
+                      28.9113924050633
+                      28.9240506329114
+                      28.9367088607595
+                      28.9493670886076
+                      28.9620253164557
+                      28.9746835443038
+                      28.9873417721519
+                      29],
+                     :text
+                     ["hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.01266<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.02532<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.03797<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.05063<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.06329<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.07595<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.08861<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.10127<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.11392<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.12658<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.13924<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.15190<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.16456<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.17722<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.18987<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.20253<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.21519<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.22785<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.24051<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.25316<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.26582<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.27848<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.29114<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.30380<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.31646<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.32911<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.34177<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.35443<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.36709<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.37975<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.39241<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.40506<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.41772<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.43038<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.44304<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.45570<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.46835<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.48101<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.49367<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.50633<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.51899<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.53165<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.54430<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.55696<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.56962<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.58228<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.59494<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.60759<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.62025<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.63291<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.64557<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.65823<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.67089<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.68354<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.69620<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.70886<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.72152<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.73418<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.74684<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.75949<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.77215<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.78481<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.79747<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.81013<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.82278<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.83544<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.84810<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.86076<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.87342<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.88608<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.89873<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.91139<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.92405<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.93671<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.94937<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.96203<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.97468<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.98734<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 29.00000<br />displ: 2.500000<br />factor(cyl): 5"]}
+                    {:y
+                     [3.7879309932857
+                      3.77804220457809
+                      3.76815341587047
+                      3.75826462716285
+                      3.74837583845523
+                      3.73848704974761
+                      3.72859826103999
+                      3.71870947233238
+                      3.70882068362476
+                      3.69893189491714
+                      3.68904310620952
+                      3.6791543175019
+                      3.66926552879429
+                      3.65937674008667
+                      3.64948795137905
+                      3.63959916267143
+                      3.62971037396381
+                      3.61982158525619
+                      3.60993279654858
+                      3.60004400784096
+                      3.59015521913334
+                      3.58026643042572
+                      3.5703776417181
+                      3.56048885301048
+                      3.55060006430287
+                      3.54071127559525
+                      3.53082248688763
+                      3.52093369818001
+                      3.51104490947239
+                      3.50115612076478
+                      3.49126733205716
+                      3.48137854334954
+                      3.47148975464192
+                      3.4616009659343
+                      3.45171217722668
+                      3.44182338851907
+                      3.43193459981145
+                      3.42204581110383
+                      3.41215702239621
+                      3.40226823368859
+                      3.39237944498097
+                      3.38249065627336
+                      3.37260186756574
+                      3.36271307885812
+                      3.3528242901505
+                      3.34293550144288
+                      3.33304671273526
+                      3.32315792402765
+                      3.31326913532003
+                      3.30338034661241
+                      3.29349155790479
+                      3.28360276919717
+                      3.27371398048956
+                      3.26382519178194
+                      3.25393640307432
+                      3.2440476143667
+                      3.23415882565908
+                      3.22427003695146
+                      3.21438124824385
+                      3.20449245953623
+                      3.19460367082861
+                      3.18471488212099
+                      3.17482609341337
+                      3.16493730470575
+                      3.15504851599814
+                      3.14515972729052
+                      3.1352709385829
+                      3.12538214987528
+                      3.11549336116766
+                      3.10560457246005
+                      3.09571578375243
+                      3.08582699504481
+                      3.07593820633719
+                      3.06604941762957
+                      3.05616062892195
+                      3.04627184021434
+                      3.03638305150672
+                      3.0264942627991
+                      3.01660547409148
+                      3.00671668538386],
+                     :hoveron "points",
+                     :legendgroup "6",
+                     :frame nil,
+                     :hoverinfo "text",
+                     :name "6",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line {:width 3.77952755905512, :color "rgba(0,191,196,1)", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [17
+                      17.1518987341772
+                      17.3037974683544
+                      17.4556962025316
+                      17.6075949367089
+                      17.7594936708861
+                      17.9113924050633
+                      18.0632911392405
+                      18.2151898734177
+                      18.3670886075949
+                      18.5189873417722
+                      18.6708860759494
+                      18.8227848101266
+                      18.9746835443038
+                      19.126582278481
+                      19.2784810126582
+                      19.4303797468354
+                      19.5822784810127
+                      19.7341772151899
+                      19.8860759493671
+                      20.0379746835443
+                      20.1898734177215
+                      20.3417721518987
+                      20.493670886076
+                      20.6455696202532
+                      20.7974683544304
+                      20.9493670886076
+                      21.1012658227848
+                      21.253164556962
+                      21.4050632911392
+                      21.5569620253165
+                      21.7088607594937
+                      21.8607594936709
+                      22.0126582278481
+                      22.1645569620253
+                      22.3164556962025
+                      22.4683544303797
+                      22.620253164557
+                      22.7721518987342
+                      22.9240506329114
+                      23.0759493670886
+                      23.2278481012658
+                      23.379746835443
+                      23.5316455696203
+                      23.6835443037975
+                      23.8354430379747
+                      23.9873417721519
+                      24.1392405063291
+                      24.2911392405063
+                      24.4430379746835
+                      24.5949367088608
+                      24.746835443038
+                      24.8987341772152
+                      25.0506329113924
+                      25.2025316455696
+                      25.3544303797468
+                      25.5063291139241
+                      25.6582278481013
+                      25.8101265822785
+                      25.9620253164557
+                      26.1139240506329
+                      26.2658227848101
+                      26.4177215189873
+                      26.5696202531646
+                      26.7215189873418
+                      26.873417721519
+                      27.0253164556962
+                      27.1772151898734
+                      27.3291139240506
+                      27.4810126582278
+                      27.6329113924051
+                      27.7848101265823
+                      27.9367088607595
+                      28.0886075949367
+                      28.2405063291139
+                      28.3924050632911
+                      28.5443037974684
+                      28.6962025316456
+                      28.8481012658228
+                      29],
+                     :text
+                     ["hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"
+                      "hwy: 17.15190<br />displ: 3.778042<br />factor(cyl): 6"
+                      "hwy: 17.30380<br />displ: 3.768153<br />factor(cyl): 6"
+                      "hwy: 17.45570<br />displ: 3.758265<br />factor(cyl): 6"
+                      "hwy: 17.60759<br />displ: 3.748376<br />factor(cyl): 6"
+                      "hwy: 17.75949<br />displ: 3.738487<br />factor(cyl): 6"
+                      "hwy: 17.91139<br />displ: 3.728598<br />factor(cyl): 6"
+                      "hwy: 18.06329<br />displ: 3.718709<br />factor(cyl): 6"
+                      "hwy: 18.21519<br />displ: 3.708821<br />factor(cyl): 6"
+                      "hwy: 18.36709<br />displ: 3.698932<br />factor(cyl): 6"
+                      "hwy: 18.51899<br />displ: 3.689043<br />factor(cyl): 6"
+                      "hwy: 18.67089<br />displ: 3.679154<br />factor(cyl): 6"
+                      "hwy: 18.82278<br />displ: 3.669266<br />factor(cyl): 6"
+                      "hwy: 18.97468<br />displ: 3.659377<br />factor(cyl): 6"
+                      "hwy: 19.12658<br />displ: 3.649488<br />factor(cyl): 6"
+                      "hwy: 19.27848<br />displ: 3.639599<br />factor(cyl): 6"
+                      "hwy: 19.43038<br />displ: 3.629710<br />factor(cyl): 6"
+                      "hwy: 19.58228<br />displ: 3.619822<br />factor(cyl): 6"
+                      "hwy: 19.73418<br />displ: 3.609933<br />factor(cyl): 6"
+                      "hwy: 19.88608<br />displ: 3.600044<br />factor(cyl): 6"
+                      "hwy: 20.03797<br />displ: 3.590155<br />factor(cyl): 6"
+                      "hwy: 20.18987<br />displ: 3.580266<br />factor(cyl): 6"
+                      "hwy: 20.34177<br />displ: 3.570378<br />factor(cyl): 6"
+                      "hwy: 20.49367<br />displ: 3.560489<br />factor(cyl): 6"
+                      "hwy: 20.64557<br />displ: 3.550600<br />factor(cyl): 6"
+                      "hwy: 20.79747<br />displ: 3.540711<br />factor(cyl): 6"
+                      "hwy: 20.94937<br />displ: 3.530822<br />factor(cyl): 6"
+                      "hwy: 21.10127<br />displ: 3.520934<br />factor(cyl): 6"
+                      "hwy: 21.25316<br />displ: 3.511045<br />factor(cyl): 6"
+                      "hwy: 21.40506<br />displ: 3.501156<br />factor(cyl): 6"
+                      "hwy: 21.55696<br />displ: 3.491267<br />factor(cyl): 6"
+                      "hwy: 21.70886<br />displ: 3.481379<br />factor(cyl): 6"
+                      "hwy: 21.86076<br />displ: 3.471490<br />factor(cyl): 6"
+                      "hwy: 22.01266<br />displ: 3.461601<br />factor(cyl): 6"
+                      "hwy: 22.16456<br />displ: 3.451712<br />factor(cyl): 6"
+                      "hwy: 22.31646<br />displ: 3.441823<br />factor(cyl): 6"
+                      "hwy: 22.46835<br />displ: 3.431935<br />factor(cyl): 6"
+                      "hwy: 22.62025<br />displ: 3.422046<br />factor(cyl): 6"
+                      "hwy: 22.77215<br />displ: 3.412157<br />factor(cyl): 6"
+                      "hwy: 22.92405<br />displ: 3.402268<br />factor(cyl): 6"
+                      "hwy: 23.07595<br />displ: 3.392379<br />factor(cyl): 6"
+                      "hwy: 23.22785<br />displ: 3.382491<br />factor(cyl): 6"
+                      "hwy: 23.37975<br />displ: 3.372602<br />factor(cyl): 6"
+                      "hwy: 23.53165<br />displ: 3.362713<br />factor(cyl): 6"
+                      "hwy: 23.68354<br />displ: 3.352824<br />factor(cyl): 6"
+                      "hwy: 23.83544<br />displ: 3.342936<br />factor(cyl): 6"
+                      "hwy: 23.98734<br />displ: 3.333047<br />factor(cyl): 6"
+                      "hwy: 24.13924<br />displ: 3.323158<br />factor(cyl): 6"
+                      "hwy: 24.29114<br />displ: 3.313269<br />factor(cyl): 6"
+                      "hwy: 24.44304<br />displ: 3.303380<br />factor(cyl): 6"
+                      "hwy: 24.59494<br />displ: 3.293492<br />factor(cyl): 6"
+                      "hwy: 24.74684<br />displ: 3.283603<br />factor(cyl): 6"
+                      "hwy: 24.89873<br />displ: 3.273714<br />factor(cyl): 6"
+                      "hwy: 25.05063<br />displ: 3.263825<br />factor(cyl): 6"
+                      "hwy: 25.20253<br />displ: 3.253936<br />factor(cyl): 6"
+                      "hwy: 25.35443<br />displ: 3.244048<br />factor(cyl): 6"
+                      "hwy: 25.50633<br />displ: 3.234159<br />factor(cyl): 6"
+                      "hwy: 25.65823<br />displ: 3.224270<br />factor(cyl): 6"
+                      "hwy: 25.81013<br />displ: 3.214381<br />factor(cyl): 6"
+                      "hwy: 25.96203<br />displ: 3.204492<br />factor(cyl): 6"
+                      "hwy: 26.11392<br />displ: 3.194604<br />factor(cyl): 6"
+                      "hwy: 26.26582<br />displ: 3.184715<br />factor(cyl): 6"
+                      "hwy: 26.41772<br />displ: 3.174826<br />factor(cyl): 6"
+                      "hwy: 26.56962<br />displ: 3.164937<br />factor(cyl): 6"
+                      "hwy: 26.72152<br />displ: 3.155049<br />factor(cyl): 6"
+                      "hwy: 26.87342<br />displ: 3.145160<br />factor(cyl): 6"
+                      "hwy: 27.02532<br />displ: 3.135271<br />factor(cyl): 6"
+                      "hwy: 27.17722<br />displ: 3.125382<br />factor(cyl): 6"
+                      "hwy: 27.32911<br />displ: 3.115493<br />factor(cyl): 6"
+                      "hwy: 27.48101<br />displ: 3.105605<br />factor(cyl): 6"
+                      "hwy: 27.63291<br />displ: 3.095716<br />factor(cyl): 6"
+                      "hwy: 27.78481<br />displ: 3.085827<br />factor(cyl): 6"
+                      "hwy: 27.93671<br />displ: 3.075938<br />factor(cyl): 6"
+                      "hwy: 28.08861<br />displ: 3.066049<br />factor(cyl): 6"
+                      "hwy: 28.24051<br />displ: 3.056161<br />factor(cyl): 6"
+                      "hwy: 28.39241<br />displ: 3.046272<br />factor(cyl): 6"
+                      "hwy: 28.54430<br />displ: 3.036383<br />factor(cyl): 6"
+                      "hwy: 28.69620<br />displ: 3.026494<br />factor(cyl): 6"
+                      "hwy: 28.84810<br />displ: 3.016605<br />factor(cyl): 6"
+                      "hwy: 29.00000<br />displ: 3.006717<br />factor(cyl): 6"]}
+                    {:y
+                     [4.8948330869193
+                      4.9023272581851
+                      4.90982142945089
+                      4.91731560071668
+                      4.92480977198248
+                      4.93230394324827
+                      4.93979811451406
+                      4.94729228577986
+                      4.95478645704565
+                      4.96228062831144
+                      4.96977479957724
+                      4.97726897084303
+                      4.98476314210882
+                      4.99225731337462
+                      4.99975148464041
+                      5.0072456559062
+                      5.014739827172
+                      5.02223399843779
+                      5.02972816970358
+                      5.03722234096938
+                      5.04471651223517
+                      5.05221068350096
+                      5.05970485476676
+                      5.06719902603255
+                      5.07469319729834
+                      5.08218736856413
+                      5.08968153982993
+                      5.09717571109572
+                      5.10466988236151
+                      5.11216405362731
+                      5.1196582248931
+                      5.12715239615889
+                      5.13464656742469
+                      5.14214073869048
+                      5.14963490995627
+                      5.15712908122207
+                      5.16462325248786
+                      5.17211742375365
+                      5.17961159501945
+                      5.18710576628524
+                      5.19459993755103
+                      5.20209410881683
+                      5.20958828008262
+                      5.21708245134841
+                      5.22457662261421
+                      5.23207079388
+                      5.23956496514579
+                      5.24705913641159
+                      5.25455330767738
+                      5.26204747894317
+                      5.26954165020897
+                      5.27703582147476
+                      5.28452999274055
+                      5.29202416400635
+                      5.29951833527214
+                      5.30701250653793
+                      5.31450667780373
+                      5.32200084906952
+                      5.32949502033531
+                      5.33698919160111
+                      5.3444833628669
+                      5.35197753413269
+                      5.35947170539849
+                      5.36696587666428
+                      5.37446004793007
+                      5.38195421919587
+                      5.38944839046166
+                      5.39694256172745
+                      5.40443673299325
+                      5.41193090425904
+                      5.41942507552483
+                      5.42691924679063
+                      5.43441341805642
+                      5.44190758932221
+                      5.449401760588
+                      5.4568959318538
+                      5.46439010311959
+                      5.47188427438538
+                      5.47937844565118
+                      5.48687261691697],
+                     :hoveron "points",
+                     :legendgroup "8",
+                     :frame nil,
+                     :hoverinfo "text",
+                     :name "8",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line
+                     {:width 3.77952755905512, :color "rgba(199,124,255,1)", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [12
+                      12.1772151898734
+                      12.3544303797468
+                      12.5316455696203
+                      12.7088607594937
+                      12.8860759493671
+                      13.0632911392405
+                      13.2405063291139
+                      13.4177215189873
+                      13.5949367088608
+                      13.7721518987342
+                      13.9493670886076
+                      14.126582278481
+                      14.3037974683544
+                      14.4810126582278
+                      14.6582278481013
+                      14.8354430379747
+                      15.0126582278481
+                      15.1898734177215
+                      15.3670886075949
+                      15.5443037974684
+                      15.7215189873418
+                      15.8987341772152
+                      16.0759493670886
+                      16.253164556962
+                      16.4303797468354
+                      16.6075949367089
+                      16.7848101265823
+                      16.9620253164557
+                      17.1392405063291
+                      17.3164556962025
+                      17.493670886076
+                      17.6708860759494
+                      17.8481012658228
+                      18.0253164556962
+                      18.2025316455696
+                      18.379746835443
+                      18.5569620253165
+                      18.7341772151899
+                      18.9113924050633
+                      19.0886075949367
+                      19.2658227848101
+                      19.4430379746835
+                      19.620253164557
+                      19.7974683544304
+                      19.9746835443038
+                      20.1518987341772
+                      20.3291139240506
+                      20.506329113924
+                      20.6835443037975
+                      20.8607594936709
+                      21.0379746835443
+                      21.2151898734177
+                      21.3924050632911
+                      21.5696202531646
+                      21.746835443038
+                      21.9240506329114
+                      22.1012658227848
+                      22.2784810126582
+                      22.4556962025316
+                      22.6329113924051
+                      22.8101265822785
+                      22.9873417721519
+                      23.1645569620253
+                      23.3417721518987
+                      23.5189873417722
+                      23.6962025316456
+                      23.873417721519
+                      24.0506329113924
+                      24.2278481012658
+                      24.4050632911392
+                      24.5822784810127
+                      24.7594936708861
+                      24.9367088607595
+                      25.1139240506329
+                      25.2911392405063
+                      25.4683544303797
+                      25.6455696202532
+                      25.8227848101266
+                      26],
+                     :text
+                     ["hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"
+                      "hwy: 12.17722<br />displ: 4.902327<br />factor(cyl): 8"
+                      "hwy: 12.35443<br />displ: 4.909821<br />factor(cyl): 8"
+                      "hwy: 12.53165<br />displ: 4.917316<br />factor(cyl): 8"
+                      "hwy: 12.70886<br />displ: 4.924810<br />factor(cyl): 8"
+                      "hwy: 12.88608<br />displ: 4.932304<br />factor(cyl): 8"
+                      "hwy: 13.06329<br />displ: 4.939798<br />factor(cyl): 8"
+                      "hwy: 13.24051<br />displ: 4.947292<br />factor(cyl): 8"
+                      "hwy: 13.41772<br />displ: 4.954786<br />factor(cyl): 8"
+                      "hwy: 13.59494<br />displ: 4.962281<br />factor(cyl): 8"
+                      "hwy: 13.77215<br />displ: 4.969775<br />factor(cyl): 8"
+                      "hwy: 13.94937<br />displ: 4.977269<br />factor(cyl): 8"
+                      "hwy: 14.12658<br />displ: 4.984763<br />factor(cyl): 8"
+                      "hwy: 14.30380<br />displ: 4.992257<br />factor(cyl): 8"
+                      "hwy: 14.48101<br />displ: 4.999751<br />factor(cyl): 8"
+                      "hwy: 14.65823<br />displ: 5.007246<br />factor(cyl): 8"
+                      "hwy: 14.83544<br />displ: 5.014740<br />factor(cyl): 8"
+                      "hwy: 15.01266<br />displ: 5.022234<br />factor(cyl): 8"
+                      "hwy: 15.18987<br />displ: 5.029728<br />factor(cyl): 8"
+                      "hwy: 15.36709<br />displ: 5.037222<br />factor(cyl): 8"
+                      "hwy: 15.54430<br />displ: 5.044717<br />factor(cyl): 8"
+                      "hwy: 15.72152<br />displ: 5.052211<br />factor(cyl): 8"
+                      "hwy: 15.89873<br />displ: 5.059705<br />factor(cyl): 8"
+                      "hwy: 16.07595<br />displ: 5.067199<br />factor(cyl): 8"
+                      "hwy: 16.25316<br />displ: 5.074693<br />factor(cyl): 8"
+                      "hwy: 16.43038<br />displ: 5.082187<br />factor(cyl): 8"
+                      "hwy: 16.60759<br />displ: 5.089682<br />factor(cyl): 8"
+                      "hwy: 16.78481<br />displ: 5.097176<br />factor(cyl): 8"
+                      "hwy: 16.96203<br />displ: 5.104670<br />factor(cyl): 8"
+                      "hwy: 17.13924<br />displ: 5.112164<br />factor(cyl): 8"
+                      "hwy: 17.31646<br />displ: 5.119658<br />factor(cyl): 8"
+                      "hwy: 17.49367<br />displ: 5.127152<br />factor(cyl): 8"
+                      "hwy: 17.67089<br />displ: 5.134647<br />factor(cyl): 8"
+                      "hwy: 17.84810<br />displ: 5.142141<br />factor(cyl): 8"
+                      "hwy: 18.02532<br />displ: 5.149635<br />factor(cyl): 8"
+                      "hwy: 18.20253<br />displ: 5.157129<br />factor(cyl): 8"
+                      "hwy: 18.37975<br />displ: 5.164623<br />factor(cyl): 8"
+                      "hwy: 18.55696<br />displ: 5.172117<br />factor(cyl): 8"
+                      "hwy: 18.73418<br />displ: 5.179612<br />factor(cyl): 8"
+                      "hwy: 18.91139<br />displ: 5.187106<br />factor(cyl): 8"
+                      "hwy: 19.08861<br />displ: 5.194600<br />factor(cyl): 8"
+                      "hwy: 19.26582<br />displ: 5.202094<br />factor(cyl): 8"
+                      "hwy: 19.44304<br />displ: 5.209588<br />factor(cyl): 8"
+                      "hwy: 19.62025<br />displ: 5.217082<br />factor(cyl): 8"
+                      "hwy: 19.79747<br />displ: 5.224577<br />factor(cyl): 8"
+                      "hwy: 19.97468<br />displ: 5.232071<br />factor(cyl): 8"
+                      "hwy: 20.15190<br />displ: 5.239565<br />factor(cyl): 8"
+                      "hwy: 20.32911<br />displ: 5.247059<br />factor(cyl): 8"
+                      "hwy: 20.50633<br />displ: 5.254553<br />factor(cyl): 8"
+                      "hwy: 20.68354<br />displ: 5.262047<br />factor(cyl): 8"
+                      "hwy: 20.86076<br />displ: 5.269542<br />factor(cyl): 8"
+                      "hwy: 21.03797<br />displ: 5.277036<br />factor(cyl): 8"
+                      "hwy: 21.21519<br />displ: 5.284530<br />factor(cyl): 8"
+                      "hwy: 21.39241<br />displ: 5.292024<br />factor(cyl): 8"
+                      "hwy: 21.56962<br />displ: 5.299518<br />factor(cyl): 8"
+                      "hwy: 21.74684<br />displ: 5.307013<br />factor(cyl): 8"
+                      "hwy: 21.92405<br />displ: 5.314507<br />factor(cyl): 8"
+                      "hwy: 22.10127<br />displ: 5.322001<br />factor(cyl): 8"
+                      "hwy: 22.27848<br />displ: 5.329495<br />factor(cyl): 8"
+                      "hwy: 22.45570<br />displ: 5.336989<br />factor(cyl): 8"
+                      "hwy: 22.63291<br />displ: 5.344483<br />factor(cyl): 8"
+                      "hwy: 22.81013<br />displ: 5.351978<br />factor(cyl): 8"
+                      "hwy: 22.98734<br />displ: 5.359472<br />factor(cyl): 8"
+                      "hwy: 23.16456<br />displ: 5.366966<br />factor(cyl): 8"
+                      "hwy: 23.34177<br />displ: 5.374460<br />factor(cyl): 8"
+                      "hwy: 23.51899<br />displ: 5.381954<br />factor(cyl): 8"
+                      "hwy: 23.69620<br />displ: 5.389448<br />factor(cyl): 8"
+                      "hwy: 23.87342<br />displ: 5.396943<br />factor(cyl): 8"
+                      "hwy: 24.05063<br />displ: 5.404437<br />factor(cyl): 8"
+                      "hwy: 24.22785<br />displ: 5.411931<br />factor(cyl): 8"
+                      "hwy: 24.40506<br />displ: 5.419425<br />factor(cyl): 8"
+                      "hwy: 24.58228<br />displ: 5.426919<br />factor(cyl): 8"
+                      "hwy: 24.75949<br />displ: 5.434413<br />factor(cyl): 8"
+                      "hwy: 24.93671<br />displ: 5.441908<br />factor(cyl): 8"
+                      "hwy: 25.11392<br />displ: 5.449402<br />factor(cyl): 8"
+                      "hwy: 25.29114<br />displ: 5.456896<br />factor(cyl): 8"
+                      "hwy: 25.46835<br />displ: 5.464390<br />factor(cyl): 8"
+                      "hwy: 25.64557<br />displ: 5.471884<br />factor(cyl): 8"
+                      "hwy: 25.82278<br />displ: 5.479378<br />factor(cyl): 8"
+                      "hwy: 26.00000<br />displ: 5.486873<br />factor(cyl): 8"]}
+                    {:y
+                     [2.3753054497836
+                      2.36647156844207
+                      2.35761099102247
+                      2.34872135678544
+                      2.33980004216822
+                      2.33084412737202
+                      2.32185035864091
+                      2.31281510582197
+                      2.30373431484324
+                      2.29460345484589
+                      2.28541745988605
+                      2.27617066541384
+                      2.26685674018704
+                      2.25746861494112
+                      2.24799841008142
+                      2.23843736595807
+                      2.22877578099233
+                      2.21900296507358
+                      2.20910721819652
+                      2.19907584707967
+                      2.18889523510872
+                      2.17855098270044
+                      2.16802813506717
+                      2.15731151109246
+                      2.14638613930786
+                      2.1352377940017
+                      2.12385360676099
+                      2.11222270868352
+                      2.1003368407126
+                      2.08819085999095
+                      2.07578307404973
+                      2.06311535398869
+                      2.05019300944329
+                      2.03702444432543
+                      2.0236206434994
+                      2.00999455914631
+                      1.99616046872681
+                      1.98213336633868
+                      1.96792843122872
+                      1.95356059717862
+                      1.93904422895531
+                      1.92439289932431
+                      1.90961925265374
+                      1.8947349380593
+                      1.87975059504803
+                      1.864675876435
+                      1.84951949593206
+                      1.83428929057507
+                      1.81899229068919
+                      1.80363479222013
+                      1.78822242794569
+                      1.77276023535687
+                      1.75725271992685
+                      1.74170391313731
+                      1.72611742507287
+                      1.71049649167952
+                      1.69484401695729
+                      1.6791626104542
+                      1.66345462047278
+                      1.64772216341102
+                      1.63196714964819
+                      1.61619130636205
+                      1.6003961976338
+                      1.58458324216352
+                      1.56875372888578
+                      1.55290883074267
+                      1.5370496168417
+                      1.52117706319858
+                      1.50529206224024
+                      1.48939543122142
+                      1.47348791968873
+                      1.45757021610902
+                      1.44164295376393
+                      1.42570671599941
+                      1.40976204090752
+                      1.39380942550825
+                      1.37784932949011
+                      1.36188217856107
+                      1.34590836745483
+                      1.32992826263188
+                      1.32992826263188
+                      1.73378201307252
+                      1.7423424919474
+                      1.750909264539
+                      1.7594826973078
+                      1.76806318498749
+                      1.77665115328606
+                      1.785247061892
+                      1.79385140782531
+                      1.80246472917806
+                      1.81108760929618
+                      1.81972068146132
+                      1.82836463414033
+                      1.83702021687983
+                      1.84568824693454
+                      1.8543696167314
+                      1.86306530228613
+                      1.87177637270622
+                      1.88050400093378
+                      1.88924947590336
+                      1.89801421631505
+                      1.90679978625006
+                      1.91560791288614
+                      1.92444050660255
+                      1.93329968379729
+                      1.9421877927729
+                      1.95110744307738
+                      1.96006153871077
+                      1.96905331561907
+                      1.97808638388688
+                      1.98716477499589
+                      1.99629299441928
+                      2.00547607964807
+                      2.01471966346002
+                      2.02403004180086
+                      2.03341424499576
+                      2.04288011008056
+                      2.05243635076712
+                      2.06209261987052
+                      2.07185955689778
+                      2.08174881096461
+                      2.09177302643914
+                      2.10194577608687
+                      2.11228142467475
+                      2.12279490598445
+                      2.13350139926278
+                      2.14441589860753
+                      2.15555268147933
+                      2.16692470005931
+                      2.17854293921173
+                      2.19041580284853
+                      2.20254860060515
+                      2.21494320358133
+                      2.22759791930824
+                      2.2405076049286
+                      2.25366400138573
+                      2.26705623977741
+                      2.28067145169064
+                      2.29449541141377
+                      2.30851314747833
+                      2.32270947876788
+                      2.33706945049476
+                      2.35157866307575
+                      2.36622349989653
+                      2.3809912676756
+                      2.3958702664077
+                      2.41084980598219
+                      2.42592018482031
+                      2.44107264327223
+                      2.45629930174326
+                      2.47159309096889
+                      2.48694767970689
+                      2.50235740340737
+                      2.51781719612647
+                      2.53332252700537
+                      2.54886934197209
+                      2.56445401087372
+                      2.58007327995433
+                      2.59572422941514
+                      2.61140423569337
+                      2.62711093804968
+                      2.3753054497836],
+                     :hoveron "points",
+                     :legendgroup "4",
+                     :frame nil,
+                     :fillcolor "rgba(153,153,153,0.4)",
+                     :hoverinfo "x+y",
+                     :name "4",
+                     :fill "toself",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [20
+                      20.3037974683544
+                      20.6075949367089
+                      20.9113924050633
+                      21.2151898734177
+                      21.5189873417722
+                      21.8227848101266
+                      22.126582278481
+                      22.4303797468354
+                      22.7341772151899
+                      23.0379746835443
+                      23.3417721518987
+                      23.6455696202532
+                      23.9493670886076
+                      24.253164556962
+                      24.5569620253165
+                      24.8607594936709
+                      25.1645569620253
+                      25.4683544303797
+                      25.7721518987342
+                      26.0759493670886
+                      26.379746835443
+                      26.6835443037975
+                      26.9873417721519
+                      27.2911392405063
+                      27.5949367088608
+                      27.8987341772152
+                      28.2025316455696
+                      28.5063291139241
+                      28.8101265822785
+                      29.1139240506329
+                      29.4177215189873
+                      29.7215189873418
+                      30.0253164556962
+                      30.3291139240506
+                      30.6329113924051
+                      30.9367088607595
+                      31.2405063291139
+                      31.5443037974684
+                      31.8481012658228
+                      32.1518987341772
+                      32.4556962025316
+                      32.7594936708861
+                      33.0632911392405
+                      33.3670886075949
+                      33.6708860759494
+                      33.9746835443038
+                      34.2784810126582
+                      34.5822784810127
+                      34.8860759493671
+                      35.1898734177215
+                      35.4936708860759
+                      35.7974683544304
+                      36.1012658227848
+                      36.4050632911392
+                      36.7088607594937
+                      37.0126582278481
+                      37.3164556962025
+                      37.620253164557
+                      37.9240506329114
+                      38.2278481012658
+                      38.5316455696203
+                      38.8354430379747
+                      39.1392405063291
+                      39.4430379746835
+                      39.746835443038
+                      40.0506329113924
+                      40.3544303797468
+                      40.6582278481013
+                      40.9620253164557
+                      41.2658227848101
+                      41.5696202531646
+                      41.873417721519
+                      42.1772151898734
+                      42.4810126582278
+                      42.7848101265823
+                      43.0886075949367
+                      43.3924050632911
+                      43.6962025316456
+                      44
+                      44
+                      44
+                      43.6962025316456
+                      43.3924050632911
+                      43.0886075949367
+                      42.7848101265823
+                      42.4810126582278
+                      42.1772151898734
+                      41.873417721519
+                      41.5696202531646
+                      41.2658227848101
+                      40.9620253164557
+                      40.6582278481013
+                      40.3544303797468
+                      40.0506329113924
+                      39.746835443038
+                      39.4430379746835
+                      39.1392405063291
+                      38.8354430379747
+                      38.5316455696203
+                      38.2278481012658
+                      37.9240506329114
+                      37.620253164557
+                      37.3164556962025
+                      37.0126582278481
+                      36.7088607594937
+                      36.4050632911392
+                      36.1012658227848
+                      35.7974683544304
+                      35.4936708860759
+                      35.1898734177215
+                      34.8860759493671
+                      34.5822784810127
+                      34.2784810126582
+                      33.9746835443038
+                      33.6708860759494
+                      33.3670886075949
+                      33.0632911392405
+                      32.7594936708861
+                      32.4556962025316
+                      32.1518987341772
+                      31.8481012658228
+                      31.5443037974684
+                      31.2405063291139
+                      30.9367088607595
+                      30.6329113924051
+                      30.3291139240506
+                      30.0253164556962
+                      29.7215189873418
+                      29.4177215189873
+                      29.1139240506329
+                      28.8101265822785
+                      28.5063291139241
+                      28.2025316455696
+                      27.8987341772152
+                      27.5949367088608
+                      27.2911392405063
+                      26.9873417721519
+                      26.6835443037975
+                      26.379746835443
+                      26.0759493670886
+                      25.7721518987342
+                      25.4683544303797
+                      25.1645569620253
+                      24.8607594936709
+                      24.5569620253165
+                      24.253164556962
+                      23.9493670886076
+                      23.6455696202532
+                      23.3417721518987
+                      23.0379746835443
+                      22.7341772151899
+                      22.4303797468354
+                      22.126582278481
+                      21.8227848101266
+                      21.5189873417722
+                      21.2151898734177
+                      20.9113924050633
+                      20.6075949367089
+                      20.3037974683544
+                      20
+                      20],
+                     :text
+                     ["hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"
+                      "hwy: 20.30380<br />displ: 2.488938<br />factor(cyl): 4"
+                      "hwy: 20.60759<br />displ: 2.476668<br />factor(cyl): 4"
+                      "hwy: 20.91139<br />displ: 2.464397<br />factor(cyl): 4"
+                      "hwy: 21.21519<br />displ: 2.452127<br />factor(cyl): 4"
+                      "hwy: 21.51899<br />displ: 2.439857<br />factor(cyl): 4"
+                      "hwy: 21.82278<br />displ: 2.427586<br />factor(cyl): 4"
+                      "hwy: 22.12658<br />displ: 2.415316<br />factor(cyl): 4"
+                      "hwy: 22.43038<br />displ: 2.403046<br />factor(cyl): 4"
+                      "hwy: 22.73418<br />displ: 2.390776<br />factor(cyl): 4"
+                      "hwy: 23.03797<br />displ: 2.378505<br />factor(cyl): 4"
+                      "hwy: 23.34177<br />displ: 2.366235<br />factor(cyl): 4"
+                      "hwy: 23.64557<br />displ: 2.353965<br />factor(cyl): 4"
+                      "hwy: 23.94937<br />displ: 2.341694<br />factor(cyl): 4"
+                      "hwy: 24.25316<br />displ: 2.329424<br />factor(cyl): 4"
+                      "hwy: 24.55696<br />displ: 2.317154<br />factor(cyl): 4"
+                      "hwy: 24.86076<br />displ: 2.304884<br />factor(cyl): 4"
+                      "hwy: 25.16456<br />displ: 2.292613<br />factor(cyl): 4"
+                      "hwy: 25.46835<br />displ: 2.280343<br />factor(cyl): 4"
+                      "hwy: 25.77215<br />displ: 2.268073<br />factor(cyl): 4"
+                      "hwy: 26.07595<br />displ: 2.255802<br />factor(cyl): 4"
+                      "hwy: 26.37975<br />displ: 2.243532<br />factor(cyl): 4"
+                      "hwy: 26.68354<br />displ: 2.231262<br />factor(cyl): 4"
+                      "hwy: 26.98734<br />displ: 2.218991<br />factor(cyl): 4"
+                      "hwy: 27.29114<br />displ: 2.206721<br />factor(cyl): 4"
+                      "hwy: 27.59494<br />displ: 2.194451<br />factor(cyl): 4"
+                      "hwy: 27.89873<br />displ: 2.182181<br />factor(cyl): 4"
+                      "hwy: 28.20253<br />displ: 2.169910<br />factor(cyl): 4"
+                      "hwy: 28.50633<br />displ: 2.157640<br />factor(cyl): 4"
+                      "hwy: 28.81013<br />displ: 2.145370<br />factor(cyl): 4"
+                      "hwy: 29.11392<br />displ: 2.133099<br />factor(cyl): 4"
+                      "hwy: 29.41772<br />displ: 2.120829<br />factor(cyl): 4"
+                      "hwy: 29.72152<br />displ: 2.108559<br />factor(cyl): 4"
+                      "hwy: 30.02532<br />displ: 2.096289<br />factor(cyl): 4"
+                      "hwy: 30.32911<br />displ: 2.084018<br />factor(cyl): 4"
+                      "hwy: 30.63291<br />displ: 2.071748<br />factor(cyl): 4"
+                      "hwy: 30.93671<br />displ: 2.059478<br />factor(cyl): 4"
+                      "hwy: 31.24051<br />displ: 2.047207<br />factor(cyl): 4"
+                      "hwy: 31.54430<br />displ: 2.034937<br />factor(cyl): 4"
+                      "hwy: 31.84810<br />displ: 2.022667<br />factor(cyl): 4"
+                      "hwy: 32.15190<br />displ: 2.010397<br />factor(cyl): 4"
+                      "hwy: 32.45570<br />displ: 1.998126<br />factor(cyl): 4"
+                      "hwy: 32.75949<br />displ: 1.985856<br />factor(cyl): 4"
+                      "hwy: 33.06329<br />displ: 1.973586<br />factor(cyl): 4"
+                      "hwy: 33.36709<br />displ: 1.961315<br />factor(cyl): 4"
+                      "hwy: 33.67089<br />displ: 1.949045<br />factor(cyl): 4"
+                      "hwy: 33.97468<br />displ: 1.936775<br />factor(cyl): 4"
+                      "hwy: 34.27848<br />displ: 1.924504<br />factor(cyl): 4"
+                      "hwy: 34.58228<br />displ: 1.912234<br />factor(cyl): 4"
+                      "hwy: 34.88608<br />displ: 1.899964<br />factor(cyl): 4"
+                      "hwy: 35.18987<br />displ: 1.887694<br />factor(cyl): 4"
+                      "hwy: 35.49367<br />displ: 1.875423<br />factor(cyl): 4"
+                      "hwy: 35.79747<br />displ: 1.863153<br />factor(cyl): 4"
+                      "hwy: 36.10127<br />displ: 1.850883<br />factor(cyl): 4"
+                      "hwy: 36.40506<br />displ: 1.838612<br />factor(cyl): 4"
+                      "hwy: 36.70886<br />displ: 1.826342<br />factor(cyl): 4"
+                      "hwy: 37.01266<br />displ: 1.814072<br />factor(cyl): 4"
+                      "hwy: 37.31646<br />displ: 1.801802<br />factor(cyl): 4"
+                      "hwy: 37.62025<br />displ: 1.789531<br />factor(cyl): 4"
+                      "hwy: 37.92405<br />displ: 1.777261<br />factor(cyl): 4"
+                      "hwy: 38.22785<br />displ: 1.764991<br />factor(cyl): 4"
+                      "hwy: 38.53165<br />displ: 1.752720<br />factor(cyl): 4"
+                      "hwy: 38.83544<br />displ: 1.740450<br />factor(cyl): 4"
+                      "hwy: 39.13924<br />displ: 1.728180<br />factor(cyl): 4"
+                      "hwy: 39.44304<br />displ: 1.715910<br />factor(cyl): 4"
+                      "hwy: 39.74684<br />displ: 1.703639<br />factor(cyl): 4"
+                      "hwy: 40.05063<br />displ: 1.691369<br />factor(cyl): 4"
+                      "hwy: 40.35443<br />displ: 1.679099<br />factor(cyl): 4"
+                      "hwy: 40.65823<br />displ: 1.666828<br />factor(cyl): 4"
+                      "hwy: 40.96203<br />displ: 1.654558<br />factor(cyl): 4"
+                      "hwy: 41.26582<br />displ: 1.642288<br />factor(cyl): 4"
+                      "hwy: 41.56962<br />displ: 1.630017<br />factor(cyl): 4"
+                      "hwy: 41.87342<br />displ: 1.617747<br />factor(cyl): 4"
+                      "hwy: 42.17722<br />displ: 1.605477<br />factor(cyl): 4"
+                      "hwy: 42.48101<br />displ: 1.593207<br />factor(cyl): 4"
+                      "hwy: 42.78481<br />displ: 1.580936<br />factor(cyl): 4"
+                      "hwy: 43.08861<br />displ: 1.568666<br />factor(cyl): 4"
+                      "hwy: 43.39241<br />displ: 1.556396<br />factor(cyl): 4"
+                      "hwy: 43.69620<br />displ: 1.544125<br />factor(cyl): 4"
+                      "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"
+                      "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"
+                      "hwy: 44.00000<br />displ: 1.531855<br />factor(cyl): 4"
+                      "hwy: 43.69620<br />displ: 1.544125<br />factor(cyl): 4"
+                      "hwy: 43.39241<br />displ: 1.556396<br />factor(cyl): 4"
+                      "hwy: 43.08861<br />displ: 1.568666<br />factor(cyl): 4"
+                      "hwy: 42.78481<br />displ: 1.580936<br />factor(cyl): 4"
+                      "hwy: 42.48101<br />displ: 1.593207<br />factor(cyl): 4"
+                      "hwy: 42.17722<br />displ: 1.605477<br />factor(cyl): 4"
+                      "hwy: 41.87342<br />displ: 1.617747<br />factor(cyl): 4"
+                      "hwy: 41.56962<br />displ: 1.630017<br />factor(cyl): 4"
+                      "hwy: 41.26582<br />displ: 1.642288<br />factor(cyl): 4"
+                      "hwy: 40.96203<br />displ: 1.654558<br />factor(cyl): 4"
+                      "hwy: 40.65823<br />displ: 1.666828<br />factor(cyl): 4"
+                      "hwy: 40.35443<br />displ: 1.679099<br />factor(cyl): 4"
+                      "hwy: 40.05063<br />displ: 1.691369<br />factor(cyl): 4"
+                      "hwy: 39.74684<br />displ: 1.703639<br />factor(cyl): 4"
+                      "hwy: 39.44304<br />displ: 1.715910<br />factor(cyl): 4"
+                      "hwy: 39.13924<br />displ: 1.728180<br />factor(cyl): 4"
+                      "hwy: 38.83544<br />displ: 1.740450<br />factor(cyl): 4"
+                      "hwy: 38.53165<br />displ: 1.752720<br />factor(cyl): 4"
+                      "hwy: 38.22785<br />displ: 1.764991<br />factor(cyl): 4"
+                      "hwy: 37.92405<br />displ: 1.777261<br />factor(cyl): 4"
+                      "hwy: 37.62025<br />displ: 1.789531<br />factor(cyl): 4"
+                      "hwy: 37.31646<br />displ: 1.801802<br />factor(cyl): 4"
+                      "hwy: 37.01266<br />displ: 1.814072<br />factor(cyl): 4"
+                      "hwy: 36.70886<br />displ: 1.826342<br />factor(cyl): 4"
+                      "hwy: 36.40506<br />displ: 1.838612<br />factor(cyl): 4"
+                      "hwy: 36.10127<br />displ: 1.850883<br />factor(cyl): 4"
+                      "hwy: 35.79747<br />displ: 1.863153<br />factor(cyl): 4"
+                      "hwy: 35.49367<br />displ: 1.875423<br />factor(cyl): 4"
+                      "hwy: 35.18987<br />displ: 1.887694<br />factor(cyl): 4"
+                      "hwy: 34.88608<br />displ: 1.899964<br />factor(cyl): 4"
+                      "hwy: 34.58228<br />displ: 1.912234<br />factor(cyl): 4"
+                      "hwy: 34.27848<br />displ: 1.924504<br />factor(cyl): 4"
+                      "hwy: 33.97468<br />displ: 1.936775<br />factor(cyl): 4"
+                      "hwy: 33.67089<br />displ: 1.949045<br />factor(cyl): 4"
+                      "hwy: 33.36709<br />displ: 1.961315<br />factor(cyl): 4"
+                      "hwy: 33.06329<br />displ: 1.973586<br />factor(cyl): 4"
+                      "hwy: 32.75949<br />displ: 1.985856<br />factor(cyl): 4"
+                      "hwy: 32.45570<br />displ: 1.998126<br />factor(cyl): 4"
+                      "hwy: 32.15190<br />displ: 2.010397<br />factor(cyl): 4"
+                      "hwy: 31.84810<br />displ: 2.022667<br />factor(cyl): 4"
+                      "hwy: 31.54430<br />displ: 2.034937<br />factor(cyl): 4"
+                      "hwy: 31.24051<br />displ: 2.047207<br />factor(cyl): 4"
+                      "hwy: 30.93671<br />displ: 2.059478<br />factor(cyl): 4"
+                      "hwy: 30.63291<br />displ: 2.071748<br />factor(cyl): 4"
+                      "hwy: 30.32911<br />displ: 2.084018<br />factor(cyl): 4"
+                      "hwy: 30.02532<br />displ: 2.096289<br />factor(cyl): 4"
+                      "hwy: 29.72152<br />displ: 2.108559<br />factor(cyl): 4"
+                      "hwy: 29.41772<br />displ: 2.120829<br />factor(cyl): 4"
+                      "hwy: 29.11392<br />displ: 2.133099<br />factor(cyl): 4"
+                      "hwy: 28.81013<br />displ: 2.145370<br />factor(cyl): 4"
+                      "hwy: 28.50633<br />displ: 2.157640<br />factor(cyl): 4"
+                      "hwy: 28.20253<br />displ: 2.169910<br />factor(cyl): 4"
+                      "hwy: 27.89873<br />displ: 2.182181<br />factor(cyl): 4"
+                      "hwy: 27.59494<br />displ: 2.194451<br />factor(cyl): 4"
+                      "hwy: 27.29114<br />displ: 2.206721<br />factor(cyl): 4"
+                      "hwy: 26.98734<br />displ: 2.218991<br />factor(cyl): 4"
+                      "hwy: 26.68354<br />displ: 2.231262<br />factor(cyl): 4"
+                      "hwy: 26.37975<br />displ: 2.243532<br />factor(cyl): 4"
+                      "hwy: 26.07595<br />displ: 2.255802<br />factor(cyl): 4"
+                      "hwy: 25.77215<br />displ: 2.268073<br />factor(cyl): 4"
+                      "hwy: 25.46835<br />displ: 2.280343<br />factor(cyl): 4"
+                      "hwy: 25.16456<br />displ: 2.292613<br />factor(cyl): 4"
+                      "hwy: 24.86076<br />displ: 2.304884<br />factor(cyl): 4"
+                      "hwy: 24.55696<br />displ: 2.317154<br />factor(cyl): 4"
+                      "hwy: 24.25316<br />displ: 2.329424<br />factor(cyl): 4"
+                      "hwy: 23.94937<br />displ: 2.341694<br />factor(cyl): 4"
+                      "hwy: 23.64557<br />displ: 2.353965<br />factor(cyl): 4"
+                      "hwy: 23.34177<br />displ: 2.366235<br />factor(cyl): 4"
+                      "hwy: 23.03797<br />displ: 2.378505<br />factor(cyl): 4"
+                      "hwy: 22.73418<br />displ: 2.390776<br />factor(cyl): 4"
+                      "hwy: 22.43038<br />displ: 2.403046<br />factor(cyl): 4"
+                      "hwy: 22.12658<br />displ: 2.415316<br />factor(cyl): 4"
+                      "hwy: 21.82278<br />displ: 2.427586<br />factor(cyl): 4"
+                      "hwy: 21.51899<br />displ: 2.439857<br />factor(cyl): 4"
+                      "hwy: 21.21519<br />displ: 2.452127<br />factor(cyl): 4"
+                      "hwy: 20.91139<br />displ: 2.464397<br />factor(cyl): 4"
+                      "hwy: 20.60759<br />displ: 2.476668<br />factor(cyl): 4"
+                      "hwy: 20.30380<br />displ: 2.488938<br />factor(cyl): 4"
+                      "hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"
+                      "hwy: 20.00000<br />displ: 2.501208<br />factor(cyl): 4"]}
+                    {:y
+                     [2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5
+                      2.5],
+                     :hoveron "points",
+                     :legendgroup "5",
+                     :frame nil,
+                     :fillcolor "rgba(153,153,153,0.4)",
+                     :hoverinfo "x+y",
+                     :name "5",
+                     :fill "toself",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [28
+                      28.0126582278481
+                      28.0253164556962
+                      28.0379746835443
+                      28.0506329113924
+                      28.0632911392405
+                      28.0759493670886
+                      28.0886075949367
+                      28.1012658227848
+                      28.1139240506329
+                      28.126582278481
+                      28.1392405063291
+                      28.1518987341772
+                      28.1645569620253
+                      28.1772151898734
+                      28.1898734177215
+                      28.2025316455696
+                      28.2151898734177
+                      28.2278481012658
+                      28.2405063291139
+                      28.253164556962
+                      28.2658227848101
+                      28.2784810126582
+                      28.2911392405063
+                      28.3037974683544
+                      28.3164556962025
+                      28.3291139240506
+                      28.3417721518987
+                      28.3544303797468
+                      28.3670886075949
+                      28.379746835443
+                      28.3924050632911
+                      28.4050632911392
+                      28.4177215189873
+                      28.4303797468354
+                      28.4430379746835
+                      28.4556962025316
+                      28.4683544303797
+                      28.4810126582278
+                      28.493670886076
+                      28.506329113924
+                      28.5189873417722
+                      28.5316455696203
+                      28.5443037974684
+                      28.5569620253165
+                      28.5696202531646
+                      28.5822784810127
+                      28.5949367088608
+                      28.6075949367089
+                      28.620253164557
+                      28.6329113924051
+                      28.6455696202532
+                      28.6582278481013
+                      28.6708860759494
+                      28.6835443037975
+                      28.6962025316456
+                      28.7088607594937
+                      28.7215189873418
+                      28.7341772151899
+                      28.746835443038
+                      28.7594936708861
+                      28.7721518987342
+                      28.7848101265823
+                      28.7974683544304
+                      28.8101265822785
+                      28.8227848101266
+                      28.8354430379747
+                      28.8481012658228
+                      28.8607594936709
+                      28.873417721519
+                      28.8860759493671
+                      28.8987341772152
+                      28.9113924050633
+                      28.9240506329114
+                      28.9367088607595
+                      28.9493670886076
+                      28.9620253164557
+                      28.9746835443038
+                      28.9873417721519
+                      29
+                      29
+                      28.9873417721519
+                      28.9746835443038
+                      28.9620253164557
+                      28.9493670886076
+                      28.9367088607595
+                      28.9240506329114
+                      28.9113924050633
+                      28.8987341772152
+                      28.8860759493671
+                      28.873417721519
+                      28.8607594936709
+                      28.8481012658228
+                      28.8354430379747
+                      28.8227848101266
+                      28.8101265822785
+                      28.7974683544304
+                      28.7848101265823
+                      28.7721518987342
+                      28.7594936708861
+                      28.746835443038
+                      28.7341772151899
+                      28.7215189873418
+                      28.7088607594937
+                      28.6962025316456
+                      28.6835443037975
+                      28.6708860759494
+                      28.6582278481013
+                      28.6455696202532
+                      28.6329113924051
+                      28.620253164557
+                      28.6075949367089
+                      28.5949367088608
+                      28.5822784810127
+                      28.5696202531646
+                      28.5569620253165
+                      28.5443037974684
+                      28.5316455696203
+                      28.5189873417722
+                      28.506329113924
+                      28.493670886076
+                      28.4810126582278
+                      28.4683544303797
+                      28.4556962025316
+                      28.4430379746835
+                      28.4303797468354
+                      28.4177215189873
+                      28.4050632911392
+                      28.3924050632911
+                      28.379746835443
+                      28.3670886075949
+                      28.3544303797468
+                      28.3417721518987
+                      28.3291139240506
+                      28.3164556962025
+                      28.3037974683544
+                      28.2911392405063
+                      28.2784810126582
+                      28.2658227848101
+                      28.253164556962
+                      28.2405063291139
+                      28.2278481012658
+                      28.2151898734177
+                      28.2025316455696
+                      28.1898734177215
+                      28.1772151898734
+                      28.1645569620253
+                      28.1518987341772
+                      28.1392405063291
+                      28.126582278481
+                      28.1139240506329
+                      28.1012658227848
+                      28.0886075949367
+                      28.0759493670886
+                      28.0632911392405
+                      28.0506329113924
+                      28.0379746835443
+                      28.0253164556962
+                      28.0126582278481
+                      28
+                      28],
+                     :text
+                     ["hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.01266<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.02532<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.03797<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.05063<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.06329<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.07595<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.08861<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.10127<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.11392<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.12658<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.13924<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.15190<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.16456<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.17722<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.18987<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.20253<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.21519<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.22785<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.24051<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.25316<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.26582<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.27848<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.29114<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.30380<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.31646<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.32911<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.34177<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.35443<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.36709<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.37975<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.39241<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.40506<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.41772<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.43038<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.44304<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.45570<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.46835<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.48101<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.49367<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.50633<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.51899<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.53165<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.54430<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.55696<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.56962<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.58228<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.59494<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.60759<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.62025<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.63291<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.64557<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.65823<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.67089<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.68354<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.69620<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.70886<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.72152<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.73418<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.74684<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.75949<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.77215<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.78481<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.79747<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.81013<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.82278<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.83544<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.84810<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.86076<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.87342<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.88608<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.89873<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.91139<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.92405<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.93671<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.94937<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.96203<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.97468<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.98734<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 29.00000<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 29.00000<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.98734<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.97468<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.96203<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.94937<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.93671<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.92405<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.91139<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.89873<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.88608<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.87342<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.86076<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.84810<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.83544<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.82278<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.81013<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.79747<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.78481<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.77215<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.75949<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.74684<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.73418<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.72152<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.70886<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.69620<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.68354<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.67089<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.65823<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.64557<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.63291<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.62025<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.60759<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.59494<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.58228<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.56962<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.55696<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.54430<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.53165<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.51899<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.50633<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.49367<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.48101<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.46835<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.45570<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.44304<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.43038<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.41772<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.40506<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.39241<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.37975<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.36709<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.35443<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.34177<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.32911<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.31646<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.30380<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.29114<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.27848<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.26582<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.25316<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.24051<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.22785<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.21519<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.20253<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.18987<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.17722<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.16456<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.15190<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.13924<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.12658<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.11392<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.10127<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.08861<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.07595<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.06329<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.05063<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.03797<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.02532<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.01266<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"
+                      "hwy: 28.00000<br />displ: 2.500000<br />factor(cyl): 5"]}
+                    {:y
+                     [3.61600489593574
+                      3.60931776745941
+                      3.60260548899382
+                      3.59586658472878
+                      3.58909947498345
+                      3.58230246851024
+                      3.57547375433741
+                      3.56861139316198
+                      3.5617133083185
+                      3.55477727636655
+                      3.54780091736159
+                      3.54078168490152
+                      3.53371685607453
+                      3.52660352147489
+                      3.51943857550168
+                      3.51221870721309
+                      3.50494039207485
+                      3.49759988501647
+                      3.49019321529189
+                      3.48271618372971
+                      3.47516436304925
+                      3.4675331020071
+                      3.45981753421612
+                      3.45201259253624
+                      3.44411302995961
+                      3.43611344788795
+                      3.42800833260882
+                      3.4197921006043
+                      3.41145915305419
+                      3.40300393951687
+                      3.39442103028379
+                      3.38570519632044
+                      3.37685149505605
+                      3.36785535961458
+                      3.35871268845293
+                      3.34941993186712
+                      3.33997417152084
+                      3.33037318911299
+                      3.32061552057831
+                      3.31070049281553
+                      3.30062824082956
+                      3.29039970428028
+                      3.2800166036418
+                      3.26948139736595
+                      3.25879722248927
+                      3.24796782192401
+                      3.23699746216793
+                      3.225890845337
+                      3.21465301929127
+                      3.20328928924313
+                      3.19180513368247
+                      3.18020612680459
+                      3.16849786895659
+                      3.15668592598599
+                      3.14477577782149
+                      3.13277277616416
+                      3.12068211082502
+                      3.1085087840074
+                      3.09625759168874
+                      3.08393311118931
+                      3.07153969400827
+                      3.05908146304406
+                      3.04656231338097
+                      3.03398591590609
+                      3.02135572311072
+                      3.00867497652094
+                      2.99594671528937
+                      2.98317378556017
+                      2.97035885029196
+                      2.95750439928595
+                      2.94461275922153
+                      2.93168610354716
+                      2.91872646211268
+                      2.90573573046077
+                      2.89271567872062
+                      2.87966796006716
+                      2.86659411872548
+                      2.85349559751232
+                      2.84037374491611
+                      2.82722982172417
+                      3.18620354904355
+                      3.19283720326685
+                      3.19949292808588
+                      3.20617198428796
+                      3.21287572036151
+                      3.21960557912329
+                      3.22636310479837
+                      3.2331499505617
+                      3.23996788654246
+                      3.24681880828332
+                      3.25370474563414
+                      3.26062787204337
+                      3.26759051419039
+                      3.27459516187643
+                      3.28164447806009
+                      3.28874130888555
+                      3.29588869350541
+                      3.30308987344578
+                      3.31034830119792
+                      3.31766764764895
+                      3.32505180788315
+                      3.33250490479895
+                      3.34003128989553
+                      3.34763554049315
+                      3.35532245256924
+                      3.36309702832714
+                      3.37096445757788
+                      3.37893009202252
+                      3.38699941158976
+                      3.39517798212711
+                      3.40347140398169
+                      3.41188525134878
+                      3.42042500271829
+                      3.4290959633026
+                      3.43790318096175
+                      3.44685135781173
+                      3.45594476035029
+                      3.46518713148967
+                      3.47458160826643
+                      3.48413064913239
+                      3.49383597456165
+                      3.50369852421411
+                      3.51371843309467
+                      3.52389502810205
+                      3.53422684517101
+                      3.54471166600044
+                      3.55534657225402
+                      3.56612801422779
+                      3.57705189037864
+                      3.58811363383052
+                      3.59930830201268
+                      3.6106306658906
+                      3.62207529575572
+                      3.63363664116644
+                      3.64530910330255
+                      3.65708709864612
+                      3.66896511348473
+                      3.68093774922009
+                      3.69299975884434
+                      3.70514607521743
+                      3.7173718319522
+                      3.72967237780526
+                      3.74204328549592
+                      3.75448035585278
+                      3.76697961812977
+                      3.77953732725642
+                      3.79214995869845
+                      3.80481420151404
+                      3.81752695010229
+                      3.83028529505745
+                      3.84308651346773
+                      3.85592805893101
+                      3.86880755150277
+                      3.88172276774258
+                      3.89467163098498
+                      3.90765220192701
+                      3.92066266959691
+                      3.93370134274711
+                      3.94676664169676
+                      3.95985709063567
+                      3.61600489593574],
+                     :hoveron "points",
+                     :legendgroup "6",
+                     :frame nil,
+                     :fillcolor "rgba(153,153,153,0.4)",
+                     :hoverinfo "x+y",
+                     :name "6",
+                     :fill "toself",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [17
+                      17.1518987341772
+                      17.3037974683544
+                      17.4556962025316
+                      17.6075949367089
+                      17.7594936708861
+                      17.9113924050633
+                      18.0632911392405
+                      18.2151898734177
+                      18.3670886075949
+                      18.5189873417722
+                      18.6708860759494
+                      18.8227848101266
+                      18.9746835443038
+                      19.126582278481
+                      19.2784810126582
+                      19.4303797468354
+                      19.5822784810127
+                      19.7341772151899
+                      19.8860759493671
+                      20.0379746835443
+                      20.1898734177215
+                      20.3417721518987
+                      20.493670886076
+                      20.6455696202532
+                      20.7974683544304
+                      20.9493670886076
+                      21.1012658227848
+                      21.253164556962
+                      21.4050632911392
+                      21.5569620253165
+                      21.7088607594937
+                      21.8607594936709
+                      22.0126582278481
+                      22.1645569620253
+                      22.3164556962025
+                      22.4683544303797
+                      22.620253164557
+                      22.7721518987342
+                      22.9240506329114
+                      23.0759493670886
+                      23.2278481012658
+                      23.379746835443
+                      23.5316455696203
+                      23.6835443037975
+                      23.8354430379747
+                      23.9873417721519
+                      24.1392405063291
+                      24.2911392405063
+                      24.4430379746835
+                      24.5949367088608
+                      24.746835443038
+                      24.8987341772152
+                      25.0506329113924
+                      25.2025316455696
+                      25.3544303797468
+                      25.5063291139241
+                      25.6582278481013
+                      25.8101265822785
+                      25.9620253164557
+                      26.1139240506329
+                      26.2658227848101
+                      26.4177215189873
+                      26.5696202531646
+                      26.7215189873418
+                      26.873417721519
+                      27.0253164556962
+                      27.1772151898734
+                      27.3291139240506
+                      27.4810126582278
+                      27.6329113924051
+                      27.7848101265823
+                      27.9367088607595
+                      28.0886075949367
+                      28.2405063291139
+                      28.3924050632911
+                      28.5443037974684
+                      28.6962025316456
+                      28.8481012658228
+                      29
+                      29
+                      28.8481012658228
+                      28.6962025316456
+                      28.5443037974684
+                      28.3924050632911
+                      28.2405063291139
+                      28.0886075949367
+                      27.9367088607595
+                      27.7848101265823
+                      27.6329113924051
+                      27.4810126582278
+                      27.3291139240506
+                      27.1772151898734
+                      27.0253164556962
+                      26.873417721519
+                      26.7215189873418
+                      26.5696202531646
+                      26.4177215189873
+                      26.2658227848101
+                      26.1139240506329
+                      25.9620253164557
+                      25.8101265822785
+                      25.6582278481013
+                      25.5063291139241
+                      25.3544303797468
+                      25.2025316455696
+                      25.0506329113924
+                      24.8987341772152
+                      24.746835443038
+                      24.5949367088608
+                      24.4430379746835
+                      24.2911392405063
+                      24.1392405063291
+                      23.9873417721519
+                      23.8354430379747
+                      23.6835443037975
+                      23.5316455696203
+                      23.379746835443
+                      23.2278481012658
+                      23.0759493670886
+                      22.9240506329114
+                      22.7721518987342
+                      22.620253164557
+                      22.4683544303797
+                      22.3164556962025
+                      22.1645569620253
+                      22.0126582278481
+                      21.8607594936709
+                      21.7088607594937
+                      21.5569620253165
+                      21.4050632911392
+                      21.253164556962
+                      21.1012658227848
+                      20.9493670886076
+                      20.7974683544304
+                      20.6455696202532
+                      20.493670886076
+                      20.3417721518987
+                      20.1898734177215
+                      20.0379746835443
+                      19.8860759493671
+                      19.7341772151899
+                      19.5822784810127
+                      19.4303797468354
+                      19.2784810126582
+                      19.126582278481
+                      18.9746835443038
+                      18.8227848101266
+                      18.6708860759494
+                      18.5189873417722
+                      18.3670886075949
+                      18.2151898734177
+                      18.0632911392405
+                      17.9113924050633
+                      17.7594936708861
+                      17.6075949367089
+                      17.4556962025316
+                      17.3037974683544
+                      17.1518987341772
+                      17
+                      17],
+                     :text
+                     ["hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"
+                      "hwy: 17.15190<br />displ: 3.778042<br />factor(cyl): 6"
+                      "hwy: 17.30380<br />displ: 3.768153<br />factor(cyl): 6"
+                      "hwy: 17.45570<br />displ: 3.758265<br />factor(cyl): 6"
+                      "hwy: 17.60759<br />displ: 3.748376<br />factor(cyl): 6"
+                      "hwy: 17.75949<br />displ: 3.738487<br />factor(cyl): 6"
+                      "hwy: 17.91139<br />displ: 3.728598<br />factor(cyl): 6"
+                      "hwy: 18.06329<br />displ: 3.718709<br />factor(cyl): 6"
+                      "hwy: 18.21519<br />displ: 3.708821<br />factor(cyl): 6"
+                      "hwy: 18.36709<br />displ: 3.698932<br />factor(cyl): 6"
+                      "hwy: 18.51899<br />displ: 3.689043<br />factor(cyl): 6"
+                      "hwy: 18.67089<br />displ: 3.679154<br />factor(cyl): 6"
+                      "hwy: 18.82278<br />displ: 3.669266<br />factor(cyl): 6"
+                      "hwy: 18.97468<br />displ: 3.659377<br />factor(cyl): 6"
+                      "hwy: 19.12658<br />displ: 3.649488<br />factor(cyl): 6"
+                      "hwy: 19.27848<br />displ: 3.639599<br />factor(cyl): 6"
+                      "hwy: 19.43038<br />displ: 3.629710<br />factor(cyl): 6"
+                      "hwy: 19.58228<br />displ: 3.619822<br />factor(cyl): 6"
+                      "hwy: 19.73418<br />displ: 3.609933<br />factor(cyl): 6"
+                      "hwy: 19.88608<br />displ: 3.600044<br />factor(cyl): 6"
+                      "hwy: 20.03797<br />displ: 3.590155<br />factor(cyl): 6"
+                      "hwy: 20.18987<br />displ: 3.580266<br />factor(cyl): 6"
+                      "hwy: 20.34177<br />displ: 3.570378<br />factor(cyl): 6"
+                      "hwy: 20.49367<br />displ: 3.560489<br />factor(cyl): 6"
+                      "hwy: 20.64557<br />displ: 3.550600<br />factor(cyl): 6"
+                      "hwy: 20.79747<br />displ: 3.540711<br />factor(cyl): 6"
+                      "hwy: 20.94937<br />displ: 3.530822<br />factor(cyl): 6"
+                      "hwy: 21.10127<br />displ: 3.520934<br />factor(cyl): 6"
+                      "hwy: 21.25316<br />displ: 3.511045<br />factor(cyl): 6"
+                      "hwy: 21.40506<br />displ: 3.501156<br />factor(cyl): 6"
+                      "hwy: 21.55696<br />displ: 3.491267<br />factor(cyl): 6"
+                      "hwy: 21.70886<br />displ: 3.481379<br />factor(cyl): 6"
+                      "hwy: 21.86076<br />displ: 3.471490<br />factor(cyl): 6"
+                      "hwy: 22.01266<br />displ: 3.461601<br />factor(cyl): 6"
+                      "hwy: 22.16456<br />displ: 3.451712<br />factor(cyl): 6"
+                      "hwy: 22.31646<br />displ: 3.441823<br />factor(cyl): 6"
+                      "hwy: 22.46835<br />displ: 3.431935<br />factor(cyl): 6"
+                      "hwy: 22.62025<br />displ: 3.422046<br />factor(cyl): 6"
+                      "hwy: 22.77215<br />displ: 3.412157<br />factor(cyl): 6"
+                      "hwy: 22.92405<br />displ: 3.402268<br />factor(cyl): 6"
+                      "hwy: 23.07595<br />displ: 3.392379<br />factor(cyl): 6"
+                      "hwy: 23.22785<br />displ: 3.382491<br />factor(cyl): 6"
+                      "hwy: 23.37975<br />displ: 3.372602<br />factor(cyl): 6"
+                      "hwy: 23.53165<br />displ: 3.362713<br />factor(cyl): 6"
+                      "hwy: 23.68354<br />displ: 3.352824<br />factor(cyl): 6"
+                      "hwy: 23.83544<br />displ: 3.342936<br />factor(cyl): 6"
+                      "hwy: 23.98734<br />displ: 3.333047<br />factor(cyl): 6"
+                      "hwy: 24.13924<br />displ: 3.323158<br />factor(cyl): 6"
+                      "hwy: 24.29114<br />displ: 3.313269<br />factor(cyl): 6"
+                      "hwy: 24.44304<br />displ: 3.303380<br />factor(cyl): 6"
+                      "hwy: 24.59494<br />displ: 3.293492<br />factor(cyl): 6"
+                      "hwy: 24.74684<br />displ: 3.283603<br />factor(cyl): 6"
+                      "hwy: 24.89873<br />displ: 3.273714<br />factor(cyl): 6"
+                      "hwy: 25.05063<br />displ: 3.263825<br />factor(cyl): 6"
+                      "hwy: 25.20253<br />displ: 3.253936<br />factor(cyl): 6"
+                      "hwy: 25.35443<br />displ: 3.244048<br />factor(cyl): 6"
+                      "hwy: 25.50633<br />displ: 3.234159<br />factor(cyl): 6"
+                      "hwy: 25.65823<br />displ: 3.224270<br />factor(cyl): 6"
+                      "hwy: 25.81013<br />displ: 3.214381<br />factor(cyl): 6"
+                      "hwy: 25.96203<br />displ: 3.204492<br />factor(cyl): 6"
+                      "hwy: 26.11392<br />displ: 3.194604<br />factor(cyl): 6"
+                      "hwy: 26.26582<br />displ: 3.184715<br />factor(cyl): 6"
+                      "hwy: 26.41772<br />displ: 3.174826<br />factor(cyl): 6"
+                      "hwy: 26.56962<br />displ: 3.164937<br />factor(cyl): 6"
+                      "hwy: 26.72152<br />displ: 3.155049<br />factor(cyl): 6"
+                      "hwy: 26.87342<br />displ: 3.145160<br />factor(cyl): 6"
+                      "hwy: 27.02532<br />displ: 3.135271<br />factor(cyl): 6"
+                      "hwy: 27.17722<br />displ: 3.125382<br />factor(cyl): 6"
+                      "hwy: 27.32911<br />displ: 3.115493<br />factor(cyl): 6"
+                      "hwy: 27.48101<br />displ: 3.105605<br />factor(cyl): 6"
+                      "hwy: 27.63291<br />displ: 3.095716<br />factor(cyl): 6"
+                      "hwy: 27.78481<br />displ: 3.085827<br />factor(cyl): 6"
+                      "hwy: 27.93671<br />displ: 3.075938<br />factor(cyl): 6"
+                      "hwy: 28.08861<br />displ: 3.066049<br />factor(cyl): 6"
+                      "hwy: 28.24051<br />displ: 3.056161<br />factor(cyl): 6"
+                      "hwy: 28.39241<br />displ: 3.046272<br />factor(cyl): 6"
+                      "hwy: 28.54430<br />displ: 3.036383<br />factor(cyl): 6"
+                      "hwy: 28.69620<br />displ: 3.026494<br />factor(cyl): 6"
+                      "hwy: 28.84810<br />displ: 3.016605<br />factor(cyl): 6"
+                      "hwy: 29.00000<br />displ: 3.006717<br />factor(cyl): 6"
+                      "hwy: 29.00000<br />displ: 3.006717<br />factor(cyl): 6"
+                      "hwy: 28.84810<br />displ: 3.016605<br />factor(cyl): 6"
+                      "hwy: 28.69620<br />displ: 3.026494<br />factor(cyl): 6"
+                      "hwy: 28.54430<br />displ: 3.036383<br />factor(cyl): 6"
+                      "hwy: 28.39241<br />displ: 3.046272<br />factor(cyl): 6"
+                      "hwy: 28.24051<br />displ: 3.056161<br />factor(cyl): 6"
+                      "hwy: 28.08861<br />displ: 3.066049<br />factor(cyl): 6"
+                      "hwy: 27.93671<br />displ: 3.075938<br />factor(cyl): 6"
+                      "hwy: 27.78481<br />displ: 3.085827<br />factor(cyl): 6"
+                      "hwy: 27.63291<br />displ: 3.095716<br />factor(cyl): 6"
+                      "hwy: 27.48101<br />displ: 3.105605<br />factor(cyl): 6"
+                      "hwy: 27.32911<br />displ: 3.115493<br />factor(cyl): 6"
+                      "hwy: 27.17722<br />displ: 3.125382<br />factor(cyl): 6"
+                      "hwy: 27.02532<br />displ: 3.135271<br />factor(cyl): 6"
+                      "hwy: 26.87342<br />displ: 3.145160<br />factor(cyl): 6"
+                      "hwy: 26.72152<br />displ: 3.155049<br />factor(cyl): 6"
+                      "hwy: 26.56962<br />displ: 3.164937<br />factor(cyl): 6"
+                      "hwy: 26.41772<br />displ: 3.174826<br />factor(cyl): 6"
+                      "hwy: 26.26582<br />displ: 3.184715<br />factor(cyl): 6"
+                      "hwy: 26.11392<br />displ: 3.194604<br />factor(cyl): 6"
+                      "hwy: 25.96203<br />displ: 3.204492<br />factor(cyl): 6"
+                      "hwy: 25.81013<br />displ: 3.214381<br />factor(cyl): 6"
+                      "hwy: 25.65823<br />displ: 3.224270<br />factor(cyl): 6"
+                      "hwy: 25.50633<br />displ: 3.234159<br />factor(cyl): 6"
+                      "hwy: 25.35443<br />displ: 3.244048<br />factor(cyl): 6"
+                      "hwy: 25.20253<br />displ: 3.253936<br />factor(cyl): 6"
+                      "hwy: 25.05063<br />displ: 3.263825<br />factor(cyl): 6"
+                      "hwy: 24.89873<br />displ: 3.273714<br />factor(cyl): 6"
+                      "hwy: 24.74684<br />displ: 3.283603<br />factor(cyl): 6"
+                      "hwy: 24.59494<br />displ: 3.293492<br />factor(cyl): 6"
+                      "hwy: 24.44304<br />displ: 3.303380<br />factor(cyl): 6"
+                      "hwy: 24.29114<br />displ: 3.313269<br />factor(cyl): 6"
+                      "hwy: 24.13924<br />displ: 3.323158<br />factor(cyl): 6"
+                      "hwy: 23.98734<br />displ: 3.333047<br />factor(cyl): 6"
+                      "hwy: 23.83544<br />displ: 3.342936<br />factor(cyl): 6"
+                      "hwy: 23.68354<br />displ: 3.352824<br />factor(cyl): 6"
+                      "hwy: 23.53165<br />displ: 3.362713<br />factor(cyl): 6"
+                      "hwy: 23.37975<br />displ: 3.372602<br />factor(cyl): 6"
+                      "hwy: 23.22785<br />displ: 3.382491<br />factor(cyl): 6"
+                      "hwy: 23.07595<br />displ: 3.392379<br />factor(cyl): 6"
+                      "hwy: 22.92405<br />displ: 3.402268<br />factor(cyl): 6"
+                      "hwy: 22.77215<br />displ: 3.412157<br />factor(cyl): 6"
+                      "hwy: 22.62025<br />displ: 3.422046<br />factor(cyl): 6"
+                      "hwy: 22.46835<br />displ: 3.431935<br />factor(cyl): 6"
+                      "hwy: 22.31646<br />displ: 3.441823<br />factor(cyl): 6"
+                      "hwy: 22.16456<br />displ: 3.451712<br />factor(cyl): 6"
+                      "hwy: 22.01266<br />displ: 3.461601<br />factor(cyl): 6"
+                      "hwy: 21.86076<br />displ: 3.471490<br />factor(cyl): 6"
+                      "hwy: 21.70886<br />displ: 3.481379<br />factor(cyl): 6"
+                      "hwy: 21.55696<br />displ: 3.491267<br />factor(cyl): 6"
+                      "hwy: 21.40506<br />displ: 3.501156<br />factor(cyl): 6"
+                      "hwy: 21.25316<br />displ: 3.511045<br />factor(cyl): 6"
+                      "hwy: 21.10127<br />displ: 3.520934<br />factor(cyl): 6"
+                      "hwy: 20.94937<br />displ: 3.530822<br />factor(cyl): 6"
+                      "hwy: 20.79747<br />displ: 3.540711<br />factor(cyl): 6"
+                      "hwy: 20.64557<br />displ: 3.550600<br />factor(cyl): 6"
+                      "hwy: 20.49367<br />displ: 3.560489<br />factor(cyl): 6"
+                      "hwy: 20.34177<br />displ: 3.570378<br />factor(cyl): 6"
+                      "hwy: 20.18987<br />displ: 3.580266<br />factor(cyl): 6"
+                      "hwy: 20.03797<br />displ: 3.590155<br />factor(cyl): 6"
+                      "hwy: 19.88608<br />displ: 3.600044<br />factor(cyl): 6"
+                      "hwy: 19.73418<br />displ: 3.609933<br />factor(cyl): 6"
+                      "hwy: 19.58228<br />displ: 3.619822<br />factor(cyl): 6"
+                      "hwy: 19.43038<br />displ: 3.629710<br />factor(cyl): 6"
+                      "hwy: 19.27848<br />displ: 3.639599<br />factor(cyl): 6"
+                      "hwy: 19.12658<br />displ: 3.649488<br />factor(cyl): 6"
+                      "hwy: 18.97468<br />displ: 3.659377<br />factor(cyl): 6"
+                      "hwy: 18.82278<br />displ: 3.669266<br />factor(cyl): 6"
+                      "hwy: 18.67089<br />displ: 3.679154<br />factor(cyl): 6"
+                      "hwy: 18.51899<br />displ: 3.689043<br />factor(cyl): 6"
+                      "hwy: 18.36709<br />displ: 3.698932<br />factor(cyl): 6"
+                      "hwy: 18.21519<br />displ: 3.708821<br />factor(cyl): 6"
+                      "hwy: 18.06329<br />displ: 3.718709<br />factor(cyl): 6"
+                      "hwy: 17.91139<br />displ: 3.728598<br />factor(cyl): 6"
+                      "hwy: 17.75949<br />displ: 3.738487<br />factor(cyl): 6"
+                      "hwy: 17.60759<br />displ: 3.748376<br />factor(cyl): 6"
+                      "hwy: 17.45570<br />displ: 3.758265<br />factor(cyl): 6"
+                      "hwy: 17.30380<br />displ: 3.768153<br />factor(cyl): 6"
+                      "hwy: 17.15190<br />displ: 3.778042<br />factor(cyl): 6"
+                      "hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"
+                      "hwy: 17.00000<br />displ: 3.787931<br />factor(cyl): 6"]}
+                    {:y
+                     [4.61890250245661
+                      4.63289700196842
+                      4.64683656574223
+                      4.66071705402057
+                      4.674533944454
+                      4.68828229343952
+                      4.70195669390461
+                      4.7155512294444
+                      4.72905942482035
+                      4.74247419297612
+                      4.75578777893295
+                      4.76899170121086
+                      4.78207669180082
+                      4.79503263620845
+                      4.80784851572134
+                      4.82051235483641
+                      4.83301117772808
+                      4.84533097873262
+                      4.85745671302917
+                      4.86937231493288
+                      4.88106075233654
+                      4.89250412663069
+                      4.90368382759884
+                      4.91458075195792
+                      4.92517559199274
+                      4.93544919676504
+                      4.94538300247984
+                      4.95495952090761
+                      4.96416286590438
+                      4.97297928920404
+                      4.98139768940573
+                      4.98941005426374
+                      4.9970117975441
+                      5.00420195856966
+                      5.0109832446429
+                      5.01736191204798
+                      5.0233474976128
+                      5.02895242697052
+                      5.03419153538487
+                      5.03908154111872
+                      5.04364050995544
+                      5.04788734380425
+                      5.05184131807347
+                      5.05552168345472
+                      5.05894733935337
+                      5.06213657932503
+                      5.06510690390716
+                      5.06787489313756
+                      5.07045612954571
+                      5.07286516209982
+                      5.07511550210073
+                      5.07721964299562
+                      5.07918909728223
+                      5.08103444490833
+                      5.08276538873091
+                      5.08439081362511
+                      5.085918846701
+                      5.08735691679566
+                      5.08871181197259
+                      5.08998973419732
+                      5.09119635068921
+                      5.09233684169437
+                      5.09341594460083
+                      5.09443799444083
+                      5.09540696090792
+                      5.09632648206972
+                      5.09719989498764
+                      5.0980302634698
+                      5.09882040318686
+                      5.09957290437622
+                      5.10029015235114
+                      5.10097434601877
+                      5.10162751459732
+                      5.10225153270785
+                      5.10284813400135
+                      5.10341892346751
+                      5.10396538855788
+                      5.10448890924331
+                      5.1049907671137
+                      5.10547215361718
+                      5.86827308021677
+                      5.85376612418866
+                      5.83927963952746
+                      5.8248148176813
+                      5.81037294024008
+                      5.79595538717466
+                      5.78156364593657
+                      5.76719932151552
+                      5.75286414756248
+                      5.73855999869852
+                      5.72428890414185
+                      5.71005306279963
+                      5.6958548599851
+                      5.68169688593568
+                      5.66758195632201
+                      5.65351313495223
+                      5.63949375888773
+                      5.62552746619614
+                      5.61161822657102
+                      5.59777037504459
+                      5.58398864900489
+                      5.57027822869803
+                      5.55664478134338
+                      5.54309450890645
+                      5.52963419945075
+                      5.51627128181337
+                      5.50301388310436
+                      5.48987088819888
+                      5.4768519999539
+                      5.4639677983172
+                      5.45122979578653
+                      5.43865048580905
+                      5.42624337968562
+                      5.41402302638443
+                      5.40200500843497
+                      5.39020590587505
+                      5.37864321924211
+                      5.36733524209177
+                      5.35630087382941
+                      5.34555936514663
+                      5.33512999145177
+                      5.32503165465403
+                      5.31528242053679
+                      5.30589900736292
+                      5.29689625039615
+                      5.28828657526965
+                      5.2800795188113
+                      5.27228133730528
+                      5.26489473805405
+                      5.25791876038047
+                      5.25134881805058
+                      5.24517689881865
+                      5.23939190128384
+                      5.23398007718001
+                      5.22892554036323
+                      5.22421080260395
+                      5.21981730010718
+                      5.21572588193467
+                      5.21191724037123
+                      5.2083722721338
+                      5.20507236700587
+                      5.20199962637799
+                      5.19913701814296
+                      5.19646847661591
+                      5.193978956976
+                      5.19165445355948
+                      5.18948199054078
+                      5.18744959241682
+                      5.1855462404752
+                      5.18376182022153
+                      5.18208706364677
+                      5.18051348927095
+                      5.17903334211532
+                      5.17763953512352
+                      5.17632559305702
+                      5.17508559951095
+                      5.17391414741279
+                      5.17280629315955
+                      5.17175751440178
+                      5.17076367138199
+                      4.61890250245661],
+                     :hoveron "points",
+                     :legendgroup "8",
+                     :frame nil,
+                     :fillcolor "rgba(153,153,153,0.4)",
+                     :hoverinfo "x+y",
+                     :name "8",
+                     :fill "toself",
+                     :mode "lines",
+                     :type "scatter",
+                     :xaxis "x",
+                     :showlegend false,
+                     :line {:width 3.77952755905512, :color "transparent", :dash "solid"},
+                     :yaxis "y",
+                     :x
+                     [12
+                      12.1772151898734
+                      12.3544303797468
+                      12.5316455696203
+                      12.7088607594937
+                      12.8860759493671
+                      13.0632911392405
+                      13.2405063291139
+                      13.4177215189873
+                      13.5949367088608
+                      13.7721518987342
+                      13.9493670886076
+                      14.126582278481
+                      14.3037974683544
+                      14.4810126582278
+                      14.6582278481013
+                      14.8354430379747
+                      15.0126582278481
+                      15.1898734177215
+                      15.3670886075949
+                      15.5443037974684
+                      15.7215189873418
+                      15.8987341772152
+                      16.0759493670886
+                      16.253164556962
+                      16.4303797468354
+                      16.6075949367089
+                      16.7848101265823
+                      16.9620253164557
+                      17.1392405063291
+                      17.3164556962025
+                      17.493670886076
+                      17.6708860759494
+                      17.8481012658228
+                      18.0253164556962
+                      18.2025316455696
+                      18.379746835443
+                      18.5569620253165
+                      18.7341772151899
+                      18.9113924050633
+                      19.0886075949367
+                      19.2658227848101
+                      19.4430379746835
+                      19.620253164557
+                      19.7974683544304
+                      19.9746835443038
+                      20.1518987341772
+                      20.3291139240506
+                      20.506329113924
+                      20.6835443037975
+                      20.8607594936709
+                      21.0379746835443
+                      21.2151898734177
+                      21.3924050632911
+                      21.5696202531646
+                      21.746835443038
+                      21.9240506329114
+                      22.1012658227848
+                      22.2784810126582
+                      22.4556962025316
+                      22.6329113924051
+                      22.8101265822785
+                      22.9873417721519
+                      23.1645569620253
+                      23.3417721518987
+                      23.5189873417722
+                      23.6962025316456
+                      23.873417721519
+                      24.0506329113924
+                      24.2278481012658
+                      24.4050632911392
+                      24.5822784810127
+                      24.7594936708861
+                      24.9367088607595
+                      25.1139240506329
+                      25.2911392405063
+                      25.4683544303797
+                      25.6455696202532
+                      25.8227848101266
+                      26
+                      26
+                      25.8227848101266
+                      25.6455696202532
+                      25.4683544303797
+                      25.2911392405063
+                      25.1139240506329
+                      24.9367088607595
+                      24.7594936708861
+                      24.5822784810127
+                      24.4050632911392
+                      24.2278481012658
+                      24.0506329113924
+                      23.873417721519
+                      23.6962025316456
+                      23.5189873417722
+                      23.3417721518987
+                      23.1645569620253
+                      22.9873417721519
+                      22.8101265822785
+                      22.6329113924051
+                      22.4556962025316
+                      22.2784810126582
+                      22.1012658227848
+                      21.9240506329114
+                      21.746835443038
+                      21.5696202531646
+                      21.3924050632911
+                      21.2151898734177
+                      21.0379746835443
+                      20.8607594936709
+                      20.6835443037975
+                      20.506329113924
+                      20.3291139240506
+                      20.1518987341772
+                      19.9746835443038
+                      19.7974683544304
+                      19.620253164557
+                      19.4430379746835
+                      19.2658227848101
+                      19.0886075949367
+                      18.9113924050633
+                      18.7341772151899
+                      18.5569620253165
+                      18.379746835443
+                      18.2025316455696
+                      18.0253164556962
+                      17.8481012658228
+                      17.6708860759494
+                      17.493670886076
+                      17.3164556962025
+                      17.1392405063291
+                      16.9620253164557
+                      16.7848101265823
+                      16.6075949367089
+                      16.4303797468354
+                      16.253164556962
+                      16.0759493670886
+                      15.8987341772152
+                      15.7215189873418
+                      15.5443037974684
+                      15.3670886075949
+                      15.1898734177215
+                      15.0126582278481
+                      14.8354430379747
+                      14.6582278481013
+                      14.4810126582278
+                      14.3037974683544
+                      14.126582278481
+                      13.9493670886076
+                      13.7721518987342
+                      13.5949367088608
+                      13.4177215189873
+                      13.2405063291139
+                      13.0632911392405
+                      12.8860759493671
+                      12.7088607594937
+                      12.5316455696203
+                      12.3544303797468
+                      12.1772151898734
+                      12
+                      12],
+                     :text
+                     ["hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"
+                      "hwy: 12.17722<br />displ: 4.902327<br />factor(cyl): 8"
+                      "hwy: 12.35443<br />displ: 4.909821<br />factor(cyl): 8"
+                      "hwy: 12.53165<br />displ: 4.917316<br />factor(cyl): 8"
+                      "hwy: 12.70886<br />displ: 4.924810<br />factor(cyl): 8"
+                      "hwy: 12.88608<br />displ: 4.932304<br />factor(cyl): 8"
+                      "hwy: 13.06329<br />displ: 4.939798<br />factor(cyl): 8"
+                      "hwy: 13.24051<br />displ: 4.947292<br />factor(cyl): 8"
+                      "hwy: 13.41772<br />displ: 4.954786<br />factor(cyl): 8"
+                      "hwy: 13.59494<br />displ: 4.962281<br />factor(cyl): 8"
+                      "hwy: 13.77215<br />displ: 4.969775<br />factor(cyl): 8"
+                      "hwy: 13.94937<br />displ: 4.977269<br />factor(cyl): 8"
+                      "hwy: 14.12658<br />displ: 4.984763<br />factor(cyl): 8"
+                      "hwy: 14.30380<br />displ: 4.992257<br />factor(cyl): 8"
+                      "hwy: 14.48101<br />displ: 4.999751<br />factor(cyl): 8"
+                      "hwy: 14.65823<br />displ: 5.007246<br />factor(cyl): 8"
+                      "hwy: 14.83544<br />displ: 5.014740<br />factor(cyl): 8"
+                      "hwy: 15.01266<br />displ: 5.022234<br />factor(cyl): 8"
+                      "hwy: 15.18987<br />displ: 5.029728<br />factor(cyl): 8"
+                      "hwy: 15.36709<br />displ: 5.037222<br />factor(cyl): 8"
+                      "hwy: 15.54430<br />displ: 5.044717<br />factor(cyl): 8"
+                      "hwy: 15.72152<br />displ: 5.052211<br />factor(cyl): 8"
+                      "hwy: 15.89873<br />displ: 5.059705<br />factor(cyl): 8"
+                      "hwy: 16.07595<br />displ: 5.067199<br />factor(cyl): 8"
+                      "hwy: 16.25316<br />displ: 5.074693<br />factor(cyl): 8"
+                      "hwy: 16.43038<br />displ: 5.082187<br />factor(cyl): 8"
+                      "hwy: 16.60759<br />displ: 5.089682<br />factor(cyl): 8"
+                      "hwy: 16.78481<br />displ: 5.097176<br />factor(cyl): 8"
+                      "hwy: 16.96203<br />displ: 5.104670<br />factor(cyl): 8"
+                      "hwy: 17.13924<br />displ: 5.112164<br />factor(cyl): 8"
+                      "hwy: 17.31646<br />displ: 5.119658<br />factor(cyl): 8"
+                      "hwy: 17.49367<br />displ: 5.127152<br />factor(cyl): 8"
+                      "hwy: 17.67089<br />displ: 5.134647<br />factor(cyl): 8"
+                      "hwy: 17.84810<br />displ: 5.142141<br />factor(cyl): 8"
+                      "hwy: 18.02532<br />displ: 5.149635<br />factor(cyl): 8"
+                      "hwy: 18.20253<br />displ: 5.157129<br />factor(cyl): 8"
+                      "hwy: 18.37975<br />displ: 5.164623<br />factor(cyl): 8"
+                      "hwy: 18.55696<br />displ: 5.172117<br />factor(cyl): 8"
+                      "hwy: 18.73418<br />displ: 5.179612<br />factor(cyl): 8"
+                      "hwy: 18.91139<br />displ: 5.187106<br />factor(cyl): 8"
+                      "hwy: 19.08861<br />displ: 5.194600<br />factor(cyl): 8"
+                      "hwy: 19.26582<br />displ: 5.202094<br />factor(cyl): 8"
+                      "hwy: 19.44304<br />displ: 5.209588<br />factor(cyl): 8"
+                      "hwy: 19.62025<br />displ: 5.217082<br />factor(cyl): 8"
+                      "hwy: 19.79747<br />displ: 5.224577<br />factor(cyl): 8"
+                      "hwy: 19.97468<br />displ: 5.232071<br />factor(cyl): 8"
+                      "hwy: 20.15190<br />displ: 5.239565<br />factor(cyl): 8"
+                      "hwy: 20.32911<br />displ: 5.247059<br />factor(cyl): 8"
+                      "hwy: 20.50633<br />displ: 5.254553<br />factor(cyl): 8"
+                      "hwy: 20.68354<br />displ: 5.262047<br />factor(cyl): 8"
+                      "hwy: 20.86076<br />displ: 5.269542<br />factor(cyl): 8"
+                      "hwy: 21.03797<br />displ: 5.277036<br />factor(cyl): 8"
+                      "hwy: 21.21519<br />displ: 5.284530<br />factor(cyl): 8"
+                      "hwy: 21.39241<br />displ: 5.292024<br />factor(cyl): 8"
+                      "hwy: 21.56962<br />displ: 5.299518<br />factor(cyl): 8"
+                      "hwy: 21.74684<br />displ: 5.307013<br />factor(cyl): 8"
+                      "hwy: 21.92405<br />displ: 5.314507<br />factor(cyl): 8"
+                      "hwy: 22.10127<br />displ: 5.322001<br />factor(cyl): 8"
+                      "hwy: 22.27848<br />displ: 5.329495<br />factor(cyl): 8"
+                      "hwy: 22.45570<br />displ: 5.336989<br />factor(cyl): 8"
+                      "hwy: 22.63291<br />displ: 5.344483<br />factor(cyl): 8"
+                      "hwy: 22.81013<br />displ: 5.351978<br />factor(cyl): 8"
+                      "hwy: 22.98734<br />displ: 5.359472<br />factor(cyl): 8"
+                      "hwy: 23.16456<br />displ: 5.366966<br />factor(cyl): 8"
+                      "hwy: 23.34177<br />displ: 5.374460<br />factor(cyl): 8"
+                      "hwy: 23.51899<br />displ: 5.381954<br />factor(cyl): 8"
+                      "hwy: 23.69620<br />displ: 5.389448<br />factor(cyl): 8"
+                      "hwy: 23.87342<br />displ: 5.396943<br />factor(cyl): 8"
+                      "hwy: 24.05063<br />displ: 5.404437<br />factor(cyl): 8"
+                      "hwy: 24.22785<br />displ: 5.411931<br />factor(cyl): 8"
+                      "hwy: 24.40506<br />displ: 5.419425<br />factor(cyl): 8"
+                      "hwy: 24.58228<br />displ: 5.426919<br />factor(cyl): 8"
+                      "hwy: 24.75949<br />displ: 5.434413<br />factor(cyl): 8"
+                      "hwy: 24.93671<br />displ: 5.441908<br />factor(cyl): 8"
+                      "hwy: 25.11392<br />displ: 5.449402<br />factor(cyl): 8"
+                      "hwy: 25.29114<br />displ: 5.456896<br />factor(cyl): 8"
+                      "hwy: 25.46835<br />displ: 5.464390<br />factor(cyl): 8"
+                      "hwy: 25.64557<br />displ: 5.471884<br />factor(cyl): 8"
+                      "hwy: 25.82278<br />displ: 5.479378<br />factor(cyl): 8"
+                      "hwy: 26.00000<br />displ: 5.486873<br />factor(cyl): 8"
+                      "hwy: 26.00000<br />displ: 5.486873<br />factor(cyl): 8"
+                      "hwy: 25.82278<br />displ: 5.479378<br />factor(cyl): 8"
+                      "hwy: 25.64557<br />displ: 5.471884<br />factor(cyl): 8"
+                      "hwy: 25.46835<br />displ: 5.464390<br />factor(cyl): 8"
+                      "hwy: 25.29114<br />displ: 5.456896<br />factor(cyl): 8"
+                      "hwy: 25.11392<br />displ: 5.449402<br />factor(cyl): 8"
+                      "hwy: 24.93671<br />displ: 5.441908<br />factor(cyl): 8"
+                      "hwy: 24.75949<br />displ: 5.434413<br />factor(cyl): 8"
+                      "hwy: 24.58228<br />displ: 5.426919<br />factor(cyl): 8"
+                      "hwy: 24.40506<br />displ: 5.419425<br />factor(cyl): 8"
+                      "hwy: 24.22785<br />displ: 5.411931<br />factor(cyl): 8"
+                      "hwy: 24.05063<br />displ: 5.404437<br />factor(cyl): 8"
+                      "hwy: 23.87342<br />displ: 5.396943<br />factor(cyl): 8"
+                      "hwy: 23.69620<br />displ: 5.389448<br />factor(cyl): 8"
+                      "hwy: 23.51899<br />displ: 5.381954<br />factor(cyl): 8"
+                      "hwy: 23.34177<br />displ: 5.374460<br />factor(cyl): 8"
+                      "hwy: 23.16456<br />displ: 5.366966<br />factor(cyl): 8"
+                      "hwy: 22.98734<br />displ: 5.359472<br />factor(cyl): 8"
+                      "hwy: 22.81013<br />displ: 5.351978<br />factor(cyl): 8"
+                      "hwy: 22.63291<br />displ: 5.344483<br />factor(cyl): 8"
+                      "hwy: 22.45570<br />displ: 5.336989<br />factor(cyl): 8"
+                      "hwy: 22.27848<br />displ: 5.329495<br />factor(cyl): 8"
+                      "hwy: 22.10127<br />displ: 5.322001<br />factor(cyl): 8"
+                      "hwy: 21.92405<br />displ: 5.314507<br />factor(cyl): 8"
+                      "hwy: 21.74684<br />displ: 5.307013<br />factor(cyl): 8"
+                      "hwy: 21.56962<br />displ: 5.299518<br />factor(cyl): 8"
+                      "hwy: 21.39241<br />displ: 5.292024<br />factor(cyl): 8"
+                      "hwy: 21.21519<br />displ: 5.284530<br />factor(cyl): 8"
+                      "hwy: 21.03797<br />displ: 5.277036<br />factor(cyl): 8"
+                      "hwy: 20.86076<br />displ: 5.269542<br />factor(cyl): 8"
+                      "hwy: 20.68354<br />displ: 5.262047<br />factor(cyl): 8"
+                      "hwy: 20.50633<br />displ: 5.254553<br />factor(cyl): 8"
+                      "hwy: 20.32911<br />displ: 5.247059<br />factor(cyl): 8"
+                      "hwy: 20.15190<br />displ: 5.239565<br />factor(cyl): 8"
+                      "hwy: 19.97468<br />displ: 5.232071<br />factor(cyl): 8"
+                      "hwy: 19.79747<br />displ: 5.224577<br />factor(cyl): 8"
+                      "hwy: 19.62025<br />displ: 5.217082<br />factor(cyl): 8"
+                      "hwy: 19.44304<br />displ: 5.209588<br />factor(cyl): 8"
+                      "hwy: 19.26582<br />displ: 5.202094<br />factor(cyl): 8"
+                      "hwy: 19.08861<br />displ: 5.194600<br />factor(cyl): 8"
+                      "hwy: 18.91139<br />displ: 5.187106<br />factor(cyl): 8"
+                      "hwy: 18.73418<br />displ: 5.179612<br />factor(cyl): 8"
+                      "hwy: 18.55696<br />displ: 5.172117<br />factor(cyl): 8"
+                      "hwy: 18.37975<br />displ: 5.164623<br />factor(cyl): 8"
+                      "hwy: 18.20253<br />displ: 5.157129<br />factor(cyl): 8"
+                      "hwy: 18.02532<br />displ: 5.149635<br />factor(cyl): 8"
+                      "hwy: 17.84810<br />displ: 5.142141<br />factor(cyl): 8"
+                      "hwy: 17.67089<br />displ: 5.134647<br />factor(cyl): 8"
+                      "hwy: 17.49367<br />displ: 5.127152<br />factor(cyl): 8"
+                      "hwy: 17.31646<br />displ: 5.119658<br />factor(cyl): 8"
+                      "hwy: 17.13924<br />displ: 5.112164<br />factor(cyl): 8"
+                      "hwy: 16.96203<br />displ: 5.104670<br />factor(cyl): 8"
+                      "hwy: 16.78481<br />displ: 5.097176<br />factor(cyl): 8"
+                      "hwy: 16.60759<br />displ: 5.089682<br />factor(cyl): 8"
+                      "hwy: 16.43038<br />displ: 5.082187<br />factor(cyl): 8"
+                      "hwy: 16.25316<br />displ: 5.074693<br />factor(cyl): 8"
+                      "hwy: 16.07595<br />displ: 5.067199<br />factor(cyl): 8"
+                      "hwy: 15.89873<br />displ: 5.059705<br />factor(cyl): 8"
+                      "hwy: 15.72152<br />displ: 5.052211<br />factor(cyl): 8"
+                      "hwy: 15.54430<br />displ: 5.044717<br />factor(cyl): 8"
+                      "hwy: 15.36709<br />displ: 5.037222<br />factor(cyl): 8"
+                      "hwy: 15.18987<br />displ: 5.029728<br />factor(cyl): 8"
+                      "hwy: 15.01266<br />displ: 5.022234<br />factor(cyl): 8"
+                      "hwy: 14.83544<br />displ: 5.014740<br />factor(cyl): 8"
+                      "hwy: 14.65823<br />displ: 5.007246<br />factor(cyl): 8"
+                      "hwy: 14.48101<br />displ: 4.999751<br />factor(cyl): 8"
+                      "hwy: 14.30380<br />displ: 4.992257<br />factor(cyl): 8"
+                      "hwy: 14.12658<br />displ: 4.984763<br />factor(cyl): 8"
+                      "hwy: 13.94937<br />displ: 4.977269<br />factor(cyl): 8"
+                      "hwy: 13.77215<br />displ: 4.969775<br />factor(cyl): 8"
+                      "hwy: 13.59494<br />displ: 4.962281<br />factor(cyl): 8"
+                      "hwy: 13.41772<br />displ: 4.954786<br />factor(cyl): 8"
+                      "hwy: 13.24051<br />displ: 4.947292<br />factor(cyl): 8"
+                      "hwy: 13.06329<br />displ: 4.939798<br />factor(cyl): 8"
+                      "hwy: 12.88608<br />displ: 4.932304<br />factor(cyl): 8"
+                      "hwy: 12.70886<br />displ: 4.924810<br />factor(cyl): 8"
+                      "hwy: 12.53165<br />displ: 4.917316<br />factor(cyl): 8"
+                      "hwy: 12.35443<br />displ: 4.909821<br />factor(cyl): 8"
+                      "hwy: 12.17722<br />displ: 4.902327<br />factor(cyl): 8"
+                      "hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"
+                      "hwy: 12.00000<br />displ: 4.894833<br />factor(cyl): 8"]}])},
     :evals [],
     :jsHooks []}))
 
@@ -3709,3 +3215,6 @@
    :layers [{:mapping {:x :hwy
                        :y :displ
                        :color #(factor (:cytl %))}}]}
+
+
+:ok
