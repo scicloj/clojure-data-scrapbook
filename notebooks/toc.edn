@@ -55,4 +55,10 @@
   :url "https://scicloj.github.io/noj-getting-started"
   :source-path "https://github.com/scicloj/noj-getting-started"
   :youtube-id "5GluhUmMlpM"
-  :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :clay :calva]}]
+  :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :clay :calva]}
+ {:created "2024-04-04"
+  :updated "2024-04-05"
+  :title "Python Data Science Handbook - in Clojure - DRAFT"
+  :url "https://scicloj.github.io/python-data-science-handbook-in-clojure/"
+  :source-path "https://github.com/scicloj/python-data-science-handbook-in-clojure/"
+  :tags [:ml :datavis :tablecloth :hanami :metamorph.ml :noj :draft]}]
