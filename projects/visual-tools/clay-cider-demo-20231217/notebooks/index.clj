@@ -7,8 +7,9 @@
             [tech.v3.datatype :as dtype]
             [tech.v3.tensor :as tensor]
             [tech.v3.datatype.functional :as fun]
-            [scicloj.noj.v1.vis.image :as vis.image]
             [scicloj.kindly.v4.kind :as kind]))
+
+(kind/hiccup [:style ".clay-image img {max-width: 100%}"])
 
 (kind/video {:youtube-id "fd4kjlws6Ts"})
 
@@ -40,10 +41,11 @@ raw-image
 
 ;; ## Processing
 
-[raw-image
- (-> raw-tensor
-     (fun/* 0.5)
-     (vis.image/tensor->image :byte-bgr))]
+(kind/fragment
+ [raw-image
+  (-> raw-tensor
+      (fun/* 0.5)
+      (bufimg/tensor->image :byte-bgr))])
 
 ;; ## Hiccup
 
@@ -54,7 +56,7 @@ raw-image
   [:h3 "darkened image"]
   (-> raw-tensor
       (fun/* 0.5)
-      (vis.image/tensor->image :byte-bgr))])
+      (bufimg/tensor->image :byte-bgr))])
 
 ;; ## Colour channels
 
@@ -76,7 +78,7 @@ raw-image
                                (raw-tensor i j k)
                                0))
                            :uint8)
-    (vis.image/tensor->image :byte-bgr))
+    (bufimg/tensor->image :byte-bgr))
 
 ;; ## Conditioned processing
 
@@ -89,7 +91,7 @@ raw-image
                                 0.3
                                 1)))
                            :uint8)
-    (vis.image/tensor->image :byte-bgr))
+    (bufimg/tensor->image :byte-bgr))
 
 
 
@@ -103,7 +105,7 @@ raw-image
                                 0.3
                                 1)))
                            :uint8)
-    (vis.image/tensor->image :byte-bgr))
+    (bufimg/tensor->image :byte-bgr))
 
 
 (->> [0.7 0.8 0.9 1 1.1 1.2 1.3]
@@ -118,4 +120,4 @@ raw-image
                                              0.3
                                              1)))
                                         :uint8)
-                 (vis.image/tensor->image :byte-bgr))])))
+                 (bufimg/tensor->image :byte-bgr))])))
