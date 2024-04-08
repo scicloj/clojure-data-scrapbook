@@ -9,7 +9,7 @@
             [tech.v3.datatype.functional :as fun]
             [scicloj.kindly.v4.kind :as kind]))
 
-(kind/hiccup [:style ".clay-image img {max-width: 100%}"])
+(kind/hiccup [:style "img {max-width: 100%}"])
 
 (kind/video {:youtube-id "fd4kjlws6Ts"})
 
