@@ -1,3 +1,7 @@
 {:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
                :branch "main"}
- :quarto {:title "Clojure Data Scrapbook"}}
+ :quarto {:title "Clojure Data Scrapbook"
+          :include-in-header {:text "<meta property=\"og:image\" content=\"https://scicloj.github.io/sci-cloj-logo-transparent.png\"/>
+<meta property=\"og:title\" content=\"Clojure Data Scrapbook\"/>
+<meta property=\"og:description\" content=\"A collection of community-contributed examples for the emerging Clojure data stack\"/>
+<link rel = \"icon\" href = \"data:,\" />"}}}
