@@ -150,6 +150,12 @@
    :yaxis yaxis})
 
 
+(defn factor [column]
+  (vary-meta column
+             assoc :gg/factor? true))
+
+(defn factor? [column]
+  (:gg/factor? column))
 
 (let [data toydata.ggplot/mpg
       point-layers (-> data
@@ -208,17 +214,8 @@
 
 
 
-(defn factor [column]
-  (vary-meta column
-             assoc :gg/factor? true))
-
-(defn factor? [column]
-  (:gg/factor? column))
 
 #_{:data toydata.ggplot/mpg
    :layers [{:mapping {:x :hwy
                        :y :displ
                        :color #(factor (:cytl %))}}]}
-
-
-:ok
