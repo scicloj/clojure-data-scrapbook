@@ -2,7 +2,7 @@
   :title "Clay Calva integration - datavis demo"
   :url "projects/visual-tools/clay-calva-demo-20231216/index.html"
   :source-path "projects/visual-tools/clay-calva-demo-20231216"
-  :youtube-id "X_SsjhmG5Ok"
+  :youtube-ids ["X_SsjhmG5Ok"]
   :tags [:visual-tools :clay :calva :noj
          :datavis :hanami :tablecloth]}
  {:created "2023-12-17"
@@ -10,7 +10,7 @@
   :title "Clay CIDER integration - image processing demo"
   :url "projects/visual-tools/clay-cider-demo-20231217/index.html"
   :source-path "projects/visual-tools/clay-cider-demo-20231217"
-  :youtube-id "fd4kjlws6Ts"
+  :youtube-ids  ["fd4kjlws6Ts"]
   :tags [:visual-tools :clay :cider :noj
          :image-processing :dtype-next :tensors]}
  {:created "2023-12-31"
@@ -55,7 +55,7 @@
   :title "Noj getting started - from raw data to a blog post"
   :url "https://scicloj.github.io/noj-getting-started"
   :source-path "https://github.com/scicloj/noj-getting-started"
-  :youtube-id "5GluhUmMlpM"
+  :youtube-ids  ["5GluhUmMlpM"]
   :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :clay :calva]}
  {:created "2024-04-04"
   :updated "2024-04-05"

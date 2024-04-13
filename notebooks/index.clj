@@ -26,7 +26,7 @@
                        slurp
                        clojure.edn/read-string
                        (map (fn [{:keys [created updated
-                                         title url source-path youtube-id tags]}]
+                                         title url source-path youtube-ids tags]}]
                               (let [draft (some #{:draft} tags)]
                                 (mapv (if draft
                                         (fn [v]
@@ -51,8 +51,11 @@
                                                                 source-path))}
                                                "(source)"]]
                                           (when draft [:p "(draft)"])]])
-                                       (when youtube-id
-                                         (kind/video {:youtube-id youtube-id}))
+                                       (some->> youtube-ids
+                                                (map (fn [youtube-id]
+                                                       (kind/video {:youtube-id youtube-id})))
+                                                (into [:div])
+                                                kind/hiccup)
                                        (->> tags
                                             (map name)
                                             (str/join ", "))]))))
