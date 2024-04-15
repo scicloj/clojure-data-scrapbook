@@ -2,6 +2,7 @@
 ---
 format:
   html: {toc: true, toc-depth: 4, theme: cosmo, output-file: comparing.html}
+fontsize: 0.9em
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
@@ -658,7 +659,7 @@ nil
    :ncol nil,
    :facets {:cyl [~ cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode: 0x643ee41728c8&gt;\n&lt;environment: namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
+   "function (labels, multi_line = TRUE) \n{\n    labels <- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n<bytecode: 0x58d461871fd0>\n<environment: namespace:ggplot2>\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"},
   :shrink [true],
   :super :ggproto-method},
  :labels {:x ["cty"], :y ["hwy"], :colour ["factor(cyl)"]}}
@@ -687,7 +688,7 @@ nil
    :ncol nil,
    :facets {:cyl [~cyl]},
    :labeller
-   "function (labels, multi_line = TRUE) \n{\n    labels &lt;- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n&lt;bytecode:_ 0x643ee41728c8&gt;\n&lt;environment:_ namespace:ggplot2&gt;\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
+   "function (labels, multi_line = TRUE) \n{\n    labels <- lapply(labels, as.character)\n    if (multi_line) {\n        labels\n    }\n    else {\n        collapse_labels_lines(labels)\n    }\n}\n<bytecode:_ 0x58d461871fd0>\n<environment:_ namespace:ggplot2>\nattr(,\"class\")\n[1] \"function\" \"labeller\"\n"}]]
 
 ```
 :::

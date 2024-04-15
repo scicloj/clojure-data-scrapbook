@@ -2,6 +2,7 @@
 ---
 format:
   html: {toc: true, toc-depth: 4, theme: cosmo, output-file: representing.html}
+fontsize: 0.9em
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 

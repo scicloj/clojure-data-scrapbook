@@ -2,6 +2,7 @@
 ---
 format:
   html: {toc: true, toc-depth: 4, theme: cosmo, output-file: draft.html}
+fontsize: 0.9em
 code-block-background: true
 include-in-header: {text: '<link rel = "icon" href = "data:," />'}
 
@@ -211,15 +212,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["identity"],
      :transform
-     "function (x) \nx\n&lt;bytecode: 0x643ee0636140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n<bytecode: 0x58d45dd43140>\n<environment: namespace:base>\n",
      :inverse
-     "function (x) \nx\n&lt;bytecode: 0x643ee0636140&gt;\n&lt;environment: namespace:base&gt;\n",
+     "function (x) \nx\n<bytecode: 0x58d45dd43140>\n<environment: namespace:base>\n",
      :breaks
-     "function (x, n = n_default) \n{\n    x &lt;- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng &lt;- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n&lt;bytecode: 0x643ee45a5010&gt;\n&lt;environment: 0x643ef149d1b0&gt;\n",
+     "function (x, n = n_default) \n{\n    x <- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng <- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n<bytecode: 0x58d461ca4718>\n<environment: 0x58d46d4d35d8>\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x643ee45aa910&gt;\n&lt;environment: 0x643ef149d338&gt;\n",
+     "function (b, limits, n) \n{\n    b <- b[!is.na(b)]\n    if (length(b) < 2) {\n        return()\n    }\n    bd <- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) < min(b)) \n            b <- c(b[1] - bd, b)\n        if (max(limits) > max(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) > max(b)) \n            b <- c(b[1] - bd, b)\n        if (min(limits) < min(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    seq_between <- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks <- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks <- c(breaks, b[length(b)])\n    breaks\n}\n<bytecode: 0x58d461caa018>\n<environment: 0x58d46d4d3760>\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x643ee45adf38&gt;\n&lt;environment: 0x643ef149d4c0&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret <- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] <- NA\n    ret\n}\n<bytecode: 0x58d461cad640>\n<environment: 0x58d46d4d38b0>\n",
      :domain [##-Inf ##Inf]},
     :oob :ggproto-method,
     :position ["left"],
@@ -353,15 +354,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["log-10"],
      :transform
-     "function (x) \nlog(x, base)\n&lt;bytecode: 0x643ee9d7fc60&gt;\n&lt;environment: 0x643ee9f9be70&gt;\n",
+     "function (x) \nlog(x, base)\n<bytecode: 0x58d467489ac8>\n<environment: 0x58d46f8464a8>\n",
      :inverse
-     "function (x) \nbase^x\n&lt;bytecode: 0x643ee9d7fdb0&gt;\n&lt;environment: 0x643ee9f9be70&gt;\n",
+     "function (x) \nbase^x\n<bytecode: 0x58d467489c18>\n<environment: 0x58d46f8464a8>\n",
      :breaks
-     "function (x, n = n_default) \n{\n    raw_rng &lt;- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng &lt;- log(raw_rng, base = base)\n    min &lt;- floor(rng[1])\n    max &lt;- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by &lt;- floor((max - min)/n) + 1\n    breaks &lt;- base^seq(min, max, by = by)\n    relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= base^rng[2]\n    if (sum(relevant_breaks) &gt;= (n - 2)) {\n        return(breaks)\n    }\n    while (by &gt; 1) {\n        by &lt;- by - 1\n        breaks &lt;- base^seq(min, max, by = by)\n        relevant_breaks &lt;- base^rng[1] &lt;= breaks & breaks &lt;= \n            base^rng[2]\n        if (sum(relevant_breaks) &gt;= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n&lt;bytecode: 0x643ee9cc7d78&gt;\n&lt;environment: 0x643ee9f90eb8&gt;\n",
+     "function (x, n = n_default) \n{\n    raw_rng <- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng <- log(raw_rng, base = base)\n    min <- floor(rng[1])\n    max <- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by <- floor((max - min)/n) + 1\n    breaks <- base^seq(min, max, by = by)\n    relevant_breaks <- base^rng[1] <= breaks & breaks <= base^rng[2]\n    if (sum(relevant_breaks) >= (n - 2)) {\n        return(breaks)\n    }\n    while (by > 1) {\n        by <- by - 1\n        breaks <- base^seq(min, max, by = by)\n        relevant_breaks <- base^rng[1] <= breaks & breaks <= \n            base^rng[2]\n        if (sum(relevant_breaks) >= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n<bytecode: 0x58d4673d5710>\n<environment: 0x58d46fe22dc8>\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b &lt;- b[!is.na(b)]\n    if (length(b) &lt; 2) {\n        return()\n    }\n    bd &lt;- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) &gt; max(b)) \n            b &lt;- c(b[1] - bd, b)\n        if (min(limits) &lt; min(b)) \n            b &lt;- c(b, b[length(b)] + bd)\n    }\n    seq_between &lt;- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks &lt;- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks &lt;- c(breaks, b[length(b)])\n    breaks\n}\n&lt;bytecode: 0x643ee45aa910&gt;\n&lt;environment: 0x643ee9f91350&gt;\n",
+     "function (b, limits, n) \n{\n    b <- b[!is.na(b)]\n    if (length(b) < 2) {\n        return()\n    }\n    bd <- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) < min(b)) \n            b <- c(b[1] - bd, b)\n        if (max(limits) > max(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) > max(b)) \n            b <- c(b[1] - bd, b)\n        if (min(limits) < min(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    seq_between <- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks <- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks <- c(breaks, b[length(b)])\n    breaks\n}\n<bytecode: 0x58d461caa018>\n<environment: 0x58d46fe22a10>\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret &lt;- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] &lt;- NA\n    ret\n}\n&lt;bytecode: 0x643ee45adf38&gt;\n&lt;environment: 0x643ee9f914d8&gt;\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret <- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] <- NA\n    ret\n}\n<bytecode: 0x58d461cad640>\n<environment: 0x58d46fe228c0>\n",
      :domain [1.0E-100 ##Inf]},
     :oob :ggproto-method,
     :position ["bottom"],
@@ -989,7 +990,7 @@ theme(legend.position = 'none')")]
 ```clojure
 # A tibble: 7 × 8
   count  prop x          width flipped_aes fill       PANEL group
-  &lt;dbl&gt; &lt;dbl&gt; &lt;mppd_dsc&gt; &lt;dbl&gt; &lt;lgl&gt;       &lt;chr&gt;      &lt;fct&gt; &lt;int&gt;
+  <dbl> <dbl> <mppd_dsc> <dbl> <lgl>       <chr>      <fct> <int>
 1     5     1 1            0.9 FALSE       2seater    1         1
 2    47     1 2            0.9 FALSE       compact    1         2
 3    41     1 3            0.9 FALSE       midsize    1         3
