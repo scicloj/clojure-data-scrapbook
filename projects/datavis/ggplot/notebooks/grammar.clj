@@ -33,7 +33,7 @@
                                            :name group-name
                                            :legendgroup group-name}
                                      predictions (map
-                                                  (tcc/linear-regressor (:hwy group-data)
+                                                  (fun/linear-regressor (:hwy group-data)
                                                                         (:displ group-data))
                                                   (:hwy group-data))]
                                  [(-> base
