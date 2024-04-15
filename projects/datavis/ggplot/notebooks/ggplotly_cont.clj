@@ -156,7 +156,7 @@
 (delay
   (let [data toydata.ggplot/mpg
         point-layers (-> data
-                         (tc/add-column "factor(cyl)" #(factor (:cyl %)))
+                         (tc/add-column "factor(cyl)" (:cyl %))
                          (tc/group-by :cyl {:result-type :as-map})
                          (->> (sort-by key)
                               (map-indexed
