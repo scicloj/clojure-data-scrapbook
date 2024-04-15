@@ -212,15 +212,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["identity"],
      :transform
-     "function (x) \nx\n<bytecode: 0x58d45dd43140>\n<environment: namespace:base>\n",
+     "function (x) \nx\n<bytecode: 0x5b75ae3c23a0>\n<environment: namespace:base>\n",
      :inverse
-     "function (x) \nx\n<bytecode: 0x58d45dd43140>\n<environment: namespace:base>\n",
+     "function (x) \nx\n<bytecode: 0x5b75ae3c23a0>\n<environment: namespace:base>\n",
      :breaks
-     "function (x, n = n_default) \n{\n    x <- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng <- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n<bytecode: 0x58d461ca4718>\n<environment: 0x58d46d4d35d8>\n",
+     "function (x, n = n_default) \n{\n    x <- x[is.finite(x)]\n    if (length(x) == 0) {\n        return(numeric())\n    }\n    rng <- range(x)\n    labeling::extended(rng[1], rng[2], n, ...)\n}\n<bytecode: 0x5b75b232cda8>\n<environment: 0x5b75bd6e2898>\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b <- b[!is.na(b)]\n    if (length(b) < 2) {\n        return()\n    }\n    bd <- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) < min(b)) \n            b <- c(b[1] - bd, b)\n        if (max(limits) > max(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) > max(b)) \n            b <- c(b[1] - bd, b)\n        if (min(limits) < min(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    seq_between <- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks <- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks <- c(breaks, b[length(b)])\n    breaks\n}\n<bytecode: 0x58d461caa018>\n<environment: 0x58d46d4d3760>\n",
+     "function (b, limits, n) \n{\n    b <- b[!is.na(b)]\n    if (length(b) < 2) {\n        return()\n    }\n    bd <- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) < min(b)) \n            b <- c(b[1] - bd, b)\n        if (max(limits) > max(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) > max(b)) \n            b <- c(b[1] - bd, b)\n        if (min(limits) < min(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    seq_between <- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks <- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks <- c(breaks, b[length(b)])\n    breaks\n}\n<bytecode: 0x5b75b23326a8>\n<environment: 0x5b75bd6e2710>\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret <- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] <- NA\n    ret\n}\n<bytecode: 0x58d461cad640>\n<environment: 0x58d46d4d38b0>\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret <- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] <- NA\n    ret\n}\n<bytecode: 0x5b75b2335cd0>\n<environment: 0x5b75bd6e2198>\n",
      :domain [##-Inf ##Inf]},
     :oob :ggproto-method,
     :position ["left"],
@@ -354,15 +354,15 @@ include-in-header: {text: '<link rel = "icon" href = "data:," />'}
     :trans
     {:name ["log-10"],
      :transform
-     "function (x) \nlog(x, base)\n<bytecode: 0x58d467489ac8>\n<environment: 0x58d46f8464a8>\n",
+     "function (x) \nlog(x, base)\n<bytecode: 0x5b75b7b00b30>\n<environment: 0x5b75b582d0a0>\n",
      :inverse
-     "function (x) \nbase^x\n<bytecode: 0x58d467489c18>\n<environment: 0x58d46f8464a8>\n",
+     "function (x) \nbase^x\n<bytecode: 0x5b75b7b00f90>\n<environment: 0x5b75b582d0a0>\n",
      :breaks
-     "function (x, n = n_default) \n{\n    raw_rng <- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng <- log(raw_rng, base = base)\n    min <- floor(rng[1])\n    max <- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by <- floor((max - min)/n) + 1\n    breaks <- base^seq(min, max, by = by)\n    relevant_breaks <- base^rng[1] <= breaks & breaks <= base^rng[2]\n    if (sum(relevant_breaks) >= (n - 2)) {\n        return(breaks)\n    }\n    while (by > 1) {\n        by <- by - 1\n        breaks <- base^seq(min, max, by = by)\n        relevant_breaks <- base^rng[1] <= breaks & breaks <= \n            base^rng[2]\n        if (sum(relevant_breaks) >= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n<bytecode: 0x58d4673d5710>\n<environment: 0x58d46fe22dc8>\n",
+     "function (x, n = n_default) \n{\n    raw_rng <- suppressWarnings(range(x, na.rm = TRUE))\n    if (any(!is.finite(raw_rng))) {\n        return(numeric())\n    }\n    rng <- log(raw_rng, base = base)\n    min <- floor(rng[1])\n    max <- ceiling(rng[2])\n    if (max == min) {\n        return(base^min)\n    }\n    by <- floor((max - min)/n) + 1\n    breaks <- base^seq(min, max, by = by)\n    relevant_breaks <- base^rng[1] <= breaks & breaks <= base^rng[2]\n    if (sum(relevant_breaks) >= (n - 2)) {\n        return(breaks)\n    }\n    while (by > 1) {\n        by <- by - 1\n        breaks <- base^seq(min, max, by = by)\n        relevant_breaks <- base^rng[1] <= breaks & breaks <= \n            base^rng[2]\n        if (sum(relevant_breaks) >= (n - 2)) {\n            return(breaks)\n        }\n    }\n    log_sub_breaks(rng, n = n, base = base)\n}\n<bytecode: 0x5b75b7a46af8>\n<environment: 0x5b75b58310d8>\n",
      :minor_breaks
-     "function (b, limits, n) \n{\n    b <- b[!is.na(b)]\n    if (length(b) < 2) {\n        return()\n    }\n    bd <- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) < min(b)) \n            b <- c(b[1] - bd, b)\n        if (max(limits) > max(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) > max(b)) \n            b <- c(b[1] - bd, b)\n        if (min(limits) < min(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    seq_between <- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks <- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks <- c(breaks, b[length(b)])\n    breaks\n}\n<bytecode: 0x58d461caa018>\n<environment: 0x58d46fe22a10>\n",
+     "function (b, limits, n) \n{\n    b <- b[!is.na(b)]\n    if (length(b) < 2) {\n        return()\n    }\n    bd <- diff(b)[1]\n    if (!reverse) {\n        if (min(limits) < min(b)) \n            b <- c(b[1] - bd, b)\n        if (max(limits) > max(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    else {\n        if (max(limits) > max(b)) \n            b <- c(b[1] - bd, b)\n        if (min(limits) < min(b)) \n            b <- c(b, b[length(b)] + bd)\n    }\n    seq_between <- function(a, b) {\n        seq(a, b, length.out = n + 1)[-(n + 1)]\n    }\n    breaks <- unlist(Map(seq_between, b[-length(b)], b[-1]))\n    breaks <- c(breaks, b[length(b)])\n    breaks\n}\n<bytecode: 0x5b75b23326a8>\n<environment: 0x5b75b5830ce8>\n",
      :format
-     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret <- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] <- NA\n    ret\n}\n<bytecode: 0x58d461cad640>\n<environment: 0x58d46fe228c0>\n",
+     "function (x) \n{\n    if (!is.null(names(x))) {\n        return(names(x))\n    }\n    ret <- format(x, ..., trim = TRUE, justify = \"left\")\n    ret[is.na(x)] <- NA\n    ret\n}\n<bytecode: 0x5b75b2335cd0>\n<environment: 0x5b75b5830b98>\n",
      :domain [1.0E-100 ##Inf]},
     :oob :ggproto-method,
     :position ["bottom"],
