@@ -44,13 +44,15 @@
                          :color color,
                          :dash "solid"}})))
 
-(color/palette :category10)
-
 (def colors
-  ["rgba(248,118,109,1)"
-   "rgba(124,174,0,1)"
-   "rgba(0,191,196,1)"
-   "rgba(199,124,255,1)"])
+  (->> :category10
+       color/palette
+       (mapv (fn [[r g b a]]
+               (format "rgba(%d,%d,%d,%f)"
+                       (int r)
+                       (int g)
+                       (int b)
+                       (/ a 255.0))))))
 
 (def config
   {:doubleClick "reset",
