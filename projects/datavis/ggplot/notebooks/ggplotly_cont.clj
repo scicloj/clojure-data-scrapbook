@@ -153,64 +153,58 @@
    :yaxis yaxis})
 
 
-(defn factor [column]
-  (vary-meta column
-             assoc :gg/factor? true))
-
-(defn factor? [column]
-  (:gg/factor? column))
-
-(let [data toydata.ggplot/mpg
-      point-layers (-> data
-                       (tc/add-column "factor(cyl)" #(factor (:cyl %)))
-                       (tc/group-by :cyl {:result-type :as-map})
-                       (->> (sort-by key)
-                            (map-indexed
-                             (fn [i [group-name group-data]]
-                               (let [base {:x (:hwy group-data),
-                                           :y (:displ group-data)
-                                           :color (colors i)
-                                           :name group-name
-                                           :legendgroup group-name}
-                                     predictions (map
-                                                  (fun/linear-regressor (:hwy group-data)
-                                                                        (:displ group-data))
-                                                  (:hwy group-data))]
-                                 [(-> base
-                                      (assoc :type :point
-                                             :showlegend true
+(delay
+  (let [data toydata.ggplot/mpg
+        point-layers (-> data
+                         (tc/add-column "factor(cyl)" #(factor (:cyl %)))
+                         (tc/group-by :cyl {:result-type :as-map})
+                         (->> (sort-by key)
+                              (map-indexed
+                               (fn [i [group-name group-data]]
+                                 (let [base {:x (:hwy group-data),
                                              :y (:displ group-data)
-                                             :text (-> group-data
-                                                       (texts [:hwy :displ "factor(cyl)"])))
-                                      layer)
-                                  (-> base
-                                      (assoc :type :line
-                                             :showlegend false
-                                             :y predictions
-                                             :text (-> group-data
-                                                       ;; (tc/add-column :displ predictions)
-                                                       (texts [:hwy :displ "factor(cyl)"])))
-                                      layer)])))
-                            (apply concat)))
-      xmin (-> data :hwy fun/reduce-min)
-      xmax (-> data :hwy fun/reduce-max)
-      ymin (-> data :displ fun/reduce-min)
-      ymax (-> data :displ fun/reduce-max)
-      xaxis (axis {:minval xmin
-                   :maxval xmax
-                   :anchor "x"
-                   :title :hwy})
-      yaxis (axis {:minval ymin
-                   :maxval ymax
-                   :anchor "x"
-                   :title :displ})]
-  (kind/htmlwidgets-ggplotly
-   {:x
-    {:config config
-     :highlight highlight
-     :base_url "https://plot.ly",
-     :layout (layout {:xaxis xaxis
-                      :yaxis yaxis})
-     :data point-layers},
-    :evals [],
-    :jsHooks []}))
+                                             :color (colors i)
+                                             :name group-name
+                                             :legendgroup group-name}
+                                       predictions (map
+                                                    (fun/linear-regressor (:hwy group-data)
+                                                                          (:displ group-data))
+                                                    (:hwy group-data))]
+                                   [(-> base
+                                        (assoc :type :point
+                                               :showlegend true
+                                               :y (:displ group-data)
+                                               :text (-> group-data
+                                                         (texts [:hwy :displ "factor(cyl)"])))
+                                        layer)
+                                    (-> base
+                                        (assoc :type :line
+                                               :showlegend false
+                                               :y predictions
+                                               :text (-> group-data
+                                                         ;; (tc/add-column :displ predictions)
+                                                         (texts [:hwy :displ "factor(cyl)"])))
+                                        layer)])))
+                              (apply concat)))
+        xmin (-> data :hwy fun/reduce-min)
+        xmax (-> data :hwy fun/reduce-max)
+        ymin (-> data :displ fun/reduce-min)
+        ymax (-> data :displ fun/reduce-max)
+        xaxis (axis {:minval xmin
+                     :maxval xmax
+                     :anchor "x"
+                     :title :hwy})
+        yaxis (axis {:minval ymin
+                     :maxval ymax
+                     :anchor "x"
+                     :title :displ})]
+    (kind/htmlwidgets-ggplotly
+     {:x
+      {:config config
+       :highlight highlight
+       :base_url "https://plot.ly",
+       :layout (layout {:xaxis xaxis
+                        :yaxis yaxis})
+       :data point-layers},
+      :evals [],
+      :jsHooks []})))
