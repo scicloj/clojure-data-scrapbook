@@ -5,7 +5,8 @@
             [scicloj.kindly.v4.kind :as kind]
             [clojure.string :as str]
             [clojure.math :as math]
-            [clojure2d.color :as color]))
+            [clojure2d.color :as color]
+            [tablecloth.column.api :as tcc]))
 
 ;; # Further exploring ggplotly's client side
 
@@ -188,10 +189,10 @@
                                                          (texts [:hwy :displ "factor(cyl)"])))
                                         layer)])))
                               (apply concat)))
-        xmin (-> data :hwy fun/reduce-min)
-        xmax (-> data :hwy fun/reduce-max)
-        ymin (-> data :displ fun/reduce-min)
-        ymax (-> data :displ fun/reduce-max)
+        xmin (-> data :hwy tcc/reduce-min)
+        xmax (-> data :hwy tcc/reduce-max)
+        ymin (-> data :displ tcc/reduce-min)
+        ymax (-> data :displ tcc/reduce-max)
         xaxis (axis {:minval xmin
                      :maxval xmax
                      :anchor "x"
