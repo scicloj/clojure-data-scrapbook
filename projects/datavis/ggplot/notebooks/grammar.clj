@@ -26,21 +26,30 @@
 (defn factor? [column]
   (:gg/factor? column))
 
-(defn add-column-by-name [ds new-column-fn]
-  (let [new-column (new-column-fn ds)]
-    (-> ds
-        (tc/add-column (-> new-column meta :name)
-                       new-column))))
+(defn compute-mapping-details [ds mapping]
+  (-> mapping
+      (update-vals (fn [colname-or-fn]
+                     (if (or (keyword? colname-or-fn)
+                             (string? colname-or-fn))
+                       {:name colname-or-fn}
+                       ;; else - a function
+                       (let [new-column (colname-or-fn ds)
+                             new-name (-> new-column meta :name)]
+                         (assert new-name) ; TODO: handle cases where it is missing
+                         {:name new-name
+                          :new-column new-column}))))))
 
-(-> toydata.ggplot/mpg
-    (add-column-by-name #(factor (:cyl %)))
-    (tc/group-by ["factor(cyl)"] {:result-type :as-map}))
-
-
-(-> {:data toydata.ggplot/mpg}
-    ((fn [{:keys [data]}]
-       (let [grouping-columns ["factor(cyl)"]
-             columns-for-text [:hwy :disply "factor(cyl)"]
+(-> {:data toydata.ggplot/mpg
+     :mapping {:x :hwy
+               :y :displ
+               :color #(factor (:cyl %))}}
+    ((fn [{:keys [data mapping]}]
+       (let [mapping-details (compute-mapping-details data mapping)
+             mapping-columns (->> mapping-details
+                                  vals
+                                  (mapv :name))
+             grouping-columns ["factor(cyl)"]
+             columns-for-text mapping-columns
              point-layers (-> data
                               (add-column-by-name #(factor (:cyl %)))
                               (tc/group-by grouping-columns {:result-type :as-map})
