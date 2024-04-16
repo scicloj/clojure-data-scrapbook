@@ -1,0 +1,138 @@
+
+---
+format:
+  html: {toc: true, toc-depth: 4, theme: cosmo, output-file: many_json_lines.html}
+fontsize: 0.9em
+code-block-background: true
+include-in-header: {text: '<link rel = "icon" href = "data:," />'}
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+</style>
+<script src="many_json_lines_files/md-default0.js" type="text/javascript"></script><script src="many_json_lines_files/md-default1.js" type="text/javascript"></script>
+
+```{=html}
+<table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td><a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table>
+```
+
+
+
+# Processing many JSON lines
+
+
+::: {.sourceClojure}
+```clojure
+(ns many-json-lines
+  (:require [charred.api :as charred]
+            [scicloj.kindly.v4.kind :as kind]
+            [clojure.java.io :as io]))
+```
+:::
+
+
+Let us create a file with many JSON lines.
+
+
+::: {.sourceClojure}
+```clojure
+(def path "/tmp/lines.jsonl")
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(with-open [writer ((charred/json-writer-fn {}) path)]
+  (dotimes [i 3]
+    (.writeObject writer
+                  {:i i
+                   :x (rand)})
+    (.write (.w writer)
+            "\n")))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+nil
+
+```
+:::
+
+
+Let us look at a few of those lines we wrote.
+
+
+::: {.sourceClojure}
+```clojure
+(with-open [reader (io/reader path)]
+  (->> reader
+       line-seq
+       (take 4)
+       vec))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+["{\"i\":0,\"x\":0.8833069538053755}"
+ "{\"i\":1,\"x\":0.016778130034834637}"
+ "{\"i\":2,\"x\":0.751953143790835}"]
+
+```
+:::
+
+
+Now we will demonstrate processing the data.
+We will read all lines, extract the relevant part of each line,
+and sum these parts up.
+
+
+::: {.sourceClojure}
+```clojure
+(defn extract-relevant-data [json-data]
+  (get json-data "x"))
+```
+:::
+
+
+
+::: {.sourceClojure}
+```clojure
+(with-open [json-fn (-> path
+                        io/reader
+                        (charred/read-json-supplier {:eof-error? false}))]
+  (doall
+   (map extract-relevant-data json-fn)))
+```
+:::
+
+
+
+::: {.printedClojure}
+```clojure
+(0.8833069538053755 0.016778130034834637 0.751953143790835 nil)
+
+```
+:::
+
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div><pre><small><small>source: projects/data-processing/notebooks/many_json_lines.clj</small></small></pre></div>
+```
