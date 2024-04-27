@@ -12,12 +12,13 @@
   (f arg))
 
 (defn prepare-data [dataset]
-  (let [{:keys [path _]}
-        (tempfiles/tempfile! ".csv")]
-    (-> dataset
-        (ds/write! path))
-    {:values (slurp path)
-     :format {:type "csv"}}))
+  (when dataset
+    (let [{:keys [path _]}
+          (tempfiles/tempfile! ".csv")]
+      (-> dataset
+          (ds/write! path))
+      {:values (slurp path)
+       :format {:type "csv"}})))
 
 (defn safe-update [m k f]
   (if (m k)
@@ -27,22 +28,33 @@
 (defn layered-xform [{:keys [template args]}]
   (-> template
       (safe-update :layer
-                   (partial map (fn [layer]
-                                  (-> layer
-                                      (update :template (partial merge (dissoc template
-                                                                               :layer
-                                                                               :metamorph/data)))
-                                      (update :args (partial merge args))
-                                      layered-xform))))
+                   (partial
+                    mapv
+                    (fn [layer]
+                      (-> layer
+                          (update :template
+                                  (partial merge (dissoc template
+                                                         :layer
+                                                         :metamorph/data)))
+                          (update :args
+                                  (partial merge args))
+                          layered-xform))))
       (update :metamorph/data prepare-data)
       (hc/xform args)
       (update-keys #(case % :metamorph/data :data %))
       kind/vega-lite))
 
-(def point-chart
-  (assoc ht/point-chart
+(defn svg-rendered [vega-lite-template]
+  (assoc vega-lite-template
          :usermeta
          {:embedOptions {:renderer :svg}}))
+
+(def point-chart
+  (svg-rendered ht/point-chart))
+
+(def line-chart
+  (svg-rendered ht/line-chart))
+
 
 (defn plot
   ([dataset template args]
@@ -65,9 +77,39 @@
                   :args args}])))))
 
 
+(defn layer
+  ([context template args]
+   (if (tc/dataset? context)
+     (layer (plot context {} {})
+            template
+            args)
+     (-> context
+         (update
+          1
+          update
+          :template
+          update
+          :layer
+          (comp vec conj)
+          {:template template
+           :args args})))))
 
 
 (-> (toydata/iris-ds)
     (plot point-chart
           {:X :sepal_width
            :Y :sepal_length}))
+
+(-> (toydata/iris-ds)
+    (plot {}
+          {:TITLE "dummy"
+           :MCOLOR "green"})
+    (layer point-chart
+           {:X :sepal_width
+            :Y :sepal_length
+            :MSIZE 100})
+    (layer line-chart
+           {:X :sepal_width
+            :Y :sepal_length
+            :MSIZE 4
+            :MCOLOR "brown"}))
