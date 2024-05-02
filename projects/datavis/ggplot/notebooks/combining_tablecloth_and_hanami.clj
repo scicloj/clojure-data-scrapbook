@@ -3,15 +3,32 @@
             [scicloj.noj.v1.paths :as paths]
             [scicloj.tempfiles.api :as tempfiles]
             [tablecloth.api :as tc]
+            [tablecloth.pipeline :as tcpipe]
+            [tablecloth.column.api :as tcc]
             [tech.v3.dataset :as ds]
             [aerial.hanami.common :as hc]
             [aerial.hanami.templates :as ht]
-            [scicloj.metamorph.ml.toydata :as toydata]))
+            [scicloj.metamorph.ml.toydata :as toydata]
+            [tech.v3.datatype.functional :as fun]
+            [tech.v3.dataset.modelling :as modelling]
+            [scicloj.metamorph.ml :as ml]
+            [scicloj.metamorph.core :as mm]))
 
-(defn invoke [[f arg]]
-  (f arg))
 
-(defn prepare-data [dataset]
+(defn make [{:keys [kindly/f]
+             :as value}]
+  (-> value
+      (dissoc :kindly/f)
+      f))
+
+
+(delay
+  (make {:kindly/f tc/dataset
+         :x (range 4)
+         :y (repeatedly 4 rand)}))
+
+
+(defn prepare-data-for-vega [dataset]
   (when dataset
     (let [{:keys [path _]}
           (tempfiles/tempfile! ".csv")]
@@ -20,73 +37,111 @@
       {:values (slurp path)
        :format {:type "csv"}})))
 
+(delay
+  (-> {:x (range 4)
+       :y (repeatedly 4 rand)}
+      tc/dataset
+      prepare-data-for-vega))
+
+
 (defn safe-update [m k f]
   (if (m k)
     (update m k f)
     m))
 
-(defn layered-xform [{:keys [template args]}]
-  (-> template
-      (safe-update :layer
-                   (partial
-                    mapv
-                    (fn [layer]
-                      (-> layer
-                          (update :template
-                                  (partial merge (dissoc template
-                                                         :layer
-                                                         :metamorph/data)))
-                          (update :args
-                                  (partial merge args))
-                          layered-xform))))
-      (update :metamorph/data prepare-data)
-      (hc/xform args)
-      (update-keys #(case % :metamorph/data :data %))
-      kind/vega-lite))
+
+(defn xform [context]
+  (let [{:keys [hana/stat]} (:args context)
+        context1 (if stat
+                   (stat context)
+                   context)
+        {:keys [template args metamorph/data]} context1]
+    (-> template
+        (hc/xform args)
+        (cond-> data
+          (assoc :data (prepare-data-for-vega data)))
+        kind/vega-lite)))
+
+
+(delay
+  (xform {:template ht/point-chart
+          :args {:X :sepal_width
+                 :Y :sepal_length
+                 :MSIZE 200
+                 :hana/stat (fn [context]
+                              (update context :metamorph/data tc/head))}
+          :metamorph/data (toydata/iris-ds)}))
+
+
+(delay
+  (-> {:template ht/point-chart
+       :args {:X :sepal_width_2
+              :Y :sepal_length
+              :MSIZE 200
+              :hana/stat (fn [context]
+                           (update context :metamorph/data
+                                   tc/sq :sepal_width_2 :sepal_width))}
+       :metamorph/data (toydata/iris-ds)}
+      ((mm/lift tc/random 20))
+      xform))
+
+
+(defn layered-xform [{:as context
+                      :keys [template args metamorph/data]}]
+  (-> context
+      (update :template
+              safe-update
+              :layer
+              (partial
+               mapv
+               (fn [layer]
+                 (-> layer
+                     ;; merge the toplevel args
+                     ;; with the layer's
+                     ;; specific args
+                     (update :args (partial merge args))
+                     (update :metamorph/data #(or % data))
+                     xform))))
+      xform))
 
 (defn svg-rendered [vega-lite-template]
   (assoc vega-lite-template
          :usermeta
          {:embedOptions {:renderer :svg}}))
 
-(def point-chart
-  (svg-rendered ht/point-chart))
-
-(def line-chart
-  (svg-rendered ht/line-chart))
-
+(def view-base (svg-rendered ht/view-base))
+(def point-chart (svg-rendered ht/point-chart))
+(def line-chart (svg-rendered ht/line-chart))
+(def point-layer ht/point-layer)
+(def line-layer ht/line-layer)
 
 (defn plot
-  ([dataset template args]
-   (plot (assoc template
-                :metamorph/data dataset)
+  ([dataset args]
+   (plot dataset
+         view-base
          args))
-  ([template args]
-   (let [dataset (:metamorph/data template)]
-     (if (tc/grouped? dataset)
-       (-> dataset
-           (tc/aggregate {:plot (fn [group-dataset]
-                                  [(plot (assoc template
-                                                :metamorph/data group-dataset)
-                                         args)])})
-           (tc/rename-columns {:plot-0 :plot})
-           kind/table)
-       ;; else
-       (kind/fn [layered-xform
-                 {:template template
-                  :args args}])))))
+  ([dataset template args]
+   (kind/fn {:kindly/f layered-xform
+             :metamorph/data dataset
+             :template template
+             :args args})))
+
+(delay
+  (-> (toydata/iris-ds)
+      (plot point-chart
+            {:X :sepal_width
+             :Y :sepal_length
+             :MSIZE 200})))
 
 
 (defn layer
   ([context template args]
    (if (tc/dataset? context)
-     (layer (plot context {} {})
+     (layer (plot context {})
             template
             args)
      (-> context
          (update
-          1
-          update
           :template
           update
           :layer
@@ -95,21 +150,130 @@
            :args args})))))
 
 
-(-> (toydata/iris-ds)
-    (plot point-chart
-          {:X :sepal_width
-           :Y :sepal_length}))
+(delay
+  (-> (toydata/iris-ds)
+      (plot {:TITLE "dummy"
+             :MCOLOR "green"})
+      (layer point-layer
+             {:X :sepal_width
+              :Y :sepal_length
+              :MSIZE 100})
+      (layer line-layer
+             {:X :sepal_width
+              :Y :sepal_length
+              :MSIZE 4
+              :MCOLOR "brown"})))
 
-(-> (toydata/iris-ds)
-    (plot {}
-          {:TITLE "dummy"
-           :MCOLOR "green"})
-    (layer point-chart
-           {:X :sepal_width
-            :Y :sepal_length
-            :MSIZE 100})
-    (layer line-chart
-           {:X :sepal_width
-            :Y :sepal_length
-            :MSIZE 4
-            :MCOLOR "brown"}))
+(defn layer-point
+  ([context]
+   (layer-point context {}))
+  ([context args]
+   (layer context point-layer args)))
+
+(defn layer-line
+  ([context]
+   (layer-line context {}))
+  ([context args]
+   (layer context line-layer args)))
+
+
+(delay
+  (-> (toydata/iris-ds)
+      (plot {:TITLE "dummy"
+             :MCOLOR "green"})
+      (layer-point {:X :sepal_width
+                    :Y :sepal_length
+                    :MSIZE 100})
+      (layer-line {:X :sepal_width
+                   :Y :sepal_length
+                   :MSIZE 4
+                   :MCOLOR "brown"})))
+
+
+(def smooth-stat
+  (fn [{:as context
+        :keys [template args]}]
+    (let [[Y X X-predictors grouping-columns] (map args [:Y :X :X-predictors :hana/grouping-columns])
+          predictors (or X-predictors [X])
+          predictions-fn (fn [dataset]
+                           (let [nonmissing-Y (-> dataset
+                                                  (tc/drop-missing [Y]))]
+                             (if (-> predictors count (= 1))
+                               ;; simple linear regression
+                               (let [model (fun/linear-regressor (-> predictors first nonmissing-Y)
+                                                                 (nonmissing-Y Y))]
+                                 (->> predictors
+                                      first
+                                      dataset
+                                      (map model)))
+                               ;; multiple linear regression
+                               (let [_ (require 'scicloj.ml.smile.regression)
+                                     model (-> nonmissing-Y
+                                               (modelling/set-inference-target Y)
+                                               (tc/select-columns (cons Y predictors))
+                                               (ml/train {:model-type
+                                                          :smile.regression/ordinary-least-square}))]
+                                 (-> dataset
+                                     (tc/drop-columns [Y])
+                                     (ml/predict model)
+                                     (get Y))))))
+          update-data-fn (fn [dataset]
+                           (if grouping-columns
+                             (-> dataset
+                                 (tc/group-by grouping-columns)
+                                 (tc/add-or-replace-column Y predictions-fn)
+                                 tc/ungroup)
+                             (-> dataset
+                                 (tc/add-or-replace-column Y predictions-fn))))]
+      (-> context
+          (update :metamorph/data update-data-fn)))))
+
+
+
+(defn layer-smooth
+  ([context]
+   (layer-smooth context {}))
+  ([context args]
+   (layer context
+          line-layer
+          (merge {:hana/stat smooth-stat}
+                 args))))
+
+
+(delay
+  (-> (toydata/iris-ds)
+      (plot {:X :sepal_width
+             :Y :sepal_length})
+      layer-point
+      layer-smooth))
+
+(delay
+  (-> (toydata/iris-ds)
+      (plot {:X :sepal_width
+             :Y :sepal_length
+             :COLOR "species"
+             :hana/grouping-columns [:species]})
+      layer-point
+      layer-smooth))
+
+(delay
+  (-> (toydata/iris-ds)
+      (tc/concat (tc/dataset {:sepal_width (range 4 10)
+                              :sepal_length (repeat 6 nil)}))
+      (tc/map-columns :relative-time
+                      [:sepal_length]
+                      #(if % "Past" "Future"))
+      (plot {:X :sepal_width
+             :Y :sepal_length
+             :COLOR "relative-time"})
+      layer-point
+      layer-smooth))
+
+
+(delay
+  (-> (toydata/iris-ds)
+      (plot {:X :sepal_width
+             :Y :sepal_length})
+      layer-point
+      (layer-smooth {:X-predictors [:petal_width
+                                    :petal_length]})))
