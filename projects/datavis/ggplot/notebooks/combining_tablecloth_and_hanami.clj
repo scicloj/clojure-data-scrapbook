@@ -106,6 +106,35 @@
       kind/vega-lite))
 
 
+(defn update-data [template dataset-fn & args]
+  (-> template
+      (update-in [::ht/defaults :hana/data]
+                 (fn [wrapped-data]
+                   (->WrappedValue
+                    (apply dataset-fn
+                           @wrapped-data
+                           args))))))
+
+
+
+(delay
+  (-> ht/point-chart
+      (merge
+       {:data :CSVDATA
+        ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
+                                             hana/stat]}]
+                                  (-> @data
+                                      stat
+                                      prepare-data-for-vega))
+                       :X "sepal_width"
+                       :Y "sepal_length"
+                       :SIZE 100
+                       :hana/stat #(tc/head % 20)
+                       :hana/data (->WrappedValue (toydata/iris-ds))}})
+      (update-data tc/head 5)
+      hc/xform
+      kind/vega-lite))
+
 
 (delay
   (-> {:template ht/point-chart
