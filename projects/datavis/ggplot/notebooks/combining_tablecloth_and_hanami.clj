@@ -1,5 +1,6 @@
 (ns combining-tablecloth-and-hanami
   (:require [scicloj.kindly.v4.kind :as kind]
+            [scicloj.kindly.v4.api :as kindly]
             [scicloj.noj.v1.paths :as paths]
             [scicloj.tempfiles.api :as tempfiles]
             [tablecloth.api :as tc]
@@ -21,7 +22,6 @@
       (dissoc :kindly/f)
       f))
 
-
 (delay
   (make {:kindly/f tc/dataset
          :x (range 4)
@@ -34,8 +34,10 @@
           (tempfiles/tempfile! ".csv")]
       (-> dataset
           (ds/write! path))
+      (slurp path)
       {:values (slurp path)
        :format {:type "csv"}})))
+
 
 (delay
   (-> {:x (range 4)
@@ -44,33 +46,68 @@
       prepare-data-for-vega))
 
 
-(defn safe-update [m k f]
-  (if (m k)
-    (update m k f)
-    m))
-
-
-(defn xform [context]
-  (let [{:keys [hana/stat]} (:args context)
-        context1 (if stat
-                   (stat context)
-                   context)
-        {:keys [template args metamorph/data]} context1]
-    (-> template
-        (hc/xform args)
-        (cond-> data
-          (assoc :data (prepare-data-for-vega data)))
-        kind/vega-lite)))
+(delay
+  (hc/xform (merge ht/view-base
+                   {:data :CSVDATA
+                    ::ht/defaults {:CSVDATA (comp prepare-data-for-vega :hana/data)}})
+            {:hana/data (tc/dataset {:x (range 4)})}))
 
 
 (delay
-  (xform {:template ht/point-chart
-          :args {:X :sepal_width
-                 :Y :sepal_length
-                 :MSIZE 200
-                 :hana/stat (fn [context]
-                              (update context :metamorph/data tc/head))}
-          :metamorph/data (toydata/iris-ds)}))
+  (hc/xform (merge ht/view-base
+                   {:data :CSVDATA
+                    ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
+                                                         hana/stat]}]
+                                              (-> data
+                                                  stat
+                                                  prepare-data-for-vega))}})
+            {:hana/data (tc/dataset {:x (range 40)})
+             :hana/stat tc/head}))
+
+
+(delay
+  (kind/vega-lite
+   (hc/xform (merge ht/point-chart
+                    {:data :CSVDATA
+                     ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
+                                                          hana/stat]}]
+                                               (-> data
+                                                   stat
+                                                   prepare-data-for-vega))}})
+             {:hana/data (toydata/iris-ds)
+              :hana/stat #(tc/head % 20)
+              :X "sepal_width"
+              :Y "sepal_length"
+              :SIZE 100})))
+
+
+(defrecord R [x])
+
+(hc/xform {:A (fn [{:keys [B]}]
+                (nil? B))
+           :B (-> {:x (range 9)}
+                  tc/dataset
+                  (update-vals vec))})
+
+(delay
+  (kind/vega-lite
+   (hc/xform (merge ht/point-chart
+                    {:data :CSVDATA
+                     ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
+                                                          hana/stat]}]
+                                               (-> data
+                                                   stat
+                                                   prepare-data-for-vega))}
+                     :hana/data (toydata/iris-ds)
+                     :hana/stat #(tc/head % 20)
+                     :X "sepal_width"
+                     :Y "sepal_length"
+                     :SIZE 100})
+             {})))
+
+
+(defn lift [dataset-fn args]
+  (fn [args]))
 
 
 (delay
@@ -82,8 +119,34 @@
                            (update context :metamorph/data
                                    tc/sq :sepal_width_2 :sepal_width))}
        :metamorph/data (toydata/iris-ds)}
-      ((mm/lift tc/random 20))
-      xform))
+      ((mm/lift tc/random 20)))
+  xform)
+
+
+
+(-> (merge ht/point-chart
+           {::ht/defaults
+            {:X :sepal_width_2
+             :Y :sepal_length
+             :MSIZE 200
+             :hana/stat (fn [context]
+                          (update context :metamorph/data
+                                  tc/sq :sepal_width_2 :sepal_width))
+             :metamorph/data (toydata/iris-ds)}})
+    hc/xform)
+
+
+
+
+
+
+
+
+(defn safe-update [m k f]
+  (if (m k)
+    (update m k f)
+    m))
+
 
 
 (defn layered-xform [{:as context
@@ -105,9 +168,9 @@
       xform))
 
 (defn svg-rendered [vega-lite-template]
-  (assoc vega-lite-template
-         :usermeta
-         {:embedOptions {:renderer :svg}}))
+(assoc vega-lite-template
+       :usermeta
+       {:embedOptions {:renderer :svg}}))
 
 (def view-base (svg-rendered ht/view-base))
 (def point-chart (svg-rendered ht/point-chart))
@@ -116,22 +179,23 @@
 (def line-layer ht/line-layer)
 
 (defn plot
-  ([dataset args]
-   (plot dataset
-         view-base
-         args))
-  ([dataset template args]
-   (kind/fn {:kindly/f layered-xform
-             :metamorph/data dataset
-             :template template
-             :args args})))
+([dataset args]
+ (plot dataset
+       view-base
+       args))
+([dataset template args]
+ (kind/fn {:kindly/f layered-xform
+           :metamorph/data dataset
+           :template template
+           :args args})))
+
 
 (delay
-  (-> (toydata/iris-ds)
-      (plot point-chart
-            {:X :sepal_width
-             :Y :sepal_length
-             :MSIZE 200})))
+(-> (toydata/iris-ds)
+    (plot point-chart
+          {:X :sepal_width
+           :Y :sepal_length
+           :MSIZE 200})))
 
 
 (defn layer
@@ -153,16 +217,16 @@
 (delay
   (-> (toydata/iris-ds)
       (plot {:TITLE "dummy"
-             :MCOLOR "green"})
+             :MCOLOR "green"
+             :X :sepal_width
+             :Y :sepal_length})
       (layer point-layer
-             {:X :sepal_width
-              :Y :sepal_length
-              :MSIZE 100})
+             {:MSIZE 100})
       (layer line-layer
-             {:X :sepal_width
-              :Y :sepal_length
-              :MSIZE 4
-              :MCOLOR "brown"})))
+             {:MSIZE 4
+              :MCOLOR "brown"})
+      ((mm/lift tc/random 20))))
+
 
 (defn layer-point
   ([context]
@@ -277,3 +341,8 @@
       layer-point
       (layer-smooth {:X-predictors [:petal_width
                                     :petal_length]})))
+
+
+
+
+;; TODO: grouped-dataset, facets, hconcat, vconcat
