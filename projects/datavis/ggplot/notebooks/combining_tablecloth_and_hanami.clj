@@ -81,33 +81,30 @@
               :SIZE 100})))
 
 
-(defrecord R [x])
-
-(hc/xform {:A (fn [{:keys [B]}]
-                (nil? B))
-           :B (-> {:x (range 9)}
-                  tc/dataset
-                  (update-vals vec))})
+(deftype WrappedValue [value]
+  clojure.lang.IDeref
+  (deref [this] value))
 
 (delay
-  (kind/vega-lite
-   (hc/xform (merge ht/point-chart
-                    {:data :CSVDATA
-                     ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
-                                                          hana/stat]}]
-                                               (-> data
-                                                   stat
-                                                   prepare-data-for-vega))}
-                     :hana/data (toydata/iris-ds)
-                     :hana/stat #(tc/head % 20)
-                     :X "sepal_width"
-                     :Y "sepal_length"
-                     :SIZE 100})
-             {})))
+  @(->WrappedValue 9))
 
+(delay
+  (-> ht/point-chart
+      (merge
+       {:data :CSVDATA
+        ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
+                                             hana/stat]}]
+                                  (-> @data
+                                      stat
+                                      prepare-data-for-vega))
+                       :X "sepal_width"
+                       :Y "sepal_length"
+                       :SIZE 100
+                       :hana/stat #(tc/head % 20)
+                       :hana/data (->WrappedValue (toydata/iris-ds))}})
+      hc/xform
+      kind/vega-lite))
 
-(defn lift [dataset-fn args]
-  (fn [args]))
 
 
 (delay
