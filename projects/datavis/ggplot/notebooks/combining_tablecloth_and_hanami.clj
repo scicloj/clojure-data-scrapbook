@@ -28,54 +28,52 @@
          :y (repeatedly 4 rand)}))
 
 
-(defn prepare-data-for-vega [dataset]
+(defn dataset->csv [dataset]
   (when dataset
     (let [{:keys [path _]}
           (tempfiles/tempfile! ".csv")]
       (-> dataset
           (ds/write! path))
-      (slurp path)
-      {:values (slurp path)
-       :format {:type "csv"}})))
+      (slurp path))))
 
 
 (delay
   (-> {:x (range 4)
        :y (repeatedly 4 rand)}
       tc/dataset
-      prepare-data-for-vega))
+      dataset->csv))
 
 
 (delay
   (hc/xform (merge ht/view-base
-                   {:data :CSVDATA
-                    ::ht/defaults {:CSVDATA (comp prepare-data-for-vega :hana/data)}})
+                   {::ht/defaults {:VALDATA (comp dataset->csv :hana/data)
+                                   :DFMT {:type "csv"}}})
             {:hana/data (tc/dataset {:x (range 4)})}))
 
 
 (delay
   (hc/xform (merge ht/view-base
-                   {:data :CSVDATA
-                    ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
-                                                         hana/stat]}]
-                                              (-> data
+                   {::ht/defaults {:VALDATA (fn [{:as args
+                                                  :keys [hana/stat]}]
+                                              (-> args
                                                   stat
-                                                  prepare-data-for-vega))}})
+                                                  dataset->csv))
+                                   :DFMT {:type "csv"}}})
             {:hana/data (tc/dataset {:x (range 40)})
-             :hana/stat tc/head}))
+             :hana/stat (comp tc/head :hana/data)}))
 
 
 (delay
   (kind/vega-lite
    (hc/xform (merge ht/point-chart
-                    {:data :CSVDATA
-                     ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
-                                                          hana/stat]}]
-                                               (-> data
+                    {::ht/defaults {:VALDATA (fn [{:as args
+                                                   :keys [hana/stat]}]
+                                               (-> args
                                                    stat
-                                                   prepare-data-for-vega))}})
+                                                   dataset->csv))
+                                    :DFMT {:type "csv"}}})
              {:hana/data (toydata/iris-ds)
-              :hana/stat #(tc/head % 20)
+              :hana/stat (comp #(tc/head % 20) :hana/data)
               :X "sepal_width"
               :Y "sepal_length"
               :SIZE 100})))
@@ -91,19 +89,21 @@
 (delay
   (-> ht/point-chart
       (merge
-       {:data :CSVDATA
-        ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
-                                             hana/stat]}]
-                                  (-> @data
+       {::ht/defaults {:VALDATA (fn [{:as args
+                                      :keys [hana/stat]}]
+                                  (-> args
                                       stat
-                                      prepare-data-for-vega))
+                                      dataset->csv))
+                       :DFMT {:type "csv"}
                        :X "sepal_width"
                        :Y "sepal_length"
                        :SIZE 100
-                       :hana/stat #(tc/head % 20)
+                       :hana/stat (comp #(tc/head % 20) deref :hana/data)
                        :hana/data (->WrappedValue (toydata/iris-ds))}})
       hc/xform
       kind/vega-lite))
+
+
 
 
 (defn update-data [template dataset-fn & args]
@@ -116,112 +116,70 @@
                            args))))))
 
 
-
 (delay
   (-> ht/point-chart
       (merge
-       {:data :CSVDATA
-        ::ht/defaults {:CSVDATA (fn [{:keys [hana/data
-                                             hana/stat]}]
-                                  (-> @data
+       {::ht/defaults {:VALDATA (fn [{:as args
+                                      :keys [hana/stat]}]
+                                  (-> args
                                       stat
-                                      prepare-data-for-vega))
+                                      dataset->csv))
+                       :DFMT {:type "csv"}
                        :X "sepal_width"
                        :Y "sepal_length"
                        :SIZE 100
-                       :hana/stat #(tc/head % 20)
+                       :hana/stat (comp #(tc/head % 20) deref :hana/data)
                        :hana/data (->WrappedValue (toydata/iris-ds))}})
       (update-data tc/head 5)
       hc/xform
       kind/vega-lite))
 
 
-(delay
-  (-> {:template ht/point-chart
-       :args {:X :sepal_width_2
-              :Y :sepal_length
-              :MSIZE 200
-              :hana/stat (fn [context]
-                           (update context :metamorph/data
-                                   tc/sq :sepal_width_2 :sepal_width))}
-       :metamorph/data (toydata/iris-ds)}
-      ((mm/lift tc/random 20)))
-  xform)
-
-
-
-(-> (merge ht/point-chart
-           {::ht/defaults
-            {:X :sepal_width_2
-             :Y :sepal_length
-             :MSIZE 200
-             :hana/stat (fn [context]
-                          (update context :metamorph/data
-                                  tc/sq :sepal_width_2 :sepal_width))
-             :metamorph/data (toydata/iris-ds)}})
-    hc/xform)
-
-
-
-
-
-
-
-
-(defn safe-update [m k f]
-  (if (m k)
-    (update m k f)
-    m))
-
-
-
-(defn layered-xform [{:as context
-                      :keys [template args metamorph/data]}]
-  (-> context
-      (update :template
-              safe-update
-              :layer
-              (partial
-               mapv
-               (fn [layer]
-                 (-> layer
-                     ;; merge the toplevel args
-                     ;; with the layer's
-                     ;; specific args
-                     (update :args (partial merge args))
-                     (update :metamorph/data #(or % data))
-                     xform))))
-      xform))
-
 (defn svg-rendered [vega-lite-template]
-(assoc vega-lite-template
-       :usermeta
-       {:embedOptions {:renderer :svg}}))
+  (assoc vega-lite-template
+         :usermeta
+         {:embedOptions {:renderer :svg}}))
 
 (def view-base (svg-rendered ht/view-base))
 (def point-chart (svg-rendered ht/point-chart))
 (def line-chart (svg-rendered ht/line-chart))
+(def layer-chart (svg-rendered ht/layer-chart))
 (def point-layer ht/point-layer)
 (def line-layer ht/line-layer)
 
-(defn plot
-([dataset args]
- (plot dataset
-       view-base
-       args))
-([dataset template args]
- (kind/fn {:kindly/f layered-xform
-           :metamorph/data dataset
-           :template template
-           :args args})))
+(defn make-vega-lite [& args]
+  (->> args
+       (apply hc/xform)
+       kind/vega-lite))
 
+(defn valdata-from-dataset [{:as args
+                             :keys [hana/data
+                                    hana/stat]}]
+  (dataset->csv
+   (if stat
+     (stat args)
+     @data)))
+
+
+(defn plot
+  ([dataset args]
+   (plot dataset
+         view-base
+         args))
+  ([dataset template args]
+   (kind/fn (merge template
+                   {:kindly/f #'make-vega-lite
+                    ::ht/defaults (merge {:VALDATA valdata-from-dataset
+                                          :DFMT {:type "csv"}
+                                          :hana/data (->WrappedValue dataset)}
+                                         args)}))))
 
 (delay
-(-> (toydata/iris-ds)
-    (plot point-chart
-          {:X :sepal_width
-           :Y :sepal_length
-           :MSIZE 200})))
+  (-> (toydata/iris-ds)
+      (plot point-chart
+            {:X :sepal_width
+             :Y :sepal_length
+             :MSIZE 200})))
 
 
 (defn layer
@@ -230,14 +188,15 @@
      (layer (plot context {})
             template
             args)
+     ;; else - the context is already a template
      (-> context
-         (update
-          :template
-          update
-          :layer
-          (comp vec conj)
-          {:template template
-           :args args})))))
+         (merge ht/layer-chart)
+         (update-in [::ht/defaults :LAYER]
+                    (comp vec conj)
+                    (assoc template
+                           ::ht/defaults (merge {:VALDATA valdata-from-dataset
+                                                 :DFMT {:type "csv"}}
+                                                args)))))))
 
 
 (delay
@@ -251,7 +210,7 @@
       (layer line-layer
              {:MSIZE 4
               :MCOLOR "brown"})
-      ((mm/lift tc/random 20))))
+      (update-data tc/random 20)))
 
 
 (defn layer-point
@@ -279,10 +238,10 @@
                    :MSIZE 4
                    :MCOLOR "brown"})))
 
-
 (def smooth-stat
-  (fn [{:as context
-        :keys [template args]}]
+  (fn [{:as args
+        :keys [hana/data]}]
+    (prn [:args args])
     (let [[Y X X-predictors grouping-columns] (map args [:Y :X :X-predictors :hana/grouping-columns])
           predictors (or X-predictors [X])
           predictions-fn (fn [dataset]
@@ -314,10 +273,11 @@
                                  (tc/add-or-replace-column Y predictions-fn)
                                  tc/ungroup)
                              (-> dataset
-                                 (tc/add-or-replace-column Y predictions-fn))))]
-      (-> context
-          (update :metamorph/data update-data-fn)))))
-
+                                 (tc/add-or-replace-column Y predictions-fn))))
+          new-data (update-data-fn @data)]
+      (prn [:data @data
+            :new-data new-data])
+      new-data)))
 
 
 (defn layer-smooth
@@ -325,13 +285,14 @@
    (layer-smooth context {}))
   ([context args]
    (layer context
-          line-layer
-          (merge {:hana/stat smooth-stat}
-                 args))))
+          line-chart
+          (assoc args
+                 :hana/stat smooth-stat))))
 
 
 (delay
   (-> (toydata/iris-ds)
+      (tc/select-columns [:sepal_width :sepal_length])
       (plot {:X :sepal_width
              :Y :sepal_length})
       layer-point
