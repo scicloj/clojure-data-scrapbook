@@ -36,7 +36,6 @@
           (ds/write! path))
       (slurp path))))
 
-
 (delay
   (-> {:x (range 4)
        :y (repeatedly 4 rand)}
@@ -135,6 +134,7 @@
       kind/vega-lite))
 
 
+
 (defn svg-rendered [vega-lite-template]
   (assoc vega-lite-template
          :usermeta
@@ -147,9 +147,10 @@
 (def point-layer ht/point-layer)
 (def line-layer ht/line-layer)
 
-(defn make-vega-lite [& args]
-  (->> args
-       (apply hc/xform)
+
+(defn make-vega-lite [template]
+  (->> template
+       hc/xform
        kind/vega-lite))
 
 (defn valdata-from-dataset [{:as args
@@ -160,19 +161,40 @@
      (stat args)
      @data)))
 
+(defn base
+  ([dataset-or-template]
+   (base dataset-or-template {}))
+  ([dataset-or-template subs]
+   (if (tc/dataset? dataset-or-template)
+     ;; a dataest
+     (base dataset-or-template
+           view-base
+           subs)
+     ;; a template
+     (-> dataset-or-template
+         (update ::ht/defaults merge subs)
+         (assoc :kindly/f #'make-vega-lite)
+         kind/fn)))
+  ([dataset template subs]
+   (-> template
+       (update ::ht/defaults merge {:VALDATA valdata-from-dataset
+                                    :DFMT {:type "csv"}
+                                    :hana/data (->WrappedValue dataset)})
+       (base subs))))
 
-(defn plot
-  ([dataset args]
-   (plot dataset
-         view-base
-         args))
-  ([dataset template args]
-   (kind/fn (merge template
-                   {:kindly/f #'make-vega-lite
-                    ::ht/defaults (merge {:VALDATA valdata-from-dataset
-                                          :DFMT {:type "csv"}
-                                          :hana/data (->WrappedValue dataset)}
-                                         args)}))))
+
+(defn plot [& args]
+  (->> args
+       (apply base)
+       make))
+
+(delay
+  (-> (toydata/iris-ds)
+      (base point-chart
+            {:X :sepal_width
+             :Y :sepal_length
+             :MSIZE 200})))
+
 
 (delay
   (-> (toydata/iris-ds)
@@ -185,7 +207,7 @@
 (defn layer
   ([context template args]
    (if (tc/dataset? context)
-     (layer (plot context {})
+     (layer (base context {})
             template
             args)
      ;; else - the context is already a template
@@ -201,7 +223,7 @@
 
 (delay
   (-> (toydata/iris-ds)
-      (plot {:TITLE "dummy"
+      (base {:TITLE "dummy"
              :MCOLOR "green"
              :X :sepal_width
              :Y :sepal_length})
@@ -211,6 +233,24 @@
              {:MSIZE 4
               :MCOLOR "brown"})
       (update-data tc/random 20)))
+
+
+
+(delay
+  (-> (toydata/iris-ds)
+      (base {:TITLE "dummy"
+             :MCOLOR "green"
+             :X :sepal_width
+
+             :Y :sepal_length})
+      (layer point-layer
+             {:MSIZE 100})
+      (layer line-layer
+             {:MSIZE 4
+              :MCOLOR "brown"})
+      (update-data tc/random 20)
+      plot
+      (assoc :background "lightgrey")))
 
 
 (defn layer-point
@@ -228,7 +268,7 @@
 
 (delay
   (-> (toydata/iris-ds)
-      (plot {:TITLE "dummy"
+      (base {:TITLE "dummy"
              :MCOLOR "green"})
       (layer-point {:X :sepal_width
                     :Y :sepal_length
@@ -290,14 +330,14 @@
 (delay
   (-> (toydata/iris-ds)
       (tc/select-columns [:sepal_width :sepal_length])
-      (plot {:X :sepal_width
+      (base {:X :sepal_width
              :Y :sepal_length})
       layer-point
       layer-smooth))
 
 (delay
   (-> (toydata/iris-ds)
-      (plot {:X :sepal_width
+      (base {:X :sepal_width
              :Y :sepal_length
              :COLOR "species"
              :hana/grouping-columns [:species]})
@@ -311,7 +351,7 @@
       (tc/map-columns :relative-time
                       [:sepal_length]
                       #(if % "Past" "Future"))
-      (plot {:X :sepal_width
+      (base {:X :sepal_width
              :Y :sepal_length
              :COLOR "relative-time"})
       layer-point
@@ -320,7 +360,7 @@
 
 (delay
   (-> (toydata/iris-ds)
-      (plot {:X :sepal_width
+      (base {:X :sepal_width
              :Y :sepal_length})
       layer-point
       (layer-smooth {:X-predictors [:petal_width
