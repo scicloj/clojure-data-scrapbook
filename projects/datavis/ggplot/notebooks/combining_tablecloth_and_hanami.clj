@@ -161,6 +161,10 @@
      (stat args)
      @data)))
 
+(def default-extenstions
+  {:VALDATA valdata-from-dataset
+   :DFMT {:type "csv"}})
+
 (defn base
   ([dataset-or-template]
    (base dataset-or-template {}))
@@ -177,9 +181,9 @@
          kind/fn)))
   ([dataset template subs]
    (-> template
-       (update ::ht/defaults merge {:VALDATA valdata-from-dataset
-                                    :DFMT {:type "csv"}
-                                    :hana/data (->WrappedValue dataset)})
+       (update ::ht/defaults merge
+               default-extenstions
+               {:hana/data (->WrappedValue dataset)})
        (base subs))))
 
 
@@ -205,20 +209,19 @@
 
 
 (defn layer
-  ([context template args]
+  ([context template subs]
    (if (tc/dataset? context)
      (layer (base context {})
             template
-            args)
+            subs)
      ;; else - the context is already a template
      (-> context
          (merge ht/layer-chart)
          (update-in [::ht/defaults :LAYER]
                     (comp vec conj)
                     (assoc template
-                           ::ht/defaults (merge {:VALDATA valdata-from-dataset
-                                                 :DFMT {:type "csv"}}
-                                                args)))))))
+                           ::ht/defaults (merge default-extenstions
+                                                subs)))))))
 
 
 (delay
@@ -281,7 +284,8 @@
 (def smooth-stat
   (fn [{:as args
         :keys [hana/data]}]
-    (let [[Y X X-predictors grouping-columns] (map args [:Y :X :X-predictors :hana/group])
+    (let [[Y X X-predictors group] (map args [:Y :X :X-predictors :hana/group])
+
           predictors (or X-predictors [X])
           predictions-fn (fn [dataset]
                            (let [nonmissing-Y (-> dataset
@@ -306,9 +310,9 @@
                                      (ml/predict model)
                                      (get Y))))))
           update-data-fn (fn [dataset]
-                           (if grouping-columns
+                           (if group
                              (-> dataset
-                                 (tc/group-by grouping-columns)
+                                 (tc/group-by group)
                                  (tc/add-or-replace-column Y predictions-fn)
                                  tc/ungroup)
                              (-> dataset
