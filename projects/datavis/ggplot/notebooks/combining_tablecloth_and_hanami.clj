@@ -241,7 +241,6 @@
 (def smooth-stat
   (fn [{:as args
         :keys [hana/data]}]
-    (prn [:args args])
     (let [[Y X X-predictors grouping-columns] (map args [:Y :X :X-predictors :hana/grouping-columns])
           predictors (or X-predictors [X])
           predictions-fn (fn [dataset]
@@ -275,8 +274,6 @@
                              (-> dataset
                                  (tc/add-or-replace-column Y predictions-fn))))
           new-data (update-data-fn @data)]
-      (prn [:data @data
-            :new-data new-data])
       new-data)))
 
 
@@ -328,8 +325,3 @@
       layer-point
       (layer-smooth {:X-predictors [:petal_width
                                     :petal_length]})))
-
-
-
-
-;; TODO: grouped-dataset, facets, hconcat, vconcat
