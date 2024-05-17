@@ -281,7 +281,7 @@
 (def smooth-stat
   (fn [{:as args
         :keys [hana/data]}]
-    (let [[Y X X-predictors grouping-columns] (map args [:Y :X :X-predictors :hana/grouping-columns])
+    (let [[Y X X-predictors grouping-columns] (map args [:Y :X :X-predictors :hana/group])
           predictors (or X-predictors [X])
           predictions-fn (fn [dataset]
                            (let [nonmissing-Y (-> dataset
@@ -340,7 +340,7 @@
       (base {:X :sepal_width
              :Y :sepal_length
              :COLOR "species"
-             :hana/grouping-columns [:species]})
+             :hana/group [:species]})
       layer-point
       layer-smooth))
 
