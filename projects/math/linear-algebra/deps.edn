@@ -1,0 +1,5 @@
+{:deps {uncomplicate/neanderthal {:mvn/version "0.49.1"}
+        org.bytedeco/mkl$linux-x86_64-redist {:mvn/version "2024.0-1.5.10"}
+        org.scicloj/noj {:mvn/version "1-alpha34"}
+        org.scicloj/clay {:mvn/version "2-beta10"}}
+ :paths ["src" "notebooks"]}
