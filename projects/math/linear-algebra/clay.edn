@@ -1,0 +1,4 @@
+{:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
+               :branch "main"}
+ :quarto {:title "An intro to Linear Algebra"
+          :author "Daniel Slutsky"}}
