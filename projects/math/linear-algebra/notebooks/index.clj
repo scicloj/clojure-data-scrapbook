@@ -9,11 +9,11 @@
              [vect-math :refer [mul]]
              [native :refer [dv dge fge]]
              [opencl :as cl :refer [clv]]
-             [random :refer [rand-uniform!]]]
+             [random :refer [rand-uniform!]]
+             [math :refer [cos sin sqrt]]]
             [scicloj.kindly.v4.kind :as kind]
             [aerial.hanami.common :as hc]
             [aerial.hanami.templates :as ht]))
-
 
 
 
@@ -34,15 +34,6 @@
        [31 4 5]
        [1 4 1]])
  (dv [3 1 4]))
-
-
-
-
-
-
-
-
-
 
 
 
@@ -86,6 +77,9 @@
 
 (plot-vs [v1 v2])
 
+(plot-vs [(dv [-1 2])
+          (dv [1 -3])])
+
 (def m1 (dge 2 2))
 (copy! (dv 1 0) (row m1 0))
 (copy! (dv 0 2) (row m1 1))
@@ -119,7 +113,7 @@ m1
                    :yscale {:domain ydomain}}))]
        [:div {:style {:display "inline-block"
                       :vertical-align "middle"}}
-        [:h1 "------>"]]
+        [:h1 [:big [:big ">"]]]]
        [:div {:style {:display "inline-block"}}
         (kind/vega-lite
          (plot-vs new-vs
@@ -325,3 +319,107 @@ m2
 
 (mm (rescale-y 2)
     (rot 0.2))
+
+
+(kind/plotly
+ {:data [{:z (for [x (range 100)]
+               (for [y (range 100)]
+                 (+ (* x 2)
+                    (* y 3))))
+          :type :surface}]})
+
+
+(kind/plotly
+ {:data [{:z (for [x (range 100)]
+               (for [y (range 100)]
+                 (+ (* x 2)
+                    (* y 3 (/ (- 100 x) 100)))))
+          :type :surface}]})
+
+(kind/plotly
+ {:data [{:z (for [x (range 100)]
+               (for [y (range 100)]
+                 (+ (* (sqrt x) 2)
+                    (* (sqrt y) 3))))
+          :type :surface}]})
+
+
+(kind/plotly
+ {:data [{:y (for [x (range 100)]
+               (* (sqrt x) 2))
+          :type :line}]})
+
+
+
+
+
+(let [initial-state (dv [20 40])
+      transition (dge [[9/10 1/10]
+                       [1/10 9/10]])]
+  (mv transition
+      initial-state))
+
+(let [initial-state (dv [20 40])
+      transition (dge [[9/10 1/10]
+                       [1/10 9/10]])]
+  (mv transition
+      (mv transition
+          initial-state)))
+
+(let [initial-state (dv [20 40])
+      transition (dge [[9/10 1/10]
+                       [1/10 9/10]])]
+  (mv (mm transition
+          transition)
+      initial-state))
+
+(defn square-mm [m] (mm m m))
+
+
+(let [initial-state (dv [20 40])
+      transition (dge [[9/10 1/10]
+                       [1/10 9/10]])]
+  ((->> square-mm
+        (repeat 3)
+        (apply comp))
+   transition))
+
+
+
+
+(let [initial-state (dv (repeat 5 1/5))
+      transition (dge [[9/10 1/10 0 0 0]
+                       [0 9/10 1/10 0 0]
+                       [0 0 9/10 1/10 0]
+                       [0 0 0 9/10 1/10]
+                       [1/20 0 1/20 0 9/10]])]
+  (mv ((->> square-mm
+            (repeat 10)
+            (apply comp))
+       transition)
+      initial-state))
+
+
+
+
+(kind/cytoscape
+ {:elements {:nodes (for [i (range 5)]
+                      {:data {:id i}})
+             :edges (concat (for [i (range 4)]
+                              {:data {:source i :target (inc i)}})
+                            [{:data {:source 4 :target 0}}
+                             {:data {:source 4 :target 2}}])}
+  :style [{:selector :edge
+           :style {:targetArrowShape :triangle
+                   :curveStyle :bezier
+                   :width 10}}
+          {:selector :node
+           :css {:content "data(id)"}}]
+  :layout {:name :grid}})
+
+
+(dge (for [i (range 100)]
+       (for [j (range 100)]
+         (if (or (-> i inc (= j))
+                 (-> i dec (= j)))
+           0.5 0))))
