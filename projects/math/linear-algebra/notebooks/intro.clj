@@ -256,13 +256,7 @@ mm is defined so that matrix multiplication would correspond to composition of t
                    :width 10}}
           {:selector :node
            :css {:content "data(id)"}}]
-  :layout {:name :grid}})
-
-
-
-
-
-
+  :layout {:name :circle}})
 
 
 
