@@ -212,19 +212,15 @@
                 initial-state-2]))
 
 
-mv: 2x2 matrix, 2 vector ---> 2 vector
+;; mv: 2x2 matrix, 2 vector ---> 2 vector
 
-mm: 2x2 matrix, 2x2 matrix ---> 2x2 matrix
-
-
-mv is defined so that it would fit our "expected tomorrow formula" -- just a way to implement any linear transformation
-linear transformations 2 dim --> 2 dim are implemented by 2x2
-
-mm is defined so that matrix multiplication would correspond to composition of transformations
+;; mm: 2x2 matrix, 2x2 matrix ---> 2x2 matrix
 
 
+;; mv is defined so that it would fit our "expected tomorrow formula" -- just a way to implement any linear transformation
+;; linear transformations 2 dim --> 2 dim are implemented by 2x2
 
-
+;; mm is defined so that matrix multiplication would correspond to composition of transformations
 
 
 

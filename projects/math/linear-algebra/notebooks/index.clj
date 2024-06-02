@@ -16,27 +16,6 @@
             [aerial.hanami.templates :as ht]))
 
 
-
-(dv [1 39 17 31])
-
-
-
-
-(dge [[1 34 4]
-      [31 4 5]
-      [1 4 1]])
-
-
-
-
-(mv
- (dge [[1 34 4]
-       [31 4 5]
-       [1 4 1]])
- (dv [3 1 4]))
-
-
-
 (def origin (dv 0 0))
 
 (def v1 (dv 1 2))
