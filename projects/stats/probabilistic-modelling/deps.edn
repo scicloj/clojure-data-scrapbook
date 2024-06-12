@@ -1,0 +1,5 @@
+{:deps {org.scicloj/cmdstan-clj {:mvn/version "1-alpha1"}
+        generateme/inferme {:mvn/version "0.0.3-SNAPSHOT"}
+        io.github.inferenceql/gen.clj {:git/url "https://github.com/probcomp/gen.clj"
+                                       :sha "bb68e04e067e771e709a46f544cffda5c9818e57"}}
+ :paths ["src" "notebooks"]}
