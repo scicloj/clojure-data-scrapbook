@@ -23,14 +23,14 @@
          slurp
          kind/html)))
 
-
 (defn pyplot
   "Takes a function plotting using mathplotlib.pyplot, and returns a showable (SVG) plot"
   [plotting-function]
   (let [_ (matplotlib.pyplot/clf)
         fig (matplotlib.pyplot/figure)
         agg-canvas (matplotlib.backends.backend_agg/FigureCanvasAgg fig)
-        path (:path (tempfiles/tempfile! ".svg"))]
+        path (.getAbsolutePath
+              (java.io.File/createTempFile "plot-" ".svg"))]
     (plotting-function)
     (py. agg-canvas "draw")
     (matplotlib.pyplot/savefig path)
