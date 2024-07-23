@@ -36,4 +36,5 @@
     (matplotlib.pyplot/savefig path)
     (-> path
         slurp
-        kind/html)))
+        vector
+        (with-meta {:kindly/kind :kind/html}))))
