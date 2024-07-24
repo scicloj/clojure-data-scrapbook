@@ -4,4 +4,4 @@ The only dependency necessary is the [Libpython-clj](https://github.com/clj-pyth
 
 The implementation is inspired by the [Parens for Pyplot](https://gigasquidsoftware.com/blog/2020/01/18/parens-for-pyplot/) tutorial by Carin Meier from Jan 2020. It has been part of the [Noj](https://scicloj.github.io/noj/) library till version `1-alpha34`, but as of July 2024, we are looking for a better place to host these functions, possibly Libpyton-clj itself.
 
-
+[rendered notebook](https://scicloj.github.io/clojure-data-scrapbook/projects/datavis/python/plotting/) 👈
