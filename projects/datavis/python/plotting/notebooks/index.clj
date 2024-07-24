@@ -61,7 +61,7 @@
 
 ;; ## Examples
 
-;; From the Parens for Python blogpost:
+;; From the Parens for Pyplot blogpost:
 
 (require-python '[numpy :as np])
 
