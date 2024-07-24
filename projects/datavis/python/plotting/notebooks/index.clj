@@ -26,12 +26,11 @@
 (defmacro with-pyplot
   "Takes forms with mathplotlib.pyplot and returns a showable (SVG) plot.
   E.g.:
-  ```
+
   (with-pyplot
     (matplotlib.pyplot/plot
      [1 2 3]
      [1 4 9]))
-  ```
   "
   [& forms]
   `(let [_# (matplotlib.pyplot/clf)
@@ -52,12 +51,11 @@
 (defn pyplot
   "Takes a function plotting using mathplotlib.pyplot, and returns a showable (SVG) plot.
   E.g.:
-  ```
+
   (pyplot
     #(matplotlib.pyplot/plot
       [1 2 3]
       [1 4 9]))
-  ```
   "
   [plotting-function]
   (with-pyplot
