@@ -1,52 +1,76 @@
+;; This notebook demonstrates a self-contained workflow for visualizing Python plots in current Clojure tooling using the [Kindly](https://scicloj.github.io/kindly/) convention.
+
+;; The only dependency necessary is the [Libpython-clj bridge](https://github.com/clj-python/libpython-clj). Some Kindly-compatible tool is needed to make the visualization visible. This was rendered using [Clay](https://scicloj.github.io/clay/) as an extra dev dependency.
+
+;; The implementation is inspired by the [Parens for Pyplot](https://gigasquidsoftware.com/blog/2020/01/18/parens-for-pyplot/) tutorial by Carin Meier from Jan 2020. It has been part of the [Noj](https://scicloj.github.io/noj/) library till version `1-alpha34`, but as of July 2024, we are looking for a better place to host these functions, possibly Libpyton-clj itself.
+
+;; ## Setup
+
+;; Let us require the relevant namespaces from Libpyton-clj:
+
 (ns index
   (:require [libpython-clj2.require :refer [require-python]]
-            [libpython-clj2.python :refer [py. py.. py.-] :as py]
-            [clojure.math :as math]))
+            [libpython-clj2.python :refer [py. py.. py.-] :as py]))
 
-
-;; Inspiration: the [Parens for Pyplot](http://gigasquidsoftware.com/blog/2020/01/18/parens-for-pyplot/) blog post at Squid's blog.
+;; Now we can require the relevant Python modules from [Matplotlib](https://matplotlib.org/):
 
 (require-python 'matplotlib.pyplot
-                'matplotlib.backends.backend_agg
-                'numpy)
+                'matplotlib.backends.backend_agg)
+
+;; ## Implementation
+
+(defn- svg-file->kindly
+  "Takes an SVG file path and turns it into
+  a Clojure value that can be displayed in Kindly-compatible tools:
+  a vector holding the SVG string, annotated with the relevant metadata."
+  [path]
+  (-> path
+      slurp
+      vector
+      (with-meta {:kindly/kind :kind/html})))
 
 (defmacro with-pyplot
-  "Takes forms with mathplotlib.pyplot and returns a showable (SVG) plot."
-  [& body]
+  "Takes forms with mathplotlib.pyplot and returns a showable (SVG) plot.
+  E.g.:
+  ```
+  (with-pyplot
+    (matplotlib.pyplot/plot
+     [1 2 3]
+     [1 4 9]))
+  ```
+  "
+  [& forms]
   `(let [_# (matplotlib.pyplot/clf)
          fig# (matplotlib.pyplot/figure)
          agg-canvas# (matplotlib.backends.backend_agg/FigureCanvasAgg fig#)
          path# (.getAbsolutePath
                 (java.io.File/createTempFile "plot-" ".svg"))]
-     ~(cons 'do body)
+     ~(cons 'do forms)
      (py. agg-canvas# "draw")
      (matplotlib.pyplot/savefig path#)
-     (-> path#
-         slurp
-         vector
-         (with-meta {:kindly/kind :kind/html}))))
+     (svg-file->kindly path#)))
 
 (defn pyplot
-  "Takes a function plotting using mathplotlib.pyplot, and returns a showable (SVG) plot"
+  "Takes a function plotting using mathplotlib.pyplot, and returns a showable (SVG) plot.
+  E.g.:
+  ```
+  (pyplot
+    #(matplotlib.pyplot/plot
+      [1 2 3]
+      [1 4 9]))
+  ```
+  "
   [plotting-function]
-  (let [_ (matplotlib.pyplot/clf)
-        fig (matplotlib.pyplot/figure)
-        agg-canvas (matplotlib.backends.backend_agg/FigureCanvasAgg fig)
-        path (.getAbsolutePath
-              (java.io.File/createTempFile "plot-" ".svg"))]
-    (plotting-function)
-    (py. agg-canvas "draw")
-    (matplotlib.pyplot/savefig path)
-    (-> path
-        slurp
-        vector
-        (with-meta {:kindly/kind :kind/html}))))
+  (with-pyplot
+    (plotting-function)))
 
+;; ## Examples
 
+;; From the Parens for Python blogpost:
 
-(require-python '[numpy :as np]
-                '[numpy.random :as np.random]
-                '[seaborn :as sns])
+(require-python '[numpy :as np])
+
+(require '[clojure.math :as math])
 
 (def sine-data
   (let [x (range 0 (* 3 np/pi) 0.1)]
@@ -63,7 +87,10 @@
    (:x sine-data)
    (:y sine-data)))
 
-;; https://seaborn.pydata.org/tutorial/introduction
+;; From the [Seaborn intro](https://seaborn.pydata.org/tutorial/introduction):
+
+(require-python '[seaborn :as sns])
+
 (let [tips (sns/load_dataset "tips")]
   (sns/set_theme)
   (pyplot
