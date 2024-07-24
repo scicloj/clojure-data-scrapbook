@@ -1,3 +1,7 @@
+(load-file "../../../../header.edn")
+
+;; ---------------
+
 ;; This notebook demonstrates a self-contained workflow for visualizing Python plots in current Clojure tooling using the [Kindly](https://scicloj.github.io/kindly/) convention.
 
 ;; The only dependency necessary is the [Libpython-clj](https://github.com/clj-python/libpython-clj) bridge. Some Kindly-compatible tool is needed to make the visualization visible. This was rendered using [Clay](https://scicloj.github.io/clay/) as an extra dev dependency.
