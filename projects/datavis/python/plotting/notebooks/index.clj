@@ -19,16 +19,6 @@
 
 ;; ## Implementation
 
-(defn- svg-file->kindly
-  "Takes an SVG file path and turns it into
-  a Clojure value that can be displayed in Kindly-compatible tools:
-  a vector holding the SVG string, annotated with the relevant metadata."
-  [path]
-  (-> path
-      slurp
-      vector
-      (with-meta {:kindly/kind :kind/html})))
-
 (defmacro with-pyplot
   "Takes forms with mathplotlib.pyplot and returns a showable (SVG) plot.
   E.g.:
@@ -48,7 +38,12 @@
      ~(cons 'do forms)
      (py. agg-canvas# "draw")
      (matplotlib.pyplot/savefig path#)
-     (svg-file->kindly path#)))
+     ;; Take the SVG file path and turn it into
+     ;; a Clojure value that can be displayed in Kindly-compatible tools.
+     (-> path#
+         slurp
+         vector
+         (with-meta {:kindly/kind :kind/html}))))
 
 (defn pyplot
   "Takes a function plotting using mathplotlib.pyplot, and returns a showable (SVG) plot.
