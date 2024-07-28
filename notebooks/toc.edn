@@ -64,7 +64,7 @@
   :source-path "https://github.com/scicloj/python-data-science-handbook-in-clojure/"
   :tags [:ml :datavis :tablecloth :hanami :metamorph.ml :noj :draft]}
  {:created "2024-07-24"
-  :updated "2024-07-24"
+  :updated "2024-07-28"
   :title "Displaying Python Plots in Clojure"
   :url "projects/datavis/python/plotting/index.html"
   :source-path "projects/datavis/python/plotting/"
