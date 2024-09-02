@@ -34,7 +34,7 @@ jobs:
 
     - name: clean docs
       run: |
-         rm -rf docs/
+         rm -rf docs/*.*
 
     - name: combine all tutorials
       uses: tzafrirben/babashka-docker-action@v1.1
