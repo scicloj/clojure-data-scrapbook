@@ -58,6 +58,10 @@ jobs:
 
     - name: Execute clojure code
       run: clojure -e "(+ 1 1)"
+
+    - name: check permisison
+      run: |
+         ls -la docs/
       
     - name: create main index
       run: clojure notebooks/render_index.clj 
