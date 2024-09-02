@@ -30,7 +30,7 @@ jobs:
 
                
 
-    - name: clean docs/
+    - name: clean docs
       run: |
          rm -rf docs/
 
@@ -38,6 +38,11 @@ jobs:
       uses: tzafrirben/babashka-docker-action@v1.1
       with:
          bb_src: make_docs.clj
+
+    - name: create main index
+      run: |
+          clj notebooks/render_index.clj 
+
 
     - name: check git status
       run: |
