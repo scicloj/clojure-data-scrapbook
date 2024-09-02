@@ -35,4 +35,14 @@ jobs:
       uses: tzafrirben/babashka-docker-action@v1.1
       with:
          bb_src: make_docs.clj
+
+    - name: push updated docs
+    - run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git status
+          git add .
+          git commit -m "generated"
+          git push         
                          
