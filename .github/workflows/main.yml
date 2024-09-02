@@ -60,7 +60,7 @@ jobs:
       run: clojure -e "(+ 1 1)"
 
     - name: fix permisions
-      run: chmod o+w docs/
+      run: sudo chmod o+w docs/
 
 
     - name: check permisison
