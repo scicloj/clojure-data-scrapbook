@@ -62,10 +62,9 @@ jobs:
     - name: check permisison
       run: |
          ls -la docs/
-         ls -la docs/notebooks/
       
     - name: create main index
-      run: clojure notebooks/render_index.clj 
+      run: sudo clojure notebooks/render_index.clj 
 
 
     - name: check git status
