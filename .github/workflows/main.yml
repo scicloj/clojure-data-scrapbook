@@ -56,19 +56,16 @@ jobs:
           # to always provision the latest version
           cli: 1.10.1.693 
 
-    - name: Execute clojure code
-      run: clojure -e "(+ 1 1)"
 
     - name: fix permisions
       run: sudo chmod o+w docs/
-
 
     - name: check permisison
       run: |
          ls -la docs/
       
     - name: create main index
-      run: sudo clojure notebooks/render_index.clj 
+      run: clojure notebooks/render_index.clj 
 
 
     - name: check git status
