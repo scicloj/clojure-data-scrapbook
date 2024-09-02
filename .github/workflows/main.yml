@@ -1,0 +1,22 @@
+name: Clojure CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run make ci-build in dev container
+      uses: devcontainers/ci@v0.3
+      with:    
+               subFolder: projects/math/linear-algebra
+               push: never
+               runCmd: clj -X:test
