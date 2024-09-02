@@ -37,6 +37,13 @@ jobs:
                push: never
                runCmd: clj -Adev notebooks/render.clj
                
+    - name: render tutorial in projects/datavis/ggplot
+      uses: devcontainers/ci@v0.3
+      with:    
+               subFolder: projects/datavis/ggplot
+               push: never
+               runCmd: clj -Adev notebooks/render.clj
+
 
     - name: clean docs
       run: |
