@@ -17,6 +17,6 @@ jobs:
     - name: Run make ci-build in dev container
       uses: devcontainers/ci@v0.3
       with:    
-               subFolder: projects/math/linear-algebra
+               subFolder: projects/noj
                push: never
-               runCmd: clj -X:test
+               runCmd: clj notebooks/render.clj
