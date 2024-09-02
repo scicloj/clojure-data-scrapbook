@@ -20,3 +20,10 @@ jobs:
                subFolder: projects/noj
                push: never
                runCmd: clj notebooks/render.clj
+
+
+    - name: make docs            
+      uses: tzafrirben/babashka-docker-action@v1.1
+      with:
+         bb_src: make_docs.clj
+                         
