@@ -8,21 +8,23 @@ on:
 
 jobs:
 
-  build:
+  render-tutorials:
 
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
-    - name: Run make ci-build in dev container
+    
+    - name: render tutorial in projects/noj
       uses: devcontainers/ci@v0.3
       with:    
                subFolder: projects/noj
                push: never
                runCmd: clj notebooks/render.clj
 
+               
 
-    - name: make docs            
+
+    - name: combine all tutorials
       uses: tzafrirben/babashka-docker-action@v1.1
       with:
          bb_src: make_docs.clj
