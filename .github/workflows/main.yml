@@ -30,6 +30,12 @@ jobs:
     #            push: never
     #            runCmd: clj notebooks/render.clj
 
+    - name: render tutorial in projects/datavis/python/plotting
+      uses: devcontainers/ci@v0.3
+      with:    
+               subFolder: projects/datavis/python/plotting
+               push: never
+               runCmd: clj -Adev notebooks/render.clj
                
 
     - name: clean docs
