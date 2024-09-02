@@ -56,7 +56,7 @@ jobs:
 
     - name: create main index
       run: |
-          clj notebooks/render_index.clj 
+          clojure notebooks/render_index.clj 
 
 
     - name: check git status
