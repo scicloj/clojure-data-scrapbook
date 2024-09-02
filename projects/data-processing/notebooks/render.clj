@@ -4,7 +4,8 @@
 (clay/make! {:format [:quarto :html]
              :base-source-path "notebooks"
              :source-path ["index.clj"
-                           "many_json_lines.clj"]
+                           ;"many_json_lines.clj" fails for me with index-out-of-bounds exception
+                           ]
              :base-target-path "docs"
              :book {:title "Data processing"}
              :clean-up-target-dir true
