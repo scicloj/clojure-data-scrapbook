@@ -1,12 +1,36 @@
 ;; # Creating Echarts Plots with Javascript transpiled using `std.lang` - DRAFT
 
-;; We will mimic Echarts' [example](https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline)
+;; Very often, data visualization with [Apache Echarts](https://echarts.apache.org/en/index.html)
+;; can be done with nothing more than a JSON data structure.
+;; This can be conveniently created from plain Clojure data structures,
+;; and is supported by the [Kindly](https://scicloj.github.io/kindly/) standard
+;; as demonstrated in the *(link might change)*
+;; [Data Visualizations with Echarts](https://scicloj.github.io/noj/noj_book.echarts.html)
+;; tutorial at the Noj book.
+
+;; However, sometimes a little bit of Javascript is necessary to define
+;; custom functions to be used in Echarts.
+;; For example, a function to determine the symbol size in a scatterplot.
+
+;; One way to achieve that in Clojure is by transpiling Clojure forms
+;; into Javascript, which can be done using
+;; [std.lang](https://clojureverse.org/t/std-lang-a-universal-template-transpiler/).
+
+;; In this tutorial, will demonstrate that by mimicking Echarts'
+;; [life expectency timeline example](https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline)
 ;; inspired by the famous [Gapminder](https://en.wikipedia.org/wiki/Gapminder_Foundation)
 ;; demo by [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling).
 
 ^{:kindly/kind kind/video
   :kindly/hide-code true}
 {:youtube-id "hVimVzgtD6w"}
+
+;; ## Goal
+
+;; We wish to propose the idea of using std.lang transpilation
+;; in certain visualization kinds of the Kindly standard.
+
+;; This notebook can serve as a self-contained example to support the discussion.
 
 ;; ## Setup
 
@@ -21,6 +45,12 @@
             [tablecloth.api :as tc]))
 
 ;; ## Data
+
+;; The Echarts tutorial above uses
+;; [a pre-tailored dataset](https://echarts.apache.org/examples/data/asset/data/life-expectancy.json)
+;; to make the visualization easy.
+
+;; Here, we prefer starting from scratch with an official dataset.
 
 ;; We will use the data that powers the chart
 ;; ["Life expectancy vs. GDP per capita"](https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita?v=1&csvType=full&useColumnShortNames=false)
@@ -39,25 +69,46 @@
                         (>= year 1950)))))
 
 
+;; As in the Echarts example, we will focus on the following countries:
+
+(def countries
+  #{"China","United States","United Kingdom","Russia","India","France","Germany","Australia","Canada","Cuba","Finland","Iceland","Japan","North Korea","South Korea","New Zealand","Norway","Poland","Turkey"})
+
 ;; ## Transpiling JS
 
-;; We will use this convenience function:
+;; We will use `std.lang` through the following convenience function:
 
-(defn js [& forms]
-  ((l/ptr :js)
-   (cons 'do forms)))
+(defn js
+  "Transpile the given Clojure `forms` to Javascript code
+  to be run inside a closure."
+  [& forms]
+  (format
+   "(function () {\n%s\n})();"
+   ((l/ptr :js)
+    (cons 'do forms))))
 
 ;; For example:
 
-(js '(var x 9)
-    '(+ x 11))
+(kind/code
+ (js '(var x 9)
+     '(+ x 11)))
 
-;; We will generate echarts plots using 
+;; ## Generating echarts plots
 
-(defn echarts [data form]
+;; The following function will allow us to generate Ecahrts
+;; plots with transpiled Javascript.
+
+(defn echarts
+  "Given some `data` and a Clojure `form`, transpile both of them
+  to Javascript and return a Hiccup block of a data visualization.
+  The transpiled `form` is used as the Echarts specification, that
+  is a data structure which may contain functions if necessary.
+  The transpiled `data` is kept in a Javascript variable `data`,
+  which can be referred to from the Echarts specification."
+  [data form]
   (kind/hiccup
    [:div
-    {:style {:height "800px"
+    {:style {:height "400px"
              :width "100%"}}
     [:script
      (js (list 'var 'data data)
@@ -66,9 +117,28 @@
          (list 'myChart.setOption form))]]
    {:html/deps [:echarts]}))
 
-(def countries
-  #{"China","United States","United Kingdom","Russia","India","France","Germany","Australia","Canada","Cuba","Finland","Iceland","Japan","North Korea","South Korea","New Zealand","Norway","Poland","Turkey"})
+;; For example, here is a basic scatterplot.
+;; Note how we refer to the data from the plot specification.
 
+(let [data (-> raw-data
+               (tc/select-rows #(and (-> % :year (= 1990))
+                                     (-> % :entity countries)))
+               (tc/select-columns [:gdp-per-capita
+                                   :life-expectency
+                                   :population
+                                   :entity])
+               tc/drop-missing
+               tc/rows)]
+  (echarts data
+           {:tooltip {}
+            :xAxis {:type "log"}
+            :yAxis {}
+            :series [{:type "scatter"
+                      :data 'data}]}))
+
+;; We may make the scatterplot more informative by using
+;; the symbol size and colour.
+;; Note how we define the symbol size as a Javascript function.
 
 (let [data (-> raw-data
                (tc/select-rows #(and (-> % :year (= 1990))
@@ -99,9 +169,15 @@
                                          return))}]}))
 
 
+;; ## The Gapminder example
+;; Now let us create a simple version of the Gapminder animation.
+;; Note that the animation itself can be specified using plain data.
+;; The transpiled fuctions were necessary just for little details
+;; such as tooltip and symbol size.
+
 (let [data-by-year (-> raw-data
                        (tc/select-rows #(and (-> % :entity countries)
-                                             (-> % :year (>= 1970))))
+                                             (-> % :year (>= 1990))))
                        (tc/map-columns :year [:year] str)
                        (tc/select-columns [:gdp-per-capita
                                            :life-expectency
