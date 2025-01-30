@@ -1,0 +1,4 @@
+{:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
+               :branch "main"}
+ :base-target-path "temp"
+ :title "Creating Echarts plots with transpiled Javascript - DRAFT"}

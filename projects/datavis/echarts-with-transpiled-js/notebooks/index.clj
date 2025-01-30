@@ -1,4 +1,6 @@
-;; # Creating Echarts Plots with Javascript transpiled using `std.lang` - DRAFT
+(load-file "../../../header.edn")
+
+;; ---------------
 
 ;; Very often, data visualization with [Apache Echarts](https://echarts.apache.org/en/index.html)
 ;; can be done with nothing more than a JSON data structure.
@@ -21,13 +23,13 @@
 ;; inspired by the famous [Gapminder](https://en.wikipedia.org/wiki/Gapminder_Foundation)
 ;; demo by [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling).
 
-^{:kindly/kind kind/video
+^{:kindly/kind :kind/video
   :kindly/hide-code true}
 {:youtube-id "hVimVzgtD6w"}
 
 ;; ## Goal
 
-;; We wish to propose the idea of using std.lang transpilation
+;; We wish to propose the idea of using `std.lang` transpilation
 ;; in certain visualization kinds of the Kindly standard.
 
 ;; This notebook can serve as a self-contained example to support the discussion.
@@ -120,53 +122,59 @@
 ;; For example, here is a basic scatterplot.
 ;; Note how we refer to the data from the plot specification.
 
-(let [data (-> raw-data
-               (tc/select-rows #(and (-> % :year (= 1990))
-                                     (-> % :entity countries)))
-               (tc/select-columns [:gdp-per-capita
-                                   :life-expectency
-                                   :population
-                                   :entity])
-               tc/drop-missing
-               tc/rows)]
-  (echarts data
-           {:tooltip {}
-            :xAxis {:type "log"}
-            :yAxis {}
-            :series [{:type "scatter"
-                      :data 'data}]}))
+(-> raw-data
+    (tc/select-rows #(and (-> % :year (= 1990))
+                          (-> % :entity countries)))
+    (tc/select-columns [:gdp-per-capita
+                        :life-expectency
+                        :population
+                        :entity])
+    tc/drop-missing
+    tc/rows
+    (echarts
+     {:tooltip {}
+      :xAxis {:type "log"}
+      :yAxis {}
+      :series [{:type "scatter"
+                :data 'data}]}))
 
 ;; We may make the scatterplot more informative by using
 ;; the symbol size and colour.
 ;; Note how we define the symbol size as a Javascript function.
 
-(let [data (-> raw-data
-               (tc/select-rows #(and (-> % :year (= 1990))
-                                     (-> % :entity countries)))
-               (tc/select-columns [:gdp-per-capita
-                                   :life-expectency
-                                   :population
-                                   :entity])
-               tc/drop-missing)]
-  (echarts (tc/rows data)
-           {:tooltip {}
-            :xAxis {:type "log"}
-            :yAxis {}
-            :visualMap [{:show false
-                         :dimension 3
-                         :categories (vec (distinct (:entity data)))
-                         :inRange {:color
-                                   (vec
-                                    (#(concat % %)
-                                     ["#51689b", "#ce5c5c", "#fbc357", "#8fbf8f", "#659d84", "#fb8e6a", "#c77288", "#786090", "#91c4c5", "#6890ba"]))}}]
-            :series [{:type "scatter"
-                      :data 'data
-                      :symbolSize '(fn [data]
-                                     (-> data
-                                         (. [2])
-                                         Math.sqrt
-                                         (/ 500)
-                                         return))}]}))
+(-> raw-data
+    (tc/select-rows #(and (-> % :year (= 1990))
+                          (-> % :entity countries)))
+    (tc/select-columns [:gdp-per-capita
+                        :life-expectency
+                        :population
+                        :entity])
+    tc/drop-missing
+    tc/rows
+    (echarts
+     {:tooltip {}
+      :xAxis {:type "log"}
+      :yAxis {}
+      :visualMap [{:show false
+                   :dimension 3
+                   :categories (vec countries)
+                   :inRange {:color
+                             ;; Here we are following the practice of the
+                             ;; original Echarts example in duplicating
+                             ;; the list of colours.
+                             ;; We do not understand why this is necessary
+                             ;; yet.
+                             (vec
+                              (#(concat % %)
+                               ["#51689b", "#ce5c5c", "#fbc357", "#8fbf8f", "#659d84", "#fb8e6a", "#c77288", "#786090", "#91c4c5", "#6890ba"]))}}]
+      :series [{:type "scatter"
+                :data 'data
+                :symbolSize '(fn [data]
+                               (-> data
+                                   (. [2])
+                                   Math.sqrt
+                                   (/ 500)
+                                   return))}]}))
 
 
 ;; ## The Gapminder example
@@ -187,56 +195,56 @@
                        tc/drop-missing
                        (tc/group-by :year {:result-type :as-map})
                        (->> (into (sorted-map))))]
-  (echarts (-> data-by-year
-               (update-vals tc/rows))
-           {:timeline {:autoPlay true
-                       :orient "vertical"
-                       :symbol "none"
-                       :playInterval 1000
-                       :left nil :rifht 0 :top 20 :bottom 20
-                       :width 44 :height nil
-                       :data (vec (keys data-by-year))}
-            :tooltip {:formatter '(fn [obj]
-                                    (-> obj
-                                        (. value)
-                                        (. [3])
-                                        return))}
-            :xAxis {:name "GDP per capita"
-                    :nameGap 25
-                    :nameLocation "middle"
-                    :axisLabel {:formatter "${value}"}
-                    :nameTextStyle {:fontSize 18}
-                    :type "log"
-                    :min 300
-                    :max 100000}
-            :yAxis {:name "life expectency"
-                    :nameGap 25
-                    :nameLocation "middle"
-                    :nameTextStyle {:fontSize 18}
-                    :min 0
-                    :max 80}
-            :visualMap [{:show false
-                         :dimension 3
-                         :categories (->> data-by-year
-                                          vals
-                                          first
-                                          :entity
-                                          distinct
-                                          sort
-                                          (mapv str))
-                         :inRange {:color
-                                   (vec
-                                    (#(concat % %)
-                                     ["#51689b", "#ce5c5c", "#fbc357", "#8fbf8f", "#659d84", "#fb8e6a", "#c77288", "#786090", "#91c4c5", "#6890ba"]))}}]
-            :options (->> data-by-year
-                          keys
-                          (mapv
-                           (fn [year]
-                             {:series [{:type "scatter"
-                                        :data (list '. 'data [(str year)])
-                                        :symbolSize '(fn [data]
-                                                       (-> data
-                                                           (. [2])
-                                                           Math.sqrt
-                                                           (/ 500)
-                                                           return))}]})))}))
+  (-> data-by-year
+      (update-vals tc/rows)
+      (echarts
+       {:timeline {:autoPlay true
+                   :orient "vertical"
+                   :symbol "none"
+                   :playInterval 1000
+                   :left nil :rifht 0 :top 20 :bottom 20
+                   :width 44 :height nil
+                   :data (vec (keys data-by-year))}
+        :tooltip {:formatter '(fn [obj]
+                                (-> obj
+                                    (. value)
+                                    (. [3])
+                                    return))}
+        :xAxis {:name "GDP per capita"
+                :nameGap 25
+                :nameLocation "middle"
+                :axisLabel {:formatter "${value}"}
+                :nameTextStyle {:fontSize 18}
+                :type "log"
+                :min 300
+                :max 100000}
+        :yAxis {:name "life expectency"
+                :nameGap 25
+                :nameLocation "middle"
+                :nameTextStyle {:fontSize 18}
+                :min 0
+                :max 80}
+        :visualMap [{:show false
+                     :dimension 3
+                     :categories (vec countries)
+                     :inRange {:color
+                               ;; Here we are following the practice of the
+                               ;; original Echarts example in duplicating
+                               ;; the list of colours.
+                               ;; We do not understand why this is necessary
+                               ;; yet.
+                               (vec
+                                (#(concat % %)
+                                 ["#51689b", "#ce5c5c", "#fbc357", "#8fbf8f", "#659d84", "#fb8e6a", "#c77288", "#786090", "#91c4c5", "#6890ba"]))}}]
+        :options (->> data-by-year
+                      keys
+                      (mapv
+                       (fn [year]
+                         {:series [{:type "scatter"
+                                    :data (list '. 'data [(str year)])
+                                    :symbolSize '(fn [data]
+                                                   (-> data
+                                                       (. [2])
+                                                       Math.sqrt
+                                                       (/ 500)
+                                                       return))}]})))})))
