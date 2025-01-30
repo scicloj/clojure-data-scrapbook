@@ -75,4 +75,10 @@
   :url "https://scicloj.github.io/noj-v2-getting-started"
   :source-path "https://github.com/scicloj/noj-v2-getting-started"
   :youtube-ids  ["vnvcKtHHMVQ"]
-  :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :clay :calva]}]
+  :tags [:tablecloth :tableplot :plotly :datavis :noj :clay :cider]}
+ {:created "2025-01-31"
+  :updated "2025-01-31"
+  :title "Creating Echarts plots with transpiled Javascript - DRAFT"
+  :url "projects/datavis/echarts-with-transpiled-js/index.html"
+  :source-path "projects/datavis/echarts-with-transpiled-js/"
+  :tags [:tablecloth :kindly :std.lang :echarts :datavis]}]
