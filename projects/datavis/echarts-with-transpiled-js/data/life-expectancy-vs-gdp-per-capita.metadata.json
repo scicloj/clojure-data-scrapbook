@@ -1,0 +1,99 @@
+{
+  "chart": {
+    "title": "Life expectancy vs. GDP per capita",
+    "subtitle": "The [period life expectancy](#dod:period-life-expectancy) at birth, in a given year. GDP per capita is adjusted for inflation and differences in the cost of living between countries.",
+    "note": "GDP per capita is expressed in [international-$](#dod:int_dollar_abbreviation) at 2011 prices.",
+    "citation": "UN WPP (2024); HMD (2024); Zijdeman et al. (2015); Riley (2005); Bolt and van Zanden - Maddison Project Database 2023",
+    "originalChartUrl": "https://ourworldindata.org/grapher/life-expectancy-vs-gdp-per-capita?v=1&csvType=full&useColumnShortNames=false",
+    "selection": []
+  },
+  "columns": {
+    "Period life expectancy at birth - Sex: total - Age: 0": {
+      "titleShort": "Life expectancy at birth",
+      "titleLong": "Life expectancy at birth - Various sources – period tables",
+      "descriptionShort": "The period life expectancy at birth, in a given year.",
+      "descriptionKey": [
+        "Period life expectancy is a metric that summarizes death rates across all age groups in one particular year.",
+        "For a given year, it represents the remaining average lifespan for a hypothetical group of people, if they experienced the same age-specific death rates throughout the rest of their lives as the age-specific death rates seen in that particular year.",
+        "Prior to 1950, we use HMD (2024) data combined with Zijdeman (2015). From 1950 onwards, we use UN WPP (2024) data. For old regional data, we use Riley (2005) estimates."
+      ],
+      "shortUnit": "years",
+      "unit": "years",
+      "timespan": "1543-2023",
+      "type": "Numeric",
+      "owidVariableId": 1002268,
+      "shortName": "life_expectancy_0__sex_total__age_0",
+      "lastUpdated": "2024-12-03",
+      "nextUpdate": "2025-12-03",
+      "citationShort": "UN WPP (2024); HMD (2024); Zijdeman et al. (2015); Riley (2005) – with minor processing by Our World in Data",
+      "citationLong": "UN WPP (2024); HMD (2024); Zijdeman et al. (2015); Riley (2005) – with minor processing by Our World in Data. “Life expectancy at birth – Various sources – period tables” [dataset]. Human Mortality Database, “Human Mortality Database”; United Nations, “World Population Prospects”; Zijdeman et al., “Life Expectancy at birth 2”; James C. Riley, “Estimates of Regional and Global Life Expectancy, 1800-2001” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1002268.metadata.json"
+    },
+    "GDP per capita": {
+      "titleShort": "GDP per capita",
+      "titleLong": "GDP per capita - Maddison Project Database – Historical data",
+      "descriptionShort": "This data is adjusted for inflation and differences in the cost of living between countries.",
+      "descriptionKey": [
+        "The Maddison Project Database is based on the work of many researchers who have produced estimates of economic growth and population for individual countries. The full list of sources for this historical data is given in [the original dataset](https://dataverse.nl/api/access/datafile/421302).",
+        "This GDP per capita indicator provides information on economic growth and income levels in the very long run. Some country estimates are available as far back as 1 CE and regional estimates as far back as 1820 CE.",
+        "This data is adjusted for inflation and for differences in the cost of living between countries.",
+        "This data is expressed in [international-$](#dod:int_dollar_abbreviation) at 2011 prices, using a combination of 2011 and 1990 PPPs for historical data.",
+        "Time series for former countries and territories are calculated forward in time by estimating values based on their last official borders.",
+        "For more regularly updated estimates of GDP per capita, see the [World Bank's indicator](https://ourworldindata.org/grapher/gdp-per-capita-worldbank)."
+      ],
+      "shortUnit": "$",
+      "unit": "international-$ in 2011 prices",
+      "timespan": "1-2022",
+      "type": "Numeric",
+      "owidVariableId": 900793,
+      "shortName": "gdp_per_capita",
+      "lastUpdated": "2024-04-26",
+      "nextUpdate": "2027-04-22",
+      "citationShort": "Bolt and van Zanden - Maddison Project Database 2023 – with minor processing by Our World in Data",
+      "citationLong": "Bolt and van Zanden - Maddison Project Database 2023 – with minor processing by Our World in Data. “GDP per capita – Maddison Project Database – Historical data” [dataset]. Bolt and van Zanden, “Maddison Project Database 2023” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900793.metadata.json"
+    },
+    "900793-annotations": {
+      "titleShort": "900793-annotations",
+      "titleLong": "900793-annotations",
+      "type": "SeriesAnnotation",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “900793-annotations” [dataset].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/undefined.metadata.json"
+    },
+    "Population (historical)": {
+      "titleShort": "Population (historical)",
+      "titleLong": "Population (historical)",
+      "descriptionShort": "Population by country, available from 10,000 BCE to 2023, based on data and estimates from different sources.",
+      "descriptionKey": [],
+      "descriptionProcessing": "The population data is constructed by combining data from multiple sources:\n\n- 10,000 BCE - 1799: Historical estimates by HYDE (v3.3).\n\n- 1800 - 1949: Historical estimates by Gapminder (v7).\n\n- 1950-2023: Population records by the UN World Population Prospects (2024 revision).",
+      "shortUnit": "",
+      "unit": "people",
+      "timespan": "-10000-2023",
+      "type": "Integer",
+      "owidVariableId": 953903,
+      "shortName": "population_historical",
+      "lastUpdated": "2024-07-15",
+      "nextUpdate": "2026-07-15",
+      "citationShort": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data",
+      "citationLong": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data. “Population (historical)” [dataset]. PBL Netherlands Environmental Assessment Agency, “History Database of the Global Environment 3.3”; Gapminder, “Population v7”; United Nations, “World Population Prospects”; Gapminder, “Systema Globalis” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/953903.metadata.json"
+    },
+    "World regions according to OWID": {
+      "titleShort": "World regions according to OWID",
+      "titleLong": "World regions according to OWID",
+      "descriptionKey": [],
+      "unit": "",
+      "timespan": "2023-2023",
+      "type": "Continent",
+      "owidVariableId": 900801,
+      "shortName": "owid_region",
+      "lastUpdated": "2023-01-01",
+      "citationShort": "Our World in Data – processed by Our World in Data",
+      "citationLong": "Our World in Data – processed by Our World in Data. “World regions according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-01-29",
+  "activeFilters": {}
+}
