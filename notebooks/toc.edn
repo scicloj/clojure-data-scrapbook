@@ -52,7 +52,7 @@
   :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite]}
  {:created "2024-03-30"
   :updated "2024-03-31"
-  :title "Noj getting started - from raw data to a blog post"
+  :title "(OBSOLEVE) Noj v1 getting started - from raw data to a blog post"
   :url "https://scicloj.github.io/noj-getting-started"
   :source-path "https://github.com/scicloj/noj-getting-started"
   :youtube-ids  ["5GluhUmMlpM"]
@@ -68,4 +68,11 @@
   :title "Displaying Python Plots in Clojure"
   :url "projects/datavis/python/plotting/index.html"
   :source-path "projects/datavis/python/plotting/"
-  :tags [:datavis :python]}]
+  :tags [:datavis :python]}
+ {:created "2025-01-25"
+  :updated "2025-01-25"
+  :title "Noj v2 getting started - from raw data to a blog post"
+  :url "https://scicloj.github.io/noj-v2-getting-started"
+  :source-path "https://github.com/scicloj/noj-v2-getting-started"
+  :youtube-ids  ["vnvcKtHHMVQ"]
+  :tags [:geography :gis :tablecloth :datavis :noj :hanami :vega-lite :clay :calva]}]
