@@ -1,0 +1,2 @@
+{:deps {org.scicloj/noj {:mvn/version "2-beta5.1"}
+        xyz.zcaudate/std.lang {:mvn/version "4.0.4"}}}
