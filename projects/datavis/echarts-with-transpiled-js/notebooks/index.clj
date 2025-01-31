@@ -267,6 +267,11 @@
 ;; different situations where we need to write a little Javascript from
 ;; within a Clojure namespace.
 
+;; We also hope to explore other cases where `std.lang` could be helpful
+;; in interactivg with other languages. Note that it provides not only
+;; a transpiler but also mutliple ways to connect to runtimes, which we haven't
+;; used here.
+
 ;; We will keep discussing these directions at the
 ;; [#kindly-dev channel](https://clojurians.zulipchat.com/#narrow/channel/454856-kindly-dev/)
 ;; of the [Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/).
