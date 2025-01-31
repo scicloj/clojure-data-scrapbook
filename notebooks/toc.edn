@@ -78,7 +78,7 @@
   :tags [:tablecloth :tableplot :plotly :datavis :noj :clay :cider]}
  {:created "2025-01-31"
   :updated "2025-01-31"
-  :title "Creating Echarts plots with transpiled Javascript - DRAFT"
+  :title "Creating Echarts plots with transpiled Javascript"
   :url "projects/datavis/echarts-with-transpiled-js/index.html"
   :source-path "projects/datavis/echarts-with-transpiled-js/"
   :tags [:tablecloth :kindly :std.lang :echarts :datavis]}]
