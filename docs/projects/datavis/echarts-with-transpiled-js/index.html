@@ -1676,7 +1676,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="epilogue" class="level2">
 <h2 class="anchored" data-anchor-id="epilogue">Epilogue</h2>
 <p>The practice we demonstrated here can potenially be handy in a few different situations where we need to write a little Javascript from within a Clojure namespace.</p>
-<p>We may derive a few insights regarding our typical ECharts practices: * Echarts can express animations using <code>:timeline</code> and <code>:options</code> without needing Reagent. * In some other situations, some Javascript is needed, but we could generate it with a transpiler (rather than running the Scittle interpreter in the browser, as we usually do). * It may be useful to separate the data definition from the actual plot specification, and this can be done in Javascript as well. * We need to come up with a consistent API to allow for these practices conveniently.</p>
+<p>We may derive a few insights regarding our typical ECharts practices:</p>
+<ul>
+<li>Echarts can express animations using <code>:timeline</code> and <code>:options</code> without needing Reagent.</li>
+<li>In some other situations, some Javascript is needed, but we could generate it with a transpiler (rather than running the Scittle interpreter in the browser, as we usually do).</li>
+<li>It may be useful to separate the data definition from the actual plot specification, and this can be done in Javascript as well.</li>
+<li>We need to come up with a consistent API to allow for these practices conveniently.</li>
+</ul>
 <p>We also hope to explore other cases where <code>std.lang</code> could be helpful in interactivg with other languages. Note that it provides not only a transpiler but also mutliple ways to connect to runtimes, which we haven’t used here.</p>
 <p>We will keep discussing these directions at the <a href="https://clojurians.zulipchat.com/#narrow/channel/454856-kindly-dev/">#kindly-dev channel</a> of the <a href="https://scicloj.github.io/docs/community/chat/">Clojurians Zulip chat</a>.</p>
 <div style="background-color:grey;height:2px;width:100%;"></div>
