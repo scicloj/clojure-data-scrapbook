@@ -269,6 +269,12 @@
 ;; different situations where we need to write a little Javascript from
 ;; within a Clojure namespace.
 
+;; We may derive a few insights regarding our typical ECharts practices:
+;; * Echarts can express animations using `:timeline` and `:options` without needing Reagent.
+;; * In some other situations, some Javascript is needed, but we could generate it with a transpiler (rather than running the Scittle interpreter in the browser, as we usually do).
+;; * It may be useful to separate the data definition from the actual plot specification, and this can be done in Javascript as well.
+;; * We need to come up with a consistent API to allow for these practices conveniently.
+
 ;; We also hope to explore other cases where `std.lang` could be helpful
 ;; in interactivg with other languages. Note that it provides not only
 ;; a transpiler but also mutliple ways to connect to runtimes, which we haven't
