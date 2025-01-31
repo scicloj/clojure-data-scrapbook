@@ -150,7 +150,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>This can be conveniently created from plain Clojure data structures, and is supported by the <a href="https://scicloj.github.io/kindly/">Kindly</a> standard. See, for example, the <em>(link might change)</em> <a href="https://scicloj.github.io/noj/noj_book.echarts.html">Data Visualizations with Echarts</a> tutorial at the Noj book.</p>
 <p>However, sometimes a little bit of Javascript is necessary to define <strong>custom functions</strong> to be used in Echarts. For example, a function to determine the symbol size in a scatterplot.</p>
 <p>One way to achieve that in Clojure is by <strong>transpiling Clojure forms</strong> into Javascript. This can be done using <a href="https://clojureverse.org/t/std-lang-a-universal-template-transpiler/">std.lang</a>, a universal transpiler from Clojure to many languages.</p>
-<p>In this tutorial, will demonstrate that by mimicking Echarts’ <a href="https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline">life expectency timeline example</a> inspired by the famous <a href="https://en.wikipedia.org/wiki/Gapminder_Foundation">Gapminder</a> demo by <a href="https://en.wikipedia.org/wiki/Hans_Rosling">Hans Rosling</a>.</p>
+<p>In this tutorial, will demonstrate that by mimicking Echarts’ <a href="https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline">life expectancy timeline example</a> inspired by the famous <a href="https://en.wikipedia.org/wiki/Gapminder_Foundation">Gapminder</a> demo by <a href="https://en.wikipedia.org/wiki/Hans_Rosling">Hans Rosling</a>.</p>
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/hVimVzgtD6w"></iframe>
 <section id="goal" class="level2">
 <h2 class="anchored" data-anchor-id="goal">Goal</h2>
@@ -179,10 +179,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>      tc/dataset</span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>      (tc/rename-columns {<span class="st">"Entity"</span> <span class="at">:entity</span></span>
 <span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>                          <span class="st">"Year"</span> <span class="at">:year</span></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>                          <span class="st">"Period life expectancy at birth - Sex: total - Age: 0"</span> <span class="at">:life-expectency</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>                          <span class="st">"Period life expectancy at birth - Sex: total - Age: 0"</span> <span class="at">:life-expectancy</span></span>
 <span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>                          <span class="st">"GDP per capita"</span> <span class="at">:gdp-per-capita</span></span>
 <span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>                          <span class="st">"Population (historical)"</span> <span class="at">:population</span>})</span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>      (tc/select-columns [<span class="at">:entity</span> <span class="at">:year</span> <span class="at">:life-expectency</span> <span class="at">:gdp-per-capita</span> <span class="at">:population</span>])</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>      (tc/select-columns [<span class="at">:entity</span> <span class="at">:year</span> <span class="at">:life-expectancy</span> <span class="at">:gdp-per-capita</span> <span class="at">:population</span>])</span>
 <span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>      (tc/select-rows (<span class="kw">fn</span> [{<span class="at">:keys</span> [entity year]}]</span>
 <span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>                        (<span class="kw">&gt;=</span> year <span class="dv">1950</span>)))))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
@@ -248,7 +248,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>    (tc/select-rows #(<span class="kw">and</span> (<span class="kw">-&gt;</span> <span class="va">%</span> <span class="at">:year</span> (<span class="kw">=</span> <span class="dv">1990</span>))</span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>                          (<span class="kw">-&gt;</span> <span class="va">%</span> <span class="at">:entity</span> countries)))</span>
 <span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>    (tc/select-columns [<span class="at">:gdp-per-capita</span></span>
-<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:life-expectency</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:life-expectancy</span></span>
 <span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:population</span></span>
 <span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:entity</span>])</span>
 <span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>    tc/drop-missing</span>
@@ -296,7 +296,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>    (tc/select-rows #(<span class="kw">and</span> (<span class="kw">-&gt;</span> <span class="va">%</span> <span class="at">:year</span> (<span class="kw">=</span> <span class="dv">1990</span>))</span>
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>                          (<span class="kw">-&gt;</span> <span class="va">%</span> <span class="at">:entity</span> countries)))</span>
 <span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>    (tc/select-columns [<span class="at">:gdp-per-capita</span></span>
-<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:life-expectency</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:life-expectancy</span></span>
 <span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:population</span></span>
 <span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>                        <span class="at">:entity</span>])</span>
 <span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>    tc/drop-missing</span>
@@ -425,7 +425,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>                                             (<span class="kw">-&gt;</span> <span class="va">%</span> <span class="at">:year</span> (<span class="kw">&gt;=</span> <span class="dv">1990</span>))))</span>
 <span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>                       (tc/map-columns <span class="at">:year</span> [<span class="at">:year</span>] <span class="kw">str</span>)</span>
 <span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>                       (tc/select-columns [<span class="at">:gdp-per-capita</span></span>
-<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>                                           <span class="at">:life-expectency</span></span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>                                           <span class="at">:life-expectancy</span></span>
 <span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>                                           <span class="at">:population</span></span>
 <span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a>                                           <span class="at">:entity</span></span>
 <span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a>                                           <span class="at">:year</span>])</span>
@@ -455,7 +455,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb10-33"><a href="#cb10-33" aria-hidden="true" tabindex="-1"></a>                <span class="at">:type</span> <span class="st">"log"</span></span>
 <span id="cb10-34"><a href="#cb10-34" aria-hidden="true" tabindex="-1"></a>                <span class="at">:min</span> <span class="dv">300</span></span>
 <span id="cb10-35"><a href="#cb10-35" aria-hidden="true" tabindex="-1"></a>                <span class="at">:max</span> <span class="dv">100000</span>}</span>
-<span id="cb10-36"><a href="#cb10-36" aria-hidden="true" tabindex="-1"></a>        <span class="at">:yAxis</span> {<span class="at">:name</span> <span class="st">"life expectency"</span></span>
+<span id="cb10-36"><a href="#cb10-36" aria-hidden="true" tabindex="-1"></a>        <span class="at">:yAxis</span> {<span class="at">:name</span> <span class="st">"life expectancy"</span></span>
 <span id="cb10-37"><a href="#cb10-37" aria-hidden="true" tabindex="-1"></a>                <span class="at">:nameGap</span> <span class="dv">25</span></span>
 <span id="cb10-38"><a href="#cb10-38" aria-hidden="true" tabindex="-1"></a>                <span class="at">:nameLocation</span> <span class="st">"middle"</span></span>
 <span id="cb10-39"><a href="#cb10-39" aria-hidden="true" tabindex="-1"></a>                <span class="at">:nameTextStyle</span> {<span class="at">:fontSize</span> <span class="dv">18</span>}</span>
@@ -1247,7 +1247,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
         "max":100000
       },
     "yAxis":{
-        "name":"life expectency",
+        "name":"life expectancy",
         "nameGap":25,
         "nameLocation":"middle",
         "nameTextStyle":{"fontSize":18},
