@@ -270,6 +270,7 @@
 ;; within a Clojure namespace.
 
 ;; We may derive a few insights regarding our typical ECharts practices:
+
 ;; * Echarts can express animations using `:timeline` and `:options` without needing Reagent.
 ;; * In some other situations, some Javascript is needed, but we could generate it with a transpiler (rather than running the Scittle interpreter in the browser, as we usually do).
 ;; * It may be useful to separate the data definition from the actual plot specification, and this can be done in Javascript as well.
