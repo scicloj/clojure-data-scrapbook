@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Creating Echarts plots with transpiled Javascript - DRAFT</title>
+<title>Creating Echarts plots with transpiled Javascript</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,9 +82,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#goal" id="toc-goal" class="nav-link active" data-scroll-target="#goal">Goal</a></li>
   <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup">Setup</a></li>
   <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
-  <li><a href="#transpiling-js" id="toc-transpiling-js" class="nav-link" data-scroll-target="#transpiling-js">Transpiling JS</a></li>
+  <li><a href="#transpiling-to-javascript" id="toc-transpiling-to-javascript" class="nav-link" data-scroll-target="#transpiling-to-javascript">Transpiling to Javascript</a></li>
   <li><a href="#generating-echarts-plots" id="toc-generating-echarts-plots" class="nav-link" data-scroll-target="#generating-echarts-plots">Generating echarts plots</a></li>
   <li><a href="#the-gapminder-example" id="toc-the-gapminder-example" class="nav-link" data-scroll-target="#the-gapminder-example">The Gapminder example</a></li>
+  <li><a href="#epilogue" id="toc-epilogue" class="nav-link" data-scroll-target="#epilogue">Epilogue</a></li>
   </ul>
 </nav>
 </div>
@@ -92,7 +93,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Creating Echarts plots with transpiled Javascript - DRAFT</h1>
+<h1 class="title">Creating Echarts plots with transpiled Javascript</h1>
 </div>
 
 
@@ -124,9 +125,27 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="index_files/echarts2.js" type="text/javascript"></script>
 <a href="https://scicloj.github.io/clojure-data-scrapbook/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40"></a><table><tbody><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-scrapbook/">Clojure Data Scrapbook</a>.</td></tr></tbody></table>
 <hr>
-<p>Very often, data visualization with <a href="https://echarts.apache.org/en/index.html">Apache Echarts</a> can be done with nothing more than a JSON data structure. This can be conveniently created from plain Clojure data structures, and is supported by the <a href="https://scicloj.github.io/kindly/">Kindly</a> standard as demonstrated in the <em>(link might change)</em> <a href="https://scicloj.github.io/noj/noj_book.echarts.html">Data Visualizations with Echarts</a> tutorial at the Noj book.</p>
-<p>However, sometimes a little bit of Javascript is necessary to define custom functions to be used in Echarts. For example, a function to determine the symbol size in a scatterplot.</p>
-<p>One way to achieve that in Clojure is by transpiling Clojure forms into Javascript, which can be done using <a href="https://clojureverse.org/t/std-lang-a-universal-template-transpiler/">std.lang</a>.</p>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>Authors</td>
+<td>Chriz Zheng, Daniel Slutsky</td>
+</tr>
+<tr class="even">
+<td>Initial version</td>
+<td>2025-01-31</td>
+</tr>
+<tr class="odd">
+<td>Last update</td>
+<td>2025-01-31</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>Very often, data visualization with <a href="https://echarts.apache.org/en/index.html">Apache Echarts</a> can be done with nothing more than a JSON data structure.</p>
+<p>This can be conveniently created from plain Clojure data structures, and is supported by the <a href="https://scicloj.github.io/kindly/">Kindly</a> standard. See, for example, the <em>(link might change)</em> <a href="https://scicloj.github.io/noj/noj_book.echarts.html">Data Visualizations with Echarts</a> tutorial at the Noj book.</p>
+<p>However, sometimes a little bit of Javascript is necessary to define <strong>custom functions</strong> to be used in Echarts. For example, a function to determine the symbol size in a scatterplot.</p>
+<p>One way to achieve that in Clojure is by <strong>transpiling Clojure forms</strong> into Javascript. This can be done using <a href="https://clojureverse.org/t/std-lang-a-universal-template-transpiler/">std.lang</a>, a universal transpiler from Clojure to many languages.</p>
 <p>In this tutorial, will demonstrate that by mimicking Echarts’ <a href="https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline">life expectency timeline example</a> inspired by the famous <a href="https://en.wikipedia.org/wiki/Gapminder_Foundation">Gapminder</a> demo by <a href="https://en.wikipedia.org/wiki/Hans_Rosling">Hans Rosling</a>.</p>
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/hVimVzgtD6w"></iframe>
 <section id="goal" class="level2">
@@ -168,9 +187,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  #{<span class="st">"China"</span>,<span class="st">"United States"</span>,<span class="st">"United Kingdom"</span>,<span class="st">"Russia"</span>,<span class="st">"India"</span>,<span class="st">"France"</span>,<span class="st">"Germany"</span>,<span class="st">"Australia"</span>,<span class="st">"Canada"</span>,<span class="st">"Cuba"</span>,<span class="st">"Finland"</span>,<span class="st">"Iceland"</span>,<span class="st">"Japan"</span>,<span class="st">"North Korea"</span>,<span class="st">"South Korea"</span>,<span class="st">"New Zealand"</span>,<span class="st">"Norway"</span>,<span class="st">"Poland"</span>,<span class="st">"Turkey"</span>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
-<section id="transpiling-js" class="level2">
-<h2 class="anchored" data-anchor-id="transpiling-js">Transpiling JS</h2>
-<p>We will use <code>std.lang</code> through the following convenience function:</p>
+<section id="transpiling-to-javascript" class="level2">
+<h2 class="anchored" data-anchor-id="transpiling-to-javascript">Transpiling to Javascript</h2>
+<p>We will use <code>std.lang</code> through the following convenience function. This form of usage is handy in our case, but may need more thinking before genearlizing.</p>
 <div class="sourceClojure">
 <div class="sourceCode" id="cb4"><pre class="sourceCode clojure code-with-copy"><code class="sourceCode clojure"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>(<span class="bu">defn</span><span class="fu"> js</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Transpile the given Clojure `forms` to Javascript code</span></span>
@@ -1647,6 +1666,12 @@ myChart.setOption({
   ]
 });
 })();</script></div>
+</section>
+<section id="epilogue" class="level2">
+<h2 class="anchored" data-anchor-id="epilogue">Epilogue</h2>
+<p>The practice we demonstrated here can potenially be handy in a few different situations where we need to write a little Javascript from within a Clojure namespace.</p>
+<p>We also hope to explore other cases where <code>std.lang</code> could be helpful in interactivg with other languages. Note that it provides not only a transpiler but also mutliple ways to connect to runtimes, which we haven’t used here.</p>
+<p>We will keep discussing these directions at the <a href="https://clojurians.zulipchat.com/#narrow/channel/454856-kindly-dev/">#kindly-dev channel</a> of the <a href="https://scicloj.github.io/docs/community/chat/">Clojurians Zulip chat</a>.</p>
 <div style="background-color:grey;height:2px;width:100%;"></div>
 <div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/datavis/echarts-with-transpiled-js/notebooks/index.clj">projects/datavis/echarts-with-transpiled-js/notebooks/index.clj</a></small></small></pre></div>
 </section>
