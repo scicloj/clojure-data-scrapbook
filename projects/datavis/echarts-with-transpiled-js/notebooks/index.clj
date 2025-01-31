@@ -54,6 +54,7 @@
 (ns index
   (:require [scicloj.kindly.v4.kind :as kind]
             [std.lang :as l]
+            [std.lib :as h]
             [tablecloth.api :as tc]))
 
 ;; ## Data
@@ -96,10 +97,11 @@
   "Transpile the given Clojure `forms` to Javascript code
   to be run inside a closure."
   [& forms]
-  (format
-   "(function () {\n%s\n})();"
-   ((l/ptr :js)
-    (cons 'do forms))))
+  ((l/ptr :js)
+   (h/$ ((:- \(
+             (fn []
+               ~@forms)
+             \))))))
 
 ;; For example:
 
