@@ -29,7 +29,7 @@
 ;; a universal transpiler from Clojure to many languages.
 
 ;; In this tutorial, will demonstrate that by mimicking Echarts'
-;; [life expectency timeline example](https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline)
+;; [life expectancy timeline example](https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline)
 ;; inspired by the famous [Gapminder](https://en.wikipedia.org/wiki/Gapminder_Foundation)
 ;; demo by [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling).
 
@@ -74,10 +74,10 @@
       tc/dataset
       (tc/rename-columns {"Entity" :entity
                           "Year" :year
-                          "Period life expectancy at birth - Sex: total - Age: 0" :life-expectency
+                          "Period life expectancy at birth - Sex: total - Age: 0" :life-expectancy
                           "GDP per capita" :gdp-per-capita
                           "Population (historical)" :population})
-      (tc/select-columns [:entity :year :life-expectency :gdp-per-capita :population])
+      (tc/select-columns [:entity :year :life-expectancy :gdp-per-capita :population])
       (tc/select-rows (fn [{:keys [entity year]}]
                         (>= year 1950)))))
 
@@ -140,7 +140,7 @@
     (tc/select-rows #(and (-> % :year (= 1990))
                           (-> % :entity countries)))
     (tc/select-columns [:gdp-per-capita
-                        :life-expectency
+                        :life-expectancy
                         :population
                         :entity])
     tc/drop-missing
@@ -160,7 +160,7 @@
     (tc/select-rows #(and (-> % :year (= 1990))
                           (-> % :entity countries)))
     (tc/select-columns [:gdp-per-capita
-                        :life-expectency
+                        :life-expectancy
                         :population
                         :entity])
     tc/drop-missing
@@ -202,7 +202,7 @@
                                              (-> % :year (>= 1990))))
                        (tc/map-columns :year [:year] str)
                        (tc/select-columns [:gdp-per-capita
-                                           :life-expectency
+                                           :life-expectancy
                                            :population
                                            :entity
                                            :year])
@@ -232,7 +232,7 @@
                 :type "log"
                 :min 300
                 :max 100000}
-        :yAxis {:name "life expectency"
+        :yAxis {:name "life expectancy"
                 :nameGap 25
                 :nameLocation "middle"
                 :nameTextStyle {:fontSize 18}
