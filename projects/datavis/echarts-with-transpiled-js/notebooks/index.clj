@@ -2,21 +2,31 @@
 
 ;; ---------------
 
+;; |||
+;; |-|-|
+;; |Authors|Chriz Zheng, Daniel Slutsky|
+;; |Initial version|2025-01-31|
+;; |Last update|2025-01-31|
+
+;; ---------------
+
 ;; Very often, data visualization with [Apache Echarts](https://echarts.apache.org/en/index.html)
 ;; can be done with nothing more than a JSON data structure.
+
 ;; This can be conveniently created from plain Clojure data structures,
-;; and is supported by the [Kindly](https://scicloj.github.io/kindly/) standard
-;; as demonstrated in the *(link might change)*
+;; and is supported by the [Kindly](https://scicloj.github.io/kindly/) standard.
+;; See, for example, the *(link might change)*
 ;; [Data Visualizations with Echarts](https://scicloj.github.io/noj/noj_book.echarts.html)
 ;; tutorial at the Noj book.
 
 ;; However, sometimes a little bit of Javascript is necessary to define
-;; custom functions to be used in Echarts.
+;; **custom functions** to be used in Echarts.
 ;; For example, a function to determine the symbol size in a scatterplot.
 
-;; One way to achieve that in Clojure is by transpiling Clojure forms
-;; into Javascript, which can be done using
-;; [std.lang](https://clojureverse.org/t/std-lang-a-universal-template-transpiler/).
+;; One way to achieve that in Clojure is by **transpiling Clojure forms**
+;; into Javascript. This can be done using
+;; [std.lang](https://clojureverse.org/t/std-lang-a-universal-template-transpiler/),
+;; a universal transpiler from Clojure to many languages.
 
 ;; In this tutorial, will demonstrate that by mimicking Echarts'
 ;; [life expectency timeline example](https://echarts.apache.org/examples/en/editor.html?c=scatter-life-expectancy-timeline)
@@ -44,6 +54,7 @@
 (ns index
   (:require [scicloj.kindly.v4.kind :as kind]
             [std.lang :as l]
+            [std.lib :as h]
             [tablecloth.api :as tc]))
 
 ;; ## Data
@@ -76,18 +87,21 @@
 (def countries
   #{"China","United States","United Kingdom","Russia","India","France","Germany","Australia","Canada","Cuba","Finland","Iceland","Japan","North Korea","South Korea","New Zealand","Norway","Poland","Turkey"})
 
-;; ## Transpiling JS
+;; ## Transpiling to Javascript 
 
-;; We will use `std.lang` through the following convenience function:
+;; We will use `std.lang` through the following convenience function.
+;; This form of usage is handy in our case, but may need more thinking
+;; before genearlizing.
 
 (defn js
   "Transpile the given Clojure `forms` to Javascript code
   to be run inside a closure."
   [& forms]
-  (format
-   "(function () {\n%s\n})();"
-   ((l/ptr :js)
-    (cons 'do forms))))
+  ((l/ptr :js)
+   (h/$ ((:- \(
+             (fn []
+               ~@forms)
+             \))))))
 
 ;; For example:
 
@@ -248,3 +262,20 @@
                                                        Math.sqrt
                                                        (/ 500)
                                                        return))}]})))})))
+
+;; ## Epilogue
+
+;; The practice we demonstrated here can potenially be handy in a few
+;; different situations where we need to write a little Javascript from
+;; within a Clojure namespace.
+
+;; We also hope to explore other cases where `std.lang` could be helpful
+;; in interactivg with other languages. Note that it provides not only
+;; a transpiler but also mutliple ways to connect to runtimes, which we haven't
+;; used here.
+
+;; We will keep discussing these directions at the
+;; [#kindly-dev channel](https://clojurians.zulipchat.com/#narrow/channel/454856-kindly-dev/)
+;; of the [Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/).
+
+
