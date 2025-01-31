@@ -1,4 +1,8 @@
 {:remote-repo {:git-url "https://github.com/scicloj/clojure-data-scrapbook"
                :branch "main"}
  :base-target-path "temp"
- :title "Creating Echarts plots with transpiled Javascript"}
+ :quarto {:title "Creating Echarts plots with transpiled Javascript"
+          :include-in-header {:text "<meta property=\"og:image\" content=\"https://scicloj.github.io/sci-cloj-logo-transparent.png\"/>
+<meta property=\"og:title\" content=\"Clojure Data Scrapbook\"/>
+<meta property=\"og:description\" content=\"A collection of community-contributed examples for the emerging Clojure data stack\"/>
+<link rel = \"icon\" href = \"data:,\" />"}}}
